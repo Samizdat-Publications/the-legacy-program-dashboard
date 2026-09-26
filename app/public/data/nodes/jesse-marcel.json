@@ -78,18 +78,30 @@
 {
 "id": "c-ef9208046f",
 "source": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview",
-"sources": [],
+"sources": [
+{
+"id": "n-roswell-report-1995",
+"locator": "reproduces Ramey office photographs and Cavitt interview",
+"title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+}
+],
 "text": "Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-02856cf051",
 "source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
-"sources": [],
+"sources": [
+{
+"id": "t-748a46cf1446",
+"locator": null,
+"title": "interview with Stanton T. Friedman, February 1978"
+}
+],
 "text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c2598b0818",
@@ -97,7 +109,7 @@
 "sources": [],
 "text": "The Air Force's own 1995 and 1997 reports concluded the recovered material was from Project MOGUL balloon trains, directly contradicting Marcel.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:roswell-report-1995) was rejected in review: names two reports; only one is the candidate"
 },
 {
 "id": "c-9a61a1fd4a",
@@ -119,7 +131,7 @@
 "sources": [],
 "text": "Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:roswell-report-1995) was rejected in review: names press release and photographs, not the report; candidate date disagrees"
 },
 {
 "id": "c-d494a510da",
@@ -127,7 +139,7 @@
 "sources": [],
 "text": "Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Compound citation (Friedman's account + Berlitz/Moore 1980 + Marcel's own filmed interviews); no single specific document named."
 },
 {
 "id": "c-6c5847725e",
@@ -486,7 +498,7 @@
 "status": "dead",
 "sub": "Intelligence officer, 509th Bomb Group",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 146 of 1138, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 145 of 1138, score 53). 8 connections, 1 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C3/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

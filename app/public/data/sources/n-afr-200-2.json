@@ -1,21 +1,244 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260521101009/http://www.cufon.org/cufon/afr200-2.htm"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-045c3b844c",
+"locator": "paragraph 8",
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 26 August 1953, paragraph 8, Release of Information",
+"text": "The release restriction is on the face of the 1953 edition, not only the 1954 one. Paragraph 8 provides that raw information may be furnished to a public information officer 'except names of principals, Air Force comments, details of intercept procedures involved, and classified radar data', and that what is releasable ends at 'The fact that the object has been conclusively identified by ATIC as a conventional aerial device or other familiar object and no further evaluation is contemplated.' Identified cases could be discussed publicly; unidentified ones could not.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1cf77ca7fd",
+"locator": null,
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 26 August 1953, four-page release scan",
+"text": "The 1953 edition exists in a readable four-page scan whose face reads 'AIR FORCE REGULATION NO. 200-2 / DEPARTMENT OF THE AIR FORCE / WASHINGTON, 26 AUGUST 1953 / INTELLIGENCE / (Unclassified) Unidentified Flying Objects Reporting (Short Title: UFOB)', marked RESTRICTED / SECURITY INFORMATION and signed 'By Order of the Secretary of the Air Force: N. F. TWINING, Chief of Staff'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1dbf5bcc56",
+"locator": "1954 edition, header",
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 12 Aug 1954, header",
+"text": "AFR 200-2 dated 12 August 1954 superseded the edition of 26 August 1953.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-277dd08765",
+"locator": "paragraph 7",
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 26 August 1953, paragraph 7, Evidence",
+"text": "Paragraph 7 provides that 'All evidence will be forwarded to ATIC', and on materiel directs units to 'Safeguard the materiel carefully to prevent any defacing or alteration which would reduce its value for technical analysis' and to 'Notify ATIC immediately and request shipping instructions'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2df36e1f60",
+"locator": "1953 edition, footnote to title and marginal annotations",
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 26 August 1953, footnote to the title and marginal annotations",
+"text": "Its own footnote establishes the predecessor: 'This Regulation supersedes AFL 200-5, 29 April 1952.' The release copy also carries handwritten annotations 'Sup by AFR 200-2, 12 Aug 54' and 'amended by 200-2A' against paragraph 6.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-61e08318de",
+"locator": "1954 edition, footnote and paragraph text",
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 12 August 1954, footnote and paragraph text",
+"text": "The 1954 edition's own footnote closes the chain: 'This Regulation supersedes AFR 200-2, 26 August 1953, Including Change 200-2A, 2 November 1953.' Its short title changed from UFOB to FLYOBRPT and it added the 4602d AISS to the investigation chain, which the 1953 edition does not name.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-813af5b9cf",
+"locator": "12 Aug 1954 edition",
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 12 Aug 1954",
+"text": "The regulation protects from release the names of principals, intercept and investigation procedures, and classified radar data, and establishes the ADC / 4602d AISS / ATIC reporting and investigation chain.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-eac3d0b2c5",
+"locator": "1954 edition, release of information section",
+"node": "afr-200-2",
+"nodeLabel": "Air Force Regulation 200-2",
+"sourceText": "AFR 200-2, 12 Aug 1954, release of information section",
+"text": "'For those objects which are not explainable, only the fact that ATIC will analyze the data is worthy of release, due to many unknowns involved.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-1d14b45f7e",
+"locator": "12 Aug 1954 edition",
+"node": "atic",
+"nodeLabel": "Air Technical Intelligence Center",
+"sourceText": "AFR 200-2, 12 Aug 1954",
+"text": "Under AFR 200-2 (12 August 1954), ATIC was the terminal analytical authority for unidentified reports after the Air Defense Command and the 4602d Air Intelligence Service Squadron had exhausted identification.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-98e664d9c0",
+"locator": "paragraph 4a",
+"node": "atic",
+"nodeLabel": "Air Technical Intelligence Center",
+"sourceText": "AFR 200-2, 26 August 1953, paragraph 4a, read off the release scan",
+"text": "ATIC's designation as the terminal analytical authority is on the face of the 1953 edition as well as the 1954 one. AFR 200-2 of 26 August 1953, paragraph 4a: 'The Air Technical Intelligence Center (ATIC), Wright-Patterson Air Force Base, Ohio, has been designated the Air Force activity responsible for conducting analysis of information and evidence.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9fed41fdc6",
+"locator": "full text of both editions",
+"node": "atic",
+"nodeLabel": "Air Technical Intelligence Center",
+"sourceText": "AFR 200-2, 26 August 1953 and 12 August 1954, full text of both editions",
+"text": "The claim that AFR 200-2 'routed reports to ATIC rather than to Blue Book' is a category error: Project Blue Book was a project inside ATIC at Wright-Patterson, and the 1953 regulation does not mention Blue Book at all in either edition, because naming ATIC is naming Blue Book's own host.",
+"tier": 1
+}
+],
 "date": "1953",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2"
+},
+"b": {
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+},
+"claimTier": 1,
+"id": "e-0a3b74b36b",
+"label": "ATIC was the terminal analytical authority under the regulation",
+"note": "The regulation routes reports from base level through Air Defense Command and the 4602d Air Intelligence Service Squadron to ATIC at Wright-Patterson for final analysis.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-df88883aa7",
+"label": "AFR 200-2 governed what Blue Book could say publicly",
+"note": "For unexplainable objects, 'only the fact that ATIC will analyze the data is worthy of release'. Every Air Force public statement that unknowns were unimportant was made under a regulation forbidding discussion of them.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "nathan-twining",
+"label": "Nathan F. Twining"
+},
+"b": {
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2"
+},
+"claimTier": 2,
+"id": "e-d55064a259",
+"label": "The 1954 regulation was issued under Twining as Chief of Staff",
+"note": "The officer who wrote in 1947 that the phenomenon was real was Air Force Chief of Staff when the regulation restricting public discussion of unexplained cases was promulgated.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"b": {
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2"
+},
+"claimTier": 3,
+"id": "e-0cc4acb08e",
+"label": "Panel recommendations became binding Air Force regulation",
+"note": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
+"type": "programmatic"
+}
+],
 "era": "0",
 "id": "n-afr-200-2",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "NICAP",
+"listedOn": [
+{
+"cls": "document",
+"id": "afr-200-2",
+"label": "Air Force Regulation 200-2"
+},
+{
+"cls": "institution",
+"id": "atic",
+"label": "Air Technical Intelligence Center"
+}
+],
 "node": {
 "cls": "document",
 "id": "afr-200-2",
 "label": "Air Force Regulation 200-2"
 },
 "title": "Air Force Regulation 200-2",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-045c3b844c",
+"c-1cf77ca7fd",
+"c-1dbf5bcc56",
+"c-277dd08765",
+"c-eac3d0b2c5"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-1d14b45f7e",
+"c-98e664d9c0",
+"c-9fed41fdc6"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+},
+{
+"claims": [
+"c-045c3b844c"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+}
+],
 "type": "regulation",
-"urls": []
+"urls": [
+"https://www.nicap.org/directives/AFR%20200-2,%20Aug%20%2026,1953.pdf"
+]
 }

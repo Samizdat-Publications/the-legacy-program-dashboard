@@ -36,7 +36,7 @@
 "sources": [],
 "text": "Wrote on 7 May 2019: 'Elizondo had no assigned responsibilities for this program... At the time he was assigned to me, he brought with him no responsibilities for AATIP.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:foia-21-f-0938) was rejected in review: generic DoD emails; not shown to be FOIA 21-F-0938"
 },
 {
 "id": "c-549434bcb0",
@@ -44,15 +44,21 @@
 "sources": [],
 "text": "The same email chain contains an official warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:foia-21-f-0938) was rejected in review: generic DoD emails; not shown to be FOIA 21-F-0938"
 },
 {
 "id": "c-efb3d4f85f",
 "source": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-c836543c",
+"locator": null,
+"title": "The Black Vault"
+}
+],
 "text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

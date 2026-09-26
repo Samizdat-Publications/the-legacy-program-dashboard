@@ -9,9 +9,9 @@
 "source": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General, https://www.justice.gov/osg/media/218076/dl",
 "sources": [
 {
-"id": "u-justice-gov-4704b600",
+"id": "n-us-v-pelton-1986",
 "locator": null,
-"title": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General"
+"title": "United States v. Ronald W. Pelton (D. Md. 1986)"
 }
 ],
 "text": "Pelton was convicted of conspiracy to commit espionage, espionage and attempted espionage, and unauthorized disclosure of classified information, in the United States District Court for the District of Maryland.",
@@ -23,9 +23,9 @@
 "source": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
 "sources": [
 {
-"id": "u-justice-gov-4704b600",
+"id": "n-us-v-pelton-1986",
 "locator": null,
-"title": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General"
+"title": "United States v. Ronald W. Pelton (D. Md. 1986)"
 }
 ],
 "text": "The government's brief describes the sentence as concurrent life terms on the espionage and conspiracy counts and a concurrent ten-year term on the unauthorized-disclosure count.",
@@ -37,9 +37,9 @@
 "source": "Brief for the United States in opposition, No. 87-6433, https://www.justice.gov/osg/media/218076/dl",
 "sources": [
 {
-"id": "u-justice-gov-4704b600",
+"id": "n-us-v-pelton-1986",
 "locator": null,
-"title": "Brief for the United States in opposition, Ronald W. Pelton v. United States, No. 87-6433, Office of the Solicitor General"
+"title": "United States v. Ronald W. Pelton (D. Md. 1986)"
 }
 ],
 "text": "On what was compromised the brief says only that Pelton furnished the Soviets information about several classified NSA operations; it does not name any operation, codename, cable, sea area or submarine.",
@@ -49,10 +49,16 @@
 {
 "id": "c-9723974b85",
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:28:33, mapped at research/leads/dannyjones-corpus-20.md",
-"sources": [],
+"sources": [
+{
+"id": "t-175dc4f8f6d3",
+"locator": "0:28:33",
+"title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:28:33, the guest who identifies himself only as UAP Gerb said Ivy Bells was an undersea cable tapping programme run under a National Underwater Reconnaissance Office. The federal filing opened for this node names no operation, no codename, no cable, no sea area and no submarine, and neither NURO nor National Underwater Reconnaissance occurs anywhere in the fifty released pages of the AZORIAN history.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

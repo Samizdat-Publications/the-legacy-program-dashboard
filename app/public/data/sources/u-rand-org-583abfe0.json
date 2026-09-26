@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6b7c08d3a5",
+"locator": "PDF companion also cited",
+"node": "george-kocher",
+"nodeLabel": "George Kocher",
+"sourceText": "RAND Corporation publication page and PDF for DRU-1571",
+"text": "RAND published 'UFOs: What To Do?' by George Kocher as draft DRU-1571, originally November 1968; the document examines UFO brightness, size and manoeuvres and discusses a recommended course of action.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a4f8acbf30",
+"locator": "PDF companion also cited",
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"sourceText": "RAND publication page and PDF, DRU-1571",
+"text": "RAND published George Kocher's 'UFOs: What To Do?' as draft DRU-1571 in November 1968.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -45,7 +66,15 @@
 ],
 "node": null,
 "title": "RAND DRU-1571",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-a4f8acbf30"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.rand.org/pubs/drafts/DRU1571.html"

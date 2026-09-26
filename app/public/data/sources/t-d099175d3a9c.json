@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-339b959ceb",
+"locator": null,
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
+"text": "Bigelow told CBS 60 Minutes he is 'absolutely convinced' of an extraterrestrial presence on Earth.",
+"tier": 2
+}
+],
+"date": "2017-05-28",
+"edges": [],
+"era": "3",
+"id": "t-d099175d3a9c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CBS 60 Minutes",
+"listedOn": [],
+"node": null,
+"title": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
+"topics": [
+{
+"claims": [
+"c-339b959ceb"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+}
+],
+"type": "broadcast",
+"urls": []
+}

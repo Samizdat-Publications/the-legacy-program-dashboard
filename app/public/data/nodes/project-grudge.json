@@ -7,26 +7,44 @@
 {
 "id": "c-d069fdd870",
 "source": "Condon Report, Section V Chapter 2",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": null,
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "Project SIGN transitioned to Project GRUDGE on 11 February 1949.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-626b22f8d5",
 "source": "Condon Report, Section V Chapter 2, summarising the Grudge Report",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": "summarising the Grudge Report",
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "The Grudge Report concluded UFO reports resulted from 'misinterpretation of various conventional objects', 'mass-hysteria', hoaxes or psychological factors, recommended reducing the scope of investigation, and found no direct threat to national security.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3f25efbff4",
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956)",
-"sources": [],
+"sources": [
+{
+"id": "u-gutenberg-org-c14b8c35",
+"locator": null,
+"title": "Ruppelt, The Report on Unidentified Flying Objects"
+}
+],
 "text": "Under GRUDGE the project was reduced to a token effort until Ruppelt was placed in charge in late 1951.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3282ffb9a8",
@@ -140,7 +158,7 @@
 ],
 "sub": "Successor to SIGN; explicitly dismissive posture (1949-1951)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 652 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 651 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

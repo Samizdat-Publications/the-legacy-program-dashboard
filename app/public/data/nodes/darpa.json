@@ -25,7 +25,7 @@
 {
 "id": "cia-rdp85b00803r000200050003-5",
 "locator": null,
-"title": "CIA-RDP85B00803R000200050003-5"
+"title": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5"
 }
 ],
 "text": "The first Director was Roy W. Johnson, not Herbert York. A second agency's record dates the founding and names the officer independently: the CIA Historical Staff Chronology under Jan-Apr 58 reads '7 FEB. Advanced Research Projects Agency (ARPA) established in DOD, Roy W. Johnson of General Electric named director, responsible for US space program, including missiles and anti-missiles.' Herbert York was ARPA's first Chief Scientist and was later elevated to first Director of Defense Research and Engineering.",
@@ -35,26 +35,44 @@
 {
 "id": "c-563d1159a9",
 "source": "DARPA, About, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-darpa-mil-4c0f3f14",
+"locator": null,
+"title": "DARPA - About"
+}
+],
 "text": "DARPA states it was 'Created in response to the launch of Sputnik in 1957' and is 'an independent research and development agency within the U.S. Department of War (DOW)', with six technical offices.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cf486093a9",
 "source": "DARPA, About, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-darpa-mil-4c0f3f14",
+"locator": null,
+"title": "DARPA - About"
+}
+],
 "text": "DARPA's published budget figures as of 2026 are a President's FY2027 request of $5.039 billion and an FY2026 enacted level of $4.322 billion.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2a10a48940",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
-"sources": [],
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "DARPA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -7,18 +7,30 @@
 {
 "id": "c-001516edf0",
 "source": "Wikipedia, 'GEIPAN', citing Kreidler, Skeptical Inquirer (2009)",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-46121987",
+"locator": "GEPAN/SEPRA/GEIPAN renaming",
+"title": "GEIPAN - Wikipedia"
+}
+],
 "text": "GEPAN was renamed SEPRA (Service d'Expertise des Phénomènes de Rentrée Atmosphérique) in 1988, then to Service d'Expertise des Phénomènes Rares Aérospatiaux in 2000, then to GEIPAN in 2005.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-baec4bf207",
 "source": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-doc-cometa-report",
+"locator": "recommendation 2",
+"title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+}
+],
 "text": "COMETA recommendation 2 targets SEPRA directly, asking that it 'collect information relating to all UFO manifestations, both in Europe and throughout the world' and 'boost its representation and foreign relations status'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "program",
@@ -146,7 +158,7 @@
 ],
 "sub": "CNES successor to GEPAN, 1988-2004",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 898 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 897 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }

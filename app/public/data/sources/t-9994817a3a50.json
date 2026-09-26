@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-5eab078062",
+"locator": null,
+"node": "the-hill",
+"nodeLabel": "The Hill",
+"sourceText": "The Hill search index, retrieved 12 August 2026",
+"text": "The Hill has published a run of UAP opinion pieces in its national security and technology sections, with live URLs confirmed via The Hill's own search index.",
+"tier": 1
+}
+],
+"date": "2026-08-12",
+"edges": [],
+"era": "3",
+"id": "t-9994817a3a50",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill",
+"listedOn": [],
+"node": null,
+"title": "The Hill search index",
+"topics": [
+{
+"claims": [
+"c-5eab078062"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "archive index",
+"urls": []
+}

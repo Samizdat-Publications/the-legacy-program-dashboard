@@ -33,7 +33,7 @@
 {
 "id": "nara-rg-341",
 "locator": "microfilm T-1206",
-"title": "NARA Record Group 341"
+"title": "The Report on Unidentified Flying Objects (NARA Record Group 341)"
 }
 ],
 "text": "Arnold's 24 June 1947 Cascades sighting generated an Army Air Forces investigative file that survives in the declassified record.",
@@ -43,18 +43,30 @@
 {
 "id": "c-83de6d20e3",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
-"sources": [],
+"sources": [
+{
+"id": "u-af-mil-de312b60",
+"locator": null,
+"title": "USAF Fact Sheet: Project Blue Book"
+}
+],
 "text": "Project Blue Book and its predecessors logged 12,618 sightings between 1947 and 1969, of which 701 were never identified.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d26d3f74dc",
 "source": "Contemporaneous wire coverage, 25 June 1947, as reconstructed in the Condon Report Sec. V Ch. 2",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": "reconstruction of 25 June 1947 wire coverage",
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "The term 'flying saucer' derives from press paraphrase of Arnold's description of the objects' motion, not their shape.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1dd5f5d398",

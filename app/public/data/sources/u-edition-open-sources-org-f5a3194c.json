@@ -13,12 +13,32 @@
 },
 {
 "cls": "person",
+"id": "c-37a6c7469d",
+"locator": "eds. Rickles and DeWitt",
+"node": "louis-witten",
+"nodeLabel": "Louis Witten",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Rickles and DeWitt, participants list",
+"text": "The participants list of the January 1957 Chapel Hill conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore', directly above 'Bass, R.W. | RIAS , Inc., Baltimore'. Witten's contribution, with R. W. Bass, is 'Some Remarks on Cosmological Models'.",
+"tier": 1
+},
+{
+"cls": "person",
 "id": "c-a931f2dc0f",
 "locator": null,
 "node": "peter-bergmann",
 "nodeLabel": "Peter G. Bergmann",
 "sourceText": "Participants in the Conference, The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, the Edition Open Sources reissue of WADC Technical Report 57-216, Max Planck Institute for the History of Science, 2011. https://edition-open-sources.org/sources/5/6/index.html",
 "text": "The conference report's participants list prints 'Bergmann, P. G. | Syracuse University'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6dc5a38fcc",
+"locator": null,
+"node": "rias-inc",
+"nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, participants list",
+"text": "The participants list of the January 1957 Chapel Hill conference prints 'Witten, L. | RIAS, Inc., Baltimore' and 'Bass, R.W. | RIAS , Inc., Baltimore', establishing RIAS as a corporate entity in Baltimore with staff at the conference.",
 "tier": 1
 }
 ],
@@ -109,7 +129,9 @@
 {
 "claims": [
 "c-f4e5e7cab3",
-"c-a931f2dc0f"
+"c-37a6c7469d",
+"c-a931f2dc0f",
+"c-6dc5a38fcc"
 ],
 "id": "gravity-research-1950s",
 "title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"

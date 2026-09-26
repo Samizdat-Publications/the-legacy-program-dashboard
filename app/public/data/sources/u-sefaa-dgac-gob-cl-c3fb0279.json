@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3977126e8c",
+"locator": "as at 12 August 2026",
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "SEFAA official site, 12 August 2026",
+"text": "The office publishes resolved-case bulletins monthly; as at 12 August 2026 the most recent were 'Casos Julio 2026' (3 August 2026), 'Casos Junio 2026' (6 July 2026) and 'Casos Mayo 2026' (4 June 2026), with resolved-case archives by year back to 2018.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e5a4c4c98f",
+"locator": null,
+"node": "cefaa",
+"nodeLabel": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
+"sourceText": "SEFAA official site, homepage, 2026",
+"text": "'Somos la Sección de Estudios de Fenómenos Aéreos Anómalos (SEFAA, antiguamente CEFAA), un organismo dependiente de la Dirección General de Aeronáutica Civil (DGAC) de Chile ... Nuestra misión es clara: apoyar la seguridad de las operaciones aéreas de nuestro país.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -35,7 +56,23 @@
 ],
 "node": null,
 "title": "SEFAA - homepage",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-3977126e8c",
+"c-e5a4c4c98f"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+},
+{
+"claims": [
+"c-3977126e8c"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+}
+],
 "type": "web page",
 "urls": [
 "https://sefaa.dgac.gob.cl/"

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c3541cb5e1",
+"locator": null,
+"node": "hospital-regional-varginha",
+"nodeLabel": "Hospital Regional de Varginha",
+"sourceText": "Ministério da Saúde CNES open data, município 317070",
+"text": "Other hospitals registered in Varginha in the same national register include Hospital Bom Pastor (CNES 2761092, Fundação Hospitalar do Município de Varginha) and Hospital Unimed Varginha (CNES 2761319).",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

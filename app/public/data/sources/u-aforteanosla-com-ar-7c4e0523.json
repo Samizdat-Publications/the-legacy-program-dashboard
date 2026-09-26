@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20101119234133/http://aforteanosla.com.ar/Colaboraciones/internacional/Mantle,%20Philip/Stonehill,%20Paul%20and%20Mantle,%20Philip.%20Setka%20an%20article.pdf"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-bde3b1fd88",
+"locator": null,
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"sourceText": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program', Archivos Forteanos Latino Americanos",
+"text": "'A sharp increase in UFO activity in 1977-1978 (especially, the Petrozavodsk Case) had forced appropriate departments within the USSR Academy of Sciences to agree to a research program for anomalous atmospheric phenomena. The code name for this program was SETKA-AN ... The Soviet Ministry of Defense embarked on a similar program, dubbed SETKA-MO.'",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -130,7 +141,15 @@
 ],
 "node": null,
 "title": "Stonehill & Mantle - Setka",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-bde3b1fd88"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+}
+],
 "type": "document",
 "urls": []
 }

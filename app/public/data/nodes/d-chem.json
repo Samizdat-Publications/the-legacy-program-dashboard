@@ -8,26 +8,44 @@
 {
 "id": "c-fcdf6b4e3d",
 "source": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-357528c7",
+"locator": null,
+"title": "Loeb, Jacobsen, Tagle et al., Chemical Geology"
+}
+],
 "text": "Loeb, Jacobsen, Tagle and colleagues published 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide' in Chemical Geology in December 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5145eec815",
 "source": "Chemical Geology, doi:10.1016/j.chemgeo.2025.122627",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-dcdd37c1",
+"locator": null,
+"title": "Hyung, Cherston, Jacobsen & Loeb, Chemical Geology"
+}
+],
 "text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of D-type spherules in Chemical Geology in March 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-53962f4042",
 "source": "AARO Aluminum Materials Analysis Supplement",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-ornl-materials-analyses",
+"locator": null,
+"title": "AARO / Oak Ridge National Laboratory materials analyses"
+}
+],
 "text": "AARO's January 2026 aluminium analysis found composition matching Aluminum Association reference alloys 369.1 and A413.1, a conventional result.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

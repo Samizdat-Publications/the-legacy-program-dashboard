@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8158e45ac8",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "David Fravor, CBS 60 Minutes, 16 May 2021",
+"text": "'It was aware we were there' and 'It just disappears. Like, gone.'",
+"tier": 2
+}
+],
+"date": "2021-05-16",
+"edges": [],
+"era": "3",
+"id": "t-5e9b34926613",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "CBS 60 Minutes",
+"listedOn": [],
+"node": null,
+"title": "David Fravor, CBS 60 Minutes, 16 May 2021",
+"topics": [
+{
+"claims": [
+"c-8158e45ac8"
+],
+"id": "nimitz-2004",
+"title": "USS Nimitz, November 2004"
+}
+],
+"type": "broadcast",
+"urls": []
+}

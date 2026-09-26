@@ -12,7 +12,7 @@
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoD Directive 5205.07 defines unacknowledged SAPs, in which the existence of the programme itself is protected, and waived SAPs, for which congressional reporting is limited to eight named members.",
@@ -22,10 +22,16 @@
 {
 "id": "c-9da82f8115",
 "source": "House Oversight Committee hearing, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "David Grusch testified before the House Oversight Committee on 26 July 2023 that he was denied access to programmes he had been directed to investigate, and that access denial itself was used as a concealment mechanism.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1150f33928",
@@ -33,8 +39,8 @@
 "sources": [
 {
 "id": "dodd-5205-07",
-"locator": "compartmentation policy and Manhattan Project security practice",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"locator": null,
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "Compartmentation predicts the exact evidentiary pattern the disclosure fight exhibits - many partial witnesses, no complete one - which means the absence of a single comprehensive whistleblower is a consequence of the architecture rather than evidence against the programme. Reasoning: this is the documented Manhattan Project effect applied to a smaller population.",

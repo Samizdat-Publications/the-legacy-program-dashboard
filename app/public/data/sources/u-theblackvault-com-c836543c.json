@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-efb3d4f85f",
+"locator": null,
+"node": "neill-tipton",
+"nodeLabel": "Neill Tipton",
+"sourceText": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
+"text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -74,7 +85,22 @@
 ],
 "node": null,
 "title": "The Black Vault",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-efb3d4f85f"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-efb3d4f85f"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.theblackvault.com/documentarchive/new-emails-reveal-pentagon-effort-to-align-messaging-on-aatip-and-luis-elizondo/"

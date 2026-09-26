@@ -21,18 +21,30 @@
 {
 "id": "c-73b2bca7a1",
 "source": "Wikipedia, Area 51, citing USAF unit histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-2fd7d767",
+"locator": "4450th Tactical Group / Tonopah move",
+"title": "Wikipedia - Area 51"
+}
+],
 "text": "The 4450th Tactical Group was activated 15 October 1979 while physically located at Area 51; its move to Tonopah Test Range began 17 May 1982; Maj. Alton C. Whitley Jr. became the first USAF pilot to fly the F-117A on 15 October 1982.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-881f888810",
 "source": "Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-2fd7d767",
+"locator": null,
+"title": "Wikipedia - Area 51"
+}
+],
 "text": "HAVE IDEA, the exploited foreign aircraft programme, transitioned to the Tonopah Test Range in May 1973.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-63fcbdac55",

@@ -67,7 +67,13 @@
     "text": "Keith Kloor, The Intercept, 1 June 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theintercept-com-f6147715",
+     "locator": null,
+     "title": "The Intercept"
+    }
+   ],
    "text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
    "tier": 2
   },
@@ -83,9 +89,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-wikileaks-org-355625fe",
+     "id": "n-podesta-delonge-mccasland-email-2016",
      "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, email id 3099"
+     "title": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
     }
    ],
    "text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
@@ -135,7 +141,13 @@
     "text": "U.S. Navy statement, 10 September 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-5c77e2cb046d",
+     "locator": null,
+     "title": "U.S. Navy statement"
+    }
+   ],
    "text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
    "tier": 1
   },
@@ -149,7 +161,13 @@
     "text": "AARO/ORNL Synopsis, July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
    "tier": 1
   },
@@ -203,7 +221,13 @@
     "text": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-5d3c0cdc7c47",
+     "locator": null,
+     "title": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019"
+    }
+   ],
    "text": "Linda Moulton Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions.",
    "tier": 2
   },
@@ -217,7 +241,13 @@
     "text": "Department of Defense statement, 27 April 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dod-video-release-2020",
+     "locator": null,
+     "title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+    }
+   ],
    "text": "On 27 April 2020 DoD authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
    "tier": 1
   },
@@ -259,7 +289,13 @@
     "text": "CRADA document released by U.S. Army CCDC, 18 October 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-ttsa-army-crada",
+     "locator": null,
+     "title": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
    "text": "Named as the U.S. Government principal investigator on the TTSA CRADA alongside Bean Soave.",
    "tier": 1
   },
@@ -301,7 +337,13 @@
     "text": "AARO Historical Record Report Volume I, March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
    "tier": 1
   },
@@ -363,7 +405,13 @@
     "text": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "ORNL assessed the specimen terrestrial in origin and concluded it 'does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
    "tier": 1
   },
@@ -391,7 +439,13 @@
     "text": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-23f3a8793b9d",
+     "locator": "gave videos to New York Times",
+     "title": "The Phenomenon (2020"
+    }
+   ],
    "text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
    "tier": 2
   },
@@ -405,7 +459,13 @@
     "text": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-296311e76207",
+     "locator": null,
+     "title": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018"
+    }
+   ],
    "text": "TTSA's September 2018 SEC filing recorded preparation to launch research into 'materials relevant to its future plans in Space Time Metric Engineering', partnering with EarthTech in August 2018.",
    "tier": 1
   },
@@ -419,7 +479,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
    "tier": 1
   },
@@ -433,7 +499,13 @@
     "text": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
    "tier": 1
   },
@@ -461,7 +533,13 @@
     "text": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-ttsa-army-crada",
+     "locator": null,
+     "title": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
    "text": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, with named government principal investigators and TACOM IP counsel, was filed as SEC Exhibit 6.28.",
    "tier": 1
   },
@@ -497,9 +575,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-wikileaks-org-355625fe",
+     "id": "n-podesta-delonge-mccasland-email-2016",
      "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, email id 3099"
+     "title": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
     }
    ],
    "text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
@@ -529,7 +607,13 @@
     "text": "SEC EDGAR, TTSA offering exhibit tm2023098d2_ex13-1, 24 July 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-cb9afc0b",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA offering exhibit"
+    }
+   ],
    "text": "A July 2020 Regulation A offering exhibit valued the company at $65 million, sought $30 million at $5 per share, and described the ADAM Research Project and the Army CRADA.",
    "tier": 1
   },
@@ -564,9 +648,9 @@
      "title": "U.S. Air Force official biography, Major General William N. McCasland (current as of April 2013)"
     },
     {
-     "id": "u-dia-mil-5d0ebf39",
+     "id": "n-dia-sap-denial-memo-2009",
      "locator": null,
-     "title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)"
+     "title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
     }
    ],
    "text": "That Special Programs directorate is OUSD(AT&L), NOT OUSD(I). DIA's INFO MEMO U-09-2660 of 13 November 2009 declining the AAWSAP special access program request was addressed to 'DIRECTOR, SPECIAL PROGRAMS, OFFICE OF THE UNDER SECRETARY OF DEFENSE FOR INTELLIGENCE'. The two offices are distinct and McCasland held the AT&L one; nothing here places him in the AAWSAP decision.",
@@ -666,7 +750,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Raised approximately $1.09 million of a $50 million Regulation A target as of April 2018; FY2017 net loss $30,665,436 including $29,535,799 of stock-based compensation.",
    "tier": 1
   },
@@ -680,7 +770,13 @@
     "text": "AARO, Historical Record Report Volume I, March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples,' and that AARO later acquired the sample for analysis.",
    "tier": 1
   },
@@ -694,7 +790,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired as a Program Director from Lockheed Martin Advanced Development Programs (Skunk Works) after 31 years.",
    "tier": 1
   },
@@ -825,7 +927,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Listed in TTSA's Form 1-K as Vice President Operations, age 65, and one of three directors; described as retired from the CIA after 25 years in the Directorate of Operations.",
    "tier": 1
   },
@@ -859,7 +967,13 @@
     "text": "Puthoff letter as reported by Vice, 14 November 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-a9558656710c",
+     "locator": null,
+     "title": "Vice, 14 November 2019"
+    }
+   ],
    "text": "A 2012 letter from Puthoff reported that testing had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test pending for want of equipment.",
    "tier": 2
   },
@@ -873,7 +987,13 @@
     "text": "PR Newswire, To The Stars Academy Of Arts & Science Launches Today, 11 October 2017",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-prnewswire-com-602bc15b",
+     "locator": null,
+     "title": "PR Newswire — TTSA launch"
+    }
+   ],
    "text": "Launched 11 October 2017 with DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon named in the announcement, and three divisions: Science, Aerospace (beamed energy and electrogravitics) and Entertainment.",
    "tier": 1
   },
@@ -887,7 +1007,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, CIK 1710274, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semivan and Puthoff as directors and Elizondo and Justice as significant employees.",
    "tier": 1
   },
@@ -929,7 +1055,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Listed in TTSA's Form 1-K as Chief Content Officer, age 35, with $100,000 FY2017 cash compensation and options on 5,000,000 shares at $0.003 valued at approximately $18.96 million.",
    "tier": 1
   },
@@ -943,7 +1075,13 @@
     "text": "SEC filings as reported by M.J. Banias, Vice, 4 October 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-vice-com-29e50787",
+     "locator": null,
+     "title": "M.J. Banias, 'Tom DeLonge's UFO Research Company Paid $35, 000 for Exotic Metals That Might Actually Just Be Slag', Vice"
+    }
+   ],
    "text": "SEC filings record To The Stars paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium.",
    "tier": 1
   },
@@ -957,7 +1095,13 @@
     "text": "To The Stars Academy of Arts and Science Inc., Form 1-K Part II, SEC EDGAR CIK 0001710274, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "TTSA was incorporated in Delaware as a public benefit corporation in 2017; DeLonge is listed as President and interim Chief Executive Officer and a director; Gravity Holdings LLC, a DeLonge family trust entity, held 60 million of 70 million Class A shares (85.7%).",
    "tier": 1
   },

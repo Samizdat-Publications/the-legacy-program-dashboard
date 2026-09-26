@@ -48,8 +48,8 @@
 "sources": [
 {
 "id": "chrg-118hhrg57440",
-"locator": "CONTENTS",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Gold, Former NASA Associate Administrator of Space Policy and Partnerships, Member of NASA UAP Independent Study Team'.",
@@ -59,26 +59,44 @@
 {
 "id": "c-0c553cf467",
 "source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-e736d707",
+"locator": null,
+"title": "House Oversight - Gold written testimony (PDF)"
+}
+],
 "text": "'the stigmatization of the UAP phenomena is so harmful. The stigma prevents scientific inquiry.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-037a723a61",
 "source": "Michael Gold, written testimony, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-e736d707",
+"locator": null,
+"title": "House Oversight - Gold written testimony (PDF)"
+}
+],
 "text": "Alex Dietrich 'was mocked by her colleagues' and her incident 'went years without any investigation.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-945d19967c",
 "source": "Michael Gold, written testimony, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-e736d707",
+"locator": null,
+"title": "House Oversight - Gold written testimony (PDF)"
+}
+],
 "text": "Recommends NASA work with the FAA to establish civilian pilot UAP reporting procedures and leverage the Aviation Safety Reporting System.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f0385bea12",
@@ -86,7 +104,7 @@
 "sources": [],
 "text": "Testified at the 13 November 2024 joint hearing as former NASA Associate Administrator of Space Policy and Partnerships and a member of the NASA UAP Independent Study Team; written testimony published by the committee.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Gold.pdf) was rejected in review: names two sources; hearing page is not the candidate"
 },
 {
 "id": "c-08b43a4b81",
@@ -95,7 +113,7 @@
 {
 "id": "chrg-118hhrg57440",
 "locator": "13 November 2024",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "Answered 'No, ma'am' when Rep. Boebert asked whether he was familiar with an alleged DoD program manipulating human genetics with non-human genetic material.",
@@ -305,7 +323,7 @@
 "status": "active",
 "sub": "Former NASA Associate Administrator for Space Policy and Partnerships; NASA UAP Independent Study Team member",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 639 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 638 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -9,9 +9,9 @@
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18",
 "sources": [
 {
-"id": "u-archive-org-c155e3cf",
+"id": "n-lazar-tape-1991",
 "locator": null,
-"title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE"
+"title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
 }
 ],
 "text": "The 1989 KLAS-TV Lazar broadcasts are the single event most responsible for this place entering worldwide public consciousness under this name. Lazar's own 1991 narration refers to 'the infamous Area 51 installation at Groom Lake' and places his claimed S-4 site about fifteen miles south of it. A contemporaneous newspaper of 19 June 1990 confirms the broadcasts existed and that Lazar was their focal point.",
@@ -21,10 +21,16 @@
 {
 "id": "c-3b1a85da65",
 "source": "CIA U-2/OXCART history, released 25 June 2013 via FOIA to the National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-cia-overhead-reconnaissance-history-1992",
+"locator": "25 June 2013 release",
+"title": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+}
+],
 "text": "The CIA's 25 June 2013 release was the first official acknowledgement of specific activity at the site named Area 51.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e710df4c54",
@@ -32,7 +38,7 @@
 "sources": [],
 "text": "In May 1989 Robert Lazar told KLAS-TV's George Knapp that he had worked at 'S-4' near Papoose Lake, roughly 8.5 miles south of the main Groom facility, on craft the government possessed.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:klas-lazar-broadcasts-1989) was rejected in review: names broadcasts and a Wikipedia summary; two sources"
 },
 {
 "id": "c-474202a7ff",

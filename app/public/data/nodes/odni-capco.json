@@ -38,7 +38,7 @@
 "sources": [],
 "text": "ICD 906 section D.9: 'The Director of the ODNI Controlled Access Program Central Office (CAPCO) is the accountable official responsible for the implementation of this policy'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:icd-906) was rejected in review: cited ICD supersedes the 2015 version the candidate dates"
 },
 {
 "id": "c-fb60316f75",
@@ -46,7 +46,7 @@
 "sources": [],
 "text": "ICD 906 section D.9.b requires ODNI CAPCO to 'Manage a CAP Registry that maintains a list of all control systems, including all compartments and sub-compartments' and to 'manage all compartment and sub compartment names, codenames, and any other pertinent information.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:icd-906) was rejected in review: cited ICD supersedes the 2015 version the candidate dates"
 },
 {
 "id": "c-aef17854a7",
@@ -54,15 +54,21 @@
 "sources": [],
 "text": "ICD 906 section D.9.c makes CAPCO 'responsible for the coordination of CAP-related engagements, to include, but not limited to, congressional briefings, requests from the Information Security Oversight Office, and the National Security Council.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:icd-906) was rejected in review: cited ICD supersedes the 2015 version the candidate dates"
 },
 {
 "id": "c-2155aa466f",
 "source": "IC Authorized Classification and Control Markings Register and Manual v5.1, title page",
-"sources": [],
+"sources": [
+{
+"id": "n-capco-register",
+"locator": "title page",
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+}
+],
 "text": "CAPCO publishes the Intelligence Community Authorized Classification and Control Markings Register and Manual from Washington, DC 20511, with the contact address DNI-SSD-CAPCO@dni.ic.gov.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-64ee83d1c6",
@@ -70,7 +76,7 @@
 "sources": [
 {
 "id": "eo-13526",
-"locator": "section 4.3(b",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 }
 ],
@@ -332,7 +338,7 @@
 ],
 "sub": "oversight-body",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 127 of 1138, score 56). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 126 of 1138, score 56). 6 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

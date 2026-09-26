@@ -7,26 +7,44 @@
 {
 "id": "c-2a32ef084c",
 "source": "House Committee on Oversight and Accountability hearing notice, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-e0a0e77f",
+"locator": null,
+"title": "House Oversight - hearing page, 26 July 2023"
+}
+],
 "text": "David Grusch testified before the House Oversight Committee on 26 July 2023 with the official witness title 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0c7d2aa7b7",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
-"sources": [],
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "NRO is listed among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-85ac29193a",
 "source": "NRO About page, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-nro-gov-7ed1d46f",
+"locator": null,
+"title": "National Reconnaissance Office - About NRO"
+}
+],
 "text": "NRO's published leadership as of August 2026 is Acting Director William B. Adkins; the agency describes its workforce as 31% NRO cadre, 34% detailed government personnel and 35% military.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-52bcf8861c",
@@ -34,7 +52,7 @@
 "sources": [],
 "text": "The fact of the NRO's existence was classified from its establishment in 1961 until its declassification in September 1992, a period of 31 years.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic reference to NRO's own history, no titled document."
 },
 {
 "id": "c-6ccb7dbbe8",

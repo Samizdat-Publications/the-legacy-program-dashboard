@@ -35,18 +35,30 @@
 {
 "id": "c-e34c163c52",
 "source": "Robertson Panel report, declassified text",
-"sources": [],
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "declassified text",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The panel report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA' and covers meetings of 14-18 January 1953.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7abf75a351",
 "source": "Robertson Panel report, Recommendations",
-"sources": [],
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "Recommendations",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The panel recommended a public education programme with 'training' and 'debunking' aims, stating 'this education could be accomplished by mass media such as television, motion pictures, and popular articles.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-78c62731fa",
@@ -54,15 +66,21 @@
 "sources": [],
 "text": "The panel canvassed the Walt Disney organisation and the US Navy Special Devices Center as vehicles for producing the debunking material.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf) was rejected in review: names report and Haines 1997; two sources"
 },
 {
 "id": "c-5d9a16ee49",
 "source": "Robertson Panel report, membership list",
-"sources": [],
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "membership list",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "Panel membership was Robertson (chair, Caltech), Luis W. Alvarez, Lloyd V. Berkner, Samuel A. Goudsmit and Thornton Page, with Frederick C. Durant as secretary.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ccaabd95db",
@@ -70,7 +88,7 @@
 "sources": [],
 "text": "The panel reviewed only a curated case selection over roughly twelve hours of formal session across four days.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf) was rejected in review: Durant memorandum; candidate titled as Tab A panel report"
 }
 ],
 "cls": "person",

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6e7d96768a",
+"locator": null,
+"node": "senado-brasil",
+"nodeLabel": "Senado Federal do Brasil",
+"sourceText": "legis.senado.leg.br/dadosabertos/senador/lista/atual",
+"text": "The Senado Federal's official open-data service lists 81 senators in exercise as of August 2026.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

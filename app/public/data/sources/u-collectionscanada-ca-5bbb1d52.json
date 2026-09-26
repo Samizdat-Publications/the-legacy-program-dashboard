@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1801-e.html"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-dc05697ca7",
+"locator": null,
+"node": "project-second-storey",
+"nodeLabel": "Project Second Storey (Canada)",
+"sourceText": "Library and Archives Canada, 'Canada's UFOs' exhibition, 1952 Project Second Story document page",
+"text": "LAC archival citation for Project Second Story minutes: 'RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -19,7 +30,15 @@
 ],
 "node": null,
 "title": "LAC - Project Second Story minutes document page",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-dc05697ca7"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
 "type": "web page",
 "urls": []
 }

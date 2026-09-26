@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-b058ea0ac4",
+"locator": null,
+"node": "d-psyop",
+"nodeLabel": "Psychological Operations & Perception Management",
+"sourceText": "Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'",
+"text": "Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -52,7 +63,15 @@
 ],
 "node": null,
 "title": "Garber Files - From Mirage Men to Military Deception",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-b058ea0ac4"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
 "type": "article",
 "urls": [
 "https://garberfiles.substack.com/p/from-mirage-men-to-military-deception"

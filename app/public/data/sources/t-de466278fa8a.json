@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-99b2ca880f",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "Citation list published in the video description, 18 February 2024",
+"text": "Gerb's Battelle investigation cites verifiable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC research and development reports at the UNT digital library, and the Defense.gov transcript of the Moultrie roundtable.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f4697d95e9",
+"locator": null,
+"node": "gerb-battelle-investigation",
+"nodeLabel": "UAP Gerb - Battelle Memorial Institute investigation",
+"sourceText": "Citation list published in the video description, 18 February 2024",
+"text": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the UNT digital library, and the Defense.gov Moultrie roundtable transcript.",
+"tier": 1
+}
+],
+"date": "2024-02-18",
+"edges": [],
+"era": "3",
+"id": "t-de466278fa8a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Citation list published in the video description",
+"topics": [
+{
+"claims": [
+"c-f4697d95e9"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+}
+],
+"type": "web page",
+"urls": []
+}

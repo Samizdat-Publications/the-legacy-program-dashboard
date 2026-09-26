@@ -1,0 +1,50 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d9ff54abab",
+"locator": null,
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"sourceText": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
+"text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "t-0f8fb3c69a57",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Skeptical Inquirer",
+"listedOn": [],
+"node": null,
+"title": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
+"topics": [
+{
+"claims": [
+"c-d9ff54abab"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-d9ff54abab"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-d9ff54abab"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "article",
+"urls": []
+}

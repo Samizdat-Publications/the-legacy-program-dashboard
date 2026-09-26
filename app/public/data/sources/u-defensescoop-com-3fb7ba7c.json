@@ -12,6 +12,26 @@
 "tier": 2
 },
 {
+"cls": "person",
+"id": "c-5cf5fcea27",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "Christopher Mellon to DefenseScoop, 20 February 2026",
+"text": "'This might be a consequential moment, but the impact will depend on the follow-through.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0a3dd5a8f9",
+"locator": null,
+"node": "donald-trump",
+"nodeLabel": "Donald J. Trump",
+"sourceText": "DefenseScoop, 20 February 2026, quoting the Truth Social post",
+"text": "Trump posted on Truth Social that he would direct Hegseth and relevant departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
+"tier": 2
+},
+{
 "cls": "event",
 "id": "c-60df48e812",
 "locator": null,
@@ -33,6 +53,16 @@
 },
 {
 "cls": "document",
+"id": "c-604ab35821",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "DefenseScoop, 20 February 2026",
+"text": "Trump posted on Truth Social on 19-20 February 2026 that he would direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
+"tier": 2
+},
+{
+"cls": "document",
 "id": "c-a64deafb9c",
 "locator": null,
 "node": "trump-uap-release-directive-2026",
@@ -43,12 +73,42 @@
 },
 {
 "cls": "document",
+"id": "c-b8cfe517f7",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "DefenseScoop, 20 February 2026",
+"text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
+"tier": 2
+},
+{
+"cls": "document",
 "id": "c-bfe3d5c8ae",
 "locator": null,
 "node": "trump-uap-release-directive-2026",
 "nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "sourceText": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-52604437d8",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "DefenseScoop, 20 February 2026",
+"text": "Trump pledged on 19-20 February 2026 to direct Hegseth and relevant agencies to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-6b2b1b989b",
+"locator": null,
+"node": "sean-parnell",
+"nodeLabel": "Sean Parnell",
+"sourceText": "Sean Parnell, quoted by DefenseScoop, 20 February 2026",
+"text": "The department 'looks forward to working with the interagency to fulfill the president's directive.'",
 "tier": 2
 },
 {
@@ -236,7 +296,8 @@
 "topics": [
 {
 "claims": [
-"c-1a356a5c1f"
+"c-1a356a5c1f",
+"c-604ab35821"
 ],
 "id": "pursue-2026",
 "title": "PURSUE and the 2026 releases"

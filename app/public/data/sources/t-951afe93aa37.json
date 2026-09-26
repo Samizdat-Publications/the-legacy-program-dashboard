@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-1a9b0a82bb",
+"locator": null,
+"node": "l-langley-afb",
+"nodeLabel": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"sourceText": "US Air Force / Langley AFB statement to The War Zone, 15 March 2024",
+"text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
+"tier": 1
+}
+],
+"date": "2024-03-15",
+"edges": [],
+"era": "3",
+"id": "t-951afe93aa37",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "US Air Force / Langley AFB statement to The War Zone",
+"topics": [],
+"type": "article",
+"urls": []
+}

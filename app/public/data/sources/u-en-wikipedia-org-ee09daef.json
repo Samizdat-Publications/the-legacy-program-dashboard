@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-bf18546b0a",
+"locator": "Thunder Scientific founding, 1966",
+"node": "l-albuquerque",
+"nodeLabel": "Albuquerque, New Mexico",
+"sourceText": "Wikipedia, Paul Bennewitz, citing an April 1981 Albuquerque Tribune profile — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Bennewitz founded Thunder Scientific in 1966 after acquiring humidity sensor rights from Sandia National Laboratories.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-9df8a13609",
+"locator": "Moore's 1989 MUFON admission",
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sourceText": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
+"text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-bee36a05e8",
+"locator": "July 1979/Oct-Nov 1980 dates",
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sourceText": "Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -91,7 +122,23 @@
 ],
 "node": null,
 "title": "Wikipedia - Paul Bennewitz",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-9df8a13609",
+"c-bee36a05e8"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-9df8a13609"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Paul_Bennewitz"

@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-da1fa78261",
+"locator": null,
+"node": "nyt-2017-12-16",
+"nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"sourceText": "Bryan Bender, Politico, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Pentagon spokeswoman Dana White confirmed to Politico that Luis Elizondo directed AATIP.",
+"tier": 2
+}
+],
+"date": "2017-12-16",
+"edges": [],
+"era": "3",
+"id": "t-bd6502c8fcd1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Politico",
+"listedOn": [],
+"node": null,
+"title": "Bryan Bender",
+"topics": [
+{
+"claims": [
+"c-da1fa78261"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+}
+],
+"type": "article",
+"urls": []
+}

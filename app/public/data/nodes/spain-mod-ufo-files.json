@@ -7,10 +7,16 @@
 {
 "id": "c-06c38db319",
 "source": "Project Condign, Volume 3, Chapter 4, para 11, UK Ministry of Defence, 2000",
-"sources": [],
+"sources": [
+{
+"id": "n-doc-condign-vol3",
+"locator": "Chapter 4, para 11",
+"title": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+}
+],
 "text": "'SPAIN The Spanish MoD have taken the UFO phenomenon seriously. Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

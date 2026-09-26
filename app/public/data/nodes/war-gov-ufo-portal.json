@@ -10,15 +10,21 @@
 "sources": [],
 "text": "Each PURSUE release is published at war.gov/UFO as a paired document bundle and video bundle, with video served from a CloudFront distribution.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: string names the portal page, not the bundle URLs node"
 },
 {
 "id": "c-86970f1cca",
 "source": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-aaro-mil-1c878677",
+"locator": null,
+"title": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)"
+}
+],
 "text": "AARO's homepage links to PURSUE at war.gov/UFO rather than hosting the material itself.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-193a71b022",

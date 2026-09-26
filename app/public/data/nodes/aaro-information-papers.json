@@ -10,7 +10,7 @@
 "sources": [],
 "text": "AARO published a satellite flaring information paper dated 22 April 2025 with a DVIDS animation, and a 2024 paper on the effect of forced perspective and parallax view on UAP observations.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-information-papers) was rejected in review: listing page is not the bundled information-papers node"
 },
 {
 "id": "c-e3f9652dfc",
@@ -18,7 +18,7 @@
 "sources": [],
 "text": "AARO added the Naval Postgraduate School CTX special issue on UAP science and analysis to its resources on 8 July 2026, plus a call for papers for a second volume.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-information-papers) was rejected in review: records web page is not the bundled information-papers node"
 },
 {
 "id": "c-49d60b36c3",
@@ -26,7 +26,7 @@
 "sources": [],
 "text": "A 2025 UAP workshop white paper on narrative data, infrastructures and analysis is published on AARO's site.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-information-papers) was rejected in review: records web page is not the bundled information-papers node"
 }
 ],
 "cls": "document",
@@ -126,7 +126,7 @@
 ],
 "sub": "Explanatory products, 2024-2026",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 882 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 881 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unverified": []
 }

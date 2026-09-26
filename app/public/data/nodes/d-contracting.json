@@ -8,10 +8,16 @@
 {
 "id": "c-5ce5670256",
 "source": "Bloomberg Government, 21 October 2019; The War Zone, 18 October 2019",
-"sources": [],
+"sources": [
+{
+"id": "t-250a55e2cbf6",
+"locator": "also cites The War Zone, 18 October 2019",
+"title": "Bloomberg Government, 21 October 2019"
+}
+],
 "text": "The US Army entered a Cooperative Research and Development Agreement with To The Stars Academy in 2019 covering materials evaluation for future combat vehicles.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c51e1eafc7",
@@ -20,7 +26,7 @@
 {
 "id": "foia-dia-00349-2018",
 "locator": null,
-"title": "DIA FOIA-00349-2018"
+"title": "DIA release FOIA-00349-2018"
 }
 ],
 "text": "DIA awarded the AAWSAP contract following solicitation HHM402-08-R-0211 and issued priced annual modifications, all released under FOIA.",
@@ -30,10 +36,16 @@
 {
 "id": "c-10a7fbfce8",
 "source": "The Black Vault, 'Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material'",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-2fc7a630",
+"locator": null,
+"title": "The Black Vault — Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material"
+}
+],
 "text": "Secrecy around the Army-TTSA agreement deepened following initial disclosure, with subsequent records requests returning reduced material.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

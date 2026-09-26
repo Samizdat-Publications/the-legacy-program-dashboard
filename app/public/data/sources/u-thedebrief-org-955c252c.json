@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-673ae3ac23",
+"locator": null,
+"node": "d-legislative",
+"nodeLabel": "Legislative Process (proposed and pending)",
+"sourceText": "The Debrief, 'A Dramatic Dilution', 22 December 2023",
+"text": "The dilution of the Schumer-Rounds disclosure language during the FY2024 conference was reported contemporaneously as a deliberate weakening rather than a drafting accident.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -40,7 +51,15 @@
 ],
 "node": null,
 "title": "The Debrief — A Dramatic Dilution",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-673ae3ac23"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
 "type": "article",
 "urls": [
 "https://thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-shore-break-against-the-waves-of-change-schumer-amendment/"

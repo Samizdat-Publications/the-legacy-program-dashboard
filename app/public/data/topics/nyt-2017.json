@@ -19,7 +19,13 @@
     "text": "DD Form 1910 released via FOIA, published by Blue Blurry Lines, 17 August 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dd-form-1910-2017",
+     "locator": null,
+     "title": "DD Form 1910 for GoFast, Gimbal and FLIR video files"
+    }
+   ],
    "text": "He personally submitted the DD Form 1910 on 9 August 2017 requesting clearance of the GoFast, Gimbal and FLIR video files; it was approved 24 August 2017. The stated purpose was 'Not for publication. Research and analysis ONLY and info sharing with other USG and industry partners for the purposes of developing a database to help identify, analyze, and ultimately defeat UAS threats.'",
    "tier": 1
   },
@@ -33,7 +39,13 @@
     "text": "Karl Nell, on the record, The Debrief, 5 June 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-debrief-2023-06-05",
+     "locator": null,
+     "title": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+    }
+   ],
    "text": "Grusch's assertion of an eighty-year sub rosa arms race focused on reverse engineering technologies of unknown origin is 'fundamentally correct,' and at least some of those technologies derive from non-human intelligence.",
    "tier": 2
   },
@@ -87,7 +99,13 @@
     "text": "U.S. Navy statement, 10 September 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-5c77e2cb046d",
+     "locator": null,
+     "title": "U.S. Navy statement"
+    }
+   ],
    "text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
    "tier": 1
   },
@@ -121,7 +139,13 @@
     "text": "Department of Defense statement, 27 April 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dod-video-release-2020",
+     "locator": null,
+     "title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+    }
+   ],
    "text": "On 27 April 2020 DoD authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
    "tier": 1
   },
@@ -135,7 +159,13 @@
     "text": "Reid to DEPSECDEF William J. Lynn III, 24 June 2009, DIA FOIA release",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-reid-sap-letter-2009",
+     "locator": null,
+     "title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+    }
+   ],
    "text": "Reid requested a 'Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
    "tier": 1
   },
@@ -169,7 +199,13 @@
     "text": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-letter-2018",
+     "locator": null,
+     "title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+    }
+   ],
    "text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
    "tier": 1
   },
@@ -183,7 +219,13 @@
     "text": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-23f3a8793b9d",
+     "locator": "gave videos to New York Times",
+     "title": "The Phenomenon (2020"
+    }
+   ],
    "text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
    "tier": 2
   },
@@ -217,7 +259,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
    "tier": 1
   },
@@ -259,7 +307,13 @@
     "text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-kirkpatrick-sciam-oped-2024",
+     "locator": null,
+     "title": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+    }
+   ],
    "text": "Kirkpatrick publicly attributed the modern crash-retrieval narrative to AATIP and Robert Bigelow's circle, an argument that targets Elizondo's account without engaging it as testimony.",
    "tier": 2
   },
@@ -301,7 +355,13 @@
     "text": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "p.22",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
    "tier": 1
   },
@@ -359,9 +419,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-329a555d",
+     "id": "n-aaro-historical-record-vol1",
      "locator": null,
-     "title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
     }
    ],
    "text": "AARO's formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA's own 2009 correspondence uses 'AAITP' and 'AAWSAP' interchangeably for the same contract, so the 'never an official DoD program' line depends entirely on which of the two names is treated as canonical.",
@@ -379,9 +439,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-247dc3ad",
+     "id": "n-reid-sap-letter-2009",
      "locator": null,
-     "title": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)"
+     "title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
     }
    ],
    "text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
@@ -397,7 +457,13 @@
     "text": "AARO Historical Record Report Volume 1, DOPSR-2024-0263, 8 March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "DOPSR-2024-0263",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's March 2024 Historical Record Report Volume 1 identifies 2009 as the standup year for AAWSAP and AATIP and states that 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.'",
    "tier": 1
   },
@@ -411,7 +477,13 @@
     "text": "Packet presented to DEPSECDEF, 17 November 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-depsecdef-sap-packet-2009",
+     "locator": null,
+     "title": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+    }
+   ],
    "text": "A single DoD packet records three names for the same effort: official title AAWSAP, Senator Reid's usage AAITP (Advanced Aerospace Threat and Identification Program), and unclassified nickname AATIP.",
    "tier": 1
   },
@@ -425,7 +497,13 @@
     "text": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-oversight-house-gov-bcaf006d",
+     "locator": "reporting his whistleblower source",
+     "title": "Michael Shellenberger, written testimony, House Oversight"
+    }
+   ],
    "text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",
    "tier": 2
   },
@@ -439,7 +517,13 @@
     "text": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ef6f37976a14",
+     "locator": null,
+     "title": "The Phenomenon (2020"
+    }
+   ],
    "text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
    "tier": 2
   },
@@ -453,7 +537,13 @@
     "text": "DIA talking paper DR_Reid_Mtg_Nov09, 19 Nov 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents2-theblackvault-446395e3",
+     "locator": null,
+     "title": "DIA talking paper — Senator Reid meeting, November 2009"
+    }
+   ],
    "text": "DIA scheduled a 19 Nov 2009 4:45pm briefing of Reid in SVC-217 to tell him the deliverables 'do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.'",
    "tier": 1
   },
@@ -523,7 +613,13 @@
     "text": "Bryan Bender, Politico, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-bd6502c8fcd1",
+     "locator": null,
+     "title": "Bryan Bender"
+    }
+   ],
    "text": "Pentagon spokeswoman Dana White confirmed to Politico that Luis Elizondo directed AATIP.",
    "tier": 2
   },
@@ -537,7 +633,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, CIK 1710274, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Delaware public benefit corporation, Commission File Number 024-10728, IRS EIN 82-0601064, with DeLonge, Semivan and Puthoff as directors and Elizondo and Justice as significant employees.",
    "tier": 1
   },
@@ -573,9 +675,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-329a555d",
+     "id": "n-aaro-historical-record-vol1",
      "locator": null,
-     "title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
     }
    ],
    "text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
@@ -591,7 +693,13 @@
     "text": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-584b2a30",
+     "locator": null,
+     "title": "The Black Vault"
+    }
+   ],
    "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
    "tier": 1
   },
@@ -605,7 +713,13 @@
     "text": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-debrief-2023-06-05",
+     "locator": null,
+     "title": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin"
+    }
+   ],
    "text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
    "tier": 2
   },

@@ -8,18 +8,30 @@
 {
 "id": "c-da01ac4f5c",
 "source": "CAUS v. NSA, D.C. Circuit (CourtListener); cert. denied 8 March 1982",
-"sources": [],
+"sources": [
+{
+"id": "u-courtlistener-com-bc299077",
+"locator": "cert. denied 8 March 1982",
+"title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+}
+],
 "text": "In Citizens Against UFO Secrecy v. National Security Agency the D.C. Circuit upheld NSA's withholding of UFO-related records; certiorari was denied in 1982.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-159c13ba74",
 "source": "The Black Vault, UFOs: The National Security Agency (NSA) Collection",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-434b4049",
+"locator": null,
+"title": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records"
+}
+],
 "text": "NSA's released UFO document collection, including the Yeates affidavit and associated litigation records, is publicly archived.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-47aea4a8c4",
@@ -28,7 +40,7 @@
 {
 "id": "foia-dia-00349-2018",
 "locator": null,
-"title": "DIA FOIA-00349-2018"
+"title": "DIA release FOIA-00349-2018"
 }
 ],
 "text": "The DIA released the AAWSAP contract file under FOIA case FOIA-00349-2018, producing the statement of work, contract modifications and the Defense Intelligence Reference Documents.",

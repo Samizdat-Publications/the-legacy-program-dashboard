@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-e95749f8eb",
+"locator": "cryptonym succession",
+"node": "stargate-program",
+"nodeLabel": "STAR GATE and predecessor remote viewing programs, 1970-1995",
+"sourceText": "Wikipedia, Stargate Project (U.S. Army unit), citing declassified programme records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The programme ran under successive cryptonyms: SCANATE (c.1970, CIA), GONDOLA WISH (1977, Army ACSI SED), GRILL FLAME (mid-1978, INSCOM, Fort Meade Buildings 2560-2561), CENTER LANE (1983), SUN STREAK (late 1985, DIA S&TI), STAR GATE (1991).",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -159,7 +170,15 @@
 ],
 "node": null,
 "title": "Wikipedia - Stargate Project (U.S. Army unit)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-e95749f8eb"
+],
+"id": "stargate",
+"title": "STAR GATE and remote viewing"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Stargate_Project_(U.S._Army_unit)"

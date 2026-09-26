@@ -7,18 +7,30 @@
 {
 "id": "c-8d21c196d3",
 "source": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-27c1dda9",
+"locator": null,
+"title": "House Oversight - Wiggins written statement (PDF)"
+}
+],
 "text": "The encounter occurred '15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast'; a self-luminous tic-tac object emerged from the ocean and joined three similar objects.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cbc955d63a",
 "source": "Wiggins written statement, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-27c1dda9",
+"locator": null,
+"title": "House Oversight - Wiggins written statement (PDF)"
+}
+],
 "text": "CIC personnel recorded the encounter on a Star SAFIRE multi-spectral EO/IR system; footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c40dba1bf0",
@@ -26,7 +38,7 @@
 "sources": [],
 "text": "The stabilized footage and screenshots were published by journalists rather than released by the Navy or AARO.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf) was rejected in review: names two sources; The Debrief is not the candidate"
 }
 ],
 "cls": "event",

@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-63019abb86",
+"locator": null,
+"node": "minot-1968",
+"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
+"sourceText": "NICAP/Project 1947 RADCAT case directory, citing the Blue Book file and unit reporting",
+"text": "Minuteman ICBM sites of N, O, J and M Flights, 91st Strategic Missile Wing, reported sightings and electromagnetic effects including security alarms activated at outer and inner silo rings, an outer door opened and the combination lock of an inner door moved.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-80553bc19f",
+"locator": "Fran Ridge editorial note",
+"node": "minot-1968",
+"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
+"sourceText": "NICAP/Project 1947 RADCAT case directory, Fran Ridge editorial note, updated 24 November 2010",
+"text": "Dan Wilson located 108 documents on the case for RADCAT; NARCAP identified 141; Project Blue Book did not send field investigators despite the interest of Strategic Air Command generals including 15th Air Force's Maj. Gen. Nichols.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -52,7 +73,16 @@
 ],
 "node": null,
 "title": "NICAP/Project 1947 RADCAT: Minot AFB, 24 October 1968",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-63019abb86",
+"c-80553bc19f"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.nicap.org/681024minot_dir.htm"

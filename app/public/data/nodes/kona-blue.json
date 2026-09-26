@@ -7,18 +7,30 @@
 {
 "id": "c-745a951e8b",
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "pp.34-35",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO describes KONA BLUE as 'a Proposed UAP Recovery and Reverse-Engineering Program' that 'was eventually rejected by DHS leadership for lacking merit'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-fb26e683f0",
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "pp.34-35",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO states the program was never approved or stood up and that the material it was intended to protect 'was only assumed to exist'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ae3f5cd7ea",
@@ -26,15 +38,21 @@
 "sources": [],
 "text": "DHS Under Secretary for Science and Technology Tara O'Toole is identified in released documentation and reporting as having established KONA BLUE before its cancellation.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Broad, undated reference to reporting across 2024-2026; no single source named."
 },
 {
 "id": "c-00e1c8f5f8",
 "source": "James Lacatski to Jeremy Corbell, published 8 April 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-124932fc0083",
+"locator": null,
+"title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+}
+],
 "text": "Lacatski hinted in April 2026 that a smaller, more focused effort related to the proposed KONA BLUE program continued after AAWSAP ended.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2fbe8906d8",
@@ -46,27 +64,45 @@
 },
 {
 "id": "c-aaf8048245",
-"source": "AARO Historical Record Report Volume I, March 2024",
-"sources": [],
+"source": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "KONA BLUE was a prospective special access program proposed to DHS and never approved; its lines of effort mirrored the AAWSAP/AATIP private-sector work.",
-"tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-f8be65f4b2",
 "source": "AARO Historical Record Report Volume I, March 2024",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "The proposal included an Oral History Initiative targeting 'an already identified and calibrated list of retired, previously highly placed government, armed services, contractor and intelligence community individuals.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f55d15edeb",
 "source": "AARO Historical Record Report Volume I, March 2024",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO: 'No extraterrestrial craft or bodies were ever collected - this material was only assumed to exist by KONA BLUE advocates.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4c6f1ee650",
@@ -82,7 +118,7 @@
 "sources": [],
 "text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:youtube.com/watch?v=F2NfXgv8x1E) was rejected in review: string does not name episode; candidate row lacks Gerb and date"
 },
 {
 "id": "c-837d5315e5",
@@ -90,55 +126,91 @@
 "sources": [],
 "text": "The Kona Blue discussion was presented alongside the Immaculate Constellation document and whistleblower Matthew Brown's claims about non-human and reproduction vehicle data.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:newsnationnow.com/podcasts-newsnation/reality-check) was rejected in review: show index page, not the 4 August 2026 episode"
 },
 {
 "id": "c-8ab1627799",
-"source": "AARO, Historical Record Report Volume I, March 2024",
-"sources": [],
+"source": "AARO, Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "KONA BLUE 'would restart UAP investigations, paranormal research... and reverse-engineer any recovered off-world spacecraft that they hoped to acquire,' and a Prospective Special Access Program was officially requested before DHS leadership rejected it.",
-"tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-45009a78a0",
 "source": "AARO, Historical Record Report Volume I, March 2024",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-fb4b969f47",
 "source": "KONA BLUE proposal text quoted in AARO Historical Record Report Volume I",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "KONA BLUE proposal text as quoted",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "The proposal's Oral History Initiative was to gather 'all information pertaining to the location of advanced aerospace technology and biological samples' from a calibrated list of retired government, armed services, contractor and intelligence community individuals.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-99020cec55",
-"source": "Letter from DHS Acting Deputy Secretary Kristie Canegallo to the Deputy Secretary of Defense, 5 February 2024, released with the AARO DHS Kona Blue package",
-"sources": [],
+"source": "Letter from DHS Acting Deputy Secretary Kristie Canegallo to the Deputy Secretary of Defense, 5 February 2024, released with the AARO DHS Kona Blue package - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-kona-blue-release",
+"locator": "Canegallo letter to the Deputy Secretary of Defense, 5 February 2024, within the package",
+"title": "AARO/DHS release: History and Origin of KONA BLUE"
+}
+],
 "text": "Kona Blue was a DHS prospective special access program terminated on 10 February 2012; DHS declassified the associated documents and transmitted them to the Deputy Secretary of Defense on 5 February 2024.",
-"tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-57a0ffa5ef",
 "source": "AARO_DHS_Kona_Blue.pdf, aaro.mil UAP Records Research",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-kona-blue-release",
+"locator": null,
+"title": "AARO/DHS release: History and Origin of KONA BLUE"
+}
+],
 "text": "AARO published the Kona Blue package on aaro.mil; the documents were made public in June 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-abe51918aa",
 "source": "AARO Historical Record Report Volume I, February 2024",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's Volume I characterises Kona Blue as a DHS proposal stemming from the cancelled DIA AAWSAP/AATIP effort that DHS leadership rejected as lacking merit.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f34def39af",
@@ -938,7 +1010,7 @@
 ],
 "sub": "Proposed DHS special access program, circa 2011",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 11 of 1138, score 122). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 12 of 1138, score 119). 16 connections, 9 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C3/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

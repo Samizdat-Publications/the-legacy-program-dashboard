@@ -12,6 +12,16 @@
 "tier": 1
 },
 {
+"cls": "institution",
+"id": "c-ce136132e2",
+"locator": "testimony of Luis Elizondo",
+"node": "bigelow-aerospace",
+"nodeLabel": "Bigelow Aerospace",
+"sourceText": "Luis Elizondo, sworn testimony, 13 November 2024",
+"text": "The divestment of 1950s-collected material to Bigelow Aerospace 'was blocked'; a required Secretary of the Air Force memorandum never issued.",
+"tier": 2
+},
+{
 "cls": "person",
 "id": "c-dc2f52816b",
 "locator": "13 November 2024, referencing Christopher Sharp's reporting",
@@ -19,6 +29,16 @@
 "nodeLabel": "Christopher Sharp",
 "sourceText": "CHRG-118hhrg57440, 13 November 2024, referencing Christopher Sharp's reporting",
 "text": "Sharp reported a material transfer between Lockheed Martin and Bigelow Aerospace that was blocked by CIA; Rep. Burlison read the reporting into the 13 November 2024 hearing and Elizondo confirmed 'it was blocked.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-3edb01eb4b",
+"locator": "testimony of Luis Elizondo",
+"node": "dopsr",
+"nodeLabel": "Defense Office of Prepublication and Security Review",
+"sourceText": "Luis Elizondo, sworn testimony, 13 November 2024",
+"text": "Reviewed Elizondo's Imminent for approximately one year prior to its August 2024 publication.",
 "tier": 2
 },
 {
@@ -143,6 +163,16 @@
 },
 {
 "cls": "event",
+"id": "c-998b65ad0d",
+"locator": null,
+"node": "hearing-2024-11-13",
+"nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"sourceText": "House Oversight hearing record, 13 November 2024",
+"text": "The hearing record states that agencies briefed since 2023, including the DoD Inspector General's office, had not substantiated Grusch's claims despite questioning inside and outside the SCIF.",
+"tier": 1
+},
+{
+"cls": "event",
 "id": "c-9ea32edaf6",
 "locator": "Index of Documents",
 "node": "hearing-2024-11-13",
@@ -159,6 +189,16 @@
 "nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "sourceText": "CHRG-118hhrg57440, cover page",
 "text": "Printed hearing record CHRG-118hhrg57440, Serial No. 118-135, cover: 'UNIDENTIFIED ANOMALOUS PHENOMENA: EXPOSING THE TRUTH - JOINT HEARING BEFORE THE SUBCOMMITTEE ON CYBERSECURITY, INFORMATION TECHNOLOGY, AND GOVERNMENT INNOVATION AND THE SUBCOMMITTEE ON NATIONAL SECURITY, THE BORDER, AND FOREIGN AFFAIRS OF THE COMMITTEE ON OVERSIGHT AND ACCOUNTABILITY, U.S. HOUSE OF REPRESENTATIVES, ONE HUNDRED EIGHTEENTH CONGRESS, SECOND SESSION, NOVEMBER 13, 2024'. GPO print number 57-440, printed 2025.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-ad0e622c55",
+"locator": null,
+"node": "hearing-2024-11-13",
+"nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"sourceText": "House Oversight hearing record, Serial No. 118-140, 13 November 2024",
+"text": "Elizondo, under oath: he worked with Grusch at US Space Force, and 'Yes, sir' that he agreed with Grusch's multi-decade crash, retrieval and reverse-engineering testimony.",
 "tier": 1
 },
 {
@@ -274,16 +314,6 @@
 {
 "cls": "document",
 "id": "c-81282dc1e5",
-"locator": "13 November 2024",
-"node": "immaculate-constellation-12-page-report",
-"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
-"sourceText": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf",
-"text": "The hearing record gives the page count as twelve in the chair's own words, twice, and credits the delivery to Shellenberger: 'I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.' Earlier in the same session Mace said 'Mr. Burchett will enter it into the record, but 12 pages about this unacknowledged special access program that your government says does not exist.'",
-"tier": 1
-},
-{
-"cls": "document",
-"id": "c-81282dc1e5",
 "locator": null,
 "node": "immaculate-constellation-12-page-report",
 "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
@@ -314,7 +344,7 @@
 {
 "cls": "document",
 "id": "c-fadb4db0e1",
-"locator": "13 November 2024",
+"locator": null,
 "node": "immaculate-constellation-12-page-report",
 "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "sourceText": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf ; and the committee repository item, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
@@ -323,13 +353,13 @@
 },
 {
 "cls": "document",
-"id": "c-fadb4db0e1",
-"locator": null,
+"id": "c-5ea6aceb26",
+"locator": "testimony of Michael Shellenberger",
 "node": "immaculate-constellation-12-page-report",
 "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
-"sourceText": "U.S. GPO, Hearing transcript, Serial No. 118-135 (CHRG-118hhrg57440), 13 November 2024, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/pdf/CHRG-118hhrg57440.pdf ; and the committee repository item, https://www.congress.gov/118/meeting/house/117721/documents/HHRG-118-GO12-20241113-SD003.pdf",
-"text": "The report is not in the Congressional Record copy this node cites. The GPO hearing print CHRG-118hhrg57440 lists the report in its Index of Documents and then says 'The documents listed above are available at: docs.house.gov'; the words Global, CENTCOM, cover letter and signals intelligence occur nowhere in that print. The document itself is committee repository item HHRG-118-GO12-20241113-SD003.",
-"tier": 1
+"sourceText": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"tier": 2
 },
 {
 "cls": "document",
@@ -339,6 +369,16 @@
 "nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "sourceText": "CHRG-118hhrg57440",
 "text": "Asked whether he had been read in, Elizondo said he 'would not be authorized to confirm nor deny the existence of any ongoing or past program, especially as it relates to a special access program, either by name or trigraph.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-6c055c72aa",
+"locator": "testimony of Michael Shellenberger",
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'The report that was just shared with Congress says Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms. Immaculate Constellation includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
 "tier": 2
 },
 {
@@ -363,6 +403,26 @@
 },
 {
 "cls": "event",
+"id": "c-05bc19eaae",
+"locator": "testimony of Michael Shellenberger",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"sourceText": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "The report describes 'a roughly 13-minute long, high-definition, full-color video of a white orb UAP coming out of the ocean approximately 20 miles off the coast of Kuwait ... joined by another orb that briefly comes into the frame from the left.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-2477ebc37d",
+"locator": "testimony of Michael Shellenberger",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"sourceText": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'One involved orbs surrounding and forcing an F-22 out of its patrol area. In another incident, the crew of a Navy aircraft carrier watched a small orange/red sphere rapidly descend from a high altitude of 100 to 200 yards directly above the flight deck.'",
+"tier": 2
+},
+{
+"cls": "event",
 "id": "c-5ef2e8f60b",
 "locator": "13 November 2024",
 "node": "immaculate-constellation",
@@ -379,6 +439,16 @@
 "nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
 "sourceText": "Rep. Nancy Mace, House Oversight hearing, 13 November 2024 (CHRG-118hhrg57440)",
 "text": "'Committee staff asked me to go ahead, and I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-b90e760547",
+"locator": "testimony of Michael Shellenberger",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"sourceText": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms' and 'includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
 "tier": 2
 },
 {
@@ -433,13 +503,33 @@
 },
 {
 "cls": "person",
+"id": "c-2308ae3439",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "House Committee on Oversight and Accountability hearing record, 13 November 2024",
+"text": "Elizondo testified as a named witness before the House Oversight Subcommittees on Cybersecurity/IT and National Security on 13 November 2024.",
+"tier": 1
+},
+{
+"cls": "person",
 "id": "c-c2e7045ad9",
-"locator": "CONTENTS and INDEX OF DOCUMENTS",
+"locator": null,
 "node": "luis-elizondo",
 "nodeLabel": "Luis D. Elizondo",
 "sourceText": "CHRG-118hhrg57440 CONTENTS and INDEX OF DOCUMENTS",
 "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Luis Elizondo, Author, and Former Department of Defense Official'. Questions for the Record were submitted to him by Rep. Burlison and printed in CHRG-118hhrg57440.",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-0bc442fda9",
+"locator": "testimony of Luis Elizondo",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "Luis Elizondo, sworn testimony, House Oversight Committee, 13 November 2024",
+"text": "'There was an aerospace contract company that requested to divest itself of the material... that was collected in the 1950s. Unfortunately, that did not actually occur.'",
+"tier": 2
 },
 {
 "cls": "person",
@@ -474,7 +564,7 @@
 {
 "cls": "person",
 "id": "c-ec4af65435",
-"locator": "CONTENTS",
+"locator": null,
 "node": "michael-gold",
 "nodeLabel": "Michael Gold",
 "sourceText": "CHRG-118hhrg57440 CONTENTS",
@@ -484,7 +574,7 @@
 {
 "cls": "person",
 "id": "c-746cf4f2fc",
-"locator": "CONTENTS and statement of Rep. Mace",
+"locator": null,
 "node": "michael-shellenberger",
 "nodeLabel": "Michael Shellenberger",
 "sourceText": "CHRG-118hhrg57440 CONTENTS and statement of Rep. Mace",
@@ -500,6 +590,16 @@
 "sourceText": "GPO CHRG-118hhrg57440, Index of Documents",
 "text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-6ae89a86ac",
+"locator": "testimony of Michael Shellenberger",
+"node": "michael-shellenberger",
+"nodeLabel": "Michael Shellenberger",
+"sourceText": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"tier": 2
 },
 {
 "cls": "person",
@@ -534,7 +634,7 @@
 {
 "cls": "person",
 "id": "c-92933bd5d9",
-"locator": "INDEX OF DOCUMENTS and proceedings",
+"locator": null,
 "node": "nancy-mace",
 "nodeLabel": "Nancy Ruth Mace",
 "sourceText": "CHRG-118hhrg57440 INDEX OF DOCUMENTS and proceedings",
@@ -564,7 +664,7 @@
 {
 "cls": "person",
 "id": "c-1f8c5e956c",
-"locator": "CONTENTS",
+"locator": null,
 "node": "tim-gallaudet",
 "nodeLabel": "Timothy Gallaudet",
 "sourceText": "CHRG-118hhrg57440 CONTENTS",
@@ -1580,7 +1680,7 @@
 }
 ],
 "node": null,
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)",
 "topics": [
 {
 "claims": [
@@ -1590,7 +1690,9 @@
 "c-4b9471c6e5",
 "c-522b06a699",
 "c-8887df1e52",
+"c-998b65ad0d",
 "c-acac68bf02",
+"c-ad0e622c55",
 "c-b5ef4b296e",
 "c-b67994c819",
 "c-c9772fc622",
@@ -1601,12 +1703,14 @@
 "c-c2c819731b",
 "c-f6c82f5a45",
 "c-81282dc1e5",
-"c-81282dc1e5",
-"c-fadb4db0e1",
 "c-fadb4db0e1",
 "c-fc33e89c5b",
 "c-46bc64290f",
+"c-2477ebc37d",
 "c-5ef2e8f60b",
+"c-b90e760547",
+"c-2308ae3439",
+"c-0bc442fda9",
 "c-91b6e963c3",
 "c-93c68cda9e",
 "c-08b43a4b81",
@@ -1627,15 +1731,28 @@
 "c-dbf15f686d",
 "c-c2c819731b",
 "c-81282dc1e5",
-"c-81282dc1e5",
 "c-fadb4db0e1",
-"c-fadb4db0e1",
+"c-6c055c72aa",
 "c-46bc64290f",
+"c-05bc19eaae",
+"c-2477ebc37d",
 "c-5ef2e8f60b",
-"c-746cf4f2fc"
+"c-b90e760547",
+"c-746cf4f2fc",
+"c-6ae89a86ac"
 ],
 "id": "immaculate-constellation",
 "title": "Immaculate Constellation: the 2024 allegation"
+},
+{
+"claims": [
+"c-2308ae3439",
+"c-0bc442fda9",
+"c-91b6e963c3",
+"c-93c68cda9e"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
 },
 {
 "claims": [
@@ -1649,19 +1766,20 @@
 },
 {
 "claims": [
-"c-91b6e963c3",
-"c-93c68cda9e"
-],
-"id": "aatip-elizondo",
-"title": "AATIP and Luis Elizondo"
-},
-{
-"claims": [
 "c-46bc64290f",
-"c-746cf4f2fc"
+"c-746cf4f2fc",
+"c-6ae89a86ac"
 ],
 "id": "media-substrate",
 "title": "Podcasts, broadcasters and independent media"
+},
+{
+"claims": [
+"c-2308ae3439",
+"c-c2e7045ad9"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
 },
 {
 "claims": [
@@ -1692,13 +1810,6 @@
 ],
 "id": "cia-secrecy-precedents",
 "title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
-},
-{
-"claims": [
-"c-c2e7045ad9"
-],
-"id": "documentaries",
-"title": "Documentaries and books"
 },
 {
 "claims": [

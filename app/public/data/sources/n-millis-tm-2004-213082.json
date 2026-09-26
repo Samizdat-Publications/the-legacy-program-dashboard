@@ -1,21 +1,462 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-6e63f8a30c",
+"locator": null,
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "NASA'S OWN ASSESSMENT OF THE MECHANISM THE ACCOUNT INVOKES, from NASA/TM-2004-213082 section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THE NASA DOCUMENT SAYS NOTHING ABOUT THE ARV, HAS NEVER HEARD OF IT, AND NO EDGE JOINS THEM. It is recorded here because it is the published finding on the mechanism the account names, and for no other reason.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-099ebf3b69",
+"locator": null,
+"node": "d-exotic",
+"nodeLabel": "Exotic Technology & Physics",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "The domain's best single published adjudication, and it is openable by anyone: NASA/TM-2004-213082, by the manager of NASA's Breakthrough Propulsion Physics Project, which rules on Biefeld-Brown and its variants in section 3.2.7, on metric engineering in section 3.3.1, and on high frequency gravitational waves in section 3.3.2.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4382857e9f",
+"locator": null,
+"node": "marc-millis",
+"nodeLabel": "Marc G. Millis",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "He is the author of the single document that adjudicates three of the propulsion mechanisms this board tracks: Biefeld-Brown and its variants, Alcubierre-style metric engineering, and high frequency gravitational waves. His conclusion on the first, in his own text: these devices 'are not viable candidates for breakthrough physics propulsion'. On the second: they are 'extremely unlikely to be engineered'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b5d6d0ff37",
+"locator": null,
+"node": "marc-millis",
+"nodeLabel": "Marc G. Millis",
+"sourceText": "NASA/TM-2004-213082, title page and abstract, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "HE RAN NASA'S OWN ASSESSMENT OF EXOTIC PROPULSION, WHICH IS AN EARLIER AND STRONGER INSTITUTIONAL FACT THAN THE AAWSAP DIRD AUTHORSHIP THE BOARD ALREADY CARRIES FOR HIM. NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and summarises the Breakthrough Propulsion Physics Project, which 'NASA supported... from 1996 through 2002'. He therefore comes to the DIA's 2010 'Cockpits in the Era of Breakthrough Flight' with six years of having managed the federal government's only public, funded assessment of the same class of claims.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-203975076f",
+"locator": null,
+"node": "nasa-bpp",
+"nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "Its own account of why NASA established it: 'New theories and phenomena have emerged in recent scientific literature that have reawakened consideration that propulsion breakthroughs may become achievable... This includes literature about warp drives, wormholes, quantum tunneling, vacuum fluctuation energy, and the coupling of gravity and electromagnetism. This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the \"Breakthrough Propulsion Physics (BPP)\" Project in 1996.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-450d104e31",
+"locator": null,
+"node": "nasa-bpp",
+"nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "Its own statement of its method and its result: 'Because these challenges are presumably far from fruition, and perhaps even impossible, a special emphasis is placed on selecting incremental and affordable research that addresses the critical issues behind these challenges. Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-859ce408c8",
+"locator": null,
+"node": "nasa-bpp",
+"nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "THE PROJECT ADJUDICATED THREE OF THIS STRAND'S SIX MECHANISMS BY NAME, which is what makes it board material: Biefeld-Brown and its lifter and asymmetrical-capacitor variants in section 3.2.7 of its summary document, Alcubierre-style metric engineering in section 3.3.1, and high frequency gravitational waves in section 3.3.2. Its findings on each are carried on millis-tm-2004-213082.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f3c125654c",
+"locator": null,
+"node": "nasa-bpp",
+"nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "The project's own statement of what it was: 'To assess the implications of these emerging prospects for future spaceflight, NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-8570083ba0",
+"locator": null,
+"node": "nasa-bpp",
+"nodeLabel": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
+"sourceText": "Reasoning over NASA/TM-2004-213082 against the board's own dird-series claims, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "Stated inference, and it is the comparison the strand exists to make. A civil agency ran a six-year public assessment of exotic propulsion, named the claims, published which ones failed, and closed. Seven years later a defence agency commissioned thirty-eight reference documents covering overlapping subjects, released them only under FOIA, and redacted every author. THE INFERENCE IS ABOUT TRANSPARENCY AND NOT ABOUT CONTENT: nothing opened joins the two programmes to each other, and no institutional edge between them is proposed.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-06ec5a3c13",
+"locator": null,
+"node": "millis-tm-2004-213082",
+"nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "Useful to the board as a dating of a term of art the UAP literature treats as technical: NASA recorded in 2004 that 'metric engineering' had emerged at aerospace conferences and that its origin was unknown.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-19e267e389",
+"locator": null,
+"node": "millis-tm-2004-213082",
+"nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "The abstract's own statement of the project's result: 'To assess the implications of these emerging prospects for future spaceflight, NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002... Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3fdbf0f34d",
+"locator": null,
+"node": "millis-tm-2004-213082",
+"nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "The three references NASA gives behind 'all rigorous experimental tests', as printed: Talley, R. L., 'Twenty First Century Propulsion Concept,' PL-TR-91-3009, Final Report for the period Feb 89 to July 90, on Contract FO4611-89-C-0023, Phillips Laboratory, Air Force Systems Command, Edwards AFB, CA (1991); Tajmar, M., 'Experimental Investigation of 5-D Divergent Currents as a Gravity-Electromagnetism Coupling Concept,' AIP Conference Proceedings, 504, STAIF, Albuquerque, NM, (2000), pp. 998-1003; and Tajmar, M., 'The Biefeld-Brown Effect: Misinterpretation of Corona Wind Phenomena,' AIAA Journal of Propulsion and Power, 42, (2004), pp. 315-318. NONE OF THOSE THREE WAS OPENED BY THIS SESSION and none is asserted from directly.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-79456524f0",
+"locator": null,
+"node": "millis-tm-2004-213082",
+"nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "THE HUTCHISON ZERO-COUNT, and it is one of the two checkable facts behind this board's treatment of that claim. Word counts over the complete 19-page text: Biefeld 4, Brown 6, lifter 2, asymmetric 5, Podkletnov 12, Alcubierre 1, ion wind 1, and HUTCHISON 0. NASA's project existed to triage claims of exactly this kind and found about a third of sixteen tasks not viable; the Hutchison effect did not reach the list of things worth finding not viable. THIS IS EVIDENCE ABOUT WHAT NASA EXAMINED AND IS NOT A FINDING THAT THE CLAIM IS FALSE.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8bda8ea947",
+"locator": null,
+"node": "millis-tm-2004-213082",
+"nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "THE BIEFELD-BROWN ADJUDICATION, section 3.2.7, verbatim and in full: 'In 1928 a device was patented for creating thrust using high-voltage capacitors. Since then, a wide variety of variants of this \"Biefeld-Brown\" effect, such as \"Lifters\" and \"Asymmetrical Capacitors\" have claimed that such devices operate on an \"electrostatic antigravity\" or \"electrogravitic\" effect. One of the most recent variants was patented by NASA-MSFC. To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind. Vacuum tests currently underway, sponsored through an additional Congressional earmark to the West Virginia Institute for Scientific Research, also indicate that this effect is not indicative of new propulsion physics. These tests are now assessing the more conventional performance of such devices. These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a3434ea538",
+"locator": null,
+"node": "millis-tm-2004-213082",
+"nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "Section 3.3.2 treats high frequency gravitational waves as a DETECTION problem, opening 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses, such as collisions of black holes' and proceeding to interferometry and LIGO. Fifteen years later the US Navy was granted US 10,322,827 for a high frequency gravitational wave GENERATOR. Both statements are Tier 1 for what their own documents say.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a69b4a089b",
+"locator": null,
+"node": "millis-tm-2004-213082",
+"nodeLabel": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "THE METRIC-ENGINEERING ADJUDICATION, section 3.3.1, verbatim: 'Enormous technical hurdles face these concepts. In particular, they require enormous quantities of \"negative energy\" (equivalent mass of planets or suns), and evoke time-travel paradoxes (\"closed-time-like curves\").' And: 'Recently, the term \"metric engineering\" has emerged at aerospace conferences to represent such space-warping propulsion concepts. The origin of this term is unknown. Given the magnitude of energy requirements to create perceptible effects, it is unlikely that experimental work will be forthcoming in the near future. Even though these theoretical concepts are extremely unlikely to be engineered, they are at least useful as teaching tools to more thoroughly explore the intricacies of Einstein's General Relativity.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-402e422e50",
+"locator": null,
+"node": "nasa",
+"nodeLabel": "National Aeronautics and Space Administration",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "NASA RAN THE ONLY PUBLIC, FUNDED, FEDERAL ASSESSMENT OF EXOTIC PROPULSION THIS BOARD HAS FOUND. From its own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.' Of sixteen incremental research tasks completed, 'about a third were found not to be viable'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-90487e0579",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "Reasoning over NASA/TM-2004-213082 against the board's own dird-series claims, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "Stated inference, and it is about transparency rather than content. Between 1996 and 2002 NASA ran a public, funded, unclassified assessment of exotic propulsion, named the claims it examined, published which of sixteen tasks failed, and closed. Between 2009 and 2011 DIA commissioned thirty-eight reference documents covering overlapping subject matter, released them only under FOIA, and withheld every author under exemption (b)(6). NOTHING OPENED JOINS THE TWO PROGRAMMES TO EACH OTHER and no institutional edge between them is proposed; Marc Millis wrote for both, which is a fact about a person and not a link between the institutions.",
+"tier": 3
+},
+{
+"cls": "person",
+"id": "c-2e74cc123c",
+"locator": null,
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
+"text": "THE MODERN COUNTER-EXPLANATION IS NASA'S OWN AND IT NAMES THE EFFECT. NASA/TM-2004-213082, section 3.2.7, by the manager of NASA's Breakthrough Propulsion Physics Project: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES AND NOT ABOUT WHAT BROWN'S PATENTS CLAIM, since the patents never claimed anti-gravity in the first place.",
+"tier": 1
+}
+],
 "date": "2004-06",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+"b": {
+"cls": "program",
+"id": "nasa-bpp",
+"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)"
+},
+"claimTier": 1,
+"id": "e-5c7625eb62",
+"label": "Managed NASA's Breakthrough Propulsion Physics Project, 1996 to 2002",
+"note": "NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and is the project's own summary of its methods and findings. This is an earlier and stronger institutional fact about him than the AAWSAP DIRD authorship the board already carries.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+"b": {
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"claimTier": 1,
+"id": "e-285a3bdd1b",
+"label": "Sole author of the project's summary technical memorandum",
+"note": "AUTHORSHIP IS research AND NOT custody on this board: custody carries a x3.0 programme weighting and an author is not a custodian. He wrote the document; he did not hold it.",
+"type": "research"
+},
+{
+"a": {
+"cls": "program",
+"id": "nasa-bpp",
+"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)"
+},
+"b": {
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+"claimTier": 1,
+"id": "e-1382ddfcca",
+"label": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
+"note": "From the project's own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "canning-nasa-cr-2004-213312",
+"label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
+},
+"b": {
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"claimTier": 1,
+"id": "e-9cfb945495",
+"label": "The experiment behind the survey's ion-wind finding",
+"note": "Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"b": {
+"cls": "document",
+"id": "alcubierre-1994",
+"label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
+},
+"claimTier": 1,
+"id": "e-623b0662f3",
+"label": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
+"note": "DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts 'require enormous quantities of \"negative energy\" (equivalent mass of planets or suns)' and are 'extremely unlikely to be engineered'. Alcubierre's own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"b": {
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+"claimTier": 1,
+"id": "e-c0690fe47e",
+"label": "The domain's best single published adjudication",
+"note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"b": {
+"cls": "program",
+"id": "nasa-bpp",
+"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)"
+},
+"claimTier": 1,
+"id": "e-63679eb61d",
+"label": "The published summary of the project's methods and findings",
+"note": "A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"b": {
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+},
+"claimTier": 1,
+"id": "e-9594c4bce3",
+"label": "NASA: the observed thrust is ion wind, and these devices are not viable candidates",
+"note": "EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+"b": {
+"cls": "document",
+"id": "pais-patent-hfgw",
+"label": "US Patent 10,322,827 - High frequency gravitational wave generator"
+},
+"claimTier": 3,
+"id": "e-0765b03a3d",
+"label": "NASA treated high frequency gravitational waves as a detection problem in 2004",
+"note": "STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.",
+"type": "research"
+}
+],
 "era": "2",
 "id": "n-millis-tm-2004-213082",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "NASA",
+"listedOn": [
+{
+"cls": "program",
+"id": "arv-fluxliner",
+"label": "Alien Reproduction Vehicle (ARV) / Flux Liner"
+},
+{
+"cls": "domain",
+"id": "d-exotic",
+"label": "Exotic Technology & Physics"
+},
+{
+"cls": "person",
+"id": "marc-millis",
+"label": "Marc G. Millis"
+},
+{
+"cls": "program",
+"id": "nasa-bpp",
+"label": "NASA Breakthrough Propulsion Physics Project (1996-2002)"
+},
+{
+"cls": "document",
+"id": "millis-tm-2004-213082",
+"label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
+},
+{
+"cls": "institution",
+"id": "nasa",
+"label": "National Aeronautics and Space Administration"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+{
+"cls": "person",
+"id": "thomas-townsend-brown",
+"label": "Thomas Townsend Brown"
+},
+{
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+}
+],
 "node": {
 "cls": "document",
 "id": "millis-tm-2004-213082",
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
 },
 "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-4382857e9f",
+"c-b5d6d0ff37",
+"c-203975076f",
+"c-450d104e31",
+"c-859ce408c8",
+"c-f3c125654c",
+"c-8570083ba0",
+"c-06ec5a3c13",
+"c-79456524f0",
+"c-8bda8ea947",
+"c-a3434ea538",
+"c-a69b4a089b"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+},
+{
+"claims": [
+"c-8bda8ea947",
+"c-2e74cc123c"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+},
+{
+"claims": [
+"c-6e63f8a30c"
+],
+"id": "arv-fluxliner",
+"title": "The claimed ARV, or Flux Liner, and the Norton 1988 exhibit"
+},
+{
+"claims": [
+"c-90487e0579"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+},
+{
+"claims": [
+"c-a3434ea538"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf"
+]
 }

@@ -10,7 +10,7 @@
 "sources": [],
 "text": "MITRE was incorporated as a nonprofit organization on 21 July 1958, with Robert Everett as first technical director and 485 other Lincoln Laboratory employees transferring in; it continued as lead systems engineer for SAGE.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:sage.mitre.org/timeline) was rejected in review: names the site; candidate is the timeline page"
 },
 {
 "id": "c-6043a34447",
@@ -18,7 +18,7 @@
 "sources": [],
 "text": "MITRE operates six FFRDCs: NSEC (DoD/USD(R&E)), CAASD (DOT/FAA), Center for Enterprise Modernization (Treasury/IRS with VA, SSA, Commerce), HSSEDI (DHS S&T, created 5 March 2009), the Health FFRDC (HHS), and the National Cybersecurity Center of Excellence (Commerce/NIST, created 19 September 2014).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mitre.org/our-impact/rd-centers) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-8bdc41be6b",
@@ -26,8 +26,8 @@
 "sources": [
 {
 "id": "crs-r44629",
-"locator": "FFRDC funding table",
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"locator": null,
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "MITRE's National Security Engineering Center received approximately $1,431.7 million in FY2024 funding.",
@@ -37,18 +37,30 @@
 {
 "id": "c-7454cc53c9",
 "source": "USAspending.gov federal award records",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "MITRE's NSEC work is executed through Army-administered task orders under IDIQ W56KGU18D0004, including task orders W56KGU20F0009, W56KGU21F0008, W56KGU22F0017, W56KGU23F0006 and W56KGU24F0010, the last valued at approximately $752 million.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7cff0417a2",
 "source": "USAspending.gov federal award records",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "MITRE's CAASD FFRDC has been executed under FAA contracts DTFAWA10C00080 (approximately $1.70 billion) and 693KA822C00001 (approximately $761 million).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-44eb0ea603",
@@ -56,15 +68,21 @@
 "sources": [],
 "text": "On 22 May 2026 Rep. Eric Burlison sent MITRE a 10-page letter with more than 40 production requests covering UAP records back to 1930, including legacy crash-retrieval and reverse-engineering programmes, Special and Controlled Access Programs, sensor data, materials analysis and classification guides.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:burlison-mitre-letter-2026) was rejected in review: press release and news items, not the letter itself"
 },
 {
 "id": "c-48fc20e323",
 "source": "DefenseScoop, 27 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-cc551f20",
+"locator": null,
+"title": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930"
+}
+],
 "text": "A MITRE spokesperson said that insiders were reviewing its archives and that 'if any relevant material is found, we will coordinate with the federal agencies responsible for the work.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-97ad553905",
@@ -72,7 +90,7 @@
 "sources": [],
 "text": "The 7 August 2026 UAP Gerb investigation alleges MITRE has held a central role since 1958 in a Navy-spearheaded programme to reverse engineer and mature non-human technologies recovered in the late 1940s, and processes all-source data on a very large unidentified submerged object in the Atlantic.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:gerb-mitre-investigation) was rejected in review: outlet and date only; candidate row shows no 7 August date"
 },
 {
 "id": "c-f5e536f4d3",
@@ -80,7 +98,7 @@
 "sources": [],
 "text": "Contractors associated with NAVAIR programs at Patuxent River have included Lockheed Martin and the MITRE Corporation, in the context of reporting that an exotic vehicle has been stored at the base for decades.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:liberationtimes.com/home/ufo-allegedly-stored-at-east-coast-navy-facility-as) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-1d86f477c0",

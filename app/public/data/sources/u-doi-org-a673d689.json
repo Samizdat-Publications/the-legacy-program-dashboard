@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-49fb5f331d",
+"locator": null,
+"node": "stephen-bruehl",
+"nodeLabel": "Stephen Bruehl",
+"sourceText": "SCU, Zenodo DOI 10.5281/zenodo.16650011",
+"text": "Bruehl published 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-' through SCU on 31 July 2025.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +28,15 @@
 ],
 "node": null,
 "title": "Bruehl, 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-', SCU (Zenodo)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-49fb5f331d"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.5281/zenodo.16650011"

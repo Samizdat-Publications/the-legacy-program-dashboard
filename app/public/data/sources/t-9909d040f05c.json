@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5cadabebfd",
+"locator": null,
+"node": "betty-cash",
+"nodeLabel": "Betty Cash",
+"sourceText": "Gersten, quoted in the Houston Chronicle, Texas Magazine, 17 November 1996, p. 8",
+"text": "Attorney Peter Gersten later stated that the suit was a bluff, brought in the hope that the government would settle quietly and cover the medical expenses.",
+"tier": 2
+}
+],
+"date": "1996-11-17",
+"edges": [],
+"era": "1",
+"id": "t-9909d040f05c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Houston Chronicle, Texas Magazine",
+"listedOn": [],
+"node": null,
+"title": "Houston Chronicle, Texas Magazine, 17 November 1996",
+"topics": [
+{
+"claims": [
+"c-5cadabebfd"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "article",
+"urls": []
+}

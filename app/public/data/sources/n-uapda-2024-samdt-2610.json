@@ -1,21 +1,157 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d0a822f3e9",
+"locator": null,
+"node": "mike-rounds",
+"nodeLabel": "Mike Rounds",
+"sourceText": "Congressional Record, 11 July 2024, S4577 et seq. (GPO)",
+"text": "S.Amdt. 2610 to S. 4638, submitted 11 July 2024, is captioned 'Mr. ROUNDS (for himself and Mr. Schumer)' and contains the complete UAP Disclosure Act of 2024 including the eminent domain subsection; it was 'ordered to lie on the table.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dbf3b2c283",
+"locator": null,
+"node": "uapda-sec-9010-eminent-domain",
+"nodeLabel": "Section 9010(a) - Exercise of Eminent Domain",
+"sourceText": "Congressional Record, 11 July 2024, text of SA 2610, GPO",
+"text": "The identical text was re-passed in filing form as Sec. __10(a) of S.Amdt. 2610 on 11 July 2024.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-da4ff7f7f9",
+"locator": "caption",
+"node": "todd-young",
+"nodeLabel": "Todd Young",
+"sourceText": "Congressional Record, 11 July 2024, caption to SA 2610",
+"text": "He does not appear as a cosponsor on the 2024 refiling, S.Amdt. 2610, which carries only Rounds and Schumer.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-74e283bf7f",
+"locator": "Sec. __10(a)",
+"node": "uapda-2024-samdt-2610",
+"nodeLabel": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
+"sourceText": "Congressional Record, 11 July 2024, SA 2610, Sec. __10(a), GPO",
+"text": "The 2024 text retains the eminent domain command verbatim at Sec. __10(a).",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ad69f9949d",
+"locator": null,
+"node": "uapda-2024-samdt-2610",
+"nodeLabel": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
+"sourceText": "Congressional Record, 11 July 2024, text of SA 2610, GPO",
+"text": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' to S. 4638 and 'was ordered to lie on the table.'",
+"tier": 1
+}
+],
 "date": "2024",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+},
+"claimTier": 1,
+"id": "e-0674cccc32",
+"label": "Lead sponsor of the 2024 refiling",
+"note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+},
+"b": {
+"cls": "legislation",
+"id": "iaa-fy2025-title-lxviii",
+"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+},
+"claimTier": 1,
+"id": "e-e6238b23e3",
+"label": "Never called up; FY2025 enacted with no disclosure regime",
+"note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 1,
+"id": "e-bf9b3d48ed",
+"label": "Verbatim refiling of the 2023 text",
+"note": "The 2024 amendment reproduces the findings, definitions, Review Board, Controlled Disclosure Campaign Plan and eminent domain command without softening.",
+"type": "temporal"
+}
+],
 "era": "3",
 "id": "n-uapda-2024-samdt-2610",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "U.S. Government Publishing Office",
+"listedOn": [
+{
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+{
+"cls": "document",
+"id": "uapda-sec-9010-eminent-domain",
+"label": "Section 9010(a) - Exercise of Eminent Domain"
+},
+{
+"cls": "person",
+"id": "todd-young",
+"label": "Todd Young"
+},
+{
+"cls": "legislation",
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+}
+],
 "node": {
 "cls": "legislation",
 "id": "uapda-2024-samdt-2610",
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
 },
 "title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d0a822f3e9",
+"c-74e283bf7f",
+"c-ad69f9949d"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
 "type": "statute",
-"urls": []
+"urls": [
+"https://www.govinfo.gov/content/pkg/CREC-2024-07-11/html/CREC-2024-07-11-pt1-PgS4577.htm"
+]
 }

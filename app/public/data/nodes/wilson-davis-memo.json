@@ -9,9 +9,9 @@
 "source": "The Wilson-Davis notes as published, fifteen pages, read image by image, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
 "sources": [
 {
-"id": "u-documents2-theblackvault-60e9a6c9",
+"id": "n-wilson-davis-memo",
 "locator": null,
-"title": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files"
+"title": "The Wilson-Davis Notes (16 October 2002)"
 }
 ],
 "text": "The published document is typed, not handwritten, and two of its fifteen pages are somebody else's letter. The copy in public circulation is fifteen typed pages headed 'EWD NOTES', then '10/16/02', then 'Eric Davis Meeting with Adm. Wilson', numbered 1 to 15 at the foot. Pages 3 and 4 are a two page letter on United States Navy letterhead dated April 25, 2002, from Belleair Bluffs, Florida, to 'Dr. Eric W. Davis, CEO, Warp Drive Metrics', signed 'Will Miller'; the notes flag it at the foot of page 2 as '[paper-clipped letter here]'.",
@@ -23,9 +23,9 @@
 "source": "The Wilson-Davis notes as published, all fifteen pages, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
 "sources": [
 {
-"id": "u-documents2-theblackvault-60e9a6c9",
+"id": "n-wilson-davis-memo",
 "locator": null,
-"title": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files"
+"title": "The Wilson-Davis Notes (16 October 2002)"
 }
 ],
 "text": "Brig. Gen. Steven Lovekin is not in the published notes. All fifteen pages were read image by image: Wilson, Davis, Steven Greer, Will Miller and Edgar Mitchell are in them and Lovekin is not.",
@@ -37,9 +37,9 @@
 "source": "The Wilson-Davis notes as published, pp. 3 to 4, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
 "sources": [
 {
-"id": "u-documents2-theblackvault-60e9a6c9",
+"id": "n-wilson-davis-memo",
 "locator": null,
-"title": "The Wilson-Davis notes as published (EWD NOTES, 10/16/02, Eric Davis Meeting with Adm. Wilson), fifteen pages, The Black Vault case files"
+"title": "The Wilson-Davis Notes (16 October 2002)"
 }
 ],
 "text": "The notes give the correspondent no rank, no service and no first name beyond 'Will', and his letter carries no rank block, so the 'Cdr. Willard Miller, USN' form used across the podcast corpus is not supported by the document it is drawn from. In the letter he writes: 'Although I have held a Top Secret (TS) clearance with access to Special Compartmented Information (SCI), and other \"special\" clearances for \"other\" programs, I currently do not work in the classified realm, nor do I hold those clearances.'",
@@ -49,10 +49,16 @@
 {
 "id": "c-57e9190bad",
 "source": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
-"sources": [],
+"sources": [
+{
+"id": "n-wilson-davis-memo",
+"locator": "16 Oct 2002, in public circulation since 2019",
+"title": "The Wilson-Davis Notes (16 October 2002)"
+}
+],
 "text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-96a8cb7a41",
@@ -60,7 +66,7 @@
 "sources": [],
 "text": "Eric W. Davis has confirmed to journalists that the handwritten notes are his own.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Vague 'statements to journalists' with no specific outlet or article named."
 },
 {
 "id": "c-7cddcadc7e",
@@ -68,7 +74,7 @@
 "sources": [],
 "text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: statements made across multiple unspecified journalists/dates since 2019; not a single citable source"
 },
 {
 "id": "c-192e83e023",
@@ -76,7 +82,7 @@
 "sources": [],
 "text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses were questioned about the Wilson-Davis memo and stated they were unaware of it.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/summer-of-the-saucers) was rejected in review: hearing and unnamed reporting; not clearly this Debrief article"
 }
 ],
 "cls": "document",

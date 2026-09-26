@@ -4,7 +4,7 @@
 {
 "cls": "institution",
 "id": "c-6c433aa4fc",
-"locator": "and appeal APP-00031-2022",
+"locator": null,
 "node": "dia",
 "nodeLabel": "Defense Intelligence Agency",
 "sourceText": "DIA FOIA-00023-2022 and appeal APP-00031-2022",
@@ -14,7 +14,7 @@
 {
 "cls": "person",
 "id": "c-81c9b24315",
-"locator": "and APP-00031-2022, released via The Black Vault, 2023",
+"locator": null,
 "node": "james-lacatski",
 "nodeLabel": "James T. Lacatski",
 "sourceText": "DIA FOIA-00023-2022 and APP-00031-2022, released via The Black Vault, 2023",
@@ -24,7 +24,7 @@
 {
 "cls": "person",
 "id": "c-0918e2cae2",
-"locator": "no-records response set against the volume of AAWSAP material DIA did release",
+"locator": null,
 "node": "james-lacatski",
 "nodeLabel": "James T. Lacatski",
 "sourceText": "Inference from the FOIA-00023-2022 no-records response set against the volume of AAWSAP material DIA did release",

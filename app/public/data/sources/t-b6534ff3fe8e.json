@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8f417879a9",
+"locator": null,
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "US Army Reserve Personnel Command FOIA release letter, April 1998, signed Ange F. Nash",
+"text": "The Army FOIA release letter enclosing the DA Form 66 is addressed to John Greenewald, Jr., in response to a request of 23 February 1998 -- not to Larry Bryant, as the hosting archive's own case-file page states.",
+"tier": 1
+}
+],
+"date": "1998-04",
+"edges": [],
+"era": "1",
+"id": "t-b6534ff3fe8e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "US Army Reserve Personnel Command FOIA release letter",
+"topics": [
+{
+"claims": [
+"c-8f417879a9"
+],
+"id": "corso-day-after",
+"title": "Philip Corso's account"
+}
+],
+"type": "document",
+"urls": []
+}

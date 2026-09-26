@@ -16,7 +16,13 @@
     "text": "FBI FOIPA cover letter, Request No. 1380241-001, 12 April 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents3-theblackvault-fb3e1afb",
+     "locator": "cover letter, 12 April 2024",
+     "title": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)"
+    }
+   ],
    "text": "The FBI's FOIPA cover letter is dated 12 April 2024 and states '449 pages were reviewed and 313 pages are being released'; the release consists of cross-references only, with no main file on Corso.",
    "tier": 1
   },
@@ -30,7 +36,13 @@
     "text": "FBI release, FOIPA Request No. 1380241-001",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents3-theblackvault-fb3e1afb",
+     "locator": null,
+     "title": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)"
+    }
+   ],
    "text": "The FBI file records Corso's appearance before the Senate Internal Security Subcommittee on 15 May 1961, testimony which 'consisted primarily of his reading into the Committee's records the entries from personal and private office diaries that he kept during his service with the Operations Coordinating Board from 1953 to 1957.'",
    "tier": 1
   },
@@ -48,12 +60,12 @@
     {
      "id": "cia-rdp80m01009a000500610124-1",
      "locator": "letter of 18 January 1958, CIA reading room, declassified 14 August 2013",
-     "title": "CIA-RDP80M01009A000500610124-1"
+     "title": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958"
     },
     {
      "id": "cia-rdp80m01009a000500610124-1",
      "locator": null,
-     "title": "CIA-RDP80M01009A000500610124-1"
+     "title": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958"
     }
    ],
    "text": "DCI Allen W. Dulles wrote to him on 18 January 1958 as 'Chief of Research and Development, Department of the Army': 'Congratulations on your appointment as Chief of the Army Research and Development program.'",
@@ -69,7 +81,13 @@
     "text": "DA Form 66, Officer's Qualification Record, Philip J. Corso, Record of Assignments",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-f0eebc18",
+     "locator": "Record of Assignments",
+     "title": "DA Form 66, Officer's Qualification Record, Philip J. Corso"
+    }
+   ],
    "text": "The same form places Corso at 'The Ground Gen Sch, Ft Riley, Kansas' from 21 April 1947, and records 'Intel Staff O ... 8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954 to 1957.",
    "tier": 1
   },
@@ -83,7 +101,13 @@
     "text": "FBI release, FOIPA Request No. 1380241-001",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents3-theblackvault-fb3e1afb",
+     "locator": null,
+     "title": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)"
+    }
+   ],
    "text": "In 1955 Gen. Arthur S. Trudeau told the FBI that 'Colonel Philip Corso, then assigned to the Operations Coordinating Board, would be in a position to elaborate ... as he, Corso, had actually accumulated the information' on a list of alleged Fabian Socialists. The FBI reviewed its files on those named and found 'insufficient evidence to prove the validity of the allegation.' This corroborates the OCB posting from a record that is not Corso's own.",
    "tier": 1
   },
@@ -97,7 +121,13 @@
     "text": "DA Form 66, Officer's Qualification Record, Philip J. Corso, released by US Army Reserve Personnel Command April 1998; signed by Corso 20 October 1966",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-f0eebc18",
+     "locator": null,
+     "title": "DA Form 66, Officer's Qualification Record, Philip J. Corso"
+    }
+   ],
    "text": "Corso's DA Form 66 records 'Chief, Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, and a move to 'Staff O, Plans Div' on 18 July 1962 -- a three-month chieftaincy, following a year as a staff officer in the same division from 20 July 1961.",
    "tier": 1
   },
@@ -115,12 +145,12 @@
     {
      "id": "cia-rdp80b01676r003000130017-9",
      "locator": "Trudeau to McCone, 24 February 1962",
-     "title": "CIA-RDP80B01676R003000130017-9"
+     "title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
     },
     {
      "id": "cia-rdp80b01676r003000130017-9",
      "locator": null,
-     "title": "CIA-RDP80B01676R003000130017-9"
+     "title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
     }
    ],
    "text": "He signed his letter of 24 February 1962 to DCI John A. McCone as 'ARTHUR G. TRUDEAU / Lieutenant General, GS / Chief of Research and Development', inviting the Director to a symposium on 'The U. S. Army's Limited-War Mission and Social Science Research' hosted by the Special Operations Research Office of The American University on 26 to 28 March 1962.",
@@ -136,7 +166,13 @@
     "text": "FBI release, FOIPA Request No. 1380241-001",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents3-theblackvault-fb3e1afb",
+     "locator": null,
+     "title": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)"
+    }
+   ],
    "text": "The FBI file records that in February 1964, a rumour that Lee Harvey Oswald had been a paid FBI informant was traced to Corso, who 'admitted that he had passed out information concerning Oswald's alleged connection with the FBI', refused to name his sources, and 'emphasized the fact that his allegations had been strictly deductions and had no basis in fact.'",
    "tier": 1
   },
@@ -153,13 +189,8 @@
    "sourceRefs": [
     {
      "id": "cia-rdp80b01676r003000130017-9",
-     "locator": "read against the FBI quotation already on the board",
-     "title": "CIA-RDP80B01676R003000130017-9"
-    },
-    {
-     "id": "cia-rdp80b01676r003000130017-9",
      "locator": null,
-     "title": "CIA-RDP80B01676R003000130017-9"
+     "title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
     }
    ],
    "text": "The 'Gen. Arthur S. Trudeau' named in the 1955 FBI material quoted in philip-corso.narrative is most probably this officer. Reasoning: the two primary letters opened here give the middle initial G over his own signature, and no second Army general officer of that surname was found. The discrepancy is unresolved and no record opened here reconciles it.",
@@ -175,7 +206,13 @@
     "text": "US Army Reserve Personnel Command FOIA release letter, April 1998, signed Ange F. Nash",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-b6534ff3fe8e",
+     "locator": null,
+     "title": "US Army Reserve Personnel Command FOIA release letter"
+    }
+   ],
    "text": "The Army FOIA release letter enclosing the DA Form 66 is addressed to John Greenewald, Jr., in response to a request of 23 February 1998 -- not to Larry Bryant, as the hosting archive's own case-file page states.",
    "tier": 1
   },
@@ -189,7 +226,13 @@
     "text": "FBI release, FOIPA Request No. 1380241-001",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents3-theblackvault-fb3e1afb",
+     "locator": null,
+     "title": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)"
+    }
+   ],
    "text": "The FBI files state plainly: 'Our files do not reveal that Corso has been investigated by this Bureau.'",
    "tier": 1
   },
@@ -203,7 +246,13 @@
     "text": "DA Form 66, Officer's Qualification Record, Philip J. Corso, already carried on this board at philip-corso",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-f0eebc18",
+     "locator": null,
+     "title": "DA Form 66, Officer's Qualification Record, Philip J. Corso"
+    }
+   ],
    "text": "Corso's own DA Form 66 records 'Chief Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, a period falling entirely inside Trudeau's documented tenure as Chief of Research and Development.",
    "tier": 1
   },
@@ -235,12 +284,12 @@
     {
      "id": "cia-rdp80b01676r003000130017-9",
      "locator": "McCone to Trudeau, 12 March 1962",
-     "title": "CIA-RDP80B01676R003000130017-9"
+     "title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
     },
     {
      "id": "cia-rdp80b01676r003000130017-9",
      "locator": null,
-     "title": "CIA-RDP80B01676R003000130017-9"
+     "title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
     }
    ],
    "text": "McCone's reply of 12 March 1962, reference ER 62-1185/a, is addressed 'Lieut. General Arthur G. Trudeau, Chief of Research and Development, Department of the Army' and declines, designating a representative whose name is withheld from the release.",
@@ -256,7 +305,13 @@
     "text": "FBI release, FOIPA Request No. 1380241-001, subject CORSO, PHILIP JAMES; full-text search of all 322 pages",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents3-theblackvault-fb3e1afb",
+     "locator": "full text search of all 322 pages",
+     "title": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)"
+    }
+   ],
    "text": "Corso's FBI release runs to 322 posted pages of cross-references. Searched in full text, the words UFO, flying saucer, unidentified, Roswell, extraterrestrial and saucer appear zero times.",
    "tier": 1
   },

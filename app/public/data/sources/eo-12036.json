@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-6a766a4260",
-"locator": "sec. 4-101 and signature block",
+"locator": null,
 "node": "eo-12036",
 "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "sourceText": "EO 12036 sec. 4-101 and signature block, https://irp.fas.org/offdocs/eo/eo-12036.htm",
@@ -14,7 +14,7 @@
 {
 "cls": "legislation",
 "id": "c-6abfd8fb81",
-"locator": "sec. 3-401",
+"locator": null,
 "node": "eo-12036",
 "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "sourceText": "EO 12036 sec. 3-401, https://irp.fas.org/offdocs/eo/eo-12036.htm",
@@ -24,7 +24,7 @@
 {
 "cls": "legislation",
 "id": "c-77577c8088",
-"locator": "full text, term searches returning zero",
+"locator": null,
 "node": "eo-12036",
 "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "sourceText": "EO 12036 full text, term searches returning zero, https://irp.fas.org/offdocs/eo/eo-12036.htm",
@@ -34,7 +34,7 @@
 {
 "cls": "legislation",
 "id": "c-9f09fe39a8",
-"locator": "sec. 3",
+"locator": null,
 "node": "eo-12036",
 "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "sourceText": "EO 12036 sec. 3, https://irp.fas.org/offdocs/eo/eo-12036.htm",
@@ -44,7 +44,7 @@
 {
 "cls": "legislation",
 "id": "c-af07845098",
-"locator": "secs. 1-302 and 4-212",
+"locator": null,
 "node": "eo-12036",
 "nodeLabel": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "sourceText": "EO 12036 secs. 1-302 and 4-212, https://irp.fas.org/offdocs/eo/eo-12036.htm",
@@ -131,5 +131,7 @@
 }
 ],
 "type": "statute",
-"urls": []
+"urls": [
+"https://irp.fas.org/offdocs/eo/eo-12036.htm"
+]
 }

@@ -52,8 +52,8 @@
 "sources": [
 {
 "id": "chrg-118hhrg57440",
-"locator": "CONTENTS and statement of Rep. Mace",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "Witness of record at the 13 November 2024 House Oversight joint hearing: 'Mr. Michael Shellenberger, Founder of Public'. Chairwoman Mace stated on the record that the 12-page Pentagon document describing the unacknowledged special access program 'Immaculate Constellation' was the document 'that Michael Shellenberger brought today', and entered it into the record without objection.",
@@ -63,10 +63,16 @@
 {
 "id": "c-22de0bb4da",
 "source": "Micah Hanks, The Debrief, 'Immaculate Constellation: UAP Bombshell or Disinformation?', 17 October 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-thedebrief-org-5b3050fb",
+"locator": null,
+"title": "The Debrief - Immaculate Constellation: UAP Bombshell or Disinformation?"
+}
+],
 "text": "Shellenberger reported the allegations of an alleged US government insider who claims they discovered evidence of an unacknowledged special access program codenamed 'Immaculate Constellation' that has been secretly collecting data on UAP encounters.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a32445f6bb",
@@ -74,15 +80,21 @@
 "sources": [],
 "text": "On 13 November 2024 Shellenberger handed a twelve-page document to a House Oversight subcommittee.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: compound generic video coverage plus uncatalogued interview by date"
 },
 {
 "id": "c-ab3c7abb30",
 "source": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-0ee40815",
+"locator": null,
+"title": "Wikipedia - Michael Shellenberger"
+}
+],
 "text": "Shellenberger is co-founder of Public and, as of 2026, on the faculty of the University of Austin.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9f0b0522af",
@@ -91,7 +103,7 @@
 {
 "id": "chrg-118hhrg57440",
 "locator": "Index of Documents",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
@@ -101,10 +113,16 @@
 {
 "id": "c-6ae89a86ac",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "testimony of Michael Shellenberger",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a9474c782c",
@@ -112,15 +130,21 @@
 "sources": [],
 "text": "Pentagon spokesperson Sue Gough said the Department has no record of such a programme; Sean Kirkpatrick also denied its existence.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic 'DoD statements as reported in UAP coverage' across an unspecified date range and outlets."
 },
 {
 "id": "c-cf540c1b0e",
 "source": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-f7255275",
+"locator": "Colavito's analysis as cited",
+"title": "Wikipedia - Immaculate Constellation (redirect to Schriever wargame)"
+}
+],
 "text": "In 2025 a self-identified whistleblower said he found the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant 'apparently mistook fictitious wargame documents for secret UFO revelations.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-941159a8b2",

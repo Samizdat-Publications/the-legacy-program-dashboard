@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f2cc7d5853",
+"locator": "0:18:40, 0:19:36 and 1:09:33",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:18:40, 0:19:36 and 1:09:33",
+"text": "McConnell is a primary source in this board's Michels corpus as well as a node in it. He gave a two-hour interview on American Alchemy with Jesse Michels published 2 April 2025, in which he supplies the account of AARO's advisory-group contract being let through Oak Ridge (1:09:33), the report of Puthoff's and Davis's scepticism about Tesla and Thomas Townsend Brown (0:19:36), and his own disagreement with the account that the FBI seized all of Tesla's papers, 'I don't think all of it did' (0:18:40). Claims elsewhere on this board sourced to that episode are sourced to him.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-9a31b9959a",
+"locator": "1:09:33",
+"node": "oak-ridge-national-laboratory",
+"nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"sourceText": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
+"text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-da3e0ff244",
+"locator": "1:09:33-1:10:25",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33 to 1:10:25",
+"text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, Kirk McConnell said that Kirkpatrick 'created an advisory group' at AARO and that 'the contract for that, for the formation of that group to advise him at AARO, well, the contract was let through Oak Ridge', and that after retiring from government Kirkpatrick is 'working with, for Oak Ridge under contract now'. Asked whether that looked like a conflict of interest, McConnell answered at 1:10:25 that 'conflicts of interest or allegations are easy to make, but not so easy to sort out. But it is certainly worth taking note of if nothing else.' He does not allege wrongdoing and does not name the advisory group.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-676595aa3a",
+"locator": "0:19:36",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"sourceText": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:19:36",
+"text": "On American Alchemy with Jesse Michels, 2 April 2025, at 0:19:36, the retired Senate Armed Services Committee staffer Kirk McConnell said of his own field: 'my science friends in the UAP field, like Dr. Harold Puthoff and Eric Davis, I'm sure if they're watching this, they're very upset with me because I don't think they believe that Tesla, nor Thomas Townsend Brown or others like them' achieved what is claimed of them. This is a report of scepticism from inside the advocate circle rather than from an interested official source, and neither Puthoff nor Davis is quoted directly.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -32,7 +73,30 @@
 ],
 "node": null,
 "title": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-9a31b9959a",
+"c-da3e0ff244"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-da3e0ff244"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-676595aa3a"
+],
+"id": "gravity-research-1950s",
+"title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"
+}
+],
 "type": "web page",
 "urls": [
 "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9058812583.mp3?updated=1752174755"

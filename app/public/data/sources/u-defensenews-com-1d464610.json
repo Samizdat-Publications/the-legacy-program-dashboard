@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6740bf3f8b",
+"locator": null,
+"node": "jason-advisory-group",
+"nodeLabel": "JASON",
+"sourceText": "Defense News, 11 April 2019",
+"text": "The Pentagon confirmed in April 2019 that it was ending the JASON advisory contract, which was managed by MITRE and run through the Office of the Under Secretary of Defense for Research and Engineering.",
+"tier": 1
+}
+],
 "date": "2019-04-11",
 "edges": [
 {
@@ -35,7 +46,15 @@
 ],
 "node": null,
 "title": "Defense News, 11 April 2019",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-6740bf3f8b"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.defensenews.com/pentagon/2019/04/11/pentagon-confirms-it-is-ending-the-jason-advisory-contract-but-groups-work-may-continue/"

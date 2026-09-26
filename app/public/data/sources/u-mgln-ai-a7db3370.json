@@ -33,6 +33,26 @@
 },
 {
 "cls": "event",
+"id": "c-60db0a6a81",
+"locator": "0:39:39",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"sourceText": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:39:39",
+"text": "At 0:39:39 Salas said he and James Klotz checked with the Department of Energy, cognizant of nuclear testing in Nevada, and that 'There were no nuclear tests on March 16th or March 24th', which on his account removes the nuclear-EMP explanation on the government's own records. He names no document number for the check.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-693c2d91a4",
+"locator": "0:44:54-0:47:25",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"sourceText": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:44:54 to 0:47:25",
+"text": "At 0:44:54 to 0:47:25 Salas described the Boeing bench-test result: an injected electrical signal of a given frequency, voltage and duration could make one guidance and control system shut down, but the testers 'had no idea on how that could be injected into this each missile separately within seconds'; the cable run was about eight to nine inches in diameter and 'triply shielded against EMI'; the report concluded an external signal caused the shutdowns while stating they could not explain how it got in; and Salas says he and James Klotz later reached the two named testers, who repeated that they could not explain it.",
+"tier": 2
+},
+{
+"cls": "event",
 "id": "c-b7ba0803d5",
 "locator": null,
 "node": "malmstrom-echo-flight-1967",
@@ -106,20 +126,22 @@
 "topics": [
 {
 "claims": [
+"c-f81789f8a6",
+"c-0181233d08",
+"c-60db0a6a81",
+"c-693c2d91a4"
+],
+"id": "nuclear-missiles-1960s",
+"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
+},
+{
+"claims": [
 "c-8de07fdd20",
 "c-406816afbc",
 "c-3867c916ed"
 ],
 "id": "condon-1966-69",
 "title": "The Condon Committee and the end of Blue Book, 1966-69"
-},
-{
-"claims": [
-"c-f81789f8a6",
-"c-0181233d08"
-],
-"id": "nuclear-missiles-1960s",
-"title": "Missile sites, 1964-1968: Malmstrom, Minot and Big Sur"
 }
 ],
 "type": "web page",

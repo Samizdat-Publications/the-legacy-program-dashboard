@@ -1,21 +1,287 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-acb807d46d",
+"locator": "Volume 2 Working Paper No. 9 title; Volume 3 header",
+"node": "uk-di55",
+"nodeLabel": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
+"sourceText": "Project Condign, Volume 2 Working Paper No. 9 title; Volume 3 header, released MoD copy",
+"text": "Project Condign's product was issued as 'DIS Scientific & Technical Memorandum 55/2/00'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-036677de7c",
+"locator": "Volume 1, Chapter 4 'Potential Related Military Technology', para 1",
+"node": "project-condign",
+"nodeLabel": "Project Condign",
+"sourceText": "Project Condign, Volume 1, Chapter 4 'Potential Related Military Technology', para 1",
+"text": "Study terms of reference explicitly included examining 'whether the phenomenon could be replicated and whether or not any other nation was attempting to exploit the same or derivatives of the phenomena', reported at Volume 3.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-ba911ac02e",
+"locator": "MoD release note (front matter)",
+"node": "project-condign",
+"nodeLabel": "Project Condign",
+"sourceText": "Ministry of Defence release note accompanying the Condign report, reproduced with the Internet Archive copy",
+"text": "MoD statement of origin and terms of reference: the study followed a 1996 policy review and was to determine the potential value of UAP reports to Defence Intelligence, to ascertain evidence of threat, 'and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-29bb7bdaec",
+"locator": null,
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
+"text": "The report is a three-volume report, not four. The preface to Volume 3 states 'This is the third volume of a three-part report'. The commonly cited fourth part is the separately released standalone Executive Summary.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-51c5ebcb92",
+"locator": null,
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
+"text": "Volume 3 Chapter 4 paragraph 1 records the Soviet centre's name as SOYUZUFOSENTR, not Soyuzufotsentr: 'an Inter-Industry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Institute under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9990791c31",
+"locator": null,
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Project Condign, 'Unidentified Aerial Phenomena in the UK Air Defence Region', UK Defence Intelligence Staff; released 15 May 2006",
+"text": "Volume 3 is titled 'Miscellaneous Related Studies'. 'Potential for Exploitation of UAP-Associated Effects' is the title of its Chapter 3, and Chapter 4 is 'UAP Work in Other Countries'. These have been conflated with the volume title.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ac48794ef5",
+"locator": "para 16",
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Condign Executive Summary, para 16",
+"text": "'The Way Ahead' paragraph 16 states that the knowledge gained 'may be of value in any wider policy decision on the way ahead ... it would also protect the DIS involvement which has, unfortunately, become public knowledge'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b689a80912",
+"locator": "Subsidiary Recommendations, Findings para 5",
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Condign Executive Summary, Subsidiary Recommendations and Findings para 5",
+"text": "Flight-safety subsidiary recommendation: 'No attempt should be made to out-manoeuvre a UAP during interception' and at higher altitudes 'pilots should be advised not to manoeuvre, other than to place the object astern, if possible' - advice given 'Following the Russian experiences'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d083f6ae5d",
+"locator": "Subsidiary Recommendations",
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Condign Executive Summary, Subsidiary Recommendations",
+"text": "Public-release recommendation: 'It is suggested that the findings of this report could be used to provide the public with a balanced view of UAP reports and MoD involvement. It is recommended that this report be made available in a suitable form for public release.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ea90fa6121",
+"locator": "Findings para 4",
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Condign Executive Summary, Findings para 4",
+"text": "Finding para 4: 'although unidentified objects regularly appear in the UKADR there is no hostile threat from them to our aircraft, they do not belong to another nation and there is no evidence of extra-terrestrial activity apart from the very high probability, in some cases, of their connection with meteors.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-eb8978c436",
+"locator": "Findings para 7",
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "Condign Executive Summary, Findings para 7, released MoD page image",
+"text": "Finding para 7, 'Related Military Applications', is entirely redacted in the released copy under exemption s.26.",
+"tier": 1
+}
+],
 "date": "2000",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "uk-mod-ufo-desk",
+"label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)"
+},
+"b": {
+"cls": "institution",
+"id": "uk-di55",
+"label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence"
+},
+"claimTier": 1,
+"id": "e-95817938d0",
+"label": "public desk fed the intelligence section's database",
+"note": "Condign's database was built from approximately 10,000 reports accumulated by DI55 from the reporting stream the desk handled.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+"b": {
+"cls": "institution",
+"id": "uk-di55",
+"label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence"
+},
+"claimTier": 1,
+"id": "e-2a5d9aa82f",
+"label": "study commissioned by and reporting on DI55",
+"note": "The product was issued as DIS Scientific & Technical Memorandum 55/2/00 and its key recommendation was addressed to DI55's own tasking.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 1,
+"id": "e-9c8074b4fd",
+"label": "produced the four-volume report",
+"note": "Project Condign's output is 'Unidentified Aerial Phenomena in the UK Air Defence Region'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-magnet",
+"label": "Project Magnet (Canada)"
+},
+"b": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"claimTier": 3,
+"id": "e-3f0fc0d1e2",
+"label": "1952 recommendation to acquire the technology prefigures Condign's redacted 'Related Military Applications'",
+"note": "Smith's 1952 report recommends 'acquisition of as much as possible of this technology'; Condign's own paragraph 7, 'Related Military Applications', is redacted in full under the defence exemption. Reasoning: both are government documents whose exploitation sections are the point at which the record becomes either explicit or withheld.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+"b": {
+"cls": "person",
+"id": "vladimir-azhazha",
+"label": "Vladimir Georgievich Azhazha"
+},
+"claimTier": 1,
+"id": "e-6eca0372da",
+"label": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
+"note": "Project Condign Volume 3, Chapter 4 ('UAP Work in Other Countries'), para 1, verified against the released MoD OCR text: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign's own, and differs from the board's node label. Para 4 adds that under Azhazha 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic', and that claimed imagery of 'peculiar spheres, humanoid figures' has, 'if the imagery exists ... never been published'. This edge closes a gap that was already implicit in the board's own data: the vladimir-azhazha node has carried instId 'soyuzufotsentr' and affiliations ['soyuzufotsentr'] all along, with no edge written.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+},
+"b": {
+"cls": "event",
+"id": "ev-uk-ufo-desk-closure",
+"label": "Closure of the MoD UFO Desk, 1 December 2009"
+},
+"claimTier": 3,
+"id": "e-a21e2a485f",
+"label": "key recommendation executed nine years later",
+"note": "Condign's single key recommendation was that DI55 should no longer be required to monitor UAP reports and that the database should not be maintained; the desk that fed it closed in 2009 on the same stated ground.",
+"type": "programmatic"
+}
+],
 "era": "2",
 "id": "n-doc-condign-report",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "event",
+"id": "ev-uk-ufo-desk-closure",
+"label": "Closure of the MoD UFO Desk, 1 December 2009"
+},
+{
+"cls": "institution",
+"id": "uk-di55",
+"label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence"
+},
+{
+"cls": "program",
+"id": "project-condign",
+"label": "Project Condign"
+},
+{
+"cls": "document",
+"id": "doc-condign-vol3",
+"label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+},
+{
+"cls": "institution",
+"id": "soyuzufotsentr",
+"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre"
+},
+{
+"cls": "document",
+"id": "doc-condign-report",
+"label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+}
+],
 "node": {
 "cls": "document",
 "id": "doc-condign-report",
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
 },
 "title": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-acb807d46d",
+"c-036677de7c",
+"c-ba911ac02e",
+"c-29bb7bdaec",
+"c-51c5ebcb92",
+"c-9990791c31",
+"c-ac48794ef5",
+"c-b689a80912",
+"c-d083f6ae5d",
+"c-ea90fa6121",
+"c-eb8978c436"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
 "type": "report",
-"urls": []
+"urls": [
+"https://archive.org/details/condign-vol-2-1-258",
+"https://archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt"
+]
 }

@@ -10,15 +10,21 @@
 "sources": [],
 "text": "'Behind the Flying Saucers' was published by Henry Holt and Company, New York, in 1950 (OCLC 1467735) and became a bestseller.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:behind-the-flying-saucers) was rejected in review: a catalogue record naming nothing; not the book itself"
 },
 {
 "id": "c-51f2cfa20a",
 "source": "Scully, 'Behind the Flying Saucers' (1950)",
-"sources": [],
+"sources": [
+{
+"id": "n-behind-the-flying-saucers",
+"locator": null,
+"title": "Behind the Flying Saucers (Scully, 1950)"
+}
+],
 "text": "The book described a craft 99 feet in diameter containing sixteen humanoid bodies, said to have come from Venus and to work on magnetic principles, with every dimension divisible by nine.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e05f71719f",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "Aztec-specific details from this book - heat-proof material, bodies of 36 to 42 inches at about 40 pounds - later appear in supposedly first-hand accounts of unrelated sites, establishing that the crash-retrieval witness pool has been contaminated by published fiction since at least 1950. Reasoning: the details are datable to a single fraudulent 1950 source and post-date it in every account that repeats them.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's own comparative analysis, not a document"
 }
 ],
 "cls": "document",

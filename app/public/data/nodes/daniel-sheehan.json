@@ -37,10 +37,16 @@
 {
 "id": "c-042e400d03",
 "source": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
-"sources": [],
+"sources": [
+{
+"id": "t-4cc5e91c351b",
+"locator": null,
+"title": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023"
+}
+],
 "text": "Sheehan states Turner 'first attacked those two elements' — eminent domain and the Review Board's subpoena power — saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9824917ad7",
@@ -48,8 +54,8 @@
 "sources": [
 {
 "id": "pl-118-31",
-"locator": "Subtitle C",
-"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+"locator": null,
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
 }
 ],
 "text": "Sheehan's account is the only named-source explanation for why the enacted subtitle lacks precisely the two provisions with reach into contractor-held material, and it is consistent with the text; treat it as the working hypothesis pending release of conference records.",
@@ -101,10 +107,16 @@
 {
 "id": "c-4f49829876",
 "source": "Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-dc2d8f2f",
+"locator": null,
+"title": "Wikipedia - Daniel Sheehan (attorney)"
+}
+],
 "text": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f60b3daebb",
@@ -112,15 +124,21 @@
 "sources": [],
 "text": "In Avirgan v. Hull, Judge James Lawrence King dismissed the suit on 23 June 1988 and ordered the Christic Institute to pay $955,000 in attorney's fees and $79,500 in costs under Rule 11.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)) was rejected in review: names two sources; court record is not the candidate"
 },
 {
 "id": "c-8bd39315ba",
 "source": "New Paradigm Institute website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-newparadigminstitute-org-d16a845e",
+"locator": null,
+"title": "New Paradigm Institute"
+}
+],
 "text": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -11,7 +11,7 @@
 {
 "id": "foia-dia-00349-2018",
 "locator": "13 October 2022",
-"title": "DIA FOIA-00349-2018"
+"title": "DIA release FOIA-00349-2018"
 }
 ],
 "text": "Contract HHM402-08-C-0072, awarded 22 September 2008, firm fixed price, $10,000,000 base, to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7.",
@@ -25,7 +25,7 @@
 {
 "id": "foia-dia-00349-2018",
 "locator": null,
-"title": "DIA FOIA-00349-2018"
+"title": "DIA release FOIA-00349-2018"
 }
 ],
 "text": "All key government personnel names — contracting officer, COR and Government Project Leader — are redacted in the released contract under 10 USC 424.",
@@ -35,18 +35,30 @@
 {
 "id": "c-cd9ea952f0",
 "source": "Jack Brewer, The UFO Trail, March 2022",
-"sources": [],
+"sources": [
+{
+"id": "u-ufotrail-blogspot-com-a77cb16c",
+"locator": null,
+"title": "The UFO Trail"
+}
+],
 "text": "DIA withheld the AAWSAP contract in a 2011 FOIA response, releasing it only in October 2022.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-13af230c78",
 "source": "DIA release Contract_FY10.pdf",
-"sources": [],
+"sources": [
+{
+"id": "u-documents2-theblackvault-b2eee22c",
+"locator": null,
+"title": "AAWSAP contract FY10 modification"
+}
+],
 "text": "A modification of contract exercising the FY10 option period was executed 2 September 2009.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e7cb2abfc7",

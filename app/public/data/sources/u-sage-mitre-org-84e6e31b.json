@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5b7baf8e2d",
+"locator": null,
+"node": "robert-everett",
+"nodeLabel": "Robert R. Everett",
+"sourceText": "MITRE's own SAGE history site, sage.mitre.org timeline",
+"text": "The MITRE Corporation was incorporated as a nonprofit organization on 21 July 1958, and Robert Everett joined as its first technical director along with 485 other Lincoln Laboratory employees.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

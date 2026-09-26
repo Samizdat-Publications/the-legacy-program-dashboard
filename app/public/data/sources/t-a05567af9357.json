@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-41f6b4c601",
+"locator": null,
+"node": "jacques-vallee",
+"nodeLabel": "Jacques F. Vallee",
+"sourceText": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
+"text": "Vallee documented, from the late 1970s onward, that identifiable human actors were injecting fabricated material into UFO cases - the phenomenon later confirmed in the Bennewitz affair.",
+"tier": 2
+}
+],
+"date": "1979",
+"edges": [],
+"era": "1",
+"id": "t-a05567af9357",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Jacques Vallee",
+"listedOn": [],
+"node": null,
+"title": "Messengers of Deception",
+"topics": [
+{
+"claims": [
+"c-41f6b4c601"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+}
+],
+"type": "book",
+"urls": []
+}

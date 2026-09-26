@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-197e4a06f1",
+"locator": null,
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"sourceText": "Research Notes of the AAS, DOI 10.3847/2515-5172/ad2370",
+"text": "Loeb is lead author of 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS, 31 January 2024.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -57,7 +68,22 @@
 ],
 "node": null,
 "title": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-197e4a06f1"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-197e4a06f1"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.3847/2515-5172/ad2370"

@@ -1,6 +1,187 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2b6443b687",
+"locator": null,
+"node": "aerojet-rocketdyne",
+"nodeLabel": "Aerojet Rocketdyne",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $8.7 billion in prime contract obligations to Aerojet Rocketdyne entities since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-0b32ad7d7f",
+"locator": null,
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"sourceText": "USAspending.gov federal award records",
+"text": "UT-Battelle LLC holds the Oak Ridge National Laboratory management-and-operating contract DEAC0500OR22725, recorded at approximately $42.3 billion, running from 1999 to 2030.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9afdbb258c",
+"locator": null,
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $91 billion in obligations across Battelle-named recipient entities since FY2008, dominated by UT-Battelle laboratory management.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-729ee7fab2",
+"locator": null,
+"node": "booz-allen",
+"nodeLabel": "Booz Allen Hamilton",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $97 billion in prime contract obligations to Booz Allen Hamilton recipient entities since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ac46d2d130",
+"locator": null,
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $1.3 billion in prime contract obligations to EG&G-named recipient entities since FY2008, a small residue of the company's classified-era role after its services businesses were sold.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-2e0b7e0322",
+"locator": null,
+"node": "general-atomics",
+"nodeLabel": "General Atomics",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $41 billion in prime contract obligations across General Atomics entities since FY2008.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-89c0247493",
+"locator": null,
+"node": "l-huntsville",
+"nodeLabel": "Huntsville, Alabama",
+"sourceText": "USAspending.gov prime award data",
+"text": "Radiance Technologies is headquartered in Huntsville, Alabama; USAspending records approximately $2.6 billion in prime contract obligations to the firm since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-49a837196c",
+"locator": null,
+"node": "ida",
+"nodeLabel": "Institute for Defense Analyses",
+"sourceText": "USAspending.gov federal award records",
+"text": "IDA FFRDC work is awarded sole-source; USAspending records include an award described as 'award of a contract on a sole source basis to the Institute for Defense Analyses (IDA), a federally funded research and development center'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7458d0c721",
+"locator": null,
+"node": "leidos",
+"nodeLabel": "Leidos Holdings, Inc.",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $135 billion in prime contract obligations to Leidos-named recipient entities since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7589d37704",
+"locator": null,
+"node": "lockheed-martin",
+"nodeLabel": "Lockheed Martin Corporation",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "Lockheed Martin is the largest single recipient of Department of Defense prime contract obligations; USAspending recipient records for Lockheed Martin entities total in the hundreds of billions of dollars since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-af09ced407",
+"locator": null,
+"node": "northrop-grumman",
+"nodeLabel": "Northrop Grumman Corporation",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records prime contract obligations to Northrop Grumman Systems Corporation in the tens of billions of dollars since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ed078a1eff",
+"locator": null,
+"node": "radiance-technologies",
+"nodeLabel": "Radiance Technologies, Inc.",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $2.6 billion in prime contract obligations to Radiance Technologies Inc. since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6c9e67d66d",
+"locator": null,
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"sourceText": "USAspending.gov federal award records",
+"text": "RAND's FFRDC contracts recorded on USAspending include FA701406C0001 (Project AIR FORCE, approx. $467 million), W74V8H06C0001 (Arroyo, approx. $328 million) and W74V8H06C0002 (NDRI, approx. $308 million), with current NDRI task orders HQ003422F0012, HQ003423F0005 and HQ003424F0003.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f2069a8318",
+"locator": null,
+"node": "raytheon",
+"nodeLabel": "Raytheon (RTX Corporation)",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records prime contract obligations to Raytheon Company entities exceeding $100 billion since FY2008, including sensor test assessment and anomaly resolution task orders.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6302371f81",
+"locator": null,
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "Federal prime contract obligations to Bigelow Aerospace LLC total approximately $30 million since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-837053a72d",
+"locator": null,
+"node": "saic",
+"nodeLabel": "Science Applications International Corporation",
+"sourceText": "USAspending.gov recipient search, retrieved 12 August 2026",
+"text": "USAspending records approximately $52 billion in prime contract obligations to Science Applications International Corporation entities since FY2008.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7454cc53c9",
+"locator": null,
+"node": "mitre-corporation",
+"nodeLabel": "The MITRE Corporation",
+"sourceText": "USAspending.gov federal award records",
+"text": "MITRE's NSEC work is executed through Army-administered task orders under IDIQ W56KGU18D0004, including task orders W56KGU20F0009, W56KGU21F0008, W56KGU22F0017, W56KGU23F0006 and W56KGU24F0010, the last valued at approximately $752 million.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7cff0417a2",
+"locator": null,
+"node": "mitre-corporation",
+"nodeLabel": "The MITRE Corporation",
+"sourceText": "USAspending.gov federal award records",
+"text": "MITRE's CAASD FFRDC has been executed under FAA contracts DTFAWA10C00080 (approximately $1.70 billion) and 693KA822C00001 (approximately $761 million).",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -304,7 +485,49 @@
 ],
 "node": null,
 "title": "USAspending.gov federal award search (prime contract obligations by recipient)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-2b6443b687",
+"c-729ee7fab2",
+"c-2e0b7e0322",
+"c-7458d0c721",
+"c-7589d37704",
+"c-f2069a8318",
+"c-837053a72d"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-49a837196c"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+},
+{
+"claims": [
+"c-7589d37704"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-7589d37704"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-729ee7fab2"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.usaspending.gov/search"

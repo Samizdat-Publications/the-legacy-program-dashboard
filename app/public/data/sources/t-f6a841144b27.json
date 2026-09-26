@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6787d85102",
+"locator": null,
+"node": "pentacle-memorandum",
+"nodeLabel": "The Pentacle Memorandum",
+"sourceText": "Vallee correspondence quoted by CUFON",
+"text": "Vallee holds that the Robertson Panel of 14-16 January 1953 was not briefed on the Pentacle proposals and that another group had already decided what could and could not be discussed.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "t-f6a841144b27",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Vallee correspondence",
+"topics": [
+{
+"claims": [
+"c-6787d85102"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-6787d85102"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+}
+],
+"type": "document",
+"urls": []
+}

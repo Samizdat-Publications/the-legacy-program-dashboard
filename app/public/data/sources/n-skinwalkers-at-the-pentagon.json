@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-588f2f44e6",
+"locator": null,
+"node": "d-paranormal",
+"nodeLabel": "Anomalous Phenomena Adjacent to UAP",
+"sourceText": "Kelleher and Lacatski, 'Skinwalkers at the Pentagon' (2021)",
+"text": "Colm Kelleher and James Lacatski published 'Skinwalkers at the Pentagon' in 2021, describing federally funded collection of anomalous phenomena reports at Skinwalker Ranch under the AAWSAP effort, with Lacatski named as the DIA official who initiated it.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e874579553",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021)",
+"text": "Lacatski read 'Hunt for the Skinwalker' by Knapp and Kelleher before approaching Bigelow in 2007, making the book a proximate cause of the contract.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-aef08c13d0",
+"locator": null,
+"node": "skinwalkers-at-the-pentagon",
+"nodeLabel": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"sourceText": "'Skinwalkers at the Pentagon' (2021)",
+"text": "Lacatski, Kelleher and Knapp describe AAWSAP's Utah field operations, human physiological effects on personnel, and Lacatski's account of entering a craft of unknown origin.",
+"tier": 2
+}
+],
 "date": "2021",
 "edges": [],
 "era": "3",
@@ -15,7 +46,23 @@
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
 },
 "title": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-588f2f44e6",
+"c-aef08c13d0"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-e874579553"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "document",
 "urls": []
 }

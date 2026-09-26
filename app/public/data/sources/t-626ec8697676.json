@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-41b4d3461b",
+"locator": "1:26:37",
+"node": "james-v-forrestal",
+"nodeLabel": "James V. Forrestal",
+"sourceText": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025, 1:26:37",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 32, 4 April 2025, at 1:26:37, Jesse Michels said, prefacing it with 'I don't know if this is right', that Forrestal was hearing 'a description of like mutilated, like human and alien bodies together' from 'the head of the Air Force' and 'was checked into this, you know, Navy hospital in Bethesda, Maryland ... very soon after'. He names no document and no date, and nothing supporting it was opened.",
+"tier": 3
+}
+],
+"date": "2025-04-04",
+"edges": [],
+"era": "3",
+"id": "t-626ec8697676",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "AREA52 - DEBRIEFED with Chris Ramsay",
+"listedOn": [],
+"node": null,
+"title": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 32, 4 April 2025, 1:26:37",
+"topics": [
+{
+"claims": [
+"c-41b4d3461b"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+},
+{
+"claims": [
+"c-41b4d3461b"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
+"type": "broadcast",
+"urls": []
+}

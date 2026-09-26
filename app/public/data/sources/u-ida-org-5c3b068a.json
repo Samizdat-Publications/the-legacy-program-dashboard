@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-15411a4731",
+"locator": null,
+"node": "charles-a-richard",
+"nodeLabel": "Charles A. Richard",
+"sourceText": "IDA leadership page, accessed 12 August 2026",
+"text": "IDA's senior leadership includes former NSA Technical Director Christopher Green (VP, Center for Communications and Computing) and Maj. Gen. James R. Marrs, USAF (Ret.), former National Intelligence Manager for Aviation.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-960a495b43",
+"locator": null,
+"node": "charles-a-richard",
+"nodeLabel": "Charles A. Richard",
+"sourceText": "IDA leadership page, accessed 12 August 2026",
+"text": "Adm. Charles A. Richard, USN (Ret.), is President of the Institute for Defense Analyses, having commanded US Strategic Command from 2019 to 2022.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ca3e7abc39",
+"locator": null,
+"node": "ida",
+"nodeLabel": "Institute for Defense Analyses",
+"sourceText": "IDA leadership page",
+"text": "IDA's president is Adm. Charles A. Richard, USN (Ret.), who commanded US Strategic Command from 2019 to 2022; its leadership includes former NSA Technical Director Christopher Green and Maj. Gen. James R. Marrs, USAF (Ret.), former National Intelligence Manager for Aviation.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -40,7 +71,15 @@
 ],
 "node": null,
 "title": "Institute for Defense Analyses - Leadership",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-ca3e7abc39"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.ida.org/about-ida/leadership"

@@ -25,7 +25,7 @@
 {
 "id": "dodd-5205-07",
 "locator": "12 September 2024",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoD Directive 5205.07 is the governing DoD policy for special access programs and vests central management in DoD SAPCO under the Deputy Secretary of Defense.",
@@ -38,13 +38,13 @@
 "sources": [
 {
 "id": "usc-10-119",
-"locator": "and DoDD 5205.07",
+"locator": null,
 "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
 },
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "The allegation of a concealed legacy recovery program is, in legal terms, an allegation about a single line of the United States Code: that 10 U.S.C. 119(e) has been used to reduce congressional knowledge of a materials exploitation activity to eight members, or that the activity was never entered into the SAP system at all. Reasoning: those are the only two possibilities the statutory scheme allows.",
@@ -176,12 +176,12 @@
 {
 "id": "dodd-5205-07",
 "locator": "'Special Access Program Policy', effective 12 September 2024, cleared for public release",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 },
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "THE PUBLIC TAXONOMY HAS BEEN NARROWING. DoD Directive 5205.07, 'Special Access Program Policy', was reissued effective 12 September 2024 and cancels the 1 July 2010 version. The full public text of the 2024 directive - purpose, applicability, policy, all thirteen responsibility assignments, the governance section, the complete glossary and the reference list - contains no occurrence of the words 'waived' or 'unacknowledged' at all. The directive that used to define the waived category no longer mentions it; the taxonomy now survives publicly only in the subordinate instruction, DoDI 5205.11. Anyone checking only the directive would conclude the category no longer exists.",
@@ -209,12 +209,12 @@
 {
 "id": "gao-nsiad-93-78",
 "locator": "'Defense Acquisition: Oversight of Special Access Programs Has Increased', 21 December 1992",
-"title": "GAO/NSIAD-93-78: Defense Acquisition: Oversight of Special Access Programs Has Increased"
+"title": "Defense Acquisition: Oversight of Special Access Programs Has Increased (GAO/NSIAD-93-78)"
 },
 {
 "id": "gao-nsiad-93-78",
 "locator": null,
-"title": "GAO/NSIAD-93-78: Defense Acquisition: Oversight of Special Access Programs Has Increased"
+"title": "Defense Acquisition: Oversight of Special Access Programs Has Increased (GAO/NSIAD-93-78)"
 }
 ],
 "text": "GAO HAS DESCRIBED THE WAIVER MECHANISM BUT HAS NEVER PUBLICLY REPORTED AN INSTANCE OF ITS USE. GAO/NSIAD-93-78, the unclassified summary of a classified report, describes the mechanism verbatim: 'Section 119, 10 U.S. Code, enacted in 1987, requires DOD to submit annual reports to the congressional defense committees on special access programs. Under the law, the Secretary of Defense may waive the requirement that certain information on special access programs be included in the annual report if he determines that the inclusion would adversely affect national security. However, he must provide the excluded information to the chairman and ranking minority member of each of the congressional defense committees.' The report then never returns to the subject. Its findings on waivers are about a different thing entirely - 'DOD used waivers and exemptions to limit review, documentation, and reporting requirements' refers to Defense Acquisition Board reviews, competition requirements and Selected Acquisition Reports, not to Section 119(e). Do not let these two senses of 'waiver' be conflated on the board.",
@@ -228,12 +228,12 @@
 {
 "id": "gao-nsiad-89-133",
 "locator": "'Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements', 4 May 1989",
-"title": "GAO/NSIAD-89-133: Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements"
+"title": "Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements (GAO/NSIAD-89-133)"
 },
 {
 "id": "gao-nsiad-89-133",
 "locator": null,
-"title": "GAO/NSIAD-89-133: Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements"
+"title": "Special Access Programs: DOD Is Strengthening Compliance With Oversight Requirements (GAO/NSIAD-89-133)"
 }
 ],
 "text": "The earlier GAO report in the same series, GAO/NSIAD-89-133, covering the period immediately after Section 119 took effect and prepared at the request of Rep. Barbara Boxer, examines DoD compliance with special access program oversight requirements in detail and does not mention the Section 119(e) waiver authority at all. Its only reference to waived requirements is to DoD Directive 5205.7's January 1989 revision requiring 'listings by the responsible program officer of all DOD regulations for which compliance has been waived' - again a different mechanism.",
@@ -280,7 +280,7 @@
 "sources": [],
 "text": "NO UAP-SPECIFIC EXERCISE OF THE 119(e)(1) WAIVER WAS FOUND IN ANY PUBLIC DOCUMENT. Searches across GAO's special access program series, DoD Inspector General audits and evaluations, Congressional Research Service products, and the Senate and House Armed Services Committee document sets returned no document in which a waived special access program is linked to unidentified anomalous phenomena, and no document in which any specific exercise of the Section 119(e)(1) waiver - UAP or otherwise - is identified, dated, counted or described. The DoD Inspector General's public catalogue for special access programs consists of external peer reviews and quality control reviews of the service audit agencies' SAP audit work, plus a series of entries titled only 'CLASSIFIED REPORT (Classified)'; none addresses congressional reporting under Section 119.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Board's own negative search finding, not a source."
 },
 {
 "id": "c-c456336c62",
@@ -331,7 +331,7 @@
 {
 "id": "dodd-5205-07",
 "locator": "2010), para 4.f",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to 'the chair, the ranking minority member, and the staff directors of the defense and intelligence committees'.",

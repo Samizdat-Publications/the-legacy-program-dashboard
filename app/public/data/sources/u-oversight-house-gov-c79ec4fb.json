@@ -1,6 +1,87 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4d1e44e465",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4e6f45d8d5",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a605d34de0",
+"locator": null,
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"sourceText": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
+"text": "'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-13ba256c52",
+"locator": null,
+"node": "hearing-2023-07-26",
+"nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"sourceText": "David Fravor, written statement, 26 July 2023",
+"text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-450cee6c03",
+"locator": null,
+"node": "vfa-41",
+"nodeLabel": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-b26a6549fc",
+"locator": null,
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'They had been observing these objects on their Aegis combat system for the previous 2 weeks,' descending from above 80,000 ft rapidly down to 20,000 ft.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-faa0f5bfd8",
+"locator": null,
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-01fc0691e3",
+"locator": null,
+"node": "uss-princeton",
+"nodeLabel": "USS Princeton (CG-59)",
+"sourceText": "David Fravor, written statement to House Oversight, 26 July 2023",
+"text": "Princeton tracked the objects on Aegis for roughly two weeks before 14 Nov 2004, observing descents from above 80,000 ft to 20,000 ft.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -216,7 +297,34 @@
 ],
 "node": null,
 "title": "House Oversight - Fravor written statement (PDF)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-4d1e44e465",
+"c-a605d34de0",
+"c-b26a6549fc",
+"c-faa0f5bfd8"
+],
+"id": "nimitz-2004",
+"title": "USS Nimitz, November 2004"
+},
+{
+"claims": [
+"c-4d1e44e465",
+"c-a605d34de0",
+"c-13ba256c52"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-faa0f5bfd8"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+}
+],
 "type": "document",
 "urls": [
 "https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf"

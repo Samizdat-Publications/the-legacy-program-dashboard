@@ -1,21 +1,387 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b9a3265c46",
+"locator": null,
+"node": "brad-steiger",
+"nodeLabel": "Brad Steiger",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "Fouche describes him in the 1998 presentation, in a promotional context, as 'my co-author Brad Steiger. Brad is the author of 143 published works including the Best Seller Project Bluebook.' This is a claim about Steiger made by his co-author and is not independently corroborated here.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-1b642e0823",
+"locator": null,
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 7 to 10, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "In the same presentation he claims descent from Napoleon's minister of police: 'He was the head of the French secret National Police Force and a direct ancestor of mine.' No genealogical record was opened, and the presentation also calls Joseph Fouche 'the Prime Minister under Napoleon', which is not an office he held.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-5b5794a88d",
+"locator": null,
+"node": "edgar-fouche",
+"nodeLabel": "Edgar Fouche",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, Copyright Aug. 1998, Fouche Media Associates, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "In his own 1998 presentation he claims clearances no opened record corroborates: 'I've held positions within the USAF that required me to have Top Secret and Q Clearances and Top Secret - Crypto access clearances.' No clearance record of any kind was opened.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-04015718c0",
+"locator": null,
+"node": "fouche-iufoc-1998",
+"nodeLabel": "Fouche's presentation transcript, August 1998",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, page 1, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The transcript's first four lines are: 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'. Both 'IUFOR' and 'Rothshild' are misspelled in the header of the document itself.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-43898774b6",
+"locator": null,
+"node": "fouche-iufoc-1998",
+"nodeLabel": "Fouche's presentation transcript, August 1998",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It is written for live delivery and opens accordingly: 'GOOD AFTERNOON: My mother once told me that I was going to Hell if I didn't change my ways. Judging from the heat outside, I'd say I'm not too far from there.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8c07494d11",
+"locator": null,
+"node": "fouche-iufoc-1998",
+"nodeLabel": "Fouche's presentation transcript, August 1998",
+"sourceText": "PDF metadata read directly from the file retrieved at https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , opened 2026-09-18",
+"text": "The PDF opened carries producer 'PDF-XChange 4.0.195.0 (Windows Seven Ultimate x64 Service Pack 1 (Build 7601))' and creation date D:20140113142726Z, with no title and no author recorded. It is 3,340,952 bytes over 62 pages and has a genuine text layer rather than being a scan.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b13790a0fa",
+"locator": null,
+"node": "fouche-iufoc-1998",
+"nodeLabel": "Fouche's presentation transcript, August 1998",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 62 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It presents the 'SR-75' 'Penetrator' as inside knowledge, at slide 62 onward: 'The SR-75, the first operational Aurora Program vehicle, went operational after 2 years of flight testing and modifications in 89. The top secret SR-75 is a hypersonic strategic reconnaissance, or SR spy plane, and is called the Penetrator. It is also a mothership.' It refers elsewhere to an 'SR-74 Scramp'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dcb56f1b63",
+"locator": null,
+"node": "fouche-iufoc-1998",
+"nodeLabel": "Fouche's presentation transcript, August 1998",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 61 onward, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It attaches the claim to Aurora and to the Strategic Defense Initiative in the claimant's own voice, from slide 61 onward: 'up to 35% of the SDI funding was siphoned off to provide primary expenditures for the Air Force's most secret Black Program, which started in 1982. It is called - The Aurora Program.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ee7142a20f",
+"locator": null,
+"node": "fouche-iufoc-1998",
+"nodeLabel": "Fouche's presentation transcript, August 1998",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 5, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "It names the book as the occasion of the talk, at slide 5: 'I'm here to speak about Secret Government Technology, reverse engineering of Alien Artifacts, and the Top Secret MJ-12 committee, which I write about in my new book, Alien Rapture - The Chosen, with my co-author Brad Steiger.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-24a5ed884c",
+"locator": null,
+"node": "tr-3b",
+"nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 6, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The craft is attached to the existing sighting literature by the artefact itself, at slide 6: 'Before I'm through, you will know exactly what the Flying Triangle is. The one that has been sighted around the world... It could be stealthily hovering somewhere over Phoenix - Arizona, Gulf Breeze - Florida, the country of Belgium, or your city.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-33af0575a6",
+"locator": null,
+"node": "tr-3b",
+"nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slides 69 and 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "THE SELF-CONTRADICTION, AND IT IS THE MOST USEFUL SINGLE FACT ON THIS NODE. Slide 69 of the same document states 'The operational model is 600 feet across.' Slide 70 states 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra.' Both sentences are present in the same transcript, two slides apart, and they give the operational craft two different sizes.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-41087d2820",
+"locator": null,
+"node": "tr-3b",
+"nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 69, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The sighting at the core of the account is second hand within the artefact itself. Slide 69 opens: 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' The claimant does not claim to have seen the craft.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-9401bd5c6a",
+"locator": null,
+"node": "tr-3b",
+"nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 70, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The originating artefact says, at slide 70: 'The 200 feet Prototype & the 300 feet Operational TR-3Bs are Code named Astra. The tactical reconnaissance TR-3B first operational flight was in the early 90s. The triangular shaped nuclear powered aerospace platform was developed under the Top Secret, Aurora Program with SDI and black budget monies. At least 3 of the billion dollar plus TR-3Bs were flying by 1994... It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA. The TR-3B flying triangle is not fiction and was built with technology available in the mid 80s.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-ccb59fff33",
+"locator": null,
+"node": "tr-3b",
+"nodeLabel": "TR-3B 'Astra', claimed black triangular aircraft",
+"sourceText": "Presentation to IUFOR by Edgar Rothshild Fouche, slide 72, https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf , 1998-08",
+"text": "The propulsion claim, at slide 72: 'A circular, plasma filled accelerator ring called the Magnetic Field Disrupter, surrounds the rotatable crew compartment and is far ahead of any imaginable technology. Sandia and Livermore laboratories developed the reverse engineered MFD technology... The plasma, mercury based, is pressurized at 250,000 atmospheres at a temperature of 150 degrees Kelvin and accelerated to 50,000 rpm to create a super-conductive plasma with the resulting gravity disruption. The MFD generates a magnetic vortex field, which disrupts or neutralizes the effects of gravity on mass within proximity, by 89 percent. Do not misunderstand. This is not antigravity.'",
+"tier": 1
+}
+],
 "date": "1998-08",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "alien-rapture-1998",
+"label": "Alien Rapture: The Chosen, Galde Press, 1998"
+},
+"b": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"claimTier": 3,
+"id": "e-75a91e23f5",
+"label": "The book the presentation was given to promote; its TR-3B content was NOT opened",
+"note": "CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+},
+"b": {
+"cls": "document",
+"id": "fouche-iufoc-1998",
+"label": "Fouche's presentation transcript, August 1998"
+},
+"claimTier": 1,
+"id": "e-412983978d",
+"label": "Author and copyright holder of the presentation transcript",
+"note": "INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+},
+"b": {
+"cls": "location",
+"id": "l-groom-lake",
+"label": "Groom Lake, Nevada"
+},
+"claimTier": 2,
+"id": "e-a8cc8584f8",
+"label": "Documented ten weeks temporary duty in 1979, plus extensive first-person narration in the 1998 presentation",
+"note": "The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+},
+"b": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"claimTier": 2,
+"id": "e-c06775988b",
+"label": "Originating claimant of the TR-3B, August 1998",
+"note": "The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "fouche-iufoc-1998",
+"label": "Fouche's presentation transcript, August 1998"
+},
+"b": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"claimTier": 1,
+"id": "e-44cf405595",
+"label": "The dated artefact that carries the claim; opened in full",
+"note": "The dossier proposed this as a custody edge. Built as investigative to match the board's existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "testors-sr-75-kit",
+"label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
+},
+"b": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"claimTier": 3,
+"id": "e-f683cda334",
+"label": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
+"note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-9a3b053627",
+"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"note": "A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 2,
+"id": "e-453ba6863a",
+"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"note": "A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"b": {
+"cls": "institution",
+"id": "nsa",
+"label": "National Security Agency"
+},
+"claimTier": 2,
+"id": "e-21d8c9b71b",
+"label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
+"note": "A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+},
+"b": {
+"cls": "institution",
+"id": "sandia",
+"label": "Sandia National Laboratories"
+},
+"claimTier": 2,
+"id": "e-311c879a10",
+"label": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
+"note": "A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid.",
+"type": "witness-chain"
+}
+],
 "era": "1",
 "id": "n-fouche-iufoc-1998",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "checktheevidence.com",
+"listedOn": [
+{
+"cls": "person",
+"id": "brad-steiger",
+"label": "Brad Steiger"
+},
+{
+"cls": "person",
+"id": "edgar-fouche",
+"label": "Edgar Fouche"
+},
+{
+"cls": "document",
+"id": "fouche-iufoc-1998",
+"label": "Fouche's presentation transcript, August 1998"
+},
+{
+"cls": "document",
+"id": "testors-sr-75-kit",
+"label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993"
+},
+{
+"cls": "program",
+"id": "tr-3b",
+"label": "TR-3B 'Astra', claimed black triangular aircraft"
+}
+],
 "node": {
 "cls": "document",
 "id": "fouche-iufoc-1998",
 "label": "Fouche's presentation transcript, August 1998"
 },
 "title": "Fouche's presentation transcript, August 1998",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1b642e0823",
+"c-5b5794a88d",
+"c-04015718c0",
+"c-8c07494d11",
+"c-b13790a0fa",
+"c-dcb56f1b63",
+"c-ee7142a20f",
+"c-24a5ed884c",
+"c-33af0575a6",
+"c-41087d2820",
+"c-9401bd5c6a",
+"c-ccb59fff33"
+],
+"id": "tr-3b-fouche",
+"title": "The claimed TR-3B and Edgar Fouche"
+},
+{
+"claims": [
+"c-04015718c0"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
 "type": "statute",
-"urls": []
+"urls": [
+"https://www.checktheevidence.com/pdf/Edgar%20Fouche%20-%201998%20Presentation%20to%20IUFOC.pdf"
+]
 }

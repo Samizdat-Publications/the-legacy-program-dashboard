@@ -1,10 +1,12 @@
 {
-"archived": [],
+"archived": [
+"https://web.archive.org/web/20260612141605/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+],
 "claims": [
 {
 "cls": "person",
 "id": "c-05d019fba4",
-"locator": "release, OSD/JS Executive Services Directorate reading room",
+"locator": null,
 "node": "david-grusch",
 "nodeLabel": "David Charles Grusch",
 "sourceText": "DoD FOIA case 23-F-0946 release, OSD/JS Executive Services Directorate reading room; analysis by The Black Vault",
@@ -14,7 +16,7 @@
 {
 "cls": "institution",
 "id": "c-ee195ea6e0",
-"locator": "release",
+"locator": null,
 "node": "dopsr",
 "nodeLabel": "Defense Office of Prepublication and Security Review",
 "sourceText": "DoD FOIA 23-F-0946 release; The Debrief, 5 June 2023",
@@ -24,7 +26,7 @@
 {
 "cls": "document",
 "id": "c-84e2b2a2a5",
-"locator": "release",
+"locator": null,
 "node": "grusch-dopsr-clearance",
 "nodeLabel": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
 "sourceText": "DoD FOIA case 23-F-0946 release; The Debrief, 5 June 2023",
@@ -34,7 +36,7 @@
 {
 "cls": "document",
 "id": "c-d2c08a8d21",
-"locator": "release, analyzed by The Black Vault",
+"locator": null,
 "node": "grusch-dopsr-clearance",
 "nodeLabel": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
 "sourceText": "DoD FOIA 23-F-0946 release, analyzed by The Black Vault",
@@ -141,5 +143,7 @@
 }
 ],
 "type": "document",
-"urls": []
+"urls": [
+"https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/23-F-0946-0958-1317-David_Grusch_DOPSR_Request_09-15-23.pdf"
+]
 }

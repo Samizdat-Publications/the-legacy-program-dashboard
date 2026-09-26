@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-3fef1fee56",
-"locator": "sec. 6.2(d), and a 404 at",
+"locator": null,
 "node": "eo-12356",
 "nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
 "sourceText": "EO 12356 sec. 6.2(d), and a 404 at https://irp.fas.org/offdocs/eo/eo-12356.htm",
@@ -14,31 +14,11 @@
 {
 "cls": "legislation",
 "id": "c-56aebeea01",
-"locator": "sec. 1.1(c",
-"node": "eo-12356",
-"nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
-"sourceText": "EO 12356 sec. 1.1(c), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
-"text": "Section 1.1(c) resolves doubt toward secrecy: where there is reasonable doubt about the level, the information is to be safeguarded at the higher level.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-56aebeea01",
 "locator": null,
 "node": "eo-12356",
 "nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
 "sourceText": "EO 12356 sec. 1.1(c), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
 "text": "Section 1.1(c) resolves doubt toward secrecy: where there is reasonable doubt about the level, the information is to be safeguarded at the higher level.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-5c19818b8c",
-"locator": "full text term searches, against EO 12065 sec. 3-303, and",
-"node": "eo-12356",
-"nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
-"sourceText": "EO 12356 full text term searches, against EO 12065 sec. 3-303, https://www.archives.gov/federal-register/codification/executive-order/12356.html and https://irp.fas.org/offdocs/eo/eo-12065.htm",
-"text": "THE PUBLIC-INTEREST TEST IS GONE, AND THIS WAS CHECKED FROM BOTH SIDES. The phrase 'public interest' occurs zero times in EO 12356, as does any form of 'balanc'. Its predecessor EO 12065 had required at section 3-303 that an official 'determine whether the public interest in disclosure outweighs the damage to national security'. The obligation to weigh disclosure against harm was removed in 1982 and has not returned.",
 "tier": 1
 },
 {
@@ -54,31 +34,11 @@
 {
 "cls": "legislation",
 "id": "c-c46acf8e60",
-"locator": "secs. 1.6(c) and 1.6(d",
-"node": "eo-12356",
-"nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
-"sourceText": "EO 12356 secs. 1.6(c) and 1.6(d), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
-"text": "RECLASSIFICATION AFTER DISCLOSURE IS EXPRESSLY AUTHORISED. Section 1.6(c) permits officials to 'reclassify information previously declassified and disclosed if it is determined in writing' that it requires protection and 'may reasonably be recovered'. Section 1.6(d) permits classification or reclassification AFTER an agency has received a request under the Freedom of Information Act, the Privacy Act or the mandatory review provisions, on a document-by-document basis.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-c46acf8e60",
 "locator": null,
 "node": "eo-12356",
 "nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
 "sourceText": "EO 12356 secs. 1.6(c) and 1.6(d), https://www.archives.gov/federal-register/codification/executive-order/12356.html",
 "text": "RECLASSIFICATION AFTER DISCLOSURE IS EXPRESSLY AUTHORISED. Section 1.6(c) permits officials to 'reclassify information previously declassified and disclosed if it is determined in writing' that it requires protection and 'may reasonably be recovered'. Section 1.6(d) permits classification or reclassification AFTER an agency has received a request under the Freedom of Information Act, the Privacy Act or the mandatory review provisions, on a document-by-document basis.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-c7a092fb26",
-"locator": "sec. 6.2(d) and source line",
-"node": "eo-12356",
-"nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
-"sourceText": "EO 12356 sec. 6.2(d) and source line, https://www.archives.gov/federal-register/codification/executive-order/12356.html",
-"text": "Published at 47 FR 14874 and 15557, 3 CFR 1982 Comp. p. 166, dated 2 April 1982, effective 1 August 1982. Section 6.2(d): 'Executive Order No. 12065 of June 28, 1978, as amended, is revoked as of the effective date of this Order.'",
 "tier": 1
 },
 {
@@ -159,12 +119,8 @@
 "claims": [
 "c-3fef1fee56",
 "c-56aebeea01",
-"c-56aebeea01",
-"c-5c19818b8c",
 "c-5c19818b8c",
 "c-c46acf8e60",
-"c-c46acf8e60",
-"c-c7a092fb26",
 "c-c7a092fb26"
 ],
 "id": "classification-orders",

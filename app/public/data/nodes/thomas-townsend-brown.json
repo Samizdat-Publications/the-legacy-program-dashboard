@@ -41,15 +41,21 @@
 "sources": [],
 "text": "Two speakers on separate episodes tell the same Rickover anecdote. On 6 December 2024 at 0:29:08 Michels, citing the writer Paul LaViolette, said Brown went to Hyman Rickover and Rickover told him to stop wasting his time. On 14 December 2024 at 0:52:55 Bob McGwire gave the same story with Rickover answering 'don't waste your time. We're already on it.' Neither speaker cites a document.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE5314927973.mp3?updated) was rejected in review: names two episodes; candidate is one"
 },
 {
 "id": "c-676595aa3a",
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:19:36",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-ff935d64",
+"locator": "0:19:36",
+"title": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 0:19:36, the retired Senate Armed Services Committee staffer Kirk McConnell said of his own field: 'my science friends in the UAP field, like Dr. Harold Puthoff and Eric Davis, I'm sure if they're watching this, they're very upset with me because I don't think they believe that Tesla, nor Thomas Townsend Brown or others like them' achieved what is claimed of them. This is a report of scepticism from inside the advocate circle rather than from an interested official source, and neither Puthoff nor Davis is quoted directly.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c80a1b8025",
@@ -128,7 +134,7 @@
 {
 "id": "us-patent-3187206",
 "locator": "specification",
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 }
 ],
 "text": "US Patent 3,187,206, 'ELECTROKINETIC APPARATUS', filed 9 May 1958 and issued 1 June 1965, opens 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields' and states that in a dielectric fluid medium 'the forces of reaction appear to be present in that medium', and in vacuum 'on the solid environmental bodies, such as the walls of the vacuum chamber'.",
@@ -156,7 +162,7 @@
 {
 "id": "us-patent-2949550",
 "locator": "first claim",
-"title": "US Patent 2,949,550"
+"title": "Electrokinetic Apparatus (US Patent 2,949,550)"
 }
 ],
 "text": "US Patent 2,949,550, 'Electrokinetic Apparatus', filed 3 July 1957 and granted 16 August 1960, claims 'Thrust producing apparatus' operating by impressing high voltage between a body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium'.",
@@ -166,58 +172,100 @@
 {
 "id": "c-8a65db74fd",
 "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section, referring to the report of 25 March 1953, Cincinnati",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-379f97a2",
+"locator": "LEADS section, report of 25 March 1953, Cincinnati",
+"title": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full text"
+}
+],
 "text": "Brown's FBI file directs the Washington Field Office that Brown 'is apparently in Washington attempting to obtain a research and development contract for his so-called Project Winterhaven', anticipates 'a contract of approximately a million dollars', and instructs the office to 'determine any possible violation of the [F]AG Statute in this matter' -- the Fraud Against the Government statute.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-217aaba3b6",
 "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, LEADS section",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-379f97a2",
+"locator": "LEADS section",
+"title": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full text"
+}
+],
 "text": "The same FBI referral instructs a review 'at the Patent Office' of 'patents No. 1,974,483 (U. S. Electrostatic motor) and No. 2,207,576' to determine what Brown had patented that was pertinent to the inquiry.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ed996a48a1",
 "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, informant statement",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-379f97a2",
+"locator": "informant statement",
+"title": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full text"
+}
+],
 "text": "A named former president of Lake States Securities Corporation told the FBI that Brown's 'flying saucers' apparatus 'was identical to the old stock market predicting machine except that it operated in the atmosphere rather than in an oil bath and it was much larger', and that he was 'confident this flying saucer thing is a phony'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8f0a1d04c0",
 "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, enclosure",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-379f97a2",
+"locator": "enclosure",
+"title": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full text"
+}
+],
 "text": "The FBI file reproduces a letter of 23 December 1948 from the head of the Photometry Section, Optics Division, Naval Research Laboratory, stating that 'The radiation recorder of THOMAS TOWNSEND BROWN. . . was installed in this laboratory about 1931', adding 'I did not attend it or attempt to analyze the results.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8557ab17bb",
 "source": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, Hoover memorandum of 6 December 1950",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-379f97a2",
+"locator": "Hoover memorandum, 6 December 1950",
+"title": "FBI file on Thomas Townsend Brown, FOI/PA# 1496195-000, full text"
+}
+],
 "text": "A memorandum of 6 December 1950 from J. Edgar Hoover to the Chief, Investigations Division, U.S. Civil Service Commission records Brown as an appointee to the Industrial Relations Department, Pearl Harbor Naval Shipyard, notes a 1943 Navy resignation 'accepted for the good of the service', and reports 'no information of disloyal nature.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-46e5f91b71",
 "source": "Project Winterhaven, full-text search of the 66-page proposal",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-58a46e58",
+"locator": "full-text search of the 66-page proposal",
+"title": "Project Winterhaven, Townsend Brown Foundation (private upload, no institutional custody)"
+}
+],
 "text": "The words 'saucer', 'interceptor', 'Mach' and 'Air Force' do not appear anywhere in the 66-page Project Winterhaven proposal. The description of Winterhaven as proposing a saucer designated a USAF interceptor originates in the 1956 Aviation Studies (International) report, not in the proposal.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4c1a4ef804",
 "source": "Project Winterhaven, biographical sketch -- a self-description",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-58a46e58",
+"locator": "biographical sketch bound into the proposal",
+"title": "Project Winterhaven, Townsend Brown Foundation (private upload, no institutional custody)"
+}
+],
 "text": "Brown's own biographical sketch bound into Project Winterhaven gives his birth as Zanesville, Ohio, 18 March 1905, and lists Naval Research Laboratory 1930-33, the International Gravity Expedition to the West Indies 1932, Bureau of Ships acoustic and magnetic minesweeping 1940-41, Materials and Processes Engineer at Glenn L. Martin, and radar consultant at Lockheed. Only the Lockheed item is corroborated by a second document, the assignment line of US 2,417,347.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-341ca34a75",
@@ -226,7 +274,7 @@
 {
 "id": "us-patent-3187206",
 "locator": "which states 'my British Patent 300,311, issued August 15, 1927'",
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 }
 ],
 "text": "British Patent 300,311, 'Method and Apparatus for Producing Force or Motion', issued 15 August 1927, is named in two documents Brown authored: his Winterhaven biography and the text of US 3,187,206. The British grant itself was not opened; Espacenet and the UK IPO refuse this environment.",
@@ -239,7 +287,7 @@
 "sources": [],
 "text": "The 1956 report 'Electrogravitics Systems', attributed to the Gravity Research Group, Special Weapons Study Unit, Aviation Studies (International) Ltd., report GRG-013/56, survives only as a reprint. A WorldCat title search for 'electrogravitics' returns no results, and the compiler's own account is that the original was retrieved from the Wright-Patterson AFB technical library as an item not listed on its catalogue.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: no specific anthology title/edition named; WorldCat search returned nothing confirming its existence"
 },
 {
 "id": "c-456ea9f160",
@@ -248,12 +296,12 @@
 {
 "id": "us-patent-3187206",
 "locator": "'Electrokinetic Apparatus', complete 6-page text, , opened 2026-09-19",
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 },
 {
 "id": "us-patent-3187206",
 "locator": null,
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 }
 ],
 "text": "THE ZERO-COUNT, TAKEN OVER BOTH COMPLETE PATENT TEXTS, because a count is checkable and an adjective is not. Across all six pages of US 2,949,550 and all six pages of US 3,187,206: gravity 0, anti-gravity 0, antigravity 0, levitation 0, scalar 0, electrogravitics 0, zero point 0. THE WORD 'GRAVITY' DOES NOT APPEAR IN EITHER PATENT, in either direction, not once. The board has recorded since 30 August 2026 that neither patent claims anti-gravity; this is that record verified against the printed documents rather than against a prior reading of them.",
@@ -267,12 +315,12 @@
 {
 "id": "us-patent-2949550",
 "locator": "'Electrokinetic Apparatus', complete 6-page text, , opened 2026-09-19",
-"title": "US Patent 2,949,550"
+"title": "Electrokinetic Apparatus (US Patent 2,949,550)"
 },
 {
 "id": "us-patent-2949550",
 "locator": null,
-"title": "US Patent 2,949,550"
+"title": "Electrokinetic Apparatus (US Patent 2,949,550)"
 }
 ],
 "text": "US 2,949,550 bibliographic facts as printed on the patent: '2,949,550 / Patented Aug. 16, 1960 / ELECTROKINETIC APPARATUS / Thomas Townsend Brown, Umatilla, Fla., assignor to Whitehall-Rand, Inc., Washington, D.C., a corporation of Delaware / Filed July 3, 1957, Ser. No. 669,830 / 12 Claims. (Cl. 310-5)'. A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND NEVER FOR WHETHER THE THING WORKS: what it claims is 'Thrust producing apparatus' operating by impressing high voltage between an electroconductive body and an insulated electrode 'whereby to cause relative movement of an ionizable dielectric medium surrounding said electrodes'.",
@@ -286,12 +334,12 @@
 {
 "id": "us-patent-2949550",
 "locator": "'Electrokinetic Apparatus', complete 6-page text, , opened 2026-09-19",
-"title": "US Patent 2,949,550"
+"title": "Electrokinetic Apparatus (US Patent 2,949,550)"
 },
 {
 "id": "us-patent-2949550",
 "locator": null,
-"title": "US Patent 2,949,550"
+"title": "Electrokinetic Apparatus (US Patent 2,949,550)"
 }
 ],
 "text": "US 2,949,550 dates the disclosure five years earlier than the board previously recorded: 'This invention was disclosed and described in my application Serial No. 293,465, filed June 13, 1952, which application has become abandoned. However, reference may be made to this application for the purpose of completing the disclosure set forth below.'",
@@ -305,12 +353,12 @@
 {
 "id": "us-patent-3187206",
 "locator": "'Electrokinetic Apparatus', complete 6-page text, , opened 2026-09-19",
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 },
 {
 "id": "us-patent-3187206",
 "locator": null,
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 }
 ],
 "text": "US 3,187,206 bibliographic facts as printed on the patent: '3,187,206 / Patented June 1, 1965 / ELECTROKINETIC APPARATUS / Thomas Townsend Brown, Walkertown, N.C., assignor, by mesne assignments, to Electrokinetics, Inc., a corporation of Pennsylvania / Filed May 9, 1958, Ser. No. 734,342 / 23 Claims. (Cl. 310-5)'. What it claims, in its opening sentence: 'This invention relates to an electrical device for producing thrust by the direct operation of electrical fields.'",
@@ -324,12 +372,12 @@
 {
 "id": "us-patent-3187206",
 "locator": "'Electrokinetic Apparatus', complete 6-page text, , opened 2026-09-19",
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 },
 {
 "id": "us-patent-3187206",
 "locator": null,
-"title": "US Patent 3,187,206"
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)"
 }
 ],
 "text": "NEITHER PATENT WAS FILED BY OR FOR A GOVERNMENT. US 2,949,550 was assigned to Whitehall-Rand, Inc. of Washington D.C., a Delaware corporation; US 3,187,206 to Electrokinetics, Inc., a Pennsylvania corporation, by mesne assignments. Both are private corporations, and neither patent carries a government interest statement. On the sponsorship test the board applies to the Pais filings, Brown sits with the private inventors and not with the Navy; he is board material for other reasons, including his FBI file, and not because a government filed his patents.",
@@ -341,9 +389,9 @@
 "source": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages, https://ntrs.nasa.gov/api/citations/20040070788/downloads/20040070788.pdf , opened 2026-09-19",
 "sources": [
 {
-"id": "u-ntrs-nasa-gov-a7417e6b",
+"id": "n-millis-tm-2004-213082",
 "locator": null,
-"title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+"title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
 }
 ],
 "text": "THE MODERN COUNTER-EXPLANATION IS NASA'S OWN AND IT NAMES THE EFFECT. NASA/TM-2004-213082, section 3.2.7, by the manager of NASA's Breakthrough Propulsion Physics Project: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES AND NOT ABOUT WHAT BROWN'S PATENTS CLAIM, since the patents never claimed anti-gravity in the first place.",
@@ -355,9 +403,9 @@
 "source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
 "sources": [
 {
-"id": "u-documents2-theblackvault-9f308033",
+"id": "n-dird-antigravity-for-aerospace-applications",
 "locator": null,
-"title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+"title": "Antigravity for Aerospace Applications"
 }
 ],
 "text": "THE ABSENCE IN THE GOVERNMENT'S OWN ANTIGRAVITY SURVEY. DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, does not mention Thomas Townsend Brown. Word counts over the whole released PDF: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and all three are reference-list surnames of other authors: L. S. Brown and Maclay in Physical Review 184 (1969), H. R. Brown as co-editor of 'The Philosophy of Vacuum', and J. H. Brownell on Casimir photons. THIS IS A FACT ABOUT THE DOCUMENT. IT IS NOT EVIDENCE THAT DIA CONSIDERED AND REJECTED BROWN, because the document shows no sign of having considered him at all.",
@@ -732,7 +780,7 @@
 "status": "dead",
 "sub": "Electrostatic-propulsion inventor; five patents; subject of a 1953 FBI fraud inquiry",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 59 of 1138, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 58 of 1138, score 75). 7 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C2/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

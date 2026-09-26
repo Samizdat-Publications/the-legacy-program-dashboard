@@ -36,18 +36,30 @@
 {
 "id": "c-575405c7a7",
 "source": "Reid letter, 24 June 2009, DIA FOIA release",
-"sources": [],
+"sources": [
+{
+"id": "n-reid-sap-letter-2009",
+"locator": null,
+"title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+}
+],
 "text": "Reid's Restricted SAP request for the program was addressed to Deputy Secretary of Defense William Lynn III on 24 June 2009.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8945710e2f",
 "source": "DIA talking paper DR_Reid_Mtg_Nov09",
-"sources": [],
+"sources": [
+{
+"id": "u-documents2-theblackvault-446395e3",
+"locator": null,
+"title": "DIA talking paper — Senator Reid meeting, November 2009"
+}
+],
 "text": "A DIA talking paper for a 19 November 2009 4:45pm meeting in SVC-217 records that the Deputy Secretary of Defense would tell Reid the AAWSAP deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8c7d3d0258",

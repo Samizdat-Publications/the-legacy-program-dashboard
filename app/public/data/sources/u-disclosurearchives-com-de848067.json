@@ -10,6 +10,26 @@
 "sourceText": "https://disclosurearchives.com/aaro-releases",
 "text": "The August 2025 AARO data-standardisation workshop produced a white paper published in February 2026 recommending standardised metadata templates, AI with human oversight, and open narrative reporting.",
 "tier": 2
+},
+{
+"cls": "institution",
+"id": "c-6af89f358d",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "Disclosure Archives AARO release chronology",
+"text": "AARO held a private workshop on UAP data standardisation with civilian researchers and academia on 1 August 2025.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-f44f24a7d1",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "Disclosure Archives AARO release chronology",
+"text": "A UAP Science Advisory Council formation was announced on 17 June 2026.",
+"tier": 2
 }
 ],
 "date": null,
@@ -88,7 +108,15 @@
 ],
 "node": null,
 "title": "Disclosure Archives - AARO releases index",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-6af89f358d"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "web page",
 "urls": [
 "https://disclosurearchives.com/aaro-releases"

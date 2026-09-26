@@ -24,9 +24,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-freepatentsonline-com-8f811560",
+     "id": "us-patent-10322827",
      "locator": null,
-     "title": "US Patent 10, 322, 827"
+     "title": "US Patent 10,322,827 - High frequency gravitational wave generator"
     }
    ],
    "text": "US Patent 10,322,827, 'High frequency gravitational wave generator', application 15/431823, filed 14 February 2017, published 18 June 2019, assignee 'The United States of America as represented by the Secretary of the Navy'.",
@@ -89,9 +89,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-freepatentsonline-com-35d6de6e",
+     "id": "n-pais-app-superconductor",
      "locator": null,
-     "title": "US Application 2019/0058105"
+     "title": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor"
     }
    ],
    "text": "US Patent Application 2019/0058105, 'Piezoelectricity-induced Room Temperature Superconductor', application 15/678672, filed 16 August 2017, published 21 February 2019, assignee the United States as represented by the Secretary of the Navy.",
@@ -107,7 +107,13 @@
     "text": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "The application as filed states the craft 'can be, but without limitation, a cone or lenticular triangle / delta wing configuration', and its two figures show a triangular craft and a diamond craft, each enclosed in the polarized vacuum boundary. The published drawings are the only depiction of the intended craft geometry in the federal record.",
    "tier": 1
   },
@@ -123,9 +129,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-freepatentsonline-com-658bbcf9",
+     "id": "n-pais-app-fusion",
      "locator": null,
-     "title": "US Application 2019/0295733"
+     "title": "US Application 2019/0295733 - Plasma Compression Fusion Device"
     }
    ],
    "text": "US Patent Application 2019/0295733, 'Plasma Compression Fusion Device', application 15/928703, filed 22 March 2018, published 26 September 2019, assignee the United States as represented by the Secretary of the Navy.",
@@ -141,7 +147,13 @@
     "text": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference.",
    "tier": 1
   },
@@ -189,7 +201,13 @@
     "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-14807943",
+     "locator": null,
+     "title": "US application 14/807,943"
+    }
+   ],
    "text": "Pais executed the assignment of application 14/807,943 to the Department of the Navy on 23 July 2015, the day before filing; it was recorded on 24 July 2015 at reel and frame 036176/0499 as an 'ASSIGNMENT OF ASSIGNOR'S INTEREST', assignee 'DEPARTMENT OF THE NAVY', 47076 Liljencrantz Road, Bldg. 435, Patuxent River, Maryland.",
    "tier": 1
   },
@@ -236,7 +254,7 @@
     },
     {
      "id": "cfr-37-41",
-     "locator": "37 faxed 20 August 2018",
+     "locator": null,
      "title": "37 CFR part 41"
     }
    ],
@@ -327,7 +345,13 @@
     "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
    "tier": 1
   },
@@ -361,7 +385,13 @@
     "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
    "tier": 1
   },
@@ -395,7 +425,13 @@
     "text": "AARO FY2025 Consolidated Annual Report on UAP",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-fy2025-annual-report",
+     "locator": null,
+     "title": "AARO FY2025 Consolidated Annual Report on UAP"
+    }
+   ],
    "text": "The FY2025 report states that 'no evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials.'",
    "tier": 1
   },
@@ -469,7 +505,13 @@
     "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority's FINDING rather than the property right. The reason this now bites harder is that Sheehy stated the opposite rationale in writing: he wanted to 'hold the patent as opposed to paying forever more to use this revolutionary technology', which is a freedom-to-operate argument. But publication in November 2017 had already created permanent prior art, and prior art alone prevents anyone else from patenting the idea and charging the Navy for it. The granted claims added nothing to that protection; what they added was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record and the letter; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.",
    "tier": 3
   },
@@ -500,11 +542,6 @@
    "sourceRefs": [
     {
      "id": "cfr-37-1",
-     "locator": "362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1",
-     "title": "37 CFR part 1"
-    },
-    {
-     "id": "cfr-37-1",
      "locator": null,
      "title": "37 CFR part 1"
     }
@@ -530,7 +567,7 @@
     },
     {
      "id": "cfr-37-1",
-     "locator": "132 signed 11 May 2018, faxed 24 May 2018",
+     "locator": null,
      "title": "37 CFR part 1"
     }
    ],
@@ -547,7 +584,13 @@
     "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
    "tier": 1
   },
@@ -622,9 +665,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-navair-navy-mil-181dec85",
+     "id": "n-pax-205-disclosure",
      "locator": null,
-     "title": "NAVAIR FOIA release 2021-003244, PAX 205 briefing"
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
     }
    ],
    "text": "Four of the five are itemised as design goals in a United States Navy invention-disclosure briefing released under FOIA. The PAX 205 briefing describes a 'hybrid aerospace / undersea craft (HAUC)' that 'would move with great ease through the air / space / water mediums' (trans-medium travel), enclosed in a 'Vacuum plasma bubble/sheath' giving extreme speed without skin friction (hypersonic velocity), with non-linear scattering of radio frequency and sonar signals (low observability), by means of an inertial mass reduction device (lift without flight surfaces). This is the whole reason the taxonomy is on this board.",
@@ -644,12 +687,12 @@
     {
      "id": "usc-35-181",
      "locator": "Office of the Law Revision Counsel",
-     "title": "35 U.S.C. 181"
+     "title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
     },
     {
      "id": "usc-35-181",
      "locator": null,
-     "title": "35 U.S.C. 181"
+     "title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
     }
    ],
    "text": "An order is indefinite by renewal, and wartime orders outlast the war. Section 181: 'An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year', renewable annually on an affirmative determination that 'the national interest continues so to require'; an order in effect during a time when the United States is at war 'shall remain in effect for the duration of hostilities and one year following cessation of hostilities.'",
@@ -665,7 +708,13 @@
     "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4 and 5",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-pax-205-disclosure",
+     "locator": "slides 4 and 5",
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
    "text": "The PAX 205 briefing states the hybrid craft 'would move with great ease through the air / space / water mediums, by being enclosed in a Vacuum plasma bubble/sheath', and that 'Energy flux values of 10^33 Watts/m^2 (and beyond) are possible.'",
    "tier": 1
   },
@@ -679,7 +728,13 @@
     "text": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.'",
    "tier": 1
   },
@@ -727,7 +782,13 @@
     "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-14807943",
+     "locator": null,
+     "title": "US application 14/807,943"
+    }
+   ],
    "text": "US 10,135,366 is EXPIRED. USPTO application data gives the status of 14/807,943 as 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 26 December 2022, and the event log records 'Maintenance Fee Reminder Mailed' on 11 July 2022 and 'Expire Patent' on 26 December 2022. Under 37 CFR 1.362(g) the expiry runs from the fourth anniversary of grant, 20 November 2022; 26 December 2022 is the date the Office posted it.",
    "tier": 1
   },
@@ -757,9 +818,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-navair-navy-mil-181dec85",
+     "id": "n-pax-205-disclosure",
      "locator": null,
-     "title": "NAVAIR FOIA release 2021-003244, PAX 205 briefing"
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
     }
    ],
    "text": "The document is a six-page Navy briefing headed 'INERTIAL MASS REDUCTION DEVICE, Navy Case PAX 205', released by NAVAIR under FOIA case 2021-003244.",
@@ -777,9 +838,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-freepatentsonline-com-40417409",
+     "id": "us-patent-10135366",
      "locator": null,
-     "title": "US Patent 10, 135, 366"
+     "title": "US Patent 10,135,366 - Electromagnetic field generator"
     }
    ],
    "text": "US Patent 10,135,366, 'Electromagnetic field generator and method to generate an electromagnetic field', application 14/807943, filed 24 July 2015, published 20 November 2018, assignee 'The United States of America as represented by the Secretary of the Navy'.",
@@ -815,7 +876,13 @@
     "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-pax-205-disclosure",
+     "locator": "slide 5",
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
    "text": "The PAX 205 briefing states that 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)', that this 'has tremendous air and space military implications and applications (both offensive and defensive in nature)', and that 'Local spacetime modification on a grand scale (planetary-size disruption) is thus feasible.'",
    "tier": 1
   },
@@ -829,7 +896,13 @@
     "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 5",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-pax-205-disclosure",
+     "locator": "slide 5",
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
    "text": "The PAX 205 briefing states the invention 'makes possible the design of a hybrid aerospace / undersea craft (HAUC), which due to the physical mechanisms enabled with the Inertial Mass Reduction Device (IMRD), can function as a submersible craft capable of extreme aerial and underwater speeds (lack of air/water-skin friction) and enhanced stealth capabilities (non-linear scattering of RF and sonar signals).'",
    "tier": 1
   },
@@ -890,9 +963,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "Section 3.3.2 treats high frequency gravitational waves as a DETECTION problem, opening 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses, such as collisions of black holes' and proceeding to interferometry and LIGO. Fifteen years later the US Navy was granted US 10,322,827 for a high frequency gravitational wave GENERATOR. Both statements are Tier 1 for what their own documents say.",
@@ -930,9 +1003,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-navair-navy-mil-181dec85",
+     "id": "n-pax-205-disclosure",
      "locator": null,
-     "title": "NAVAIR FOIA release 2021-003244, PAX 205 briefing"
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
     }
    ],
    "text": "The Navy invention-disclosure briefing for Navy Case PAX 205 identifies its author as 'Salvatore Cezar Pais, Ph.D., Department of Defense / Department of the Navy, Naval Air Systems Command / NAWCAD, NAS Patuxent River Maryland 20670', with competency code 4.4.5.1 and a salvatore.pais@navy.mil address.",
@@ -968,7 +1041,13 @@
     "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, compared against the reported characteristics on this board",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-pax-205-disclosure",
+     "locator": "slides 4-5; the board's inference from it",
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
    "text": "The PAX 205 description of a single craft combining transmedium air/space/water travel, extreme speed without skin friction, and low observability through non-linear scattering of RF and sonar tracks the flight characteristics reported by Navy aircrew in the same period more closely than any other document in the federal patent record. Reasoning: direct comparison of the briefing's own capability list against the reported characteristics; the correspondence is a matter of textual overlap and does not establish a causal direction in either direction.",
    "tier": 3
   },
@@ -1004,7 +1083,7 @@
     },
     {
      "id": "cfr-37-41",
-     "locator": "37 faxed 20 August 2018",
+     "locator": null,
      "title": "37 CFR part 41"
     }
    ],
@@ -1046,7 +1125,13 @@
     "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slide 6",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-pax-205-disclosure",
+     "locator": "slide 6",
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
    "text": "The PAX 205 briefing proposes Section 219 NISE funding of 250,000 USD in anticipated labour and 250,000 USD in anticipated NAWCAD facility cost for experimental investigation of the concept, under a slide headed 'EXPERIMENT TRUMPS THEORY EVERYTIME!'",
    "tier": 1
   },
@@ -1064,12 +1149,12 @@
     {
      "id": "usc-35-181",
      "locator": "Office of the Law Revision Counsel",
-     "title": "35 U.S.C. 181"
+     "title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
     },
     {
      "id": "usc-35-181",
      "locator": null,
-     "title": "35 U.S.C. 181"
+     "title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
     }
    ],
    "text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
@@ -1105,7 +1190,13 @@
     "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "The assignment of record is reel 38412, frame 0760: assignor PAIS, SALVATORE, execution date 27 April 2016, recorded 28 April 2016, assignee DEPARTMENT OF THE NAVY, attorney docket number PAX 205. This is the documentary link between the granted patent and the NAVAIR invention-disclosure briefing released under FOIA, which carries the same Navy case number.",
    "tier": 1
   },
@@ -1153,7 +1244,13 @@
     "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-14807943",
+     "locator": null,
+     "title": "US application 14/807,943"
+    }
+   ],
    "text": "The prosecution was short and uncontested. One non-final rejection was written on 12 June 2018 and mailed 20 June 2018; an applicant-initiated telephonic interview followed on 10 July 2018; the applicant responded on 19 July 2018; and the Notice of Allowability was signed on 13 September 2018. There was no final rejection, no affidavit or declaration under 37 CFR 1.132, no Notice of Appeal and no appeal brief.",
    "tier": 1
   },
@@ -1167,7 +1264,13 @@
     "text": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-15141270",
+     "locator": null,
+     "title": "US application 15/141,270"
+    }
+   ],
    "text": "The application was pulled for security screening at filing. USPTO events record 'Referred to Level 2 (LARS) by OIPE CSR' and 'Referred by L&R for Third-Level Security Review. Agency Referral Letter Generated', both dated 2 May 2016, with 'Waiting LR clearance' on 12 May 2016. It cleared; no secrecy order issued.",
    "tier": 1
   },
@@ -1198,7 +1301,7 @@
    "sourceRefs": [
     {
      "id": "uspto-app-14807943",
-     "locator": "and 15/141,270, compared, read 28 August 2026",
+     "locator": null,
      "title": "US application 14/807,943"
     }
    ],
@@ -1235,7 +1338,13 @@
     "text": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, read against the five as published",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-pax-205-disclosure",
+     "locator": "slides 4-5; the board's inference from it",
+     "title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+    }
+   ],
    "text": "The fifth observable, sudden and instantaneous acceleration, is NOT itemised as a design goal in the PAX 205 briefing. The briefing speaks of operating the device 'under rapid acceleration transients' as a means of generating the field, which is a statement about how the machine is driven rather than a claimed flight characteristic of the craft. Recorded because four out of five is the accurate figure and five would be the easy overclaim.",
    "tier": 1
   },
@@ -1288,7 +1397,13 @@
     "text": "USPTO application data for 14/807943 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "uspto-app-14807943",
+     "locator": null,
+     "title": "US application 14/807,943"
+    }
+   ],
    "text": "Application 14/807,943 was examined by Thomas M. Dougherty in Art Unit 2837 under Navy docket PAX 182, confirmation number 9752, with Shawki Ismail named as supervisor. That is a different examiner and a different art unit from the craft application 15/141,270, which Philip J. Bonzell examined in Art Units 3644 and 3642.",
    "tier": 1
   },
@@ -1304,14 +1419,14 @@
    },
    "sourceRefs": [
     {
-     "id": "stat-66-3",
+     "id": "usc-35-181",
      "locator": "Statutes at Large volume 66, govinfo",
-     "title": "66 Stat. 3"
+     "title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
     },
     {
-     "id": "stat-66-3",
+     "id": "usc-35-181",
      "locator": null,
-     "title": "66 Stat. 3"
+     "title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
     }
    ],
    "text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
@@ -1327,7 +1442,13 @@
     "text": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-584b2a30",
+     "locator": null,
+     "title": "The Black Vault"
+    }
+   ],
    "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
    "tier": 1
   },
@@ -1439,7 +1560,7 @@
     },
     {
      "id": "cfr-37-41",
-     "locator": "37 faxed 20 August 2018",
+     "locator": null,
      "title": "37 CFR part 41"
     }
    ],
@@ -1489,7 +1610,7 @@
     },
     {
      "id": "cfr-37-41",
-     "locator": "37 faxed 20 August 2018",
+     "locator": null,
      "title": "37 CFR part 41"
     }
    ],

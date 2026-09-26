@@ -84,7 +84,7 @@
 "sources": [],
 "text": "Stratton participated in the AAWSAP effort and later directed the UAP Task Force, providing direct institutional continuity from the 2008 DIA contract to the 2021 ODNI assessment.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:skinwalkers-at-the-pentagon) was rejected in review: names two sources; Stratton statements are not the candidate"
 },
 {
 "id": "c-e69100cfcf",
@@ -92,7 +92,7 @@
 "sources": [],
 "text": "Stratton has stated he has had personal experience with the phenomenon.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Vague aggregate of remarks over years, no single document."
 },
 {
 "id": "c-bdc0a55d0e",
@@ -105,10 +105,16 @@
 {
 "id": "c-95afef1bbe",
 "source": "Deadline, HarperCollins Acquires Rights To Bombshell Memoir From Jay Stratton, September 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-deadline-com-1c2bcc07",
+"locator": null,
+"title": "Deadline - HarperCollins Acquires Rights To Bombshell Memoir From Jay Stratton"
+}
+],
 "text": "HarperCollins imprint William Morrow acquired the memoir rights of the former director of the UAP Task Force in September 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ef6d37e61f",
@@ -121,10 +127,16 @@
 {
 "id": "c-e625bcff10",
 "source": "US Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020",
-"sources": [],
+"sources": [
+{
+"id": "u-navy-mil-0e149e00",
+"locator": null,
+"title": "US Navy - Establishment of Unidentified Aerial Phenomena Task Force"
+}
+],
 "text": "The UAP Task Force was formally approved by Deputy Secretary of Defense David L. Norquist on 4 August 2020 under the Department of the Navy, with OUSD(I&S) cognizance.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-830fc21cc1",
@@ -132,23 +144,35 @@
 "sources": [],
 "text": "Stratton served as director of the UAP Task Force during 2020-2021 and had previously worked in the DIA/AAWSAP orbit.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:deadline.com/2024/09/jay-stratton-uap-memoir-william-morrow-farah-films-acqu) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-b80f4db88e",
 "source": "David Grusch, sworn testimony, House Oversight Committee, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "testimony of David Grusch",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Grusch testified that the UAP Task Force Director tasked him in 2019 to identify all special access programmes needed to satisfy the Task Force's congressionally mandated mission.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3af90d32d0",
 "source": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-establishment-memo-2022",
+"locator": null,
+"title": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+}
+],
 "text": "The 15 July 2022 AARO establishment memorandum directed the Secretary of the Navy to disestablish the UAPTF and transfer its data and materials to AARO.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

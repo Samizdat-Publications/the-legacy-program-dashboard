@@ -153,9 +153,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
 "sources": [
 {
-"id": "u-dia-mil-189bbe83",
+"id": "n-dird-traversable-wormholes-stargates-and-negative-energy",
 "locator": null,
-"title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+"title": "Traversable Wormholes, Stargates, and Negative Energy"
 }
 ],
 "text": "DIRD DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', Acquisition Threat Support series, 6 April 2010, ICOD 1 December 2009, exists in the DIA FOIA release with the author withheld under (b)(6).",
@@ -167,9 +167,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237627/",
 "sources": [
 {
-"id": "u-dia-mil-01165781",
+"id": "n-dird-warp-drive-dark-energy-and-the",
 "locator": null,
-"title": "DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)"
+"title": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
 }
 ],
 "text": "Companion DIRD DIA-08-1004-001, 'Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions', 2 April 2010, ICOD 1 December 2009, is also in the release, likewise with the author withheld.",
@@ -181,9 +181,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
 "sources": [
 {
-"id": "u-dia-mil-189bbe83",
+"id": "n-dird-traversable-wormholes-stargates-and-negative-energy",
 "locator": null,
-"title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+"title": "Traversable Wormholes, Stargates, and Negative Energy"
 }
 ],
 "text": "Attribution of these two DIRDs to Eric W. Davis is not established by the DIA release (author redacted). It rests on Davis's own account and secondary reporting. Wave-4 item: locate a primary record naming him (e.g. an unredacted copy, a subcontract, or sworn testimony).",
@@ -193,18 +193,30 @@
 {
 "id": "c-7fb0b6e2a9",
 "source": "DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34",
-"sources": [],
+"sources": [
+{
+"id": "n-dia-aatip-letter-2018",
+"locator": "items 8, 11, 14, 31, 34",
+"title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+}
+],
 "text": "Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-993d987c29",
 "source": "Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020",
-"sources": [],
+"sources": [
+{
+"id": "u-nytimes-com-b748f28f",
+"locator": null,
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+}
+],
 "text": "Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-453d8d8cfc",
@@ -220,15 +232,21 @@
 "sources": [],
 "text": "Davis has confirmed to journalists that the fifteen pages of handwritten notes describing an October 2002 conversation with Admiral Thomas Wilson are his own.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Vague 'statements to journalists' with no specific outlet or article named."
 },
 {
 "id": "c-9298e0fe98",
 "source": "The Wilson-Davis notes, 16 Oct 2002, as circulated from 2019",
-"sources": [],
+"sources": [
+{
+"id": "n-wilson-davis-memo",
+"locator": "16 Oct 2002, as circulated from 2019",
+"title": "The Wilson-Davis Notes (16 October 2002)"
+}
+],
 "text": "The notes record Wilson describing being refused access, on need-to-know grounds, to a special access programme holding recovered non-human material in contractor custody.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3f0f4c06eb",
@@ -236,31 +254,49 @@
 "sources": [],
 "text": "At the 17 May 2022 House Intelligence subcommittee UAP hearing, DoD witnesses Ronald Moultrie and Scott Bray were asked about the Wilson-Davis memo and stated they were unaware of it.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/summer-of-the-saucers) was rejected in review: hearing and unnamed reporting; not clearly this Debrief article"
 },
 {
 "id": "c-b123bc0555",
 "source": "Notes attributed to Eric W. Davis of a 16 October 2002 meeting; circulated publicly from 2019",
-"sources": [],
+"sources": [
+{
+"id": "n-wilson-davis-memo",
+"locator": null,
+"title": "The Wilson-Davis Notes (16 October 2002)"
+}
+],
 "text": "The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special access program holding a recovered craft, on the basis that the program sat with a private aerospace contractor and he had no need to know.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-65d1c2ae1c",
-"source": "AARO, Historical Record Report Volume I, March 2024, Section IV on AAWSAP/AATIP deliverables",
-"sources": [],
+"source": "AARO, Historical Record Report Volume I, March 2024, Section IV on AAWSAP/AATIP deliverables - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "Section IV",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "Davis authored Defense Intelligence Reference Documents delivered under DIA's AAWSAP contract, the government-funded research line executed by BAASS.",
-"tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-32cc3d14a6",
 "source": "AARO, Historical Record Report Volume I, March 2024",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO records an interviewee claim that an organisation possessed off-world material in 2009 and 2010 and that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8d6448fa78",
@@ -295,9 +331,9 @@
 "source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
 "sources": [
 {
-"id": "u-documents2-theblackvault-9f308033",
+"id": "n-dird-antigravity-for-aerospace-applications",
 "locator": null,
-"title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+"title": "Antigravity for Aerospace Applications"
 }
 ],
 "text": "WHAT HIS ANTIGRAVITY SURVEY ACTUALLY COVERS, from the released contents page of DIA-08-1003-018: antigravity within Newtonian physics, an energy estimate for Newtonian levitation, antigravity via gravitomagnetic forces, Forward's dipole gravitational field generator, Felber's relativistic antigravity effect, negative energy-induced antigravity, cosmological antigravity, the vacuum energy of Einstein's cosmological constant, dark energy, and quantum antigravity propulsion concepts via zero-point fluctuation force and nonretarded interatomic dispersion force. It is a survey of theoretical routes within accepted physics, with appendices on the Casimir effect and squeezed vacuum.",
@@ -309,9 +345,9 @@
 "source": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, ICOD 1 December 2009, 'Acquisition Threat Support', 45 pages as released, https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_19-DIRD_Antigravity_for_Aerospace_Applications.pdf , opened 2026-09-19",
 "sources": [
 {
-"id": "u-documents2-theblackvault-9f308033",
+"id": "n-dird-antigravity-for-aerospace-applications",
 "locator": null,
-"title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+"title": "Antigravity for Aerospace Applications"
 }
 ],
 "text": "HIS OWN CONCLUSION, verbatim: 'One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments. Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
@@ -321,34 +357,58 @@
 {
 "id": "c-d1bb0cdd75",
 "source": "Cover and administrative note of DIA-08-1004-004 (released copy)",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-traversable-wormholes",
+"locator": null,
+"title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+}
+],
 "text": "DIA reference document DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names Eric W. Davis, Ph.D., of EarthTech International Inc. as author and states it was produced in FY2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications programme, with James T. Lacatski, D.Eng. as programme manager.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2451f39f83",
 "source": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
-"sources": [],
+"sources": [
+{
+"id": "u-nytimes-com-b748f28f",
+"locator": "quoting Davis on the record",
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+}
+],
 "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-337b9b8425",
 "source": "Eric W. Davis quoted in The New York Times, 23 July 2020",
-"sources": [],
+"sources": [
+{
+"id": "u-nytimes-com-b748f28f",
+"locator": "quote from Eric W. Davis",
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+}
+],
 "text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-83f85ad5a9",
 "source": "Widely reported 'Wilson-Davis memo'; Davis has not publicly repudiated authorship. Primary provenance is the Mitchell estate, not a government release.",
-"sources": [],
+"sources": [
+{
+"id": "n-wilson-davis-memo",
+"locator": "widely reported attribution, not repudiated by Davis; Mitchell estate provenance",
+"title": "The Wilson-Davis Notes (16 October 2002)"
+}
+],
 "text": "Notes attributed to Davis of a 16 October 2002 meeting with Vice Adm. Thomas R. Wilson, former Director of the DIA, describe a special access programme within a defence contractor that refused Wilson access; the notes surfaced in 2019 among the estate papers of Apollo astronaut Edgar Mitchell.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-29fadd397f",

@@ -7,10 +7,16 @@
 {
 "id": "c-9a31b9959a",
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-ff935d64",
+"locator": "1:09:33",
+"title": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7a1dcfe1fa",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "AARO states: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-metallic-specimen-analysis) was rejected in review: records/listing page is not the ORNL synopsis"
 },
 {
 "id": "c-5a94a81f13",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "The resulting report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, concerning a specimen publicly alleged to be from a 1947 crashed extraterrestrial vehicle.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-metallic-specimen-analysis) was rejected in review: records/listing page is not the ORNL synopsis"
 },
 {
 "id": "c-196584e386",
@@ -35,7 +41,7 @@
 {
 "id": "crs-r44629",
 "locator": null,
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "UT-Battelle, LLC has administered Oak Ridge National Laboratory since 1 April 2000 under DOE contract DEAC0500OR22725, with recorded obligations of approximately $42.3 billion and a period of performance running to 2030; ORNL was funded at approximately $2,091.2 million in FY2024.",
@@ -45,10 +51,16 @@
 {
 "id": "c-17ddeeb978",
 "source": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-gizmodo-com-9593ba44",
+"locator": null,
+"title": "Gizmodo"
+}
+],
 "text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2cd54efb1b",
@@ -56,7 +68,7 @@
 "sources": [],
 "text": "Sean Kirkpatrick departed AARO on 1 December 2023 and became Chief Technology Officer for Defense and Intelligence Programs at Oak Ridge National Laboratory.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic 'public record' description, no specific source named."
 }
 ],
 "cls": "institution",

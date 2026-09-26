@@ -9,9 +9,9 @@
 "source": "BILLS-118s2226es Div. G sec. 9010(a)",
 "sources": [
 {
-"id": "bills-118s2226es",
-"locator": "Div. G sec. 9010(a",
-"title": "BILLS-118s2226es"
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 }
 ],
 "text": "Verbatim, sec. 9010(a) of Division G of S. 2226 as engrossed in the Senate: 'Exercise of Eminent Domain.--The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.'",
@@ -23,9 +23,9 @@
 "source": "BILLS-118s2226es Div. G sec. 9010",
 "sources": [
 {
-"id": "bills-118s2226es",
-"locator": "Div. G sec. 9010",
-"title": "BILLS-118s2226es"
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 }
 ],
 "text": "The full section is titled 'DISCLOSURE OF RECOVERED TECHNOLOGIES OF UNKNOWN ORIGIN AND BIOLOGICAL EVIDENCE OF NON-HUMAN INTELLIGENCE' and has five subsections: (a) exercise of eminent domain; (b) availability to Review Board; (c) actions of Review Board; (d) Review Board access to testimony and witnesses; (e) solicitation of additional witnesses.",
@@ -37,9 +37,9 @@
 "source": "BILLS-118s2226es Div. G sec. 9010(b)",
 "sources": [
 {
-"id": "bills-118s2226es",
-"locator": "Div. G sec. 9010(b",
-"title": "BILLS-118s2226es"
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 }
 ],
 "text": "Sec. 9010(b) conditions the taking on location: material 'shall be made available to the Review Board for personal examination and subsequent disclosure determination at a location suitable to the controlling authority of said material' - the bill contemplates a private or non-governmental 'controlling authority' holding the material.",
@@ -51,19 +51,14 @@
 "source": "BILLS-118s2226es; CREC-2023-07-13-pt1-PgS2953; PLAW-118publ31",
 "sources": [
 {
-"id": "bills-118s2226es",
-"locator": null,
-"title": "BILLS-118s2226es"
-},
-{
 "id": "crec-2023-07-13-pt1-pgs2953",
 "locator": null,
-"title": "Congressional Record, 2023-07-13, page S2953"
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 },
 {
 "id": "pl-118-31",
 "locator": null,
-"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
 }
 ],
 "text": "Sec. 9010 was not enacted. It appears in the Senate-engrossed text of S. 2226 and in the Congressional Record text of S.Amdt. 797 (13 July 2023); it has no counterpart in Public Law 118-31.",
@@ -73,18 +68,30 @@
 {
 "id": "c-003004f0ab",
 "source": "S. 2226 as engrossed in the Senate, Division G, Sec. 9010(a), GPO",
-"sources": [],
+"sources": [
+{
+"id": "n-uapda-sec-9010-eminent-domain",
+"locator": null,
+"title": "Section 9010(a) - Exercise of Eminent Domain"
+}
+],
 "text": "Verbatim: 'The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-dbf3b2c283",
 "source": "Congressional Record, 11 July 2024, text of SA 2610, GPO",
-"sources": [],
+"sources": [
+{
+"id": "n-uapda-2024-samdt-2610",
+"locator": null,
+"title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+}
+],
 "text": "The identical text was re-passed in filing form as Sec. __10(a) of S.Amdt. 2610 on 11 July 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-979256098b",
@@ -93,12 +100,12 @@
 {
 "id": "pl-118-31",
 "locator": "P.L. 118-159 and P.L. 119-60, GPO",
-"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
 },
 {
 "id": "pl-118-159",
-"locator": "and P.L. 119-60, GPO",
-"title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
 },
 {
 "id": "pl-119-60",

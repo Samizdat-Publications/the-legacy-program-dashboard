@@ -100,10 +100,16 @@
 {
 "id": "c-f9bb0a3cde",
 "source": "The Debrief, 'Colm Kelleher: AAWSAP and the Skinwalker Enigma', 25 May 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-thedebrief-org-7690ed28",
+"locator": null,
+"title": "The Debrief"
+}
+],
 "text": "Kelleher led the NIDS team on Skinwalker Ranch 1996-2004 and in 2008 became Deputy Administrator of BAASS, leading day-to-day execution of the AAWSAP contract.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b2acd210bb",
@@ -111,7 +117,7 @@
 "sources": [],
 "text": "BAASS under Kelleher ran parallel physics and human-biological-effects programs, treating witness physiology as a data stream alongside sensor data.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Names two distinct registered books/reports jointly; no single primary."
 },
 {
 "id": "c-2d3f8c218d",
@@ -127,15 +133,21 @@
 "sources": [],
 "text": "Kelleher served as NIDS deputy administrator from 1996 until the institute's 2004 closure and subsequently as a BAASS project manager on the DIA-funded programme.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Names two distinct books jointly; only one is registered."
 },
 {
 "id": "c-5489fb7da7",
 "source": "Barry Greenwood, review, Journal of Scientific Exploration 37(1), 2 May 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-journalofscientificexplo-453335cd",
+"locator": null,
+"title": "Barry Greenwood, review of 'Skinwalkers at the Pentagon', Journal of Scientific Exploration 37(1) 127-131"
+}
+],
 "text": "'Skinwalkers at the Pentagon' is co-authored by the DIA official who conceived and managed AAWSAP, James Lacatski, together with Kelleher and Knapp.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f294bd1c31",
@@ -143,7 +155,7 @@
 "sources": [],
 "text": "Kelleher served as deputy administrator of BAASS during the DIA AAWSAP contract.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:skinwalkers-at-the-pentagon) was rejected in review: names AAWSAP record and the book; two sources"
 },
 {
 "id": "c-8b91f88fb7",
@@ -151,7 +163,7 @@
 "sources": [],
 "text": "DIA official James Lacatski read Kelleher and Knapp's 'Hunt for the Skinwalker', contacted Bigelow, obtained permission to visit the ranch, and relayed his experience to Sen. Harry Reid, leading to a $22 million appropriation.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:skinwalkers-at-the-pentagon) was rejected in review: two sources; locator invents detail absent from string"
 },
 {
 "id": "c-dda69e9379",
@@ -513,7 +525,7 @@
 "status": "active",
 "sub": "Biochemist; Deputy Administrator, BAASS; former NIDS project manager",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 199 of 1138, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 198 of 1138, score 45). 8 connections, 1 of them custody/funding/programmatic. Axes C2/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

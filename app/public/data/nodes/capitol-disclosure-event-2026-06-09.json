@@ -7,34 +7,58 @@
 {
 "id": "c-35af88b5ee",
 "source": "NewsNation/The Hill, 9 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-274c20b4c668",
+"locator": null,
+"title": "NewsNation/The Hill, 9 June 2026"
+}
+],
 "text": "Rep. Luna said lawmakers are requesting that the White House grant immunity to whistleblowers who come forward with information, including the locations of UFOs and advanced technology.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-dd2db84562",
 "source": "NewsNation/The Hill, 9 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-274c20b4c668",
+"locator": null,
+"title": "NewsNation/The Hill, 9 June 2026"
+}
+],
 "text": "Rep. Burlison: 'For decades, the American people have been treated like children, told there are government secrets they just don't get to know,' and called on President Trump to waive all NDAs for UFO whistleblowers.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1f6f285457",
 "source": "NewsNation/The Hill, 9 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-274c20b4c668",
+"locator": null,
+"title": "NewsNation/The Hill, 9 June 2026"
+}
+],
 "text": "David Grusch: 'Political appointees have not complied with the disclosure law.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cec0113c13",
 "source": "NewsNation/The Hill, 9 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-274c20b4c668",
+"locator": null,
+"title": "NewsNation/The Hill, 9 June 2026"
+}
+],
 "text": "Rep. Moskowitz: 'Disclosure today, disclosure tomorrow. The American people deserve to know.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",
@@ -216,7 +240,7 @@
 ],
 "sub": "Lawmakers and whistleblowers, U.S. Capitol",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 649 of 1138, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 648 of 1138, score 26). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

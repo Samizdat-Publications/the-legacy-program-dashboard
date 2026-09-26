@@ -35,34 +35,58 @@
 {
 "id": "c-38a4e69cb3",
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-52d9aa2453a2",
+"locator": null,
+"title": "Gen. Gregory Guillot to The War Zone, 30 October 2024"
+}
+],
 "text": "'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8295afa3b6",
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-52d9aa2453a2",
+"locator": null,
+"title": "Gen. Gregory Guillot to The War Zone, 30 October 2024"
+}
+],
 "text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a0ef35b47f",
 "source": "NORAD, via The War Zone, 30 October 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-c20413507e1f",
+"locator": null,
+"title": "NORAD, via The War Zone, 30 October 2024"
+}
+],
 "text": "NORAD counted more than 600 drone reports above US military installations since 2022.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-37c763c871",
 "source": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-60e6bb2e2fa5",
+"locator": null,
+"title": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026"
+}
+],
 "text": "'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

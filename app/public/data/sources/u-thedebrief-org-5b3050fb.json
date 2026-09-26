@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-22de0bb4da",
+"locator": null,
+"node": "michael-shellenberger",
+"nodeLabel": "Michael Shellenberger",
+"sourceText": "Micah Hanks, The Debrief, 'Immaculate Constellation: UAP Bombshell or Disinformation?', 17 October 2024",
+"text": "Shellenberger reported the allegations of an alleged US government insider who claims they discovered evidence of an unacknowledged special access program codenamed 'Immaculate Constellation' that has been secretly collecting data on UAP encounters.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -84,7 +95,22 @@
 ],
 "node": null,
 "title": "The Debrief - Immaculate Constellation: UAP Bombshell or Disinformation?",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-22de0bb4da"
+],
+"id": "immaculate-constellation",
+"title": "Immaculate Constellation: the 2024 allegation"
+},
+{
+"claims": [
+"c-22de0bb4da"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "article",
 "urls": [
 "https://thedebrief.org/immaculate-constellation-uap-bombshell-or-disinformation/"

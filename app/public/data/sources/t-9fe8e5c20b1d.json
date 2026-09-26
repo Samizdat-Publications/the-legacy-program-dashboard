@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5400cbb9eb",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "David Grusch to Ross Coulthart, NewsNation, June 2023",
+"text": "'Sometimes you encounter dead pilots and believe it or not, as fantastical as that sounds, it's true.'",
+"tier": 2
+}
+],
+"date": "2023-06",
+"edges": [],
+"era": "3",
+"id": "t-9fe8e5c20b1d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "David Grusch to Ross Coulthart, NewsNation, June 2023",
+"topics": [
+{
+"claims": [
+"c-5400cbb9eb"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+}
+],
+"type": "broadcast",
+"urls": []
+}

@@ -12,6 +12,16 @@
 "tier": 2
 },
 {
+"cls": "institution",
+"id": "c-8f0324f172",
+"locator": "0:47:14",
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"sourceText": "American Alchemy with Jesse Michels, 'NASA Doctor: I Saw A UFO Hovering In THIS Secret Hangar (Ft. Greg Rogers)', 31 August 2025, 0:47:14",
+"text": "At 0:47:14 in the same episode Rogers gave his reason as a general rule about black-programme ownership, using Have Blue and the F-117: during the demonstrator phase 'the U.S. Air Force did not own that even though it had U.S. Air Force markings', and the Air Force took ownership only after it let the production contract. Air Force markings on an airframe are not, on this account, evidence of Air Force custody.",
+"tier": 2
+},
+{
 "cls": "person",
 "id": "c-f2d8158954",
 "locator": null,

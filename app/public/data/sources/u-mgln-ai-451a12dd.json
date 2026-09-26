@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-e9cef2cc46",
+"locator": "2:32:28-2:33:21",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "American Alchemy with Jesse Michels, 'Steven Greer: UFO Secrets Are Held By A Global Cabal', published 11 April 2025, at 2:32:28 to 2:33:21",
+"text": "On American Alchemy with Jesse Michels, 11 April 2025, between 2:32:28 and 2:33:21, Steven Greer, showing a page of his own book on camera, named a witness he called Stephen Digna in connection with a triangular craft at Fort Irwin that Greer says is man-made. Greer said the witness saw more detail than intended because he used night-vision equipment he had been told not to use, that 'the men who took him there were Raytheon operatives', and that the witness and his wife were later abducted and that the episode 'ruined his life'. The board's prose for the 9 September 2025 hearing already carries the name Steven Digna without this account; the Raytheon attribution is Greer's and no record supporting it was opened.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

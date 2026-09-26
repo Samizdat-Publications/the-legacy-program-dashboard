@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-fad3ab305c",
+"locator": null,
+"node": "checktheevidence",
+"nodeLabel": "Check The Evidence (checktheevidence.com), Andrew Johnson",
+"sourceText": "checktheevidence.com posts of 11 February 2014, 2 July 2014 and 13 January 2015, all bylined Andrew Johnson, opened 2026-09-18",
+"text": "The site is operated under a named individual who signs and dates his posts, which distinguishes it from arvp.co.uk, whose owner is unnamed and which the board already records as anonymous.",
+"tier": 1
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "t-361710e1318d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Andrew Johnson",
+"listedOn": [],
+"node": null,
+"title": "checktheevidence.com posts of 11 February 2014, 2 July 2014 and 13 January 2015",
+"topics": [
+{
+"claims": [
+"c-fad3ab305c"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": []
+}

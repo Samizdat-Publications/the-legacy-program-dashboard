@@ -74,16 +74,6 @@
 {
 "cls": "legislation",
 "id": "c-860ae86ce3",
-"locator": "heading and (g)(2)(B), OLRC prelim text, read 22 August 2026",
-"node": "usc-50-3348",
-"nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
-"sourceText": "50 U.S.C. 3348 heading and (g)(2)(B), OLRC prelim text, read 22 August 2026, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348&num=0&edition=prelim",
-"text": "The section heading is 'Reports relating to certain special access programs and similar programs'. The word doing the work is 'certain': DoD, NNSA and the Intelligence Community are routed out of it by subsection (g)(2)(B) to their own regimes, and the DoD regime it routes to, 10 U.S.C. 119, is the one carrying a waiver.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-860ae86ce3",
 "locator": null,
 "node": "usc-50-3348",
 "nodeLabel": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",

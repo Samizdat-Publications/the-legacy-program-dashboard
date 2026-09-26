@@ -8,26 +8,44 @@
 {
 "id": "c-674a0d6a71",
 "source": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
-"sources": [],
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "ODNI's Preliminary Assessment (25 June 2021) attributes the inability to characterise most incidents to limited and inconsistent reporting rather than to the phenomena.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0692e691e2",
 "source": "Limina, doi:10.59661/001c.131854",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-609b78fb",
+"locator": null,
+"title": "Grosvenor, Hancock & Porritt, Limina"
+}
+],
 "text": "Hancock, Porritt and Grosvenor applied formal indications analysis to UAP reporting against the US atomic warfare complex, published via SCU in 2023 and in Limina in 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-85a97770c3",
 "source": "AARO Historical Record Report Volume I",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's Volume I report describes its methodology, including approximately thirty interviews and a review of named sensitive programmes, in Sections V and VI.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

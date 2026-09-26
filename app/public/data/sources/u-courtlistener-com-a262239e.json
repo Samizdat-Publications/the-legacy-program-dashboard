@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-d07aaab5ed",
+"locator": null,
+"node": "d-litigation",
+"nodeLabel": "Litigation",
+"sourceText": "CourtListener, CAUS v. DoD (9th Cir.)",
+"text": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense reached the Ninth Circuit, decided 14 November 2001.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6d3e9bac93",
+"locator": null,
+"node": "peter-gersten",
+"nodeLabel": "Peter A. Gersten",
+"sourceText": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense (9th Cir.)",
+"text": "CAUS litigation against the Department of Defense reached the Ninth Circuit as late as 14 November 2001.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -45,7 +66,15 @@
 ],
 "node": null,
 "title": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d07aaab5ed"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.courtlistener.com/opinion/7176972/citizens-against-ufo-secrecy-inc-v-united-states-department-of-defense/"

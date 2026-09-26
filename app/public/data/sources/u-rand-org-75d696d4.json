@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-40124d8bd6",
+"locator": "footnote 9",
+"node": "george-kocher",
+"nodeLabel": "George Kocher",
+"sourceText": "RAND report RRA2475-1, 25 July 2023, footnote 9",
+"text": "RAND's 2023 report RRA2475-1, on mapping public reports of unidentified aerial phenomena across America, cites Kocher's DRU-1571.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-95dba0730b",
+"locator": null,
+"node": "rand-corporation",
+"nodeLabel": "RAND Corporation",
+"sourceText": "RAND report RRA2475-1",
+"text": "RAND published 'Mapping Public Reports of Unidentified Aerial Phenomena Across America' (RRA2475-1) on 25 July 2023, citing Kocher's DRU-1571.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -22,7 +43,15 @@
 ],
 "node": null,
 "title": "RAND - Mapping Public Reports of Unidentified Aerial Phenomena Across America (RRA2475-1)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-95dba0730b"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
 "type": "document",
 "urls": [
 "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf"

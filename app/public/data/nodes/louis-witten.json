@@ -38,26 +38,44 @@
 {
 "id": "c-37a6c7469d",
 "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Rickles and DeWitt, participants list",
-"sources": [],
+"sources": [
+{
+"id": "u-edition-open-sources-org-f5a3194c",
+"locator": "eds. Rickles and DeWitt",
+"title": "Chapel Hill conference participants list"
+}
+],
 "text": "The participants list of the January 1957 Chapel Hill conference on the role of gravitation in physics prints 'Witten, L. | RIAS, Inc., Baltimore', directly above 'Bass, R.W. | RIAS , Inc., Baltimore'. Witten's contribution, with R. W. Bass, is 'Some Remarks on Cosmological Models'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-859758a351",
 "source": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, title page and editorial matter",
-"sources": [],
+"sources": [
+{
+"id": "u-edition-open-sources-org-3ba57102",
+"locator": "title page and editorial matter",
+"title": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, Edition Open Sources, Sources 5, ISBN 978-3-945561-29-4"
+}
+],
 "text": "The conference report's official designation is WADC Technical Report 57-216, and it exists because of a conference funding agreement with the Wright Air Development Center -- an Air Force body.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7e0e84d3e1",
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context', in the Edition Open Sources edition of the 1957 conference report",
-"sources": [],
+"sources": [
+{
+"id": "u-edition-open-sources-org-ba295a29",
+"locator": null,
+"title": "Dean Rickles, 'The Chapel Hill Conference in Context'"
+}
+],
 "text": "A named historian on the record states that 'Louis Witten (the father of Ed Witten, and participant in the Chapel Hill conference) was the first researcher hired by RIAS, of the Glenn Martin Company.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c7ff61258f",
@@ -65,7 +83,7 @@
 "sources": [],
 "text": "The conference participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research'. Witten's documented output is classical general relativity, including exact electrovacuum solutions to the Einstein field equation; nothing read shows RIAS producing gravity-control results.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:edition-open-sources.org/sources/5/3/index.html) was rejected in review: names two sources; candidate is only one"
 }
 ],
 "cls": "person",
@@ -247,7 +265,7 @@
 "status": "dead",
 "sub": "General relativist; first researcher hired by RIAS, Inc., the Glenn L. Martin Company's research institute",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 642 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 641 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

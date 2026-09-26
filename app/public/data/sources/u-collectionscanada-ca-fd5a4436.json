@@ -2,7 +2,58 @@
 "archived": [
 "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1401-e.html"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-71b784730c",
+"locator": null,
+"node": "project-magnet",
+"nodeLabel": "Project Magnet (Canada)",
+"sourceText": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
+"text": "Smith, Project Magnet report 1952: the next steps should be 'a substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-a3e7e0dda4",
+"locator": null,
+"node": "project-magnet",
+"nodeLabel": "Project Magnet (Canada)",
+"sourceText": "Library and Archives Canada, 'Canada's UFOs' exhibition, Project Magnet report document page",
+"text": "Project Magnet material at Library and Archives Canada is cited in LAC's own exhibition as 'Shirley's Bay, Ontario, Project Magnet, 1952. RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-cc34524b6d",
+"locator": "p.6",
+"node": "project-magnet",
+"nodeLabel": "Project Magnet (Canada)",
+"sourceText": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
+"text": "Smith, Project Magnet report 1952, p.6: 'They are a hundred feet or more in diameter; they can travel at speeds of several thousand miles per hour; they can reach altitudes well above those which should support conventional air craft or balloons; and ample power and force seem to be available for all required maneuvers.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-21047434dc",
+"locator": "p.6",
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"sourceText": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
+"text": "Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficult to reconcile this performance with the capabilities of our technology, and unless the technology of some terrestrial nation is much more advanced than is generally known, we are forced to the conclusion that the vehicles are probably extra-terrestrial, in spite of our prejudices to the contrary.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bf1f238d21",
+"locator": null,
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"sourceText": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
+"text": "Smith recommended that the next step be a 'substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -42,7 +93,19 @@
 ],
 "node": null,
 "title": "Library and Archives Canada - Project Magnet report page",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-71b784730c",
+"c-a3e7e0dda4",
+"c-cc34524b6d",
+"c-21047434dc",
+"c-bf1f238d21"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
 "type": "web page",
 "urls": []
 }

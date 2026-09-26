@@ -7,18 +7,30 @@
 {
 "id": "c-3bee01484c",
 "source": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-ae1a08eaa5a1",
+"locator": null,
+"title": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026"
+}
+],
 "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6c05d8d45a",
 "source": "The War Zone, 25 March 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-2b4334174b31",
+"locator": null,
+"title": "The War Zone, 25 March 2026"
+}
+],
 "text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line; drones resisted jamming and showed non-commercial signal characteristics.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

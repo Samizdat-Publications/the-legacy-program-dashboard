@@ -7,10 +7,16 @@
 {
 "id": "c-937c84ed51",
 "source": "Bolender memorandum, 20 Oct 1969 (archived scan)",
-"sources": [],
+"sources": [
+{
+"id": "n-bolender-memo",
+"locator": null,
+"title": "Bolender Memorandum"
+}
+],
 "text": "The memorandum is dated 20 October 1969 and signed by Brig. Gen. C. H. Bolender, USAF Deputy Director of Development.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9b6f7540ed",
@@ -18,15 +24,21 @@
 "sources": [],
 "text": "The memorandum states that reports of unidentified flying objects which could affect national security are made under JANAP 146 or AFM 55-11 and 'are not part of the Blue Book system'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:bolender-memo) was rejected in review: string says memo read via literature, not the memo"
 },
 {
 "id": "c-c6eb0265ed",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
-"sources": [],
+"sources": [
+{
+"id": "u-af-mil-de312b60",
+"locator": null,
+"title": "USAF Fact Sheet: Project Blue Book"
+}
+],
 "text": "Blue Book was terminated on 17 December 1969, two months after the memorandum.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-11440a1ad4",
@@ -34,8 +46,8 @@
 "sources": [
 {
 "id": "nara-rg-615",
-"locator": "accessioning notices",
-"title": "NARA Record Group 615"
+"locator": null,
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
 }
 ],
 "text": "No records series corresponding to the JANAP 146 national-security UFO reports has ever been identified, accessioned by NARA, or searched under any subsequent disclosure statute.",

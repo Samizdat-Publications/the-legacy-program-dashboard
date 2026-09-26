@@ -11,15 +11,21 @@
 "sources": [],
 "text": "The Robertson Panel report (17 January 1953) recommends stripping UFOs of their 'special status' through mass-media debunking and recommends that civilian UFO groups be 'watched because of their potentially great influence on mass thinking'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf) was rejected in review: string names the CUFON copy; candidate is the Black Vault scan"
 },
 {
 "id": "c-fd2bc6b6d5",
 "source": "Haines, 'CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence",
-"sources": [],
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": null,
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "CIA historian Gerald K. Haines, in Studies in Intelligence (1997), states that over half of all UFO reports in the late 1950s and 1960s were accounted for by U-2 and OXCART flights and that Air Force investigators knowingly provided false explanations to the public.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2864aade41",

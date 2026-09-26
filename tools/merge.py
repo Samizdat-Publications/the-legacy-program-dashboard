@@ -1315,6 +1315,19 @@ def remediate_tiers(people, entities):
 
 
 QUOTE_OPEN = re.compile(r"^['\"\u2018\u201c]")
+# The office, or one of its documents, as the subject of an account verb: "AARO
+# assessed ...", "AARO's 2024 historical report reaffirmed ...", "The memorandum
+# concludes ...". Such a claim is about what the office said or recorded, which is
+# what its own publication is a primary record of. The attribution words above
+# were written for strings and miss most of these ("assessed", "reaffirmed",
+# "released", "found"). tools/verify.py carries the same pattern, restated.
+OFFICE_ACCOUNT = re.compile(
+    r"\b(?:AARO|the office|the (?:same )?(?:report|memorandum|memo|volume|supplement|analysis|"
+    r"slides|page|synopsis|paper)|Volume I)\b[^.;:]{0,90}?\b(?:assess\w*|reaffirm\w*|report\w*|"
+    r"releas\w*|found|finds?|conclud\w*|confirm\w*|logged|treat\w*|anonymi[sz]\w*|present\w*|"
+    r"acknowledg\w*|stat\w*|says?|said|describ\w*|list\w*|record\w*|note\w*|attribut\w*|"
+    r"resolv\w*|judg\w*|declar\w*|determin\w*|characteri[sz]\w*|identif\w*|dismiss\w*|"
+    r"reject\w*|den(?:y|ies|ied))\b", re.I)
 
 
 def remediate_interested_party_claims(people, entities):
@@ -1330,7 +1343,8 @@ def remediate_interested_party_claims(people, entities):
 
     So: a Tier 1 claim whose EVERY registry source is an interested party keeps
     Tier 1 only when it is about what that party said (the attribution words
-    above, or a claim that opens by quoting it), or when research/
+    above, a claim that opens by quoting it, or the office or one of its documents
+    as the subject of an account verb), or when research/
     _source_decisions.json `tierAdjudications` records why it stands. Otherwise
     it is Tier 2, flagged in place like every other demotion. verify.py restates
     the rule over the shipped registry."""
@@ -1357,7 +1371,8 @@ def remediate_interested_party_claims(people, entities):
             if not rows or not all(r.get("source") in ip for r in rows):
                 continue
             t = c.get("text") or ""
-            if ATTRIBUTION_PAT.search(t) or QUOTE_OPEN.match(t) or cid in adj:
+            if ATTRIBUTION_PAT.search(t) or QUOTE_OPEN.match(t) or OFFICE_ACCOUNT.search(t) \
+                    or cid in adj:
                 continue
             why = ("sourced only to an interested party (AARO/DoD) in the source registry, "
                    "asserting an external fact; primary record of the statement, not of the fact")

@@ -2,6 +2,16 @@
 "archived": [],
 "claims": [
 {
+"cls": "document",
+"id": "c-f32eab81cf",
+"locator": null,
+"node": "imminent-book",
+"nodeLabel": "Imminent: Inside the Pentagon's Hunt for UFOs",
+"sourceText": "Wikipedia, Luis Elizondo, citing publisher and contemporaneous reviews",
+"text": "Published August 2024 and debuted at number one on the New York Times bestseller list; claims include recovery of non-human bodies and a decades-long secret retrieval programme.",
+"tier": 2
+},
+{
 "cls": "person",
 "id": "c-4ce7c4da4b",
 "locator": null,
@@ -64,6 +74,7 @@
 "topics": [
 {
 "claims": [
+"c-f32eab81cf",
 "c-4ce7c4da4b",
 "c-c53b393407"
 ],
@@ -72,6 +83,7 @@
 },
 {
 "claims": [
+"c-f32eab81cf",
 "c-4ce7c4da4b"
 ],
 "id": "aatip-elizondo",

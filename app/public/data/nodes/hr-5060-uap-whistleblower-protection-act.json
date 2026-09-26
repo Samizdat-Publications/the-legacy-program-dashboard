@@ -11,7 +11,7 @@
 {
 "id": "bills-119hr5060ih",
 "locator": null,
-"title": "BILLS-119hr5060ih"
+"title": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
 }
 ],
 "text": "Introduced 29 August 2025 by Rep. Tim Burchett; cosponsors Anna Paulina Luna and Elijah Crane; referred to Oversight and Government Reform and additionally to Armed Services and Intelligence (Permanent Select).",
@@ -25,7 +25,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "9 September 2025",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Burlison, on the record: the bill 'is language that will protect whistleblowers from any kind of reprisal, and yet it is again and again blocked by this body in some way. Many times, it is being blocked not by elected officials but by staff behind the scenes.'",
@@ -38,7 +38,7 @@
 "sources": [],
 "text": "Establishes whistleblower protections for federal employees who disclose government-funded research into materials linked to UAP.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:meritalk.com/articles/reps-reintroduce-uap-whistleblower-protection-bill) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-69b007ddee",
@@ -46,15 +46,21 @@
 "sources": [],
 "text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced by Rep. Tim Burchett in the 119th Congress; its predecessor was H.R. 10111 in the 118th.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:hr-5060-uap-whistleblower-protection-act) was rejected in review: names two bills; candidate is one"
 },
 {
 "id": "c-372c9c571c",
 "source": "DefenseScoop, 3 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-f27f9a90",
+"locator": null,
+"title": "DefenseScoop - Next UAP disclosure hearing set, as lawmakers consider new whistleblower protections"
+}
+],
 "text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "legislation",
@@ -309,7 +315,7 @@
 ],
 "sub": "Introduced 29 Aug 2025; referred; pending",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 647 of 1138, score 26). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 646 of 1138, score 26). 6 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

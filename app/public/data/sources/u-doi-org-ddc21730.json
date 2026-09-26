@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-59b6d27eed",
+"locator": null,
+"node": "beatriz-villarroel",
+"nodeLabel": "Beatriz Villarroel",
+"sourceText": "Scientific Reports, DOI 10.1038/s41598-021-92162-7",
+"text": "Villarroel et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports, 17 June 2021.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-aeb976bfe8",
+"locator": null,
+"node": "vasco-project",
+"nodeLabel": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
+"sourceText": "Scientific Reports, DOI 10.1038/s41598-021-92162-7",
+"text": "Villarroel, Marcy, Geier, Streblyanska and Solano published 'Exploring nine simultaneously occurring transients on April 12th 1950' in Scientific Reports on 17 June 2021.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -40,7 +61,16 @@
 ],
 "node": null,
 "title": "Villarroel, Marcy, Geier et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-59b6d27eed",
+"c-aeb976bfe8"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.1038/s41598-021-92162-7"

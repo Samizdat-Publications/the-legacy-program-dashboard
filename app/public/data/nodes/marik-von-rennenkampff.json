@@ -24,10 +24,16 @@
 {
 "id": "c-c1e1b2f2be",
 "source": "The Hill, opinion/national-security and opinion/technology sections; URLs confirmed live via The Hill's own search index, 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-cba60b55b939",
+"locator": null,
+"title": "The Hill, opinion/national-security and opinion/technology sections"
+}
+],
 "text": "The Hill has published a sustained series of UAP opinion pieces argued from the official record, including 'Did the Pentagon spread false UFO stories? We're skeptical.', 'Shocking UFO allegations make the case for the Disclosure Act', 'Pentagon still mystified as drone drama deepens' and 'Mysterious orbs demand scientific study'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

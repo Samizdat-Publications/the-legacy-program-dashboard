@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-b72712a9da",
+"locator": null,
+"node": "mdang-flare-statement-1997",
+"nodeLabel": "Maryland Air National Guard flare statement, 26 July 1997",
+"sourceText": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
+"text": "On the Danny Jones Podcast, episode 229, 18 March 2024, at 1:31:41 to 1:32:45, David Morehouse said Operation Snowbird, A-10 training out of Davis-Monthan, was the official explanation given at the time for the Phoenix lights, and that the Maryland Air National Guard confirmed it. The Air National Guard statement is real and dated; the words Operation Snowbird appear nowhere in the opened record, and no Air Force record connecting that deployment programme to the 13 March 1997 sorties was opened, because af.mil refuses this environment.",
+"tier": 2
+}
+],
+"date": "2024-03-18",
+"edges": [],
+"era": "3",
+"id": "t-59e38a39b1e8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
+"topics": [
+{
+"claims": [
+"c-b72712a9da"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-b72712a9da"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "broadcast",
+"urls": []
+}

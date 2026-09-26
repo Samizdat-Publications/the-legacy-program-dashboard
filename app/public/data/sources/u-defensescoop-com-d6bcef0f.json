@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-2e9ff8eeec",
+"locator": null,
+"node": "l-ft-meade",
+"nodeLabel": "Fort George G. Meade, Maryland",
+"sourceText": "DefenseScoop, 26 August 2024",
+"text": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-89d3f45984",
+"locator": null,
+"node": "d-signals",
+"nodeLabel": "Signals & Sensor Intelligence",
+"sourceText": "DefenseScoop, 26 August 2024",
+"text": "Jon Kosloski, a senior NSA researcher, was appointed to lead AARO in August 2024.",
+"tier": 1
+}
+],
 "date": "2024-08-26",
 "edges": [
 {
@@ -45,7 +66,15 @@
 ],
 "node": null,
 "title": "DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-89d3f45984"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
 "type": "article",
 "urls": [
 "https://defensescoop.com/2024/08/26/leader-pentagon-uap-investigation-hub-jon-kosloski/"

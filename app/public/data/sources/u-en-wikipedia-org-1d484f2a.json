@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-c4f2fc4077",
+"locator": "p.351 of cited work",
+"node": "institute-22",
+"nodeLabel": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
+"sourceText": "Wikipedia, 'Institute 22', citing Timothy Good, Need to Know: UFOs, the Military, and Intelligence (Pegasus Books, 2007), p.351",
+"text": "'The Institute 22 organization was created in 1978, by the Academy of Sciences and the Ministry of Defense in the Soviet Union ... Institute 22 have investigated around 3000 UFO reports. About 5-10% of all cases remained unexplained when the organization dissolved.'",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -35,7 +46,15 @@
 ],
 "node": null,
 "title": "Institute 22 - Wikipedia",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-c4f2fc4077"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Institute_22"

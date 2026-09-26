@@ -12,7 +12,7 @@
 {
 "id": "pl-118-31",
 "locator": "NDAA for Fiscal Year 2024, Subtitle C",
-"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
 }
 ],
 "text": "NDAA FY2024 (P.L. 118-31), Subtitle C, Sections 1841-1843 establish the UAP Records Collection at NARA, the agency duty to review and transmit records, and the grounds for postponement of disclosure.",
@@ -22,10 +22,16 @@
 {
 "id": "c-3521aa2e4a",
 "source": "H.R. 2670 as passed by the Senate, Division I",
-"sources": [],
+"sources": [
+{
+"id": "bills-118hr2670eas",
+"locator": "Division I",
+"title": "BILLS-118hr2670eas"
+}
+],
 "text": "The Senate-passed version of the FY2024 NDAA contained Division I, the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' (Sections 9001-9010), including a Review Board and eminent domain over recovered technologies of unknown origin.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6f95ce7b6e",

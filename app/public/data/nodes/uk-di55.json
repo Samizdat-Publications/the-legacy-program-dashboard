@@ -7,10 +7,16 @@
 {
 "id": "c-acb807d46d",
 "source": "Project Condign, Volume 2 Working Paper No. 9 title; Volume 3 header, released MoD copy",
-"sources": [],
+"sources": [
+{
+"id": "n-doc-condign-report",
+"locator": "Volume 2 Working Paper No. 9 title; Volume 3 header",
+"title": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)"
+}
+],
 "text": "Project Condign's product was issued as 'DIS Scientific & Technical Memorandum 55/2/00'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2f6a4db792",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "Key Recommendation: 'It should no longer be a requirement for DI55 to monitor UAP reports as they do not demonstrably provide information useful to Defence Intelligence.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt) was rejected in review: URL is Vol 1 ch 4-5 pages, not clearly the Executive Summary"
 },
 {
 "id": "c-5a24a008aa",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "Subsidiary recommendation: 'it is recommended that there be no further requirement for maintaining the database.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/download/condign-vol-2-1-258/uap_vol1_pgs87to99_ch4to5_djvu.txt) was rejected in review: URL is Vol 1 ch 4-5 pages, not clearly the Executive Summary"
 }
 ],
 "cls": "institution",

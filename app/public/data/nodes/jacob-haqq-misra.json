@@ -20,10 +20,16 @@
 {
 "id": "c-bd86395c0b",
 "source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-1955652b",
+"locator": null,
+"title": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'"
+}
+],
 "text": "Haqq-Misra, an astrobiologist and Sol Foundation advisory board member, was named to the UAP Science Advisory Council in June 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1567c2cf52",
@@ -31,7 +37,7 @@
 "sources": [],
 "text": "The Sol Foundation described the appointment of its co-founders, Gallaudet and Haqq-Misra to the government's scientific advisory body as 'a fulfillment of its founding mission'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisor) was rejected in review: outlet and month only; candidate row shows no date"
 }
 ],
 "cls": "person",

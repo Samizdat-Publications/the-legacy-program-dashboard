@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-93d840a83c",
+"locator": null,
+"node": "roswell-1947",
+"nodeLabel": "Roswell Incident",
+"sourceText": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
+"text": "Brig. Gen. Roger M. Ramey retracted the statement the same day at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-da443aad6a",
+"locator": null,
+"node": "l-roswell",
+"nodeLabel": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"sourceText": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
+"text": "Brig. Gen. Roger M. Ramey retracted the statement at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
+"tier": 1
+}
+],
+"date": "1947-07-08",
+"edges": [],
+"era": "0",
+"id": "t-5e3845b0ffa6",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Fort Worth press conference photographs and wire copy",
+"topics": [],
+"type": "article",
+"urls": []
+}

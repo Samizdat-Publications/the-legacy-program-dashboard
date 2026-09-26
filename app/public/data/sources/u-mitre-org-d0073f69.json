@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-c1cd2658cc",
+"locator": null,
+"node": "ffrdc-mechanism",
+"nodeLabel": "The FFRDC / UARC / GOCO mechanism",
+"sourceText": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health and cybersecurity, and describes itself as providing long-term strategic partnership and stability to government sponsors.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-2015ddbadf",
+"locator": null,
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"sourceText": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "MITRE operates six FFRDCs: the National Security Engineering Center; the Center for Advanced Aviation System Development; the Center for Enterprise Modernization; the Homeland Security Systems Engineering and Development Institute; the Health FFRDC; and the National Cybersecurity FFRDC.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

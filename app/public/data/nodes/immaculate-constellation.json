@@ -11,7 +11,7 @@
 {
 "id": "chrg-118hhrg57440",
 "locator": "Index of Documents",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
@@ -25,7 +25,7 @@
 {
 "id": "chrg-118hhrg57440",
 "locator": null,
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "'Committee staff asked me to go ahead, and I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.'",
@@ -35,34 +35,58 @@
 {
 "id": "c-b90e760547",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "testimony of Michael Shellenberger",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms' and 'includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2477ebc37d",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "testimony of Michael Shellenberger",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "'One involved orbs surrounding and forcing an F-22 out of its patrol area. In another incident, the crew of a Navy aircraft carrier watched a small orange/red sphere rapidly descend from a high altitude of 100 to 200 yards directly above the flight deck.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-05bc19eaae",
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "testimony of Michael Shellenberger",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "The report describes 'a roughly 13-minute long, high-definition, full-color video of a white orb UAP coming out of the ocean approximately 20 miles off the coast of Kuwait ... joined by another orb that briefly comes into the frame from the left.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cdf39434fd",
 "source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-bcaf006d",
+"locator": null,
+"title": "Michael Shellenberger, written testimony, House Oversight"
+}
+],
 "text": "The source told Public the USAP is 'a strategic intelligence program'; a source subsequently told Shellenberger the programme 'is controlled by the White House and executed and administrated by the DOD to avoid compliance with Title 10.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5ef2e8f60b",
@@ -71,7 +95,7 @@
 {
 "id": "chrg-118hhrg57440",
 "locator": "13 November 2024",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "Asked by Higgins whether he knew the author, Shellenberger replied 'I do'; asked whether his sources sat inside the Defense Department he said 'I will not say ... I protect my sources.'",
@@ -84,7 +108,7 @@
 "sources": [],
 "text": "The Department of Defense states it has no record of such a programme; spokesperson Sue Gough has said the Department has 'no record', and former AARO director Sean Kirkpatrick has denied its existence.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic 'secondary coverage' plus 'wave 1 board record' (the board's own record), no specific external source named."
 },
 {
 "id": "c-f37ab2399a",

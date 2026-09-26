@@ -7,10 +7,16 @@
 {
 "id": "c-c4f2fc4077",
 "source": "Wikipedia, 'Institute 22', citing Timothy Good, Need to Know: UFOs, the Military, and Intelligence (Pegasus Books, 2007), p.351",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-1d484f2a",
+"locator": "p.351 of cited work",
+"title": "Institute 22 - Wikipedia"
+}
+],
 "text": "'The Institute 22 organization was created in 1978, by the Academy of Sciences and the Ministry of Defense in the Soviet Union ... Institute 22 have investigated around 3000 UFO reports. About 5-10% of all cases remained unexplained when the organization dissolved.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6aea6e7c71",

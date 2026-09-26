@@ -18,10 +18,16 @@
 {
 "id": "c-9597182f08",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-nolan-vallee-2022",
+"locator": null,
+"title": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+}
+],
 "text": "Lemke is a co-author of Progress in Aerospace Sciences 128 (2022) 100788 with Nolan, Vallee and Jiang.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

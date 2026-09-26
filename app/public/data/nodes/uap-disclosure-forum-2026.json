@@ -7,18 +7,30 @@
 {
 "id": "c-4e7f5b1aa6",
 "source": "The Hill/NewsNation, 29 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-584dd923b52a",
+"locator": null,
+"title": "The Hill/NewsNation, 29 June 2026"
+}
+],
 "text": "Held 25 June 2026, sponsored by the Disclosure Foundation, billed as a first-of-its-kind gathering of lawmakers, UAP researchers and whistleblowers.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-319008468b",
 "source": "The Hill/NewsNation, 29 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-584dd923b52a",
+"locator": null,
+"title": "The Hill/NewsNation, 29 June 2026"
+}
+],
 "text": "Rep. Burlison announced at the forum that MIT Lincoln Laboratory had agreed to make available a 1952 UFO briefing recording.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",
@@ -87,7 +99,7 @@
 ],
 "sub": "Washington, DC, 25 June 2026; Disclosure Foundation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 887 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 886 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

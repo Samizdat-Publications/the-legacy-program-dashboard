@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-13fee176f9",
+"locator": "1948 consolidation",
+"node": "l-wright-patterson",
+"nodeLabel": "Wright-Patterson Air Force Base, Ohio",
+"sourceText": "Wikipedia, Wright-Patterson Air Force Base, citing USAF historical records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Wright-Patterson AFB was formally established on 13 January 1948 by consolidating Wright Field, Patterson Field, Dayton Army Air Field and Clinton Army Air Field.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-e206209d5a",
+"locator": "NASIC tenant unit",
+"node": "l-wright-patterson",
+"nodeLabel": "Wright-Patterson Air Force Base, Ohio",
+"sourceText": "Wikipedia, Wright-Patterson Air Force Base, tenant units — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The National Air and Space Intelligence Center, the direct institutional successor to ATIC and the Foreign Technology Division, is headquartered at Wright-Patterson AFB.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

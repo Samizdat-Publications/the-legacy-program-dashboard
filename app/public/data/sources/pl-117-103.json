@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-8eb65b34cf",
-"locator": "enactment line",
+"locator": null,
 "node": "iaa-2022",
 "nodeLabel": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
 "sourceText": "PLAW-117publ103 enactment line",
@@ -58,8 +58,12 @@
 "label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
 }
 ],
-"node": null,
-"title": "Public Law 117-103",
+"node": {
+"cls": "legislation",
+"id": "iaa-2022",
+"label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)"
+},
+"title": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
 "topics": [],
 "type": "statute",
 "urls": [

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-2fcad4b3b2",
+"locator": "legal documents section",
+"node": "cash-v-united-states",
+"nodeLabel": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"sourceText": "Curt Collins, Cash-Landrum UFO Case Document Collection, note to the legal documents section",
+"text": "The Defense conducted an investigation into whether the object was a US military device; no documents from that investigation have surfaced.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -77,7 +88,15 @@
 ],
 "node": null,
 "title": "Curt Collins, Cash-Landrum UFO Case Document Collection",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-2fcad4b3b2"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.blueblurrylines.com/search?q=lawsuit+Cash+Landrum"

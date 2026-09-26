@@ -1,21 +1,327 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20250313031154/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170016/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-362c06e9f1",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "Reid to DEPSECDEF William J. Lynn III, 24 June 2009, DIA FOIA release",
+"text": "Reid requested a 'Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming as protectable the methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-961ee028e3",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3981900369",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"text": "Text: 'Since the Advanced Aerospace Threat and Identification Program (AAITP) and study were first commissioned, much progress has been made with the identification of several highly sensitive, unconventional aerospace-related findings. Given the current rate of success, the continued study of these subjects will likely lead to technology advancements that in the immediate near-term will require extraordinary protection. Due to the sensitivities of the information surrounding aspects of this program, I require your assistance in establishing a [restricted special access program].'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-46c7e5b04c",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"text": "Letterhead: 'HARRY REID, MAJORITY LEADER, NEVADA — United States Senate, Washington, DC 20510'. Dated June 24, 2009. Addressed to 'Honorable William Lynn III, Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010'. Salutation: 'Dear Secretary Lynn:'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-783aa41b90",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"text": "Text: 'technical studies are being conducted in regard to advanced lift, propulsion, the use of unconventional materials and controls, signature reduction, weaponry, human interface and human effects.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-aacc8a9102",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "Reid to Lynn, 24 June 2009, DIA FOIA release",
+"text": "Reid requested 'a Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming protectable areas including methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f1e5b9db8a",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"text": "Text: 'Beginning this past September, the U.S. Senate has mandated that the Defense Intelligence Agency assess far-term foreign advanced aerospace threats to the United States. The scope of program interest covers from the present out to forty years and beyond.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f6bc452cab",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "Reid to Lynn, 24 June 2009",
+"text": "The letter projects program length FY09 through FY13 with a preliminary bigoted list for FY10, and refers questions to Reid staffer Bob Herbert.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-32c463d49a",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"text": "Reid, the sitting Senate Majority Leader, asserted on his own signature that the program had produced 'several highly sensitive, unconventional aerospace-related findings' warranting 'extraordinary protection' — a claim made in writing to the Deputy Secretary of Defense, not to the press.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-575405c7a7",
+"locator": null,
+"node": "william-lynn",
+"nodeLabel": "William J. Lynn III",
+"sourceText": "Reid letter, 24 June 2009, DIA FOIA release",
+"text": "Reid's Restricted SAP request for the program was addressed to Deputy Secretary of Defense William Lynn III on 24 June 2009.",
+"tier": 1
+}
+],
 "date": "2009",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-d7cfbb8b8c",
+"label": "",
+"note": "He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"claimTier": 1,
+"id": "e-3b963a9bed",
+"label": "signed 24 June 2009",
+"note": "",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"claimTier": 1,
+"id": "e-762c140395",
+"label": "authored the Restricted SAP request",
+"note": "The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"claimTier": 1,
+"id": "e-ba5ac7f247",
+"label": "",
+"note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "institution",
+"id": "waived-sap-notification-group",
+"label": "Waived SAP Notification Group"
+},
+"claimTier": 1,
+"id": "e-4355eb219d",
+"label": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+"note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"claimTier": 3,
+"id": "e-6cfabd6094",
+"label": "second attempt at the protection Reid was refused",
+"note": "Reid asked DoD for a restricted SAP over engineering of advanced technologies in 2009 and was refused; two years later the same circle proposed a recovery-and-exploitation SAP at DHS instead.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-99ac06bc11",
+"label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+"note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"b": {
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"claimTier": 1,
+"id": "e-c1c36621c4",
+"label": "addressed to the Deputy Secretary of Defense",
+"note": "Lynn was the decision authority; he received the request in June and delivered the refusal in person in November.",
+"type": "legislative"
+}
+],
 "era": "2",
 "id": "n-reid-sap-letter-2009",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+{
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+}
+],
 "node": {
 "cls": "document",
 "id": "reid-sap-letter-2009",
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
 },
 "title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-961ee028e3",
+"c-46c7e5b04c",
+"c-aacc8a9102",
+"c-f6bc452cab"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-3981900369",
+"c-aacc8a9102"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+},
+{
+"claims": [
+"c-362c06e9f1",
+"c-961ee028e3"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-961ee028e3"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-961ee028e3"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/20090624_Reid_to_DEPSECDEF_ref_AAITP_in_SAP.pdf",
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"https://www.documentcloud.org/documents/20792124-reid_letter_2009/"
+]
 }

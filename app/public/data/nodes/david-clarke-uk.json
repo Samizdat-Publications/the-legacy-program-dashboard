@@ -34,18 +34,30 @@
 {
 "id": "c-1565e44095",
 "source": "UK Ministry of Defence, Publication Scheme, 'UAP in the UK Air Defence Region: Executive Summary', 15 May 2006 (Internet Archive capture)",
-"sources": [],
+"sources": [
+{
+"id": "t-9599becf2950",
+"locator": null,
+"title": "UK Ministry of Defence, Publication Scheme, 'UAP in the UK Air Defence Region: Executive Summary"
+}
+],
 "text": "MoD publication scheme entry for the Condign executive summary lists Author: DAS; Owner: Ministry of Defence; Date document created 15 May 06; Date released proactively 15 May 06; FOI Organisation area: Directorate of Air Staff; FOI Information class: Unidentified Flying Objects.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-41e8ccc0a5",
 "source": "James Randerson, The Guardian, 25 September 2006, cited in Wikipedia 'Project Condign'",
-"sources": [],
+"sources": [
+{
+"id": "t-f400bdd301e3",
+"locator": null,
+"title": "The Guardian, 25 September 2006"
+}
+],
 "text": "Clarke's assessment was that the release shed no new light on the phenomenon but did show the DIS had conducted a far larger investigation than previously revealed.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -7,10 +7,16 @@
 {
 "id": "c-ed078a1eff",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records approximately $2.6 billion in prime contract obligations to Radiance Technologies Inc. since FY2008.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

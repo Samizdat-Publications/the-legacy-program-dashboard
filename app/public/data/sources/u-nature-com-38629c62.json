@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-96d754436b",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "Nature 251, 602-607 (1974)",
+"text": "Puthoff and Targ published remote-viewing results in Nature (vol. 251, pp. 602-607) on 18 October 1974.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

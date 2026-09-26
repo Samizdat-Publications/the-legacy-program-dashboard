@@ -7,10 +7,16 @@
 {
 "id": "c-a1360b1e48",
 "source": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022",
-"sources": [],
+"sources": [
+{
+"id": "t-f75d6493b6a3",
+"locator": null,
+"title": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022"
+}
+],
 "text": "Multiple USS Ronald Reagan watchstanders observed a round, orange, self-luminous object hovering above the flight deck and pacing the ship; witnesses include Karol Olesiak, Derek Smith and Patrick Gokey.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-35f524b161",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "The Boatswain's Mate of the Watch says he was ordered by a senior officer to 'rip it out' of the logbook; another witness was instructed not to write the sighting down; Gokey says he saw an officer order subordinates to remove pages from the deck logbook.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/incident-aboard-the-uss-ronald-reagan-navy-witnesses-describe) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-cd3a69b89b",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "Crew members estimated 50 to 300 additional personnel witnessed the event.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/incident-aboard-the-uss-ronald-reagan-navy-witnesses-describe) was rejected in review: outlet and date only; candidate row shows no date"
 }
 ],
 "cls": "event",

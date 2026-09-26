@@ -1,0 +1,53 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-57bdccc137",
+"locator": "3:21:29",
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"sourceText": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 3:21:29, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 3:21:29, Richard Doty said he knew of autopsies on recovered bodies 'from people like Kate Green and others that work for the Institute for Armed Force Institute for Pathology', then corrected himself within the same passage from 'green did autopsies' to 'he saw the aftermaths read reports'. No document opened here names any individual at the Institute.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-13984f518f",
+"locator": "1:17:09",
+"node": "naval-criminal-investigative-service",
+"nodeLabel": "Naval Criminal Investigative Service",
+"sourceText": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 1:17:09, Richard Doty said that Jaime Shandera 'was an asset that was being used by the Naval Investigative Service, which is now Naval Criminal Investigative Service. Back then, it was just NIS', placing that relationship on a separate operation roughly two weeks before the MJ-12 document reached Shandera's mailbox.",
+"tier": 2
+}
+],
+"date": "2026-08-21",
+"edges": [],
+"era": "3",
+"id": "t-21a4d5ebec3c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Chris Ramsay",
+"listedOn": [],
+"node": null,
+"title": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty",
+"topics": [
+{
+"claims": [
+"c-57bdccc137"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+},
+{
+"claims": [
+"c-13984f518f"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+}
+],
+"type": "broadcast",
+"urls": []
+}

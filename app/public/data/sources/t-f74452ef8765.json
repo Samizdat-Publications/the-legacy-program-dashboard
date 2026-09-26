@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1d267ac2fe",
+"locator": null,
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"sourceText": "Garry Nolan, quoted in The Debrief, 5 June 2023",
+"text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
+"tier": 2
+}
+],
+"date": "2023-06-05",
+"edges": [],
+"era": "3",
+"id": "t-f74452ef8765",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "Garry Nolan, quoted in The Debrief, 5 June 2023",
+"topics": [
+{
+"claims": [
+"c-1d267ac2fe"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-1d267ac2fe"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
+"type": "article",
+"urls": []
+}

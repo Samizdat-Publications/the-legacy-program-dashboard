@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-d239895358",
+"locator": null,
+"node": "ttsa-launch-2017",
+"nodeLabel": "To The Stars Academy public launch, 11 October 2017",
+"sourceText": "PR Newswire, To The Stars Academy Of Arts & Science Launches Today, 11 October 2017",
+"text": "Launched 11 October 2017 with DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon named in the announcement, and three divisions: Science, Aerospace (beamed energy and electrogravitics) and Entertainment.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -101,7 +112,15 @@
 ],
 "node": null,
 "title": "PR Newswire — TTSA launch",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d239895358"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
 "type": "article",
 "urls": [
 "https://www.prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-today-300534912.html"

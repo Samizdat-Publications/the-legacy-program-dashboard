@@ -10,15 +10,21 @@
 "sources": [],
 "text": "Rep. Burlison requested a House select committee on UAP on 12 March 2024, focused first on DoD expenditures on alleged secret UAP recovery programs, with the stated support of Comer, Burchett and Moskowitz.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-comm) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-ec246d5b7f",
 "source": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-12eb5aae96e3",
+"locator": "Burlison SCIF-transparency quote",
+"title": "The Hill/NewsNation, 12 March 2024"
+}
+],
 "text": "'They weren't transparent to us in a SCIF setting... they are not willing to do that with Congress. So to me, it's about time that they opened the kimono.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b65a75538e",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "Burchett led an earlier select committee effort under Speaker Kevin McCarthy that was lost when McCarthy lost the speakership.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thehill.com/homenews/house/4527900-gop-lawmaker-calls-for-house-to-form-comm) was rejected in review: outlet and date only; candidate row shows no date"
 }
 ],
 "cls": "program",

@@ -53,7 +53,13 @@
     "text": "The Sol Foundation, Policy page, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-cc6d7844",
+     "locator": "retrieved 12 Aug 2026",
+     "title": "The Sol Foundation - Policy"
+    }
+   ],
    "text": "Since 2023 the Foundation has provided scientific and policy advice on UAP to members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee, and to the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and Canada's Chief Science Adviser.",
    "tier": 1
   },
@@ -67,7 +73,13 @@
     "text": "explorescu.org",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-explorescu-org-25f668f4",
+     "locator": null,
+     "title": "Scientific Coalition for UAP Studies"
+    }
+   ],
    "text": "SCU is a registered 501(c)(3) charitable organisation.",
    "tier": 1
   },
@@ -81,7 +93,13 @@
     "text": "SCU press release, 27 June 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-1eb21894e181",
+     "locator": null,
+     "title": "SCU press release, 27 June 2025"
+    }
+   ],
    "text": "SCU records the paper as bringing together thirty-four authors, DOI 10.1016/j.paerosci.2025.101097.",
    "tier": 1
   },
@@ -109,7 +127,13 @@
     "text": "Garry Nolan, quoted in The Debrief, 5 June 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-f74452ef8765",
+     "locator": null,
+     "title": "Garry Nolan, quoted in The Debrief, 5 June 2023"
+    }
+   ],
    "text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
    "tier": 2
   },
@@ -123,7 +147,13 @@
     "text": "The Sol Foundation white papers index",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-643ffe84",
+     "locator": null,
+     "title": "The Sol Foundation - White Papers and Policy Briefings index"
+    }
+   ],
    "text": "McConnell authored Sol Foundation Science and Policy Briefing No. 2 (April 2026), 'UAP Whistleblower Restitution Fund Would Incentivize Disclosures to Congress'.",
    "tier": 1
   },
@@ -137,7 +167,13 @@
     "text": "Entropy, DOI 10.3390/e21100939",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-paper-knuth-powell-reali-2019",
+     "locator": null,
+     "title": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+    }
+   ],
    "text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' in Entropy 21(10):939 on 25 September 2019.",
    "tier": 1
   },
@@ -151,7 +187,13 @@
     "text": "DefenseScoop, 17 June 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-50fc68fe",
+     "locator": null,
+     "title": "DefenseScoop, UAP Science Advisory Council"
+    }
+   ],
    "text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW.",
    "tier": 1
   },
@@ -221,7 +263,13 @@
     "text": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-paper-nolan-vallee-2022",
+     "locator": null,
+     "title": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
    "text": "Nolan is senior author of 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128 (2022) 100788, with Jacques F. Vallee, Sizun Jiang and Larry G. Lemke.",
    "tier": 1
   },
@@ -235,7 +283,13 @@
     "text": "NASA UAP Independent Study Team Report",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-science-nasa-gov-44f5288a",
+     "locator": null,
+     "title": "NASA UAP Independent Study Team Final Report (PDF)"
+    }
+   ],
    "text": "The NASA UAP Independent Study Team report (September 2023), chaired by David Spergel, found that UAP analysis is hampered by poor sensor calibration and missing metadata, and recommended NASA act to reduce reporting stigma.",
    "tier": 1
   },
@@ -263,7 +317,13 @@
     "text": "The Sol Foundation, inaugural conference page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-56326cc6",
+     "locator": null,
+     "title": "The Sol Foundation - Inaugural Conference"
+    }
+   ],
    "text": "The inaugural conference was held 17-18 November 2023 at Stanford University, sponsored by the Nolan Laboratory (Department of Pathology) and the Stanford School of Medicine; speakers included Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Charles McCullough III, Christopher Mellon, Karl Nell, Diana Pasulka, Hal Puthoff and Jacques Vallee.",
    "tier": 1
   },
@@ -277,7 +337,13 @@
     "text": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-61f4d7b4",
+     "locator": null,
+     "title": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)"
+    }
+   ],
    "text": "Little is a co-author of the 2023 SCU study on reported UAP shape, size, kinematics, electromagnetic effects and sound.",
    "tier": 1
   },
@@ -319,7 +385,13 @@
     "text": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-61f4d7b4",
+     "locator": null,
+     "title": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)"
+    }
+   ],
    "text": "SCU published 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena' by Powell, Little, Hancock, Hasan and Truong on 7 December 2023.",
    "tier": 1
   },
@@ -367,7 +439,13 @@
     "text": "The Sol Foundation white papers index",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-643ffe84",
+     "locator": null,
+     "title": "The Sol Foundation - White Papers and Policy Briefings index"
+    }
+   ],
    "text": "Skafish authored Sol Foundation white paper Vol. 1 No. 6, 'The Prospect of Executive Branch Unidentified Anomalous Phenomena Secrecy: The Harm to Congress and Potential Remedies' (November 2024).",
    "tier": 1
   },
@@ -381,7 +459,13 @@
     "text": "The Sol Foundation, 2025 Symposium page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-bb6d526e",
+     "locator": null,
+     "title": "The Sol Foundation - 2025 Symposium"
+    }
+   ],
    "text": "The 2025 Sol Foundation Symposium was held 24-27 October 2025 on the shores of Lake Maggiore, northern Italy; speakers included Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet, Diana Pasulka, Beatriz Villarroel and Gen. Pierre Bescond.",
    "tier": 1
   },
@@ -395,7 +479,13 @@
     "text": "The Sol Foundation, People page, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-49b17e57",
+     "locator": "retrieved 12 Aug 2026",
+     "title": "The Sol Foundation - People"
+    }
+   ],
    "text": "Kirk McConnell is Senior Legislative Affairs Officer at The Sol Foundation and retired from Congress after 37 years with the Senate Armed Services Committee.",
    "tier": 1
   },
@@ -437,7 +527,13 @@
     "text": "DefenseScoop, 14 May 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-af4296aa",
+     "locator": null,
+     "title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+    }
+   ],
    "text": "Gallaudet said the absence of metadata made it impossible to conclude that any released object was truly anomalous.",
    "tier": 2
   },
@@ -451,7 +547,13 @@
     "text": "Disclosure Archives AARO release chronology",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-disclosurearchives-com-de848067",
+     "locator": null,
+     "title": "Disclosure Archives - AARO releases index"
+    }
+   ],
    "text": "AARO held a private workshop on UAP data standardisation with civilian researchers and academia on 1 August 2025.",
    "tier": 2
   },
@@ -513,7 +615,13 @@
     "text": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-df1994a1",
+     "locator": null,
+     "title": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)"
+    }
+   ],
    "text": "Powell led the SCU analysis of the April 2013 Aguadilla, Puerto Rico thermal-imagery event recorded by a Department of Homeland Security aircraft.",
    "tier": 1
   },
@@ -541,7 +649,13 @@
     "text": "The Sol Foundation, People page, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-49b17e57",
+     "locator": "retrieved 12 Aug 2026",
+     "title": "The Sol Foundation - People"
+    }
+   ],
    "text": "Skafish is Executive Director of The Sol Foundation and Secretary of its Board; Garry Nolan is Executive Director of the Board.",
    "tier": 1
   },
@@ -555,7 +669,13 @@
     "text": "The Sol Foundation, Policy page, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-cc6d7844",
+     "locator": "retrieved 12 Aug 2026",
+     "title": "The Sol Foundation - Policy"
+    }
+   ],
    "text": "Since 2023 the Sol Foundation has advised members and committees of the US Senate and House - including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee - and the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and the Office of the Chief Science Adviser to Canada.",
    "tier": 1
   },
@@ -583,7 +703,13 @@
     "text": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-kqed-org-e3d1cf60",
+     "locator": null,
+     "title": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED"
+    }
+   ],
    "text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
    "tier": 2
   },
@@ -625,7 +751,13 @@
     "text": "The Sol Foundation white papers index",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-643ffe84",
+     "locator": null,
+     "title": "The Sol Foundation - White Papers and Policy Briefings index"
+    }
+   ],
    "text": "The Sol Foundation publishes a numbered white paper and policy briefing series including Gallaudet (March 2024), McCaw (May 2024), Skafish (November 2024), Karl Nell (May 2025), Villarroel-derived Briefing No. 1 (January 2026), McConnell Briefing No. 2 (April 2026) and von Rennenkampff Briefing No. 3 (April 2026).",
    "tier": 1
   },
@@ -653,7 +785,13 @@
     "text": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-paper-uapx-2025",
+     "locator": null,
+     "title": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+    }
+   ],
    "text": "Szydagis is first author of 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099 (June 2025), with Kevin H. Knuth, Benjamin Kugielsky and Cecilia Levy.",
    "tier": 1
   },
@@ -667,7 +805,13 @@
     "text": "Collin Binkley, Associated Press, 30 June 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ba1889a7ee52",
+     "locator": null,
+     "title": "Associated Press"
+    }
+   ],
    "text": "The council has no budget and no access to classified material.",
    "tier": 2
   },
@@ -695,7 +839,13 @@
     "text": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-df1994a1",
+     "locator": null,
+     "title": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)"
+    }
+   ],
    "text": "SCU published '2013 Aguadilla Puerto Rico UAP: The detailed analysis of an Unidentified Anomalous Phenomenon captured by the Department of Homeland Security' by Powell, Beall, Cates, Paulson and Hoffman.",
    "tier": 1
   },
@@ -709,7 +859,13 @@
     "text": "JAI, DOI 10.1142/S2251171723400081",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-45741a22",
+     "locator": null,
+     "title": "Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation"
+    }
+   ],
    "text": "Cloete is lead author of 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation (2023).",
    "tier": 1
   },
@@ -723,7 +879,13 @@
     "text": "The Sol Foundation people page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-49b17e57",
+     "locator": null,
+     "title": "The Sol Foundation - People"
+    }
+   ],
    "text": "Kirk McConnell, a 37-year Capitol Hill defence and intelligence staffer who served with the Senate Armed Services Committee and both intelligence committees, is the foundation's Senior Legislative Affairs Officer.",
    "tier": 1
   },
@@ -737,7 +899,13 @@
     "text": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-avi-loeb-medium-com-5ce87202",
+     "locator": null,
+     "title": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium"
+    }
+   ],
    "text": "Loeb wrote that he was 'tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identified a core team of Cloete, Sarmiento, Szydagis, Nandal and Eldadi.",
    "tier": 2
   },
@@ -779,7 +947,13 @@
     "text": "Entropy, DOI 10.3390/e21100939",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-paper-knuth-powell-reali-2019",
+     "locator": null,
+     "title": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+    }
+   ],
    "text": "Powell is co-author of 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles', Entropy 21(10):939 (2019).",
    "tier": 1
   },
@@ -793,7 +967,13 @@
     "text": "Crossref records for DOI prefix 10.59661",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-97167d17b2f5",
+     "locator": null,
+     "title": "Crossref records for DOI prefix 10.59661"
+    }
+   ],
    "text": "Limina publishes peer-reviewed UAP studies under DOI prefix 10.59661, including Ammon (January 2024), Szydagis (March 2025), Grosvenor, Hancock & Porritt on the US atomic warfare complex (March 2025) and Houran on government-sourced UAP data (July 2026).",
    "tier": 1
   },
@@ -807,7 +987,13 @@
     "text": "The Sol Foundation, People page, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-49b17e57",
+     "locator": "retrieved 12 Aug 2026",
+     "title": "The Sol Foundation - People"
+    }
+   ],
    "text": "Advisory board members include Eric Davis, Tim Gallaudet, Jeffrey J. Kripal, Avi Loeb, Jacob Haqq Misra, Diana Pasulka, Jim Semivan, Jacques Vallee (Emeritus), Beatriz Villarroel and Alexander Wendt.",
    "tier": 1
   },
@@ -821,7 +1007,13 @@
     "text": "Sol Foundation Science and Policy Briefings No. 3, Executive Summary",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "Executive Summary",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "The briefing states that the SIMS and MIBI analyses found no anomalous isotopic values but that the metals in the once-molten mass were mixed incompletely, 'indicating an industrial process of unknown, and potentially perplexing, origin'.",
    "tier": 1
   },
@@ -849,7 +1041,13 @@
     "text": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-odni-preliminary-assessment-2021",
+     "locator": null,
+     "title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+    }
+   ],
    "text": "The ODNI Preliminary Assessment on Unidentified Aerial Phenomena, 25 June 2021, stated that limited and inconsistent data were the principal obstacle to characterisation.",
    "tier": 1
   },
@@ -863,7 +1061,13 @@
     "text": "Notes 11 and 12, Sol Foundation Briefing No. 3",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "Notes 11 and 12",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "The briefing states that iron meteorites contain 5-40% nickel while the Council Bluffs sample had only trace amounts, and that aluminium oxide - the necessary byproduct of a thermite reaction - would have been observed as a diatomic in the SIMS analysis and was not.",
    "tier": 1
   },
@@ -905,7 +1109,13 @@
     "text": "Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', 15 June 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-skeptic-com-56c3800b",
+     "locator": null,
+     "title": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'"
+    }
+   ],
    "text": "The council was announced on 15 June 2026 as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, chaired by Avi Loeb.",
    "tier": 2
   },
@@ -919,7 +1129,13 @@
     "text": "The Sol Foundation, 'Sol Foundation Co-Founders Named to U.S. Government's UAP Science Advisory Council', 22 June 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thesolfoundation-org-1955652b",
+     "locator": "22 June 2026",
+     "title": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'"
+    }
+   ],
    "text": "On 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to a higher-level interagency UAP Governance Board; Nolan, Skafish, Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it, and all data shared with the council is to be unclassified.",
    "tier": 1
   },
@@ -947,7 +1163,13 @@
     "text": "Section 3, Sol Foundation Briefing No. 3",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "Section 3",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "The briefing records that no foundries in the region were operating on the day of the incident and that no airports or military facilities in the region reported aviation incidents before, during or after.",
    "tier": 1
   },
@@ -961,7 +1183,13 @@
     "text": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-nypost-com-8cae5f0b",
+     "locator": null,
+     "title": "Isabel Keane, 'Stanford prof Garry Nolan says aliens are 100% living among us', New York Post"
+    }
+   ],
    "text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
    "tier": 2
   },
@@ -975,7 +1203,13 @@
     "text": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-paper-uapx-2025",
+     "locator": null,
+     "title": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+    }
+   ],
    "text": "Szydagis, Knuth, Kugielsky and Levy published 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences 156:101099 in June 2025.",
    "tier": 1
   },
@@ -989,7 +1223,13 @@
     "text": "Proceedings, DOI 10.3390/proceedings2019033026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-01e81b16",
+     "locator": null,
+     "title": "Knuth, Powell & Reali, MaxEnt 2019 Proceedings"
+    }
+   ],
    "text": "A companion paper, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter', appeared in the proceedings of the 39th International Workshop on Bayesian Inference and Maximum Entropy Methods in December 2019.",
    "tier": 1
   },
@@ -1017,7 +1257,13 @@
     "text": "Journal of Astronomical Instrumentation, doi:10.1142/S2251171723400081",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-45741a22",
+     "locator": null,
+     "title": "Cloete, Bridgham, Dobroshinsky, Ezell, Fedorenko et al., 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)', Journal of Astronomical Instrumentation"
+    }
+   ],
    "text": "Cloete and colleagues published 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)' in the Journal of Astronomical Instrumentation in 2023.",
    "tier": 1
   },
@@ -1031,7 +1277,13 @@
     "text": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-61f4d7b4",
+     "locator": null,
+     "title": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)"
+    }
+   ],
    "text": "Powell is lead author of the 2023 SCU study 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', with Sarah Little, Larry Hancock and others.",
    "tier": 1
   },

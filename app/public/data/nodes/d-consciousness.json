@@ -11,15 +11,21 @@
 "sources": [],
 "text": "The Star Gate anomalous cognition programme ran under federal contract from 1972 until its termination in 1995.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:irp.fas.org/program/collect/stargate.htm) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-0670819d54",
 "source": "Kit Green DIRD, via The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-green-clinical-medical",
+"locator": null,
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+}
+],
 "text": "DIA commissioned a DIRD on clinical medical acute and subacute field effects on human dermal and neurological tissues, authored by Christopher Green.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2317186f23",

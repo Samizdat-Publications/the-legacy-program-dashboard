@@ -7,26 +7,44 @@
 {
 "id": "c-c06837a444",
 "source": "S. 2226 as engrossed, Sec. 9007(a)-(b), GPO",
-"sources": [],
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": "Sec. 9007(a)-(b)",
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Sec. 9007(a) establishes the Review Board 'as an independent agency' with nine members appointed by the President by and with the advice and consent of the Senate.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-55495c867a",
 "source": "S. 2226 as engrossed, Sec. 9007(b)(4)(A), GPO",
-"sources": [],
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": "Sec. 9007(b)(4)(A)",
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Sec. 9007(b)(4)(A) bars anyone with 'any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2440e0691c",
 "source": "S. 2226 as engrossed, Sec. 9009(c)(1), GPO",
-"sources": [],
+"sources": [
+{
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": "Sec. 9009(c)(1)",
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "text": "Sec. 9009(c)(1) requires disclosure absent 'clear and convincing evidence' for postponement, inverting the default classification presumption.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3838ded09e",
@@ -35,7 +53,7 @@
 {
 "id": "pl-118-31",
 "locator": "Sec. 1843(a), GPO",
-"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
 }
 ],
 "text": "In enacted law the equivalent judgement is made not by an independent board but by 'the original classification authority' under Sec. 1843(a) of P.L. 118-31.",

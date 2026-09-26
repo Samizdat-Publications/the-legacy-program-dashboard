@@ -35,42 +35,72 @@
 {
 "id": "c-3278908750",
 "source": "CAPCO Register and Manual v5.1, title page",
-"sources": [],
+"sources": [
+{
+"id": "n-capco-register",
+"locator": "title page",
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+}
+],
 "text": "CAPCO Register v5.1 title page: 'Intelligence Community Authorized Classification and Control Markings Register and Manual, Volume 5, Edition 1 (Version 5.1) (Effective: 30 December 2011), Administrative Update, 30 March 2012, Controlled Access Program Coordination Office (CAPCO), Washington, DC 20511.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f41951138f",
 "source": "CAPCO Register and Manual v5.1, title page",
-"sources": [],
+"sources": [
+{
+"id": "n-capco-register",
+"locator": "title page",
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+}
+],
 "text": "CAPCO Register v5.1 title page: 'Certain security markings were removed due to classified content. These markings have been compiled in separate classified addenda.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-440bb4aeaf",
 "source": "CAPCO Register and Manual v5.1, Special Access Program Markings",
-"sources": [],
+"sources": [
+{
+"id": "n-capco-register",
+"locator": "Special Access Program Markings section",
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+}
+],
 "text": "CAPCO Register v5.1: 'The first value in the SAP category is the SAP category indicator either \"SPECIAL ACCESS REQUIRED-\" or \"SAR-\" (the authorized abbreviation) ... Following the SAP category indicator shall be the SAP program indicator which is the program's nickname or authorized digraph or trigraph.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c017c5f107",
 "source": "CAPCO Register and Manual v5.1, change log",
-"sources": [],
+"sources": [
+{
+"id": "n-capco-register",
+"locator": "change log",
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+}
+],
 "text": "CAPCO Register v5.1 change log records that the edition 'Moved the Special Access Required (SAR) marking from the Non-Intelligence Community Dissemination Control Markings category to a new category called Special Access Program Markings.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3aa7c574e8",
 "source": "CAPCO Register and Manual v5.1, title page note",
-"sources": [],
+"sources": [
+{
+"id": "n-capco-register",
+"locator": "title page note",
+"title": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments"
+}
+],
 "text": "The existence of classified addenda to the marking register means that a document could bear a compartment marking that is not listed in any public authority, so a researcher holding a released document cannot always determine from public sources what control system it belongs to. Reasoning: the register itself states that markings were removed for classification and compiled separately.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

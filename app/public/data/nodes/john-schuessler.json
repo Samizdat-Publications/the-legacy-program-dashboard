@@ -48,7 +48,7 @@
 "sources": [],
 "text": "Schuessler and Project VISIT filed a 35-page preliminary report on the Cash-Landrum case with MUFON dated 4 March 1981, following an on-site investigation dated 28 February 1981 and a taped hospital interview in early February 1981.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:blueblurrylines.com/search?q=lawsuit+Cash+Landrum) was rejected in review: does not name Collins collection; candidate is a search URL"
 },
 {
 "id": "c-ac50f354e1",
@@ -56,15 +56,21 @@
 "sources": [],
 "text": "Vickie Landrum was directed to Schuessler after telephoning NASA about the incident.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:blueblurrylines.com/search?q=lawsuit+Cash+Landrum) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-a56388792f",
 "source": "Philip J. Klass's analysis of Schuessler's published data, 1998",
-"sources": [],
+"sources": [
+{
+"id": "t-1b385113396c",
+"locator": null,
+"title": "Philip J. Klass's analysis of Schuessler's published data, 1998"
+}
+],
 "text": "Schuessler found no radioactivity when he checked Betty Cash's car with a Geiger counter in early 1981.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-41e8ccc0a5",
+"locator": null,
+"node": "david-clarke-uk",
+"nodeLabel": "Dr David Clarke",
+"sourceText": "James Randerson, The Guardian, 25 September 2006, cited in Wikipedia 'Project Condign'",
+"text": "Clarke's assessment was that the release shed no new light on the phenomenon but did show the DIS had conducted a far larger investigation than previously revealed.",
+"tier": 2
+}
+],
+"date": "2006-09-25",
+"edges": [],
+"era": "2",
+"id": "t-f400bdd301e3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Guardian",
+"listedOn": [],
+"node": null,
+"title": "The Guardian, 25 September 2006",
+"topics": [
+{
+"claims": [
+"c-41e8ccc0a5"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+},
+{
+"claims": [
+"c-41e8ccc0a5"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "article",
+"urls": []
+}

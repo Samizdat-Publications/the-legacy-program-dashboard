@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-1560e620c1",
-"locator": "secs. 1 and 20",
+"locator": null,
 "node": "eo-10501",
 "nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "sourceText": "EO 10501 secs. 1 and 20, https://irp.fas.org/offdocs/eo10501.htm",
@@ -14,7 +14,7 @@
 {
 "cls": "legislation",
 "id": "c-8ab1c2ba39",
-"locator": "sec. 1",
+"locator": null,
 "node": "eo-10501",
 "nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "sourceText": "EO 10501 sec. 1, https://irp.fas.org/offdocs/eo10501.htm",
@@ -24,7 +24,7 @@
 {
 "cls": "legislation",
 "id": "c-c323945390",
-"locator": "sec. 2 and attached memorandum",
+"locator": null,
 "node": "eo-10501",
 "nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "sourceText": "EO 10501 sec. 2 and attached memorandum, https://irp.fas.org/offdocs/eo10501.htm",
@@ -34,7 +34,7 @@
 {
 "cls": "legislation",
 "id": "c-e19778c6ee",
-"locator": "sec. 19",
+"locator": null,
 "node": "eo-10501",
 "nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "sourceText": "EO 10501 sec. 19, https://irp.fas.org/offdocs/eo10501.htm",
@@ -44,7 +44,7 @@
 {
 "cls": "legislation",
 "id": "c-f9be6c632c",
-"locator": "sec. 13",
+"locator": null,
 "node": "eo-10501",
 "nodeLabel": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "sourceText": "EO 10501 sec. 13, https://irp.fas.org/offdocs/eo10501.htm",
@@ -136,5 +136,7 @@
 }
 ],
 "type": "statute",
-"urls": []
+"urls": [
+"https://irp.fas.org/offdocs/eo10501.htm"
+]
 }

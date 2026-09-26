@@ -12,9 +12,44 @@
 "tier": 1
 }
 ],
-"date": null,
-"edges": [],
-"era": "nd",
+"date": "2025",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-1187-uap-transparency-act",
+"label": "H.R. 1187 - UAP Transparency Act (119th Congress)"
+},
+"claimTier": 1,
+"id": "e-9321ad51a1",
+"label": "Cosponsor - the bipartisan half",
+"note": "Congress.gov cosponsor record.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-1187-uap-transparency-act",
+"label": "H.R. 1187 - UAP Transparency Act (119th Congress)"
+},
+"claimTier": 1,
+"id": "e-d592e7b5fc",
+"label": "Sponsor",
+"note": "Introduced 11 February 2025, the day the Task Force was announced.",
+"type": "legislative"
+}
+],
+"era": "3",
 "id": "bills-119hr1187ih",
 "identifiers": [
 "BILLS-119hr1187ih"
@@ -26,10 +61,24 @@
 "cls": "legislation",
 "id": "hr-1187-uap-transparency-act",
 "label": "H.R. 1187 - UAP Transparency Act (119th Congress)"
+},
+{
+"cls": "person",
+"id": "jared-moskowitz",
+"label": "Jared Evan Moskowitz"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
 }
 ],
-"node": null,
-"title": "BILLS-119hr1187ih",
+"node": {
+"cls": "legislation",
+"id": "hr-1187-uap-transparency-act",
+"label": "H.R. 1187 - UAP Transparency Act (119th Congress)"
+},
+"title": "H.R. 1187 - UAP Transparency Act (119th Congress)",
 "topics": [
 {
 "claims": [
@@ -39,8 +88,9 @@
 "title": "The 2026 House push: Burlison, the June events and the select committee proposal"
 }
 ],
-"type": "document",
+"type": "statute",
 "urls": [
+"https://www.congress.gov/bill/119th-congress/house-bill/1187",
 "https://www.govinfo.gov/content/pkg/BILLS-119hr1187ih/html/BILLS-119hr1187ih.htm"
 ]
 }

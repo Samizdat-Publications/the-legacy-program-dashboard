@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f38a8a8dcb",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "Susan Gough, DoD spokesperson, to The Black Vault, 13 June 2019",
+"text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1e6270b657",
+"locator": null,
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"sourceText": "Susan Gough to The Black Vault, 13 June 2019",
+"text": "DoD spokesperson Susan Gough confirmed the letter's authenticity on 13 June 2019.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-128d118902",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Susan Gough to John Greenewald, The Black Vault, 13 June 2019",
+"text": "On 13 June 2019 stated: 'I can confirm that the memo you're referring to is authentic... It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-2653cd6ac6",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Susan Gough to The Black Vault, 13 June 2019",
+"text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -123,7 +164,80 @@
 ],
 "node": null,
 "title": "The Black Vault",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-f38a8a8dcb",
+"c-2653cd6ac6"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-128d118902",
+"c-2653cd6ac6"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+},
+{
+"claims": [
+"c-1e6270b657"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-f38a8a8dcb"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-128d118902"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-1e6270b657"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+},
+{
+"claims": [
+"c-f38a8a8dcb"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+},
+{
+"claims": [
+"c-f38a8a8dcb"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-f38a8a8dcb"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+},
+{
+"claims": [
+"c-f38a8a8dcb"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-no-responsibilities-on-aatip-senator-harry-reids-2009-memo-changes-nothing/"

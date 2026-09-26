@@ -1,21 +1,318 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-397d63b6a9",
+"locator": null,
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Nolan is senior author of 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128 (2022) 100788, with Jacques F. Vallee, Sizun Jiang and Larry G. Lemke.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-8eac8bc16b",
+"locator": null,
+"node": "jacques-vallee",
+"nodeLabel": "Jacques F. Vallee",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Vallee is second author of the Progress in Aerospace Sciences 128 (2022) 100788 instrumental analysis of the Council Bluffs material.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-9597182f08",
+"locator": null,
+"node": "larry-lemke",
+"nodeLabel": "Larry G. Lemke",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Lemke is a co-author of Progress in Aerospace Sciences 128 (2022) 100788 with Nolan, Vallee and Jiang.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-3aba54fde6",
+"locator": null,
+"node": "d-materials",
+"nodeLabel": "Materials and custody analysis",
+"sourceText": "Progress in Aerospace Sciences, doi:10.1016/j.paerosci.2021.100788",
+"text": "Nolan, Vallee, Jiang and Lemke published 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics' in Progress in Aerospace Sciences 128:100788 (2022).",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-826af8192e",
+"locator": null,
+"node": "sizun-jiang",
+"nodeLabel": "Sizun Jiang",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
+"text": "Jiang is third author of Progress in Aerospace Sciences 128 (2022) 100788.",
+"tier": 1
+}
+],
 "date": "2022",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+"b": {
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+"claimTier": 1,
+"id": "e-5a9c099223",
+"label": "Senior author of the first peer-reviewed UAP materials analysis",
+"note": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"b": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"claimTier": 2,
+"id": "e-c9b3d8f9c6",
+"label": "Both at SRI International in the early 1970s",
+"note": "Vallee joined Engelbart's Augmentation Research Center at SRI in 1971, in the same institution and period as Puthoff's psychoenergetics programme; Vallee was also consulted on classified remote-viewing research.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"b": {
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+"claimTier": 1,
+"id": "e-308635d59d",
+"label": "Co-author and source of the sample and its case file",
+"note": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+"b": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"claimTier": 2,
+"id": "e-09aef6c2fd",
+"label": "NIDS consultant and Bigelow Aerospace scientific advisory board member",
+"note": "Vallee's advisory position places the keeper of the largest private materials collection inside the Bigelow ecosystem that produced BAASS and the AAWSAP contract.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "larry-lemke",
+"label": "Larry G. Lemke"
+},
+"b": {
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+"claimTier": 1,
+"id": "e-2a1bc41b34",
+"label": "NASA Ames aerospace engineer supplying the exclusion arguments",
+"note": "Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"b": {
+"cls": "domain",
+"id": "d-chem",
+"label": "Chemistry & Isotopics"
+},
+"claimTier": 1,
+"id": "e-8b0c15185b",
+"label": "Isotopics is the falsifiable test",
+"note": "The Nolan-Vallee methodology paper specifies isotope ratio measurement as the discriminating test; the chemistry domain is where that test is run.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 3,
+"id": "e-1fba9d3ab7",
+"label": "Establishes the standard the government's own holdings have never met",
+"note": "A published sample, a published method, a published elimination of alternatives, and a stated residual. No government-held UAP material has ever been subjected to anything comparable in public.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+"b": {
+"cls": "institution",
+"id": "stanford-nolan-lab",
+"label": "Nolan Laboratory, Stanford University School of Medicine"
+},
+"claimTier": 1,
+"id": "e-e8a651a623",
+"label": "Analysis performed with MIBI, a Stanford-developed instrument",
+"note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-reverse-engineering",
+"label": "Reverse Engineering"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 1,
+"id": "e-93f13856ef",
+"label": "Exploitation begins with characterisation",
+"note": "Materials characterisation is the first step of any exploitation workflow and the only step whose outputs have been released - so far all conventional.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "sizun-jiang",
+"label": "Sizun Jiang"
+},
+"b": {
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+"claimTier": 1,
+"id": "e-856421a8cf",
+"label": "Instrument operator and third author",
+"note": "Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result.",
+"type": "investigative"
+}
+],
 "era": "3",
 "id": "n-paper-nolan-vallee-2022",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "domain",
+"id": "d-chem",
+"label": "Chemistry & Isotopics"
+},
+{
+"cls": "event",
+"id": "council-bluffs-1977",
+"label": "Council Bluffs, Iowa molten metal fall, 17 December 1977"
+},
+{
+"cls": "person",
+"id": "garry-nolan",
+"label": "Garry Nolan"
+},
+{
+"cls": "person",
+"id": "jacques-vallee",
+"label": "Jacques F. Vallee"
+},
+{
+"cls": "person",
+"id": "larry-lemke",
+"label": "Larry G. Lemke"
+},
+{
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+{
+"cls": "institution",
+"id": "stanford-nolan-lab",
+"label": "Nolan Laboratory, Stanford University School of Medicine"
+},
+{
+"cls": "document",
+"id": "paper-nolan-vallee-2022",
+"label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+},
+{
+"cls": "domain",
+"id": "d-research",
+"label": "Scientific Research"
+},
+{
+"cls": "person",
+"id": "sizun-jiang",
+"label": "Sizun Jiang"
+}
+],
 "node": {
 "cls": "document",
 "id": "paper-nolan-vallee-2022",
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
 },
 "title": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-397d63b6a9"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-3aba54fde6"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-397d63b6a9"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://doi.org/10.1016/j.paerosci.2021.100788"
+]
 }

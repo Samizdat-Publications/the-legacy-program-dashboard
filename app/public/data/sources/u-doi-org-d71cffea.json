@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-298ccf96c0",
+"locator": null,
+"node": "wesley-watters",
+"nodeLabel": "Wesley A. Watters",
+"sourceText": "JAI, DOI 10.1142/S2251171723020014",
+"text": "Watters is a co-author of the Journal of Astronomical Instrumentation preface, 'Instrumentation and Software for the Detection and Characterization of Unidentified Aerospace Phenomena' (2023), with Cloete, Little, Loeb and Lux.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +28,15 @@
 ],
 "node": null,
 "title": "Cloete, Watters, Little, Loeb & Lux, 'Preface: Instrumentation and Software for the Detection and Characterization of Unidentified Aerospace Phenomena', Journal of Astronomical Instrumentation",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-298ccf96c0"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.1142/S2251171723020014"

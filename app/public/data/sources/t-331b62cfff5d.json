@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-f77dc3c4cc",
+"locator": "0:55:31",
+"node": "e-systems-inc",
+"nodeLabel": "E-Systems, Inc.",
+"sourceText": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 0:55:31, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 0:55:31, a panel speaker who self-identifies at 0:58:00 as the maker of 'my Air Force video' said of Edward C. 'Pete' Aldridge that 'He was a senior, I think, board member at LTV Aerospace, which was eventually transitioned to E systems, which was a CIA show company and then bought up by Raytheon.' The opened SEC filings name LTV Electrosystems, not LTV Aerospace, as the predecessor, list ten directors none of whom is Aldridge, and describe a listed NYSE contractor rather than a proprietary.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-be04656b5d",
+"locator": "1:01:18",
+"node": "stony-brook-university",
+"nodeLabel": "Stony Brook University",
+"sourceText": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 1:01:18, transcript in dist/transcripts/md/",
+"text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 1:01:18, a panel speaker said that James Simons 'oversees' Stony Brook and Brookhaven National Laboratory and called the pairing with the Medallion Fund and the Simons Foundation an 'iron triangle', adding in the same passage 'This is a lot of crazy connections.' No document opened here names Simons in connection with either body.",
+"tier": 2
+}
+],
+"date": "2026-07-17",
+"edges": [],
+"era": "3",
+"id": "t-331b62cfff5d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Chris Ramsay",
+"listedOn": [],
+"node": null,
+"title": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner",
+"topics": [
+{
+"claims": [
+"c-f77dc3c4cc"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
+"type": "broadcast",
+"urls": []
+}

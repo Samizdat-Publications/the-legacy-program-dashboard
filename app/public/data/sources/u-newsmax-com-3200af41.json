@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-6d940e9ef2",
+"locator": null,
+"node": "d-contractor",
+"nodeLabel": "Prime Contractor Custody",
+"sourceText": "Newsmax, 16 May 2026",
+"text": "In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors.",
+"tier": 2
+}
+],
 "date": "2026-05-16",
 "edges": [],
 "era": "3",

@@ -10,7 +10,7 @@
 "sources": [],
 "text": "Signed 10 October 2019 by Jeffery Langhout (Director, Army GVSC) and Kari DeLonge (TTSA), with Bean Soave and Dr. Joseph Cannon as government principal investigators and Luis Elizondo as TTSA principal investigator; term to 30 September 2023.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:ttsa-army-crada) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-8ccc9f233c",
@@ -18,7 +18,7 @@
 "sources": [],
 "text": "Research areas specified: inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications, beamed energy propulsion; applications include Active Camouflage and Directed Photon Projection. TTSA's participation valued at an estimated $1 million in in-kind contributions.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:ttsa-army-crada) was rejected in review: CRADA as published by The War Zone; also names the article"
 },
 {
 "id": "c-4ded6c289b",
@@ -26,7 +26,7 @@
 "sources": [],
 "text": "On 21 February 2020 CCDC FOIA Officer Joy L. Linton denied in full twenty-nine emails totalling one hundred pages of TTSA-Army correspondence under FOIA exemptions (b)(4) and (b)(5).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-) was rejected in review: FOIA response letter vs Black Vault archive page; cannot tell"
 },
 {
 "id": "c-e50b8bbcfc",
@@ -34,23 +34,35 @@
 "sources": [],
 "text": "Army GVSP public affairs officer Doug Halleaux said that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-5ad7f70ff2",
 "source": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
-"sources": [],
+"sources": [
+{
+"id": "n-ttsa-army-crada",
+"locator": null,
+"title": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+}
+],
 "text": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, with named government principal investigators and TACOM IP counsel, was filed as SEC Exhibit 6.28.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4711e15514",
 "source": "AARO Historical Record Report Volume I, March 2024",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f304b66487",
@@ -58,15 +70,21 @@
 "sources": [],
 "text": "The five-year CRADA was announced on 17 October 2019 and covers inertial mass reduction, mechanical/structural metamaterials, electromagnetic metamaterial waveguides, quantum physics, quantum communications and beamed energy propulsion.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces) was rejected in review: names announcement and Bloomberg Government; two sources"
 },
 {
 "id": "c-082fa1ed9d",
 "source": "Bloomberg Government, 21 October 2019",
-"sources": [],
+"sources": [
+{
+"id": "t-11c91b26a2c7",
+"locator": null,
+"title": "Bloomberg Government, 21 October 2019"
+}
+],
 "text": "The Army stated no public funding would go to the group; the agreement provided at least $750,000 in Army support and resources.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5169314eed",

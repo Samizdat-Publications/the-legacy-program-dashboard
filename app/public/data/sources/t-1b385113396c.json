@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a56388792f",
+"locator": null,
+"node": "john-schuessler",
+"nodeLabel": "John F. Schuessler",
+"sourceText": "Philip J. Klass's analysis of Schuessler's published data, 1998",
+"text": "Schuessler found no radioactivity when he checked Betty Cash's car with a Geiger counter in early 1981.",
+"tier": 2
+}
+],
+"date": "1998",
+"edges": [],
+"era": "1",
+"id": "t-1b385113396c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Philip J. Klass",
+"listedOn": [],
+"node": null,
+"title": "Philip J. Klass's analysis of Schuessler's published data, 1998",
+"topics": [
+{
+"claims": [
+"c-a56388792f"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
+"type": "article",
+"urls": []
+}

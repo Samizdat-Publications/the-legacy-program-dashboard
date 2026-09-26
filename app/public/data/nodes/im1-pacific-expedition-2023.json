@@ -10,23 +10,35 @@
 "sources": [],
 "text": "Loeb et al. published 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide' in Research Notes of the AAS on 31 January 2024, and a chemical classification in Chemical Geology in December 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:doi.org/10.3847/2515-5172/ad2370) was rejected in review: names two papers; candidate is only one"
 },
 {
 "id": "c-4be2b23799",
 "source": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122628",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-936c549f",
+"locator": null,
+"title": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology"
+}
+],
 "text": "Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-bc233a0cd8",
 "source": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122627",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-dcdd37c1",
+"locator": null,
+"title": "Hyung, Cherston, Jacobsen & Loeb, Chemical Geology"
+}
+],
 "text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of the D-type spherules in Chemical Geology in March 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-60887b5651",
@@ -34,7 +46,7 @@
 "sources": [],
 "text": "Fernando et al. showed in Geophysical Journal International (March 2024) that the seismic signal used to localise the search was consistent with truck traffic rather than an impact; Gallardo argued in Research Notes of the AAS (October 2023) for anthropogenic coal-ash contamination.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Compound citation (Geophysical Journal International March 2024 + Research Notes of the AAS October 2023); two distinct works, cannot reduce"
 },
 {
 "id": "c-7bc07a23ce",
@@ -42,7 +54,7 @@
 "sources": [],
 "text": "The expedition was announced as fully funded in September 2022 with a budget of approximately $1.6 million.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No specific expedition-record candidate found among Galileo Project sources; would have to guess which."
 }
 ],
 "cls": "event",

@@ -34,7 +34,7 @@
 {
 "cls": "legislation",
 "id": "c-11c2717bfe",
-"locator": "sec. 1672, 139 Stat. 1202",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PL 119-60 sec. 1672, 139 Stat. 1202",
@@ -44,7 +44,7 @@
 {
 "cls": "legislation",
 "id": "c-13974e402c",
-"locator": "sec. 1671(a), 139 Stat. 1201-1202",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PL 119-60 sec. 1671(a), 139 Stat. 1201-1202",
@@ -64,7 +64,7 @@
 {
 "cls": "legislation",
 "id": "c-29916d4653",
-"locator": "sec. 1673, 139 Stat. 1202-1203",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PL 119-60 sec. 1673, 139 Stat. 1202-1203",
@@ -94,7 +94,7 @@
 {
 "cls": "legislation",
 "id": "c-457fdfb4ac",
-"locator": "Division F, GPO",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "Full-text search of P.L. 119-60 Division F, GPO",
@@ -124,7 +124,7 @@
 {
 "cls": "legislation",
 "id": "c-b138ec4ff1",
-"locator": "enactment line",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PLAW-119publ60 enactment line",
@@ -134,7 +134,7 @@
 {
 "cls": "legislation",
 "id": "c-e2622a1184",
-"locator": "sec. 1671(a), 139 Stat. 1202",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PL 119-60 sec. 1671(a), 139 Stat. 1202",
@@ -144,7 +144,7 @@
 {
 "cls": "legislation",
 "id": "c-f4dffbc000",
-"locator": "sec. 1671(b), 139 Stat. 1202",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PL 119-60 sec. 1671(b), 139 Stat. 1202",
@@ -154,7 +154,7 @@
 {
 "cls": "legislation",
 "id": "c-849dbf17b1",
-"locator": "sec. 1671(b",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PL 119-60 sec. 1671(b)",
@@ -164,7 +164,7 @@
 {
 "cls": "legislation",
 "id": "c-cd8787a6f8",
-"locator": "sec. 1673(a",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "PL 119-60 sec. 1673(a)",
@@ -174,7 +174,7 @@
 {
 "cls": "legislation",
 "id": "c-bb09fa3a4f",
-"locator": "sec. 1672(a), 139 Stat. 1202",
+"locator": null,
 "node": "iaa-2022",
 "nodeLabel": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
 "sourceText": "PL 119-60 sec. 1672(a), 139 Stat. 1202",
@@ -284,7 +284,7 @@
 {
 "cls": "legislation",
 "id": "c-522daebaca",
-"locator": "sec. 1672",
+"locator": null,
 "node": "ndaa26-uap-provisions",
 "nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "sourceText": "PLAW-119publ60 sec. 1672",
@@ -294,7 +294,7 @@
 {
 "cls": "legislation",
 "id": "c-772583fa78",
-"locator": "sec. 1673(a",
+"locator": null,
 "node": "ndaa26-uap-provisions",
 "nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "sourceText": "PLAW-119publ60 sec. 1673(a)",
@@ -304,7 +304,7 @@
 {
 "cls": "legislation",
 "id": "c-ae62fbcdd5",
-"locator": "sec. 1671(b",
+"locator": null,
 "node": "ndaa26-uap-provisions",
 "nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "sourceText": "PLAW-119publ60 sec. 1671(b)",
@@ -314,7 +314,7 @@
 {
 "cls": "legislation",
 "id": "c-bb1dbc6a36",
-"locator": "table of contents and secs. 1671-1673",
+"locator": null,
 "node": "ndaa26-uap-provisions",
 "nodeLabel": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "sourceText": "PLAW-119publ60 table of contents and secs. 1671-1673",
@@ -334,7 +334,7 @@
 {
 "cls": "person",
 "id": "c-87e2323463",
-"locator": "full text, GPO",
+"locator": null,
 "node": "roger-wicker",
 "nodeLabel": "Roger F. Wicker",
 "sourceText": "P.L. 119-60 full text, GPO",
@@ -384,7 +384,7 @@
 {
 "cls": "institution",
 "id": "c-ea5169808c",
-"locator": "Division F, GPO",
+"locator": null,
 "node": "senate-intelligence",
 "nodeLabel": "Senate Select Committee on Intelligence",
 "sourceText": "Full-text search of P.L. 119-60 Division F, GPO",

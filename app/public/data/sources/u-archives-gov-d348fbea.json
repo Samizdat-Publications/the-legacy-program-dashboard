@@ -1,6 +1,57 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-40f2ebe135",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-aeba84a2bd",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA states it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e2ea01263c",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA announced on 24 April 2025 the release of UAP records transferred from ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission, under sections 1841-1843 of the 2024 NDAA (Public Law 118-31), with rolling additions.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8011257b6d",
+"locator": null,
+"node": "odni",
+"nodeLabel": "Office of the Director of National Intelligence",
+"sourceText": "National Archives press release nr25-07, 24 April 2025",
+"text": "ODNI is one of four agencies (with OSD, FAA and the Nuclear Regulatory Commission) whose UAP records NARA announced on 24 April 2025 had been transferred into the statutory UAP Collection under sections 1841-1843 of Public Law 118-31.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-aad4e45e97",
+"locator": null,
+"node": "us-senate",
+"nodeLabel": "United States Senate",
+"sourceText": "National Archives press release nr25-07, 24 April 2025",
+"text": "NARA identifies sections 1841-1843 of the 2024 NDAA (Public Law 118-31) as the legal authority for the UAP Collection.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -215,7 +266,24 @@
 ],
 "node": null,
 "title": "National Archives press release nr25-07",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-40f2ebe135",
+"c-aeba84a2bd",
+"c-8011257b6d"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-40f2ebe135"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.archives.gov/press/press-releases/2025/nr25-07"

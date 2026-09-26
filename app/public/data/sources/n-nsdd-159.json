@@ -1,21 +1,203 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-1ea658f34c",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"text": "It requires written Presidential Findings for all covert action and Memoranda of Notification for modifications, makes the NSPG the committee that recommends on every covert action, and creates a senior Planning and Coordination Group which 'replaces all ad hoc interagency groups'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-251ec6e090",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159, Security Procedures para. 1, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"text": "THE COMPARTMENT IS ORDERED IN TERMS. The Security Procedures section directs the Assistant to the President for National Security Affairs to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action.' The compartment is over the POLICY, not only over the operations.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-268e6a4f77",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159, Security Procedures para. 2, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"text": "Access is narrowed to one person per agency: 'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-53f4046830",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159 pp. 2 and Security Procedures para. 3, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"text": "The stated design goal on page 2 is that knowledge of policy, knowledge of operations and knowledge of supporting activity 'will be strictly compartmented from each other', and paragraph 3 orders that the minimum possible number of documents be created.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-745fe1147f",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159, both releases compared, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf and https://irp.fas.org/offdocs/nsdd/nsdd-159.htm",
+"text": "TWO DIFFERENT RELEASES CIRCULATE AND THEY ARE NOT THE SAME DOCUMENT. The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and was partially declassified on 5 June 1987 under EO 12356. The Reagan Library copy is the fuller release, stamped 'Authority Leary to Weinstein ltr 4/20/05 / BY RW NARA DATE 1/30/12'. Anyone citing NSDD 159 should say which one they read.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b63fbe121f",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159 pp. 1 and 7, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"text": "The document is marked SENSITIVE, SYSTEM II: 90030, NSC/ICS-400030, Copy 1 of 8, and is signed in ink by Ronald Reagan on page 7. Its original declassification instruction is 'Declassify on: Presidential Approval Only', and its struck-through control line reads TOP SECRET/VEIL.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f7450a1c61",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"text": "THE PAPER TRAIL IS DELIBERATELY SINGULAR. The NSC Senior Director for Intelligence Programs holds the only record copies of approved Findings and Memoranda of Notification: 'No other copies of approved Findings or MONs are authorized.' The same officer is tasked to administer the special access security compartment protecting covert action policies.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f635c52182",
+"locator": null,
+"node": "nsdd-159",
+"nodeLabel": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
+"sourceText": "NSDD 159, absence of the implementing procedures, https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf",
+"text": "THE COMPARTMENT'S OWN RULES ARE NOT IN THIS RELEASE. The directive states that the special access procedures are to be promulgated under separate cover, and that separate document was not located. VEIL appears only as a struck-through marking and never in the body, so it cannot be said from this text that VEIL is the name of the compartment NSDD 159 creates rather than a pre-existing handling caveat on the paper.",
+"tier": 3
+}
+],
 "date": "1985-01-18",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-429fa7f008",
+"label": "One focal point per component, the Agency included",
+"note": "'Each NSPG member shall designate one senior member of his component as the sole focal point for all matters related to covert action.' The design goal stated on page 2 is that knowledge of policy, of operations and of supporting activity be strictly compartmented from each other.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+},
+"b": {
+"cls": "legislation",
+"id": "eo-12356",
+"label": "Executive Order 12356 - National Security Information (2 April 1982)"
+},
+"claimTier": 1,
+"id": "e-e578f975a1",
+"label": "Its first partial release was made under this order",
+"note": "The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and partially declassified on 5 June 1987 under the provisions of EO 12356. The order that removed the public-interest test is the order under which the directive was first, partially, let out.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+},
+"b": {
+"cls": "institution",
+"id": "national-security-council",
+"label": "National Security Council"
+},
+"claimTier": 1,
+"id": "e-2234ce41b1",
+"label": "Puts the only record copies in one NSC officer's hands",
+"note": "The NSC Senior Director for Intelligence Programs holds the sole record copies of approved Findings and Memoranda of Notification, and administers the special access compartment protecting covert action policy. 'No other copies of approved Findings or MONs are authorized.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+},
+"b": {
+"cls": "domain",
+"id": "d-sap",
+"label": "Special Access Programs"
+},
+"claimTier": 1,
+"id": "e-ec701494a2",
+"label": "Orders a special access compartment over a whole policy subject",
+"note": "The directive tells the national security adviser to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action', with one designated focal point per agency. This is special access architecture applied to policy rather than to a programme, and it is 1985.",
+"type": "programmatic"
+}
+],
 "era": "1",
 "id": "n-nsdd-159",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "Federation of American Scientists",
+"listedOn": [
+{
+"cls": "document",
+"id": "nsdd-159",
+"label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
+}
+],
 "node": {
 "cls": "document",
 "id": "nsdd-159",
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)"
 },
 "title": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1ea658f34c",
+"c-251ec6e090",
+"c-268e6a4f77",
+"c-53f4046830",
+"c-745fe1147f",
+"c-b63fbe121f",
+"c-f7450a1c61",
+"c-f635c52182"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-251ec6e090",
+"c-f7450a1c61"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+}
+],
 "type": "regulation",
-"urls": []
+"urls": [
+"https://irp.fas.org/offdocs/nsdd/nsdd-159.htm",
+"https://www.reaganlibrary.gov/public/archives/reference/scanned-nsdds/nsdd159.pdf"
+]
 }

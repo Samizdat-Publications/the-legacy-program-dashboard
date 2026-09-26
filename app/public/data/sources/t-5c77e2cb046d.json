@@ -1,0 +1,57 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-20c625ae80",
+"locator": null,
+"node": "navy-flir-gimbal-gofast-videos",
+"nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"sourceText": "U.S. Navy statement, 10 September 2019",
+"text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+"tier": 1
+}
+],
+"date": "2019-09-10",
+"edges": [],
+"era": "3",
+"id": "t-5c77e2cb046d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Navy",
+"listedOn": [],
+"node": null,
+"title": "U.S. Navy statement",
+"topics": [
+{
+"claims": [
+"c-20c625ae80"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-20c625ae80"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-20c625ae80"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-20c625ae80"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "document",
+"urls": []
+}

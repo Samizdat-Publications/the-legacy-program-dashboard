@@ -1,14 +1,164 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20250312120226/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170041/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-f5c80eed7d",
+"locator": null,
+"node": "james-wells",
+"nodeLabel": "James Wells",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"text": "No verified biography, institutional affiliation page or publication record has been located for this author beyond the DIA list entry; the author line on the released DIRD cover page is redacted under (b)(6).",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-193b5fb5b3",
+"locator": null,
+"node": "dird-pulsed-high-power-microwave-source-technology",
+"nodeLabel": "Pulsed High-Power Microwave Source Technology",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-1aeeb692cf",
+"locator": null,
+"node": "dird-pulsed-high-power-microwave-source-technology",
+"nodeLabel": "Pulsed High-Power Microwave Source Technology",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"text": "Cover page reads: '28 January 2010 / ICOD: 1 December 2009 / DIA-08-0912-005 / Defense Intelligence Reference Document / Acquisition Threat Support / Pulsed High-Power Microwave Source Technology'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-318fc5cb5a",
+"locator": null,
+"node": "dird-pulsed-high-power-microwave-source-technology",
+"nodeLabel": "Pulsed High-Power Microwave Source Technology",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"text": "Defense Intelligence Reference Document titled \"Pulsed High-Power Microwave Source Technology\", series \"Acquisition Threat Support\", published 2010-01-28 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-0912-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f332130fda",
+"locator": null,
+"node": "dird-pulsed-high-power-microwave-source-technology",
+"nodeLabel": "Pulsed High-Power Microwave Source Technology",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+}
+],
 "date": null,
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"claimTier": 1,
+"id": "e-f26c5baedc",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"claimTier": 1,
+"id": "e-49bda181b1",
+"label": "published, numbered and released by DIA as DIA-08-0912-005",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"b": {
+"cls": "person",
+"id": "james-wells",
+"label": "James Wells"
+},
+"claimTier": 1,
+"id": "e-3b0c60af92",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"claimTier": 1,
+"id": "e-ceff57fa23",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+},
+"claimTier": 1,
+"id": "e-ed3520ea91",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 28 January 2010 on the cover. 38 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+}
+],
 "era": "nd",
 "id": "n-dird-pulsed-high-power-microwave-source-technology",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "james-wells",
+"label": "James Wells"
+},
+{
+"cls": "document",
+"id": "dird-pulsed-high-power-microwave-source-technology",
+"label": "Pulsed High-Power Microwave Source Technology"
+}
+],
 "node": {
 "cls": "document",
 "id": "dird-pulsed-high-power-microwave-source-technology",
@@ -17,5 +167,8 @@
 "title": "Pulsed High-Power Microwave Source Technology",
 "topics": [],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_03-DIRD_Pulsed_High-Power_Microwave_Source_Technology.pdf",
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237619/"
+]
 }

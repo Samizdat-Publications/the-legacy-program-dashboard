@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-2dd3c292a3",
+"locator": null,
+"node": "ev-petrozavodsk-1977",
+"nodeLabel": "Petrozavodsk phenomenon, 20 September 1977",
+"sourceText": "Wikipedia, 'Petrozavodsk phenomenon'",
+"text": "'Government officials from northern European countries sent letters to Anatoly Aleksandrov, president of the Academy of Sciences of the USSR, expressing concern about whether the observed phenomenon was caused by Soviet weapons testing.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-3a13c89574",
+"locator": null,
+"node": "ev-petrozavodsk-1977",
+"nodeLabel": "Petrozavodsk phenomenon, 20 September 1977",
+"sourceText": "Wikipedia, 'Petrozavodsk phenomenon'",
+"text": "'The phrase unidentified flying object in the Soviet Union was substituted by the term anomalous phenomenon for research purposes.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-754148a031",
+"locator": "1977 preliminary report quote",
+"node": "ev-petrozavodsk-1977",
+"nodeLabel": "Petrozavodsk phenomenon, 20 September 1977",
+"sourceText": "Wikipedia, 'Petrozavodsk phenomenon', citing the 1977 Academy of Sciences preliminary report",
+"text": "'In the same year, a preliminary report for the Academy of Sciences of the USSR was made ... It concluded that based on the available data, it is unfeasible to satisfactorily understand the observed phenomenon.'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-6d1407e493",
+"locator": "Setka AN programme",
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"sourceText": "Wikipedia, 'Petrozavodsk phenomenon', citing Stonehill and Mantle",
+"text": "'The Petrozavodsk phenomenon contributed to the creation of Setka AN, a Soviet research program for anomalous atmospheric phenomena.'",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -22,7 +63,17 @@
 ],
 "node": null,
 "title": "Petrozavodsk phenomenon - Wikipedia",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-2dd3c292a3",
+"c-754148a031",
+"c-6d1407e493"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Petrozavodsk_phenomenon"

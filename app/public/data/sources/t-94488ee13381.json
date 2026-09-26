@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e8fdd26e9b",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "Keith Kloor, 'UFOs Won't Go Away', Issues in Science and Technology, Spring 2019",
+"text": "His 2016 annual performance evaluation rated him 'exemplary'; his supervisor wrote that it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security,' and credited him with identifying and neutralising six insider threats.",
+"tier": 2
+}
+],
+"date": "2019",
+"edges": [],
+"era": "3",
+"id": "t-94488ee13381",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Issues in Science and Technology",
+"listedOn": [],
+"node": null,
+"title": "UFOs Won't Go Away",
+"topics": [
+{
+"claims": [
+"c-e8fdd26e9b"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+}
+],
+"type": "article",
+"urls": []
+}

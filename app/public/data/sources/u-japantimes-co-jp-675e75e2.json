@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-b379079a2d",
+"locator": null,
+"node": "japan-uap-2026",
+"nodeLabel": "Japan's review of the 2026 US UAP file releases",
+"sourceText": "The Japan Times, 11 May 2026, indexed via Google News",
+"text": "The Japan Times headline, 11 May 2026: 'Tokyo analyzing Pentagon UFO file trove with sightings near Japan.'",
+"tier": 2
+}
+],
 "date": "2026-05-11",
 "edges": [
 {
@@ -35,7 +46,15 @@
 ],
 "node": null,
 "title": "The Japan Times",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-b379079a2d"
+],
+"id": "office-models",
+"title": "Other governments: Belgium, Spain, Japan and the office model"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.japantimes.co.jp/news/2026/05/11/japan/pentagon-ufo-files-japan/"

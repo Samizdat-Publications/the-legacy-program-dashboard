@@ -19,18 +19,30 @@
 {
 "id": "c-fdd0dd736b",
 "source": "NRO About page, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-nro-gov-7ed1d46f",
+"locator": null,
+"title": "National Reconnaissance Office - About NRO"
+}
+],
 "text": "NRO lists William B. Adkins as Acting Director and describes its workforce as 31% NRO cadre, 34% detailed government personnel and 35% military.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0be86ebf2c",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
-"sources": [],
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "NRO is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

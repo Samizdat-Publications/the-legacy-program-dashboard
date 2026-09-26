@@ -1,21 +1,184 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-b23ee1cc0d",
+"locator": null,
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"sourceText": "Packet presented to DEPSECDEF, 17 November 2009",
+"text": "A single DoD packet records three names for the same effort: official title AAWSAP, Senator Reid's usage AAITP (Advanced Aerospace Threat and Identification Program), and unclassified nickname AATIP.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-15729f10f9",
+"locator": null,
+"node": "depsecdef-sap-packet-2009",
+"nodeLabel": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+"sourceText": "Packet presented to DEPSECDEF, 17 November 2009",
+"text": "DIA completed technical reviews in October 2009 covering 26 papers and found no justification for restricted SAP protections.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cda957f3b7",
+"locator": null,
+"node": "depsecdef-sap-packet-2009",
+"nodeLabel": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+"sourceText": "Packet presented to DEPSECDEF, 17 November 2009",
+"text": "The packet records three concurrent names for the effort: AAWSAP (official contract title), AAITP (Reid's usage), and AATIP (unclassified nickname).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e3224e2e56",
+"locator": null,
+"node": "depsecdef-sap-packet-2009",
+"nodeLabel": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
+"sourceText": "Packet presented to DEPSECDEF, 17 November 2009",
+"text": "Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time' based on FY09 deliverables and anticipated FY10 work.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-6ea53c64b3",
+"locator": null,
+"node": "ousdi",
+"nodeLabel": "Office of the Under Secretary of Defense for Intelligence",
+"sourceText": "Packet presented to DEPSECDEF, 17 November 2009",
+"text": "USD(I) James Clapper recommended against establishing a Special Access Program for the program in November 2009.",
+"tier": 1
+}
+],
 "date": "2009",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-a2d15697ff",
+"label": "records three concurrent names for one program",
+"note": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+"b": {
+"cls": "person",
+"id": "william-lynn",
+"label": "William J. Lynn III"
+},
+"claimTier": 1,
+"id": "e-490318928a",
+"label": "decision packet presented 17 November 2009",
+"note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+"b": {
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+"claimTier": 1,
+"id": "e-d4c5520ff0",
+"label": "USD(I) recommends against establishing a SAP",
+"note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
+"type": "denial"
+}
+],
 "era": "2",
 "id": "n-depsecdef-sap-packet-2009",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "document",
+"id": "depsecdef-sap-packet-2009",
+"label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+},
+{
+"cls": "person",
+"id": "james-clapper",
+"label": "James R. Clapper Jr."
+},
+{
+"cls": "institution",
+"id": "ousdi",
+"label": "Office of the Under Secretary of Defense for Intelligence"
+}
+],
 "node": {
 "cls": "document",
 "id": "depsecdef-sap-packet-2009",
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
 },
 "title": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-15729f10f9",
+"c-e3224e2e56"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-b23ee1cc0d"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-6ea53c64b3"
+],
+"id": "sap-states",
+"title": "Special access programmes: acknowledged, unacknowledged and waived"
+},
+{
+"claims": [
+"c-b23ee1cc0d"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-6ea53c64b3"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP/09117-Final_Packet_Presented_to_DepSecDef.pdf"
+]
 }

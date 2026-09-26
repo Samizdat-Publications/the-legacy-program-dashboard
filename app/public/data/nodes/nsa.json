@@ -7,18 +7,30 @@
 {
 "id": "c-bedcf53744",
 "source": "CAUS v. NSA, D.C. Circuit (1981); cert. denied (1982)",
-"sources": [],
+"sources": [
+{
+"id": "u-courtlistener-com-bc299077",
+"locator": "cert. denied 1982",
+"title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+}
+],
 "text": "In Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562), NSA withheld its UFO-related holdings in full and supported the withholding with an in camera affidavit by Eugene F. Yeates, Chief of NSA's Office of Policy; the D.C. Circuit affirmed in 1981 and the Supreme Court denied certiorari in 1982.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-303f197e76",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
-"sources": [],
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "NSA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-58a885d5b9",

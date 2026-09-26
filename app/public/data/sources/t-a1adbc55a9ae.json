@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b2e981e795",
+"locator": null,
+"node": "cufon",
+"nodeLabel": "Computer UFO Network (CUFON)",
+"sourceText": "CUFON's own published archive and contemporaneous accounts of the UFO document-research community",
+"text": "CUFON operated from 1983 as an electronic archive publishing full-text US government UFO documents obtained under FOIA, including NSA litigation records and 1975 SAC overflight message traffic.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "t-a1adbc55a9ae",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "CUFON",
+"topics": [],
+"type": "archive index",
+"urls": []
+}

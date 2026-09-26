@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-d0db5ba070",
+"locator": null,
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"sourceText": "Puthoff letter as reported by Vice, 14 November 2019",
+"text": "A 2012 letter from Puthoff reported that testing had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test pending for want of equipment.",
+"tier": 2
+}
+],
+"date": "2019-11-14",
+"edges": [],
+"era": "3",
+"id": "t-a9558656710c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [],
+"node": null,
+"title": "Vice, 14 November 2019",
+"topics": [
+{
+"claims": [
+"c-d0db5ba070"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-d0db5ba070"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "article",
+"urls": []
+}

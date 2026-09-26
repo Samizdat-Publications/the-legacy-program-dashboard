@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-4ebf08e986",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "George Knapp, written testimony, 9 September 2025",
+"text": "BAASS was prime contractor for AAWSAP, recruited about 50 cleared investigators, ran 27 months, produced more than three dozen preliminary reports and over 100 research papers, and built a 240,000-case data warehouse designed by Jacques Vallee; most of the papers remain unreleased by DIA.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-ca5a7ed4ce",
+"locator": null,
+"node": "l-las-vegas",
+"nodeLabel": "Las Vegas, Nevada",
+"sourceText": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "BAASS, headquartered in Las Vegas, was prime contractor for AAWSAP, recruited about 50 full-time investigators with top secret clearances, operated for 27 months, and produced more than three dozen preliminary reports and over 100 detailed research papers plus a 240,000-case data warehouse.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-2b4be98bd7",
+"locator": null,
+"node": "l-la",
+"nodeLabel": "Los Angeles and Burbank, California",
+"sourceText": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "Bigelow negotiated with a senior Lockheed executive to acquire unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity; the agreement was never completed.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-d85b2e59e5",
+"locator": null,
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "BAASS recruited about 50 full-time investigators with top secret clearances, operated for 27 months, generated more than three dozen preliminary reports and over 100 detailed research papers, and built a data warehouse of over 240,000 UFO case files designed by Jacques Vallee that reportedly remains in use by US agencies; most of the research papers remain unreleased by DIA.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -169,7 +210,15 @@
 ],
 "node": null,
 "title": "George Knapp written testimony (PDF)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d85b2e59e5"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+}
+],
 "type": "document",
 "urls": [
 "https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf"

@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-05a0b842b7",
+"locator": "quoted findings",
+"node": "ev-varginha-1996",
+"nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+"sourceText": "Brazilian Army inquiry, 2010, quoted findings — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The inquiry concluded that the presence of firefighters in Jardim Andere, the parking of Army trucks near a dealership for periodic maintenance and the departure of Escola de Sargentos das Armas vehicles were real events incorrectly interpreted as participation in a capture and transport.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-d3ca72a153",
+"locator": null,
+"node": "ev-varginha-1996",
+"nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+"sourceText": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
+"tier": 2
+}
+],
+"date": "2010",
+"edges": [],
+"era": "2",
+"id": "t-6cbb6cfdf8db",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Brazilian Army",
+"listedOn": [],
+"node": null,
+"title": "Brazilian Army inquiry, 2010",
+"topics": [
+{
+"claims": [
+"c-05a0b842b7",
+"c-d3ca72a153"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+},
+{
+"claims": [
+"c-d3ca72a153"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+}
+],
+"type": "report",
+"urls": []
+}

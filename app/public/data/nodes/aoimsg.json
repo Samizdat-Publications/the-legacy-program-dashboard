@@ -10,15 +10,21 @@
 "sources": [],
 "text": "AOIMSG was established by Deputy Secretary of Defense direction on 23 November 2021, overseen by AOIMEXEC co-chaired by USD(I&S) and the Joint Staff Director for Operations.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-establishment-memo-2022) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-122dc2e744",
 "source": "DoD memorandum, 15 July 2022",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-establishment-memo-2022",
+"locator": null,
+"title": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+}
+],
 "text": "AOIMSG was superseded and disestablished by the AARO establishment memorandum of 15 July 2022.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a54fc2fc74",

@@ -10,15 +10,21 @@
 "sources": [],
 "text": "The paper is Entropy 21(10):939, DOI 10.3390/e21100939, published 25 September 2019.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:paper-knuth-powell-reali-2019) was rejected in review: vague 'Crossref record'; paper not identified"
 },
 {
 "id": "c-f8886fc57e",
 "source": "Proceedings, DOI 10.3390/proceedings2019033026",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-01e81b16",
+"locator": null,
+"title": "Knuth, Powell & Reali, MaxEnt 2019 Proceedings"
+}
+],
 "text": "A companion paper, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter', appeared in the proceedings of the 39th International Workshop on Bayesian Inference and Maximum Entropy Methods in December 2019.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

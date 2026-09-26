@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2b7e5be518",
+"locator": null,
+"node": "chuck-schumer",
+"nodeLabel": "Charles E. Schumer",
+"sourceText": "S. 2226 as engrossed in the Senate, Division G, Sec. 9010(a), GPO",
+"text": "The text he submitted commands the Federal Government to 'exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-003004f0ab",
+"locator": null,
+"node": "uapda-sec-9010-eminent-domain",
+"nodeLabel": "Section 9010(a) - Exercise of Eminent Domain",
+"sourceText": "S. 2226 as engrossed in the Senate, Division G, Sec. 9010(a), GPO",
+"text": "Verbatim: 'The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.'",
+"tier": 1
+}
+],
 "date": "2023",
 "edges": [],
 "era": "3",

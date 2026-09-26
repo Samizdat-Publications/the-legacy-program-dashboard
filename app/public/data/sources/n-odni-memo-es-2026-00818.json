@@ -1,21 +1,414 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2f979c2729",
+"locator": null,
+"node": "aaron-lukas",
+"nodeLabel": "Aaron Lukas",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "The memorandum directs all IC members to establish a PURSUE designee within 30 days in coordination with ODNI and to inform their workforces that prior NDAs barring disclosure to the President or designees like PURSUE are no longer in force.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d1af831d40",
+"locator": null,
+"node": "aaron-lukas",
+"nodeLabel": "Aaron Lukas",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "Signed ODNI memorandum ES 2026-00818, 'Preliminary Guidance for Implementation of NDA Waiver', as Principal Deputy Director of National Intelligence.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-20c24fa108",
+"locator": null,
+"node": "odni-memo-es-2026-00818",
+"nodeLabel": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "Current and former government employees and contractors 'shall have prior non-disclosure agreements (NDA), agreements, oaths, or commitments waived when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-46f7c1821f",
+"locator": null,
+"node": "odni-memo-es-2026-00818",
+"nodeLabel": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "Signed by Aaron Lukas, Principal Deputy Director of National Intelligence, control number ES 2026-00818, classified UNCLASSIFIED.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7626a5d189",
+"locator": null,
+"node": "odni-memo-es-2026-00818",
+"nodeLabel": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "All IC members must within 30 days coordinate with ODNI to establish a PURSUE designee and inform their workforce that 'any previous or existing NDAs prohibiting disclosure to the President, or designees like PURSUE, are no longer in force.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-860f926b3a",
+"locator": null,
+"node": "odni-memo-es-2026-00818",
+"nodeLabel": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "The memorandum 'provides preliminary guidance for the release of all Unidentified Anomalous Phenomena (UAP) information to the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) Task Force for review and declassification.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-eb435fc86b",
+"locator": null,
+"node": "odni-memo-es-2026-00818",
+"nodeLabel": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "Distribution includes the Directors of CIA, DIA, NGA, NRO, NSA and FBI, USD(I&S) at the Department of War, DHS I&A, State INR, Treasury, DEA, DOE Office of Intelligence and Counterintelligence, and the intelligence chiefs of the Army, Marine Corps, Navy, Air Force, Space Force and Coast Guard.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-05765f14fc",
+"locator": null,
+"node": "odni-memo-es-2026-00818",
+"nodeLabel": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "The inclusion of 'oaths, or commitments' alongside written NDAs is drafted to reach oral secrecy commitments of the kind associated with unacknowledged special access programmes, which do not generate signed agreements a witness could point to. Reasoning: written NDAs alone would have been fully covered by the word 'agreements'; the additional terms are only load-bearing if unwritten obligations exist.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-b71b7ca926",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "ODNI ES 2026-00818 grounds the NDA-waiver implementation on 'Presidential Direction' rather than on any cited executive order number.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-80efea5936",
+"locator": null,
+"node": "pursue-task-force",
+"nodeLabel": "PURSUE Task Force",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "Every IC element must establish a 'PURSUE designee' within 30 days in coordination with ODNI; witnesses are told to report to AARO 'or to an authorized PURSUE representative.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f2a88a8c93",
+"locator": null,
+"node": "pursue-task-force",
+"nodeLabel": "PURSUE Task Force",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "ODNI ES 2026-00818 names a 'PURSUE Task Force' with a 'review and declassification' function to which all IC UAP information is to be released.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e0c8062314",
+"locator": null,
+"node": "pursue-task-force",
+"nodeLabel": "PURSUE Task Force",
+"sourceText": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
+"text": "No charter, executive order, roster, chair, budget line or location for the PURSUE Task Force is public as of 12 August 2026. Reasoning: it appears in the ODNI memorandum and in derivative reporting, and on no published organisational instrument at war.gov, aaro.mil, dni.gov or whitehouse.gov.",
+"tier": 3
+}
+],
 "date": "2026-08-01",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "aaron-lukas",
+"label": "Aaron Lukas"
+},
+"b": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"claimTier": 1,
+"id": "e-2ff96058d6",
+"label": "signatory",
+"note": "Aaron Lukas signed ES 2026-00818 as Principal Deputy Director of National Intelligence; the memorandum is unclassified and carries an ODNI executive secretariat control number.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"b": {
+"cls": "document",
+"id": "uap-nda-waiver-directive-2026",
+"label": "Presidential directive waiving UAP-related nondisclosure agreements"
+},
+"claimTier": 3,
+"id": "e-eecd9ab45f",
+"label": "the paradigm case the waiver addresses",
+"note": "Elizondo is the archetype of a former official constrained by prepublication review and secrecy obligations; the ODNI memorandum waives 'agreements, oaths, or commitments' for disclosure to government investigators, not to publishers.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 1,
+"id": "e-564bde4e2c",
+"label": "designates AARO as a receiving channel for waived-NDA testimony",
+"note": "Witnesses are told that NDAs, agreements, oaths or commitments are waived 'when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 3,
+"id": "e-e64cb62474",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Central Intelligence Agency is an addressee of the ODNI NDA-waiver memorandum and the CIA has no series in Record Group 615, whose transfer deadline passed on 30 September 2025.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 3,
+"id": "e-7e3a5abbb2",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "nara-uap-collection",
+"label": "National Archives Unidentified Anomalous Phenomena Records Collection"
+},
+"claimTier": 3,
+"id": "e-b074fa5409",
+"label": "names the agencies absent from the statutory archive",
+"note": "The memorandum's distribution list includes CIA, DIA, NRO, NGA, DOE and every military department - none of which has a series in Record Group 615. The same agencies are simultaneously addressees of a UAP release directive and absentees from the statutory collection.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 3,
+"id": "e-741a4b62f4",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+},
+"claimTier": 1,
+"id": "e-6ba8443113",
+"label": "establishes as an entity with declassification authority",
+"note": "The memorandum directs release of all IC UAP information to the 'PURSUE Task Force for review and declassification' - the first paper instrument naming PURSUE as a body rather than a website.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"b": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"claimTier": 3,
+"id": "e-22854f548b",
+"label": "directed to release; absent from the statutory archive",
+"note": "The Director of the Office of Intelligence and Counterintelligence, Department of Energy, is an addressee of ES 2026-00818; DOE has no RG 615 series.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "odni-uap-d001",
+"label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative"
+},
+"b": {
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+"claimTier": 3,
+"id": "e-a12a103706",
+"label": "same originator, two months apart",
+"note": "ODNI put a serving officer's encounter narrative into the PURSUE corpus in May and directed the whole IC to release its UAP holdings to the PURSUE Task Force by August.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 1,
+"id": "e-cff8e5d26c",
+"label": "The directive is the stated basis of the release programme",
+"note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2025-09-09",
+"label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'"
+},
+"claimTier": 3,
+"id": "e-ab47414775",
+"label": "the executive channel that competes with the congressional one",
+"note": "Burlison warned that it is uncertain whether the NDA abrogation applies to testimony given to Congress before referral to the executive branch - a witness routed to PURSUE may be routed away from a hearing room.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-fy2027-house-adopted",
+"label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA"
+},
+"claimTier": 3,
+"id": "e-72e9744ede",
+"label": "unchartered body versus Senate-confirmed board",
+"note": "The amendment's Senate-confirmed Records Review Board is the constitutional answer to a task force exercising declassification authority with no published charter.",
+"type": "legislative"
+}
+],
 "era": "3",
 "id": "n-odni-memo-es-2026-00818",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "Rep. Eric Burlison",
+"listedOn": [
+{
+"cls": "person",
+"id": "aaron-lukas",
+"label": "Aaron Lukas"
+},
+{
+"cls": "document",
+"id": "odni-memo-es-2026-00818",
+"label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
+},
+{
+"cls": "document",
+"id": "trump-uap-release-directive-2026",
+"label": "Presidential direction to identify and release UAP files (19-20 February 2026)"
+},
+{
+"cls": "institution",
+"id": "pursue-task-force",
+"label": "PURSUE Task Force"
+}
+],
 "node": {
 "cls": "document",
 "id": "odni-memo-es-2026-00818",
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
 },
 "title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-20c24fa108",
+"c-46f7c1821f",
+"c-7626a5d189",
+"c-860f926b3a",
+"c-eb435fc86b",
+"c-b71b7ca926",
+"c-80efea5936",
+"c-e0c8062314"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-20c24fa108",
+"c-46f7c1821f",
+"c-7626a5d189",
+"c-860f926b3a",
+"c-eb435fc86b",
+"c-e0c8062314"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf"
+]
 }

@@ -8,26 +8,44 @@
 {
 "id": "c-d0baa58c7a",
 "source": "DIRD 26, DIA release",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-anomalous-acute-and-subacute-field-effects",
+"locator": null,
+"title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+}
+],
 "text": "DIA commissioned Defense Intelligence Reference Document 26, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', released under FOIA.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2abc85c16b",
 "source": "Kit Green DIRD, via The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-green-clinical-medical",
+"locator": null,
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+}
+],
 "text": "Christopher Green of the Institute for Advanced Studies at Austin authored a DIRD on 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d895565a79",
 "source": "Cash v. United States docket and Order of Dismissal",
-"sources": [],
+"sources": [
+{
+"id": "u-files-afu-se-1aaf6048",
+"locator": null,
+"title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal"
+}
+],
 "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), brought over injuries attributed to a December 1980 encounter, was dismissed by order of 21 August 1986.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

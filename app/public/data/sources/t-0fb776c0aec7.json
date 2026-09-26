@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-248f2ac49f",
+"locator": null,
+"node": "l-huntsville",
+"nodeLabel": "Huntsville, Alabama",
+"sourceText": "Science, June 2022",
+"text": "Science magazine reported in June 2022 that Travis S. Taylor 'was the chief scientist on the' Unidentified Aerial Phenomena Task Force.",
+"tier": 2
+}
+],
+"date": "2022-06",
+"edges": [],
+"era": "3",
+"id": "t-0fb776c0aec7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Science",
+"listedOn": [],
+"node": null,
+"title": "Science, June 2022",
+"topics": [],
+"type": "article",
+"urls": []
+}

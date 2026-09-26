@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20060119031333/http://www.collectionscanada.ca/ufo/index-e.html"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-57d507edf8",
+"locator": null,
+"node": "lac-ufo-collection",
+"nodeLabel": "Library and Archives Canada - UFO records collection",
+"sourceText": "Library and Archives Canada, 'Canada's UFOs: The Search for the Unknown', introduction, 2005",
+"text": "'Within the vault of Library and Archives Canada there exist files from five government departments that were involved with collecting data and conducting investigations on unidentified flying objects (UFOs). The Department of Transport, Department of Communications, Department of National Defence, the Royal Canadian Mounted Police and the National Research Council all dealt with reports, sightings and investigations of UFOs across Canada.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

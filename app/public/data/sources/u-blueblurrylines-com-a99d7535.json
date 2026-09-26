@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-ebead5afee",
+"locator": null,
+"node": "dd-form-1910-2017",
+"nodeLabel": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
+"sourceText": "Blue Blurry Lines, 17 August 2019",
+"text": "The version originally published by George Knapp had Elizondo's name and DoD title redacted; the unredacted FOIA copy identifies him.",
+"tier": 2
+}
+],
 "date": "2019-08",
 "edges": [
 {
@@ -57,7 +68,15 @@
 ],
 "node": null,
 "title": "Blue Blurry Lines",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-ebead5afee"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.blueblurrylines.com/2019/08/documents-released-via-foia-on-aatip.html"

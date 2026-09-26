@@ -53,10 +53,16 @@
 {
 "id": "c-6d3e9bac93",
 "source": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense (9th Cir.)",
-"sources": [],
+"sources": [
+{
+"id": "u-courtlistener-com-a262239e",
+"locator": null,
+"title": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)"
+}
+],
 "text": "CAUS litigation against the Department of Defense reached the Ninth Circuit as late as 14 November 2001.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

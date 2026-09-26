@@ -7,66 +7,114 @@
 {
 "id": "c-52604437d8",
 "source": "DefenseScoop, 20 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Trump pledged on 19-20 February 2026 to direct Hegseth and relevant agencies to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ff87166571",
 "source": "DefenseScoop, 14 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "PURSUE stands for Presidential Unsealing and Reporting System for UAP Encounters, is coordinated by AARO, and made its first release on 8 May 2026 of roughly 160 declassified files through a war.gov portal, at least 100 with redactions.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c91bbc06c1",
 "source": "DefenseScoop, 14 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "Christopher Mellon on the first drop: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ddf6decfd1",
 "source": "DefenseScoop, 14 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "Tim Gallaudet said the absence of metadata made it 'impossible to conclude that any objects were truly anomalous.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7a3e360b69",
 "source": "US Department of War, war.gov/UFO, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "PURSUE stands for the Presidential Unsealing and Reporting System for UAP Encounters and is overseen by the Department of War with support from ODNI.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-690699a64f",
 "source": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "President Trump issued a directive on 19 February 2026 instructing the Secretary of War and other agencies to identify and release government files connected to UAP and extraterrestrial life.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-98a00f8584",
 "source": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "Release dates: Release 01, 8 May 2026; Release 02, 22 May 2026; Release 03, 12 June 2026; Release 04, 10 July 2026; Release 05, 7 August 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-daa83aff0c",
 "source": "US Department of War, war.gov/UFO",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "Secretary of War Pete Hegseth stated the Department is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-00c0806470",
@@ -74,39 +122,63 @@
 "sources": [],
 "text": "The Department of War published five PURSUE tranches at war.gov/UFO dated 8 May, 22 May, 12 June, 10 July and 7 August 2026, each with separate document and video bundles.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: node of bundle URLs, not the release index page"
 },
 {
 "id": "c-3836653250",
 "source": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-aaro-mil-1c878677",
+"locator": null,
+"title": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)"
+}
+],
 "text": "AARO's own homepage links to 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' at war.gov/UFO.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cee5bf6e46",
 "source": "war.gov/UFO",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "Hegseth's published portal statement: the Department is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5f9919f1a4",
 "source": "DefenseScoop, 14 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "Release 01 comprised slightly over 160 files with at least 100 containing redactions.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-de956641d3",
 "source": "DefenseScoop, 14 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-af4296aa",
+"locator": null,
+"title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop"
+}
+],
 "text": "A War Department official stated: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d821a47a69",
@@ -122,7 +194,7 @@
 "sources": [],
 "text": "The Department of War published five PURSUE tranches at war.gov/UFO on 8 May, 22 May, 12 June, 10 July and 7 August 2026.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: node of bundle URLs, not the release index page"
 },
 {
 "id": "c-4b951c1483",
@@ -130,15 +202,21 @@
 "sources": [],
 "text": "PURSUE stands on President Trump's 19 February 2026 statement directing the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:trump-uap-release-directive-2026) was rejected in review: portal page and wire coverage, not the presidential direction itself"
 },
 {
 "id": "c-e0ad358d41",
 "source": "war.gov/UFO",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "Secretary of War Hegseth's published statement is that the Department is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3c951a82e1",
@@ -146,7 +224,7 @@
 "sources": [],
 "text": "Release 01 comprised 160 files (117 PDFs, 29 sensor videos, 14 photographs) spanning 1944-2026; Release 02 comprised 64 files including 51 sensor videos; Release 03 comprised 72 files with 29 from the FBI.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:disclosurearchives.com/department-of-war-files) was rejected in review: 'AARO/DoW release index' ambiguous between two Disclosure Archives pages"
 },
 {
 "id": "c-4c734b1bae",
@@ -161,9 +239,9 @@
 "source": "https://www.war.gov/UFO/",
 "sources": [
 {
-"id": "u-war-gov-1c6a1d62",
+"id": "n-war-gov-ufo-portal",
 "locator": null,
-"title": "Department of War - PURSUE portal (war.gov/UFO)"
+"title": "war.gov/UFO release portal"
 }
 ],
 "text": "PURSUE material is published at war.gov/UFO as five dated releases, each a paired document ZIP hosted on www.war.gov/medialink/ufo/ and a video ZIP hosted on d34w7g4gy10iej.cloudfront.net.",

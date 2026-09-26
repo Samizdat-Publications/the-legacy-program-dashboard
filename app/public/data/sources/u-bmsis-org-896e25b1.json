@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-121adf222e",
+"locator": null,
+"node": "blue-marble-space-institute",
+"nodeLabel": "Blue Marble Space Institute of Science",
+"sourceText": "bmsis.org/about",
+"text": "Its research programme spans planetary habitability, origin of life, space biology, climate change, sustainable development, human spaceflight and solar system exploration, published in academic journals and disseminated through podcasts, seminars and the SAGANet network; all projects must include educational outreach.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c8a3e4f8ac",
+"locator": null,
+"node": "blue-marble-space-institute",
+"nodeLabel": "Blue Marble Space Institute of Science",
+"sourceText": "bmsis.org/about",
+"text": "BMSIS is a non-profit public charity organised under section 501(c)(3) of the US Internal Revenue Code, self-described as an international community engaged in building a sustainable future and nurturing scientific interest among the public.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

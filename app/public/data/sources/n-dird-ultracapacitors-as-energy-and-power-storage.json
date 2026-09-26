@@ -1,14 +1,191 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20250515130039/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170049/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-2236fbaffd",
+"locator": null,
+"node": "j-golightly",
+"nodeLabel": "J. Golightly",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+"text": "The released cover page reads \"01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-005,\" with the author line redacted under (b)(6).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-025e001972",
+"locator": null,
+"node": "dird-ultracapacitors-as-energy-and-power-storage",
+"nodeLabel": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7cfa871065",
+"locator": null,
+"node": "dird-ultracapacitors-as-energy-and-power-storage",
+"nodeLabel": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+"text": "A late-tranche DIRD. Its Intelligence Cut-Off Date of 20 July 2010 and DIA-08-1011 series number place it with the November 2010 batch rather than the FY2009 March-April 2010 tranche that carries ICOD 1 December 2009.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-94c878ce6d",
+"locator": null,
+"node": "dird-ultracapacitors-as-energy-and-power-storage",
+"nodeLabel": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+"text": "The released cover page reads \"01 November 2010 / ICOD: 20 July 2010 / DIA-08-1011-005.\" The author line is redacted under (b)(6).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b0434d65a8",
+"locator": null,
+"node": "dird-ultracapacitors-as-energy-and-power-storage",
+"nodeLabel": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/",
+"text": "Defense Intelligence Reference Document titled \"Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications\", series \"Defense Futures\", published 2010-11-01 with an Intelligence Cut-Off Date (ICOD) of 2010-07-20, DIA document number DIA-08-1011-005. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ebeca5d24b",
+"locator": null,
+"node": "dird-ultracapacitors-as-energy-and-power-storage",
+"nodeLabel": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+}
+],
 "date": null,
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"claimTier": 1,
+"id": "e-be80da3782",
+"label": "AAWSAP deliverable, late tranche",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "j-golightly",
+"label": "J. Golightly"
+},
+"b": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"claimTier": 1,
+"id": "e-b3980ce5de",
+"label": "author of record on the DIA list",
+"note": "DIA list item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"claimTier": 1,
+"id": "e-11337c9f51",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"claimTier": 1,
+"id": "e-fc03a3be90",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 35 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-0bd57a7667",
+"label": "author's affiliation of record; one of three Lockheed Martin DIRDs",
+"note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+},
+"b": {
+"cls": "domain",
+"id": "d-materials",
+"label": "Materials and custody analysis"
+},
+"claimTier": 1,
+"id": "e-be6b80da0f",
+"label": "subject domain: energy-storage materials for commercial and military applications",
+"note": "Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content.",
+"type": "research"
+}
+],
 "era": "nd",
 "id": "n-dird-ultracapacitors-as-energy-and-power-storage",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "person",
+"id": "j-golightly",
+"label": "J. Golightly"
+},
+{
+"cls": "document",
+"id": "dird-ultracapacitors-as-energy-and-power-storage",
+"label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications"
+}
+],
 "node": {
 "cls": "document",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
@@ -17,5 +194,8 @@
 "title": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "topics": [],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_32-DIRD_Ultracapacitators_as_Energy_and_Power_Storage_Devices.pdf",
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237620/"
+]
 }

@@ -65,9 +65,9 @@
 "source": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
 "sources": [
 {
-"id": "u-nicap-org-6772cc85",
+"id": "n-afosi-kirtland-file",
 "locator": null,
-"title": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive"
+"title": "AFOSI Kirtland AFB UFO File (1980-1983)"
 }
 ],
 "text": "HIS AFOSI SERVICE IS DOCUMENTED BY THE FILE ITSELF AND NEEDS NO INTERVIEW TO SUPPORT IT. The 1980 AFOSI complaint form reproduced by NICAP carries 'Richard C Doty, SA' on its face, under AFOSI Det 1700, Kirtland AFB, New Mexico, District File No. 8017D93-0/29. Every claim of his service should be sourced here rather than to any of his own later accounts.",
@@ -121,9 +121,9 @@
 "source": "The Black Vault, 'Richard Doty Personnel File - New Mexico State Police', 20 May 2021, https://www.theblackvault.com/documentarchive/richard-doty-personnel-file-new-mexico-state-police/ , opened 2026-09-19",
 "sources": [
 {
-"id": "u-theblackvault-com-07202902",
+"id": "n-doty-personnel-file",
 "locator": null,
-"title": "Richard Doty Personnel File - New Mexico State Police [321 pages], NM Inspection of Public Records Act release"
+"title": "Richard Doty New Mexico State Police Personnel File [321 pages]"
 }
 ],
 "text": "His complete releasable New Mexico State Police personnel file runs to 321 pages and 39.5 MB, was obtained by John Greenewald under the New Mexico Inspection of Public Records Act, NMSA 14-2-1 et seq., and was released by the New Mexico Department of Public Safety with redactions on 20 May 2021. The landing page does not print his Air Force service dates, rank progression or separation: those are inside the PDF and the PDF was not opened by this session.",
@@ -158,15 +158,21 @@
 "sources": [],
 "text": "Doty has stated publicly that he provided false documents and false information to Paul Bennewitz as part of his AFOSI duties.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic reference to unspecified interviews/documentary appearances; no single identifiable source."
 },
 {
 "id": "c-a48a7a9ed4",
 "source": "The Black Vault, Richard Doty personnel file release, 20 May 2021",
-"sources": [],
+"sources": [
+{
+"id": "n-doty-personnel-file",
+"locator": "release 20 May 2021",
+"title": "Richard Doty New Mexico State Police Personnel File [321 pages]"
+}
+],
 "text": "Doty's complete releasable New Mexico State Police personnel file runs to 321 pages and was obtained under NMSA 14-2-1 et seq.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3db085ea93",
@@ -174,7 +180,7 @@
 "sources": [],
 "text": "Doty showed Linda Moulton Howe a document at Kirtland AFB in April 1983 that she has described as a government briefing paper on retrieved craft and occupants.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic description of dispersed public statements, not one document."
 }
 ],
 "cls": "person",

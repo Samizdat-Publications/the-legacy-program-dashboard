@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20260714192654/https://www.aaro.mil/UAP-Records/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-cb15359e38",
+"locator": null,
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "aaro.mil UAP Records page, accessed 12 August 2026",
+"text": "AARO's UAP Records page directs the public to the National Archives UAP collection and hosts the DHS Kona Blue release and ORNL materials analyses.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

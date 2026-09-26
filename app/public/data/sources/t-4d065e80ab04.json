@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-3042938ef6",
+"locator": null,
+"node": "l-detroit-arsenal",
+"nodeLabel": "Detroit Arsenal, Warren, Michigan",
+"sourceText": "Army public affairs statement, 2019",
+"text": "GVSP spokesman Doug Halleaux stated that because the Army's interest is in the potential for novel materials, 'any speculation as to their origin is (pardon the pun) immaterial.'",
+"tier": 2
+}
+],
+"date": "2019",
+"edges": [],
+"era": "3",
+"id": "t-4d065e80ab04",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Army public affairs statement",
+"topics": [],
+"type": "document",
+"urls": []
+}

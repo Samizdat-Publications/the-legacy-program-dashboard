@@ -3,6 +3,26 @@
 "claims": [
 {
 "cls": "person",
+"id": "c-1301891582",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+"text": "The application as filed states the craft 'can be, but without limitation, a cone or lenticular triangle / delta wing configuration', and its two figures show a triangular craft and a diamond craft, each enclosed in the polarized vacuum boundary. The published drawings are the only depiction of the intended craft geometry in the federal record.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-16b0d5c705",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+"text": "Paragraph [0037] of the application as filed states that the preferred electromagnetic generator for the craft is the one described in US application 14/807,943, 'incorporated by reference, and has the same inventor'. The inertial mass reduction craft and the electromagnetic field generator are therefore linked as components of one design by the filings themselves rather than by inference.",
+"tier": 1
+},
+{
+"cls": "person",
 "id": "c-23011a2d96",
 "locator": "PAX 205), retrieved from USPTO Patent Center 28 August 2026",
 "node": "salvatore-pais",
@@ -43,12 +63,52 @@
 },
 {
 "cls": "person",
+"id": "c-63b0fec44b",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-68282979a8",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The examiner of record was Philip J. Bonzell, Group Art Unit 3642. The attorneys of record were Mark Glut (USPTO registration 38,161), Robert S. Gorman (41,790) and Rohit K. Dewan (74,007), all of the Department of the Navy, Naval Air Warfare Center Aircraft Division, Office of Counsel, 47076 Liljencrantz Road, Building 435, Patuxent River, Maryland.",
+"tier": 1
+},
+{
+"cls": "person",
 "id": "c-6a22939747",
 "locator": "PAX 205), retrieved from USPTO Patent Center 28 August 2026",
 "node": "salvatore-pais",
 "nodeLabel": "Salvatore Cezar Pais",
 "sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JJEEPSU2RXEAPX0.pdf, Advisory Action mailed 11 July 2018; transcript at research/patents/wrapper/advisory-action-2018-07-11.txt",
 "text": "The examiner set an explicit condition for allowance and it was experimental. Rejecting the argument that microwave excitation of a copper resonant cavity makes the required fields feasible, he wrote: 'While obtaining high vibrational frequencies are possible this does not mean that the E-fields and B-fields that are required to polarize the quantum vacuum can be created. If this is so then the Examiner asks that the Applicant demonstrate these high vibrational frequencies to create a local polarized vacuum.' No such demonstration appears in the file wrapper as uploaded, and the application was nonetheless allowed on 31 October 2018.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7660f4ff35",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-815c64eaf3",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "Application 15/141,270 as filed, 'A Craft Using an Inertial Mass Reduction Device', Navy Case PAX 205",
+"text": "Paragraph [0020] of the application as filed credits the mechanism to a named figure already on this board: 'it is feasible to remove energy-mass from the system by enabling vacuum polarization, as discussed by Harold Puthoff; in that diminution of inertial (and thus gravitational) mass can be achieved via manipulation of quantum field fluctuations in the vacuum.'",
 "tier": 1
 },
 {
@@ -83,12 +143,32 @@
 },
 {
 "cls": "person",
+"id": "c-c3cb51583f",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The assignment of record is reel 38412, frame 0760: assignor PAIS, SALVATORE, execution date 27 April 2016, recorded 28 April 2016, assignee DEPARTMENT OF THE NAVY, attorney docket number PAX 205. This is the documentary link between the granted patent and the NAVAIR invention-disclosure briefing released under FOIA, which carries the same Navy case number.",
+"tier": 1
+},
+{
+"cls": "person",
 "id": "c-c4a5cf535e",
 "locator": "PAX 205), retrieved from USPTO Patent Center 28 August 2026",
 "node": "salvatore-pais",
 "nodeLabel": "Salvatore Cezar Pais",
 "sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JCTFAFUKPXXIFW1.pdf, NAVAIR Ser 40T/33 dated 15 December 2017; transcript at research/patents/wrapper/sheehy-letter-2017-12-15.txt",
 "text": "The letter describes the actual test rig in specific terms: 'tests using a battery to charge a 10 cm test sample spinning at up to 100,000 RPM and is able maintain charge on these batteries for dwell times of more than 25 minutes (at max RPM) without loss of load', with a fallback to 'a super-capacitor as the spinning test asset' and a test asset surface charge density 'on the order of one Coulomb/meter 2'. This is the only description of the apparatus located on this board that comes from a government document rather than from reporting.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c5abd8fb7e",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The application was pulled for security screening at filing. USPTO events record 'Referred to Level 2 (LARS) by OIPE CSR' and 'Referred by L&R for Third-Level Security Review. Agency Referral Letter Generated', both dated 2 May 2016, with 'Waiting LR clearance' on 12 May 2016. It cleared; no secrecy order issued.",
 "tier": 1
 },
 {
@@ -132,6 +212,16 @@
 "tier": 3
 },
 {
+"cls": "person",
+"id": "c-532edb49c4",
+"locator": null,
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The combination of a two-year fight for the grant and a refusal to pay the first maintenance fee is consistent with the Navy wanting the examining authority's FINDING rather than the property right. The reason this now bites harder is that Sheehy stated the opposite rationale in writing: he wanted to 'hold the patent as opposed to paying forever more to use this revolutionary technology', which is a freedom-to-operate argument. But publication in November 2017 had already created permanent prior art, and prior art alone prevents anyone else from patenting the idea and charging the Navy for it. The granted claims added nothing to that protection; what they added was the reversal of an enablement rejection, which is the Patent Office ceasing to say the invention does not work. A maintenance fee buys only the right to exclude an infringer, which the Navy would never exercise. Reasoning: stated inference from the prosecution record and the letter; the alternative reading, that the docket simply lapsed after its inventor transferred out of NAWCAD in 2019, is equally available and is not excluded.",
+"tier": 3
+},
+{
 "cls": "document",
 "id": "c-04bc88a6e2",
 "locator": "Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell",
@@ -153,12 +243,32 @@
 },
 {
 "cls": "document",
+"id": "c-3f134f14ee",
+"locator": null,
+"node": "pais-patent-imrd",
+"nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "The grant was obtained through a formal appeal, not a letter. The recorded sequence is: non-final rejection 22 November 2017; applicant-initiated telephonic examiner interview 17 January 2018 at which 'no agreement was reached'; final rejection 27 March 2018; response after final 24 May 2018 carrying a declaration under 37 C.F.R. 1.132 signed by Dr James Sheehy on 11 May 2018; Notice of Appeal filed 21 June 2018; Advisory Action 11 July 2018 refusing to allow; Appeal Brief filed 21 August 2018, re-filing the SAME 11 May declaration in its Evidence Appendix rather than a second one; Appeal Brief Review Complete 5 September 2018; Reasons for Allowance 24 October 2018; Notice of Allowance 31 October 2018; granted 4 December 2018. The examiner allowed the application before the Patent Trial and Appeal Board ever ruled.",
+"tier": 1
+},
+{
+"cls": "document",
 "id": "c-3f819cca8a",
 "locator": "Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell",
 "node": "pais-patent-imrd",
 "nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "sourceText": "USPTO file wrapper, application 15/141,270, Final Rejection mailed 30 March 2018 (Paper No. 20180327), examiner Philip J. Bonzell; transcribed at research/patents/wrapper/final-rejection-2018-03-30.txt",
 "text": "Peer review was argued and expressly refused. On AIAA 2017-5343 and SAE 2017-01-2040 the examiner wrote that 'just because a concept was presented at an AIAA forum and that a SAE committee board, peer reviewed the concept does not equate to the device being patentable', and on the mathematics: 'Presenting math at a conference doesn't prove anything physical. It like saying that you can math out tachyons by playing with relativistic equations but that doesn't \"prove\" that they exist nor can they then be used to create a physical object that can be patented.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3f8b004f6f",
+"locator": null,
+"node": "pais-patent-imrd",
+"nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"sourceText": "USPTO application data for 15/141270 (product PTGRXML, data.uspto.gov), retrieved from the file wrapper 28 August 2026",
+"text": "US 10,144,532 is EXPIRED. USPTO application data gives application status 'Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362' with a status date of 9 January 2023, following a maintenance fee reminder mailed 25 July 2022. The Navy prosecuted the application through a formal appeal to obtain the grant in December 2018 and then did not pay the first maintenance fee, so the invention passed into the public domain.",
 "tier": 1
 },
 {
@@ -237,19 +347,28 @@
 "topics": [
 {
 "claims": [
+"c-1301891582",
+"c-16b0d5c705",
 "c-23011a2d96",
 "c-3fe51a6589",
 "c-472715514b",
 "c-6162481fe0",
+"c-63b0fec44b",
 "c-6a22939747",
+"c-815c64eaf3",
 "c-8475fefa4b",
 "c-a9a2479445",
+"c-c3cb51583f",
 "c-c4a5cf535e",
+"c-c5abd8fb7e",
 "c-fc118a16f2",
 "c-fd553fdbe7",
 "c-38a175d9f4",
+"c-532edb49c4",
 "c-04bc88a6e2",
+"c-3f134f14ee",
 "c-3f819cca8a",
+"c-3f8b004f6f",
 "c-49f09a860e",
 "c-a2482ac60c",
 "c-aebf6489bc"

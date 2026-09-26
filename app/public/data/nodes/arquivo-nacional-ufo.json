@@ -7,18 +7,30 @@
 {
 "id": "c-15f48498e8",
 "source": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'",
-"sources": [],
+"sources": [
+{
+"id": "u-gov-br-57d2ae29",
+"locator": null,
+"title": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'"
+}
+],
 "text": "The Arquivo Nacional identifies the holding by name and reference: 'o Arquivo Nacional possui o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)? O acervo sobre OVNIs é produzido pelo Comando da Aeronáutica do Brasil e está sob a guarda do Arquivo Nacional. Ele é composto de 743 registros que incluem relatos, questionários sobre ocorrências, correspondências, fotografias, desenhos, vídeos, áudios e recortes de jornais e revistas a respeito de objetos que foram vistos nos céus brasileiros ao longo dos anos.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1a0d2fd54d",
 "source": "Senado Federal, RQS 193/2022",
-"sources": [],
+"sources": [
+{
+"id": "u-legis-senado-leg-br-c5ab06ed",
+"locator": null,
+"title": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia"
+}
+],
 "text": "The Brazilian Senate's Requerimento 193/2022 dates the transfer route to 2007 and states that the Aeronáutica alone transferred, not the Army or the Navy: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília. E ano após ano, até o momento, novos documentos ufológicos tiveram o mesmo destino, somando-se hoje mais de 20 mil páginas de arquivos liberados.' It also records that in August 2010 Brigadeiro Junichi Saito, then FAB commander, directed by decree published in the Diário Oficial da União that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-208c1966cc",
@@ -37,18 +49,30 @@
 {
 "id": "c-cd1dbe17fd",
 "source": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', 13/09/2018, image caption",
-"sources": [],
+"sources": [
+{
+"id": "u-gov-br-57d2ae29",
+"locator": "image caption, 13/09/2018",
+"title": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'"
+}
+],
 "text": "Verified item-level reference code format, published by the Arquivo Nacional itself: 'Ilustração elaborada a partir de relatos de aparição de objeto voador não identificado em Marília, São Paulo, agosto de 1968. Arquivo Nacional. Fundo Objeto Voador Não Identificado. BR_DFANBSB_ARX_0_0_25.' This confirms the BR_DFANBSB_ARX_0_0_nnn item numbering used elsewhere on the board.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-adaf7c3c96",
 "source": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023, quoting Comando de Operações Especiais/Comando da Aeronáutica, evento 13, ANEXO2",
-"sources": [],
+"sources": [
+{
+"id": "u-migalhas-com-br-68726963",
+"locator": "evento 13, ANEXO2, quoting Comando de Operações Especiais/Comando da Aeronáutica",
+"title": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 ("
+}
+],
 "text": "The 2016 endpoint was still being repeated by COMAER in 2022 litigation, showing the lag is institutional and not confined to the Arquivo Nacional: 'a coleção filmográfica, iconográfica, sonora e textual referente aos anos de 1952 e 2016, produzida pelo COMAER, está disponível para consulta no acervo do Arquivo Nacional.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3c1f799463",
@@ -56,23 +80,35 @@
 "sources": [],
 "text": "HOLDING-COUNT DISCREPANCY RESOLVED - 743 and 758 count different things at different dates by different methods. 743 is the Arquivo Nacional's own 2018 description of the fund's registros. 758 is a SIAN search-hit count reported in 2022: 'Atualmente, no Arquivo Nacional, quando se pesquisa apenas o termo OVNI, se encontram 137 registros, mas se colocarmos na pesquisa um código de referência específico (BR DFANBSB ARX), encontraremos 758 documentos.' The same sentence yields 137 for a free-text search, proving these are query results, not holdings inventories. Neither number is a stable figure for an accruing fund.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:legis.senado.leg.br/sdleg-getter/documento?dm=9089831&ts=1647523438292&dispo) was rejected in review: names RQS 193/2022 and an Arquivo Nacional item; two sources"
 },
 {
 "id": "c-62714d0eae",
 "source": "Portaria nº 551/GC3, de 9 de agosto de 2010, Art. 3º, transcribed in Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023",
-"sources": [],
+"sources": [
+{
+"id": "t-81e0c999beee",
+"locator": "Art. 3º",
+"title": "Portaria nº 551/GC3, de 9 de agosto de 2010"
+}
+],
 "text": "The mechanism that makes the fund open-ended is written into the governing order: Portaria 551/GC3 Art. 3 requires CENDOC to 'copiar, encadernar, arquivar cópias dos registros encaminhados pelo COMDABRA e enviar, periodicamente, os originais ao Arquivo Nacional.' The fund therefore grows by periodic recolhimentos; a fixed terminal year is structurally impossible while the Portaria is in force.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3525ceca20",
 "source": "Câmara dos Deputados, RIC 679/2011, justificação and item 2.4, 22 June 2011, referencing RIC 4470/2009 answered by Minister Nelson Jobim via Ofício 4225-GM/Aspar-MD of 20 April 2010",
-"sources": [],
+"sources": [
+{
+"id": "u-camara-leg-br-f691c19d",
+"locator": "justificação and item 2.4",
+"title": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 ("
+}
+],
 "text": "Accession-by-accession structure is documented: a 2011 parliamentary requirement refers to 'o terceiro recolhimento do CENDOC (FAB) ao Arquivo Nacional (COREG)', citing 'envelope nº 2 do terceiro recolhimento', referring to the year 1981; and records that the Minister of Defence had stated CENDOC 'encerraria no dia 31 de agosto de 2010 a remessa de todo o seu acervo à Coordenação Regional do Arquivo Nacional no Distrito Federal (COREG)'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cf7785951b",
@@ -94,7 +130,7 @@
 "sources": [],
 "text": "'Por meio de nota, a Aeronáutica informou que todo o material disponível sobre óvnis já foi encaminhado ao Arquivo Nacional. E mais: não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:bbc.com/portuguese/brasil-59953278) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-e2bb93ff83",
@@ -102,23 +138,35 @@
 "sources": [],
 "text": "'Hoje, o acervo sobre óvnis é o segundo mais acessado do Arquivo Nacional - só perde para os relatórios da ditadura militar. O material abrange um período de 64 anos e vai de 1952 ... até 2016.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:bbc.com/portuguese/brasil-59953278) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-9751fd9bb3",
 "source": "EFE/Terra, 10 August 2010; Pedro Dantas, O Estado de S. Paulo, 14 August 2010",
-"sources": [],
+"sources": [
+{
+"id": "t-0d9cbfa20dd8",
+"locator": null,
+"title": "EFE/Terra, 10 August 2010; Pedro Dantas, O Estado de S. Paulo, 14 August 2010"
+}
+],
 "text": "On 10 August 2010 EFE reported 'FAB cria normas para pilotos em caso de contato com ovnis'; on 14 August 2010 O Estado de S. Paulo reported 'Aeronáutica libera documentos sobre aparição de óvnis'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-028dfc8001",
 "source": "Arquivo Nacional SIAN image server",
-"sources": [],
+"sources": [
+{
+"id": "u-sian-an-gov-br-04c25bec",
+"locator": "image server component",
+"title": "Arquivo Nacional (Brazil) - Sistema de Informacoes do Arquivo Nacional"
+}
+],
 "text": "Individual records are served with full archival references and page images, e.g. BR_DFANBSB_ARX_0_0_0249 for the 2 June 1986 Air Defence Command report.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -7,34 +7,58 @@
 {
 "id": "c-b7f4575c4e",
 "source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": null,
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "'The LAC's collection of government records on UAPs includes files from 1947 to 1995 primarily received from four federal organizations: the Department of National Defence; the Department of Transport; the National Research Council of Canada; and the Royal Canadian Mounted Police ... The entire LAC collection (over 15,000 pages) is publicly accessible ... A subset of the digitized records (around 9,500 pages) are directly available online.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-57d507edf8",
 "source": "Library and Archives Canada, 'Canada's UFOs: The Search for the Unknown', introduction, 2005",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-7ac02bc0",
+"locator": null,
+"title": "LAC - Canada's UFOs exhibition (introduction)"
+}
+],
 "text": "'Within the vault of Library and Archives Canada there exist files from five government departments that were involved with collecting data and conducting investigations on unidentified flying objects (UFOs). The Department of Transport, Department of Communications, Department of National Defence, the Royal Canadian Mounted Police and the National Research Council all dealt with reports, sightings and investigations of UFOs across Canada.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9f55169560",
 "source": "Library and Archives Canada, 'Canada's UFOs' timeline, 1959-1960 entry",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-675780c8",
+"locator": null,
+"title": "LAC - 1959-1960 CIRVIS/MERINT entry"
+}
+],
 "text": "LAC records the 1959-1960 Canada-US joint reporting arrangement: 'An agreement was finalized between the United States and Canada to institute a joint reporting system of UFOs. The Cirvis/Merint reporting system was created to extend the early warning coverage for the defence of North America ... and to extend the reporting of vital intelligence during peacetime.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-57b0d4e735",
 "source": "Library and Archives Canada, 'Canada's UFOs' timeline, 1961 entry",
-"sources": [],
+"sources": [
+{
+"id": "t-c6d52aa13cf5",
+"locator": null,
+"title": "Canada's UFOs' timeline, 1961 entry"
+}
+],
 "text": "LAC records a 1961 DND memo to the Deputy Minister's office listing the typical questions put to the department, opening with 'Question 1: Are unsolved UFO reports in Canada kept from the Press and general public?'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

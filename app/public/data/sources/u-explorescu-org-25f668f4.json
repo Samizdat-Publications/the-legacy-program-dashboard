@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-07ab10c974",
+"locator": null,
+"node": "scu-uap-studies",
+"nodeLabel": "Scientific Coalition for UAP Studies (SCU)",
+"sourceText": "explorescu.org",
+"text": "SCU is a registered 501(c)(3) charitable organisation.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -62,7 +73,15 @@
 ],
 "node": null,
 "title": "Scientific Coalition for UAP Studies",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-07ab10c974"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.explorescu.org/"

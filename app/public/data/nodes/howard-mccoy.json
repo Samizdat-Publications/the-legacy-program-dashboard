@@ -29,10 +29,16 @@
 {
 "id": "c-f35d9da38e",
 "source": "NICAP document archive, file 471124_McCoy_to_Chief_of_Staff.pdf, indexed in the public NICAP /docs/ directory",
-"sources": [],
+"sources": [
+{
+"id": "u-nicap-org-2f211b82",
+"locator": null,
+"title": "AMC letter to Chief of Staff, 24 November 1947 (scan)"
+}
+],
 "text": "A 24 November 1947 letter from AMC intelligence to the Air Force Chief of Staff on the flying disc problem exists and is preserved in scanned form.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6507e8606c",
@@ -40,7 +46,7 @@
 "sources": [],
 "text": "McCoy was Chief of Intelligence at Air Materiel Command, the organisation that would have received any recovered material, and was the operational supervisor of Project SIGN.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: compound citation of two separate publications, Ruppelt book not catalogued"
 },
 {
 "id": "c-c3a89b98bc",

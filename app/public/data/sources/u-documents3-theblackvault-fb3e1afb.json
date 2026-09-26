@@ -1,6 +1,67 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-0f3b29b3d1",
+"locator": "cover letter, 12 April 2024",
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "FBI FOIPA cover letter, Request No. 1380241-001, 12 April 2024",
+"text": "The FBI's FOIPA cover letter is dated 12 April 2024 and states '449 pages were reviewed and 313 pages are being released'; the release consists of cross-references only, with no main file on Corso.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0fb2faf397",
+"locator": null,
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "FBI release, FOIPA Request No. 1380241-001",
+"text": "The FBI file records Corso's appearance before the Senate Internal Security Subcommittee on 15 May 1961, testimony which 'consisted primarily of his reading into the Committee's records the entries from personal and private office diaries that he kept during his service with the Operations Coordinating Board from 1953 to 1957.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5a091eeab5",
+"locator": null,
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "FBI release, FOIPA Request No. 1380241-001",
+"text": "In 1955 Gen. Arthur S. Trudeau told the FBI that 'Colonel Philip Corso, then assigned to the Operations Coordinating Board, would be in a position to elaborate ... as he, Corso, had actually accumulated the information' on a list of alleged Fabian Socialists. The FBI reviewed its files on those named and found 'insufficient evidence to prove the validity of the allegation.' This corroborates the OCB posting from a record that is not Corso's own.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6ca8c9bafd",
+"locator": null,
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "FBI release, FOIPA Request No. 1380241-001",
+"text": "The FBI file records that in February 1964, a rumour that Lee Harvey Oswald had been a paid FBI informant was traced to Corso, who 'admitted that he had passed out information concerning Oswald's alleged connection with the FBI', refused to name his sources, and 'emphasized the fact that his allegations had been strictly deductions and had no basis in fact.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-94c5a441f9",
+"locator": null,
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "FBI release, FOIPA Request No. 1380241-001",
+"text": "The FBI files state plainly: 'Our files do not reveal that Corso has been investigated by this Bureau.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-fd5c1f732d",
+"locator": "full text search of all 322 pages",
+"node": "philip-corso",
+"nodeLabel": "Philip J. Corso",
+"sourceText": "FBI release, FOIPA Request No. 1380241-001, subject CORSO, PHILIP JAMES; full-text search of all 322 pages",
+"text": "Corso's FBI release runs to 322 posted pages of cross-references. Searched in full text, the words UFO, flying saucer, unidentified, Roswell, extraterrestrial and saucer appear zero times.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +78,20 @@
 ],
 "node": null,
 "title": "FBI release on Philip James Corso, FOIPA Request No. 1380241-001 (322 pages)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-0f3b29b3d1",
+"c-0fb2faf397",
+"c-5a091eeab5",
+"c-6ca8c9bafd",
+"c-94c5a441f9",
+"c-fd5c1f732d"
+],
+"id": "corso-day-after",
+"title": "Philip Corso's account"
+}
+],
 "type": "document",
 "urls": [
 "https://documents3.theblackvault.com/documents/fbifiles/1380241-001.pdf"

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-26858e905a",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "Letter from Puthoff reported by M.J. Banias, Vice, 14 November 2019",
+"text": "Puthoff wrote in 2012 that testing of the Linda Moulton Howe metal samples had not proved alien origin nor produced any 'interesting/anomalous outcome', but that one further test requiring unavailable equipment remained.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -74,7 +85,15 @@
 ],
 "node": null,
 "title": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-26858e905a"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
 "type": "article",
 "urls": [
 "https://www.vice.com/en/article/ufo-researcher-explains-why-she-sold-exotic-metal-to-tom-delonge/"

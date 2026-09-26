@@ -1,0 +1,105 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-ae965d3099",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "James Lacatski to Jeremy Corbell, published 8 April 2026",
+"text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data, of which the 38 DIRDs are only the literature-survey component.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-14afb5ae10",
+"locator": null,
+"node": "lacatski-book-series",
+"nodeLabel": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
+"sourceText": "James Lacatski to Jeremy Corbell, published 8 April 2026",
+"text": "'The program created the world's largest UFO data warehouse, a stack of more than 100 thick, highly detailed reports filled with hard data about UFO cases and incidents.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-a5724a799b",
+"locator": null,
+"node": "lacatski-book-series",
+"nodeLabel": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
+"sourceText": "Lacatski to Corbell, 8 April 2026",
+"text": "Lacatski doubts the actual AAWSAP files will ever be released and treats his books as the closest available substitute for disclosure.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-1fefbd7557",
+"locator": null,
+"node": "james-lacatski",
+"nodeLabel": "James T. Lacatski",
+"sourceText": "Lacatski to Jeremy Corbell, published 8 April 2026",
+"text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-00e1c8f5f8",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "James Lacatski to Jeremy Corbell, published 8 April 2026",
+"text": "Lacatski hinted in April 2026 that a smaller, more focused effort related to the proposed KONA BLUE program continued after AAWSAP ended.",
+"tier": 2
+}
+],
+"date": "2026-04-08",
+"edges": [],
+"era": "3",
+"id": "t-124932fc0083",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Jeremy Corbell",
+"listedOn": [],
+"node": null,
+"title": "Lacatski to Jeremy Corbell, published 8 April 2026",
+"topics": [
+{
+"claims": [
+"c-14afb5ae10",
+"c-a5724a799b"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-00e1c8f5f8"
+],
+"id": "aaro-historical-record",
+"title": "AARO's historical record reports and their critics"
+},
+{
+"claims": [
+"c-00e1c8f5f8"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+},
+{
+"claims": [
+"c-1fefbd7557"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
+},
+{
+"claims": [
+"c-ae965d3099"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
+"type": "broadcast",
+"urls": []
+}

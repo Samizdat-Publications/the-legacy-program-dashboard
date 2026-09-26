@@ -1,5 +1,7 @@
 {
-"archived": [],
+"archived": [
+"https://web.archive.org/web/20260201224805/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+],
 "claims": [
 {
 "cls": "person",
@@ -64,7 +66,7 @@
 {
 "cls": "person",
 "id": "c-cf14db0855",
-"locator": "email release",
+"locator": null,
 "node": "susan-gough",
 "nodeLabel": "Susan Gough",
 "sourceText": "OSD FOIA 21-F-0938 email release",
@@ -217,5 +219,7 @@
 }
 ],
 "type": "document",
-"urls": []
+"urls": [
+"https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf"
+]
 }

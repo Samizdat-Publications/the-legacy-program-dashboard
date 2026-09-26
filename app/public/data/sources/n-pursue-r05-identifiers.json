@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-fd23b22216",
+"locator": "FBI-UAP-D031, Colorado Springs",
+"node": "l-colorado-springs",
+"nodeLabel": "Colorado Springs, Colorado",
+"sourceText": "war.gov UAP release portal, PURSUE Release 05 index",
+"text": "PURSUE Release 05 on 7 August 2026 included FBI-UAP-D031, an FBI record concerning Colorado Springs.",
+"tier": 1
+}
+],
 "date": "2026-08-07",
 "edges": [],
 "era": "3",

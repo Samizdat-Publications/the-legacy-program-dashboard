@@ -11,7 +11,7 @@
 {
 "id": "cia-rdp83-01042r000800010003-1",
 "locator": "National Security Archive John Marks Collection Box 9",
-"title": "CIA-RDP83-01042R000800010003-1"
+"title": "Project Bluebird (CIA-RDP83-01042R000800010003-1)"
 },
 {
 "id": "u-nsarchive-gwu-edu-dd1fa94c",
@@ -82,10 +82,16 @@
 {
 "id": "c-f210c05af7",
 "source": "Danny Jones Podcast, ep. 295, 7 April 2025, 2:39:56",
-"sources": [],
+"sources": [
+{
+"id": "t-d8884ade5992",
+"locator": null,
+"title": "Danny Jones Podcast, ep. 295, 7 April 2025, 2:39:56"
+}
+],
 "text": "On the Danny Jones Podcast, episode 295, 7 April 2025, at 2:39:56, Jason Jorjani said Project Bluebird was developed by Nazi psychologists brought to the United States under Paperclip, involved experiments on children, and became MK-Ultra in the 1960s. The founding document is dated 5 April 1950, is signed by the Chief of the CIA's own Inspection and Security Staff, names defectors and agents rather than children, and the programme was renamed ARTICHOKE in August 1951, before MKULTRA was authorized in April 1953.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "program",

@@ -63,10 +63,16 @@
 {
 "id": "c-eeaae985a7",
 "source": "Relatório de Ocorrências, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
-"sources": [],
+"sources": [
+{
+"id": "n-doc-fab-1986-report",
+"locator": null,
+"title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+}
+],
 "text": "Air Defence Command finding, 2 June 1986: the phenomena 'são sólidos e refletem de certa forma inteligência'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-baee476d5a",
@@ -74,15 +80,21 @@
 "sources": [],
 "text": "Air Force note to BBC Brasil: all available UFO material has been sent to the Arquivo Nacional and the force 'não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:bbc.com/portuguese/brasil-59953278) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-da59522bfa",
 "source": "EFE/Terra, 'FAB cria normas para pilotos em caso de contato com ovnis', 10 August 2010",
-"sources": [],
+"sources": [
+{
+"id": "t-bd47159a2399",
+"locator": null,
+"title": "FAB cria normas para pilotos em caso de contato com ovnis"
+}
+],
 "text": "On 10 August 2010 the Air Force created rules for pilots in case of contact with UFOs.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-f53e35d9be",
+"locator": null,
+"node": "l-colorado-springs",
+"nodeLabel": "Colorado Springs, Colorado",
+"sourceText": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
+"text": "A self-identified whistleblower said in 2025 that he located Immaculate Constellation material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed that the claimant had mistaken fictitious wargame documents for secret UFO revelations.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-23e5653f06",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
+"text": "In 2025 a self-identified whistleblower said he located the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant had mistaken fictitious wargame documents for secret UFO revelations.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-cf540c1b0e",
+"locator": "Colavito's analysis as cited",
+"node": "michael-shellenberger",
+"nodeLabel": "Michael Shellenberger",
+"sourceText": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
+"text": "In 2025 a self-identified whistleblower said he found the programme in a folder labelled '2018 Schriever Wargame'; Jason Colavito concluded the claimant 'apparently mistook fictitious wargame documents for secret UFO revelations.'",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -50,7 +81,30 @@
 ],
 "node": null,
 "title": "Wikipedia - Immaculate Constellation (redirect to Schriever wargame)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-23e5653f06",
+"c-cf540c1b0e"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
+},
+{
+"claims": [
+"c-cf540c1b0e"
+],
+"id": "immaculate-constellation",
+"title": "Immaculate Constellation: the 2024 allegation"
+},
+{
+"claims": [
+"c-cf540c1b0e"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Immaculate_Constellation"

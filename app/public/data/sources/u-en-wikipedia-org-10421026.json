@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-249b1f4c7e",
+"locator": "quote on operation commander and closure",
+"node": "uyrange-hollanda",
+"nodeLabel": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
+"sourceText": "Wikipedia 'Operação Prato', citing ISTOÉ (22 July 2013) and Folha de S. Paulo (11 January 2009)",
+"text": "'The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima ... After approximately four months, the operation was closed after finding no unusual phenomena. The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-09b625e643",
+"locator": "infobox, operation dates",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Wikipedia 'Operação Prato' infobox, sourced to ISTOÉ, Folha de S. Paulo, Veja and O Estado de S. Paulo",
+"text": "Operation dates: first phase 20 October - 11 November 1977; second phase 25 November - 5 December 1977; executed by the Brazilian Air Force and the National Information Service; 'Operation found no unusual phenomena'.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-32cac62e8f",
+"locator": "documents obtainable from Arquivo Nacional",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Wikipedia 'Operação Prato', citing the Information System of the National Archive, Brazil",
+"text": "'The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -227,7 +258,16 @@
 ],
 "node": null,
 "title": "Operação Prato - Wikipedia",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-249b1f4c7e",
+"c-09b625e643"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato"

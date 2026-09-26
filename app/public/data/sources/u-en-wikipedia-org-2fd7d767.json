@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-8f008330b0",
+"locator": "1995 presidential determination",
+"node": "l-nellis",
+"nodeLabel": "Nellis Air Force Base and the Nevada Test and Training Range",
+"sourceText": "Wikipedia, Area 51, citing the presidential determination — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Until the 1995 presidential determination, the government's position was that Groom Lake was simply another part of the Nellis Air Force Base complex; that determination is described as the only formal recognition otherwise.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-73b2bca7a1",
+"locator": "4450th Tactical Group / Tonopah move",
+"node": "l-tonopah",
+"nodeLabel": "Tonopah Test Range, Nevada",
+"sourceText": "Wikipedia, Area 51, citing USAF unit histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The 4450th Tactical Group was activated 15 October 1979 while physically located at Area 51; its move to Tonopah Test Range began 17 May 1982; Maj. Alton C. Whitley Jr. became the first USAF pilot to fly the F-117A on 15 October 1982.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-881f888810",
+"locator": null,
+"node": "l-tonopah",
+"nodeLabel": "Tonopah Test Range, Nevada",
+"sourceText": "Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "HAVE IDEA, the exploited foreign aircraft programme, transitioned to the Tonopah Test Range in May 1973.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

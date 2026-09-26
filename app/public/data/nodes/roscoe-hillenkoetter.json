@@ -14,7 +14,7 @@
 {
 "id": "cia-rdp83-01042r000800010003-1",
 "locator": "National Security Archive John Marks Collection Box 9",
-"title": "CIA-RDP83-01042R000800010003-1"
+"title": "Project Bluebird (CIA-RDP83-01042R000800010003-1)"
 },
 {
 "id": "u-nsarchive-gwu-edu-dd1fa94c",
@@ -47,7 +47,7 @@
 {
 "id": "cia-rdp68-00046r000200090025-2",
 "locator": "Worcester Gazette, 1 June 1960, 'Congressional Action: Ex-C.I.A. Chief Wants UFO Probe' by Bulkley Griffin",
-"title": "CIA-RDP68-00046R000200090025-2"
+"title": "Congressional Action: Ex-C.I.A. Chief Wants UFO Probe (CIA-RDP68-00046R000200090025-2)"
 }
 ],
 "text": "A Worcester (Mass.) Gazette clipping of 1 June 1960, held in CIA records, reports Hillenkoetter declaring of the so-called flying saucers: 'The unknown objects are operating under intelligent control. It is imperative that we learn where the UFO's (unidentified flying objects) come from and what their purpose is.'",
@@ -61,7 +61,7 @@
 {
 "id": "cia-rdp68-00046r000200090025-2",
 "locator": "Worcester Gazette, 1 June 1960",
-"title": "CIA-RDP68-00046R000200090025-2"
+"title": "Congressional Action: Ex-C.I.A. Chief Wants UFO Probe (CIA-RDP68-00046R000200090025-2)"
 }
 ],
 "text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
@@ -75,7 +75,7 @@
 {
 "id": "cia-rdp68-00046r000200090028-9",
 "locator": "Enquirer, 4 March 1960, editorial 'Flying Saucers Again'",
-"title": "CIA-RDP68-00046R000200090028-9"
+"title": "Flying Saucers Again (CIA-RDP68-00046R000200090028-9)"
 }
 ],
 "text": "An Enquirer editorial of 4 March 1960, also held in CIA records, states that 'Admiral Hillenkoetter, former director of the Central Intelligence Agency, is a board member of the privately financed NICAP ... As such he has referred his conclusions to the Senate Space Committee, requesting an investigation.'",
@@ -89,7 +89,7 @@
 {
 "id": "cia-rdp68-00046r000200090028-9",
 "locator": "Enquirer, 4 March 1960",
-"title": "CIA-RDP68-00046R000200090028-9"
+"title": "Flying Saucers Again (CIA-RDP68-00046R000200090028-9)"
 }
 ],
 "text": "The same editorial records its own disagreement with him: 'WE CANNOT wholly agree with the respected Vice Adm. R. H. Hillenkoetter (ret.) that the Air Force is deceiving the public' -- which preserves his position as well as the paper's.",
@@ -99,10 +99,16 @@
 {
 "id": "c-d59d54959b",
 "source": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-bc42e3c5",
+"locator": null,
+"title": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror"
+}
+],
 "text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

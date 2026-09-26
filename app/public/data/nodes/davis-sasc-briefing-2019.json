@@ -7,26 +7,44 @@
 {
 "id": "c-a716c92bc3",
 "source": "Ralph Blumenthal, The New York Times, 23 July 2020, on Davis's own account",
-"sources": [],
+"sources": [
+{
+"id": "u-nytimes-com-b748f28f",
+"locator": "on Davis's own account",
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+}
+],
 "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f5b82c2811",
 "source": "The New York Times, 23 July 2020",
-"sources": [],
+"sources": [
+{
+"id": "u-nytimes-com-b748f28f",
+"locator": null,
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+}
+],
 "text": "Davis said he gave a classified briefing to a Defense Department agency as recently as March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-081c8e6fc6",
 "source": "Harry Reid quoted in The New York Times, 23 July 2020",
-"sources": [],
+"sources": [
+{
+"id": "u-nytimes-com-b748f28f",
+"locator": null,
+"title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+}
+],
 "text": "Harry Reid told the same reporter that it is 'extremely important that information about the discovery of physical materials or retrieved craft come out'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",

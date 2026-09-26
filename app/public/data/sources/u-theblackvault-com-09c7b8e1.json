@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-e27ac80551",
+"locator": null,
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "Kosloski media roundtable on the FY2024 report, 14 November 2024",
+"text": "Kosloski said in November 2024 that AARO would release Volume II within months.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-51e7134dc3",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "Kosloski media roundtable on the FY2024 report, 14 November 2024",
+"text": "Kosloski said in November 2024 that AARO would release Historical Record Report Volume II within months; it remains unpublished as of 12 August 2026.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +38,15 @@
 ],
 "node": null,
 "title": "The Black Vault - Transcript: Dr. Jon Kosloski media roundtable on the FY24 report",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-e27ac80551"
+],
+"id": "aaro-historical-record",
+"title": "AARO's historical record reports and their critics"
+}
+],
 "type": "transcript",
 "urls": [
 "https://www.theblackvault.com/documentarchive/transcript-dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual-report-on-uap-november-14-2024/"

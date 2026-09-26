@@ -1,21 +1,313 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260128102655/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-6542f4b8b3",
+"locator": null,
+"node": "dird-anomalous-acute-and-subacute-field-effects",
+"nodeLabel": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
+"text": "Cover page reads \"11 March 2010 / ICOD: 1 December 2009\", series \"Acquisition Threat Support\". No DIA-08-XXXX-XXX document number is recoverable from the text layer of the released scan; it is recorded here as unknown rather than guessed.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c267284b6e",
+"locator": null,
+"node": "dird-anomalous-acute-and-subacute-field-effects",
+"nodeLabel": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"text": "Defense Intelligence Reference Document titled \"Anomalous Acute and Subacute Field Effects on Human Biological Tissues\", series \"Acquisition Threat Support\", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d38814c309",
+"locator": null,
+"node": "dird-anomalous-acute-and-subacute-field-effects",
+"nodeLabel": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"text": "Released PDF is 38 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d78bf96292",
+"locator": null,
+"node": "dird-anomalous-acute-and-subacute-field-effects",
+"nodeLabel": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e804ffa5ed",
+"locator": null,
+"node": "dird-anomalous-acute-and-subacute-field-effects",
+"nodeLabel": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3cfb9c5a32",
+"locator": null,
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
+"text": "DIRD 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', Acquisition Threat Support series, 11 March 2010, ICOD 1 December 2009, 38 pages, exists in the DIA FOIA release. No DIA document number is printed on the released cover page and the author is withheld under (b)(6).",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-d0baa58c7a",
+"locator": null,
+"node": "d-medical",
+"nodeLabel": "Medical & Injury Effects",
+"sourceText": "DIRD 26, DIA release",
+"text": "DIA commissioned Defense Intelligence Reference Document 26, 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', released under FOIA.",
+"tier": 1
+}
+],
 "date": null,
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+"claimTier": 1,
+"id": "e-fa78d79e76",
+"label": "deliverable under AAWSAP",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+"b": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"claimTier": 1,
+"id": "e-628aacec41",
+"label": "authored at Wayne State University",
+"note": "The DIA list gives Green's affiliation of record for this deliverable as Wayne State University. Wayne State is second only to EarthTech on the DIRD author list, supplying Green plus R. Genik's three human-interface papers.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-bio",
+"label": "Biology & Non-Human Biologics"
+},
+"b": {
+"cls": "domain",
+"id": "d-medical",
+"label": "Medical & Injury Effects"
+},
+"claimTier": 1,
+"id": "e-1914e084d6",
+"label": "Biologics claim and documented injury record",
+"note": "The bio claim has no released material; the medical domain has DIRD 26 and the Cash-Landrum clinical record, which is the auditable end of the same question.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+"claimTier": 1,
+"id": "e-a75db2d076",
+"label": "authored",
+"note": "DIA list item 12 names \"Dr Kit Green, Wayne State Univ\", under the shorter title \"Field Effects on Biological Tissues\". The released document's printed title is longer and more specific.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-0038f03355",
+"label": "authored the human biological effects DIRD",
+"note": "Item 12, 'Field Effects on Biological Tissues', released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — a government document about injuries.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+"claimTier": 1,
+"id": "e-517f496d13",
+"label": "published and holds; document number not recoverable",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-medical",
+"label": "Medical & Injury Effects"
+},
+"b": {
+"cls": "location",
+"id": "l-huffman-tx",
+"label": "Huffman / Dayton, Texas"
+},
+"claimTier": 1,
+"id": "e-24416f9cae",
+"label": "The only injury case that reached federal court",
+"note": "Cash v. United States arose from the December 1980 encounter on FM 1485 and was dismissed in August 1986.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-medical",
+"label": "Medical & Injury Effects"
+},
+"b": {
+"cls": "domain",
+"id": "d-plasma",
+"label": "Plasma Physics & Atmospheric Electricity"
+},
+"claimTier": 3,
+"id": "e-a15406dc59",
+"label": "Shared clinical signature",
+"note": "Dermal burn and neurological presentations attributed to anomalous encounters are also produced by directed-energy and radiofrequency exposure, which the board records rather than resolves.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+"claimTier": 1,
+"id": "e-1b53650551",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 39 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+"claimTier": 1,
+"id": "e-66d59359a1",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "wayne-state-university",
+"label": "Wayne State University"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 2,
+"id": "e-5cc5316eb0",
+"label": "Wayne State clinician authored the AAWSAP human-effects reference document",
+"note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+"type": "research"
+}
+],
 "era": "nd",
 "id": "n-dird-anomalous-acute-and-subacute-field-effects",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-anomalous-acute-and-subacute-field-effects",
+"label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "domain",
+"id": "d-medical",
+"label": "Medical & Injury Effects"
+}
+],
 "node": {
 "cls": "document",
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
 },
 "title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-c267284b6e",
+"c-d78bf96292",
+"c-e804ffa5ed",
+"c-3cfb9c5a32",
+"c-d0baa58c7a"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues.pdf",
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/"
+]
 }

@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-85ef0c861e",
+"locator": null,
+"node": "d-astro",
+"nodeLabel": "Astronomy & Astrophysics",
+"sourceText": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
+"text": "Loeb and colleagues published chemical classification of spherules recovered from the CNEOS 2014-01-08 (IM1) bolide site in Chemical Geology in December 2024.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-fcdf6b4e3d",
+"locator": null,
+"node": "d-chem",
+"nodeLabel": "Chemistry & Isotopics",
+"sourceText": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
+"text": "Loeb, Jacobsen, Tagle and colleagues published 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide' in Chemical Geology in December 2024.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -32,7 +53,22 @@
 ],
 "node": null,
 "title": "Loeb, Jacobsen, Tagle et al., Chemical Geology",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-85ef0c861e"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-fcdf6b4e3d"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.1016/j.chemgeo.2024.122415"

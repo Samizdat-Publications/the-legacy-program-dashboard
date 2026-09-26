@@ -7,18 +7,30 @@
 {
 "id": "c-975eb77858",
 "source": "Sol Foundation Policy Briefing No. 3, citing the Daily Nonpareil (18 December 1977) and Greg Jerrett, 'Mystery at Big Lake: Fire in the Sky', Daily Nonpareil, 16 May 2004",
-"sources": [],
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": "citing Daily Nonpareil (18 Dec 1977) and Greg Jerrett, 'Mystery at Big Lake: Fire in the Sky', Daily Nonpareil, 16 May 2004",
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "Five independent groups of witnesses observed a red luminous mass descending from approximately 500-600 feet near a park in Council Bluffs on the evening of 17 December 1977; the assistant fire chief described a roughly four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; police photographed the scene.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0f74178f4f",
 "source": "Bud Appleby, 'Chunk of Molten Metal Found in Bluffs Has Residents Puzzled', Des Moines Register, 26 January 1978, cited in Sol Briefing No. 3",
-"sources": [],
+"sources": [
+{
+"id": "t-174f8a5e56da",
+"locator": null,
+"title": "Chunk of Molten Metal Found in Bluffs Has Residents Puzzled"
+}
+],
 "text": "Materials analyses in the weeks after the incident found the metal consisted of high-carbon steel and slag.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",

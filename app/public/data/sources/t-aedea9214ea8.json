@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7ef14aaff6",
+"locator": null,
+"node": "charles-halt",
+"nodeLabel": "Charles I. Halt",
+"sourceText": "Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020",
+"text": "Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident.",
+"tier": 2
+}
+],
+"date": "2010",
+"edges": [],
+"era": "2",
+"id": "t-aedea9214ea8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Charles I. Halt",
+"listedOn": [],
+"node": null,
+"title": "notarized affidavit",
+"topics": [
+{
+"claims": [
+"c-7ef14aaff6"
+],
+"id": "rendlesham-1980",
+"title": "Rendlesham Forest, December 1980"
+}
+],
+"type": "document",
+"urls": []
+}

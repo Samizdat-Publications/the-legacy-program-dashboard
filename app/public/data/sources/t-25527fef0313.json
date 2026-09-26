@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-7834a5383c",
+"locator": null,
+"node": "howard-c-cross",
+"nodeLabel": "Howard C. Cross",
+"sourceText": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON",
+"text": "Vallee holds that the Robertson Panel, which met 14-16 January 1953, was not briefed on the Pentacle proposals, and that a separate group had already determined the boundaries of what the panel could discuss.",
+"tier": 2
+}
+],
+"date": "1992",
+"edges": [],
+"era": "1",
+"id": "t-25527fef0313",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Jacques Vallee",
+"listedOn": [],
+"node": null,
+"title": "Forbidden Science",
+"topics": [
+{
+"claims": [
+"c-7834a5383c"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+}
+],
+"type": "book",
+"urls": []
+}

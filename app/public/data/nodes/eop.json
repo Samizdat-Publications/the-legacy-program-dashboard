@@ -24,7 +24,7 @@
 "sources": [],
 "text": "The Department of War published UAP files through the PURSUE portal at war.gov/UFO, with the first release announced on 8 May 2026.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-uni) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-6696878fb1",
@@ -32,7 +32,7 @@
 "sources": [],
 "text": "In February 2026 the President directed the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:uap-nda-waiver-directive-2026) was rejected in review: news reporting is not the directive"
 },
 {
 "id": "c-c643eb19fb",
@@ -40,7 +40,7 @@
 "sources": [
 {
 "id": "eo-13526",
-"locator": "and the Atomic Energy Act",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 }
 ],

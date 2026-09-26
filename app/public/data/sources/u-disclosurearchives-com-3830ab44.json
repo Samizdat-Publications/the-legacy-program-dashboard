@@ -2,6 +2,46 @@
 "archived": [],
 "claims": [
 {
+"cls": "document",
+"id": "c-fcd7cf4554",
+"locator": "Release 03",
+"node": "cia-readingroom-ufo",
+"nodeLabel": "CIA FOIA Reading Room - UFO collection",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "PURSUE Release 03 included a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-1bd0137457",
+"locator": "Release 03",
+"node": "fbi-vault-ufo",
+"nodeLabel": "FBI Records: The Vault - UFO collection",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "PURSUE Release 03 contained 29 FBI files including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 documenting two FBI special agents' own observation.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-3d3e936e6d",
+"locator": "Release 01",
+"node": "fbi-vault-ufo",
+"nodeLabel": "FBI Records: The Vault - UFO collection",
+"sourceText": "Disclosure Archives inventory of Release 01",
+"text": "PURSUE Release 01 published FBI file 62-HQ-83894, the master flying disc file spanning 1947-1968, as a single 101MB PDF.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-bbcee28870",
+"locator": "Release 02",
+"node": "odni-uap-d001",
+"nodeLabel": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
+"sourceText": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"text": "ODNI-UAP-D001, released in PURSUE Release 02 on 22 May 2026, is a first-person narrative by a serving senior intelligence officer of a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+},
+{
 "cls": "program",
 "id": "c-6acaacb1a6",
 "locator": null,
@@ -10,6 +50,116 @@
 "sourceText": "https://disclosurearchives.com/department-of-war-files",
 "text": "The originator-prefixed numbering (DOW-, ODNI-, FBI-) indicates the tranches were assembled by pulling from multiple agencies' holdings under a single presidential tasking rather than compiled from one department's files. Reasoning: a single-department dump would not need agency prefixes, and ODNI-UAP-D001 is an ODNI-originated document published in a DoW release series.",
 "tier": 3
+},
+{
+"cls": "event",
+"id": "c-0db075e81a",
+"locator": "Release 01",
+"node": "pursue-release-01",
+"nodeLabel": "PURSUE Release 01",
+"sourceText": "Disclosure Archives inventory of Release 01",
+"text": "FBI file 62-HQ-83894, the Bureau's master flying disc file spanning 1947-1968, was released as a single 101MB PDF.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-d326caa0f9",
+"locator": "Release 01",
+"node": "pursue-release-01",
+"nodeLabel": "PURSUE Release 01",
+"sourceText": "Disclosure Archives inventory compiled from the war.gov/UFO Release 01 posting",
+"text": "Release 01 comprised 160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-3f514bb7b2",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of Release 02",
+"text": "DOW-UAP-PR051 shows a 2021 MQ-9 Reaper weapons-quality lock on an object exhibiting instantaneous acceleration; DOW-UAP-PR055 shows a spherical object over Afghanistan on 23 November 2020.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-637cee91d0",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of Release 02",
+"text": "ODNI-UAP-D001 is a first-person narrative by a serving senior intelligence officer describing a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6dc713b8d3",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of Release 02",
+"text": "Release 02 includes a March 2022 sequence of spheres entering and leaving the water near a surfaced US submarine and the February 2023 Lake Huron F-16C engagement.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-b6eddb831f",
+"locator": "Release 02",
+"node": "pursue-release-02",
+"nodeLabel": "PURSUE Release 02",
+"sourceText": "Disclosure Archives inventory of the Release 02 posting",
+"text": "Release 02 comprised 64 files: 51 sensor videos in a DOW-UAP-PR050 to PR099 series, 7 NASA crew audio files and 6 documents.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6a782867ae",
+"locator": "Release 03",
+"node": "pursue-release-03",
+"nodeLabel": "PURSUE Release 03",
+"sourceText": "Disclosure Archives inventory of the Release 03 posting",
+"text": "Release 03 comprised 72 files - 53 documents, 10 images, 6 videos, 3 audio - with 29 files from the FBI.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-e8011734e0",
+"locator": "Release 03",
+"node": "pursue-release-03",
+"nodeLabel": "PURSUE Release 03",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "The FBI orb corpus covers 2021-2025 and includes an FD-1057 documenting two FBI special agents' own first-hand observation.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-eaea88a30e",
+"locator": "Release 03",
+"node": "pursue-release-03",
+"nodeLabel": "PURSUE Release 03",
+"sourceText": "Disclosure Archives inventory of Release 03",
+"text": "Release 03 includes a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-14c782d787",
+"locator": "Release 04",
+"node": "pursue-release-04",
+"nodeLabel": "PURSUE Release 04",
+"sourceText": "Disclosure Archives inventory of the Release 04 posting",
+"text": "Release 04 contained previously unseen US military videos and historical documents dating to as early as the 1940s, including 1996 NASA STS-80 imagery and a 2019 eastern-US sighting by an observer with 28 years of Air Force and Navy experience.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a44f92868b",
+"locator": "Release 02",
+"node": "tulsi-gabbard",
+"nodeLabel": "Tulsi Gabbard",
+"sourceText": "Disclosure Archives inventory of the war.gov Release 02 posting",
+"text": "PURSUE Release 02 includes ODNI-UAP-D001, a first-person account by a serving senior intelligence officer of a one-hour multi-witness UAP encounter from a military helicopter in late 2025.",
+"tier": 2
 }
 ],
 "date": null,
@@ -390,7 +540,33 @@
 ],
 "node": null,
 "title": "Disclosure Archives - Department of War files index",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-0db075e81a",
+"c-d326caa0f9",
+"c-3f514bb7b2",
+"c-6dc713b8d3",
+"c-b6eddb831f",
+"c-6a782867ae",
+"c-e8011734e0",
+"c-eaea88a30e",
+"c-14c782d787"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-fcd7cf4554",
+"c-1bd0137457",
+"c-3d3e936e6d",
+"c-6a782867ae"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
 "type": "web page",
 "urls": [
 "https://disclosurearchives.com/department-of-war-files"

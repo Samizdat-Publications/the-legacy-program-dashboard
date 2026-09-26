@@ -11,7 +11,7 @@
 {
 "id": "bills-118hr6967ih",
 "locator": null,
-"title": "BILLS-118hr6967ih"
+"title": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
 }
 ],
 "text": "Introduced 11 January 2024 by Rep. Robert Garcia; co-led with Rep. Glenn Grothman.",
@@ -21,10 +21,16 @@
 {
 "id": "c-16c5e426ae",
 "source": "The Hill, 12 January 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-ddf4d30558cf",
+"locator": null,
+"title": "The Hill, 12 January 2024"
+}
+],
 "text": "Intended to close the gap in UAP reporting by enabling civilian pilots and personnel to report encounters to the FAA, which would send reports to AARO, in exchange for legal safeguards.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "legislation",

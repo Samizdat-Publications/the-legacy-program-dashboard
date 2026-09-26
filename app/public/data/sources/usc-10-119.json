@@ -214,7 +214,7 @@
 {
 "cls": "legislation",
 "id": "c-d46cd36d5d",
-"locator": "as of 12 August 2026",
+"locator": null,
 "node": "usc-10-119",
 "nodeLabel": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "sourceText": "Full text of 10 U.S.C. 119 as of 12 August 2026",
@@ -414,7 +414,7 @@
 {
 "cls": "program",
 "id": "c-03630cb3e5",
-"locator": "and 50 U.S.C. 3348(g)(3",
+"locator": null,
 "node": "accm",
 "nodeLabel": "Alternative Compensatory Control Measures (ACCM)",
 "sourceText": "32 CFR 117.3(b) read against 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3)",
@@ -524,7 +524,7 @@
 {
 "cls": "institution",
 "id": "c-89e3241afd",
-"locator": "read against AARO's three-enterprise description",
+"locator": null,
 "node": "ic-sapco",
 "nodeLabel": "Intelligence Community special access program control office enterprise",
 "sourceText": "Inference from the scope of 10 U.S.C. 119 read against AARO's three-enterprise description",
@@ -924,7 +924,7 @@
 {
 "cls": "program",
 "id": "c-89da18590f",
-"locator": "and DoDD 5205.07",
+"locator": null,
 "node": "waived-usap",
 "nodeLabel": "Waived unacknowledged special access program (waived USAP)",
 "sourceText": "Inference from the structure of 10 U.S.C. 119 and DoDD 5205.07",

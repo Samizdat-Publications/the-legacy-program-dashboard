@@ -66,11 +66,6 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
-"title": "32 CFR Part 117 - NISPOM Rule"
-},
-{
-"id": "cfr-32-117",
 "locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
@@ -83,11 +78,6 @@
 "id": "c-4b8517c46a",
 "source": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
 "sources": [
-{
-"id": "cfr-32-117",
-"locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
-"title": "32 CFR Part 117 - NISPOM Rule"
-},
 {
 "id": "cfr-32-117",
 "locator": null,
@@ -104,7 +94,7 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "6(b)(3",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -119,16 +109,16 @@
 {
 "id": "dodd-5205-07",
 "locator": "2010) Glossary",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 },
 {
 "id": "dodm-5205-07-v1",
-"locator": "Enclosure 2 para 2.c",
+"locator": null,
 "title": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures"
 },
 {
 "id": "cfr-32-117",
-"locator": "6(b)(3",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],

@@ -94,11 +94,6 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
-"title": "32 CFR Part 117 - NISPOM Rule"
-},
-{
-"id": "cfr-32-117",
 "locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
@@ -111,11 +106,6 @@
 "id": "c-9b1e75e76c",
 "source": "32 CFR part 117 authority citation, eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
 "sources": [
-{
-"id": "cfr-32-117",
-"locator": "authority citation, eCFR renderer API, read 22 August 2026",
-"title": "32 CFR Part 117 - NISPOM Rule"
-},
 {
 "id": "cfr-32-117",
 "locator": null,
@@ -132,11 +122,6 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "source note, eCFR renderer API, read 22 August 2026",
-"title": "32 CFR Part 117 - NISPOM Rule"
-},
-{
-"id": "cfr-32-117",
 "locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
@@ -151,7 +136,7 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "3(b",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -165,7 +150,7 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "3(b), definition of proscribed information",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -179,7 +164,7 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "23(d)(1",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -193,7 +178,7 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "23(a)(2",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -207,7 +192,7 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "3(b), definition of ACCM",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -221,7 +206,7 @@
 "sources": [
 {
 "id": "cfr-32-117",
-"locator": "23(d)(1",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -517,7 +502,7 @@
 ],
 "sub": "regulation",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 61 of 1138, score 75). 8 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 60 of 1138, score 75). 8 connections, 2 of them custody/funding/programmatic. Axes C2/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

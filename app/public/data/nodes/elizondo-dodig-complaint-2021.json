@@ -7,10 +7,16 @@
 {
 "id": "c-6d55f7eea7",
 "source": "The Black Vault document archive of the Elizondo DoD IG complaint",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-580e8871",
+"locator": null,
+"title": "The Black Vault — Elizondo DoD IG complaint archive"
+}
+],
 "text": "Filed May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1a5fe01099",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "FOIA releases include a 103-page DoD IG transcript of Elizondo's February 2023 interview, 126 pages of DoD IG UAP/Elizondo emails released February 2024, and 40 additional pages released March 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-lui) was rejected in review: generic 'DoD IG archive'; does not name the Elizondo archive"
 },
 {
 "id": "c-c3ca30c18b",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "Elizondo alleged Reid threatened to damage his security clearance and blocked his access to Pentagon facilities.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-s) was rejected in review: outlet and month only; cannot identify the article"
 }
 ],
 "cls": "document",

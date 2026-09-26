@@ -22,10 +22,16 @@
 {
 "id": "c-1142db799e",
 "source": "DoD OIG, DODIG-2023-109 unclassified summary",
-"sources": [],
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
 "text": "The DoD Inspector General published an unclassified summary of DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', on 25 January 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6ded7dacbd",
@@ -33,7 +39,7 @@
 "sources": [],
 "text": "The House Committee on Oversight and Government Reform held a hearing titled 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' on 9 September 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-) was rejected in review: no date or title; cannot tell which hearing page"
 }
 ],
 "cls": "domain",

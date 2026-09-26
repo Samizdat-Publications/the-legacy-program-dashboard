@@ -7,26 +7,44 @@
 {
 "id": "c-2142c97d03",
 "source": "CIA Center for the Study of Intelligence, Studies in Intelligence 1997",
-"sources": [],
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": null,
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "CIA's in-house historian Gerald K. Haines published 'CIA's Role in the Study of UFOs, 1947-1990' in Studies in Intelligence in 1997, an eighteen-page account acknowledging the Agency's Office of Scientific Intelligence effort and the Robertson Panel.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-80237994c7",
 "source": "Robertson Panel report, declassified text, 17 January 1953",
-"sources": [],
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "17 January 1953",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The Robertson Panel, convened by CIA in January 1953 under H. P. Robertson, recommended a programme of public education and debunking to strip UFOs of their 'aura of mystery', and the monitoring of civilian UFO groups because of their 'potentially great influence on mass thinking'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f20ba3c8fd",
 "source": "CIA FOIA Electronic Reading Room, UFOs: Fact or Fiction? collection",
-"sources": [],
+"sources": [
+{
+"id": "n-cia-readingroom-ufo",
+"locator": null,
+"title": "CIA FOIA Reading Room - UFO collection"
+}
+],
 "text": "CIA characterises its public FOIA UFO collection as containing 'CIA information on this subject from the 1940s through the early 1990s', mostly 'cables reporting unsubstantiated UFO sightings in the foreign press and intra-Agency memos about how the Agency handled public inquiries about UFO sightings'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b76406bf81",
@@ -1850,7 +1868,7 @@
 ],
 "sub": "Independent civilian foreign intelligence service; convener of the Robertson Panel",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 12 of 1138, score 121). 45 connections, 8 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 11 of 1138, score 121). 45 connections, 8 of them custody/funding/programmatic, 7 official denials recorded against it. Axes C2/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

@@ -48,18 +48,30 @@
 {
 "id": "c-1f4159f165",
 "source": "Entropy, DOI 10.3390/e21100939",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-knuth-powell-reali-2019",
+"locator": null,
+"title": "Knuth, Powell & Reali (2019), Entropy 21(10):939"
+}
+],
 "text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles' in Entropy 21(10):939 on 25 September 2019.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ce2fa867d3",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-uapx-2025",
+"locator": null,
+"title": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+}
+],
 "text": "Knuth is a co-author of the 2025 UAPx field-expedition results paper in Progress in Aerospace Sciences.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f0e846002b",
@@ -67,7 +79,7 @@
 "sources": [],
 "text": "Knuth is Vice President of UAPx and a research affiliate of the Galileo Project.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:en.wikipedia.org/wiki/Kevin_Knuth) was rejected in review: generic 'published biography' cannot identify one source"
 }
 ],
 "cls": "person",

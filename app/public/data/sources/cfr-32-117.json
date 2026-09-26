@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-00c7c1dd26",
-"locator": "23(a)(2",
+"locator": null,
 "node": "cfr-32-117",
 "nodeLabel": "32 CFR Part 117 - NISPOM Rule",
 "sourceText": "32 CFR 117.23(a)(2)",
@@ -24,21 +24,11 @@
 {
 "cls": "legislation",
 "id": "c-17b09ece88",
-"locator": "23(d)(1",
+"locator": null,
 "node": "cfr-32-117",
 "nodeLabel": "32 CFR Part 117 - NISPOM Rule",
 "sourceText": "32 CFR 117.23(d)(1)",
 "text": "32 CFR 117.23(d)(1): 'DoD SAP contracts. Contractors will implement the security requirements for SAPs codified in SAP-related policy, when established by contract. These documents include, but are not limited to, statutes, E.O.s, CSA directives, instructions, manuals, regulations, standards, memorandums, and other SAP security related policy documents.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-21d25e9992",
-"locator": "source note, eCFR renderer API, read 22 August 2026",
-"node": "cfr-32-117",
-"nodeLabel": "32 CFR Part 117 - NISPOM Rule",
-"sourceText": "32 CFR part 117 source note, eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
-"text": "The rule's source line is '85 FR 83312, Dec. 21, 2020', which dates the codified carve-out provision to the December 2020 NISPOM rulemaking.",
 "tier": 1
 },
 {
@@ -74,31 +64,11 @@
 {
 "cls": "legislation",
 "id": "c-9b1e75e76c",
-"locator": "authority citation, eCFR renderer API, read 22 August 2026",
-"node": "cfr-32-117",
-"nodeLabel": "32 CFR Part 117 - NISPOM Rule",
-"sourceText": "32 CFR part 117 authority citation, eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
-"text": "The authority citation for the part reads: 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458; Title 42 U.S.C. 2011 et seq.; Title 50 U.S.C. Chapter 44; Title 50 U.S.C. 3501 et seq.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-9b1e75e76c",
 "locator": null,
 "node": "cfr-32-117",
 "nodeLabel": "32 CFR Part 117 - NISPOM Rule",
 "sourceText": "32 CFR part 117 authority citation, eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
 "text": "The authority citation for the part reads: 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458; Title 42 U.S.C. 2011 et seq.; Title 50 U.S.C. Chapter 44; Title 50 U.S.C. 3501 et seq.'",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-a6be0f559c",
-"locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
-"node": "cfr-32-117",
-"nodeLabel": "32 CFR Part 117 - NISPOM Rule",
-"sourceText": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
-"text": "32 CFR 117.6(b)(3) provides verbatim: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" The relief of the oversight body is therefore codified in the Code of Federal Regulations, not confined to DoD internal issuances.",
 "tier": 1
 },
 {
@@ -114,7 +84,7 @@
 {
 "cls": "legislation",
 "id": "c-aedb9acb26",
-"locator": "3(b), definition of proscribed information",
+"locator": null,
 "node": "cfr-32-117",
 "nodeLabel": "32 CFR Part 117 - NISPOM Rule",
 "sourceText": "32 CFR 117.3(b), definition of proscribed information",
@@ -124,7 +94,7 @@
 {
 "cls": "legislation",
 "id": "c-b407704cc2",
-"locator": "3(b), definition of ACCM",
+"locator": null,
 "node": "cfr-32-117",
 "nodeLabel": "32 CFR Part 117 - NISPOM Rule",
 "sourceText": "32 CFR 117.3(b), definition of ACCM",
@@ -134,7 +104,7 @@
 {
 "cls": "legislation",
 "id": "c-c3e34a26ec",
-"locator": "3(b",
+"locator": null,
 "node": "cfr-32-117",
 "nodeLabel": "32 CFR Part 117 - NISPOM Rule",
 "sourceText": "32 CFR 117.3(b)",
@@ -174,7 +144,7 @@
 {
 "cls": "legislation",
 "id": "c-54dbf881c0",
-"locator": "23(d)(1",
+"locator": null,
 "node": "cfr-32-117",
 "nodeLabel": "32 CFR Part 117 - NISPOM Rule",
 "sourceText": "32 CFR 117.23(d)(1)",
@@ -184,7 +154,7 @@
 {
 "cls": "program",
 "id": "c-01d3439f18",
-"locator": "3(b",
+"locator": null,
 "node": "accm",
 "nodeLabel": "Alternative Compensatory Control Measures (ACCM)",
 "sourceText": "32 CFR 117.3(b)",
@@ -214,7 +184,7 @@
 {
 "cls": "program",
 "id": "c-da736f01e6",
-"locator": "23(c",
+"locator": null,
 "node": "accm",
 "nodeLabel": "Alternative Compensatory Control Measures (ACCM)",
 "sourceText": "32 CFR 117.23(c)",
@@ -224,7 +194,7 @@
 {
 "cls": "program",
 "id": "c-03630cb3e5",
-"locator": "3(b) read against 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3",
+"locator": null,
 "node": "accm",
 "nodeLabel": "Alternative Compensatory Control Measures (ACCM)",
 "sourceText": "32 CFR 117.3(b) read against 10 U.S.C. 119 and 50 U.S.C. 3348(g)(3)",
@@ -240,16 +210,6 @@
 "sourceText": "https://www.ecfr.gov/current/title-32/subtitle-A/chapter-I/subchapter-D/part-117/section-117.3",
 "text": "ACCM is the only member of that regulated set with no reporting statute attached: 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on the term 'special access program' or 'controlled access program', and the NISPOM rule's own definition places ACCM expressly 'where SAP controls are not required.' A capability protected by ACCM rather than SAP controls therefore triggers no congressional notice under any of the four statutes. Reasoning stated from the definition and the four statutes.",
 "tier": 3
-},
-{
-"cls": "program",
-"id": "c-4b8517c46a",
-"locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
-"node": "carve-out",
-"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
-"sourceText": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
-"text": "The regulation ties the carve-out to DoDD 5205.07, 'DoD SAP Policy', by name and by URL, so the codified rule and the DoD directive are a matched pair rather than parallel authorities.",
-"tier": 1
 },
 {
 "cls": "program",
@@ -274,21 +234,11 @@
 {
 "cls": "program",
 "id": "c-55381ea35b",
-"locator": "6(b)(3",
+"locator": null,
 "node": "carve-out",
 "nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "sourceText": "DoDD 5205.07 (2010) Glossary; DoDM 5205.07-V1 Enclosure 2 para 2.c; 32 CFR 117.6(b)(3)",
 "text": "The carve-out is approvable only by the Secretary of Defense or the Deputy Secretary of Defense - no delegation to a service secretary, component head or SAPCO director is provided for in DoDD 5205.07 (2010), DoDI 5205.11 or DoDM 5205.07 Volume 1.",
-"tier": 1
-},
-{
-"cls": "program",
-"id": "c-82696e28a1",
-"locator": "6(b)(3), eCFR renderer API, read 22 August 2026",
-"node": "carve-out",
-"nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
-"sourceText": "32 CFR 117.6(b)(3), eCFR renderer API, read 22 August 2026, https://www.ecfr.gov/api/renderer/v1/content/enhanced/current/title-32?part=117",
-"text": "The carve-out's authority runs to exactly two officials. 32 CFR 117.6(b)(3) conditions it on approval by 'the Secretary of Defense or the Deputy Secretary of Defense', and on no one else.",
 "tier": 1
 },
 {
@@ -304,7 +254,7 @@
 {
 "cls": "program",
 "id": "c-970b87d590",
-"locator": "6(b)(3",
+"locator": null,
 "node": "carve-out",
 "nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "sourceText": "32 CFR 117.6(b)(3)",
@@ -324,7 +274,7 @@
 {
 "cls": "institution",
 "id": "c-ab0302f948",
-"locator": "6(b",
+"locator": null,
 "node": "dcsa-nisp",
 "nodeLabel": "DCSA as DoD Cognizant Security Office under the NISP",
 "sourceText": "32 CFR 117.6(b)",
@@ -334,7 +284,7 @@
 {
 "cls": "document",
 "id": "c-e9f51fdffe",
-"locator": "6(b)(3) read against DoDD 5205.07 (2024",
+"locator": null,
 "node": "dodd-5205-07-2024",
 "nodeLabel": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "sourceText": "32 CFR 117.6(b)(3) read against DoDD 5205.07 (2024)",
@@ -354,7 +304,7 @@
 {
 "cls": "legislation",
 "id": "c-c1ec1656ec",
-"locator": "6(a)(1",
+"locator": null,
 "node": "eo-12829",
 "nodeLabel": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "sourceText": "32 CFR 117.6(a)(1)",
@@ -364,7 +314,7 @@
 {
 "cls": "legislation",
 "id": "c-b209b81bf2",
-"locator": "6(b)(3) together",
+"locator": null,
 "node": "eo-13526",
 "nodeLabel": "Executive Order 13526 - Classified National Security Information",
 "sourceText": "Reading of 10 U.S.C. 119(e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together; all three texts read from primary sources on 22 August 2026",
@@ -716,9 +666,7 @@
 "c-db2aa89ceb",
 "c-54dbf881c0",
 "c-4b8517c46a",
-"c-4b8517c46a",
 "c-55381ea35b",
-"c-82696e28a1",
 "c-82696e28a1",
 "c-970b87d590",
 "c-a934954026",

@@ -7,26 +7,44 @@
 {
 "id": "c-6d8d2ec5bb",
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-sandia-investigation",
+"locator": null,
+"title": "UAP Gerb - Sandia National Laboratories investigation"
+}
+],
 "text": "USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f7e7223863",
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-sandia-investigation",
+"locator": null,
+"title": "UAP Gerb - Sandia National Laboratories investigation"
+}
+],
 "text": "Former New Mexico State Representative J. Andrew Kissner interviewed individuals within legacy programmes and learned that UFO materials were kept in the hands of AEC laboratories such as Sandia.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d6cfaecf2c",
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025, restating public record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-sandia-investigation",
+"locator": "restating public record",
+"title": "UAP Gerb - Sandia National Laboratories investigation"
+}
+],
 "text": "Sandia is one of three NNSA R&D laboratories, is an FFRDC sponsored by the Department of Energy, was founded in 1949 and has management history involving AT&T, Lockheed Martin and Honeywell.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

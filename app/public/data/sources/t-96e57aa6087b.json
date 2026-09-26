@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5a74f5dce4",
+"locator": null,
+"node": "grant-cameron",
+"nodeLabel": "Grant Cameron",
+"sourceText": "presidentialufo.com holdings and Cameron's own statements of method",
+"text": "Cameron's presidential-briefing research is built from FOIA requests to presidential libraries and executive agencies rather than from witness testimony, and he publishes null returns alongside positive ones.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "t-96e57aa6087b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "presidentialufo.com holdings and Cameron's own statements of method",
+"topics": [],
+"type": "web page",
+"urls": []
+}

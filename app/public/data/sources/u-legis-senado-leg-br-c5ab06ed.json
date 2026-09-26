@@ -2,6 +2,16 @@
 "archived": [],
 "claims": [
 {
+"cls": "institution",
+"id": "c-1a0d2fd54d",
+"locator": null,
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "Senado Federal, RQS 193/2022",
+"text": "The Brazilian Senate's Requerimento 193/2022 dates the transfer route to 2007 and states that the Aeronáutica alone transferred, not the Army or the Navy: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília. E ano após ano, até o momento, novos documentos ufológicos tiveram o mesmo destino, somando-se hoje mais de 20 mil páginas de arquivos liberados.' It also records that in August 2010 Brigadeiro Junichi Saito, then FAB commander, directed by decree published in the Diário Oficial da União that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional.",
+"tier": 1
+},
+{
 "cls": "program",
 "id": "c-ae62b8be1a",
 "locator": null,
@@ -263,6 +273,7 @@
 "topics": [
 {
 "claims": [
+"c-1a0d2fd54d",
 "c-ae62b8be1a"
 ],
 "id": "brazil",

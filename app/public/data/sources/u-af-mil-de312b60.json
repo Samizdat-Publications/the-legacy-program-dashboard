@@ -2,7 +2,68 @@
 "archived": [
 "https://web.archive.org/web/20260706210652/https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-c6eb0265ed",
+"locator": null,
+"node": "bolender-memo",
+"nodeLabel": "Bolender Memorandum",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Blue Book was terminated on 17 December 1969, two months after the memorandum.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-e1a0956512",
+"locator": null,
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior Air Force experience as the basis for terminating Blue Book on 17 December 1969.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-83de6d20e3",
+"locator": null,
+"node": "kenneth-arnold",
+"nodeLabel": "Kenneth Arnold",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Project Blue Book and its predecessors logged 12,618 sightings between 1947 and 1969, of which 701 were never identified.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-bfe7c31ee3",
+"locator": null,
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force gave three reasons for termination: no reported UFO was ever an indication of threat to national security; no evidence that unexplained sightings represented technological developments beyond current scientific knowledge; and no evidence that 'unidentified' sightings were extraterrestrial vehicles.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d4e3288d32",
+"locator": null,
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "Blue Book recorded 12,618 sightings between 1947 and 1969, of which 701 remained unidentified; it was terminated on 17 December 1969.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-faec265a5b",
+"locator": null,
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"sourceText": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
+"text": "The Air Force cited the Colorado study and a National Academy of Sciences review as the basis for terminating Project Blue Book on 17 December 1969.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -162,7 +223,41 @@
 ],
 "node": null,
 "title": "USAF Fact Sheet: Project Blue Book",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-c6eb0265ed",
+"c-bfe7c31ee3",
+"c-d4e3288d32"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-e1a0956512",
+"c-bfe7c31ee3",
+"c-faec265a5b"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-bfe7c31ee3",
+"c-d4e3288d32"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-faec265a5b"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/"

@@ -7,26 +7,44 @@
 {
 "id": "c-40f2ebe135",
 "source": "National Archives press release nr25-07, 24 April 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-d348fbea",
+"locator": null,
+"title": "National Archives press release nr25-07"
+}
+],
 "text": "NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e2ea01263c",
 "source": "National Archives press release nr25-07, 24 April 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-d348fbea",
+"locator": null,
+"title": "National Archives press release nr25-07"
+}
+],
 "text": "NARA announced on 24 April 2025 the release of UAP records transferred from ODNI, the Office of the Secretary of Defense, the FAA and the Nuclear Regulatory Commission, under sections 1841-1843 of the 2024 NDAA (Public Law 118-31), with rolling additions.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-aeba84a2bd",
 "source": "National Archives press release nr25-07, 24 April 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-d348fbea",
+"locator": null,
+"title": "National Archives press release nr25-07"
+}
+],
 "text": "NARA states it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-fbd91d9ca4",
@@ -35,7 +53,7 @@
 {
 "id": "nara-rg-615",
 "locator": null,
-"title": "NARA Record Group 615"
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
 }
 ],
 "text": "The collection is organised at NARA as Record Group 615.",
@@ -380,18 +398,30 @@
 {
 "id": "c-37c0875f5d",
 "source": "National Archives UAP Records Collection page, accessed 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "The collection was established under sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, and NARA created Record Group 615 to hold it.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9ec56ae4ed",
 "source": "National Archives UAP records page",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-90864d5c83",
@@ -399,15 +429,21 @@
 "sources": [],
 "text": "NARA publishes no list of which agencies have transferred records, no item or page counts by agency, and no transfer dates.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archives.gov/uap) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-2a0d21bfb5",
 "source": "Department of War news story, 27 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-93310bda244e",
+"locator": null,
+"title": "Department of War news story, 27 February 2026"
+}
+],
 "text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7fc01b4321",
@@ -423,7 +459,7 @@
 "sources": [],
 "text": "NARA established the Unidentified Anomalous Phenomena Records Collection (Record Group 615) per sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archives.gov/research/topics/uaps/rg-615) was rejected in review: topic page is not shown to be the RG 615 page"
 },
 {
 "id": "c-5e0ec65810",
@@ -431,7 +467,7 @@
 "sources": [],
 "text": "UAP records received by NARA from federal agencies under the 2024 NDAA are accessioned into RG 615 and added on a rolling basis as received.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archives.gov/research/topics/uaps/rg-615) was rejected in review: topic page is not shown to be the RG 615 page"
 },
 {
 "id": "c-259e119539",
@@ -439,15 +475,21 @@
 "sources": [],
 "text": "NARA has been digitising historical UFO/UAP records from its existing holdings and releasing them through the online catalog; the topic page was last updated 24 April 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archives.gov/research/topics/uaps/rg-615) was rejected in review: topic page is not shown to be the RG 615 page"
 },
 {
 "id": "c-490dd9f5fb",
 "source": "National Archives, Air Force UFO records page",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-fcf00d64",
+"locator": null,
+"title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+}
+],
 "text": "Existing legacy holdings include the Project Blue Book records: approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of OSI records on 94 rolls of microfilm (T-1206).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-04dc1d08a9",
@@ -455,8 +497,8 @@
 "sources": [
 {
 "id": "nara-rg-615",
-"locator": "and NARA's Air Force UFO holdings description",
-"title": "NARA Record Group 615"
+"locator": null,
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
 }
 ],
 "text": "No series corresponding to JANAP 146 CIRVIS national-security UFO reports, or to Air Materiel Command T-2 intelligence files for 1947-1951, has been identified in RG 615 accessions to date — the two series most likely to bear on a legacy recovery effort.",
@@ -466,18 +508,30 @@
 {
 "id": "c-a94175db29",
 "source": "National Archives, UAP records research page, archives.gov/uap",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7c220f90a9",
 "source": "National Archives, UAP records research page, archives.gov/uap",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-6ea47d9c",
+"locator": null,
+"title": "National Archives - UAP Records Collection (archives.gov/uap)"
+}
+],
 "text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9ea5163efd",
@@ -486,7 +540,7 @@
 {
 "id": "pl-118-31",
 "locator": "Sec. 1841(d)(2), GPO",
-"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
 }
 ],
 "text": "Sec. 1841(d)(2) requires the NARA National Security Program Office, with the Information Security Oversight Office, to run a security programme for the postponed and yet-to-be-disclosed portion of the collection.",

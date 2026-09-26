@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1e66806902",
+"locator": null,
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "The Sol Foundation white papers index",
+"text": "McConnell authored Sol Foundation Science and Policy Briefing No. 2 (April 2026), 'UAP Whistleblower Restitution Fund Would Incentivize Disclosures to Congress'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4f833163b1",
+"locator": null,
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation white papers index",
+"text": "Skafish authored Sol Foundation white paper Vol. 1 No. 6, 'The Prospect of Executive Branch Unidentified Anomalous Phenomena Secrecy: The Harm to Congress and Potential Remedies' (November 2024).",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9b03ac4571",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation white papers index",
+"text": "The Sol Foundation publishes a numbered white paper and policy briefing series including Gallaudet (March 2024), McCaw (May 2024), Skafish (November 2024), Karl Nell (May 2025), Villarroel-derived Briefing No. 1 (January 2026), McConnell Briefing No. 2 (April 2026) and von Rennenkampff Briefing No. 3 (April 2026).",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -167,7 +198,17 @@
 ],
 "node": null,
 "title": "The Sol Foundation - White Papers and Policy Briefings index",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1e66806902",
+"c-4f833163b1",
+"c-9b03ac4571"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "web page",
 "urls": [
 "https://thesolfoundation.org/white-papers/"

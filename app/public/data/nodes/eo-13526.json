@@ -136,7 +136,7 @@
 "sources": [
 {
 "id": "eo-13526",
-"locator": "sec. 4.3(a), 75 FR 707",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 },
 {
@@ -160,7 +160,7 @@
 "sources": [
 {
 "id": "eo-13526",
-"locator": "sec. 4.3(a), 75 FR 707",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 },
 {
@@ -184,7 +184,7 @@
 "sources": [
 {
 "id": "eo-13526",
-"locator": "sec. 4.3(b)(3), 75 FR 707",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 },
 {
@@ -208,7 +208,7 @@
 "sources": [
 {
 "id": "eo-13526",
-"locator": "sec. 4.3(b)(4)-(5), 75 FR 707",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 },
 {
@@ -237,12 +237,12 @@
 },
 {
 "id": "eo-13526",
-"locator": "sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 },
 {
 "id": "cfr-32-117",
-"locator": "6(b)(3) together",
+"locator": null,
 "title": "32 CFR Part 117 - NISPOM Rule"
 }
 ],
@@ -312,7 +312,7 @@
 "sources": [
 {
 "id": "eo-13526",
-"locator": "sec. 4.3(b",
+"locator": null,
 "title": "Executive Order 13526 - Classified National Security Information"
 }
 ],
@@ -737,7 +737,7 @@
 ],
 "sub": "executive-order",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 60 of 1138, score 75). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 59 of 1138, score 75). 9 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-608197f302",
+"locator": null,
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"sourceText": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"text": "A centralized UFO recovery and exploitation effort was founded in 1947 with a security apparatus taken directly from the Manhattan Project and the Atomic Energy Commission.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-a5ff1c6c9c",
+"locator": null,
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"sourceText": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"text": "Truman and Eisenhower vested custody of NHI disks within AEC national laboratories, established the control group under the NSC and its 5412 Committee, and safeguarded the programs under the Atomic Energy Act of 1954.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4bea1dda1f",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
+"text": "Presidents Truman and Eisenhower vested custody of recovered disks within Atomic Energy Commission national laboratories, established the control group under the National Security Council and its 5412 Committee, and safeguarded the programs with statutory authority under the Atomic Energy Act of 1954. Vannevar Bush and General George C. Marshall are named as architects, with the Alsos Missions and T-Force as the template for crash-retrieval teams.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9d7202b128",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, published 1 May 2026",
+"text": "A centralized UFO recovery and exploitation effort was founded in 1947 and its security apparatus was taken from the Manhattan Project and the Atomic Energy Commission - compartmentalization, organizational architecture, physical security, classification/information control, and political shield.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -108,7 +149,24 @@
 ],
 "node": null,
 "title": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-608197f302",
+"c-a5ff1c6c9c"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+},
+{
+"claims": [
+"c-608197f302",
+"c-a5ff1c6c9c"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
 "type": "broadcast",
 "urls": [
 "https://www.youtube.com/watch?v=jR-h5p2bd-A"

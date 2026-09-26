@@ -19,7 +19,13 @@
     "text": "CUFON transcription of the Pentacle Memorandum",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-pentacle-memorandum",
+     "locator": null,
+     "title": "The Pentacle Memorandum"
+    }
+   ],
    "text": "The memorandum proposes controlled experiments with observation posts in high-report areas and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.'",
    "tier": 1
   },
@@ -33,7 +39,13 @@
     "text": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-gizmodo-com-9593ba44",
+     "locator": null,
+     "title": "Gizmodo"
+    }
+   ],
    "text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
    "tier": 2
   },
@@ -61,7 +73,13 @@
     "text": "AARO/ORNL Synopsis, July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
    "tier": 1
   },
@@ -115,7 +133,13 @@
     "text": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)', published 13 March 2025, at 1:34:53",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-582e3be1",
+     "locator": "1:34:53",
+     "title": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)' (audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 13 March 2025, at 1:34:53, John Brandenburg said that 'there was a contract between Los Alamos and Battelle Memorial Institute in 1949 and it was around nitinol', that the work was 'declassified by Battelle in the 60s', and asked why Los Alamos had a contract with Battelle in 1949. The board's node dates the corresponding nickel-titanium work to 1948-49 under Wright-Patterson sponsorship. The two accounts name different sponsors for the same alloy in the same period, and no contract record was opened for either.",
    "tier": 2
   },
@@ -157,7 +181,13 @@
     "text": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-5b58f7bc5a6f",
+     "locator": "1:15:27",
+     "title": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 181, 16 April 2023, at 1:15:27, Jeremy Rys credited the first nitinol discovery to the Naval Ordnance Laboratory and dated it 1954. The laboratory is corroborated by the federal record; the date is not. No opened document places any NOL nitinol work before 1961.",
    "tier": 2
   },
@@ -171,7 +201,13 @@
     "text": "UAP Gerb, Battelle investigation description, 18 February 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-gerb-battelle-investigation",
+     "locator": null,
+     "title": "UAP Gerb - Battelle Memorial Institute investigation"
+    }
+   ],
    "text": "Battelle worked with the US government and USAF from the 1950s to create a machine index categorising UFO reports and to quell public interest in the phenomenon.",
    "tier": 2
   },
@@ -199,7 +235,13 @@
     "text": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon explanation was a cover story.",
    "tier": 1
   },
@@ -227,7 +269,13 @@
     "text": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
    "tier": 1
   },
@@ -241,7 +289,13 @@
     "text": "Project Blue Book Special Report No. 14, statistical results",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "cia-rdp81r00560r000100060001-5",
+     "locator": "statistical results",
+     "title": "Project Blue Book Special Report No. 14"
+    }
+   ],
    "text": "Approximately 4,000 reports were collected; the final statistical study covered 2,199 objects, of which 434 (19.7 per cent) were evaluated as 'Unknown'.",
    "tier": 1
   },
@@ -255,7 +309,13 @@
     "text": "Vallee correspondence quoted by CUFON",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-f6a841144b27",
+     "locator": null,
+     "title": "Vallee correspondence"
+    }
+   ],
    "text": "Vallee holds that the Robertson Panel of 14-16 January 1953 was not briefed on the Pentacle proposals and that another group had already decided what could and could not be discussed.",
    "tier": 2
   },
@@ -269,7 +329,13 @@
     "text": "AARO, Historical Record Report Volume I, March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "'Project BEAR was an informal name given by Capt Ruppelt... to a contract he created with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.' Battelle 'released a report under the cover of ATIC to maintain its anonymity. Completed in late 1954, the report was titled Special Report No. 14.'",
    "tier": 1
   },
@@ -283,7 +349,13 @@
     "text": "Project Blue Book Special Report No. 14, title page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "cia-rdp81r00560r000100060001-5",
+     "locator": "title page",
+     "title": "Project Blue Book Special Report No. 14"
+    }
+   ],
    "text": "Special Report No. 14 was issued by the Air Technical Intelligence Center on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
    "tier": 1
   },
@@ -331,7 +403,13 @@
     "text": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-25527fef0313",
+     "locator": null,
+     "title": "Forbidden Science"
+    }
+   ],
    "text": "Vallee holds that the Robertson Panel, which met 14-16 January 1953, was not briefed on the Pentacle proposals, and that a separate group had already determined the boundaries of what the panel could discuss.",
    "tier": 2
   },
@@ -403,7 +481,13 @@
     "text": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "cia-rdp81r00560r000100060001-5",
+     "locator": "full-text search (six terms)",
+     "title": "Project Blue Book Special Report No. 14"
+    }
+   ],
    "text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
    "tier": 1
   },
@@ -507,7 +591,13 @@
     "text": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "AARO contracted Oak Ridge National Laboratory, operated by UT-Battelle, in 2022 to conduct materials testing on the magnesium alloy specimen alleged to be from a 1947 crash.",
    "tier": 1
   },
@@ -549,7 +639,13 @@
     "text": "UAP Gerb, Battelle investigation description, 18 February 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-gerb-battelle-investigation",
+     "locator": null,
+     "title": "UAP Gerb - Battelle Memorial Institute investigation"
+    }
+   ],
    "text": "Battelle studied UAP material, likely a shape-memory metallic alloy found at the 1947 Roswell crash site and now referred to as nitinol, as documented by Jacques Vallee with a supporting paper trail.",
    "tier": 2
   },
@@ -583,7 +679,13 @@
     "text": "Citation list published in the video description, 18 February 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-de466278fa8a",
+     "locator": null,
+     "title": "Citation list published in the video description"
+    }
+   ],
    "text": "The investigation cites retrievable primary records: CUFON's Project Stork progress reports, the CIA reading room copy of Special Report No. 14, a Black Vault release of the Second Progress Report on Titanium Alloys, AEC Research and Development Reports at the UNT digital library, and the Defense.gov Moultrie roundtable transcript.",
    "tier": 1
   },

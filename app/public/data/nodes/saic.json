@@ -7,10 +7,16 @@
 {
 "id": "c-837053a72d",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records approximately $52 billion in prime contract obligations to Science Applications International Corporation entities since FY2008.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e7a7bc1d9e",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "The US government's remote viewing research program moved from SRI International to SAIC in 1991 and ran there until it was terminated following an external assessment in 1995.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic description of 'the government remote viewing effort' history; no specific document named beyond a general historical claim."
 },
 {
 "id": "c-e9255a74b8",

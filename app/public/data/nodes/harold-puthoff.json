@@ -187,9 +187,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
 "sources": [
 {
-"id": "u-dia-mil-b4f6af86",
+"id": "n-dird-advanced-space-propulsion-based-on-vacuum",
 "locator": null,
-"title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)"
+"title": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
 }
 ],
 "text": "DIRD DIA-08-1003-015, 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', 29 March 2010, ICOD 1 December 2009, 17 pages, exists in the DIA FOIA release with the author line withheld under (b)(6).",
@@ -215,9 +215,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237647/",
 "sources": [
 {
-"id": "u-dia-mil-b4f6af86",
+"id": "n-dird-advanced-space-propulsion-based-on-vacuum",
 "locator": null,
-"title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)"
+"title": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
 }
 ],
 "text": "Attribution of this DIRD to Harold E. Puthoff is not established by the DIA release, which redacts the author under (b)(6). It rests on Puthoff's own substantially identical published paper and on his public statements. Needs a primary record with the name attached — wave 4.",
@@ -227,10 +227,16 @@
 {
 "id": "c-5c7fed8ae7",
 "source": "DIA letter to Senate Armed Services Committee listing 38 AATIP products, 9 January 2018, item 5",
-"sources": [],
+"sources": [
+{
+"id": "n-dia-aatip-letter-2018",
+"locator": "item 5",
+"title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+}
+],
 "text": "Puthoff authored the AAWSAP Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' for EarthTech International.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-bc54bc9477",
@@ -238,15 +244,21 @@
 "sources": [],
 "text": "The DIRD was released in full by DIA and is publicly downloadable.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:dird-advanced-space-propulsion-based-on-vacuum) was rejected in review: filename DIRD_15 alone does not show it is this DIRD"
 },
 {
 "id": "c-b76a491244",
 "source": "The War Zone analysis of the DIA list, 18 January 2019",
-"sources": [],
+"sources": [
+{
+"id": "u-twz-com-37fb1a48",
+"locator": null,
+"title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded"
+}
+],
 "text": "EarthTech International produced six of the 38 DIRDs between Puthoff and Eric Davis, more than any other single organisation.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b6b9fa8a50",
@@ -259,10 +271,16 @@
 {
 "id": "c-6854f0cd5c",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
-"sources": [],
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "Listed in TTSA's Form 1-K as Vice President Science and Technology, age 81, a director, and President and CEO of EarthTech International since 1985 with a 1967 Stanford PhD.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ea294e0360",
@@ -270,23 +288,35 @@
 "sources": [],
 "text": "His name appears in the 24 July 2009 Harry Reid memorandum to Deputy Secretary of Defense William Lynn III requesting Special Access Program status for AATIP; the name was originally redacted and later released.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-myster) was rejected in review: two Black Vault pages on the Reid memo; cannot tell which"
 },
 {
 "id": "c-ab736b05e1",
 "source": "TTSA Regulation A offering materials, SEC EDGAR exhibit, July 2020",
-"sources": [],
+"sources": [
+{
+"id": "t-14443803e20f",
+"locator": null,
+"title": "TTSA Regulation A offering materials, SEC EDGAR exhibit"
+}
+],
 "text": "TTSA's ADAM Research Project was conducted in partnership with EarthTech International of Austin, Texas.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-96d754436b",
 "source": "Nature 251, 602-607 (1974)",
-"sources": [],
+"sources": [
+{
+"id": "u-nature-com-38629c62",
+"locator": null,
+"title": "R. Targ & H. Puthoff, 'Information transmission under conditions of sensory shielding', Nature 251, 602-607"
+}
+],
 "text": "Puthoff and Targ published remote-viewing results in Nature (vol. 251, pp. 602-607) on 18 October 1974.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4440f67730",
@@ -294,15 +324,21 @@
 "sources": [],
 "text": "Puthoff and Targ's November 1978 SRI paper 'Standard Remote Viewing Protocol (Local Targets)' is part of the declassified CIA STARGATE corpus.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/the-stargate-collection) was rejected in review: CIA collection is not the Black Vault page"
 },
 {
 "id": "c-26be797620",
 "source": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021",
-"sources": [],
+"sources": [
+{
+"id": "u-newyorker-com-433afd8b",
+"locator": null,
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+}
+],
 "text": "Puthoff was among the consultants Bigelow hired for the National Institute for Discovery Science in 1995, his prior work dating back to the CIA's Stargate programme.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-fc7769b7e6",
@@ -329,31 +365,49 @@
 "sources": [],
 "text": "Puthoff authored the DIA reference document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering', one of 38 products produced under the DIA Defense Warning Office's AAWSA programme and listed by DIA to FAS on 16 January 2019.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:dia-aatip-list-2019) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-c32ff9901c",
 "source": "Cover and preface, 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', Christopher Green, M.D., Ph.D.",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-green-clinical-medical",
+"locator": "cover and preface",
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+}
+],
 "text": "The Institute for Advanced Studies at Austin - Puthoff's institute - appears as the producing imprint on the cover of Christopher Green's AAWSAP medical DIRD, and that document's preface quotes a November 2007 proposal addressed 'to Puthoff/Hathaway' for analysis of 'Probable ET Generated Specific Near-field Electromagnetic Emissions'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-05d925f30f",
 "source": "EarthTech International, About page",
-"sources": [],
+"sources": [
+{
+"id": "u-earthtech-org-5f60f5b7",
+"locator": null,
+"title": "EarthTech International / Institute for Advanced Studies at Austin"
+}
+],
 "text": "EarthTech International Inc., Austin, was founded by Puthoff in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin (est. 1985).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-26858e905a",
 "source": "Letter from Puthoff reported by M.J. Banias, Vice, 14 November 2019",
-"sources": [],
+"sources": [
+{
+"id": "u-vice-com-4fefcf63",
+"locator": null,
+"title": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice"
+}
+],
 "text": "Puthoff wrote in 2012 that testing of the Linda Moulton Howe metal samples had not proved alien origin nor produced any 'interesting/anomalous outcome', but that one further test requiring unavailable equipment remained.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-75a3fb2b37",

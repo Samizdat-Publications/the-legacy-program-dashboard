@@ -1,21 +1,172 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260508180206/https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
+"https://web.archive.org/web/20260508180206id_/https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
+"https://web.archive.org/web/20260620153916/https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-1befb17ee9",
+"locator": null,
+"node": "aaro-fy2023-annual-report",
+"nodeLabel": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceText": "AARO FY2023 Consolidated Annual Report on UAP",
+"text": "The report states that only a very small percentage of UAP reports display interesting signatures such as high-speed travel and unknown morphologies, with the majority showing ordinary characteristics of readily explainable sources.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-44c9513188",
+"locator": null,
+"node": "aaro-fy2023-annual-report",
+"nodeLabel": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
+"text": "Domain distribution and AARO's own stated blind spot: 'The space and maritime domains need to be fully integrated into AARO's processes. Airborne UAP continue to dominate UAP reporting with 290 of the 291 reports from this reporting period occurring within this domain...' AARO names NIM-MIL, the USAF including NASIC and AFRL as its air-domain partners.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c6234d3c1e",
+"locator": null,
+"node": "aaro-fy2023-annual-report",
+"nodeLabel": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceText": "FY2023 Consolidated Annual Report on UAP, October 2023",
+"text": "The FY2023 report covers 31 August 2022 to 30 April 2023, records 291 new reports (274 in-period, 17 from 2019-2022), and puts AARO's cumulative holdings at 801.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-eb1bb2dd1e",
+"locator": null,
+"node": "aaro-fy2023-annual-report",
+"nodeLabel": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceText": "AARO FY2023 Consolidated Annual Report on UAP",
+"text": "The report attributes unresolved cases to a lack of data rather than to any anomalous property of the objects.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f88461a38d",
+"locator": null,
+"node": "aaro-fy2023-annual-report",
+"nodeLabel": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceText": "AARO FY2023 Consolidated Annual Report on UAP, 25 October 2023",
+"text": "Reporting period 31 August 2022 to 30 April 2023; 291 new reports (274 in-period, 17 from 2019-2022); 801 total holdings as of 30 April 2023.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b4d88c0c0d",
+"locator": null,
+"node": "aaro-fy2023-annual-report",
+"nodeLabel": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Title page: 'OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE / THE DEPARTMENT OF DEFENSE / Fiscal Year 2023 Consolidated Annual Report on Unidentified Anomalous Phenomena / October 2023'. 16 pages, UNCLASSIFIED, PDF CreationDate 25 October 2023 16:09 UTC. This is the first jointly badged ODNI/DoD consolidated annual report.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-c1729b3d91",
+"locator": null,
+"node": "aaro-fy2023-annual-report",
+"nodeLabel": "AARO FY2023 Consolidated Annual Report on UAP",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Caseload: AARO 'received a total of 291 UAP reports during this period, consisting of 274 that occurred during' the reporting period, the remainder being older incidents reported late.",
+"tier": 2
+}
+],
 "date": "2023",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2023-annual-report",
+"label": "AARO FY2023 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"id": "e-83698822ae",
+"label": "The negative finding is inserted after Grusch, not inherited",
+"note": "The FY2023 report contains no extraterrestrial-technology denial; the FY2024 report leads with one. The change tracks the July 2023 hearing, indicating the formula is a communications response rather than an analytic finding.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2023-annual-report",
+"label": "AARO FY2023 Consolidated Annual Report on UAP"
+},
+"claimTier": 1,
+"id": "e-77a7e267e0",
+"label": "First statutory annual report, 25 October 2023",
+"note": "291 new reports, 801 total holdings, and no finding of any kind on extraterrestrial technology - a formula that appears only from FY2024 onward.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+},
+"b": {
+"cls": "document",
+"id": "aaro-fy2024-annual-report",
+"label": "AARO FY2024 Consolidated Annual Report on UAP"
+},
+"claimTier": 3,
+"id": "e-2d3693a5d0",
+"label": "A 2021 gunship engagement absent from the reporting periods that cover it",
+"note": "The 8 September 2021 incident falls inside the FY2023 and FY2024 reporting windows and appears in neither, which is either omission or evidence it sat outside AARO's case system.",
+"type": "denial"
+}
+],
 "era": "3",
 "id": "n-aaro-fy2023-annual-report",
 "identifiers": [],
 "interestedParty": true,
-"issuer": null,
-"listedOn": [],
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-fy2023-annual-report",
+"label": "AARO FY2023 Consolidated Annual Report on UAP"
+},
+{
+"cls": "event",
+"id": "gulf-of-oman-ac130j-2021",
+"label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021"
+}
+],
 "node": {
 "cls": "document",
 "id": "aaro-fy2023-annual-report",
 "label": "AARO FY2023 Consolidated Annual Report on UAP"
 },
 "title": "AARO FY2023 Consolidated Annual Report on UAP",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1befb17ee9",
+"c-44c9513188",
+"c-f88461a38d"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
 "type": "report",
-"urls": []
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
+"https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena"
+]
 }

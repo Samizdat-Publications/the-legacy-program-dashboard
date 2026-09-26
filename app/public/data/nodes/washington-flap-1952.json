@@ -10,7 +10,7 @@
 "sources": [],
 "text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/details/cia-readingroom-document-0005515933) was rejected in review: plural memoranda over months; candidate is one memo"
 },
 {
 "id": "c-38a57c6bd4",
@@ -18,7 +18,7 @@
 "sources": [],
 "text": "Chadwell wrote to the DCI that 'the flying saucer situation contains two elements of danger which... have national security implications', identifying psychological warfare potential and air defence vulnerability.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:cufon.org/cufon/cia-52-1.htm) was rejected in review: single memo; candidate is a multi-memo sampler page"
 },
 {
 "id": "c-31488bca3d",
@@ -26,7 +26,7 @@
 "sources": [],
 "text": "CIA officials proposed a study group to analyse and systematise the factors and recommended MIT's Project Lincoln or Caltech as venues, leading to the January 1953 Robertson Panel.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:cia.gov/resources/csi/studies-in-intelligence/studies-in-intelligence-1997/c) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-c747574d4d",
@@ -35,7 +35,7 @@
 {
 "id": "nara-rg-341",
 "locator": null,
-"title": "NARA Record Group 341"
+"title": "The Report on Unidentified Flying Objects (NARA Record Group 341)"
 }
 ],
 "text": "Blue Book case documentation for the 19 July 1952 Washington radar events survives in the declassified record.",
@@ -205,7 +205,7 @@
 ],
 "sub": "Radar-visual events over the capital, 19-20 and 26-27 July 1952",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 654 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 653 of 1138, score 26). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

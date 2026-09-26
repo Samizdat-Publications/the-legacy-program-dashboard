@@ -41,7 +41,7 @@
 "sources": [],
 "text": "MITRE's Board of Trustees elected Samantha Ravich as a trustee, announced 19 May 2026; she holds a PhD from the RAND Graduate School and is vice chair of the Strategic Advisory Committee for National and Homeland Security at Idaho National Laboratory.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mitre.org/news-insights/news-release/mitre-names-samantha-ravich-phd-board-t) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-4f50d73954",
@@ -49,7 +49,7 @@
 "sources": [],
 "text": "Ravich was appointed vice chair of the President's Intelligence Advisory Board in 2018 and served as principal deputy national security adviser to Vice President Dick Cheney.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mitre.org/news-insights/news-release/mitre-names-samantha-ravich-phd-board-t) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-0a39c8ab03",
@@ -57,7 +57,7 @@
 "sources": [],
 "text": "Her election three days before Burlison's letter is chronologically notable but not causally established. Reasoning: board elections are scheduled months in advance; the proximity is recorded here as a fact of sequence, not as evidence of intent.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Board's own chronological inference, explicitly not causally established."
 }
 ],
 "cls": "person",
@@ -165,7 +165,7 @@
 "status": "active",
 "sub": "MITRE Trustee (elected 19 May 2026); former Vice Chair, President's Intelligence Advisory Board; Cyberspace Solarium Commission; Vice Chair, INL Strategic Advisory Committee for National and Homeland Security; PhD, RAND Graduate School",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 876 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 875 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

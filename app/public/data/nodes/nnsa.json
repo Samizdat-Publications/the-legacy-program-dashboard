@@ -7,10 +7,16 @@
 {
 "id": "c-b4bf6fa85d",
 "source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 1:08:45",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-06f34ffd",
+"locator": "1:08:45",
+"title": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 1:08:45, Michels said that a Freedom of Information Act request was sent to the National Nuclear Security Administration for all records that 'mention or relate to' Starfish Prime together with UFO, AP, UAV, AAV or any acronym used by the Atomic Energy Commission at the time for unidentified flying objects, and that the NNSA reply of June 2022 reads 'it was determined that an additional review of your case by the subject matter expert with jurisdiction regarding responsive records was required'. The response letter itself was not opened from this environment and no case number is given on air.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a0ae82d3e1",
@@ -34,10 +40,16 @@
 {
 "id": "c-82d7da5773",
 "source": "NNSA, About NNSA",
-"sources": [],
+"sources": [
+{
+"id": "u-energy-gov-3c52f884",
+"locator": null,
+"title": "NNSA - About NNSA"
+}
+],
 "text": "NNSA is 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science', 'Established by Congress in 2000'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ed3f31ada0",

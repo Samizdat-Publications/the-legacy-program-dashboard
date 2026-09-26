@@ -9,9 +9,9 @@
 "source": "AFOSI complaint form, District File No. 8017D93-0/29, reproduced by NICAP from the CUFON archive, https://www.nicap.org/foia_003.htm , opened 2026-09-19",
 "sources": [
 {
-"id": "u-nicap-org-6772cc85",
+"id": "n-afosi-kirtland-file",
 "locator": null,
-"title": "AFOSI complaint form, Det 1700 Kirtland AFB, District File No. 8017D93-0/29, SA Richard C Doty, reproduced by NICAP from the CUFON archive"
+"title": "AFOSI Kirtland AFB UFO File (1980-1983)"
 }
 ],
 "text": "The 1980 AFOSI complaint form for the Coyote Canyon and Manzano observations is reproduced in full and openable, with its file number, its agent and its named 1608 Security Police Squadron observers, which fixes the Kirtland end of the Bennewitz affair in a primary record rather than in anyone's recollection.",
@@ -35,26 +35,44 @@
 {
 "id": "c-c829be5a10",
 "source": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-6734793c",
+"locator": "acreage, KUMMSC activation",
+"title": "Wikipedia - Kirtland Air Force Base"
+}
+],
 "text": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-bee36a05e8",
 "source": "Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-ee09daef",
+"locator": "July 1979/Oct-Nov 1980 dates",
+"title": "Wikipedia - Paul Bennewitz"
+}
+],
 "text": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9df8a13609",
 "source": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-ee09daef",
+"locator": "Moore's 1989 MUFON admission",
+"title": "Wikipedia - Paul Bennewitz"
+}
+],
 "text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a170e3377f",
@@ -62,7 +80,7 @@
 "sources": [],
 "text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:trenchantedges.com/p/what-did-they-do-to-paul-bennewitz) was rejected in review: 'the Paul Bennewitz article' does not identify which article"
 },
 {
 "id": "c-5b503a1a7b",

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-58a745a2ef",
+"locator": null,
+"node": "joseph-gradisher",
+"nodeLabel": "Joseph Gradisher",
+"sourceText": "Joseph Gradisher, U.S. Navy, September 2019, via The Black Vault",
+"text": "Stated that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -96,7 +107,22 @@
 ],
 "node": null,
 "title": "The Black Vault",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-58a745a2ef"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-58a745a2ef"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.theblackvault.com/documentarchive/u-s-navy-confirms-videos-depict-unidentified-aerial-phenomena-not-cleared-for-public-release/"

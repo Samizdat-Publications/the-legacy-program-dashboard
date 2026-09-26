@@ -95,31 +95,49 @@
 "sources": [],
 "text": "Vallee served on the advisory board of Bigelow's National Institute for Discovery Science from its 1995 founding.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic institutional record and press coverage, not one document."
 },
 {
 "id": "c-41f6b4c601",
 "source": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
-"sources": [],
+"sources": [
+{
+"id": "t-a05567af9357",
+"locator": null,
+"title": "Messengers of Deception"
+}
+],
 "text": "Vallee documented, from the late 1970s onward, that identifiable human actors were injecting fabricated material into UFO cases - the phenomenon later confirmed in the Bennewitz affair.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8eac8bc16b",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-nolan-vallee-2022",
+"locator": null,
+"title": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+}
+],
 "text": "Vallee is second author of the Progress in Aerospace Sciences 128 (2022) 100788 instrumental analysis of the Council Bluffs material.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8b2d2f7b04",
 "source": "Sol Foundation Policy Briefing No. 3, April 2026, citing contemporaneous newspaper records",
-"sources": [],
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": "citing contemporaneous newspaper records",
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "The Council Bluffs event of 17 December 1977 was witnessed by five independent groups, photographed by police, and described contemporaneously by the assistant fire chief as a four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; press reporting appeared in the Daily Nonpareil on 18 December 1977 and the Des Moines Register on 26 January 1978.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-92b826a92f",
@@ -127,7 +145,7 @@
 "sources": [],
 "text": "Vallee served as a consultant to Robert Bigelow's National Institute for Discovery Science and sat on the Bigelow Aerospace scientific advisory board.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic descriptor, no specific source named"
 },
 {
 "id": "c-691e28af59",

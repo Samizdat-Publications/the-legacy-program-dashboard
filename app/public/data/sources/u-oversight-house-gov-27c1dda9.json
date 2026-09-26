@@ -23,12 +23,82 @@
 },
 {
 "cls": "person",
+"id": "c-aed9aedd99",
+"locator": null,
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"sourceText": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"text": "'15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast' - a self-luminous tic-tac object emerged from the ocean and joined three similar objects, with 'no visible control surfaces and no exhaust plume.'",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-d2609b125e",
 "locator": null,
 "node": "alexandro-wiggins",
 "nodeLabel": "Alexandro Wiggins",
 "sourceText": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "text": "CIC personnel recorded the encounter on the ship's Star SAFIRE multi-spectral EO/IR system and reported to the Tactical Action Officer; the video was later published by Jeremy Corbell and George Knapp.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e44cdd8aac",
+"locator": null,
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"sourceText": "Wiggins written statement, 9 September 2025",
+"text": "CIC personnel recorded the event on a Star SAFIRE multi-spectral EO/IR system; the footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-6d29ba5e65",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "Alexandro C. Wiggins, written statement, 9 September 2025",
+"text": "On 15 February 2023 at approximately 7:15 pm PST, USS Jackson (LCS-6) recorded four self-luminous Tic-Tac-shaped objects on its Star SAFIRE multi-spectral EO/IR system, one emerging from the ocean, all departing with near-instantaneous acceleration and no propulsion signature or sonic boom.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-7e8546fc60",
+"locator": null,
+"node": "l-socal-oparea",
+"nodeLabel": "Southern California Operating Areas (W-291 and Baja approaches)",
+"sourceText": "Alexandro Wiggins written statement, 9 September 2025",
+"text": "The USS Jackson encounter of 15 February 2023 occurred in Warning Area W-291 off the Southern California coast.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-13860e0049",
+"locator": null,
+"node": "uss-jackson",
+"nodeLabel": "USS Jackson (LCS-6)",
+"sourceText": "Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
+"text": "USS Jackson's CIC recorded the 15 February 2023 encounter on a Star SAFIRE multi-spectral EO/IR system with intact platform metadata.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-8d21c196d3",
+"locator": null,
+"node": "uss-jackson-2023",
+"nodeLabel": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"sourceText": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
+"text": "The encounter occurred '15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast'; a self-luminous tic-tac object emerged from the ocean and joined three similar objects.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-cbc955d63a",
+"locator": null,
+"node": "uss-jackson-2023",
+"nodeLabel": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"sourceText": "Wiggins written statement, 9 September 2025",
+"text": "CIC personnel recorded the encounter on a Star SAFIRE multi-spectral EO/IR system; footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
 "tier": 2
 }
 ],
@@ -193,17 +263,30 @@
 "claims": [
 "c-0e6b37c713",
 "c-1bfc4cc35e",
-"c-d2609b125e"
+"c-aed9aedd99",
+"c-d2609b125e",
+"c-e44cdd8aac",
+"c-13860e0049",
+"c-8d21c196d3"
 ],
 "id": "military-encounters-2019",
 "title": "Military encounters since 2019: USS Kidd, Oman, Yemen and USS Jackson"
 },
 {
 "claims": [
-"c-d2609b125e"
+"c-d2609b125e",
+"c-e44cdd8aac",
+"c-6d29ba5e65"
 ],
 "id": "task-force-2025",
 "title": "The House Task Force on declassification and the September 2025 hearing"
+},
+{
+"claims": [
+"c-8d21c196d3"
+],
+"id": "nimitz-2004",
+"title": "USS Nimitz, November 2004"
 }
 ],
 "type": "document",

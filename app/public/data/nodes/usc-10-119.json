@@ -175,10 +175,16 @@
 {
 "id": "c-36d21d618b",
 "source": "David Grusch, sworn testimony, House Oversight Committee, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "testimony of David Grusch",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "'10 U.S. Code Section 119 discusses congressional oversight of SAPs, discusses the DEP/SecDef's ability to waive congressional reporting. However, the Gang of 8 is at least supposed to be notified if a... waived bigoted unacknowledged SAP is created and that is public law.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9d88659ed9",
@@ -254,7 +260,7 @@
 {
 "id": "bills-118s2103rs",
 "locator": null,
-"title": "BILLS-118s2103rs"
+"title": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)"
 }
 ],
 "text": "Section 119 has not been amended since 2001. The source credit runs Pub. L. 100-180 (1987), Pub. L. 101-510 (1990), Pub. L. 104-106 (1996), Pub. L. 106-65 (1999), Pub. L. 107-107 (2001), and stops. The Senate Intelligence Committee's Sec. 1103 of S. 2103 as reported in June 2023, 'Modification of congressional oversight of special access programs', would have been the first amendment in twenty-two years; it does not appear in the Senate-passed Division M and Section 119 as it stands today shows no 2023 or 2024 amendment.",
@@ -361,7 +367,7 @@
 "sources": [
 {
 "id": "usc-10-119",
-"locator": "as of 12 August 2026",
+"locator": null,
 "title": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
 }
 ],

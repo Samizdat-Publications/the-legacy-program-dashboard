@@ -14,7 +14,7 @@
 {
 "cls": "legislation",
 "id": "c-70954ac851",
-"locator": "summarising FAR 35.017",
+"locator": null,
 "node": "far-35-017",
 "nodeLabel": "FAR 35.017 - Federally Funded Research and Development Centers",
 "sourceText": "CRS Report R44629 summarising FAR 35.017",
@@ -24,7 +24,7 @@
 {
 "cls": "institution",
 "id": "c-883ef79918",
-"locator": "funding table",
+"locator": null,
 "node": "llnl",
 "nodeLabel": "Lawrence Livermore National Laboratory",
 "sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
@@ -44,7 +44,7 @@
 {
 "cls": "institution",
 "id": "c-d8bd8ca515",
-"locator": "funding table",
+"locator": null,
 "node": "mit-lincoln-laboratory",
 "nodeLabel": "MIT Lincoln Laboratory",
 "sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
@@ -54,7 +54,7 @@
 {
 "cls": "program",
 "id": "c-6ba3b4f2bf",
-"locator": "funding table",
+"locator": null,
 "node": "mitre-nsec",
 "nodeLabel": "National Security Engineering Center (NSEC)",
 "sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
@@ -74,7 +74,7 @@
 {
 "cls": "institution",
 "id": "c-cbbe61eee1",
-"locator": "funding table",
+"locator": null,
 "node": "sandia",
 "nodeLabel": "Sandia National Laboratories",
 "sourceText": "NSF NCSES Master Government List of FFRDCs; CRS Report R44629 funding table",
@@ -84,7 +84,7 @@
 {
 "cls": "institution",
 "id": "c-d573e85216",
-"locator": "funding table",
+"locator": null,
 "node": "aerospace-corporation",
 "nodeLabel": "The Aerospace Corporation",
 "sourceText": "CRS Report R44629 funding table; USAspending.gov award records",
@@ -124,7 +124,7 @@
 {
 "cls": "institution",
 "id": "c-8bdc41be6b",
-"locator": "FFRDC funding table",
+"locator": null,
 "node": "mitre-corporation",
 "nodeLabel": "The MITRE Corporation",
 "sourceText": "CRS Report R44629 FFRDC funding table",
@@ -134,7 +134,7 @@
 {
 "cls": "document",
 "id": "c-609d946451",
-"locator": "'s summary of FAR 35.017",
+"locator": null,
 "node": "gerb-mitre-investigation",
 "nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
 "sourceText": "Cross-reference against CRS R44629's summary of FAR 35.017",
@@ -294,7 +294,7 @@
 }
 ],
 "node": null,
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress",
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)",
 "topics": [
 {
 "claims": [

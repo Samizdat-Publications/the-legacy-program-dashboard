@@ -10,6 +10,16 @@
 "sourceText": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
 "text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
 "tier": 2
+},
+{
+"cls": "document",
+"id": "c-967be2867a",
+"locator": null,
+"node": "pais-patent-emfg",
+"nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+"sourceText": "https://www.freepatentsonline.com/10135366.html",
+"text": "US Patent 10,135,366, 'Electromagnetic field generator and method to generate an electromagnetic field', application 14/807943, filed 24 July 2015, published 20 November 2018, assignee 'The United States of America as represented by the Secretary of the Navy'.",
+"tier": 2
 }
 ],
 "date": "2015-07-24",
@@ -60,12 +70,15 @@
 "topics": [
 {
 "claims": [
-"c-fb7370e586"
+"c-fb7370e586",
+"c-967be2867a"
 ],
 "id": "navy-patents",
 "title": "The Navy's Pais patents, and invention secrecy"
 }
 ],
 "type": "document",
-"urls": []
+"urls": [
+"https://www.freepatentsonline.com/10135366.html"
+]
 }

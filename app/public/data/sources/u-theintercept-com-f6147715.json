@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-ac0748405a",
+"locator": null,
+"node": "unidentified-history-series",
+"nodeLabel": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
+"sourceText": "Keith Kloor, The Intercept, 1 June 2019 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The series prompted the Pentagon statement of 1 June 2019 that Elizondo had no AATIP responsibilities.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0a6dd9aeca",
+"locator": null,
+"node": "christopher-sherwood",
+"nodeLabel": "Christopher Sherwood",
+"sourceText": "Keith Kloor, The Intercept, 1 June 2019",
+"text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0cd90af078",
+"locator": null,
+"node": "kari-delonge",
+"nodeLabel": "Kari DeLonge",
+"sourceText": "Keith Kloor, The Intercept, 1 June 2019",
+"text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-1fa1803c02",
+"locator": null,
+"node": "keith-kloor",
+"nodeLabel": "Keith Kloor",
+"sourceText": "Keith Kloor, The Intercept, 1 June 2019",
+"text": "Obtained and published Christopher Sherwood's 1 June 2019 statement denying Elizondo had AATIP responsibilities.",
+"tier": 1
+}
+],
 "date": "2019-06-01",
 "edges": [
 {
@@ -169,7 +210,44 @@
 ],
 "node": null,
 "title": "The Intercept",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-ac0748405a",
+"c-0a6dd9aeca"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-0a6dd9aeca"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-1fa1803c02"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+},
+{
+"claims": [
+"c-0cd90af078"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-0a6dd9aeca"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
 "type": "article",
 "urls": [
 "https://theintercept.com/2019/06/01/ufo-unidentified-history-channel-luis-elizondo-pentagon/"

@@ -49,10 +49,16 @@
 {
 "id": "c-fad3ab305c",
 "source": "checktheevidence.com posts of 11 February 2014, 2 July 2014 and 13 January 2015, all bylined Andrew Johnson, opened 2026-09-18",
-"sources": [],
+"sources": [
+{
+"id": "t-361710e1318d",
+"locator": null,
+"title": "checktheevidence.com posts of 11 February 2014, 2 July 2014 and 13 January 2015"
+}
+],
 "text": "The site is operated under a named individual who signs and dates his posts, which distinguishes it from arvp.co.uk, whose owner is unnamed and which the board already records as anonymous.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

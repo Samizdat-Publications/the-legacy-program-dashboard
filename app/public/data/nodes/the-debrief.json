@@ -7,10 +7,16 @@
 {
 "id": "c-cbd47d9c44",
 "source": "The Debrief, About page, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-thedebrief-org-8aa419c7",
+"locator": "retrieved 12 Aug 2026",
+"title": "The Debrief - About"
+}
+],
 "text": "The Debrief's founders are Micah Hanks (Co-Founder/Creator, Editor-in-Chief), Tim McMillan (Co-Founder, Executive Director) and MJ Banias (Co-Founder, Content Director); staff include Chrissy Newton, Chris Plain and Steve McDaniel; contributors include Avi Loeb.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c6242914a5",
@@ -18,15 +24,21 @@
 "sources": [],
 "text": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft) was rejected in review: names The Debrief generally plus Wikipedia entries"
 },
 {
 "id": "c-4a5485ad49",
 "source": "The Debrief archive, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-86745a5392e9",
+"locator": null,
+"title": "The Debrief archive"
+}
+],
 "text": "The Debrief has published sustained coverage of the disclosure fight including 'Immaculate Constellation: UAP Bombshell or Disinformation?', 'The 2024 AARO Report', 'Where The Second UAP Disclosure Act Failure May Now Steer The Ark of Human History' and 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -186,7 +198,7 @@
 ],
 "sub": "Independent science and defence outlet",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 891 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 890 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -23,12 +23,12 @@
     {
      "id": "u-ufohastings-com-30d064f4",
      "locator": null,
-     "title": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026"
+     "title": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
     },
     {
      "id": "u-metabunk-org-a8bafc20",
      "locator": null,
-     "title": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026"
+     "title": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
     }
    ],
    "text": "THE CONTENTS OF THE 1 OCTOBER 1996 LETTER ARE DISPUTED AND THE BOARD HAS NOT READ IT. Salas and Hastings present it as elaborating and supporting the Oscar Flight account. Sceptical sources quote it as recording that Meiwald's recollection differs from Salas's and that he regrets being unable to help Salas establish his claims. Both characterisations are recorded; neither is adopted.",
@@ -58,7 +58,13 @@
     "text": "Fawcett and Greenwood, 'Clear Intent' (1984)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-clear-intent-1984",
+     "locator": null,
+     "title": "Clear Intent: The Government Coverup of the UFO Experience (1984)"
+    }
+   ],
    "text": "The book is built on documents obtained by Citizens Against UFO Secrecy under FOIA from the CIA, FBI, NSA, Air Force, NORAD and the Office of the Joint Chiefs of Staff, reproduced in facsimile and annotated.",
    "tier": 1
   },
@@ -113,9 +119,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "SAC escalated the Echo Flight shutdown within hours. The 341st Strategic Missile Wing history records: 'At approximately 1400 hrs on 16 Mar 67, the 341st SMW was advised that SAC Headquarters had called in OOAMA support for a complete engineering analysis of this problem', and cites the SAC message DM 02752 to 341 SMW, subject 'Loss of Strategic Alert Echo Flight, Malmstrom AFB', dated 17 March 1967.",
@@ -135,12 +141,12 @@
     {
      "id": "u-theufochronicles-com-f1e3d3cc",
      "locator": null,
-     "title": "The UFO Chronicles, 'The Echo Flight ICBM Incident: Retired USAF Officer Confirms Receiving A UFO Report Just as the Missiles Failed', republishing Robert Hastings on his taped telephone conversations with Col. Walter Figel. Opened 19 September 2026"
+     "title": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
     },
     {
      "id": "u-timhebert2-blogspot-com-3fff5289",
      "locator": null,
-     "title": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026"
+     "title": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
     }
    ],
    "text": "Eric Carlson states that he received no UFO-related radio or Sensitive Information Network call about any of his launch facilities on 16 March 1967, that he was seated about two feet from Walter Figel when the call the UFO account depends on is said to have been received, and that he does not recall a subsequent debriefing.",
@@ -160,7 +166,7 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     }
    ],
    "text": "Patrick McDonough served in the US Air Force as a geodetic surveyor from 1962 to 1966 and, from F. E. Warren AFB at Cheyenne, Wyoming, performed temporary duty worldwide relating to surveys for Atlas, Titan, Minuteman, Mace and Matador missile sites. He executed an affidavit and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
@@ -180,7 +186,7 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     }
    ],
    "text": "Bruce Fenstermacher, Captain USAF, was a missile combat crew commander at F. E. Warren AFB, Wyoming from 1974 to 1977, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
@@ -212,9 +218,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "One of his disputes is settled against him by the Air Force's own paper. The 341st SMW history states that all launch facilities in Echo Flight lost strategic alert nearly simultaneously, which supports Salas's figure of ten and not the three-or-four figure Carlson attributes to his father.",
@@ -248,7 +254,7 @@
     {
      "id": "u-metabunk-org-a8bafc20",
      "locator": null,
-     "title": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026"
+     "title": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
     }
    ],
    "text": "A remark attributed to Boeing engineer Robert Kaminski about the Echo Flight missiles, that they were perfect and clean, is reported as having been made to Arneson. This is a relayed recollection of a remark and is carried at Tier 3 on that basis.",
@@ -282,7 +288,7 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     }
    ],
    "text": "The roster with ranks, units and periods, from Hastings's own page: Dwynne Arneson, Lt Col, 28th Air Division, Malmstrom AFB, 1967; Bruce Fenstermacher, Capt, missile combat crew commander, F. E. Warren AFB, 1974 to 1977; Charles Halt, Lt Col and later Col, RAF Bentwaters and Woodbridge and later Kunsan AB; Robert Jamison, Capt, ICBM combat targeting team, Malmstrom AFB, January 1965 to October 1967; Patrick McDonough, geodetic surveyor, F. E. Warren AFB, 1962 to 1966; Jerry Nelson, deputy missile crew commander, 579th Strategic Missile Squadron, Walker AFB, Roswell; and Robert Salas, Capt, Malmstrom AFB. The page names McDonough, Salas, Jamison, Arneson, Fenstermacher and Halt as having executed affidavits.",
@@ -302,7 +308,7 @@
     {
      "id": "u-metabunk-org-a8bafc20",
      "locator": null,
-     "title": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026"
+     "title": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
     }
    ],
    "text": "James Carlson, son of Echo Flight crew commander Capt. Eric D. Carlson, has published a 357-page work titled 'American, Credulous' and a shorter piece titled 'Echo Flights of Fantasy - Anatomy of a UFO Hoax', concluding that no UFOs were involved at Echo Flight or any other flight and that claims of UFO interference are completely unsupportable.",
@@ -322,12 +328,12 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     },
     {
      "id": "u-ufohastings-com-2cec562c",
      "locator": null,
-     "title": "UFOs & Nukes, 'About', Robert Hastings's own biographical page. Opened 19 September 2026"
+     "title": "https://ufohastings.com/about"
     }
    ],
    "text": "THE COUNT IS NOT STABLE ON HIS OWN SITE. His press-conference article states 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' His biographical page, opened the same day, states 'To date, Hastings has interviewed more than 150 military veterans.' The board records both figures with their pages rather than a round number, because the count is itself the principal evidence for the scale of the claim.",
@@ -347,7 +353,7 @@
     {
      "id": "u-metabunk-org-a8bafc20",
      "locator": null,
-     "title": "Metabunk, 'UFOs at Nuclear Weapons Sites (Salas, Malmstrom, Eagle Flight) - Skeptical Resources', carrying James Carlson's own titles and positions and the Nalty 1969 quotation. Opened 19 September 2026"
+     "title": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
     }
    ],
    "text": "James Carlson states that Figel told him he saw no UFO and treated the radio report as a joke, and that both Figel and Eric Carlson reported no UFOs at Echo Flight.",
@@ -365,9 +371,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "On one disputed point the same document supports him against his critics. The history states that all launch facilities in Echo Flight lost strategic alert nearly simultaneously, which supports a figure of ten and not the three or four attributed to Capt. Eric D. Carlson.",
@@ -383,7 +389,13 @@
     "text": "ufohastings.com document archive, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-ufohastings-com-1ca28766",
+     "locator": null,
+     "title": "UFOs & Nukes document archive"
+    }
+   ],
    "text": "Hastings publishes the primary documents underlying his cases, including FBI memoranda on Los Alamos (December 1948) and Los Alamos/Sandia (August 1950), F. E. Warren AFB documents of 1 August 1965, Minot AFB documents of 25 August 1966 and 6 December 1966, an Air Force teletype of 17 March 1967 headed loss of strategic alert, and 1975 Malmstrom material.",
    "tier": 1
   },
@@ -427,9 +439,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "THE RELEASE IS EXCERPTS, NOT COMPLETE HISTORIES, AND THAT BOUNDS EVERY ARGUMENT FROM ITS SILENCE. The covering letter's own words are 'Copies of excerpts, as well as supporting documents, of the below listed documents are releasable and are attached.'",
@@ -447,9 +459,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-nicap-org-93d7f00d",
+     "id": "n-doc-nmcc-loring-1975",
      "locator": null,
-     "title": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026"
+     "title": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975"
     }
    ],
    "text": "SAC is the reporting node in the primary records. The National Military Command Center's Memorandum for Record of 29 October 1975 states that 'NORAD was informed of the incident by SAC' and that 'At 0404 SAC Command Center informed NMCC that the army helo assisting on the scene had not sighted the unidentified helo(s)', citing SAC CP OPS CONTROL 291954Z OCT 75 among its sources.",
@@ -469,7 +481,7 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     }
    ],
    "text": "Dwynne Arneson, Lt Col USAF, served with the 28th Air Division at Malmstrom AFB, Montana in 1967, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
@@ -489,7 +501,7 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     }
    ],
    "text": "Jerry Nelson served as a deputy missile crew commander with the 579th Strategic Missile Squadron at Walker AFB, Roswell, New Mexico from 1962 to 1965, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
@@ -535,19 +547,19 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     },
     {
      "id": "u-archive-org-8805ff8f",
      "locator": null,
-     "title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026"
+     "title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation"
     },
     {
      "id": "u-rr0-org-e4ade8f3",
      "locator": null,
-     "title": "rr0.org mirror of Robert Hastings's F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in 'The UFO Experience' (1972). Opened 19 September 2026"
+     "title": "%201967%20NORAD%20logs_djvu.txt"
     }
    ],
    "text": "THE COUNTERWEIGHT, ON THE SAME NODE. His method is not testimony alone, and the documentary half of his output is checkable and largely checks out. This board independently opened and read in full the 341st Strategic Missile Wing histories he relies on, the 24th NORAD Region Senior Director's Log for November 1975 that he republishes, and the F. E. Warren AFB Project Blue Book telephone log of 1 August 1965 first published by J. Allen Hynek in 1972. All three are real, and say what he says they say. The board grades the document half and the interview half of his output differently inside the same node.",
@@ -567,7 +579,7 @@
     {
      "id": "u-ufohastings-com-30d064f4",
      "locator": null,
-     "title": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026"
+     "title": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
     }
    ],
    "text": "It is Hastings, not a sceptic, who separated the two March 1967 events. He dates Echo Flight to 16 March 1967 and Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. That separation is what allows the Oscar Flight claim to survive the unit history's silence, and it was produced by the same interviewer whose interviews are the only source for it.",
@@ -601,7 +613,7 @@
     {
      "id": "u-rr0-org-e4ade8f3",
      "locator": null,
-     "title": "rr0.org mirror of Robert Hastings's F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in 'The UFO Experience' (1972). Opened 19 September 2026"
+     "title": "%201967%20NORAD%20logs_djvu.txt"
     }
    ],
    "text": "Personnel at F. E. Warren AFB, including the base commander, telephoned Project Blue Book at Wright-Patterson AFB in the earliest hours of 1 August 1965 to report sightings over the Warren Minuteman missile sites. Lt. Anspaugh fielded and logged the calls between about 0130 and 0440. Named callers are Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Site designators recorded include E Site, G Flight, Quebec Flight, H-2 and B-4.",
@@ -672,9 +684,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "The wing history records that on 16 March 1967 at 0845 all sites in Echo Flight shut down with No-Go indication of Channels 9 and 12 on the Voice Reporting Signal Assemble, that all launch facilities in E Flight 'lost strategic alert nearly simultaneously', and that no other Wing I configuration lost alert at that time.",
@@ -731,9 +743,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "The second half is contradicted by the same source. The history records the investigation continuing at the contractor's facility, Boeing bench testing in its Network Resolution Area that reproduced the Channel 9 and 12 No-Go signature in 60 per cent of 20 applications of a 30 microsecond pulse, transformer-failure simulation tests at Malmstrom during the week of 15 May 1967, and three Boeing engineering change proposals numbered 1221, 1141-1 and 1141-2 plus FCIR MCL 2827.",
@@ -767,7 +779,7 @@
     {
      "id": "u-minotb52ufo-com-5e610ee9",
      "locator": null,
-     "title": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026"
+     "title": "https://minotb52ufo.com/doc.php"
     }
    ],
    "text": "The modern investigation of the Minot 1968 case began when Runyon contacted the Center for UFO Studies in 2000 and completed a CUFOS UFO questionnaire on his own initiative. He was not located or recruited by a researcher.",
@@ -821,7 +833,7 @@
     {
      "id": "u-minotb52ufo-com-5e610ee9",
      "locator": null,
-     "title": "minotb52ufo.com, documentation index for the 24 October 1968 Minot AFB case, listing the Blue Book file, Lt Col Werlich's Basic Reporting Data, the AF Form 117 questionnaires, the radarscope photographs and the Werlich overlay map. Opened 19 September 2026"
+     "title": "https://minotb52ufo.com/doc.php"
     }
    ],
    "text": "Capt. Bradford Runyon is named as co-pilot in the debriefing record of the 24 October 1968 Minot AFB case, with radar navigator Maj. Charles Richey, navigator Capt. Patrick McCaslin, electronic warfare officer Capt. Thomas Goduto and gunner TSgt Arlie Judd. The case file includes a transcription of recorded conversations between the B-52 co-pilot and Radar Approach Control, thirteen ASQ-38 radarscope photographs, and Lt Col Arthur J. Werlich's Basic Reporting Data of 28 October 1968.",
@@ -866,7 +878,7 @@
     {
      "id": "u-youtube-com-551a1f41",
      "locator": null,
-     "title": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions; timestamped triage at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md. Opened 19 September 2026"
+     "title": "Jesse Michels, video rjUdn6FklAU, published 7 September 2026, runtime 2:47:21, auto-generated captions"
     }
    ],
    "text": "SECTION 2a PROVENANCE. HE WAS LOCATED BY THE PUBLISHING PARTY. A viewer of the show sent the production a Facebook page belonging to a Michael Johnson in his seventies in South Carolina; the producer then tasked an unnamed recruiter who found him in about a week; the first contact call is dated on air to 26 June 2026. Not the original witness, not a records search, not AARO.",
@@ -900,7 +912,7 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     }
    ],
    "text": "Robert Jamison was a US Air Force 1st Lieutenant commanding an ICBM Combat Targeting Team at Malmstrom AFB, Montana, from January 1965 to October 1967, then a missile targeting instructor at Chanute AFB, Illinois, and separated from active duty as a Captain in July 1972. He executed an affidavit and appeared at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
@@ -920,7 +932,7 @@
     {
      "id": "u-archive-org-8805ff8f",
      "locator": null,
-     "title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026"
+     "title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation"
     }
    ],
    "text": "The 24th NORAD Region Senior Director's Log for 7 to 19 November 1975 is largely a record of calls from Strategic Air Command posts, opening '7 Nov 75 (1035Z) - Received a call from the 341st Strategic Air Command Post (SAC CP)' and repeatedly attributing missile-site reports to 'From SAC CP'.",
@@ -982,7 +994,7 @@
     {
      "id": "u-timhebert2-blogspot-com-3fff5289",
      "locator": null,
-     "title": "Tim Hebert, 'Echo Flight: The Makings of a UFO Myth: Disproving a UFO Case'. Opened 19 September 2026"
+     "title": "https://timhebert2.blogspot.com/2011/08/disproving-ufo-case.html"
     }
    ],
    "text": "Tim Hebert, himself a former Minuteman crew member at Malmstrom, writes that Figel's two Hastings interviews contradict each other on the location of the maintenance teams and on who reported the sighting, and that Figel declined to sign an affidavit for the 2010 National Press Club event.",
@@ -1028,9 +1040,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "Word counts over the whole 88-page release, performed by this board: 'Unidentified Flying Object' appears exactly once, in the sentence recording that the rumours were disproven. 'Oscar' appears zero times. 'O Flight' appears zero times. '24 Mar' and '25 Mar' appear zero times.",
@@ -1050,12 +1062,12 @@
     {
      "id": "u-ufohastings-com-c80b0c86",
      "locator": null,
-     "title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+     "title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
     },
     {
      "id": "u-ufohastings-com-2cec562c",
      "locator": null,
-     "title": "UFOs & Nukes, 'About', Robert Hastings's own biographical page. Opened 19 September 2026"
+     "title": "https://ufohastings.com/about"
     }
    ],
    "text": "The witness count Hastings gives on this page differs from the one on his own biographical page. Here: 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' There: 'To date, Hastings has interviewed more than 150 military veterans.' Both pages were opened on the same day.",

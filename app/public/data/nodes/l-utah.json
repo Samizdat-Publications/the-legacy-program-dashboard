@@ -7,10 +7,16 @@
 {
 "id": "c-ce71b31803",
 "source": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-54f89c6e",
+"locator": null,
+"title": "Wikipedia - Skinwalker Ranch"
+}
+],
 "text": "Skinwalker Ranch lies in Uintah County, Utah, southeast of Ballard, bordering the Uintah and Ouray Indian Reservation; UFO reports from the Uintah Basin were publicised beginning in the 1970s.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3e12cf9226",

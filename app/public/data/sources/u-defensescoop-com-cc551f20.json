@@ -2,6 +2,56 @@
 "archived": [],
 "claims": [
 {
+"cls": "person",
+"id": "c-86060294db",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "DefenseScoop, 27 May 2026",
+"text": "Sent MITRE a 10-page letter dated 22 May 2026 with over 40 production requests, asking whether MITRE 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering back to 1930, with unclassified records due in native electronic format with metadata within 45 days.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-7f3560f860",
+"locator": null,
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"sourceText": "DefenseScoop, 27 May 2026",
+"text": "Ten-page letter dated 22 May 2026 with over 40 production requests, asking MITRE to identify whether it 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering, dating back to 1930.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-81a9ceb736",
+"locator": null,
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"sourceText": "DefenseScoop, 27 May 2026",
+"text": "All unclassified responsive records demanded within 45 days in native electronic format with complete metadata.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e35b98a54c",
+"locator": null,
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"sourceText": "DefenseScoop, 27 May 2026",
+"text": "The letter is dated 22 May 2026, runs to 10 pages, was obtained by DefenseScoop, and includes dozens of production requests covering records dating back to 1930.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-f48e36d0e0",
+"locator": null,
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"sourceText": "DefenseScoop, 27 May 2026",
+"text": "The requests cover UAP detection and tracking across air, space, maritime, cyber and electromagnetic domains and work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
+"tier": 1
+},
+{
 "cls": "document",
 "id": "c-211ff5c2b0",
 "locator": null,
@@ -9,6 +59,16 @@
 "nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "sourceText": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "text": "MITRE's response: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-352f6d278b",
+"locator": null,
+"node": "burlison-mitre-letter-2026",
+"nodeLabel": "Rep. Burlison records demand to MITRE, 22 May 2026",
+"sourceText": "DefenseScoop, 27 May 2026",
+"text": "MITRE spokesperson: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
 "tier": 2
 },
 {
@@ -40,6 +100,16 @@
 "sourceText": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "text": "The demand reaches records MITRE has 'created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled' - a spoliation category, not a subject-matter category, indicating the committee is investigating record disposition rather than only UAP content. Reasoning: the request list as reported includes that category alongside substantive technical categories.",
 "tier": 3
+},
+{
+"cls": "institution",
+"id": "c-48fc20e323",
+"locator": null,
+"node": "mitre-corporation",
+"nodeLabel": "The MITRE Corporation",
+"sourceText": "DefenseScoop, 27 May 2026",
+"text": "A MITRE spokesperson said that insiders were reviewing its archives and that 'if any relevant material is found, we will coordinate with the federal agencies responsible for the work.'",
+"tier": 1
 }
 ],
 "date": "2026-05-27",
@@ -205,7 +275,27 @@
 ],
 "node": null,
 "title": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-86060294db",
+"c-7f3560f860",
+"c-81a9ceb736",
+"c-352f6d278b"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-7f3560f860",
+"c-81a9ceb736",
+"c-48fc20e323"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
 "type": "article",
 "urls": [
 "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/"

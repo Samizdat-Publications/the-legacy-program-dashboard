@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-c98f15ca2f",
+"locator": null,
+"node": "low-memo",
+"nodeLabel": "Low Memorandum (\"the trick would be...\")",
+"sourceText": "John G. Fuller, Look magazine, May 1968",
+"text": "The memo was published by John G. Fuller in Look magazine in May 1968 as 'Flying Saucer Fiasco', describing the project as a '$500,000 trick'; Saunders and Levine were subsequently fired.",
+"tier": 2
+}
+],
+"date": "1968-05",
+"edges": [],
+"era": "0",
+"id": "t-ab1f74905a28",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Look magazine",
+"listedOn": [],
+"node": null,
+"title": "John G. Fuller, Look magazine, May 1968",
+"topics": [
+{
+"claims": [
+"c-c98f15ca2f"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
+"type": "article",
+"urls": []
+}

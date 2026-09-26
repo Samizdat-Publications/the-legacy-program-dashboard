@@ -23,9 +23,9 @@
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
 "sources": [
 {
-"id": "u-archive-org-c155e3cf",
+"id": "n-lazar-tape-1991",
 "locator": null,
-"title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE"
+"title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
 }
 ],
 "text": "Bob Lazar's 1991 narration sites his claimed S-4 facility by reference to this place, 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake', and says he was bussed from there to the claimed site. The claim is anchored geographically to a documented facility; that anchoring does not transfer the facility's documentation to the claim.",
@@ -35,10 +35,16 @@
 {
 "id": "c-861074b262",
 "source": "CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-cia-overhead-reconnaissance-history-1992",
+"locator": "25 June 2013 release",
+"title": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974"
+}
+],
 "text": "On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at Area 51, in response to a 2005 FOIA request filed by Jeffrey T. Richelson of the National Security Archive.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c51537b8a9",
@@ -46,7 +52,7 @@
 "sources": [],
 "text": "In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location near Groom Lake, Nevada from environmental disclosure laws; the determination is reissued annually.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:groom-lake-presidential-determination) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-a88dff69a1",
@@ -54,7 +60,7 @@
 "sources": [],
 "text": "Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Groom Lake; Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat; District Judge Philip Pro rejected the government's state secrets claim before the suits were dismissed for lack of evidence.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:courtlistener.com/opinion/7058198/kasza-v-browner) was rejected in review: names two sources; Wikipedia is not the candidate"
 },
 {
 "id": "c-3f931779da",
@@ -62,7 +68,7 @@
 "sources": [],
 "text": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:cia-overhead-reconnaissance-history-1992) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-7d681b98d7",
@@ -542,7 +548,7 @@
 ],
 "sub": "Dry lakebed and USAF/CIA flight test facility, Lincoln County, Nevada; R-4808N; 83 mi NNW of Las Vegas",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 143 of 1138, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded A on a global pass (rank 142 of 1138, score 54). 14 connections, 2 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": null,

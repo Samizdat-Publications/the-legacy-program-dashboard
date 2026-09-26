@@ -73,6 +73,16 @@
 },
 {
 "cls": "institution",
+"id": "c-26d16e3ba7",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "DefenseScoop, 17 June 2026",
+"text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW.",
+"tier": 1
+},
+{
+"cls": "institution",
 "id": "c-91fdec5b20",
 "locator": null,
 "node": "uap-science-advisory-council",
@@ -268,6 +278,7 @@
 "claims": [
 "c-73e987809e",
 "c-b4d6c752f0",
+"c-26d16e3ba7",
 "c-91fdec5b20"
 ],
 "id": "astronomers-searches",
@@ -276,10 +287,18 @@
 {
 "claims": [
 "c-04928ec788",
-"c-4db3a91118"
+"c-4db3a91118",
+"c-26d16e3ba7"
 ],
 "id": "academic-science",
 "title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-26d16e3ba7"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
 }
 ],
 "type": "article",

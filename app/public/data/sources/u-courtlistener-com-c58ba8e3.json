@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-6d85344c46",
+"locator": null,
+"node": "kean-v-nasa",
+"nodeLabel": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
+"sourceText": "D.D.C. civil docket, No. 1:03-cv-02509",
+"text": "Case filed 9 December 2003; assigned to Judge Emmet G. Sullivan; nature of suit 895 Freedom of Information Act; jurisdiction type US Government Defendant; terminated 24 August 2009.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -62,7 +73,22 @@
 ],
 "node": null,
 "title": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.) - full docket",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-6d85344c46"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-6d85344c46"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.courtlistener.com/docket/4707805/kean-v-national-aeronautics-and-space-administration/"

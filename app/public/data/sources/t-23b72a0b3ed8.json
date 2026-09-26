@@ -1,0 +1,50 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b3e4e88a17",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
+"text": "His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more.",
+"tier": 2
+}
+],
+"date": "2023-07-17",
+"edges": [],
+"era": "3",
+"id": "t-23b72a0b3ed8",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Shawn Ryan Show",
+"listedOn": [],
+"node": null,
+"title": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I",
+"topics": [
+{
+"claims": [
+"c-b3e4e88a17"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-b3e4e88a17"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-b3e4e88a17"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "broadcast",
+"urls": []
+}

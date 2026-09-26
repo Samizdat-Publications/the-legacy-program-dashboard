@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-9754e30561",
+"locator": null,
+"node": "langley-2023-incursions",
+"nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+"sourceText": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
+"text": "At least one drone was roughly 20 feet long, flying at more than 100 mph at roughly 3,000 to 4,000 feet.",
+"tier": 2
+}
+],
+"date": "2024-10-30",
+"edges": [],
+"era": "3",
+"id": "t-7b50df65d2c3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
+"topics": [
+{
+"claims": [
+"c-9754e30561"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

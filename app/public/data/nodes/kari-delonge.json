@@ -28,10 +28,16 @@
 {
 "id": "c-ed4bdd543e",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
-"sources": [],
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "Listed in TTSA's Form 1-K as Chief Content Officer, age 35, with $100,000 FY2017 cash compensation and options on 5,000,000 shares at $0.003 valued at approximately $18.96 million.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-497905e107",
@@ -39,15 +45,21 @@
 "sources": [],
 "text": "Signed the TTSA-Army CRADA on 10 October 2019 as TTSA's corporate signatory, opposite GVSC Director Jeffery Langhout.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:ttsa-army-crada) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-0cd90af078",
 "source": "Keith Kloor, The Intercept, 1 June 2019",
-"sources": [],
+"sources": [
+{
+"id": "u-theintercept-com-f6147715",
+"locator": null,
+"title": "The Intercept"
+}
+],
 "text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

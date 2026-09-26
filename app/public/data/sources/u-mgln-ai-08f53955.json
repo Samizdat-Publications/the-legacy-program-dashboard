@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-334c4598fd",
+"locator": "0:03:33 and 0:04:25",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:03:33 and 0:04:25",
+"text": "On American Alchemy with Jesse Michels, 17 April 2025, Michels said at 0:03:33 that Eric Wang was 'the head of the Special Studies Department at Wright-Patterson', that attempts to verify his background lead to 'no biographical details, no employment records, no published research', and at 0:04:25 that the researcher William Steinman found an obituary giving Dr. Eric H. Wang as born in 1906, originally from Vienna and a graduate of the Vienna Technical Institute, a contemporary of Viktor Schauberger, and that in 1956 Wang's department was relocated to the Sandia complex at Kirtland Air Force Base. No document supporting any of this was opened, and the board's own reading of DTIC ADA073468, ADA073475 and AD0460283 located no Austrian birth.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7c8d04b0f8",
+"locator": "0:01:44-0:02:38",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:01:44 to 0:02:38",
+"text": "On American Alchemy with Jesse Michels, 17 April 2025, at 0:01:44 and 0:02:38, Michels said that Arthur Stansell, described as a consultant on blast effects of atom bombs, was flown to a classified location near Kingman, Arizona, told a secret test vehicle had crashed, and saw a craft roughly thirty feet in diameter and, in a nearby tent, four-foot humanoid figures. Michels said a declassified Operation Upshot-Knothole report confirms Stansell was on site for the nuclear testing there. The board's copy of that report series names Arthur Stansel and carries no Kingman material.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b820bee21f",
+"locator": "0:05:17",
+"node": "eric-wang",
+"nodeLabel": "Eric H. Wang",
+"sourceText": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:05:17",
+"text": "In the same episode, at 0:05:17, Michels said that Steinman tracked down Wang's widow, Maria Wang, and that she said her husband had reported directly to Henry Kissinger and that Kissinger had visited their home. The account is given by Michels as Steinman's. The board holds no record of Maria Wang, of any Kissinger connection, or of Steinman's correspondence.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +48,16 @@
 ],
 "node": null,
 "title": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection' (audio)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-334c4598fd",
+"c-b820bee21f"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
 "type": "web page",
 "urls": [
 "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9751630361.mp3?updated=1751925715"

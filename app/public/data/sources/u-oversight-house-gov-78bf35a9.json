@@ -12,6 +12,26 @@
 "tier": 1
 },
 {
+"cls": "person",
+"id": "c-ce8890e7b7",
+"locator": null,
+"node": "maxwell-frost",
+"nodeLabel": "Maxwell Alejandro Frost",
+"sourceText": "oversight.house.gov Task Force membership page",
+"text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bc6e0d1fa6",
+"locator": null,
+"node": "raja-krishnamoorthi",
+"nodeLabel": "Subramanian Raja Krishnamoorthi",
+"sourceText": "oversight.house.gov Task Force membership page",
+"text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
+"tier": 1
+},
+{
 "cls": "institution",
 "id": "c-a023889128",
 "locator": null,

@@ -11,23 +11,35 @@
 "sources": [],
 "text": "In Citizens Against UFO Secrecy v. NSA the D.C. Circuit sustained NSA's withholding of UFO-related records; the supporting Yeates affidavit was itself released only in redacted form.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-coll) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-89d3f45984",
 "source": "DefenseScoop, 26 August 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-d6bcef0f",
+"locator": null,
+"title": "DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub"
+}
+],
 "text": "Jon Kosloski, a senior NSA researcher, was appointed to lead AARO in August 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-30f2e001fa",
 "source": "DefenseScoop, 10 December 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The FY2026 NDAA cycle included congressional demands for information on military UAP intercepts around North America.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

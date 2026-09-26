@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-6d55f7eea7",
+"locator": null,
+"node": "elizondo-dodig-complaint-2021",
+"nodeLabel": "Elizondo complaint to the DoD Inspector General, May 2021",
+"sourceText": "The Black Vault document archive of the Elizondo DoD IG complaint",
+"text": "Filed May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats', naming Garry Reid, Susan Gough and Neill Tipton.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a403077ff3",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "The Black Vault document archive of Elizondo's DoD IG complaint and associated FOIA releases",
+"text": "Filed a DoD Inspector General complaint in May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats' by named senior officials.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -74,7 +95,15 @@
 ],
 "node": null,
 "title": "The Black Vault — Elizondo DoD IG complaint archive",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-6d55f7eea7"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.theblackvault.com/documentarchive/the-dod-inspector-general-complaint-of-luis-elizondo-a-document-archive/"

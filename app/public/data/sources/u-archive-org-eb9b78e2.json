@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-615deb1d8a",
+"locator": "Volume 3, Chapter 4, p.3, para 12",
+"node": "doc-condign-report",
+"nodeLabel": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
+"sourceText": "UK National Archives DEFE 24/2090/1, FOI review file",
+"text": "The FOI review file DEFE 24/2090/1 shows a still-redacted reference to a 'CIA desk officer' at Volume 3, Chapter 4, page 3, paragraph 12.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -29,7 +40,15 @@
 "listedOn": [],
 "node": null,
 "title": "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-615deb1d8a"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
 "type": "document",
 "urls": [
 "https://archive.org/stream/396201-defe-24-2090-1/396201-defe-24-2090-1_djvu.txt"

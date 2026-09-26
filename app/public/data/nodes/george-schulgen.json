@@ -28,10 +28,16 @@
 {
 "id": "c-afceed90c3",
 "source": "Schulgen, 'Intelligence Requirements on Flying Saucer Type Aircraft', draft collection memorandum, 28 Oct 1947 (distributed 30 Oct 1947)",
-"sources": [],
+"sources": [
+{
+"id": "n-schulgen-memo",
+"locator": null,
+"title": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft"
+}
+],
 "text": "Schulgen's collection memorandum instructed collectors to report on disc-type craft with 'extreme maneuverability and apparent ability to almost hover' and construction achieving 'extreme light weight.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-25d7f36cff",
@@ -39,7 +45,7 @@
 "sources": [],
 "text": "The memorandum lists 'Nuclear propulsion (atomic energy)' among the propulsion systems collectors were to investigate.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:schulgen-memo) was rejected in review: 'same document' cannot be resolved from the string"
 },
 {
 "id": "c-50bad079a1",
@@ -47,7 +53,7 @@
 "sources": [],
 "text": "The stated working hypothesis was Soviet exploitation of German Horten brothers designs, and collectors were asked to establish the Hortens' current whereabouts.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:schulgen-memo) was rejected in review: 'same document' cannot be resolved from the string"
 },
 {
 "id": "c-5ef4eff635",

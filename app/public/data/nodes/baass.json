@@ -93,9 +93,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "sources": [
 {
-"id": "u-dia-mil-5d0ebf39",
+"id": "n-dia-sap-denial-memo-2009",
 "locator": null,
-"title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)"
+"title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
 }
 ],
 "text": "DIA Info Memo U-09-2660 (13 Nov 2009): 'All program documents delivered to [DIA] during FY 2009 (the first year of the program) were unclassified because the contractor had not established a secure facility, and program employees were being vetted for clearances. In FY 2010, most research products will remain at the unclassified level. However, four to six of the original technical reports will be expanded to include classified data.'",
@@ -121,9 +121,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237611/",
 "sources": [
 {
-"id": "u-dia-mil-5d0ebf39",
+"id": "n-dia-sap-denial-memo-2009",
 "locator": null,
-"title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)"
+"title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
 }
 ],
 "text": "The FY2010 pivot described in U-09-2660 — 'four to six of the original technical reports will be expanded to include classified data', focused on 'foreign research in a particular technology area' — is the point at which the publicly-visible DIRD series stops and the record goes dark. The 37-38 released DIRDs are, by DIA's own account, the unclassified subset.",
@@ -137,7 +137,7 @@
 {
 "id": "foia-dia-00349-2018",
 "locator": null,
-"title": "DIA FOIA-00349-2018"
+"title": "DIA release FOIA-00349-2018"
 }
 ],
 "text": "BAASS, of 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, is the named awardee of DIA firm-fixed-price contract HHM402-08-C-0072.",
@@ -147,10 +147,16 @@
 {
 "id": "c-24ab23fda0",
 "source": "AARO Historical Record Report Volume 1, p.23",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.23",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "DoD states the contractor 'conducted UFO research with the support of the DIA program manager' although UAP investigation was not in the statement of work.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7fcd5c6ac2",
@@ -158,15 +164,21 @@
 "sources": [],
 "text": "Colm Kelleher served as Deputy Administrator of BAASS from 2008 and led day-to-day execution of the AAWSAP contract.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-020d455dc8",
 "source": "BAASS Ten Month Report (2009), leaked copy analysed publicly since 2020",
-"sources": [],
+"sources": [
+{
+"id": "n-baass-ten-month-report",
+"locator": "leaked copy, analysed publicly since 2020",
+"title": "BAASS Ten Month Report (2009)"
+}
+],
 "text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 covering field investigations, laboratory physics, and case database construction.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ab0f2bb8bd",
@@ -174,7 +186,7 @@
 "sources": [],
 "text": "BAASS contracted with MUFON in 2009 to fund the Star Team Impact Project for rapid-response field investigation, terminating the arrangement in 2010.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html) was rejected in review: names two sources; candidate is only one"
 }
 ],
 "cls": "institution",

@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ed860dfc07",
+"locator": null,
+"node": "richard-damato",
+"nodeLabel": "Richard D'Amato",
+"sourceText": "Richard D'Amato public statement, quoted in Liberation Times, 28 February 2023",
+"text": "'A senior Senate Committee chairman asked me to conduct a preliminary inquiry into allegations that came to his attention regarding unidentified aerial crashes in the 1940s in New Mexico... I reported my conclusion to the Senator that the basis for such allegations did not appear to merit any further Senate investigation.'",
+"tier": 2
+}
+],
+"date": "2023-02-28",
+"edges": [],
+"era": "3",
+"id": "t-8c3c369a4b4f",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [],
+"node": null,
+"title": "Liberation Times, 28 February 2023",
+"topics": [
+{
+"claims": [
+"c-ed860dfc07"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+},
+{
+"claims": [
+"c-ed860dfc07"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+}
+],
+"type": "article",
+"urls": []
+}

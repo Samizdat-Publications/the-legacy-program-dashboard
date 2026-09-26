@@ -10,6 +10,16 @@
 "sourceText": "https://oversight.house.gov/wp-content/uploads/2025/09/Borland-Written-Testimony.pdf",
 "text": "Written testimony filed with the House Oversight Task Force, 9 September 2025.",
 "tier": 1
+},
+{
+"cls": "event",
+"id": "c-a81511c283",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "Dylan Borland, written testimony, 9 September 2025",
+"text": "Borland filed complaints with AARO in March 2023 and with the Intelligence Community Inspector General in August 2023, and alleges more than a decade of retaliation including blacklisting and manipulation of security clearance records.",
+"tier": 2
 }
 ],
 "date": null,
@@ -54,10 +64,18 @@
 "topics": [
 {
 "claims": [
-"c-04a427edb1"
+"c-04a427edb1",
+"c-a81511c283"
 ],
 "id": "congressional-witnesses",
 "title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-a81511c283"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
 }
 ],
 "type": "document",

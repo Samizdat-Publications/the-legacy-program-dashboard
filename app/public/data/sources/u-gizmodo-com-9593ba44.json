@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-f03a2ef640",
+"locator": null,
+"node": "aaro-metallic-specimen-analysis",
+"nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"sourceText": "Gizmodo, 11 July 2024, quoting the published synopsis",
+"text": "Neither AARO nor ORNL could verify the specimen's historical origin.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-17ddeeb978",
+"locator": null,
+"node": "oak-ridge-national-laboratory",
+"nodeLabel": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
+"sourceText": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
+"text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -35,7 +56,22 @@
 ],
 "node": null,
 "title": "Gizmodo",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-17ddeeb978"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-17ddeeb978"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+}
+],
 "type": "web page",
 "urls": [
 "https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433"

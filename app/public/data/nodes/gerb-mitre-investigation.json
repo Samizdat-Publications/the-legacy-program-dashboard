@@ -7,42 +7,72 @@
 {
 "id": "c-623dc83a8f",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-mitre-investigation",
+"locator": null,
+"title": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
 "text": "FFRDCs are the missing link: they allow the USG to technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ef3c50efe0",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-mitre-investigation",
+"locator": null,
+"title": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
 "text": "MITRE has been central to a program reverse-engineering and maturing non-human technologies from late-1940s recoveries since its 1958 inception.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1fd8a02e99",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-mitre-investigation",
+"locator": null,
+"title": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
 "text": "MITRE processes all-source data for the tracking and monitoring of an enormous USO ('tic tac factory') with permanent or semi-permanent station in the Atlantic.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a71c8b454b",
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-mitre-investigation",
+"locator": null,
+"title": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
 "text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2015ddbadf",
 "source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-mitre-org-d0073f69",
+"locator": null,
+"title": "MITRE Corporation - official site"
+}
+],
 "text": "MITRE operates six FFRDCs: the National Security Engineering Center; the Center for Advanced Aviation System Development; the Center for Enterprise Modernization; the Homeland Security Systems Engineering and Development Institute; the Health FFRDC; and the National Cybersecurity FFRDC.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e8b18a23b9",
@@ -50,7 +80,7 @@
 "sources": [],
 "text": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters titled FFRDC Primer, The MITRE Corporation, MITRE & UFO Legacy Programs, MITRE Gatekeepers, and MITRE Interrogative.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:gerb-mitre-investigation) was rejected in review: no channel or title named; date alone not shown in candidate row"
 },
 {
 "id": "c-1028666d2b",
@@ -58,7 +88,7 @@
 "sources": [],
 "text": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner in the US Government's and DoD's most national-security-sensitive national programs since 1958.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:gerb-mitre-investigation) was rejected in review: outlet and date only; candidate row shows no 7 August date"
 },
 {
 "id": "c-413d209acc",
@@ -66,7 +96,7 @@
 "sources": [],
 "text": "It alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to the MITRE portfolio since 1958; and tracking of an enormous USO with permanent or semi-permanent Atlantic station, with all-source data processed by MITRE.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:gerb-mitre-investigation) was rejected in review: outlet and date only; candidate row shows no 7 August date"
 },
 {
 "id": "c-66eeaec9a5",
@@ -74,7 +104,7 @@
 "sources": [],
 "text": "It alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:gerb-mitre-investigation) was rejected in review: outlet and date only; candidate row shows no 7 August date"
 },
 {
 "id": "c-609d946451",
@@ -82,8 +112,8 @@
 "sources": [
 {
 "id": "crs-r44629",
-"locator": "'s summary of FAR 35.017",
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"locator": null,
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "Its central structural claim - that FFRDCs arbitrate what UFO programme information reaches defence contractors - is independently supported by FAR 35.017's grant of access to both government and supplier data beyond a normal contractual relationship. Reasoning: the regulation creates the chokepoint regardless of whether the specific allegations hold.",
@@ -594,7 +624,7 @@
 ],
 "sub": "Video investigation, 7 Aug 2026",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 211 of 1138, score 45). 10 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 210 of 1138, score 45). 10 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

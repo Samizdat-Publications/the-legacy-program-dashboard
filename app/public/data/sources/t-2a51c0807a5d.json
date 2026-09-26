@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-0f49959cc6",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "Grusch, Capitol press conference, 9 June 2026, NewsNation coverage",
+"text": "States the US government is aware of 'several' kinds of non-human intelligence, ranging in complexity; calls for whistleblower immunity, NDA waivers, and declassification including records on the 1996 Varginha incident.",
+"tier": 2
+}
+],
+"date": "2026-06-09",
+"edges": [],
+"era": "3",
+"id": "t-2a51c0807a5d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "Grusch, Capitol press conference, 9 June 2026, NewsNation coverage",
+"topics": [
+{
+"claims": [
+"c-0f49959cc6"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+}
+],
+"type": "broadcast",
+"urls": []
+}

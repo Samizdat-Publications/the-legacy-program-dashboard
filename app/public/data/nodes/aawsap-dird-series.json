@@ -10,7 +10,7 @@
 "sources": [],
 "text": "DIA released a list of 38 AATIP/AAWSAP research titles to Steven Aftergood of FAS on 16 January 2019; the list had previously been provided to Congress in January 2018. The programme cost approximately $22 million and ran 2007-2012.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:dia-aatip-list-2019) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-ab6f1c3ce1",
@@ -18,15 +18,21 @@
 "sources": [],
 "text": "The released DIRDs are hosted in the DIA FOIA Electronic Reading Room alongside the AAWSAP statement of work, four contract status briefs, Bigelow Aerospace contract records, the 'Final Packet Presented to DepSecDef', and correspondence including 'Reid To DEPSECDEF Ref AAITP In SAP' and 'U-09-2660CE IM Review Of Special Access Program Request'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/the-advanced-aviation-threat-identificatio) was rejected in review: DIA reading room is not the Black Vault page"
 },
 {
 "id": "c-3abfde0cf8",
 "source": "Administrative note, DIA-08-1004-004",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-traversable-wormholes",
+"locator": "administrative note",
+"title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+}
+],
 "text": "DIA-08-1004-004 states that its product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program', with questions to be addressed to James T. Lacatski, D.Eng., AAWSA Program Manager, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ef8c21cd45",

@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-03917995fa",
+"locator": null,
+"node": "matt-ross",
+"nodeLabel": "Matt Ross",
+"sourceText": "Reported figure cited in The Debrief, 30 January 2026",
+"text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
+"tier": 2
+}
+],
+"date": "2026-01-30",
+"edges": [],
+"era": "3",
+"id": "t-fe3e5e830a63",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "The Debrief, 30 January 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

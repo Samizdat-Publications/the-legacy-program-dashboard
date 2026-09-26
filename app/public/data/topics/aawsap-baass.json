@@ -32,7 +32,13 @@
     "text": "Honolulu Civil Beat, 13 June 2021",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-civilbeat-org-8a18ad5d",
+     "locator": null,
+     "title": "Honolulu Civil Beat — How Hawaii Sen. Dan Inouye Helped Set The Stage For UFO Research"
+    }
+   ],
    "text": "Inouye, Reid and Stevens collaborated in 2007 to direct $22 million into the Pentagon's classified black budget for UFO-related research; Inouye's chairmanship of Appropriations was pivotal in bypassing Senate floor debate about the allocation.",
    "tier": 2
   },
@@ -80,7 +86,13 @@
     "text": "DIA release Contract_FY10.pdf",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents2-theblackvault-b2eee22c",
+     "locator": null,
+     "title": "AAWSAP contract FY10 modification"
+    }
+   ],
    "text": "A modification of contract exercising the FY10 option period was executed 2 September 2009.",
    "tier": 1
   },
@@ -94,7 +106,13 @@
     "text": "James Lacatski to Jeremy Corbell, published 8 April 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-124932fc0083",
+     "locator": null,
+     "title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+    }
+   ],
    "text": "'The program created the world's largest UFO data warehouse, a stack of more than 100 thick, highly detailed reports filled with hard data about UFO cases and incidents.'",
    "tier": 2
   },
@@ -128,7 +146,13 @@
     "text": "Packet presented to DEPSECDEF, 17 November 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-depsecdef-sap-packet-2009",
+     "locator": null,
+     "title": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+    }
+   ],
    "text": "DIA completed technical reviews in October 2009 covering 26 papers and found no justification for restricted SAP protections.",
    "tier": 1
   },
@@ -196,7 +220,13 @@
     "text": "Susan Gough to The Black Vault, 13 June 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-584b2a30",
+     "locator": null,
+     "title": "The Black Vault"
+    }
+   ],
    "text": "DoD spokesperson Susan Gough confirmed the letter's authenticity on 13 June 2019.",
    "tier": 1
   },
@@ -224,7 +254,13 @@
     "text": "AARO Historical Record Report Volume 1, p.23",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "p.23",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "DoD states the contractor 'conducted UFO research with the support of the DIA program manager' although UAP investigation was not in the statement of work.",
    "tier": 1
   },
@@ -238,7 +274,13 @@
     "text": "DIA memo U-429-09-DWO-IM",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-deliverables-review-2009",
+     "locator": null,
+     "title": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+    }
+   ],
    "text": "The AAWSAP program manager personally reviewed all papers and concurred with the reviewers' assessments.",
    "tier": 1
   },
@@ -252,7 +294,13 @@
     "text": "Leaked BAASS Ten Month Report (2009), publicly circulated and analysed since 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-baass-ten-month-report",
+     "locator": null,
+     "title": "BAASS Ten Month Report (2009)"
+    }
+   ],
    "text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 integrating laboratory physics research with field investigation, case database construction and sustained operations at the Utah ranch.",
    "tier": 2
   },
@@ -266,7 +314,13 @@
     "text": "DIA memo U-09-2660CE-IM",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-sap-denial-memo-2009",
+     "locator": null,
+     "title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+    }
+   ],
    "text": "DIA stated the information is 'not owned by, produced by or for, or under control of the U.S. government' and that DIA is 'prohibited from classifying basic scientific research' absent a national security nexus.",
    "tier": 1
   },
@@ -280,7 +334,13 @@
     "text": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-d099175d3a9c",
+     "locator": null,
+     "title": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017"
+    }
+   ],
    "text": "Bigelow told CBS 60 Minutes he is 'absolutely convinced' of an extraterrestrial presence on Earth.",
    "tier": 2
   },
@@ -294,7 +354,13 @@
     "text": "AARO Historical Record Report Volume 1, p.24",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "p.24",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "'AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.'",
    "tier": 1
   },
@@ -364,9 +430,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-247dc3ad",
+     "id": "n-reid-sap-letter-2009",
      "locator": null,
-     "title": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)"
+     "title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
     }
    ],
    "text": "Letterhead: 'HARRY REID, MAJORITY LEADER, NEVADA — United States Senate, Washington, DC 20510'. Dated June 24, 2009. Addressed to 'Honorable William Lynn III, Deputy Secretary of Defense, 1010 Defense Pentagon, Washington, DC 20301-1010'. Salutation: 'Dear Secretary Lynn:'",
@@ -462,7 +528,13 @@
     "text": "DIA memo U-429-09-DWO-IM",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-deliverables-review-2009",
+     "locator": null,
+     "title": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+    }
+   ],
    "text": "Thirteen reviews were conducted on the 26 FY09 reports: eight by other report authors and five by outside reviewers, three of whom were Sandia National Laboratories staff.",
    "tier": 1
   },
@@ -480,7 +552,7 @@
     {
      "id": "foia-dia-00349-2018",
      "locator": "13 October 2022",
-     "title": "DIA FOIA-00349-2018"
+     "title": "DIA release FOIA-00349-2018"
     }
    ],
    "text": "Contract HHM402-08-C-0072 was awarded 22 September 2008 to Bigelow Aerospace Advanced Space Studies, LLC, firm fixed price, $10,000,000 base with four option years.",
@@ -532,9 +604,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-5d0ebf39",
+     "id": "n-dia-sap-denial-memo-2009",
      "locator": null,
-     "title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)"
+     "title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
     }
    ],
    "text": "DIA Info Memo U-09-2660 (13 Nov 2009): 'All program documents delivered to [DIA] during FY 2009 (the first year of the program) were unclassified because the contractor had not established a secure facility, and program employees were being vetted for clearances. In FY 2010, most research products will remain at the unclassified level. However, four to six of the original technical reports will be expanded to include classified data.'",
@@ -550,7 +622,13 @@
     "text": "DIA memo U-09-2660CE-IM, 13 November 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-sap-denial-memo-2009",
+     "locator": null,
+     "title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+    }
+   ],
    "text": "DIA found 'insufficient grounds to classify this open program' and that no report contained information 'sufficiently sensitive and vulnerable to require extra protection'.",
    "tier": 1
   },
@@ -564,7 +642,13 @@
     "text": "DIA solicitation HHM402-08-R-0211, v.3, released via The Black Vault",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aawsap-solicitation",
+     "locator": null,
+     "title": "DIA Solicitation HHM402-08-R-0211"
+    }
+   ],
    "text": "Solicitation number HHM402-08-R-0211, posted 18 August 2008 by DIA Virginia Contracting Activity (ZD50), contracting officer Jennifer Sylvestre, Government Project Leader Dr. James T. Lacatski.",
    "tier": 1
   },
@@ -634,9 +718,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-5d0ebf39",
+     "id": "n-dia-sap-denial-memo-2009",
      "locator": null,
-     "title": "DIA Info Memo U-09-2660, 'Review of Special Access Program Request', 13 Nov 2009 (DIA FOIA release)"
+     "title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
     }
    ],
    "text": "Finding: 'In reviewing the deliverables to date and looking ahead to planned production in fiscal year (FY) 2010, DIA cannot find adequate justification to establish a restricted SAP... Based on classification levels of current and projected program deliverables, there are insufficient grounds to classify this open program, invoke alternative or compensatory control measures (ACCM), or establish a restricted SAP.'",
@@ -655,7 +739,7 @@
    "sourceRefs": [
     {
      "id": "foia-dia-00023-2022",
-     "locator": "and APP-00031-2022, released via The Black Vault, 2023",
+     "locator": null,
      "title": "DIA FOIA-00023-2022"
     }
    ],
@@ -674,9 +758,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-329a555d",
+     "id": "n-aaro-historical-record-vol1",
      "locator": null,
-     "title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
     }
    ],
    "text": "AARO Historical Record Report Vol. I: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' and 'DIA established AAWSAP in 2009, which was also known [as] AATIP.'",
@@ -692,7 +776,13 @@
     "text": "HHM402-08-R-0211 statement of work",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aawsap-solicitation",
+     "locator": "statement of work",
+     "title": "DIA Solicitation HHM402-08-R-0211"
+    }
+   ],
    "text": "'The objective of this program is to understand the physics and engineering of these applications as they apply to the foreign threat out to the far term, i.e., from now through the year 2050.'",
    "tier": 1
   },
@@ -708,9 +798,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-247dc3ad",
+     "id": "n-reid-sap-letter-2009",
      "locator": null,
-     "title": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)"
+     "title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
     }
    ],
    "text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
@@ -726,7 +816,13 @@
     "text": "Lacatski to Corbell, 8 April 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-124932fc0083",
+     "locator": null,
+     "title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+    }
+   ],
    "text": "Lacatski doubts the actual AAWSAP files will ever be released and treats his books as the closest available substitute for disclosure.",
    "tier": 2
   },
@@ -760,7 +856,13 @@
     "text": "Reid to Lynn, 24 June 2009, DIA FOIA release",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-reid-sap-letter-2009",
+     "locator": null,
+     "title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+    }
+   ],
    "text": "Reid requested 'a Restricted Special-Access-Program (SAP) with a Bigoted Access List for specific portions of the AATIP', naming protectable areas including methodologies for identifying and engineering advanced technologies and the involvement of private contractors and industry partners.",
    "tier": 1
   },
@@ -788,7 +890,13 @@
     "text": "Gideon Lewis-Kraus, The New Yorker, 10 May 2021, quoting NIDS' own description",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-newyorker-com-433afd8b",
+     "locator": "quoting NIDS' own description",
+     "title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+    }
+   ],
    "text": "Bigelow founded NIDS in 1995 as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena,' and purchased Skinwalker Ranch the following year.",
    "tier": 1
   },
@@ -804,9 +912,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-media-defense-gov-2a0d77a1",
+     "id": "n-aaro-historical-record-vol1",
      "locator": null,
-     "title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov"
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
     }
    ],
    "text": "Report page 34, section 'KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program': 'KONA BLUE was brought to AARO's attention by interviewees who claimed that it was a sensitive DHS compartment to cover up the retrieval and exploitation of \"non-human biologics.\" KONA BLUE traces its origins to the DIA-managed AAWSAP/AATIP program, which was funded through a special appropriation and executed by its primary contractor, a private sector organization. DIA cancelled the program in 2012 due to lack of merit and the utility of the deliverables.'",
@@ -840,7 +948,7 @@
     {
      "id": "foia-dia-00349-2018",
      "locator": "released 13 Oct 2022",
-     "title": "DIA FOIA-00349-2018"
+     "title": "DIA release FOIA-00349-2018"
     }
    ],
    "text": "Bigelow Aerospace Advanced Space Studies, LLC, 4640 S. Eastern Ave, Las Vegas NV 89119, DUNS 827037768, CAGE 54JU7, was awarded firm-fixed-price contract HHM402-08-C-0072 on 22 September 2008 with a base value of $10,000,000.",
@@ -910,7 +1018,13 @@
     "text": "Jack Brewer, The UFO Trail, March 2022",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-ufotrail-blogspot-com-a77cb16c",
+     "locator": null,
+     "title": "The UFO Trail"
+    }
+   ],
    "text": "DIA withheld the AAWSAP contract in a 2011 FOIA response, releasing it only in October 2022.",
    "tier": 1
   },
@@ -938,7 +1052,13 @@
     "text": "DIA FOIA response reported by Jack Brewer, The UFO Trail, March 2022 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-ufotrail-blogspot-com-a77cb16c",
+     "locator": null,
+     "title": "The UFO Trail"
+    }
+   ],
    "text": "DIA reported it could locate no report matching the description of 'Utah Ranch Investigation: August 2009-February 2010' as described by Lacatski and co-authors.",
    "tier": 2
   },
@@ -972,7 +1092,13 @@
     "text": "DIA solicitation HHM402-08-R-0211, posted 18 Aug 2008, released via The Black Vault",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aawsap-solicitation",
+     "locator": null,
+     "title": "DIA Solicitation HHM402-08-R-0211"
+    }
+   ],
    "text": "Lacatski is identified by name as 'Government Project Leader' on the DIA AAWSAP solicitation, the only unredacted appearance of the PM in the procurement record.",
    "tier": 1
   },
@@ -986,7 +1112,13 @@
     "text": "HHM402-08-R-0211 statement of work",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aawsap-solicitation",
+     "locator": "statement of work",
+     "title": "DIA Solicitation HHM402-08-R-0211"
+    }
+   ],
    "text": "The statement of work specifies eleven technical areas including 'spatial/temporal translation', 'signature reduction', 'human interface' and 'human effects'.",
    "tier": 1
   },
@@ -1000,7 +1132,13 @@
     "text": "Packet presented to DEPSECDEF, 17 November 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-depsecdef-sap-packet-2009",
+     "locator": null,
+     "title": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+    }
+   ],
    "text": "Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time' based on FY09 deliverables and anticipated FY10 work.",
    "tier": 1
   },
@@ -1068,7 +1206,13 @@
     "text": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "p.23",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "DoD's own 2024 historical report states the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
    "tier": 1
   },
@@ -1082,7 +1226,13 @@
     "text": "Reid to Lynn, 24 June 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-reid-sap-letter-2009",
+     "locator": null,
+     "title": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+    }
+   ],
    "text": "The letter projects program length FY09 through FY13 with a preliminary bigoted list for FY10, and refers questions to Reid staffer Bob Herbert.",
    "tier": 1
   },
@@ -1116,7 +1266,13 @@
     "text": "The Debrief, 'Colm Kelleher: AAWSAP and the Skinwalker Enigma', 25 May 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thedebrief-org-7690ed28",
+     "locator": null,
+     "title": "The Debrief"
+    }
+   ],
    "text": "Kelleher led the NIDS team on Skinwalker Ranch 1996-2004 and in 2008 became Deputy Administrator of BAASS, leading day-to-day execution of the AAWSAP contract.",
    "tier": 2
   },
@@ -1130,7 +1286,13 @@
     "text": "DIA memo U-429-09-DWO-IM, 30 October 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-deliverables-review-2009",
+     "locator": null,
+     "title": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+    }
+   ],
    "text": "'All of the reviews were positive, some exceptionally so' and 'the quality hoped for in the reports was achieved'.",
    "tier": 1
   },
@@ -1148,7 +1310,7 @@
     {
      "id": "foia-dia-00349-2018",
      "locator": null,
-     "title": "DIA FOIA-00349-2018"
+     "title": "DIA release FOIA-00349-2018"
     }
    ],
    "text": "All key government personnel names — contracting officer, COR and Government Project Leader — are redacted in the released contract under 10 USC 424.",

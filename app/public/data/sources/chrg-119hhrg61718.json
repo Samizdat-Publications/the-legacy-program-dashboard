@@ -14,7 +14,7 @@
 {
 "cls": "person",
 "id": "c-bc6110fd55",
-"locator": "CONTENTS",
+"locator": null,
 "node": "alexandro-wiggins",
 "nodeLabel": "Alexandro Wiggins",
 "sourceText": "CHRG-119hhrg61718 CONTENTS",
@@ -44,7 +44,7 @@
 {
 "cls": "person",
 "id": "c-0962bee36a",
-"locator": "proceedings",
+"locator": null,
 "node": "anna-paulina-luna",
 "nodeLabel": "Anna Paulina Luna",
 "sourceText": "CHRG-119hhrg61718 proceedings",
@@ -63,12 +63,32 @@
 },
 {
 "cls": "person",
+"id": "c-6d1dba294f",
+"locator": null,
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "House Oversight hearing record, 9 September 2025",
+"text": "Luna chaired the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection' before the Task Force on the Declassification of Federal Secrets.",
+"tier": 1
+},
+{
+"cls": "person",
 "id": "c-7c66791e3f",
 "locator": null,
 "node": "anna-paulina-luna",
 "nodeLabel": "Anna Paulina Luna",
 "sourceText": "Chairwoman Anna Paulina Luna, opening statement, 9 September 2025, GPO transcript CHRG-119hhrg61718",
 "text": "'The Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations... were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a2e46a16ef",
+"locator": "opening statement of Anna Paulina Luna",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "Luna opening statement, Task Force hearing, 9 September 2025",
+"text": "'This is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.'",
 "tier": 1
 },
 {
@@ -103,6 +123,16 @@
 },
 {
 "cls": "institution",
+"id": "c-2bc2e6d173",
+"locator": "sworn testimony of George Knapp",
+"node": "bigelow-aerospace",
+"nodeLabel": "Bigelow Aerospace",
+"sourceText": "George Knapp, sworn testimony, 9 September 2025",
+"text": "BAASS was to receive 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
+"tier": 2
+},
+{
+"cls": "institution",
 "id": "c-3104436903",
 "locator": null,
 "node": "oversight-congress",
@@ -114,7 +144,7 @@
 {
 "cls": "person",
 "id": "c-7a6543a6cf",
-"locator": "INDEX OF DOCUMENTS",
+"locator": null,
 "node": "david-grusch",
 "nodeLabel": "David Charles Grusch",
 "sourceText": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
@@ -144,12 +174,32 @@
 {
 "cls": "person",
 "id": "c-c5e399264e",
-"locator": "CONTENTS",
+"locator": null,
 "node": "dylan-borland",
 "nodeLabel": "Dylan Borland",
 "sourceText": "CHRG-119hhrg61718 CONTENTS",
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. Dylan Borland, UAP Witness, U.S. Air Force Veteran'.",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-447750549b",
+"locator": "testimony of Dylan Borland",
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "Dylan Borland, House Oversight Task Force hearing, 9 September 2025",
+"text": "'Numerous individuals have come forward ... yet many feel discarded, isolated, hopeless.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-487eb621f8",
+"locator": "sworn testimony of Dylan Borland",
+"node": "dylan-borland",
+"nodeLabel": "Dylan Borland",
+"sourceText": "Dylan Borland, sworn testimony, House Oversight Task Force, 9 September 2025",
+"text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals from government agencies for more than a decade.'",
+"tier": 2
 },
 {
 "cls": "location",
@@ -164,7 +214,7 @@
 {
 "cls": "person",
 "id": "c-1ce235583d",
-"locator": "INDEX OF DOCUMENTS",
+"locator": null,
 "node": "eli-crane",
 "nodeLabel": "Elijah Crane",
 "sourceText": "CHRG-119hhrg61718 INDEX OF DOCUMENTS",
@@ -224,11 +274,21 @@
 {
 "cls": "person",
 "id": "c-67ffb4cf08",
-"locator": "CONTENTS",
+"locator": null,
 "node": "george-knapp",
 "nodeLabel": "George Knapp",
 "sourceText": "CHRG-119hhrg61718 CONTENTS",
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f1a5446073",
+"locator": "sworn statement of George Knapp",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"text": "'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.'",
 "tier": 1
 },
 {
@@ -239,6 +299,16 @@
 "nodeLabel": "George Knapp",
 "sourceText": "CHRG-119hhrg61718, 9 September 2025",
 "text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-5b50718005",
+"locator": "sworn testimony of George Knapp",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"text": "'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
 "tier": 2
 },
 {
@@ -313,6 +383,16 @@
 },
 {
 "cls": "event",
+"id": "c-0bea1751ec",
+"locator": "Serial No. 119-44",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "Serial No. 119-44, 9 September 2025",
+"text": "Dylan Borland testified that before Grusch and the disclosure process, suppression of witnesses was 'probably extremely widespread,' and warned that if the process returns behind closed doors 'this is going to get really ugly.'",
+"tier": 1
+},
+{
+"cls": "event",
 "id": "c-0bf7a2bfaf",
 "locator": "cover page",
 "node": "hearing-2025-09-09",
@@ -344,7 +424,7 @@
 {
 "cls": "event",
 "id": "c-6f87b757d2",
-"locator": "front matter",
+"locator": null,
 "node": "hearing-2025-09-09",
 "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "sourceText": "CHRG-119hhrg61718 front matter",
@@ -359,6 +439,16 @@
 "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "sourceText": "CHRG-119hhrg61718",
 "text": "Reps. Biggs, Begich, Ogles, Titus and Moskowitz were waived onto the Task Force for the purpose of questioning witnesses.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-b39b1aa205",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "House Oversight hearing record, 9 September 2025",
+"text": "The hearing was held 9 September 2025 before the House Oversight Task Force on the Declassification of Federal Secrets with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.",
 "tier": 1
 },
 {
@@ -432,6 +522,16 @@
 "tier": 2
 },
 {
+"cls": "event",
+"id": "c-d8a37809c2",
+"locator": "testimony of George Knapp",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "George Knapp, House Oversight Task Force hearing, 9 September 2025",
+"text": "Knapp: the public has been told since the late 1940s 'there's nothing to worry about here,' while documents show personnel acknowledging 'these things are real. They're not fictitious.'",
+"tier": 2
+},
+{
 "cls": "person",
 "id": "c-5d9d2b673f",
 "locator": null,
@@ -444,7 +544,7 @@
 {
 "cls": "person",
 "id": "c-44c910089d",
-"locator": "and oversight.house.gov releases",
+"locator": null,
 "node": "james-comer",
 "nodeLabel": "James Comer Jr.",
 "sourceText": "Inference from CHRG-118hhrg53022, CHRG-118hhrg57440, CHRG-119hhrg61718 and oversight.house.gov releases",
@@ -493,13 +593,43 @@
 },
 {
 "cls": "person",
+"id": "c-e61e723fac",
+"locator": null,
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "House Committee on Oversight and Government Reform hearing record, 9 September 2025",
+"text": "He appeared as a named witness at the 9 September 2025 hearing 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection.'",
+"tier": 1
+},
+{
+"cls": "person",
 "id": "c-e8ad81d814",
-"locator": "CONTENTS",
+"locator": null,
 "node": "jeffrey-nuccetelli",
 "nodeLabel": "Jeffrey Nuccetelli",
 "sourceText": "CHRG-119hhrg61718 CONTENTS",
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. Jeffrey Nuccetelli, U.S. Air Force Veteran'.",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-704b03a2e9",
+"locator": "testimony of Jeffrey Nuccetelli",
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "Nuccetelli, House Oversight hearing, 9 September 2025",
+"text": "'Transparency is the foundation of truth. Without it, witnesses like us are dismissed.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-986e9668cc",
+"locator": "sworn testimony of Jeffrey Nuccetelli",
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "Jeffrey Nuccetelli, sworn testimony, House Oversight Task Force, 9 September 2025",
+"text": "'Each incident was witnessed by multiple personnel, documented, investigated and reported up the chain of command.'",
+"tier": 2
 },
 {
 "cls": "person",
@@ -514,12 +644,32 @@
 {
 "cls": "person",
 "id": "c-6721d94be1",
-"locator": "CONTENTS",
+"locator": null,
 "node": "joe-spielberger",
 "nodeLabel": "Joe Spielberger",
 "sourceText": "CHRG-119hhrg61718 CONTENTS",
 "text": "Minority witness of record at the 9 September 2025 hearing: 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'.",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-894a80ae6c",
+"locator": "remarks of Rep. Nancy Mace",
+"node": "ken-klippenstein",
+"nodeLabel": "Ken Klippenstein",
+"sourceText": "Rep. Nancy Mace, Task Force on the Declassification of Federal Secrets hearing, 9 September 2025",
+"text": "Members of Congress characterize the leak as retaliation: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-ac64874b83",
+"locator": "sworn testimony of George Knapp",
+"node": "lockheed-martin",
+"nodeLabel": "Lockheed Martin Corporation",
+"sourceText": "George Knapp, sworn testimony, 9 September 2025",
+"text": "Asked to name corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do.'",
+"tier": 2
 },
 {
 "cls": "institution",
@@ -563,6 +713,16 @@
 },
 {
 "cls": "document",
+"id": "c-4ece534b0d",
+"locator": "Serial No. 119-44",
+"node": "crane-dod-reprisal-letter",
+"nodeLabel": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
+"sourceText": "Serial No. 119-44, 9 September 2025",
+"text": "As of 9 September 2025 DoD had not replied; Chairwoman Luna stated the Task Force would follow up.",
+"tier": 1
+},
+{
+"cls": "document",
 "id": "c-64136c0284",
 "locator": "9 September 2025",
 "node": "crane-dod-reprisal-letter",
@@ -580,6 +740,16 @@
 "sourceText": "GPO CHRG-119hhrg61718, Index of Documents",
 "text": "Listed in the hearing's Index of Documents as 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-996d594436",
+"locator": "sworn testimony of George Knapp",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "George Knapp, sworn testimony, 9 September 2025",
+"text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin' for 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
+"tier": 2
 },
 {
 "cls": "institution",
@@ -2120,7 +2290,7 @@
 }
 ],
 "node": null,
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)",
 "topics": [
 {
 "claims": [
@@ -2129,13 +2299,17 @@
 "c-7c66791e3f",
 "c-e0a905964c",
 "c-c5655c2681",
+"c-487eb621f8",
 "c-1ce235583d",
 "c-4d89549125",
 "c-0bf4c36931",
 "c-48ae97948e",
+"c-f1a5446073",
 "c-2404414528",
+"c-5b50718005",
 "c-da031b7d10",
 "c-0adda258ce",
+"c-0bea1751ec",
 "c-0bf7a2bfaf",
 "c-128ede6611",
 "c-6f87b757d2",
@@ -2145,6 +2319,7 @@
 "c-44c910089d",
 "c-9abfe2a2b1",
 "c-0d81482456",
+"c-986e9668cc",
 "c-2d51581442",
 "c-e2be270358",
 "c-9724a1df3a"
@@ -2158,15 +2333,20 @@
 "c-7a6543a6cf",
 "c-c5655c2681",
 "c-c5e399264e",
+"c-487eb621f8",
 "c-67ffb4cf08",
+"c-f1a5446073",
 "c-2404414528",
+"c-5b50718005",
 "c-da031b7d10",
 "c-ea62b8981e",
+"c-0bea1751ec",
 "c-0bf7a2bfaf",
 "c-128ede6611",
 "c-68029c0e89",
 "c-fb1af2ba9a",
 "c-e8ad81d814",
+"c-986e9668cc",
 "c-62c7f116b4",
 "c-62c7f116b4"
 ],
@@ -2190,6 +2370,30 @@
 },
 {
 "claims": [
+"c-67ffb4cf08",
+"c-f1a5446073",
+"c-2404414528",
+"c-5b50718005",
+"c-da031b7d10",
+"c-894a80ae6c"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+},
+{
+"claims": [
+"c-447750549b",
+"c-487eb621f8",
+"c-1ce235583d",
+"c-4d89549125",
+"c-ea62b8981e",
+"c-4ece534b0d"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+},
+{
+"claims": [
 "c-0bf4c36931",
 "c-48ae97948e",
 "c-72551ea992",
@@ -2201,12 +2405,12 @@
 },
 {
 "claims": [
-"c-67ffb4cf08",
-"c-2404414528",
-"c-da031b7d10"
+"c-894a80ae6c",
+"c-4ece534b0d",
+"c-64136c0284"
 ],
-"id": "media-substrate",
-"title": "Podcasts, broadcasters and independent media"
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
 },
 {
 "claims": [
@@ -2219,12 +2423,19 @@
 },
 {
 "claims": [
-"c-1ce235583d",
-"c-4d89549125",
-"c-ea62b8981e"
+"c-ac64874b83",
+"c-b6d6789c8c"
 ],
-"id": "whistleblower-channels",
-"title": "Whistleblower channels, protections and reprisal"
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-ac64874b83",
+"c-b6d6789c8c"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
 },
 {
 "claims": [
@@ -2233,6 +2444,14 @@
 ],
 "id": "testimony-provenance",
 "title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-ac64874b83",
+"c-b6d6789c8c"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
 },
 {
 "claims": [
@@ -2261,13 +2480,6 @@
 "claims": [
 "c-b6d6789c8c"
 ],
-"id": "carve-outs",
-"title": "Carve-outs and contractor security oversight"
-},
-{
-"claims": [
-"c-b6d6789c8c"
-],
 "id": "cia-secrecy-precedents",
 "title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
 },
@@ -2280,31 +2492,10 @@
 },
 {
 "claims": [
-"c-64136c0284"
-],
-"id": "grusch-allegations",
-"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
-},
-{
-"claims": [
-"c-b6d6789c8c"
-],
-"id": "funding-channels",
-"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
-},
-{
-"claims": [
 "c-b6d6789c8c"
 ],
 "id": "kona-blue",
 "title": "KONA BLUE (2011)"
-},
-{
-"claims": [
-"c-b6d6789c8c"
-],
-"id": "skunk-works",
-"title": "Lockheed and the Skunk Works in the custody record"
 },
 {
 "claims": [

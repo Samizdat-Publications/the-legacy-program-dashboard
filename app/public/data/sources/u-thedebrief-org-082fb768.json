@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-453e249c75",
+"locator": null,
+"node": "garry-reid",
+"nodeLabel": "Garry P. Reid",
+"sourceText": "The Debrief, 'Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted'",
+"text": "Defense officials told The Debrief that Reid 'played a central role in obfuscating information' about UAP and deliberately misled the public about Elizondo's program involvement.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -45,7 +56,15 @@
 ],
 "node": null,
 "title": "The Debrief — Sex, Lies, and UFOs: Pentagon's Head of Counterintelligence and Security Ousted",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-453e249c75"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+}
+],
 "type": "article",
 "urls": [
 "https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/"

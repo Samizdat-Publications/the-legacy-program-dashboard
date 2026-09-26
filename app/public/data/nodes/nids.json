@@ -10,7 +10,7 @@
 "sources": [],
 "text": "NIDS was founded by Robert Bigelow in 1995 and operated until 2004 as a privately funded research institute investigating aerial phenomena, animal mutilations and the Utah ranch.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic reference to public record and publications, not one document."
 },
 {
 "id": "c-03670f4d31",
@@ -18,7 +18,7 @@
 "sources": [],
 "text": "Colm Kelleher led the NIDS science team at Skinwalker Ranch from 1996 to 2004 and carried that team structure into BAASS in 2008.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-e0e6726d30",
@@ -31,26 +31,44 @@
 {
 "id": "c-2603a6a718",
 "source": "The New Yorker, 10 May 2021, quoting NIDS' own description — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-newyorker-com-433afd8b",
+"locator": "quoting NIDS' own description",
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+}
+],
 "text": "NIDS described itself as 'a privately funded science institute engaged in research of aerial phenomena, animal mutilations, and other related anomalous phenomena'; among the consultants Bigelow hired was Hal Puthoff.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f0a924457e",
 "source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-deseret-com-40c3143a",
+"locator": null,
+"title": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News"
+}
+],
 "text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-01d5a13970",
 "source": "The New Yorker, 10 May 2021",
-"sources": [],
+"sources": [
+{
+"id": "u-newyorker-com-433afd8b",
+"locator": null,
+"title": "Gideon Lewis-Kraus, 'How the Pentagon Started Taking U.F.O.s Seriously', The New Yorker"
+}
+],
 "text": "Bigelow shut NIDS down in 2004 but retained Skinwalker Ranch; in 2007 a senior DIA official wrote to him about the ranch, and the AAWSAP contract followed.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "program",

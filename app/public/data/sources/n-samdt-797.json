@@ -1,21 +1,312 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20241218191945/https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-d811c134b4",
+"locator": "169 Cong. Rec. S2953",
+"node": "chuck-schumer",
+"nodeLabel": "Charles E. Schumer",
+"sourceText": "Congress.gov amendment record, S.Amdt. 797, 118th Congress; text printed 169 Cong. Rec. S2953 (13 July 2023)",
+"text": "Schumer is the sponsor of S.Amdt. 797 to S. 2226, submitted 13 July 2023, with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-33b6627c27",
+"locator": null,
+"node": "marco-rubio",
+"nodeLabel": "Marco Rubio",
+"sourceText": "Congress.gov cosponsor record, S.Amdt. 797, 118th Congress",
+"text": "Rubio is recorded as an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f2165b7214",
+"locator": null,
+"node": "martin-heinrich",
+"nodeLabel": "Martin T. Heinrich",
+"sourceText": "Congress.gov cosponsor record, S.Amdt. 797",
+"text": "Heinrich is an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-ca9bfb6f73",
+"locator": "Wayback capture 2024-12-18",
+"node": "s2226-118",
+"nodeLabel": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
+"sourceText": "congress.gov S.Amdt.797 overview page (Wayback 2024-12-18)",
+"text": "S.Amdt. 797 amends S. 2226, 'National Defense Authorization Act for Fiscal Year 2024'; sponsor Sen. Schumer, Charles E. [D-NY], submitted 07/13/2023, 5 cosponsors.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-60740da93e",
+"locator": null,
+"node": "samdt-797",
+"nodeLabel": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"sourceText": "Congress.gov actions record, S.Amdt. 797",
+"text": "The Congress.gov action record for S.Amdt. 797 shows only three actions, all dated 13 July 2023, and no vote.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e20e81eed7",
+"locator": null,
+"node": "samdt-797",
+"nodeLabel": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
+"sourceText": "Congress.gov amendment and cosponsor records, S.Amdt. 797, 118th Congress",
+"text": "Submitted 13 July 2023 by Schumer with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors, all sponsorship dates 13 July 2023.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bba80f88f9",
+"locator": null,
+"node": "todd-young",
+"nodeLabel": "Todd Young",
+"sourceText": "Congress.gov cosponsor record, S.Amdt. 797",
+"text": "Young is recorded as an original cosponsor of S.Amdt. 797, sponsorship date 13 July 2023.",
+"tier": 1
+}
+],
 "date": "2023",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+"b": {
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+"claimTier": 1,
+"id": "e-3ba8a40c0e",
+"label": "Sponsor of record; filed 13 July 2023",
+"note": "Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 1,
+"id": "e-0e5fcce586",
+"label": "sponsor of S.Amdt. 797",
+"note": "congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator.",
+"type": "research"
+},
+{
+"a": {
+"cls": "person",
+"id": "kirsten-gillibrand",
+"label": "Kirsten E. Gillibrand"
+},
+"b": {
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+"claimTier": 1,
+"id": "e-87798512b9",
+"label": "Original cosponsor, 13 July 2023",
+"note": "Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio"
+},
+"b": {
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+"claimTier": 1,
+"id": "e-e1a07622a9",
+"label": "Original cosponsor while serving as SSCI Vice Chairman",
+"note": "Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio"
+},
+"b": {
+"cls": "institution",
+"id": "senate-intelligence",
+"label": "Senate Select Committee on Intelligence"
+},
+"claimTier": 1,
+"id": "e-3abfb450e2",
+"label": "Vice Chairman 2021-2025",
+"note": "Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2024-samdt-2610",
+"label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+},
+"claimTier": 1,
+"id": "e-1371bca480",
+"label": "Absent from the 2024 refiling; left the Senate January 2025",
+"note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "person",
+"id": "martin-heinrich",
+"label": "Martin T. Heinrich"
+},
+"b": {
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+"claimTier": 1,
+"id": "e-f63d8da27a",
+"label": "Original cosponsor, 13 July 2023",
+"note": "Heinrich cosponsored while sitting on SSCI and representing the state containing Kirtland, Sandia, Los Alamos and Roswell.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "mike-rounds",
+"label": "Mike Rounds"
+},
+"b": {
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+"claimTier": 1,
+"id": "e-b489c652ac",
+"label": "Original cosponsor, 13 July 2023",
+"note": "Rounds is listed as an original cosponsor with sponsorship date 13 July 2023.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+"b": {
+"cls": "legislation",
+"id": "s2226-118",
+"label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act"
+},
+"claimTier": 1,
+"id": "e-2b17714943",
+"label": "amendment to",
+"note": "congress.gov: 'Amends Bill: S.2226 - National Defense Authorization Act for Fiscal Year 2024'.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "todd-young",
+"label": "Todd Young"
+},
+"b": {
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+"claimTier": 1,
+"id": "e-577fd990f3",
+"label": "Original cosponsor, 13 July 2023",
+"note": "Young's signature gave the amendment a three-to-three partisan balance that let it travel in the bipartisan package.",
+"type": "legislative"
+}
+],
 "era": "3",
 "id": "n-samdt-797",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "person",
+"id": "chuck-schumer",
+"label": "Charles E. Schumer"
+},
+{
+"cls": "person",
+"id": "marco-rubio",
+"label": "Marco Rubio"
+},
+{
+"cls": "person",
+"id": "martin-heinrich",
+"label": "Martin T. Heinrich"
+},
+{
+"cls": "legislation",
+"id": "s2226-118",
+"label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act"
+},
+{
+"cls": "document",
+"id": "samdt-797",
+"label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+},
+{
+"cls": "person",
+"id": "todd-young",
+"label": "Todd Young"
+},
+{
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+}
+],
 "node": {
 "cls": "document",
 "id": "samdt-797",
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
 },
 "title": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-60740da93e",
+"c-e20e81eed7"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
 "type": "statute",
-"urls": []
+"urls": [
+"https://www.congress.gov/amendment/118th-congress/senate-amendment/797"
+]
 }

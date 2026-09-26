@@ -73,10 +73,16 @@
 {
 "id": "c-7dacf100fd",
 "source": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:01:40, mapped at research/leads/dannyjones-corpus-20.md and research/leads/dannyjones-triage-4.md rows 5 and 6",
-"sources": [],
+"sources": [
+{
+"id": "t-175dc4f8f6d3",
+"locator": null,
+"title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:01:40, the investigator who identifies himself only as UAP Gerb described Laser Strike as the operation under which a Marine Air Control Group 28 detachment was in Peru in 1997, and as the cover for the Jonathan Weygandt crash-retrieval account. No record opened for this node places any Marine unit in Peru, and the unit's own lineage certificate carries no Peru entry. Tier 3 rather than Tier 2 because the speaker does not give his legal name on air and because the claim is a chain of inferences no opened document supports at any link.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",

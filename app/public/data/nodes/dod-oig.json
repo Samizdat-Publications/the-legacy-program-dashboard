@@ -7,10 +7,16 @@
 {
 "id": "c-ece4f707f7",
 "source": "DoD OIG, DODIG-2023-109",
-"sources": [],
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
 "text": "DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', was issued 15 August 2023 with the objective of evaluating 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a8c5e356bf",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "The full DODIG-2023-109 report is classified; the OIG released only an unclassified summary, and issued a press release on 25 January 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:dodig-2023-109) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-28dca8c57c",
@@ -47,9 +53,9 @@
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
-"id": "u-media-defense-gov-99da587b",
+"id": "n-dowig-2026-081",
 "locator": null,
-"title": "DOWIG-2026-081"
+"title": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained"
 }
 ],
 "text": "The OIG issued DOWIG-2026-081 on 12 May 2026 recording an eighth consecutive disclaimer of opinion and 26 material weaknesses for FY2025.",
@@ -61,9 +67,9 @@
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
-"id": "u-media-defense-gov-ec662505",
+"id": "n-dodig-2016-113",
 "locator": null,
-"title": "media.defense.gov"
+"title": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported"
 }
 ],
 "text": "The OIG issued DODIG-2016-113 on 26 July 2016 finding $2.8 trillion in unsupported third quarter and $6.5 trillion in unsupported yearend journal voucher adjustments to Army General Fund data for FY2015.",

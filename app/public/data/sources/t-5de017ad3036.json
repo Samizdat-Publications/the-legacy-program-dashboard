@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8dc34d99ff",
+"locator": null,
+"node": "jack-reed",
+"nodeLabel": "John F. Reed",
+"sourceText": "Congressional Record granules for Senate NDAA consideration, 7-12 December 2023, GPO",
+"text": "No transcribed Senate remarks during the December 2023 final consideration of the FY2024 NDAA use the word 'anomalous'; the removal was not debated aloud in the Senate.",
+"tier": 1
+}
+],
+"date": "2023-12",
+"edges": [],
+"era": "3",
+"id": "t-5de017ad3036",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "GPO",
+"listedOn": [],
+"node": null,
+"title": "Congressional Record granules for Senate NDAA consideration, 7-12 December 2023",
+"topics": [],
+"type": "document",
+"urls": []
+}

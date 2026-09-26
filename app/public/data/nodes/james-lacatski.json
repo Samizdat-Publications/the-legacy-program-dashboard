@@ -51,9 +51,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
 "sources": [
 {
-"id": "u-dia-mil-189bbe83",
+"id": "n-dird-traversable-wormholes-stargates-and-negative-energy",
 "locator": null,
-"title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+"title": "Traversable Wormholes, Stargates, and Negative Energy"
 }
 ],
 "text": "Every released DIRD carries the line: 'Comments or questions pertaining to this document should be addressed to [name redacted under (b)(3) 10 USC 424 and (b)(6)], AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100.' The AAWSAP program manager post is therefore documented in primary record; the incumbent's name is withheld in the DIA release.",
@@ -91,10 +91,16 @@
 {
 "id": "c-e085ac1261",
 "source": "DIA solicitation HHM402-08-R-0211, posted 18 Aug 2008, released via The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": null,
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "Lacatski is identified by name as 'Government Project Leader' on the DIA AAWSAP solicitation, the only unredacted appearance of the PM in the procurement record.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-81c9b24315",
@@ -102,7 +108,7 @@
 "sources": [
 {
 "id": "foia-dia-00023-2022",
-"locator": "and APP-00031-2022, released via The Black Vault, 2023",
+"locator": null,
 "title": "DIA FOIA-00023-2022"
 }
 ],
@@ -116,15 +122,21 @@
 "sources": [],
 "text": "Lacatski states he personally entered a craft of unknown origin while working the program.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:skinwalkers-at-the-pentagon) was rejected in review: names two sources; Mystery Wire interviews are not the candidate"
 },
 {
 "id": "c-1fefbd7557",
 "source": "Lacatski to Jeremy Corbell, published 8 April 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-124932fc0083",
+"locator": null,
+"title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+}
+],
 "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0918e2cae2",
@@ -132,7 +144,7 @@
 "sources": [
 {
 "id": "foia-dia-00023-2022",
-"locator": "no-records response set against the volume of AAWSAP material DIA did release",
+"locator": null,
 "title": "DIA FOIA-00023-2022"
 }
 ],

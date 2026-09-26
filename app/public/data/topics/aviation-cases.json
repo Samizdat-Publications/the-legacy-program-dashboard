@@ -22,7 +22,13 @@
     "text": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3', 22 May 2026, 0:09:40, transcript in dist/transcripts/md/",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-02a20dae97d2",
+     "locator": "0:09:40",
+     "title": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3"
+    }
+   ],
    "text": "On DEBRIEFED with Chris Ramsay, 22 May 2026, at 0:09:40, host Chris Ramsay, attributing the account to the Puerto Rican researcher Jorge Martin, said that the FAA confirmed the deployment of multiple F-14s 'for testing' near Cabo Rojo at the time of a December 1988 mass sighting, and that the Americans later denied it. No record opened here bears on that claim.",
    "tier": 2
   },
@@ -96,7 +102,13 @@
     "text": "The Hill, 12 January 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ddf4d30558cf",
+     "locator": null,
+     "title": "The Hill, 12 January 2024"
+    }
+   ],
    "text": "Intended to close the gap in UAP reporting by enabling civilian pilots and personnel to report encounters to the FAA, which would send reports to AARO, in exchange for legal safeguards.",
    "tier": 2
   },
@@ -284,7 +296,13 @@
     "text": "H.R. 6967 (118th Congress), as introduced, GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "bills-118hr6967ih",
+     "locator": null,
+     "title": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
+    }
+   ],
    "text": "Sponsor of H.R. 6967, the Safe Airspace for Americans Act, introduced 11 January 2024, to create an FAA-to-AARO civilian UAP reporting channel with legal safeguards.",
    "tier": 1
   },
@@ -398,7 +416,13 @@
     "text": "AARO case slides, Senate Armed Services Committee open hearing, 19 November 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-9c5f706a",
+     "locator": null,
+     "title": "AARO - SASC open hearing case slides (PDF)"
+    }
+   ],
    "text": "AARO assessed GO FAST as an object at approximately 13,000 feet travelling around 45 mph with 60-knot winds; it 'did not demonstrate any anomalous speeds or flight characteristics.'",
    "tier": 1
   },
@@ -416,7 +440,7 @@
     {
      "id": "nara-rg-615",
      "locator": "Unidentified Anomalous Phenomena Records Collection'",
-     "title": "NARA Record Group 615"
+     "title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
     },
     {
      "id": "u-archives-gov-84d9f25c",
@@ -593,9 +617,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c8784eac",
+     "id": "n-disclosure-project-briefing-2001",
      "locator": null,
-     "title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+     "title": "Disclosure Project Briefing Document, April 2001"
     }
    ],
    "text": "The interviews are conducted by Greer himself. Each testimony carries an initials key of the form 'JC: FAA Division Chief John Callahan SG: Dr. Steven Greer', and Greer's editorial comments are printed inside the witness text marked 'SG]'.",
@@ -675,7 +699,7 @@
     {
      "id": "bills-118hr6967ih",
      "locator": null,
-     "title": "BILLS-118hr6967ih"
+     "title": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)"
     }
    ],
    "text": "Introduced 11 January 2024 by Rep. Robert Garcia; co-led with Rep. Glenn Grothman.",
@@ -711,7 +735,13 @@
     "text": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-congress-gov-c8421086",
+     "locator": null,
+     "title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023"
+    }
+   ],
    "text": "'We now have nearly 5,000 members and are actively working with more than 30 UAP witnesses who have approached us.'",
    "tier": 1
   },
@@ -745,7 +775,13 @@
     "text": "Proceedings 2019, doi:10.3390/proceedings2019033026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-01e81b16",
+     "locator": null,
+     "title": "Knuth, Powell & Reali, MaxEnt 2019 Proceedings"
+    }
+   ],
    "text": "Knuth, Powell and Reali published an estimate of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings.",
    "tier": 1
   },
@@ -799,7 +835,13 @@
     "text": "Ryan Graves, written testimony, House Oversight, 26 July 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-congress-gov-c8421086",
+     "locator": null,
+     "title": "Ryan Graves / Americans for Safe Aerospace written testimony, House Oversight subcommittee hearing, July 26, 2023"
+    }
+   ],
    "text": "'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters.'",
    "tier": 1
   },
@@ -815,9 +857,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c8784eac",
+     "id": "n-disclosure-project-briefing-2001",
      "locator": null,
-     "title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+     "title": "Disclosure Project Briefing Document, April 2001"
     }
    ],
    "text": "He names the FAA Administrator who he says was briefed: 'we go up to the 10th floor [of FAA Headquarters in Washington DC] and give a four or five minute debriefing for the Administrator who was at the time Admiral Engen.' Klass repeats the name from Callahan's account. No FAA source confirming Donald Engen's tenure was opened; faa.gov returned HTTP 403.",
@@ -855,9 +897,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c8784eac",
+     "id": "n-disclosure-project-briefing-2001",
      "locator": null,
-     "title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+     "title": "Disclosure Project Briefing Document, April 2001"
     }
    ],
    "text": "The document's own editorial header at the same section reads: 'For 6 years Mr. Callahan was the Division Chief of the Accidents and Investigations Branch of the FAA in Washington DC. In his testimony he tells about a 1986 Japanese Airlines 747 flight that was followed by a UFO for 31 minutes over the Alaskan skies.' This is the editor's description, not an agency record, and is carried here as such.",
@@ -875,9 +917,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c8784eac",
+     "id": "n-disclosure-project-briefing-2001",
      "locator": null,
-     "title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+     "title": "Disclosure Project Briefing Document, April 2001"
     }
    ],
    "text": "The Disclosure Project Briefing Document of April 2001 prints, at section 3.8.2 under the heading 'Testimony of FAA Division Chief John Callahan / October 2000', his own account of his post: 'I was the Division Chief of the Accidents and Investigations Branch of the FAA in Washington, D.C. I stayed there for about six years and then retired.' THIS CLAIM IS TIER 1 FOR THE FACT THAT HE GAVE THAT TESTIMONY UNDER THAT HEADING AND DATE, AND FOR NOTHING ELSE. The document is edited and published by an interested party and is not evidence for the content of what he says.",
@@ -893,7 +935,13 @@
     "text": "NASA UAP Independent Study Team Final Report, 14 September 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-science-nasa-gov-44f5288a",
+     "locator": null,
+     "title": "NASA UAP Independent Study Team Final Report (PDF)"
+    }
+   ],
    "text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and developing crowdsourced smartphone-based citizen reporting.",
    "tier": 1
   },
@@ -927,7 +975,13 @@
     "text": "DoD statement on release of historical Navy videos",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dod-video-release-2020",
+     "locator": null,
+     "title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+    }
+   ],
    "text": "The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified.",
    "tier": 1
   },

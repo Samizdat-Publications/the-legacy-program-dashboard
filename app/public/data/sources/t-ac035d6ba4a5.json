@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-8eef6362b8",
+"locator": null,
+"node": "barksdale-2026-incursions",
+"nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"sourceText": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026",
+"text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
+"tier": 1
+}
+],
+"date": "2026-03-09",
+"edges": [],
+"era": "3",
+"id": "t-ac035d6ba4a5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026",
+"topics": [
+{
+"claims": [
+"c-8eef6362b8"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

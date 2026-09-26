@@ -7,10 +7,16 @@
 {
 "id": "c-599a28123c",
 "source": "Stringfield, Status Reports I and II, title pages and header notes",
-"sources": [],
+"sources": [
+{
+"id": "n-stringfield-status-reports",
+"locator": "Status Reports I and II, title pages and header notes",
+"title": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+}
+],
 "text": "Stringfield delivered Status Report I at MUFON's ninth annual Symposium in Dayton, Ohio on 29 July 1978, and MUFON published Status Report II in January 1980.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7cd50d0e2e",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "John F. Schuessler served as MUFON International Director from 2000 to 2006 and presented Cash-Landrum papers at the MUFON symposia of July 1984, June 1985 and 1986.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic references to a symposium series and a document collection, not one item."
 },
 {
 "id": "c-e3bce81098",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "William L. Moore made his public statement about cooperating with AFOSI and passing disinformation to Paul Bennewitz at the 1989 MUFON symposium in Las Vegas.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No candidate found for Moore's 1989 MUFON symposium statement."
 }
 ],
 "cls": "institution",

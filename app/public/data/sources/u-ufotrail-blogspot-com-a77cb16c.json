@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-d2e6e56397",
+"locator": null,
+"node": "baass-ten-month-report",
+"nodeLabel": "BAASS Ten Month Report (2009)",
+"sourceText": "DIA FOIA response reported by Jack Brewer, The UFO Trail, March 2022 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "DIA reported it could locate no report matching the description of 'Utah Ranch Investigation: August 2009-February 2010' as described by Lacatski and co-authors.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-cd9ea952f0",
+"locator": null,
+"node": "aawsap-contract",
+"nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceText": "Jack Brewer, The UFO Trail, March 2022",
+"text": "DIA withheld the AAWSAP contract in a 2011 FOIA response, releasing it only in October 2022.",
+"tier": 1
+}
+],
 "date": "2022-03",
 "edges": [
 {
@@ -84,7 +105,23 @@
 ],
 "node": null,
 "title": "The UFO Trail",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d2e6e56397",
+"c-cd9ea952f0"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-cd9ea952f0"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
 "type": "article",
 "urls": [
 "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"

@@ -7,10 +7,16 @@
 {
 "id": "c-bde3b1fd88",
 "source": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program', Archivos Forteanos Latino Americanos",
-"sources": [],
+"sources": [
+{
+"id": "u-aforteanosla-com-ar-7c4e0523",
+"locator": null,
+"title": "Stonehill & Mantle - Setka"
+}
+],
 "text": "'A sharp increase in UFO activity in 1977-1978 (especially, the Petrozavodsk Case) had forced appropriate departments within the USSR Academy of Sciences to agree to a research program for anomalous atmospheric phenomena. The code name for this program was SETKA-AN ... The Soviet Ministry of Defense embarked on a similar program, dubbed SETKA-MO.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-74818cf574",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "Programme secrecy justification, per Y. Platov and B. Sokolov's own 'History of State-directed UFO Research in the USSR': the programmes 'formally belonged to activities pertaining defense-related subjects; initial assumption that there is a high probability of military-technical origin of the observed strange phenomena; and possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufoinfo.com/news/setka.shtml) was rejected in review: two Setka copies/parts in registry; cannot tell which"
 },
 {
 "id": "c-4a2b782dcc",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "Attendee list and institutional affiliations at the founding meeting of 18 October 1978, including Balashov and Volga representing 'the secret military unit 67947', with IZMIRAN as lead agency and Platov as chief executive for SETKA-AN.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufoinfo.com/news/setka.shtml) was rejected in review: two Setka copies/parts in registry; cannot tell which"
 },
 {
 "id": "c-307f59b5ac",
@@ -34,7 +40,7 @@
 "sources": [],
 "text": "'In 1981, the SETKA research program was given another name, Galaktika ... and in 1986, the name was changed to Gorizont MO and AN. After the program ended ... a group of experts remained in the Department of General Physics and Astronomy of the Russian Academy of Sciences where they analyzed incoming reports until 1996.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufoinfo.com/news/setka.shtml) was rejected in review: authors only; names no specific work"
 },
 {
 "id": "c-36b98f2f08",
@@ -42,23 +48,35 @@
 "sources": [],
 "text": "'The Guidelines for the Soviet Navy had been dated March 7, 1980, and signed by Deputy Commander of the Main HQ of the Navy, Vice Admiral Saakyan.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufoinfo.com/news/setka.shtml) was rejected in review: authors only; names no specific work"
 },
 {
 "id": "c-082f39db7e",
 "source": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-doc-condign-vol3",
+"locator": "Chapter 4, para 1",
+"title": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries"
+}
+],
 "text": "UK Defence Intelligence Staff assessment: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6d1407e493",
 "source": "Wikipedia, 'Petrozavodsk phenomenon', citing Stonehill and Mantle",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-f8129568",
+"locator": "Setka AN programme",
+"title": "Petrozavodsk phenomenon - Wikipedia"
+}
+],
 "text": "'The Petrozavodsk phenomenon contributed to the creation of Setka AN, a Soviet research program for anomalous atmospheric phenomena.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1f05a928a1",

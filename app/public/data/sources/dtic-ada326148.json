@@ -4,7 +4,7 @@
 {
 "cls": "person",
 "id": "c-00cd4db259",
-"locator": "abstract",
+"locator": null,
 "node": "richard-weaver-usaf",
 "nodeLabel": "Col. Richard L. Weaver",
 "sourceText": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), publisher's note; DTIC ADA326148 abstract",
@@ -34,7 +34,7 @@
 {
 "cls": "document",
 "id": "c-38d52d3a55",
-"locator": "abstract and the report's publisher's note",
+"locator": null,
 "node": "roswell-report-1995",
 "nodeLabel": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "sourceText": "DTIC ADA326148 abstract and the report's publisher's note",
@@ -62,7 +62,7 @@
 "tier": 1
 }
 ],
-"date": null,
+"date": "1994",
 "edges": [
 {
 "a": {
@@ -286,7 +286,7 @@
 "type": "institutional"
 }
 ],
-"era": "nd",
+"era": "1",
 "id": "dtic-ada326148",
 "identifiers": [
 "DTIC ADA326148"
@@ -355,8 +355,12 @@
 "label": "William L. Moore"
 }
 ],
-"node": null,
-"title": "DTIC ADA326148",
+"node": {
+"cls": "document",
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
+"title": "The Roswell Reports (USAF, 1994-1997)",
 "topics": [
 {
 "claims": [
@@ -398,7 +402,7 @@
 "title": "Official explanations: Mogul, balloons, flares and misidentification"
 }
 ],
-"type": "document",
+"type": "statute",
 "urls": [
 "https://archive.org/details/DTIC_ADA326148"
 ]

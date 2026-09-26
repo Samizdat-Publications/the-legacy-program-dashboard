@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-f1f518b95b",
+"locator": null,
+"node": "nj-drone-incursions-2024",
+"nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"sourceText": "Joint federal statement, 17 December 2024, reported by The Debrief",
+"text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -86,7 +97,15 @@
 ],
 "node": null,
 "title": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-f1f518b95b"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
 "type": "article",
 "urls": [
 "https://thedebrief.org/pentagon-says-mystery-drones-are-common-unmanned-aerial-systems-and-misidentifications-pose-no-security-threat/"

@@ -11,23 +11,35 @@
 "sources": [],
 "text": "The House Oversight Committee held UAP hearings on 26 July 2023, 13 November 2024 and 9 September 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Aggregate reference across three separate hearings, no single match."
 },
 {
 "id": "c-f48f388eef",
 "source": "ODNI, Preliminary Assessment: Unidentified Aerial Phenomena",
-"sources": [],
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "ODNI published the Preliminary Assessment: Unidentified Aerial Phenomena on 25 June 2021.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f5b1158cf6",
 "source": "ICIG determination letter, 26 July 2022",
-"sources": [],
+"sources": [
+{
+"id": "t-922f05fc06f7",
+"locator": null,
+"title": "ICIG determination letter"
+}
+],
 "text": "The Intelligence Community Inspector General found David Grusch's complaint credible and urgent on 26 July 2022.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-288c25ec1d",

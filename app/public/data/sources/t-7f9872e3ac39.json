@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-169ab63052",
+"locator": null,
+"node": "michels-gerb-structural-episode",
+"nodeLabel": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"sourceText": "Episode description, 11 January 2026",
+"text": "The description states former Vice President Dick Cheney is implicated in the American UFO reverse engineering program.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-3aa927f4ec",
+"locator": null,
+"node": "american-alchemy",
+"nodeLabel": "American Alchemy",
+"sourceText": "Episode description, 11 January 2026",
+"text": "American Alchemy's 11 January 2026 episode with UAP Gerb frames the effort as 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
+"tier": 2
+}
+],
+"date": "2026-01-11",
+"edges": [],
+"era": "3",
+"id": "t-7f9872e3ac39",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Episode description, 11 January 2026",
+"topics": [
+{
+"claims": [
+"c-169ab63052"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "broadcast",
+"urls": []
+}

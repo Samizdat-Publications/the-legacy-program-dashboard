@@ -8,34 +8,58 @@
 {
 "id": "c-cac28df7a6",
 "source": "science.gc.ca, Sky Canada Project",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-a5f5d3a1",
+"locator": null,
+"title": "Sky Canada Project landing page"
+}
+],
 "text": "OCSA led the Sky Canada Project to review current practices surrounding public reporting of unidentified aerial phenomena in Canada, and published its report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025 (59 pages, also issued as PDF).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-afb3f918f0",
 "source": "Sky Canada Project report, section A",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": "section A",
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "OCSA states the project was spurred by increased public interest and by developments in other countries, particularly the United States, where formal procedures for addressing UAP sightings are in development.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-01c53c3647",
 "source": "Sky Canada Project report, recommendations",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": "recommendations",
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "The report recommends identifying the department responsible for managing public UAP data, establishing a dedicated service to collect testimonies, investigate cases and post its analyses publicly, and having Transport Canada, with NAV CANADA, encourage pilots, cabin crew and air traffic controllers to report UAP sightings without fear of stigmatisation.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-71cd41ccff",
 "source": "science.gc.ca, Sky Canada Project",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-a5f5d3a1",
+"locator": null,
+"title": "Sky Canada Project landing page"
+}
+],
 "text": "OCSA records a published disclaimer that the project is not intended to collect first-hand data, not to make OCSA the main point of contact for reporting, and not to prove or disprove the existence of extraterrestrial life or visitors.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-accb53e3dd",

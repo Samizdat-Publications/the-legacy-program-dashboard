@@ -1,21 +1,657 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-b96f376701",
+"locator": "Norlain preface",
+"node": "cnes",
+"nodeLabel": "Centre National d'Études Spatiales (CNES)",
+"sourceText": "COMETA report, Norlain preface, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Norlain: the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-0e38856b10",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, Introduction - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Recommendations stated in the introduction: provide civilian and military pilots with sufficient information and adapted conduct, and the public and decision-makers with information; 'developing the actions of SEPRA and promoting supplemental scientific monitoring, or even research, actions'; and 'considering the strategic, political, and religious consequences of a possible confirmation of the extraterrestrial hypothesis, the bizarre connotation of which it is advisable to eliminate here and now.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-3259c3ccac",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, foreword by Denis Letty, Air Force General, 2nd Section - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Letty's foreword, verbatim: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-429c3568ac",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, ch. 7.5 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Chapter 7.5: twelve French aeronautical cases were known to GEPAN/SEPRA, 'only three or four of these can be considered to fall into category D'; the first UAP D dates to 1951 involving Vampire military aircraft near Orange; and not until 28 January 1994 did an Air France crew produce 'the first case of a visual sighting correlated with a radar detection over 50 seconds long'. A worldwide list compiled by Dominique Weinstein describes '489 well-documented cases of aeronautical UAP D sightings the sources of which were duly verified'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-4576d6999f",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, foreword by Denis Letty - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Named members, with IHEDN promotion numbers as printed: Michel Algrin (AA 35), Pierre Bescond, Weapons Engineer General 2nd Section (AA 48), Denis Blancher, Chief of Police, Police Nationale, Ministry of the Interior, Jean Dunglas (AR 48), Bruno Le Moine, Air Force General 2nd Section (AA 41), Françoise Lepine, Fondation pour les Études de Défense (AA 33), Christian Marchal, research director at ONERA, Marc Merlo, Admiral 2nd Section (AA 35), Alain Orszag, Weapons Engineer General 2nd Section.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-45eb2e59ca",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, ch. 8.3 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Chapter 8.3, verbatim: 'if there had only been ten or so UAP D [sightings], this ambiguous file could just have been classified as \"no action,\" but we are no longer at that point and are far beyond that. Thus we are forced to seek plausible explanations.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-a3bbde74ac",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, ch. 7.4 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Chapter 7.4: 'Around one hundred investigations have been conducted by GEPAN/SEPRA'; several 'demonstrated, in the end, the physical presence of a phenomenon the nature and origin of which remain unknown', naming Trans-en-Provence (8 January 1981) and 'Amaranth' (21 October 1982), 'detailed in GEPAN technical memoranda no. 16 and no. 17'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-a439d16a33",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, foreword by Denis Letty - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Acknowledged contributors include 'Jean-Jacques Velasco, Head of SEPRA at [CNES]', François Louange, CEO of Fleximage, pilots Jean-Charles Duboc, Jean-Pierre Fartek and René Giraud, Edmond Campagnac, former technical director of Air France at Antananarivo, Squadron Commander Michel Perrier of the Gendarmerie Nationale, an official of the DGAC, and Air Force General Joseph Domange.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b296104ef9",
+"locator": "Letty foreword",
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Christian Marchal is listed as 'Chief Mining Engineer, Research Director at ONERA [National Aerospace Study and Research Office]' - placing a serving research director of the French national aerospace research establishment inside COMETA.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b69693cb4d",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA, 'UFOs and Defense: What Should We Prepare For?', English translation - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Title page: 'UFOs and Defense: What Should We Prepare For? -An independent report on UFOs written by the French association COMETA. This report details the results of a study by the Institute of Higher Studies for National Defence.- This paper originally appeared in a special issue of the magazine VSD published In France in July 1999.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b954c4e435",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, Introduction - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Introduction, verbatim: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-c158562a4c",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, ch. 7.2 - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Chapter 7.2, verbatim: 'Category D UAPs represent 4 to 5% of the cases and are called UAP Ds', where category D is 'phenomenon that cannot be identified despite the abundance and quality of the data'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-ec536f31b3",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, table of contents - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Structure: three parts and a conclusion, with Part 3 titled 'UFOs and Defense' and seven appendices including 'Radar Detection in France', 'Astronomers' Sightings', 'Life in the Universe', 'Colonization of Space' and 'The Roswell Affair -Disinformation'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-fbce629d08",
+"locator": null,
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"sourceText": "COMETA report, forewords - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Prefaces are by 'Professor André Lebeau, Former chairman of the Centre National d'Etudes Spatiales (CNES)' and by General Bernard Norlain, former director of IHEDN, who records that 'When General Letty visited me in March 1995 at my office at IHEDN to explain to me his project'.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-4c531bd2ea",
+"locator": "Introduction",
+"node": "claude-poher",
+"nodeLabel": "Dr Claude Poher",
+"sourceText": "COMETA report, Introduction, 1999",
+"text": "'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file ... The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7b72553d05",
+"locator": "Norlain preface",
+"node": "bernard-norlain",
+"nodeLabel": "Général Bernard Norlain",
+"sourceText": "COMETA report, Norlain preface, 1999",
+"text": "Norlain records that the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7e630bff46",
+"locator": "Norlain preface",
+"node": "bernard-norlain",
+"nodeLabel": "Général Bernard Norlain",
+"sourceText": "COMETA report, preface by General Bernard Norlain, 1999",
+"text": "Norlain, preface: 'I express the wish that the recommendations of COMETA, which are inspired by good sense, will be examined and implemented by the authorities of our country.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-dfb2441cd7",
+"locator": "Letty foreword",
+"node": "denis-letty",
+"nodeLabel": "Général Denis Letty",
+"sourceText": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Letty credits Norlain and André Lebeau, former chairman of CNES, 'without whom COMETA would not have been born', and names Jean-Jacques Velasco, Head of SEPRA at CNES, among contributors.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-74da07df40",
+"locator": "Norlain preface",
+"node": "ihedn",
+"nodeLabel": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+"sourceText": "COMETA report, Norlain preface, 1999",
+"text": "Norlain: 'Knowing that some twenty years earlier the AA had produced and published a preliminary report on the subject in its bulletin, it was but time to update it' - and 'The first report of the AA favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7754a4dd83",
+"locator": "Introduction",
+"node": "ihedn",
+"nodeLabel": "Institut des Hautes Études de Défense Nationale (IHEDN)",
+"sourceText": "COMETA report, Introduction, 1999",
+"text": "'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-bfd1539c6d",
+"locator": "Letty foreword",
+"node": "jj-velasco",
+"nodeLabel": "Jean-Jacques Velasco",
+"sourceText": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed to the COMETA study.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-0a4f4785e1",
+"locator": "recommendation 5",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, Conclusions and Recommendations, recommendation 5, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Recommendation 5: 'Initiate diplomatic demarches to the United States, with the support of other States and even the European Union, to urge the superpower to collaborate and, if necessary, exert useful pressure to clarify this crucial issue that can only come within the framework of political and strategic alliances.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-3e76177407",
+"locator": "Conclusions and Recommendations",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Conclusion: 'Secret craft definitely of earthly origin (drones, stealth aircraft, etc.) can only explain a minority of cases.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-3f4e118742",
+"locator": "recommendation 4",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, recommendation 4, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Recommendation 4: 'Create a unit at the highest State level to collaborate with SEPRA' tasked with formulating prospective hypotheses, funded with 'an annual budget of a few million francs', and 'participating in the establishment of sectorial cooperation agreements with other countries'.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-410185394c",
+"locator": "recommendation 6",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, recommendation 6, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Recommendation 6: public authorities should reflect on 'the measures to take in the event of a spectacular and indisputable manifestation of a UFO: overt attempt to make contact, landing before numerous witnesses, other substantial actions'.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-63d0e42150",
+"locator": "recommendation 1",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, recommendation 1, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Recommendation 1 includes alerting 'special civilian and military departments, as well as the Direction de la Communication de la Defense (DICOD, former central SIRPA), calling their attention to disinformation processes.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-b94dfb6f81",
+"locator": "Conclusions and Recommendations",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Conclusion: the studies 'demonstrate the almost certain physical reality of completely unknown flying objects with remarkable flight performances and noiselessness, apparently operated by intelligent [beings].'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-c3ce2a7341",
+"locator": "recommendation 2",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Recommendation 2: 'Boost SEPRA's human and material resources' to develop investigation and analysis, collect information on all UFO manifestations in Europe and worldwide, maintain databases, and 'boost its representation and foreign relations status'.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-e46bb89c7f",
+"locator": "Conclusions and Recommendations",
+"node": "doc-cometa-report",
+"nodeLabel": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
+"sourceText": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Conclusion: 'A single hypothesis sufficiently takes into account the facts and, for the most part, only calls for present-day science. It is the hypothesis of extraterrestrial visitors. Advanced as of 1947 by certain U.S. military personnel, today it is discredited by a certain elite, but it is popular worldwide.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-1c1585b19e",
+"locator": "Letty foreword",
+"node": "andre-lebeau",
+"nodeLabel": "Professeur André Lebeau",
+"sourceText": "COMETA report, Letty foreword, 1999",
+"text": "Letty: COMETA would not have been born without General Bernard Norlain and 'Mr. Andre Lebeau, former chairman of the Centre National d'Etudes Spatiales'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-baec4bf207",
+"locator": "recommendation 2",
+"node": "sepra",
+"nodeLabel": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
+"sourceText": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "COMETA recommendation 2 targets SEPRA directly, asking that it 'collect information relating to all UFO manifestations, both in Europe and throughout the world' and 'boost its representation and foreign relations status'.",
+"tier": 2
+}
+],
 "date": "1999-07",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "cnes",
+"label": "Centre National d'Études Spatiales (CNES)"
+},
+"b": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"claimTier": 1,
+"id": "e-1655a305b0",
+"label": "GEIPAN is a unit of CNES at Toulouse",
+"note": "The French office has been hosted inside the national space agency continuously since 1977, an arrangement Norlain called unique in the world.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "location",
+"id": "l-france",
+"label": "France"
+},
+"claimTier": 2,
+"id": "e-607501aa64",
+"label": "French private defence committee",
+"note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "document",
+"id": "doc-cometa-report",
+"label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+},
+"claimTier": 1,
+"id": "e-09473aa434",
+"label": "produced the 1999 report",
+"note": "Published as a special issue of VSD in July 1999 and delivered to Prime Minister Lionel Jospin.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "location",
+"id": "l-paris",
+"label": "Paris, France"
+},
+"claimTier": 3,
+"id": "e-e810053047",
+"label": "IHEDN origin; delivered to the Prime Minister",
+"note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "program",
+"id": "project-blue-book",
+"label": "Project Blue Book"
+},
+"claimTier": 1,
+"id": "e-83b2914e70",
+"label": "adopts Hynek's Blue Book-era classification",
+"note": "COMETA states that the strangest category D cases 'are generally labeled CE3s (close encounters of the third kind) according to the classification proposed by Professor A. Hynek, an astronomer and consultant to the USAF, within the context of the Blue Book Project'. A committee of retired French flag officers adopting Blue Book's own consultant's taxonomy is the inheritance this edge records.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 1,
+"id": "e-c907ba4361",
+"label": "dedicated appendix on Roswell and disinformation",
+"note": "COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"b": {
+"cls": "program",
+"id": "setka-program",
+"label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme"
+},
+"claimTier": 3,
+"id": "e-1ca7244cae",
+"label": "cites Soviet statistical distributions as comparable",
+"note": "TIER 3, INFERENTIAL. COMETA records that 'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide.' The report does not name the Setka programme, or any Soviet programme, anywhere in that passage. That the studies it refers to are Setka's is inference from the period and the scale, not citation, and this edge should not be read as COMETA citing Setka.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "geipan",
+"label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés"
+},
+"b": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"claimTier": 1,
+"id": "e-49604e8ecd",
+"label": "shared IHEDN lineage; SEPRA head contributed",
+"note": "COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "bernard-norlain",
+"label": "Général Bernard Norlain"
+},
+"b": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"claimTier": 1,
+"id": "e-4d2a295012",
+"label": "IHEDN director who sponsored the project",
+"note": "Norlain's own preface records that Letty came to his IHEDN office in March 1995 and that he referred the project to the Auditors Association, which backed it.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "denis-letty",
+"label": "Général Denis Letty"
+},
+"b": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"claimTier": 1,
+"id": "e-834c8e64c5",
+"label": "founded and chaired COMETA",
+"note": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ihedn",
+"label": "Institut des Hautes Études de Défense Nationale (IHEDN)"
+},
+"b": {
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+},
+"claimTier": 1,
+"id": "e-bef625fd7d",
+"label": "1976 IHEDN committee produced GEPAN",
+"note": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jj-velasco",
+"label": "Jean-Jacques Velasco"
+},
+"b": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"claimTier": 1,
+"id": "e-74a2638135",
+"label": "serving head of SEPRA contributed to the report",
+"note": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "doc-cometa-report",
+"label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+},
+"b": {
+"cls": "program",
+"id": "sepra",
+"label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+},
+"claimTier": 1,
+"id": "e-e655f31171",
+"label": "recommended boosting SEPRA's resources and foreign relations status",
+"note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "andre-lebeau",
+"label": "Professeur André Lebeau"
+},
+"b": {
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+"claimTier": 1,
+"id": "e-4895ec2dc8",
+"label": "former CNES chairman; wrote the forward",
+"note": "Letty states that without Norlain and Lebeau 'COMETA would not have been born'.",
+"type": "institutional"
+}
+],
 "era": "1",
 "id": "n-doc-cometa-report",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "Internet Archive",
+"listedOn": [
+{
+"cls": "institution",
+"id": "cnes",
+"label": "Centre National d'Études Spatiales (CNES)"
+},
+{
+"cls": "institution",
+"id": "cometa",
+"label": "COMETA - Comité d'Études Approfondies"
+},
+{
+"cls": "person",
+"id": "claude-poher",
+"label": "Dr Claude Poher"
+},
+{
+"cls": "program",
+"id": "gepan",
+"label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés"
+},
+{
+"cls": "person",
+"id": "bernard-norlain",
+"label": "Général Bernard Norlain"
+},
+{
+"cls": "person",
+"id": "denis-letty",
+"label": "Général Denis Letty"
+},
+{
+"cls": "institution",
+"id": "ihedn",
+"label": "Institut des Hautes Études de Défense Nationale (IHEDN)"
+},
+{
+"cls": "person",
+"id": "jj-velasco",
+"label": "Jean-Jacques Velasco"
+},
+{
+"cls": "document",
+"id": "doc-cometa-report",
+"label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+},
+{
+"cls": "person",
+"id": "andre-lebeau",
+"label": "Professeur André Lebeau"
+},
+{
+"cls": "program",
+"id": "sepra",
+"label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux"
+}
+],
 "node": {
 "cls": "document",
 "id": "doc-cometa-report",
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
 },
 "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-3259c3ccac",
+"c-429c3568ac",
+"c-4576d6999f",
+"c-45eb2e59ca",
+"c-a3bbde74ac",
+"c-b296104ef9",
+"c-b69693cb4d",
+"c-c158562a4c",
+"c-7b72553d05",
+"c-7e630bff46",
+"c-74da07df40",
+"c-7754a4dd83",
+"c-0a4f4785e1",
+"c-3e76177407",
+"c-3f4e118742",
+"c-410185394c",
+"c-63d0e42150",
+"c-b94dfb6f81",
+"c-c3ce2a7341",
+"c-e46bb89c7f",
+"c-1c1585b19e"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
 "type": "report",
-"urls": []
+"urls": [
+"https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+]
 }

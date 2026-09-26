@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-65ca0c2db7",
+"locator": null,
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"sourceText": "Carey and Schmitt, 'Witness to Roswell' (2007)",
+"text": "Dennis admitted to Carey and Schmitt that he had deliberately given investigators a false name for the nurse; they wrote that he 'must technically stand impeached as a witness'.",
+"tier": 2
+}
+],
+"date": "2007",
+"edges": [],
+"era": "2",
+"id": "t-b7e8a58c643d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Carey and Schmitt",
+"listedOn": [],
+"node": null,
+"title": "Witness to Roswell",
+"topics": [
+{
+"claims": [
+"c-65ca0c2db7"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "book",
+"urls": []
+}

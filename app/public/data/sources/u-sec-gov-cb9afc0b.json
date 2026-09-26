@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-70b742aabb",
+"locator": null,
+"node": "ttsa",
+"nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"sourceText": "SEC EDGAR, TTSA offering exhibit tm2023098d2_ex13-1, 24 July 2020",
+"text": "A July 2020 Regulation A offering exhibit valued the company at $65 million, sought $30 million at $5 per share, and described the ADAM Research Project and the Army CRADA.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -67,7 +78,15 @@
 ],
 "node": null,
 "title": "SEC EDGAR — TTSA offering exhibit",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-70b742aabb"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.sec.gov/Archives/edgar/data/1710274/000110465920089220/tm2023098d2_ex13-1.htm"

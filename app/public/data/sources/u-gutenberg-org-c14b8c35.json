@@ -1,6 +1,57 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6d8b74d97e",
+"locator": null,
+"node": "edward-ruppelt",
+"nodeLabel": "Edward J. Ruppelt",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "Ruppelt published the existence of the 1948 Top Secret 'Estimate of the Situation' and its rejection and destruction by Gen. Vandenberg.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-17b195e696",
+"locator": null,
+"node": "estimate-of-the-situation",
+"nodeLabel": "Estimate of the Situation (1948)",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "Ruppelt first published the existence, content and destruction of the Estimate in 1956 based on his tenure as Blue Book director.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e15b1e7d18",
+"locator": null,
+"node": "hoyt-vandenberg",
+"nodeLabel": "Hoyt S. Vandenberg",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
+"text": "The Estimate's existence and destruction were first published by Edward Ruppelt, the first Blue Book director, in 1956.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7089c04f1d",
+"locator": "chapter on green fireballs and Project Twinkle",
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"sourceText": "Edward J. Ruppelt, The Report on Unidentified Flying Objects, chapter on green fireballs and Project Twinkle",
+"text": "Kirtland intelligence officers called in LaPaz because the fireballs resembled meteors, and he concluded they did not behave as meteors would.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-3f25efbff4",
+"locator": null,
+"node": "project-grudge",
+"nodeLabel": "Project GRUDGE",
+"sourceText": "Ruppelt, 'The Report on Unidentified Flying Objects' (1956)",
+"text": "Under GRUDGE the project was reduced to a token effort until Ruppelt was placed in charge in late 1951.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -106,7 +157,25 @@
 ],
 "node": null,
 "title": "Ruppelt, The Report on Unidentified Flying Objects",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-17b195e696",
+"c-e15b1e7d18",
+"c-7089c04f1d"
+],
+"id": "sign-estimate",
+"title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
+},
+{
+"claims": [
+"c-6d8b74d97e",
+"c-3f25efbff4"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
 "type": "book",
 "urls": [
 "https://www.gutenberg.org/ebooks/17346"

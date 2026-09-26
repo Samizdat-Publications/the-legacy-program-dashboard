@@ -13,6 +13,16 @@
 },
 {
 "cls": "person",
+"id": "c-78d71cff81",
+"locator": "0:24:04",
+"node": "beatriz-villarroel",
+"nodeLabel": "Beatriz Villarroel",
+"sourceText": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:24:04",
+"text": "At 0:24:04 in the same episode Villarroel said the lists are held by the Space Force and are classified, including the earliest from the 1960s, and that what she wants is one such list of coordinates so she can test whether the objects vanish in the Earth's shadow. Asked how she knows, she answered 'I think that's what I heard from someone on the inside, yes.' The sourcing limit is hers, stated in the passage.",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-9a10ecb99d",
 "locator": null,
 "node": "jacques-vallee",
@@ -29,6 +39,16 @@
 "nodeLabel": "Lincoln LaPaz",
 "sourceText": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:26:46, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
 "text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:26:46 and 0:27:36, Michels said in narration that a military-funded project to search for small natural satellites of the Earth began at White Sands Missile Range in 1953, that LaPaz and Clyde Tombaugh were the two scientists in charge of it, and that LaPaz came to it from Project Twinkle. Neither Tombaugh nor the White Sands satellite search appears anywhere in the board's research files.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d7b0e21317",
+"locator": "0:28:29",
+"node": "lincoln-lapaz",
+"nodeLabel": "Lincoln LaPaz",
+"sourceText": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:28:29",
+"text": "In the same narration at 0:28:29 Michels said that on 23 August 1954 Aviation Week and Space Technology published a statement from LaPaz confirming two unknown objects in low Earth orbit while simultaneously describing them as fully identified natural asteroids captured by the Earth's gravity. The magazine issue was not opened in this pass, so the date and the wording are the speaker's and not the record's; the issue is named here so a later pass can pull it.",
 "tier": 2
 }
 ],
@@ -61,14 +81,16 @@
 "topics": [
 {
 "claims": [
-"c-3f71b5a057"
+"c-3f71b5a057",
+"c-78d71cff81"
 ],
 "id": "astronomers-searches",
 "title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
 },
 {
 "claims": [
-"c-c82978bf6c"
+"c-c82978bf6c",
+"c-d7b0e21317"
 ],
 "id": "sign-estimate",
 "title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"

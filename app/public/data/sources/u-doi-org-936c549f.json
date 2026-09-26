@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-4be2b23799",
+"locator": null,
+"node": "im1-pacific-expedition-2023",
+"nodeLabel": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+"sourceText": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122628",
+"text": "Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -40,7 +51,22 @@
 ],
 "node": null,
 "title": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-4be2b23799"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-4be2b23799"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.1016/j.chemgeo.2025.122628"

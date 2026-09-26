@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-73aa1c8a81",
+"locator": null,
+"node": "ralph-blumenthal",
+"nodeLabel": "Ralph Blumenthal",
+"sourceText": "Wikipedia, 'Ralph Blumenthal', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Blumenthal was a New York Times staff reporter from 1964 to 2009 and co-authored both the 2017 AATIP story and the 2023 Grusch story.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

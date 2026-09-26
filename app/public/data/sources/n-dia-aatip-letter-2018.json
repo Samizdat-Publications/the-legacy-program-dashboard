@@ -1,21 +1,382 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-4cd6dbfbf4",
+"locator": null,
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"sourceText": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
+"text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7c0ce66dfb",
+"locator": null,
+"node": "brian-jenkins-dia",
+"nodeLabel": "Brian L. Jenkins",
+"sourceText": "DIA letter to SASC, 9 January 2018",
+"text": "The letter states: 'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-93e717ad90",
+"locator": null,
+"node": "brian-jenkins-dia",
+"nodeLabel": "Brian L. Jenkins",
+"sourceText": "DIA letter to Senate Armed Services Committee, 9 January 2018",
+"text": "Jenkins, as Chief of Records Management and Information Services at DIA, signed the 9 January 2018 letter to Senators McCain and Reed listing all 38 products produced under the program.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-186d26209b",
+"locator": null,
+"node": "dia-aatip-letter-2018",
+"nodeLabel": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+"sourceText": "DIA letter to SASC, 9 January 2018",
+"text": "DIA wrote to Senators John McCain and Jack Reed on 9 January 2018, over the signature of Brian L. Jenkins, Chief of Records Management and Information Services, enclosing a list of all 38 products produced under AATIP.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-82e9a28dc8",
+"locator": null,
+"node": "dia-aatip-letter-2018",
+"nodeLabel": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+"sourceText": "DIA letter to SASC, 9 January 2018",
+"text": "'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ccd80da90f",
+"locator": null,
+"node": "dia-aatip-letter-2018",
+"nodeLabel": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
+"sourceText": "DIA letter to SASC, 9 January 2018",
+"text": "The list identifies items 37 and 38 as two versions of the same high-energy laser weapons paper, one SECRET/NOFORN and one UNCLASSIFIED//FOUO.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d9b8616040",
+"locator": "items 5, 8, 11, 14, 31, 34",
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "DIA letter to SASC, 9 January 2018, items 5, 8, 11, 14, 31, 34",
+"text": "EarthTech International personnel authored six of the 38 AAWSAP DIRDs: Puthoff on spacetime metric engineering and Davis on wormholes, antigravity, quantum vacuum energy, laser lightcraft nanosatellites and quantum tomography of negative energy states.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7fb0b6e2a9",
+"locator": "items 8, 11, 14, 31, 34",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34",
+"text": "Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5c7fed8ae7",
+"locator": "item 5",
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "DIA letter to Senate Armed Services Committee listing 38 AATIP products, 9 January 2018, item 5",
+"text": "Puthoff authored the AAWSAP Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' for EarthTech International.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c3a33baa73",
+"locator": "full list of 38 products",
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "DIA letter to Senators John McCain and Jack Reed, Senate Armed Services Committee, 9 January 2018, signed Brian L. Jenkins, Chief, Records Management and Information Services",
+"text": "The full DIA-transmitted list of 38 products with authors: 1. Inertial Electrostatic Confinement Fusion (Dr. George Miley, University of Illinois); 2. Advanced Nuclear Propulsion for Manned Deep Space Missions (Dr. F. Winterberg, University of Nevada-Reno); 3. Pulsed High-Power Microwave Technology (Dr. James Wells, JW Enterprises); 4. Space Access (Dr. P. Czysz, HyperTech); 5. Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (Dr. Hal Puthoff, EarthTech International); 6. BioSensors and BioMEMS (Dr. Bruce Towe, University of Arizona); 7. Invisibility Cloaking (Dr. Ulf Leonhardt, University of St Andrews); 8. Traversable Wormholes, Stargates, and Negative Energy (Dr. Eric Davis, EarthTech International); 9. High-Frequency Gravitational Wave Communications (Dr. Robert Baker, GravWave); 10. Role of Superconductors in Gravity Research (Dr. George Hathaway, Hathaway Consulting); 11. Antigravity for Aerospace Applications (Dr. Eric Davis, EarthTech International); 12. Field Effects on Biological Tissues (Dr. Kit Green, Wayne State University); 13. Positron Aerospace Propulsion (Dr. Gerald Smith, Positronics Research); 14. Concepts for Extracting Energy from the Quantum Vacuum (Dr. Eric Davis, EarthTech International); 15. An Introduction to the Statistical Drake Equation (Dr. Claudio Maccone, International Academy of Astronautics); 16. Maverick Inventor Versus Corporate Inventor (Dr. George Hathaway, Hathaway Consulting); 17. Biomaterials (Dr. Bruce Towe, University of Arizona); 18. Metamaterials for Aerospace Applications (Dr. G. Shvets, University of Texas-Austin); 19. Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (Dr. R. Obousy, Obousy Consultants); 20. Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (Dr. R. Genik, Wayne State University); 21. Materials for Advanced Aerospace Platforms (Dr. J. Williams, Ohio State University); 22. Metallic Glasses (Dr. T. Hufnagel, Johns Hopkins University); 23. Aerospace Applications of Programmable Matter (Dr. W. McCarthy, Programmable Matter Corporation); 24. Metallic Spintronics (Dr. M. Tsoi, University of Texas-Austin); 25. Space-Communication Implications of Quantum Entanglement and Nonlocality (Dr. J. Cramer, University of Washington); 26. Aneutronic Fusion Propulsion I (Dr. V. Teofilo, Lockheed Martin); 27. Cockpits in the Era of Breakthrough Flight (Dr. G. Millis, Tau Zero); 28. Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (Dr. R. Genik, Wayne State University); 29. Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (Dr. W. Culbreth, University of Nevada-Las Vegas); 30. Aneutronic Fusion Propulsion II (Dr. W. Culbreth, University of Nevada-Las Vegas); 31. Laser Lightcraft Nanosatellites (Dr. E. Davis, EarthTech); 32. Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications (Dr. S. Macheret, Lockheed Martin); 33. Quantum Computing and Utilizing Organic Molecules in Automation Technology (Dr. R. Genik, Wayne State University); 34. Quantum Tomography of Negative Energy States in the Vacuum (Dr. Eric Davis, EarthTech); 35. Ultracapacitors as Energy and Power Storage Devices (Dr. J. Golightly, Lockheed Martin); 36. Negative Mass Propulsion (Dr. F. Winterberg, University of Nevada-Reno); 37. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — SECRET/NOFORN; 38. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — UNCLASSIFIED//FOUO.",
+"tier": 1
+}
+],
 "date": "2018",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 1,
+"id": "e-7de7d7ba16",
+"label": "the program the New York Times revealed",
+"note": "The 16 December 2017 story named the program, the $22M, Reid and Bigelow, and forced DIA to write the Senate Armed Services Committee three weeks later.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-300caf5638",
+"label": "prime contractor that commissioned and delivered the 38 DIRDs",
+"note": "BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen universities and delivered them to DIA as Defense Intelligence Reference Documents.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "brian-jenkins-dia",
+"label": "Brian L. Jenkins"
+},
+"b": {
+"cls": "document",
+"id": "dia-aatip-letter-2018",
+"label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+},
+"claimTier": 1,
+"id": "e-be33e63ad5",
+"label": "signed the transmittal to the Senate Armed Services Committee",
+"note": "A records officer's signature is the only formal notification the authorizing committee ever received about a ten-year program.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dia-aatip-letter-2018",
+"label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+},
+"b": {
+"cls": "legislation",
+"id": "defense-appropriations-aawsap",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation"
+},
+"claimTier": 3,
+"id": "e-152e6fcbe7",
+"label": "receipt for the authorization gap",
+"note": "That DIA had to introduce the program to SASC by letter in 2018 establishes the committee had no visibility during its life — the direct consequence of funding it through the classified appropriation.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "dia-aatip-letter-2018",
+"label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-cf77ee29ca",
+"label": "transmitted the complete list of 38 products",
+"note": "Every subsequent FOIA request for individual DIRDs was built from this list; 37 of 38 have since been released.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"b": {
+"cls": "domain",
+"id": "d-contracting",
+"label": "Federal Contracting Mechanics"
+},
+"claimTier": 1,
+"id": "e-4050352af2",
+"label": "the subcontract path - how work reached the government without a prime relationship",
+"note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-4c36c9eddc",
+"label": "staff scientist",
+"note": "Davis wrote all five of his DIRDs under the EarthTech banner.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-96769d6a97",
+"label": "authored five of the 38 DIRDs",
+"note": "Items 8, 11, 14, 31 and 34 — wormholes, antigravity, quantum vacuum energy, laser lightcraft and negative energy tomography.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-30951d162e",
+"label": "founder and president",
+"note": "EarthTech is the vehicle through which Puthoff's four-decade federally funded research line continued into AAWSAP.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+"b": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"claimTier": 1,
+"id": "e-b4d6399d50",
+"label": "authored DIRD on vacuum/spacetime metric engineering",
+"note": "Item 5 on DIA's transmittal list; the closest thing in the released set to a theory of how the reported craft operate.",
+"type": "programmatic"
+}
+],
 "era": "3",
 "id": "n-dia-aatip-letter-2018",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "person",
+"id": "brian-jenkins-dia",
+"label": "Brian L. Jenkins"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "person",
+"id": "colm-kelleher",
+"label": "Colm A. Kelleher"
+},
+{
+"cls": "document",
+"id": "dia-aatip-letter-2018",
+"label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+},
+{
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "harold-puthoff",
+"label": "Harold E. Puthoff"
+},
+{
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+}
+],
 "node": {
 "cls": "document",
 "id": "dia-aatip-letter-2018",
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
 },
 "title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d9b8616040",
+"c-7fb0b6e2a9",
+"c-5c7fed8ae7",
+"c-c3a33baa73"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+},
+{
+"claims": [
+"c-186d26209b",
+"c-82e9a28dc8"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-186d26209b",
+"c-82e9a28dc8"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-4cd6dbfbf4"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-7fb0b6e2a9"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf"
+]
 }

@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-747d096008",
+"locator": null,
+"node": "gremlin-program",
+"nodeLabel": "GREMLIN",
+"sourceText": "DefenseScoop, 8 March 2024",
+"text": "AARO disclosed GREMLIN, a prototype capability to collect real-time UAP data, at the Volume I rollout in March 2024.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-517b0ae937",
+"locator": null,
+"node": "tim-phillips",
+"nodeLabel": "Timothy A. Phillips",
+"sourceText": "DefenseScoop, 8 March 2024",
+"text": "AARO disclosed the GREMLIN capability for real-time UAP data collection at the Volume I rollout.",
+"tier": 1
+}
+],
 "date": "2024-03-08",
 "edges": [
 {
@@ -40,7 +61,15 @@
 ],
 "node": null,
 "title": "DefenseScoop - DOD developing 'Gremlin' capability to help personnel collect real-time UAP data",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-517b0ae937"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
 "type": "article",
 "urls": [
 "https://defensescoop.com/2024/03/08/embargo-10a-friday-dod-developing-gremlin-capability-to-help-personnel-collect-real-time-uap-data/"

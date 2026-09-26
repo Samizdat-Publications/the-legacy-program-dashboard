@@ -2,7 +2,28 @@
 "archived": [
 "https://web.archive.org/web/20231209143734/https://www.osi.af.mil/About-Us/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-006afde421",
+"locator": null,
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"sourceText": "AFOSI, About Us, retrieved 12 August 2026",
+"text": "AFOSI states its investigative remit covers 'espionage, terrorism, crimes against property, violence against people, larceny, computer hacking, acquisition fraud... and any other illegal activity that undermines the mission of the U.S. Air Force or the Department of Defense', with units 'located at most Air Force bases worldwide'.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-0e701fc335",
+"locator": null,
+"node": "d-counterintel",
+"nodeLabel": "Counterintelligence",
+"sourceText": "AFOSI, About Us",
+"text": "The Air Force Office of Special Investigations is chartered for both criminal investigation and counterintelligence, giving a single service jurisdiction over programme security and over personnel who disclose.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -42,7 +63,22 @@
 ],
 "node": null,
 "title": "AFOSI - About Us",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-006afde421"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-0e701fc335"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.osi.af.mil/About-Us/"

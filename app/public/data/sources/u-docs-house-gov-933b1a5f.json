@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-31a2ccc536",
+"locator": null,
+"node": "hearing-2024-11-13",
+"nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"sourceText": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+"text": "Elizondo answered 'Yes' under oath to whether the government has conducted secret UAP crash retrieval programs and to whether they were designed to identify and reverse engineer alien craft.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-3a5c080b8c",
+"locator": null,
+"node": "imminent-book",
+"nodeLabel": "Imminent: Inside the Pentagon's Hunt for UFOs",
+"sourceText": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+"text": "Cleared through the Defense Office of Prepublication and Security Review over approximately one year, per Elizondo's sworn testimony: 'what is in the book is what I was told I am allowed to talk about.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-236f55b68c",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+"text": "Testified that Imminent went through DOPSR, 'which took a year for it to be reviewed, and what is in the book is what I was told I am allowed to talk about.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-fcc543fc47",
+"locator": null,
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"sourceText": "HHRG-118-GO12 hearing transcript, 13 November 2024",
+"text": "Testified under oath on 13 November 2024 that the U.S. government has conducted secret UAP crash retrieval programs and that they were designed to identify and reverse engineer craft of non-human origin, answering 'Yes' to both.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -135,7 +176,34 @@
 ],
 "node": null,
 "title": "HHRG-118-GO12 transcript",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-3a5c080b8c",
+"c-236f55b68c",
+"c-fcc543fc47"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-3a5c080b8c",
+"c-236f55b68c",
+"c-fcc543fc47"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-31a2ccc536",
+"c-fcc543fc47"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
+}
+],
 "type": "transcript",
 "urls": [
 "https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Transcript-20241113.pdf"

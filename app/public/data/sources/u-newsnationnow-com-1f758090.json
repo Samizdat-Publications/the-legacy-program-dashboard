@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-6854ebcd40",
+"locator": null,
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"sourceText": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
+"text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -27,7 +38,15 @@
 ],
 "node": null,
 "title": "NewsNation - Lawmaker asks FBI, CIA for info on Brazil's Roswell moment",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-6854ebcd40"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
 "type": "article",
 "urls": [
 "https://www.newsnationnow.com/space/ufo/varginha-burlison-fbi-cia/"

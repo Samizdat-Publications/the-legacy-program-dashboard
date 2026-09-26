@@ -8,10 +8,16 @@
 {
 "id": "c-8773ce7c9b",
 "source": "NASA UAP Independent Study Team Report, September 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "The NASA UAP Independent Study Team report recommends applying NASA Earth-observing and commercial remote-sensing assets to UAP data collection.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

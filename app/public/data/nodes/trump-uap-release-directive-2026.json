@@ -7,26 +7,44 @@
 {
 "id": "c-604ab35821",
 "source": "DefenseScoop, 20 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Trump posted on Truth Social on 19-20 February 2026 that he would direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-dfa877dc23",
 "source": "DefenseScoop, 25 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-cda2f816",
+"locator": null,
+"title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000"
+}
+],
 "text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b8cfe517f7",
 "source": "DefenseScoop, 20 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Sean Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4863956419",
@@ -83,9 +101,9 @@
 "source": "https://burlison.house.gov/sites/evo-subsites/burlison.house.gov/files/evo-media-document/memorandum_2026.pdf",
 "sources": [
 {
-"id": "u-burlison-house-gov-163a5c08",
+"id": "n-odni-memo-es-2026-00818",
 "locator": null,
-"title": "ODNI Memorandum ES 2026-00818"
+"title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
 }
 ],
 "text": "ODNI ES 2026-00818 grounds the NDA-waiver implementation on 'Presidential Direction' rather than on any cited executive order number.",
@@ -112,15 +130,21 @@
 "sources": [],
 "text": "Trump announced he would direct the Secretary of War and other departments and agencies to begin identifying and releasing files on alien and extraterrestrial life, UAP and UFOs.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:aljazeera.com/news/2026/2/20/trump-orders-pentagon-federal-agencies-to-relea) was rejected in review: names the post and Al Jazeera 'and others'; not one source"
 },
 {
 "id": "c-88350e5df7",
 "source": "Al Jazeera, 20 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-aljazeera-com-15b1ae21",
+"locator": null,
+"title": "Al Jazeera - Trump orders Pentagon, federal agencies to release files on UFOs and aliens"
+}
+],
 "text": "Rep. Anna Paulina Luna publicly thanked the President as chair of the task force that investigates the subject; Sen. John Fetterman called the decision fantastic.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

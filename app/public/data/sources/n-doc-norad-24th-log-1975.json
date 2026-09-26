@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-131d11e52d",
+"locator": null,
+"node": "sac-overflights-1975",
+"nodeLabel": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
+"sourceText": "24th NORAD Region Senior Director's log, 7 November 1975",
+"text": "The 24th NORAD Region Senior Director's log for 7 November 1975 logs reports from missile sites M-1, L-3, LIMA and L-6 at 1035Z, the Harlow LCF at 1203Z, site K-1 at 1319Z and site L-1 at 1327Z, with surveillance unable to detect any track.",
+"tier": 1
+}
+],
 "date": "1975-11-07",
 "edges": [],
 "era": "1",
@@ -15,7 +26,15 @@
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975"
 },
 "title": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-131d11e52d"
+],
+"id": "sac-overflights-1975",
+"title": "The 1975 overflights of Strategic Air Command bases"
+}
+],
 "type": "report",
 "urls": []
 }

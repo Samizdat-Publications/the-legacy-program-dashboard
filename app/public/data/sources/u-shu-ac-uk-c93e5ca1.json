@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-f74975c3ba",
+"locator": null,
+"node": "sheffield-hallam",
+"nodeLabel": "Sheffield Hallam University",
+"sourceText": "shu.ac.uk/about-us",
+"text": "Sheffield Hallam University is based in Sheffield with approximately 31,000 students, nearly 4,000 staff and 345,000 alumni, and holds Gold in the Teaching Excellence Framework.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

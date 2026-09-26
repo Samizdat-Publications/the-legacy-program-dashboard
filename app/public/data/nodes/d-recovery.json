@@ -11,7 +11,7 @@
 "sources": [
 {
 "id": "gao-nsiad-95-187",
-"locator": "record search",
+"locator": null,
 "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
 }
 ],
@@ -36,10 +36,16 @@
 {
 "id": "c-83f11537c4",
 "source": "American Alchemy - Jake Barber interview, 30 January 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-youtube-com-3ecc3908",
+"locator": null,
+"title": "American Alchemy - Jake Barber interview"
+}
+],
 "text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-609134546a",

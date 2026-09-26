@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f9bb0a3cde",
+"locator": null,
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"sourceText": "The Debrief, 'Colm Kelleher: AAWSAP and the Skinwalker Enigma', 25 May 2023",
+"text": "Kelleher led the NIDS team on Skinwalker Ranch 1996-2004 and in 2008 became Deputy Administrator of BAASS, leading day-to-day execution of the AAWSAP contract.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -84,7 +95,15 @@
 ],
 "node": null,
 "title": "The Debrief",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-f9bb0a3cde"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+}
+],
 "type": "article",
 "urls": [
 "https://thedebrief.org/colm-kelleher-aawsap-and-the-skinwalker-enigma/"

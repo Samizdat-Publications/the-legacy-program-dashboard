@@ -7,10 +7,16 @@
 {
 "id": "c-8176615652",
 "source": "MITRE National Security Engineering Center fact sheet, 3 March 2022",
-"sources": [],
+"sources": [
+{
+"id": "u-mitre-org-a263798c",
+"locator": null,
+"title": "MITRE NSEC fact sheet"
+}
+],
 "text": "NSEC is MITRE's DoD-sponsored FFRDC under USD(R&E), delivering research, engineering and analytical solutions to the Department of Defense and the Intelligence Community, with a lineage MITRE dates to 1958.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6ba3b4f2bf",
@@ -18,8 +24,8 @@
 "sources": [
 {
 "id": "crs-r44629",
-"locator": "funding table",
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"locator": null,
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "NSEC's primary location was reassigned to McLean, Virginia in 2025 and it received approximately $1,431.7 million in FY2024.",
@@ -32,7 +38,7 @@
 "sources": [],
 "text": "NSEC work is executed under IDIQ W56KGU18D0004 with annual task orders including W56KGU22F0017, expressly described in the award record as 'TASK ORDER 5 NSEC, FFRDC'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:usaspending.gov/award/CONT_AWD_W56KGU24F0010_9700_W56KGU18D0004_9700) was rejected in review: generic records; candidate is a different task order; locator invented"
 },
 {
 "id": "c-4e04bb7498",

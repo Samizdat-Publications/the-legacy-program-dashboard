@@ -22,18 +22,30 @@
 {
 "id": "c-4841f84716",
 "source": "House Oversight Committee hearing, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": null,
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "David Grusch testified on 26 July 2023 that material and programmes had been placed with defence contractors outside congressional oversight.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6d940e9ef2",
 "source": "Newsmax, 16 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-newsmax-com-3200af41",
+"locator": null,
+"title": "Newsmax - House GOP Letter Targets Private UFO Contractors"
+}
+],
 "text": "In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

@@ -32,10 +32,16 @@
 {
 "id": "c-0995c26e6e",
 "source": "The Debrief, About page, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-thedebrief-org-8aa419c7",
+"locator": "retrieved 12 Aug 2026",
+"title": "The Debrief - About"
+}
+],
 "text": "Tim McMillan is a co-founder and Executive Director of The Debrief; Micah Hanks is co-founder and Editor-in-Chief; MJ Banias is co-founder and Content Director.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

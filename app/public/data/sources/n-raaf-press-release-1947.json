@@ -1,6 +1,57 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-4c31a96397",
+"locator": "as reproduced in the 1995 USAF report",
+"node": "raaf-press-release-1947",
+"nodeLabel": "RAAF Press Release, 8 July 1947",
+"sourceText": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"text": "The press release states the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-250c786148",
+"locator": null,
+"node": "roswell-1947",
+"nodeLabel": "Roswell Incident",
+"sourceText": "RAAF press release issued by 1st Lt. Walter Haut, 8 July 1947",
+"text": "'The many rumors regarding the flying disc became a reality yesterday when the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7a2e987b14",
+"locator": "as reproduced in the 1995 USAF report",
+"node": "roswell-1947",
+"nodeLabel": "Roswell Incident",
+"sourceText": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
+"text": "On 8 July 1947 RAAF announced that the intelligence office of the 509th Bomb Group had gained possession of a disc 'through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-c2b8eec085",
+"locator": null,
+"node": "l-roswell",
+"nodeLabel": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
+"sourceText": "RAAF press release, 8 July 1947, issued by 1st Lt. Walter Haut",
+"text": "The 8 July 1947 RAAF press release stated that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-57c7db0082",
+"locator": "as reproduced in the 1995 USAF report",
+"node": "walter-haut",
+"nodeLabel": "Walter Haut",
+"sourceText": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
+"text": "On 8 July 1947 RAAF publicly announced that the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County.'",
+"tier": 1
+}
+],
 "date": "1947",
 "edges": [],
 "era": "0",
@@ -15,7 +66,16 @@
 "label": "RAAF Press Release, 8 July 1947"
 },
 "title": "RAAF Press Release, 8 July 1947",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-4c31a96397",
+"c-250c786148"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
 "type": "document",
 "urls": []
 }

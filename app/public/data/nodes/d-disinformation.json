@@ -22,18 +22,30 @@
 {
 "id": "c-a76860cc55",
 "source": "FBI Records: The Vault - 'Majestic 12'",
-"sources": [],
+"sources": [
+{
+"id": "u-vault-fbi-gov-deebc0de",
+"locator": null,
+"title": "FBI Records: The Vault - 'Majestic 12'"
+}
+],
 "text": "The FBI maintains a public file on the Majestic 12 documents, released through its Vault reading room, recording the investigation of their authenticity.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-34f6186163",
 "source": "Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
-"sources": [],
+"sources": [
+{
+"id": "u-skepticalinquirer-org-f0aaf6f2",
+"locator": null,
+"title": "Philip J. Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer"
+}
+],
 "text": "Philip J. Klass published a detailed forensic critique of the MJ-12 documents in Skeptical Inquirer in 1988, identifying typographic and formatting anomalies.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-36b40b7af2",

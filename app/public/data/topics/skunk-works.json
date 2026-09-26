@@ -89,9 +89,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-wikileaks-org-355625fe",
+     "id": "n-podesta-delonge-mccasland-email-2016",
      "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, email id 3099"
+     "title": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
     }
    ],
    "text": "In the same email DeLonge told Podesta the general was not the sceptic he had been described as: 'I've been working with him for four months. I just got done giving him a four hour presentation on the entire project a few weeks ago', and that 'He not only knows what I'm trying to achieve, he helped assemble my advisory team.'",
@@ -141,7 +141,13 @@
     "text": "Haines, Studies in Intelligence (1997)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-haines-cia-history",
+     "locator": null,
+     "title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+    }
+   ],
    "text": "CIA's own historical account confirms that U-2 and OXCART overflights were the source of a majority of UFO reports in the late 1950s and 1960s, and that false explanations were issued to protect them.",
    "tier": 1
   },
@@ -159,7 +165,7 @@
     {
      "id": "chrg-118hhrg57440",
      "locator": "13 November 2024",
-     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+     "title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
     }
    ],
    "text": "Elizondo confirmed on the record that the reported Lockheed Martin - Bigelow Aerospace transfer 'was blocked,' and that a memorandum from the Secretary of the Air Force required to complete it never issued.",
@@ -226,12 +232,18 @@
    "nodeLabel": "Air Force Plant 42, Palmdale, California",
    "source": {
     "domain": null,
-    "text": "AARO Historical Record Report Volume I, March 2024",
+    "text": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "Lockheed Martin's Advanced Development Programs organisation operates at Palmdale; AARO cites its aircraft as sources of UAP misidentification.",
-   "tier": 1
+   "tier": 2
   },
   "c-684de782d3": {
    "id": "c-684de782d3",
@@ -270,9 +282,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-wikileaks-org-355625fe",
+     "id": "n-podesta-delonge-mccasland-email-2016",
      "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, email id 3099"
+     "title": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)"
     }
    ],
    "text": "DeLonge wrote to Podesta on 25 January 2016 under the subject 'General McCasland': 'When Roswell crashed, they shipped it to the laboratory at Wright Patterson Air Force Base. General McCasland was in charge of that exact laboratory up to a couple years ago.' The raw source gives the date as Mon, 25 Jan 2016 10:04:29 -0800 and the message id as E8428167-CF1B-4CC3-95D2-977A277CC5CB@me.com.",
@@ -308,7 +320,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "Lockheed Martin is the largest single recipient of Department of Defense prime contract obligations; USAspending recipient records for Lockheed Martin entities total in the hundreds of billions of dollars since FY2008.",
    "tier": 1
   },
@@ -356,7 +374,13 @@
     "text": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed'",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b004b0cb",
+     "locator": null,
+     "title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+    }
+   ],
    "text": "Lockheed's Advanced Development Projects designed and flew the U-2, A-12/SR-71 and F-117 under security regimes in which the aircraft's existence was officially denied while operational.",
    "tier": 1
   },
@@ -370,7 +394,13 @@
     "text": "George Knapp, sworn testimony, 9 September 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "chrg-119hhrg61718",
+     "locator": "sworn testimony of George Knapp",
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+    }
+   ],
    "text": "Asked to name corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do.'",
    "tier": 2
   },
@@ -384,7 +414,13 @@
     "text": "AARO, Historical Record Report Volume I, March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
    "tier": 1
   },
@@ -402,7 +438,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 September 2025",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "Bigelow and an AAWSAP colleague 'met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
@@ -418,7 +454,13 @@
     "text": "Ben R. Rich and Leo Janos, 'Skunk Works' (1994)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b004b0cb",
+     "locator": null,
+     "title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+    }
+   ],
    "text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
    "tier": 1
   },
@@ -477,7 +519,13 @@
     "text": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Little, Brown, 1994)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-b004b0cb",
+     "locator": null,
+     "title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+    }
+   ],
    "text": "Rich directed Lockheed's Advanced Development Projects from 1975 to 1991 and published a memoir describing how unacknowledged black programs were compartmented, staffed and funded at Burbank and Palmdale.",
    "tier": 1
   },
@@ -511,7 +559,13 @@
     "text": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "'AARO found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.'",
    "tier": 1
   },
@@ -536,12 +590,18 @@
    "nodeLabel": "Lockheed Martin Advanced Development Programs (Skunk Works)",
    "source": {
     "domain": null,
-    "text": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics",
+    "text": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "Section on classified aeronautics",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the RQ-170 Sentinel and the DarkStar; AARO cites these programs as sources of UAP misidentification.",
-   "tier": 1
+   "tier": 2
   },
   "c-f38164a34b": {
    "id": "c-f38164a34b",
@@ -573,7 +633,13 @@
     "text": "AARO Historical Record Report Volume 1, pp.34-35",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": "pp.34-35",
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO states the program was never approved or stood up and that the material it was intended to protect 'was only assumed to exist'.",
    "tier": 1
   },

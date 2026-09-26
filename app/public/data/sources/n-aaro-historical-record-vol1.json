@@ -1,21 +1,3378 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260508180210/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"https://web.archive.org/web/20260508180210id_/https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"https://web.archive.org/web/20260705034310/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"https://web.archive.org/web/20260811042323/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"https://web.archive.org/web/20260811042323id_/https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-e3ce3f022d",
+"locator": null,
+"node": "aaro-ornl-materials-analyses",
+"nodeLabel": "AARO / Oak Ridge National Laboratory materials analyses",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "Volume I determined that an alleged extraterrestrial spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0ec7e9e9b9",
+"locator": null,
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "HRR Volume I, page 45 (concluding section): 'This report represents Volume I of AARO's HR2. Volume II will be published in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23) and will provide additional analysis on information not yet secured and analyzed, interviews not yet conducted, and additional avenues of investigation not yet completed by the date of the publication of Volume I.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-22712ed626",
+"locator": "scope statement (describing forthcoming Volume II)",
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "AARO Historical Record Report Volume I, scope statement",
+"text": "Volume I states that Volume II will cover interviews and research conducted between 1 November 2023 and 15 April 2024 plus additional unresolved allegations from Volume I.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3e4e602bdf",
+"locator": "scope statement (describing forthcoming Volume II)",
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "AARO Historical Record Report Volume I, scope statement",
+"text": "Volume I states that Volume II will cover interviews and research conducted between 1 November 2023 and 15 April 2024 plus additional unresolved allegations.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-519cf45c62",
+"locator": null,
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "HRR Volume I, page 11: 'Volume II will include any findings resulting from interviews and research' conducted after Volume I's cutoff; page 30 states AARO will address remaining 'allegations in Volume II'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0425885755",
+"locator": null,
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "HRR Volume I, page 6: 'AARO will publish Volume II in accordance with the date established in Section 6802 of the National Defense Authorization Act for Fiscal Year 2023 (FY23); Volume II will provide analysis of information acquired by AARO after the date of the publication of Volume I.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-1e967d9765",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, February 2024, released 8 March 2024",
+"text": "Volume I concludes there is 'no empirical evidence' for claims that the US government and private companies have been reverse-engineering extraterrestrial technology.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-24d8b218db",
+"locator": "Section IV",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, Section IV",
+"text": "Corporate denials in the report rest on voluntary on-the-record statements by executives and CTOs; no inspection of any contractor facility or holding is described anywhere in it.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2b8784c342",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "'AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission... This CAP was disestablished due to its inactivity, absence of mission need, and lack of merit.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-34b71074a6",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, March 2024",
+"text": "The report attributes claims of concealed extraterrestrial technology largely to circular reporting from a group of interconnected individuals active in UAP efforts since 2009.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3820b1804c",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Title page reads: 'THE DEPARTMENT OF DEFENSE ALL-DOMAIN ANOMALY RESOLUTION OFFICE / Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP) / Volume I / February 2024'. The DOPSR stamp on the same page reads 'CLEARED For Open Publication Mar 06, 2024 - Department of Defense OFFICE OF PREPUBLICATION AND SECURITY REVIEW'. PDF is 63 pages; embedded CreationDate 29 Feb 2024, ModDate 9 Mar 2024.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-38b4b11f3d",
+"locator": "pp.22-24",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume 1, pp.22-24",
+"text": "The report confirms the $22M appropriation, the Reid direction, the FY2008 and FY2010 vehicles, the contractor's UFO research with DIA program manager support, the Utah property investigation, and a 2012 termination.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3c3df21f4a",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "Report title: 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', dated February 2024, Volume I approximately 45 pages.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-42bea63ee4",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report, Volume I, February 2024",
+"text": "'AARO found no evidence that any USG investigation, academic-sponsored research, or official review panel has confirmed that any sighting of a UAP represented extraterrestrial technology.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-48edce018e",
+"locator": "pp.22-24",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume 1, pp.22-24",
+"text": "The report anonymises every individual participant, referring only to 'the private sector organization', 'the DIA program manager' and 'the head of the private sector organization'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4d754b7236",
+"locator": "p.30 and scope statement",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, p.30 and scope statement",
+"text": "The report states AARO found 'no NDAs that contain information related to UAP' and defers unresolved allegations to a Volume II covering 1 November 2023 to 15 April 2024.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-63ed6b27a3",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, March 2024",
+"text": "'None of the interviewees had firsthand knowledge' of the programs they described, per the report's findings section.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6780776193",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Report page 35: 'As demonstrated by the proposal package and by statements from the originator, Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding.' The same page states the KONA BLUE PSAP 'was eventually rejected by DHS leadership for lacking merit' and that 'no extraterrestrial craft or bodies were ever collected - this material was only assumed to exist by KONA BLUE advocates and its anticipated contract performers.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-684e8783c2",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO, Historical Record Report Volume I, 8 March 2024",
+"text": "'AARO met with high-ranking officials, including executives and chief technology officers, of the named companies. All denied the existence of these programs, and attested to the truthfulness of their statements on the record.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-69b1d25164",
+"locator": "Section III",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, Section III",
+"text": "Among AARO's stated future lines of effort: 'Engage with commercial entities on named companies alleged to have worked with the USG on UAP recovery and alleged exploitation of UAP technology.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6c8941663c",
+"locator": "p.30 and scope statement",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, p.30 and scope statement",
+"text": "Volume I states AARO found 'no NDAs that contain information related to UAP' and defers unresolved allegations to a subsequent volume covering research from 1 November 2023 to 15 April 2024.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-96004f74f0",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "The report contains ZERO occurrences of the name 'Wilson' and zero of 'Davis' across all 63 pages including endnotes 1-200. It names no private individuals, referring instead to 'Person 1' and 'the named former CIA official'. It disposes of the reverse-engineering allegations without ever engaging the Wilson-Davis memorandum, a document that sits in a congressional hearing file.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-aa4ba90309",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "Records that after DIA ended AAWSAP in 2012, supporters proposed a follow-on program, KONA BLUE, to the Department of Homeland Security, which DHS rejected.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-abd14e6b7f",
+"locator": "Section IV",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, Section IV",
+"text": "AARO records a thirdhand interviewee claim that an organisation possessed twelve spacecraft recovered before 1970, some intact, and that CIA had a partnership with the company that ended in 1989 and wanted all material returned.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-ac72d661aa",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Report page 34, section 'KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program': 'KONA BLUE was brought to AARO's attention by interviewees who claimed that it was a sensitive DHS compartment to cover up the retrieval and exploitation of \"non-human biologics.\" KONA BLUE traces its origins to the DIA-managed AAWSAP/AATIP program, which was funded through a special appropriation and executed by its primary contractor, a private sector organization. DIA cancelled the program in 2012 due to lack of merit and the utility of the deliverables.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-b591d5289c",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "The report confirms one IC controlled access programme was 'unnecessarily expanded in 2021 to include a UAP reverse-engineering mission' and later disestablished.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-bd25b50f23",
+"locator": "table of contents",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, table of contents",
+"text": "The report is organised in nine sections including 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs' and 'Testing and Development of U.S. National Security and Space Programs Most Likely Accounted for Some Portion of UAP Sightings.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c68db37306",
+"locator": "Section VI",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, Section VI",
+"text": "The report names KONA BLUE among proposed or alternative programmes it investigated.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c9587bb000",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "An alleged extraterrestrial spacecraft sample analysed for the report was determined to be a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c96ffffc9a",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report, Volume I, February 2024",
+"text": "AARO concluded the Roswell materials 'were consistent with a balloon of the type used in the then-classified Project Mogul' and that there is 'no evidence that the USG recovered aliens or extraterrestrial material'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d3e96f75a3",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "Describes contractor activity including reviewing new UFO cases and older Project BLUE BOOK cases, operating debriefing and investigatory teams, and examining purportedly recovered materials.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-da713bf9da",
+"locator": "full-text review",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, DOPSR-2024-0263, 8 Mar 2024 - full-text review",
+"text": "AARO Volume I contains no mention of Kirtland AFB, AFOSI, Paul Bennewitz, Richard Doty, MJ-12, Project AQUARIUS, Project MOON DUST, Operation BLUE FLY, Rendlesham, Admiral Thomas Wilson or the Wilson-Davis notes.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-dc74ecdb10",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "States: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States' and 'DIA established AAWSAP in 2009, which was also known [as] AATIP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e0a1e39005",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Methodology stated on report page 6: 'AARO reviewed all official USG investigatory efforts since 1945, researched classified and unclassified archives, conducted approximately 30 interviews, and partnered with Intelligence Community (IC) and Department of Defense (DoD) officials responsible for controlled and special access program oversight, respectively.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e3bfc9b966",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Report page 34 also records a second named-program finding: 'Virtual Institute for Satellite Integration Training - This program is not a USG-funded and supported effort. It was a program operated by a private UAP organization and had a NASA engineer as a participant. NASA verified that it did not sponsor the project.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e5e86fca02",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "AARO based Volume I on roughly 30 interviewees and stated most claims were inaccurate or misidentifications of authentic classified programmes unrelated to UAP.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e6f024d038",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
+"text": "'AARO found no empirical evidence for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e7f87ca6fa",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Report page 34 describes the SAP-access arrangement underpinning the investigation: 'AARO established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description... A key part of this agreement is that AARO investigators have been granted full access to all pertinent sensitive USG programs.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e9635818ce",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report, Volume I, February 2024",
+"text": "The report attributes modern claims to circular reporting among a consistent group of individuals since 2009 and finds those claims inaccurate against documentary evidence.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-fa97fb0e52",
+"locator": "Section IV",
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, Section IV",
+"text": "AARO records that a senior US military officer described 'a craft floating in a building,' approximately 150 individuals working on the program, and that the program 'was kept outside of government so the technology could remain proprietary.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-081cefd536",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Full-text search of the released PDF returns ZERO occurrences of 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' or 'hazing'. The Yankee Blue / Kirtland-AFOSI material is NOT in Volume I, contrary to common secondary characterisation.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-161940a99e",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-434c336107",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "AARO characterises the KONA BLUE proposal as one that 'would restart UAP investigations, paranormal research...and reverse-engineer any recovered off-world spacecraft'.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-89ca1c87fb",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "On KONA BLUE: it 'traces its origins to the DIA-managed AAWSAP/AATIP program'; supporters 'proposed to DHS that they create and fund a new version of AAWSAP/AATIP under a SAP', eventually submitting 'a Prospective Special Access Program (PSAP)' which was 'rejected by DHS leadership for lacking merit'.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-e255b5743c",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Report page 35, section 'Unnecessary IC Program Expansion': 'AARO confirmed the existence of one IC CAP that was unnecessarily expanded in 2021 to include a UAP reverse-engineering mission. This program was expanded despite the lack of any evidence or mission need to justify the expansion. The appropriate congressional committees were notified. This program never recovered or reverse-engineered any technology, let alone off-world spacecraft. This CAP was disestablished due to its inactivity, absence of mission need, and lack of merit.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-eac37dfbdb",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "An IC controlled access program expanded in 2021 to cover UAP reverse engineering was disestablished for lack of merit and never recovered extraterrestrial spacecraft.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-ffee665dd2",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "KONA BLUE was a prospective SAP proposed to DHS, never approved; 'No extraterrestrial craft or bodies were ever collected - this material was only assumed to exist by KONA BLUE advocates.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-26938ff010",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "The absence of any Kirtland/AFOSI/'Yankee Blue' passage in Volume I means that node cannot be sourced to Volume I. The public record for Yankee Blue rests on the June 2025 WSJ reporting plus AARO officials' on-the-record statements, and on a DoD FOIA response that first denied the memo existed and was later reopened - i.e. Tier 2 at best, with the underlying memo unreleased. Reasoning: direct full-text search of the authoritative PDF.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-2e8013fe8b",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO confirms in an official report that a proposal to 'reverse-engineer any recovered off-world spacecraft' was formally submitted to DHS as a Prospective Special Access Program by people who had run the DIA program. A PSAP submission is a bureaucratic instrument, not a rumour: it means the recovery premise was carried into formal special-access channels twice (Reid's 2009 SAP request, and KONA BLUE), and was refused both times on merit/classification grounds rather than on the grounds that the subject matter was fictitious.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-5efe18dba4",
+"locator": null,
+"node": "aaro-historical-record-vol1",
+"nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO's report is itself an artifact of the concealment posture it purports to close out: it confirms the appropriation, the program, the contractor activity and the attempted transfer to DHS, while declining to name the contractor, the program manager, or the DIRD authors — the same redaction boundary DIA drew in the FOIA release.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-93f9253ce9",
+"locator": null,
+"node": "aaro-kona-blue-release",
+"nodeLabel": "AARO/DHS release: History and Origin of KONA BLUE",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "Volume I concluded that no extraterrestrial craft or bodies were ever collected and that the material 'was only assumed to exist by KONA BLUE advocates.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-af485448ba",
+"locator": "DOPSR-2024-0263",
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"sourceText": "AARO Historical Record Report Volume 1, DOPSR-2024-0263, 8 March 2024",
+"text": "AARO's March 2024 Historical Record Report Volume 1 identifies 2009 as the standup year for AAWSAP and AATIP and states that 'none of the programs mentioned by interviewees are UAP reverse-engineering programs.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-c423d0fc5d",
+"locator": null,
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO Vol. I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the program in 2012; supporters then proposed a follow-on program, KONA BLUE, to DHS, which DHS rejected.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-e892d42c88",
+"locator": null,
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO Historical Record Report Vol. I states: 'Unlike AAWSAP, AATIP was never an official DoD program. However, after AAWSAP was cancelled, the AATIP moniker was used by some individuals associated with an informal, unofficial UAP community of interest within DoD that researched UAP sightings from military observers as part of their ancillary job duties.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-8e9f31d0a2",
+"locator": null,
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO's formulation is the load-bearing denial artifact: it concedes an actual DoD community of interest researching military UAP sightings, then denies it program status on a naming technicality. DIA's own 2009 correspondence uses 'AAITP' and 'AAWSAP' interchangeably for the same contract, so the 'never an official DoD program' line depends entirely on which of the two names is treated as canonical.",
+"tier": 3
+},
+{
+"cls": "program",
+"id": "c-39407a3820",
+"locator": "p.24",
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "AARO Historical Record Report Volume 1, p.24",
+"text": "'AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-3eb325099c",
+"locator": "p.22",
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-83713b1fdd",
+"locator": null,
+"node": "aawsap",
+"nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO Historical Record Report Vol. I: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' and 'DIA established AAWSAP in 2009, which was also known [as] AATIP.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-456a462398",
+"locator": "full-text review",
+"node": "afosi-kirtland-file",
+"nodeLabel": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"sourceText": "AARO Historical Record Report Volume I, DOPSR-2024-0263, 8 Mar 2024 - full-text review",
+"text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with UAP, Volume I' (March 2024) contains no mention of Kirtland AFB, AFOSI, Paul Bennewitz or Richard Doty anywhere in its text.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-64d03922ec",
+"locator": null,
+"node": "l-plant-42",
+"nodeLabel": "Air Force Plant 42, Palmdale, California",
+"sourceText": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Lockheed Martin's Advanced Development Programs organisation operates at Palmdale; AARO cites its aircraft as sources of UAP misidentification.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-04bc6e889a",
+"locator": "pp.34-35",
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "AARO Historical Record Report Volume 1, pp.34-35",
+"text": "The same report treats KONA BLUE as 'a Proposed UAP Recovery and Reverse-Engineering Program' that 'was eventually rejected by DHS leadership for lacking merit'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-2c672834c5",
+"locator": "p.24",
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "AARO Historical Record Report Volume 1, p.24",
+"text": "'AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4200dc40ca",
+"locator": "pp.22-23",
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, pp.22-23",
+"text": "AARO's Historical Record Report Volume 1 confirms the $22 million appropriation at Reid's direction, the contractor's UFO research with the DIA program manager's support, and the Utah property investigation.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-953d942787",
+"locator": null,
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "AARO was granted cross-agency SAP access to conduct its historical investigation: 'AARO established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS... A key part of this agreement is that AARO investigators have been granted full access to all pertinent sensitive USG programs.' (HRR Vol I, p. 34)",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-bea45d6610",
+"locator": "p.23",
+"node": "baass-ten-month-report",
+"nodeLabel": "BAASS Ten Month Report (2009)",
+"sourceText": "AARO Historical Record Report Volume 1, p.23 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "DoD confirms the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah'.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-01b2297036",
+"locator": "Project BEAR section",
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024, Project BEAR section",
+"text": "Project BEAR was the contract Capt. Ruppelt created with the Battelle Memorial Institute to provide scientific support to Project GRUDGE; Battelle 'released a report under the cover of ATIC to maintain its anonymity,' completed in late 1954 as Special Report No. 14.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-96aec013a3",
+"locator": null,
+"node": "bigelow-aerospace",
+"nodeLabel": "Bigelow Aerospace",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "AAWSAP/AATIP was 'funded through a special appropriation and executed by its primary contractor, a private sector organization'; the contractor team conducted UAP and paranormal research at a property owned by that organisation.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-24ab23fda0",
+"locator": "p.23",
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"sourceText": "AARO Historical Record Report Volume 1, p.23",
+"text": "DoD states the contractor 'conducted UFO research with the support of the DIA program manager' although UAP investigation was not in the statement of work.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-8076716006",
+"locator": null,
+"node": "d-bio",
+"nodeLabel": "Biology & Non-Human Biologics",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report (February 2024) states it found no empirical evidence for claims of recovered extraterrestrial technology or associated material.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4711e15514",
+"locator": null,
+"node": "ttsa-army-crada",
+"nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"sourceText": "AARO Historical Record Report Volume I, March 2024",
+"text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b4d121091a",
+"locator": "p.22",
+"node": "daniel-inouye",
+"nodeLabel": "Daniel K. Inouye",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, p.22 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "The Defense Appropriations Acts of FY2008 and FY2010 appropriated $22 million to DIA at Reid's direction — the vehicle Inouye controlled.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-5c8bccc803",
+"locator": "p.22",
+"node": "defense-appropriations-aawsap",
+"nodeLabel": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-467123052d",
+"locator": null,
+"node": "dopsr",
+"nodeLabel": "Defense Office of Prepublication and Security Review",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024",
+"text": "AARO's Historical Record Report Volume 1 carries the prepublication review number DOPSR-2024-0263.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-abadabc569",
+"locator": "p.35",
+"node": "dhs-st",
+"nodeLabel": "DHS Science and Technology Directorate",
+"sourceText": "AARO Historical Record Report Volume I, p. 35",
+"text": "AARO records that 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8ef7bbf6ef",
+"locator": "p.34",
+"node": "dod-sapco",
+"nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
+"sourceText": "AARO Historical Record Report Volume I, p. 34",
+"text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-32cc3d14a6",
+"locator": null,
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO records an interviewee claim that an organisation possessed off-world material in 2009 and 2010 and that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-65d1c2ae1c",
+"locator": "Section IV",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024, Section IV on AAWSAP/AATIP deliverables - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Davis authored Defense Intelligence Reference Documents delivered under DIA's AAWSAP contract, the government-funded research line executed by BAASS.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-6ff0911b65",
+"locator": null,
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation' in the 2009-2010 period. AARO does not name the official.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1470af8c01",
+"locator": null,
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"text": "AARO Vol. I attributes the FY2008/FY2010 $22M appropriations to his direction as Senate Majority Leader.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6ebd6ee9ad",
+"locator": "p.22",
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-d0bb364d87",
+"locator": null,
+"node": "d-history",
+"nodeLabel": "Historiography",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report reconstructs USG UAP investigatory programmes since 1945 and assesses interviewee claims of hidden programmes in Sections IV through VII.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b370486746",
+"locator": "p.34",
+"node": "ic-sapco",
+"nodeLabel": "Intelligence Community special access program control office enterprise",
+"sourceText": "AARO Historical Record Report Volume I, p. 34",
+"text": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS', identifying three distinct SAP control office enterprises.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-85a97770c3",
+"locator": null,
+"node": "d-intel",
+"nodeLabel": "Intelligence Tradecraft & Analysis",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report describes its methodology, including approximately thirty interviews and a review of named sensitive programmes, in Sections V and VI.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5c9782ba2d",
+"locator": null,
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"sourceText": "documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"text": "The Black Vault hosts the mirror of the AARO Historical Record Report Volume I relied on across published UAP research.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-45009a78a0",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024",
+"text": "'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-745a951e8b",
+"locator": "pp.34-35",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO Historical Record Report Volume 1, pp.34-35",
+"text": "AARO describes KONA BLUE as 'a Proposed UAP Recovery and Reverse-Engineering Program' that 'was eventually rejected by DHS leadership for lacking merit'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-abe51918aa",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO Historical Record Report Volume I, February 2024",
+"text": "AARO's Volume I characterises Kona Blue as a DHS proposal stemming from the cancelled DIA AAWSAP/AATIP effort that DHS leadership rejected as lacking merit.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f55d15edeb",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO Historical Record Report Volume I, March 2024",
+"text": "AARO: 'No extraterrestrial craft or bodies were ever collected - this material was only assumed to exist by KONA BLUE advocates.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-f8be65f4b2",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO Historical Record Report Volume I, March 2024",
+"text": "The proposal included an Oral History Initiative targeting 'an already identified and calibrated list of retired, previously highly placed government, armed services, contractor and intelligence community individuals.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-fb26e683f0",
+"locator": "pp.34-35",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO Historical Record Report Volume 1, pp.34-35",
+"text": "AARO states the program was never approved or stood up and that the material it was intended to protect 'was only assumed to exist'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-fb4b969f47",
+"locator": "KONA BLUE proposal text as quoted",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "KONA BLUE proposal text quoted in AARO Historical Record Report Volume I",
+"text": "The proposal's Oral History Initiative was to gather 'all information pertaining to the location of advanced aerospace technology and biological samples' from a calibrated list of retired government, armed services, contractor and intelligence community individuals.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-8ab1627799",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "KONA BLUE 'would restart UAP investigations, paranormal research... and reverse-engineer any recovered off-world spacecraft that they hoped to acquire,' and a Prospective Special Access Program was officially requested before DHS leadership rejected it.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-aaf8048245",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "KONA BLUE was a prospective special access program proposed to DHS and never approved; its lines of effort mirrored the AAWSAP/AATIP private-sector work.",
+"tier": 2
+},
+{
+"cls": "domain",
+"id": "c-6c465ee5eb",
+"locator": null,
+"node": "d-legacy",
+"nodeLabel": "Legacy Program",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I historical record report (February 2024) states it found no empirical evidence for claims of USG or private-company reverse engineering of extraterrestrial technology, and describes its interview and programme-review methodology in Sections V and VI.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-efbbf52f14",
+"locator": "Section on classified aeronautics",
+"node": "lockheed-skunk-works",
+"nodeLabel": "Lockheed Martin Advanced Development Programs (Skunk Works)",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the RQ-170 Sentinel and the DarkStar; AARO cites these programs as sources of UAP misidentification.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-ae7352ec1d",
+"locator": null,
+"node": "lockheed-martin",
+"nodeLabel": "Lockheed Martin Corporation",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-219874836b",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+"text": "AARO's 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I', February 2024, carries at page 29, in Section V 'Assessment of Interviewee Claims of USG Involvement in Hidden UAP Programs', this sentence: 'An interviewee who is a former U.S. service member said that in 2009, while participating in a humanitarian and security mission in a foreign country, he encountered U.S. Special Forces loading containers onto a large extraterrestrial spacecraft.' The sentence is AARO's summary of an interview, not a quotation of the interviewee, and it names nobody.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b236dfa335",
+"locator": null,
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"sourceText": "AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
+"text": "The same report states the anonymisation rule that is why the page 29 sentence names nobody: 'AARO generated random numbers and assigned one to each interviewee. AARO maintains the key, which is stored and handled in a secure manner to protect each interviewee's privacy.' It also gives the scale and the tiering: 'As of September 17, 2023, AARO interviewed approximately 30 individuals', with Tier 1 interviewees being 'those who have spoken with congressional staff or Members of Congress and have been subsequently referred to AARO'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-e1cac273c1",
+"locator": null,
+"node": "nasa-uapist-report",
+"nodeLabel": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "AARO's HRR Volume I lists the 'UAP Independent Study Team (UAPIST) (June 2022-September 2023)' as one of the official USG UAP investigatory efforts it reviewed (Table of Contents, Section IV, p. 25).",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9a3f166307",
+"locator": null,
+"node": "nga",
+"nodeLabel": "National Geospatial-Intelligence Agency",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "AARO's Historical Record Report Volume I lists NGA among the agencies with which AARO partnered or at which it conducted records research.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-24337b75a9",
+"locator": "Section II",
+"node": "d-denial",
+"nodeLabel": "Official Denial",
+"sourceText": "AARO Historical Record Report Volume I, Section II",
+"text": "AARO's Volume I historical record report (February 2024) concludes there is 'no empirical evidence' for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-6cd1f92fbb",
+"locator": null,
+"node": "project-bear",
+"nodeLabel": "Project BEAR (Battelle contract to Project GRUDGE)",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024",
+"text": "'Project BEAR was an informal name given by Capt Ruppelt... to a contract he created with the Battelle Memorial Institute (BMI) to provide scientific support to the new Project GRUDGE.' Battelle 'released a report under the cover of ATIC to maintain its anonymity. Completed in late 1954, the report was titled Special Report No. 14.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-d2901ec4c5",
+"locator": null,
+"node": "project-mogul",
+"nodeLabel": "Project MOGUL",
+"sourceText": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
+"text": "AARO's 2024 historical report reaffirmed that materials recovered near Roswell 'were consistent with a balloon of the type used in the then-classified Project Mogul'.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-96458686ee",
+"locator": null,
+"node": "d-reverse-engineering",
+"nodeLabel": "Reverse Engineering",
+"sourceText": "AARO Historical Record Report Volume I",
+"text": "AARO's Volume I report (February 2024) states that it found no empirical evidence for reverse engineering of extraterrestrial technology by the USG or private companies.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f316a75ba6",
+"locator": "p.23",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
+"text": "DoD's own 2024 historical report states the contractor investigated 'an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-b4b0bc1c79",
+"locator": "Section on KONA BLUE",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024, Section on KONA BLUE - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "BAASS was the prime contractor executing DIA's AAWSAP program, funded through a special appropriation; the contractor team conducted UAP and paranormal research at a property owned by the private sector organisation.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-0324fd580d",
+"locator": "Section IV",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "AARO, Historical Record Report Volume I, Section IV",
+"text": "The same report records the allegations it rejects, including a company said to hold twelve recovered craft with a CIA partnership ending in 1989, and a program allegedly kept 'outside of government so the technology could remain proprietary.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-247646d8cf",
+"locator": "p.23",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "AARO Historical Record Report Volume 1, p.23",
+"text": "'Although investigating UFO/UAP was not specifically outlined in the contract's statement of work, the selected private sector organization conducted UFO research with the support of the DIA program manager.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4f460edadd",
+"locator": "p.22",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+"text": "AARO's official history confirms $22 million was appropriated to DIA at Reid's direction via the FY2008 and FY2010 Defense Appropriations Acts.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-739f82b59c",
+"locator": "p.24",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "AARO Historical Record Report Volume 1, p.24",
+"text": "'AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-d90f9be1a6",
+"locator": "key findings",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "AARO, Historical Record Report Volume I, 8 March 2024, key findings",
+"text": "'AARO has found no evidence that U.S. companies ever possessed off-world technology. The executives, scientists, and chief technology officers of the companies named by interviewees met with the Director of AARO and denied on the record that they have ever recovered, possessed, or engaged in reverse-engineering of extraterrestrial technology.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4787383b26",
+"locator": "pp.22-24; the board's inference from it",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"sourceText": "Textual analysis of AARO Historical Record Report Volume 1, pp.22-24",
+"text": "The report's systematic refusal to name any individual — 'the private sector organization', 'the DIA program manager', 'the head of the private sector organization' — is a drafting choice that prevents the reader from connecting the official history to the named participants whose accounts contradict it.",
+"tier": 3
+},
+{
+"cls": "legislation",
+"id": "c-73c4c42367",
+"locator": null,
+"node": "ndaa-fy2023-sec-6802",
+"nodeLabel": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
+"sourceText": "https://www.govinfo.gov/content/pkg/PLAW-117publ263/html/PLAW-117publ263.htm ; phrase quoted is AARO's, from HRR Volume I pp. 6 and 45 — https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"text": "The statute requires ONE Historical Record Report, not a series. The division into 'Volume I' and 'Volume II' is AARO's own construction, and AARO tied Volume II to 'the date established in Section 6802' - which is the same 540-day date, 15 June 2024. On the statute's own terms the Historical Record Report requirement has been only partially discharged since 15 June 2024. Reasoning: Sec. 6802(j)(1)(A) text compared against HRR Vol I pp. 6 and 45.",
+"tier": 3
+},
+{
+"cls": "location",
+"id": "c-67f4fe3c36",
+"locator": "p.23",
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
+"text": "'AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a6a60a5c33",
+"locator": null,
+"node": "ttsa",
+"nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"sourceText": "AARO, Historical Record Report Volume I, March 2024",
+"text": "AARO states that the organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples,' and that AARO later acquired the sample for analysis.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-b3474b79d3",
+"locator": "p.30",
+"node": "doe",
+"nodeLabel": "United States Department of Energy",
+"sourceText": "AARO Historical Record Report Volume I, p. 30",
+"text": "AARO states that it 'sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-4d02194aff",
+"locator": "pp.34-35",
+"node": "dhs",
+"nodeLabel": "United States Department of Homeland Security",
+"sourceText": "AARO Historical Record Report Volume I, pp. 34-35",
+"text": "AARO states that interviewees claimed KONA BLUE 'was a sensitive DHS compartment to cover up the retrieval and exploitation of non-human biologics', and that after DIA cancelled AAWSAP/AATIP in 2012 'its supporters proposed to DHS that they create and fund a new version'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-89704028c3",
+"locator": "p.34",
+"node": "dhs",
+"nodeLabel": "United States Department of Homeland Security",
+"sourceText": "AARO Historical Record Report Volume I, p. 34",
+"text": "AARO states it partnered with 'the Special Access Program Control Offices for the DoD, IC, and DHS' to review programs identified in interviews by name or description.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-34876c5467",
+"locator": null,
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "NEGATIVE PRIMARY FINDING: a full-text search of the released AARO Historical Record Report Volume I (63 pp., DOPSR-cleared 6 Mar 2024) returns zero hits for 'Yankee', 'Kirtland', 'AFOSI', 'Office of Special Investigations', 'initiation' and 'hazing'. Yankee Blue is NOT documented in HRR Volume I. Any citation of Volume I as the source for the Yankee Blue / Kirtland-AFOSI account is incorrect.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-73179e68ea",
+"locator": "p.30",
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "AARO Historical Record Report Volume I, February 2024, p.30",
+"text": "AARO's Historical Record Report Volume I states that AARO found 'no NDAs that contain information related to UAP.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-c214e22b7c",
+"locator": null,
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "The only named sensitive programs disclosed in HRR Volume I's Section VI ('Investigation into Named USG Sensitive Programs', pp. 33-36) are KONA BLUE, the Virtual Institute for Satellite Integration Training, and an unnamed IC Controlled Access Program 'unnecessarily expanded in 2021 to include a UAP reverse-engineering mission'. Yankee Blue is not among them.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-876aebc7ee",
+"locator": null,
+"node": "yankee-blue",
+"nodeLabel": "YANKEE BLUE (alleged AFOSI indoctrination program)",
+"sourceText": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"text": "Yankee Blue therefore has no Tier 1 anchor in the AARO documentary record as of 12 Aug 2026. The public account rests on June 2025 press reporting and on statements attributed to AARO officials describing an Air Force hazing/indoctrination practice at Kirtland AFB in which personnel were falsely read into a non-existent UAP program; the underlying memo has not been released. Reasoning: direct full-text verification against the only AARO report that could plausibly have contained it, plus the absence of any Yankee Blue reference in the FY2023, FY2024 and FY2025 annual reports (also searched, zero hits).",
+"tier": 3
+}
+],
 "date": "2024",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "event",
+"id": "sac-overflights-1975",
+"label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-7ff96d159f",
+"label": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights",
+"note": "A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-fy2025-annual-report",
+"label": "AARO FY2025 Consolidated Annual Report on UAP"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-50d39fcad4",
+"label": "The 2026 official denial is maintained without any inspection of contractor holdings",
+"note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-39102ebf90",
+"label": "Raw files clear in weeks; the narrative volume has not cleared in two years",
+"note": "The contrast maps where the sensitivity sits: imagery can be published on a cabinet order, analytic conclusions about the department's own history cannot.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+"claimTier": 1,
+"id": "e-d398b4bc8c",
+"label": "The materials line of effort and its published scope",
+"note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"claimTier": 1,
+"id": "e-7158346200",
+"label": "",
+"note": "Volume I is the predecessor and it defines what Volume II must contain: page 11 states 'Volume II will include any findings resulting from interviews and research' conducted after Volume I's cutoff. The sequence is fixed by the document itself rather than inferred.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"claimTier": 1,
+"id": "e-f1ae8c9ff6",
+"label": "Volume I explicitly defers its unresolved allegations to Volume II",
+"note": "Volume I's scope statement commits Volume II to covering research from 1 November 2023 to 15 April 2024 plus the allegations left open.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-2ecb4a42c5",
+"label": "",
+"note": "The report is where the Department's own account of AATIP sits. Volume I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme's lifecycle. The denial edge on this pair is separate and records the report's rejection of the reverse-engineering account.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-fc30e775f0",
+"label": "AARO: 'AATIP was never an official DoD program'",
+"note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-f9af68a20c",
+"label": "official history confirms the money, closes the file",
+"note": "Confirms the $22M, the Reid direction, the contractor's UFO work and the ranch — then terminates the story with 'concerns about the project' and names no one.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 1,
+"id": "e-9c868f4cb4",
+"label": "Formal DoD rebuttal: no firsthand knowledge, programs do not exist or were disestablished",
+"note": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+},
+"claimTier": 3,
+"id": "e-d4f7a49355",
+"label": "2024 'lack of merit' contradicts DIA's 2009 quality finding",
+"note": "DIA in 2009: reviews 'positive, some exceptionally so'. AARO in 2024: terminated due to concerns about the project. Same department, opposite assessments, fifteen years apart.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "document",
+"id": "gao-nsiad-95-187",
+"label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
+},
+"claimTier": 3,
+"id": "e-0f5a86f45c",
+"label": "AARO's legacy review does not address the documented records destruction",
+"note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+"claimTier": 3,
+"id": "e-c28ccfc19f",
+"label": "Volume I's 'no NDAs' finding against Elizondo's sworn SCIF testimony",
+"note": "Volume I states AARO found no NDAs containing UAP-related information; eight months later Elizondo testified under oath to signing a SCIF instrument barring discussion of crash retrieval.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-9cf0569b0d",
+"label": "Volume I surfaced Kona Blue and framed it as the origin of crash-retrieval belief",
+"note": "AARO disclosed the DHS prospective SAP and used it to argue that witnesses mistook a rejected proposal for an operating programme.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 2,
+"id": "e-e2c80139df",
+"label": "Report offers KONA BLUE as the explanation for the reverse-engineering allegations",
+"note": "AARO identifies KONA BLUE as a prospective SAP proposed to DHS, never approved, whose advocates only assumed material existed. The proposal's own premise - consolidating alleged concealed holdings under DHS for proper oversight - presupposes the thing AARO says does not exist.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-ba53a7bcd5",
+"label": "Executives and CTOs of the unnamed 'named companies' denied recovery or possession to AARO's Director on the record",
+"note": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+"claimTier": 3,
+"id": "e-884be714c7",
+"label": "AARO's account of the 2008-2012 programs excludes his claimed role",
+"note": "The report does not engage Elizondo's specific claims by name in its programme history; the omission is itself the Department's position — his account is treated as outside the record rather than rebutted within it.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "project-sign",
+"label": "Project SIGN"
+},
+"claimTier": 1,
+"id": "e-df18477793",
+"label": "AARO finds SIGN, GRUDGE and Blue Book sightings were ordinary objects",
+"note": "The 2024 report concludes most sightings across all the legacy programs were ordinary objects and misidentification, and that no official review has ever confirmed extraterrestrial technology.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "event",
+"id": "roswell-1947",
+"label": "Roswell Incident"
+},
+"claimTier": 1,
+"id": "e-d527569b2b",
+"label": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material",
+"note": "The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "legislation",
+"id": "uapda-2023",
+"label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+},
+"claimTier": 3,
+"id": "e-6e71962f2c",
+"label": "The 'outside of government so the technology could remain proprietary' formulation is what the eminent domain provision was written to defeat",
+"note": "Section 9010 asserts federal eminent domain over recovered technologies 'controlled by private persons or entities.' Reasoning: the legislative remedy matches the mechanism AARO records interviewees describing; no drafting record ties the two documents.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 1,
+"id": "e-0e78639067",
+"label": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record",
+"note": "Volume I page 30 states AARO found no UAP-related NDAs. The Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme. The two statements cannot both stand as written.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"b": {
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+},
+"claimTier": 1,
+"id": "e-c1fbae6e66",
+"label": "",
+"note": "The report is the object of the search, which is what makes this investigative rather than a denial. A full-text pass of Volume I returns no occurrence of 'Yankee Blue' across all 63 pages including endnotes 1-200. That negative finding is what refuted the widely repeated claim - asserted on this board until 12 August 2026 - that AARO conceded the programme in Volume I.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+"claimTier": 1,
+"id": "e-1b9efc13df",
+"label": "same appropriation, two designations",
+"note": "Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-e6b23c87d7",
+"label": "successor attempt to house recovery and exploitation work",
+"note": "AARO describes KONA BLUE as a proposed UAP recovery and reverse-engineering SAP at DHS, rejected by DHS leadership; the same personnel and subject matter as AAWSAP.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 1,
+"id": "e-17a82ee80b",
+"label": "funded field investigation of the Utah site",
+"note": "AARO confirms the investigation; DIA says it cannot locate the resulting 'Utah Ranch Investigation: August 2009-February 2010' report.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"claimTier": 1,
+"id": "e-950dc750b3",
+"label": "",
+"note": "AARO is the office that OWES this volume, which is a different relationship from having withheld it. Sec. 6802 places the duty on the Director of the Office, and Volume I commits to it twice in its own text: page 6, 'AARO will publish Volume II in accordance with the date established in Section 6802', and page 45, 'This report represents Volume I of AARO's HR2.' The denial edge on this same pair records the non-delivery; this one records whose obligation it is.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-60f25e96ef",
+"label": "publishing office",
+"note": "Volume I remains the last full narrative account the US Government has published on this subject; everything since is raw files with no assessment.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-kona-blue-release",
+"label": "AARO/DHS release: History and Origin of KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-67870031ea",
+"label": "A dedicated documentary package for a rejected programme",
+"note": "AARO assembled and published a full KONA BLUE release while publishing no comparable package for the IC controlled access programme Volume I concedes was expanded in 2021 to a UAP reverse-engineering mission.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 1,
+"id": "e-1670773b6f",
+"label": "AARO's SAP review ran through the DoD SAP control office",
+"note": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "ic-sapco",
+"label": "Intelligence Community special access program control office enterprise"
+},
+"claimTier": 1,
+"id": "e-812ec48af1",
+"label": "AARO's SAP review extended to the IC control office enterprise",
+"note": "Same AARO sentence, p. 34 of the Historical Record Report Volume I. The scope of what counted as 'pertinent' was set by the offices being reviewed.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "location",
+"id": "l-kirtland",
+"label": "Kirtland Air Force Base and Albuquerque, New Mexico"
+},
+"claimTier": 1,
+"id": "e-90a97a7a4d",
+"label": "nuclear-adjacent installations named in AARO's own unresolved allegations",
+"note": "Volume I page 30 records interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977 and defers the unresolved allegations to Volume II.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "event",
+"id": "grusch-misappropriation-allegation",
+"label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+},
+"claimTier": 1,
+"id": "e-bf70a383b6",
+"label": "AARO's reports address the retrieval claims and say nothing about the funding claims",
+"note": "The AARO Historical Record Report Volume I (March 2024) and the FY2025 Consolidated Annual Report contain no discussion of misappropriated funds, illegal contracting, IR&D or contractor financial arrangements. The absence is attested by the reports themselves.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"claimTier": 1,
+"id": "e-7b6d4f3239",
+"label": "AARO's SAP review extended to the DHS control office enterprise",
+"note": "AARO names DHS as the third SAP control office enterprise with which it partnered - the only public confirmation that DHS operates a SAP control office at all.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"claimTier": 1,
+"id": "e-10272f50d3",
+"label": "Oak Ridge, operated by UT-Battelle, analysed the alleged 1947 crash specimen for AARO",
+"note": "AARO contracted ORNL in 2022; the laboratory assessed the specimen terrestrial in origin and incapable of functioning as a terahertz waveguide. Battelle thus appears at both ends of the file, in 1951 and in 2024.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"b": {
+"cls": "program",
+"id": "project-bear",
+"label": "Project BEAR (Battelle contract to Project GRUDGE)"
+},
+"claimTier": 1,
+"id": "e-f03315e434",
+"label": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
+"note": "AARO's own history records the contract, the questionnaire and punch-card work, and the resulting Special Report No. 14.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 2,
+"id": "e-543d0f5e70",
+"label": "CIA is alleged to have blocked the divestment of material from the contractor to BAASS",
+"note": "Rep. Burlison read Christopher Sharp's reporting of a CIA block into the 13 November 2024 hearing and Elizondo replied 'What I can say is that it was blocked.' AARO separately records an interviewee claim that 'a former named senior CIA official quashed the proposal to remove the material from the corporation.'",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-d62441efb9",
+"label": "The memo pages entered public circulation from Green's document holdings",
+"note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+"b": {
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+"claimTier": 1,
+"id": "e-a770d67d68",
+"label": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
+"note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "defense-appropriations-aawsap",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-f3730aceb2",
+"label": "$22M appropriated to DIA",
+"note": "The appropriation named DIA as the recipient agency to assess long-term and over-the-horizon foreign advanced aerospace threats.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"b": {
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+"claimTier": 1,
+"id": "e-96aaaca442",
+"label": "contractor disclosure to Congress requires SAPCO approval",
+"note": "The office is where the designation is administered. DoDD 5205.07 establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', and DoDI 5205.11 para. 1.2.f gives the Secretary the power to designate select unacknowledged SAPs as waived. The waiver is a statutory power exercised through this structure.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"b": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"claimTier": 2,
+"id": "e-464837384a",
+"label": "author of the notes at the centre of the custody claim",
+"note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "legislation",
+"id": "defense-appropriations-aawsap",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation"
+},
+"claimTier": 1,
+"id": "e-1e431e0251",
+"label": "directed the $22M appropriation",
+"note": "AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-044aa806bc",
+"label": "Reid and Lieberman asked that the DHS prospective SAP be established with promised funding",
+"note": "AARO states 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding' - the same senator who created the DIA appropriation now seeking a DHS compartment.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"b": {
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+"claimTier": 1,
+"id": "e-59ab5c1bce",
+"label": "Reid is the principal behind the 2008-2009 DIA engagements",
+"note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' It further records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program. Tier 2: AARO is an interested party in its own institutional history.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "icig",
+"label": "Inspector General of the Intelligence Community"
+},
+"b": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"claimTier": 3,
+"id": "e-84c61e5c3d",
+"label": "Irreconcilable executive-branch findings on the same allegations",
+"note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-ic",
+"label": "Intelligence Community"
+},
+"b": {
+"cls": "domain",
+"id": "d-intel",
+"label": "Intelligence Tradecraft & Analysis"
+},
+"claimTier": 3,
+"id": "e-7561d35468",
+"label": "Elements and tradecraft",
+"note": "The federated IC structure determines which element collects and analyses, and the seams between elements are where an activity can be nobody's to report.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ic-sapco",
+"label": "Intelligence Community special access program control office enterprise"
+},
+"b": {
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+"claimTier": 2,
+"id": "e-ef0f35510b",
+"label": "IC-side SAP control office enterprise under DNI authority",
+"note": "AARO names three distinct SAP control office enterprises - DoD, IC and DHS. The IC enterprise operates under the DNI's compartmentation authority and is not reported under 10 U.S.C. 119 to the defense committees.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "ic-sapco",
+"label": "Intelligence Community special access program control office enterprise"
+},
+"b": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"claimTier": 1,
+"id": "e-e4d7505ccd",
+"label": "the parallel control-office enterprise on the intelligence-community side of the same architecture",
+"note": "The IC maintains its own special access and controlled access program control architecture under DNI authority, separate from the DoD SAP enterprise administered by DoD SAPCO. AARO's Historical Record Report Volume I confirms its existence in the government's own UAP record. The two-sided structure matters because a programme can be lodged on either side, and the oversight statutes differ.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 2,
+"id": "e-030552e602",
+"label": "AAWSAP participant who later ran the successor task force",
+"note": "Direct personnel continuity from the 2008 DIA contract to the organisation that produced the 2021 ODNI assessment.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+"b": {
+"cls": "program",
+"id": "uap-task-force",
+"label": "Unidentified Aerial Phenomena Task Force (UAPTF)"
+},
+"claimTier": 2,
+"id": "e-a4d95ee7cb",
+"label": "Director, UAP Task Force",
+"note": "The AAWSAP alumnus who took the subject back inside government after the 2017 disclosure.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-c5c5c63494",
+"label": "Hosts the working public mirror of Volume I",
+"note": "The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "jon-kosloski",
+"label": "Jon T. Kosloski"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+"claimTier": 2,
+"id": "e-087662ab2f",
+"label": "Promised publication 'within months' in November 2024",
+"note": "Kosloski told reporters in November 2024 that Volume II would appear within months; it does not appear on AARO's Congressional and Press Products page as of 12 August 2026.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "kirkpatrick-sciam-oped-2024",
+"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 2,
+"id": "e-d05ecbb9a2",
+"label": "Op-ed advanced the report's analytic frame seven weeks early",
+"note": "Kirkpatrick's 19 January 2024 circular-reporting framing appears as the analytic spine of the 8 March 2024 report - the departing director publishing the conclusion before the agency published the study.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "legislation",
+"id": "usc-10-119",
+"label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+},
+"claimTier": 1,
+"id": "e-06e33ef452",
+"label": "A program can be designed and formally requested without ever crossing the congressional reporting threshold",
+"note": "AARO: 'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.' The government states the gap in its own defence.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-c5b801bead",
+"label": "KONA BLUE was proposed as the successor to the cancelled DIA effort",
+"note": "AARO records that when DIA cancelled AAWSAP/AATIP in 2012, 'its supporters proposed to DHS that they create and fund a new version' to restart UAP investigations and 'reverse-engineer any recovered off-world spacecraft'.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+"claimTier": 1,
+"id": "e-65b61abccf",
+"label": "KONA BLUE was proposed by AAWSAP's contractor team after DIA cancelled the program",
+"note": "AARO records that when DIA cancelled AAWSAP/AATIP its supporters proposed a new version to DHS under a special access program, with lines of effort closely mirroring those the private sector organisation had conducted.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+"claimTier": 1,
+"id": "e-e6510f8902",
+"label": "The proposal's premise was that existing holdings would be moved into a structure Congress could see",
+"note": "AARO records the proponents' belief that creating the program under DHS 'would allow all of the technology and knowledge of these alleged programs to be moved under the KONA BLUE program' where it could be properly monitored by oversight committees.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"b": {
+"cls": "document",
+"id": "reid-sap-letter-2009",
+"label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status"
+},
+"claimTier": 3,
+"id": "e-6cfabd6094",
+"label": "second attempt at the protection Reid was refused",
+"note": "Reid asked DoD for a restricted SAP over engineering of advanced technologies in 2009 and was refused; two years later the same circle proposed a recovery-and-exploitation SAP at DHS instead.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "location",
+"id": "l-las-vegas",
+"label": "Las Vegas, Nevada"
+},
+"b": {
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+"claimTier": 2,
+"id": "e-99ac06bc11",
+"label": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+"note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-legacy",
+"label": "Legacy Program"
+},
+"b": {
+"cls": "domain",
+"id": "d-recovery",
+"label": "Retrieval & Recovery Operations"
+},
+"claimTier": 2,
+"id": "e-de653955eb",
+"label": "Retrieval is the programme's input stage",
+"note": "Grusch's sworn July 2023 account describes retrieval feeding a multi-decade exploitation effort; AARO's Volume I rejects the claim. Both are on the record.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-legacy",
+"label": "Legacy Program"
+},
+"b": {
+"cls": "domain",
+"id": "d-reverse-engineering",
+"label": "Reverse Engineering"
+},
+"claimTier": 2,
+"id": "e-c49642e4c9",
+"label": "Exploitation is the programme's purpose",
+"note": "The legacy claim and the reverse-engineering claim are the same claim stated at different stages; AARO addresses and rejects both in Volume I.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+"b": {
+"cls": "location",
+"id": "l-plant-42",
+"label": "Air Force Plant 42, Palmdale, California"
+},
+"claimTier": 1,
+"id": "e-0f7ebb1120",
+"label": "Skunk Works operates at the government-owned contractor-operated Palmdale facility",
+"note": "Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 3,
+"id": "e-a0edefad80",
+"label": "Inferred identification with the anonymised page 29 interviewee",
+"note": "THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "mj-12-documents",
+"label": "MJ-12 / Operation Majestic-12 Documents"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-2009a16f8b",
+"label": "AARO's 2024 review does not address MJ-12 or AQUARIUS",
+"note": "Two of the most persistent alleged programme names in the historical record are absent from the report tasked with resolving the historical record.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-178d97fef7",
+"label": "AARO's 2024 historical review makes no mention of Bennewitz, Doty, AFOSI or Kirtland",
+"note": "The best-documented instance of US government disinformation about UFOs directed at an American citizen is entirely absent from the government's own historical review of the subject.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"b": {
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+"claimTier": 1,
+"id": "e-b8b3af9d03",
+"label": "Bennewitz's reporting generated the AFOSI Kirtland file",
+"note": "The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-bear",
+"label": "Project BEAR (Battelle contract to Project GRUDGE)"
+},
+"b": {
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+"claimTier": 1,
+"id": "e-15c6faaab0",
+"label": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
+"note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "program",
+"id": "project-moon-dust",
+"label": "Project MOON DUST"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-fdb10d09d0",
+"label": "AARO's 2024 historical review does not mention MOON DUST or BLUE FLY",
+"note": "A review commissioned to establish the historical record of USG involvement with UAP omits the named USG programmes whose charter was the recovery of unidentified fallen objects.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-3a81edb3e4",
+"label": "the engagements that produced AAWSAP",
+"note": "AARO's official history places AAWSAP (2009-2012), also known as AATIP, directly downstream of Reid's direction and the resulting DIA appropriation, and records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program - a request Lynn declined on the recommendation of Under Secretary of Defense for Intelligence James R. Clapper, Jr. Tier 2: AARO is an interested party in its own history.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+"b": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"claimTier": 1,
+"id": "e-8e174420a6",
+"label": "$22M congressionally directed to DIA for advanced aerospace threat work",
+"note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States. In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009... The contract for this DIA-managed program was awarded to a private sector organization.' AARO is an interested party in its own institutional history, which is why this is tier 2.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "event",
+"id": "reid-dia-meetings-2008-2009",
+"label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)"
+},
+"b": {
+"cls": "institution",
+"id": "dod",
+"label": "United States Department of Defense (secondary designation: Department of War)"
+},
+"claimTier": 1,
+"id": "e-11d10924b7",
+"label": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
+"note": "'On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "event",
+"id": "rendlesham-1980",
+"label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-c5b666ce91",
+"label": "AARO's 2024 historical review does not mention Rendlesham",
+"note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+"b": {
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+"claimTier": 2,
+"id": "e-2290621189",
+"label": "Two-sided: the reported admission, and his own recorded denial of harm",
+"note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
+"type": "behavioral"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+"claimTier": 1,
+"id": "e-4c4671ab5b",
+"label": "owner and principal",
+"note": "AARO refers to Bigelow only as 'the head of the private sector organization', confirming the relationship without the name.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-cb6758f186",
+"label": "Bigelow's organisation was the anticipated contract performer for the proposed program",
+"note": "AARO notes the material 'was only assumed to exist by KONA BLUE advocates and its anticipated contract performers,' and that the proposed lines of effort mirrored the private sector organisation's AAWSAP work.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+"b": {
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+"claimTier": 1,
+"id": "e-c1faaa03ae",
+"label": "purchased the ranch in 1996 and owned it throughout the DIA contract",
+"note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 2,
+"id": "e-25d5313fd9",
+"label": "authored and directed Volume I; released after his departure",
+"note": "Volume I is dated February 2024 and was prepared under Kirkpatrick's direction; Acting Director Phillips fronted the 8 March 2024 release.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-5fc193f608",
+"label": "directed the production of the official history",
+"note": "The Volume I historical review was drafted under Kirkpatrick's directorship of AARO and released in early 2024 after his departure; he has publicly identified himself with its findings.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+"claimTier": 3,
+"id": "e-bda2094de0",
+"label": "AARO Director's programmatic access ran through the SAPCO enterprise",
+"note": "Kirkpatrick directed AARO throughout the period covered by the Historical Record Report, so the 'full access to all pertinent sensitive USG programs' assurance is his. Reasoning: the report is AARO's product under his directorship, and no independent verification of the SAP list handed to AARO has been produced.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+"b": {
+"cls": "document",
+"id": "immaculate-constellation-12-page-report",
+"label": "Immaculate Constellation 12-page report entered into the Congressional Record"
+},
+"claimTier": 2,
+"id": "e-b0c6a16ee1",
+"label": "Former AARO director denied the programme's existence",
+"note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "legislation",
+"id": "ndaa-fy2023-sec-6802",
+"label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports"
+},
+"b": {
+"cls": "domain",
+"id": "d-legislation",
+"label": "Enacted Statute"
+},
+"claimTier": 1,
+"id": "e-95c9cf37ad",
+"label": "rewrote 50 U.S.C. 3373 to establish AARO and to mandate the Historical Record Report",
+"note": "Sec. 6802 of P.L. 117-263, enacted 23 December 2022, added subsection (j) requiring a Historical Record Report within 540 days and subsection (k) requiring joint DNI/SECDEF annual reports. This is the authority AARO itself cites for both report series, which makes it enacted law with directly observable output.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "document",
+"id": "usaf-roswell-reports",
+"label": "The Roswell Reports (USAF, 1994-1997)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-dc422e2331",
+"label": "AARO's 2024 finding restates the 1994-1997 Air Force position",
+"note": "Twenty-seven years later the successor office reaffirmed the MOGUL attribution without new primary records, because the primary records GAO identified as destroyed have not been recovered.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-1ddb9c9da4",
+"label": "AARO's report independently catalogues the same structural allegation the memo describes",
+"note": "AARO records a senior military officer describing a craft floating in a building with roughly 150 people working on it, in a program kept 'outside of government so the technology could remain proprietary' - the memo's central claim, restated in a DoD publication.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+"claimTier": 1,
+"id": "e-39f56dc200",
+"label": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
+"note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 3,
+"id": "e-e484c14b06",
+"label": "The 2002 notes and the 2023 sworn testimony describe the same access-denial mechanism",
+"note": "Both describe an appropriately cleared official being refused a read-on by programme security officers and contractor gatekeepers on need-to-know grounds. Twenty-one years apart, two officials describe the same wall.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uap-science-advisory-council",
+"label": "UAP Science Advisory Council"
+},
+"b": {
+"cls": "program",
+"id": "robertson-panel",
+"label": "Robertson Panel"
+},
+"claimTier": 3,
+"id": "e-6c1c8aea13",
+"label": "third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68)",
+"note": "Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+"b": {
+"cls": "institution",
+"id": "oak-ridge-national-laboratory",
+"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)"
+},
+"claimTier": 1,
+"id": "e-9e3d5cc426",
+"label": "DOE laboratory performed AARO's metallic specimen analysis",
+"note": "AARO's published materials analysis synopsis was produced with Oak Ridge National Laboratory, a DOE laboratory - meaning DOE analytical capability was the government's chosen instrument for testing alleged recovered material.",
+"type": "research"
+}
+],
 "era": "3",
 "id": "n-aaro-historical-record-vol1",
 "identifiers": [],
 "interestedParty": true,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-ornl-materials-analyses",
+"label": "AARO / Oak Ridge National Laboratory materials analyses"
+},
+{
+"cls": "document",
+"id": "aaro-metallic-specimen-analysis",
+"label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+},
+{
+"cls": "document",
+"id": "aaro-historical-record-vol2",
+"label": "AARO Historical Record Report, Volume II (unpublished)"
+},
+{
+"cls": "document",
+"id": "aaro-historical-record-vol1",
+"label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+},
+{
+"cls": "document",
+"id": "aaro-kona-blue-release",
+"label": "AARO/DHS release: History and Origin of KONA BLUE"
+},
+{
+"cls": "program",
+"id": "aatip",
+"label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+},
+{
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+{
+"cls": "document",
+"id": "afosi-kirtland-file",
+"label": "AFOSI Kirtland AFB UFO File (1980-1983)"
+},
+{
+"cls": "institution",
+"id": "afosi",
+"label": "Air Force Office of Special Investigations"
+},
+{
+"cls": "location",
+"id": "l-plant-42",
+"label": "Air Force Plant 42, Palmdale, California"
+},
+{
+"cls": "institution",
+"id": "afrl",
+"label": "Air Force Research Laboratory"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+{
+"cls": "institution",
+"id": "battelle",
+"label": "Battelle Memorial Institute"
+},
+{
+"cls": "institution",
+"id": "bigelow-aerospace",
+"label": "Bigelow Aerospace"
+},
+{
+"cls": "institution",
+"id": "baass",
+"label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC"
+},
+{
+"cls": "domain",
+"id": "d-bio",
+"label": "Biology & Non-Human Biologics"
+},
+{
+"cls": "person",
+"id": "kit-green",
+"label": "Christopher C. 'Kit' Green"
+},
+{
+"cls": "document",
+"id": "ttsa-army-crada",
+"label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+},
+{
+"cls": "person",
+"id": "daniel-inouye",
+"label": "Daniel K. Inouye"
+},
+{
+"cls": "legislation",
+"id": "defense-appropriations-aawsap",
+"label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation"
+},
+{
+"cls": "institution",
+"id": "dopsr",
+"label": "Defense Office of Prepublication and Security Review"
+},
+{
+"cls": "institution",
+"id": "dhs-st",
+"label": "DHS Science and Technology Directorate"
+},
+{
+"cls": "document",
+"id": "dia-deliverables-review-2009",
+"label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+},
+{
+"cls": "institution",
+"id": "dod-sapco",
+"label": "DoD Special Access Program Central Office (DoD SAPCO)"
+},
+{
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+{
+"cls": "person",
+"id": "glenn-gaffney",
+"label": "Glenn Gaffney"
+},
+{
+"cls": "person",
+"id": "harry-reid",
+"label": "Harry M. Reid"
+},
+{
+"cls": "domain",
+"id": "d-history",
+"label": "Historiography"
+},
+{
+"cls": "event",
+"id": "hearing-2024-11-13",
+"label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'"
+},
+{
+"cls": "institution",
+"id": "ic-sapco",
+"label": "Intelligence Community special access program control office enterprise"
+},
+{
+"cls": "domain",
+"id": "d-intel",
+"label": "Intelligence Tradecraft & Analysis"
+},
+{
+"cls": "person",
+"id": "jay-stratton",
+"label": "Jay Stratton"
+},
+{
+"cls": "person",
+"id": "john-greenewald",
+"label": "John Greenewald Jr."
+},
+{
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+{
+"cls": "domain",
+"id": "d-legacy",
+"label": "Legacy Program"
+},
+{
+"cls": "institution",
+"id": "lockheed-skunk-works",
+"label": "Lockheed Martin Advanced Development Programs (Skunk Works)"
+},
+{
+"cls": "institution",
+"id": "lockheed-martin",
+"label": "Lockheed Martin Corporation"
+},
+{
+"cls": "person",
+"id": "luis-elizondo",
+"label": "Luis D. Elizondo"
+},
+{
+"cls": "person",
+"id": "michael-herrera",
+"label": "Michael Herrera"
+},
+{
+"cls": "document",
+"id": "nasa-uapist-report",
+"label": "NASA Unidentified Anomalous Phenomena Independent Study Team Report"
+},
+{
+"cls": "institution",
+"id": "nga",
+"label": "National Geospatial-Intelligence Agency"
+},
+{
+"cls": "institution",
+"id": "nnsa",
+"label": "National Nuclear Security Administration"
+},
+{
+"cls": "institution",
+"id": "odni",
+"label": "Office of the Director of National Intelligence"
+},
+{
+"cls": "domain",
+"id": "d-denial",
+"label": "Official Denial"
+},
+{
+"cls": "person",
+"id": "pat-ryder",
+"label": "Patrick S. Ryder"
+},
+{
+"cls": "person",
+"id": "paul-bennewitz",
+"label": "Paul Frederick Bennewitz"
+},
+{
+"cls": "program",
+"id": "project-bear",
+"label": "Project BEAR (Battelle contract to Project GRUDGE)"
+},
+{
+"cls": "program",
+"id": "project-mogul",
+"label": "Project MOGUL"
+},
+{
+"cls": "domain",
+"id": "d-recovery",
+"label": "Retrieval & Recovery Operations"
+},
+{
+"cls": "domain",
+"id": "d-reverse-engineering",
+"label": "Reverse Engineering"
+},
+{
+"cls": "person",
+"id": "richard-doty",
+"label": "Richard C. Doty"
+},
+{
+"cls": "person",
+"id": "robert-bigelow",
+"label": "Robert T. Bigelow"
+},
+{
+"cls": "person",
+"id": "sean-kirkpatrick",
+"label": "Sean M. Kirkpatrick"
+},
+{
+"cls": "legislation",
+"id": "ndaa-fy2023-sec-6802",
+"label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports"
+},
+{
+"cls": "location",
+"id": "l-skinwalker",
+"label": "Skinwalker Ranch, Uintah Basin, Utah"
+},
+{
+"cls": "domain",
+"id": "d-coverup",
+"label": "The Cover-Up"
+},
+{
+"cls": "document",
+"id": "wilson-davis-memo",
+"label": "The Wilson-Davis Notes (16 October 2002)"
+},
+{
+"cls": "person",
+"id": "thomas-wilson",
+"label": "Thomas R. Wilson"
+},
+{
+"cls": "institution",
+"id": "thunder-scientific",
+"label": "Thunder Scientific Corporation"
+},
+{
+"cls": "institution",
+"id": "ttsa",
+"label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)"
+},
+{
+"cls": "institution",
+"id": "doe",
+"label": "United States Department of Energy"
+},
+{
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+{
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+},
+{
+"cls": "program",
+"id": "yankee-blue",
+"label": "YANKEE BLUE (alleged AFOSI indoctrination program)"
+}
+],
 "node": {
 "cls": "document",
 "id": "aaro-historical-record-vol1",
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
 },
 "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-0ec7e9e9b9",
+"c-3e4e602bdf",
+"c-1e967d9765",
+"c-24d8b218db",
+"c-2b8784c342",
+"c-34b71074a6",
+"c-3820b1804c",
+"c-38b4b11f3d",
+"c-42bea63ee4",
+"c-48edce018e",
+"c-4d754b7236",
+"c-63ed6b27a3",
+"c-6780776193",
+"c-684e8783c2",
+"c-69b1d25164",
+"c-96004f74f0",
+"c-abd14e6b7f",
+"c-ac72d661aa",
+"c-c9587bb000",
+"c-c96ffffc9a",
+"c-da713bf9da",
+"c-dc74ecdb10",
+"c-e0a1e39005",
+"c-e3bfc9b966",
+"c-e5e86fca02",
+"c-e6f024d038",
+"c-e7f87ca6fa",
+"c-e9635818ce",
+"c-fa97fb0e52",
+"c-ffee665dd2",
+"c-5efe18dba4",
+"c-2c672834c5",
+"c-73c4c42367",
+"c-c214e22b7c",
+"c-876aebc7ee"
+],
+"id": "aaro-historical-record",
+"title": "AARO's historical record reports and their critics"
+},
+{
+"claims": [
+"c-24d8b218db",
+"c-34b71074a6",
+"c-63ed6b27a3",
+"c-6780776193",
+"c-684e8783c2",
+"c-ac72d661aa",
+"c-e6f024d038",
+"c-93f9253ce9",
+"c-39407a3820",
+"c-83713b1fdd",
+"c-abadabc569",
+"c-45009a78a0",
+"c-745a951e8b",
+"c-f55d15edeb",
+"c-f8be65f4b2",
+"c-fb26e683f0",
+"c-fb4b969f47",
+"c-8ab1627799",
+"c-aaf8048245",
+"c-4d02194aff"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+},
+{
+"claims": [
+"c-ac72d661aa",
+"c-39407a3820",
+"c-83713b1fdd",
+"c-24ab23fda0",
+"c-f316a75ba6"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-e6f024d038",
+"c-64d03922ec",
+"c-fb26e683f0",
+"c-efbbf52f14",
+"c-ae7352ec1d"
+],
+"id": "skunk-works",
+"title": "Lockheed and the Skunk Works in the custody record"
+},
+{
+"claims": [
+"c-af485448ba",
+"c-c423d0fc5d",
+"c-e892d42c88",
+"c-8e9f31d0a2"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-24ab23fda0",
+"c-4711e15514",
+"c-5c8bccc803",
+"c-ae7352ec1d"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-4d754b7236",
+"c-081cefd536",
+"c-26938ff010",
+"c-73179e68ea"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-af485448ba",
+"c-e892d42c88",
+"c-8e9f31d0a2",
+"c-6ebd6ee9ad"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-c96ffffc9a",
+"c-4711e15514",
+"c-6c465ee5eb",
+"c-96458686ee"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+},
+{
+"claims": [
+"c-24d8b218db",
+"c-684e8783c2",
+"c-e892d42c88",
+"c-24337b75a9"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+},
+{
+"claims": [
+"c-6ff0911b65",
+"c-ae7352ec1d",
+"c-219874836b",
+"c-b236dfa335"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-e5e86fca02",
+"c-e6f024d038",
+"c-161940a99e"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-456a462398",
+"c-34876c5467",
+"c-876aebc7ee"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-f316a75ba6",
+"c-b4b0bc1c79",
+"c-67f4fe3c36"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-8ef7bbf6ef",
+"c-ae7352ec1d"
+],
+"id": "carve-outs",
+"title": "Carve-outs and contractor security oversight"
+},
+{
+"claims": [
+"c-219874836b",
+"c-b236dfa335"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+},
+{
+"claims": [
+"c-8ef7bbf6ef",
+"c-b370486746"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+},
+{
+"claims": [
+"c-96004f74f0",
+"c-161940a99e"
+],
+"id": "wilson-davis-notes",
+"title": "The Wilson-Davis notes (2002)"
+},
+{
+"claims": [
+"c-4711e15514",
+"c-a6a60a5c33"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+},
+{
+"claims": [
+"c-ae7352ec1d"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-8076716006"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+},
+{
+"claims": [
+"c-467123052d"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-e1cac273c1"
+],
+"id": "nasa-uap-study",
+"title": "NASA's UAP independent study, 2022-23"
+},
+{
+"claims": [
+"c-d2901ec4c5"
+],
+"id": "official-explanations",
+"title": "Official explanations: Mogul, balloons, flares and misidentification"
+},
+{
+"claims": [
+"c-ae7352ec1d"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+},
+{
+"claims": [
+"c-e3ce3f022d"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-da713bf9da"
+],
+"id": "rendlesham-1980",
+"title": "Rendlesham Forest, December 1980"
+},
+{
+"claims": [
+"c-d2901ec4c5"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+},
+{
+"claims": [
+"c-6cd1f92fbb"
+],
+"id": "battelle-nitinol",
+"title": "The Battelle nitinol allegation and the Naval Ordnance Laboratory record"
+},
+{
+"claims": [
+"c-219874836b"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+},
+{
+"claims": [
+"c-161940a99e"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+},
+{
+"claims": [
+"c-6cd1f92fbb"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
 "type": "report",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"https://en.wikisource.org/wiki/Index:AARO_Historical_Record_Report_Volume_1_2024.pdf",
+"https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/30",
+"https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/35",
+"https://en.wikisource.org/wiki/Page:AARO_Historical_Record_Report_Volume_1_2024.pdf/9",
+"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF",
+"https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
+"https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
+"https://www.theblackvault.com/documentarchive/report-on-the-historical-record-of-u-s-government-involvement-with-unidentified-anomalous-phenomena-uap-volume-i/"
+]
 }

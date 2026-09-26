@@ -7,10 +7,16 @@
 {
 "id": "c-b756888eef",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
-"sources": [],
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "TTSA's Entertainment Division operated through e-commerce and a brick-and-mortar store in Encinitas, California.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

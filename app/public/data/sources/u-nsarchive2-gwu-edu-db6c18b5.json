@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2bde929920",
+"locator": "p.62",
+"node": "usaf-1127th-field-activities-group",
+"nodeLabel": "1127th USAF Field Activities Group",
+"sourceText": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.62",
+"text": "The companion 'History of the Assistant Chief of Staff, Intelligence, July - December 1967' states at page 62 that the Operations Plans Branch 'received from the 1st Aerospace Control Squadron (SPADATS) at Ent, AFB, Colorado, notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance.' These are notifications of deorbit received, NOT objects recovered.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d9a36546ca",
+"locator": "p.47",
+"node": "usaf-1127th-field-activities-group",
+"nodeLabel": "1127th USAF Field Activities Group",
+"sourceText": "History of the Assistant Chief of Staff, Intelligence, July - December 1967, p.47",
+"text": "'Colonel Rudolph C. Koller, Jr., was Commander of the 1127 USAF Fld Acty Gp during the entire period of this report', with an authorised strength rising from 220 to 249 over the half-year.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -40,7 +61,16 @@
 ],
 "node": null,
 "title": "History of the Assistant Chief of Staff, Intelligence, July - December 1967",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-2bde929920",
+"c-d9a36546ca"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
 "type": "document",
 "urls": [
 "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03b.pdf"

@@ -8,10 +8,16 @@
 {
 "id": "c-3e5396911e",
 "source": "Nature Portfolio record for s41598-025-21620-3",
-"sources": [],
+"sources": [
+{
+"id": "u-nature-com-99b7f7c8",
+"locator": null,
+"title": "Same paper, publisher record with author affiliations"
+}
+],
 "text": "The October 2025 Scientific Reports paper on POSS-I transients lists Stephen Bruehl of Vanderbilt University Medical Center as an author, with Beatriz Villarroel of Nordita/KTH/Stockholm University; DOI 10.1038/s41598-025-21620-3, published 20 October 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-feeb9e32d6",
@@ -19,7 +25,7 @@
 "sources": [],
 "text": "The paper reports transients were about 45% more likely on dates within +/- 1 day of nuclear testing, and an 8.5% increase in transient observations for each additional UAP report on a given date.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:doi.org/10.1038/s41598-025-21620-3) was rejected in review: generic 'Scientific Reports, abstract' names no specific paper"
 },
 {
 "id": "c-6b2b713005",

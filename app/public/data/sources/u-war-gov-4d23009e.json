@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20260606134204/https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a8d09dea48",
+"locator": null,
+"node": "tim-phillips",
+"nodeLabel": "Timothy A. Phillips",
+"sourceText": "DoD transcript, 'Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1'",
+"text": "Phillips conducted the Department's media engagement on Historical Record Report Volume I on 6 March 2024; DoD published the transcript.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -42,7 +53,15 @@
 ],
 "node": null,
 "title": "DoD - Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-a8d09dea48"
+],
+"id": "aaro-historical-record",
+"title": "AARO's historical record reports and their critics"
+}
+],
 "type": "transcript",
 "urls": [
 "https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/"

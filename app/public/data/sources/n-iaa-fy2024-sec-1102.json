@@ -1,6 +1,67 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-49394438c9",
+"locator": "Sec. 1102(f)(2)",
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "S. 2226 as engrossed, Division M, Sec. 1102(f)(2), GPO",
+"text": "Sec. 1102(f)(2) made the independent research and development disallowance applicable 'with respect to funding from amounts appropriated before, on, or after' the effective date.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8a73771f93",
+"locator": "Sec. 1102(d)(2)(B)",
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "S. 2226 as engrossed, Division M, Sec. 1102(d)(2)(B), GPO",
+"text": "Sec. 1102(d)(2)(B) required contractors to provide 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.'",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-8ffb271e09",
+"locator": "Sec. 1102(b)(2)",
+"node": "iaa-fy2024-sec-1102",
+"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
+"sourceText": "S. 2226 as engrossed, Division M, Sec. 1102(b)(2), GPO",
+"text": "Sec. 1102(b)(2) states the sense of Congress that the Government 'must expand awareness about any historical exotic technology antecedents previously provided by the Federal Government for research and development purposes.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1b0f7ed243",
+"locator": "Sec. 1102(c)(6)",
+"node": "mark-warner",
+"nodeLabel": "Mark R. Warner",
+"sourceText": "S. 2226 as engrossed, Division M, Sec. 1102(c)(6), GPO",
+"text": "Sec. 1102(c)(6) reached 'any aerospace craft that uses propulsion technology other than chemical propellants, solar power, or electric ion thrust.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-4c84f8b953",
+"locator": "Sec. 1102(e)",
+"node": "mark-warner",
+"nodeLabel": "Mark R. Warner",
+"sourceText": "S. 2226 as engrossed, Division M, Sec. 1102(e), GPO",
+"text": "Sec. 1102(e) granted immunity: 'No criminal or civil action may lie or be maintained in any Federal or State court against any person for receiving material or information described in subsection (d) if that person complies.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-89ba484471",
+"locator": "Sec. 1102(d)",
+"node": "mark-warner",
+"nodeLabel": "Mark R. Warner",
+"sourceText": "S. 2226 as engrossed, Division M, Sec. 1102(d), GPO",
+"text": "Senate-passed IAA FY2024 Sec. 1102(d) required any current or former Federal contractor holding such material to notify the AARO Director within 60 days and within 180 days provide 'a comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material.'",
+"tier": 1
+}
+],
 "date": "2023",
 "edges": [],
 "era": "3",

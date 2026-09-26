@@ -86,10 +86,16 @@
 {
 "id": "c-57c7db0082",
 "source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
-"sources": [],
+"sources": [
+{
+"id": "n-raaf-press-release-1947",
+"locator": "as reproduced in the 1995 USAF report",
+"title": "RAAF Press Release, 8 July 1947"
+}
+],
 "text": "On 8 July 1947 RAAF publicly announced that the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-24f44af9bb",
@@ -108,10 +114,16 @@
 {
 "id": "c-64b2984489",
 "source": "Walter Haut affidavit, executed 2002, released 2007",
-"sources": [],
+"sources": [
+{
+"id": "t-192ebf32ea44",
+"locator": null,
+"title": "Walter Haut affidavit"
+}
+],
 "text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a9500019eb",
@@ -119,15 +131,21 @@
 "sources": [],
 "text": "Haut authored and released the 8 July 1947 Roswell Army Air Field press release announcing that the 509th Bomb Group had come into possession of a flying disc.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:raaf-press-release-1947) was rejected in review: names two documents; newspaper is not the press release"
 },
 {
 "id": "c-7c157d2895",
 "source": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
-"sources": [],
+"sources": [
+{
+"id": "t-3070d0560759",
+"locator": null,
+"title": "Haut affidavit"
+}
+],
 "text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b70ec8f7b2",
@@ -135,7 +153,7 @@
 "sources": [],
 "text": "In 1979 and in a March 1989 interview Haut said he knew nothing about what was recovered and was refused permission to see it - directly inconsistent with the 2002 document's first-hand claims.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Names two distinct books jointly; only one is registered."
 },
 {
 "id": "c-5ed801a589",
@@ -143,7 +161,7 @@
 "sources": [],
 "text": "The 2002 'sealed affidavit' should be treated as Schmitt's composition attested by Haut rather than as Haut's testimony, because Schmitt composed and emailed the text and the release was embargoed until Haut could not be questioned about it. Reasoning: stated on the record by Schmitt himself as to authorship and by the family as to the embargo.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Board's characterization of Schmitt's and the Haut family's account; no single citable document named."
 }
 ],
 "cls": "person",

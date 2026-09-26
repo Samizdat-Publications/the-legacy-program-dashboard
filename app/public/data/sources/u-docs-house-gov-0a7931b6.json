@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6256784159",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "House Oversight Committee published witness biography, HHRG-118-GO06-Bio-GruschD-20230726, 26 July 2023",
+"text": "Held an active TOP SECRET//SCI clearance with CI and lifestyle polygraph; served as NRO representative to the UAP Task Force 2019-2021 and NGA co-lead for UAP analysis.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -91,7 +102,15 @@
 ],
 "node": null,
 "title": "House Oversight witness biography",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-6256784159"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+}
+],
 "type": "document",
 "urls": [
 "https://docs.house.gov/meetings/GO/GO06/20230726/116282/HHRG-118-GO06-Bio-GruschD-20230726.pdf"

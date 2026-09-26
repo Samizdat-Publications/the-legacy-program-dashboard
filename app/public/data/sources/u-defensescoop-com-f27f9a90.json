@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-372c9c571c",
+"locator": null,
+"node": "hr-5060-uap-whistleblower-protection-act",
+"nodeLabel": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
+"sourceText": "DefenseScoop, 3 September 2025",
+"text": "Lawmakers took up the bill in the run-up to the 9 September 2025 UAP transparency hearing specifically because existing channels were judged inadequate for UAP witnesses.",
+"tier": 2
+}
+],
 "date": "2025-09-03",
 "edges": [
 {
@@ -40,7 +51,15 @@
 ],
 "node": null,
 "title": "DefenseScoop - Next UAP disclosure hearing set, as lawmakers consider new whistleblower protections",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-372c9c571c"
+],
+"id": "whistleblower-channels",
+"title": "Whistleblower channels, protections and reprisal"
+}
+],
 "type": "article",
 "urls": [
 "https://defensescoop.com/2025/09/03/uap-ufo-disclosure-congress-hearing-whistleblower-protection-act/"

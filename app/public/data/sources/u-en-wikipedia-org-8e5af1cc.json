@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-43da451d12",
+"locator": null,
+"node": "ross-coulthart",
+"nodeLabel": "Ross Coulthart",
+"sourceText": "Wikipedia, 'Ross Coulthart', biography, retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Coulthart is senior special investigations correspondent for NewsNation and an advocate for UAP disclosure who believes governments have covered up knowledge of extraterrestrial spacecraft.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

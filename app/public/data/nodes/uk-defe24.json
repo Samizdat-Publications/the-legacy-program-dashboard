@@ -10,15 +10,21 @@
 "sources": [],
 "text": "Full file lists per tranche are published by The National Archives on its UFO files pages and are reproducible piece by piece.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:nationalarchives.gov.uk/ufos) was rejected in review: string cites 2008-2013 captures; candidate is the live page"
 },
 {
 "id": "c-168b873a9d",
 "source": "The National Archives UFO files page epigraph",
-"sources": [],
+"sources": [
+{
+"id": "u-nationalarchives-gov-uk-5899e22b",
+"locator": "epigraph (Churchill quote, PREM 11/855)",
+"title": "TNA UFO files"
+}
+],
 "text": "Churchill's 1952 minute is held at PREM 11/855.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

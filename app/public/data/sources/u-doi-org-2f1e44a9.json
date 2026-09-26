@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-001ebc4771",
+"locator": null,
+"node": "sarah-little",
+"nodeLabel": "Sarah Little",
+"sourceText": "GI, DOI 10.5194/gi-14-335-2025",
+"text": "Little is a co-author of 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335 (2025).",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-56f64bf9f4",
+"locator": null,
+"node": "galileo-project",
+"nodeLabel": "The Galileo Project",
+"sourceText": "GI, DOI 10.5194/gi-14-335-2025",
+"text": "Vervelidou, Delacroix, Domine, Kelderman, Little and colleagues published the deployment of a geomagnetic variometer station as auxiliary UAP instrumentation in Geoscientific Instrumentation, Methods and Data Systems 14:335 (26 November 2025).",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -57,7 +78,16 @@
 ],
 "node": null,
 "title": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-001ebc4771",
+"c-56f64bf9f4"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.5194/gi-14-335-2025"

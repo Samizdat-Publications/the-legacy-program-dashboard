@@ -41,10 +41,16 @@
 {
 "id": "c-a5be1805ef",
 "source": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-uapx-2025",
+"locator": null,
+"title": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+}
+],
 "text": "Szydagis is first author of 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099 (June 2025), with Kevin H. Knuth, Benjamin Kugielsky and Cecilia Levy.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8a0f4dbcdb",
@@ -52,7 +58,7 @@
 "sources": [],
 "text": "Szydagis was named to the UAP Science Advisory Council in June 2026 with responsibility for instrumentation and data collection.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:avi-loeb.medium.com/a-uap-science-advisory-council-to-the-u-s-f7262e57b0df) was rejected in review: string names two or more sources; candidate is only one"
 }
 ],
 "cls": "person",

@@ -10,7 +10,7 @@
 "sources": [],
 "text": "On 22 June 2026 ODNI, with the support of the FBI, announced a UAP Science Advisory Council to undertake further investigations following historic releases of government records about UAP encounters.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisor) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-2d06e0df40",
@@ -18,7 +18,7 @@
 "sources": [],
 "text": "The council is led by Dr Avi Loeb and reports to a higher-level UAP Governance Board, an interagency body coordinating across military, law enforcement and intelligence community agencies.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisor) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-a07d7ac1e1",
@@ -26,7 +26,7 @@
 "sources": [],
 "text": "Named members from the Sol Foundation are Garry Nolan, Peter Skafish, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard, who will lead council communications.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisor) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-75434e22cc",
@@ -34,7 +34,7 @@
 "sources": [],
 "text": "All data shared with the council will be unclassified.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisor) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-d1d15ebb95",
@@ -47,18 +47,30 @@
 {
 "id": "c-f44f24a7d1",
 "source": "Disclosure Archives AARO release chronology",
-"sources": [],
+"sources": [
+{
+"id": "u-disclosurearchives-com-de848067",
+"locator": null,
+"title": "Disclosure Archives - AARO releases index"
+}
+],
 "text": "A UAP Science Advisory Council formation was announced on 17 June 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6af89f358d",
 "source": "Disclosure Archives AARO release chronology",
-"sources": [],
+"sources": [
+{
+"id": "u-disclosurearchives-com-de848067",
+"locator": null,
+"title": "Disclosure Archives - AARO releases index"
+}
+],
 "text": "AARO held a private workshop on UAP data standardisation with civilian researchers and academia on 1 August 2025.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0dd99125c8",
@@ -66,7 +78,7 @@
 "sources": [],
 "text": "AARO published a 2025 UAP workshop white paper on narrative data, infrastructures and analysis, and added the NPS CTX UAP special issue on 8 July 2026.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-information-papers) was rejected in review: records web page is not the bundled information-papers node"
 },
 {
 "id": "c-4a67912049",
@@ -79,18 +91,30 @@
 {
 "id": "c-e69b37291a",
 "source": "Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', 15 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-skeptic-com-56c3800b",
+"locator": null,
+"title": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'"
+}
+],
 "text": "The council was announced on 15 June 2026 as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, chaired by Avi Loeb.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b08a4ebbfa",
 "source": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-avi-loeb-medium-com-5ce87202",
+"locator": null,
+"title": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium"
+}
+],
 "text": "Loeb wrote that he was 'tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identified a core team of Cloete, Sarmiento, Szydagis, Nandal and Eldadi.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9586130c7a",
@@ -98,7 +122,7 @@
 "sources": [],
 "text": "The Skeptics Society listed eleven members: Loeb (chair), Cloete, Gallaudet, Nandal, Nolan, Eldadi, Sarmiento, Shermer, Skafish, Szydagis and Vilhauer.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisor) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-779d8a07bb",
@@ -106,15 +130,21 @@
 "sources": [],
 "text": "The Sol Foundation described a fourteen-member council reporting to a higher-level UAP Governance Board coordinating across military, law enforcement and intelligence agencies, with all shared data unclassified.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisor) was rejected in review: outlet and month only; candidate row shows no date"
 },
 {
 "id": "c-a670522dca",
 "source": "Collin Binkley, Associated Press, 30 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-ba1889a7ee52",
+"locator": null,
+"title": "Associated Press"
+}
+],
 "text": "The council has no budget and no access to classified material.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-53ed75d92f",
@@ -122,7 +152,7 @@
 "sources": [],
 "text": "Statistician Liberty Vittert was appointed to the council, established by the White House, Pentagon, FBI and intelligence agencies and led by Loeb.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Several undated Loeb Medium posts are candidates; cannot tell which one without guessing."
 },
 {
 "id": "c-f9479803b0",
@@ -135,10 +165,16 @@
 {
 "id": "c-26d16e3ba7",
 "source": "DefenseScoop, 17 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-50fc68fe",
+"locator": null,
+"title": "DefenseScoop, UAP Science Advisory Council"
+}
+],
 "text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-20786a94cb",
@@ -146,7 +182,7 @@
 "sources": [],
 "text": "The council follows the President's February 2026 direction on UAP file releases and sits outside AARO's chain.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-go) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-800b859232",

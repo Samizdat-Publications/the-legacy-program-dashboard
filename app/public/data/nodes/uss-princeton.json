@@ -7,18 +7,30 @@
 {
 "id": "c-01fc0691e3",
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-c79ec4fb",
+"locator": null,
+"title": "House Oversight - Fravor written statement (PDF)"
+}
+],
 "text": "Princeton tracked the objects on Aegis for roughly two weeks before 14 Nov 2004, observing descents from above 80,000 ft to 20,000 ft.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-97644c2c62",
 "source": "Navy range fouler report on the 14 Nov 2004 incident, released via Navy FOIA reading room 13 January 2023",
-"sources": [],
+"sources": [
+{
+"id": "n-navy-range-fouler-reports",
+"locator": "14 Nov 2004 incident",
+"title": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+}
+],
 "text": "'Reporting terminated at 3rd Fleet, there was no process to share the reporting.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8575330600",
@@ -26,7 +38,7 @@
 "sources": [],
 "text": "Princeton's recorded radar and CEC data for the encounter were removed or wiped. Reasoning: two crewmen in different billets describe the same collection, and no Princeton sensor data has ever been produced despite the incident being formally documented in Navy range fouler reporting.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: String itself states no primary record was located."
 }
 ],
 "cls": "institution",

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-d760d034ef",
+"locator": null,
+"node": "l-raf-woodbridge",
+"nodeLabel": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"sourceText": "David Clarke, 40th-anniversary account, 26 Dec 2020",
+"text": "Forty years later the UK Ministry of Defence desk officer who handled the file spoke publicly for the first time about how the report was processed.",
+"tier": 2
+}
+],
 "date": "2020-12-26",
 "edges": [
 {
@@ -106,7 +117,15 @@
 ],
 "node": null,
 "title": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d760d034ef"
+],
+"id": "rendlesham-1980",
+"title": "Rendlesham Forest, December 1980"
+}
+],
 "type": "web page",
 "urls": [
 "https://drdavidclarke.co.uk/2020/12/26/rendlesham-ufos-40th-anniversary-the-man-from-the-ministry-speaks-for-the-first-time/"

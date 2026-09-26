@@ -1,14 +1,159 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20250317081444/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170043/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-22e9cc0f66",
+"locator": null,
+"node": "dird-quantum-tomography-of-negative-energy-states",
+"nodeLabel": "Quantum Tomography of Negative Energy States in the Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
+"text": "Defense Intelligence Reference Document titled \"Quantum Tomography of Negative Energy States in the Vacuum\", series \"Defense Futures\", published 2011-01-11 with an Intelligence Cut-Off Date (ICOD) of 2010-08-10, DIA document number DIA-08-1102-007. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-35eb2a75b9",
+"locator": null,
+"node": "dird-quantum-tomography-of-negative-energy-states",
+"nodeLabel": "Quantum Tomography of Negative Energy States in the Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4917ed16a0",
+"locator": null,
+"node": "dird-quantum-tomography-of-negative-energy-states",
+"nodeLabel": "Quantum Tomography of Negative Energy States in the Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8bca03d08e",
+"locator": null,
+"node": "dird-quantum-tomography-of-negative-energy-states",
+"nodeLabel": "Quantum Tomography of Negative Energy States in the Vacuum",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/",
+"text": "Held in the DIA FOIA Electronic Reading Room. Subject matter is continuous with Davis's other AAWSAP deliverables on negative energy — item 8, 'Traversable Wormholes, Stargates and Negative Energy', and item 14 on extracting energy from the quantum vacuum — making him the author of a coherent negative-energy sub-series within the DIRD set.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a53873d386",
+"locator": null,
+"node": "dird-quantum-tomography-of-negative-energy-states",
+"nodeLabel": "Quantum Tomography of Negative Energy States in the Vacuum",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
+"text": "Cover page reads: '11 January 2011 / ICOD: 10 August 2010 / DIA-08-1102-007 / Defense Intelligence Reference Document / Defense Futures / Quantum Tomography of Negative Energy States in the Vacuum'.",
+"tier": 1
+}
+],
 "date": null,
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+"claimTier": 1,
+"id": "e-d6318be746",
+"label": "produced under the AAWSA/AAWSAP contract",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+"b": {
+"cls": "institution",
+"id": "earthtech-international",
+"label": "EarthTech International / Institute for Advanced Studies at Austin"
+},
+"claimTier": 1,
+"id": "e-01d1186b4a",
+"label": "author's institutional affiliation at time of writing",
+"note": "EarthTech International, Austin, Texas — the affiliation recorded against this title on the DIA congressional list.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+"b": {
+"cls": "person",
+"id": "eric-davis",
+"label": "Eric W. Davis"
+},
+"claimTier": 1,
+"id": "e-eced695694",
+"label": "authored by",
+"note": "The DIA congressional list credits 'Quantum Tomography of Negative Energy States in the Vacuum' to 'Dr Eric Davis, EarthTech'. This is one of a coherent negative-energy sub-series by the same author within the DIRD set, alongside 'Traversable Wormholes, Stargates and Negative Energy' and the quantum-vacuum energy extraction paper.",
+"type": "research"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+"claimTier": 1,
+"id": "e-9178a64f5a",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1102-007. Publication date 11 January 2011 on the cover. 52 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+},
+"claimTier": 1,
+"id": "e-c98e11bcc0",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+}
+],
 "era": "nd",
 "id": "n-dird-quantum-tomography-of-negative-energy-states",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-quantum-tomography-of-negative-energy-states",
+"label": "Quantum Tomography of Negative Energy States in the Vacuum"
+}
+],
 "node": {
 "cls": "document",
 "id": "dird-quantum-tomography-of-negative-energy-states",
@@ -17,5 +162,8 @@
 "title": "Quantum Tomography of Negative Energy States in the Vacuum",
 "topics": [],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_36-DIRD_Quantum_Tomography_of_Negative_Energy_States_in_the_Vacuum.pdf",
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237632/"
+]
 }

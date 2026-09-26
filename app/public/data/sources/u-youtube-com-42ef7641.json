@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-485f919990",
+"locator": null,
+"node": "off-world-technologies-division",
+"nodeLabel": "Off-World Technologies Division",
+"sourceText": "UAP Gerb, 'Off-World Technologies Division - UAP Technology Reverse Engineering', published 17 July 2024",
+"text": "A US Army Green Beret witness identified as 'RA' states that between 2013 and 2015 he was taken deep underground at a special weapons centre near Crane, Indiana to an 'Off-World Technologies Division' holding a basketball-sized sphere with an indentation and a clear tablet-like device projecting symbology, both described as weapons owing to energetic output when recovered from a craft, and both said to interact with human consciousness.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -57,7 +68,15 @@
 ],
 "node": null,
 "title": "UAP Gerb - 'Off-World Technologies Division'",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-485f919990"
+],
+"id": "named-contractors",
+"title": "Other contractors named in custody claims"
+}
+],
 "type": "broadcast",
 "urls": [
 "https://www.youtube.com/watch?v=QJ215I85d5M"

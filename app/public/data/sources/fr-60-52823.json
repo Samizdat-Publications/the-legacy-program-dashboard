@@ -1,7 +1,7 @@
 {
 "archived": [],
 "claims": [],
-"date": "1995-10-10",
+"date": "1995",
 "edges": [
 {
 "a": {
@@ -91,11 +91,16 @@
 "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
 }
 ],
-"node": null,
-"title": "60 FR 52823",
+"node": {
+"cls": "document",
+"id": "groom-lake-presidential-determination",
+"label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake"
+},
+"title": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
 "topics": [],
-"type": "regulation",
+"type": "document",
 "urls": [
-"https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location"
+"https://www.federalregister.gov/documents/1995/10/10/95-25244/presidential-determination-on-classified-information-concerning-the-air-forces-operating-location",
+"https://www.federalregister.gov/documents/2000/10/05/00-25742/classified-information-concerning-the-air-forces-operating-location-near-groom-lake-nevada"
 ]
 }

@@ -68,7 +68,7 @@
 {
 "cls": "institution",
 "id": "c-3104436903",
-"locator": "and the read-in practice described in CHRG-119hhrg61718",
+"locator": null,
 "node": "oversight-congress",
 "nodeLabel": "Congressional oversight of special access programs",
 "sourceText": "Inference from the composition of 10 U.S.C. 119(e), DoDD 5205.07 and the read-in practice described in CHRG-119hhrg61718",
@@ -178,7 +178,7 @@
 {
 "cls": "institution",
 "id": "c-d6102a1386",
-"locator": "responsibilities",
+"locator": null,
 "node": "dod-sapco",
 "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
 "sourceText": "Inference from AARO Historical Record Report Volume I, p. 34 read against DoDD 5205.07 responsibilities",
@@ -558,7 +558,7 @@
 {
 "cls": "domain",
 "id": "c-1150f33928",
-"locator": "compartmentation policy and Manhattan Project security practice",
+"locator": null,
 "node": "d-secrecy-architecture",
 "nodeLabel": "Secrecy Architecture",
 "sourceText": "Inference from DoDD 5205.07 compartmentation policy and Manhattan Project security practice",
@@ -766,7 +766,7 @@
 "tier": 3
 }
 ],
-"date": "2010-07-01",
+"date": "2024-09-12",
 "edges": [
 {
 "a": {
@@ -1398,7 +1398,7 @@
 "type": "denial"
 }
 ],
-"era": "2",
+"era": "3",
 "id": "dodd-5205-07",
 "identifiers": [
 "DoDD 5205.07"
@@ -1499,10 +1499,10 @@
 ],
 "node": {
 "cls": "document",
-"id": "dodd-5205-07-2010",
-"label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"id": "dodd-5205-07-2024",
+"label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 },
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "topics": [
 {
 "claims": [

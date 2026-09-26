@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-3fda52b3f4",
+"locator": null,
+"node": "earthtech-international",
+"nodeLabel": "EarthTech International / Institute for Advanced Studies at Austin",
+"sourceText": "EarthTech International, About page",
+"text": "The Institute for Advanced Studies at Austin was founded by Puthoff in 1985 and incorporated under EarthTech International Inc. in 1991.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-05d925f30f",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "EarthTech International, About page",
+"text": "EarthTech International Inc., Austin, was founded by Puthoff in 1991 as the corporate vehicle for the Institute for Advanced Studies at Austin (est. 1985).",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

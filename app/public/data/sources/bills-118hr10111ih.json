@@ -12,9 +12,61 @@
 "tier": 1
 }
 ],
-"date": null,
-"edges": [],
-"era": "nd",
+"date": "2024",
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "eric-burlison",
+"label": "Eric Burlison"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-10111-uap-whistleblower-protection-act",
+"label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+},
+"claimTier": 1,
+"id": "e-b0fc975d66",
+"label": "Cosponsor",
+"note": "Congress.gov cosponsor record.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-10111-uap-whistleblower-protection-act",
+"label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+},
+"claimTier": 1,
+"id": "e-2d118c74de",
+"label": "Cosponsor",
+"note": "Congress.gov cosponsor record.",
+"type": "legislative"
+},
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-10111-uap-whistleblower-protection-act",
+"label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+},
+"claimTier": 1,
+"id": "e-dbaee75587",
+"label": "Sponsor",
+"note": "Introduced 12 November 2024, the day before the Oversight hearing.",
+"type": "legislative"
+}
+],
+"era": "3",
 "id": "bills-118hr10111ih",
 "identifiers": [
 "BILLS-118hr10111ih"
@@ -26,10 +78,29 @@
 "cls": "legislation",
 "id": "hr-10111-uap-whistleblower-protection-act",
 "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+},
+{
+"cls": "domain",
+"id": "d-legal",
+"label": "Legal Doctrine & Liability"
+},
+{
+"cls": "person",
+"id": "nancy-mace",
+"label": "Nancy Ruth Mace"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
 }
 ],
-"node": null,
-"title": "BILLS-118hr10111ih",
+"node": {
+"cls": "legislation",
+"id": "hr-10111-uap-whistleblower-protection-act",
+"label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)"
+},
+"title": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
 "topics": [
 {
 "claims": [
@@ -46,8 +117,9 @@
 "title": "Whistleblower channels, protections and reprisal"
 }
 ],
-"type": "document",
+"type": "statute",
 "urls": [
+"https://www.congress.gov/bill/118th-congress/house-bill/10111",
 "https://www.govinfo.gov/content/pkg/BILLS-118hr10111ih/html/BILLS-118hr10111ih.htm"
 ]
 }

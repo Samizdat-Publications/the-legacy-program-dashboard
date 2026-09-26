@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-ee376c287d",
+"locator": "2022 renaming",
+"node": "ttsa",
+"nodeLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"sourceText": "Wikipedia, To The Stars Inc., citing company filings and press",
+"text": "Renamed To The Stars Inc. in 2022 after the departure of Elizondo, Mellon and Justice; subsequent output is entertainment.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -162,7 +173,15 @@
 ],
 "node": null,
 "title": "Wikipedia: To The Stars Inc.",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-ee376c287d"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/To_the_Stars_(company)"

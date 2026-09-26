@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-13af230c78",
+"locator": null,
+"node": "aawsap-contract",
+"nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+"sourceText": "DIA release Contract_FY10.pdf",
+"text": "A modification of contract exercising the FY10 option period was executed 2 September 2009.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -22,7 +33,22 @@
 ],
 "node": null,
 "title": "AAWSAP contract FY10 modification",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-13af230c78"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+},
+{
+"claims": [
+"c-13af230c78"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
 "type": "document",
 "urls": [
 "https://documents2.theblackvault.com/documents/dia/AAWSAP/Contract_FY10.pdf"

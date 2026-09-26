@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-133844d241",
+"locator": "quoting 2010 Brazilian military inquiry findings",
+"node": "ev-varginha-1996",
+"nodeLabel": "Varginha incident, Minas Gerais, January 1996",
+"sourceText": "Brazilian military inquiry findings, 2010, as quoted in Wikipedia 'Varginha UFO incident' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +28,15 @@
 ],
 "node": null,
 "title": "Varginha UFO incident - Wikipedia",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-133844d241"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Varginha_UFO_incident"

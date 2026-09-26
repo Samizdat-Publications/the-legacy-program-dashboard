@@ -7,10 +7,16 @@
 {
 "id": "c-aef08c13d0",
 "source": "'Skinwalkers at the Pentagon' (2021)",
-"sources": [],
+"sources": [
+{
+"id": "n-skinwalkers-at-the-pentagon",
+"locator": null,
+"title": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+}
+],
 "text": "Lacatski, Kelleher and Knapp describe AAWSAP's Utah field operations, human physiological effects on personnel, and Lacatski's account of entering a craft of unknown origin.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1d3a2eb7cc",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "The manuscript was cleared for publication through DoD prepublication review.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:skinwalkers-at-the-pentagon) was rejected in review: string does not name the published volume"
 },
 {
 "id": "c-6fc345598b",

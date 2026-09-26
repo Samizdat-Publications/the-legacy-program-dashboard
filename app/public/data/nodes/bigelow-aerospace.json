@@ -38,7 +38,7 @@
 "sources": [],
 "text": "Bigelow Aerospace holds a NASA relationship including the Bigelow Expandable Activity Module attached to the ISS in 2016, establishing it as a genuine aerospace prime rather than a study contractor.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No NASA BEAM candidate found."
 },
 {
 "id": "c-11c0246d80",
@@ -46,7 +46,7 @@
 "sources": [],
 "text": "The AAWSAP contract was held by the separately registered Bigelow Aerospace Advanced Space Studies, LLC, not by Bigelow Aerospace itself.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170017) was rejected in review: contract awardee block, not the P00001 modification"
 },
 {
 "id": "c-f0cc4ae5ae",
@@ -58,27 +58,45 @@
 },
 {
 "id": "c-96aec013a3",
-"source": "AARO, Historical Record Report Volume I, March 2024",
-"sources": [],
+"source": "AARO, Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AAWSAP/AATIP was 'funded through a special appropriation and executed by its primary contractor, a private sector organization'; the contractor team conducted UAP and paranormal research at a property owned by that organisation.",
-"tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-2bc2e6d173",
 "source": "George Knapp, sworn testimony, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "sworn testimony of George Knapp",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "BAASS was to receive 'a quantity of unusual material that had been stashed away and protected at a facility in California.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ce136132e2",
 "source": "Luis Elizondo, sworn testimony, 13 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg57440",
+"locator": "testimony of Luis Elizondo",
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
+}
+],
 "text": "The divestment of 1950s-collected material to Bigelow Aerospace 'was blocked'; a required Secretary of the Air Force memorandum never issued.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -333,7 +351,7 @@
 ],
 "sub": "contractor",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 125 of 1138, score 56). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.",
+"tierRationale": "Re-graded A on a global pass (rank 130 of 1138, score 55). 5 connections, 4 of them custody/funding/programmatic. Axes C3/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

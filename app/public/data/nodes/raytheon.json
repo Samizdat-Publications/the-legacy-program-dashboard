@@ -7,10 +7,16 @@
 {
 "id": "c-f2069a8318",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records prime contract obligations to Raytheon Company entities exceeding $100 billion since FY2008, including sensor test assessment and anomaly resolution task orders.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-56daa907d4",
@@ -166,7 +172,7 @@
 ],
 "sub": "Prime contractor; sensors, radar, missile systems",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 659 of 1138, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 658 of 1138, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

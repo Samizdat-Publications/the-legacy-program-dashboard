@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-0692e691e2",
+"locator": null,
+"node": "d-intel",
+"nodeLabel": "Intelligence Tradecraft & Analysis",
+"sourceText": "Limina, doi:10.59661/001c.131854",
+"text": "Hancock, Porritt and Grosvenor applied formal indications analysis to UAP reporting against the US atomic warfare complex, published via SCU in 2023 and in Limina in 2025.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

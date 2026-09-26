@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d809c3c34a",
+"locator": null,
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "Rep. Anna Paulina Luna, Sol Foundation interview, May 2026",
+"text": "Luna stated that prior AARO leadership was 'intentionally set up to block, stonewall, and suppress information' and that Kosloski apologised to members of Congress for that conduct.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d3592d598f",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "Rep. Anna Paulina Luna, Sol Foundation interview, reported May 2026",
+"text": "Kosloski met Reps. Luna and Burchett in May 2026 and apologised for the conduct of AARO's prior leadership.",
+"tier": 2
+}
+],
+"date": "2026-05",
+"edges": [],
+"era": "3",
+"id": "t-44812618cb1c",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Sol Foundation",
+"listedOn": [],
+"node": null,
+"title": "Sol Foundation interview, May 2026",
+"topics": [
+{
+"claims": [
+"c-d809c3c34a"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+}
+],
+"type": "article",
+"urls": []
+}

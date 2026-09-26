@@ -1,21 +1,71 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "legislation",
+"id": "c-2d6224160f",
+"locator": null,
+"node": "hr-8424-uap-transparency-act",
+"nodeLabel": "H.R. 8424 - UAP Transparency Act (118th Congress)",
+"sourceText": "Congress.gov H.R. 8424 (118th)",
+"text": "Introduced 16 May 2024 by Rep. Tim Burchett; died in referral at the end of the 118th Congress.",
+"tier": 1
+}
+],
 "date": "2024",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+},
+"b": {
+"cls": "legislation",
+"id": "hr-8424-uap-transparency-act",
+"label": "H.R. 8424 - UAP Transparency Act (118th Congress)"
+},
+"claimTier": 1,
+"id": "e-66fdbfec24",
+"label": "Sponsor of the 118th Congress predecessor",
+"note": "Died in referral; refiled as H.R. 1187.",
+"type": "legislative"
+}
+],
 "era": "3",
 "id": "n-hr-8424-uap-transparency-act",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "U.S. Congress",
+"listedOn": [
+{
+"cls": "legislation",
+"id": "hr-8424-uap-transparency-act",
+"label": "H.R. 8424 - UAP Transparency Act (118th Congress)"
+},
+{
+"cls": "person",
+"id": "tim-burchett",
+"label": "Timothy Floyd Burchett"
+}
+],
 "node": {
 "cls": "legislation",
 "id": "hr-8424-uap-transparency-act",
 "label": "H.R. 8424 - UAP Transparency Act (118th Congress)"
 },
 "title": "H.R. 8424 - UAP Transparency Act (118th Congress)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-2d6224160f"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
 "type": "statute",
-"urls": []
+"urls": [
+"https://www.congress.gov/bill/118th-congress/house-bill/8424"
+]
 }

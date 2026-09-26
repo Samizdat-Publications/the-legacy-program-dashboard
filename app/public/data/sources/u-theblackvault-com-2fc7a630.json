@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-10a7fbfce8",
+"locator": null,
+"node": "d-contracting",
+"nodeLabel": "Federal Contracting Mechanics",
+"sourceText": "The Black Vault, 'Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material'",
+"text": "Secrecy around the Army-TTSA agreement deepened following initial disclosure, with subsequent records requests returning reduced material.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

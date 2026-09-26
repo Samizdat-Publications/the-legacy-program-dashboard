@@ -147,7 +147,7 @@
 {
 "cls": "institution",
 "id": "c-220bbc2a45",
-"locator": "Enclosure 2",
+"locator": null,
 "node": "dod-sapco",
 "nodeLabel": "DoD Special Access Program Central Office (DoD SAPCO)",
 "sourceText": "DoDI 5205.11 Enclosure 2; DoDD 5205.07 (2010) paras 4.c and 4.e",
@@ -367,7 +367,7 @@
 {
 "cls": "document",
 "id": "c-dcd357a60c",
-"locator": "para 5.d read against 10 U.S.C. 119(a)(2)(B)(i",
+"locator": null,
 "node": "dodi-5205-11",
 "nodeLabel": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "sourceText": "DoDI 5205.11 para 5.d read against 10 U.S.C. 119(a)(2)(B)(i)",
@@ -497,7 +497,7 @@
 {
 "cls": "institution",
 "id": "c-a946b87240",
-"locator": "Enclosure 3 read against 10 U.S.C. 119",
+"locator": null,
 "node": "sapoc",
 "nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
 "sourceText": "DoDI 5205.11 Enclosure 3 read against 10 U.S.C. 119",
@@ -527,7 +527,7 @@
 {
 "cls": "document",
 "id": "c-b3bb681466",
-"locator": "Enclosure 3",
+"locator": null,
 "node": "sap-annual-report",
 "nodeLabel": "The annual DoD special access program report to Congress",
 "sourceText": "10 U.S.C. 119(a)(1) as enacted in 1987; DoDI 5205.11 Enclosure 3",

@@ -7,34 +7,58 @@
 {
 "id": "c-776379452d",
 "source": "Executed CRADA between CCDC GVSC and TTSA, 10 October 2019",
-"sources": [],
+"sources": [
+{
+"id": "n-ttsa-army-crada",
+"locator": null,
+"title": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+}
+],
 "text": "GVSC Director Jeffery Langhout signed a CRADA with To The Stars Academy dated 10 October 2019; the agreement text was released by the Army on 18 October 2019.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5f32d356b6",
 "source": "Army FOIA response to John Greenewald / The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "t-0d5ef6c5de2a",
+"locator": null,
+"title": "Army FOIA response to John Greenewald / The Black Vault"
+}
+],
 "text": "The Army located twenty-nine emails totalling one hundred pages of Dr. Joseph Cannon's correspondence with TTSA and withheld all of them in full under FOIA exemptions (b)(4) and (b)(5).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-371eab753d",
 "source": "Dr. Joseph Cannon, quoted in TTSA announcement, 17 October 2019",
-"sources": [],
+"sources": [
+{
+"id": "t-c574989f1e4c",
+"locator": null,
+"title": "Dr. Joseph Cannon, quoted in TTSA announcement, 17 October 2019"
+}
+],
 "text": "'Our partnership with TTSA serves as an exciting, non-traditional source for novel materials and transformational technologies.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3042938ef6",
 "source": "Army public affairs statement, 2019",
-"sources": [],
+"sources": [
+{
+"id": "t-4d065e80ab04",
+"locator": null,
+"title": "Army public affairs statement"
+}
+],
 "text": "GVSP spokesman Doug Halleaux stated that because the Army's interest is in the potential for novel materials, 'any speculation as to their origin is (pardon the pun) immaterial.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

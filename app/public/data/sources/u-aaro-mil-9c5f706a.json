@@ -2,7 +2,48 @@
 "archived": [
 "https://web.archive.org/web/20260508180204/https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-01c6194133",
+"locator": null,
+"node": "flir1-video",
+"nodeLabel": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"sourceText": "AARO SASC open hearing case slides, 19 November 2024",
+"text": "No official assessment of FLIR1 has been published by AARO, unlike GO FAST, Aguadilla and Mt Etna. Reasoning: AARO's 19 Nov 2024 SASC case slides cover the latter three and not FLIR1; absence from a public case-slide deck is not proof no assessment exists, but it is the state of the public record.",
+"tier": 3
+},
+{
+"cls": "document",
+"id": "c-3b6cf1432c",
+"locator": null,
+"node": "gimbal-video",
+"nodeLabel": "GIMBAL (Navy ATFLIR video, January 2015)",
+"sourceText": "AARO SASC open hearing case slides, 19 November 2024",
+"text": "AARO's SASC case slides of 19 November 2024 present assessments of Aguadilla (2013), GO FAST (2015) and Mt Etna (2018); they do not include a GIMBAL case.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-4ce6331d37",
+"locator": null,
+"node": "gofast-video",
+"nodeLabel": "GO FAST (Navy ATFLIR video, January 2015)",
+"sourceText": "AARO case slides, Senate Armed Services Committee open hearing, 19 November 2024",
+"text": "AARO assessed GO FAST as an object at approximately 13,000 feet travelling around 45 mph with 60-knot winds; it 'did not demonstrate any anomalous speeds or flight characteristics.'",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-f5e2265055",
+"locator": null,
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "AARO case slides, SASC open hearing, 19 November 2024",
+"text": "GO FAST (January 2015, off Florida's east coast): AARO assessed the object at approximately 13,000 feet travelling about 45 mph with 60-knot winds, concluding it 'did not demonstrate any anomalous speeds or flight characteristics.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -103,7 +144,45 @@
 ],
 "node": null,
 "title": "AARO - SASC open hearing case slides (PDF)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-3b6cf1432c",
+"c-4ce6331d37",
+"c-f5e2265055"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-f5e2265055"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+},
+{
+"claims": [
+"c-4ce6331d37"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-4ce6331d37"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+},
+{
+"claims": [
+"c-01c6194133"
+],
+"id": "nimitz-2004",
+"title": "USS Nimitz, November 2004"
+}
+],
 "type": "document",
 "urls": [
 "https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf"

@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2ff1a20481",
+"locator": null,
+"node": "amir-siraj",
+"nodeLabel": "Amir Siraj",
+"sourceText": "Geophysical Journal International, March 2024, as reported by The New York Times",
+"text": "The seismic localisation was subsequently attributed by Fernando et al. in Geophysical Journal International (March 2024) to nearby truck traffic rather than an impact.",
+"tier": 1
+}
+],
+"date": "2024-03",
+"edges": [],
+"era": "3",
+"id": "t-c63ad0120439",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Geophysical Journal International, March 2024, as reported by The New York Times",
+"topics": [
+{
+"claims": [
+"c-2ff1a20481"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
+"type": "article",
+"urls": []
+}

@@ -4,7 +4,7 @@
 {
 "cls": "domain",
 "id": "c-7ed647dbeb",
-"locator": "sections 3.3, 3.5 and 1.8",
+"locator": null,
 "node": "sap-cover-mechanisms",
 "nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "sourceText": "DoDM 5205.07-V1 Enclosure 5 read against E.O. 13526 sections 3.3, 3.5 and 1.8",
@@ -14,7 +14,7 @@
 {
 "cls": "institution",
 "id": "c-c643eb19fb",
-"locator": "and the Atomic Energy Act",
+"locator": null,
 "node": "eop",
 "nodeLabel": "Executive Office of the President",
 "sourceText": "Inference from the distinct legal bases of EO 13526 and the Atomic Energy Act",
@@ -34,7 +34,7 @@
 {
 "cls": "legislation",
 "id": "c-836aa302fe",
-"locator": "sec. 4.3(a), 75 FR 707",
+"locator": null,
 "node": "eo-13526",
 "nodeLabel": "Executive Order 13526 - Classified National Security Information",
 "sourceText": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
@@ -64,7 +64,7 @@
 {
 "cls": "legislation",
 "id": "c-bb69175471",
-"locator": "sec. 4.3(a), 75 FR 707",
+"locator": null,
 "node": "eo-13526",
 "nodeLabel": "Executive Order 13526 - Classified National Security Information",
 "sourceText": "EO 13526 sec. 4.3(a), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
@@ -74,7 +74,7 @@
 {
 "cls": "legislation",
 "id": "c-e10d06a134",
-"locator": "sec. 4.3(b)(4)-(5), 75 FR 707",
+"locator": null,
 "node": "eo-13526",
 "nodeLabel": "Executive Order 13526 - Classified National Security Information",
 "sourceText": "EO 13526 sec. 4.3(b)(4)-(5), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
@@ -94,7 +94,7 @@
 {
 "cls": "legislation",
 "id": "c-eeb5db9b0f",
-"locator": "sec. 4.3(b)(3), 75 FR 707",
+"locator": null,
 "node": "eo-13526",
 "nodeLabel": "Executive Order 13526 - Classified National Security Information",
 "sourceText": "EO 13526 sec. 4.3(b)(3), 75 FR 707, https://www.govinfo.gov/content/pkg/FR-2010-01-05/html/E9-31418.htm",
@@ -104,7 +104,7 @@
 {
 "cls": "legislation",
 "id": "c-391f1f2153",
-"locator": "sec. 4.3(b",
+"locator": null,
 "node": "eo-13526",
 "nodeLabel": "Executive Order 13526 - Classified National Security Information",
 "sourceText": "Text of E.O. 13526 sec. 4.3(b)",
@@ -114,7 +114,7 @@
 {
 "cls": "legislation",
 "id": "c-b209b81bf2",
-"locator": "sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together",
+"locator": null,
 "node": "eo-13526",
 "nodeLabel": "Executive Order 13526 - Classified National Security Information",
 "sourceText": "Reading of 10 U.S.C. 119(e), EO 13526 sec. 4.3(b)(3) and 32 CFR 117.6(b)(3) together; all three texts read from primary sources on 22 August 2026",
@@ -134,7 +134,7 @@
 {
 "cls": "institution",
 "id": "c-64ee83d1c6",
-"locator": "section 4.3(b",
+"locator": null,
 "node": "odni-capco",
 "nodeLabel": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "sourceText": "ICD 906 section D.9.c read with E.O. 13526 section 4.3(b)",

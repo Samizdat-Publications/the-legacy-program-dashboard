@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-8293de2456",
+"locator": null,
+"node": "hearing-1966-04-05",
+"nodeLabel": "House Armed Services Committee UFO Hearing",
+"sourceText": "US House Committee on Science and Astronautics, 90th Congress, 2nd Session, 29 July 1968",
+"text": "A second congressional proceeding, the House Committee on Science and Astronautics 'Symposium on Unidentified Flying Objects', was held on 29 July 1968 with witnesses including J. Allen Hynek, James E. McDonald and Carl Sagan.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-1f4d870941",
+"locator": null,
+"node": "j-allen-hynek",
+"nodeLabel": "J. Allen Hynek",
+"sourceText": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+"text": "Hynek testified before the House Committee on Science and Astronautics at its UFO symposium on 29 July 1968, alongside James E. McDonald, Carl Sagan, Robert L. Hall, James A. Harder and Robert M. L. Baker Jr.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-55bd5f8627",
+"locator": null,
+"node": "james-mcdonald",
+"nodeLabel": "James E. McDonald",
+"sourceText": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+"text": "McDonald testified before the House Committee on Science and Astronautics on 29 July 1968 as senior physicist at the University of Arizona Institute of Atmospheric Physics.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -79,7 +110,30 @@
 ],
 "node": null,
 "title": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1f4d870941",
+"c-55bd5f8627"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-8293de2456"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-8293de2456"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+}
+],
 "type": "document",
 "urls": [
 "http://nicap.org/books/1968Sym/1968_UFO_Symposium.pdf"

@@ -198,7 +198,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": null,
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "'Just last night, I tried to get an amendment onto the National Defense Authorization Act that fit in the germaneness of that bill to have UAP disclosure. And conveniently, it was named nongermane, mostly deemed by staff, not even an elected official.'",
@@ -212,7 +212,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "9 September 2025",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "'Last year, we were blocked by someone in House administration from being able to receive a full briefing from AARO, so not an elected official, but someone in staff blocked us. And I have had it.'",
@@ -226,7 +226,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "9 September 2025",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Unveiled classified footage at the 9 Sept 2025 hearing: 'This was taken October 30 of 2024. This video is of an MQ-9 drone tracking an orb... off the coast of Yemen. You will see that another MQ-9 launched a hellfire missile.' The object was apparently struck and continued.",
@@ -236,18 +236,30 @@
 {
 "id": "c-86060294db",
 "source": "DefenseScoop, 27 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-cc551f20",
+"locator": null,
+"title": "DefenseScoop: MITRE moves to comply with lawmaker's request for UAP records and assets dating back to 1930"
+}
+],
 "text": "Sent MITRE a 10-page letter dated 22 May 2026 with over 40 production requests, asking whether MITRE 'has created, received, maintained, analyzed, transferred, destroyed, withheld, or otherwise controlled records' on UAP, anomalous materials and reverse engineering back to 1930, with unclassified records due in native electronic format with metadata within 45 days.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-bf19f238f5",
 "source": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-12eb5aae96e3",
+"locator": "Burlison SCIF-transparency quote",
+"title": "The Hill/NewsNation, 12 March 2024"
+}
+],
 "text": "'They weren't transparent to us in a SCIF setting. So they could have brought forward evidence. They could have explained what these Special Access Programs actually do. But they are not willing to do that with Congress.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f8538dedc0",
@@ -255,7 +267,7 @@
 "sources": [],
 "text": "'If you really want to hide something from Congress, you don't put it in a government file cabinet. You hand it to a private contractor. That's why my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:burlison-mit-lincoln-letter-2026) was rejected in review: X post quoted by news is not the letter"
 },
 {
 "id": "c-1bb90262ab",
@@ -263,15 +275,21 @@
 "sources": [],
 "text": "Hired David Grusch as a senior adviser on UAP issues for a four-month period beginning March 2025.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thehill.com/homenews/house/5214211-david-grusch-eric-burlison-ufo-transparen) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-f1c323e939",
 "source": "NewsNation/The Hill, 9 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-274c20b4c668",
+"locator": null,
+"title": "NewsNation/The Hill, 9 June 2026"
+}
+],
 "text": "Described receiving a 'Tom Clancy-style dead drop' of UAP information at his office and called on President Trump to waive all NDAs for UAP whistleblowers.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6d2a16c423",
@@ -279,7 +297,7 @@
 "sources": [],
 "text": "Named David Grusch Special Advisor to his congressional office on 27 March 2025, citing Grusch's NRO/NGA service and the credible-and-urgent whistleblower finding.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:burlison.house.gov/media/press-releases/rep-burlison-welcomes-former-us-air-) was rejected in review: press release by date only; candidate row shows no date"
 },
 {
 "id": "c-a1a8208f30",
@@ -287,15 +305,21 @@
 "sources": [],
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do,' with an offer to assist current and former employees and contractors who wish to disclose.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement) was rejected in review: date only; candidate lacks date, two NDA-directive releases exist"
 },
 {
 "id": "c-66d65a1ec6",
 "source": "Burlison at the Capitol press conference, 9 June 2026, reported by Fox News",
-"sources": [],
+"sources": [
+{
+"id": "t-545c132ed869",
+"locator": null,
+"title": "Capitol press conference"
+}
+],
 "text": "'There must be real penalties for officials who knowingly withhold information from Congress.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-898711255d",
@@ -304,7 +328,7 @@
 {
 "id": "chrg-118hhrg57440",
 "locator": "13 November 2024",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "Burlison put on the hearing record the reported transfer between Lockheed Martin, Bigelow Aerospace and a CIA block, and obtained Elizondo's confirmation that 'it was blocked.'",
@@ -318,7 +342,7 @@
 {
 "id": "chrg-118hhrg57440",
 "locator": "13 November 2024",
-"title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+"title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
 }
 ],
 "text": "Asked who possesses the material today, Elizondo told Burlison he could not answer in open session.",
@@ -328,26 +352,44 @@
 {
 "id": "c-3b7675e5a9",
 "source": "NewsTalk KZRG, 23 July 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-newstalkkzrg-com-4fd1da4b",
+"locator": null,
+"title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure"
+}
+],
 "text": "The House adopted Burlison's Unidentified Anomalous Phenomena Disclosure Act amendment to the FY2027 NDAA on 23 July 2026; it creates a UAP Records Review Board with Senate-confirmed members and subpoena authority and extends disclosure obligations to government contractors.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ab0c44a22a",
 "source": "NewsTalk KZRG, 23 July 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-newstalkkzrg-com-4fd1da4b",
+"locator": null,
+"title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure"
+}
+],
 "text": "The amendment requires agencies to identify, preserve and transfer covered UAP records to a permanent National Archives collection under a statutory timeline.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-209f0bb8c5",
 "source": "DefenseScoop, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-9d6513d4",
+"locator": null,
+"title": "DefenseScoop: Military whistleblowers share new evidence of alleged UAP at transparency hearing"
+}
+],
 "text": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-95df34ff78",
@@ -355,7 +397,7 @@
 "sources": [],
 "text": "'Waiving UAP-related NDAs is something I have been calling for the administration to do' - with a recommendation that participants request congressional presence and counsel.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:burlison.house.gov/media/press-releases/rep-eric-burlison-releases-statement) was rejected in review: date only; candidate lacks date, two NDA-directive releases exist"
 },
 {
 "id": "c-be24146443",

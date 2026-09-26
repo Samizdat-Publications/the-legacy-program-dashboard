@@ -7,34 +7,58 @@
 {
 "id": "c-6e7381fd4e",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-northrop-trw-investigation",
+"locator": "extrapolating from Grusch's Megyn Kelly statements",
+"title": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+}
+],
 "text": "Northrop Grumman may have used IRAD funds at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ebe714bfa2",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, citing David Grusch",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-northrop-trw-investigation",
+"locator": "citing David Grusch",
+"title": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+}
+],
 "text": "Stephanie O'Sullivan - former Principal Deputy DNI, former TRW engineer and current Aerospace Corporation board member - is stated by David Grusch to have managed the UFO crash retrieval issue alongside James Clapper at ODNI.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0494bb0b16",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-northrop-trw-investigation",
+"locator": null,
+"title": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+}
+],
 "text": "Northrop Grumman's modern UFO security apparatus is helmed by Terry Phillips, former director of AFOSI/PJ.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c94ac019c6",
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-northrop-trw-investigation",
+"locator": null,
+"title": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+}
+],
 "text": "The Northrop Tejon radar cross-section facility was officially closed in 2011; Gerb questions whether clandestine underground operations continue beneath it.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

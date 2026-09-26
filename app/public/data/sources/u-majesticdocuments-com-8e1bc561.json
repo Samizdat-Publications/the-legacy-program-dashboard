@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4792e91435",
+"locator": "site structure, copyright notice, Authenticity Ratings scheme",
+"node": "robert-m-wood",
+"nodeLabel": "Dr. Robert M. Wood",
+"sourceText": "majesticdocuments.com site structure and copyright notice, retrieved 12 August 2026",
+"text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, and organises its holdings by date band with a published 'Authenticity Ratings' scheme, alongside sections for FOIA, NARA, Truman Library and British Public Record Office material.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-3b5de598e8",
+"locator": null,
+"node": "d-mj12",
+"nodeLabel": "Majestic-12 Corpus",
+"sourceText": "The Majestic Documents (Wood & Wood)",
+"text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-77ef492a47",
+"locator": "site structure, copyright notice, Authenticity Ratings scheme",
+"node": "majestic-documents-archive",
+"nodeLabel": "The Majestic Documents archive (Wood and Wood)",
+"sourceText": "majesticdocuments.com, site structure and copyright notice, retrieved 12 August 2026",
+"text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, publishes an 'Authenticity Ratings' scheme, and organises holdings by date band alongside sections for FOIA, NARA, Truman Library, British Public Record Office and NICAP material and for the Air Force/GAO investigations.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -89,7 +120,17 @@
 ],
 "node": null,
 "title": "The Majestic Documents (Wood & Wood)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-4792e91435",
+"c-3b5de598e8",
+"c-77ef492a47"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
 "type": "web page",
 "urls": [
 "https://majesticdocuments.com/"

@@ -42,6 +42,36 @@
 "tier": 3
 },
 {
+"cls": "person",
+"id": "c-2f334000a3",
+"locator": null,
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"sourceText": "DefenseScoop, 25 February 2026",
+"text": "Hegseth committed the Department to work closely with ODNI to implement the release effort.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8e3e0cf993",
+"locator": null,
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"sourceText": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
+"text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-dfa877dc23",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "DefenseScoop, 25 February 2026",
+"text": "Hegseth referred to the direction as 'that executive order' on 25 February 2026.",
+"tier": 2
+},
+{
 "cls": "document",
 "id": "c-da44f655dd",
 "locator": null,
@@ -50,6 +80,26 @@
 "sourceText": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
 "text": "No signed executive order on UAP declassification exists in the public record as of 12 August 2026, despite Hegseth referring on 23 February 2026 to 'that executive order'. Reasoning: contemporaneous reporting describes a Truth Social post; the ODNI implementing memorandum cites 'Presidential Direction' without an order number.",
 "tier": 3
+},
+{
+"cls": "person",
+"id": "c-138447a3b5",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
+"text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-2af2487930",
+"locator": null,
+"node": "tulsi-gabbard",
+"nodeLabel": "Tulsi Gabbard",
+"sourceText": "DefenseScoop, 25 February 2026",
+"text": "Hegseth stated the Department would work closely with ODNI to implement the release effort.",
+"tier": 2
 }
 ],
 "date": "2026-02-25",
@@ -188,17 +238,26 @@
 {
 "claims": [
 "c-401e1ba440",
-"c-ff2ad25955"
+"c-ff2ad25955",
+"c-8e3e0cf993"
 ],
 "id": "house-push-2026",
 "title": "The 2026 House push: Burlison, the June events and the select committee proposal"
 },
 {
 "claims": [
+"c-dfa877dc23",
 "c-da44f655dd"
 ],
 "id": "pursue-2026",
 "title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-138447a3b5"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
 }
 ],
 "type": "article",

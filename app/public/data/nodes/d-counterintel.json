@@ -8,18 +8,30 @@
 {
 "id": "c-0e701fc335",
 "source": "AFOSI, About Us",
-"sources": [],
+"sources": [
+{
+"id": "u-osi-af-mil-7930849e",
+"locator": null,
+"title": "AFOSI - About Us"
+}
+],
 "text": "The Air Force Office of Special Investigations is chartered for both criminal investigation and counterintelligence, giving a single service jurisdiction over programme security and over personnel who disclose.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4a25745281",
 "source": "NICAP, 1980 Kirtland AFB FOIA document files",
-"sources": [],
+"sources": [
+{
+"id": "n-afosi-kirtland-file",
+"locator": null,
+"title": "AFOSI Kirtland AFB UFO File (1980-1983)"
+}
+],
 "text": "AFOSI documents relating to the 1980 Kirtland AFB incident were released under FOIA and are publicly archived.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8ea2dc2e2e",
@@ -27,7 +39,7 @@
 "sources": [],
 "text": "The Pentagon's head of counterintelligence and security, Garry Reid, was reported in 2022 to have been ousted amid controversy touching the UAP task force's handling; the reporting names him directly.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-s) was rejected in review: outlet and date only; candidate row shows no date"
 }
 ],
 "cls": "domain",

@@ -1,6 +1,57 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-d09f5025ae",
+"locator": null,
+"node": "l-las-vegas",
+"nodeLabel": "Las Vegas, Nevada",
+"sourceText": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Robert Bigelow founded the National Institute for Discovery Science and purchased Skinwalker Ranch in 1996 for $200,000.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-31357c5dc3",
+"locator": "acreage, sale prices, Fugal purchase",
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch, citing property and press records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The ranch is approximately 512 acres in Uintah County, Utah; Bigelow purchased it for $200,000 in 1996 and sold it for approximately $500,000 in 2016 to Brandon Fugal, who announced ownership in March 2020 via Adamantium Real Estate LLC.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-e0c130514e",
+"locator": "Lacatski/Bigelow/Reid chain",
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch, citing Reid's and Lacatski's accounts",
+"text": "DIA official James Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker' and reported an experience at the ranch; Bigelow relayed this to Sen. Harry Reid, and Reid and Sen. Ted Stevens subsequently secured approximately $22 million in Defense appropriations to study unidentified aerial phenomena.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-e5b822008a",
+"locator": null,
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch",
+"text": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents at the ranch but acknowledged difficulty obtaining evidence consistent with scientific publication.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-ce71b31803",
+"locator": null,
+"node": "l-utah",
+"nodeLabel": "Uintah Basin, Utah",
+"sourceText": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Skinwalker Ranch lies in Uintah County, Utah, southeast of Ballard, bordering the Uintah and Ouray Indian Reservation; UFO reports from the Uintah Basin were publicised beginning in the 1970s.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -118,7 +169,17 @@
 ],
 "node": null,
 "title": "Wikipedia - Skinwalker Ranch",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-31357c5dc3",
+"c-e0c130514e",
+"c-e5b822008a"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Skinwalker_Ranch"

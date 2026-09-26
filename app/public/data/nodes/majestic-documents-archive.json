@@ -7,10 +7,16 @@
 {
 "id": "c-77ef492a47",
 "source": "majesticdocuments.com, site structure and copyright notice, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-majesticdocuments-com-8e1bc561",
+"locator": "site structure, copyright notice, Authenticity Ratings scheme",
+"title": "The Majestic Documents (Wood & Wood)"
+}
+],
 "text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, publishes an 'Authenticity Ratings' scheme, and organises holdings by date band alongside sections for FOIA, NARA, Truman Library, British Public Record Office and NICAP material and for the Air Force/GAO investigations.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-da5d95458e",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "The archive's forensic framework is the right instrument applied to a corpus whose chain of custody disqualifies it, which is why this board treats the MJ-12 material as evidence about the disinformation apparatus rather than about recovery operations. Reasoning: the December 1984 delivery falls inside the window Moore admitted to working with AFOSI.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's own inference about chain of custody, not a document"
 }
 ],
 "cls": "program",

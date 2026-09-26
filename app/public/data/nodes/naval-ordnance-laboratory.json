@@ -63,10 +63,16 @@
 {
 "id": "c-30ce2e0268",
 "source": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md",
-"sources": [],
+"sources": [
+{
+"id": "t-5b58f7bc5a6f",
+"locator": "1:15:27",
+"title": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 181, 16 April 2023, at 1:15:27, Jeremy Rys credited the first nitinol discovery to the Naval Ordnance Laboratory and dated it 1954. The laboratory is corroborated by the federal record; the date is not. No opened document places any NOL nitinol work before 1961.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",
@@ -199,7 +205,7 @@
 ],
 "sub": "Navy laboratory at White Oak, Silver Spring, where Buehler and Wiley developed the 55-Nitinol shape-memory alloys",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 650 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 649 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unverified": []
 }

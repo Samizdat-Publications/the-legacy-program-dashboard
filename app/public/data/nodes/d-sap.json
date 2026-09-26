@@ -12,7 +12,7 @@
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoD Directive 5205.07 establishes acknowledged, unacknowledged and waived SAP categories and the associated reporting regimes.",
@@ -22,10 +22,16 @@
 {
 "id": "c-697d44d584",
 "source": "DIA release, OUSDI Info Memo on AATIP (Review of Special Access Program Request), via The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "n-dia-sap-denial-memo-2009",
+"locator": null,
+"title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+}
+],
 "text": "An OUSD(I) information memorandum records a review of a special access program request relating to the Advanced Aerospace Threat Identification Program, dated November 2009.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5495cfc5d3",
@@ -264,7 +270,7 @@
 ],
 "sub": "Access-control domain - the SAP/USAP/waived tier and its oversight carve-outs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 202 of 1138, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 201 of 1138, score 45). 6 connections, 3 of them custody/funding/programmatic. Axes C2/A3/D2.",
 "timeline": [
 {
 "claimTier": 1,

@@ -10,7 +10,7 @@
 "sources": [
 {
 "id": "pl-119-60",
-"locator": "table of contents and secs. 1671-1673",
+"locator": null,
 "title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
 }
 ],
@@ -24,7 +24,7 @@
 "sources": [
 {
 "id": "pl-119-60",
-"locator": "sec. 1671(b",
+"locator": null,
 "title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
 }
 ],
@@ -38,7 +38,7 @@
 "sources": [
 {
 "id": "pl-119-60",
-"locator": "sec. 1672",
+"locator": null,
 "title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
 }
 ],
@@ -52,7 +52,7 @@
 "sources": [
 {
 "id": "pl-119-60",
-"locator": "sec. 1673(a",
+"locator": null,
 "title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
 }
 ],
@@ -63,26 +63,44 @@
 {
 "id": "c-4b9514f954",
 "source": "DefenseScoop, 10 December 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The FY2026 NDAA requires AARO to brief lawmakers on UAP intercepts by NORAD and U.S. Northern Command dating back to 2004, including 'the number, location, and nature' of intercepts and 'data collected or analyzed during such intercepts.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a8eb90db00",
 "source": "DefenseScoop, 10 December 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "AARO must account for 'UAP-related security classification guides' used in reports and investigations, addressing overclassification and improper restrictions on releasing imagery or data.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7a8d86cc1d",
 "source": "DefenseScoop, 10 December 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "Disclosure Foundation executive director Jordan Flowers called the provisions 'a meaningful, if incremental, step toward transparency and oversight,' noting two mirror recommendations championed by Christopher Mellon.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b183342e46",
@@ -129,26 +147,44 @@
 {
 "id": "c-a3af507a59",
 "source": "DefenseScoop, 10 December 2025, on the FY2026 NDAA UAP provisions",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The FY2026 NDAA requires AARO to brief Congress on UAP intercepts by NORAD and USNORTHCOM since 2004, including number, location, nature, procedures, protocols and data collected.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5cd6875836",
 "source": "DefenseScoop, 10 December 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The FY2026 NDAA requires AARO to account for the UAP-related security classification guides used in its reports and investigations.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d7fe4abe31",
 "source": "DefenseScoop, 10 December 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-40141ff4",
+"locator": null,
+"title": "DefenseScoop, FY2026 NDAA UAP provisions"
+}
+],
 "text": "The FY2026 NDAA streamlines federal agency data sharing with the Pentagon for AARO investigations and eliminates duplicative reporting requirements.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-44a4c7c822",
@@ -227,7 +263,7 @@
 {
 "id": "pl-118-159",
 "locator": null,
-"title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
 }
 ],
 "text": "Section 6802 of the FY2025 NDAA sunsets the audit and reporting requirements relating to the UAP Historical Record Report, tying them to 90 and 180 days after delivery of the final volume.",

@@ -7,26 +7,44 @@
 {
 "id": "c-d38a2907a1",
 "source": "JANAP 146(C), Article 201(1)(c)",
-"sources": [],
+"sources": [
+{
+"id": "n-janap-146",
+"locator": "Article 201(1)(c)",
+"title": "JANAP 146 (CIRVIS/MERINT reporting)"
+}
+],
 "text": "JANAP 146(C), dated 10 March 1954, requires airborne personnel to report 'Unidentified flying objects' under CIRVIS while in flight, except over foreign territory.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8875d910d9",
 "source": "JANAP 146(C), Article 308(a)",
-"sources": [],
+"sources": [
+{
+"id": "n-janap-146",
+"locator": "Article 308(a)",
+"title": "JANAP 146 (CIRVIS/MERINT reporting)"
+}
+],
 "text": "Article 308(a) states 'The unauthorized transmission or revelation of the contents of MERINT reports in any manner is prohibited' and references 18 U.S. Code sections 793 and 794.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c184d9c2d3",
 "source": "Bolender memorandum, 20 Oct 1969",
-"sources": [],
+"sources": [
+{
+"id": "n-bolender-memo",
+"locator": null,
+"title": "Bolender Memorandum"
+}
+],
 "text": "The Bolender memorandum of 20 October 1969 states that UFO reports which could affect national security are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5ba1948f36",
@@ -42,7 +60,7 @@
 "sources": [],
 "text": "JANAP 146(E), 'Canadian - United States Communications Instructions for Reporting Vital Intelligence Sightings (CIRVIS/MERINT)', complete with Change No. 2 promulgated 17 May 1977, still lists unidentified flying objects as a reportable category at Article 201 -- eight years after Project Blue Book closed. It was released on 28 February 1994 by the Assistant to the Secretary of Defense under FOIA reference 93-FOI-2428/L.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:janap-146) was rejected in review: JANAP 146(E) of 1977 is a later edition than the 1954 candidate"
 },
 {
 "id": "c-b411c69d5e",
@@ -50,7 +68,7 @@
 "sources": [],
 "text": "JANAP 146(E) Article 208 states: 'Any person who makes an unauthorized transmission or disclosure of such a report may be liable to prosecution under Title 18 of the US Code 793, Chapter 37, or the Canadian Official Secrets Act of 1939, as amended. This should not be construed as requiring classification of CIRVIS messages. The purpose is to emphasize the necessity for the handling of such information within official channels only.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:janap-146) was rejected in review: JANAP 146(E) is a later edition than the 1954 candidate"
 },
 {
 "id": "c-29d7e08515",
@@ -69,10 +87,16 @@
 {
 "id": "c-065fa9a5f1",
 "source": "JANAP 146(C), 10 March 1954, letter of promulgation",
-"sources": [],
+"sources": [
+{
+"id": "n-janap-146",
+"locator": "letter of promulgation",
+"title": "JANAP 146 (CIRVIS/MERINT reporting)"
+}
+],
 "text": "JANAP 146(C), 10 March 1954, was issued by the Joint Chiefs of Staff, Joint Communications-Electronics Committee, is 'an unclassified publication', and its letter of promulgation states that it 'supersedes JANAP 146 (B) ... and all other conflicting instructions. JANAP 146(B) shall be destroyed by burning.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

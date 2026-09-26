@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4f49829876",
+"locator": null,
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"sourceText": "Wikipedia, 'Daniel Sheehan (attorney)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Sheehan served as counsel to John E. Mack and to Steven Greer's Disclosure Project, and represents Luis Elizondo in a case against the Department of Defense.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

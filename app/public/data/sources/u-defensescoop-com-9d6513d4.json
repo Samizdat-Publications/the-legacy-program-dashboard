@@ -13,6 +13,16 @@
 },
 {
 "cls": "person",
+"id": "c-209f0bb8c5",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "DefenseScoop, 9 September 2025",
+"text": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-3b19ba2ca8",
 "locator": null,
 "node": "eric-burlison",
@@ -23,12 +33,32 @@
 },
 {
 "cls": "event",
+"id": "c-00fe402ae8",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "DefenseScoop, 9 September 2025",
+"text": "Rep. Eric Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
+"tier": 2
+},
+{
+"cls": "event",
 "id": "c-9b150c1f96",
 "locator": null,
 "node": "hearing-2025-09-09",
 "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "sourceText": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Nuccetelli described 2003-2005 incursions near Vandenberg AFB during NRO launches, objects 'like flying buildings' that 'pulsed and moved in strange ways,' each 'witnessed by multiple personnel, documented, investigated and reported up the chain.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-9cf2e25f93",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "DefenseScoop, 9 September 2025",
+"text": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
 "tier": 2
 },
 {

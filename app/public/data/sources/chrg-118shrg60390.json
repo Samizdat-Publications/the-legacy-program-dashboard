@@ -3,8 +3,28 @@
 "claims": [
 {
 "cls": "person",
+"id": "c-5a1dfcaa7d",
+"locator": "Kosloski testimony",
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "Kosloski, SASC subcommittee hearing, 19 November 2024",
+"text": "'we do have some very anomalous objects'; 'AARO does not believe that every object is a bird, a balloon, or a UAV.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-86b5eafb23",
+"locator": "Kosloski testimony",
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"sourceText": "Kosloski, SASC subcommittee hearing, 19 November 2024",
+"text": "Unresolved cases include a 'blacker than black' object near a large orange sphere that accelerated vertically '10 to 100 times faster than any drone,' and a stationary cylinder near a southwestern US facility that disappeared.",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-cd85369a4b",
-"locator": "CONTENTS and opening statement",
+"locator": null,
 "node": "sean-kirkpatrick",
 "nodeLabel": "Sean M. Kirkpatrick",
 "sourceText": "CHRG-118shrg60390 CONTENTS and opening statement",
@@ -72,10 +92,12 @@
 }
 ],
 "node": null,
-"title": "CHRG-118shrg60390: The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office",
+"title": "The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office (CHRG-118shrg60390)",
 "topics": [
 {
 "claims": [
+"c-5a1dfcaa7d",
+"c-86b5eafb23",
 "c-a0c7063059"
 ],
 "id": "aaro",

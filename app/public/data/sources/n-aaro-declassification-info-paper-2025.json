@@ -1,21 +1,122 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260714192822/https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-0d3afd319b",
+"locator": null,
+"node": "aaro-declassification-info-paper-2025",
+"nodeLabel": "AARO Declassification Information Paper (September 2025)",
+"sourceText": "AARO Declassification Information Paper, September 2025",
+"text": "AARO states it cannot declassify information independently and must request declassification review from the originating offices, with DOPSR reviewing redactions before public release.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-a2d5a69c06",
+"locator": null,
+"node": "aaro-declassification-info-paper-2025",
+"nodeLabel": "AARO Declassification Information Paper (September 2025)",
+"sourceText": "AARO Declassification Information Paper, September 2025",
+"text": "'Information must remain classified when its disclosure could reasonably be expected to cause damage, serious damage, or exceptionally grave damage to national security.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-d23a82cce6",
+"locator": null,
+"node": "aaro-declassification-info-paper-2025",
+"nodeLabel": "AARO Declassification Information Paper (September 2025)",
+"sourceText": "AARO Declassification Information Paper, September 2025",
+"text": "The paper states that classified UAP imagery protects platform capabilities, locations and collection methods, and that even footage of prosaic objects remains classified when derived from sensitive sources.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c03e4cb294",
+"locator": null,
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "AARO Declassification Information Paper, September 2025",
+"text": "AARO's September 2025 declassification information paper states the office cannot declassify information independently and must request declassification review from originating offices, with DOPSR reviewing redactions before public release.",
+"tier": 1
+}
+],
 "date": "2025",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+"b": {
+"cls": "program",
+"id": "pursue-releases",
+"label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters"
+},
+"claimTier": 3,
+"id": "e-6cbcdbb3c0",
+"label": "Process described as immovable was moved by cabinet direction in weeks",
+"note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
+"type": "denial"
+},
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+"claimTier": 1,
+"id": "e-92e45796bd",
+"label": "The office's own account of why it cannot declassify",
+"note": "AARO states it cannot declassify independently, must request review from originating offices, and is bound by DOPSR - a description falsified within eight months by its own department.",
+"type": "institutional"
+}
+],
 "era": "3",
 "id": "n-aaro-declassification-info-paper-2025",
 "identifiers": [],
 "interestedParty": true,
-"issuer": null,
-"listedOn": [],
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-declassification-info-paper-2025",
+"label": "AARO Declassification Information Paper (September 2025)"
+},
+{
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+}
+],
 "node": {
 "cls": "document",
 "id": "aaro-declassification-info-paper-2025",
 "label": "AARO Declassification Information Paper (September 2025)"
 },
 "title": "AARO Declassification Information Paper (September 2025)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-0d3afd319b",
+"c-d23a82cce6",
+"c-c03e4cb294"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Declassification_Info_Paper_2025.pdf"
+]
 }

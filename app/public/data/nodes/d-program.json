@@ -8,18 +8,30 @@
 {
 "id": "c-50f5d9f1a3",
 "source": "AAWSAP solicitation full text (v.3), via The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": null,
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "DIA solicitation HHM402-08-R-0211 for the Advanced Aerospace Weapon System Applications Program was issued in August 2008 and the full text is public.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-636dd87d0d",
 "source": "AAWSAP Statement of Work (SOW_Aerospace.pdf)",
-"sources": [],
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": null,
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "The AAWSAP statement of work, dated 22 August 2008, specifies the required advanced aerospace research areas.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e739de921c",
@@ -27,7 +39,7 @@
 "sources": [],
 "text": "An OUSD(I) information memorandum of November 2009 records review of a special access program request relating to AATIP.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:dia-sap-denial-memo-2009) was rejected in review: 'OUSDI Info Memo' ambiguous between two DIA memos"
 }
 ],
 "cls": "domain",

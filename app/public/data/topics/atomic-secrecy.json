@@ -124,7 +124,7 @@
     {
      "id": "stat-68-919",
      "locator": null,
-     "title": "68 Stat. 919"
+     "title": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
     }
    ],
    "text": "The Statutes at Large header reads 'Public Law 703 / CHAPTER 1073 / August 30, 1954 / [H. R. 9757]', at 68 Stat. 919. Its long title is 'To amend the Atomic Energy Act of 1946, as amended, and for other purposes', so the 1954 Act is a complete restatement of the 1946 Act rather than a repeal of it.",
@@ -164,7 +164,7 @@
     {
      "id": "dtic-ada412977",
      "locator": null,
-     "title": "DTIC ADA412977"
+     "title": "Exiled Brain Surgeon (DTIC ADA412977)"
     },
     {
      "id": "u-archive-org-997ded8f",
@@ -189,7 +189,7 @@
     {
      "id": "dtic-ada412977",
      "locator": null,
-     "title": "DTIC ADA412977"
+     "title": "Exiled Brain Surgeon (DTIC ADA412977)"
     },
     {
      "id": "u-archive-org-997ded8f",
@@ -214,7 +214,7 @@
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     }
    ],
    "text": "Classification runs by category, and publication is the exception. Section 10(b)(1): restricted data 'means all data concerning the manufacture or utilization of atomic weapons, the production of fissionable material, or the use of fissionable material in the production of power, but shall not include any data which the Commission from time to time determines may be published without adversely affecting the common defense and security.' Section 10(a) makes it 'the policy of the Commission to control the dissemination of restricted data in such a manner as to assure the common defense and security.'",
@@ -234,7 +234,7 @@
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     }
    ],
    "text": "The military keeps a standing claim over the control of weapons information, with an appeal that ends at the President. Section 2(c) directs that the Commission 'shall advise and consult with the Committee on all atomic energy matters which the Committee deems to relate to military applications, including the development, manufacture, use, and storage of bombs, the allocation of fissionable material for military research, and the control of information relating to the manufacture or utilization of atomic weapons', and provides that where either Secretary concurs in a Military Liaison Committee objection he 'may refer the matter to the President, whose decision shall be final.'",
@@ -275,7 +275,13 @@
     "text": "AARO Aluminum Materials Analysis Supplement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-ornl-materials-analyses",
+     "locator": null,
+     "title": "AARO / Oak Ridge National Laboratory materials analyses"
+    }
+   ],
    "text": "AARO's January 2026 aluminium materials analysis was performed by Oak Ridge National Laboratory under contract to AARO beginning in 2024.",
    "tier": 1
   },
@@ -352,7 +358,7 @@
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     }
    ],
    "text": "The Commission took statutory custody of the Manhattan Engineer District's holdings. Section 9(a) directs the transfer to the Commission of 'All fissionable material; all atomic weapons and parts thereof' and of 'Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine.'",
@@ -460,7 +466,7 @@
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     }
    ],
    "text": "The penalty reaches concealment and destruction, not only disclosure, and it is capital. Section 10(b)(4) provides that whoever 'removes, conceals, tampers with, alters, mutilates, or destroys' a document incorporating restricted data with intent to injure the United States 'shall be punished by death or imprisonment for life (but the penalty of death or imprisonment for life may be imposed only upon recommendation of the jury and only in cases where the offense was committed with intent to injure the United States); or by a fine of not more than $20,000 or imprisonment for not more than twenty years, or both.'",
@@ -480,12 +486,12 @@
     {
      "id": "cia-rdp85b00803r000200050003-5",
      "locator": "declassified in part 8 July 2013",
-     "title": "CIA-RDP85B00803R000200050003-5"
+     "title": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5"
     },
     {
      "id": "cia-rdp85b00803r000200050003-5",
      "locator": null,
-     "title": "CIA-RDP85B00803R000200050003-5"
+     "title": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5"
     }
    ],
    "text": "The CIA's own declassified chronology dates the appointment and its confirmation: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' The entry sits under the volume's period heading for January 1961.",
@@ -501,7 +507,13 @@
     "text": "NNSA, About NNSA",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-energy-gov-3c52f884",
+     "locator": null,
+     "title": "NNSA - About NNSA"
+    }
+   ],
    "text": "DOE's National Nuclear Security Administration was 'Established by Congress in 2000' as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
    "tier": 1
   },
@@ -515,7 +527,13 @@
     "text": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991, captions read via YouTube video kc10m6HFbDE at 1:41, 1:54, 2:19, 24:24 and 28:01, opened 2026-09-18",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-lazar-tape-1991",
+     "locator": "YouTube video kc10m6HFbDE at 1:41, 1:54, 2:19, 24:24 and 28:01, opened 2026-09-18",
+     "title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
+    }
+   ],
    "text": "In his own narration on the 1991 videotape he states the shape of the claim: that he held 'secret and Above Top Secret security clearances of which the most easily verifiable is my early 1980s job here at the Los Alamos Ma[e]son physics facility'; that 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; that 'for the duration of my employment at S4 I was paid by the United States Navy'; that 'the S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; and that he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
    "tier": 2
   },
@@ -543,7 +561,13 @@
     "text": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-youtube-com-080bfafb",
+     "locator": null,
+     "title": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1"
+    }
+   ],
    "text": "A centralized UFO recovery and exploitation effort was founded in 1947 with a security apparatus taken directly from the Manhattan Project and the Atomic Energy Commission.",
    "tier": 2
   },
@@ -557,7 +581,13 @@
     "text": "Defense News, 11 April 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-defensenews-com-1d464610",
+     "locator": null,
+     "title": "Defense News, 11 April 2019"
+    }
+   ],
    "text": "The Pentagon confirmed in April 2019 that it was ending the JASON advisory contract, which was managed by MITRE and run through the Office of the Under Secretary of Defense for Research and Engineering.",
    "tier": 1
   },
@@ -613,9 +643,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "The dual-use complication this domain already records is visible inside the Malmstrom material itself. After the Echo Flight shutdown the Air Force ran electromagnetic pulse test programmes at F. E. Warren AFB on Delta Flight and at the 564th Strategic Missile Squadron, and turned Sierra 39 over to Boeing for EMP testing from 28 September 1967 to about mid-January 1968. The same installations that generate the sighting reports are the installations where the most exotic electromagnetic testing was being done, and the board should hold both facts at once.",
@@ -670,7 +700,13 @@
     "text": "CNN coverage, National Press Club, 27 September 2010",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archive-org-954e5938",
+     "locator": null,
+     "title": "CNN coverage, National Press Club, 27 September 2010"
+    }
+   ],
    "text": "Robert Salas and other former missile officers stated publicly at a National Press Club event on 27 September 2010 that UFOs were observed in connection with nuclear missile disruptions.",
    "tier": 2
   },
@@ -720,9 +756,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c155e3cf",
+     "id": "n-lazar-tape-1991",
      "locator": null,
-     "title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE"
+     "title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
     }
    ],
    "text": "WHAT LAZAR CLAIMED, in his own 1991 narration. That stable superheavy elements exist 'in the 114 115 range which don't appear on a periodic chart' and that 'Beyond Element 115 the elements become unstable again and in fact element 116 decays in fractions of a second'. That 'the power source is a reactor which uses this element 115 as its fuel', with 115 'used as a Target and is bombarded with protons', a proton entering a 115 nucleus producing 'an atom of element 116 which remember decays instantly', radiating antimatter which is then annihilated for power. That 'only 223 grams of 115 which is just under half a pound can be utilized for a period of 20 to 30 years', that 'element 115's melting point is 1740 degrees Celsius', and that 'the element 115 is machined into triangles like this and is then inserted into the reactor'. Auto-generated captions at 18:42, 19:01, 23:31 and 25:34, so wording is approximate.",
@@ -741,13 +777,8 @@
    "sourceRefs": [
     {
      "id": "eo-10501",
-     "locator": "sec. 1",
-     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
-    },
-    {
-     "id": "u-irp-fas-org-0f23d75e",
      "locator": null,
-     "title": "EO 10501 sec. 13"
+     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
     }
    ],
    "text": "Section 1 fixes exactly three categories, Top Secret, Secret and Confidential, and bars any other designation for defense information 'except as expressly provided by statute.'",
@@ -805,9 +836,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-nicap-org-93d7f00d",
+     "id": "n-doc-nmcc-loring-1975",
      "locator": null,
-     "title": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026"
+     "title": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975"
     }
    ],
    "text": "THE 1975 SEQUENCE IS A NUCLEAR SECURITY RECORD BEFORE IT IS A UFO RECORD, AND THE DOCUMENTS SAY SO IN THEIR OWN WORDS. The National Military Command Center's subject line is 'AFB Penetration'. The Loring traffic says 'unidentified helicopter' throughout and never says UFO. The reporting runs to the Joint Staff, the service chiefs, the DIA, NSA and CIA representatives, the Army Staff Director of Operations and the State Department's Canadian desk. That is what gives this domain its weight: the correlation is visible in operational paper produced by people who were not thinking about the subject this board is about.",
@@ -841,7 +872,7 @@
     {
      "id": "dtic-ada412977",
      "locator": null,
-     "title": "DTIC ADA412977"
+     "title": "Exiled Brain Surgeon (DTIC ADA412977)"
     },
     {
      "id": "u-archive-org-997ded8f",
@@ -866,12 +897,12 @@
     {
      "id": "cia-rdp80b01676r002800020014-7",
      "locator": "20 March 1963",
-     "title": "CIA-RDP80B01676R002800020014-7"
+     "title": "Letter to John A. McCone from Glenn T. Seaborg, CIA-RDP80B01676R002800020014-7"
     },
     {
      "id": "cia-rdp80b01676r002800020014-7",
      "locator": null,
-     "title": "CIA-RDP80B01676R002800020014-7"
+     "title": "Letter to John A. McCone from Glenn T. Seaborg, CIA-RDP80B01676R002800020014-7"
     }
    ],
    "text": "He is in the office on Commission letterhead in 1963, writing to the man he succeeded at the AEC, now at CIA: 'It is with pleasure that I forward to you a copy of the Commission's Annual Report to Congress for 1962', signed 'Glenn T. Seaborg, Chairman', addressed to 'Honorable John A. McCone, Director, Central Intelligence Agency'.",
@@ -946,7 +977,13 @@
     "text": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-youtube-com-080bfafb",
+     "locator": null,
+     "title": "UAP Gerb - 'The Manhattan Project 2.0' Vol.1"
+    }
+   ],
    "text": "Truman and Eisenhower vested custody of NHI disks within AEC national laboratories, established the control group under the NSC and its 5412 Committee, and safeguarded the programs under the Atomic Energy Act of 1954.",
    "tier": 2
   },
@@ -984,12 +1021,12 @@
     {
      "id": "cia-rdp85b00803r000200050003-5",
      "locator": "declassified in part 8 July 2013",
-     "title": "CIA-RDP85B00803R000200050003-5"
+     "title": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5"
     },
     {
      "id": "cia-rdp85b00803r000200050003-5",
      "locator": null,
-     "title": "CIA-RDP85B00803R000200050003-5"
+     "title": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5"
     }
    ],
    "text": "The Commission gains its first named chairman on this board. The CIA's own declassified chronology records under January 1961: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' McCone went from the Commission to the Directorship of Central Intelligence, and two years later Seaborg was writing to him there on Commission letterhead. No end to the chairmanship is established by any record opened for this pass.",
@@ -1027,9 +1064,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c155e3cf",
+     "id": "n-lazar-tape-1991",
      "locator": null,
-     "title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE"
+     "title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
     }
    ],
    "text": "Bob Lazar claims Teller as his route into the classified work, in his own 1991 narration: 'while working at Los Alamos National Lab in 1982 the local newspaper did a front page story on a jet car [I'd] built coincidentally Dr Teller was giving a speech in Los Alamos that same day we met and had a short chat'. He says he later wrote to Teller and 'inquired about a job', and that 'Dr Teller responded by telephone and told me that it was no longer active but' referred him on. He adds that he never asked Teller whether he remembered him. The claim is uncorroborated by any opened record and its internal dating conflicts with the newspaper's own date of 27 June 1982, Teller's Los Alamos lecture falling on the following day per Mahood. Carried at Tier 3 and asserting only what Lazar said.",
@@ -1045,7 +1082,13 @@
     "text": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 1:08:45",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-06f34ffd",
+     "locator": "1:08:45",
+     "title": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)' (audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 23 April 2025, at 1:08:45, Michels said that a Freedom of Information Act request was sent to the National Nuclear Security Administration for all records that 'mention or relate to' Starfish Prime together with UFO, AP, UAV, AAV or any acronym used by the Atomic Energy Commission at the time for unidentified flying objects, and that the NNSA reply of June 2022 reads 'it was determined that an additional review of your case by the subject matter expert with jurisdiction regarding responsive records was required'. The response letter itself was not opened from this environment and no case number is given on air.",
    "tier": 2
   },
@@ -1097,12 +1140,12 @@
     {
      "id": "stat-68-919",
      "locator": null,
-     "title": "68 Stat. 919"
+     "title": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
     },
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     }
    ],
    "text": "WHAT CHANGED FROM 1946, FROM THE TWO TEXTS SIDE BY SIDE. The 1946 Act defined 'restricted data' only 'as used in this section', at section 10; the 1954 Act makes 'Restricted Data' a capitalised, Act-wide definition in the definitions chapter. 1954 ADDS the word 'design'. 'Fissionable material' and 'production of power' become 'special nuclear material' and 'production of energy'. And the 1946 carve-out was open-ended Commission discretion, where 1954 ties removal to a formal declassification procedure at section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
@@ -1167,7 +1210,7 @@
     {
      "id": "stat-68-919",
      "locator": null,
-     "title": "68 Stat. 919"
+     "title": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
     }
    ],
    "text": "THE PHRASE 'BORN CLASSIFIED' APPEARS NOWHERE IN THE ACT. A text search returns zero occurrences, and there is no express automatic-classification clause. The doctrine is an inference from the breadth of the section 11 r. definition taken together with the criminal provisions at sections 224 to 227, and it should be written as the inference it is rather than as statutory language.",
@@ -1187,7 +1230,7 @@
     {
      "id": "dtic-ada412977",
      "locator": null,
-     "title": "DTIC ADA412977"
+     "title": "Exiled Brain Surgeon (DTIC ADA412977)"
     },
     {
      "id": "u-archive-org-997ded8f",
@@ -1228,7 +1271,13 @@
     "text": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-lanl-gov-b738e76f",
+     "locator": null,
+     "title": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center"
+    }
+   ],
    "text": "LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes.",
    "tier": 1
   },
@@ -1246,7 +1295,7 @@
     {
      "id": "chrg-110shrg41206",
      "locator": null,
-     "title": "CHRG-110shrg41206"
+     "title": "Nomination of Dr. Donald M. Kerr to be Principal Deputy Director of National Intelligence (CHRG-110shrg41206)"
     }
    ],
    "text": "The same hearing records that 'Don began his government career at the Los Alamos National Lab in 1966 and worked his way up through the Lab and the Department of Energy, eventually becoming Director of Los Alamos'. The national-laboratory to black-space progression the board describes is therefore the Senate's own account of him, not an inference.",
@@ -1311,7 +1360,7 @@
     {
      "id": "chrg-110shrg41206",
      "locator": null,
-     "title": "CHRG-110shrg41206"
+     "title": "Nomination of Dr. Donald M. Kerr to be Principal Deputy Director of National Intelligence (CHRG-110shrg41206)"
     }
    ],
    "text": "Kerr's career is recited on the record at his own confirmation hearing before the Senate Select Committee on Intelligence on 1 August 2007: 'Deputy Assistant Secretary for Defense Programs at the Department of Energy. Federal Bureau of Investigation's Assistant Director in Charge, Laboratory Division. Deputy Director for Science and Technology at the Central Intelligence Agency. Director of the National Reconnaissance Office, where he currently serves.'",
@@ -1390,7 +1439,7 @@
     {
      "id": "dtic-ada412977",
      "locator": null,
-     "title": "DTIC ADA412977"
+     "title": "Exiled Brain Surgeon (DTIC ADA412977)"
     },
     {
      "id": "u-archive-org-997ded8f",
@@ -1420,7 +1469,7 @@
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     }
    ],
    "text": "The Commission was created by statute: 'There is hereby established an Atomic Energy Commission (herein called the Commission), which shall be composed of five members.' Members are appointed by the President by and with the advice and consent of the Senate.",
@@ -1440,7 +1489,7 @@
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     }
    ],
    "text": "The FBI is both the gate and the investigator. Section 10(b)(5)(B)(i) bars any arrangement, contract or licence unless the contractor 'agrees in writing not to permit any individual to have access to restricted data until the Federal Bureau of Investigation shall have made an investigation and report to the Commission on the character, associations, and loyalty of such individual.' Section 10(b)(5)(C): 'All violations of this Act shall be investigated by the Federal Bureau of Investigation of the Department of Justice.'",
@@ -1460,7 +1509,7 @@
     {
      "id": "stat-60-755",
      "locator": null,
-     "title": "60 Stat. 755"
+     "title": "Atomic Energy Act of 1946 (McMahon Act)"
     },
     {
      "id": "pl-83-703",
@@ -1470,7 +1519,7 @@
     {
      "id": "stat-68-919",
      "locator": null,
-     "title": "68 Stat. 919"
+     "title": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
     }
    ],
    "text": "A Division of Military Application under a serving officer was in the Commission from the start: the 1946 Act establishes it alongside Research, Production and Engineering and provides that 'The Director of the Division of Military Application shall be a member of the armed forces.' The 1954 Act carries it forward at section 25 with the Director required to be 'an active member of the Armed Forces.'",
@@ -1489,13 +1538,8 @@
    "sourceRefs": [
     {
      "id": "eo-10501",
-     "locator": "sec. 13",
-     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
-    },
-    {
-     "id": "u-irp-fas-org-0f23d75e",
      "locator": null,
-     "title": "EO 10501 sec. 13"
+     "title": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)"
     }
    ],
    "text": "THE JOIN TO THE NUCLEAR REGIME. Section 13 expressly leaves Atomic Energy Act Restricted Data outside the order's reach. The executive classification system and the statutory Restricted Data system are two systems, and the executive one says so.",

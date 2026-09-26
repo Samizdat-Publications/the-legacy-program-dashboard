@@ -26,15 +26,21 @@
 "sources": [],
 "text": "Rob Jones is credited as Research Producer on NewsNation's Reality Check.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:newsnationnow.com/podcasts-newsnation/reality-check) was rejected in review: show index page, not the 4 August 2026 episode"
 },
 {
 "id": "c-db48926174",
 "source": "UAP Gerb livestream description, 12 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-youtube-com-4b244673",
+"locator": null,
+"title": "UAP Gerb Live - 12 May 2026"
+}
+],
 "text": "Jones surfaced 'details on a new alleged gatekeeper' which UAP Gerb discussed on his 12 May 2026 livestream.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

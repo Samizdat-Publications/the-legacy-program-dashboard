@@ -7,10 +7,16 @@
 {
 "id": "c-6ea53c64b3",
 "source": "Packet presented to DEPSECDEF, 17 November 2009",
-"sources": [],
+"sources": [
+{
+"id": "n-depsecdef-sap-packet-2009",
+"locator": null,
+"title": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request"
+}
+],
 "text": "USD(I) James Clapper recommended against establishing a Special Access Program for the program in November 2009.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8e70eb29fa",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "DoD states 'Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-n) was rejected in review: names no outlet; statement not tied to this Black Vault page"
 },
 {
 "id": "c-ded8b88a4c",
@@ -48,7 +54,7 @@
 "sources": [],
 "text": "OUSD(I) officials coordinated public messaging on Elizondo and AATIP in May 2019, with an internal warning that 'the Department may be putting itself in an awkward position of both contradicting previous statements' and a directive that 'we will have to keep our messages in synch.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:foia-21-f-0938) was rejected in review: generic DoD emails; not shown to be FOIA 21-F-0938"
 }
 ],
 "cls": "institution",
@@ -459,7 +465,7 @@
 ],
 "sub": "OSD staff element with authority over defence intelligence programs",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 203 of 1138, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 202 of 1138, score 45). 7 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A3/D2.",
 "timeline": [],
 "unverified": []
 }

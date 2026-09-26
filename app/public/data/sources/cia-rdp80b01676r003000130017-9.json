@@ -44,16 +44,6 @@
 {
 "cls": "person",
 "id": "c-764e2150ba",
-"locator": "read against the FBI quotation already on the board",
-"node": "arthur-g-trudeau",
-"nodeLabel": "Lt. Gen. Arthur G. Trudeau",
-"sourceText": "Inference from CIA-RDP80B01676R003000130017-9 read against the FBI quotation already on the board, https://archive.org/details/cia-readingroom-document-cia-rdp80b01676r003000130017-9",
-"text": "The 'Gen. Arthur S. Trudeau' named in the 1955 FBI material quoted in philip-corso.narrative is most probably this officer. Reasoning: the two primary letters opened here give the middle initial G over his own signature, and no second Army general officer of that surname was found. The discrepancy is unresolved and no record opened here reconciles it.",
-"tier": 3
-},
-{
-"cls": "person",
-"id": "c-764e2150ba",
 "locator": null,
 "node": "arthur-g-trudeau",
 "nodeLabel": "Lt. Gen. Arthur G. Trudeau",
@@ -131,7 +121,7 @@
 }
 ],
 "node": null,
-"title": "CIA-RDP80B01676R003000130017-9",
+"title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962",
 "topics": [
 {
 "claims": [
@@ -139,7 +129,6 @@
 "c-69baecfb28",
 "c-f889805def",
 "c-f889805def",
-"c-764e2150ba",
 "c-764e2150ba"
 ],
 "id": "corso-day-after",

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-88350e5df7",
+"locator": null,
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"sourceText": "Al Jazeera, 20 February 2026",
+"text": "Rep. Anna Paulina Luna publicly thanked the President as chair of the task force that investigates the subject; Sen. John Fetterman called the decision fantastic.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

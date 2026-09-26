@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-11090d2b01",
+"locator": "4 March 2015",
+"node": "project-moon-dust",
+"nodeLabel": "Project MOON DUST",
+"sourceText": "The Black Vault, Project Moon Dust document archive, 4 Mar 2015",
+"text": "Department of State records on Project MOON DUST have been released under FOIA, including a 22-page file and a two-page file declassified by the Central Intelligence Agency.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -91,7 +102,22 @@
 ],
 "node": null,
 "title": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-11090d2b01"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-11090d2b01"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.theblackvault.com/documentarchive/project-moon-dust/"

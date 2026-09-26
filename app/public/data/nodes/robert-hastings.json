@@ -37,7 +37,7 @@
 "sources": [],
 "text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated) was rejected in review: names two episodes; candidate is one"
 },
 {
 "id": "c-cc947e22b4",
@@ -60,12 +60,12 @@
 {
 "id": "u-ufohastings-com-c80b0c86",
 "locator": null,
-"title": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', his own account of the 27 September 2010 National Press Club event, with the roster, units and affidavit list. Opened 19 September 2026"
+"title": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
 },
 {
 "id": "u-ufohastings-com-2cec562c",
 "locator": null,
-"title": "UFOs & Nukes, 'About', Robert Hastings's own biographical page. Opened 19 September 2026"
+"title": "https://ufohastings.com/about"
 }
 ],
 "text": "THE COUNT IS NOT STABLE ON HIS OWN SITE. His press-conference article states 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' His biographical page, opened the same day, states 'To date, Hastings has interviewed more than 150 military veterans.' The board records both figures with their pages rather than a round number, because the count is itself the principal evidence for the scale of the claim.",
@@ -93,19 +93,19 @@
 "source": "341st SMW histories, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf ; 24th NORAD Region log, https://archive.org/download/MalmstromAirForceBaseIncident/Malmstrom%20Air%20Force%20Base%20Incident%20%E2%80%93%20March%2016,%201967%20NORAD%20logs_djvu.txt ; F. E. Warren 1965 Blue Book log, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ ; all opened 2026-09-19",
 "sources": [
 {
-"id": "u-documents-theblackvault--8e6b0d44",
+"id": "n-doc-341-smw-history-1967",
 "locator": null,
-"title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+"title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
 },
 {
 "id": "u-archive-org-8805ff8f",
 "locator": null,
-"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation; OCR text at archive.org. Opened 19 September 2026"
+"title": "24th NORAD Region Senior Directors Log, Malmstrom AFB, Montana, entries 7 to 19 November 1975, released over the signature of Terrence C. James, Colonel, USAF, Director of Administration, page-stamped 450 to 452 of a larger FOIA compilation"
 },
 {
 "id": "u-rr0-org-e4ade8f3",
 "locator": null,
-"title": "rr0.org mirror of Robert Hastings's F. E. Warren AFB 1965 material, reproducing the Project Blue Book telephone log of 1 August 1965 kept by Lt. Anspaugh and first published by J. Allen Hynek in 'The UFO Experience' (1972). Opened 19 September 2026"
+"title": "%201967%20NORAD%20logs_djvu.txt"
 }
 ],
 "text": "THE COUNTERWEIGHT, ON THE SAME NODE. His method is not testimony alone, and the documentary half of his output is checkable and largely checks out. This board independently opened and read in full the 341st Strategic Missile Wing histories he relies on, the 24th NORAD Region Senior Director's Log for November 1975 that he republishes, and the F. E. Warren AFB Project Blue Book telephone log of 1 August 1965 first published by J. Allen Hynek in 1972. All three are real, and say what he says they say. The board grades the document half and the interview half of his output differently inside the same node.",
@@ -119,7 +119,7 @@
 {
 "id": "u-ufohastings-com-30d064f4",
 "locator": null,
-"title": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026"
+"title": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
 }
 ],
 "text": "It is Hastings, not a sceptic, who separated the two March 1967 events. He dates Echo Flight to 16 March 1967 and Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. That separation is what allows the Oscar Flight claim to survive the unit history's silence, and it was produced by the same interviewer whose interviews are the only source for it.",
@@ -129,10 +129,16 @@
 {
 "id": "c-6a82f2733a",
 "source": "ufohastings.com document archive, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-ufohastings-com-1ca28766",
+"locator": null,
+"title": "UFOs & Nukes document archive"
+}
+],
 "text": "Hastings publishes the primary documents underlying his cases, including FBI memoranda on Los Alamos (December 1948) and Los Alamos/Sandia (August 1950), F. E. Warren AFB documents of 1 August 1965, Minot AFB documents of 25 August 1966 and 6 December 1966, an Air Force teletype of 17 March 1967 headed loss of strategic alert, and 1975 Malmstrom material.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f75eefd975",
@@ -140,7 +146,7 @@
 "sources": [],
 "text": "On 27 September 2010 Hastings convened seven US Air Force veterans at the National Press Club to describe UFO incursions at nuclear weapons sites; CNN carried the event.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases) was rejected in review: names two sources; ufohastings.com is not the candidate"
 },
 {
 "id": "c-b9fd9a3683",
@@ -148,7 +154,7 @@
 "sources": [],
 "text": "Hastings holds signed witness affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson, published in facsimile.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufohastings.com/documents) was rejected in review: cannot tell the Affidavits section is the documents page"
 },
 {
 "id": "c-73c2938936",
@@ -156,7 +162,7 @@
 "sources": [],
 "text": "Hastings states he has interviewed more than 150 military veterans about UFO-related incidents at US missile sites, weapons storage facilities and nuclear test ranges.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Names website and a separate book jointly; two distinct sources."
 }
 ],
 "cls": "person",

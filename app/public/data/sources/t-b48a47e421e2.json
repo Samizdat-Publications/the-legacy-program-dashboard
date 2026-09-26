@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5a1f5cb869",
+"locator": null,
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "Tim Gallaudet to DefenseScoop, 14 May 2026",
+"text": "'The fact that this was the first time that an administration openly admitted that UAP files have been shielded from the public was promising. However, the ambiguity of the video content in particular is concerning as no metadata was included.'",
+"tier": 2
+}
+],
+"date": "2026-05-14",
+"edges": [],
+"era": "3",
+"id": "t-b48a47e421e2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [],
+"node": null,
+"title": "Tim Gallaudet to DefenseScoop, 14 May 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

@@ -7,18 +7,30 @@
 {
 "id": "c-d0b3b0a09b",
 "source": "Newstalk KZRG, 23 July 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-newstalkkzrg-com-4fd1da4b",
+"locator": null,
+"title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure"
+}
+],
 "text": "The House adopted Burlison's UAP records disclosure amendment as part of the FY2027 National Defense Authorization Act in July 2026; it would require agencies to identify, preserve and transfer UAP records to the National Archives on a statutory timeline and establish an independent UAP Records Review Board with Senate-confirmed members and subpoena authority.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c346a7676f",
 "source": "Newstalk KZRG, 23 July 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-newstalkkzrg-com-4fd1da4b",
+"locator": null,
+"title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure"
+}
+],
 "text": "The amendment's disclosure requirements extend to certain government contractors that possess covered records.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-57dc017e28",
@@ -26,7 +38,7 @@
 "sources": [],
 "text": "The revised text was designated Version 2 on 15 July 2026 and made in order by the House Rules Committee.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic 'disclosure advocacy reporting', no specific outlet or article named."
 }
 ],
 "cls": "legislation",

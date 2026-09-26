@@ -6,19 +6,31 @@
 "claims": [
 {
 "id": "c-efbbf52f14",
-"source": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics",
-"sources": [],
+"source": "AARO, Historical Record Report Volume I, March 2024, Section on classified aeronautics - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "Section on classified aeronautics",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "Lockheed Martin's Advanced Development Program organisation, also known as Skunk Works, developed the RQ-170 Sentinel and the DarkStar; AARO cites these programs as sources of UAP misidentification.",
-"tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"tier": 2,
+"unresolved": null
 },
 {
 "id": "c-be278e3122",
 "source": "Ben R. Rich and Leo Janos, 'Skunk Works' (1994)",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-b004b0cb",
+"locator": null,
+"title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+}
+],
 "text": "Ben Rich directed the organisation from 1975 to 1991 and published a memoir describing its compartmentation, security and funding practice.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a4d61b0f4a",
@@ -401,7 +413,7 @@
 ],
 "sub": "Unacknowledged-program aeronautics organisation, Burbank then Palmdale",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 196 of 1138, score 46). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 213 of 1138, score 45). 9 connections, 3 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [],
 "unverified": []
 }

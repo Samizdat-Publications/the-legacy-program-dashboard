@@ -38,7 +38,13 @@
     "text": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:26:45 to 0:29:24, mapped at research/leads/dannyjones-corpus-20.md",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-175dc4f8f6d3",
+     "locator": "0:26:45 to 0:29:24",
+     "title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 0:29:24, the guest who identifies himself only as UAP Gerb said the Hughes Glomar Explorer was later leased to Lockheed Martin for deep-sea mining for twenty years. The released history contradicts that in three particulars: it names Lockheed as one member of a four-company private consortium readying the ship for deep-ocean mining operations to begin late in the fall of 1978, it says nothing about a lease or a term, and Lockheed Martin did not exist under that name until 1995. At 0:26:45 to 0:29:24 the same speaker treated the Glomar Explorer and a National Underwater Reconnaissance Office as one undersea programme; NURO appears nowhere in the fifty pages.",
    "tier": 2
   },
@@ -86,7 +92,13 @@
     "text": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-nytimes-com-b748f28f",
+     "locator": "quoting Davis on the record",
+     "title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+    }
+   ],
    "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
    "tier": 2
   },
@@ -100,7 +112,13 @@
     "text": "Letter from Puthoff reported by M.J. Banias, Vice, 14 November 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-vice-com-4fefcf63",
+     "locator": null,
+     "title": "M.J. Banias, 'UFO Researcher Explains Why She Sold Exotic Metal to Tom DeLonge', Vice"
+    }
+   ],
    "text": "Puthoff wrote in 2012 that testing of the Linda Moulton Howe metal samples had not proved alien origin nor produced any 'interesting/anomalous outcome', but that one further test requiring unavailable equipment remained.",
    "tier": 2
   },
@@ -114,7 +132,13 @@
     "text": "DefenseScoop, 17 June 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-50fc68fe",
+     "locator": null,
+     "title": "DefenseScoop, UAP Science Advisory Council"
+    }
+   ],
    "text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW.",
    "tier": 1
   },
@@ -128,7 +152,13 @@
     "text": "Eric W. Davis quoted in The New York Times, 23 July 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-nytimes-com-b748f28f",
+     "locator": "quote from Eric W. Davis",
+     "title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+    }
+   ],
    "text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
    "tier": 2
   },
@@ -142,7 +172,13 @@
     "text": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2021.100788",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-paper-nolan-vallee-2022",
+     "locator": null,
+     "title": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
    "text": "Nolan is senior author of 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics', Progress in Aerospace Sciences 128 (2022) 100788, with Jacques F. Vallee, Sizun Jiang and Larry G. Lemke.",
    "tier": 1
   },
@@ -170,7 +206,13 @@
     "text": "AARO Aluminum Materials Analysis Supplement, document 26-P-0218",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-ornl-materials-analyses",
+     "locator": "doc ref 26-P-0218",
+     "title": "AARO / Oak Ridge National Laboratory materials analyses"
+    }
+   ],
    "text": "AARO's January 2026 Aluminum Materials Analysis Supplement reports that Oak Ridge National Laboratory analysis of a specimen recovered near Flint Ridge, Ohio found it consistent with conventional aluminium-silicon casting alloys, with no radioactive emissions detected.",
    "tier": 1
   },
@@ -184,7 +226,13 @@
     "text": "DoD OIG DODIG-2023-109",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dodig-2023-109",
+     "locator": null,
+     "title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+    }
+   ],
    "text": "The DoD Inspector General's DODIG-2023-109 evaluation of DoD actions regarding UAP was initiated following personnel complaints and released in unclassified summary on 25 January 2024.",
    "tier": 1
   },
@@ -198,7 +246,13 @@
     "text": "House Oversight Committee hearing, 26 July 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+    }
+   ],
    "text": "David Grusch testified under oath on 26 July 2023 that a multi-decade reverse-engineering programme exists and that he referred named witnesses to the ICIG and to Congress.",
    "tier": 2
   },
@@ -212,7 +266,13 @@
     "text": "AARO Historical Record Report Volume I, March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO confirms that the private organisation owning the alleged crash material 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples.'",
    "tier": 1
   },
@@ -283,7 +343,7 @@
    "sourceRefs": [
     {
      "id": "gao-nsiad-95-187",
-     "locator": "record search",
+     "locator": null,
      "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
     }
    ],
@@ -334,7 +394,13 @@
     "text": "AARO Historical Record Report Volume I",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's Volume I historical record report (February 2024) states it found no empirical evidence for claims of USG or private-company reverse engineering of extraterrestrial technology, and describes its interview and programme-review methodology in Sections V and VI.",
    "tier": 1
   },
@@ -350,9 +416,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c155e3cf",
+     "id": "n-lazar-tape-1991",
      "locator": null,
-     "title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE"
+     "title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
     }
    ],
    "text": "THE CLAIM, in the claimant's own narration on the 1991 videotape: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada', 'approximately 15 miles south of the infamous Area 51 installation at Groom Lake'; 'The S4 installation is built into the mountain and the nine Hangar doors are angled at about 60 degrees'; he was bussed there from near 'the gro[o]m mountains in the groom[ ]dry lake bed from Area 51... to an even more highly secure' site; and he had 'at least partial views of nine different discs out at area S4'. Auto-generated captions, so wording is approximate.",
@@ -416,7 +482,13 @@
     "text": "American Alchemy - Jake Barber interview, 30 January 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-youtube-com-3ecc3908",
+     "locator": null,
+     "title": "American Alchemy - Jake Barber interview"
+    }
+   ],
    "text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
    "tier": 2
   },
@@ -430,7 +502,13 @@
     "text": "Garry Nolan to Jon Brooks, KQED, 14 June 2021",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-kqed-org-e3d1cf60",
+     "locator": null,
+     "title": "Jon Brooks, 'UFOs: SETI Astronomer, Stanford Researcher, Aerospace Expert Weigh In', KQED"
+    }
+   ],
    "text": "Nolan says he was approached by 'some people representing the government and an aerospace corporation' to help them understand medical harm to individuals from 'supposed interactions with an anomalous craft'.",
    "tier": 2
   },
@@ -474,9 +552,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "HIS OWN CONCLUSION, verbatim: 'One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments. Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
@@ -506,7 +584,13 @@
     "text": "AARO Historical Record Report Volume I",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's Volume I report (February 2024) states that it found no empirical evidence for reverse engineering of extraterrestrial technology by the USG or private companies.",
    "tier": 1
   },
@@ -520,7 +604,13 @@
     "text": "NASA UAP Independent Study Team Final Report, 14 September 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-science-nasa-gov-44f5288a",
+     "locator": null,
+     "title": "NASA UAP Independent Study Team Final Report (PDF)"
+    }
+   ],
    "text": "The report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data characterises many unexplained events, recommending a rigorous evidence-based approach using AI and citizen observers.",
    "tier": 1
   },
@@ -568,7 +658,13 @@
     "text": "Collin Binkley, Associated Press, 30 June 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ba1889a7ee52",
+     "locator": null,
+     "title": "Associated Press"
+    }
+   ],
    "text": "The council has no budget and no access to classified material.",
    "tier": 2
   },
@@ -624,7 +720,13 @@
     "text": "The Sol Foundation Science and Policy Briefings No. 3, April 2026, summarising the Nolan/Vallee paper",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "summarising the Nolan/Vallee paper",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "The Council Bluffs analysis found no anomalous isotopic values but incomplete mixing of the constituent metals, indicating an industrial process of unknown origin, and ruled out meteorite, satellite/spacecraft, aircraft-debris, molten-metal-dumping and thermite explanations.",
    "tier": 1
   },
@@ -638,7 +740,13 @@
     "text": "AARO Historical Record Report, Volume I, February 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO concluded the Roswell materials 'were consistent with a balloon of the type used in the then-classified Project Mogul' and that there is 'no evidence that the USG recovered aliens or extraterrestrial material'.",
    "tier": 1
   },
@@ -686,7 +794,13 @@
     "text": "Nolan at SALT iConnections, reported by the New York Post, 23 May 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-nypost-com-8cae5f0b",
+     "locator": null,
+     "title": "Isabel Keane, 'Stanford prof Garry Nolan says aliens are 100% living among us', New York Post"
+    }
+   ],
    "text": "Nolan stated in May 2023 that some governments have retrieved artefacts from extraterrestrial craft and gave '100 percent' probability to long-term extraterrestrial visitation.",
    "tier": 2
   },

@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-416d77d07d",
+"locator": null,
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"sourceText": "Pentagon press remarks, August 2024, as recorded by Douglas Dean Johnson",
+"text": "In August 2024 Pentagon spokesman Maj. Gen. Pat Ryder said officials continued the review but had nothing to announce on timing.",
+"tier": 2
+}
+],
+"date": "2024-08",
+"edges": [],
+"era": "3",
+"id": "t-ad33615322c5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Douglas Dean Johnson",
+"listedOn": [],
+"node": null,
+"title": "Pentagon press remarks, August 2024, as recorded by Douglas Dean Johnson",
+"topics": [
+{
+"claims": [
+"c-416d77d07d"
+],
+"id": "aaro-historical-record",
+"title": "AARO's historical record reports and their critics"
+}
+],
+"type": "article",
+"urls": []
+}

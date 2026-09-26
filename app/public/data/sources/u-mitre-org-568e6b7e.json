@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b3951ac80d",
+"locator": null,
+"node": "dana-keoki-jackson",
+"nodeLabel": "Dana (Keoki) Jackson",
+"sourceText": "MITRE - Our Leadership page, accessed 12 August 2026",
+"text": "Jackson is Senior Vice President and General Manager of MITRE National Security, the unit encompassing MITRE's defense and intelligence work.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -57,7 +68,15 @@
 ],
 "node": null,
 "title": "MITRE - Our Leadership",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-b3951ac80d"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.mitre.org/who-we-are/our-people/our-leadership"

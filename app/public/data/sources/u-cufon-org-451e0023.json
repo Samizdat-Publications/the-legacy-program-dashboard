@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20250117180016/https://www.cufon.org/cufon/cia-52-1.htm"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9076a734d9",
+"locator": "11 Sept 1952 memo, 'Flying Saucers'",
+"node": "h-marshall-chadwell",
+"nodeLabel": "H. Marshall Chadwell",
+"sourceText": "Chadwell memorandum to Director of Central Intelligence, subject: Flying Saucers, 11 Sep 1952 (declassified CIA document sampler)",
+"text": "Chadwell wrote to the DCI on 11 September 1952 that 'the flying saucer situation contains two elements of danger which... have national security implications.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -42,7 +53,15 @@
 ],
 "node": null,
 "title": "CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-9076a734d9"
+],
+"id": "robertson-cia-1953",
+"title": "The CIA and the Robertson Panel, 1952-53"
+}
+],
 "type": "web page",
 "urls": []
 }

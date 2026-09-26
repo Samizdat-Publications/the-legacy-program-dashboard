@@ -1,0 +1,38 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b9fc5746cb",
+"locator": null,
+"node": "charles-a-richard",
+"nodeLabel": "Charles A. Richard",
+"sourceText": "NewsNation, 15 May 2026",
+"text": "IDA is among the federally funded research organisations named in public reporting on the congressional UAP contractor inquiry, alongside MIT Lincoln Laboratory, MITRE, RAND, the Aerospace Corporation, JPL and Sandia.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-3bbf7cbfad",
+"locator": null,
+"node": "ida",
+"nodeLabel": "Institute for Defense Analyses",
+"sourceText": "NewsNation, 15 May 2026",
+"text": "IDA is named among the FFRDCs implicated in public reporting on the congressional UAP contractor inquiry.",
+"tier": 2
+}
+],
+"date": "2026-05-15",
+"edges": [],
+"era": "3",
+"id": "t-b4cb854ec198",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "NewsNation, 15 May 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

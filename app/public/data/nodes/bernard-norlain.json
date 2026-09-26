@@ -53,18 +53,30 @@
 {
 "id": "c-7e630bff46",
 "source": "COMETA report, preface by General Bernard Norlain, 1999",
-"sources": [],
+"sources": [
+{
+"id": "n-doc-cometa-report",
+"locator": "Norlain preface",
+"title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+}
+],
 "text": "Norlain, preface: 'I express the wish that the recommendations of COMETA, which are inspired by good sense, will be examined and implemented by the authorities of our country.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7b72553d05",
 "source": "COMETA report, Norlain preface, 1999",
-"sources": [],
+"sources": [
+{
+"id": "n-doc-cometa-report",
+"locator": "Norlain preface",
+"title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+}
+],
 "text": "Norlain records that the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

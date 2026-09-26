@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f597dc05f4",
+"locator": "quoting DoW spokesperson Susan Gough",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"sourceText": "Liberation Times, 14 April 2026, quoting DoW spokesperson Susan Gough",
+"text": "Luna demanded more than 46 UAP videos from the Secretary of War by 14 April 2026; the Department stated it would respond directly to the author, and a congressional source said a briefing would be provided in future.",
+"tier": 2
+}
+],
+"date": "2026-04-14",
+"edges": [],
+"era": "3",
+"id": "t-f2dcf7039fa5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Liberation Times",
+"listedOn": [],
+"node": null,
+"title": "Liberation Times, 14 April 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

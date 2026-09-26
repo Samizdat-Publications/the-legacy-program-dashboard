@@ -43,23 +43,35 @@
 "sources": [],
 "text": "Ford, then House Minority Leader, called in late March 1966 for congressional hearings on unidentified flying objects following the Michigan sightings and the swamp gas explanation.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic press reporting reference combined with Condon Report account"
 },
 {
 "id": "c-46d7c5e1e9",
 "source": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
-"sources": [],
+"sources": [
+{
+"id": "t-2638be294176",
+"locator": null,
+"title": "Unidentified Flying Objects', Hearing No. 55, 89th Congress"
+}
+],
 "text": "The House Committee on Armed Services held a hearing on unidentified flying objects on 5 April 1966 (Hearing No. 55, 89th Congress).",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5f2ebb8aa8",
 "source": "'Scientific Study of Unidentified Flying Objects', contract 44620-67-C-0035, University of Colorado, 1968",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-e5f381eb",
+"locator": "contract 44620-67-C-0035 cited in report",
+"title": "Scientific Study of Unidentified Flying Objects (Condon Report)"
+}
+],
 "text": "The Air Force established the University of Colorado study under contract in October 1966, six months after the hearing.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b02e621a69",

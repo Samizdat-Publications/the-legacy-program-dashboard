@@ -8,10 +8,16 @@
 {
 "id": "c-24337b75a9",
 "source": "AARO Historical Record Report Volume I, Section II",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "Section II",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's Volume I historical record report (February 2024) concludes there is 'no empirical evidence' for claims that the USG and private companies have been reverse-engineering extraterrestrial technology.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-272d242095",
@@ -19,15 +25,21 @@
 "sources": [],
 "text": "The existence of the National Reconnaissance Office was classified from its 1961 establishment until its declassification in September 1992, making official denial of its existence the required answer for thirty-one years.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No NRO declassification-history candidate found; FAS IRP candidate found is a budget-data page, not on this topic."
 },
 {
 "id": "c-95d1314e10",
 "source": "Haines, Studies in Intelligence (1997)",
-"sources": [],
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": null,
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "Air Force officers gave explanations to the public they knew to be false in order to protect U-2 and OXCART flight security, per CIA's own in-house history.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

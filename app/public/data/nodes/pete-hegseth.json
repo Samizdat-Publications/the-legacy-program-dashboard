@@ -71,34 +71,58 @@
 {
 "id": "c-6236cb9fdb",
 "source": "war.gov/UFO portal, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "Hegseth's signed statement on the PURSUE portal: the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8e3e0cf993",
 "source": "Hegseth to reporters, reported by DefenseScoop, 25 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-cda2f816",
+"locator": null,
+"title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000"
+}
+],
 "text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8b352e93c0",
 "source": "Department of War news story, 27 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-93310bda244e",
+"locator": null,
+"title": "Department of War news story, 27 February 2026"
+}
+],
 "text": "Asked about extraterrestrial life: 'We'll see... I get to do the review and find out along with you.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2f334000a3",
 "source": "DefenseScoop, 25 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-cda2f816",
+"locator": null,
+"title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000"
+}
+],
 "text": "Hegseth committed the Department to work closely with ODNI to implement the release effort.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-42460c1643",
@@ -106,15 +130,21 @@
 "sources": [],
 "text": "The Department of War hosts the PURSUE declassification programme at war.gov/UFO, with five releases published between 8 May and 7 August 2026.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: node of bundle URLs, not the release index page"
 },
 {
 "id": "c-8c252d135f",
 "source": "war.gov/UFO official page",
-"sources": [],
+"sources": [
+{
+"id": "n-war-gov-ufo-portal",
+"locator": null,
+"title": "war.gov/UFO release portal"
+}
+],
 "text": "Hegseth's published statement is that the Department of War is 'in lockstep with President Trump to bring unprecedented transparency regarding our government's understanding of Unidentified Anomalous Phenomena.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-59c4aea86d",
@@ -122,7 +152,7 @@
 "sources": [],
 "text": "President Trump stated on 19 February 2026 that he would direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:trump-uap-release-directive-2026) was rejected in review: portal page and wire coverage, not the presidential direction itself"
 }
 ],
 "cls": "person",

@@ -12,7 +12,7 @@
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoD Directive 5205.07 sets special access programme policy, categories and approval authority.",
@@ -25,7 +25,7 @@
 "sources": [],
 "text": "Avi Loeb published his own account of agreeing to lead a UAP Science Advisory Council for the US government, dated 1 July 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:avi-loeb.medium.com/why-i-agreed-to-lead-the-uap-science-advisory-council-fo) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-b399524bb1",
@@ -33,7 +33,7 @@
 "sources": [],
 "text": "The Disclosure Foundation announced on 14 June 2026 that advisory board member Avi Loeb had been asked to assemble and lead a UAP Science Advisory Council of twelve scientists to support US government agencies with scientific analysis.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:disclosure.org/news/uap-science-advisory-council) was rejected in review: generic 'announcement'; string does not identify which"
 }
 ],
 "cls": "domain",
@@ -118,7 +118,7 @@
 ],
 "sub": "Institutional domain - executive orders, DoD directives and agency instructions that set the rules",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 884 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 883 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": 2,

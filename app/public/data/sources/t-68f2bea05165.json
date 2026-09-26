@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2869014a22",
+"locator": null,
+"node": "afrl",
+"nodeLabel": "Air Force Research Laboratory",
+"sourceText": "Air Force Research Laboratory official history",
+"text": "AFRL was established on 31 October 1997 by consolidating the Wright, Phillips, Rome and Armstrong laboratories and the Air Force Office of Scientific Research, headquartered at Wright-Patterson AFB, Ohio.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "t-68f2bea05165",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Air Force Research Laboratory",
+"listedOn": [],
+"node": null,
+"title": "Air Force Research Laboratory official history",
+"topics": [],
+"type": "web page",
+"urls": []
+}

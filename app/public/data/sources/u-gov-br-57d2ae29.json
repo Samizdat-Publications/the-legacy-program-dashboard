@@ -3,12 +3,32 @@
 "claims": [
 {
 "cls": "institution",
+"id": "c-15f48498e8",
+"locator": null,
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'",
+"text": "The Arquivo Nacional identifies the holding by name and reference: 'o Arquivo Nacional possui o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)? O acervo sobre OVNIs é produzido pelo Comando da Aeronáutica do Brasil e está sob a guarda do Arquivo Nacional. Ele é composto de 743 registros que incluem relatos, questionários sobre ocorrências, correspondências, fotografias, desenhos, vídeos, áudios e recortes de jornais e revistas a respeito de objetos que foram vistos nos céus brasileiros ao longo dos anos.'",
+"tier": 1
+},
+{
+"cls": "institution",
 "id": "c-208c1966cc",
 "locator": null,
 "node": "arquivo-nacional-ufo",
 "nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "sourceText": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', published 13/09/2018 (https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/conheca-o-fundo-sobre-ovnis-do-arquivo-nacional)",
 "text": "CONTRADICTION RESOLVED - the 2016 date is a stale description, not a fund closing date. The Arquivo Nacional's own statement - 'Ele é composto de 743 registros' and 'A primeira ocorrência do Fundo Objeto Voador Não Identificado data de 1952 e a mais recente de 2016' - appears on an institutional news item carrying the byline 'Publicado em 13/09/2018 18h25 Atualizado em 13/09/2018 18h27'. It is a snapshot as of September 2018 that has never been revised, not a description of an accession that ended.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-cd1dbe17fd",
+"locator": "image caption, 13/09/2018",
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "Arquivo Nacional, 'Conheça o fundo sobre OVNIs do Arquivo Nacional', 13/09/2018, image caption",
+"text": "Verified item-level reference code format, published by the Arquivo Nacional itself: 'Ilustração elaborada a partir de relatos de aparição de objeto voador não identificado em Marília, São Paulo, agosto de 1968. Arquivo Nacional. Fundo Objeto Voador Não Identificado. BR_DFANBSB_ARX_0_0_25.' This confirms the BR_DFANBSB_ARX_0_0_nnn item numbering used elsewhere on the board.",
 "tier": 1
 }
 ],
@@ -117,10 +137,18 @@
 "topics": [
 {
 "claims": [
+"c-15f48498e8",
 "c-208c1966cc"
 ],
 "id": "brazil",
 "title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+},
+{
+"claims": [
+"c-15f48498e8"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
 }
 ],
 "type": "web page",

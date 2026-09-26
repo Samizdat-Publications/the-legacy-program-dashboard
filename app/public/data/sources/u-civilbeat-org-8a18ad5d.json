@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-06d6fe6e26",
+"locator": null,
+"node": "daniel-inouye",
+"nodeLabel": "Daniel K. Inouye",
+"sourceText": "Honolulu Civil Beat, 13 June 2021",
+"text": "Inouye, Reid and Stevens collaborated in 2007 to direct $22 million into the Pentagon's classified black budget for UFO-related research; Inouye's chairmanship of Appropriations was pivotal in bypassing Senate floor debate about the allocation.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-b2cdd2d783",
+"locator": null,
+"node": "defense-appropriations-aawsap",
+"nodeLabel": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
+"sourceText": "Honolulu Civil Beat, 13 June 2021",
+"text": "The funds were routed through the classified black budget with Inouye's agreement, bypassing Senate floor debate about the allocation.",
+"tier": 2
+}
+],
 "date": "2021-06",
 "edges": [
 {
@@ -67,7 +88,23 @@
 ],
 "node": null,
 "title": "Honolulu Civil Beat — How Hawaii Sen. Dan Inouye Helped Set The Stage For UFO Research",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-06d6fe6e26",
+"c-b2cdd2d783"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+},
+{
+"claims": [
+"c-06d6fe6e26"
+],
+"id": "aawsap-baass",
+"title": "AAWSAP and BAASS, 2007-2012"
+}
+],
 "type": "article",
 "urls": [
 "https://www.civilbeat.org/2021/06/how-hawaii-sen-dan-inouye-helped-set-the-stage-for-ufo-research/"

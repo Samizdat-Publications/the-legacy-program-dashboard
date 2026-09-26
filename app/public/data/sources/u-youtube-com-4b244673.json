@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-db48926174",
+"locator": null,
+"node": "rob-jones",
+"nodeLabel": "Rob Jones",
+"sourceText": "UAP Gerb livestream description, 12 May 2026",
+"text": "Jones surfaced 'details on a new alleged gatekeeper' which UAP Gerb discussed on his 12 May 2026 livestream.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-59c1b1c96b",
+"locator": null,
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"sourceText": "UAP Gerb livestream description, 12 May 2026",
+"text": "Greer held a National Press Club event on 8 May 2026.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -74,7 +95,15 @@
 ],
 "node": null,
 "title": "UAP Gerb Live - 12 May 2026",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-db48926174"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "broadcast",
 "urls": [
 "https://www.youtube.com/watch?v=iAWD4irLMZM"

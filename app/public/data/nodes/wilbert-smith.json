@@ -70,50 +70,86 @@
 {
 "id": "c-40964eae2b",
 "source": "Library and Archives Canada, online exhibition 'Canada's UFOs: The Search for the Unknown', Shirley's Bay / Project Magnet page, 2005",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-3919d41a",
+"locator": null,
+"title": "Library and Archives Canada - Project Magnet page"
+}
+],
 "text": "Library and Archives Canada quotes the memorandum: '...the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers.... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence' (Smith, Geo-Magnetics, Department of Transport, November 21, 1950).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-21047434dc",
 "source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-fd5a4436",
+"locator": "p.6",
+"title": "Library and Archives Canada - Project Magnet report page"
+}
+],
 "text": "Project Magnet report, 1952, p.6: 'Taking these factors into account, it is difficult to reconcile this performance with the capabilities of our technology, and unless the technology of some terrestrial nation is much more advanced than is generally known, we are forced to the conclusion that the vehicles are probably extra-terrestrial, in spite of our prejudices to the contrary.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-bf1f238d21",
 "source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-fd5a4436",
+"locator": null,
+"title": "Library and Archives Canada - Project Magnet report page"
+}
+],
 "text": "Smith recommended that the next step be a 'substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7a0cf3dbb9",
 "source": "Wikipedia, 'Wilbert Brockhouse Smith', citing the Smith-Sarbacher interview record",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-617fc83c",
+"locator": "1950 NARBA/Sarbacher account",
+"title": "Wilbert Brockhouse Smith - Wikipedia"
+}
+],
 "text": "'At the 1950 NARBA conference, Smith learned from US scientist Dr. Robert Sarbacher that Americans believed flying saucers were real and their investigations of them, led by Dr. Vannevar Bush, were more highly classified than information about the hydrogen bomb. After his return to Canada, Smith wrote a memo dated November 21, 1950 which became classified Top Secret until being downgraded to Confidential in 1969.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4f0eeff679",
 "source": "Office of the Chief Science Advisor of Canada, Management of Public Reporting of Unidentified Aerial Phenomena in Canada, June 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-ised-isde-canada-ca-dce0f563",
+"locator": null,
+"title": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, 2025"
+}
+],
 "text": "Sky Canada Project report: 'In 1950, the Department of Transport granted one of their engineers, Wilbert Smith, permission to do part-time research to investigate whether some UFOs could use the power of Earth's magnetic field as a source of propulsion. This was called Project Magnet ... Unable to convince his colleagues of the merits of his research, Smith had to continue his work privately after the Department of Transport terminated Project Magnet in 1954.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a9c5cf8cec",
 "source": "Wikipedia, 'Wilbert Brockhouse Smith', citing University of Ottawa Archives and Special Collections",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-617fc83c",
+"locator": "Arthur Bray fonds",
+"title": "Wilbert Brockhouse Smith - Wikipedia"
+}
+],
 "text": "Smith's other papers were acquired by retired Canadian military pilot Arthur Bray and later donated to the University of Ottawa (Arthur Bray fonds).",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

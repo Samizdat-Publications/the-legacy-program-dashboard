@@ -29,26 +29,44 @@
 {
 "id": "c-3ddb0bb503",
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:32:53",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-d226638d",
+"locator": "0:32:53",
+"title": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account (ft. Logan Paul and Ammar Kandil)' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 0:32:53, Jake Barber said that after 2001 he worked as a contractor for the intelligence community and that 'we had a cover contract through the BIA, which is the Bureau of Indian Affairs at a sovereign nation close to White Sands Missile Range in New Mexico'. He gives no contract number and names no company.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e4b2370224",
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 0:54:51 to 0:55:41",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-d226638d",
+"locator": "0:54:51-0:55:41",
+"title": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account (ft. Logan Paul and Ammar Kandil)' (audio)"
+}
+],
 "text": "In the same episode, between 0:54:51 and 0:55:41, Barber said that everything he was describing had been given to AARO and that it 'has been shared with Congress in a SCIF, in a top secret SCI environment, where I've given testimony'. He does not name the committee in this passage.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-660ea60885",
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 2:04:48 to 2:06:33",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-d226638d",
+"locator": "2:04:48-2:06:33",
+"title": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account (ft. Logan Paul and Ammar Kandil)' (audio)"
+}
+],
 "text": "In the same episode, between 2:04:48 and 2:06:33, Barber said that he and colleagues wrote a 120,000 word historical-fiction manuscript with a hired ghost writer and submitted it to the DOPSR review process in pieces, beginning with the first twenty pages, in order to 'red team the DOPSR process to expose who subject matter experts are' and to map who controls which information. He describes seeding the manuscript with four deliberately chosen categories of information as the probe.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-968a99a47e",
@@ -56,7 +74,7 @@
 "sources": [],
 "text": "Barber, described as a former intelligence officer and whistleblower, gave an account of retrieving a craft using a helicopter.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9340057376.mp3?updated) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-c4ffabe421",
@@ -64,15 +82,21 @@
 "sources": [],
 "text": "Barber stated he would '100% testify' under oath to Congress.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:youtube.com/watch?v=t37-SKj4rtY) was rejected in review: many Reality Check episodes in 2025; string does not pick this one"
 },
 {
 "id": "c-8c59387185",
 "source": "The Sol Foundation, 2025 Symposium speaker list — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-bb6d526e",
+"locator": "speaker list",
+"title": "The Sol Foundation - 2025 Symposium"
+}
+],
 "text": "Barber was a named speaker at the 2025 Sol Foundation Symposium, 24-27 October 2025.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

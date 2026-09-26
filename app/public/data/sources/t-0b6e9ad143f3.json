@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e3d0122b2a",
+"locator": null,
+"node": "arthur-e-exon",
+"nodeLabel": "Arthur E. Exon",
+"sourceText": "Danny Jones Podcast, ep. 259, 9 September 2024, 0:37:23 to 0:47:13 and 1:12:05, mapped at research/leads/dannyjones-corpus-13.md",
+"text": "On the Danny Jones Podcast, episode 259, 9 September 2024, at 0:37:23 to 0:47:13 and 1:12:05, Whitley Strieber referred to Exon as a general and as the commander of Wright-Patterson, and attributed to him and to Strieber's uncle an account of 1947 material at the installation. The opened Air Force record gives his rank in the post as colonel and carries none of the account.",
+"tier": 2
+}
+],
+"date": "2024-09-09",
+"edges": [],
+"era": "3",
+"id": "t-0b6e9ad143f3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 259, 9 September 2024, 0:37:23 to 0:47:13 and 1:12:05, mapped at research/leads/dannyjones-corpus-13.md",
+"topics": [
+{
+"claims": [
+"c-e3d0122b2a"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "broadcast",
+"urls": []
+}

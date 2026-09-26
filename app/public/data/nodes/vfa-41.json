@@ -7,18 +7,30 @@
 {
 "id": "c-6deca28856",
 "source": "Navy range fouler reports, Navy FOIA reading room, 13 January 2023",
-"sources": [],
+"sources": [
+{
+"id": "n-navy-range-fouler-reports",
+"locator": "14 Nov 2004 incident",
+"title": "Navy Range Fouler Reports (72 reports, 2004-2021)"
+}
+],
 "text": "Navy range fouler documentation names the F/A-18 aircrew including Commander David Fravor and Lt. Cmdr. Alex Dietrich, describing the object as 'solid white, smooth, with no edges ... approximately 46 feet in length.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-450cee6c03",
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-c79ec4fb",
+"locator": null,
+"title": "House Oversight - Fravor written statement (PDF)"
+}
+],
 "text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

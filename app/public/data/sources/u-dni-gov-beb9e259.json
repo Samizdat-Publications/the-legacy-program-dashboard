@@ -2,7 +2,28 @@
 "archived": [
 "https://web.archive.org/web/20260807214055/https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-dbe48c40b5",
+"locator": null,
+"node": "d-legal",
+"nodeLabel": "Legal Doctrine & Liability",
+"sourceText": "ODNI ICIG, Urgent Concern Disclosure Form",
+"text": "The ODNI Intelligence Community Inspector General publishes a Disclosure of Urgent Concern form as the lawful channel for IC whistleblower complaints.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-84fa50f867",
+"locator": null,
+"node": "d-witness",
+"nodeLabel": "Witness Chain",
+"sourceText": "ODNI ICIG Urgent Concern Disclosure Form",
+"text": "The ICIG publishes a Disclosure of Urgent Concern form, the formal channel through which an intelligence community employee makes a protected complaint.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -34,7 +55,22 @@
 ],
 "node": null,
 "title": "ODNI ICIG - Disclosure of Urgent Concern Form",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-dbe48c40b5"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-84fa50f867"
+],
+"id": "testimony-provenance",
+"title": "How testimony reaches the record"
+}
+],
 "type": "document",
 "urls": [
 "https://www.dni.gov/files/ICIG/Documents/Hotline/Urgent%20Concern%20Disclosure%20Form.pdf"

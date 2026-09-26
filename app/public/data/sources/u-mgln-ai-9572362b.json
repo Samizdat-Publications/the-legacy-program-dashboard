@@ -13,6 +13,16 @@
 },
 {
 "cls": "person",
+"id": "c-6af94511e8",
+"locator": "0:19:28-0:20:19",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"sourceText": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:19:28 to 0:20:19",
+"text": "At 0:19:28 and 0:20:19 in the same episode Davis said he had no direct interaction with Gaffney but that the aerospace defence firm involved, and that firm's senior and executive vice presidents, did; and that Gaffney was 'very antagonistic' about that company releasing to them, under DIA classification, a collection of crash retrieval materials held by Bigelow Aerospace Advanced Space Studies and EarthTech since the 1989 shutdown. This is a second blocked transfer, distinct from the Lockheed to Bigelow transfer the node already carries.",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-78cdcade4d",
 "locator": null,
 "node": "glenn-gaffney",
@@ -57,6 +67,13 @@
 ],
 "id": "whistleblower-channels",
 "title": "Whistleblower channels, protections and reprisal"
+},
+{
+"claims": [
+"c-6af94511e8"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
 }
 ],
 "type": "web page",

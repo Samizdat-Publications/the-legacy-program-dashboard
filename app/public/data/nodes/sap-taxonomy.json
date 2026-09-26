@@ -26,7 +26,7 @@
 {
 "id": "dodd-5205-07",
 "locator": null,
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoDD 5205.07 (2010) glossary is more explicit on the nesting: 'waived SAP. A SAP for which the Secretary of Defense has waived applicable reporting in accordance with Reference (c) following a determination of adverse effect to national security. An unacknowledged SAP that has more restrictive reporting and access controls.' And: 'unacknowledged SAP. A SAP having protective controls ensuring the existence of the program is not acknowledged, affirmed, or made known to any person not authorized for such information.'",
@@ -96,7 +96,7 @@
 {
 "id": "dodd-5205-07",
 "locator": "2010), Glossary Part II",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoDD 5205.07 (2010) Glossary: 'operations and support SAP. A SAP established primarily to protect the planning for, execution of, and support to especially sensitive military operations. An operations and support SAP may protect organizations, property, operational concepts, plans, or activities.'",
@@ -110,7 +110,7 @@
 {
 "id": "dodd-5205-07",
 "locator": "2010), Glossary Part II",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "DoDD 5205.07 (2010) Glossary: 'acquisition SAP. A SAP established to protect sensitive research, development, testing and evaluation, modification, and procurement activities.'",
@@ -138,7 +138,7 @@
 {
 "id": "dodd-5205-07",
 "locator": "2010) category definitions applied to the alleged activity",
-"title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+"title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
 }
 ],
 "text": "A legacy material-recovery and exploitation effort would map onto the taxonomy as a waived unacknowledged operations and support SAP (recovery and custody of property) with a subordinate acquisition SAP compartment (exploitation and engineering), under a single umbrella. Reasoning: the DoD definitions of operations and support SAP - expressly covering 'property' - and acquisition SAP together describe recovery-plus-reverse-engineering with no strain.",

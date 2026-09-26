@@ -1,0 +1,50 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4522a28213",
+"locator": null,
+"node": "christopher-sherwood",
+"nodeLabel": "Christopher Sherwood",
+"sourceText": "Christopher Sherwood to the New York Post, 22 May 2019",
+"text": "Stated on 22 May 2019 that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
+"tier": 1
+}
+],
+"date": "2019-05-22",
+"edges": [],
+"era": "3",
+"id": "t-c0d8d1a240fa",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "New York Post",
+"listedOn": [],
+"node": null,
+"title": "New York Post",
+"topics": [
+{
+"claims": [
+"c-4522a28213"
+],
+"id": "aatip-elizondo",
+"title": "AATIP and Luis Elizondo"
+},
+{
+"claims": [
+"c-4522a28213"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+},
+{
+"claims": [
+"c-4522a28213"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "article",
+"urls": []
+}

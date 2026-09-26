@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-fafe256524",
+"locator": null,
+"node": "laurance-rockefeller",
+"nodeLabel": "Laurance S. Rockefeller",
+"sourceText": "Clinton Digital Library collection finding aid, identifier 2006-0476-F",
+"text": "The Clinton White House maintained a Roswell file - FOIA collection 2006-0476-F - containing correspondence, reports and email regarding the July 1947 Roswell crash, including the July 1995 GAO report.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-1e7a01041a",
+"locator": null,
+"node": "rockefeller-initiative",
+"nodeLabel": "The Rockefeller UFO Disclosure Initiative",
+"sourceText": "Clinton Digital Library collection finding aid 2006-0476-F",
+"text": "The Clinton White House's Roswell file (2006-0476-F) contains 'correspondence, reports, and email regarding a crash in Roswell, New Mexico in July 1947,' including the July 1995 GAO report, and states that 'the origin of the crashed object remains in dispute today.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -92,7 +113,22 @@
 ],
 "node": null,
 "title": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1e7a01041a"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-1e7a01041a"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
 "type": "web page",
 "urls": [
 "https://clinton.presidentiallibraries.us/items/show/36328"

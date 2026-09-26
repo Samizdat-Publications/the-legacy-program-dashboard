@@ -34,7 +34,7 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-ed2dd3bd",
+     "id": "n-aaro-fy2025-annual-report",
      "locator": null,
      "title": "AARO FY2025 Consolidated Annual Report on UAP"
     }
@@ -52,7 +52,13 @@
     "text": "AARO Declassification Information Paper, September 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-declassification-info-paper-2025",
+     "locator": null,
+     "title": "AARO Declassification Information Paper (September 2025)"
+    }
+   ],
    "text": "AARO states it cannot declassify information independently and must request declassification review from the originating offices, with DOPSR reviewing redactions before public release.",
    "tier": 1
   },
@@ -66,7 +72,13 @@
     "text": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:28:12",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-d226638d",
+     "locator": "1:28:12",
+     "title": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account (ft. Logan Paul and Ammar Kandil)' (audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 30 January 2025, at 1:28:12, Jake Barber said that the Michael Herrera incident and his own additional information were presented to AARO under Sean Kirkpatrick, that Kirkpatrick 'patently denied it and wrote it off', and that 'I know for a fact that Sean Kirkpatrick has admitted outside of the office of AARO directly to members of the Senate Intelligence Committee that it did in fact happen exactly as reported by Michael Herrera'. This is a claim about what an AARO director is said to have said in private, not a claim sourced to AARO, and no record of either the denial or the private confirmation was opened.",
    "tier": 2
   },
@@ -94,7 +106,13 @@
     "text": "AARO FY2023 Consolidated Annual Report on UAP",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-fy2023-annual-report",
+     "locator": null,
+     "title": "AARO FY2023 Consolidated Annual Report on UAP"
+    }
+   ],
    "text": "The report states that only a very small percentage of UAP reports display interesting signatures such as high-speed travel and unknown morphologies, with the majority showing ordinary characteristics of readily explainable sources.",
    "tier": 1
   },
@@ -108,7 +126,13 @@
     "text": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-establishment-memo-2022",
+     "locator": null,
+     "title": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+    }
+   ],
    "text": "AARO was established by Deputy Secretary of Defense memorandum dated 15 July 2022, superseding AOIMSG and absorbing the UAPTF's data and materials.",
    "tier": 1
   },
@@ -122,7 +146,13 @@
     "text": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-establishment-memo-2022",
+     "locator": null,
+     "title": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+    }
+   ],
    "text": "The memorandum establishes AARO as the DoD's authoritative office and focal point for UAP and directs it to address anomalous space, airborne, submerged and transmedium objects.",
    "tier": 1
   },
@@ -136,7 +166,13 @@
     "text": "AARO FY2025 Consolidated Annual Report on UAP, released 21 July 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-fy2025-annual-report",
+     "locator": null,
+     "title": "AARO FY2025 Consolidated Annual Report on UAP"
+    }
+   ],
    "text": "AARO's FY2025 annual report again rejects claims that the US government possesses recovered UAP material, while stating the office is developing procedures for handling such material should it ever come into US government possession.",
    "tier": 1
   },
@@ -152,9 +188,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-media-defense-gov-23bbe4d5",
+     "id": "n-aaro-fy2024-annual-report",
      "locator": null,
-     "title": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)"
+     "title": "AARO FY2024 Consolidated Annual Report on UAP"
     }
    ],
    "text": "On KONA BLUE disclosure (p. 14): 'In accordance with the Department's commitment to transparency on UAP matters, AARO also posted historical documents relating to KONA BLUE, a Prospective and not approved Special Access Program that was brought to AARO's attention by interviewees who claimed that it was a sensitive Department of Homeland Security compartment to cover up the retrieval and exploitation of \"non-human biologics.\"'",
@@ -174,7 +210,7 @@
     {
      "id": "foia-25-f-3514",
      "locator": "September 2025",
-     "title": "FOIA case 25-F-3514"
+     "title": "OSD FOIA response, case 25-F-3514, September 2025"
     }
    ],
    "text": "OSD's final response in FOIA case 25-F-3514 (September 2025) stated that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged spring 2023 cessation memo.",
@@ -226,9 +262,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-a8dcb617",
+     "id": "n-aaro-fy2023-annual-report",
      "locator": null,
-     "title": "AARO - FY2023 Consolidated Annual Report on UAP (PDF)"
+     "title": "AARO FY2023 Consolidated Annual Report on UAP"
     }
    ],
    "text": "Domain distribution and AARO's own stated blind spot: 'The space and maritime domains need to be fully integrated into AARO's processes. Airborne UAP continue to dominate UAP reporting with 290 of the 291 reports from this reporting period occurring within this domain...' AARO names NIM-MIL, the USAF including NASIC and AFRL as its air-domain partners.",
@@ -244,7 +280,13 @@
     "text": "DefenseScoop, 8 March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-2fe9c66b",
+     "locator": null,
+     "title": "DefenseScoop - DOD developing 'Gremlin' capability to help personnel collect real-time UAP data"
+    }
+   ],
    "text": "AARO disclosed the GREMLIN capability for real-time UAP data collection at the Volume I rollout.",
    "tier": 1
   },
@@ -258,7 +300,13 @@
     "text": "Statement for the Record, Dr. Jon Kosloski, SASC ETC Subcommittee, 19 November 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-92da8df0",
+     "locator": null,
+     "title": "AARO - Kosloski Statement for the Record, SASC (PDF)"
+    }
+   ],
    "text": "Kosloski testified on 19 November 2024 that AARO holds over 1,600 UAP reports and has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.",
    "tier": 1
   },
@@ -272,7 +320,13 @@
     "text": "DefenseScoop, 30 August 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-c0cea468",
+     "locator": null,
+     "title": "DefenseScoop - Hicks takes direct oversight of Pentagon's UAP office"
+    }
+   ],
    "text": "AARO's director reports directly to the Deputy Secretary of Defense following a summer 2023 change from the USD(I&S) chain.",
    "tier": 1
   },
@@ -286,7 +340,13 @@
     "text": "AARO Official UAP Imagery page, accessed 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-9a2edeb6",
+     "locator": null,
+     "title": "AARO - Official UAP Imagery"
+    }
+   ],
    "text": "AARO released PR-016, PR-017 and PR-018 on 4 December 2025, PR-012, PR-014 and PR-015 on 9 December 2025, and PR-011 and PR-013 on 6 January 2026, all European incidents from 2021-2024.",
    "tier": 1
   },
@@ -300,7 +360,13 @@
     "text": "Kosloski, SASC subcommittee hearing, 19 November 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "chrg-118shrg60390",
+     "locator": "Kosloski testimony",
+     "title": "The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office (CHRG-118shrg60390)"
+    }
+   ],
    "text": "'we do have some very anomalous objects'; 'AARO does not believe that every object is a bird, a balloon, or a UAV.'",
    "tier": 2
   },
@@ -348,7 +414,13 @@
     "text": "AFOSI FOIA response, case 2025-06002-F, 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ae455c1313aa",
+     "locator": null,
+     "title": "AFOSI FOIA response, case 2025-06002-F"
+    }
+   ],
    "text": "In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.'",
    "tier": 1
   },
@@ -362,7 +434,13 @@
     "text": "AARO Official UAP Imagery page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-9a2edeb6",
+     "locator": null,
+     "title": "AARO - Official UAP Imagery"
+    }
+   ],
    "text": "PR-016 was resolved as 'almost certainly (>95% likelihood) birds'; PR-017 was declared insufficient for AARO to render a determination; the remainder were assessed as physical objects with unremarkable characteristics and left unresolved.",
    "tier": 1
   },
@@ -392,7 +470,7 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-ed2dd3bd",
+     "id": "n-aaro-fy2025-annual-report",
      "locator": null,
      "title": "AARO FY2025 Consolidated Annual Report on UAP"
     }
@@ -424,7 +502,13 @@
     "text": "Kosloski, SASC subcommittee hearing, 19 November 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "chrg-118shrg60390",
+     "locator": "Kosloski testimony",
+     "title": "The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office (CHRG-118shrg60390)"
+    }
+   ],
    "text": "Unresolved cases include a 'blacker than black' object near a large orange sphere that accelerated vertically '10 to 100 times faster than any drone,' and a stationary cylinder near a southwestern US facility that disappeared.",
    "tier": 2
   },
@@ -440,7 +524,7 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-ed2dd3bd",
+     "id": "n-aaro-fy2025-annual-report",
      "locator": null,
      "title": "AARO FY2025 Consolidated Annual Report on UAP"
     }
@@ -472,7 +556,13 @@
     "text": "Dr. Jon Kosloski, Statement for the Record, Senate Armed Services Committee open hearing, 19 November 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-92da8df0",
+     "locator": null,
+     "title": "AARO - Kosloski Statement for the Record, SASC (PDF)"
+    }
+   ],
    "text": "'AARO has over 1,600 UAP reports in its holdings from across the U.S. government' and 'to date, AARO has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.'",
    "tier": 1
   },
@@ -500,7 +590,13 @@
     "text": "Wall Street Journal investigation, 6 June 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-wsj-com-9fabbc1c",
+     "locator": null,
+     "title": "Joel Schectman and Aruna Viswanatha, 'The Pentagon Disinformation That Fueled America's UFO Mythology', The Wall Street Journal, 6 June 2025. The canonical address is unreachable from this environment; the text was read in the To Vima republication at this URL."
+    }
+   ],
    "text": "Air Force personnel in classified units were briefed into a fictitious programme called Yankee Blue involving reverse-engineering of alien spacecraft, shown flying-saucer photographs, bound by NDAs, and in some accounts threatened with severe penalties for disclosure.",
    "tier": 2
   },
@@ -516,9 +612,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-media-defense-gov-23bbe4d5",
+     "id": "n-aaro-fy2024-annual-report",
      "locator": null,
-     "title": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)"
+     "title": "AARO FY2024 Consolidated Annual Report on UAP"
     }
    ],
    "text": "Caseload more than doubled year on year: 'The All-domain Anomaly Resolution (AARO) received 757 UAP reports during this period; 485 of these reports featured UAP incidents that occurred during the reporting period. The remaining 272 reports occurred outside of the reporting period between 2021 and 2022 and consequently were not included in previous annual UAP reports.' The report also states: 'As of October 24, 2024, there are 1652 reports in total.' Reporting period runs May 1, 2023 to June 1, 2024.",
@@ -538,7 +634,7 @@
     {
      "id": "chrg-118shrg60390",
      "locator": "CONTENTS page and opening statement",
-     "title": "CHRG-118shrg60390: The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office"
+     "title": "The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office (CHRG-118shrg60390)"
     }
    ],
    "text": "Sole witness of record: 'Dr. Sean M. Kirkpatrick, Director, All-Domain Anomaly Resolution Office'. The subcommittee chair's opening remarks reference 'today's earlier closed session', establishing that a classified session preceded the open hearing.",
@@ -556,7 +652,7 @@
    },
    "sourceRefs": [
     {
-     "id": "u-aaro-mil-ed2dd3bd",
+     "id": "n-aaro-fy2025-annual-report",
      "locator": null,
      "title": "AARO FY2025 Consolidated Annual Report on UAP"
     }
@@ -574,7 +670,13 @@
     "text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-kirkpatrick-sciam-oped-2024",
+     "locator": null,
+     "title": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+    }
+   ],
    "text": "Kirkpatrick wrote that the crash-retrieval narrative is 'a textbook example of circular reporting' sourced to the same small group of individuals and traceable to Robert Bigelow and AATIP.",
    "tier": 2
   },
@@ -608,7 +710,13 @@
     "text": "AARO Official UAP Imagery page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-9a2edeb6",
+     "locator": null,
+     "title": "AARO - Official UAP Imagery"
+    }
+   ],
    "text": "The 2013 Puerto Rico Customs and Border Protection infrared object was resolved as two objects travelling near each other at wind speed; Go Fast, GIMBAL and FLIR remain unresolved.",
    "tier": 1
   },
@@ -622,7 +730,13 @@
     "text": "AARO Declassification Information Paper, September 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-declassification-info-paper-2025",
+     "locator": null,
+     "title": "AARO Declassification Information Paper (September 2025)"
+    }
+   ],
    "text": "AARO's September 2025 declassification information paper states the office cannot declassify information independently and must request declassification review from originating offices, with DOPSR reviewing redactions before public release.",
    "tier": 1
   },
@@ -650,7 +764,13 @@
     "text": "AARO Declassification Information Paper, September 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-declassification-info-paper-2025",
+     "locator": null,
+     "title": "AARO Declassification Information Paper (September 2025)"
+    }
+   ],
    "text": "The paper states that classified UAP imagery protects platform capabilities, locations and collection methods, and that even footage of prosaic objects remains classified when derived from sensitive sources.",
    "tier": 1
   },
@@ -664,7 +784,13 @@
     "text": "AARO Congressional/Press Products index, accessed 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-045672bc",
+     "locator": null,
+     "title": "AARO - Congressional/Press Products index"
+    }
+   ],
    "text": "AARO published three Consolidated Annual Reports in the window: FY2023 (25 October 2023), FY2024 (14 November 2024) and FY2025 (21 July 2026).",
    "tier": 1
   },
@@ -678,7 +804,13 @@
     "text": "AARO official biography, Timothy A. Phillips, Deputy Director (Acting Director version), December 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-da573192",
+     "locator": null,
+     "title": "AARO - Timothy A. Phillips biography (Acting Director version)"
+    }
+   ],
    "text": "Phillips served as AARO Acting Director from December 2023 to August 2024 while remaining Deputy Director, on assignment from ODNI.",
    "tier": 1
   },
@@ -706,7 +838,13 @@
     "text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33 to 1:10:25",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-ff935d64",
+     "locator": "1:09:33-1:10:25",
+     "title": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, Kirk McConnell said that Kirkpatrick 'created an advisory group' at AARO and that 'the contract for that, for the formation of that group to advise him at AARO, well, the contract was let through Oak Ridge', and that after retiring from government Kirkpatrick is 'working with, for Oak Ridge under contract now'. Asked whether that looked like a conflict of interest, McConnell answered at 1:10:25 that 'conflicts of interest or allegations are easy to make, but not so easy to sort out. But it is certainly worth taking note of if nothing else.' He does not allege wrongdoing and does not name the advisory group.",
    "tier": 2
   },
@@ -720,7 +858,13 @@
     "text": "AARO case slides, SASC open hearing, 19 November 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-aaro-mil-9c5f706a",
+     "locator": null,
+     "title": "AARO - SASC open hearing case slides (PDF)"
+    }
+   ],
    "text": "GO FAST (January 2015, off Florida's east coast): AARO assessed the object at approximately 13,000 feet travelling about 45 mph with 60-knot winds, concluding it 'did not demonstrate any anomalous speeds or flight characteristics.'",
    "tier": 1
   },
@@ -734,7 +878,13 @@
     "text": "AARO FY2023 Consolidated Annual Report on UAP, 25 October 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-fy2023-annual-report",
+     "locator": null,
+     "title": "AARO FY2023 Consolidated Annual Report on UAP"
+    }
+   ],
    "text": "Reporting period 31 August 2022 to 30 April 2023; 291 new reports (274 in-period, 17 from 2019-2022); 801 total holdings as of 30 April 2023.",
    "tier": 1
   },
@@ -748,7 +898,13 @@
     "text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-kirkpatrick-sciam-oped-2024",
+     "locator": null,
+     "title": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)"
+    }
+   ],
    "text": "Kirkpatrick wrote that whistleblowers who prefer to be 'sensationalist in the public eye' rather than bring evidence to AARO are 'suspect'.",
    "tier": 2
   },
@@ -780,12 +936,12 @@
     {
      "id": "pl-117-81",
      "locator": null,
-     "title": "Public Law 117-81"
+     "title": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
     },
     {
      "id": "pl-117-263",
      "locator": null,
-     "title": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803"
+     "title": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports"
     },
     {
      "id": "usc-50-3373",

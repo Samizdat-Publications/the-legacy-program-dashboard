@@ -1,21 +1,498 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260802200608/https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+],
+"claims": [
+{
+"cls": "person",
+"id": "c-9dd27adf5d",
+"locator": null,
+"node": "chad-underwood",
+"nodeLabel": "Chad Underwood",
+"sourceText": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"text": "The Department of Defense authorized release of three unclassified Navy videos filmed in November 2004 and January 2015, stating 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-b6ae2b4fee",
+"locator": null,
+"node": "d-disclosure",
+"nodeLabel": "Disclosure Movement",
+"sourceText": "DoD statement on release of historical Navy videos",
+"text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-0d9e65cbcb",
+"locator": null,
+"node": "dod-video-release-2020",
+"nodeLabel": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
+"sourceText": "DoD statement, 27 April 2020",
+"text": "Characterises the videos' prior public appearance as the product of 'unauthorized releases in 2007 and 2017'.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-c7312e1e9c",
+"locator": null,
+"node": "dod-video-release-2020",
+"nodeLabel": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
+"sourceText": "DoD statement, 27 April 2020",
+"text": "States 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2c02c3f0d8",
+"locator": null,
+"node": "flir1-video",
+"nodeLabel": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"sourceText": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"text": "DoD authorized release of three unclassified Navy videos filmed November 2004 and January 2015, previously circulated after unauthorized disclosures in 2007 and 2017; 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-9588d8ad3a",
+"locator": null,
+"node": "flir1-video",
+"nodeLabel": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"sourceText": "DoD statement, 27 April 2020",
+"text": "The videos were made available through the Naval Air Systems Command FOIA reading room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-3391c8d93a",
+"locator": null,
+"node": "navy-flir-gimbal-gofast-videos",
+"nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"sourceText": "Department of Defense statement, 27 April 2020",
+"text": "On 27 April 2020 DoD authorised the release of three unclassified Navy videos, one taken in November 2004 and two in January 2015, stating 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-34d43d3787",
+"locator": null,
+"node": "gimbal-video",
+"nodeLabel": "GIMBAL (Navy ATFLIR video, January 2015)",
+"sourceText": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"text": "GIMBAL was filmed in January 2015 and released by DoD on 27 April 2020 with the phenomena 'characterized as unidentified.'",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-743c3a23a4",
+"locator": null,
+"node": "gofast-video",
+"nodeLabel": "GO FAST (Navy ATFLIR video, January 2015)",
+"sourceText": "DoD statement, 27 April 2020",
+"text": "DoD released the video on 27 April 2020 with the phenomena 'characterized as unidentified.'",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-fc0a6eae8f",
+"locator": null,
+"node": "d-aviators",
+"nodeLabel": "Military Aviators & Operators",
+"sourceText": "DoD statement on release of historical Navy videos",
+"text": "The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-8c364fa4f1",
+"locator": null,
+"node": "us-navy",
+"nodeLabel": "United States Navy",
+"sourceText": "DoD release, 27 April 2020",
+"text": "On 27 April 2020 the Department of Defense authorised the release of three unclassified Navy videos - one taken in November 2004 and two in January 2015 - stating it was releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real, or whether or not there is more to the videos'.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-09b0aab384",
+"locator": null,
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"sourceText": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"text": "The Department of Defense released FLIR1 with the two January 2015 videos on 27 April 2020, stating that 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1
+}
+],
 "date": "2020",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "chad-underwood",
+"label": "Chad Underwood"
+},
+"b": {
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+"claimTier": 3,
+"id": "e-841812283a",
+"label": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
+"note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "person",
+"id": "chad-underwood",
+"label": "Chad Underwood"
+},
+"b": {
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+"claimTier": 3,
+"id": "e-934b118721",
+"label": "Underwood produced the FLIR1 tape on a follow-on sortie",
+"note": "Consistently reported since 2019 and never disputed by the Navy or Fravor, but not anchored to a primary record in this pass.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dod-video-release-2020",
+"label": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+},
+"b": {
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+"claimTier": 1,
+"id": "e-7608105746",
+"label": "DoD authorises release, 27 April 2020; phenomena 'remain characterized as unidentified'",
+"note": "The Department also characterised the 2007 and 2017 public appearances as 'unauthorized releases' — a formal acknowledgement that material left the building improperly.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+"b": {
+"cls": "event",
+"id": "nyt-2017-12-16",
+"label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'"
+},
+"claimTier": 1,
+"id": "e-572ebb3393",
+"label": "Published by the New York Times, reopening the subject",
+"note": "The DoD's own 2020 release statement acknowledges the videos circulated publicly after unauthorized disclosures in 2007 and 2017.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-fb91856787",
+"label": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
+"note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "gimbal-video",
+"label": "GIMBAL (Navy ATFLIR video, January 2015)"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-0e1dacadf6",
+"label": "January 2015 ATFLIR artefact from the same operating environment",
+"note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-0705447e89",
+"label": "January 2015 ATFLIR artefact from the same operating environment",
+"note": "GO FAST is the video Gallaudet says was attached to the recalled Fleet Forces Command safety message, and the one AARO later reanalysed on parallax grounds.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+"b": {
+"cls": "location",
+"id": "l-san-diego",
+"label": "San Diego, California"
+},
+"claimTier": 2,
+"id": "e-a50e2ce471",
+"label": "Homeport of the Nimitz strike group",
+"note": "The 2004 encounters occurred in the Southern California Operating Area worked by San Diego-based fleet units.",
+"type": "geographic"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-prop",
+"label": "Propulsion & Field Physics"
+},
+"b": {
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+"claimTier": 3,
+"id": "e-a4192a7426",
+"label": "Reported kinematics set the physics requirement",
+"note": "Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "raytheon",
+"label": "Raytheon (RTX Corporation)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-bc73ec646e",
+"label": "Raytheon-built ATFLIR pod produced the FLIR1 record",
+"note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-signals",
+"label": "Signals & Sensor Intelligence"
+},
+"b": {
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+"claimTier": 3,
+"id": "e-5e0b2cee2f",
+"label": "Sensor corroboration is what makes the accounts arguable",
+"note": "Radar tracks and targeting-pod video convert a pilot's account into a multi-sensor event; DoD authenticated the imagery in April 2020 while declining to explain it.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "vfa-41",
+"label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-d4bfb2b551",
+"label": "Squadron that flew the intercept and produced the FLIR1 footage",
+"note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+},
+"claimTier": 1,
+"id": "e-5c89b52f4e",
+"label": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
+"note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "us-navy",
+"label": "United States Navy"
+},
+"b": {
+"cls": "event",
+"id": "roosevelt-2014-2015",
+"label": "USS Theodore Roosevelt Encounters (2014-2015)"
+},
+"claimTier": 1,
+"id": "e-419c09f2bd",
+"label": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"type": "institutional"
+}
+],
 "era": "3",
 "id": "n-dod-video-release-2020",
 "identifiers": [],
-"interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"interestedParty": true,
+"issuer": "Department of Defense",
+"listedOn": [
+{
+"cls": "person",
+"id": "chad-underwood",
+"label": "Chad Underwood"
+},
+{
+"cls": "domain",
+"id": "d-disclosure",
+"label": "Disclosure Movement"
+},
+{
+"cls": "document",
+"id": "dod-video-release-2020",
+"label": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
+},
+{
+"cls": "document",
+"id": "flir1-video",
+"label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)"
+},
+{
+"cls": "document",
+"id": "navy-flir-gimbal-gofast-videos",
+"label": "FLIR1, Gimbal and GoFast Navy gun-camera videos"
+},
+{
+"cls": "document",
+"id": "gimbal-video",
+"label": "GIMBAL (Navy ATFLIR video, January 2015)"
+},
+{
+"cls": "document",
+"id": "gofast-video",
+"label": "GO FAST (Navy ATFLIR video, January 2015)"
+},
+{
+"cls": "domain",
+"id": "d-aviators",
+"label": "Military Aviators & Operators"
+},
+{
+"cls": "location",
+"id": "l-san-diego",
+"label": "San Diego, California"
+},
+{
+"cls": "location",
+"id": "l-pentagon",
+"label": "The Pentagon, Arlington, Virginia"
+},
+{
+"cls": "person",
+"id": "tim-gallaudet",
+"label": "Timothy Gallaudet"
+},
+{
+"cls": "event",
+"id": "nimitz-2004",
+"label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004"
+}
+],
 "node": {
 "cls": "document",
 "id": "dod-video-release-2020",
 "label": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020"
 },
 "title": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-0d9e65cbcb",
+"c-c7312e1e9c",
+"c-3391c8d93a",
+"c-34d43d3787",
+"c-743c3a23a4",
+"c-8c364fa4f1"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-2c02c3f0d8",
+"c-9588d8ad3a",
+"c-8c364fa4f1",
+"c-09b0aab384"
+],
+"id": "nimitz-2004",
+"title": "USS Nimitz, November 2004"
+},
+{
+"claims": [
+"c-b6ae2b4fee"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-fc0a6eae8f"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+},
+{
+"claims": [
+"c-3391c8d93a"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-3391c8d93a"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos",
+"https://www.war.gov/News/Releases/Release/Article/2165713/statement-by-the-department-of-defense-on-the-release-of-historical-navy-videos/"
+]
 }

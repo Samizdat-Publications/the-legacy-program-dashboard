@@ -10,55 +10,91 @@
 "sources": [],
 "text": "The Sol Foundation was founded in 2022; its board is Garry Nolan (Executive Director of the Board), Peter Skafish (Secretary; Executive Director) and Aneil Mallavarapu.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thesolfoundation.org/about-2) was rejected in review: names About and People pages; candidate is only one"
 },
 {
 "id": "c-ccbe4a0317",
 "source": "The Sol Foundation, People page, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-49b17e57",
+"locator": "retrieved 12 Aug 2026",
+"title": "The Sol Foundation - People"
+}
+],
 "text": "Advisory board members include Eric Davis, Tim Gallaudet, Jeffrey J. Kripal, Avi Loeb, Jacob Haqq Misra, Diana Pasulka, Jim Semivan, Jacques Vallee (Emeritus), Beatriz Villarroel and Alexander Wendt.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-058188fba1",
 "source": "The Sol Foundation, Policy page, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-cc6d7844",
+"locator": "retrieved 12 Aug 2026",
+"title": "The Sol Foundation - Policy"
+}
+],
 "text": "Since 2023 the Foundation has provided scientific and policy advice on UAP to members and committees of the US Senate and House, including the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee, and to the Parliaments of the UK, Canada and Japan, the European Parliament, the European Commission and Canada's Chief Science Adviser.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-455d790714",
 "source": "The Sol Foundation, inaugural conference page",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-56326cc6",
+"locator": null,
+"title": "The Sol Foundation - Inaugural Conference"
+}
+],
 "text": "The inaugural conference was held 17-18 November 2023 at Stanford University, sponsored by the Nolan Laboratory (Department of Pathology) and the Stanford School of Medicine; speakers included Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Charles McCullough III, Christopher Mellon, Karl Nell, Diana Pasulka, Hal Puthoff and Jacques Vallee.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5116693ded",
 "source": "The Sol Foundation, 2025 Symposium page",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-bb6d526e",
+"locator": null,
+"title": "The Sol Foundation - 2025 Symposium"
+}
+],
 "text": "The 2025 Sol Foundation Symposium was held 24-27 October 2025 on the shores of Lake Maggiore, northern Italy; speakers included Karl Nell, Jacques Vallee, Garry Nolan, Jake Barber, Dylan Borland, Jeff Nuccetelli, Tim Gallaudet, Diana Pasulka, Beatriz Villarroel and Gen. Pierre Bescond.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9b03ac4571",
 "source": "The Sol Foundation white papers index",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-643ffe84",
+"locator": null,
+"title": "The Sol Foundation - White Papers and Policy Briefings index"
+}
+],
 "text": "The Sol Foundation publishes a numbered white paper and policy briefing series including Gallaudet (March 2024), McCaw (May 2024), Skafish (November 2024), Karl Nell (May 2025), Villarroel-derived Briefing No. 1 (January 2026), McConnell Briefing No. 2 (April 2026) and von Rennenkampff Briefing No. 3 (April 2026).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ac844d9bf4",
 "source": "The Sol Foundation people page",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-49b17e57",
+"locator": null,
+"title": "The Sol Foundation - People"
+}
+],
 "text": "Kirk McConnell, a 37-year Capitol Hill defence and intelligence staffer who served with the Senate Armed Services Committee and both intelligence committees, is the foundation's Senior Legislative Affairs Officer.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-738ed37641",
@@ -66,15 +102,21 @@
 "sources": [],
 "text": "The foundation was co-founded by Garry Nolan and Peter Skafish on 15 August 2023.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/the-sol-foundation-how-a-new-think-tank-of-academics-is-apply) was rejected in review: author, outlet, date; candidate undated, article unconfirmed"
 },
 {
 "id": "c-1e4302f3ea",
 "source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
-"sources": [],
+"sources": [
+{
+"id": "u-thesolfoundation-org-1955652b",
+"locator": null,
+"title": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'"
+}
+],
 "text": "In June 2026 the foundation announced that its co-founders Nolan and Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard had been named to the fourteen-member UAP Science Advisory Council, which reports to a higher-level UAP Governance Board and works only with unclassified data.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8805142133",
@@ -1091,7 +1133,7 @@
 ],
 "sub": "UAP research and policy non-profit",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 63 of 1138, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 62 of 1138, score 75). 20 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

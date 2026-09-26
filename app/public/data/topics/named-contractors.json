@@ -32,7 +32,13 @@
     "text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-gerb-northrop-trw-investigation",
+     "locator": null,
+     "title": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+    }
+   ],
    "text": "Northrop Grumman's modern UFO security apparatus is helmed by Terry Phillips, former director of AFOSI/PJ.",
    "tier": 2
   },
@@ -80,7 +86,13 @@
     "text": "Danny Jones Podcast, ep. 320, 4 August 2025, 2:06:30, mapped at research/leads/dannyjones-corpus-20.md",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-175dc4f8f6d3",
+     "locator": "2:06:30",
+     "title": "Danny Jones Podcast, ep. 320, 4 August 2025, 0:52:23, mapped at research/leads/dannyjones-corpus-20.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 320, 4 August 2025, at 2:06:30, the guest who identifies himself only as UAP Gerb said Bobby Ray Inman was a Wackenhut board member. The corporation's own proxy statements for 1997 to 2002 do not name him.",
    "tier": 2
   },
@@ -114,7 +126,13 @@
     "text": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2cc2eb1059bd",
+     "locator": "2:35:18",
+     "title": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:35:18, Jason Reza Jorjani named Bell alongside Martin as a second company making the same public electrogravitics claims, and dated the claims to 1953. The opened articles are dated November 1955, and the words attributed to Bell in them do not use the term electrogravitics.",
    "tier": 2
   },
@@ -168,7 +186,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "USAspending records approximately $8.7 billion in prime contract obligations to Aerojet Rocketdyne entities since FY2008.",
    "tier": 1
   },
@@ -186,11 +210,11 @@
     {
      "id": "pl-118-31",
      "locator": "Sec. 1841 (44 U.S.C. 2107 note",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     },
     {
      "id": "usc-44-2107",
-     "locator": "note",
+     "locator": null,
      "title": "44 U.S.C. 2107"
     }
    ],
@@ -207,7 +231,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "USAspending records approximately $41 billion in prime contract obligations across General Atomics entities since FY2008.",
    "tier": 1
   },
@@ -243,9 +273,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-1db9ad13",
+     "id": "n-talbert-gravity-series-1955",
      "locator": null,
-     "title": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, page image"
+     "title": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
     }
    ],
    "text": "The same article reports that Bell's company had in the preceding days made the first powered flights with its new Bell X-2 rocket plane, and that it was testing a jet vertical-rising-and-landing aircraft. Its photograph caption names three Air Force test pilots with Bell: Lt. Col. Frank J. Everest, Maj. Charles Yeager and Maj. Arthur Murray.",
@@ -305,12 +335,12 @@
     {
      "id": "chrg-118hhrg53022",
      "locator": "26 July 2023",
-     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
     },
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 September 2025",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "Boeing contractors at Vandenberg were the observers in the October 2003 'red square' incident described in sworn testimony at both the 2023 and 2025 hearings.",
@@ -326,7 +356,13 @@
     "text": "House Oversight Committee hearing, 26 July 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "chrg-118hhrg53022",
+     "locator": null,
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+    }
+   ],
    "text": "David Grusch testified on 26 July 2023 that material and programmes had been placed with defence contractors outside congressional oversight.",
    "tier": 2
   },
@@ -340,7 +376,13 @@
     "text": "UAP Gerb, 'Off-World Technologies Division - UAP Technology Reverse Engineering', published 17 July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-youtube-com-42ef7641",
+     "locator": null,
+     "title": "UAP Gerb - 'Off-World Technologies Division'"
+    }
+   ],
    "text": "A US Army Green Beret witness identified as 'RA' states that between 2013 and 2015 he was taken deep underground at a special weapons centre near Crane, Indiana to an 'Off-World Technologies Division' holding a basketball-sized sphere with an indentation and a clear tablet-like device projecting symbology, both described as weapons owing to energetic output when recovered from a craft, and both said to interact with human consciousness.",
    "tier": 2
   },
@@ -358,11 +400,11 @@
     {
      "id": "pl-118-31",
      "locator": "Sec. 1687(b) (50 U.S.C. 3373 note",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     },
     {
      "id": "usc-50-3373",
-     "locator": "note",
+     "locator": null,
      "title": "50 U.S.C. 3373"
     }
    ],
@@ -396,8 +438,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "sec. 1841(a)(1)(C), 137 Stat. 699-700",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1841(a)(1)(C) defines the scope of the Collection: 'record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects), which shall be transmitted to the National Archives in accordance with section 2107 of title 44, United States Code.' The phrases 'technologies of unknown origin' and 'non-human intelligence' are enacted federal statutory text.",
@@ -481,7 +523,7 @@
     {
      "id": "chrg-118hhrg57440",
      "locator": "13 November 2024",
-     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+     "title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
     }
    ],
    "text": "Rep. Mace proposed General Dynamics as the contractor to which undersea-propulsion material would be routed; Elizondo replied 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
@@ -531,7 +573,13 @@
     "text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-gerb-northrop-trw-investigation",
+     "locator": "extrapolating from Grusch's Megyn Kelly statements",
+     "title": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+    }
+   ],
    "text": "Northrop Grumman may have used IRAD funds at the onset of the War on Terror to self-fund its own retrieval and exploitation programs, becoming unaccountable to its original government handler.",
    "tier": 2
   },
@@ -545,7 +593,13 @@
     "text": "BDM International, Inc., Form 10-K for FY1995, filed 12 March 1996, CIK 0000870763",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-d8f48c2b",
+     "locator": "filed 12 March 1996, CIK 0000870763",
+     "title": "BDM International, Inc., Form 10-K for FY1995"
+    }
+   ],
    "text": "'The Company was formed in 1959 by Drs. Joseph V. Braddock, Bernard J. Dunn, and Daniel F. McDonald as Braddock, Dunn & McDonald, Incorporated, which was later reorganized as BDM International, Inc.'",
    "tier": 1
   },
@@ -587,7 +641,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "USAspending records approximately $97 billion in prime contract obligations to Booz Allen Hamilton recipient entities since FY2008.",
    "tier": 1
   },
@@ -601,7 +661,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "USAspending records approximately $135 billion in prime contract obligations to Leidos-named recipient entities since FY2008.",
    "tier": 1
   },
@@ -615,7 +681,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "Lockheed Martin is the largest single recipient of Department of Defense prime contract obligations; USAspending recipient records for Lockheed Martin entities total in the hundreds of billions of dollars since FY2008.",
    "tier": 1
   },
@@ -649,7 +721,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "USAspending records approximately $52 billion in prime contract obligations to Science Applications International Corporation entities since FY2008.",
    "tier": 1
   },
@@ -737,7 +815,13 @@
     "text": "AARO, Historical Record Report Volume I, March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
    "tier": 1
   },
@@ -793,9 +877,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-aca8a822",
+     "id": "n-talbert-gravity-series-1955",
      "locator": null,
-     "title": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image"
+     "title": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
     }
    ],
    "text": "The Herald Tribune series of November 1955 lists 'Bell Aircraft of Buffalo, builders of the first piloted airplane to fly faster than sound and a current jet vertical take-off and landing airplane' among the aircraft industry firms 'now participating or actively interested in gravity'.",
@@ -833,9 +917,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-1db9ad13",
+     "id": "n-talbert-gravity-series-1955",
      "locator": null,
-     "title": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, page image"
+     "title": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
     }
    ],
    "text": "Lawrence D. Bell told Talbert: 'Aviation as we know it is on the threshold of amazing new concepts', and 'The Wright Brothers proved that man does not have to be earth-bound. Our next step will be to prove that we can operate outside the earth's atmosphere and the third will be to operate outside the gravity of the earth.'",
@@ -899,7 +983,13 @@
     "text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, citing David Grusch",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-gerb-northrop-trw-investigation",
+     "locator": "citing David Grusch",
+     "title": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)"
+    }
+   ],
    "text": "Stephanie O'Sullivan - former Principal Deputy DNI, former TRW engineer and current Aerospace Corporation board member - is stated by David Grusch to have managed the UFO crash retrieval issue alongside James Clapper at ODNI.",
    "tier": 2
   },
@@ -955,9 +1045,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-archive-org-c8784eac",
+     "id": "n-disclosure-project-briefing-2001",
      "locator": null,
-     "title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+     "title": "Disclosure Project Briefing Document, April 2001"
     }
    ],
    "text": "In the same testimony he lists his clients: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record for any of these was opened.",
@@ -973,7 +1063,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "USAspending records prime contract obligations to Raytheon Company entities exceeding $100 billion since FY2008, including sensor test assessment and anomaly resolution task orders.",
    "tier": 1
   },
@@ -987,7 +1083,13 @@
     "text": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 0:55:31, transcript in dist/transcripts/md/",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-331b62cfff5d",
+     "locator": "0:55:31",
+     "title": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner"
+    }
+   ],
    "text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 0:55:31, a panel speaker who self-identifies at 0:58:00 as the maker of 'my Air Force video' said of Edward C. 'Pete' Aldridge that 'He was a senior, I think, board member at LTV Aerospace, which was eventually transitioned to E systems, which was a CIA show company and then bought up by Raytheon.' The opened SEC filings name LTV Electrosystems, not LTV Aerospace, as the predecessor, list ten directors none of whom is Aldridge, and describe a listed NYSE contractor rather than a proprietary.",
    "tier": 2
   },

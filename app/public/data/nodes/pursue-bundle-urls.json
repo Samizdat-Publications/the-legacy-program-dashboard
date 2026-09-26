@@ -9,9 +9,9 @@
 "source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
-"id": "u-war-gov-1c6a1d62",
+"id": "n-war-gov-ufo-portal",
 "locator": null,
-"title": "Department of War - PURSUE portal (war.gov/UFO)"
+"title": "war.gov/UFO release portal"
 }
 ],
 "text": "Release 03's document bundle is 826MB and its video bundle 4.6GB, per the war.gov/UFO portal listing.",
@@ -23,9 +23,9 @@
 "source": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
-"id": "u-war-gov-1c6a1d62",
+"id": "n-war-gov-ufo-portal",
 "locator": null,
-"title": "Department of War - PURSUE portal (war.gov/UFO)"
+"title": "war.gov/UFO release portal"
 }
 ],
 "text": "PURSUE video bundles are served from a CloudFront distribution (d34w7g4gy10iej.cloudfront.net), not from war.gov or aaro.mil.",
@@ -37,9 +37,9 @@
 "source": "https://www.war.gov/UFO/",
 "sources": [
 {
-"id": "u-war-gov-1c6a1d62",
+"id": "n-war-gov-ufo-portal",
 "locator": null,
-"title": "Department of War - PURSUE portal (war.gov/UFO)"
+"title": "war.gov/UFO release portal"
 }
 ],
 "text": "The war.gov/UFO portal publishes no file counts for any release; every per-tranche count in circulation is a third-party inventory. Reasoning: direct inspection of the portal on 12 August 2026 shows only date, document bundle size and video bundle size per release.",

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-13d09b773c",
+"locator": null,
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "The Black Vault AAWSAP DIRD archive, 2018-2022",
+"text": "Thirty-seven of the 38 DIRDs have been released in full and are publicly downloadable; the SECRET/NOFORN version of the high-energy laser weapons paper has not been released.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -52,7 +63,15 @@
 ],
 "node": null,
 "title": "The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-13d09b773c"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
 "type": "web page",
 "urls": [
 "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/"

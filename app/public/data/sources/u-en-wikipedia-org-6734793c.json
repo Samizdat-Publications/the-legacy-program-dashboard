@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-a7f5713602",
+"locator": null,
+"node": "l-albuquerque",
+"nodeLabel": "Albuquerque, New Mexico",
+"sourceText": "Wikipedia, Kirtland Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Sandia National Laboratories, descended from the Manhattan Project Z Division, is adjacent to Kirtland AFB in Albuquerque; the AFRL Directed Energy Directorate is a Kirtland tenant.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-c829be5a10",
+"locator": "acreage, KUMMSC activation",
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"sourceText": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Kirtland AFB covers 51,558 acres in southeast Albuquerque; Manzano Base merged with Kirtland on 1 July 1971; KUMMSC was activated in 1992 with more than 300,000 square feet underground.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

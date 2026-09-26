@@ -49,7 +49,13 @@
     "text": "GEIPAN, 'Classification', geipan.fr, statistics as at 31 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-geipan-fr-20f47906",
+     "locator": "statistics as at 31 March 2026",
+     "title": "GEIPAN - Classification"
+    }
+   ],
    "text": "'Depuis 49 ans, le GEIPAN a enregistré plus de 9 897 témoignages représentant environ 5 170 cas d'observations qui dans 10% des cas ont fait objet d'enquêtes terrain. Au 31/03/2026 cela représente 3336 cas publiés. 66,5 % des cas sont classés A ou B ... 30.3 % ... (CAS C). 3,2 % des observations restent inexpliquées (CAS D).'",
    "tier": 1
   },
@@ -63,7 +69,13 @@
     "text": "COMETA report, Conclusions and Recommendations, recommendation 5, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "recommendation 5",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Recommendation 5: 'Initiate diplomatic demarches to the United States, with the support of other States and even the European Union, to urge the superpower to collaborate and, if necessary, exert useful pressure to clarify this crucial issue that can only come within the framework of political and strategic alliances.'",
    "tier": 2
   },
@@ -77,7 +89,13 @@
     "text": "'French Government UFO Study', NSA declassified UFO document collection",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-03c8dbe14445",
+     "locator": null,
+     "title": "French Government UFO Study"
+    }
+   ],
    "text": "NSA-held assessment: 'the original report was limited to 120 or 140 copies and was secret. It is not available for general dissemination.'",
    "tier": 1
   },
@@ -151,7 +169,13 @@
     "text": "COMETA report, Letty foreword, 1999",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Letty foreword",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Letty: COMETA would not have been born without General Bernard Norlain and 'Mr. Andre Lebeau, former chairman of the Centre National d'Etudes Spatiales'.",
    "tier": 1
   },
@@ -181,9 +205,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ia800403-us-archive-org-90ba362a",
+     "id": "n-doc-cometa-report",
      "locator": null,
-     "title": "COMETA report"
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
     }
    ],
    "text": "Letty's foreword, verbatim: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
@@ -199,7 +223,13 @@
     "text": "GEIPAN, 'Classification', geipan.fr, 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-geipan-fr-20f47906",
+     "locator": null,
+     "title": "GEIPAN - Classification"
+    }
+   ],
    "text": "'Au total le GEIPAN reçoit plus de 1000 contacts par an ... Environ 150 à 200 donnent lieu à une enquête qui se termine par une publication sur le site du GEIPAN ... tout en préservant l'anonymat des témoins.'",
    "tier": 1
   },
@@ -213,7 +243,13 @@
     "text": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Conclusions and Recommendations",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Conclusion: 'Secret craft definitely of earthly origin (drones, stealth aircraft, etc.) can only explain a minority of cases.'",
    "tier": 2
   },
@@ -227,7 +263,13 @@
     "text": "COMETA report, recommendation 4, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "recommendation 4",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Recommendation 4: 'Create a unit at the highest State level to collaborate with SEPRA' tasked with formulating prospective hypotheses, funded with 'an annual budget of a few million francs', and 'participating in the establishment of sectorial cooperation agreements with other countries'.",
    "tier": 2
   },
@@ -266,7 +308,13 @@
     "text": "Wikipedia, 'COMETA report' (flagged there as needing citation)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-en-wikipedia-org-d0df5144",
+     "locator": "flagged as needing citation",
+     "title": "COMETA report - Wikipedia"
+    }
+   ],
    "text": "COMETA member Jean-Jacques Velasco personally handed the 90-page report to Prime Minister Lionel Jospin.",
    "tier": 2
   },
@@ -280,7 +328,13 @@
     "text": "COMETA report, recommendation 6, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "recommendation 6",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Recommendation 6: public authorities should reflect on 'the measures to take in the event of a spectacular and indisputable manifestation of a UFO: overt attempt to make contact, landing before numerous witnesses, other substantial actions'.",
    "tier": 2
   },
@@ -296,9 +350,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ia800403-us-archive-org-90ba362a",
+     "id": "n-doc-cometa-report",
      "locator": null,
-     "title": "COMETA report"
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
     }
    ],
    "text": "Chapter 7.5: twelve French aeronautical cases were known to GEPAN/SEPRA, 'only three or four of these can be considered to fall into category D'; the first UAP D dates to 1951 involving Vampire military aircraft near Orange; and not until 28 January 1994 did an Air France crew produce 'the first case of a visual sighting correlated with a radar detection over 50 seconds long'. A worldwide list compiled by Dominique Weinstein describes '489 well-documented cases of aeronautical UAP D sightings the sources of which were duly verified'.",
@@ -316,9 +370,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ia800403-us-archive-org-90ba362a",
+     "id": "n-doc-cometa-report",
      "locator": null,
-     "title": "COMETA report"
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
     }
    ],
    "text": "Named members, with IHEDN promotion numbers as printed: Michel Algrin (AA 35), Pierre Bescond, Weapons Engineer General 2nd Section (AA 48), Denis Blancher, Chief of Police, Police Nationale, Ministry of the Interior, Jean Dunglas (AR 48), Bruno Le Moine, Air Force General 2nd Section (AA 41), Françoise Lepine, Fondation pour les Études de Défense (AA 33), Christian Marchal, research director at ONERA, Marc Merlo, Admiral 2nd Section (AA 35), Alain Orszag, Weapons Engineer General 2nd Section.",
@@ -336,9 +390,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ia800403-us-archive-org-90ba362a",
+     "id": "n-doc-cometa-report",
      "locator": null,
-     "title": "COMETA report"
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
     }
    ],
    "text": "Chapter 8.3, verbatim: 'if there had only been ten or so UAP D [sightings], this ambiguous file could just have been classified as \"no action,\" but we are no longer at that point and are far beyond that. Thus we are forced to seek plausible explanations.'",
@@ -368,7 +422,13 @@
     "text": "'French Government UFO Study', NSA declassified UFO document collection",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-03c8dbe14445",
+     "locator": null,
+     "title": "French Government UFO Study"
+    }
+   ],
    "text": "NSA-held assessment: GEPAN 'is alerted to actual cases by teletype by the Gendarmerie, the French national police force.'",
    "tier": 1
   },
@@ -416,7 +476,13 @@
     "text": "GEIPAN, 'Classification', geipan.fr, 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-geipan-fr-20f47906",
+     "locator": null,
+     "title": "GEIPAN - Classification"
+    }
+   ],
    "text": "GEIPAN's classification was rebuilt in 2008 on two measured parameters, consistency (C) and residual strangeness (E), and class D is 'généralement attribuée suite à une enquête terrain avec rencontre du ou des témoins'.",
    "tier": 1
   },
@@ -430,7 +496,13 @@
     "text": "COMETA report, recommendation 1, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "recommendation 1",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Recommendation 1 includes alerting 'special civilian and military departments, as well as the Direction de la Communication de la Defense (DICOD, former central SIRPA), calling their attention to disinformation processes.'",
    "tier": 2
   },
@@ -444,7 +516,13 @@
     "text": "Wikipedia, 'COMETA report', citing Robert Roussel, Ovnis 1947-2017: Le choix du déni (2018), p.214",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-en-wikipedia-org-d0df5144",
+     "locator": "p.214 of cited work",
+     "title": "COMETA report - Wikipedia"
+    }
+   ],
    "text": "Olivier Schrameck, chief of staff to Prime Minister Lionel Jospin, said Jospin read and annotated the COMETA report 'to mark his interest'; the French government made no official response beyond that.",
    "tier": 2
   },
@@ -478,7 +556,13 @@
     "text": "COMETA report, Norlain preface, 1999",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Norlain preface",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Norlain: 'Knowing that some twenty years earlier the AA had produced and published a preliminary report on the subject in its bulletin, it was but time to update it' - and 'The first report of the AA favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs.'",
    "tier": 1
   },
@@ -492,7 +576,13 @@
     "text": "COMETA report, Introduction, 1999",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Introduction",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file.'",
    "tier": 1
   },
@@ -506,7 +596,13 @@
     "text": "COMETA report, Norlain preface, 1999",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Norlain preface",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Norlain records that the IHEDN Auditors Association's first report 'favored the creation within CNES of the only civilian government agency known in the world dedicated to the study of UFOs'.",
    "tier": 1
   },
@@ -540,7 +636,13 @@
     "text": "COMETA report, preface by General Bernard Norlain, 1999",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Norlain preface",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Norlain, preface: 'I express the wish that the recommendations of COMETA, which are inspired by good sense, will be examined and implemented by the authorities of our country.'",
    "tier": 1
   },
@@ -594,7 +696,13 @@
     "text": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-geipan-fr-93206d40",
+     "locator": null,
+     "title": "GEIPAN - accueil"
+    }
+   ],
    "text": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly.",
    "tier": 2
   },
@@ -608,7 +716,13 @@
     "text": "GEIPAN, 'Statistiques', geipan.fr, 11 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-geipan-fr-d3b360e9",
+     "locator": "dynamic statistics as at 11 August 2026",
+     "title": "GEIPAN - Statistiques"
+    }
+   ],
    "text": "GEIPAN dynamic statistics as at 11 August 2026: 3,381 cases total - A 28.1% (950), B 38.7% (1,310), C 30.0% (1,015), D 3.1% (106).",
    "tier": 1
   },
@@ -624,9 +738,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ia800403-us-archive-org-90ba362a",
+     "id": "n-doc-cometa-report",
      "locator": null,
-     "title": "COMETA report"
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
     }
    ],
    "text": "Chapter 7.4: 'Around one hundred investigations have been conducted by GEPAN/SEPRA'; several 'demonstrated, in the end, the physical presence of a phenomenon the nature and origin of which remain unknown', naming Trans-en-Provence (8 January 1981) and 'Amaranth' (21 October 1982), 'detailed in GEPAN technical memoranda no. 16 and no. 17'.",
@@ -642,7 +756,13 @@
     "text": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Letty foreword",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Christian Marchal is listed as 'Chief Mining Engineer, Research Director at ONERA [National Aerospace Study and Research Office]' - placing a serving research director of the French national aerospace research establishment inside COMETA.",
    "tier": 2
   },
@@ -658,9 +778,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ia800403-us-archive-org-90ba362a",
+     "id": "n-doc-cometa-report",
      "locator": null,
-     "title": "COMETA report"
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
     }
    ],
    "text": "Title page: 'UFOs and Defense: What Should We Prepare For? -An independent report on UFOs written by the French association COMETA. This report details the results of a study by the Institute of Higher Studies for National Defence.- This paper originally appeared in a special issue of the magazine VSD published In France in July 1999.'",
@@ -676,7 +796,13 @@
     "text": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Conclusions and Recommendations",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Conclusion: the studies 'demonstrate the almost certain physical reality of completely unknown flying objects with remarkable flight performances and noiselessness, apparently operated by intelligent [beings].'",
    "tier": 2
   },
@@ -690,7 +816,13 @@
     "text": "'French Government UFO Study', NSA declassified UFO document collection",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-03c8dbe14445",
+     "locator": null,
+     "title": "French Government UFO Study"
+    }
+   ],
    "text": "NSA-held assessment: 'The care with which distances, angles, and psychological factors were evaluated makes the bulk of the Condon Report seem very poor by comparison. In many cases, the investigations were textbook models of how such investigations should be carried out.'",
    "tier": 1
   },
@@ -706,9 +838,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ia800403-us-archive-org-90ba362a",
+     "id": "n-doc-cometa-report",
      "locator": null,
-     "title": "COMETA report"
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
     }
    ],
    "text": "Chapter 7.2, verbatim: 'Category D UAPs represent 4 to 5% of the cases and are called UAP Ds', where category D is 'phenomenon that cannot be identified despite the abundance and quality of the data'.",
@@ -744,7 +876,13 @@
     "text": "COMETA report, recommendation 2, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "recommendation 2",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Recommendation 2: 'Boost SEPRA's human and material resources' to develop investigation and analysis, collect information on all UFO manifestations in Europe and worldwide, maintain databases, and 'boost its representation and foreign relations status'.",
    "tier": 2
   },
@@ -758,7 +896,13 @@
     "text": "'French Government UFO Study', US National Security Agency declassified UFO document collection",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-03c8dbe14445",
+     "locator": null,
+     "title": "French Government UFO Study"
+    }
+   ],
    "text": "NSA-held assessment: 'In 10 of the 11 cases, the conclusion was that the witnesses had witnessed a material phenomenon that could not be explained as a natural phenomenon or a human device. One of the conclusions of the total report is that behind the overall phenomenon there is a flying machine ... whose modes of sustenance and propulsion are beyond our knowledge.'",
    "tier": 1
   },
@@ -832,7 +976,13 @@
     "text": "COMETA report, Conclusions and Recommendations, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-cometa-report",
+     "locator": "Conclusions and Recommendations",
+     "title": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)"
+    }
+   ],
    "text": "Conclusion: 'A single hypothesis sufficiently takes into account the facts and, for the most part, only calls for present-day science. It is the hypothesis of extraterrestrial visitors. Advanced as of 1947 by certain U.S. military personnel, today it is discredited by a certain elite, but it is popular worldwide.'",
    "tier": 2
   },
@@ -860,7 +1010,13 @@
     "text": "'French Government UFO Study', document in the US National Security Agency declassified UFO document collection (submitted by Ron Westrum)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-03c8dbe14445",
+     "locator": "submitted by Ron Westrum",
+     "title": "French Government UFO Study"
+    }
+   ],
    "text": "'GEPAN was created in 1977, under the direction of Dr. Claude Poher. Poher has now resigned, feeling that he has done everything he could do with the methods at hand. Nonetheless, the organization has not been disbanded but continues its work.'",
    "tier": 1
   },

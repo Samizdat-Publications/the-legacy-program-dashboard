@@ -10,23 +10,35 @@
 "sources": [],
 "text": "Kyodo News headline, 9 May 2026: 'UFO footage disclosed by U.S. shows football-shaped object near Japan.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:english.kyodonews.net) was rejected in review: candidate URL is the site home page, not the article"
 },
 {
 "id": "c-b379079a2d",
 "source": "The Japan Times, 11 May 2026, indexed via Google News",
-"sources": [],
+"sources": [
+{
+"id": "u-japantimes-co-jp-675e75e2",
+"locator": null,
+"title": "The Japan Times"
+}
+],
 "text": "The Japan Times headline, 11 May 2026: 'Tokyo analyzing Pentagon UFO file trove with sightings near Japan.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3b192829bf",
 "source": "International Business Times UK, 13 May 2026, indexed via Google News",
-"sources": [],
+"sources": [
+{
+"id": "t-4c02e17d623e",
+"locator": null,
+"title": "International Business Times UK, 13 May 2026"
+}
+],
 "text": "International Business Times UK headline, 13 May 2026: 'Japan Confirms Possession of UAP Footage After Reviewing Pentagon Videos Near Japanese Airspace.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",

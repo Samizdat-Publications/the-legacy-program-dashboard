@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-04dc138bdf",
+"locator": null,
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"sourceText": "Fox News, 10 June 2026; Los Angeles Magazine, 9 June 2026",
+"text": "Hosted the 9 June 2026 Capitol press conference featuring Grusch and four members of Congress.",
+"tier": 2
+}
+],
+"date": "2026-06-10",
+"edges": [],
+"era": "3",
+"id": "t-8aede6a32dba",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fox News",
+"listedOn": [],
+"node": null,
+"title": "Fox News, 10 June 2026; Los Angeles Magazine, 9 June 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

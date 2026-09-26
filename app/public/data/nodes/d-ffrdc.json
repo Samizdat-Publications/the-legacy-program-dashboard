@@ -12,7 +12,7 @@
 {
 "id": "crs-r44629",
 "locator": "'Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress'",
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "FAR 35.017 grants FFRDCs access to government and supplier data, including sensitive and proprietary information, and to employees and facilities beyond that common in a normal contractual relationship.",
@@ -26,7 +26,7 @@
 {
 "id": "crs-r44629",
 "locator": "updated 15 May 2026",
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "As of February 2026, 41 FFRDCs were sponsored or co-sponsored by 12 federal agencies.",
@@ -40,7 +40,7 @@
 {
 "id": "crs-r44629",
 "locator": "summarising FAR 35.017",
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "FFRDCs must operate in the public interest with objectivity and independence, be free from organisational conflicts of interest, fully disclose their activities to their sponsoring agency, and may not use their special access to compete with the private sector for federal R&D contracts.",
@@ -53,7 +53,7 @@
 "sources": [],
 "text": "Burlison's 22 May 2026 letter to MITRE rests explicitly on this structure: 'FFRDCs often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:burlison-mitre-letter-2026) was rejected in review: string cites MeriTalk's quotation, not the letter itself"
 },
 {
 "id": "c-5a6c021232",
@@ -61,7 +61,7 @@
 "sources": [],
 "text": "The combination of contractor-held records outside FOIA, disclosure obligations running only to the sponsoring agency, and permanent sole-source relationships makes the FFRDC layer the single most defensible place in the US system to host an unacknowledged programme. Reasoning: each of the three properties independently removes an oversight mechanism, and no other institutional form removes all three simultaneously.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's own structural inference from statutes, not a source"
 }
 ],
 "cls": "domain",

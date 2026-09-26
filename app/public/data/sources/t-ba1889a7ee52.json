@@ -1,0 +1,50 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a670522dca",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "Collin Binkley, Associated Press, 30 June 2026",
+"text": "The council has no budget and no access to classified material.",
+"tier": 2
+}
+],
+"date": "2026-06-30",
+"edges": [],
+"era": "3",
+"id": "t-ba1889a7ee52",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Associated Press",
+"topics": [
+{
+"claims": [
+"c-a670522dca"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-a670522dca"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-a670522dca"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
+"type": "article",
+"urls": []
+}

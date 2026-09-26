@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-ce937f8ebf",
+"locator": null,
+"node": "cia-prepublication-classification-review-board",
+"nodeLabel": "CIA Prepublication Classification Review Board",
+"sourceText": "Danny Jones Podcast, ep. 329, 5 September 2025, 0:05:01 to 0:08:16, mapped at research/leads/dannyjones-corpus-21.md",
+"text": "On the Danny Jones Podcast, episode 329, 5 September 2025, at 0:05:01 to 0:08:16, Andrew Bustamante said his manuscript was submitted in 2021, declared classified by CIA in 2022, and approved roughly three weeks after suit was threatened. No CIA record of that review was opened for this node, and a book's own clearance page is not a record.",
+"tier": 2
+}
+],
+"date": "2025-09-05",
+"edges": [],
+"era": "3",
+"id": "t-e57940f567e1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Danny Jones Podcast",
+"listedOn": [],
+"node": null,
+"title": "Danny Jones Podcast, ep. 329, 5 September 2025, 0:05:01 to 0:08:16, mapped at research/leads/dannyjones-corpus-21.md",
+"topics": [
+{
+"claims": [
+"c-ce937f8ebf"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "broadcast",
+"urls": []
+}

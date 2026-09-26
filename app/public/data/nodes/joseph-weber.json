@@ -24,10 +24,16 @@
 {
 "id": "c-5740a4e4f7",
 "source": "Danny Jones Podcast, ep. 318, 28 July 2025, 1:02:34, mapped at research/leads/dannyjones-corpus-19.md",
-"sources": [],
+"sources": [
+{
+"id": "t-0c4c7ff174fa",
+"locator": null,
+"title": "Danny Jones Podcast, ep. 318, 28 July 2025, 1:02:34, mapped at research/leads/dannyjones-corpus-19.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 318, 28 July 2025, at 1:02:34, Jeremy Rys named Weber among the attendees of the 1957 Chapel Hill conference and credited his Weber bars as foundational to LIGO. The conference report confirms his presence at Chapel Hill in January 1957 and his affiliation as University of Maryland, and carries nothing else the transcript attributes to him.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

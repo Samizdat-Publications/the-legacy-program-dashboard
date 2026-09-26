@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-9c07dbbf38",
+"locator": null,
+"node": "alejandro-rojas",
+"nodeLabel": "Alejandro Rojas",
+"sourceText": "Alejandro Rojas to DefenseScoop, 14 May 2026",
+"text": "'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.'",
+"tier": 2
+}
+],
+"date": "2026-05-14",
+"edges": [],
+"era": "3",
+"id": "t-365ad58d7592",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "DefenseScoop",
+"listedOn": [],
+"node": null,
+"title": "Alejandro Rojas",
+"topics": [
+{
+"claims": [
+"c-9c07dbbf38"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+}
+],
+"type": "article",
+"urls": []
+}

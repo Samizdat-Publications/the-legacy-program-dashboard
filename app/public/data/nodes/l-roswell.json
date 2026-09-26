@@ -7,18 +7,30 @@
 {
 "id": "c-c2b8eec085",
 "source": "RAAF press release, 8 July 1947, issued by 1st Lt. Walter Haut",
-"sources": [],
+"sources": [
+{
+"id": "n-raaf-press-release-1947",
+"locator": null,
+"title": "RAAF Press Release, 8 July 1947"
+}
+],
 "text": "The 8 July 1947 RAAF press release stated that 'the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-da443aad6a",
 "source": "Contemporaneous Fort Worth press conference photographs and wire copy, 8 July 1947",
-"sources": [],
+"sources": [
+{
+"id": "t-5e3845b0ffa6",
+"locator": null,
+"title": "Fort Worth press conference photographs and wire copy"
+}
+],
 "text": "Brig. Gen. Roger M. Ramey retracted the statement at Fort Worth Army Air Field with weather officer Irving Newton, presenting the debris as a weather balloon and radar target.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-dddb4cba29",
@@ -26,7 +38,7 @@
 "sources": [],
 "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4 and acknowledged the weather balloon explanation had been a cover story; 'The Roswell Report: Case Closed' (24 June 1997) attributed body accounts to anthropomorphic parachute test dummies.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:roswell-report-1995) was rejected in review: names two reports; only one is the candidate"
 },
 {
 "id": "c-3b51ca112a",

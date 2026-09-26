@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20260522215233/https://www.oni.navy.mil/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-57637664ff",
+"locator": null,
+"node": "oni",
+"nodeLabel": "Office of Naval Intelligence",
+"sourceText": "Office of Naval Intelligence, official website, retrieved 12 August 2026",
+"text": "ONI describes itself as established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

@@ -1,6 +1,97 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-5bed5216ea",
+"locator": null,
+"node": "gallaudet-2015-email",
+"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"sourceText": "Gallaudet written testimony, 13 November 2024",
+"text": "Gallaudet concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-5dd1879261",
+"locator": null,
+"node": "gallaudet-2015-email",
+"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"sourceText": "Gallaudet written testimony, 13 November 2024",
+"text": "The email vanished from Gallaudet's and other recipients' accounts 'without explanation' the next day.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-5f5aa9e538",
+"locator": null,
+"node": "gallaudet-2015-email",
+"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"sourceText": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "The email's subject line was 'URGENT SAFETY OF FLIGHT ISSUE' and it carried the GO FAST video.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-8dc6a6819b",
+"locator": "quoting the Fleet Forces Command operations officer",
+"node": "gallaudet-2015-email",
+"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"sourceText": "Gallaudet written testimony quoting the Fleet Forces Command operations officer, 13 November 2024",
+"text": "'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-cfa093ffbd",
+"locator": null,
+"node": "gofast-video",
+"nodeLabel": "GO FAST (Navy ATFLIR video, January 2015)",
+"sourceText": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "The GO FAST video was attached to a January 2015 US Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' that was deleted from recipients' accounts the following day.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-096e4c4621",
+"locator": "House Oversight joint subcommittee hearing, 13 Nov 2024",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"text": "In January 2015 the operations officer of Fleet Forces Command emailed all subordinate commanders under the subject 'URGENT SAFETY OF FLIGHT ISSUE,' attaching the GO FAST video and writing 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-7cb83e65ca",
+"locator": null,
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "He concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-fb0a5cff34",
+"locator": null,
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "The email disappeared from his account and other recipients' accounts the next day without explanation.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-2027d1eb12",
+"locator": null,
+"node": "roosevelt-2014-2015",
+"nodeLabel": "USS Theodore Roosevelt Encounters (2014-2015)",
+"sourceText": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"text": "A January 2015 Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' reported 'multiple near-midair collisions' and was deleted from all recipients' accounts the next day.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -196,7 +287,49 @@
 ],
 "node": null,
 "title": "House Oversight - Gallaudet written testimony (PDF)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-5bed5216ea",
+"c-5dd1879261",
+"c-5f5aa9e538",
+"c-8dc6a6819b",
+"c-cfa093ffbd"
+],
+"id": "uaptf-odni-2021",
+"title": "The UAP Task Force and the 2021 ODNI assessment"
+},
+{
+"claims": [
+"c-5f5aa9e538",
+"c-8dc6a6819b",
+"c-096e4c4621",
+"c-7cb83e65ca",
+"c-fb0a5cff34"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-5f5aa9e538",
+"c-096e4c4621",
+"c-7cb83e65ca",
+"c-fb0a5cff34"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
+},
+{
+"claims": [
+"c-5bed5216ea",
+"c-5dd1879261",
+"c-5f5aa9e538"
+],
+"id": "immaculate-constellation",
+"title": "Immaculate Constellation: the 2024 allegation"
+}
+],
 "type": "document",
 "urls": [
 "https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf"

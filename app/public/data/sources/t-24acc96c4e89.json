@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-ee7f1574d9",
+"locator": null,
+"node": "press-conf-2026-06-09",
+"nodeLabel": "Capitol UAP Disclosure Press Conference",
+"sourceText": "Fox News, 10 June 2026",
+"text": "Grusch accused the Defense Intelligence Agency of obstructing congressional oversight by withholding documents.",
+"tier": 2
+}
+],
+"date": "2026-06-10",
+"edges": [],
+"era": "3",
+"id": "t-24acc96c4e89",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fox News",
+"listedOn": [],
+"node": null,
+"title": "Fox News, 10 June 2026",
+"topics": [
+{
+"claims": [
+"c-ee7f1574d9"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
+"type": "article",
+"urls": []
+}

@@ -22,6 +22,26 @@
 "tier": 2
 },
 {
+"cls": "person",
+"id": "c-bd86395c0b",
+"locator": null,
+"node": "jacob-haqq-misra",
+"nodeLabel": "Jacob Haqq-Misra",
+"sourceText": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"text": "Haqq-Misra, an astrobiologist and Sol Foundation advisory board member, was named to the UAP Science Advisory Council in June 2026.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-e730186495",
+"locator": "22 June 2026",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation, 'Sol Foundation Co-Founders Named to U.S. Government's UAP Science Advisory Council', 22 June 2026",
+"text": "On 22 June 2026 ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to a higher-level interagency UAP Governance Board; Nolan, Skafish, Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it, and all data shared with the council is to be unclassified.",
+"tier": 1
+},
+{
 "cls": "institution",
 "id": "c-13ff9228d9",
 "locator": null,
@@ -29,6 +49,16 @@
 "nodeLabel": "The Sol Foundation",
 "sourceText": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/",
 "text": "'All data shared with the council will be unclassified.'",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-1e4302f3ea",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
+"text": "In June 2026 the foundation announced that its co-founders Nolan and Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard had been named to the fourteen-member UAP Science Advisory Council, which reports to a higher-level UAP Governance Board and works only with unclassified data.",
 "tier": 2
 },
 {
@@ -322,7 +352,15 @@
 ],
 "node": null,
 "title": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-e730186495"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "web page",
 "urls": [
 "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"

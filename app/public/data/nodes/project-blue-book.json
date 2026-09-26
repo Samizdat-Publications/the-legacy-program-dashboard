@@ -7,34 +7,58 @@
 {
 "id": "c-d4e3288d32",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
-"sources": [],
+"sources": [
+{
+"id": "u-af-mil-de312b60",
+"locator": null,
+"title": "USAF Fact Sheet: Project Blue Book"
+}
+],
 "text": "Blue Book recorded 12,618 sightings between 1947 and 1969, of which 701 remained unidentified; it was terminated on 17 December 1969.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-bfe7c31ee3",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
-"sources": [],
+"sources": [
+{
+"id": "u-af-mil-de312b60",
+"locator": null,
+"title": "USAF Fact Sheet: Project Blue Book"
+}
+],
 "text": "The Air Force gave three reasons for termination: no reported UFO was ever an indication of threat to national security; no evidence that unexplained sightings represented technological developments beyond current scientific knowledge; and no evidence that 'unidentified' sightings were extraterrestrial vehicles.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b70e857b46",
 "source": "National Archives, Air Force UFO records page",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-fcf00d64",
+"locator": null,
+"title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+}
+],
 "text": "NARA holds approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of Office of Special Investigations records, on 94 rolls of microfilm (T-1206).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-34ce9589cc",
 "source": "National Archives, Air Force UFO records page",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-fcf00d64",
+"locator": null,
+"title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+}
+],
 "text": "NARA states it has been 'unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8a730bdf60",
@@ -43,7 +67,7 @@
 {
 "id": "nara-rg-341",
 "locator": null,
-"title": "NARA Record Group 341"
+"title": "The Report on Unidentified Flying Objects (NARA Record Group 341)"
 }
 ],
 "text": "Blue Book directors were Edward J. Ruppelt (1952-1953), Charles Hardin (1954-1956), George T. Gregory (1956-1958), Robert J. Friend (1958-1963) and Hector Quintanilla (1963-1969).",

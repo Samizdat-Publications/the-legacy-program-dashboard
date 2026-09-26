@@ -25,7 +25,13 @@
     "text": "Danny Jones Podcast, ep. 224, 19 February 2024, 3:03:15 to 3:04:55, mapped at research/leads/dannyjones-corpus-33.md",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-1ea5e66b113b",
+     "locator": null,
+     "title": "Danny Jones Podcast, ep. 224, 19 February 2024, 3:03:15 to 3:04:55, mapped at research/leads/dannyjones-corpus-33.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 224, 19 February 2024, between 3:03:15 and 3:04:55, Daniel Sheehan named Prompt Global Strike as an effort to use reverse-engineered craft propulsion for a two-minute missile strike into Russia or China, tied to the congressional districts containing Wright-Patterson Air Force Base and Redstone Arsenal. The CRS report contradicts both halves: it traces every booster to an existing American ballistic missile and states the goal as striking targets in under an hour.",
    "tier": 2
   },
@@ -41,9 +47,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "Useful to the board as a dating of a term of art the UAP literature treats as technical: NASA recorded in 2004 that 'metric engineering' had emerged at aerospace conferences and that its origin was unknown.",
@@ -61,9 +67,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-1e962ddf",
+     "id": "n-dird-mhd-air-breathing-propulsion-and-power",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released"
+     "title": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
     }
    ],
    "text": "Its finding on the concept the popular literature most often reaches for, verbatim: 'A well-publicized Ajax concept of MHD energy bypass has been shown to be meaningless below at least Mach 12. In contrast, a new \"reverse energy bypass\" with Virtual Cowl is potentially practical for air-breathing hypersonic vehicles.'",
@@ -101,9 +107,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "Its conclusion, 'The Way Forward', verbatim in part: 'This report has reviewed and analyzed a number of antigravity concepts that are found within Newtonian gravity theory, General Relativity Theory, semi-classical quantum gravity theory, quantum field theory, and nonretarded quantum interatomic dispersion force theory. One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments.'",
@@ -121,9 +127,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-8d9d8dc2",
+     "id": "n-dird-warp-drive-dark-energy-and-the",
      "locator": null,
-     "title": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)"
+     "title": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
     }
    ],
    "text": "ITS OWN SUMMARY, VERBATIM, and what it claims is a possibility and not a result: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions is a tantalizing possibility, and one that is most certainly worthy of deeper investigation. Control of this higher dimensional space may be a source of technological control over the dark energy density and could ultimately play a role in the development of exotic propulsion technologies; specifically, a warp drive. Of course, this may not be actualized until many years in the future...' Its closing sentence: '...if we may make predictions based on the innovative history of scientific pioneers of the past, then it seems entirely possible that the creative minds of the future may indeed find ways to accomplish what, to us, may seem like magic.'",
@@ -141,9 +147,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-71dde161",
+     "id": "n-dird-maverick-inventor-versus-corporate-inventor-where",
      "locator": null,
-     "title": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026"
+     "title": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
     }
    ],
    "text": "HIS OWN DIA-FUNDED REFERENCE DOCUMENT DOES NOT MENTION THE HUTCHISON EFFECT. DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', cover-dated 30 March 2010, ICOD 1 December 2009, 20 pages as released, attributed on the DIA list of 9 January 2018 to Dr George Hathaway of Hathaway Consulting. Word counts over the whole released document: HUTCHISON 0, Pharos 0, levitation 0. Gravity occurs 12 times and antigravity 3. THE MAN WHO WROTE THE BOOK ON THE HUTCHISON EFFECT WROTE A DIA REFERENCE DOCUMENT ABOUT MAVERICK INVENTORS AND DID NOT MENTION IT. This is a fact about the document and is not a statement by him about the claim.",
@@ -179,7 +185,13 @@
     "text": "Lacatski to Jeremy Corbell, published 8 April 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-124932fc0083",
+     "locator": null,
+     "title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+    }
+   ],
    "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data — a body of work far larger than the 38 DIRDs released to Congress.",
    "tier": 2
   },
@@ -195,9 +207,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "Its own account of why NASA established it: 'New theories and phenomena have emerged in recent scientific literature that have reawakened consideration that propulsion breakthroughs may become achievable... This includes literature about warp drives, wormholes, quantum tunneling, vacuum fluctuation energy, and the coupling of gravity and electromagnetism. This emerging science, combined with the realization that rockets are fundamentally inadequate for interstellar exploration, led NASA to establish the \"Breakthrough Propulsion Physics (BPP)\" Project in 1996.'",
@@ -240,9 +252,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-ecee97c1",
+     "id": "n-canning-nasa-cr-2004-213312",
      "locator": null,
-     "title": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages"
+     "title": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
     }
    ],
    "text": "THE VACUUM RESULT, which is what answers the question US 3,187,206 raises in its own text about behaviour in a vacuum. The report quotes Robert Talley's Air Force-contract measurement directly: 'Talley wrote, \"Direct experimental results show that under high vacuum conditions... no detectable propulsive force was electrostatically induced by applying a static potential difference... between test device electrodes...\" Talley concluded (page 91 of his report), \"If such a force still exists and lies below the threshold of measurements in this program, then the force may be too small to be attractive for many, if not most, space propulsion applications.\"' The report adds of Talley's work: 'His report is the only written report we have found from the last half-century that describes a measurement of a force while in a vacuum chamber.' THE TALLEY REPORT ITSELF WAS NOT OPENED BY THIS SESSION.",
@@ -280,9 +292,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-8d9d8dc2",
+     "id": "n-dird-warp-drive-dark-energy-and-the",
      "locator": null,
-     "title": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)"
+     "title": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
     }
    ],
    "text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. At 0.01c: -3.03 x 10^46 J and -1.00 x 10^38 J. At 0.5c: -7.59 x 10^49 J and -2.50 x 10^41 J. AT LIGHT SPEED: -3.03 x 10^50 J and -1.00 x 10^42 J. At twice light speed: -1.21 x 10^51 J and -4.00 x 10^42 J. The document states that on its model 'energy requirements are reduced immensely when compared to the calculations of Lobo and Visser' and that 'All calculations are order-of-magnitude'.",
@@ -300,9 +312,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "He is the author of the single document that adjudicates three of the propulsion mechanisms this board tracks: Biefeld-Brown and its variants, Alcubierre-style metric engineering, and high frequency gravitational waves. His conclusion on the first, in his own text: these devices 'are not viable candidates for breakthrough physics propulsion'. On the second: they are 'extremely unlikely to be engineered'.",
@@ -320,9 +332,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "Its own statement of its method and its result: 'Because these challenges are presumably far from fruition, and perhaps even impossible, a special emphasis is placed on selecting incremental and affordable research that addresses the critical issues behind these challenges. Of 16 incremental research tasks completed by the project and from other sponsors, about a third were found not to be viable, a quarter have clear opportunities for sequels, and the rest remain unresolved.'",
@@ -414,9 +426,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-arxiv-org-23bbc3c1",
+     "id": "n-alcubierre-1994",
      "locator": null,
-     "title": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77"
+     "title": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
     }
    ],
    "text": "His own conclusion, verbatim: 'We see then that, just as it happens with wormholes, one needs exotic matter to travel faster than the speed of light. However, even if one believes that exotic matter is forbidden classically, it is well known that quantum field theory permits the existence of regions with negative energy densities in some special circumstances (as, for example, in the Casimir effect). The need of exotic matter therefore doesn't necessarily eliminate the possibility of using a spacetime distortion like the one described above for hyper-fast interstellar travel.'",
@@ -459,9 +471,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-1e962ddf",
+     "id": "n-dird-mhd-air-breathing-propulsion-and-power",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1011-006, 33 pages as released"
+     "title": "MHD Air Breathing Propulsion and Power for Aerospace Applications"
     }
    ],
    "text": "ITS OWN SUMMARY, VERBATIM, and it is a document about hypersonic aerodynamics and nothing else: 'The paper reviews novel propulsion concepts utilizing plasmas (ionized gases) and magnetohydrodynamics (MHD). These concepts are shown to be attractive due to their potential to achieve propulsion and aerodynamic performance far beyond current conventional technologies. However, significant difficulties impede the development and application of these technologies; these include weight, complexity, higher power, and the need for complex and energy-consuming artificial ionization in \"cold\" air (at Mach <12).'",
@@ -499,9 +511,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "THE HUTCHISON ZERO-COUNT, and it is one of the two checkable facts behind this board's treatment of that claim. Word counts over the complete 19-page text: Biefeld 4, Brown 6, lifter 2, asymmetric 5, Podkletnov 12, Alcubierre 1, ion wind 1, and HUTCHISON 0. NASA's project existed to triage claims of exactly this kind and found about a third of sixteen tasks not viable; the Hutchison effect did not reach the list of things worth finding not viable. THIS IS EVIDENCE ABOUT WHAT NASA EXAMINED AND IS NOT A FINDING THAT THE CLAIM IS FALSE.",
@@ -520,7 +532,7 @@
    "sourceRefs": [
     {
      "id": "foia-dia-00023-2022",
-     "locator": "and APP-00031-2022, released via The Black Vault, 2023",
+     "locator": null,
      "title": "DIA FOIA-00023-2022"
     }
    ],
@@ -539,9 +551,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-irp-fas-org-ac202ad1",
+     "id": "n-dia-aatip-list-2019",
      "locator": null,
-     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
     }
    ],
    "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr S Macheret, Lockheed Martin', where the title is given in full as 'Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications'.",
@@ -559,9 +571,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "Stated inference, and it is the comparison the strand exists to make. A civil agency ran a six-year public assessment of exotic propulsion, named the claims, published which ones failed, and closed. Seven years later a defence agency commissioned thirty-eight reference documents covering overlapping subjects, released them only under FOIA, and redacted every author. THE INFERENCE IS ABOUT TRANSPARENCY AND NOT ABOUT CONTENT: nothing opened joins the two programmes to each other, and no institutional edge between them is proposed.",
@@ -579,9 +591,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "THE PROJECT ADJUDICATED THREE OF THIS STRAND'S SIX MECHANISMS BY NAME, which is what makes it board material: Biefeld-Brown and its lifter and asymmetrical-capacitor variants in section 3.2.7 of its summary document, Alcubierre-style metric engineering in section 3.3.1, and high frequency gravitational waves in section 3.3.2. Its findings on each are carried on millis-tm-2004-213082.",
@@ -599,9 +611,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "THE BIEFELD-BROWN ADJUDICATION, section 3.2.7, verbatim and in full: 'In 1928 a device was patented for creating thrust using high-voltage capacitors. Since then, a wide variety of variants of this \"Biefeld-Brown\" effect, such as \"Lifters\" and \"Asymmetrical Capacitors\" have claimed that such devices operate on an \"electrostatic antigravity\" or \"electrogravitic\" effect. One of the most recent variants was patented by NASA-MSFC. To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind. Vacuum tests currently underway, sponsored through an additional Congressional earmark to the West Virginia Institute for Scientific Research, also indicate that this effect is not indicative of new propulsion physics. These tests are now assessing the more conventional performance of such devices. These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.'",
@@ -689,9 +701,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-irp-fas-org-ac202ad1",
+     "id": "n-dia-aatip-list-2019",
      "locator": null,
-     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
     }
    ],
    "text": "The DIA letter of 9 January 2018 lists 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero.'",
@@ -709,9 +721,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-ecee97c1",
+     "id": "n-canning-nasa-cr-2004-213312",
      "locator": null,
-     "title": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages"
+     "title": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
     }
    ],
    "text": "THE CONCLUSION, verbatim in the passage that matters: 'A simple model was developed of ions drifting from one electrode to the other under electrostatic forces, and imparting momentum to air as they underwent multiple collisions. This model was found to be consistent with all of our observations. It predicted the magnitude of the force (thrust) that was measured. It also predicted how the direction of the thrust changed when the location of the ground wire changed. Furthermore, it also predicted that the direction of the thrust was independent of the polarity of the applied voltage... In spite of decades of speculation about possible new physical principles being responsible for the thrust produced by ACTs and lifters, we find no evidence to support such a conclusion. On the contrary, we find that their operation is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions.'",
@@ -729,9 +741,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "Section 3.3.2 treats high frequency gravitational waves as a DETECTION problem, opening 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses, such as collisions of black holes' and proceeding to interferometry and LIGO. Fifteen years later the US Navy was granted US 10,322,827 for a high frequency gravitational wave GENERATOR. Both statements are Tier 1 for what their own documents say.",
@@ -794,9 +806,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "THE METRIC-ENGINEERING ADJUDICATION, section 3.3.1, verbatim: 'Enormous technical hurdles face these concepts. In particular, they require enormous quantities of \"negative energy\" (equivalent mass of planets or suns), and evoke time-travel paradoxes (\"closed-time-like curves\").' And: 'Recently, the term \"metric engineering\" has emerged at aerospace conferences to represent such space-warping propulsion concepts. The origin of this term is unknown. Given the magnitude of energy requirements to create perceptible effects, it is unlikely that experimental work will be forthcoming in the near future. Even though these theoretical concepts are extremely unlikely to be engineered, they are at least useful as teaching tools to more thoroughly explore the intricacies of Einstein's General Relativity.'",
@@ -814,9 +826,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-irp-fas-org-ac202ad1",
+     "id": "n-dia-aatip-list-2019",
      "locator": null,
-     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
     }
    ],
    "text": "Named on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee as author of item 16, 'Maverick Inventor Versus Corporate Inventor', affiliation Hathaway Consulting.",
@@ -834,9 +846,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "HE RAN NASA'S OWN ASSESSMENT OF EXOTIC PROPULSION, WHICH IS AN EARLIER AND STRONGER INSTITUTIONAL FACT THAN THE AAWSAP DIRD AUTHORSHIP THE BOARD ALREADY CARRIES FOR HIM. NASA/TM-2004-213082 carries his name and his NASA Glenn Research Center affiliation on its title page and summarises the Breakthrough Propulsion Physics Project, which 'NASA supported... from 1996 through 2002'. He therefore comes to the DIA's 2010 'Cockpits in the Era of Breakthrough Flight' with six years of having managed the federal government's only public, funded assessment of the same class of claims.",
@@ -854,9 +866,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-01165781",
+     "id": "n-dird-warp-drive-dark-energy-and-the",
      "locator": null,
-     "title": "DIA FOIA Reading Room — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (PDF)"
+     "title": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
     }
    ],
    "text": "Defense Intelligence Reference Document titled \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\", series \"Acquisition Threat Support\", published 2010-04-02 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1004-001. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
@@ -874,9 +886,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "THE ZERO-COUNTS, taken over the whole released 45-page PDF on 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT. The three occurrences of 'Brown' are other authors' surnames in the reference list. Alcubierre occurs once, as reference [43], the 1994 Classical and Quantum Gravity citation, and that is its only appearance in this document. A count is checkable and an adjective is not, which is why the node carries numbers.",
@@ -953,9 +965,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-arxiv-org-23bbc3c1",
+     "id": "n-alcubierre-1994",
      "locator": null,
-     "title": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77"
+     "title": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
     }
    ],
    "text": "THE ABSTRACT, VERBATIM AND IN FULL: 'It is shown how, within the framework of general relativity and without the introduction of wormholes, it is possible to modify a spacetime in a way that allows a spaceship to travel with an arbitrarily large speed. By a purely local expansion of spacetime behind the spaceship and an opposite contraction in front of it, motion faster than the speed of light as seen by observers outside the disturbed region is possible. The resulting distortion is reminiscent of the \"warp drive\" of science fiction. However, just as it happens with wormholes, exotic matter will be needed in order to generate a distortion of spacetime like the one discussed here.'",
@@ -1007,9 +1019,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-7dff25fe",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "DIA FOIA Reading Room — Antigravity for Aerospace Applications (PDF)"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "Defense Intelligence Reference Document titled \"Antigravity for Aerospace Applications\", series \"Acquisition Threat Support\", published 2010-03-30 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-018. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
@@ -1059,7 +1071,13 @@
     "text": "DIA solicitation HHM402-08-R-0211, posted 18 Aug 2008, released via The Black Vault",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aawsap-solicitation",
+     "locator": null,
+     "title": "DIA Solicitation HHM402-08-R-0211"
+    }
+   ],
    "text": "Lacatski is identified by name as 'Government Project Leader' on the DIA AAWSAP solicitation, the only unredacted appearance of the PM in the procurement record.",
    "tier": 1
   },
@@ -1120,9 +1138,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-ecee97c1",
+     "id": "n-canning-nasa-cr-2004-213312",
      "locator": null,
-     "title": "NASA/CR-2004-213312, Canning, Melcher and Winet, 'Asymmetrical Capacitors for Propulsion', 23 pages"
+     "title": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)"
     }
    ],
    "text": "The report's own reference list opens with the three Brown documents by number: '1 Brown, T.T., US Patent 2,949,550, \"Electrokinetic Apparatus,\" 1960. 2 Brown, T.T., US Patent 3,187,206, \"Electrokinetic Apparatus,\" 1965. 3 Brown, T.T., GB Patent 300,311, \"A Method of and an Apparatus or Machine for Producing Force or Motion,\" 1928.' NASA cites exactly the three Brown documents this board carries and concludes that what they describe is ions pushing on air.",
@@ -1140,9 +1158,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-arxiv-org-23bbc3c1",
+     "id": "n-alcubierre-1994",
      "locator": null,
-     "title": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77"
+     "title": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
     }
    ],
    "text": "THE ZERO-COUNT, WHICH IS WHAT THIS NODE EXISTS TO CARRY. Word counts over the complete 10-page text: 'device' 0, 'how to' 0, 'propulsion' 1. The single occurrence of 'propulsion' is the sentence 'A propulsion mechanism based on such a local distortion of spacetime just begs to be given the familiar name of the \"warp drive\" of science fiction.' The paper contains no apparatus, no engine and no method of construction. THIS IS EVIDENCE ABOUT WHAT THE PAPER SAYS AND IS NOT EVIDENCE THAT THE EFFECT IS IMPOSSIBLE.",
@@ -1160,9 +1178,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "The project's own statement of what it was: 'To assess the implications of these emerging prospects for future spaceflight, NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002. This project has three grand challenges: (1) Discover propulsion that eliminates the need for propellant; (2) Discover methods to achieve hyper-fast travel; and (3) Discover breakthrough methods to power spacecraft.'",
@@ -1198,7 +1216,13 @@
     "text": "The War Zone analysis of the DIRD list, 18 January 2019, citing the JASON HFGW report",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-twz-com-37fb1a48",
+     "locator": "citing the JASON HFGW report",
+     "title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded"
+    }
+   ],
    "text": "The JASON advisory group's 2008 assessment of Robert Baker's high-frequency gravitational wave concept concluded 'the proposed applications of the science of HFGW are fundamentally wrong', a critique published before DIA accepted the DIRD on the same subject.",
    "tier": 2
   },
@@ -1214,9 +1238,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-arxiv-org-23bbc3c1",
+     "id": "n-alcubierre-1994",
      "locator": null,
-     "title": "Miguel Alcubierre, 'The warp drive: hyper-fast travel within general relativity', Class. Quantum Grav. 11-5, L73-L77"
+     "title": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)"
     }
    ],
    "text": "THE REQUIREMENT, IN ALCUBIERRE'S OWN WORDS: 'The metric I have just described has one important drawback, however: it violates all three energy conditions (weak, dominant and strong). Both the weak and the dominant energy conditions require the energy density to be positive for all observers.' Having given the expression for the energy density the Eulerian observers see, he writes: 'The fact that this expression is everywhere negative implies that the weak and dominant energy conditions are violated. In a similar way one can show that the strong energy condition is also violated.'",
@@ -1233,11 +1257,6 @@
     "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
    },
    "sourceRefs": [
-    {
-     "id": "us-patent-3322374",
-     "locator": "against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, , opened 2026-09-18",
-     "title": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
-    },
     {
      "id": "us-patent-3322374",
      "locator": null,

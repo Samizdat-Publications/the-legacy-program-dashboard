@@ -3,6 +3,16 @@
 "claims": [
 {
 "cls": "event",
+"id": "c-ada9eb8931",
+"locator": null,
+"node": "gulf-of-oman-ac130j-2021",
+"nodeLabel": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
+"sourceText": "EarthSky, 10 August 2026, on PURSUE Release 05",
+"text": "Six videos from an AC-130J gunship and intelligence report DOW-UAP-D101 document approximately 25 instances of UAP over the Gulf of Oman on 8 September 2021.",
+"tier": 2
+},
+{
+"cls": "event",
 "id": "c-95040181d1",
 "locator": null,
 "node": "mq9-yemen-hellfire-video-2024",
@@ -10,6 +20,26 @@
 "sourceText": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/",
 "text": "Taken with DOW-UAP-PR051 (MQ-9 weapons-quality lock, Jordan-Syria border) and the Gulf of Oman AC-130J set with DOW-UAP-D101, the record now contains multiple US weapons employments or weapons-grade engagements against unidentified objects that were not destroyed, none of which is characterised as an engagement in any AARO annual report. Reasoning: the three events are separately sourced and the FY2023-FY2025 annual reports contain no engagement category.",
 "tier": 3
+},
+{
+"cls": "event",
+"id": "c-30dad76e28",
+"locator": null,
+"node": "pursue-release-05",
+"nodeLabel": "PURSUE Release 05",
+"sourceText": "EarthSky, 10 August 2026, summarising the Release 05 files",
+"text": "Six videos from an AC-130J gunship and intelligence report DOW-UAP-D101 document approximately 25 instances of UAP in the Gulf of Oman on 8 September 2021: cold orbs about four feet in diameter, 250-1,300 mph, low altitude, reportedly reacting to cannon fire.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-636c00d5fe",
+"locator": null,
+"node": "pursue-release-05",
+"nodeLabel": "PURSUE Release 05",
+"sourceText": "EarthSky, 10 August 2026, on the fifth batch of Pentagon UAP files",
+"text": "Release 05 comprised 41 files: 16 videos, 22 documents and 3 images.",
+"tier": 2
 },
 {
 "cls": "document",
@@ -277,7 +307,9 @@
 "topics": [
 {
 "claims": [
+"c-ada9eb8931",
 "c-95040181d1",
+"c-30dad76e28",
 "c-9b0aa41588",
 "c-c5a08a40b0"
 ],
@@ -286,6 +318,7 @@
 },
 {
 "claims": [
+"c-30dad76e28",
 "c-9b0aa41588",
 "c-c5a08a40b0",
 "c-df66a203d2"

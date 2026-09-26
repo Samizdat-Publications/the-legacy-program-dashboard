@@ -7,34 +7,58 @@
 {
 "id": "c-e9b7e5fac1",
 "source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.1",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The Air Force's 1997 report states the San Agustin claim is supported by three principal testimonies, two second-hand (Maltais, Knight) and one first-hand (Anderson), and that the original alleged eyewitness Grady L. Barnett is deceased.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8bb99172df",
 "source": "The Roswell Report: Case Closed (1997), Section 1.4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "n-roswell-report-case-closed",
+"locator": "Section 1.4",
+"title": "The Roswell Report: Case Closed (1997)"
+}
+],
 "text": "The report proposes that the witnesses may have confused the Plains of San Agustin with San Agustin Pass or San Agustin Peak, areas just outside White Sands Missile Range and the Jornada Test Range where numerous anthropomorphic dummy balloon flights terminated and were recovered.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d3ce81eb80",
 "source": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
-"sources": [],
+"sources": [
+{
+"id": "t-4e7b396ac619",
+"locator": "note 123 of the 1997 Air Force report",
+"title": "Rodeghier and Whiting (1992"
+}
+],
 "text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published 'The Plains of San Agustin Controversy' in 1992, an investigation by the two leading civilian research bodies that concluded against their own first-hand witness.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-206b95e21a",
 "source": "Stringfield, Status Report VII (February 1994), Roswell Crash/Retrieval Update",
-"sources": [],
+"sources": [
+{
+"id": "n-stringfield-status-reports",
+"locator": "Status Report VII (Feb 1994), Roswell Crash/Retrieval Update",
+"title": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+}
+],
 "text": "Stringfield's Status Report VII records a source placing the 1947 event just north of Roswell and not on the Plains of San Augustin.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",

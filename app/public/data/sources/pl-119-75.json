@@ -122,7 +122,7 @@
 "tier": 3
 }
 ],
-"date": null,
+"date": "1970",
 "edges": [
 {
 "a": {
@@ -244,7 +244,7 @@
 "type": "funding"
 }
 ],
-"era": "nd",
+"era": "1",
 "id": "pl-119-75",
 "identifiers": [
 "Public Law 119-75"
@@ -278,8 +278,12 @@
 "label": "The Classified Annex (NDAA and Defense Appropriations)"
 }
 ],
-"node": null,
-"title": "Public Law 119-75",
+"node": {
+"cls": "legislation",
+"id": "sec-8005-transfer",
+"label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+},
+"title": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "topics": [
 {
 "claims": [

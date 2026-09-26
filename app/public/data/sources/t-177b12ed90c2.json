@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-89083cafed",
+"locator": null,
+"node": "jesse-michels",
+"nodeLabel": "Jesse Michels",
+"sourceText": "Chapter list, American Alchemy episode 11 January 2026 (timestamps 43:04, 51:28, 1:22:01, 1:30:25, 1:32:56)",
+"text": "Michels' episode structure names MITRE, the Office of Global Access, the DOE NEST, the Y-12 Complex and the 1954 Atomic Energy Agreement as load-bearing components of the architecture.",
+"tier": 2
+}
+],
+"date": "2026-01-11",
+"edges": [],
+"era": "3",
+"id": "t-177b12ed90c2",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "American Alchemy episode 11 January 2026",
+"topics": [],
+"type": "broadcast",
+"urls": []
+}

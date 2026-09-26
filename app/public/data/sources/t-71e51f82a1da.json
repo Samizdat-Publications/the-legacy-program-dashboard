@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-0e0f8b37ec",
+"locator": null,
+"node": "italo-venturelli",
+"nodeLabel": "Dr Ítalo Venturelli",
+"sourceText": "Dr Ítalo Venturelli, interview before the Congressional meeting, quoted by Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"text": "'I've been a doctor for forty-six years and have performed thousands of surgeries. To me, it was obvious that this was not a human being.'",
+"tier": 2
+}
+],
+"date": "2026-01-30",
+"edges": [],
+"era": "3",
+"id": "t-71e51f82a1da",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "Dr Ítalo Venturelli, interview before the Congressional meeting, quoted by Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

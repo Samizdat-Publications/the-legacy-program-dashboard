@@ -25,18 +25,30 @@
 {
 "id": "c-1fa1803c02",
 "source": "Keith Kloor, The Intercept, 1 June 2019",
-"sources": [],
+"sources": [
+{
+"id": "u-theintercept-com-f6147715",
+"locator": null,
+"title": "The Intercept"
+}
+],
 "text": "Obtained and published Christopher Sherwood's 1 June 2019 statement denying Elizondo had AATIP responsibilities.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a754cfed2c",
 "source": "Keith Kloor, Issues in Science and Technology, Spring 2019",
-"sources": [],
+"sources": [
+{
+"id": "t-520fe4286f27",
+"locator": null,
+"title": "Keith Kloor, Issues in Science and Technology, Spring 2019"
+}
+],
 "text": "Reported Elizondo's 2016 evaluation rated him 'exemplary', with his supervisor writing it 'cannot be overstated the importance of Mr. Elizondo's portfolio to national security', and that Elizondo described his AATIP role as 'making sure the Russians, the Chinese, our foreign adversaries, weren't penetrating' the program.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

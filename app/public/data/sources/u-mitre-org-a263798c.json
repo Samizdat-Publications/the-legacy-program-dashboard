@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-8176615652",
+"locator": null,
+"node": "mitre-nsec",
+"nodeLabel": "National Security Engineering Center (NSEC)",
+"sourceText": "MITRE National Security Engineering Center fact sheet, 3 March 2022",
+"text": "NSEC is MITRE's DoD-sponsored FFRDC under USD(R&E), delivering research, engineering and analytical solutions to the Department of Defense and the Intelligence Community, with a lineage MITRE dates to 1958.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

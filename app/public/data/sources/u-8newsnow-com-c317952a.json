@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-c298b95aa9",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "KLAS 8 News Now, 'I-Team: Documents prove secret UFO study based in Nevada', December 2017",
+"text": "Knapp's KLAS I-Team published AAWSAP contract documentation establishing the DIA-funded study was executed in Las Vegas.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -69,7 +80,15 @@
 ],
 "node": null,
 "title": "KLAS 8 News Now",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-c298b95aa9"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "article",
 "urls": [
 "https://www.8newsnow.com/news/i-team-documents-prove-secret-ufo-study-based-in-nevada/"

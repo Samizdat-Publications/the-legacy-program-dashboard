@@ -43,10 +43,16 @@
 {
 "id": "c-eef58397b5",
 "source": "The Hill, 12 January 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-ddf4d30558cf",
+"locator": null,
+"title": "The Hill, 12 January 2024"
+}
+],
 "text": "Briefed House Oversight and Accountability Committee members in a closed-door session at the Capitol on 12 January 2024 for about ninety minutes, intended to improve transparency around the government's knowledge of UAP.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6c5b14008b",
@@ -54,7 +60,7 @@
 "sources": [],
 "text": "The internal watchdog overseeing the intelligence agencies deemed Grusch's allegations that UAP information was inappropriately concealed from Congress 'credible and urgent,' triggering mandatory notifications to the intelligence committees.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thehill.com/opinion/national-security/5149386-house-republicans-demand-ufo-t) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-881b0a8f5e",
@@ -70,15 +76,21 @@
 "sources": [],
 "text": "The ICIG found Grusch's urgent-concern complaint credible and urgent in July 2022, triggering transmission to the congressional intelligence committees.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Two co-equal complete citations (hearing and Debrief article) joined."
 },
 {
 "id": "c-e2f13fd353",
 "source": "Grusch answering Rep. Tim Burchett, House Oversight hearing transcript, 26 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "chrg-118hhrg53022",
+"locator": "answering Rep. Tim Burchett",
+"title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
+}
+],
 "text": "Grusch testified there was no smooth process for the ICIG to provide his disclosure to the House and Senate Armed Services Committees despite Title 10 equities.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",
@@ -231,7 +243,7 @@
 "status": "active",
 "sub": "Inspector General of the Intelligence Community (2021-2025); briefed the House on UAP",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 640 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 639 of 1138, score 26). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

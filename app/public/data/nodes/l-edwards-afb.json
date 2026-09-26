@@ -7,10 +7,16 @@
 {
 "id": "c-d4f4b19e72",
 "source": "Wikipedia, Edwards Air Force Base — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-77db68e5",
+"locator": null,
+"title": "Wikipedia - Edwards Air Force Base"
+}
+],
 "text": "Edwards AFB covers 470 square miles around Rogers Dry Lake; it was renamed from Muroc in December 1949 for Capt. Glen Edwards; it hosts the Air Force Test Center, the USAF Test Pilot School and NASA Armstrong Flight Research Center.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0105fd75e0",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "Groom Lake was selected in 1955 because U-2 flight test and pilot training could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility given the extreme secrecy of the project.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:cia-overhead-reconnaissance-history-1992) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-4d6fbac01b",
@@ -162,7 +168,7 @@
 ],
 "sub": "470 sq mi USAF flight test centre on Rogers Dry Lake, Kern County; AFTC, USAF Test Pilot School, NASA Armstrong",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 899 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 898 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unverified": []
 }

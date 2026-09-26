@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a3ee21ee62",
+"locator": null,
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
+"text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
+"tier": 1
+}
+],
 "date": "2021-05",
 "edges": [
 {
@@ -57,7 +68,22 @@
 ],
 "node": null,
 "title": "Blue Blurry Lines — The Pentagon's Updated Statement: AATIP Studied UAPs",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-a3ee21ee62"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-a3ee21ee62"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"

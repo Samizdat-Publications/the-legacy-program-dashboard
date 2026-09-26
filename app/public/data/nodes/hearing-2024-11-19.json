@@ -7,10 +7,16 @@
 {
 "id": "c-53e609b7bd",
 "source": "Statement for the Record, Dr. Jon Kosloski, SASC ETC Subcommittee, 19 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-aaro-mil-92da8df0",
+"locator": null,
+"title": "AARO - Kosloski Statement for the Record, SASC (PDF)"
+}
+],
 "text": "Kosloski testified on 19 November 2024 that AARO holds over 1,600 UAP reports and has discovered no verifiable evidence of extraterrestrial beings, activity, or technology.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-92a64a5be8",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "Kosloski's statement for the record makes no mention of whistleblowers, Immaculate Constellation, or Volume II of the Historical Record Report.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:aaro.mil/Portals/136/PDFs/Dr_Jon_Kosloski_Statement_for_the_Record_SASC_Open) was rejected in review: does not name whose statement for the record"
 },
 {
 "id": "c-3a8d2f75d1",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "Kosloski concurrently stated AARO is analysing several 'truly anomalous' cases he does not understand.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Names two separate dated events jointly; no single match."
 }
 ],
 "cls": "event",

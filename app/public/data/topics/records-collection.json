@@ -20,8 +20,8 @@
    "sourceRefs": [
     {
      "id": "nara-rg-615",
-     "locator": "and NARA's Air Force UFO holdings description",
-     "title": "NARA Record Group 615"
+     "locator": null,
+     "title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
     }
    ],
    "text": "No series corresponding to JANAP 146 CIRVIS national-security UFO reports, or to Air Materiel Command T-2 intelligence files for 1947-1951, has been identified in RG 615 accessions to date — the two series most likely to bear on a legacy recovery effort.",
@@ -60,8 +60,8 @@
    "sourceRefs": [
     {
      "id": "nara-rg-615",
-     "locator": "accessioning notices",
-     "title": "NARA Record Group 615"
+     "locator": null,
+     "title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
     }
    ],
    "text": "No records series corresponding to the JANAP 146 national-security UFO reports has ever been identified, accessioned by NARA, or searched under any subsequent disclosure statute.",
@@ -97,7 +97,13 @@
     "text": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-gov-br-57d2ae29",
+     "locator": null,
+     "title": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'"
+    }
+   ],
    "text": "The Arquivo Nacional identifies the holding by name and reference: 'o Arquivo Nacional possui o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)? O acervo sobre OVNIs é produzido pelo Comando da Aeronáutica do Brasil e está sob a guarda do Arquivo Nacional. Ele é composto de 743 registros que incluem relatos, questionários sobre ocorrências, correspondências, fotografias, desenhos, vídeos, áudios e recortes de jornais e revistas a respeito de objetos que foram vistos nos céus brasileiros ao longo dos anos.'",
    "tier": 1
   },
@@ -111,7 +117,13 @@
     "text": "National Archives, archives.gov/uap",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-6ea47d9c",
+     "locator": null,
+     "title": "National Archives - UAP Records Collection (archives.gov/uap)"
+    }
+   ],
    "text": "NARA established Record Group 615, the Unidentified Anomalous Phenomena Records Collection, pursuant to Secs. 1841-1843 of P.L. 118-31.",
    "tier": 1
   },
@@ -129,7 +141,7 @@
     {
      "id": "pl-118-31",
      "locator": "Sec. 1841(b)(2), GPO",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1841(b)(2) requires records to be available for inspection at the National Archives within 30 days of transmission and online within a further 180 days.",
@@ -147,9 +159,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-burlison-house-gov-163a5c08",
+     "id": "n-odni-memo-es-2026-00818",
      "locator": null,
-     "title": "ODNI Memorandum ES 2026-00818"
+     "title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
     }
    ],
    "text": "Current and former government employees and contractors 'shall have prior non-disclosure agreements (NDA), agreements, oaths, or commitments waived when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE.'",
@@ -165,7 +177,13 @@
     "text": "Department of War news story, 27 February 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-93310bda244e",
+     "locator": null,
+     "title": "Department of War news story, 27 February 2026"
+    }
+   ],
    "text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
    "tier": 2
   },
@@ -179,7 +197,13 @@
     "text": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-gillibrand-senate-gov-7cda156a",
+     "locator": null,
+     "title": "Gillibrand statement on release of UAP files"
+    }
+   ],
    "text": "Gillibrand: 'I am encouraged that the administration has finally heard my call and the call of millions of Americans to begin unsealing these files. This is another important step, but there is much more work to do. I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
    "tier": 2
   },
@@ -233,7 +257,13 @@
     "text": "National Archives, Air Force UFO records page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-fcf00d64",
+     "locator": null,
+     "title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+    }
+   ],
    "text": "NARA states it has been 'unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.'",
    "tier": 1
   },
@@ -270,8 +300,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "Div. A Title XVIII Subtitle C",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Enacted as Public Law 118-31, Division A, Title XVIII, Subtitle C ('Unidentified Anomalous Phenomena'), secs. 1841-1843, 137 Stat. 699-707. Sec. 1841 carries the note '44 USC 2107 note'. Approved 22 December 2023.",
@@ -301,7 +331,13 @@
     "text": "National Archives press release nr25-07, 24 April 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-d348fbea",
+     "locator": null,
+     "title": "National Archives press release nr25-07"
+    }
+   ],
    "text": "NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.",
    "tier": 1
   },
@@ -317,9 +353,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-burlison-house-gov-163a5c08",
+     "id": "n-odni-memo-es-2026-00818",
      "locator": null,
-     "title": "ODNI Memorandum ES 2026-00818"
+     "title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
     }
    ],
    "text": "Signed by Aaron Lukas, Principal Deputy Director of National Intelligence, control number ES 2026-00818, classified UNCLASSIFIED.",
@@ -355,7 +391,13 @@
     "text": "National Archives, Air Force UFO records page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-fcf00d64",
+     "locator": null,
+     "title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+    }
+   ],
    "text": "Existing legacy holdings include the Project Blue Book records: approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of OSI records on 94 rolls of microfilm (T-1206).",
    "tier": 1
   },
@@ -372,8 +414,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "sec. 1841(a)(1)(C), 137 Stat. 699-700",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1841(a)(1)(C) defines the scope of the Collection: 'record copies of all Government, Government-provided, or Government-funded records relating to unidentified anomalous phenomena, technologies of unknown origin, and non-human intelligence (or equivalent subjects by any other name with the specific and sole exclusion of temporarily non-attributed objects), which shall be transmitted to the National Archives in accordance with section 2107 of title 44, United States Code.' The phrases 'technologies of unknown origin' and 'non-human intelligence' are enacted federal statutory text.",
@@ -443,7 +485,13 @@
     "text": "ODNI Preliminary Assessment, 25 June 2021",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-odni-preliminary-assessment-2021",
+     "locator": null,
+     "title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+    }
+   ],
    "text": "The 2021 Preliminary Assessment names as contributors USD(I&S), DIA, FBI, NRO, NGA, NSA, Air Force, Army, Navy/ONI, DARPA, FAA, NOAA, ODNI/NIM-Emerging and Disruptive Technology, ODNI/NCSC and the National Intelligence Council.",
    "tier": 1
   },
@@ -461,7 +509,7 @@
     {
      "id": "pl-118-31",
      "locator": "Sec. 1843(a), GPO",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1843(a) vests the postponement determination in 'the original classification authority' rather than in any independent reviewer.",
@@ -480,8 +528,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "sec. 1842(a)(2), 137 Stat. 701",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1842(a)(2) imposes absolute prohibitions: '(A) Destruction; alteration; mutilation.--No unidentified anomalous phenomena record shall be destroyed, altered, or mutilated in any way. (B) ... No unidentified anomalous phenomena record made available or disclosed to the public prior to the date of the enactment of this Act may be withheld, redacted, postponed for public disclosure, or reclassified. (C) ... No unidentified anomalous phenomena record created by a person or entity outside the Federal Government ... shall be withheld, redacted, postponed for public disclosure, or reclassified.'",
@@ -499,9 +547,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-burlison-house-gov-163a5c08",
+     "id": "n-odni-memo-es-2026-00818",
      "locator": null,
-     "title": "ODNI Memorandum ES 2026-00818"
+     "title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
     }
    ],
    "text": "All IC members must within 30 days coordinate with ODNI to establish a PURSUE designee and inform their workforce that 'any previous or existing NDAs prohibiting disclosure to the President, or designees like PURSUE, are no longer in force.'",
@@ -537,7 +585,13 @@
     "text": "National Archives, UAP records research page, archives.gov/uap",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-6ea47d9c",
+     "locator": null,
+     "title": "National Archives - UAP Records Collection (archives.gov/uap)"
+    }
+   ],
    "text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
    "tier": 1
   },
@@ -573,9 +627,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-burlison-house-gov-163a5c08",
+     "id": "n-odni-memo-es-2026-00818",
      "locator": null,
-     "title": "ODNI Memorandum ES 2026-00818"
+     "title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
     }
    ],
    "text": "The memorandum 'provides preliminary guidance for the release of all Unidentified Anomalous Phenomena (UAP) information to the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE) Task Force for review and declassification.'",
@@ -594,8 +648,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "sec. 1842(c)(1), 137 Stat. 702",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1842(c)(1) required each head of a Government office, not later than 300 days after enactment (i.e. by approximately 16 October 2024), to 'review, identify, and organize each unidentified anomalous phenomena record in the custody or possession of the office for (A) disclosure to the public; and (B) transmission to the Archivist.'",
@@ -625,7 +679,13 @@
     "text": "Bolender memorandum, 20 Oct 1969 (archived scan)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-bolender-memo",
+     "locator": null,
+     "title": "Bolender Memorandum"
+    }
+   ],
    "text": "The memorandum is dated 20 October 1969 and signed by Brig. Gen. C. H. Bolender, USAF Deputy Director of Development.",
    "tier": 1
   },
@@ -657,7 +717,7 @@
     {
      "id": "pl-118-31",
      "locator": "Sec. 1841(d)(2), GPO",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1841(d)(2) requires the NARA National Security Program Office, with the Information Security Oversight Office, to run a security programme for the postponed and yet-to-be-disclosed portion of the collection.",
@@ -755,14 +815,14 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
-     "locator": "Div. G with PLAW-118publ31 Subtitle C",
-     "title": "BILLS-118s2226es"
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     },
     {
      "id": "pl-118-31",
-     "locator": "Subtitle C",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Subtitle C corresponds one-to-one to secs. 9004, 9005 and 9006 of the Senate-passed Division G. Senate secs. 9001-9003 and 9007-9015 - including the Review Board (9007-9009), eminent domain over recovered technologies of unknown origin and biological evidence of non-human intelligence (9010), disclosure of other materials and additional study (9011), termination (9013) and authorization of appropriations (9014) - have no enacted counterpart.",
@@ -801,8 +861,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "as enacted, compared with the introduced UAP Disclosure Act text",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sections 1841-1843 of the FY2024 NDAA, Public Law 118-31, created the statutory UAP Records Collection at the National Archives; the Schumer-Rounds review board and eminent domain provisions were removed in conference.",
@@ -861,8 +921,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "sec. 1843(a), 137 Stat. 705-706",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1843(a) sets the postponement standard: disclosure 'may be postponed ... if the original classification authority makes a determination that there is clear and convincing evidence' of one of four harms, including that public disclosure would reveal 'any other matter currently relating to the military defense, intelligence operations, or conduct of foreign relations of the United States, the disclosure of which would demonstrably and substantially impair the national security of the United States'. The determination is made by the agency holding the record; no independent board reviews it.",
@@ -894,9 +954,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-burlison-house-gov-163a5c08",
+     "id": "n-odni-memo-es-2026-00818",
      "locator": null,
-     "title": "ODNI Memorandum ES 2026-00818"
+     "title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
     }
    ],
    "text": "No charter, executive order, roster, chair, budget line or location for the PURSUE Task Force is public as of 12 August 2026. Reasoning: it appears in the ODNI memorandum and in derivative reporting, and on no published organisational instrument at war.gov, aaro.mil, dni.gov or whitehouse.gov.",
@@ -915,8 +975,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "sec. 1842(g)(2)(D), 137 Stat. 704-705",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1842(g)(2)(D) requires full public disclosure of each UAP record within 25 years of its first creation unless the President personally certifies identifiable harm outweighing the public interest.",
@@ -934,9 +994,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-burlison-house-gov-163a5c08",
+     "id": "n-odni-memo-es-2026-00818",
      "locator": null,
-     "title": "ODNI Memorandum ES 2026-00818"
+     "title": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver"
     }
    ],
    "text": "Distribution includes the Directors of CIA, DIA, NGA, NRO, NSA and FBI, USD(I&S) at the Department of War, DHS I&A, State INR, Treasury, DEA, DOE Office of Intelligence and Counterintelligence, and the intelligence chiefs of the Army, Marine Corps, Navy, Air Force, Space Force and Coast Guard.",
@@ -1011,7 +1071,13 @@
     "text": "National Archives, Information Security Oversight Office",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-c7698207",
+     "locator": null,
+     "title": "National Archives - Information Security Oversight Office"
+    }
+   ],
    "text": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', with authority from Executive Order 13526 and Executive Order 13556.",
    "tier": 1
   },

@@ -165,7 +165,7 @@
 "sources": [],
 "text": "Obtained and published the DD Form 1910 for the GoFast, Gimbal and FLIR files, the Tipton messaging emails, the Elizondo-Gough correspondence, and the TTSA CRADA-related FOIA denials.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com) was rejected in review: site home page; names no specific document"
 },
 {
 "id": "c-45c8946570",
@@ -173,7 +173,7 @@
 "sources": [],
 "text": "The Halt memo and the November 1975 Malmstrom AFB UFO records were released to The Black Vault by the Office of the Assistant Secretary of Defense in September 1997 under FOIA case 97-F-1677.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/the-halt-memo-the-rendlesham-forest-incide) was rejected in review: names two release pages; candidate is only one"
 },
 {
 "id": "c-9cec763ec3",
@@ -182,7 +182,7 @@
 {
 "id": "foia-25-f-3514",
 "locator": "September 2025",
-"title": "FOIA case 25-F-3514"
+"title": "OSD FOIA response, case 25-F-3514, September 2025"
 }
 ],
 "text": "In September 2025 OSD responded in FOIA case 25-F-3514 that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged Yankee Blue cessation memo.",
@@ -192,10 +192,16 @@
 {
 "id": "c-83c29b1bf8",
 "source": "AFOSI FOIA response, case 2025-06002-F, 2025",
-"sources": [],
+"sources": [
+{
+"id": "t-ae455c1313aa",
+"locator": null,
+"title": "AFOSI FOIA response, case 2025-06002-F"
+}
+],
 "text": "In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-faa203fbc1",
@@ -203,7 +209,7 @@
 "sources": [],
 "text": "On 1 October 2025 Pentagon spokesperson Susan Gough stated: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/pentagon-denies-existence-of-yankee-blue-m) was rejected in review: emailed statement, outlet unnamed; not shown to be this article"
 },
 {
 "id": "c-32d43f0e76",
@@ -211,15 +217,21 @@
 "sources": [],
 "text": "The Black Vault hosts the working public copy of the AARO FY2025 Consolidated Annual Report and documented its release months past the statutory cadence.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/aaro-releases-fy2025-uap-report-months-aft) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-5c9782ba2d",
 "source": "documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "The Black Vault hosts the mirror of the AARO Historical Record Report Volume I relied on across published UAP research.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9cd38dd538",

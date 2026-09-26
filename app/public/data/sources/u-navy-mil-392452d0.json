@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-965b650b61",
+"locator": null,
+"node": "us-navy",
+"nodeLabel": "United States Navy",
+"sourceText": "navy.mil/About",
+"text": "The Navy is organised under a Secretary of the Navy, Under Secretary, Chief of Naval Operations, Vice Chief and Chief of Naval Personnel, with the stated mission of global deployment to preserve peace, deter aggression and protect American interests without dependence on foreign land bases.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

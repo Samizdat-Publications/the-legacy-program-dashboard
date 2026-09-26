@@ -29,11 +29,6 @@
 "sources": [
 {
 "id": "usc-50-3021",
-"locator": "source credit",
-"title": "50 U.S.C. 3021"
-},
-{
-"id": "usc-50-3021",
 "locator": null,
 "title": "50 U.S.C. 3021"
 }
@@ -282,7 +277,7 @@
 ],
 "sub": "Statutory body, 1947; the approving authority for covert action and the issuer of the NSC directive series",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 657 of 1138, score 26). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 656 of 1138, score 26). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unverified": []
 }

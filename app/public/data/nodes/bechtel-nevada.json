@@ -7,10 +7,16 @@
 {
 "id": "c-a533456e7c",
 "source": "OSTI.GOV record, Nevada Test Site Environmental Report 2005",
-"sources": [],
+"sources": [
+{
+"id": "u-osti-gov-c2fb7279",
+"locator": null,
+"title": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada"
+}
+],
 "text": "Bechtel Nevada is the research organisation of record on DOE Nevada Test Site technical and environmental reports through 2006, succeeded by National Security Technologies, LLC.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e71905b59a",

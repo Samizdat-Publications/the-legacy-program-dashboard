@@ -7,10 +7,16 @@
 {
 "id": "c-c459b33f5e",
 "source": "UK MoD Publication Scheme, 15 May 2006",
-"sources": [],
+"sources": [
+{
+"id": "t-9422c03f9408",
+"locator": "metadata fields quoted (Author DAS; Owner MoD)",
+"title": "UK MoD Publication Scheme, 15 May 2006"
+}
+],
 "text": "MoD publication scheme metadata for the Condign executive summary: 'Author: DAS; Owner: Ministry of Defence; Freedom of Information Organisation area: Directorate of Air Staff; Freedom of Information Information class: Unidentified Flying Objects.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-60f3d0df27",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "MoD statement of the study's purpose: 'to determine the potential value, if any, of such reports to Defence Intelligence ... principally to ascertain whether there is any evidence of a threat to the UK, and secondly, should the opportunity arise, to identify any potential military technologies of interest.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/details/condign-vol-2-1-258) was rejected in review: copy unnamed; release note may be MoD's own publication"
 }
 ],
 "cls": "institution",

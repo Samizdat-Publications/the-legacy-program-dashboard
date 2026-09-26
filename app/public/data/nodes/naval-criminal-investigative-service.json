@@ -11,12 +11,12 @@
 {
 "id": "frdoc-94-13966",
 "locator": "'Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public', effective 9 June 1994",
-"title": "Federal Register Doc. 94-13966: Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public"
+"title": "Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public (Federal Register Doc. 94-13966)"
 },
 {
 "id": "frdoc-94-13966",
 "locator": null,
-"title": "Federal Register Doc. 94-13966: Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public"
+"title": "Availability of Department of the Navy Records and Publication of Department of the Navy Documents Affecting the Public (Federal Register Doc. 94-13966)"
 }
 ],
 "text": "The Department of the Navy final rule published on 9 June 1994, FR Doc 94-13966, amended 32 CFR 701.5(e)(2)(iii)(B) by removing 'Commander, Naval Investigative Service Command' and adding in its place 'Director, Naval Criminal Investigative Service'.",
@@ -45,10 +45,16 @@
 {
 "id": "c-13984f518f",
 "source": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09, transcript in dist/transcripts/md/",
-"sources": [],
+"sources": [
+{
+"id": "t-21a4d5ebec3c",
+"locator": "1:17:09",
+"title": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty"
+}
+],
 "text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 1:17:09, Richard Doty said that Jaime Shandera 'was an asset that was being used by the Naval Investigative Service, which is now Naval Criminal Investigative Service. Back then, it was just NIS', placing that relationship on a separate operation roughly two weeks before the MJ-12 document reached Shandera's mailbox.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a9b9f1c742",

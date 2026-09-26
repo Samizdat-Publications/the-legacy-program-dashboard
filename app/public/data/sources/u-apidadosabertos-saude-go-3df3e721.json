@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1ec66d6ba5",
+"locator": null,
+"node": "hospital-regional-varginha",
+"nodeLabel": "Hospital Regional de Varginha",
+"sourceText": "Ministério da Saúde CNES open data, establishment 2761041",
+"text": "CNES record 2761041 registers the HOSPITAL REGIONAL DO SUL DE MINAS at Rua Rui Barbosa 158, Centro, Varginha, MG, CEP 37002-140, under municipal administrative sphere, with continuous 24-hour attendance and SUS outpatient service.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -120,7 +131,15 @@
 ],
 "node": null,
 "title": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1ec66d6ba5"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
 "type": "web page",
 "urls": [
 "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/2761041"

@@ -1,21 +1,184 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260508180256/https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+],
+"claims": [
+{
+"cls": "institution",
+"id": "c-8e1531fe2f",
+"locator": null,
+"node": "dhs-st",
+"nodeLabel": "DHS Science and Technology Directorate",
+"sourceText": "AARO/DHS, 'History and Origin of KONA BLUE'",
+"text": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP'; the DHS Deputy Secretary disapproved and terminated it approximately six months later, and it was 'never approved or formally established'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-57a0ffa5ef",
+"locator": null,
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "AARO_DHS_Kona_Blue.pdf, aaro.mil UAP Records Research",
+"text": "AARO published the Kona Blue package on aaro.mil; the documents were made public in June 2024.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-99020cec55",
+"locator": "Canegallo letter to the Deputy Secretary of Defense, 5 February 2024, within the package",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"sourceText": "Letter from DHS Acting Deputy Secretary Kristie Canegallo to the Deputy Secretary of Defense, 5 February 2024, released with the AARO DHS Kona Blue package - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Kona Blue was a DHS prospective special access program terminated on 10 February 2012; DHS declassified the associated documents and transmitted them to the Deputy Secretary of Defense on 5 February 2024.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-1777ff44ba",
+"locator": null,
+"node": "dhs",
+"nodeLabel": "United States Department of Homeland Security",
+"sourceText": "AARO/DHS, 'History and Origin of KONA BLUE' - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "In 2011 the DHS Under Secretary for Science and Technology established KONA BLUE as a Prospective Special Access Program; approximately six months later the DHS Deputy Secretary disapproved and terminated it. KONA BLUE was 'never approved or formally established'.",
+"tier": 2
+}
+],
 "date": "2024",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "institution",
+"id": "aaro",
+"label": "All-domain Anomaly Resolution Office (AARO)"
+},
+"b": {
+"cls": "document",
+"id": "aaro-kona-blue-release",
+"label": "AARO/DHS release: History and Origin of KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-67870031ea",
+"label": "A dedicated documentary package for a rejected programme",
+"note": "AARO assembled and published a full KONA BLUE release while publishing no comparable package for the IC controlled access programme Volume I concedes was expanded in 2021 to a UAP reverse-engineering mission.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dhs-st",
+"label": "DHS Science and Technology Directorate"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-0f064e31fd",
+"label": "DHS Under Secretary for S&T established KONA BLUE as a Prospective SAP in 2011",
+"note": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP' - the government's own words in the joint AARO/DHS paper.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dhs-st",
+"label": "DHS Science and Technology Directorate"
+},
+"b": {
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"claimTier": 1,
+"id": "e-1823df492e",
+"label": "Science and Technology Directorate is the DHS R&D component",
+"note": "The Under Secretary for Science and Technology is a DHS component head; the KONA BLUE paper identifies that office as the one that established the prospective program.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"b": {
+"cls": "document",
+"id": "aaro-kona-blue-release",
+"label": "AARO/DHS release: History and Origin of KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-9093040a76",
+"label": "DHS co-authored the 2024 declassified KONA BLUE history",
+"note": "The paper 'History and Origin of KONA BLUE' is published on AARO's UAP Records page as a joint AARO/DHS product.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+"b": {
+"cls": "program",
+"id": "kona-blue",
+"label": "KONA BLUE"
+},
+"claimTier": 1,
+"id": "e-237ca67106",
+"label": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later",
+"note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
+"type": "denial"
+}
+],
 "era": "3",
 "id": "n-aaro-kona-blue-release",
 "identifiers": [],
 "interestedParty": true,
-"issuer": null,
-"listedOn": [],
+"issuer": "AARO",
+"listedOn": [
+{
+"cls": "document",
+"id": "aaro-kona-blue-release",
+"label": "AARO/DHS release: History and Origin of KONA BLUE"
+},
+{
+"cls": "institution",
+"id": "dhs-st",
+"label": "DHS Science and Technology Directorate"
+},
+{
+"cls": "institution",
+"id": "dhs",
+"label": "United States Department of Homeland Security"
+},
+{
+"cls": "program",
+"id": "waived-usap",
+"label": "Waived unacknowledged special access program (waived USAP)"
+}
+],
 "node": {
 "cls": "document",
 "id": "aaro-kona-blue-release",
 "label": "AARO/DHS release: History and Origin of KONA BLUE"
 },
 "title": "AARO/DHS release: History and Origin of KONA BLUE",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-8e1531fe2f",
+"c-57a0ffa5ef",
+"c-99020cec55",
+"c-1777ff44ba"
+],
+"id": "kona-blue",
+"title": "KONA BLUE (2011)"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf"
+]
 }

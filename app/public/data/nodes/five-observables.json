@@ -38,16 +38,16 @@
 "sources": [],
 "text": "The list has no fixed text, which matters before anyone quotes it as a definition. The first observable appears as 'Anti-gravity lift' in the History account and as 'Positive lift' on To The Stars, and is elsewhere given as 'positive lift without flight surfaces'. The two published sources located for this board therefore differ on the wording of one of the five and on whether cloaking is named alongside low observability. No canonical text has been located.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Claim is about the discrepancy between two named sources; not one document."
 },
 {
 "id": "c-7e67183956",
 "source": "NAVAIR FOIA release 2021-003244, 'PAX 205 - INERTIAL MASS REDUCTION DEVICE', slides 4-5, https://www.navair.navy.mil/foia/sites/g/files/jejdrs566/files/document/%5Bfilename%5D/2021-003244%20FINAL%20VERSION%20PAX%20205%20-%20INERTIAL%20MASS%20REDUCTION%20DEVICE.pdf",
 "sources": [
 {
-"id": "u-navair-navy-mil-181dec85",
+"id": "n-pax-205-disclosure",
 "locator": null,
-"title": "NAVAIR FOIA release 2021-003244, PAX 205 briefing"
+"title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
 }
 ],
 "text": "Four of the five are itemised as design goals in a United States Navy invention-disclosure briefing released under FOIA. The PAX 205 briefing describes a 'hybrid aerospace / undersea craft (HAUC)' that 'would move with great ease through the air / space / water mediums' (trans-medium travel), enclosed in a 'Vacuum plasma bubble/sheath' giving extreme speed without skin friction (hypersonic velocity), with non-linear scattering of radio frequency and sonar signals (low observability), by means of an inertial mass reduction device (lift without flight surfaces). This is the whole reason the taxonomy is on this board.",
@@ -57,10 +57,16 @@
 {
 "id": "c-dd203b1035",
 "source": "NAVAIR FOIA release 2021-003244, PAX 205 briefing, slides 4-5, read against the five as published",
-"sources": [],
+"sources": [
+{
+"id": "n-pax-205-disclosure",
+"locator": "slides 4-5; the board's inference from it",
+"title": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)"
+}
+],
 "text": "The fifth observable, sudden and instantaneous acceleration, is NOT itemised as a design goal in the PAX 205 briefing. The briefing speaks of operating the device 'under rapid acceleration transients' as a means of generating the field, which is a statement about how the machine is driven rather than a claimed flight characteristic of the craft. Recorded because four out of five is the accurate figure and five would be the easy overclaim.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8aa8c689a8",
@@ -68,7 +74,7 @@
 "sources": [],
 "text": "The mapping is better read as convergence on a shared description than as evidence that either side knew of the other. Pais filed from NAWCAD between 2015 and 2018 and the observables were published from 2019, so the briefing predates the published list; both are drawn from the same body of reported Navy encounters, and a designer asked to build to those reports would arrive at broadly these goals. What the mapping does establish, without inference, is that a Navy technical organisation wrote four of the five down as things it wanted to build.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's own inference, not a source"
 },
 {
 "id": "c-1ead60130d",

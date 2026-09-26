@@ -96,18 +96,30 @@
 {
 "id": "c-197e4a06f1",
 "source": "Research Notes of the AAS, DOI 10.3847/2515-5172/ad2370",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-4511ed09",
+"locator": null,
+"title": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS"
+}
+],
 "text": "Loeb is lead author of 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS, 31 January 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5eda019de8",
 "source": "Chemical Geology DOI 10.1016/j.chemgeo.2025.122628; Geophysical Journal International, March 2024",
-"sources": [],
+"sources": [
+{
+"id": "t-53ecbb03f6b1",
+"locator": null,
+"title": "Geophysical Journal International, March 2024"
+}
+],
 "text": "The IM1 spherule composition claims were contested in the peer-reviewed literature by Rudraswami, Singh & Pandey in Chemical Geology (March 2025) and by Fernando et al. in Geophysical Journal International (March 2024) on the seismic localisation.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d38ae88349",
@@ -115,15 +127,21 @@
 "sources": [],
 "text": "Loeb was named chair of a UAP Science Advisory Council formed at the request of the White House in coordination with AARO, ODNI, the FBI and other intelligence community members, announced 15 June 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisor) was rejected in review: names three sources; candidate is only one"
 },
 {
 "id": "c-fa78c1b67b",
 "source": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-avi-loeb-medium-com-5ce87202",
+"locator": null,
+"title": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium"
+}
+],
 "text": "Loeb wrote that 'over the past week, I was tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2ff37710bb",
@@ -131,7 +149,7 @@
 "sources": [],
 "text": "The council has no budget and no access to classified material.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic AP citation with no headline; candidate AP article's date unconfirmed, mapping would be a guess"
 },
 {
 "id": "c-22cbcc68d2",
@@ -147,7 +165,7 @@
 "sources": [],
 "text": "A 12-member UAP Science Advisory Council chaired by Avi Loeb was announced on 17 June 2026 to advise an interagency UAP Governance Board including ODNI, FBI and DoW representation.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-go) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-4b7cd5a20e",
@@ -155,7 +173,7 @@
 "sources": [],
 "text": "Loeb states the council's charge is to resolve the nature of UAP by scientific evidence and that it advises rather than reports to the office holding the data.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic reference to multiple essays, no specific title"
 },
 {
 "id": "c-b4d6c752f0",

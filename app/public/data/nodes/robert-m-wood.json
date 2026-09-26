@@ -46,10 +46,16 @@
 {
 "id": "c-4792e91435",
 "source": "majesticdocuments.com site structure and copyright notice, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-majesticdocuments-com-8e1bc561",
+"locator": "site structure, copyright notice, Authenticity Ratings scheme",
+"title": "The Majestic Documents (Wood & Wood)"
+}
+],
 "text": "majesticdocuments.com is operated by Dr. Robert M. Wood and Ryan S. Wood, carries a 1999-2026 copyright, and organises its holdings by date band with a published 'Authenticity Ratings' scheme, alongside sections for FOIA, NARA, Truman Library and British Public Record Office material.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b3735068f1",
@@ -57,7 +63,7 @@
 "sources": [],
 "text": "Wood managed advanced research at McDonnell Douglas for 43 years and directed a company study of field-propulsion effects related to UFO reports.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Unspecified lectures plus general archive materials; not one identifiable document."
 },
 {
 "id": "c-e912a1091d",
@@ -65,7 +71,7 @@
 "sources": [],
 "text": "The Wood forensic protocol is the correct methodological answer to the MJ-12 problem even where its conclusions are wrong, because it makes the documents falsifiable. Reasoning: every other treatment of the corpus - Friedman's defence, Klass's attack, the FBI's one-word 'BOGUS' annotation - asserts a verdict without publishing a repeatable test.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's own comparative analysis, not a document"
 },
 {
 "id": "c-4ff20e480e",
@@ -73,7 +79,7 @@
 "sources": [],
 "text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:majesticdocuments.com) was rejected in review: names Wood's own accounts broadly; a home page is not one source"
 },
 {
 "id": "c-424998f180",
@@ -81,7 +87,7 @@
 "sources": [
 {
 "id": "dodi-3204-01",
-"locator": "IR&D structure",
+"locator": null,
 "title": "DoD Instruction 3204.01 - Oversight of Independent Research and Development"
 }
 ],

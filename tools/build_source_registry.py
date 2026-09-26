@@ -460,12 +460,36 @@ def node_type(n):
 
 # ------------------------------------------------------------------ union-find
 
+ID_GROUP = re.compile(r"^(nara-rg|us-patent|uspto-app|gao-accession|foia-dia|cia-rdp|[a-z]+)")
+
+
+def _ident(k):
+    """What a key identifies, for the one-document rule: ('node', id) for a board
+    node, (identifier family, id) for an identifier, None for a URL or a string."""
+    if k.startswith("node:"):
+        return ("node", k[5:])
+    if k.startswith("id:"):
+        return (ID_GROUP.match(k[3:]).group(1), k[3:])
+    return None
+
+
 class DSU:
+    """Union-find over source keys, holding one rule: a source is ONE document, so
+    no union may leave two board nodes, or two identifiers of one family (two DTIC
+    accessions, two volumes of one manual, two public laws), in one source. A union
+    that would is refused and listed in `refused`: a node for a report SERIES whose
+    reviewed URLs are copies of two different reports stays apart from both."""
+
     def __init__(self):
         self.p = {}
+        self.fam = {}
+        self.refused = []
 
     def add(self, k):
-        self.p.setdefault(k, k)
+        if k not in self.p:
+            self.p[k] = k
+            i = _ident(k)
+            self.fam[k] = {i[0]: {i[1]}} if i else {}
 
     def find(self, k):
         self.add(k)
@@ -476,11 +500,21 @@ class DSU:
 
     def union(self, a, b):
         ra, rb = self.find(a), self.find(b)
-        if ra != rb:
-            # deterministic: the smaller key is the root
-            if rb < ra:
-                ra, rb = rb, ra
-            self.p[rb] = ra
+        if ra == rb:
+            return True
+        fa, fb = self.fam[ra], self.fam[rb]
+        for g in set(fa) & set(fb):
+            if fa[g] != fb[g]:
+                self.refused.append((a, b, g))
+                return False
+        # deterministic: the smaller key is the root
+        if rb < ra:
+            ra, rb = rb, ra
+            fa, fb = fb, fa
+        self.p[rb] = ra
+        for g, v in fb.items():
+            fa.setdefault(g, set()).update(v)
+        return True
 
 
 def short_hash(s, n=8):
@@ -811,7 +845,13 @@ def build(board=None, decisions=None):
         if typ not in TYPES:
             typ = "document"
         allurls = sorted(urls) + sorted(archived)
-        ip = any(INTERESTED_PARTY_PAT.search(u) for u in allurls) or \
+        # the office's own: a source it issued (its title names AARO), or one whose
+        # every copy on file is on its hosts. A released historical document that
+        # the office's reading room ALSO hosts (a 1955 Battelle report on war.gov
+        # as well as cia.gov) is that document, not the office's statement:
+        # primacy belongs to the document, not to who serves it.
+        copies = [unwrap(u)[0] for u in allurls]
+        ip = (bool(copies) and all(INTERESTED_PARTY_PAT.search(u) for u in copies)) or \
             bool(re.match(r"^(?:AARO|All-domain Anomaly Resolution Office)\b", title or ""))
         registry[sid] = {
             "id": sid, "type": typ, "title": title, "issuer": issuer, "date": date,
@@ -878,10 +918,12 @@ def write(registry, claims_out, unresolved, cites):
         json.dump({"_about": "Per claim id, the registry sources it cites, written by "
                              "tools/build_source_registry.py. A claim no rule or reviewed decision "
                              "resolves is in `unresolved` with the reason; the claim keeps its "
-                             "original source string either way. `edges` and `nodes`: the "
-                             "registry sources each edge's and node's {name, url} list cites.",
+                             "original source string either way. `edgeSources` and `nodeSources`: "
+                             "the registry sources each edge's and node's {name, url} list cites.",
                    "claims": claims_out, "unresolved": unresolved,
-                   "edges": cites["edges"], "nodes": cites["nodes"]},
+                   # not `edges` / `nodes`: research/*.json readers take those keys
+                   # as node documents' (audit_independent.py walks every file)
+                   "edgeSources": cites["edges"], "nodeSources": cites["nodes"]},
                   f, ensure_ascii=False, indent=1, sort_keys=True)
         f.write("\n")
     return st

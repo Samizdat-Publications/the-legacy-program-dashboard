@@ -67,26 +67,44 @@
 {
 "id": "c-b7ca33de3d",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "'Analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a448c856c9",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "The report recommends enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting and applying AI/machine learning to curated datasets.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cc675cd279",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "'To date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting an extraterrestrial origin for UAP.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-37f7c55089",
@@ -94,15 +112,21 @@
 "sources": [],
 "text": "Spergel chaired NASA's sixteen-member UAP Independent Study Team, commissioned 24 May 2022 and reporting 14 September 2023, with Daniel Evans as designated federal official.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-e2d983c5fd",
 "source": "NASA UAP Independent Study Team Final Report, 14 September 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-science-nasa-gov-44f5288a",
+"locator": null,
+"title": "NASA UAP Independent Study Team Final Report (PDF)"
+}
+],
 "text": "The team's report concluded that no evidence of extraterrestrial origin was found and that poor-quality and limited data is the principal obstacle, recommending a rigorous evidence-based approach using AI and citizen observation.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2369d6d370",

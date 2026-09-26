@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-4a6ceea41b",
+"locator": null,
+"node": "peru-uap-office",
+"nodeLabel": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+"sourceText": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+"text": "The office is named Departamento de Investigación de Fenómenos Aéreos Anómalos (DIFAA) and sits under the Dirección de Intereses Aéreos Espaciales (DINAE) of the Fuerza Aérea del Perú. Its reopening and a public reporting channel were announced on 18 October 2013 by the head of DINAE, Coronel FAP Julio Vucetich Abanto, who said the service was acting on an increase in sightings being reported to the media: 'Nos interesa que la población que observa fenómenos aparentemente no convencionales, que le causan extrañeza o preocupación, conozca que existe una institución que hará un adecuado estudio e investigación de su información para darles una respuesta. Esto no ocurría antes.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-d2894f633a",
+"locator": null,
+"node": "peru-uap-office",
+"nodeLabel": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+"sourceText": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+"text": "DIFAA had been closed for five years before the 2013 reopening, 'a causa de problemas administrativos'. The reopening was announced at an FAP-organised 'Encuentro sobre Fenómenos Aéreos Anómalos' addressed to the Nazca Lines question, at which the invited archaeologist Manuel Aguirre Morales said there is no evidence linking the Nazca lines to UFOs or extraterrestrial presence.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-e8123b0a47",
+"locator": null,
+"node": "peru-uap-office",
+"nodeLabel": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
+"sourceText": "Agencia Peruana de Noticias Andina (Editora Perú), 18 October 2013",
+"text": "Andina framed the reopening regionally: 'Con la reapertura de la DIFAA, el Perú se coloca a la paridad de países de la región como Chile, Argentina, Uruguay, Brasil y Ecuador.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -69,7 +100,17 @@
 ],
 "node": null,
 "title": "Agencia Peruana de Noticias Andina (Editora Perú), 'Fenómenos aéreos anómalos en Perú podrán reportarse a la FAP', 18 October 2013",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-4a6ceea41b",
+"c-d2894f633a",
+"c-e8123b0a47"
+],
+"id": "latin-america",
+"title": "Chile, Peru and Argentina"
+}
+],
 "type": "web page",
 "urls": [
 "https://andina.pe/agencia/noticia-fenomenos-aereos-anomalos-peru-podran-reportarse-a-fap-478982.aspx"

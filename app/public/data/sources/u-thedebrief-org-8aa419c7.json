@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-55734bd54d",
+"locator": "retrieved 12 Aug 2026",
+"node": "micah-hanks",
+"nodeLabel": "Micah Hanks",
+"sourceText": "The Debrief, About page, retrieved 12 August 2026",
+"text": "Micah Hanks is Co-Founder/Creator and Editor-in-Chief of The Debrief.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-cbd47d9c44",
+"locator": "retrieved 12 Aug 2026",
+"node": "the-debrief",
+"nodeLabel": "The Debrief",
+"sourceText": "The Debrief, About page, retrieved 12 August 2026",
+"text": "The Debrief's founders are Micah Hanks (Co-Founder/Creator, Editor-in-Chief), Tim McMillan (Co-Founder, Executive Director) and MJ Banias (Co-Founder, Content Director); staff include Chrissy Newton, Chris Plain and Steve McDaniel; contributors include Avi Loeb.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0995c26e6e",
+"locator": "retrieved 12 Aug 2026",
+"node": "tim-mcmillan",
+"nodeLabel": "Tim McMillan",
+"sourceText": "The Debrief, About page, retrieved 12 August 2026",
+"text": "Tim McMillan is a co-founder and Executive Director of The Debrief; Micah Hanks is co-founder and Editor-in-Chief; MJ Banias is co-founder and Content Director.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -113,7 +144,17 @@
 ],
 "node": null,
 "title": "The Debrief - About",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-55734bd54d",
+"c-cbd47d9c44",
+"c-0995c26e6e"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "article",
 "urls": [
 "https://thedebrief.org/about/"

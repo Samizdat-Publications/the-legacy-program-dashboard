@@ -124,16 +124,6 @@
 {
 "cls": "document",
 "id": "c-fe53bb50b0",
-"locator": "against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, , opened 2026-09-18",
-"node": "king-patent-mhd",
-"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-"sourceText": "Reasoning over the opened text of US 3,322,374 against the claim recorded in notes/PROPULSION-CLAIMS-2026-09-18.md section 2, https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18",
-"text": "Stated inference, and it is the strand's whole product. The patent was put forward as 'ample evidence' that the 'Scalar Physics' callout in section D of the McCandlish ARV drawing refers to spin-zero scalar particles. The document contains the word scalar zero times and the word spin zero times. The gap between the citation and the document is not a matter of interpretation and requires no expertise to check.",
-"tier": 3
-},
-{
-"cls": "document",
-"id": "c-fe53bb50b0",
 "locator": null,
 "node": "king-patent-mhd",
 "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
@@ -259,7 +249,6 @@
 "c-d1765ef8ec",
 "c-e2b8df3ec4",
 "c-e2b8df3ec4",
-"c-fe53bb50b0",
 "c-fe53bb50b0",
 "c-227b7ce895"
 ],

@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-5646b9edaa",
+"locator": null,
+"node": "aztec-1948",
+"nodeLabel": "Aztec, New Mexico claim, March 1948",
+"sourceText": "FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault",
+"text": "A one-page memorandum of 22 March 1950 by Guy Hottel, special agent in charge of the FBI's Washington Field Office, relays a third-party account of three circular craft recovered in New Mexico, approximately 50 feet in diameter, each containing three humanoid bodies three feet tall in metallic cloth, attributing the recovery to interference from a high-powered radar installation, and closing 'No further evaluation was attempted.' The FBI has described it as a second- or third-hand claim it never investigated.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-17700a970f",
+"locator": null,
+"node": "hottel-memo",
+"nodeLabel": "Guy Hottel memorandum, 22 March 1950",
+"sourceText": "FBI, Guy Hottel memorandum, 22 March 1950, released on The Vault",
+"text": "The memorandum is dated 22 March 1950, authored by Guy Hottel, special agent in charge of the FBI's Washington Field Office, and describes three circular craft of approximately fifty feet diameter recovered in New Mexico, each with three humanoid bodies three feet tall in metallic cloth, attributed to high-powered radar interference; it concludes 'No further evaluation was attempted.'",
+"tier": 1
+}
+],
 "date": "1950-03-22",
 "edges": [],
 "era": "0",
@@ -15,7 +36,15 @@
 "label": "Guy Hottel memorandum, 22 March 1950"
 },
 "title": "Guy Hottel memorandum, 22 March 1950",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-17700a970f"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
 "type": "document",
 "urls": []
 }

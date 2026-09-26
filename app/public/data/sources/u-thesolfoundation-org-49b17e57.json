@@ -1,6 +1,57 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-521d09585b",
+"locator": "retrieved 12 Aug 2026",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Kirk McConnell is Senior Legislative Affairs Officer at The Sol Foundation and retired from Congress after 37 years with the Senate Armed Services Committee.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-71da2a4c28",
+"locator": "retrieved 12 Aug 2026",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "The Sol Foundation employs Kirk McConnell, who retired from Congress after 37 years with the Senate Armed Services Committee, as Senior Legislative Affairs Officer.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-7d7bcfabee",
+"locator": "retrieved 12 Aug 2026",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Skafish is Executive Director of The Sol Foundation and Secretary of its Board; Garry Nolan is Executive Director of the Board.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ac844d9bf4",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation people page",
+"text": "Kirk McConnell, a 37-year Capitol Hill defence and intelligence staffer who served with the Senate Armed Services Committee and both intelligence committees, is the foundation's Senior Legislative Affairs Officer.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ccbe4a0317",
+"locator": "retrieved 12 Aug 2026",
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation, People page, retrieved 12 August 2026",
+"text": "Advisory board members include Eric Davis, Tim Gallaudet, Jeffrey J. Kripal, Avi Loeb, Jacob Haqq Misra, Diana Pasulka, Jim Semivan, Jacques Vallee (Emeritus), Beatriz Villarroel and Alexander Wendt.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -147,7 +198,18 @@
 ],
 "node": null,
 "title": "The Sol Foundation - People",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-521d09585b",
+"c-7d7bcfabee",
+"c-ac844d9bf4",
+"c-ccbe4a0317"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "web page",
 "urls": [
 "https://thesolfoundation.org/people/"

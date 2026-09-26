@@ -26,7 +26,13 @@
     "text": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-4cc5e91c351b",
+     "locator": null,
+     "title": "Daniel Sheehan, quoted in Micah Hanks, The Debrief, 27 November 2023"
+    }
+   ],
    "text": "Sheehan states Turner 'first attacked those two elements' — eminent domain and the Review Board's subpoena power — saying in effect 'we want the eminent domain provision out of here, and we want the subpoena power out.'",
    "tier": 2
   },
@@ -42,9 +48,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "Div. G sec. 9002(a)(4",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Congressional findings enacted in the Senate text, sec. 9002(a)(4): 'Legislation is necessary because credible evidence and testimony indicates that Federal Government unidentified anomalous phenomena records exist that have not been declassified or subject to mandatory declassification review as set forth in Executive Order 13526 ... due in part to exemptions under the Atomic Energy Act of 1954 ..., as well as an over-broad interpretation of \"transclassified foreign nuclear information\", which is also exempt from mandatory declassification, thereby preventing public disclosure under existing provisions of law.'",
@@ -62,9 +68,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "Div. G sec. 9007(b)(4)(A",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Sec. 9007(b)(4)(A) disqualifies nominees who 'shall be impartial citizens, none of whom shall have had any previous or current involvement with any legacy program or controlling authority relating to the collection, exploitation, or reverse engineering of technologies of unknown origin or the examination of biological evidence of living or deceased non-human intelligence' - the bill text presupposes such programs and controlling authorities exist.",
@@ -82,9 +88,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "Div. G sec. 9007(b)(3)-(4",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Sec. 9007(b)(3)(A) requires the President to consider nominees recommended by the Senate majority and minority leaders, the Speaker and House minority leader, the Secretary of Defense, the National Academy of Sciences, 'Established nonprofit research organizations relating to unidentified anomalous phenomena', and the American Historical Association. Board composition under 9007(b)(4)(C) must include at least 1 current or former national security official, 1 current or former foreign service official, 1 scientist or engineer, 1 economist, 1 professional historian, and 1 sociologist.",
@@ -103,13 +109,13 @@
    "sourceRefs": [
     {
      "id": "bills-118hr2670eas",
-     "locator": "with Public Law 118-31",
+     "locator": null,
      "title": "BILLS-118hr2670eas"
     },
     {
      "id": "pl-118-31",
      "locator": null,
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Section 9010 and the Review Board did not survive conference; the enacted Public Law 118-31 retains only the UAP Records Collection at Sections 1841-1843 and the funding limitations at 1687 and 7343.",
@@ -127,9 +133,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-media-defense-gov-db8c1c95",
+     "id": "n-aaro-historical-record-vol1",
      "locator": null,
-     "title": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/AARO_Historical_Record_Report_Vol_1_2024.pdf"
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
     }
    ],
    "text": "The disposal is by attribution to circular reporting: 'AARO assesses that the inaccurate claim that the USG is reverse-engineering extraterrestrial technology and is hiding it from Congress is, in large part, the result of circular reporting from a group of individuals who believe this to be the case, despite the lack of any evidence.'",
@@ -145,7 +151,13 @@
     "text": "S. 2226 as engrossed, Sec. 9002(a)(4), GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9002(a)(4)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "The UAPDA findings blame non-disclosure in part on exemptions under the Atomic Energy Act of 1954 and an 'over-broad interpretation of transclassified foreign nuclear information.'",
    "tier": 1
   },
@@ -159,7 +171,13 @@
     "text": "S. 2226 as engrossed, Sec. 9009(c)(1), GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9009(c)(1)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "Sec. 9009(c)(1) requires disclosure absent 'clear and convincing evidence' for postponement, inverting the default classification presumption.",
    "tier": 1
   },
@@ -173,7 +191,13 @@
     "text": "NewsTalk KZRG, 23 July 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-newstalkkzrg-com-4fd1da4b",
+     "locator": null,
+     "title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure"
+    }
+   ],
    "text": "The House adopted the amendment on 23 July 2026 as part of the FY2027 NDAA; it awaits Senate consideration.",
    "tier": 2
   },
@@ -189,9 +213,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "Div. G sec. 9010(d)-(e",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Sec. 9010(d)-(e): the Review Board 'shall have access to all testimony from unidentified anomalous phenomena witnesses, close observers and legacy program personnel and whistleblowers within the Federal Government's possession' and 'shall solicit additional unidentified anomalous phenomena witness and whistleblower testimony and afford protections under section 1673(b) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (50 U.S.C. 3373b(b))'. The phrase 'legacy program personnel' is statutory text in the Senate-passed bill.",
@@ -225,7 +249,7 @@
     {
      "id": "pl-118-31",
      "locator": "Sec. 1843(a), GPO",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "In enacted law the equivalent judgement is made not by an independent board but by 'the original classification authority' under Sec. 1843(a) of P.L. 118-31.",
@@ -245,7 +269,7 @@
     {
      "id": "pl-118-31",
      "locator": null,
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "The enacted FY2024 NDAA (P.L. 118-31) contains Subtitle C, Sections 1841-1843, establishing the UAP Records Collection at NARA without the Review Board or eminent domain provisions.",
@@ -277,14 +301,14 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
-     "locator": "Div. G against PLAW-118publ31 Div. A, Title XVIII, Subtitle C",
-     "title": "BILLS-118s2226es"
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     },
     {
      "id": "pl-118-31",
-     "locator": "Div. A, Title XVIII, Subtitle C",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Comparison of the Senate-engrossed Division G against the enacted text of Public Law 118-31 subtitle C (secs. 1841-1843): the enacted text contains ZERO occurrences of 'Review Board' and ZERO occurrences of 'eminent domain'. Secs. 9007, 9008, 9009, 9010, 9011, 9013 and 9014 have no enacted counterpart.",
@@ -303,8 +327,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "Subtitle C and Secs. 1687/7343",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "The pattern of what was cut and what was kept is consistent with a jurisdictional defense of the armed services and intelligence committees rather than with substantive objection to disclosure: every removed mechanism operated outside those committees, and every retained mechanism reports into them.",
@@ -334,7 +358,13 @@
     "text": "Turner, 30 July 2023, quoted in The Debrief",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-6aabe20319d0",
+     "locator": null,
+     "title": "Turner, 30 July 2023, quoted in The Debrief"
+    }
+   ],
    "text": "'The most striking aspect of all the testimony was, repeatedly over and over again, the whistleblowers had to say, actually, I don't have any knowledge.'",
    "tier": 2
   },
@@ -362,7 +392,13 @@
     "text": "Congress.gov actions record, S.Amdt. 797",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-samdt-797",
+     "locator": null,
+     "title": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+    }
+   ],
    "text": "The Congress.gov action record for S.Amdt. 797 shows only three actions, all dated 13 July 2023, and no vote.",
    "tier": 1
   },
@@ -376,7 +412,13 @@
     "text": "The Debrief, 'A Dramatic Dilution', 22 December 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thedebrief-org-955c252c",
+     "locator": null,
+     "title": "The Debrief — A Dramatic Dilution"
+    }
+   ],
    "text": "The dilution of the Schumer-Rounds disclosure language during the FY2024 conference was reported contemporaneously as a deliberate weakening rather than a drafting accident.",
    "tier": 2
   },
@@ -390,7 +432,13 @@
     "text": "Congressional Record, 11 July 2024, SA 2610, Sec. __10(a), GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-uapda-2024-samdt-2610",
+     "locator": "Sec. __10(a)",
+     "title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+    }
+   ],
    "text": "The 2024 text retains the eminent domain command verbatim at Sec. __10(a).",
    "tier": 1
   },
@@ -408,12 +456,12 @@
     {
      "id": "pl-118-31",
      "locator": "P.L. 118-159 and P.L. 119-60, GPO",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     },
     {
      "id": "pl-118-159",
-     "locator": "and P.L. 119-60, GPO",
-     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+     "locator": null,
+     "title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
     },
     {
      "id": "pl-119-60",
@@ -448,7 +496,13 @@
     "text": "New Paradigm Institute website, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-newparadigminstitute-org-d16a845e",
+     "locator": null,
+     "title": "New Paradigm Institute"
+    }
+   ],
    "text": "The New Paradigm Institute runs a campaign stating 'The House Acted. Now Tell the Senate to Pass the UAPDA', plus a UAP Transparency Pledge for candidates and a Citizens for Disclosure programme.",
    "tier": 1
   },
@@ -510,7 +564,13 @@
     "text": "H.R. 2670 (EAS), Division I",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "bills-118hr2670eas",
+     "locator": "Division I",
+     "title": "BILLS-118hr2670eas"
+    }
+   ],
    "text": "Division I of H.R. 2670 as passed by the Senate on 27 July 2023 was the 'Unidentified Anomalous Phenomena Disclosure Act of 2023', Sections 9001-9010, including a Review Board and eminent domain over recovered technologies of unknown origin.",
    "tier": 1
   },
@@ -526,9 +586,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "Div. G sec. 9007(a)-(b",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "REVIEW BOARD PROVISION, verbatim. Sec. 9007(a): 'Establishment.--There is established as an independent agency a board to be known as the \"Unidentified Anomalous Phenomena Records Review Board\".' Sec. 9007(b)(1): 'The President, by and with the advice and consent of the Senate, shall appoint, without regard to political affiliation, 9 citizens of the United States to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of government records relating to unidentified anomalous phenomena.'",
@@ -561,8 +621,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "Subtitle C",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sheehan's account is the only named-source explanation for why the enacted subtitle lacks precisely the two provisions with reach into contractor-held material, and it is consistent with the text; treat it as the working hypothesis pending release of conference records.",
@@ -578,7 +638,13 @@
     "text": "S. 2226 as engrossed, Sec. 9014, GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9014",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "Sec. 9014 authorised $20,000,000 for fiscal year 2024; no appropriation was ever enacted because the section was removed.",
    "tier": 1
   },
@@ -594,9 +660,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
-     "locator": "table of contents",
-     "title": "BILLS-118s2226es"
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "S. 2226 as engrossed in the Senate contains Division G, 'UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE', secs. 9001-9015, positioned between Division F (AUKUS/State Department matters, Titles LXI-LXVIII) and Division H (Architect of the Capitol Appointment Act of 2023).",
@@ -612,7 +678,13 @@
     "text": "S. 2226 as engrossed, Sec. 9009(b)(5)-(6), GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9009(b)(5)-(6)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "Sec. 9009(b)(6) required the Review Board to brief the All-domain Anomaly Resolution Office on the Plan at least 90 days before terminating.",
    "tier": 1
   },
@@ -640,7 +712,13 @@
     "text": "Congressional Record, 11 July 2024, text of SA 2610, GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-uapda-2024-samdt-2610",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+    }
+   ],
    "text": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' to S. 4638 and 'was ordered to lie on the table.'",
    "tier": 1
   },
@@ -682,7 +760,13 @@
     "text": "S. 2226 as engrossed, Sec. 9009(c)(3)(B), GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9009(c)(3)(B)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "Sec. 9009(c)(3) required a 'benchmark-driven plan... recommending precise requirements for periodic review, downgrading, and declassification as well as the exact time or specified occurrence following which each postponed item may be appropriately disclosed to the public.'",
    "tier": 1
   },
@@ -698,9 +782,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "table of contents, Div. G",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Division G section list as passed by the Senate: 9001 short title; 9002 findings; 9003 definitions; 9004 Records Collection at NARA; 9005 review/identification/transmission/public disclosure by Government offices; 9006 grounds for postponement; 9007 establishment and powers of the Review Board; 9008 Review Board personnel; 9009 review of records by the Review Board; 9010 disclosure of recovered technologies of unknown origin and biological evidence of non-human intelligence; 9011 disclosure of other materials and additional study; 9012 rules of construction; 9013 termination of effect of division; 9014 authorization of appropriations; 9015 severability.",
@@ -718,9 +802,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "Div. G sec. 9010(c",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Sec. 9010(c) directs the Review Board to render decisions '(1) whether the material examined constitutes technologies of unknown origin or biological evidence of non-human intelligence beyond a reasonable doubt; (2) whether recovered technologies of unknown origin, biological evidence of non-human intelligence, or a particular subset of material qualifies for postponement of disclosure under this division; and (3) what changes, if any, to the current disposition of said material should the Federal Government make to facilitate full disclosure.'",
@@ -738,9 +822,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
-     "locator": "Div. G sec. 9010(a",
-     "title": "BILLS-118s2226es"
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Verbatim, sec. 9010(a) of Division G of S. 2226 as engrossed in the Senate: 'Exercise of Eminent Domain.--The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.'",
@@ -772,9 +856,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
+     "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": "Div. G sec. 9010(a)-(b",
-     "title": "BILLS-118s2226es"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "EMINENT DOMAIN PROVISION, verbatim. Sec. 9010(a): 'Exercise of Eminent Domain.--The Federal Government shall exercise eminent domain over any and all recovered technologies of unknown origin and biological evidence of non-human intelligence that may be controlled by private persons or entities in the interests of the public good.' Sec. 9010(b): 'Any and all such material, should it exist, shall be made available to the Review Board for personal examination and subsequent disclosure determination at a location suitable to the controlling authority of said material and in a timely manner conducive to the objectives of the Review Board in accordance with the requirements of this division.'",
@@ -790,7 +874,13 @@
     "text": "Congressional Record, 11 July 2024, S4577 et seq. (GPO)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-uapda-2024-samdt-2610",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+    }
+   ],
    "text": "S.Amdt. 2610 to S. 4638, submitted 11 July 2024, is captioned 'Mr. ROUNDS (for himself and Mr. Schumer)' and contains the complete UAP Disclosure Act of 2024 including the eminent domain subsection; it was 'ordered to lie on the table.'",
    "tier": 1
   },
@@ -836,7 +926,7 @@
     {
      "id": "pl-118-31",
      "locator": "Sec. 1841(e)(2), GPO",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "Sec. 1841(e)(2) gives HPSCI, with House Oversight and Accountability and House Armed Services, continuing legislative oversight jurisdiction over the UAP Records Collection.",
@@ -852,7 +942,13 @@
     "text": "Congress.gov amendment and cosponsor records, S.Amdt. 797, 118th Congress",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-samdt-797",
+     "locator": null,
+     "title": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+    }
+   ],
    "text": "Submitted 13 July 2023 by Schumer with Rounds, Rubio, Gillibrand, Young and Heinrich as original cosponsors, all sponsorship dates 13 July 2023.",
    "tier": 1
   },
@@ -866,7 +962,13 @@
     "text": "H.R. 2670 as passed by the Senate, Division I Sec. 9001(11)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "bills-118hr2670eas",
+     "locator": "Division I Sec. 9001(11)",
+     "title": "BILLS-118hr2670eas"
+    }
+   ],
    "text": "'Legacy program' is defined to include 'commercial industry, academic, and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin.'",
    "tier": 1
   },
@@ -883,8 +985,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-159",
-     "locator": "full text, GPO",
-     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+     "locator": null,
+     "title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
     }
    ],
    "text": "P.L. 118-159, the FY2025 NDAA enacted 23 December 2024, contains no UAP disclosure division; its only UAP provisions are Secs. 6801 and 6802 of the Intelligence Authorization Act for FY2025.",
@@ -900,7 +1002,13 @@
     "text": "S. 2226 as engrossed, Sec. 9009(c)(3), GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9009(c)(3)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "The Plan expressly covered postponed 'recovered technologies of unknown origin, and biological evidence for non-human intelligence,' not merely records.",
    "tier": 1
   },
@@ -916,9 +1024,9 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
-     "locator": "Div. G sec. 9010(b",
-     "title": "BILLS-118s2226es"
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Sec. 9010(b) conditions the taking on location: material 'shall be made available to the Review Board for personal examination and subsequent disclosure determination at a location suitable to the controlling authority of said material' - the bill contemplates a private or non-governmental 'controlling authority' holding the material.",
@@ -934,7 +1042,13 @@
     "text": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-rounds-senate-gov-c6f398c0",
+     "locator": null,
+     "title": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026"
+    }
+   ],
    "text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
    "tier": 2
   },
@@ -950,14 +1064,14 @@
    },
    "sourceRefs": [
     {
-     "id": "bills-118s2226es",
-     "locator": "Div. G and PLAW-118publ31 secs. 1841-1843",
-     "title": "BILLS-118s2226es"
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": null,
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     },
     {
      "id": "pl-118-31",
-     "locator": "secs. 1841-1843",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "The provisions removed in conference are precisely the enforcement machinery: the independent Board with subpoena-grade review authority, the compulsory acquisition of privately held recovered materials, and the witness-solicitation mandate. What survived is an archiving and postponement regime administered by the same original classification authorities that hold the records. Reasoning: the enacted secs. 1841-1843 map one-to-one onto Senate secs. 9004-9006 and nothing else survived; the dropped sections are the only ones that would have moved custody or compelled testimony.",
@@ -1005,7 +1119,7 @@
     {
      "id": "crec-2023-07-13-pt1-pgs2953",
      "locator": null,
-     "title": "Congressional Record, 2023-07-13, page S2953"
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
     }
    ],
    "text": "Congressional Record, 13 July 2023: 'SA 797. Mr. SCHUMER (for himself, Mr. Rounds, Mr. Rubio, Mrs. Gillibrand, Mr. Young, and Mr. Heinrich) submitted an amendment intended to be proposed by him to the bill S. 2226 ... which was ordered to lie on the table; as follows: At the appropriate place, insert the following: TITLE _--UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE SEC. __01. SHORT TITLE. This title may be cited as the \"Unidentified Anomalous Phenomena Disclosure Act of 2023\" or the \"UAP Disclosure Act of 2023\".'",
@@ -1021,7 +1135,13 @@
     "text": "S. 2226 as engrossed, Sec. 9003(13), GPO",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "crec-2023-07-13-pt1-pgs2953",
+     "locator": "Sec. 9003(13)",
+     "title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
+    }
+   ],
    "text": "Sec. 9003(13) defines 'non-human intelligence' as 'any sentient intelligent non-human lifeform regardless of nature or ultimate origin that may be presumed responsible for unidentified anomalous phenomena or of which the Federal Government has become aware.'",
    "tier": 1
   },

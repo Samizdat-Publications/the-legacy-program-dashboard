@@ -112,7 +112,7 @@
 "tier": 1
 }
 ],
-"date": null,
+"date": "1946-08-01",
 "edges": [
 {
 "a": {
@@ -183,7 +183,7 @@
 "type": "custody"
 }
 ],
-"era": "nd",
+"era": "0",
 "id": "stat-60-755",
 "identifiers": [
 "60 Stat. 755"
@@ -207,8 +207,12 @@
 "label": "Atomic Energy Commission"
 }
 ],
-"node": null,
-"title": "60 Stat. 755",
+"node": {
+"cls": "legislation",
+"id": "atomic-energy-act-1946",
+"label": "Atomic Energy Act of 1946 (McMahon Act)"
+},
+"title": "Atomic Energy Act of 1946 (McMahon Act)",
 "topics": [
 {
 "claims": [

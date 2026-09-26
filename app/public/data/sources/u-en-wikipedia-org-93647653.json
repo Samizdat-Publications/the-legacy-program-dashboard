@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-6164b54d64",
+"locator": null,
+"node": "jeremy-corbell",
+"nodeLabel": "Jeremy Kenyon Lockyer Corbell",
+"sourceText": "Wikipedia, 'Jeremy Corbell' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Corbell directed Hunt for the Skinwalker, based on the book by George Knapp and Colm Kelleher.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b6e9a34c47",
+"locator": null,
+"node": "jeremy-corbell",
+"nodeLabel": "Jeremy Kenyon Lockyer Corbell",
+"sourceText": "Wikipedia, 'Jeremy Corbell', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Corbell has released leaked footage from US Navy aircraft associated with the USS Omaha and video of apparently triangular objects filmed by Navy personnel.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +38,15 @@
 ],
 "node": null,
 "title": "Wikipedia - Jeremy Corbell",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-b6e9a34c47"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Jeremy_Corbell"

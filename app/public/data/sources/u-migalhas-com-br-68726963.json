@@ -3,6 +3,16 @@
 "claims": [
 {
 "cls": "institution",
+"id": "c-adaf7c3c96",
+"locator": "evento 13, ANEXO2, quoting Comando de Operações Especiais/Comando da Aeronáutica",
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"sourceText": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023, quoting Comando de Operações Especiais/Comando da Aeronáutica, evento 13, ANEXO2",
+"text": "The 2016 endpoint was still being repeated by COMAER in 2022 litigation, showing the lag is institutional and not confined to the Arquivo Nacional: 'a coleção filmográfica, iconográfica, sonora e textual referente aos anos de 1952 e 2016, produzida pelo COMAER, está disponível para consulta no acervo do Arquivo Nacional.'",
+"tier": 1
+},
+{
+"cls": "institution",
 "id": "c-062619bd03",
 "locator": null,
 "node": "fab",
@@ -19,6 +29,16 @@
 "nodeLabel": "Operação Prato (Operation Saucer)",
 "sourceText": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, Relator Juiz Federal João Batista Lazzari, RELVOTO, signed 27/2/2023, quoting Comando de Operações Aéreas/COMAER contestation, evento 13, ANEXO2 (https://www.migalhas.com.br/arquivos/2026/1/7F5E4CC12D7AE7_terceiraacao.pdf)",
 "text": "Arquivo Nacional's own response to a litigant, quoted verbatim in the federal court record: 'Em pesquisa no SIAN, usando o termo \"operação prato\", retornam 6 (seis) documentos. Em nenhum deles há documentos de caráter audiovisual.' The catalogue therefore yields six items under that search term and no audiovisual material. NO ITEM-LEVEL SIAN REFERENCE CODES FOR THESE SIX WERE OBTAINABLE - see 'unresolved'.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-51c573b13c",
+"locator": null,
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO, 27/2/2023",
+"text": "A federal suit to compel declassification of Operação Prato films (Rafael Zatarian Pederneiras v. União) was dismissed and the dismissal upheld on 27 February 2023. The court held that the claim of surviving FAB UFO films 'tem lastro especialmente em matérias jornalísticas e relatos de testemunhas, de modo que não constituem indícios suficientes quanto à existência de tais arquivos', and applied the presumption of veracity to the Administration's statement that the surviving records are no longer classified and are held by the Arquivo Nacional.",
 "tier": 1
 }
 ],
@@ -86,14 +106,16 @@
 "topics": [
 {
 "claims": [
-"c-1f56a21dae"
+"c-1f56a21dae",
+"c-51c573b13c"
 ],
 "id": "brazil",
 "title": "Brazil: Operacao Prato, the 1986 night and Varginha"
 },
 {
 "claims": [
-"c-1f56a21dae"
+"c-1f56a21dae",
+"c-51c573b13c"
 ],
 "id": "foia-litigation",
 "title": "FOIA requests and UFO lawsuits"

@@ -14,7 +14,7 @@
 {
 "cls": "program",
 "id": "c-01385c5532",
-"locator": "and US 2,949,550",
+"locator": null,
 "node": "arv-fluxliner",
 "nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "sourceText": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12, read against the board's existing claims on thomas-townsend-brown for US 3,187,206 and US 2,949,550",
@@ -24,7 +24,7 @@
 {
 "cls": "program",
 "id": "c-f6cd6a6416",
-"locator": "against the board's existing claims on arv-fluxliner, opened 2026-09-19",
+"locator": null,
 "node": "arv-fluxliner",
 "nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "sourceText": "Reasoning over the opened texts of US 3,322,374, US 2,949,550 and US 3,187,206 against the board's existing claims on arv-fluxliner, opened 2026-09-19",
@@ -134,7 +134,7 @@
 }
 ],
 "node": null,
-"title": "US Patent 3,187,206",
+"title": "Electrokinetic Apparatus (US Patent 3,187,206)",
 "topics": [
 {
 "claims": [

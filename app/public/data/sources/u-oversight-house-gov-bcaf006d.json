@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-cdf39434fd",
+"locator": null,
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"sourceText": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024",
+"text": "The source told Public the USAP is 'a strategic intelligence program'; a source subsequently told Shellenberger the programme 'is controlled by the White House and executed and administrated by the DOD to avoid compliance with Title 10.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-b556629330",
+"locator": "reporting his whistleblower source",
+"node": "nyt-2017-12-16",
+"nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"sourceText": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
+"text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -203,7 +224,30 @@
 ],
 "node": null,
 "title": "Michael Shellenberger, written testimony, House Oversight",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-cdf39434fd",
+"c-b556629330"
+],
+"id": "immaculate-constellation",
+"title": "Immaculate Constellation: the 2024 allegation"
+},
+{
+"claims": [
+"c-b556629330"
+],
+"id": "nyt-2017",
+"title": "The December 2017 New York Times story"
+},
+{
+"claims": [
+"c-cdf39434fd"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
+}
+],
 "type": "document",
 "urls": [
 "https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf"

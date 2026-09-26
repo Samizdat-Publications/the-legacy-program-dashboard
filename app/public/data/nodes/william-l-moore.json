@@ -66,18 +66,30 @@
 {
 "id": "c-cc917f1c22",
 "source": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
-"sources": [],
+"sources": [
+{
+"id": "t-ab2243148886",
+"locator": null,
+"title": "William L. Moore, address to the MUFON Symposium, Las Vegas"
+}
+],
 "text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5fd1c56d80",
 "source": "Gerald K. Haines, 'CIA's Role in the Study of UFOs, 1947-90', endnote 93",
-"sources": [],
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": "endnote 93",
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication Number 1500 in 1990, and Moore and Friedman published 'Philip Klass and MJ-12: What are the Facts' as Publication Number 1290 in 1988 - both cited in CIA's own 1997 history of the Agency's UFO role.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f7d1b58909",
@@ -108,7 +120,7 @@
 {
 "id": "dtic-ada326148",
 "locator": null,
-"title": "DTIC ADA326148"
+"title": "The Roswell Reports (USAF, 1994-1997)"
 }
 ],
 "text": "The US Air Force's 1995 Roswell report names 'The Roswell Incident (1980) by William Moore and Charles Berlitz' and 'Crashed Saucers: Evidence in Search of Proof (1985) by Moore' among the major works it reviewed to set the parameters of its records search, and describes Moore and Berlitz as having 'engaged in research which led them to publish' the 1980 book.",
@@ -121,7 +133,7 @@
 "sources": [],
 "text": "'The Roswell Incident' by Charles Berlitz and William Moore was published in New York by Grosset & Dunlap in 1980, ISBN 978-0448211992.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:the-roswell-incident-1980) was rejected in review: catalogue records are not the book; names multiple sources"
 },
 {
 "id": "c-151fa79be0",
@@ -129,7 +141,7 @@
 "sources": [],
 "text": "Moore stated at the 1989 MUFON symposium that he had cooperated with US Air Force Office of Special Investigations personnel from about 1980 and had knowingly passed disinformation to Paul Bennewitz.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No candidate found for Moore's 1989 MUFON symposium statement."
 },
 {
 "id": "c-4f4c1e3b78",
@@ -137,7 +149,7 @@
 "sources": [],
 "text": "The 1984 arrival of the MJ-12 film at Moore's address falls inside the window he later admitted was a period of cooperation with AFOSI, which is sufficient on its own to bar the MJ-12 corpus from tier 1 or tier 2 status regardless of any forensic analysis. Reasoning: the recipient of an anonymous delivery has admitted to being an operational channel for the agency most likely to have sent it.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's own analytical overlay of two dates, not a document"
 }
 ],
 "cls": "person",

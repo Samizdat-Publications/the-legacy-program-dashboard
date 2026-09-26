@@ -8,26 +8,44 @@
 {
 "id": "c-6e7d96768a",
 "source": "legis.senado.leg.br/dadosabertos/senador/lista/atual",
-"sources": [],
+"sources": [
+{
+"id": "u-legis-senado-leg-br-34fb4c4d",
+"locator": null,
+"title": "Senado Federal - Dados Abertos, list of senators in exercise (official open-data service, 81 members)"
+}
+],
 "text": "The Senado Federal's official open-data service lists 81 senators in exercise as of August 2026.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c363326dd9",
 "source": "legis.senado.leg.br/dadosabertos/senador/lista/legislatura/56 and /57",
-"sources": [],
+"sources": [
+{
+"id": "t-98f6ad038c4d",
+"locator": null,
+"title": "legis.senado.leg.br/dadosabertos/senador/lista/legislatura/56 and /57"
+}
+],
 "text": "Eduardo Girão (NOVO, Ceará) is recorded in the Senate's official parliamentarian register under member code 5976, listed in both the 56th and 57th legislatures, with an official Senate profile page.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f05f4016dc",
 "source": "The Debrief, 'Landmark Brazilian UFO case reaches Capitol Hill as Varginha incident turns 30', 30 January 2026 (recorded on this board under eduardo-girao)",
-"sources": [],
+"sources": [
+{
+"id": "u-thedebrief-org-d2a39378",
+"locator": null,
+"title": "The Debrief"
+}
+],
 "text": "Girão has publicly pursued the Varginha file, and the case was brought to Capitol Hill around its thirtieth anniversary in 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9e496e11f8",

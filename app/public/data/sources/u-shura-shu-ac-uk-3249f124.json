@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-ad23692edd",
+"locator": null,
+"node": "sheffield-hallam",
+"nodeLabel": "Sheffield Hallam University",
+"sourceText": "SHURA search results for 'UFO'",
+"text": "SHURA also holds Andrew Robinson (2025), 'The Calvine Mystery - The Photographic Analysis of a 35-Year-Old Enigma', presented at the Calvine UFO Mystery 35th Anniversary Research Symposium, Perth & Kinross, 2 August 2025.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-cad393441d",
+"locator": null,
+"node": "sheffield-hallam",
+"nodeLabel": "Sheffield Hallam University",
+"sourceText": "SHURA search results for 'UFO'",
+"text": "The university's institutional repository SHURA holds David Clarke's deposited outputs including 'National Archives Podcasts and Media - MoD UFO archives project 2008-2013' (2018), 'UFO Files at The National Archives' (2018), 'The UFO files: the inside story of real-life sightings' (National Archives, 2009; Bloomsbury, 2012), 'How UFOs conquered the World' (2015), and the Clarke/Fuller/Shough report on aerial phenomena observed near the Channel Islands, UK, 23 April 2007.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +38,16 @@
 ],
 "node": null,
 "title": "SHURA - Sheffield Hallam University Research Archive, search results for 'UFO' (institutional repository; 56 records incl. Clarke's National Archives MoD UFO files outputs and Robinson's Calvine analysis)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-ad23692edd",
+"c-cad393441d"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
 "type": "web page",
 "urls": [
 "https://shura.shu.ac.uk/cgi/search/archive/simple?q=UFO&_action_search=Search"

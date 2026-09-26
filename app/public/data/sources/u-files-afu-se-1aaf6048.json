@@ -1,6 +1,77 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4ca0d03725",
+"locator": null,
+"node": "betty-cash",
+"nodeLabel": "Betty Cash",
+"sourceText": "Order of Dismissal, Cash v. United States, No. H-84-348, filed 21 August 1986 (scan of the clerk-stamped original) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "An Order of Dismissal was filed on 21 August 1986 by Judge Ross N. Sterling, dismissing the cause pursuant to Federal Rules of Civil Procedure 12(b)(1), 12(b)(6) and 56, on the United States' Motion to Dismiss and/or for Summary Judgment.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-b5e88a5f15",
+"locator": null,
+"node": "betty-cash",
+"nodeLabel": "Betty Cash",
+"sourceText": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex.) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Betty Cash, Vickie Landrum and Colby Landrum sued the United States of America in the US District Court for the Southern District of Texas, Houston Division, Civil Action No. H-84-348, under 28 U.S.C. 1346(b) and 2671 et seq.; the original complaint was filed and summonses issued in January 1984 and Peter A. Gersten was designated attorney in charge.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-4bba85e3c3",
+"locator": null,
+"node": "cash-v-united-states",
+"nodeLabel": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"sourceText": "Order of Dismissal, Cash v. United States, No. H-84-348, filed 21 August 1986 (scan of clerk-stamped original)",
+"text": "Order of Dismissal, clerk-stamped FILED AUG 21 1986, Jesse E. Clark, Clerk: 'CAME ON this day the Motion to Dismiss and/or for Summary Judgment filed by the United States ... IT IS HEREBY ORDERED that the above noted cause of action is DISMISSED pursuant to Federal Rule of Civil Procedure Rule 12(b)(1), Rule 12(b)(6) and Rule 56.'",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-a9933ed43b",
+"locator": null,
+"node": "cash-v-united-states",
+"nodeLabel": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
+"sourceText": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex., Houston Div.)",
+"text": "Docket sheet: plaintiffs Betty Cash, Vickie Landrum, Colby Landrum; defendant United States of America; Civil Action No. H-84-348; cause 28 U.S.C. 1346(b), 2671 et seq., airplane product liability; damages $5,000,000; Judge Ross N. Sterling; original complaint and two summonses filed January 1984.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-44f2a2afc8",
+"locator": null,
+"node": "l-huffman-tx",
+"nodeLabel": "Huffman / Dayton, Texas",
+"sourceText": "Cash v. United States order of dismissal — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Cash v. United States, No. H-84-348 (S.D. Tex.), was dismissed by order dated 21 August 1986.",
+"tier": 2
+},
+{
+"cls": "domain",
+"id": "c-787d65e5a7",
+"locator": null,
+"node": "d-litigation",
+"nodeLabel": "Litigation",
+"sourceText": "Cash v. United States docket and Order of Dismissal",
+"text": "Cash v. United States, No. H-84-348 (S.D. Tex.), the Cash-Landrum tort suit, was dismissed by order dated 21 August 1986.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-d895565a79",
+"locator": null,
+"node": "d-medical",
+"nodeLabel": "Medical & Injury Effects",
+"sourceText": "Cash v. United States docket and Order of Dismissal",
+"text": "Cash v. United States, No. H-84-348 (S.D. Tex.), brought over injuries attributed to a December 1980 encounter, was dismissed by order of 21 August 1986.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -94,7 +165,24 @@
 ],
 "node": null,
 "title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-4bba85e3c3",
+"c-a9933ed43b",
+"c-d895565a79"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+},
+{
+"claims": [
+"c-787d65e5a7"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
 "type": "document",
 "urls": [
 "https://files.afu.se/Downloads/Books/Other/Quest_Publications/Quest_Publications_101-Cash_Landrum_File-Civil_Action.pdf"

@@ -79,9 +79,9 @@
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "sources": [
 {
-"id": "u-aaro-mil-329a555d",
+"id": "n-aaro-historical-record-vol1",
 "locator": null,
-"title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
 }
 ],
 "text": "AARO Historical Record Report Vol. I: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' and 'DIA established AAWSAP in 2009, which was also known [as] AATIP.'",
@@ -121,9 +121,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237636/",
 "sources": [
 {
-"id": "u-dia-mil-189bbe83",
+"id": "n-dird-traversable-wormholes-stargates-and-negative-energy",
 "locator": null,
-"title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+"title": "Traversable Wormholes, Stargates, and Negative Energy"
 }
 ],
 "text": "DIRD inside covers name the program 'Advanced Aerospace Weapon System Applications (AAWSA) Program' and reference an 'AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100'. The program manager's name is redacted under (b)(3) 10 USC 424 and (b)(6) throughout the release.",
@@ -147,10 +147,16 @@
 {
 "id": "c-b99f8aab80",
 "source": "DIA solicitation HHM402-08-R-0211, released via The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": null,
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "DIA solicitation HHM402-08-R-0211, posted 18 August 2008 by the Virginia Contracting Activity (ZD50), sought advanced aerospace weapon system studies across eleven technical areas with a stated horizon of 2050, naming Dr. James T. Lacatski as Government Project Leader.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-605d8cc443",
@@ -159,7 +165,7 @@
 {
 "id": "foia-dia-00349-2018",
 "locator": "13 October 2022",
-"title": "DIA FOIA-00349-2018"
+"title": "DIA release FOIA-00349-2018"
 }
 ],
 "text": "Contract HHM402-08-C-0072 was awarded 22 September 2008 to Bigelow Aerospace Advanced Space Studies, LLC, firm fixed price, $10,000,000 base with four option years.",
@@ -169,26 +175,44 @@
 {
 "id": "c-3eb325099c",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.22",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-39407a3820",
 "source": "AARO Historical Record Report Volume 1, p.24",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.24",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "'AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ae965d3099",
 "source": "James Lacatski to Jeremy Corbell, published 8 April 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-124932fc0083",
+"locator": null,
+"title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+}
+],
 "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data, of which the 38 DIRDs are only the literature-survey component.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b04e9f679a",

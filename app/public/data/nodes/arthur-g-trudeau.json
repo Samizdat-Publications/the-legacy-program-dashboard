@@ -14,12 +14,12 @@
 {
 "id": "cia-rdp80m01009a000500610124-1",
 "locator": "letter of 18 January 1958, CIA reading room, declassified 14 August 2013",
-"title": "CIA-RDP80M01009A000500610124-1"
+"title": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958"
 },
 {
 "id": "cia-rdp80m01009a000500610124-1",
 "locator": null,
-"title": "CIA-RDP80M01009A000500610124-1"
+"title": "CIA-RDP80M01009A000500610124-1, Allen W. Dulles to Lt. Gen. Arthur Trudeau, 18 January 1958"
 }
 ],
 "text": "DCI Allen W. Dulles wrote to him on 18 January 1958 as 'Chief of Research and Development, Department of the Army': 'Congratulations on your appointment as Chief of the Army Research and Development program.'",
@@ -33,12 +33,12 @@
 {
 "id": "cia-rdp80b01676r003000130017-9",
 "locator": "Trudeau to McCone, 24 February 1962",
-"title": "CIA-RDP80B01676R003000130017-9"
+"title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
 },
 {
 "id": "cia-rdp80b01676r003000130017-9",
 "locator": null,
-"title": "CIA-RDP80B01676R003000130017-9"
+"title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
 }
 ],
 "text": "He signed his letter of 24 February 1962 to DCI John A. McCone as 'ARTHUR G. TRUDEAU / Lieutenant General, GS / Chief of Research and Development', inviting the Director to a symposium on 'The U. S. Army's Limited-War Mission and Social Science Research' hosted by the Special Operations Research Office of The American University on 26 to 28 March 1962.",
@@ -52,12 +52,12 @@
 {
 "id": "cia-rdp80b01676r003000130017-9",
 "locator": "McCone to Trudeau, 12 March 1962",
-"title": "CIA-RDP80B01676R003000130017-9"
+"title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
 },
 {
 "id": "cia-rdp80b01676r003000130017-9",
 "locator": null,
-"title": "CIA-RDP80B01676R003000130017-9"
+"title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
 }
 ],
 "text": "McCone's reply of 12 March 1962, reference ER 62-1185/a, is addressed 'Lieut. General Arthur G. Trudeau, Chief of Research and Development, Department of the Army' and declines, designating a representative whose name is withheld from the release.",
@@ -67,10 +67,16 @@
 {
 "id": "c-c1611be2e0",
 "source": "DA Form 66, Officer's Qualification Record, Philip J. Corso, already carried on this board at philip-corso",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-f0eebc18",
+"locator": null,
+"title": "DA Form 66, Officer's Qualification Record, Philip J. Corso"
+}
+],
 "text": "Corso's own DA Form 66 records 'Chief Foreign Technology Div, OCRD USA (8556) Wash DC' effective 18 April 1962, a period falling entirely inside Trudeau's documented tenure as Chief of Research and Development.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-764e2150ba",
@@ -78,13 +84,8 @@
 "sources": [
 {
 "id": "cia-rdp80b01676r003000130017-9",
-"locator": "read against the FBI quotation already on the board",
-"title": "CIA-RDP80B01676R003000130017-9"
-},
-{
-"id": "cia-rdp80b01676r003000130017-9",
 "locator": null,
-"title": "CIA-RDP80B01676R003000130017-9"
+"title": "CIA-RDP80B01676R003000130017-9, Trudeau to McCone 24 February 1962 and McCone to Trudeau 12 March 1962"
 }
 ],
 "text": "The 'Gen. Arthur S. Trudeau' named in the 1955 FBI material quoted in philip-corso.narrative is most probably this officer. Reasoning: the two primary letters opened here give the middle initial G over his own signature, and no second Army general officer of that surname was found. The discrepancy is unresolved and no record opened here reconciles it.",

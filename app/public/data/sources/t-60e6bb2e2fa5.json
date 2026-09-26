@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-37c763c871",
+"locator": null,
+"node": "gregory-guillot",
+"nodeLabel": "Gregory M. Guillot",
+"sourceText": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026",
+"text": "'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously.",
+"tier": 2
+}
+],
+"date": "2026-03-25",
+"edges": [],
+"era": "3",
+"id": "t-60e6bb2e2fa5",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The War Zone",
+"listedOn": [],
+"node": null,
+"title": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026",
+"topics": [
+{
+"claims": [
+"c-37c763c871"
+],
+"id": "incursions-2023-26",
+"title": "Drone incursions over bases, 2023-2026"
+}
+],
+"type": "article",
+"urls": []
+}

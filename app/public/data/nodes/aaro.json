@@ -9,7 +9,7 @@
 "source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
 "sources": [
 {
-"id": "u-aaro-mil-ed2dd3bd",
+"id": "n-aaro-fy2025-annual-report",
 "locator": null,
 "title": "AARO FY2025 Consolidated Annual Report on UAP"
 }
@@ -23,7 +23,7 @@
 "source": "https://www.aaro.mil/Portals/136/PDFs/FY25%20UAP%20Annual%20Report/AARO_FY2025_Consolidated_Annual_Report_on_UAP.pdf",
 "sources": [
 {
-"id": "u-aaro-mil-ed2dd3bd",
+"id": "n-aaro-fy2025-annual-report",
 "locator": null,
 "title": "AARO FY2025 Consolidated Annual Report on UAP"
 }
@@ -51,9 +51,9 @@
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
-"id": "u-media-defense-gov-2a0d77a1",
+"id": "n-aaro-historical-record-vol1",
 "locator": null,
-"title": "AARO, Report on the Historical Record of U.S. Government Involvement with UAP, Volume I (Feb 2024) - DOPSR-cleared PDF, media.defense.gov"
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
 }
 ],
 "text": "AARO was granted cross-agency SAP access to conduct its historical investigation: 'AARO established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS... A key part of this agreement is that AARO investigators have been granted full access to all pertinent sensitive USG programs.' (HRR Vol I, p. 34)",
@@ -65,9 +65,9 @@
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
-"id": "u-media-defense-gov-23bbe4d5",
+"id": "n-aaro-fy2024-annual-report",
 "locator": null,
-"title": "AARO - FY2024 Consolidated Annual Report on UAP (PDF)"
+"title": "AARO FY2024 Consolidated Annual Report on UAP"
 }
 ],
 "text": "AARO stood up an 'R-space' page for the cleared community in March 2024 providing monthly updates up to the TS/SCI level (FY2024 Consolidated Annual Report, p. 14).",
@@ -91,26 +91,44 @@
 {
 "id": "c-4200dc40ca",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, pp.22-23",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "pp.22-23",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's Historical Record Report Volume 1 confirms the $22 million appropriation at Reid's direction, the contractor's UFO research with the DIA program manager's support, and the Utah property investigation.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2c672834c5",
 "source": "AARO Historical Record Report Volume 1, p.24",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.24",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "'AAWSAP/AATIP was terminated in 2012 upon the completion of its deliverables due to DIA and DoD concerns about the project.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-04bc6e889a",
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "pp.34-35",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "The same report treats KONA BLUE as 'a Proposed UAP Recovery and Reverse-Engineering Program' that 'was eventually rejected by DHS leadership for lacking merit'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-03cff5b83e",
@@ -123,34 +141,58 @@
 {
 "id": "c-d329a64376",
 "source": "AARO Congressional/Press Products index, accessed 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-aaro-mil-045672bc",
+"locator": null,
+"title": "AARO - Congressional/Press Products index"
+}
+],
 "text": "AARO published three Consolidated Annual Reports in the window: FY2023 (25 October 2023), FY2024 (14 November 2024) and FY2025 (21 July 2026).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c03e4cb294",
 "source": "AARO Declassification Information Paper, September 2025",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-declassification-info-paper-2025",
+"locator": null,
+"title": "AARO Declassification Information Paper (September 2025)"
+}
+],
 "text": "AARO's September 2025 declassification information paper states the office cannot declassify information independently and must request declassification review from originating offices, with DOPSR reviewing redactions before public release.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cb15359e38",
 "source": "aaro.mil UAP Records page, accessed 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-aaro-mil-f7e34018",
+"locator": null,
+"title": "AARO - UAP Records page"
+}
+],
 "text": "AARO's UAP Records page directs the public to the National Archives UAP collection and hosts the DHS Kona Blue release and ORNL materials analyses.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-47d3ef79c4",
 "source": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-aaro-mil-1c878677",
+"locator": null,
+"title": "AARO homepage (links PURSUE at war.gov/UFO and NARA UAP records)"
+}
+],
 "text": "AARO's homepage links to PURSUE at war.gov/UFO rather than hosting the released files.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e44c4b3896",
@@ -163,10 +205,16 @@
 {
 "id": "c-1e33105c67",
 "source": "DoD memorandum, Establishment of the All-domain Anomaly Resolution Office, 15 July 2022",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-establishment-memo-2022",
+"locator": null,
+"title": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)"
+}
+],
 "text": "AARO was established by Deputy Secretary of Defense memorandum dated 15 July 2022, superseding AOIMSG and absorbing the UAPTF's data and materials.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-fdb7c32269",
@@ -175,12 +223,12 @@
 {
 "id": "pl-117-81",
 "locator": null,
-"title": "Public Law 117-81"
+"title": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
 },
 {
 "id": "pl-117-263",
 "locator": null,
-"title": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803"
+"title": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports"
 },
 {
 "id": "usc-50-3373",
@@ -198,15 +246,21 @@
 "sources": [],
 "text": "AARO held 1,870 total UAP reports as of 30 May 2025 and employs 'several dozen' personnel.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-fy2025-annual-report) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-55fff6f14f",
 "source": "DefenseScoop, 30 August 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-c0cea468",
+"locator": null,
+"title": "DefenseScoop - Hicks takes direct oversight of Pentagon's UAP office"
+}
+],
 "text": "AARO's director reports directly to the Deputy Secretary of Defense following a summer 2023 change from the USD(I&S) chain.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c187ac2fa7",

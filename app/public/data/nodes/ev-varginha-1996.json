@@ -7,10 +7,16 @@
 {
 "id": "c-133844d241",
 "source": "Brazilian military inquiry findings, 2010, as quoted in Wikipedia 'Varginha UFO incident' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-627fd8ce",
+"locator": "quoting 2010 Brazilian military inquiry findings",
+"title": "Varginha UFO incident - Wikipedia"
+}
+],
 "text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1dd86110a8",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "Dr Ítalo Venturelli, 73, a neurosurgeon at Varginha Regional Hospital, told members of Congress on 15 January 2026 that he examined a patient for three or four minutes after a colleague, Dr Marcos Vinico Neves (died 2018), sutured a cranial wound: 'I've been a doctor for forty-six years and have performed thousands of surgeries. To me, it was obvious that this was not a human being.' He described lilac eyes, a teardrop-shaped cranium, three fingers and a thumb, white skin, no nipples, and 'I wouldn't say it communicated telepathically; it communicated empathetically, through its eyes.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-) was rejected in review: authors, outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-d54af89f5d",
@@ -26,15 +32,21 @@
 "sources": [],
 "text": "Carlos de Sousa told the same meeting that a soldier aimed a gun at his head and said 'Leave now, or I'll split your skull'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/landmark-brazilian-ufo-case-reaches-capitol-hill-as-varginha-) was rejected in review: authors, outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-14664ff8a5",
 "source": "The Debrief, 30 January 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-2c880837f7cf",
+"locator": null,
+"title": "The Debrief, 30 January 2026"
+}
+],
 "text": "An anonymous videotaped witness said he was in the army in 1996 and helped transport the being from the Varginha hospital to Três Corações and thence to Campinas, and that on returning 'there was talk the Americans had the creature, having transported it to an undisclosed location'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7686718f3b",
@@ -42,23 +54,35 @@
 "sources": [],
 "text": "Three women aged 14 to 22 reported seeing an unknown large-headed biped with vein-like skin markings, three bumps on the head and red eyes near Rua Dr. Benevenuto Braz Vieira at about 3:30 p.m. on 20 January 1996.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic reference, no outlet named"
 },
 {
 "id": "c-d3ca72a153",
 "source": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "t-6cbb6cfdf8db",
+"locator": null,
+"title": "Brazilian Army inquiry, 2010"
+}
+],
 "text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-05a0b842b7",
 "source": "Brazilian Army inquiry, 2010, quoted findings — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "t-6cbb6cfdf8db",
+"locator": "quoted findings",
+"title": "Brazilian Army inquiry, 2010"
+}
+],
 "text": "The inquiry concluded that the presence of firefighters in Jardim Andere, the parking of Army trucks near a dealership for periodic maintenance and the departure of Escola de Sargentos das Armas vehicles were real events incorrectly interpreted as participation in a capture and transport.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "event",

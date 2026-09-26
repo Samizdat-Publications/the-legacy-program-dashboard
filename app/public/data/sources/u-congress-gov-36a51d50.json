@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-48b1f303ef",
+"locator": "Grusch testimony",
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "Sworn testimony, House Oversight Committee, 26 July 2023",
+"text": "Grusch testified that the UAP Task Force Director tasked him in 2019 to identify all SAPs relevant to the Task Force mission and that he was denied the read-ons.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a700b08582",
+"locator": "index of documents entry: George Knapp statement for the record, submitted by Rep. Burchett",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Index of documents, House Oversight hearing Serial No. 118-53",
+"text": "A statement for the record by George Knapp was submitted by Rep. Burchett to the 26 July 2023 House Oversight hearing.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -513,7 +534,22 @@
 ],
 "node": null,
 "title": "House Oversight hearing transcript, Serial No. 118-53",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-48b1f303ef"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-a700b08582"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "transcript",
 "urls": [
 "https://www.congress.gov/118/meeting/house/116282/documents/HHRG-118-GO06-Transcript-20230726.pdf"

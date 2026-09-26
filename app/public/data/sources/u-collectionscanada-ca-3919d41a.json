@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/2006/http://www.collectionscanada.ca/ufo/002029-1400.01-e.html"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-40964eae2b",
+"locator": null,
+"node": "wilbert-smith",
+"nodeLabel": "Wilbert Brockhouse Smith",
+"sourceText": "Library and Archives Canada, online exhibition 'Canada's UFOs: The Search for the Unknown', Shirley's Bay / Project Magnet page, 2005",
+"text": "Library and Archives Canada quotes the memorandum: '...the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers.... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence' (Smith, Geo-Magnetics, Department of Transport, November 21, 1950).",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -64,7 +75,15 @@
 ],
 "node": null,
 "title": "Library and Archives Canada - Project Magnet page",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-40964eae2b"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
 "type": "web page",
 "urls": []
 }

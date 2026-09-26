@@ -37,7 +37,13 @@
     "text": "The War Zone, 25 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2b4334174b31",
+     "locator": null,
+     "title": "The War Zone, 25 March 2026"
+    }
+   ],
    "text": "Multiple waves of 12-15 drones were observed over sensitive areas including the flight line during the week of 9 March 2026; drones showed non-commercial signal characteristics and resistance to jamming.",
    "tier": 2
   },
@@ -51,7 +57,13 @@
     "text": "The Debrief, 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2c880837f7cf",
+     "locator": null,
+     "title": "The Debrief, 30 January 2026"
+    }
+   ],
    "text": "JIATF-401 was established in August 2025 and is directed by Brig. Gen. Matt Ross.",
    "tier": 1
   },
@@ -65,7 +77,13 @@
     "text": "DoD Inspector General, DODIG-2026-045, reported 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-c7e35fc74952",
+     "locator": null,
+     "title": "DODIG-2026-045"
+    }
+   ],
    "text": "DODIG-2026-045 (21 January 2026) evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies.",
    "tier": 1
   },
@@ -79,7 +97,13 @@
     "text": "NORAD Newsroom press releases, 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-norad-mil-a51feca3",
+     "locator": null,
+     "title": "NORAD Newsroom"
+    }
+   ],
    "text": "NORAD continued issuing intercept press releases through 2026, including multiple temporary flight restriction violation intercepts in the Northeast and over New Jersey.",
    "tier": 1
   },
@@ -107,7 +131,13 @@
     "text": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-60e6bb2e2fa5",
+     "locator": null,
+     "title": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026"
+    }
+   ],
    "text": "'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously.",
    "tier": 2
   },
@@ -121,7 +151,13 @@
     "text": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-52d9aa2453a2",
+     "locator": null,
+     "title": "Gen. Gregory Guillot to The War Zone, 30 October 2024"
+    }
+   ],
    "text": "'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude.'",
    "tier": 2
   },
@@ -149,7 +185,13 @@
     "text": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ae1a08eaa5a1",
+     "locator": null,
+     "title": "Capt. Hunter Rininger, Barksdale AFB Public Affairs, 9 March 2026"
+    }
+   ],
    "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
    "tier": 1
   },
@@ -197,7 +239,13 @@
     "text": "The Debrief, 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2c880837f7cf",
+     "locator": null,
+     "title": "The Debrief, 30 January 2026"
+    }
+   ],
    "text": "Guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and granted commanders 'totality of circumstances' discretion.",
    "tier": 1
   },
@@ -243,7 +291,7 @@
     {
      "id": "u-nicap-org-358db93b",
      "locator": null,
-     "title": "NICAP, 'UFOs Intrude Into SAC Base Weapons Areas, Northern U.S., October-November 1975', quoting the CINCNORAD four-part message of 11 November 1975 and the Loring teletype to the NMCC. Opened 19 September 2026"
+     "title": "24th NORAD Region Senior Directors Log, 10 November 1975; CINCNORAD message of 11 November 1975 as excerpted at"
     }
    ],
    "text": "The message's opening, as excerpted: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
@@ -259,7 +307,13 @@
     "text": "DoD Office of Inspector General report DODIG-2026-045, reported 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-c7e35fc74952",
+     "locator": null,
+     "title": "DODIG-2026-045"
+    }
+   ],
    "text": "DODIG-2026-045, dated 21 January 2026, evaluated ten installations with drone incursions and interviewed officials from 31 DoD components and 4 federal agencies, finding inconsistent policies and approval processes that delayed counter-drone deployment.",
    "tier": 1
   },
@@ -273,7 +327,13 @@
     "text": "The War Zone, 25 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2b4334174b31",
+     "locator": null,
+     "title": "The War Zone, 25 March 2026"
+    }
+   ],
    "text": "A NORTHCOM spokesman on 25 March 2026 declined to specify affected base locations for operational security and confirmed jamming protocols were deployed.",
    "tier": 2
   },
@@ -301,7 +361,13 @@
     "text": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-52d9aa2453a2",
+     "locator": null,
+     "title": "Gen. Gregory Guillot to The War Zone, 30 October 2024"
+    }
+   ],
    "text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
    "tier": 2
   },
@@ -315,7 +381,13 @@
     "text": "The War Zone, 25 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2b4334174b31",
+     "locator": null,
+     "title": "The War Zone, 25 March 2026"
+    }
+   ],
    "text": "The incursions followed the launch of Operation Epic Fury, the US bombing campaign against Iran involving B-52, B-1 and B-2 aircraft.",
    "tier": 2
   },
@@ -329,7 +401,13 @@
     "text": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ac035d6ba4a5",
+     "locator": null,
+     "title": "Capt. Hunter Rininger, Chief of Public Affairs, Barksdale AFB, 9 March 2026"
+    }
+   ],
    "text": "'Earlier this morning, Barksdale Air Force Base received a report of an unmanned aerial system operating over the installation.'",
    "tier": 1
   },
@@ -343,7 +421,13 @@
     "text": "Charette memo, 14 February 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-charette-memo-2023",
+     "locator": null,
+     "title": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)"
+    }
+   ],
    "text": "The Yukon object, UAP #23, 'remains unverified' as to 'function, method of propulsion, or affiliation to any nation-state.'",
    "tier": 1
   },
@@ -357,7 +441,13 @@
     "text": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-7b50df65d2c3",
+     "locator": null,
+     "title": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024"
+    }
+   ],
    "text": "At least one drone was roughly 20 feet long, flying at more than 100 mph at roughly 3,000 to 4,000 feet.",
    "tier": 2
   },
@@ -371,7 +461,13 @@
     "text": "The Debrief, 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2c880837f7cf",
+     "locator": null,
+     "title": "The Debrief, 30 January 2026"
+    }
+   ],
    "text": "Updated guidance announced 30 January 2026 removed the 'fence-line' limitation, defined 'unauthorized surveillance' as an explicit threat, and gave commanders 'totality of circumstances' discretion.",
    "tier": 1
   },
@@ -385,7 +481,13 @@
     "text": "NORAD, via The War Zone, 30 October 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-c20413507e1f",
+     "locator": null,
+     "title": "NORAD, via The War Zone, 30 October 2024"
+    }
+   ],
    "text": "NORAD counted more than 600 drone reports above US military installations since 2022.",
    "tier": 2
   },
@@ -402,7 +504,7 @@
    "sourceRefs": [
     {
      "id": "pl-119-60",
-     "locator": "sec. 1671(b",
+     "locator": null,
      "title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
     }
    ],
@@ -436,7 +538,7 @@
    "sourceRefs": [
     {
      "id": "pl-119-60",
-     "locator": "table of contents and secs. 1671-1673",
+     "locator": null,
      "title": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting"
     }
    ],
@@ -467,7 +569,13 @@
     "text": "Cited in The Debrief, 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-05c169916eec",
+     "locator": null,
+     "title": "The Debrief"
+    }
+   ],
    "text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
    "tier": 2
   },
@@ -523,7 +631,13 @@
     "text": "Joint federal statement, 17 December 2024, reported by The Debrief",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-thedebrief-org-868052e4",
+     "locator": null,
+     "title": "The Debrief - Pentagon says mystery drones are common UAS and misidentifications"
+    }
+   ],
    "text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
    "tier": 1
   },

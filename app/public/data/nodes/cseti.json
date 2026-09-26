@@ -7,10 +7,16 @@
 {
 "id": "c-16514c0a3f",
 "source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-f8dd7274",
+"locator": null,
+"title": "Wikipedia - Steven M. Greer"
+}
+],
 "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for government whistleblowers willing to violate security oaths.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

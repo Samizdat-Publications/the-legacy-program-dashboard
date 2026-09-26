@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-319008468b",
+"locator": null,
+"node": "uap-disclosure-forum-2026",
+"nodeLabel": "Disclosure Forum 2026",
+"sourceText": "The Hill/NewsNation, 29 June 2026",
+"text": "Rep. Burlison announced at the forum that MIT Lincoln Laboratory had agreed to make available a 1952 UFO briefing recording.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-4e7f5b1aa6",
+"locator": null,
+"node": "uap-disclosure-forum-2026",
+"nodeLabel": "Disclosure Forum 2026",
+"sourceText": "The Hill/NewsNation, 29 June 2026",
+"text": "Held 25 June 2026, sponsored by the Disclosure Foundation, billed as a first-of-its-kind gathering of lawmakers, UAP researchers and whistleblowers.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-2ef7b1b8d5",
+"locator": null,
+"node": "mit-lincoln-laboratory",
+"nodeLabel": "MIT Lincoln Laboratory",
+"sourceText": "The Hill/NewsNation, 29 June 2026",
+"text": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available; the Disclosure Foundation describes it as a reel-to-reel audio recording relating to the July 1952 Washington sightings and says Lincoln Lab's lawyers confirm it exists.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-df816cb2bc",
+"locator": null,
+"node": "burlison-mit-lincoln-letter-2026",
+"nodeLabel": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
+"sourceText": "The Hill/NewsNation, 29 June 2026",
+"text": "At the 25 June 2026 Disclosure Forum, Burlison announced that MIT Lincoln Laboratory had agreed to make the 1952 material available; Jordan Flowers described it as a reel-to-reel audio tape about the Washington, D.C. sightings and said Lincoln Lab's lawyers confirm it exists.",
+"tier": 2
+}
+],
+"date": "2026-06-29",
+"edges": [],
+"era": "3",
+"id": "t-584dd923b52a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill/NewsNation",
+"listedOn": [],
+"node": null,
+"title": "The Hill/NewsNation, 29 June 2026",
+"topics": [
+{
+"claims": [
+"c-2ef7b1b8d5",
+"c-df816cb2bc"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+},
+{
+"claims": [
+"c-319008468b",
+"c-4e7f5b1aa6"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
+"type": "article",
+"urls": []
+}

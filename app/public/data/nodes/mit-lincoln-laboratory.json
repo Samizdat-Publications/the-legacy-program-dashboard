@@ -10,23 +10,35 @@
 "sources": [],
 "text": "Lincoln Laboratory's attorneys agreed to comply within 30 days with Rep. Burlison's May 2026 demand for a classified 1952 briefing recording referenced as a 'flying saucer talk.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:burlison-mit-lincoln-letter-2026) was rejected in review: X post quoted by news is not the letter"
 },
 {
 "id": "c-2ef7b1b8d5",
 "source": "The Hill/NewsNation, 29 June 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-584dd923b52a",
+"locator": null,
+"title": "The Hill/NewsNation, 29 June 2026"
+}
+],
 "text": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available; the Disclosure Foundation describes it as a reel-to-reel audio recording relating to the July 1952 Washington sightings and says Lincoln Lab's lawyers confirm it exists.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-91e550252c",
 "source": "The Hill/NewsNation, 16 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "t-c670c6732f03",
+"locator": null,
+"title": "The Hill/NewsNation, 16 May 2026"
+}
+],
 "text": "Founded in 1951 to build the SAGE air defense network; one of the oldest FFRDCs, a class of contractor with access to classified and proprietary information that for-profit contractors are legally barred from seeing.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d8bd8ca515",
@@ -34,8 +46,8 @@
 "sources": [
 {
 "id": "crs-r44629",
-"locator": "funding table",
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"locator": null,
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "Lincoln Laboratory is an MIT-administered FFRDC sponsored by DoD USD(R&E), with the sponsor change recorded on 25 April 2011, funded at approximately $1,360.6 million in FY2024.",
@@ -48,7 +60,7 @@
 "sources": [],
 "text": "On 8 May 2026 Rep. Burlison wrote to MIT Lincoln Laboratory requesting preservation and review of a reel-to-reel recording identified as 'AF-ATIC-FILM, 03/52' and labelled 'flying saucer talk', featuring Edward J. Ruppelt as briefer, and asked the laboratory to work with the National Archives on preservation and archival review.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:burlison-mit-lincoln-letter-2026) was rejected in review: press release is not the letter"
 },
 {
 "id": "c-2094c8be5e",
@@ -56,7 +68,7 @@
 "sources": [],
 "text": "MITRE was spun out of Lincoln Laboratory in 1958 to manage SAGE deployment, taking 485 Lincoln Laboratory employees with it.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:sage.mitre.org/timeline) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-0b9421eb2f",
@@ -64,7 +76,7 @@
 "sources": [],
 "text": "On 25 June 2026 Burlison announced that MIT Lincoln Laboratory had agreed to disclose the 1952 recording, quoting his own approach: 'We told MIT Lincoln Labs we know the exact video file you are holding, by name, and we want it.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:cybernews.com/news/burlison-ufo-uap-project-blue) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-1f33a75072",
@@ -72,7 +84,7 @@
 "sources": [],
 "text": "Burlison's MITRE press release names the Beacon Hill Study alongside 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, NARA and Record Group 615.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:burlison-mitre-letter-2026) was rejected in review: press release is not the letter"
 }
 ],
 "cls": "institution",

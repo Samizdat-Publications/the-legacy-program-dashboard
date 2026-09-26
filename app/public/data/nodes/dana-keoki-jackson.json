@@ -24,10 +24,16 @@
 {
 "id": "c-b3951ac80d",
 "source": "MITRE - Our Leadership page, accessed 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-mitre-org-568e6b7e",
+"locator": null,
+"title": "MITRE - Our Leadership"
+}
+],
 "text": "Jackson is Senior Vice President and General Manager of MITRE National Security, the unit encompassing MITRE's defense and intelligence work.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c84daf2a74",
@@ -35,7 +41,7 @@
 "sources": [],
 "text": "Jackson previously served as Chief Technology Officer of Lockheed Martin.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic description, no specific source named."
 },
 {
 "id": "c-6a1956c602",

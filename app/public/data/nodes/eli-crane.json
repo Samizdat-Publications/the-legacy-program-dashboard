@@ -46,8 +46,8 @@
 "sources": [
 {
 "id": "chrg-119hhrg61718",
-"locator": "INDEX OF DOCUMENTS",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Submitted for the record of the 9 September 2025 hearing a 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal', listed in the printed INDEX OF DOCUMENTS of CHRG-119hhrg61718.",
@@ -61,7 +61,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": null,
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "'I would like to enter into the testimony a letter I sent to the DOD regarding the case of Major David Charles Grusch, a UAP whistleblower who has been extremely helpful to this Committee. Unfortunately, due to his participation in the disclosure of UAP, he suffered reprisal like the removal of his clearance, denial of promotion, and loss of medical retirement. I wrote the DOD on July 24, 2025, on behalf of Major Grusch, and I am still waiting for a reply.'",
@@ -75,7 +75,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "Index of Documents",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "The hearing's printed Index of Documents lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
@@ -85,10 +85,16 @@
 {
 "id": "c-e447cef602",
 "source": "Congress.gov, H.R. 5060 (119th Congress), cosponsor record",
-"sources": [],
+"sources": [
+{
+"id": "bills-119hr5060ih",
+"locator": null,
+"title": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+}
+],
 "text": "Cosponsor of H.R. 5060, the UAP Whistleblower Protection Act, introduced 29 August 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-663b5dc63b",
@@ -96,7 +102,7 @@
 "sources": [],
 "text": "The hearing's index of documents lists 'Letter to SECDEF Regarding Major David Charles Grusch Reprisal; submitted by Rep. Crane.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:crane-dod-reprisal-letter) was rejected in review: index of documents is not the Crane letter itself"
 }
 ],
 "cls": "person",

@@ -10,6 +10,16 @@
 "sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, eds. Dean Rickles and Cecile M. DeWitt, Edition Open Sources, Sources 5, 2011, https://edition-open-sources.org/sources/5/index.html",
 "text": "The 1957 Chapel Hill conference was the Institute's inaugural event: 'In January 1957, a group of physicists from several countries met at the University of North Carolina to discuss the role of gravitation in physics ... The Chapel Hill conference also marked the establishment of the Institute of Field Physics, directed by Bryce and Cecile DeWitt. The conference was the inaugural conference of this institute.'",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-859758a351",
+"locator": "title page and editorial matter",
+"node": "louis-witten",
+"nodeLabel": "Louis Witten",
+"sourceText": "The Role of Gravitation in Physics: Report from the 1957 Chapel Hill Conference, title page and editorial matter",
+"text": "The conference report's official designation is WADC Technical Report 57-216, and it exists because of a conference funding agreement with the Wright Air Development Center -- an Air Force body.",
+"tier": 1
 }
 ],
 "date": null,
@@ -31,7 +41,8 @@
 "topics": [
 {
 "claims": [
-"c-761c6386d7"
+"c-761c6386d7",
+"c-859758a351"
 ],
 "id": "gravity-research-1950s",
 "title": "Gravity research in the 1950s: Townsend Brown, the Institute of Field Physics and the Talbert series"

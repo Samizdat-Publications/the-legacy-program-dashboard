@@ -77,10 +77,16 @@
 {
 "id": "c-fc23bec8bc",
 "source": "Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52",
-"sources": [],
+"sources": [
+{
+"id": "t-e15b494ccb3a",
+"locator": null,
+"title": "Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52"
+}
+],
 "text": "On the Danny Jones Podcast, episode 330, 8 September 2025, at 0:23:00 to 0:23:52, Rebecca Lemov described MK-Ultra as run by Sidney Gottlieb from 1953, with about 149 subprojects in the surviving records, officially discontinued in 1963 or 1964. The subproject count and the 1953 to 1964 span match the 1977 hearing print exactly; no record opened here shows Gottlieb running the programme from 1953.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "program",

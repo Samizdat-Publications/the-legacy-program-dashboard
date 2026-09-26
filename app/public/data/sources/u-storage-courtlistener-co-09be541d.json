@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-40b1e9c2fe",
+"locator": "Background section",
+"node": "leslie-kean",
+"nodeLabel": "Leslie Kean",
+"sourceText": "Memorandum Opinion, Kean v. NASA, 27 March 2007, Background section",
+"text": "Her FOIA request of 31 January 2003 sought documents on Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962 to 1967, Richard M. Schulherr, Project Moon Dust and 'Cosmos 96'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-734bdb982c",
+"locator": "pp. 1-2 and Conclusion",
+"node": "leslie-kean",
+"nodeLabel": "Leslie Kean",
+"sourceText": "Memorandum Opinion, Kean v. NASA, Dkt. 45, 27 March 2007, pp. 1-2 and Conclusion",
+"text": "The court's 27 March 2007 memorandum opinion states that NASA admits its first two searches were inadequate, and holds that the agency 'has not yet met its burden of demonstrating that the search for documents was adequate', denying summary judgment in part.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -118,7 +139,16 @@
 ],
 "node": null,
 "title": "Memorandum Opinion, Kean v. NASA, 27 March 2007",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-40b1e9c2fe",
+"c-734bdb982c"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
 "type": "document",
 "urls": [
 "https://storage.courtlistener.com/recap/gov.uscourts.dcd.106063/gov.uscourts.dcd.106063.45.0.pdf"

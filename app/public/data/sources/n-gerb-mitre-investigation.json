@@ -1,21 +1,363 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-32d13b52f3",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
+"text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-5a0d8fa58d",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
+"text": "MITRE's role spans two Navy-spearheaded legacy programs: (1) reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to MITRE's portfolio since its 1958 inception; and (2) tracking and monitoring of an enormous USO - a 'tic tac factory' - with permanent or semi-permanent station in the Atlantic, with all-source data processed by MITRE.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-5dc4eabd2c",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, video description, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', published 7 August 2026",
+"text": "FFRDCs are 'the missing link' in USG-led, defense-contractor-supported legacy programs: they allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f10e060269",
+"locator": "chapter list",
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', YouTube, 7 August 2026 (published description and chapter list) — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The MITRE investigation was published on 7 August 2026 and states that MITRE operates six FFRDCs and fifteen MITRE Labs and has served as a long-term strategic partner in the US Government's most national-security-sensitive national programs.",
+"tier": 2
+},
+{
+"cls": "domain",
+"id": "c-ae2ef33171",
+"locator": null,
+"node": "ffrdc-mechanism",
+"nodeLabel": "The FFRDC / UARC / GOCO mechanism",
+"sourceText": "UAP Gerb, MITRE investigation, 7 August 2026",
+"text": "FFRDCs allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and arbitrate what defense contractors are told about UFO programs.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-1fd8a02e99",
+"locator": null,
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"sourceText": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "MITRE processes all-source data for the tracking and monitoring of an enormous USO ('tic tac factory') with permanent or semi-permanent station in the Atlantic.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-623dc83a8f",
+"locator": null,
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"sourceText": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "FFRDCs are the missing link: they allow the USG to technically vest programs outside the government while retaining strict control over materials, breakthroughs, data and programs, and they arbitrate what and how much information about UFO programs is shared with defense contractors.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-a71c8b454b",
+"locator": null,
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"sourceText": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "A legacy program briefing restriction was initiated in 2011 to cease historical briefings on program incumbents.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-ef3c50efe0",
+"locator": null,
+"node": "gerb-mitre-investigation",
+"nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
+"sourceText": "UAP Gerb, MITRE investigation description, 7 August 2026",
+"text": "MITRE has been central to a program reverse-engineering and maturing non-human technologies from late-1940s recoveries since its 1958 inception.",
+"tier": 2
+}
+],
 "date": "2026",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"claimTier": 2,
+"id": "e-01829daf96",
+"label": "Gerb authored and published the MITRE investigation",
+"note": "Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "domain",
+"id": "d-structure",
+"label": "Program structure and organisational mapping"
+},
+"b": {
+"cls": "domain",
+"id": "d-media",
+"label": "Independent media as the disclosure substrate"
+},
+"claimTier": 3,
+"id": "e-8418e9fd3a",
+"label": "The structural discipline is a product of the independent-media substrate",
+"note": "The office-symbol-level structural work exists because a format existed that could carry two- and three-hour document-dense expositions. No broadcast or print outlet would have published it; the format created the discipline.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"id": "e-34181e2d17",
+"label": "MITRE is the exemplar instance of the mechanism",
+"note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 2,
+"id": "e-09edc06a2f",
+"label": "MITRE was created on the RAND model as the Air Force's systems engineering counterpart",
+"note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "institution",
+"id": "oni",
+"label": "Office of Naval Intelligence"
+},
+"claimTier": 2,
+"id": "e-b82f635ae3",
+"label": "Alleges MITRE support to two Navy-spearheaded legacy programs",
+"note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "institution",
+"id": "rand-corporation",
+"label": "RAND Corporation"
+},
+"claimTier": 2,
+"id": "e-96ed43b4ac",
+"label": "MITRE founded as the Air Force's successor to RAND",
+"note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "document",
+"id": "burlison-mitre-letter-2026",
+"label": "Rep. Burlison records demand to MITRE, 22 May 2026"
+},
+"claimTier": 2,
+"id": "e-d8bf46ae93",
+"label": "Published as declared support for the congressional inquiry opened 11 weeks earlier",
+"note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
+"type": "temporal"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "institution",
+"id": "aerospace-corporation",
+"label": "The Aerospace Corporation"
+},
+"claimTier": 3,
+"id": "e-cb955e3042",
+"label": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
+"note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+},
+"claimTier": 2,
+"id": "e-878ce88754",
+"label": "Establishes the FFRDC arbitration thesis",
+"note": "Gerb's central structural claim: FFRDCs let the government vest programs outside the USG while retaining control of materials and data, and arbitrate what defense contractors are told about UFO programs.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "domain",
+"id": "d-ffrdc",
+"label": "The FFRDC Seam"
+},
+"claimTier": 3,
+"id": "e-6832526c0c",
+"label": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
+"note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"id": "e-318766f210",
+"label": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
+"note": "Allegations include exploitation of non-human technologies from late-1940s recoveries and all-source processing of data on a very large Atlantic USO; no primary document has been produced.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"id": "e-84f69e61f4",
+"label": "Names MITRE as the central FFRDC node of the legacy portfolio",
+"note": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+},
+"b": {
+"cls": "institution",
+"id": "mitre-corporation",
+"label": "The MITRE Corporation"
+},
+"claimTier": 2,
+"id": "e-9f02974d7c",
+"label": "Alleged 2011 restriction on historical briefings about program incumbents",
+"note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
+"type": "denial"
+}
+],
 "era": "3",
 "id": "n-gerb-mitre-investigation",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+{
+"cls": "domain",
+"id": "ffrdc-mechanism",
+"label": "The FFRDC / UARC / GOCO mechanism"
+},
+{
+"cls": "document",
+"id": "gerb-mitre-investigation",
+"label": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
 "node": {
 "cls": "document",
 "id": "gerb-mitre-investigation",
 "label": "UAP Gerb - The MITRE Corporation investigation"
 },
 "title": "UAP Gerb - The MITRE Corporation investigation",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1fd8a02e99",
+"c-623dc83a8f",
+"c-a71c8b454b",
+"c-ef3c50efe0"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+}
+],
 "type": "broadcast",
-"urls": []
+"urls": [
+"https://www.youtube.com/watch?v=107BtDYhTkA"
+]
 }

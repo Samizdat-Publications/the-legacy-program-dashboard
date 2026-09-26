@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ab3c7abb30",
+"locator": null,
+"node": "michael-shellenberger",
+"nodeLabel": "Michael Shellenberger",
+"sourceText": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Shellenberger is co-founder of Public and, as of 2026, on the faculty of the University of Austin.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b64f03091c",
+"locator": null,
+"node": "public-substack",
+"nodeLabel": "Public",
+"sourceText": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Shellenberger is co-founder of Public, a newsletter covering censorship, cities, mental health, addiction, energy and the environment.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

@@ -2,6 +2,26 @@
 "archived": [],
 "claims": [
 {
+"cls": "institution",
+"id": "c-722bbd0234",
+"locator": null,
+"node": "americans-for-safe-aerospace",
+"nodeLabel": "Americans for Safe Aerospace",
+"sourceText": "House Oversight Committee hearing page, 26 July 2023",
+"text": "Graves appeared as Executive Director, Americans for Safe Aerospace, on the official House Oversight witness list for the 26 July 2023 hearing.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-2a32ef084c",
+"locator": null,
+"node": "nro",
+"nodeLabel": "National Reconnaissance Office",
+"sourceText": "House Committee on Oversight and Accountability hearing notice, 26 July 2023",
+"text": "David Grusch testified before the House Oversight Committee on 26 July 2023 with the official witness title 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
+"tier": 1
+},
+{
 "cls": "event",
 "id": "c-78d3626945",
 "locator": null,
@@ -332,10 +352,24 @@
 },
 {
 "claims": [
+"c-722bbd0234"
+],
+"id": "nasa-uap-study",
+"title": "NASA's UAP independent study, 2022-23"
+},
+{
+"claims": [
 "c-78d3626945"
 ],
 "id": "unauditable-ledger",
 "title": "The unauditable ledger: DoD audits, SFFAS 56 and the unsupported trillions"
+},
+{
+"claims": [
+"c-722bbd0234"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
 }
 ],
 "type": "web page",

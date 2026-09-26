@@ -44,10 +44,16 @@
 {
 "id": "c-55bd5f8627",
 "source": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
-"sources": [],
+"sources": [
+{
+"id": "u-nicap-org-e4017b37",
+"locator": null,
+"title": "House Committee on Science and Astronautics, Symposium on UFOs, 29 July 1968"
+}
+],
 "text": "McDonald testified before the House Committee on Science and Astronautics on 29 July 1968 as senior physicist at the University of Arizona Institute of Atmospheric Physics.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0429adb622",
@@ -55,7 +61,7 @@
 "sources": [],
 "text": "McDonald told the committee that 'credible observers are observing relatively incredible objects' and argued the phenomenon deserved serious scientific investigation rather than dismissal through ridicule.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:nicap.org/books/1968Sym/1968_UFO_Symposium.pdf) was rejected in review: 'same hearing transcript' cannot be resolved from the string"
 },
 {
 "id": "c-13407089f6",
@@ -63,7 +69,7 @@
 "sources": [],
 "text": "McDonald concluded after reviewing Blue Book case files that the program was not conducting genuine scientific investigation.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic description, no single titled document."
 },
 {
 "id": "c-2676724c10",
@@ -80,7 +86,7 @@
 {
 "id": "dtic-ad0680975",
 "locator": null,
-"title": "DTIC AD0680975"
+"title": "Scientific Study of Unidentified Flying Objects (DTIC AD0680975)"
 }
 ],
 "text": "The Condon Report acknowledges McDonald directly: 'The help of Dr. McDonald, Institute for Atmospheric Physics, University of Arizona, who conducted a study of UFO phenomena concurrently with this study, was invaluable in bringing a number of cases to our attention.' The board's description of him as a senior atmospheric physicist is the project's own.",
@@ -94,7 +100,7 @@
 {
 "id": "dtic-ad0680975",
 "locator": null,
-"title": "DTIC AD0680975"
+"title": "Scientific Study of Unidentified Flying Objects (DTIC AD0680975)"
 }
 ],
 "text": "The report records that 'in August 1967 Prof. James McDonald of Arizona made a 20-day trip to Australia, Tasmania and New Zealand in the course of which he interviewed some 80 persons who had made UFO reports there', and that on his return he briefed the Colorado project on what he found.",
@@ -108,7 +114,7 @@
 {
 "id": "dtic-ad0680977",
 "locator": null,
-"title": "DTIC AD0680977"
+"title": "Condon Report, Volume 3 (index) — DTIC AD0680977"
 }
 ],
 "text": "McDonald is indexed in the Condon Report at pages 927 and 928, and separately for his part in Case 50 (657-662), Case 52 (683-684, 690, 692), his views on future research (1269), the northeast power outage (167) and the extraterrestrial hypothesis (34). He is the most heavily indexed outside critic in the study that was meant to close the question.",

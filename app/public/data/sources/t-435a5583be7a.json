@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b3e51507c5",
+"locator": null,
+"node": "john-b-alexander",
+"nodeLabel": "John B. Alexander",
+"sourceText": "John B. Alexander, repeated public statements and his book 'UFOs: Myths, Conspiracies and Realities' (2011)",
+"text": "Alexander states that he convened a cleared interagency working group in the 1980s expressly to find a compartmented US UFO programme and concluded that none existed.",
+"tier": 2
+}
+],
+"date": "2011",
+"edges": [],
+"era": "2",
+"id": "t-435a5583be7a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "John B. Alexander",
+"listedOn": [],
+"node": null,
+"title": "UFOs: Myths, Conspiracies and Realities",
+"topics": [],
+"type": "book",
+"urls": []
+}

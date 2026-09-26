@@ -4,7 +4,7 @@
 {
 "cls": "document",
 "id": "c-11440a1ad4",
-"locator": "accessioning notices",
+"locator": null,
 "node": "bolender-memo",
 "nodeLabel": "Bolender Memorandum",
 "sourceText": "Inference from the absence of any such series in NARA's Air Force UFO holdings description and in the RG 615 accessioning notices",
@@ -34,7 +34,7 @@
 {
 "cls": "institution",
 "id": "c-04dc1d08a9",
-"locator": "and NARA's Air Force UFO holdings description",
+"locator": null,
 "node": "nara-uap-collection",
 "nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "sourceText": "Inference from the described contents of RG 615 and NARA's Air Force UFO holdings description",
@@ -218,7 +218,7 @@
 }
 ],
 "node": null,
-"title": "NARA Record Group 615",
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)",
 "topics": [
 {
 "claims": [

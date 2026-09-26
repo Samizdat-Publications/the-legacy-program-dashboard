@@ -25,15 +25,21 @@
 "sources": [],
 "text": "The Air Force published 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' attributing the debris to Project MOGUL, and 'The Roswell Report: Case Closed' (24 June 1997) attributing body reports to anthropomorphic test dummies.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:roswell-report-case-closed) was rejected in review: names two reports; only one is the candidate"
 },
 {
 "id": "c-ea5fbff86d",
 "source": "Berlitz and Moore, 'The Roswell Incident' (1980)",
-"sources": [],
+"sources": [
+{
+"id": "n-the-roswell-incident-1980",
+"locator": null,
+"title": "The Roswell Incident (Berlitz and Moore, 1980)"
+}
+],
 "text": "The 1980 Berlitz and Moore book 'The Roswell Incident' reopened the case publicly and is the origin of the modern witness corpus.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

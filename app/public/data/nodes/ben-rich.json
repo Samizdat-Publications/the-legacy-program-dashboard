@@ -39,10 +39,16 @@
 {
 "id": "c-cae789235f",
 "source": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Little, Brown, 1994)",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-b004b0cb",
+"locator": null,
+"title": "Ben R. Rich and Leo Janos, 'Skunk Works: A Personal Memoir of My Years at Lockheed' (Internet Archive)"
+}
+],
 "text": "Rich directed Lockheed's Advanced Development Projects from 1975 to 1991 and published a memoir describing how unacknowledged black programs were compartmented, staffed and funded at Burbank and Palmdale.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ee2fa82851",
@@ -50,7 +56,7 @@
 "sources": [],
 "text": "Rich is alleged to have stated in 1993 that the means to travel among the stars already exist inside black programs. The board grades this tier 3: the reasoning is that multiple independent attendees have recounted variants of the remark over three decades, but no primary artifact - recording, transcript, or letter - has been produced.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Explicitly unattested secondhand recollections; no primary source located."
 }
 ],
 "cls": "person",

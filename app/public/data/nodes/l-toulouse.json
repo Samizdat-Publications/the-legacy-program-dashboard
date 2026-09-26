@@ -8,10 +8,16 @@
 {
 "id": "c-8bb11ca095",
 "source": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-geipan-fr-93206d40",
+"locator": null,
+"title": "GEIPAN - accueil"
+}
+],
 "text": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

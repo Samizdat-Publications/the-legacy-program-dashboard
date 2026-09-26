@@ -8,10 +8,16 @@
 {
 "id": "c-f17799c93c",
 "source": "Arquivo Nacional information system",
-"sources": [],
+"sources": [
+{
+"id": "u-sian-an-gov-br-04c25bec",
+"locator": null,
+"title": "Arquivo Nacional (Brazil) - Sistema de Informacoes do Arquivo Nacional"
+}
+],
 "text": "Brazilian military UFO records have been transferred into the Arquivo Nacional and are publicly accessible.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

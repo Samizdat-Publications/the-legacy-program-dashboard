@@ -1,6 +1,97 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-60cafb9b80",
+"locator": null,
+"node": "afrl",
+"nodeLabel": "Air Force Research Laboratory",
+"sourceText": "National Archives, Project BLUE BOOK reference material",
+"text": "Wright-Patterson AFB is the installation that housed the Air Technical Intelligence Center and the Foreign Technology Division, which ran Projects SIGN, GRUDGE and BLUE BOOK.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-490dd9f5fb",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives, Air Force UFO records page",
+"text": "Existing legacy holdings include the Project Blue Book records: approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of OSI records on 94 rolls of microfilm (T-1206).",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-ef98e69bfa",
+"locator": null,
+"node": "project-aquarius",
+"nodeLabel": "Project AQUARIUS (alleged)",
+"sourceText": "National Archives, Project BLUE BOOK / MJ-12 reference report",
+"text": "The National Archives searched NSC Policy Paper and Meeting Minute indexes under the subjects 'MJ-12, majestic, unidentified flying objects, UFO, flying saucers, extraterrestrial biological entities, and Aquarius' and reported all searches negative except for the July 1954 Cutler-Twining memorandum.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-34ce9589cc",
+"locator": null,
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"sourceText": "National Archives, Air Force UFO records page",
+"text": "NARA states it has been 'unable to locate any documentation among the Project BLUE BOOK records that discuss the 1947 incident in Roswell, New Mexico.'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-b70e857b46",
+"locator": null,
+"node": "project-blue-book",
+"nodeLabel": "Project Blue Book",
+"sourceText": "National Archives, Air Force UFO records page",
+"text": "NARA holds approximately 2 cubic feet of project/administrative files, 37 cubic feet of case files and 3 cubic feet of Office of Special Investigations records, on 94 rolls of microfilm (T-1206).",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-77144e7434",
+"locator": null,
+"node": "roswell-1947",
+"nodeLabel": "Roswell Incident",
+"sourceText": "National Archives, Air Force UFO records page",
+"text": "NARA has been unable to locate any documentation among the Project Blue Book records discussing the 1947 Roswell incident.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-01e7396e2b",
+"locator": null,
+"node": "usaf",
+"nodeLabel": "United States Air Force",
+"sourceText": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"text": "From 1947 to 1969 a total of 12,618 sightings were reported to Project BLUE BOOK, of which 701 remain 'Unidentified'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-77ecbf43b2",
+"locator": null,
+"node": "usaf",
+"nodeLabel": "United States Air Force",
+"sourceText": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"text": "The Project BLUE BOOK records were permanently transferred to the National Archives and are held as 94 rolls of 35mm microfilm, T-1206.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9fd7e805b6",
+"locator": null,
+"node": "usaf",
+"nodeLabel": "United States Air Force",
+"sourceText": "National Archives, Unidentified Flying Objects / Project BLUE BOOK",
+"text": "On 17 December 1969 the Secretary of the Air Force announced the termination of Project BLUE BOOK, relying on the University of Colorado report 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -470,7 +561,71 @@
 ],
 "node": null,
 "title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-34ce9589cc",
+"c-b70e857b46",
+"c-01e7396e2b",
+"c-77ecbf43b2",
+"c-9fd7e805b6"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-77ecbf43b2",
+"c-9fd7e805b6"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-490dd9f5fb",
+"c-34ce9589cc"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+},
+{
+"claims": [
+"c-01e7396e2b",
+"c-9fd7e805b6"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-9fd7e805b6"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-ef98e69bfa"
+],
+"id": "kirtland-1980",
+"title": "Kirtland 1980: Bennewitz, Doty and Project Beta"
+},
+{
+"claims": [
+"c-77144e7434"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+},
+{
+"claims": [
+"c-ef98e69bfa"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.archives.gov/research/military/air-force/ufos"

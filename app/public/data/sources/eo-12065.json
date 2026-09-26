@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-14cf092585",
-"locator": "sec. 6-203",
+"locator": null,
 "node": "eo-12065",
 "nodeLabel": "Executive Order 12065 - National Security Information (28 June 1978)",
 "sourceText": "EO 12065 sec. 6-203, https://irp.fas.org/offdocs/eo/eo-12065.htm",
@@ -14,7 +14,7 @@
 {
 "cls": "legislation",
 "id": "c-3a00eb08a9",
-"locator": "sec. 3-303",
+"locator": null,
 "node": "eo-12065",
 "nodeLabel": "Executive Order 12065 - National Security Information (28 June 1978)",
 "sourceText": "EO 12065 sec. 3-303, https://irp.fas.org/offdocs/eo/eo-12065.htm",
@@ -24,7 +24,7 @@
 {
 "cls": "legislation",
 "id": "c-5c19818b8c",
-"locator": "sec. 3-303, and",
+"locator": null,
 "node": "eo-12356",
 "nodeLabel": "Executive Order 12356 - National Security Information (2 April 1982)",
 "sourceText": "EO 12356 full text term searches, against EO 12065 sec. 3-303, https://www.archives.gov/federal-register/codification/executive-order/12356.html and https://irp.fas.org/offdocs/eo/eo-12065.htm",
@@ -106,5 +106,7 @@
 }
 ],
 "type": "statute",
-"urls": []
+"urls": [
+"https://irp.fas.org/offdocs/eo/eo-12065.htm"
+]
 }

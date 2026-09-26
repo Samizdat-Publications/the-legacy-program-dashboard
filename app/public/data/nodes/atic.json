@@ -24,23 +24,35 @@
 "sources": [],
 "text": "Projects SIGN, GRUDGE and Blue Book were all hosted at Wright-Patterson AFB under Air Materiel Command intelligence and its successor ATIC.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objec) was rejected in review: names two documents; Condon Report is not the candidate"
 },
 {
 "id": "c-fa327a2e32",
 "source": "Project Blue Book Special Report No. 14, ATIC, 5 May 1955, title page",
-"sources": [],
+"sources": [
+{
+"id": "cia-rdp81r00560r000100060001-5",
+"locator": "title page",
+"title": "Project Blue Book Special Report No. 14"
+}
+],
 "text": "ATIC issued Project Blue Book Special Report No. 14 on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1d14b45f7e",
 "source": "AFR 200-2, 12 Aug 1954",
-"sources": [],
+"sources": [
+{
+"id": "n-afr-200-2",
+"locator": "12 Aug 1954 edition",
+"title": "Air Force Regulation 200-2"
+}
+],
 "text": "Under AFR 200-2 (12 August 1954), ATIC was the terminal analytical authority for unidentified reports after the Air Defense Command and the 4602d Air Intelligence Service Squadron had exhausted identification.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3ec1ec7c73",
@@ -53,18 +65,30 @@
 {
 "id": "c-98e664d9c0",
 "source": "AFR 200-2, 26 August 1953, paragraph 4a, read off the release scan",
-"sources": [],
+"sources": [
+{
+"id": "n-afr-200-2",
+"locator": "paragraph 4a",
+"title": "Air Force Regulation 200-2"
+}
+],
 "text": "ATIC's designation as the terminal analytical authority is on the face of the 1953 edition as well as the 1954 one. AFR 200-2 of 26 August 1953, paragraph 4a: 'The Air Technical Intelligence Center (ATIC), Wright-Patterson Air Force Base, Ohio, has been designated the Air Force activity responsible for conducting analysis of information and evidence.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9fed41fdc6",
 "source": "AFR 200-2, 26 August 1953 and 12 August 1954, full text of both editions",
-"sources": [],
+"sources": [
+{
+"id": "n-afr-200-2",
+"locator": "full text of both editions",
+"title": "Air Force Regulation 200-2"
+}
+],
 "text": "The claim that AFR 200-2 'routed reports to ATIC rather than to Blue Book' is a category error: Project Blue Book was a project inside ATIC at Wright-Patterson, and the 1953 regulation does not mention Blue Book at all in either edition, because naming ATIC is naming Blue Book's own host.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

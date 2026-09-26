@@ -1,21 +1,219 @@
 {
-"archived": [],
-"claims": [],
+"archived": [
+"https://web.archive.org/web/20260112201531/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170023/"
+],
+"claims": [
+{
+"cls": "document",
+"id": "c-2576eec5d8",
+"locator": null,
+"node": "dird-an-introduction-to-the-statistical-drake",
+"nodeLabel": "An Introduction to the Statistical Drake Equation",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+"text": "Appendix B of the released DIRD reproduces Maccone's underlying IAA conference paper \"The Statistical Drake Equation\" with its byline and Turin address intact, corroborating the DIA list attribution from inside the document even though the cover author field is redacted under (b)(6).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-2ec34ff9f6",
+"locator": null,
+"node": "dird-an-introduction-to-the-statistical-drake",
+"nodeLabel": "An Introduction to the Statistical Drake Equation",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
+"text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-55475f2c55",
+"locator": null,
+"node": "dird-an-introduction-to-the-statistical-drake",
+"nodeLabel": "An Introduction to the Statistical Drake Equation",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
+"text": "Released PDF is 55 pages, marked UNCLASSIFIED//FOR OFFICIAL USE ONLY (FOUO caveat partially illegible in the scan).",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6c7a9353dd",
+"locator": null,
+"node": "dird-an-introduction-to-the-statistical-drake",
+"nodeLabel": "An Introduction to the Statistical Drake Equation",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
+"text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-8e6eaa890f",
+"locator": null,
+"node": "dird-an-introduction-to-the-statistical-drake",
+"nodeLabel": "An Introduction to the Statistical Drake Equation",
+"sourceText": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/",
+"text": "Defense Intelligence Reference Document titled \"An Introduction to the Statistical Drake Equation\", series \"Acquisition Threat Support\", published 2010-03-11 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01 (no DIA document number printed on the released cover page). Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-cabdd7faf4",
+"locator": null,
+"node": "dird-an-introduction-to-the-statistical-drake",
+"nodeLabel": "An Introduction to the Statistical Drake Equation",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+"text": "Cover page reads \"11 March 2010 / ICOD: 1 December 2009\", series \"Acquisition Threat Support\". No DIA-08-XXXX-XXX document number is recoverable anywhere in the text layer of the released scan; the number is either absent from the scan or lost to OCR. It is therefore recorded here as unknown rather than guessed.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-389cd8735a",
+"locator": null,
+"node": "claudio-maccone",
+"nodeLabel": "Claudio Maccone",
+"sourceText": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+"text": "The released DIRD reproduces at Appendix B the underlying conference paper \"The Statistical Drake Equation\" with the byline intact, reading \"Claudio Macc[one], Co-Vice Chair, SETI Permanent Study Group, International Academy of Astronautics\", corroborating the DIA list attribution from inside the document itself even though the cover author block is redacted under (b)(6). OCR of the scan is degraded; the surname renders as \"Maccolle\" and SETI as \"SHTI\".",
+"tier": 1
+}
+],
 "date": null,
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"b": {
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+"claimTier": 1,
+"id": "e-9882764012",
+"label": "deliverable under AAWSAP",
+"note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "person",
+"id": "claudio-maccone",
+"label": "Claudio Maccone"
+},
+"b": {
+"cls": "program",
+"id": "aawsap",
+"label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+},
+"claimTier": 1,
+"id": "e-e698a82096",
+"label": "commissioned subject-matter author",
+"note": "Credited with one of the 38 AAWSAP deliverables, 'An Introduction to the Statistical Drake Equation', dated 11 March 2010, whose released text names AAWSAP. Maccone is the only foreign-based academic on the author list alongside Ulf Leonhardt at St Andrews. Tier 2 because the released document's 'Author' field is redacted under FOIA exemption (b)(6); the attribution comes from the separate list of deliverables DIA transmitted to Congress, not from the document itself.",
+"type": "funding"
+},
+{
+"a": {
+"cls": "person",
+"id": "claudio-maccone",
+"label": "Claudio Maccone"
+},
+"b": {
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+"claimTier": 1,
+"id": "e-a1a3034528",
+"label": "authored",
+"note": "DIA list item 15 names \"Dr Claudio Maccone, International Academy of Astronautics\". Independently corroborated by Appendix B of the released document, which reproduces his IAA conference paper with the byline intact.",
+"type": "research"
+},
+{
+"a": {
+"cls": "institution",
+"id": "dia",
+"label": "Defense Intelligence Agency"
+},
+"b": {
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+"claimTier": 1,
+"id": "e-df8b80bb96",
+"label": "published and holds; document number not recoverable",
+"note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"type": "custody"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+"claimTier": 1,
+"id": "e-3344734a6d",
+"label": "series member",
+"note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 11 March 2010 on the cover. 56 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "dird-series",
+"label": "The 38 Defense Intelligence Reference Documents (DIRDs)"
+},
+"b": {
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+"claimTier": 1,
+"id": "e-ca26ab4c53",
+"label": "DIRD",
+"note": "",
+"type": "institutional"
+}
+],
 "era": "nd",
 "id": "n-dird-an-introduction-to-the-statistical-drake",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "The Black Vault",
+"listedOn": [
+{
+"cls": "document",
+"id": "dird-an-introduction-to-the-statistical-drake",
+"label": "An Introduction to the Statistical Drake Equation"
+},
+{
+"cls": "person",
+"id": "claudio-maccone",
+"label": "Claudio Maccone"
+}
+],
 "node": {
 "cls": "document",
 "id": "dird-an-introduction-to-the-statistical-drake",
 "label": "An Introduction to the Statistical Drake Equation"
 },
 "title": "An Introduction to the Statistical Drake Equation",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-2576eec5d8"
+],
+"id": "dirds",
+"title": "The Defense Intelligence Reference Documents"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_25-DIRD_An_Introduction_to_the_Statistical_Drake_Equation.pdf",
+"https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237662/"
+]
 }

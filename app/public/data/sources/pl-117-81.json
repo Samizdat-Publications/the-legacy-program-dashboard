@@ -14,7 +14,7 @@
 {
 "cls": "legislation",
 "id": "c-8b056bc5b3",
-"locator": "sec. 1683(f), 135 Stat. 2120-2121",
+"locator": null,
 "node": "ndaa-fy2022-sec-1683",
 "nodeLabel": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "sourceText": "PLAW-117publ81 sec. 1683(f), 135 Stat. 2120-2121",
@@ -24,7 +24,7 @@
 {
 "cls": "legislation",
 "id": "c-d82b15e961",
-"locator": "sec. 1683",
+"locator": null,
 "node": "ndaa-fy2022-sec-1683",
 "nodeLabel": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "sourceText": "PLAW-117publ81 sec. 1683",
@@ -44,7 +44,7 @@
 {
 "cls": "legislation",
 "id": "c-002490dfce",
-"locator": "sec. 1683(e)(1)(B), 135 Stat. 2120",
+"locator": null,
 "node": "ndaa-fy2022",
 "nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "sourceText": "PL 117-81 sec. 1683(e)(1)(B), 135 Stat. 2120",
@@ -54,7 +54,7 @@
 {
 "cls": "legislation",
 "id": "c-1948ea680e",
-"locator": "sec. 1683(e)(2), 135 Stat. 2120",
+"locator": null,
 "node": "ndaa-fy2022",
 "nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "sourceText": "PL 117-81 sec. 1683(e)(2), 135 Stat. 2120",
@@ -64,7 +64,7 @@
 {
 "cls": "legislation",
 "id": "c-30d78b14d8",
-"locator": "enactment line",
+"locator": null,
 "node": "ndaa-fy2022",
 "nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "sourceText": "PLAW-117publ81 enactment line",
@@ -74,7 +74,7 @@
 {
 "cls": "legislation",
 "id": "c-4df969851f",
-"locator": "sec. 1683(c), 135 Stat. 2119",
+"locator": null,
 "node": "ndaa-fy2022",
 "nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "sourceText": "PL 117-81 sec. 1683(c), 135 Stat. 2119",
@@ -84,7 +84,7 @@
 {
 "cls": "legislation",
 "id": "c-73702e6a81",
-"locator": "sec. 1683(f), 135 Stat. 2120-2121",
+"locator": null,
 "node": "ndaa-fy2022",
 "nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "sourceText": "PL 117-81 sec. 1683(f), 135 Stat. 2120-2121",
@@ -94,7 +94,7 @@
 {
 "cls": "legislation",
 "id": "c-de7ea874d7",
-"locator": "sec. 1683(a), 135 Stat. 2118-2119",
+"locator": null,
 "node": "ndaa-fy2022",
 "nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "sourceText": "PL 117-81 sec. 1683(a), 135 Stat. 2118-2119",
@@ -104,7 +104,7 @@
 {
 "cls": "legislation",
 "id": "c-e249e4d20c",
-"locator": "sec. 1683(d), 135 Stat. 2119-2120",
+"locator": null,
 "node": "ndaa-fy2022",
 "nodeLabel": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "sourceText": "PL 117-81 sec. 1683(d), 135 Stat. 2119-2120",
@@ -114,7 +114,7 @@
 {
 "cls": "person",
 "id": "c-05030f7b1c",
-"locator": "approval date, GPO",
+"locator": null,
 "node": "harry-reid",
 "nodeLabel": "Harry M. Reid",
 "sourceText": "P.L. 117-81 approval date, GPO; public record of Reid's death",
@@ -124,7 +124,7 @@
 {
 "cls": "person",
 "id": "c-4b3461f034",
-"locator": "and 117-263",
+"locator": null,
 "node": "kirsten-gillibrand",
 "nodeLabel": "Kirsten E. Gillibrand",
 "sourceText": "Public Laws 117-81 and 117-263; AARO annual reports cite 50 U.S.C. 3373(k)",
@@ -242,8 +242,12 @@
 "label": "Kirsten E. Gillibrand"
 }
 ],
-"node": null,
-"title": "Public Law 117-81",
+"node": {
+"cls": "legislation",
+"id": "ndaa-fy2022",
+"label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office"
+},
+"title": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "topics": [
 {
 "claims": [

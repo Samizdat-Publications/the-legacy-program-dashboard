@@ -14,16 +14,6 @@
 {
 "cls": "person",
 "id": "c-dc778712ea",
-"locator": "version 6, 19 March 2019, Table 1",
-"node": "betty-sapp",
-"nodeLabel": "Betty J. Sapp",
-"sourceText": "CRS IF10538 version 6, 19 March 2019, Table 1, https://www.congress.gov/crs_external_products/IF/PDF/IF10538/IF10538.6.pdf",
-"text": "The same table gives the appointment authority for the post she held: '50 U.S.C. 3041(b)(2)(B) DOD Secretary needs DNI to concur with the recommendation to the President; and 50 U.S.C. 3602(a)(2), Director is appointment by the President, Senate confirmed; then pursuant to S.Res. 470, Senate confirmed (SSCI and SASC).'",
-"tier": 1
-},
-{
-"cls": "person",
-"id": "c-dc778712ea",
 "locator": null,
 "node": "betty-sapp",
 "nodeLabel": "Betty J. Sapp",
@@ -84,7 +74,7 @@
 }
 ],
 "node": null,
-"title": "CRS IF10538",
+"title": "U.S. Intelligence Community (IC): Appointment Dates and Appointment Legal Provisions for Selected IC Leadership (CRS IF10538)",
 "topics": [],
 "type": "report",
 "urls": [

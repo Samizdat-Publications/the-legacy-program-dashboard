@@ -37,7 +37,13 @@
     "text": "Bud Appleby, 'Chunk of Molten Metal Found in Bluffs Has Residents Puzzled', Des Moines Register, 26 January 1978, cited in Sol Briefing No. 3",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-174f8a5e56da",
+     "locator": null,
+     "title": "Chunk of Molten Metal Found in Bluffs Has Residents Puzzled"
+    }
+   ],
    "text": "Materials analyses in the weeks after the incident found the metal consisted of high-carbon steel and slag.",
    "tier": 1
   },
@@ -51,7 +57,13 @@
     "text": "Gizmodo reporting on the published ORNL synopsis, 11 July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-gizmodo-com-9593ba44",
+     "locator": null,
+     "title": "Gizmodo"
+    }
+   ],
    "text": "Neither AARO nor ORNL could verify the specimen's historical origin, and records of failed magnesium alloy designs are scant.",
    "tier": 2
   },
@@ -69,7 +81,7 @@
     {
      "id": "crs-r44629",
      "locator": null,
-     "title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+     "title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
     }
    ],
    "text": "UT-Battelle, LLC has administered Oak Ridge National Laboratory since 1 April 2000 under DOE contract DEAC0500OR22725, with recorded obligations of approximately $42.3 billion and a period of performance running to 2030; ORNL was funded at approximately $2,091.2 million in FY2024.",
@@ -85,7 +97,13 @@
     "text": "Research Notes of the AAS, DOI 10.3847/2515-5172/ad2370",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-4511ed09",
+     "locator": null,
+     "title": "Loeb et al., 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS"
+    }
+   ],
    "text": "Loeb is lead author of 'Recovery and Classification of Spherules from the Pacific Ocean Site of the CNEOS 2014 January 8 (IM1) Bolide', Research Notes of the AAS, 31 January 2024.",
    "tier": 1
   },
@@ -113,7 +131,13 @@
     "text": "Garry Nolan, quoted in The Debrief, 5 June 2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-f74452ef8765",
+     "locator": null,
+     "title": "Garry Nolan, quoted in The Debrief, 5 June 2023"
+    }
+   ],
    "text": "Study of small samples of exotic material could yield 'hundreds of technology revolutions.'",
    "tier": 2
   },
@@ -141,7 +165,13 @@
     "text": "AARO/ORNL Synopsis, July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "The reports acknowledge the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its exact historical origin and purpose unclear.",
    "tier": 1
   },
@@ -183,7 +213,13 @@
     "text": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-5d3c0cdc7c47",
+     "locator": null,
+     "title": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019"
+    }
+   ],
    "text": "Linda Moulton Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions.",
    "tier": 2
   },
@@ -197,7 +233,13 @@
     "text": "Progress in Aerospace Sciences, doi:10.1016/j.paerosci.2021.100788",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-paper-nolan-vallee-2022",
+     "locator": null,
+     "title": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788"
+    }
+   ],
    "text": "Nolan, Vallee, Jiang and Lemke published 'Improved instrumental techniques, including isotopic analysis, applicable to the characterization of unusual materials with potential relevance to aerospace forensics' in Progress in Aerospace Sciences 128:100788 (2022).",
    "tier": 1
   },
@@ -225,7 +267,13 @@
     "text": "AARO Aluminum Materials Analysis Supplement, January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-ornl-materials-analyses",
+     "locator": null,
+     "title": "AARO / Oak Ridge National Laboratory materials analyses"
+    }
+   ],
    "text": "AARO's January 2026 Aluminum Materials Analysis Supplement (26-P-0218) reports ORNL analysis of a specimen recovered near Flint Ridge State Park, Ohio, finding it similar to Aluminum Association reference alloys 369.1 and A413.1 with no radioactive emissions.",
    "tier": 1
   },
@@ -239,7 +287,13 @@
     "text": "Chemical Geology, DOI 10.1016/j.chemgeo.2025.122628",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-936c549f",
+     "locator": null,
+     "title": "Rudraswami, Singh & Pandey, 'Re-evaluation of the spherules proposed origin recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide', Chemical Geology"
+    }
+   ],
    "text": "Rudraswami, Singh and Pandey published a re-evaluation of the spherules' proposed origin in Chemical Geology in March 2025.",
    "tier": 1
   },
@@ -267,7 +321,13 @@
     "text": "Chemical Geology, doi:10.1016/j.chemgeo.2025.122627",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-dcdd37c1",
+     "locator": null,
+     "title": "Hyung, Cherston, Jacobsen & Loeb, Chemical Geology"
+    }
+   ],
    "text": "Hyung, Cherston, Jacobsen and Loeb published an investigation of the relationship between morphology and chemistry of D-type spherules in Chemical Geology in March 2025.",
    "tier": 1
   },
@@ -281,7 +341,13 @@
     "text": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-296311e76207",
+     "locator": null,
+     "title": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018"
+    }
+   ],
    "text": "TTSA's September 2018 SEC filing recorded preparation to launch research into 'materials relevant to its future plans in Space Time Metric Engineering', partnering with EarthTech in August 2018.",
    "tier": 1
   },
@@ -309,7 +375,13 @@
     "text": "AARO Aluminum Materials Analysis Supplement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-ornl-materials-analyses",
+     "locator": null,
+     "title": "AARO / Oak Ridge National Laboratory materials analyses"
+    }
+   ],
    "text": "AARO's January 2026 aluminium analysis found composition matching Aluminum Association reference alloys 369.1 and A413.1, a conventional result.",
    "tier": 1
   },
@@ -323,7 +395,13 @@
     "text": "Sol Foundation Policy Briefing No. 3, April 2026, summarising the paper",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "summarising the paper",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "Meteorite, satellite/spacecraft debris, aircraft debris, dumped molten metal and thermite hypotheses were each examined and ruled out on physical grounds; the thermite exclusion rests on the absence of aluminium oxide in the SIMS diatomic analysis.",
    "tier": 1
   },
@@ -337,7 +415,13 @@
     "text": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-metallic-specimen-analysis",
+     "locator": null,
+     "title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+    }
+   ],
    "text": "'ORNL assessed this specimen to be terrestrial in origin and that it does not meet the theoretical requirements to function as a terahertz (THz) waveguide.'",
    "tier": 1
   },
@@ -365,7 +449,13 @@
     "text": "SEC EDGAR, TTSA Form 1-A Exhibit 6.28, filed 3 August 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-ttsa-army-crada",
+     "locator": null,
+     "title": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy"
+    }
+   ],
    "text": "CRADA 19-15 'Novel & Emerging Technology Exploitation (NETE)' between To The Stars Academy of Arts and Science, Inc. and the US Army CCDC Ground Vehicle Systems Center, with named government principal investigators and TACOM IP counsel, was filed as SEC Exhibit 6.28.",
    "tier": 1
   },
@@ -379,7 +469,13 @@
     "text": "Chemical Geology DOI 10.1016/j.chemgeo.2025.122628; Geophysical Journal International, March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-53ecbb03f6b1",
+     "locator": null,
+     "title": "Geophysical Journal International, March 2024"
+    }
+   ],
    "text": "The IM1 spherule composition claims were contested in the peer-reviewed literature by Rudraswami, Singh & Pandey in Chemical Geology (March 2025) and by Fernando et al. in Geophysical Journal International (March 2024) on the seismic localisation.",
    "tier": 1
   },
@@ -407,7 +503,13 @@
     "text": "AARO FY2025 Consolidated Annual Report on UAP",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-fy2025-annual-report",
+     "locator": null,
+     "title": "AARO FY2025 Consolidated Annual Report on UAP"
+    }
+   ],
    "text": "The FY2025 report states no entity has ever captured or exploited UAP-derived materials while noting AARO is developing procedures for handling such materials should they come into USG possession.",
    "tier": 1
   },
@@ -519,7 +621,13 @@
     "text": "Sol Foundation Policy Briefing No. 3, citing the Daily Nonpareil (18 December 1977) and Greg Jerrett, 'Mystery at Big Lake: Fire in the Sky', Daily Nonpareil, 16 May 2004",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "citing Daily Nonpareil (18 Dec 1977) and Greg Jerrett, 'Mystery at Big Lake: Fire in the Sky', Daily Nonpareil, 16 May 2004",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "Five independent groups of witnesses observed a red luminous mass descending from approximately 500-600 feet near a park in Council Bluffs on the evening of 17 December 1977; the assistant fire chief described a roughly four-by-six-foot mass of molten metal 'running, boiling down the edges of the levee'; police photographed the scene.",
    "tier": 1
   },
@@ -533,7 +641,13 @@
     "text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-ff935d64",
+     "locator": "1:09:33",
+     "title": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, the retired Senate Armed Services Committee staffer Kirk McConnell said that the contract forming AARO's advisory group 'was let through Oak Ridge' while Sean Kirkpatrick directed AARO. If such a task order exists it would carry a number and appear on USAspending; none was located here.",
    "tier": 2
   },
@@ -547,7 +661,13 @@
     "text": "Sol Foundation Policy Briefing No. 3, April 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": null,
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "The analysis found no anomalous isotopic values but incomplete mixing of the metals in the once-molten mass, indicating an industrial process of unknown origin.",
    "tier": 1
   },
@@ -561,7 +681,13 @@
     "text": "Sol Foundation Policy Briefing No. 3 summarising Nolan, Vallee, Jiang & Lemke (2022)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "summarising Nolan, Vallee, Jiang & Lemke (2022)",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "The laboratory applied SIMS and MIBI to the Council Bluffs samples at 200 nanometre lateral resolution and five-nanometre depth increments, finding no anomalous isotopic values but incomplete mixing of the constituent metals.",
    "tier": 1
   },
@@ -575,7 +701,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired as a Program Director from Lockheed Martin Advanced Development Programs (Skunk Works) after 31 years.",
    "tier": 1
   },
@@ -603,7 +735,13 @@
     "text": "The Sol Foundation Science and Policy Briefings No. 3, April 2026, summarising the Nolan/Vallee paper",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-sol-briefing-3-2026",
+     "locator": "summarising the Nolan/Vallee paper",
+     "title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+    }
+   ],
    "text": "The Council Bluffs analysis found no anomalous isotopic values but incomplete mixing of the constituent metals, indicating an industrial process of unknown origin, and ruled out meteorite, satellite/spacecraft, aircraft-debris, molten-metal-dumping and thermite explanations.",
    "tier": 1
   },
@@ -631,7 +769,13 @@
     "text": "Puthoff letter as reported by Vice, 14 November 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-a9558656710c",
+     "locator": null,
+     "title": "Vice, 14 November 2019"
+    }
+   ],
    "text": "A 2012 letter from Puthoff reported that testing had not proved alien origin nor produced any 'interesting/anomalous outcome', with one further test pending for want of equipment.",
    "tier": 2
   },
@@ -645,7 +789,13 @@
     "text": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33 to 1:10:25",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-mgln-ai-ff935d64",
+     "locator": "1:09:33-1:10:25",
+     "title": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)' (audio)"
+    }
+   ],
    "text": "On American Alchemy with Jesse Michels, 2 April 2025, at 1:09:33, Kirk McConnell said that Kirkpatrick 'created an advisory group' at AARO and that 'the contract for that, for the formation of that group to advise him at AARO, well, the contract was let through Oak Ridge', and that after retiring from government Kirkpatrick is 'working with, for Oak Ridge under contract now'. Asked whether that looked like a conflict of interest, McConnell answered at 1:10:25 that 'conflicts of interest or allegations are easy to make, but not so easy to sort out. But it is certainly worth taking note of if nothing else.' He does not allege wrongdoing and does not name the advisory group.",
    "tier": 2
   },
@@ -673,7 +823,13 @@
     "text": "AARO Historical Record Report Volume I",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "Volume I determined that an alleged extraterrestrial spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth with trace elements.",
    "tier": 1
   },
@@ -715,7 +871,13 @@
     "text": "SEC filings as reported by M.J. Banias, Vice, 4 October 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-vice-com-29e50787",
+     "locator": null,
+     "title": "M.J. Banias, 'Tom DeLonge's UFO Research Company Paid $35, 000 for Exotic Metals That Might Actually Just Be Slag', Vice"
+    }
+   ],
    "text": "SEC filings record To The Stars paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium.",
    "tier": 1
   },
@@ -729,7 +891,13 @@
     "text": "Chemical Geology, doi:10.1016/j.chemgeo.2024.122415",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-doi-org-357528c7",
+     "locator": null,
+     "title": "Loeb, Jacobsen, Tagle et al., Chemical Geology"
+    }
+   ],
    "text": "Loeb, Jacobsen, Tagle and colleagues published 'Chemical classification of spherules recovered from the Pacific Ocean site of the CNEOS 2014-01-08 (IM1) bolide' in Chemical Geology in December 2024.",
    "tier": 1
   },

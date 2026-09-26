@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-bde51b2525",
+"locator": "reporting the 9 June 2026 Capitol press conference",
+"node": "press-conf-2026-06-09",
+"nodeLabel": "Capitol UAP Disclosure Press Conference",
+"sourceText": "Fox News, 10 June 2026, reporting the 9 June 2026 Capitol press conference",
+"text": "Grusch: 'During my investigation, I found slush funds to the tune of billions of dollars per annum for these activities,' and 'This is also a real fraud, waste and abuse issue.'",
+"tier": 2
+}
+],
+"date": "2026-06-10",
+"edges": [],
+"era": "3",
+"id": "t-776dd1c97d6a",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Fox News",
+"listedOn": [],
+"node": null,
+"title": "Fox News, 10 June 2026, reporting the 9 June 2026 Capitol press conference",
+"topics": [
+{
+"claims": [
+"c-bde51b2525"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+}
+],
+"type": "article",
+"urls": []
+}

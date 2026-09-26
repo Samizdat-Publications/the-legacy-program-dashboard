@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ca6478151d",
+"locator": null,
+"node": "jonathan-grey",
+"nodeLabel": "\"Jonathan Grey\" (pseudonym)",
+"sourceText": "'Jonathan Grey,' NASIC, quoted in The Debrief, 5 June 2023",
+"text": "'The non-human intelligence phenomenon is real. We are not alone.' Also: retrievals of this kind are not limited to the United States.",
+"tier": 2
+}
+],
+"date": "2023-06-05",
+"edges": [],
+"era": "3",
+"id": "t-0f6328608c34",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Debrief",
+"listedOn": [],
+"node": null,
+"title": "Jonathan Grey,' NASIC",
+"topics": [
+{
+"claims": [
+"c-ca6478151d"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
+"type": "article",
+"urls": []
+}

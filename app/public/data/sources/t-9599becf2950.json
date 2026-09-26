@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-1565e44095",
+"locator": null,
+"node": "david-clarke-uk",
+"nodeLabel": "Dr David Clarke",
+"sourceText": "UK Ministry of Defence, Publication Scheme, 'UAP in the UK Air Defence Region: Executive Summary', 15 May 2006 (Internet Archive capture)",
+"text": "MoD publication scheme entry for the Condign executive summary lists Author: DAS; Owner: Ministry of Defence; Date document created 15 May 06; Date released proactively 15 May 06; FOI Organisation area: Directorate of Air Staff; FOI Information class: Unidentified Flying Objects.",
+"tier": 1
+}
+],
+"date": "2006-05-15",
+"edges": [],
+"era": "2",
+"id": "t-9599becf2950",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "UK Ministry of Defence",
+"listedOn": [],
+"node": null,
+"title": "UK Ministry of Defence, Publication Scheme, 'UAP in the UK Air Defence Region: Executive Summary",
+"topics": [
+{
+"claims": [
+"c-1565e44095"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
+"type": "web page",
+"urls": []
+}

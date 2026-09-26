@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-e69b37291a",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council', 15 June 2026",
+"text": "The council was announced on 15 June 2026 as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, chaired by Avi Loeb.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -184,7 +195,15 @@
 ],
 "node": null,
 "title": "Skeptic / Skeptics Society, 'Michael Shermer Named to White House UAP Science Advisory Council'",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-e69b37291a"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "article",
 "urls": [
 "https://www.skeptic.com/article/michael-shermer-named-to-white-house-uap-science-advisory-council/"

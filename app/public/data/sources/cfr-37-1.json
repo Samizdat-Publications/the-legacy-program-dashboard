@@ -4,16 +4,6 @@
 {
 "cls": "person",
 "id": "c-5e234aed54",
-"locator": "362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1",
-"node": "salvatore-pais",
-"nodeLabel": "Salvatore Cezar Pais",
-"sourceText": "37 CFR 1.362, Time for payment of maintenance fees (CFR 2024, title 37, vol. 1) || https://www.govinfo.gov/content/pkg/CFR-2024-title37-vol1/xml/CFR-2024-title37-vol1-sec1-362.xml",
-"text": "A patent assigned to a federal agency owes maintenance fees on the ordinary schedule, which closes the question the expiry finding rested on. 37 CFR 1.362(a) requires them 'in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant', and paragraph (b) gives the exemptions in full: 'Maintenance fees are not required for any plant patents or for any design patents.' Both Pais grants are utility patents from applications filed long after 1980. Neither was in an exempt class, and both owed the fee.",
-"tier": 1
-},
-{
-"cls": "person",
-"id": "c-5e234aed54",
 "locator": null,
 "node": "salvatore-pais",
 "nodeLabel": "Salvatore Cezar Pais",
@@ -24,7 +14,7 @@
 {
 "cls": "person",
 "id": "c-6162481fe0",
-"locator": "132 signed 11 May 2018, faxed 24 May 2018",
+"locator": null,
 "node": "salvatore-pais",
 "nodeLabel": "Salvatore Cezar Pais",
 "sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt",
@@ -34,7 +24,7 @@
 {
 "cls": "person",
 "id": "c-f938b8df40",
-"locator": "132 signed 11 May 2018, faxed 24 May 2018",
+"locator": null,
 "node": "salvatore-pais",
 "nodeLabel": "Salvatore Cezar Pais",
 "sourceText": "USPTO file wrapper, application 15/141,270 (PAX 205), retrieved from USPTO Patent Center 28 August 2026; document image JHRQ6JRIRXEAPX0.pdf, declaration under 37 C.F.R. 1.132 signed 11 May 2018, faxed 24 May 2018; transcript at research/patents/wrapper/sheehy-declaration-2018-05-11.txt",
@@ -63,7 +53,6 @@
 "topics": [
 {
 "claims": [
-"c-5e234aed54",
 "c-5e234aed54",
 "c-6162481fe0"
 ],

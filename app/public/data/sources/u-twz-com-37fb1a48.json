@@ -2,6 +2,16 @@
 "archived": [],
 "claims": [
 {
+"cls": "person",
+"id": "c-b76a491244",
+"locator": null,
+"node": "harold-puthoff",
+"nodeLabel": "Harold E. Puthoff",
+"sourceText": "The War Zone analysis of the DIA list, 18 January 2019",
+"text": "EarthTech International produced six of the 38 DIRDs between Puthoff and Eric Davis, more than any other single organisation.",
+"tier": 2
+},
+{
 "cls": "document",
 "id": "c-cd0e60dbe0",
 "locator": null,
@@ -40,6 +50,16 @@
 "sourceText": "https://www.twz.com/26056/heres-the-list-of-studies-the-militarys-secretive-ufo-program-funded-some-were-junk",
 "text": "A 2008 JASON advisory group review of HFGW work Baker had done for the Office of the Director of National Intelligence concluded, as quoted by The War Zone: 'The proposed applications of the science of HFGW are fundamentally wrong' and 'No foreign threat in HFGW is credible.'",
 "tier": 1
+},
+{
+"cls": "document",
+"id": "c-fb09fc8b38",
+"locator": "citing the JASON HFGW report",
+"node": "dird-series",
+"nodeLabel": "The 38 Defense Intelligence Reference Documents (DIRDs)",
+"sourceText": "The War Zone analysis of the DIRD list, 18 January 2019, citing the JASON HFGW report",
+"text": "The JASON advisory group's 2008 assessment of Robert Baker's high-frequency gravitational wave concept concluded 'the proposed applications of the science of HFGW are fundamentally wrong', a critique published before DIA accepted the DIRD on the same subject.",
+"tier": 2
 },
 {
 "cls": "person",
@@ -394,10 +414,18 @@
 "topics": [
 {
 "claims": [
-"c-cd0e60dbe0"
+"c-cd0e60dbe0",
+"c-fb09fc8b38"
 ],
 "id": "dirds",
 "title": "The Defense Intelligence Reference Documents"
+},
+{
+"claims": [
+"c-fb09fc8b38"
+],
+"id": "propulsion-claims",
+"title": "Propulsion and exotic-physics claims, and what the documents say"
 }
 ],
 "type": "article",

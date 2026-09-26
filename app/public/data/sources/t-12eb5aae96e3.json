@@ -1,0 +1,54 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-bf19f238f5",
+"locator": "Burlison SCIF-transparency quote",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
+"text": "'They weren't transparent to us in a SCIF setting. So they could have brought forward evidence. They could have explained what these Special Access Programs actually do. But they are not willing to do that with Congress.'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-ec246d5b7f",
+"locator": "Burlison SCIF-transparency quote",
+"node": "uap-select-committee-proposal",
+"nodeLabel": "Proposed House Select Committee on UAP",
+"sourceText": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
+"text": "'They weren't transparent to us in a SCIF setting... they are not willing to do that with Congress. So to me, it's about time that they opened the kimono.'",
+"tier": 2
+}
+],
+"date": "2024-03-12",
+"edges": [],
+"era": "3",
+"id": "t-12eb5aae96e3",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill/NewsNation",
+"listedOn": [],
+"node": null,
+"title": "The Hill/NewsNation, 12 March 2024",
+"topics": [
+{
+"claims": [
+"c-bf19f238f5",
+"c-ec246d5b7f"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-bf19f238f5"
+],
+"id": "sap-reporting",
+"title": "Who gets told: 10 U.S.C. 119, the Gang of Eight and the waived-SAP notification group"
+}
+],
+"type": "article",
+"urls": []
+}

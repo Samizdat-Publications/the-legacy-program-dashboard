@@ -8,7 +8,18 @@
 "https://web.archive.org/web/20120801000000/http://www.nationalarchives.gov.uk/ufos/",
 "https://web.archive.org/web/20130701000000/http://www.nationalarchives.gov.uk/ufos/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-168b873a9d",
+"locator": "epigraph (Churchill quote, PREM 11/855)",
+"node": "uk-defe24",
+"nodeLabel": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
+"sourceText": "The National Archives UFO files page epigraph",
+"text": "Churchill's 1952 minute is held at PREM 11/855.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

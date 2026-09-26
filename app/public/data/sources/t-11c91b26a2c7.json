@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-082fa1ed9d",
+"locator": null,
+"node": "ttsa-army-crada",
+"nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"sourceText": "Bloomberg Government, 21 October 2019",
+"text": "The Army stated no public funding would go to the group; the agreement provided at least $750,000 in Army support and resources.",
+"tier": 2
+}
+],
+"date": "2019-10-21",
+"edges": [],
+"era": "3",
+"id": "t-11c91b26a2c7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Bloomberg Government",
+"listedOn": [],
+"node": null,
+"title": "Bloomberg Government, 21 October 2019",
+"topics": [
+{
+"claims": [
+"c-082fa1ed9d"
+],
+"id": "funding-channels",
+"title": "How a programme gets paid: transfers, reprogramming, IR&D and contracts"
+}
+],
+"type": "article",
+"urls": []
+}

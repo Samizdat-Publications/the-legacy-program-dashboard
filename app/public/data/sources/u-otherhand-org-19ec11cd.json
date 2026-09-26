@@ -22,6 +22,16 @@
 "tier": 1
 },
 {
+"cls": "person",
+"id": "c-69c4dbbdd6",
+"locator": "p 2C",
+"node": "bob-lazar",
+"nodeLabel": "Robert \"Bob\" Lazar",
+"sourceText": "Las Vegas Review-Journal, 21 August 1990, p 2C, reprinted at otherhand.org, opened 2026-09-18",
+"text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The same 21 August 1990 report describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range, and the board records the discrepancy rather than smoothing it.",
+"tier": 1
+},
+{
 "cls": "location",
 "id": "c-700b351e38",
 "locator": null,
@@ -85,7 +95,8 @@
 {
 "claims": [
 "c-9943137fe1",
-"c-491b56539e"
+"c-491b56539e",
+"c-69c4dbbdd6"
 ],
 "id": "lazar-s4",
 "title": "Bob Lazar's account of S-4 and element 115"

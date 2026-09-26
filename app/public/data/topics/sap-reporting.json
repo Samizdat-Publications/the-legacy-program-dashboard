@@ -94,7 +94,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": null,
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "'Just last night, I tried to get an amendment onto the National Defense Authorization Act that fit in the germaneness of that bill to have UAP disclosure. And conveniently, it was named nongermane, mostly deemed by staff, not even an elected official.'",
@@ -110,7 +110,13 @@
     "text": "DoD OIG, DODIG-2023-109 unclassified summary",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dodig-2023-109",
+     "locator": null,
+     "title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+    }
+   ],
    "text": "The DoD Inspector General published an unclassified summary of DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', on 25 January 2024.",
    "tier": 1
   },
@@ -278,7 +284,7 @@
     {
      "id": "pl-118-159",
      "locator": null,
-     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+     "title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
     }
    ],
    "text": "THE CAP-TO-SAP LAUNDERING BAR. Sec. 6603 adds 50 U.S.C. 3091a(b)(2)(A), verbatim: 'Except as provided in subparagraph (B), a head of an element of the intelligence community may not transfer a capability from a controlled access program, including from a compartment or subcompartment therein to a compartment or subcompartment of another controlled access program, to a special access program (as defined in section 1152(g) of the National Defense Authorization Act for Fiscal Year 1994 (50 U.S.C. 3348(g))), or to anything else outside the controlled access program, until the head submits to the appropriate congressional committees and congressional leadership notice of the intent of the head to make such transfer.' Text at 138 STAT. 2507-2508.",
@@ -294,7 +300,13 @@
     "text": "The Hill, 12 January 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ddf4d30558cf",
+     "locator": null,
+     "title": "The Hill, 12 January 2024"
+    }
+   ],
    "text": "After the 12 January 2024 ICIG briefing: what 'most Americans fear is true' - there is 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' 'I asked very specific questions and was unable to get specific answers.'",
    "tier": 2
   },
@@ -357,7 +369,7 @@
     {
      "id": "chrg-118hhrg57440",
      "locator": null,
-     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+     "title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
     }
    ],
    "text": "'None of them have been able to substantiate the claims made at this hearing last year by David Grusch, despite our Committee Members endlessly questioning these agencies inside and outside of the SCIF.'",
@@ -397,17 +409,17 @@
     {
      "id": "chrg-118hhrg53022",
      "locator": "CHRG-118hhrg57440, CHRG-119hhrg61718",
-     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
     },
     {
      "id": "chrg-118hhrg57440",
      "locator": "CHRG-119hhrg61718",
-     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+     "title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
     },
     {
      "id": "chrg-119hhrg61718",
      "locator": null,
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "Held the three House UAP hearings of 26 July 2023, 13 November 2024 and 9 September 2025, all printed by the Government Publishing Office.",
@@ -547,7 +559,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 September 2025",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "'Independent staff oversight has presented a consistent problem for Congress, as well as program budgets are classified. Additionally, oversight reporting to Congress is classified and only provided to the authorizing and Appropriations Committees of jurisdiction.'",
@@ -580,8 +592,8 @@
    "sourceRefs": [
     {
      "id": "pl-118-31",
-     "locator": "Subtitle C and Secs. 1687/7343",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "locator": null,
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "The pattern of what was cut and what was kept is consistent with a jurisdictional defense of the armed services and intelligence committees rather than with substantive objection to disclosure: every removed mechanism operated outside those committees, and every retained mechanism reports into them.",
@@ -601,7 +613,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 September 2025",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "Burlison, same hearing: his NDAA UAP disclosure amendment was ruled non-germane 'mostly deemed by staff, not even an elected official,' and in 2024 members were 'blocked by someone in House administration from being able to receive a full briefing from AARO.'",
@@ -666,7 +678,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 September 2025",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "'Last year, we were blocked by someone in House administration from being able to receive a full briefing from AARO, so not an elected official, but someone in staff blocked us. And I have had it.'",
@@ -785,7 +797,7 @@
     {
      "id": "chrg-118hhrg57440",
      "locator": null,
-     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+     "title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
     }
    ],
    "text": "'I am not going to name names, but there are certain individuals who did not want this hearing to happen because they feared what might be disclosed. But we stood firm.'",
@@ -885,7 +897,7 @@
     {
      "id": "dodd-5205-07",
      "locator": null,
-     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+     "title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
     }
    ],
    "text": "DoDD 5205.07 para. 3.1.g requires all personnel accessed to DoD SAPs to notify the Director, DoD SAPCO through their cognizant authority SAPCO when briefing or providing DoD SAP material to any member of Congress or their staff, and bars any DoD contractor entity, employee, representative or consultant from providing SAP material to members of Congress or their staff without Director, DoD SAPCO approval.",
@@ -945,7 +957,7 @@
     {
      "id": "chrg-118hhrg53022",
      "locator": "26 July 2023",
-     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
     }
    ],
    "text": "'One poll, in particular, found that 68 percent of Americans believe that the government is hiding information about UAPs... and from my personal experience I believe the same thing.'",
@@ -1010,7 +1022,7 @@
     {
      "id": "chrg-118hhrg53022",
      "locator": null,
-     "title": "CHRG-118hhrg53022: Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency"
+     "title": "Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency (CHRG-118hhrg53022)"
     }
    ],
    "text": "'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.'",
@@ -1120,7 +1132,13 @@
     "text": "USAspending.gov recipient search, retrieved 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-usaspending-gov-92ade960",
+     "locator": null,
+     "title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+    }
+   ],
    "text": "USAspending records approximately $97 billion in prime contract obligations to Booz Allen Hamilton recipient entities since FY2008.",
    "tier": 1
   },
@@ -1198,7 +1216,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 Sept 2025) and Gallagher's published committee assignments",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "Gallagher held simultaneous House Armed Services and House Intelligence assignments through the 118th Congress - the exact committee profile DoD told Oversight staff was required for read-in to UAP-relevant special access programs. Reasoning: Luna's 9 Sept 2025 statement identifies HASC and HAC-D membership as the read-in gate; HPSCI is the parallel intelligence authorising committee. Whether Gallagher was ever briefed on UAP SAPs is unresolved.",
@@ -1427,7 +1445,7 @@
     {
      "id": "dodd-5205-07",
      "locator": null,
-     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+     "title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
     }
    ],
    "text": "Production chain, DoDD 5205.07 (2010) Enclosure 2 para 6: 'The CAs shall prepare and submit annual reports and other required SAP information through the Director, DoD SAPCO, and the governance structure in order to report the state of DoD SAPs to congressional committees, in accordance with Reference (c) [10 U.S.C. 119].' Every component's submission passes through a single office answering to the Deputy Secretary of Defense.",
@@ -1447,7 +1465,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 September 2025",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "Its chairwoman placed on the record that DoD restricted UAP SAP read-ins to HASC and HAC-D members, requiring approval from the chairman and ranking member of both for any other member.",
@@ -1487,7 +1505,7 @@
     {
      "id": "pl-118-159",
      "locator": null,
-     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+     "title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
     }
    ],
    "text": "THE TWO EXITS. Sec. 6603 adds subparagraph (B), verbatim: 'Exception.--The head of an element of the intelligence community may make a transfer described in subparagraph (A) without prior congressional notification if the head determines that doing so-- (i) is required to mitigate an urgent counterintelligence issue; or (ii) is necessary to maintain access in the event of an organizational restructuring.' Neither exception carries a deadline for after-the-fact notice, a reporting requirement, or a time limit.",
@@ -1686,7 +1704,7 @@
     {
      "id": "chrg-119hhrg61718",
      "locator": null,
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "'The Department of Defense notified the Committee staff that, due to the Department's special access program rules, only members of the House Armed Services Committee, as well as the Defense Subcommittee on House Appropriations, also known as HAC-D, were allowed to be read in onto such programs. For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
@@ -1781,7 +1799,7 @@
     {
      "id": "dodd-5205-07",
      "locator": null,
-     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+     "title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
     }
    ],
    "text": "DoDD 5205.07 para. 2.1.e assigns the Director, DoD SAPCO responsibility to accredit congressional SAP facilities and to maintain records of DoD SAP information provided to Congress.",
@@ -1797,7 +1815,13 @@
     "text": "Rep. Burlison to The Hill/NewsNation, 12 March 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-12eb5aae96e3",
+     "locator": "Burlison SCIF-transparency quote",
+     "title": "The Hill/NewsNation, 12 March 2024"
+    }
+   ],
    "text": "'They weren't transparent to us in a SCIF setting. So they could have brought forward evidence. They could have explained what these Special Access Programs actually do. But they are not willing to do that with Congress.'",
    "tier": 2
   },
@@ -1815,7 +1839,7 @@
     {
      "id": "pl-119-75",
      "locator": null,
-     "title": "Public Law 119-75"
+     "title": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
     }
    ],
    "text": "Section 8009, DoD Appropriations Act 2026: 'Funds appropriated by this Act may not be used to initiate, or materially modify the scope of, a special access program without prior notification 30 calendar days in advance to the congressional defense committees.'",
@@ -1871,7 +1895,13 @@
     "text": "House Oversight Committee release, Luna Continues Transparency Investigation into UAPs, 1 April 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-oversight-house-gov-ad9b8814",
+     "locator": null,
+     "title": "House Oversight Committee release: Luna Continues Transparency Investigation into UAPs"
+    }
+   ],
    "text": "Wrote Secretary of War Pete Hegseth on/about 1 April 2026 demanding AARO video files of UAP sightings identified to the Task Force by whistleblowers: 'The lack of disclosure regarding the very real threat posed by UAPs in and around U.S. restricted airspace is concerning.'",
    "tier": 1
   },
@@ -2142,7 +2172,7 @@
     {
      "id": "dodd-5205-07",
      "locator": null,
-     "title": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)"
+     "title": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)"
     }
    ],
    "text": "CUSTODY. DoDD 5205.07 (2010) para 4.h: 'All waived SAP material submitted to Congress, to include annual reports and other products, shall remain in DoD custody. No copies shall be stored outside DoD repositories or control without the approval of the Secretary or Deputy Secretary of Defense.' The waived annex of the annual report never leaves the department.",
@@ -2162,12 +2192,12 @@
     {
      "id": "chrg-118hhrg57440",
      "locator": "13 Nov 2024) and CHRG-119hhrg61718 (9 Sept 2025",
-     "title": "CHRG-118hhrg57440: Unidentified Anomalous Phenomena: Exposing the Truth"
+     "title": "Unidentified Anomalous Phenomena: Exposing the Truth (CHRG-118hhrg57440)"
     },
     {
      "id": "chrg-119hhrg61718",
      "locator": "9 Sept 2025",
-     "title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+     "title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
     }
    ],
    "text": "Grothman's 2024 'inside and outside of the SCIF' framing is in tension with Luna's 2025 statement that DoD told committee staff Oversight members were not eligible to be read in on the relevant special access programs without HASC/HAC-D approval. Either the SCIF sessions did not reach the SAPs at issue, or the two chairs were describing different access. Reasoning: both statements are on the record of the same committee thirteen months apart and cannot both describe complete access to the same material.",
@@ -2261,7 +2291,7 @@
     {
      "id": "pl-118-159",
      "locator": null,
-     "title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+     "title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
     }
    ],
    "text": "Sec. 6602 inserts a new 50 U.S.C. 3091a(c), verbatim: 'Limitation on Spending.--Funds authorized to be appropriated for the National Intelligence Program may not be obligated or expended for any controlled access program, or a compartment or subcompartment therein, until the head of the element of the intelligence community responsible for the establishment of such program, compartment, or subcompartment, submits the notification required by subsection (b).' Applies only to CAPs 'established on or after the date of the enactment of this Act.'",

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1c7d88b524",
+"locator": null,
+"node": "izmiran",
+"nodeLabel": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
+"sourceText": "izmiran.ru (official)",
+"text": "IZMIRAN is the N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation of the Russian Academy of Sciences, founded in 1939, with research programmes in ionospheric physics, magnetism, solar-terrestrial physics and space weather prediction, and a St Petersburg branch.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +28,15 @@
 ],
 "node": null,
 "title": "IZMIRAN - official institute site (N.V. Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation, Russian Academy of Sciences)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-1c7d88b524"
+],
+"id": "ussr",
+"title": "The USSR: SETKA and the Soviet programmes"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.izmiran.ru/"

@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-7a54f09597",
+"locator": null,
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"sourceText": "Jacques Vallée, Confrontations: A Scientist's Search for Alien Contact (Ballantine, 1990), p.134",
+"text": "Jacques Vallée reported that individuals were said to have been killed by the lights and that injuries were consistent with radiation effects from microwaves.",
+"tier": 2
+}
+],
+"date": "1990",
+"edges": [],
+"era": "1",
+"id": "t-3bde8c2feb97",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Jacques Vallée",
+"listedOn": [],
+"node": null,
+"title": "Confrontations: A Scientist's Search for Alien Contact",
+"topics": [
+{
+"claims": [
+"c-7a54f09597"
+],
+"id": "brazil",
+"title": "Brazil: Operacao Prato, the 1986 night and Varginha"
+}
+],
+"type": "book",
+"urls": []
+}

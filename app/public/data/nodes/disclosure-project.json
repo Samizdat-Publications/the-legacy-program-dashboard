@@ -9,9 +9,9 @@
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "sources": [
 {
-"id": "u-archive-org-c8784eac",
+"id": "n-disclosure-project-briefing-2001",
 "locator": null,
-"title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+"title": "Disclosure Project Briefing Document, April 2001"
 }
 ],
 "text": "Its Briefing Document of April 2001 prints SIXTY-EIGHT dated witness testimonies across five subsections of its section 3.8, 'Summary of Video Taped Witness Testimony and Government Documents', running from the document's printed page 48 to page 349.",
@@ -66,15 +66,21 @@
 "sources": [],
 "text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:disclosure-project-briefing-2001) was rejected in review: press event and coverage, not the briefing document"
 },
 {
 "id": "c-4d7b35acd7",
 "source": "Clinton Digital Library collection finding aid 2006-0474-F",
-"sources": [],
+"sources": [
+{
+"id": "u-clinton-presidentiallibr-eb417c29",
+"locator": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)"
+}
+],
 "text": "The Clinton White House's principal UFO FOIA collection (2006-0474-F) consists in the majority of documents sent to the White House by Steven M. Greer of CSETI.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-72e2ed3026",

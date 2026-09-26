@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5b22d52338",
+"locator": null,
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"sourceText": "The Sol Foundation biography of Kirk McConnell",
+"text": "McConnell spent 37 years on Capitol Hill, primarily on defence and intelligence, including service with the Senate Armed Services Committee and both the House and Senate intelligence committees, retiring in March 2024; his UAP work began after the 2017 New York Times disclosures and included participation in UAP investigations and development of related legislation.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

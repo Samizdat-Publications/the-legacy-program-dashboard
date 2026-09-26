@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-c533a552eb",
+"locator": "provenance section",
+"node": "caus-v-nsa",
+"nodeLabel": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
+"sourceText": "The Black Vault, NSA UFO collection provenance",
+"text": "NSA released the COMINT records with most pages having only a few words visible, redacted using white-out; a July 2013 Mandatory Declassification Review was required to obtain further release.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c15531ba41",
+"locator": null,
+"node": "eugene-yeates",
+"nodeLabel": "Eugene F. Yeates",
+"sourceText": "The Black Vault, 'UFOs: The National Security Agency (NSA) Collection'",
+"text": "NSA's UFO holdings were released only with most pages carrying a few visible words, using white-out redaction; a 2013 Mandatory Declassification Review was required to force further release.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-159c13ba74",
+"locator": null,
+"node": "d-foia",
+"nodeLabel": "Freedom of Information Practice",
+"sourceText": "The Black Vault, UFOs: The National Security Agency (NSA) Collection",
+"text": "NSA's released UFO document collection, including the Yeates affidavit and associated litigation records, is publicly archived.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6485db2f80",
+"locator": "background section",
+"node": "yeates-affidavit",
+"nodeLabel": "Yeates Affidavit (NSA, 1980)",
+"sourceText": "The Black Vault, NSA UFO collection background",
+"text": "The affidavit's release in redacted form came only after years of public pressure and republication by private archivists.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -165,7 +206,16 @@
 ],
 "node": null,
 "title": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-c533a552eb",
+"c-c15531ba41"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.theblackvault.com/documentarchive/ufos-the-national-security-agency-nsa-collection/"

@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-6a6fa9c63d",
+"locator": null,
+"node": "enigma-labs",
+"nodeLabel": "Enigma Labs",
+"sourceText": "enigmalabs.io/about (company self-description)",
+"text": "Enigma Labs states it is a private company operating 'the world's first platform dedicated to Unidentified Anomalous Phenomena', with a searchable database of over 50,000 sighting reports, an interactive map, and more than 560,000 real-time sighting alerts sent to users.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-fdb545006d",
+"locator": null,
+"node": "enigma-labs",
+"nodeLabel": "Enigma Labs",
+"sourceText": "enigmalabs.io/about",
+"text": "The company states it remains neutral on the origins of the phenomenon and describes itself as an aggregator of people's sighting experiences.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

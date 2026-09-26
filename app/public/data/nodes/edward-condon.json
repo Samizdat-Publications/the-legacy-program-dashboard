@@ -62,7 +62,7 @@
 "sources": [],
 "text": "At 0:39:52 in the same episode Michels said Condon was 'in close coordination with Air Force kernels like Robert Hippler', and that a written memo exists in which Hippler tells Condon to show that UFO research was a waste of money. On 12 July 2025 at 0:37:53 Robert Salas independently described letters between an Air Force colonel, rendered by the caption as 'Robert Hitler', and Condon to the same effect. Two speakers, two episodes, one alleged memo, which neither of them produces.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated) was rejected in review: names two episodes; candidate is one"
 },
 {
 "id": "c-8de07fdd20",
@@ -109,34 +109,58 @@
 {
 "id": "c-5537d2e5ab",
 "source": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968, title page and letter of transmittal",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-e5f381eb",
+"locator": "title page and letter of transmittal",
+"title": "Scientific Study of Unidentified Flying Objects (Condon Report)"
+}
+],
 "text": "The report was produced under US Air Force contract 44620-67-C-0035 with the University of Colorado, with Condon as scientific director.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e1a0956512",
 "source": "USAF Fact Sheet, 'Unidentified Flying Objects and Air Force Project Blue Book'",
-"sources": [],
+"sources": [
+{
+"id": "u-af-mil-de312b60",
+"locator": null,
+"title": "USAF Fact Sheet: Project Blue Book"
+}
+],
 "text": "The Air Force cited the Colorado study, a National Academy of Sciences review and prior Air Force experience as the basis for terminating Blue Book on 17 December 1969.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4ced5b4633",
 "source": "Condon Report, Section V Chapter 2",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": null,
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "The Condon Report itself documents the 1948 Estimate of the Situation, its rejection by Vandenberg and the destruction of copies — a disclosure buried in Section V Chapter 2 while the conclusions at the front declared the subject unworthy of study.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6d39e2420f",
 "source": "John G. Fuller, 'Flying Saucer Fiasco', Look magazine, May 1968",
-"sources": [],
+"sources": [
+{
+"id": "t-41f9da625c37",
+"locator": null,
+"title": "Flying Saucer Fiasco"
+}
+],
 "text": "Condon fired investigators David Saunders and Norman Levine after the Low memo was circulated; they contemplated legal action alleging an unscientific approach.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

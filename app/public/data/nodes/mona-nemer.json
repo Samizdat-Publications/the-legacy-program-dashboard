@@ -28,34 +28,58 @@
 {
 "id": "c-ed7fa7e79b",
 "source": "Office of the Chief Science Advisor of Canada, Sky Canada Project report, June 2025, Recommendations",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": "Recommendations",
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "Report recommendation: 'Identify a lead: A federal department or agency responsible for managing public UAP data should be identified. Establish a dedicated service: This service would collect testimonies, investigate cases and post its analyses publicly.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-90c3c0453a",
 "source": "Sky Canada Project report, June 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": null,
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "Report recommendation on international collaboration: 'The lead organization should establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-beb425dee7",
 "source": "Sky Canada Project report, June 2025, citing an Earnscliffe Strategies survey commissioned in 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-c2fe2b9a",
+"locator": "citing an Earnscliffe Strategies survey (2024)",
+"title": "Report of the Sky Canada Project, Office of the Chief Science Advisor of Canada, June 2025"
+}
+],
 "text": "Survey finding: 'one in four respondents say they have personally witnessed a UAP in their lifetime. However, only 10% reported their sightings and 40% of respondents would not know whom to contact for reporting.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ba4e7a162b",
 "source": "Office of the Chief Science Advisor of Canada, Sky Canada Project page, updated 3 December 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-science-gc-ca-a5f5d3a1",
+"locator": null,
+"title": "Sky Canada Project landing page"
+}
+],
 "text": "Report disclaimer: the project 'is not intended to access and collect first-hand data (like photos, testimonies, etc.) ... nor is it meant to prove or disprove the existence of extraterrestrial life or extraterrestrial visitors.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

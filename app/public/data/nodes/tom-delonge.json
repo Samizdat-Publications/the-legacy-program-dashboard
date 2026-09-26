@@ -41,26 +41,44 @@
 {
 "id": "c-f58335f099",
 "source": "To The Stars Academy of Arts and Science Inc., Form 1-K Part II, SEC EDGAR CIK 0001710274, filed April 2018",
-"sources": [],
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "TTSA was incorporated in Delaware as a public benefit corporation in 2017; DeLonge is listed as President and interim Chief Executive Officer and a director; Gravity Holdings LLC, a DeLonge family trust entity, held 60 million of 70 million Class A shares (85.7%).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2ec41d674c",
 "source": "To The Stars Academy of Arts and Science Inc., Form 1-K Part II, SEC EDGAR, filed April 2018",
-"sources": [],
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "As of April 2018 TTSA had raised approximately $1.09 million under a Regulation A offering that targeted up to $50 million; FY2017 net loss was $30,665,436, driven by $29,535,799 of stock-based compensation.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b3ddc6f08e",
 "source": "Daniel Oberhaus, Vice, 15 October 2018",
-"sources": [],
+"sources": [
+{
+"id": "t-489dfbf2791e",
+"locator": null,
+"title": "Daniel Oberhaus, Vice, 15 October 2018"
+}
+],
 "text": "TTSA's SEC filing covering the period to June 2018 showed a $37.4 million accumulated deficit and $129,000 cash, with auditors flagging doubt about the company's ability to continue as a going concern.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

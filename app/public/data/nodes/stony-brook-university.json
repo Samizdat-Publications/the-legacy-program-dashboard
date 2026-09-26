@@ -63,10 +63,16 @@
 {
 "id": "c-be04656b5d",
 "source": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 1:01:18, transcript in dist/transcripts/md/",
-"sources": [],
+"sources": [
+{
+"id": "t-331b62cfff5d",
+"locator": "1:01:18",
+"title": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner"
+}
+],
 "text": "On DEBRIEFED with Chris Ramsay, 17 July 2026, at 1:01:18, a panel speaker said that James Simons 'oversees' Stony Brook and Brookhaven National Laboratory and called the pairing with the Medallion Fund and the Simons Foundation an 'iron triangle', adding in the same passage 'This is a lot of crazy connections.' No document opened here names Simons in connection with either body.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

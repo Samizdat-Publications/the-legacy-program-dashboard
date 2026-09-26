@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b04ce3ec41",
+"locator": null,
+"node": "laurance-rockefeller",
+"nodeLabel": "Laurance S. Rockefeller",
+"sourceText": "Clinton Digital Library collection finding aid, identifier 2006-0546-F",
+"text": "The Clinton Library holds photographs of the Clintons' 21 August 1995 visit to Laurance Rockefeller's JY Ranch, Jackson, Wyoming (2006-0546-F).",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

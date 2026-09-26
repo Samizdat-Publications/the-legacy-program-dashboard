@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8fc353b9ab",
+"locator": "speaker list",
+"node": "leslie-kean",
+"nodeLabel": "Leslie Kean",
+"sourceText": "The Sol Foundation, inaugural conference speaker list",
+"text": "Kean was a named speaker at the inaugural Sol Foundation conference, Stanford University, 17-18 November 2023.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-455d790714",
+"locator": null,
+"node": "sol-foundation",
+"nodeLabel": "The Sol Foundation",
+"sourceText": "The Sol Foundation, inaugural conference page",
+"text": "The inaugural conference was held 17-18 November 2023 at Stanford University, sponsored by the Nolan Laboratory (Department of Pathology) and the Stanford School of Medicine; speakers included Eric Davis, Tim Gallaudet, Avi Loeb, Leslie Kean, Charles McCullough III, Christopher Mellon, Karl Nell, Diana Pasulka, Hal Puthoff and Jacques Vallee.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -40,7 +61,15 @@
 ],
 "node": null,
 "title": "The Sol Foundation - Inaugural Conference",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-455d790714"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "web page",
 "urls": [
 "https://thesolfoundation.org/events/the-inaugural-annual-conference-of-the-sol-foundation/"

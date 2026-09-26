@@ -106,23 +106,35 @@
 "sources": [],
 "text": "'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251 pages with bibliographical references and index; 'UFO Crash at Roswell' was published in 1991.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/details/truthaboutufocra0000rand) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-d9ff54abab",
 "source": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
-"sources": [],
+"sources": [
+{
+"id": "t-0f8fb3c69a57",
+"locator": null,
+"title": "Robert Sheaffer interviews with Randle, Skeptical Inquirer"
+}
+],
 "text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-be94466742",
 "source": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
-"sources": [],
+"sources": [
+{
+"id": "t-0dea2c208f9b",
+"locator": null,
+"title": "Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002"
+}
+],
 "text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

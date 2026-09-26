@@ -40,7 +40,7 @@
     {
      "id": "pl-118-31",
      "locator": "NDAA for Fiscal Year 2024, Subtitle C",
-     "title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+     "title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
     }
    ],
    "text": "NDAA FY2024 (P.L. 118-31), Subtitle C, Sections 1841-1843 establish the UAP Records Collection at NARA, the agency duty to review and transmit records, and the grounds for postponement of disclosure.",
@@ -56,7 +56,13 @@
     "text": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-8fa19f34fda1",
+     "locator": "as carried by Fox News and others",
+     "title": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others"
+    }
+   ],
    "text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
    "tier": 1
   },
@@ -90,7 +96,13 @@
     "text": "The Black Vault, Project Moon Dust document archive, 4 Mar 2015",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-4094a699",
+     "locator": "4 March 2015",
+     "title": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)"
+    }
+   ],
    "text": "Department of State records on Project MOON DUST have been released under FOIA, including a 22-page file and a two-page file declassified by the Central Intelligence Agency.",
    "tier": 1
   },
@@ -104,7 +116,13 @@
     "text": "Susan Gough to John Greenewald, The Black Vault, 13 June 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-584b2a30",
+     "locator": null,
+     "title": "The Black Vault"
+    }
+   ],
    "text": "On 13 June 2019 stated: 'I can confirm that the memo you're referring to is authentic... It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).'",
    "tier": 1
   },
@@ -120,9 +138,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "THE FULL PROVENANCE CHAIN, WHICH THE NODE SHOULD CARRY. John Greenewald Jr wrote to 341 CS/SCBR at Malmstrom AFB on 9 May 2001 requesting all documents pertaining to a 16 March 1967 incident in which there was a malfunction of missile silos. Headquarters 341st Space Wing replied on 14 June 2001, over the name Marty S. Stephens, stating that it had received the request on 18 May 2001 and was releasing copies of excerpts and supporting documents of the 341st Strategic Missile Wing histories for 1 Jan to 31 Mar 1967, 1 Apr to 30 Jun 1967, 1 Jul to 30 Sep 1967, 1 Oct to 31 Dec 1967 and 1 Jan to 31 Mar 1968, adding: 'We do not have any audio or video tapes, or documents of any personnel injured.' Fees were waived and the requester was referred to NARA.",
@@ -178,7 +196,13 @@
     "text": "Disclosure Archives inventory of Release 03",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-disclosurearchives-com-3830ab44",
+     "locator": "Release 03",
+     "title": "Disclosure Archives - Department of War files index"
+    }
+   ],
    "text": "PURSUE Release 03 contained 29 FBI files including a 2021-2025 orb corpus with four authenticated eyewitness videos and an FD-1057 documenting two FBI special agents' own observation.",
    "tier": 2
   },
@@ -192,7 +216,13 @@
     "text": "Congress.gov, H.R. 5060 (119th Congress)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "bills-119hr5060ih",
+     "locator": null,
+     "title": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)"
+    }
+   ],
    "text": "H.R. 5060, the UAP Whistleblower Protection Act, was introduced in the 119th Congress on 29 August 2025, following H.R. 10111 in the 118th.",
    "tier": 1
   },
@@ -274,7 +304,13 @@
     "text": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-camara-leg-br-f691c19d",
+     "locator": "item 1.2",
+     "title": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 ("
+    }
+   ],
    "text": "RIC 679/2011 records that material was withheld from the National Archives transfer: 'Estão faltando centenas de fotografias de um total de mais de 500 - só foram fornecidas aproximadamente 230 -, várias horas de filmes de OVNIs em películas super 8 e super 16 mm', and that the original I COMAR reports - 'bem mais detalhados do que o \"resumo de todos os casos de OVNIs de que o SINDACTA I participou\"' - were not sent to the Arquivo Nacional's Coordenação Regional no Distrito Federal (COREG).",
    "tier": 1
   },
@@ -308,7 +344,13 @@
     "text": "ODNI Preliminary Assessment, 25 June 2021",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-odni-preliminary-assessment-2021",
+     "locator": null,
+     "title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+    }
+   ],
    "text": "NSA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
    "tier": 1
   },
@@ -322,7 +364,13 @@
     "text": "H.R. 2670 as passed by the Senate, Division I",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "bills-118hr2670eas",
+     "locator": "Division I",
+     "title": "BILLS-118hr2670eas"
+    }
+   ],
    "text": "The Senate-passed version of the FY2024 NDAA contained Division I, the 'Unidentified Anomalous Phenomena Disclosure Act of 2023' (Sections 9001-9010), including a Review Board and eminent domain over recovered technologies of unknown origin.",
    "tier": 1
   },
@@ -336,7 +384,13 @@
     "text": "Disclosure Archives inventory of Release 01",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-disclosurearchives-com-3830ab44",
+     "locator": "Release 01",
+     "title": "Disclosure Archives - Department of War files index"
+    }
+   ],
    "text": "PURSUE Release 01 published FBI file 62-HQ-83894, the master flying disc file spanning 1947-1968, as a single 101MB PDF.",
    "tier": 2
   },
@@ -364,7 +418,13 @@
     "text": "Memorandum Opinion, Kean v. NASA, 27 March 2007, Background section",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-storage-courtlistener-co-09be541d",
+     "locator": "Background section",
+     "title": "Memorandum Opinion, Kean v. NASA, 27 March 2007"
+    }
+   ],
    "text": "Her FOIA request of 31 January 2003 sought documents on Kecksburg, the 9 December 1965 incident, the 'Fragology Files' for 1962 to 1967, Richard M. Schulherr, Project Moon Dust and 'Cosmos 96'.",
    "tier": 1
   },
@@ -378,7 +438,13 @@
     "text": "National Archives press release nr25-07, 24 April 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-d348fbea",
+     "locator": null,
+     "title": "National Archives press release nr25-07"
+    }
+   ],
    "text": "NARA announced on 24 April 2025 a release of UAP records transferred from ODNI, OSD, the FAA and the NRC, under sections 1841-1843 of the FY2024 NDAA (Public Law 118-31), with rolling additions.",
    "tier": 1
   },
@@ -464,7 +530,7 @@
     {
      "id": "foia-dia-00349-2018",
      "locator": null,
-     "title": "DIA FOIA-00349-2018"
+     "title": "DIA release FOIA-00349-2018"
     }
    ],
    "text": "The DIA released the AAWSAP contract file under FOIA case FOIA-00349-2018, producing the statement of work, contract modifications and the Defense Intelligence Reference Documents.",
@@ -500,7 +566,13 @@
     "text": "CIA FOIA Reading Room, UFOs: Fact or Fiction? collection, accessed 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-cia-readingroom-ufo",
+     "locator": "accessed 12 Aug 2026",
+     "title": "CIA FOIA Reading Room - UFO collection"
+    }
+   ],
    "text": "The CIA reading room UFO collection contains 19 documents spanning the 1940s through the early 1990s, largely cables on foreign-media UFO reports and internal correspondence on public inquiries.",
    "tier": 1
   },
@@ -514,7 +586,13 @@
     "text": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO, 27/2/2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-migalhas-com-br-68726963",
+     "locator": null,
+     "title": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 ("
+    }
+   ],
    "text": "A federal suit to compel declassification of Operação Prato films (Rafael Zatarian Pederneiras v. União) was dismissed and the dismissal upheld on 27 February 2023. The court held that the claim of surviving FAB UFO films 'tem lastro especialmente em matérias jornalísticas e relatos de testemunhas, de modo que não constituem indícios suficientes quanto à existência de tais arquivos', and applied the presumption of veracity to the Administration's statement that the surviving records are no longer classified and are held by the Arquivo Nacional.",
    "tier": 1
   },
@@ -610,7 +688,13 @@
     "text": "Disclosure Archives inventory of the Release 03 posting",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-disclosurearchives-com-3830ab44",
+     "locator": "Release 03",
+     "title": "Disclosure Archives - Department of War files index"
+    }
+   ],
    "text": "Release 03 comprised 72 files - 53 documents, 10 images, 6 videos, 3 audio - with 29 files from the FBI.",
    "tier": 2
   },
@@ -624,7 +708,13 @@
     "text": "D.D.C. civil docket, No. 1:03-cv-02509",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-courtlistener-com-c58ba8e3",
+     "locator": null,
+     "title": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.) - full docket"
+    }
+   ],
    "text": "Case filed 9 December 2003; assigned to Judge Emmet G. Sullivan; nature of suit 895 Freedom of Information Act; jurisdiction type US Government Defendant; terminated 24 August 2009.",
    "tier": 1
   },
@@ -672,7 +762,13 @@
     "text": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-courtlistener-com-bc299077",
+     "locator": null,
+     "title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+    }
+   ],
    "text": "The D.C. Circuit affirmed on 3 November 1981; certiorari was denied on 8 March 1982.",
    "tier": 1
   },
@@ -706,7 +802,13 @@
     "text": "Memorandum Opinion, Kean v. NASA, Dkt. 45, 27 March 2007, pp. 1-2 and Conclusion",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-storage-courtlistener-co-09be541d",
+     "locator": "pp. 1-2 and Conclusion",
+     "title": "Memorandum Opinion, Kean v. NASA, 27 March 2007"
+    }
+   ],
    "text": "The court's 27 March 2007 memorandum opinion states that NASA admits its first two searches were inadequate, and holds that the agency 'has not yet met its burden of demonstrating that the search for documents was adequate', denying summary judgment in part.",
    "tier": 1
   },
@@ -722,9 +824,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "The history records that the 801st Radar Squadron, Malmstrom AFB, 'gave a negative report on any radar or atmospheric interference problems related to Echo Flight', and that a comparable multi-facility shutdown had occurred at Alpha Flight on 19 December 1966 with the same capsule crew, adverse weather and a commercial power failure.",
@@ -740,7 +842,13 @@
     "text": "Cash v. United States docket and Order of Dismissal",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-files-afu-se-1aaf6048",
+     "locator": null,
+     "title": "Cash v. United States, No. H-84-348 - docket and Order of Dismissal"
+    }
+   ],
    "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), the Cash-Landrum tort suit, was dismissed by order dated 21 August 1986.",
    "tier": 1
   },
@@ -788,7 +896,13 @@
     "text": "National Archives press release nr25-07, 24 April 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-d348fbea",
+     "locator": null,
+     "title": "National Archives press release nr25-07"
+    }
+   ],
    "text": "ODNI is one of four agencies (with OSD, FAA and the Nuclear Regulatory Commission) whose UAP records NARA announced on 24 April 2025 had been transferred into the statutory UAP Collection under sections 1841-1843 of Public Law 118-31.",
    "tier": 1
   },
@@ -802,7 +916,13 @@
     "text": "AFOSI FOIA response, case 2025-06002-F, 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ae455c1313aa",
+     "locator": null,
+     "title": "AFOSI FOIA response, case 2025-06002-F"
+    }
+   ],
    "text": "In case 2025-06002-F, AFOSI stated it found 'no records' of investigative reports, summaries or closure memos tied to 'Yankee Blue.'",
    "tier": 1
   },
@@ -818,9 +938,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "The same history states at page 38: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven', and records that a Mobile Strike Team questioned about the morning of 16 March 1967 'stated that no unusual activity or sightings were observed'.",
@@ -836,7 +956,13 @@
     "text": "DefenseScoop, 26 August 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-defensescoop-com-d6bcef0f",
+     "locator": null,
+     "title": "DefenseScoop - Top NSA researcher tapped to lead Pentagon's UAP investigation hub"
+    }
+   ],
    "text": "Jon Kosloski, a senior NSA researcher, was appointed to lead AARO in August 2024.",
    "tier": 1
   },
@@ -948,7 +1074,7 @@
     {
      "id": "foia-25-f-3514",
      "locator": "September 2025",
-     "title": "FOIA case 25-F-3514"
+     "title": "OSD FOIA response, case 25-F-3514, September 2025"
     }
    ],
    "text": "In September 2025 OSD responded in FOIA case 25-F-3514 that after 'thorough searches of the electronic records and files of CMD, no records of the kind you described could be identified' regarding the alleged Yankee Blue cessation memo.",
@@ -986,9 +1112,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents-theblackvault--8e6b0d44",
+     "id": "n-doc-341-smw-history-1967",
      "locator": null,
-     "title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+     "title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
     }
    ],
    "text": "No launch control officer is named anywhere in the eighty-seven page release: the only officer named in the Echo Flight section is 'Capt. Bradshaw in the command post', and the names Figel, Salas and Carlson do not appear.",
@@ -1018,7 +1144,13 @@
     "text": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-blueblurrylines-com-d53d3834",
+     "locator": null,
+     "title": "Blue Blurry Lines — The Pentagon's Updated Statement: AATIP Studied UAPs"
+    }
+   ],
    "text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
    "tier": 1
   },
@@ -1066,7 +1198,13 @@
     "text": "National Archives press release nr25-07, 24 April 2025",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-d348fbea",
+     "locator": null,
+     "title": "National Archives press release nr25-07"
+    }
+   ],
    "text": "NARA states it 'will continue to add UAP records to the Collection and make them available online through the National Archives Catalog on an ongoing, rolling basis'.",
    "tier": 1
   },
@@ -1080,7 +1218,13 @@
     "text": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-515aac39a8c7",
+     "locator": null,
+     "title": "Susan Gough, DoD statement to The Black Vault, 6 December 2019"
+    }
+   ],
    "text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
    "tier": 1
   },
@@ -1094,7 +1238,13 @@
     "text": "CAUS v. NSA, D.C. Circuit (1981); cert. denied (1982)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-courtlistener-com-bc299077",
+     "locator": "cert. denied 1982",
+     "title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+    }
+   ],
    "text": "In Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562), NSA withheld its UFO-related holdings in full and supported the withholding with an in camera affidavit by Eugene F. Yeates, Chief of NSA's Office of Policy; the D.C. Circuit affirmed in 1981 and the Supreme Court denied certiorari in 1982.",
    "tier": 1
   },
@@ -1108,7 +1258,13 @@
     "text": "The Black Vault, 'UFOs: The National Security Agency (NSA) Collection'",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-434b4049",
+     "locator": null,
+     "title": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records"
+    }
+   ],
    "text": "NSA's UFO holdings were released only with most pages carrying a few visible words, using white-out redaction; a 2013 Mandatory Declassification Review was required to force further release.",
    "tier": 1
   },
@@ -1136,7 +1292,13 @@
     "text": "vault.fbi.gov/UFO, accessed 12 August 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-fbi-vault-ufo",
+     "locator": null,
+     "title": "FBI Records: The Vault - UFO collection"
+    }
+   ],
    "text": "The FBI Vault UFO collection comprises 16 parts covering the Bureau's role in investigating flying object reports between 1947 and 1954, released 30 November 2010 and last modified 25 July 2013.",
    "tier": 1
   },
@@ -1150,7 +1312,13 @@
     "text": "The Black Vault, NSA UFO collection provenance",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-theblackvault-com-434b4049",
+     "locator": "provenance section",
+     "title": "UFOs: The National Security Agency (NSA) Collection - incl. the Yeates Affidavit and CAUS v. NSA litigation records"
+    }
+   ],
    "text": "NSA released the COMINT records with most pages having only a few words visible, redacted using white-out; a July 2013 Mandatory Declassification Review was required to obtain further release.",
    "tier": 1
   },
@@ -1198,7 +1366,13 @@
     "text": "CourtListener, CAUS v. DoD (9th Cir.)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-courtlistener-com-a262239e",
+     "locator": null,
+     "title": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense, U.S. Court of Appeals for the Ninth Circuit (CourtListener)"
+    }
+   ],
    "text": "Citizens Against UFO Secrecy, Inc. v. United States Department of Defense reached the Ninth Circuit, decided 14 November 2001.",
    "tier": 1
   },
@@ -1232,7 +1406,13 @@
     "text": "CAUS v. NSA, D.C. Circuit (CourtListener); cert. denied 8 March 1982",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-courtlistener-com-bc299077",
+     "locator": "cert. denied 8 March 1982",
+     "title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)"
+    }
+   ],
    "text": "In Citizens Against UFO Secrecy v. National Security Agency the D.C. Circuit upheld NSA's withholding of UFO-related records; certiorari was denied in 1982.",
    "tier": 1
   },
@@ -1246,7 +1426,13 @@
     "text": "ODNI ICIG, Urgent Concern Disclosure Form",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-dni-gov-beb9e259",
+     "locator": null,
+     "title": "ODNI ICIG - Disclosure of Urgent Concern Form"
+    }
+   ],
    "text": "The ODNI Intelligence Community Inspector General publishes a Disclosure of Urgent Concern form as the lawful channel for IC whistleblower complaints.",
    "tier": 1
   },
@@ -1280,7 +1466,13 @@
     "text": "DoD OIG, DODIG-2023-109",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dodig-2023-109",
+     "locator": null,
+     "title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+    }
+   ],
    "text": "The DoD Inspector General issued DODIG-2023-109, 'Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena', with only an unclassified summary released publicly on 25 January 2024.",
    "tier": 1
   },
@@ -1354,7 +1546,13 @@
     "text": "NSA UFO FOIA collection, 'Yeates Affidavit'",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-yeates-affidavit",
+     "locator": null,
+     "title": "Yeates Affidavit (NSA, 1980)"
+    }
+   ],
    "text": "The Yeates Affidavit is published in NSA's UFO FOIA release, and NSA's litigation position in Civil Action No. 80-1562 was that responsive UFO records existed but could not be disclosed.",
    "tier": 1
   },
@@ -1493,7 +1691,7 @@
     {
      "id": "nara-rg-615",
      "locator": null,
-     "title": "NARA Record Group 615"
+     "title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
     }
    ],
    "text": "The collection is organised at NARA as Record Group 615.",
@@ -1523,7 +1721,13 @@
     "text": "Disclosure Archives inventory of Release 03",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-disclosurearchives-com-3830ab44",
+     "locator": "Release 03",
+     "title": "Disclosure Archives - Department of War files index"
+    }
+   ],
    "text": "PURSUE Release 03 included a less-redacted version of the CIA's 1953 Robertson Panel report and a CIA file on a 2008 disc-like object over Harare International Airport.",
    "tier": 2
   },

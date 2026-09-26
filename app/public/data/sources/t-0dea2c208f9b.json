@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-be94466742",
+"locator": null,
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"sourceText": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
+"text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
+"tier": 2
+}
+],
+"date": null,
+"edges": [],
+"era": "nd",
+"id": "t-0dea2c208f9b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002",
+"topics": [
+{
+"claims": [
+"c-be94466742"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-be94466742"
+],
+"id": "mj12-documents",
+"title": "The Majestic-12 documents"
+}
+],
+"type": "book",
+"urls": []
+}

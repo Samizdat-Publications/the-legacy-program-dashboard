@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-1bff444027",
+"locator": null,
+"node": "sperry-rand",
+"nodeLabel": "Sperry Rand Corporation",
+"sourceText": "This Is Sperry Rand 1956, Sperry-Rand Corporation",
+"text": "The company's own 1956 publication carries a signed statement attributed to 'General of the Army Douglas MacArthur, Chairman of the Board, Sperry Rand Corporation.'",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

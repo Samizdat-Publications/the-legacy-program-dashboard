@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-077a68511b",
+"locator": null,
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"sourceText": "USA Herald, 16 May 2026, reporting DoD statements",
+"text": "Pentagon spokesperson Sue Gough stated the Department has 'no record' of such a program; former AARO director Sean Kirkpatrick also denied its existence.",
+"tier": 2
+}
+],
+"date": "2026-05-16",
+"edges": [],
+"era": "3",
+"id": "t-c5bdfed3fd7b",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "USA Herald",
+"listedOn": [],
+"node": null,
+"title": "USA Herald",
+"topics": [
+{
+"claims": [
+"c-077a68511b"
+],
+"id": "immaculate-constellation",
+"title": "Immaculate Constellation: the 2024 allegation"
+},
+{
+"claims": [
+"c-077a68511b"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
+}
+],
+"type": "article",
+"urls": []
+}

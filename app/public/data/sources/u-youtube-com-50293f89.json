@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-3666550fd8",
+"locator": null,
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"sourceText": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+"text": "In 1994 the SAP enterprise was restructured to gatekeep USG access and vest permanent control of the portfolio in a quasi-industry and government control group.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-4ceadb9ef8",
+"locator": null,
+"node": "manhattan-project-2",
+"nodeLabel": "'Manhattan Project 2.0' (alleged secrecy architecture)",
+"sourceText": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
+"text": "The portfolio exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know access, full SAP security protocols and completely waived reporting and budgetary requirements.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-a6398be599",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, video description, 'Special Access Required' Vol.2, published 19 June 2026",
+"text": "In 1994 the Special Access Program enterprise was restructured to gatekeep USG access and vest permanent control of the UFO portfolio in a quasi-industry and government control group; the portfolio now exploits loopholes in White House SAPs and NSC Covert Action Programs to operate 'Non-Covert Action Programs' with managed need-to-know (MNTK) access and completely waived reporting and budgetary requirements.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -125,7 +156,23 @@
 ],
 "node": null,
 "title": "UAP Gerb - 'Special Access Required' Vol.2",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-3666550fd8",
+"c-4ceadb9ef8"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+},
+{
+"claims": [
+"c-4ceadb9ef8"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
 "type": "broadcast",
 "urls": [
 "https://www.youtube.com/watch?v=6MsmPrpQqa8"

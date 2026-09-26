@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-76c7b08659",
+"locator": null,
+"node": "robert-powell",
+"nodeLabel": "Robert M. Powell",
+"sourceText": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"text": "Powell led the SCU analysis of the April 2013 Aguadilla, Puerto Rico thermal-imagery event recorded by a Department of Homeland Security aircraft.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a745f08c45",
+"locator": null,
+"node": "scu-uap-studies",
+"nodeLabel": "Scientific Coalition for UAP Studies (SCU)",
+"sourceText": "SCU, Zenodo DOI 10.5281/zenodo.7844175",
+"text": "SCU published '2013 Aguadilla Puerto Rico UAP: The detailed analysis of an Unidentified Anomalous Phenomenon captured by the Department of Homeland Security' by Powell, Beall, Cates, Paulson and Hoffman.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -57,7 +78,16 @@
 ],
 "node": null,
 "title": "Powell, Beall, Cates, Paulson & Hoffman, '2013 Aguadilla Puerto Rico UAP', SCU (Zenodo)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-76c7b08659",
+"c-a745f08c45"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.5281/zenodo.7844175"

@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4f6a2b87f2",
+"locator": null,
+"node": "joseph-gradisher",
+"nodeLabel": "Joseph Gradisher",
+"sourceText": "Joseph Gradisher, U.S. Navy, 10 September 2019",
+"text": "Stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+"tier": 1
+}
+],
+"date": "2019-09-10",
+"edges": [],
+"era": "3",
+"id": "t-51c3998ddbc7",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "U.S. Navy",
+"listedOn": [],
+"node": null,
+"title": "Joseph Gradisher, U.S. Navy, 10 September 2019",
+"topics": [
+{
+"claims": [
+"c-4f6a2b87f2"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
+},
+{
+"claims": [
+"c-4f6a2b87f2"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "document",
+"urls": []
+}

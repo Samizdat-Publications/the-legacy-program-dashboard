@@ -2,7 +2,58 @@
 "archived": [
 "https://web.archive.org/web/20250206005028/https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-172362f709",
+"locator": "cover page",
+"node": "saf-aaz",
+"nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+"sourceText": "AFI 16-701, cover page",
+"text": "The 2014 edition of AFI 16-701 was certified by SAF/AAZ, then Mr. Daniel F. McMillin, with SAF/AAZE as office of primary responsibility.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-5f70a8b6ec",
+"locator": "para. 2.1.2.4",
+"node": "saf-aaz",
+"nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+"sourceText": "AFI 16-701, para. 2.1.2.4",
+"text": "Para. 2.1.2.4 directs SAF/AAZ to 'establish a declassification program and ensure that necessary resources are applied to the review of information to ensure it is neither classified for longer than necessary nor declassified prematurely in accordance with the file series exemption'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-77cca805a5",
+"locator": "paras. 2.1.2.6-2.1.2.7",
+"node": "saf-aaz",
+"nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+"sourceText": "AFI 16-701, paras. 2.1.2.6-2.1.2.7",
+"text": "SAF/AAZ serves as Designated Accreditation Authority for all SAP information systems and as access approval authority for all SAPs, approving waivers for SAP access; both authorities may be delegated only in writing and must be revalidated annually.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9143331ff1",
+"locator": "para. 1",
+"node": "saf-aaz",
+"nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+"sourceText": "AFI 16-701, para. 1 scope/applicability",
+"text": "AFI 16-701 (18 February 2014, 48 pages) identifies SAF/AAZ as 'the Secretary of the Air Force, Security, Counterintelligence, and Special Program Oversight' and requires all supplements to the instruction to be routed to SAF/AAZ for coordination before certification and approval.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c4ed3e7461",
+"locator": "para. 2.1-2.1.2",
+"node": "saf-aaz",
+"nodeLabel": "SAF/AAZ - Air Force Declassification & Special Programs",
+"sourceText": "AFI 16-701, para. 2.1-2.1.2",
+"text": "Para. 2.1 assigns the Director, Security and Special Program Oversight (SAF/AAZ) to serve as principal advisor to SAF/AA for SAPs and as Director, AF SAPCO, developing SAP policy and directing, administering and overseeing the SAP security programme.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -54,7 +105,17 @@
 ],
 "node": null,
 "title": "Air Force Instruction 16-701, Management, Administration and Oversight of Special Access Programs, 18 Feb 2014 (OPR SAF/AAZE; certified by SAF/AAZ) - AF e-Publishing PDF via Internet Archive",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-77cca805a5",
+"c-9143331ff1",
+"c-c4ed3e7461"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
 "type": "document",
 "urls": [
 "https://static.e-publishing.af.mil/production/1/saf_aa/publication/afi16-701/afi16-701.pdf"

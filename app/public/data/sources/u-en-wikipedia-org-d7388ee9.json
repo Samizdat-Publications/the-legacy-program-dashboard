@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-37dc9a0dea",
+"locator": "1966 contract, funding figures",
+"node": "l-boulder-co",
+"nodeLabel": "Boulder, Colorado",
+"sourceText": "Wikipedia, Condon Committee, citing the project record — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The Air Force contract with the University of Colorado was announced in October 1966 with initial funding of $313,000, eventually exceeding $500,000; Edward Condon directed and Robert J. Low coordinated.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

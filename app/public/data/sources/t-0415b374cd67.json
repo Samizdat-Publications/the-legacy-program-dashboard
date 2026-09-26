@@ -1,0 +1,28 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-11223cc38b",
+"locator": "Burchett quote on DoD information-siloing",
+"node": "tim-burchett",
+"nodeLabel": "Timothy Floyd Burchett",
+"sourceText": "Rep. Burchett, quoted by The Hill/NewsNation, 16 May 2026",
+"text": "'You have to imagine Oak Ridge National Laboratory, the Manhattan Project, thousands of people working on the atomic bomb and less than 12 knew what it was.' - on how DoD silos UAP information from Congress.",
+"tier": 2
+}
+],
+"date": "2026-05-16",
+"edges": [],
+"era": "3",
+"id": "t-0415b374cd67",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Hill/NewsNation",
+"listedOn": [],
+"node": null,
+"title": "The Hill/NewsNation, 16 May 2026",
+"topics": [],
+"type": "article",
+"urls": []
+}

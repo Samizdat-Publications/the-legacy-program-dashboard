@@ -14,7 +14,7 @@
 {
 "cls": "person",
 "id": "c-9824917ad7",
-"locator": "Subtitle C",
+"locator": null,
 "node": "daniel-sheehan",
 "nodeLabel": "Daniel P. Sheehan",
 "sourceText": "Inference from Sheehan's account compared with P.L. 118-31 Subtitle C",
@@ -104,7 +104,7 @@
 {
 "cls": "legislation",
 "id": "c-fdd82c94b5",
-"locator": "enactment date and sec. 7606(c) deadline",
+"locator": null,
 "node": "ndaa-fy2024-7606",
 "nodeLabel": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "sourceText": "Public Law 118-31 enactment date and sec. 7606(c) deadline",
@@ -124,7 +124,7 @@
 {
 "cls": "legislation",
 "id": "c-246bfdc636",
-"locator": "Sec. 7343, GPO",
+"locator": null,
 "node": "iaa-fy2024-7343",
 "nodeLabel": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "sourceText": "S. 2226 as engrossed, Sec. 1102(f)(1), compared with P.L. 118-31 Sec. 7343, GPO",
@@ -164,7 +164,7 @@
 {
 "cls": "legislation",
 "id": "c-6bb53b1d8e",
-"locator": "sec. 7343",
+"locator": null,
 "node": "iaa-fy2024-7343",
 "nodeLabel": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "sourceText": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
@@ -204,7 +204,7 @@
 {
 "cls": "legislation",
 "id": "c-db7e0327fc",
-"locator": "sec. 7343(c",
+"locator": null,
 "node": "iaa-fy2024-7343",
 "nodeLabel": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "sourceText": "PLAW-118publ31 sec. 7343(c)",
@@ -224,7 +224,7 @@
 {
 "cls": "legislation",
 "id": "c-fbf52f7f43",
-"locator": "sec. 7343(b",
+"locator": null,
 "node": "iaa-fy2024-7343",
 "nodeLabel": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "sourceText": "PLAW-118publ31 sec. 7343(b)",
@@ -244,7 +244,7 @@
 {
 "cls": "legislation",
 "id": "c-9804dde71a",
-"locator": "secs. 1687 and 7343, read against 10 U.S.C. 119(e",
+"locator": null,
 "node": "iaa-fy2024-7343",
 "nodeLabel": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "sourceText": "Public Law 118-31 secs. 1687 and 7343, read against 10 U.S.C. 119(e)",
@@ -274,7 +274,7 @@
 {
 "cls": "legislation",
 "id": "c-5f9ad31c2f",
-"locator": "sec. 1687(b), 137 Stat. 621",
+"locator": null,
 "node": "ndaa-fy2024-1687",
 "nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "sourceText": "PLAW-118publ31 sec. 1687(b), 137 Stat. 621",
@@ -394,7 +394,7 @@
 {
 "cls": "legislation",
 "id": "c-de283968ac",
-"locator": "sec. 1687(c), 137 Stat. 621-622",
+"locator": null,
 "node": "ndaa-fy2024-1687",
 "nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "sourceText": "PLAW-118publ31 sec. 1687(c), 137 Stat. 621-622",
@@ -404,7 +404,7 @@
 {
 "cls": "legislation",
 "id": "c-e288e8bd43",
-"locator": "sec. 1687(a",
+"locator": null,
 "node": "ndaa-fy2024-1687",
 "nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "sourceText": "PLAW-118publ31 sec. 1687(a)",
@@ -454,7 +454,7 @@
 {
 "cls": "legislation",
 "id": "c-7e8c6661de",
-"locator": "sec. 1687(a",
+"locator": null,
 "node": "ndaa-fy2024-1687",
 "nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "sourceText": "Structure of Public Law 118-31 sec. 1687(a)",
@@ -464,7 +464,7 @@
 {
 "cls": "legislation",
 "id": "c-30e3f48a7a",
-"locator": "sec. 7341, 137 Stat. 1062-1063",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 7341, 137 Stat. 1062-1063",
@@ -474,7 +474,7 @@
 {
 "cls": "legislation",
 "id": "c-33bb908f7f",
-"locator": "enactment line",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PLAW-118publ31 enactment line",
@@ -484,7 +484,7 @@
 {
 "cls": "legislation",
 "id": "c-35afbe650b",
-"locator": "sections 1841-1843",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "National Archives UAP Records Collection page citing P.L. 118-31 sections 1841-1843",
@@ -494,7 +494,7 @@
 {
 "cls": "legislation",
 "id": "c-3876c13a31",
-"locator": "sec. 7343(b), 137 Stat. 1064",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 7343(b), 137 Stat. 1064",
@@ -504,7 +504,7 @@
 {
 "cls": "legislation",
 "id": "c-50052622ae",
-"locator": "sec. 1841(a)(1)(C), 137 Stat. 699-700",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1841(a)(1)(C), 137 Stat. 699-700",
@@ -514,7 +514,7 @@
 {
 "cls": "legislation",
 "id": "c-5275c7574c",
-"locator": "sec. 1841(a)(1)(A), 137 Stat. 699",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1841(a)(1)(A), 137 Stat. 699",
@@ -524,7 +524,7 @@
 {
 "cls": "legislation",
 "id": "c-5d9525a931",
-"locator": "as enacted, GPO, compared with S. 2226 as engrossed",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "P.L. 118-31 as enacted, GPO, compared with S. 2226 as engrossed",
@@ -534,7 +534,7 @@
 {
 "cls": "legislation",
 "id": "c-63da3ce799",
-"locator": "sec. 1842(g)(2)(D), 137 Stat. 704-705",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1842(g)(2)(D), 137 Stat. 704-705",
@@ -554,7 +554,7 @@
 {
 "cls": "legislation",
 "id": "c-6b28b71a78",
-"locator": "sec. 1842(a)(2), 137 Stat. 701",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1842(a)(2), 137 Stat. 701",
@@ -564,7 +564,7 @@
 {
 "cls": "legislation",
 "id": "c-705834c721",
-"locator": "sec. 1841(e), 137 Stat. 701",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1841(e), 137 Stat. 701",
@@ -594,7 +594,7 @@
 {
 "cls": "legislation",
 "id": "c-8b1d15895e",
-"locator": "sec. 1842(c)(1), 137 Stat. 702",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1842(c)(1), 137 Stat. 702",
@@ -614,7 +614,7 @@
 {
 "cls": "legislation",
 "id": "c-ab7a07b32b",
-"locator": "Div. A, Title XVIII, Subtitle C, table of contents and full text",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 Div. A, Title XVIII, Subtitle C, table of contents and full text",
@@ -634,7 +634,7 @@
 {
 "cls": "legislation",
 "id": "c-b6e87531bb",
-"locator": "sec. 1843(b), 137 Stat. 706",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1843(b), 137 Stat. 706",
@@ -644,7 +644,7 @@
 {
 "cls": "legislation",
 "id": "c-d5f64e0525",
-"locator": "sec. 7343(c), 137 Stat. 1064",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 7343(c), 137 Stat. 1064",
@@ -654,7 +654,7 @@
 {
 "cls": "legislation",
 "id": "c-da74de1aeb",
-"locator": "sec. 1843(a), 137 Stat. 705-706",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 1843(a), 137 Stat. 705-706",
@@ -674,7 +674,7 @@
 {
 "cls": "legislation",
 "id": "c-311ccdafe2",
-"locator": "sec. 7343(b",
+"locator": null,
 "node": "ndaa-fy2024",
 "nodeLabel": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 7343(b)",
@@ -694,7 +694,7 @@
 {
 "cls": "event",
 "id": "c-b70e6c5d21",
-"locator": "sections 1841-1843",
+"locator": null,
 "node": "hearing-1966-04-05",
 "nodeLabel": "House Armed Services Committee UFO Hearing",
 "sourceText": "Inference from the legislative record between 1966 and Public Law 118-31 sections 1841-1843",
@@ -724,21 +724,11 @@
 {
 "cls": "legislation",
 "id": "c-4e3609446e",
-"locator": "sec. 7343",
+"locator": null,
 "node": "iaa-fy2024-sec-1102",
 "nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "sourceText": "Comparison of BILLS-118s2226es Div. M sec. 1102 with PLAW-118publ31 sec. 7343",
 "text": "The enacted counterpart, sec. 7343 of Public Law 118-31, retains only the funding limitation and the IR&D cost-allowability clause. The contractor notification duty, the 'comprehensive list of all non-earth origin or exotic unidentified anomalous phenomena material', the immunity grant, and the six enumerated activity categories were all dropped.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-997f7ec3ad",
-"locator": "table of contents",
-"node": "iaa-fy2024-sec-1102",
-"nodeLabel": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
-"sourceText": "Statute compilation of the National Defense Authorization Act for Fiscal Year 2024 (Pub. L. 118-31), table of contents - https://www.govinfo.gov/content/pkg/COMPS-17632/pdf/COMPS-17632.pdf",
-"text": "A SECOND, PARALLEL ENACTED PROVISION EXISTS IN DIVISION A. The table of contents of the statute compilation of Pub. L. 118-31 shows 'Sec. 1687. Limitation on use of funds for certain unreported programs.' in Division A, Title XVI, distinct from and in addition to Sec. 7343 in Division G. The board should carry both: the FY2024 NDAA enacted two separate UAP funding-limitation provisions, one in the defence division and one in the intelligence division.",
 "tier": 1
 },
 {
@@ -784,7 +774,7 @@
 {
 "cls": "legislation",
 "id": "c-277723752b",
-"locator": "sec. 7343(a), 137 Stat. 1063-1064",
+"locator": null,
 "node": "iaa-2024",
 "nodeLabel": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 7343(a), 137 Stat. 1063-1064",
@@ -794,7 +784,7 @@
 {
 "cls": "legislation",
 "id": "c-6e166510f8",
-"locator": "sec. 7343(b), 137 Stat. 1064",
+"locator": null,
 "node": "iaa-2024",
 "nodeLabel": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "sourceText": "PL 118-31 sec. 7343(b), 137 Stat. 1064",
@@ -844,7 +834,7 @@
 {
 "cls": "person",
 "id": "c-94b2c6cfca",
-"locator": "as enacted, compared with S. 2226 as engrossed in the Senate, GPO",
+"locator": null,
 "node": "mike-turner",
 "nodeLabel": "Michael R. Turner",
 "sourceText": "P.L. 118-31 as enacted, compared with S. 2226 as engrossed in the Senate, GPO",
@@ -864,7 +854,7 @@
 {
 "cls": "person",
 "id": "c-417febfb71",
-"locator": "Subtitle C and Secs. 1687/7343",
+"locator": null,
 "node": "mike-rogers-alabama",
 "nodeLabel": "Mike Rogers (Alabama)",
 "sourceText": "Inference from side-by-side comparison of S. 2226 Div. G with P.L. 118-31 Subtitle C and Secs. 1687/7343",
@@ -914,7 +904,7 @@
 {
 "cls": "legislation",
 "id": "c-3c40cb48c7",
-"locator": "Div. A Title XVIII Subtitle C",
+"locator": null,
 "node": "ndaa-fy2024-subtitle-c",
 "nodeLabel": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "sourceText": "PLAW-118publ31 Div. A Title XVIII Subtitle C",
@@ -924,7 +914,7 @@
 {
 "cls": "legislation",
 "id": "c-6025e55e41",
-"locator": "sec. 1841(a)(1)(C), 137 Stat. 699-700",
+"locator": null,
 "node": "ndaa-fy2024-subtitle-c",
 "nodeLabel": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "sourceText": "PLAW-118publ31 sec. 1841(a)(1)(C), 137 Stat. 699-700",
@@ -944,7 +934,7 @@
 {
 "cls": "legislation",
 "id": "c-c12ce76b68",
-"locator": "Subtitle C",
+"locator": null,
 "node": "ndaa-fy2024-subtitle-c",
 "nodeLabel": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "sourceText": "Comparison of BILLS-118s2226es Div. G with PLAW-118publ31 Subtitle C",
@@ -954,7 +944,7 @@
 {
 "cls": "legislation",
 "id": "c-e3d235c634",
-"locator": "sec. 1842(g)(2)(D), 137 Stat. 704-705",
+"locator": null,
 "node": "ndaa-fy2024-subtitle-c",
 "nodeLabel": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "sourceText": "PLAW-118publ31 sec. 1842(g)(2)(D), 137 Stat. 704-705",
@@ -1034,7 +1024,7 @@
 {
 "cls": "legislation",
 "id": "c-3fd69fb13f",
-"locator": "Div. A, Title XVIII, Subtitle C",
+"locator": null,
 "node": "uapda-2023",
 "nodeLabel": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "sourceText": "Textual comparison of BILLS-118s2226es Div. G against PLAW-118publ31 Div. A, Title XVIII, Subtitle C",
@@ -1044,7 +1034,7 @@
 {
 "cls": "legislation",
 "id": "c-eeae721237",
-"locator": "secs. 1841-1843",
+"locator": null,
 "node": "uapda-2023",
 "nodeLabel": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "sourceText": "Inference from side-by-side text of BILLS-118s2226es Div. G and PLAW-118publ31 secs. 1841-1843",
@@ -1064,7 +1054,7 @@
 {
 "cls": "institution",
 "id": "c-cc2931a090",
-"locator": "as enacted, compared with the introduced UAP Disclosure Act text",
+"locator": null,
 "node": "us-senate",
 "nodeLabel": "United States Senate",
 "sourceText": "Public Law 118-31 as enacted, compared with the introduced UAP Disclosure Act text",
@@ -1072,7 +1062,7 @@
 "tier": 1
 }
 ],
-"date": null,
+"date": "2023",
 "edges": [
 {
 "a": {
@@ -2078,7 +2068,7 @@
 "type": "institutional"
 }
 ],
-"era": "nd",
+"era": "3",
 "id": "pl-118-31",
 "identifiers": [
 "Public Law 118-31"
@@ -2219,10 +2209,10 @@
 ],
 "node": {
 "cls": "legislation",
-"id": "iaa-2024",
-"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343"
+"id": "ndaa-fy2024",
+"label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343"
 },
-"title": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
+"title": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "topics": [
 {
 "claims": [

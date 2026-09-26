@@ -108,8 +108,8 @@
 "sources": [
 {
 "id": "chrg-119hhrg61718",
-"locator": "CONTENTS",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Witness of record at the 9 September 2025 hearing: 'Mr. George Knapp, UAP Journalist'.",
@@ -123,7 +123,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "testimony of George Knapp",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Testimony, 9 September 2025, on where UAP funding sits: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
@@ -133,18 +133,30 @@
 {
 "id": "c-c298b95aa9",
 "source": "KLAS 8 News Now, 'I-Team: Documents prove secret UFO study based in Nevada', December 2017",
-"sources": [],
+"sources": [
+{
+"id": "u-8newsnow-com-c317952a",
+"locator": null,
+"title": "KLAS 8 News Now"
+}
+],
 "text": "Knapp's KLAS I-Team published AAWSAP contract documentation establishing the DIA-funded study was executed in Las Vegas.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e874579553",
 "source": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021)",
-"sources": [],
+"sources": [
+{
+"id": "n-skinwalkers-at-the-pentagon",
+"locator": null,
+"title": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)"
+}
+],
 "text": "Lacatski read 'Hunt for the Skinwalker' by Knapp and Kelleher before approaching Bigelow in 2007, making the book a proximate cause of the contract.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d8c66b2aa4",
@@ -152,23 +164,35 @@
 "sources": [],
 "text": "Reid told Knapp on camera that the $22 million was not enough and that not studying the subject would be malpractice.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:8newsnow.com/investigators/i-team-former-sen-harry-reid-talks-ufos-in-sit-do) was rejected in review: cannot tell which Reid interview; candidate row has no date"
 },
 {
 "id": "c-f1a5446073",
 "source": "George Knapp sworn statement, Task Force on the Declassification of Federal Secrets, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "sworn statement of George Knapp",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "'So many of the things that happen to witnesses like these are extra-legal. They are carried out by persons unknown, as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a700b08582",
 "source": "Index of documents, House Oversight hearing Serial No. 118-53",
-"sources": [],
+"sources": [
+{
+"id": "u-congress-gov-36a51d50",
+"locator": "index of documents entry: George Knapp statement for the record, submitted by Rep. Burchett",
+"title": "House Oversight hearing transcript, Serial No. 118-53"
+}
+],
 "text": "A statement for the record by George Knapp was submitted by Rep. Burchett to the 26 July 2023 House Oversight hearing.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4b84cf75ed",
@@ -215,34 +239,58 @@
 {
 "id": "c-9c63489c6a",
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-dd18f1c6",
+"locator": null,
+"title": "Wikipedia - George Knapp"
+}
+],
 "text": "Knapp has been credited with introducing Senator Harry Reid to Robert Bigelow because of their shared interest in unidentified aerial phenomena.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-46b35af5ce",
 "source": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-dd18f1c6",
+"locator": null,
+"title": "Wikipedia - George Knapp"
+}
+],
 "text": "Knapp worked with Robert Bigelow's National Institute of Discovery Science alongside NIDS deputy administrator Colm Kelleher and publicised Skinwalker Ranch.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-033803a8f1",
 "source": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-dd18f1c6",
+"locator": null,
+"title": "Wikipedia - George Knapp"
+}
+],
 "text": "Knapp co-hosts the Weaponized podcast with Jeremy Corbell.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5b50718005",
 "source": "George Knapp, sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "sworn testimony of George Knapp",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-da031b7d10",
@@ -251,7 +299,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "9 September 2025",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Asked by Rep. Burchett to name the corporations holding the material: 'Well, one of them is Lockheed... They have lied about this because that is what they are supposed to do. But Lockheed would be one. There is a list I can give you, Congressman.'",
@@ -265,7 +313,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "9 September 2025",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Asked by Rep. Begich to name gatekeepers: 'one of them was named Dr. James Ryder at Lockheed'; and, separately, 'Glenn Gaffney, CIA.'",
@@ -278,7 +326,7 @@
 "sources": [],
 "text": "Alfred O'Donnell, first general manager of EG&G in Nevada, told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-5) was rejected in review: names two sources; candidate is only one"
 }
 ],
 "cls": "person",

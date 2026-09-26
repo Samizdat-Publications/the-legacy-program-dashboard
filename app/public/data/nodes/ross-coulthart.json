@@ -42,18 +42,30 @@
 {
 "id": "c-ed53b4dc83",
 "source": "NewsNation interview by Ross Coulthart, June 2023",
-"sources": [],
+"sources": [
+{
+"id": "t-4aa15df7c24c",
+"locator": null,
+"title": "NewsNation interview by Ross Coulthart, June 2023"
+}
+],
 "text": "Elicited Grusch's on-camera statements that the recovered objects are non-human origin technical vehicles and that dead pilots have been encountered.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-43da451d12",
 "source": "Wikipedia, 'Ross Coulthart', biography, retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-8e5af1cc",
+"locator": null,
+"title": "Wikipedia - Ross Coulthart"
+}
+],
 "text": "Coulthart is senior special investigations correspondent for NewsNation and an advocate for UAP disclosure who believes governments have covered up knowledge of extraterrestrial spacecraft.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e41dc06cd3",
@@ -61,7 +73,7 @@
 "sources": [],
 "text": "Coulthart publicly endorsed UAP Gerb's structural claims on air: 'I think he's on the money.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No title text in the string itself, and date is only approximate."
 },
 {
 "id": "c-5e12c9177b",
@@ -69,7 +81,7 @@
 "sources": [],
 "text": "Coulthart's 4 August 2026 Reality Check episode covers FFRDCs, UARCs and GOCOs as the vehicle of the legacy program, gatekeeping within it, and whether it constitutes a 'deep state'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:newsnationnow.com/podcasts-newsnation/reality-check) was rejected in review: show index page, not the 4 August 2026 episode"
 },
 {
 "id": "c-4f0af23f68",
@@ -77,7 +89,7 @@
 "sources": [],
 "text": "In the same episode Gerb alleged to Coulthart directed-energy attacks on people close to the program, civilian aircraft downed by EMP weapons during craft-recovery operations, and an alleged murder.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:newsnationnow.com/podcasts-newsnation/reality-check) was rejected in review: show index page, not the 4 August 2026 episode"
 },
 {
 "id": "c-8f6b0919b6",
@@ -85,7 +97,7 @@
 "sources": [],
 "text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:newsnationnow.com/podcasts-newsnation/reality-check) was rejected in review: show index page, not the 4 August 2026 episode"
 }
 ],
 "cls": "person",

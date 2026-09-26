@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2ed971ea68",
+"locator": null,
+"node": "marco-rubio",
+"nodeLabel": "Marco Rubio",
+"sourceText": "Rubio on Fox Business, Mornings with Maria, 24 March 2021, reported by Micah Hanks, The Debrief",
+"text": "'It isn't ours. It isn't anything that's registered to the FAA, and in many cases exhibits attributes of things we've never seen.'",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

@@ -12,6 +12,36 @@
 "sourceText": "https://www.aaro.mil/",
 "text": "AARO's homepage carries a banner for 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' linking to war.gov/UFO, and a banner for 'UAP Records from NARA'.",
 "tier": 1
+},
+{
+"cls": "institution",
+"id": "c-47d3ef79c4",
+"locator": null,
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "AARO's homepage links to PURSUE at war.gov/UFO rather than hosting the released files.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-3836653250",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "AARO's own homepage links to 'Presidential Unsealing and Reporting System for UAP Encounters (PURSUE)' at war.gov/UFO.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-86970f1cca",
+"locator": null,
+"node": "war-gov-ufo-portal",
+"nodeLabel": "war.gov/UFO release portal",
+"sourceText": "aaro.mil homepage, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "AARO's homepage links to PURSUE at war.gov/UFO rather than hosting the material itself.",
+"tier": 2
 }
 ],
 "date": null,

@@ -38,34 +38,58 @@
 {
 "id": "c-334c4598fd",
 "source": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:03:33 and 0:04:25",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-08f53955",
+"locator": "0:03:33 and 0:04:25",
+"title": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 17 April 2025, Michels said at 0:03:33 that Eric Wang was 'the head of the Special Studies Department at Wright-Patterson', that attempts to verify his background lead to 'no biographical details, no employment records, no published research', and at 0:04:25 that the researcher William Steinman found an obituary giving Dr. Eric H. Wang as born in 1906, originally from Vienna and a graduate of the Vienna Technical Institute, a contemporary of Viktor Schauberger, and that in 1956 Wang's department was relocated to the Sandia complex at Kirtland Air Force Base. No document supporting any of this was opened, and the board's own reading of DTIC ADA073468, ADA073475 and AD0460283 located no Austrian birth.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b820bee21f",
 "source": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:05:17",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-08f53955",
+"locator": "0:05:17",
+"title": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection' (audio)"
+}
+],
 "text": "In the same episode, at 0:05:17, Michels said that Steinman tracked down Wang's widow, Maria Wang, and that she said her husband had reported directly to Henry Kissinger and that Kissinger had visited their home. The account is given by Michels as Steinman's. The board holds no record of Maria Wang, of any Kissinger connection, or of Steinman's correspondence.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b87817d7ba",
 "source": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World', published 21 February 2025, at 1:33:30",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-c3a0b8c8",
+"locator": "1:33:30",
+"title": "American Alchemy with Jesse Michels, 'The Most Knowledgeable UFO Researcher In The World' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 21 February 2025, at 1:33:30, the guest Sammy, known as UAP Gerb, said that 'Eric Henry Wang, who ran special projects at Wright-Patterson, or Wright Airfield at the time, was taken to Kirtland Air Force Base', and that 'Wang was also talked about by primary Kingman witness, Arthur Stancil Jr.' The board's own DTIC reading establishes Wang's move to Kirtland and names Arthur Stansel as his colleague; it establishes nothing about Kingman.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7c8d04b0f8",
 "source": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection', published 17 April 2025, at 0:01:44 to 0:02:38",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-08f53955",
+"locator": "0:01:44-0:02:38",
+"title": "American Alchemy with Jesse Michels, 'Henry Kissinger & UFO Secrecy: The Dark Connection' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 17 April 2025, at 0:01:44 and 0:02:38, Michels said that Arthur Stansell, described as a consultant on blast effects of atom bombs, was flown to a classified location near Kingman, Arizona, told a secret test vehicle had crashed, and saw a craft roughly thirty feet in diameter and, in a nearby tent, four-foot humanoid figures. Michels said a declassified Operation Upshot-Knothole report confirms Stansell was on site for the nuclear testing there. The board's copy of that report series names Arthur Stansel and carries no Kingman material.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c538b12826",
@@ -74,7 +98,7 @@
 {
 "id": "dtic-ada073468",
 "locator": "acknowledgments",
-"title": "DTIC ADA073468"
+"title": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468"
 }
 ],
 "text": "The Operation UPSHOT-KNOTHOLE Project 3.1 final report names 'Eric H. Wang, Chief, Special Studies Office, who was the technical and scientific monitor for the Air Force Program', alongside Arthur Stansel and Mrs. Maisie G. Ridgeway, secretary to Mr. Wang.",
@@ -88,7 +112,7 @@
 {
 "id": "dtic-ada073468",
 "locator": "introduction",
-"title": "DTIC ADA073468"
+"title": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468"
 }
 ],
 "text": "The same report records that 'Most of the introduction section of this report was taken from the preface of the Preliminary Report, Operation UPSHOT-KNOTHOLE, Project 3.1 authored by Eric H. Wang and Bernard J. O'Brien', and that responsibility for the six projects transferred 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
@@ -102,7 +126,7 @@
 {
 "id": "dtic-ad0460283",
 "locator": "6 May 1960, acknowledgments",
-"title": "DTIC AD0460283"
+"title": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283"
 }
 ],
 "text": "A 1960 report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, Air Force Special Weapons Center, Kirtland Air Force Base, New Mexico -- establishing his move from Air Materiel Command to Kirtland and his continued leadership of a structures organisation there.",
@@ -116,12 +140,12 @@
 {
 "id": "dtic-ada073475",
 "locator": "acknowledgments",
-"title": "DTIC ADA073475"
+"title": "Operation UPSHOT-KNOTHOLE, Project 3.5, DTIC ADA073475"
 },
 {
 "id": "dtic-ada073468",
 "locator": null,
-"title": "DTIC ADA073468"
+"title": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468"
 }
 ],
 "text": "The printed name of the organisation is the Special Studies Office (also Special Studies Section), inside the Installations Division of Air Materiel Command -- not the 'Office of Special Studies'. The colleague's name is Arthur Stansel, whom the Project 3.5 report tracks onward to 'Landing Gear Development Section, Equipment Laboratory, Wright Air Development Center'.",
@@ -135,17 +159,17 @@
 {
 "id": "dtic-ada073468",
 "locator": "ADA073475 and AD0460283",
-"title": "DTIC ADA073468"
+"title": "Operation Upshot-Knothole, Project 3.1, DTIC ADA073468"
 },
 {
 "id": "dtic-ada073475",
-"locator": "and AD0460283",
-"title": "DTIC ADA073475"
+"locator": null,
+"title": "Operation UPSHOT-KNOTHOLE, Project 3.5, DTIC ADA073475"
 },
 {
 "id": "dtic-ad0460283",
 "locator": null,
-"title": "DTIC AD0460283"
+"title": "Blast Effects on Existing Upshot-Knothole and Teapot Structures, DTIC AD0460283"
 }
 ],
 "text": "Nothing in the UPSHOT-KNOTHOLE reports or the 1960 AFSWC report touches unidentified aerial phenomena, recovered materiel, reverse engineering, Henry Kissinger or Viktor Schauberger. Wang's documented role throughout is blast effects on structures. No document supporting an Austrian birth was located.",

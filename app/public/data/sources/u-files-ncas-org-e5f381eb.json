@@ -1,6 +1,57 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5537d2e5ab",
+"locator": "title page and letter of transmittal",
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"sourceText": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968, title page and letter of transmittal",
+"text": "The report was produced under US Air Force contract 44620-67-C-0035 with the University of Colorado, with Condon as scientific director.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5f2ebb8aa8",
+"locator": "contract 44620-67-C-0035 cited in report",
+"node": "gerald-ford",
+"nodeLabel": "Gerald R. Ford",
+"sourceText": "'Scientific Study of Unidentified Flying Objects', contract 44620-67-C-0035, University of Colorado, 1968",
+"text": "The Air Force established the University of Colorado study under contract in October 1966, six months after the hearing.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-b71d752140",
+"locator": null,
+"node": "d-history",
+"nodeLabel": "Historiography",
+"sourceText": "Condon Report, University of Colorado",
+"text": "The Condon Report, 'Scientific Study of Unidentified Flying Objects', was published in November 1968 and led directly to the termination of Project Blue Book.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-f347e667d4",
+"locator": null,
+"node": "hearing-1966-04-05",
+"nodeLabel": "House Armed Services Committee UFO Hearing",
+"sourceText": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968",
+"text": "The Air Force contracted the University of Colorado UFO study six months later, on 6 October 1966, under contract 44620-67-C-0035.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-e4e7cc1bf4",
+"locator": null,
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"sourceText": "'Scientific Study of Unidentified Flying Objects', University of Colorado, 1968",
+"text": "The study was conducted under US Air Force contract 44620-67-C-0035 with the University of Colorado, Edward U. Condon scientific director, formed 6 October 1966 and released January 1969.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -206,7 +257,39 @@
 ],
 "node": null,
 "title": "Scientific Study of Unidentified Flying Objects (Condon Report)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-5537d2e5ab",
+"c-f347e667d4",
+"c-e4e7cc1bf4"
+],
+"id": "condon-1966-69",
+"title": "The Condon Committee and the end of Blue Book, 1966-69"
+},
+{
+"claims": [
+"c-f347e667d4",
+"c-e4e7cc1bf4"
+],
+"id": "oversight-before-2017",
+"title": "Congress and the White House before 2017"
+},
+{
+"claims": [
+"c-f347e667d4"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+},
+{
+"claims": [
+"c-e4e7cc1bf4"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+}
+],
 "type": "web page",
 "urls": [
 "https://files.ncas.org/condon/"

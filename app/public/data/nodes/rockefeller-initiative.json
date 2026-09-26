@@ -10,15 +10,21 @@
 "sources": [],
 "text": "Clinton FOIA collection 2006-0480-F consists of correspondence between President Clinton and Laurance Rockefeller; collection 2006-0546-F consists of photographs of the Clintons' 21 August 1995 visit to Rockefeller's JY Ranch in Jackson, Wyoming.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: names two distinct finding aids jointly; no single candidate covers both"
 },
 {
 "id": "c-1e7a01041a",
 "source": "Clinton Digital Library collection finding aid 2006-0476-F",
-"sources": [],
+"sources": [
+{
+"id": "u-clinton-presidentiallibr-2cc2f0e8",
+"locator": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'"
+}
+],
 "text": "The Clinton White House's Roswell file (2006-0476-F) contains 'correspondence, reports, and email regarding a crash in Roswell, New Mexico in July 1947,' including the July 1995 GAO report, and states that 'the origin of the crashed object remains in dispute today.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2adb0ad409",
@@ -26,7 +32,7 @@
 "sources": [],
 "text": "The initiative's principal product was 'The Best Available Evidence,' distributed in 1995 to legislators, officials and heads of state.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:best-available-evidence) was rejected in review: participants' accounts are not the document"
 }
 ],
 "cls": "program",
@@ -179,7 +185,7 @@
 ],
 "sub": "Privately funded campaign to obtain presidential declassification, 1993-1996",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 656 of 1138, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 655 of 1138, score 26). 3 connections, 2 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

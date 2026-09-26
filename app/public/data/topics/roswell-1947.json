@@ -28,7 +28,13 @@
     "text": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-748a46cf1446",
+     "locator": null,
+     "title": "interview with Stanton T. Friedman, February 1978"
+    }
+   ],
    "text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
    "tier": 2
   },
@@ -66,7 +72,7 @@
     {
      "id": "dtic-ada326148",
      "locator": null,
-     "title": "DTIC ADA326148"
+     "title": "The Roswell Reports (USAF, 1994-1997)"
     }
    ],
    "text": "'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995, ~881 pp, DTIC ADA326148) was produced by Col. Weaver and 1st Lt. McAndrew in response to Rep. Steven H. Schiff's inquiry and attributes the debris to Project MOGUL.",
@@ -82,7 +88,13 @@
     "text": "Clinton Digital Library collection finding aid 2006-0476-F",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-clinton-presidentiallibr-2cc2f0e8",
+     "locator": null,
+     "title": "Clinton Digital Library, FOIA collection 2006-0476-F, 'New Mexico Roswell'"
+    }
+   ],
    "text": "The Clinton White House's Roswell file (2006-0476-F) contains 'correspondence, reports, and email regarding a crash in Roswell, New Mexico in July 1947,' including the July 1995 GAO report, and states that 'the origin of the crashed object remains in dispute today.'",
    "tier": 1
   },
@@ -120,7 +132,7 @@
     {
      "id": "nara-rg-341",
      "locator": "microfilm T-1206",
-     "title": "NARA Record Group 341"
+     "title": "The Report on Unidentified Flying Objects (NARA Record Group 341)"
     }
    ],
    "text": "Arnold's 24 June 1947 Cascades sighting generated an Army Air Forces investigative file that survives in the declassified record.",
@@ -136,7 +148,13 @@
     "text": "RAAF press release issued by 1st Lt. Walter Haut, 8 July 1947",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-raaf-press-release-1947",
+     "locator": null,
+     "title": "RAAF Press Release, 8 July 1947"
+    }
+   ],
    "text": "'The many rumors regarding the flying disc became a reality yesterday when the intelligence office of the 509th Bomb group of the Eighth Air Force, Roswell Army Air Field, was fortunate enough to gain possession of a disc.'",
    "tier": 1
   },
@@ -150,7 +168,13 @@
     "text": "The Roswell Report: Case Closed (1997), Section 1.1, pull quote at p. 12",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 1.1, p.12 pull quote",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The report states: 'It must be emphasized that the claims of bodies only became part of the Roswell Incident after 1978, when they were erroneously linked to the July 1947 retrieval of Project Mogul components.'",
    "tier": 1
   },
@@ -232,7 +256,13 @@
     "text": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-raaf-press-release-1947",
+     "locator": "as reproduced in the 1995 USAF report",
+     "title": "RAAF Press Release, 8 July 1947"
+    }
+   ],
    "text": "The press release states the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
    "tier": 1
   },
@@ -266,7 +296,13 @@
     "text": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon explanation was a cover story.",
    "tier": 1
   },
@@ -280,7 +316,13 @@
     "text": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "The announcement was retracted the same day at Fort Worth by Brig. Gen. Roger Ramey, with Col. Thomas DuBose and weather officer Irving Newton identifying the material as a weather balloon with a radar reflector.",
    "tier": 1
   },
@@ -308,7 +350,13 @@
     "text": "The Roswell Report: Case Closed (1997), Section 1.4, note 13",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 1.4, note 13",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "Ragsdale is quoted in the Air Force report describing the objects at the alleged site as 'They were using dummies in those damned things.'",
    "tier": 2
   },
@@ -360,7 +408,7 @@
     {
      "id": "dtic-ada326147",
      "locator": null,
-     "title": "DTIC ADA326147"
+     "title": "The Roswell Report: Case Closed (DTIC ADA326147)"
     }
    ],
    "text": "'The Roswell Report: Case Closed' (1997, 232 pp, DTIC ADA326147) concludes the recovered material 'was not the remnants of an extraterrestrial spacecraft'.",
@@ -376,7 +424,13 @@
     "text": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "Ramey, with Col. Thomas DuBose and weather officer Irving Newton, publicly identified the Roswell material as a weather balloon with a radar reflector on 8 July 1947, retracting the RAAF announcement the same day.",
    "tier": 1
   },
@@ -390,7 +444,13 @@
     "text": "Walter Haut affidavit, executed 2002, released 2007",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-192ebf32ea44",
+     "locator": null,
+     "title": "Walter Haut affidavit"
+    }
+   ],
    "text": "Haut stated in a sealed affidavit executed 26 December 2002 and released after his 2005 death that he saw a craft and bodies and that Col. Blanchard ordered the press release.",
    "tier": 2
   },
@@ -404,7 +464,13 @@
     "text": "Carey and Schmitt, 'Witness to Roswell' (2007)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-b7e8a58c643d",
+     "locator": null,
+     "title": "Witness to Roswell"
+    }
+   ],
    "text": "Dennis admitted to Carey and Schmitt that he had deliberately given investigators a false name for the nurse; they wrote that he 'must technically stand impeached as a witness'.",
    "tier": 2
   },
@@ -418,7 +484,13 @@
     "text": "USAF, 'The Roswell Report: Case Closed', 24 June 1997",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "24 June 1997",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "'The Roswell Report: Case Closed' (24 June 1997) attributed accounts of recovered bodies to anthropomorphic parachute test dummies.",
    "tier": 1
   },
@@ -446,7 +518,13 @@
     "text": "National Archives, Air Force UFO records page",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-archives-gov-fcf00d64",
+     "locator": null,
+     "title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+    }
+   ],
    "text": "NARA has been unable to locate any documentation among the Project Blue Book records discussing the 1947 Roswell incident.",
    "tier": 1
   },
@@ -474,7 +552,13 @@
     "text": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-3070d0560759",
+     "locator": null,
+     "title": "Haut affidavit"
+    }
+   ],
    "text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
    "tier": 2
   },
@@ -488,7 +572,13 @@
     "text": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "MOGUL was a then-classified top-priority programme of balloon-borne experiments, described at length in the Air Force's 881-page 1995 report by Col. Richard Weaver and 1st Lt. James McAndrew.",
    "tier": 1
   },
@@ -532,7 +622,13 @@
     "text": "The Roswell Report: Case Closed (1997), Section 2.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 2.1",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The Air Force identified 1st Lt. Eileen M. Fanton - assigned to the Roswell AAF Station Hospital 26 December 1946 to 4 September 1947, single, 5'1\", 100 lb, black hair, dark eyes, Roman Catholic, later assigned to the 7510th USAF Hospital, APO 240 New York, in England from June 1952 to April 1955 - as matching Dennis's description of the 'missing nurse' in every particular except the name.",
    "tier": 2
   },
@@ -606,7 +702,13 @@
     "text": "The Roswell Report: Case Closed (1997), Section 2.1, 'The Missing Nurse and the Pediatrician' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 2.1, 'The Missing Nurse and the Pediatrician'",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "A search of Roswell AAF Station Hospital morning reports and rosters, and of the National Personnel Records Center in St. Louis, found no record that a person named Naomi Maria Selff had ever served at Roswell AAF or in any branch of the US armed forces.",
    "tier": 2
   },
@@ -620,7 +722,13 @@
     "text": "Marcel Jr. affidavit for the Fund for UFO Research; Disclosure Project testimony, 9 May 2001; 'The Roswell Legacy' (2009)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-0717b112f91d",
+     "locator": null,
+     "title": "The Roswell Legacy"
+    }
+   ],
    "text": "Marcel Jr. testified under oath by affidavit and repeatedly on the record that in July 1947 his father showed him debris including foil-like metal that resumed its shape and an I-beam bearing embossed purple-violet symbols.",
    "tier": 2
   },
@@ -638,7 +746,7 @@
     {
      "id": "dtic-ada326148",
      "locator": null,
-     "title": "DTIC ADA326148"
+     "title": "The Roswell Reports (USAF, 1994-1997)"
     }
    ],
    "text": "The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman.",
@@ -671,7 +779,7 @@
    "sourceRefs": [
     {
      "id": "gao-nsiad-95-187",
-     "locator": "p.3 read against the 1995 USAF report's methodology",
+     "locator": null,
      "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
     }
    ],
@@ -688,7 +796,13 @@
     "text": "The Roswell Report: Case Closed (1997), Introduction",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Introduction",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The report identifies its four conclusions as consolidation of many years of Air Force activity into July 1947; anthropomorphic test dummies as the 'aliens'; high-altitude balloon launch and recovery as the 'unusual' military activity; and a 1956 KC-97 accident plus a 1959 manned balloon mishap as the source of the hospital bodies accounts.",
    "tier": 1
   },
@@ -812,7 +926,13 @@
     "text": "William L. Moore, address to the MUFON Symposium, Las Vegas, July 1989",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-ab2243148886",
+     "locator": null,
+     "title": "William L. Moore, address to the MUFON Symposium, Las Vegas"
+    }
+   ],
    "text": "Moore publicly admitted at the 1989 MUFON symposium that he had cooperated with US Air Force counterintelligence and had knowingly passed false information to Paul Bennewitz.",
    "tier": 2
   },
@@ -826,7 +946,13 @@
     "text": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's 2024 historical report reaffirmed that materials recovered near Roswell 'were consistent with a balloon of the type used in the then-classified Project Mogul'.",
    "tier": 1
   },
@@ -854,7 +980,13 @@
     "text": "The Roswell Report: Case Closed (1997), Section 2.1, citing 427th AAFBU Squadron M morning reports — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 2.1, citing 427th AAFBU Squadron M morning reports",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The certified morning reports of the 427th AAF Base Unit Squadron 'M' show five Army Nurse Corps nurses at Roswell AAF in July 1947; none reassigned on 8 or 9 July 1947; one reassigned 23 July 1947 to Fort Worth AAF by normal rotation and on active duty there until March 1949; none transferred overseas or killed in a plane crash.",
    "tier": 2
   },
@@ -888,7 +1020,13 @@
     "text": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-0f8fb3c69a57",
+     "locator": null,
+     "title": "Robert Sheaffer interviews with Randle, Skeptical Inquirer"
+    }
+   ],
    "text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
    "tier": 2
   },
@@ -905,7 +1043,7 @@
    "sourceRefs": [
     {
      "id": "gao-nsiad-95-187",
-     "locator": "background",
+     "locator": null,
      "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
     }
    ],
@@ -936,7 +1074,13 @@
     "text": "Berlitz and Moore, 'The Roswell Incident' (1980)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-the-roswell-incident-1980",
+     "locator": null,
+     "title": "The Roswell Incident (Berlitz and Moore, 1980)"
+    }
+   ],
    "text": "The 1980 Berlitz and Moore book 'The Roswell Incident' reopened the case publicly and is the origin of the modern witness corpus.",
    "tier": 2
   },
@@ -950,7 +1094,13 @@
     "text": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995), which reproduces the Ramey office photographs and the Cavitt interview",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": "reproduces Ramey office photographs and Cavitt interview",
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "Marcel was the 509th Bomb Group intelligence officer who collected debris at the Foster ranch with CIC Capt. Sheridan Cavitt, and was photographed with debris at Fort Worth on 8 July 1947.",
    "tier": 1
   },
@@ -964,7 +1114,13 @@
     "text": "USAF, 'The Roswell Report: Case Closed' (1997)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": null,
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "'Case Closed' attributes witness reports of bodies to anthropomorphic test dummies used in high-altitude parachute tests conducted principally between 1953 and 1959.",
    "tier": 2
   },
@@ -996,7 +1152,7 @@
     {
      "id": "dtic-ada326147",
      "locator": null,
-     "title": "DTIC ADA326147"
+     "title": "The Roswell Report: Case Closed (DTIC ADA326147)"
     }
    ],
    "text": "The USAF's 'Case Closed' prints James Ragsdale's interview as Appendix C at page 215, and records that the transcript 'was provided by Kevin Randle, the coauthor of the Truth About the UFO Crash at Roswell (Avon Books, 1994), in which direct quotes from this transcript appear.'",

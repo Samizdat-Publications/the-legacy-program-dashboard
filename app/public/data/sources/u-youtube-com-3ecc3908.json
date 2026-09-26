@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-83f11537c4",
+"locator": null,
+"node": "d-recovery",
+"nodeLabel": "Retrieval & Recovery Operations",
+"sourceText": "American Alchemy - Jake Barber interview, 30 January 2025",
+"text": "Jake Barber, a former special operations pilot, described participation in UAP retrieval operations in a January 2025 on-camera interview, and gave his account by name.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -50,7 +61,15 @@
 ],
 "node": null,
 "title": "American Alchemy - Jake Barber interview",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-83f11537c4"
+],
+"id": "legacy-programme",
+"title": "The legacy programme allegation: retrieval, custody and reverse engineering"
+}
+],
 "type": "broadcast",
 "urls": [
 "https://www.youtube.com/watch?v=dnnpyNuPdXs"

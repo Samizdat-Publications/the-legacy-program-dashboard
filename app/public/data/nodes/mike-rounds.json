@@ -40,7 +40,7 @@
 {
 "id": "crec-2023-07-13-pt1-pgs2953",
 "locator": null,
-"title": "Congressional Record, 2023-07-13, page S2953"
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 }
 ],
 "text": "First-listed cosponsor of S.Amdt. 797, the UAP Disclosure Act of 2023, submitted 13 July 2023.",
@@ -50,18 +50,30 @@
 {
 "id": "c-d0a822f3e9",
 "source": "Congressional Record, 11 July 2024, S4577 et seq. (GPO)",
-"sources": [],
+"sources": [
+{
+"id": "n-uapda-2024-samdt-2610",
+"locator": null,
+"title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+}
+],
 "text": "S.Amdt. 2610 to S. 4638, submitted 11 July 2024, is captioned 'Mr. ROUNDS (for himself and Mr. Schumer)' and contains the complete UAP Disclosure Act of 2024 including the eminent domain subsection; it was 'ordered to lie on the table.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ea894e96a0",
 "source": "Sen. Mike Rounds, Weekly Round[s] Up, 22-28 June 2026, rounds.senate.gov",
-"sources": [],
+"sources": [
+{
+"id": "u-rounds-senate-gov-c6f398c0",
+"locator": null,
+"title": "Sen. Rounds — Weekly Round[s] Up, June 22-28, 2026"
+}
+],
 "text": "'On Thursday, I spoke at the 2026 Disclosure Symposium, where I discussed the future of the Unidentified Anomalous Phenomena (UAP) Disclosure Act. I am once again cosponsoring as an amendment to this year's National Defense Authorization Act.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-79916cd256",
@@ -69,7 +81,7 @@
 "sources": [],
 "text": "'Providing a central collection location and reputable review board to maintain the records adds to the credibility of any future investigations.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:thedebrief.org/the-uap-disclosure-act-of-2023-what-we-know-about-chuck-schum) was rejected in review: outlet, author, date only; candidate row shows neither date nor author"
 },
 {
 "id": "c-41fe077a50",
@@ -77,7 +89,7 @@
 "sources": [],
 "text": "Rounds's own June 2026 list of provisions he secured in the SASC-reported FY2027 NDAA contains no UAP item, and the reported bill S. 4784 contains no UAP provisions.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:rounds.senate.gov/newsroom/press-releases/rounds-secures-national-defense-vi) was rejected in review: names two sources; S. 4784 is not the candidate"
 }
 ],
 "cls": "person",

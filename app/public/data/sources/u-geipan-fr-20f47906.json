@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-0709a0e7b6",
+"locator": "statistics as at 31 March 2026",
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "GEIPAN, 'Classification', geipan.fr, statistics as at 31 March 2026",
+"text": "'Depuis 49 ans, le GEIPAN a enregistré plus de 9 897 témoignages représentant environ 5 170 cas d'observations qui dans 10% des cas ont fait objet d'enquêtes terrain. Au 31/03/2026 cela représente 3336 cas publiés. 66,5 % des cas sont classés A ou B ... 30.3 % ... (CAS C). 3,2 % des observations restent inexpliquées (CAS D).'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-3a14aa0454",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "GEIPAN, 'Classification', geipan.fr, 2026",
+"text": "'Au total le GEIPAN reçoit plus de 1000 contacts par an ... Environ 150 à 200 donnent lieu à une enquête qui se termine par une publication sur le site du GEIPAN ... tout en préservant l'anonymat des témoins.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-5ceea9f638",
+"locator": null,
+"node": "geipan",
+"nodeLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"sourceText": "GEIPAN, 'Classification', geipan.fr, 2026",
+"text": "GEIPAN's classification was rebuilt in 2008 on two measured parameters, consistency (C) and residual strangeness (E), and class D is 'généralement attribuée suite à une enquête terrain avec rencontre du ou des témoins'.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -130,7 +161,17 @@
 ],
 "node": null,
 "title": "GEIPAN - Classification",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-0709a0e7b6",
+"c-3a14aa0454",
+"c-5ceea9f638"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.geipan.fr/fr/node/58787"

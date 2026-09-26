@@ -2,7 +2,28 @@
 "archived": [
 "https://web.archive.org/web/20260810202005/https://www.war.gov/About/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-82082c8689",
+"locator": null,
+"node": "steve-feinberg",
+"nodeLabel": "Stephen A. Feinberg",
+"sourceText": "war.gov About page, retrieved 12 August 2026",
+"text": "The Department lists Steve Feinberg as Deputy Secretary of Defense under Secretary Pete Hegseth.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-25a7a6a834",
+"locator": null,
+"node": "dod",
+"nodeLabel": "United States Department of Defense (secondary designation: Department of War)",
+"sourceText": "war.gov About page, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "DoD self-reports a budget of $841.4 billion, 3.4 million personnel and 4,800 sites in over 160 countries, with Pete Hegseth as Secretary and Steve Feinberg as Deputy Secretary.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -59,7 +80,15 @@
 ],
 "node": null,
 "title": "Department of War (Department of Defense) - About",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-82082c8689"
+],
+"id": "sap-governance",
+"title": "The SAP oversight machinery: SAPCO, SAPOC and the Senior Review Group"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.war.gov/About/"

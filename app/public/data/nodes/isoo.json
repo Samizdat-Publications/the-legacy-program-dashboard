@@ -7,18 +7,30 @@
 {
 "id": "c-ff6a66f157",
 "source": "National Archives, Information Security Oversight Office",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-c7698207",
+"locator": null,
+"title": "National Archives - Information Security Oversight Office"
+}
+],
 "text": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', with authority from Executive Order 13526 and Executive Order 13556.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-181f49a616",
 "source": "National Archives, Information Security Oversight Office",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-c7698207",
+"locator": null,
+"title": "National Archives - Information Security Oversight Office"
+}
+],
 "text": "ISOO publishes an Annual Report to the President with statistics and analysis on Classified National Security Information and Controlled Unclassified Information; the FY2024 report is published.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3fa8125ccf",

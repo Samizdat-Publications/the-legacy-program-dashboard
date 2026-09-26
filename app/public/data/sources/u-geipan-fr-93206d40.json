@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "location",
+"id": "c-8bb11ca095",
+"locator": null,
+"node": "l-toulouse",
+"nodeLabel": "Toulouse, France",
+"sourceText": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "GEIPAN operates within CNES at Toulouse and publishes its classification scheme and case statistics publicly.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -32,7 +43,15 @@
 ],
 "node": null,
 "title": "GEIPAN - accueil",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-8bb11ca095"
+],
+"id": "france",
+"title": "France: GEPAN, SEPRA, GEIPAN and COMETA"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.geipan.fr/"

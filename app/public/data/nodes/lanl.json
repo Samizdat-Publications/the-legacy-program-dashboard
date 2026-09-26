@@ -7,10 +7,16 @@
 {
 "id": "c-c37b3d5597",
 "source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-lanl-gov-b738e76f",
+"locator": null,
+"title": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center"
+}
+],
 "text": "LANL states that a conference was organised at Los Alamos on 16 February 1949 on the green fireballs, attended by Laboratory Director Norris Bradbury, Frederick Reines and Edward Teller with FBI, AEC and military representatives, and that the National Security Research Center holds the conference minutes.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5fa415560f",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "LANL states that its senior archivist receives several FOIA requests every year related to unidentified flying objects and other unexplained aerial phenomena, and that the NSRC does not appear to hold materials on Project Twinkle.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:lanl.gov/media/publications/the-vault/1124-foia-requests-at-the-national-sec) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-aef5f581d4",
@@ -27,7 +33,7 @@
 {
 "id": "crs-r44629",
 "locator": null,
-"title": "CRS R44629: Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress"
+"title": "Federally Funded Research and Development Centers (FFRDCs): Background and Issues for Congress (CRS R44629)"
 }
 ],
 "text": "LANL is administered by Triad National Security, LLC (new administrator 9 June 2018) and received approximately $3,918.3 million in FY2024.",
@@ -40,7 +46,7 @@
 "sources": [],
 "text": "Newly declassified records detailing the 1949 Los Alamos green fireballs conference were released and reported in July 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:newsweek.com/ufo-files-1949-los-alamos-green-fireball-mystery-declassified-d) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-3e5d5491b6",
@@ -48,7 +54,7 @@
 "sources": [],
 "text": "Jeremy Corbell states he received a trove of documents from the son of a deceased former Los Alamos National Laboratory cybersecurity chief, including material said to concern a secret 1991 meeting at the laboratory; these form the basis of the documentary 'Sleeping Dog'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No candidates found for these specific dated LANL/Corbell reports."
 },
 {
 "id": "c-cf640bc7fd",

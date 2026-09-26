@@ -7,34 +7,58 @@
 {
 "id": "c-cc34524b6d",
 "source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952, p.6",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-fd5a4436",
+"locator": "p.6",
+"title": "Library and Archives Canada - Project Magnet report page"
+}
+],
 "text": "Smith, Project Magnet report 1952, p.6: 'They are a hundred feet or more in diameter; they can travel at speeds of several thousand miles per hour; they can reach altitudes well above those which should support conventional air craft or balloons; and ample power and force seem to be available for all required maneuvers.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-71b784730c",
 "source": "Library and Archives Canada exhibition, quoting Smith, Project Magnet report, 1952",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-fd5a4436",
+"locator": null,
+"title": "Library and Archives Canada - Project Magnet report page"
+}
+],
 "text": "Smith, Project Magnet report 1952: the next steps should be 'a substantial effort towards the acquisition of as much as possible of this technology, which would without doubt be of great value to us'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a3e7e0dda4",
 "source": "Library and Archives Canada, 'Canada's UFOs' exhibition, Project Magnet report document page",
-"sources": [],
+"sources": [
+{
+"id": "u-collectionscanada-ca-fd5a4436",
+"locator": null,
+"title": "Library and Archives Canada - Project Magnet report page"
+}
+],
 "text": "Project Magnet material at Library and Archives Canada is cited in LAC's own exhibition as 'Shirley's Bay, Ontario, Project Magnet, 1952. RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f91611b493",
 "source": "Wikipedia, 'Project Magnet (Canada)', citing Library and Archives Canada",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-68622f6e",
+"locator": "approval 2 Dec 1950 quote",
+"title": "Project Magnet (Canada) - Wikipedia"
+}
+],
 "text": "'The project was formally approved on 2 December 1950 ... A small-scale undertaking, the project used DOT facilities, with some assistance from personnel at the Defence Research Board (DRB) and the National Research Council.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b3999062f1",
@@ -42,7 +66,7 @@
 "sources": [],
 "text": "Sky Canada Project, June 2025: 'the Department of Transport terminated Project Magnet in 1954.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:science.gc.ca/site/science/sites/default/files/documents/sky-canada-report.p) was rejected in review: issuer and month only; two June 2025 Sky Canada candidates"
 }
 ],
 "cls": "program",

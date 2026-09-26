@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-e698c82105",
+"locator": "'Studies and timeline' nav template",
+"node": "uk-fs-working-party",
+"nodeLabel": "Flying Saucer Working Party (UK)",
+"sourceText": "Wikipedia navigation template 'Studies and timeline', Project Condign article — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The Flying Saucer Working Party (1950) appears in the standard chronology of official investigations alongside Project Sign (1948), Project Grudge (1949), Project Magnet (1950-1962) and Project Second Storey (1952-1954).",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-80a46173c5",
+"locator": "release date and FOI requesters",
+"node": "gary-anthony-uk",
+"nodeLabel": "Gary Anthony",
+"sourceText": "Wikipedia, 'Project Condign', citing BBC News 7 May 2006 and The Guardian 25 September 2006",
+"text": "The Condign report 'was released into the public domain on 15 May 2006 after a September 2005 Freedom of Information Act request by UFO researchers David Clarke ... and Gary Anthony, a former BUFORA astronomical consultant'.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -113,7 +134,16 @@
 ],
 "node": null,
 "title": "Project Condign - Wikipedia",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-e698c82105",
+"c-80a46173c5"
+],
+"id": "uk",
+"title": "Britain: the MoD desk, Condign and the National Archives releases"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/Project_Condign"

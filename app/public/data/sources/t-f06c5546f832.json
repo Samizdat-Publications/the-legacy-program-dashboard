@@ -1,0 +1,65 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-04f04db444",
+"locator": null,
+"node": "kecksburg-1965",
+"nodeLabel": "Kecksburg incident, 9 December 1965",
+"sourceText": "Greensburg Tribune-Review, December 1965",
+"text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-bfa9ead19f",
+"locator": null,
+"node": "l-kecksburg",
+"nodeLabel": "Kecksburg, Westmoreland County, Pennsylvania",
+"sourceText": "Greensburg Tribune-Review, December 1965 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Greensburg Tribune-Review reported that the area where the object landed was immediately sealed off on the order of US Army and State Police officials, with the area roped off pending the arrival of Army engineers and possibly civilian scientists.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-d25b37ea61",
+"locator": null,
+"node": "stan-gordon",
+"nodeLabel": "Stan Gordon",
+"sourceText": "Greensburg Tribune-Review, December 1965",
+"text": "The Greensburg Tribune-Review reported at the time that the landing area was immediately sealed off on the order of US Army and State Police officials in anticipation of a close inspection, and that state police ordered the area roped off pending the arrival of Army engineers and possibly civilian scientists; a subsequent edition ran the headline 'Searchers Fail to Find Object'.",
+"tier": 1
+}
+],
+"date": "1965-12",
+"edges": [],
+"era": "0",
+"id": "t-f06c5546f832",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Greensburg Tribune-Review",
+"listedOn": [],
+"node": null,
+"title": "Greensburg Tribune-Review, December 1965",
+"topics": [
+{
+"claims": [
+"c-04f04db444",
+"c-d25b37ea61"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-04f04db444",
+"c-d25b37ea61"
+],
+"id": "crash-claims",
+"title": "Other crash-retrieval claims, 1947-1965: Aztec, San Agustin, Kingman, Kecksburg"
+}
+],
+"type": "article",
+"urls": []
+}

@@ -44,16 +44,6 @@
 {
 "cls": "institution",
 "id": "c-8b001b1ade",
-"locator": "source credit",
-"node": "national-security-council",
-"nodeLabel": "National Security Council",
-"sourceText": "50 U.S.C. 3021 source credit, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim",
-"text": "The source credit on the codified section traces the Council to 'July 26, 1947, ch. 343, title I, Sec. 101, 61 Stat. 496', with the first amendment at 'Aug. 10, 1949, ch. 412, Sec. 3, 63 Stat. 579'.",
-"tier": 1
-},
-{
-"cls": "institution",
-"id": "c-8b001b1ade",
 "locator": null,
 "node": "national-security-council",
 "nodeLabel": "National Security Council",
@@ -107,7 +97,6 @@
 "c-3618e1040b",
 "c-403be7a42e",
 "c-403be7a42e",
-"c-8b001b1ade",
 "c-8b001b1ade",
 "c-bb725f8168",
 "c-bb725f8168"

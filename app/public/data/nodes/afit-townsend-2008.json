@@ -7,42 +7,72 @@
 {
 "id": "c-f67daf7aa9",
 "source": "AFIT/GA/ENY/08-M06, Bradley R. Townsend, March 2008, section 1.1",
-"sources": [],
+"sources": [
+{
+"id": "dtic-ada478890",
+"locator": "section 1.1",
+"title": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+}
+],
 "text": "The thesis defines its own term at section 1.1: 'Satellite based sensors looking down at the Earth's surface occasionally observe reflected light from an object passing through the image which is moving too fast relative to the background of the image to be located within the atmosphere. These objects are commonly called fastwalkers. This term refers to any orbital object seen passing through the field of view of an Earth observing sensor which is suspected of being in orbit.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9c81bc6519",
 "source": "AFIT/GA/ENY/08-M06, full-text reading of all 112 pages",
-"sources": [],
+"sources": [
+{
+"id": "dtic-ada478890",
+"locator": "full text (112 pp.)",
+"title": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+}
+],
 "text": "The word 'fastwalker' is used 34 times in the thesis. The words UFO and unidentified do not appear anywhere in its 112 pages. In this document the term is ordinary space-surveillance vocabulary.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-654c43ef88",
 "source": "AFIT/GA/ENY/08-M06, section 1.2",
-"sources": [],
+"sources": [
+{
+"id": "dtic-ada478890",
+"locator": "section 1.2",
+"title": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+}
+],
 "text": "Section 1.2 states: 'In his thesis Osedacz [9] states that a database of fastwalker observations exists with data from as far back as 1972. He uses this data from obtained ballistic missile early warning satellites in GEO to attempt to determine the orbit of these fastwalkers. His conclusion was that determining the orbit of other fastwalkers in GEO was impossible. This supported the conclusions of an earlier work conducted by Lem Wong on the inability to determine the orbit of these objects. The research conducted by Wong is no longer available.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a89432f61b",
 "source": "AFIT/GA/ENY/08-M06, bibliography",
-"sources": [],
+"sources": [
+{
+"id": "dtic-ada478890",
+"locator": "bibliography",
+"title": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+}
+],
 "text": "Bibliography entry 9 reads 'OSEDACZ, R. Orbit determination of sunlight illuminated objects detected by overhead platforms (M. S. Thesis). 1989.' -- naming the 1989 predecessor document, which has not been obtained.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ad4bb88d2b",
 "source": "AFIT/GA/ENY/08-M06, title page and SF 298",
-"sources": [],
+"sources": [
+{
+"id": "dtic-ada478890",
+"locator": "title page and SF 298",
+"title": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors"
+}
+],
 "text": "The title page reads 'Bradley R. Townsend, Captain, USA', AFIT/GA/ENY/08-M06, Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio, 'APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED'. He is a US Army captain at an Air Force school, not USAF. The SF 298 gives the report date 10-03-2008 and the period covered as September 2007 to March 2008.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5ba69052c8",

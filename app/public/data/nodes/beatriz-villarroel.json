@@ -60,34 +60,58 @@
 {
 "id": "c-78d71cff81",
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:24:04",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-a8e0916c",
+"locator": "0:24:04",
+"title": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100, 000 UFOs Above Earth! (ft. Beatriz Villarroel)' (episode audio)"
+}
+],
 "text": "At 0:24:04 in the same episode Villarroel said the lists are held by the Space Force and are classified, including the earliest from the 1960s, and that what she wants is one such list of coordinates so she can test whether the objects vanish in the Earth's shadow. Asked how she knows, she answered 'I think that's what I heard from someone on the inside, yes.' The sourcing limit is hers, stated in the passage.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d943086d4b",
 "source": "Scientific Reports, DOI 10.1038/s41598-025-21620-3",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-villarroel-bruehl-2025",
+"locator": null,
+"title": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports"
+}
+],
 "text": "Bruehl and Villarroel, 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports, 20 October 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-59b6d27eed",
 "source": "Scientific Reports, DOI 10.1038/s41598-021-92162-7",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-ddc21730",
+"locator": null,
+"title": "Villarroel, Marcy, Geier et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports"
+}
+],
 "text": "Villarroel et al., 'Exploring nine simultaneously occurring transients on April 12th 1950', Scientific Reports, 17 June 2021.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6bca1e0126",
 "source": "The Astronomical Journal, DOI 10.3847/1538-3881/ab570f",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-6701b2bd",
+"locator": null,
+"title": "Villarroel et al., 'The Vanishing and Appearing Sources during a Century of Observations Project. I.', The Astronomical Journal"
+}
+],
 "text": "The VASCO project methodology was published in The Astronomical Journal in December 2019.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-66ae15b8ac",

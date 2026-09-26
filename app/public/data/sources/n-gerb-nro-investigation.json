@@ -1,21 +1,194 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-57ba3bcfaa",
+"locator": null,
+"node": "uap-gerb",
+"nodeLabel": "'UAP Gerb' (Sam)",
+"sourceText": "UAP Gerb, video description, 'National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers', published 13 December 2025",
+"text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017; the NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range; gatekeepers are identifiable through USD(A&S) and DDNI(AT&F), the offices controlling NRO acquisitions.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-0869732034",
+"locator": null,
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"sourceText": "UAP Gerb, NRO investigation description, 13 December 2025",
+"text": "The NRO spearheaded a 21st-century crash retrieval team stationed out of the Nevada Test and Training Range.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-38b091b140",
+"locator": null,
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"sourceText": "UAP Gerb, NRO investigation description, 13 December 2025",
+"text": "The NRO's Sentient AI program provided IMINT and SIGINT from tasked and untasked overhead collection platforms to a USAP called Immaculate Constellation established in 2017.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-9fd8557f12",
+"locator": null,
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"sourceText": "UAP Gerb, NRO investigation description, 13 December 2025",
+"text": "Senior legacy gatekeepers are identifiable by analysing USD(A&S) and DDNI(AT&F), the DoD/IC offices controlling NRO acquisitions.",
+"tier": 2
+},
+{
+"cls": "document",
+"id": "c-ba8f050fa6",
+"locator": null,
+"node": "gerb-nro-investigation",
+"nodeLabel": "UAP Gerb - National Reconnaissance Office investigation",
+"sourceText": "UAP Gerb, NRO investigation description, 13 December 2025",
+"text": "The NRO displayed egregious misappropriation of funds via carry-over appropriations in the mid-1990s that may relate to obfuscated UFO programs.",
+"tier": 2
+}
+],
 "date": "2025",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "document",
+"id": "michels-gerb-structural-episode",
+"label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'"
+},
+"b": {
+"cls": "institution",
+"id": "cia",
+"label": "Central Intelligence Agency"
+},
+"claimTier": 2,
+"id": "e-61952410a6",
+"label": "Dedicated chapter 'The Office of Global Access' at 43:04",
+"note": "The Office of Global Access, an element associated with CIA's Directorate of Science and Technology, is given a named chapter; Gerb separately links CIA OGA to NRO, MITRE and the Executive branch in his NRO investigation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+"b": {
+"cls": "document",
+"id": "gerb-nro-investigation",
+"label": "UAP Gerb - National Reconnaissance Office investigation"
+},
+"claimTier": 2,
+"id": "e-e73fa81d8f",
+"label": "Gerb authored the NRO investigation",
+"note": "Published 13 December 2025; 141,122 views; nearly three hours.",
+"type": "investigative"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-nro-investigation",
+"label": "UAP Gerb - National Reconnaissance Office investigation"
+},
+"b": {
+"cls": "person",
+"id": "david-grusch",
+"label": "David Charles Grusch"
+},
+"claimTier": 2,
+"id": "e-2d0a63f811",
+"label": "Built around Grusch's NRO and NGA service and UAPTF liaison role",
+"note": "Gerb frames the NRO's entry into the discussion through Grusch, who served in both the NRO and NGA and acted as liaison from those agencies to the UAP Task Force.",
+"type": "witness-chain"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-nro-investigation",
+"label": "UAP Gerb - National Reconnaissance Office investigation"
+},
+"b": {
+"cls": "event",
+"id": "immaculate-constellation",
+"label": "Immaculate Constellation disclosure, October-November 2024"
+},
+"claimTier": 2,
+"id": "e-bb241f29a7",
+"label": "Alleges NRO Sentient AI fed IMINT and SIGINT to Immaculate Constellation",
+"note": "The most consequential single claim in the NRO investigation: that the NRO's Sentient program supplied tasked and untasked overhead collection to the USAP Immaculate Constellation, established 2017. This supplies a concrete collection pipeline for the programme Shellenberger entered into the congressional record in November 2024.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "document",
+"id": "gerb-nro-investigation",
+"label": "UAP Gerb - National Reconnaissance Office investigation"
+},
+"b": {
+"cls": "institution",
+"id": "nro",
+"label": "National Reconnaissance Office"
+},
+"claimTier": 2,
+"id": "e-84051883d6",
+"label": "Alleges NRO mission support to crash retrieval teams and a NTTR-based team",
+"note": "Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range.",
+"type": "institutional"
+}
+],
 "era": "3",
 "id": "n-gerb-nro-investigation",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "YouTube",
+"listedOn": [
+{
+"cls": "person",
+"id": "uap-gerb",
+"label": "'UAP Gerb' (Sam)"
+},
+{
+"cls": "document",
+"id": "gerb-nro-investigation",
+"label": "UAP Gerb - National Reconnaissance Office investigation"
+}
+],
 "node": {
 "cls": "document",
 "id": "gerb-nro-investigation",
 "label": "UAP Gerb - National Reconnaissance Office investigation"
 },
 "title": "UAP Gerb - National Reconnaissance Office investigation",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-0869732034",
+"c-38b091b140"
+],
+"id": "ffrdc-probes",
+"title": "FFRDCs and the 2026 contractor probes"
+},
+{
+"claims": [
+"c-38b091b140"
+],
+"id": "immaculate-constellation",
+"title": "Immaculate Constellation: the 2024 allegation"
+},
+{
+"claims": [
+"c-ba8f050fa6"
+],
+"id": "black-budget",
+"title": "The classified budget: annexes, the NIP and the MIP"
+}
+],
 "type": "broadcast",
-"urls": []
+"urls": [
+"https://www.youtube.com/watch?v=GM1Qx9vuo2c"
+]
 }

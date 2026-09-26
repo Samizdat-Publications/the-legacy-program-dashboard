@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-f1aa52f89a",
+"locator": null,
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"sourceText": "SEC filings as reported by M.J. Banias, Vice, 4 October 2019",
+"text": "SEC filings record To The Stars paying $35,000 for several items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -62,7 +73,22 @@
 ],
 "node": null,
 "title": "M.J. Banias, 'Tom DeLonge's UFO Research Company Paid $35, 000 for Exotic Metals That Might Actually Just Be Slag', Vice",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-f1aa52f89a"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-f1aa52f89a"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
 "type": "article",
 "urls": [
 "https://www.vice.com/en/article/tom-delonges-ufo-research-company-paid-dollar35000-for-exotic-metals-that-might-actually-just-be-bismuth/"

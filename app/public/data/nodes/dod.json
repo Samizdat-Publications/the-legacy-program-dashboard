@@ -7,10 +7,16 @@
 {
 "id": "c-25a7a6a834",
 "source": "war.gov About page, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-war-gov-e34fc1a4",
+"locator": null,
+"title": "Department of War (Department of Defense) - About"
+}
+],
 "text": "DoD self-reports a budget of $841.4 billion, 3.4 million personnel and 4,800 sites in over 160 countries, with Pete Hegseth as Secretary and Steve Feinberg as Deputy Secretary.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-101192e3a3",

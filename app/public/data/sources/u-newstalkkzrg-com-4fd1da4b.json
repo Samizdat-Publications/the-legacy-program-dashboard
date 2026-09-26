@@ -3,12 +3,92 @@
 "claims": [
 {
 "cls": "legislation",
+"id": "c-c346a7676f",
+"locator": null,
+"node": "ndaa-fy2027-uap-amendment",
+"nodeLabel": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+"sourceText": "Newstalk KZRG, 23 July 2026",
+"text": "The amendment's disclosure requirements extend to certain government contractors that possess covered records.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-d0b3b0a09b",
+"locator": null,
+"node": "ndaa-fy2027-uap-amendment",
+"nodeLabel": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
+"sourceText": "Newstalk KZRG, 23 July 2026",
+"text": "The House adopted Burlison's UAP records disclosure amendment as part of the FY2027 National Defense Authorization Act in July 2026; it would require agencies to identify, preserve and transfer UAP records to the National Archives on a statutory timeline and establish an independent UAP Records Review Board with Senate-confirmed members and subpoena authority.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-afe33002f8",
+"locator": null,
+"node": "d-disclosure",
+"nodeLabel": "Disclosure Movement",
+"sourceText": "NewsTalk KZRG, 23 July 2026",
+"text": "In July 2026 the House approved a Burlison amendment creating a framework for UAP records disclosure.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3b7675e5a9",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "NewsTalk KZRG, 23 July 2026",
+"text": "The House adopted Burlison's Unidentified Anomalous Phenomena Disclosure Act amendment to the FY2027 NDAA on 23 July 2026; it creates a UAP Records Review Board with Senate-confirmed members and subpoena authority and extends disclosure obligations to government contractors.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-ab0c44a22a",
+"locator": null,
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"sourceText": "NewsTalk KZRG, 23 July 2026",
+"text": "The amendment requires agencies to identify, preserve and transfer covered UAP records to a permanent National Archives collection under a statutory timeline.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-25173f6b32",
+"locator": null,
+"node": "uapda-fy2027-house-adopted",
+"nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"sourceText": "NewsTalk KZRG, 23 July 2026",
+"text": "The House adopted the amendment on 23 July 2026 as part of the FY2027 NDAA; it awaits Senate consideration.",
+"tier": 2
+},
+{
+"cls": "legislation",
 "id": "c-814037e0a2",
 "locator": null,
 "node": "uapda-fy2027-house-adopted",
 "nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "sourceText": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/",
 "text": "This was the first year Burlison's UAP disclosure amendment advanced to a House floor vote; a similar proposal failed to advance in the previous year's defence bill cycle. The measure now goes to the Senate.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-932dfc7ce8",
+"locator": null,
+"node": "uapda-fy2027-house-adopted",
+"nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"sourceText": "NewsTalk KZRG, 23 July 2026",
+"text": "The amendment requires agencies to identify, preserve and transfer covered UAP records to a permanent National Archives collection under a statutory timeline.",
+"tier": 2
+},
+{
+"cls": "legislation",
+"id": "c-b64c2d1b36",
+"locator": null,
+"node": "uapda-fy2027-house-adopted",
+"nodeLabel": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
+"sourceText": "NewsTalk KZRG, 23 July 2026",
+"text": "It creates a UAP Records Review Board with Senate-confirmed members and subpoena authority over records and testimony, and extends disclosure requirements to government contractors holding covered records.",
 "tier": 2
 }
 ],
@@ -190,7 +270,32 @@
 ],
 "node": null,
 "title": "NewsTalk KZRG - House approves Burlison amendment creating framework for UAP records disclosure",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-c346a7676f",
+"c-d0b3b0a09b",
+"c-25173f6b32"
+],
+"id": "house-push-2026",
+"title": "The 2026 House push: Burlison, the June events and the select committee proposal"
+},
+{
+"claims": [
+"c-c346a7676f",
+"c-d0b3b0a09b"
+],
+"id": "uap-statutes",
+"title": "UAP law in the NDAAs and IAAs, 2021-2026"
+},
+{
+"claims": [
+"c-25173f6b32"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
 "type": "article",
 "urls": [
 "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/"

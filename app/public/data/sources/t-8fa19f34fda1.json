@@ -1,0 +1,75 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-3b643d967c",
+"locator": null,
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"sourceText": "DoD statement attributed to Susan Gough, 6 June 2023",
+"text": "The Department's June 2023 response was that AARO 'has not discovered any verifiable information' substantiating a possession or reverse-engineering programme - a statement about AARO's discoveries, not about the Department's knowledge.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-0abcdb22ce",
+"locator": "as carried by Fox News and others",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"sourceText": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
+"text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
+"tier": 1
+}
+],
+"date": "2023-06-06",
+"edges": [],
+"era": "3",
+"id": "t-8fa19f34fda1",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
+"topics": [
+{
+"claims": [
+"c-3b643d967c",
+"c-0abcdb22ce"
+],
+"id": "hearing-2023",
+"title": "The July 2023 House hearing"
+},
+{
+"claims": [
+"c-0abcdb22ce"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-3b643d967c"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-0abcdb22ce"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+},
+{
+"claims": [
+"c-3b643d967c"
+],
+"id": "congressional-witnesses",
+"title": "Witnesses who have gone to Congress, and what the record corroborates"
+}
+],
+"type": "document",
+"urls": []
+}

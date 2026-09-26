@@ -28,8 +28,8 @@ class Registry(object):
         self.by = {s["id"]: s for s in self.sources}
         self.claims = cs.get("claims") or {}
         self.unresolved = cs.get("unresolved") or {}
-        self.edges = cs.get("edges") or {}
-        self.nodes = cs.get("nodes") or {}
+        self.edges = cs.get("edgeSources") or {}
+        self.nodes = cs.get("nodeSources") or {}
 
     def claim_refs(self, cid):
         """A claim's sources as every surface prints them: id, title and locator (the

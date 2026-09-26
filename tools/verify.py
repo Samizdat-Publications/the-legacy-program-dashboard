@@ -3362,13 +3362,25 @@ def _sources_floor(b):
     return []
 
 
+# restated, not imported, from merge.py OFFICE_ACCOUNT: the office or one of its
+# documents as the subject of an account verb
+_OFFICE_ACCOUNT = re.compile(
+    r"\b(?:AARO|the office|the (?:same )?(?:report|memorandum|memo|volume|supplement|analysis|"
+    r"slides|page|synopsis|paper)|Volume I)\b[^.;:]{0,90}?\b(?:assess\w*|reaffirm\w*|report\w*|"
+    r"releas\w*|found|finds?|conclud\w*|confirm\w*|logged|treat\w*|anonymi[sz]\w*|present\w*|"
+    r"acknowledg\w*|stat\w*|says?|said|describ\w*|list\w*|record\w*|note\w*|attribut\w*|"
+    r"resolv\w*|judg\w*|declar\w*|determin\w*|characteri[sz]\w*|identif\w*|dismiss\w*|"
+    r"reject\w*|den(?:y|ies|ied))\b", re.I)
+
+
 @check("interested-party sources keep the AARO/DoD cap")
 def _sources_interested_party(b):
     """Restated from merge.py over the registry, which sees what a string alone does
     not: a claim cited to "AARO Memorandum for Record" names no aaro.mil URL, but
-    the source it resolves to is the office's own. (1) A source carrying an
-    interested-party URL (aaro.mil, defense.gov, war.gov, ...) is marked
-    interestedParty. (2) A Tier 1 claim whose every source is an interested party is
+    the source it resolves to is the office's own. (1) A source every copy of
+    which sits on an interested party's hosts (aaro.mil, defense.gov, war.gov, ...)
+    is marked interestedParty; a released document the office also hosts is not
+    thereby the office's. (2) A Tier 1 claim whose every source is an interested party is
     about what that party said (merge.py's attribution words, or it opens by quoting
     the party), or carries a recorded adjudication in research/_source_decisions.json
     `tierAdjudications`. merge.py applies the same rule through the registry
@@ -3381,9 +3393,10 @@ def _sources_interested_party(b):
     by = {}
     for s in reg.get("sources") or []:
         by[s["id"]] = s
-        if any(IPP.search(u) for u in (s.get("urls") or []) + (s.get("archived") or [])) \
-                and not s.get("interestedParty"):
-            bad.append(f"{s['id']}: carries an interested-party URL but is not marked interestedParty")
+        copies = [re.sub(r"^https?://web\.archive\.org/web/\d+[a-z_]*/", "", u)
+                  for u in (s.get("urls") or []) + (s.get("archived") or [])]
+        if copies and all(IPP.search(u) for u in copies) and not s.get("interestedParty"):
+            bad.append(f"{s['id']}: every copy on file is an interested party's, but it is not marked interestedParty")
     adj = ((dec or {}).get("tierAdjudications") or {})
     claims = {c["id"]: c for n in b["people"] + b["entities"] for c in n.get("claims") or []}
     for cid, rows in (cs.get("claims") or {}).items():
@@ -3392,7 +3405,8 @@ def _sources_interested_party(b):
             continue
         if all((by.get(r["source"]) or {}).get("interestedParty") for r in rows) \
                 and not ATT.search(c.get("text") or "") \
-                and not re.match("^['\"‘“]", c.get("text") or ""):
+                and not re.match("^['\"‘“]", c.get("text") or "") \
+                and not _OFFICE_ACCOUNT.search(c.get("text") or ""):
             why = (adj.get(cid) or {}).get("why")
             if not why:
                 bad.append(f"{cid}: Tier 1 on interested-party sources only "
@@ -4104,7 +4118,8 @@ def self_test():
 
     def src_unmark_interested(docs, rb):
         from merge import INTERESTED_PARTY_PAT as IPP
-        s = next(s for s in docs[0]["sources"] if any(IPP.search(u) for u in s.get("urls") or []))
+        s = next(s for s in docs[0]["sources"] if s.get("urls")
+                 and all(IPP.search(u) for u in s["urls"] + (s.get("archived") or [])))
         s["interestedParty"] = False
 
     def src_tier1_on_office(docs, rb):
@@ -4115,6 +4130,7 @@ def self_test():
         c = next(c for n in rb["people"] + rb["entities"] for c in n.get("claims") or []
                  if c.get("tier") == 1 and not ATT.search(c.get("text") or "")
                  and not re.match("^['\"‘“]", c.get("text") or "")
+                 and not _OFFICE_ACCOUNT.search(c.get("text") or "")
                  and c["id"] not in adj)
         docs[1]["unresolved"].pop(c["id"], None)
         docs[1]["claims"][c["id"]] = [{"source": ip, "locator": None, "by": "poison"}]

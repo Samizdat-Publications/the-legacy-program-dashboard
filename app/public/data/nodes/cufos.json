@@ -7,18 +7,30 @@
 {
 "id": "c-392def65f6",
 "source": "Stringfield, Status Report VII, acknowledgements and Roswell update",
-"sources": [],
+"sources": [
+{
+"id": "n-stringfield-status-reports",
+"locator": "Status Report VII, acknowledgements and Roswell update",
+"title": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+}
+],
 "text": "Stringfield acknowledges the cooperation of the J. Allen Hynek Center for UFO Studies in Status Report VII (February 1994) and records consulting its scientific director on 6 November 1993 about the Roswell retrieval body count.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-187582a417",
 "source": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
-"sources": [],
+"sources": [
+{
+"id": "t-4e7b396ac619",
+"locator": "note 123 of the 1997 Air Force report",
+"title": "Rodeghier and Whiting (1992"
+}
+],
 "text": "CUFOS scientific director Mark Rodeghier co-authored 'The Plains of San Agustin Controversy' (1992) with Fred Whiting of the Fund for UFO Research.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b8fb1c2aa2",
@@ -26,7 +38,7 @@
 "sources": [],
 "text": "CUFOS astronomer Allan Hendry briefly investigated the Cash-Landrum case in 1981.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:blueblurrylines.com/search?q=lawsuit+Cash+Landrum) was rejected in review: string names two or more sources; candidate is only one"
 }
 ],
 "cls": "institution",

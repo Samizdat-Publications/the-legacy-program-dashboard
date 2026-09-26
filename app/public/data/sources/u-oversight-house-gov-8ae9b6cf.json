@@ -2,6 +2,16 @@
 "archived": [],
 "claims": [
 {
+"cls": "event",
+"id": "c-aeb10cd3b9",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "Jeffrey Nuccetelli, written testimony, 9 September 2025",
+"text": "'Official Air Force records documenting it are now held by AARO and the FBI.'",
+"tier": 2
+},
+{
 "cls": "person",
 "id": "c-10f54f333d",
 "locator": null,
@@ -10,6 +20,96 @@
 "sourceText": "https://oversight.house.gov/wp-content/uploads/2025/09/Nuccetelli-Written-Testimony.pdf",
 "text": "Written testimony filed with the House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025.",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-07950a178f",
+"locator": null,
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "Nuccetelli written testimony, 9 September 2025",
+"text": "One witness 'was threatened and told to kept quiet about the incident.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-70f64fef92",
+"locator": null,
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "On 14 October 2003 Boeing contractors at Vandenberg AFB reported 'a massive, glowing red square silently hovering over two missile defense sites.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-f473aae82f",
+"locator": null,
+"node": "jeffrey-nuccetelli",
+"nodeLabel": "Jeffrey Nuccetelli",
+"sourceText": "Nuccetelli written testimony, 9 September 2025",
+"text": "'Official Air Force records documenting it are now held by AARO and the FBI.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-04a2778f2b",
+"locator": null,
+"node": "vandenberg-2003",
+"nodeLabel": "Vandenberg AFB Incidents (2003-2005)",
+"sourceText": "Nuccetelli written testimony, 9 September 2025",
+"text": "'Official Air Force records documenting it are now held by AARO and the FBI'; one witness 'was threatened and told to kept quiet about the incident.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-1cf790570c",
+"locator": null,
+"node": "vandenberg-2003",
+"nodeLabel": "Vandenberg AFB Incidents (2003-2005)",
+"sourceText": "Nuccetelli written testimony, 9 September 2025",
+"text": "In 2005 a patrol reported 'a massive triangular craft, larger than a C-130, hovering low over the main base.'",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-878b3c1af7",
+"locator": null,
+"node": "vandenberg-2003",
+"nodeLabel": "Vandenberg AFB Incidents (2003-2005)",
+"sourceText": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
+"text": "On 14 October 2003 Boeing contractors reported 'a massive, glowing red square silently hovering over two missile defense sites' at Vandenberg AFB.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-bfb1d13c8e",
+"locator": null,
+"node": "l-vandenberg",
+"nodeLabel": "Vandenberg Space Force Base, California",
+"sourceText": "Jeffrey Nuccetelli, written testimony to the House Oversight Task Force, 9 September 2025",
+"text": "On 14 October 2003 Boeing contractors at Vandenberg reported a massive, glowing red square silently hovering over two missile defense sites; the same night security personnel described a massive rectangular craft larger than a football field.",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-c31704f83e",
+"locator": null,
+"node": "l-vandenberg",
+"nodeLabel": "Vandenberg Space Force Base, California",
+"sourceText": "Jeffrey Nuccetelli, written testimony, 9 September 2025",
+"text": "'Official Air Force records documenting it are now held by AARO and the FBI.'",
+"tier": 2
+},
+{
+"cls": "location",
+"id": "c-cb8f9cf15a",
+"locator": null,
+"node": "l-vandenberg",
+"nodeLabel": "Vandenberg Space Force Base, California",
+"sourceText": "Jeffrey Nuccetelli, written testimony, 9 September 2025",
+"text": "A witness to the follow-on incident approximately one week after 14 October 2003 'was later threatened and told to kept quiet about the incident.'",
+"tier": 2
 }
 ],
 "date": null,
@@ -132,10 +232,21 @@
 "topics": [
 {
 "claims": [
-"c-10f54f333d"
+"c-10f54f333d",
+"c-07950a178f",
+"c-70f64fef92",
+"c-f473aae82f"
 ],
 "id": "congressional-witnesses",
 "title": "Witnesses who have gone to Congress, and what the record corroborates"
+},
+{
+"claims": [
+"c-aeb10cd3b9",
+"c-07950a178f"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
 }
 ],
 "type": "document",

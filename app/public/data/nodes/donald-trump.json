@@ -28,10 +28,16 @@
 {
 "id": "c-0a3dd5a8f9",
 "source": "DefenseScoop, 20 February 2026, quoting the Truth Social post",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-3fb7ba7c",
+"locator": null,
+"title": "DefenseScoop - Transparency proponents meet Trump's UAP disclosure tease with hope and caution"
+}
+],
 "text": "Trump posted on Truth Social that he would direct Hegseth and relevant departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d4d9df52f6",
@@ -39,7 +45,7 @@
 "sources": [],
 "text": "The Department of War's PURSUE portal attributes the release programme to the President's direction to the Secretary of War.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:pursue-bundle-urls) was rejected in review: string names the portal page, not the bundle URLs node"
 },
 {
 "id": "c-a7b6087c99",
@@ -47,7 +53,7 @@
 "sources": [],
 "text": "In July 2026 the administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is 'not a declassification directive.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:foxnews.com/politics/long-hidden-ufo-information-center-trump-push-free-form) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-59070533fc",

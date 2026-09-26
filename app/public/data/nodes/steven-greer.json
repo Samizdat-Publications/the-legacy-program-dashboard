@@ -57,9 +57,9 @@
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "sources": [
 {
-"id": "u-archive-org-c8784eac",
+"id": "n-disclosure-project-briefing-2001",
 "locator": null,
-"title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+"title": "Disclosure Project Briefing Document, April 2001"
 }
 ],
 "text": "He is named on the title page of the Disclosure Project Briefing Document of April 2001 as its author and compiler, jointly with Theodore C. Loder III, Ph.D.: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' The document gives his address as 'The Disclosure Project, PO Box 265, Crozet, VA 22932'.",
@@ -71,9 +71,9 @@
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "sources": [
 {
-"id": "u-archive-org-c8784eac",
+"id": "n-disclosure-project-briefing-2001",
 "locator": null,
-"title": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D."
+"title": "Disclosure Project Briefing Document, April 2001"
 }
 ],
 "text": "He conducts the interviews in the document himself and his presence is printed inside the transcripts: each testimony carries an initials key of the form 'SG: Dr. Steven Greer', and his editorial interjections are printed within the witness text marked 'SG]'. THE DOCUMENT IS THEREFORE NOT A NEUTRAL COMPILATION AND CAPS AT TIER 2 THE MOMENT IT IS ASKED TO SUPPORT THE CONTENT OF A CLAIM RATHER THAN THE EXISTENCE OF THE TESTIMONY.",
@@ -114,39 +114,63 @@
 "sources": [],
 "text": "On 9 May 2001 Greer presented roughly twenty former military, intelligence and government personnel at the National Press Club and stated that more than four hundred witnesses had provided testimony, calling for congressional hearings with subpoena power.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:disclosure-project-briefing-2001) was rejected in review: press event and coverage, not the briefing document"
 },
 {
 "id": "c-8b9dfccdc0",
 "source": "Clinton Digital Library collection finding aid, identifier 2006-0474-F",
-"sources": [],
+"sources": [
+{
+"id": "u-clinton-presidentiallibr-eb417c29",
+"locator": null,
+"title": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)"
+}
+],
 "text": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-68242b2489",
 "source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-f8dd7274",
+"locator": null,
+"title": "Wikipedia - Steven M. Greer"
+}
+],
 "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, and in May 2001 held a National Press Club press conference featuring 20 retired Air Force, FAA and intelligence officers.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3c184582f6",
 "source": "Wikipedia, 'Steven M. Greer' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-f8dd7274",
+"locator": null,
+"title": "Wikipedia - Steven M. Greer"
+}
+],
 "text": "The Atacama skeleton presented in Sirius was shown by genetic evidence to be human.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-59c1b1c96b",
 "source": "UAP Gerb livestream description, 12 May 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-youtube-com-4b244673",
+"locator": null,
+"title": "UAP Gerb Live - 12 May 2026"
+}
+],
 "text": "Greer held a National Press Club event on 8 May 2026.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

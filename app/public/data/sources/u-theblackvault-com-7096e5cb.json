@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-8ba64dfaeb",
+"locator": null,
+"node": "sri-international",
+"nodeLabel": "SRI International (Stanford Research Institute)",
+"sourceText": "The Stargate Collection, CIA programme description",
+"text": "The programmes hosted at SRI were 'primarily handled by the DIA and CIA' and ran 'from the 1970s through 1995,' following early psychical research at SRI and SAIC.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

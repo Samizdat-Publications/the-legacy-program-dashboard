@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20260519012412/https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2314280/establishment-of-unidentified-aerial-phenomena-task-force/"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-e625bcff10",
+"locator": null,
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"sourceText": "US Navy press release, 'Establishment of Unidentified Aerial Phenomena Task Force', 14 August 2020",
+"text": "The UAP Task Force was formally approved by Deputy Secretary of Defense David L. Norquist on 4 August 2020 under the Department of the Navy, with OUSD(I&S) cognizance.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

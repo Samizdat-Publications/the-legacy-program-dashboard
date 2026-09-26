@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-2c3d8cc9a8",
+"locator": null,
+"node": "j-allen-hynek",
+"nodeLabel": "J. Allen Hynek",
+"sourceText": "Hynek's own account in 'The UFO Experience' (1972) and contemporaneous press coverage",
+"text": "Hynek's March 1966 swamp gas explanation was offered as provisional and for only some cases, but was reported as a blanket dismissal; he later expressed regret.",
+"tier": 2
+}
+],
+"date": "1972",
+"edges": [],
+"era": "1",
+"id": "t-83ca1c79f964",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "The UFO Experience",
+"topics": [
+{
+"claims": [
+"c-2c3d8cc9a8"
+],
+"id": "blue-book",
+"title": "Project Blue Book, 1952-1969"
+}
+],
+"type": "book",
+"urls": []
+}

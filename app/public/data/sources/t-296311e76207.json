@@ -1,0 +1,43 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-5344d76b86",
+"locator": null,
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"sourceText": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018",
+"text": "TTSA's September 2018 SEC filing recorded preparation to launch research into 'materials relevant to its future plans in Space Time Metric Engineering', partnering with EarthTech in August 2018.",
+"tier": 1
+}
+],
+"date": "2018-10-15",
+"edges": [],
+"era": "3",
+"id": "t-296311e76207",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Vice",
+"listedOn": [],
+"node": null,
+"title": "TTSA SEC filing reported by Daniel Oberhaus, Vice, 15 October 2018",
+"topics": [
+{
+"claims": [
+"c-5344d76b86"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+},
+{
+"claims": [
+"c-5344d76b86"
+],
+"id": "ttsa",
+"title": "To The Stars Academy, the Army CRADA and the Podesta emails"
+}
+],
+"type": "article",
+"urls": []
+}

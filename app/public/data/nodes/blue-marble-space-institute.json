@@ -8,18 +8,30 @@
 {
 "id": "c-c8a3e4f8ac",
 "source": "bmsis.org/about",
-"sources": [],
+"sources": [
+{
+"id": "u-bmsis-org-896e25b1",
+"locator": null,
+"title": "Blue Marble Space Institute of Science - About (official)"
+}
+],
 "text": "BMSIS is a non-profit public charity organised under section 501(c)(3) of the US Internal Revenue Code, self-described as an international community engaged in building a sustainable future and nurturing scientific interest among the public.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-121adf222e",
 "source": "bmsis.org/about",
-"sources": [],
+"sources": [
+{
+"id": "u-bmsis-org-896e25b1",
+"locator": null,
+"title": "Blue Marble Space Institute of Science - About (official)"
+}
+],
 "text": "Its research programme spans planetary habitability, origin of life, space biology, climate change, sustainable development, human spaceflight and solar system exploration, published in academic journals and disseminated through podcasts, seminars and the SAGANet network; all projects must include educational outreach.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-2a5c0971e1",

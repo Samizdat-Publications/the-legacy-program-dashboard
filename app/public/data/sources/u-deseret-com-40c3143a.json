@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-f0a924457e",
+"locator": null,
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"sourceText": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-3da352ed70",
+"locator": null,
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
+"text": "Bigelow said in August 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property: 'We wouldn't be there just for the weather.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-476e5782f1",
+"locator": null,
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"sourceText": "Zack Van Eyck, Deseret News, 10 Aug 1998",
+"text": "As a condition of the 1996 purchase the Shermans agreed to keep quiet about what they had witnessed on the property.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -179,7 +210,23 @@
 ],
 "node": null,
 "title": "Zack Van Eyck, 'Private UFO study takes a public turn', Deseret News",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-f0a924457e",
+"c-3da352ed70"
+],
+"id": "skinwalker-nids",
+"title": "Skinwalker Ranch and NIDS"
+},
+{
+"claims": [
+"c-f0a924457e"
+],
+"id": "biology-medical",
+"title": "Claims of biologics, and documented medical effects"
+}
+],
 "type": "article",
 "urls": [
 "https://www.deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn"

@@ -3,6 +3,16 @@
 "claims": [
 {
 "cls": "person",
+"id": "c-8537261071",
+"locator": null,
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"sourceText": "Christopher Mellon to DefenseScoop, 14 May 2026",
+"text": "'For years the public was told there was little to see. The scale of what exists is itself a revelation. That said, data alone is not disclosure.'",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-877ed75e05",
 "locator": null,
 "node": "christopher-mellon",
@@ -10,6 +20,16 @@
 "sourceText": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "text": "'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
 "tier": 2
+},
+{
+"cls": "program",
+"id": "c-de956641d3",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "DefenseScoop, 14 May 2026",
+"text": "A War Department official stated: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.'",
+"tier": 1
 },
 {
 "cls": "program",
@@ -32,6 +52,66 @@
 "tier": 2
 },
 {
+"cls": "program",
+"id": "c-5f9919f1a4",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "DefenseScoop, 14 May 2026",
+"text": "Release 01 comprised slightly over 160 files with at least 100 containing redactions.",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-c91bbc06c1",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "DefenseScoop, 14 May 2026",
+"text": "Christopher Mellon on the first drop: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-ddf6decfd1",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "DefenseScoop, 14 May 2026",
+"text": "Tim Gallaudet said the absence of metadata made it 'impossible to conclude that any objects were truly anomalous.'",
+"tier": 2
+},
+{
+"cls": "program",
+"id": "c-ff87166571",
+"locator": null,
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"sourceText": "DefenseScoop, 14 May 2026",
+"text": "PURSUE stands for Presidential Unsealing and Reporting System for UAP Encounters, is coordinated by AARO, and made its first release on 8 May 2026 of roughly 160 declassified files through a war.gov portal, at least 100 with redactions.",
+"tier": 2
+},
+{
+"cls": "event",
+"id": "c-673b761fbf",
+"locator": null,
+"node": "pursue-release-01",
+"nodeLabel": "PURSUE Release 01",
+"sourceText": "DefenseScoop, 14 May 2026",
+"text": "At least 100 of the roughly 160 files contained redactions.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9259fde427",
+"locator": null,
+"node": "ryan-graves",
+"nodeLabel": "Ryan Graves",
+"sourceText": "DefenseScoop, 14 May 2026, quoting a War Department official",
+"text": "A War Department official said of PURSUE: 'We are not providing any comment or assessment on the files overall or on any specific file, so that the American people can make up their own minds regarding the files.'",
+"tier": 1
+},
+{
 "cls": "person",
 "id": "c-8c82b472af",
 "locator": null,
@@ -39,6 +119,26 @@
 "nodeLabel": "Ryan Graves",
 "sourceText": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "text": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-aa5bb11e59",
+"locator": null,
+"node": "ryan-graves",
+"nodeLabel": "Ryan Graves",
+"sourceText": "Ryan Graves to DefenseScoop, 14 May 2026",
+"text": "'The most useful releases are not simply the clips that appear unusual. The real value is in records that include clear provenance, sensor context, metadata, chain of custody.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-60a3c7c85d",
+"locator": null,
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"sourceText": "DefenseScoop, 14 May 2026",
+"text": "Gallaudet said the absence of metadata made it impossible to conclude that any released object was truly anomalous.",
 "tier": 2
 },
 {
@@ -320,7 +420,25 @@
 ],
 "node": null,
 "title": "DefenseScoop - 'Data alone is not disclosure': UAP research community reacts to Trump's first PURSUE file drop",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-de956641d3",
+"c-c91bbc06c1",
+"c-ddf6decfd1",
+"c-673b761fbf"
+],
+"id": "pursue-2026",
+"title": "PURSUE and the 2026 releases"
+},
+{
+"claims": [
+"c-60a3c7c85d"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "article",
 "urls": [
 "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"

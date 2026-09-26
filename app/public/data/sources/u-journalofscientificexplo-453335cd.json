@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-5489fb7da7",
+"locator": null,
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"sourceText": "Barry Greenwood, review, Journal of Scientific Exploration 37(1), 2 May 2023",
+"text": "'Skinwalkers at the Pentagon' is co-authored by the DIA official who conceived and managed AAWSAP, James Lacatski, together with Kelleher and Knapp.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

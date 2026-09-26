@@ -31,10 +31,16 @@
 {
 "id": "c-2a89aa3a92",
 "source": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)', published 13 March 2025, at 1:34:53",
-"sources": [],
+"sources": [
+{
+"id": "u-mgln-ai-582e3be1",
+"locator": "1:34:53",
+"title": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)' (audio)"
+}
+],
 "text": "On American Alchemy with Jesse Michels, 13 March 2025, at 1:34:53, John Brandenburg said that 'there was a contract between Los Alamos and Battelle Memorial Institute in 1949 and it was around nitinol', that the work was 'declassified by Battelle in the 60s', and asked why Los Alamos had a contract with Battelle in 1949. The board's node dates the corresponding nickel-titanium work to 1948-49 under Wright-Patterson sponsorship. The two accounts name different sponsors for the same alloy in the same period, and no contract record was opened for either.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d7bb70911e",
@@ -42,7 +48,7 @@
 "sources": [],
 "text": "On American Alchemy with Jesse Michels, 5 July 2025 at 0:59:04 and again on 12 July 2025 at 1:00:44, Michels said that after Jacques Vallee found the Pentacle memo in the Blue Book files the memo could not be raised around the Robertson Panel: 'apparently you weren't allowed to mention the pentacle' and 'you were not supposed to bring this memo up'. Both tellings are the same speaker, neither cites a document for the instruction, and both describe Vallee putting it to J. Allen Hynek, who on Michels's account played dumb. The board carries the memo and Howard C. Cross's authorship but not this alleged instruction.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated) was rejected in review: names two episodes; candidate is one"
 },
 {
 "id": "c-29d25292ab",
@@ -50,8 +56,8 @@
 "sources": [
 {
 "id": "cia-rdp81r00560r000100060001-5",
-"locator": "and in the Department of War PURSUE Release 03",
-"title": "CIA-RDP81R00560R000100060001-5"
+"locator": null,
+"title": "Project Blue Book Special Report No. 14"
 }
 ],
 "text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, dated 5 May 1955, was produced for the Air Force by Battelle Memorial Institute.",
@@ -64,7 +70,7 @@
 "sources": [],
 "text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:pentacle-memorandum) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-b88fee934c",
@@ -72,15 +78,21 @@
 "sources": [],
 "text": "Battelle Memorial Institute holds the DOE management-and-operating contract for Pacific Northwest National Laboratory (DEAC0576RL01830), recorded on USAspending with obligations exceeding $30 billion across the life of the contract from 1978.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:usaspending.gov/search) was rejected in review: names two sources; NSF list is not the candidate"
 },
 {
 "id": "c-0b32ad7d7f",
 "source": "USAspending.gov federal award records",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "UT-Battelle LLC holds the Oak Ridge National Laboratory management-and-operating contract DEAC0500OR22725, recorded at approximately $42.3 billion, running from 1999 to 2030.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f0d0356655",
@@ -88,7 +100,7 @@
 "sources": [],
 "text": "Mark Peters moved from executive vice president for laboratory management and operations at Battelle Memorial Institute to president and CEO of MITRE, effective 3 September 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:mitre.org/news-insights/news-release/mark-peters-named-new-mitre-president-a) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-94d91d871f",
@@ -96,7 +108,7 @@
 "sources": [],
 "text": "Researchers including Anthony Bragalia have alleged that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 - the research lineage of nitinol shape-memory metal - are missing from both Air Force and Battelle archives.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:heraldtribune.com/story/news/2009/05/21/memory-metal-files-are-missing/28868) was rejected in review: names newspaper and Bragalia's research; two sources"
 },
 {
 "id": "c-927dced0d4",
@@ -104,31 +116,49 @@
 "sources": [],
 "text": "Battelle's presence at both the 1952-55 analysis of Air Force UFO data and the 2022-24 analysis of AARO's material specimen, plus its supply of MITRE's chief executive, indicates institutional continuity in the custody of anomalous-material analysis across seven decades. Reasoning: the connections are individually documented; the continuity claim is the inference drawn from them.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's synthesis across three separate sources, not one document"
 },
 {
 "id": "c-01b2297036",
 "source": "AARO, Historical Record Report Volume I, March 2024, Project BEAR section",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "Project BEAR section",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "Project BEAR was the contract Capt. Ruppelt created with the Battelle Memorial Institute to provide scientific support to Project GRUDGE; Battelle 'released a report under the cover of ATIC to maintain its anonymity,' completed in late 1954 as Special Report No. 14.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-daf03ad37b",
 "source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-metallic-specimen-analysis",
+"locator": null,
+"title": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen"
+}
+],
 "text": "AARO contracted Oak Ridge National Laboratory, operated by UT-Battelle, in 2022 to conduct materials testing on the magnesium alloy specimen alleged to be from a 1947 crash.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9afdbb258c",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records approximately $91 billion in obligations across Battelle-named recipient entities since FY2008, dominated by UT-Battelle laboratory management.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

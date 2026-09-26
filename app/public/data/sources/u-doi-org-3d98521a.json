@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d416ac046f",
+"locator": null,
+"node": "amir-siraj",
+"nodeLabel": "Amir Siraj",
+"sourceText": "The Astrophysical Journal, DOI 10.3847/1538-4357/ac8eac",
+"text": "Siraj and Loeb published 'A Meteor of Apparent Interstellar Origin in the CNEOS Fireball Catalog' in The Astrophysical Journal in November 2022.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +28,15 @@
 ],
 "node": null,
 "title": "Siraj & Loeb, 'A Meteor of Apparent Interstellar Origin in the CNEOS Fireball Catalog', The Astrophysical Journal",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d416ac046f"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.3847/1538-4357/ac8eac"

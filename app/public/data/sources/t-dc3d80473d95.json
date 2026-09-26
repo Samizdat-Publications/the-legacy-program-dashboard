@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-2e97952b57",
+"locator": null,
+"node": "michels-gerb-structural-episode",
+"nodeLabel": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"sourceText": "Episode description, American Alchemy, 11 January 2026",
+"text": "The episode asserts the effort is a layered, compartmentalized system descended from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - not a single program.",
+"tier": 2
+}
+],
+"date": "2026-01-11",
+"edges": [],
+"era": "3",
+"id": "t-dc3d80473d95",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "American Alchemy",
+"listedOn": [],
+"node": null,
+"title": "Episode description, American Alchemy, 11 January 2026",
+"topics": [
+{
+"claims": [
+"c-2e97952b57"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
+"type": "broadcast",
+"urls": []
+}

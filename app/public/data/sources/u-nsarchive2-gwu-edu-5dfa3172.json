@@ -1,6 +1,67 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-011bc31f13",
+"locator": "contents page and title page",
+"node": "usaf-1127th-field-activities-group",
+"nodeLabel": "1127th USAF Field Activities Group",
+"sourceText": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, contents page and title page",
+"text": "The unit's own semiannual history, 'HISTORY / 1127 USAF FIELD ACTIVITIES GROUP (AFNIA) / 1 January - 30 June 1967', document number AFNIABA 014-67, lists under FOREIGN MATERIEL PROGRAM: 'Project BLUE FLY' (p.29), 'MIG-17 Exploitation' (p.29) and 'Project MOON DUST' (p.30). It was classified SECRET and bears the struck-through markings 'RODCA MATERIAL / SPECIAL ACCESS REQUIRED / NO FOREIGN DISSEMINATION'.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-72a327a886",
+"locator": "p.29",
+"node": "usaf-1127th-field-activities-group",
+"nodeLabel": "1127th USAF Field Activities Group",
+"sourceText": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29",
+"text": "The same page records that in February 1967 'the Joint Chiefs of Staff approved a one-year extension of the authority granted the USAF to apply Force/Activity Designator I (F/AD-I) priority to short-notice BLUE FLY airlift contingencies.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-88aca962dc",
+"locator": "p.29, Project BLUE FLY",
+"node": "usaf-1127th-field-activities-group",
+"nodeLabel": "1127th USAF Field Activities Group",
+"sourceText": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.29, Project BLUE FLY",
+"text": "Page 29 records that after the 7 April 1967 air battle, three MIG-21s that crashed in Jordan were exploited by 'personnel of Detachment 3, FTD', and that the Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ebb95d67d6",
+"locator": "p.30, Project MOON DUST",
+"node": "usaf-1127th-field-activities-group",
+"nodeLabel": "1127th USAF Field Activities Group",
+"sourceText": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, p.30, Project MOON DUST",
+"text": "Page 30 records that 'The 1st Aerospace Control Squadron (SPADATS), Ent AFB, Colorado, notified AFNIAA of the deorbit of 37 Soviet space objects consisting of rocket bodies, payloads, and space platforms.' A redaction follows; the accompanying US figure is illegible in the scan at 340 dpi and is not reported.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-39a636610d",
+"locator": "contents page",
+"node": "operation-blue-fly",
+"nodeLabel": "Operation BLUE FLY",
+"sourceText": "History, 1127 USAF Field Activities Group, 1 January - 30 June 1967, contents page",
+"text": "BLUE FLY and MOON DUST are listed together under FOREIGN MATERIEL PROGRAM on the contents page of the same unit history, alongside 'MIG-17 Exploitation' -- establishing the relationship as an organisational fact stated by the unit that ran both.",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-dfda26942d",
+"locator": "p.29",
+"node": "operation-blue-fly",
+"nodeLabel": "Operation BLUE FLY",
+"sourceText": "History, 1127 USAF Field Activities Group (AFNIA), 1 January - 30 June 1967, doc. AFNIABA 014-67, p.29",
+"text": "The Wright-Patterson custody terminus is documented by the operating unit, not inferred. The 1127th USAF Field Activities Group's own semiannual history for 1 January to 30 June 1967 records under Project BLUE FLY that its Staff Operations Branch 'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB', and that the Joint Chiefs approved F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -74,7 +135,20 @@
 ],
 "node": null,
 "title": "History, 1127 USAF Field Activities Group, 1 Jan - 30 Jun 1967, doc. AFNIABA 014-67",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-011bc31f13",
+"c-72a327a886",
+"c-88aca962dc",
+"c-ebb95d67d6",
+"c-39a636610d",
+"c-dfda26942d"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
 "type": "document",
 "urls": [
 "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB520-the-Pentagons-Spies/EBB-PS03a.pdf"

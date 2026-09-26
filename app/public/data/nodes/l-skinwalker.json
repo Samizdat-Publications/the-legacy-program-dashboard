@@ -7,18 +7,30 @@
 {
 "id": "c-67f4fe3c36",
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.23",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "'AAWSAP/AATIP also investigated an alleged hotspot of UAP and paranormal activity at a property in Utah — which at that time was owned by the head of the private sector organization.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3f7a7dcc16",
 "source": "BAASS Ten Month Report (2009)",
-"sources": [],
+"sources": [
+{
+"id": "n-baass-ten-month-report",
+"locator": null,
+"title": "BAASS Ten Month Report (2009)"
+}
+],
 "text": "The BAASS Ten Month Report describes the Utah property as operating under 24/7 surveillance with rapid-response patrols as part of the DIA-funded effort.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-94f3c4edf1",
@@ -26,7 +38,7 @@
 "sources": [],
 "text": "DIA could locate no records matching the report 'Utah Ranch Investigation: August 2009-February 2010'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html) was rejected in review: no outlet named; cannot tell which report"
 },
 {
 "id": "c-ffaffe998c",
@@ -42,7 +54,7 @@
 "sources": [],
 "text": "The property is a 480-acre parcel in Uintah County, Utah, purchased by Bigelow in 1996 from Terry and Gwen Sherman, who as a condition of sale agreed to keep quiet about what they had witnessed.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:deseret.com/1998/8/10/19395824/private-ufo-study-takes-a-public-turn) was rejected in review: names two sources; county property records are not the candidate"
 },
 {
 "id": "c-fafed52295",
@@ -50,39 +62,63 @@
 "sources": [],
 "text": "Bigelow moved in a research team and surveillance equipment immediately after the purchase and retained the ranch after closing NIDS in 2004.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Compound citation across three distinct articles (two Deseret News dates, one New Yorker piece); cannot reduce to one source without guessin"
 },
 {
 "id": "c-31357c5dc3",
 "source": "Wikipedia, Skinwalker Ranch, citing property and press records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-54f89c6e",
+"locator": "acreage, sale prices, Fugal purchase",
+"title": "Wikipedia - Skinwalker Ranch"
+}
+],
 "text": "The ranch is approximately 512 acres in Uintah County, Utah; Bigelow purchased it for $200,000 in 1996 and sold it for approximately $500,000 in 2016 to Brandon Fugal, who announced ownership in March 2020 via Adamantium Real Estate LLC.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e0c130514e",
 "source": "Wikipedia, Skinwalker Ranch, citing Reid's and Lacatski's accounts",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-54f89c6e",
+"locator": "Lacatski/Bigelow/Reid chain",
+"title": "Wikipedia - Skinwalker Ranch"
+}
+],
 "text": "DIA official James Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker' and reported an experience at the ranch; Bigelow relayed this to Sen. Harry Reid, and Reid and Sen. Ted Stevens subsequently secured approximately $22 million in Defense appropriations to study unidentified aerial phenomena.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d85b2e59e5",
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-68b6ff59",
+"locator": null,
+"title": "George Knapp written testimony (PDF)"
+}
+],
 "text": "BAASS recruited about 50 full-time investigators with top secret clearances, operated for 27 months, generated more than three dozen preliminary reports and over 100 detailed research papers, and built a data warehouse of over 240,000 UFO case files designed by Jacques Vallee that reportedly remains in use by US agencies; most of the research papers remain unreleased by DIA.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e5b822008a",
 "source": "Wikipedia, Skinwalker Ranch",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-54f89c6e",
+"locator": null,
+"title": "Wikipedia - Skinwalker Ranch"
+}
+],
 "text": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents at the ranch but acknowledged difficulty obtaining evidence consistent with scientific publication.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

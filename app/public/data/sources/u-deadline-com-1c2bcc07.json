@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-95afef1bbe",
+"locator": null,
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"sourceText": "Deadline, HarperCollins Acquires Rights To Bombshell Memoir From Jay Stratton, September 2024",
+"text": "HarperCollins imprint William Morrow acquired the memoir rights of the former director of the UAP Task Force in September 2024.",
+"tier": 1
+}
+],
 "date": "2024-09",
 "edges": [
 {

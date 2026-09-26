@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-b880da0bb1",
-"locator": "sec. 6603",
+"locator": null,
 "node": "usc-50-3091a",
 "nodeLabel": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "sourceText": "50 U.S.C. 3091a(b)(2) as added by Pub. L. 118-159 sec. 6603",
@@ -14,7 +14,7 @@
 {
 "cls": "document",
 "id": "c-7892db4a39",
-"locator": "and P.L. 119-60, GPO",
+"locator": null,
 "node": "controlled-disclosure-campaign-plan",
 "nodeLabel": "Controlled Disclosure Campaign Plan",
 "sourceText": "Full-text search of P.L. 118-31, P.L. 118-159 and P.L. 119-60, GPO",
@@ -34,7 +34,7 @@
 {
 "cls": "legislation",
 "id": "c-215857bccb",
-"locator": "and P.L. 119-60, GPO",
+"locator": null,
 "node": "ndaa-fy2024-1687",
 "nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "sourceText": "Full-text search of P.L. 118-159 and P.L. 119-60, GPO",
@@ -44,7 +44,7 @@
 {
 "cls": "legislation",
 "id": "c-aa14e27cf2",
-"locator": "sec. 6802, 138 Stat. 2521",
+"locator": null,
 "node": "ndaa-fy2025",
 "nodeLabel": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "sourceText": "PL 118-159 sec. 6802, 138 Stat. 2521",
@@ -54,7 +54,7 @@
 {
 "cls": "legislation",
 "id": "c-b4f728733f",
-"locator": "sec. 6801, 138 Stat. 2520-2521",
+"locator": null,
 "node": "ndaa-fy2025",
 "nodeLabel": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "sourceText": "PL 118-159 sec. 6801, 138 Stat. 2520-2521",
@@ -64,7 +64,7 @@
 {
 "cls": "legislation",
 "id": "c-fb094d2698",
-"locator": "enactment line",
+"locator": null,
 "node": "ndaa-fy2025",
 "nodeLabel": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "sourceText": "PLAW-118publ159 enactment line",
@@ -74,7 +74,7 @@
 {
 "cls": "legislation",
 "id": "c-283d68a12b",
-"locator": "and P.L. 119-60, GPO",
+"locator": null,
 "node": "ndaa-fy2026",
 "nodeLabel": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceText": "Full-text search of P.L. 118-159 and P.L. 119-60, GPO",
@@ -104,7 +104,7 @@
 {
 "cls": "legislation",
 "id": "c-3f83aac1aa",
-"locator": "secs. 6801-6802",
+"locator": null,
 "node": "iaa-fy2025-title-lxviii",
 "nodeLabel": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "sourceText": "PLAW-118publ159 secs. 6801-6802",
@@ -114,7 +114,7 @@
 {
 "cls": "legislation",
 "id": "c-c2de1f4e86",
-"locator": "sec. 6802",
+"locator": null,
 "node": "iaa-fy2025-title-lxviii",
 "nodeLabel": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "sourceText": "PLAW-118publ159 sec. 6802",
@@ -124,7 +124,7 @@
 {
 "cls": "legislation",
 "id": "c-efe767b365",
-"locator": "sec. 6802",
+"locator": null,
 "node": "iaa-2023",
 "nodeLabel": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803",
 "sourceText": "PL 117-263 Div. F sec. 6803, 136 Stat. 3594; PL 118-159 sec. 6802",
@@ -204,7 +204,7 @@
 {
 "cls": "document",
 "id": "c-979256098b",
-"locator": "and P.L. 119-60, GPO",
+"locator": null,
 "node": "uapda-sec-9010-eminent-domain",
 "nodeLabel": "Section 9010(a) - Exercise of Eminent Domain",
 "sourceText": "Full-text search of P.L. 118-31, P.L. 118-159 and P.L. 119-60, GPO",
@@ -224,7 +224,7 @@
 {
 "cls": "legislation",
 "id": "c-e663ecf4dc",
-"locator": "full text, GPO",
+"locator": null,
 "node": "uapda-2024-samdt-2610",
 "nodeLabel": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "sourceText": "P.L. 118-159 full text, GPO",
@@ -232,7 +232,7 @@
 "tier": 1
 }
 ],
-"date": "2024",
+"date": null,
 "edges": [
 {
 "a": {
@@ -490,7 +490,7 @@
 "type": "denial"
 }
 ],
-"era": "3",
+"era": "nd",
 "id": "pl-118-159",
 "identifiers": [
 "Public Law 118-159"
@@ -566,10 +566,10 @@
 ],
 "node": {
 "cls": "legislation",
-"id": "iaa-fy2025-title-lxviii",
-"label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+"id": "ndaa-fy2025",
+"label": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
 },
-"title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "topics": [
 {
 "claims": [

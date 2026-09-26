@@ -90,7 +90,7 @@
 {
 "id": "dtic-ada326148",
 "locator": null,
-"title": "DTIC ADA326148"
+"title": "The Roswell Reports (USAF, 1994-1997)"
 }
 ],
 "text": "The US Air Force's own 1995 Roswell report states: 'In 1978, a UFO researcher, Stanton Friedman, met with Marcel and began investigating the claims that the material Marcel handled was from a crashed UFO.' The board's account of Friedman as the first civilian investigator to reach Marcel is therefore attested by the Air Force, not only by Friedman.",
@@ -104,7 +104,7 @@
 {
 "id": "dtic-ada326148",
 "locator": null,
-"title": "DTIC ADA326148"
+"title": "The Roswell Reports (USAF, 1994-1997)"
 }
 ],
 "text": "The same report lists 'Crash at Corona (1992) by Stanton T. Friedman and Don Berliner' among the major works its records search reviewed, placing Friedman's authorship in the Air Force's own bibliography of the case.",
@@ -159,7 +159,7 @@
 "sources": [],
 "text": "Friedman held nuclear-physics positions at General Electric, Aerojet General Nucleonics, General Motors, Westinghouse, TRW Systems and McDonnell Douglas working on classified nuclear aircraft, fission and fusion rockets and compact space nuclear power.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:en.wikipedia.org/wiki/Stanton_T._Friedman) was rejected in review: string does not name whose Wikipedia biography"
 },
 {
 "id": "c-80f8ebc369",
@@ -167,7 +167,7 @@
 "sources": [],
 "text": "Friedman was the first civilian to interview Maj. Jesse Marcel Sr. about the Roswell debris, in February 1978, and the first to document the site.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Vague 'his books and the standard Roswell literature'; no specific document named."
 },
 {
 "id": "c-fa027c84d8",
@@ -175,7 +175,7 @@
 "sources": [],
 "text": "Friedman demonstrated that a purported 17 February 1948 Hillenkoetter memo to Truman was an emulation of a Marshall-to-Roosevelt letter published in 'The American MAGIC' - i.e. he proved part of the MJ-12 corpus fraudulent while defending the rest.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/details/topsecretmajic0000frie) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-0b511dc817",
@@ -183,7 +183,7 @@
 "sources": [],
 "text": "Philip J. Klass offered Friedman $100 per legitimate example of the Pica typeface used in the Cutler-Twining memo; Friedman produced fourteen and was paid $1,000.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:en.wikipedia.org/wiki/Stanton_T._Friedman) was rejected in review: names two sources; correspondence is not the candidate"
 }
 ],
 "cls": "person",
@@ -483,7 +483,7 @@
 "status": "dead",
 "sub": "Nuclear physicist; first civilian Roswell investigator; MJ-12 researcher",
 "tier": "A",
-"tierRationale": "Re-graded A on a global pass (rank 147 of 1138, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded A on a global pass (rank 146 of 1138, score 53). 5 connections, 0 of them custody/funding/programmatic, 3 official denials recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

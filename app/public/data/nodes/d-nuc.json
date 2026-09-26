@@ -18,9 +18,9 @@
 "source": "NMCC Memorandum for Record and DDO updates, 29 to 30 October 1975, http://www.nicap.org/reports/751027loring_1-6.htm , opened 2026-09-19",
 "sources": [
 {
-"id": "u-nicap-org-93d7f00d",
+"id": "n-doc-nmcc-loring-1975",
 "locator": null,
-"title": "National Military Command Center, Memorandum for Record, 'AFB Penetration', 29 October 1975, 0605 EST, signed C. D. Roberts, Jr., Brigadier General, USMC, Deputy Director for Operations, with four DDO updates citing 42 BW CP LORING AFB 291140Z OCT 75; reproduced by NICAP. Opened 19 September 2026"
+"title": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975"
 }
 ],
 "text": "THE 1975 SEQUENCE IS A NUCLEAR SECURITY RECORD BEFORE IT IS A UFO RECORD, AND THE DOCUMENTS SAY SO IN THEIR OWN WORDS. The National Military Command Center's subject line is 'AFB Penetration'. The Loring traffic says 'unidentified helicopter' throughout and never says UFO. The reporting runs to the Joint Staff, the service chiefs, the DIA, NSA and CIA representatives, the Army Staff Director of Operations and the State Department's Canadian desk. That is what gives this domain its weight: the correlation is visible in operational paper produced by people who were not thinking about the subject this board is about.",
@@ -32,9 +32,9 @@
 "source": "341st SMW history, Jul-Sep 1967, pp 50-53, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "sources": [
 {
-"id": "u-documents-theblackvault--8e6b0d44",
+"id": "n-doc-341-smw-history-1967",
 "locator": null,
-"title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+"title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
 }
 ],
 "text": "The dual-use complication this domain already records is visible inside the Malmstrom material itself. After the Echo Flight shutdown the Air Force ran electromagnetic pulse test programmes at F. E. Warren AFB on Delta Flight and at the 564th Strategic Missile Squadron, and turned Sierra 39 over to Boeing for EMP testing from 28 September 1967 to about mid-January 1968. The same installations that generate the sighting reports are the installations where the most exotic electromagnetic testing was being done, and the board should hold both facts at once.",
@@ -47,23 +47,35 @@
 "sources": [],
 "text": "Hancock, Porritt and Grosvenor's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' was published via SCU in July 2023 and in the journal Limina in March 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:doi.org/10.59661/001c.131854) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-ba52319483",
 "source": "Scientific Reports, doi:10.1038/s41598-025-21620-3",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-villarroel-bruehl-2025",
+"locator": null,
+"title": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports"
+}
+],
 "text": "Bruehl and Villarroel (Scientific Reports, 20 October 2025) report that POSS-I transients may be associated with nuclear testing and with UAP reports.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-831f19c872",
 "source": "CNN coverage, National Press Club, 27 September 2010",
-"sources": [],
+"sources": [
+{
+"id": "u-archive-org-954e5938",
+"locator": null,
+"title": "CNN coverage, National Press Club, 27 September 2010"
+}
+],
 "text": "Robert Salas and other former missile officers stated publicly at a National Press Club event on 27 September 2010 that UFOs were observed in connection with nuclear missile disruptions.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6592635ded",
@@ -72,7 +84,7 @@
 {
 "id": "foia-97-f-1677",
 "locator": "via The Black Vault",
-"title": "FOIA case 97-F-1677"
+"title": "Unexplained Lights, (FOIA case 97-F-1677)"
 }
 ],
 "text": "DoD FOIA case 97-F-1677 released records on unidentified flying objects over Malmstrom AFB in November 1975.",

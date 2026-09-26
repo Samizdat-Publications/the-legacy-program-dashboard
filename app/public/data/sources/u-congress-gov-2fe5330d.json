@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-b4da580860",
+"locator": null,
+"node": "roger-wicker",
+"nodeLabel": "Roger F. Wicker",
+"sourceText": "Congress.gov bill actions and amendment record, S. 1071, 119th Congress",
+"text": "The FY2026 NDAA, S. 1071, was disposed of with 17 amendments total, of which the only Senate floor amendment proposed was SA 3961 by Senator Thune 'to improve the bill' on 11 December 2025.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

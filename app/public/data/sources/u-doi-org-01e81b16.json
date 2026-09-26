@@ -1,6 +1,37 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-f8886fc57e",
+"locator": null,
+"node": "paper-knuth-powell-reali-2019",
+"nodeLabel": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
+"sourceText": "Proceedings, DOI 10.3390/proceedings2019033026",
+"text": "A companion paper, 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter', appeared in the proceedings of the 39th International Workshop on Bayesian Inference and Maximum Entropy Methods in December 2019.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-d26eacdcef",
+"locator": null,
+"node": "d-aviators",
+"nodeLabel": "Military Aviators & Operators",
+"sourceText": "Proceedings 2019, doi:10.3390/proceedings2019033026",
+"text": "Knuth, Powell and Reali published an estimate of the flight characteristics of the 2004 Nimitz object in the MaxEnt 2019 proceedings.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-15226ec411",
+"locator": null,
+"node": "d-prop",
+"nodeLabel": "Propulsion & Field Physics",
+"sourceText": "Proceedings 2019, 33(1):26, doi:10.3390/proceedings2019033026",
+"text": "Knuth, Powell and Reali published 'Estimating Flight Characteristics of Anomalous Unidentified Aerial Vehicles in the 2004 Nimitz Encounter' in the MaxEnt 2019 proceedings.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -27,7 +58,22 @@
 ],
 "node": null,
 "title": "Knuth, Powell & Reali, MaxEnt 2019 Proceedings",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-f8886fc57e"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+},
+{
+"claims": [
+"c-d26eacdcef"
+],
+"id": "aviation-cases",
+"title": "Pilot encounters: JAL 1628, Tehran 1976 and other aviation cases"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.3390/proceedings2019033026"

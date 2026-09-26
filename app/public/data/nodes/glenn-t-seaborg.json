@@ -14,12 +14,12 @@
 {
 "id": "cia-rdp85b00803r000200050003-5",
 "locator": "declassified in part 8 July 2013",
-"title": "CIA-RDP85B00803R000200050003-5"
+"title": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5"
 },
 {
 "id": "cia-rdp85b00803r000200050003-5",
 "locator": null,
-"title": "CIA-RDP85B00803R000200050003-5"
+"title": "CIA Historical Staff Chronology 1946-65, Volume II 1956-65, CIA-RDP85B00803R000200050003-5"
 }
 ],
 "text": "The CIA's own declassified chronology dates the appointment and its confirmation: '16 JAN. Dr. Glenn T. Seaborg named AEC chairman, succeeding John A. McCone (confirmed by Senate 24 Feb).' The entry sits under the volume's period heading for January 1961.",
@@ -33,12 +33,12 @@
 {
 "id": "cia-rdp80b01676r002800020014-7",
 "locator": "20 March 1963",
-"title": "CIA-RDP80B01676R002800020014-7"
+"title": "Letter to John A. McCone from Glenn T. Seaborg, CIA-RDP80B01676R002800020014-7"
 },
 {
 "id": "cia-rdp80b01676r002800020014-7",
 "locator": null,
-"title": "CIA-RDP80B01676R002800020014-7"
+"title": "Letter to John A. McCone from Glenn T. Seaborg, CIA-RDP80B01676R002800020014-7"
 }
 ],
 "text": "He is in the office on Commission letterhead in 1963, writing to the man he succeeded at the AEC, now at CIA: 'It is with pleasure that I forward to you a copy of the Commission's Annual Report to Congress for 1962', signed 'Glenn T. Seaborg, Chairman', addressed to 'Honorable John A. McCone, Director, Central Intelligence Agency'.",
@@ -52,12 +52,12 @@
 {
 "id": "cia-rdp80b01676r002800020014-7",
 "locator": "20 March 1963",
-"title": "CIA-RDP80B01676R002800020014-7"
+"title": "Letter to John A. McCone from Glenn T. Seaborg, CIA-RDP80B01676R002800020014-7"
 },
 {
 "id": "cia-rdp80b01676r002800020014-7",
 "locator": null,
-"title": "CIA-RDP80B01676R002800020014-7"
+"title": "Letter to John A. McCone from Glenn T. Seaborg, CIA-RDP80B01676R002800020014-7"
 }
 ],
 "text": "The same letter points the Director of Central Intelligence at the report's fallout material: 'In connection with the Military Applications section, you may find Appendix 15--Environmental Contamination from Nuclear Explosives--of interest, since it concerns fallout data obtained from recent nuclear detonations.'",
@@ -71,12 +71,12 @@
 {
 "id": "cia-rdp80b01676r000700150004-7",
 "locator": "25 October 1961",
-"title": "CIA-RDP80B01676R000700150004-7"
+"title": "Letter to Glenn T. Seaborg from Allen W. Dulles, CIA-RDP80B01676R000700150004-7"
 },
 {
 "id": "cia-rdp80b01676r000700150004-7",
 "locator": null,
-"title": "CIA-RDP80B01676R000700150004-7"
+"title": "Letter to Glenn T. Seaborg from Allen W. Dulles, CIA-RDP80B01676R000700150004-7"
 }
 ],
 "text": "A second, earlier instance of the office runs the other way. On 25 October 1961 the Director of Central Intelligence wrote to 'The Honorable Glenn T. Seaborg, Chairman, Atomic Energy Commission', thanking him for his impressions of a conference in Vienna and saying 'I am showing your good report to a few of our interested people.' It is signed 'Allen W. Dulles, Director'.",
@@ -86,10 +86,16 @@
 {
 "id": "c-a68dc94863",
 "source": "Danny Jones Podcast #181, 'Explosive New Bob Lazar Evidence & Area 51 Secrets Revealed', 16 April 2023, at 3:24 to 4:16",
-"sources": [],
+"sources": [
+{
+"id": "t-5b58f7bc5a6f",
+"locator": null,
+"title": "Danny Jones Podcast, ep. 181, 16 April 2023, 1:15:27, mapped at research/leads/dannyjones-corpus-28.md"
+}
+],
 "text": "On the Danny Jones Podcast #181, 16 April 2023, at 3:24, Jeremy Rys cited Seaborg's island-of-stability prediction for superheavy elements against the claim that Bob Lazar predicted element 115. The publication he names was not opened for this node, and the lead map for that episode gives its date inconsistently as May 1969 in one row and May 1989 in another. Nothing here resolves it.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

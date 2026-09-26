@@ -7,10 +7,16 @@
 {
 "id": "c-10e37e7125",
 "source": "Wikipedia, SRI International — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-bb1ba4fa",
+"locator": null,
+"title": "Wikipedia - SRI International"
+}
+],
 "text": "SRI International was founded by Stanford University trustees in 1946 and formally separated from the university in 1970 following protest over its defence contracting.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-700f4f876b",

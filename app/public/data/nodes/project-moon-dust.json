@@ -7,10 +7,16 @@
 {
 "id": "c-11090d2b01",
 "source": "The Black Vault, Project Moon Dust document archive, 4 Mar 2015",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-4094a699",
+"locator": "4 March 2015",
+"title": "Project Moon Dust document archive (Department of State releases; one file declassified by CIA)"
+}
+],
 "text": "Department of State records on Project MOON DUST have been released under FOIA, including a 22-page file and a two-page file declassified by the Central Intelligence Agency.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3fea956d6f",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "MOON DUST is officially described as an operation to recover objects and debris from space vehicles that survived re-entry.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/project-moon-dust) was rejected in review: names State Department releases, not The Black Vault archive"
 },
 {
 "id": "c-f9f90389bf",
@@ -34,7 +40,7 @@
 "sources": [],
 "text": "The figures commonly quoted as MOON DUST recoveries are notifications of deorbit received, not objects recovered. The 1127th's own history records that SPADATS 'notified AFNIAA of the deorbit of 37 Soviet space objects' in the first half of 1967, and the companion history of the Assistant Chief of Staff, Intelligence records 'notifications of the deorbit of 49 Soviet space objects (rocket bodies, payloads, and space platforms), and of 17 US space objects considered to be of special importance' in the second half. Deorbit notification is the tasking trigger; recovery is a separate act neither document counts.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Names two distinct half-year history volumes jointly; no single match."
 }
 ],
 "cls": "program",

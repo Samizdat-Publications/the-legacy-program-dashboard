@@ -8,18 +8,30 @@
 {
 "id": "c-c1cd2658cc",
 "source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-mitre-org-d0073f69",
+"locator": null,
+"title": "MITRE Corporation - official site"
+}
+],
 "text": "MITRE operates six FFRDCs across defence and intelligence, aviation, civil systems, homeland security, health and cybersecurity, and describes itself as providing long-term strategic partnership and stability to government sponsors.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ae2ef33171",
 "source": "UAP Gerb, MITRE investigation, 7 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "n-gerb-mitre-investigation",
+"locator": null,
+"title": "UAP Gerb - The MITRE Corporation investigation"
+}
+],
 "text": "FFRDCs allow the government to technically vest programs outside the USG while retaining strict control over materials, breakthroughs, data and programs, and arbitrate what defense contractors are told about UFO programs.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a9f451e724",
@@ -27,7 +39,7 @@
 "sources": [],
 "text": "Ross Coulthart devoted a dedicated segment of his 4 August 2026 Reality Check episode to 'FFRDCs, U-Arcs, and GOCOs' as the vehicle of the legacy program.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:newsnationnow.com/podcasts-newsnation/reality-check) was rejected in review: show index page, not the 4 August 2026 episode"
 },
 {
 "id": "c-ce95192bff",

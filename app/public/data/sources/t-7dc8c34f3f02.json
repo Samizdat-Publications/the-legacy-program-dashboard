@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "document",
+"id": "c-362a326610",
+"locator": null,
+"node": "luna-hegseth-video-letter-2026",
+"nodeLabel": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
+"sourceText": "NewsNation, 17 April 2026",
+"text": "The Pentagon missed the video deadline in mid-April 2026 and Luna publicly raised a subpoena.",
+"tier": 2
+}
+],
+"date": "2026-04-17",
+"edges": [],
+"era": "3",
+"id": "t-7dc8c34f3f02",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "NewsNation",
+"listedOn": [],
+"node": null,
+"title": "NewsNation, 17 April 2026",
+"topics": [
+{
+"claims": [
+"c-362a326610"
+],
+"id": "task-force-2025",
+"title": "The House Task Force on declassification and the September 2025 hearing"
+}
+],
+"type": "article",
+"urls": []
+}

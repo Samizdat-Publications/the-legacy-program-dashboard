@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-6e053ec256",
+"locator": null,
+"node": "shag-harbour-1967",
+"nodeLabel": "Shag Harbour incident, 4 October 1967",
+"sourceText": "The Chronicle-Herald, Halifax, 7 and 9 October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The Chronicle-Herald of 7 October 1967 published Ray MacLeod's front-page story quoting Squadron Leader Bain of the RCAF Air Desk saying the Shag Harbour incident 'is one of the few where we may get something concrete on it'; the 9 October follow-up reported the Navy found 'not a trace... not a clue... not a bit of anything.'",
+"tier": 2
+}
+],
+"date": "1967-10-07",
+"edges": [],
+"era": "0",
+"id": "t-9ff0c9b16861",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "The Chronicle-Herald",
+"listedOn": [],
+"node": null,
+"title": "The Chronicle-Herald, Halifax, 7 and 9 October 1967",
+"topics": [
+{
+"claims": [
+"c-6e053ec256"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
+"type": "article",
+"urls": []
+}

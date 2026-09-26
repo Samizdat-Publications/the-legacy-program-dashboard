@@ -1,6 +1,57 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-6fa2e3cce0",
+"locator": null,
+"node": "caus-v-nsa",
+"nodeLabel": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
+"sourceText": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency",
+"text": "The D.C. Circuit affirmed on 3 November 1981; certiorari was denied on 8 March 1982.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-3869c21a7d",
+"locator": null,
+"node": "eugene-yeates",
+"nodeLabel": "Eugene F. Yeates",
+"sourceText": "CourtListener, Citizens Against UFO Secrecy v. National Security Agency (D.C. Cir. 1981; cert. denied 1982)",
+"text": "The D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-da01ac4f5c",
+"locator": "cert. denied 8 March 1982",
+"node": "d-foia",
+"nodeLabel": "Freedom of Information Practice",
+"sourceText": "CAUS v. NSA, D.C. Circuit (CourtListener); cert. denied 8 March 1982",
+"text": "In Citizens Against UFO Secrecy v. National Security Agency the D.C. Circuit upheld NSA's withholding of UFO-related records; certiorari was denied in 1982.",
+"tier": 1
+},
+{
+"cls": "domain",
+"id": "c-b2e909b80b",
+"locator": null,
+"node": "d-litigation",
+"nodeLabel": "Litigation",
+"sourceText": "CourtListener, CAUS v. NSA",
+"text": "Citizens Against UFO Secrecy v. NSA was decided by the D.C. Circuit in November 1981; the Supreme Court denied certiorari on 8 March 1982.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-bedcf53744",
+"locator": "cert. denied 1982",
+"node": "nsa",
+"nodeLabel": "National Security Agency",
+"sourceText": "CAUS v. NSA, D.C. Circuit (1981); cert. denied (1982)",
+"text": "In Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562), NSA withheld its UFO-related holdings in full and supported the withholding with an in camera affidavit by Eugene F. Yeates, Chief of NSA's Office of Policy; the D.C. Circuit affirmed in 1981 and the Supreme Court denied certiorari in 1982.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -194,7 +245,24 @@
 ],
 "node": null,
 "title": "Citizens Against UFO Secrecy v. National Security Agency, U.S. Court of Appeals for the D.C. Circuit (CourtListener)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-6fa2e3cce0",
+"c-da01ac4f5c",
+"c-bedcf53744"
+],
+"id": "foia-litigation",
+"title": "FOIA requests and UFO lawsuits"
+},
+{
+"claims": [
+"c-bedcf53744"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.courtlistener.com/opinion/400210/citizens-against-ufo-secrecy-v-nation-security-age/"

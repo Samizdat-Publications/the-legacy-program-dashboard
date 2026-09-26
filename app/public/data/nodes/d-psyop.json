@@ -16,26 +16,44 @@
 {
 "id": "c-ee72aa1431",
 "source": "Robertson Panel report, declassified text",
-"sources": [],
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "declassified text",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The Robertson Panel (January 1953) recommended a programme of public 'training and debunking' using mass media, and that civilian UFO groups be watched.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-34fd57cdb1",
 "source": "The Black Vault, Richard Doty Personnel File - New Mexico State Police",
-"sources": [],
+"sources": [
+{
+"id": "n-doty-personnel-file",
+"locator": null,
+"title": "Richard Doty New Mexico State Police Personnel File [321 pages]"
+}
+],
 "text": "Richard C. Doty's New Mexico State Police personnel file, 321 pages, was released under public records request and is publicly archived.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b058ea0ac4",
 "source": "Named-source reporting summarised at Garber Files, 'From Mirage Men to Military Deception'",
-"sources": [],
+"sources": [
+{
+"id": "u-garberfiles-substack-com-817d5614",
+"locator": null,
+"title": "Garber Files - From Mirage Men to Military Deception"
+}
+],
 "text": "Air Force OSI personnel supplied Paul Bennewitz with fabricated documents concerning alien activity in the early 1980s; the episode is the documented core of the 'Mirage Men' account of UFO-adjacent counterintelligence deception.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

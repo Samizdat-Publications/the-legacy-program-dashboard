@@ -30,18 +30,30 @@
 {
 "id": "c-d458986254",
 "source": "Scientific Reports, DOI 10.1038/s41598-025-21620-3",
-"sources": [],
+"sources": [
+{
+"id": "n-paper-villarroel-bruehl-2025",
+"locator": null,
+"title": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports"
+}
+],
 "text": "Bruehl is lead author, with Beatriz Villarroel, of 'Transients in the Palomar Observatory Sky Survey (POSS-I) may be associated with nuclear testing and reports of unidentified anomalous phenomena', Scientific Reports, 20 October 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-49fb5f331d",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.16650011",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-a673d689",
+"locator": null,
+"title": "Bruehl, 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-', SCU (Zenodo)"
+}
+],
 "text": "Bruehl published 'Cluster Analysis of Features Associated with Unidentified Anomalous Phenomena Described in 216 Select Reports from 1947-' through SCU on 31 July 2025.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

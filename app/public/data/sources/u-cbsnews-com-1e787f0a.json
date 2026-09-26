@@ -10,6 +10,16 @@
 "sourceText": "https://www.cbsnews.com/news/navy-ufo-sighting-60-minutes-2021-05-16/ , 2021-05-16",
 "text": "CBS News, 60 Minutes, correspondent Bill Whitaker, published 16 May 2021, states that Dietrich, a former F/A-18F pilot, 'has never before spoken publicly about what she saw that day'. The same report quotes her: 'It was unidentified. And that's why it was so unsettling to us. Because we weren't expecting it. We couldn't classify it'; 'No predictable movement, no predictable trajectory'; and 'I felt the vulnerability of not having anything to defend ourselves. And then I felt confused when it disappeared.' This dates the start of her public record to 16 May 2021 on the network's own assertion.",
 "tier": 1
+},
+{
+"cls": "person",
+"id": "c-d69eb0a20e",
+"locator": null,
+"node": "ryan-graves",
+"nodeLabel": "Ryan Graves",
+"sourceText": "Ryan Graves, CBS 60 Minutes, 16 May 2021",
+"text": "Sightings occurred 'Every day. Every day for at least a couple years.'",
+"tier": 2
 }
 ],
 "date": null,
@@ -35,6 +45,13 @@
 ],
 "id": "nimitz-2004",
 "title": "USS Nimitz, November 2004"
+},
+{
+"claims": [
+"c-d69eb0a20e"
+],
+"id": "roosevelt-2014-15",
+"title": "USS Theodore Roosevelt, 2014-15"
 }
 ],
 "type": "article",

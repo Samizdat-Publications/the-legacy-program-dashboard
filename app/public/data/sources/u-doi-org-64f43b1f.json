@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "program",
+"id": "c-c92cda2c16",
+"locator": null,
+"node": "galileo-project",
+"nodeLabel": "The Galileo Project",
+"sourceText": "JAI, DOI 10.1142/S2251171723400032",
+"text": "Loeb and Laukien published 'Overview of the Galileo Project' in the Journal of Astronomical Instrumentation on 13 February 2023.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -40,7 +51,15 @@
 ],
 "node": null,
 "title": "Loeb & Laukien, 'Overview of the Galileo Project', Journal of Astronomical Instrumentation",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-c92cda2c16"
+],
+"id": "astronomers-searches",
+"title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+}
+],
 "type": "web page",
 "urls": [
 "https://doi.org/10.1142/S2251171723400032"

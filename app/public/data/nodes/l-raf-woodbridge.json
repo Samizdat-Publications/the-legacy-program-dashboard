@@ -10,15 +10,21 @@
 "sources": [],
 "text": "The December 1980 events occurred just outside RAF Woodbridge, then used by the United States Air Force, and were reported up the chain by the deputy base commander, Lt Col Charles I. Halt.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:halt-memo) was rejected in review: names two sources; Black Vault statement is not the candidate"
 },
 {
 "id": "c-d760d034ef",
 "source": "David Clarke, 40th-anniversary account, 26 Dec 2020",
-"sources": [],
+"sources": [
+{
+"id": "u-drdavidclarke-co-uk-6fc0adb8",
+"locator": null,
+"title": "David Clarke, 'Rendlesham UFOs 40th anniversary: the man from the ministry speaks for the first time'"
+}
+],
 "text": "Forty years later the UK Ministry of Defence desk officer who handled the file spoke publicly for the first time about how the report was processed.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",

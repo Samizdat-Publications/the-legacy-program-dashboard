@@ -1,0 +1,46 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-2a0d21bfb5",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "Department of War news story, 27 February 2026",
+"text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-8b352e93c0",
+"locator": null,
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"sourceText": "Department of War news story, 27 February 2026",
+"text": "Asked about extraterrestrial life: 'We'll see... I get to do the review and find out along with you.'",
+"tier": 2
+}
+],
+"date": "2026-02-27",
+"edges": [],
+"era": "3",
+"id": "t-93310bda244e",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Department of War",
+"listedOn": [],
+"node": null,
+"title": "Department of War news story, 27 February 2026",
+"topics": [
+{
+"claims": [
+"c-2a0d21bfb5"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
+"type": "article",
+"urls": []
+}

@@ -3,12 +3,72 @@
 "claims": [
 {
 "cls": "institution",
+"id": "c-1789d34852",
+"locator": null,
+"node": "national-archives",
+"nodeLabel": "National Archives and Records Administration",
+"sourceText": "National Archives, archives.gov/uap",
+"text": "NARA established Record Group 615, the Unidentified Anomalous Phenomena Records Collection, pursuant to Secs. 1841-1843 of P.L. 118-31.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f762b2d463",
+"locator": null,
+"node": "national-archives",
+"nodeLabel": "National Archives and Records Administration",
+"sourceText": "National Archives, archives.gov/uap",
+"text": "NARA states it will add UAP records to RG 615 'on an ongoing, rolling basis as they are received from federal agencies' — the transmission trigger rests with the agencies, not the Archivist.",
+"tier": 1
+},
+{
+"cls": "institution",
 "id": "c-145d863d41",
 "locator": null,
 "node": "nara-uap-collection",
 "nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "sourceText": "https://www.archives.gov/uap",
 "text": "Record Group 615 was established pursuant to sections 1841-1843 of the 2024 National Defense Authorization Act; UAP records received from federal agencies are accessioned into RG 615 and published in the National Archives Catalog on a rolling basis.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-37c0875f5d",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives UAP Records Collection page, accessed 12 August 2026",
+"text": "The collection was established under sections 1841-1843 of the FY2024 National Defense Authorization Act, Public Law 118-31, and NARA created Record Group 615 to hold it.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-7c220f90a9",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives, UAP records research page, archives.gov/uap",
+"text": "NARA issued guidance to federal agencies on 'Transfer of Publicly Releasable Unidentified Anomalous Phenomena (UAP) Records' dated April 2025.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-9ec56ae4ed",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives UAP records page",
+"text": "'NARA will continue to add UAP records to the UAP Records Collection (RG 615) and make them available online through the National Archives Catalog on an ongoing, rolling basis as they are received from federal agencies.'",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-a94175db29",
+"locator": null,
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"sourceText": "National Archives, UAP records research page, archives.gov/uap",
+"text": "The collection is designated Record Group 615 and was established pursuant to Secs. 1841-1843 of the FY2024 NDAA, P.L. 118-31.",
 "tier": 1
 }
 ],
@@ -178,7 +238,9 @@
 "topics": [
 {
 "claims": [
-"c-145d863d41"
+"c-1789d34852",
+"c-145d863d41",
+"c-7c220f90a9"
 ],
 "id": "records-collection",
 "title": "The National Archives UAP records collection (RG 615)"

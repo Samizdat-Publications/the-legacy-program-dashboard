@@ -56,8 +56,8 @@
 "sources": [
 {
 "id": "chrg-119hhrg61718",
-"locator": "CONTENTS",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"locator": null,
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Witness of record at the 9 September 2025 hearing: 'Chief Alexandro Wiggins, U.S. Navy'.",
@@ -67,18 +67,30 @@
 {
 "id": "c-aed9aedd99",
 "source": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-27c1dda9",
+"locator": null,
+"title": "House Oversight - Wiggins written statement (PDF)"
+}
+],
 "text": "'15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast' - a self-luminous tic-tac object emerged from the ocean and joined three similar objects, with 'no visible control surfaces and no exhaust plume.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e44cdd8aac",
 "source": "Wiggins written statement, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "u-oversight-house-gov-27c1dda9",
+"locator": null,
+"title": "House Oversight - Wiggins written statement (PDF)"
+}
+],
 "text": "CIC personnel recorded the event on a Star SAFIRE multi-spectral EO/IR system; the footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0ca1e9ad95",
@@ -86,7 +98,7 @@
 "sources": [],
 "text": "'When crews observe objects that maneuver in ways that do not match known profiles ... that is first and foremost a safety issue.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf) was rejected in review: hearing testimony is not the written statement"
 },
 {
 "id": "c-855a82c0db",
@@ -94,7 +106,7 @@
 "sources": [],
 "text": "Described 'a self-luminous Tic Tac-shaped' object emerging from ocean waters near the USS Jackson in 2023, linking with three similar objects, followed by 'high, synchronized, near-instantaneous acceleration.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf) was rejected in review: sworn testimony and news item; candidate is the written statement"
 },
 {
 "id": "c-a3b6f0ed44",
@@ -103,7 +115,7 @@
 {
 "id": "chrg-119hhrg61718",
 "locator": "9 September 2025",
-"title": "CHRG-119hhrg61718: Restoring Public Trust Through UAP Transparency and Whistleblower Protection"
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
 }
 ],
 "text": "Rep. Burlison from the dais: 'You are the first witness to come forward that is currently serving, and it is recognized, and so I thank you.'",
@@ -116,7 +128,7 @@
 "sources": [],
 "text": "Wiggins testified that in 2023 aboard USS Jackson he observed a self-luminous Tic Tac-shaped object emerge from the ocean and accelerate without conventional propulsion signatures, detected on multiple radar systems.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf) was rejected in review: oral testimony plus DefenseScoop; written statement is a different document"
 },
 {
 "id": "c-73fa654232",
@@ -124,7 +136,7 @@
 "sources": [],
 "text": "Wiggins is the first active-duty US Navy official to testify publicly about UAP before Congress.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleg) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-0e6b37c713",

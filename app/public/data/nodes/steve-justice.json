@@ -34,10 +34,16 @@
 {
 "id": "c-a6f44c2515",
 "source": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
-"sources": [],
+"sources": [
+{
+"id": "u-sec-gov-29038929",
+"locator": null,
+"title": "SEC EDGAR — TTSA Form 1-K"
+}
+],
 "text": "Listed in TTSA's Form 1-K as Director of Advanced Programs and Technology, age 61, part-time, recently retired as a Program Director from Lockheed Martin Advanced Development Programs (Skunk Works) after 31 years.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8dec80810b",
@@ -45,7 +51,7 @@
 "sources": [],
 "text": "Stated of the ADAM specimens that their 'structure and composition are not from any known existing military or commercial application.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:en.wikipedia.org/wiki/To_the_Stars_(company)) was rejected in review: announcement via Wikipedia and coverage; several sources, none the page"
 },
 {
 "id": "c-37f73d754f",
@@ -53,7 +59,7 @@
 "sources": [],
 "text": "Quoted in TTSA's 17 October 2019 CRADA press release: 'This cooperative research agreement brings additional, critically important expertise.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-announces) was rejected in review: outlet and date only; candidate undated"
 }
 ],
 "cls": "person",

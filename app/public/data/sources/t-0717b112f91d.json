@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-a52a581e7d",
+"locator": null,
+"node": "jesse-marcel-jr",
+"nodeLabel": "Dr. Jesse A. Marcel Jr.",
+"sourceText": "Marcel Jr. affidavit for the Fund for UFO Research; Disclosure Project testimony, 9 May 2001; 'The Roswell Legacy' (2009)",
+"text": "Marcel Jr. testified under oath by affidavit and repeatedly on the record that in July 1947 his father showed him debris including foil-like metal that resumed its shape and an I-beam bearing embossed purple-violet symbols.",
+"tier": 2
+}
+],
+"date": "2009",
+"edges": [],
+"era": "2",
+"id": "t-0717b112f91d",
+"identifiers": [],
+"interestedParty": false,
+"issuer": null,
+"listedOn": [],
+"node": null,
+"title": "The Roswell Legacy",
+"topics": [
+{
+"claims": [
+"c-a52a581e7d"
+],
+"id": "roswell-1947",
+"title": "Roswell, July 1947, and its afterlife"
+}
+],
+"type": "book",
+"urls": []
+}

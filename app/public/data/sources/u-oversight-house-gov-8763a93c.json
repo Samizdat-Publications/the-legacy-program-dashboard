@@ -2,6 +2,16 @@
 "archived": [],
 "claims": [
 {
+"cls": "event",
+"id": "c-1fd0fe2f76",
+"locator": null,
+"node": "hearing-2024-11-13",
+"nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"sourceText": "Written Testimony of Luis Elizondo, House Oversight, 13 November 2024",
+"text": "Elizondo's written testimony states that 'Advanced technologies not made by our Government – or any other government – are monitoring sensitive military installations around the globe' and alleges 'a multi-decade, secretive arms race'.",
+"tier": 2
+},
+{
 "cls": "document",
 "id": "c-1ead60130d",
 "locator": null,
@@ -87,6 +97,13 @@
 ],
 "id": "navy-patents",
 "title": "The Navy's Pais patents, and invention secrecy"
+},
+{
+"claims": [
+"c-1fd0fe2f76"
+],
+"id": "hearing-2024",
+"title": "The November 2024 House hearing"
 }
 ],
 "type": "document",

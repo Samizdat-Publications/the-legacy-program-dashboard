@@ -10,15 +10,21 @@
 "sources": [],
 "text": "AARO's UAP Records page hosts a DHS KONA BLUE information release describing a proposed but never-approved programme concerning 'non-human biologics'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:aaro-information-papers) was rejected in review: records web page is not the bundled information-papers node"
 },
 {
 "id": "c-93f9253ce9",
 "source": "AARO Historical Record Report Volume I",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "Volume I concluded that no extraterrestrial craft or bodies were ever collected and that the material 'was only assumed to exist by KONA BLUE advocates.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8b8016409c",

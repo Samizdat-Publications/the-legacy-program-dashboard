@@ -19,18 +19,30 @@
 {
 "id": "c-819fcb217d",
 "source": "The Intercept, 9 August 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-theintercept-com-6f89b2af",
+"locator": null,
+"title": "The Intercept - UFO Whistleblower Kept Security Clearance After Psychiatric Detention"
+}
+],
 "text": "Published Loudoun County Sheriff's Office records describing Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-894a80ae6c",
 "source": "Rep. Nancy Mace, Task Force on the Declassification of Federal Secrets hearing, 9 September 2025",
-"sources": [],
+"sources": [
+{
+"id": "chrg-119hhrg61718",
+"locator": "remarks of Rep. Nancy Mace",
+"title": "Restoring Public Trust Through UAP Transparency and Whistleblower Protection (CHRG-119hhrg61718)"
+}
+],
 "text": "Members of Congress characterize the leak as retaliation: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

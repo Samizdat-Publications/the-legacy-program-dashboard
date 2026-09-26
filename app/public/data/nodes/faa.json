@@ -11,7 +11,7 @@
 {
 "id": "nara-rg-615",
 "locator": "Unidentified Anomalous Phenomena Records Collection'",
-"title": "NARA Record Group 615"
+"title": "Record Group 615: Unidentified Anomalous Phenomena Records Collection (NARA Record Group 615)"
 },
 {
 "id": "u-archives-gov-84d9f25c",
@@ -82,10 +82,16 @@
 {
 "id": "c-0260a79e45",
 "source": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3', 22 May 2026, 0:09:40, transcript in dist/transcripts/md/",
-"sources": [],
+"sources": [
+{
+"id": "t-02a20dae97d2",
+"locator": "0:09:40",
+"title": "DEBRIEFED with Chris Ramsay, 'Hidden Alien Photos - Amaury Rivera pt 3"
+}
+],
 "text": "On DEBRIEFED with Chris Ramsay, 22 May 2026, at 0:09:40, host Chris Ramsay, attributing the account to the Puerto Rican researcher Jorge Martin, said that the FAA confirmed the deployment of multiple F-14s 'for testing' near Cabo Rojo at the time of a December 1988 mass sighting, and that the Americans later denied it. No record opened here bears on that claim.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a79d75ad02",

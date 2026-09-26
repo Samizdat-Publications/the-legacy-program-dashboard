@@ -44,7 +44,7 @@
 {
 "cls": "document",
 "id": "c-d3d6377b59",
-"locator": "and the Bolender memorandum",
+"locator": null,
 "node": "aaro-historical-record-vol1",
 "nodeLabel": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "sourceText": "Inference from the report's treatment of the legacy period against GAO/NSIAD-95-187 and the Bolender memorandum",
@@ -74,7 +74,7 @@
 {
 "cls": "location",
 "id": "c-dea528a11a",
-"locator": "background",
+"locator": null,
 "node": "l-fort-worth-tx",
 "nodeLabel": "Fort Worth, Texas",
 "sourceText": "Contemporaneous press record; GAO/NSIAD-95-187 background",
@@ -254,7 +254,7 @@
 {
 "cls": "program",
 "id": "c-aaad0ad1f7",
-"locator": "p.3 read against the 1995 USAF report's methodology",
+"locator": null,
 "node": "project-mogul",
 "nodeLabel": "Project MOGUL",
 "sourceText": "Inference from GAO/NSIAD-95-187 p.3 read against the 1995 USAF report's methodology",
@@ -304,7 +304,7 @@
 {
 "cls": "domain",
 "id": "c-4efeb1ec9c",
-"locator": "record search",
+"locator": null,
 "node": "d-recovery",
 "nodeLabel": "Retrieval & Recovery Operations",
 "sourceText": "Contemporaneous press coverage; GAO/NSIAD-95-187 record search",

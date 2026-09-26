@@ -52,7 +52,7 @@
 "sources": [],
 "text": "Obtained and published OSD/JS FOIA case 18-F-0324, the DD Form 1910 release, the OUSD(I) messaging emails, and the CCDC FOIA denial regarding the TTSA CRADA correspondence.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com) was rejected in review: site home page; names no specific document"
 },
 {
 "id": "c-ec2444a1aa",
@@ -505,7 +505,7 @@
 ],
 "sub": "FOIA document archive founded by John Greenewald Jr., 1996",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 208 of 1138, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 207 of 1138, score 45). 9 connections, 4 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

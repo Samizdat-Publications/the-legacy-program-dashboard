@@ -38,15 +38,21 @@
 "sources": [],
 "text": "Clapper, as USD(I), recommended against establishing a Special Access Program 'at this time', citing insufficient justification based on FY09 deliverables and anticipated FY10 work.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660) was rejected in review: packet named; candidate is one USD(I) memo, not the packet"
 },
 {
 "id": "c-bfefbb388c",
 "source": "DIA memo U-09-2660CE-IM, 13 November 2009",
-"sources": [],
+"sources": [
+{
+"id": "n-dia-sap-denial-memo-2009",
+"locator": null,
+"title": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)"
+}
+],
 "text": "The supporting DIA memorandum of 13 November 2009 found 'insufficient grounds to classify this open program' and stated no report contained information 'sufficiently sensitive and vulnerable to require extra protection'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4167d2aefe",

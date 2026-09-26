@@ -28,9 +28,9 @@
 "title": "Stanton T. Friedman, 'The Bob Lazar Fraud'"
 },
 {
-"id": "u-archive-org-c155e3cf",
+"id": "n-lazar-tape-1991",
 "locator": null,
-"title": "The Lazar Tape and Excerpts from the Government Bible, Tri-Dot Productions, 1991; captions via YouTube video kc10m6HFbDE"
+"title": "The Lazar Tape and Excerpts from the Government Bible (1991)"
 }
 ],
 "text": "A DISCREPANCY, NOT A RELATIONSHIP. The W-2 form in the Lazar literature is described as naming a 'Department of Naval Intelligence', which is not an entity that exists: the Office of Naval Intelligence sits inside the Department of the Navy. Stanton Friedman, who had seen the form, describes it only as 'His W-2 form from the Department of Naval Intelligence totals under $1000.00, at most a week's pay for a scientist.' Lazar's own 1991 narration says something different again: 'for the duration of my employment at S4 I was paid by the United States Navy'. THE FORM ITSELF WAS NOT OPENED BY THIS BOARD AND NO EMPLOYER IDENTIFICATION NUMBER, ZIP CODE OR BOX CONTENT IS ASSERTED ANYWHERE.",
@@ -40,18 +40,30 @@
 {
 "id": "c-57637664ff",
 "source": "Office of Naval Intelligence, official website, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-oni-navy-mil-c55fcc50",
+"locator": null,
+"title": "Office of Naval Intelligence - homepage"
+}
+],
 "text": "ONI describes itself as established in 1882 and 'the nation's longest-serving intelligence agency', headquartered at 4251 Suitland Road, Washington DC.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-81a7acd50d",
 "source": "ODNI Preliminary Assessment, 25 June 2021",
-"sources": [],
+"sources": [
+{
+"id": "n-odni-preliminary-assessment-2021",
+"locator": null,
+"title": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)"
+}
+],
 "text": "ODNI's 2021 Preliminary Assessment lists 'Navy/ONI' among the contributing elements.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7b4b06a9a7",
@@ -59,7 +71,7 @@
 "sources": [],
 "text": "ONI has responded to FOIA requests concerning the 2004 Nimitz encounter by asserting that responsive briefing material and video are classified TOP SECRET/SCI and withholding them in full.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic reference to FOIA responses, no single document found."
 },
 {
 "id": "c-dea6d19a06",

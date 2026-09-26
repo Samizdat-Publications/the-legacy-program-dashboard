@@ -1,0 +1,36 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "event",
+"id": "c-0f74178f4f",
+"locator": null,
+"node": "council-bluffs-1977",
+"nodeLabel": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
+"sourceText": "Bud Appleby, 'Chunk of Molten Metal Found in Bluffs Has Residents Puzzled', Des Moines Register, 26 January 1978, cited in Sol Briefing No. 3",
+"text": "Materials analyses in the weeks after the incident found the metal consisted of high-carbon steel and slag.",
+"tier": 1
+}
+],
+"date": "1978-01-26",
+"edges": [],
+"era": "1",
+"id": "t-174f8a5e56da",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "Des Moines Register",
+"listedOn": [],
+"node": null,
+"title": "Chunk of Molten Metal Found in Bluffs Has Residents Puzzled",
+"topics": [
+{
+"claims": [
+"c-0f74178f4f"
+],
+"id": "specimens",
+"title": "Physical material and specimen analyses"
+}
+],
+"type": "article",
+"urls": []
+}

@@ -44,10 +44,16 @@
 {
 "id": "c-9076a734d9",
 "source": "Chadwell memorandum to Director of Central Intelligence, subject: Flying Saucers, 11 Sep 1952 (declassified CIA document sampler)",
-"sources": [],
+"sources": [
+{
+"id": "u-cufon-org-451e0023",
+"locator": "11 Sept 1952 memo, 'Flying Saucers'",
+"title": "CUFON 1952 CIA UFO-related document sampler (Chadwell memoranda)"
+}
+],
 "text": "Chadwell wrote to the DCI on 11 September 1952 that 'the flying saucer situation contains two elements of danger which... have national security implications.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f80620526d",
@@ -55,7 +61,7 @@
 "sources": [],
 "text": "CIA recorded that during July 1952 alone official reports of unidentified aerial phenomena totalled 250.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:cufon.org/cufon/cia-52-1.htm) was rejected in review: 'same series' cannot be resolved from the string"
 },
 {
 "id": "c-a4f9e7dfdd",
@@ -63,15 +69,21 @@
 "sources": [],
 "text": "Chadwell proposed a study group to analyse and systematise the factors, determine fields requiring investigation and make research recommendations, suggesting MIT's Project Lincoln or Caltech.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:archive.org/details/cia-readingroom-document-0005515935) was rejected in review: plural memoranda over months; candidate is one memo"
 },
 {
 "id": "c-10d8c49dd2",
 "source": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
-"sources": [],
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": null,
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "'In January 1953, Chadwell and H. P. Robertson... put together a distinguished panel of nonmilitary scientists to study the UFO issue.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

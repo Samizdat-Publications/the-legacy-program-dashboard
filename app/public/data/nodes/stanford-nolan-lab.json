@@ -7,10 +7,16 @@
 {
 "id": "c-a61fcd4cb5",
 "source": "Sol Foundation Policy Briefing No. 3 summarising Nolan, Vallee, Jiang & Lemke (2022)",
-"sources": [],
+"sources": [
+{
+"id": "n-sol-briefing-3-2026",
+"locator": "summarising Nolan, Vallee, Jiang & Lemke (2022)",
+"title": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)"
+}
+],
 "text": "The laboratory applied SIMS and MIBI to the Council Bluffs samples at 200 nanometre lateral resolution and five-nanometre depth increments, finding no anomalous isotopic values but incomplete mixing of the constituent metals.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4e65ec016b",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "Nolan says government and aerospace-corporation representatives approached his laboratory about medical harm from claimed interactions with an anomalous craft, citing its blood-analysis capability.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:kqed.org/science/1975185/ufos-seti-astronomer-stanford-researcher-aerospace-) was rejected in review: outlet and date only; candidate undated"
 }
 ],
 "cls": "institution",

@@ -7,10 +7,16 @@
 {
 "id": "c-e698c82105",
 "source": "Wikipedia navigation template 'Studies and timeline', Project Condign article — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-48f2f79e",
+"locator": "'Studies and timeline' nav template",
+"title": "Project Condign - Wikipedia"
+}
+],
 "text": "The Flying Saucer Working Party (1950) appears in the standard chronology of official investigations alongside Project Sign (1948), Project Grudge (1949), Project Magnet (1950-1962) and Project Second Storey (1952-1954).",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "program",

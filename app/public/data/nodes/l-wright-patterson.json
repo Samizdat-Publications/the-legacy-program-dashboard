@@ -7,10 +7,16 @@
 {
 "id": "c-13fee176f9",
 "source": "Wikipedia, Wright-Patterson Air Force Base, citing USAF historical records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-dff9356c",
+"locator": "1948 consolidation",
+"title": "Wikipedia - Wright-Patterson Air Force Base"
+}
+],
 "text": "Wright-Patterson AFB was formally established on 13 January 1948 by consolidating Wright Field, Patterson Field, Dayton Army Air Field and Clinton Army Air Field.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-66aa9e0c71",
@@ -18,15 +24,21 @@
 "sources": [],
 "text": "Project Blue Book operated at Wright-Patterson from 1952 to 1969, studying 12,618 sightings of which 701 remained unexplained at closure.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objec) was rejected in review: WPAFB article summarising the fact sheet, not the fact sheet"
 },
 {
 "id": "c-e206209d5a",
 "source": "Wikipedia, Wright-Patterson Air Force Base, tenant units — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "u-en-wikipedia-org-dff9356c",
+"locator": "NASIC tenant unit",
+"title": "Wikipedia - Wright-Patterson Air Force Base"
+}
+],
 "text": "The National Air and Space Intelligence Center, the direct institutional successor to ATIC and the Foreign Technology Division, is headquartered at Wright-Patterson AFB.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c6cad31a70",

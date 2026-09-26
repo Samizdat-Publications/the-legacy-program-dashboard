@@ -52,7 +52,7 @@
 "tier": 1
 }
 ],
-"date": null,
+"date": "1954-08-30",
 "edges": [
 {
 "a": {
@@ -106,7 +106,7 @@
 "type": "legislative"
 }
 ],
-"era": "nd",
+"era": "0",
 "id": "stat-68-919",
 "identifiers": [
 "68 Stat. 919"
@@ -125,8 +125,12 @@
 "label": "Atomic Energy Commission"
 }
 ],
-"node": null,
-"title": "68 Stat. 919",
+"node": {
+"cls": "legislation",
+"id": "atomic-energy-act-1954",
+"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)"
+},
+"title": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "topics": [
 {
 "claims": [

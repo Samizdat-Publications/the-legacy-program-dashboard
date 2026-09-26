@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-181f49a616",
+"locator": null,
+"node": "isoo",
+"nodeLabel": "Information Security Oversight Office",
+"sourceText": "National Archives, Information Security Oversight Office",
+"text": "ISOO publishes an Annual Report to the President with statistics and analysis on Classified National Security Information and Controlled Unclassified Information; the FY2024 report is published.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-ff6a66f157",
+"locator": null,
+"node": "isoo",
+"nodeLabel": "Information Security Oversight Office",
+"sourceText": "National Archives, Information Security Oversight Office",
+"text": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program', with authority from Executive Order 13526 and Executive Order 13556.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -69,7 +90,23 @@
 ],
 "node": null,
 "title": "National Archives - Information Security Oversight Office",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-181f49a616",
+"c-ff6a66f157"
+],
+"id": "classification-orders",
+"title": "Classification orders from EO 10501 to EO 13526"
+},
+{
+"claims": [
+"c-ff6a66f157"
+],
+"id": "records-collection",
+"title": "The National Archives UAP records collection (RG 615)"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.archives.gov/isoo"

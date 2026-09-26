@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d59d54959b",
+"locator": null,
+"node": "roscoe-hillenkoetter",
+"nodeLabel": "Roscoe H. Hillenkoetter",
+"sourceText": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror; full-text search of the sections available",
+"text": "The National Security Archive's mirror of the FBI files on Hillenkoetter -- eighteen serials plus a main file -- contains, across the sections text-searched, zero occurrences of NICAP, 'flying saucer', 'unidentified flying', Keyhoe, or the year 1960. OCR quality on these scans is uneven, so this is a strong indication rather than a proof.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +28,29 @@
 ],
 "node": null,
 "title": "FBI files on Roscoe H. Hillenkoetter, National Security Archive mirror",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d59d54959b"
+],
+"id": "cia-secrecy-precedents",
+"title": "CIA secrecy precedents: MKULTRA, the Olson death and Azorian"
+},
+{
+"claims": [
+"c-d59d54959b"
+],
+"id": "civilian-groups",
+"title": "Civilian research groups and the disclosure movement"
+},
+{
+"claims": [
+"c-d59d54959b"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+}
+],
 "type": "document",
 "urls": [
 "https://archive.org/details/RoscoeH.Hillenkoetter"

@@ -10,15 +10,21 @@
 "sources": [],
 "text": "Kecksburg lies about 30 miles (48 km) southeast of Pittsburgh in Westmoreland County, Pennsylvania.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic description, no specific source named"
 },
 {
 "id": "c-bfa9ead19f",
 "source": "Greensburg Tribune-Review, December 1965 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"sources": [],
+"sources": [
+{
+"id": "t-f06c5546f832",
+"locator": null,
+"title": "Greensburg Tribune-Review, December 1965"
+}
+],
 "text": "The Greensburg Tribune-Review reported that the area where the object landed was immediately sealed off on the order of US Army and State Police officials, with the area roped off pending the arrival of Army engineers and possibly civilian scientists.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "location",
@@ -114,7 +120,7 @@
 ],
 "sub": "Village 30 miles southeast of Pittsburgh; claimed 1965 recovery site",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 901 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 900 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -7,18 +7,30 @@
 {
 "id": "c-ad69f9949d",
 "source": "Congressional Record, 11 July 2024, text of SA 2610, GPO",
-"sources": [],
+"sources": [
+{
+"id": "n-uapda-2024-samdt-2610",
+"locator": null,
+"title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+}
+],
 "text": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' to S. 4638 and 'was ordered to lie on the table.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-74e283bf7f",
 "source": "Congressional Record, 11 July 2024, SA 2610, Sec. __10(a), GPO",
-"sources": [],
+"sources": [
+{
+"id": "n-uapda-2024-samdt-2610",
+"locator": "Sec. __10(a)",
+"title": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)"
+}
+],
 "text": "The 2024 text retains the eminent domain command verbatim at Sec. __10(a).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e663ecf4dc",
@@ -26,8 +38,8 @@
 "sources": [
 {
 "id": "pl-118-159",
-"locator": "full text, GPO",
-"title": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)"
+"locator": null,
+"title": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO"
 }
 ],
 "text": "P.L. 118-159, the FY2025 NDAA enacted 23 December 2024, contains no UAP disclosure division; its only UAP provisions are Secs. 6801 and 6802 of the Intelligence Authorization Act for FY2025.",
@@ -40,7 +52,7 @@
 "sources": [],
 "text": "Only two senators' names appear on the 2024 refiling, against six on the 2023 original; Rubio, Gillibrand, Young and Heinrich are not on it.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: compares two distinct records; no single candidate covers both"
 }
 ],
 "cls": "legislation",

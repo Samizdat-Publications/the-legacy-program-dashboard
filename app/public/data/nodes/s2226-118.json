@@ -9,9 +9,9 @@
 "source": "BILLS-118s2226es table of contents",
 "sources": [
 {
-"id": "bills-118s2226es",
-"locator": "table of contents",
-"title": "BILLS-118s2226es"
+"id": "crec-2023-07-13-pt1-pgs2953",
+"locator": null,
+"title": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)"
 }
 ],
 "text": "S. 2226 as engrossed in the Senate contains Division G, 'UNIDENTIFIED ANOMALOUS PHENOMENA DISCLOSURE', secs. 9001-9015, positioned between Division F (AUKUS/State Department matters, Titles LXI-LXVIII) and Division H (Architect of the Capitol Appointment Act of 2023).",
@@ -21,10 +21,16 @@
 {
 "id": "c-ca9bfb6f73",
 "source": "congress.gov S.Amdt.797 overview page (Wayback 2024-12-18)",
-"sources": [],
+"sources": [
+{
+"id": "n-samdt-797",
+"locator": "Wayback capture 2024-12-18",
+"title": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)"
+}
+],
 "text": "S.Amdt. 797 amends S. 2226, 'National Defense Authorization Act for Fiscal Year 2024'; sponsor Sen. Schumer, Charles E. [D-NY], submitted 07/13/2023, 5 cosponsors.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "legislation",

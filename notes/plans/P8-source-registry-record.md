@@ -42,3 +42,49 @@ re-derives them.
   how it was read ("full OCR text read this session, opened ...") removed.
 - **Dates** are the node's, or the date a URL path states (news paths, never `/uploads/`), or a CREC
   granule's. The `date` on a `{name, url}` pair is usually an access date and is not used.
+- **One source is one document.** The union-find refuses any merge that would put two board nodes, or two
+  identifiers of one family (two DTIC accessions, two volumes of DoDM 5205.07, a public law and a node
+  for one of its sections), in one source. 32 unions were refused on the final build; the commonest is a
+  node for a series or a section whose reviewed URL is the whole law or one volume.
+- **Interested party** means the office's own: a source whose title names AARO, or whose every copy on
+  file sits on AARO/DoD hosts. A released historical document the office also hosts (Blue Book Special
+  Report 14 on war.gov as well as cia.gov) is that document, not the office's statement.
+
+## The interested-party cap now reaches claims cited by name
+
+`merge.py remediate_interested_party_claims()` applies the AARO/DoD cap through the registry. A Tier 1
+claim whose every source is the office's own stays Tier 1 when it is about what the office said: the
+attribution words, a claim that opens by quoting it, or the office or one of its documents as the subject
+of an account verb ("AARO assessed", "the report reaffirmed"). Otherwise it is Tier 2 with the standard
+demotion note, unless `tierAdjudications` records why it stands. 29 adjudications are recorded (the
+establishment memorandum's administrative acts, the office's own caseload figures, the office's own
+contracting and releases, and claims that report an official's words). **12 claims moved from Tier 1 to
+Tier 2**; each is an outside fact the office's publication was the only authority for (who authored the
+DIRDs, BAASS as prime contractor, the $22 million appropriation, what KONA BLUE was, the 2021 IC CAP,
+Skunk Works aircraft). GOLDEN claim tiers moved 3,780 / 1,700 / 580 to 3,768 / 1,712 / 580.
+
+## The fan-out
+
+| | |
+|---|---|
+| Strings no URL or identifier resolved | 1,915 distinct, on 2,569 claims, read by 8 Sonnet batches (two re-run after a stall) |
+| Sonnet readings | existing source 1,526; new source 202 (39 of them "same as" another string); unresolved 187 |
+| Opus review, every merge of two strings | 4 reviewers. Existing: 991 accepted, 535 rejected. Same-as: 24 accepted, 15 rejected (each kept as its own source). Node URLs as copies of the node's document: 339 of 398 accepted |
+| Commonest rejections | the string names two sources and the candidate is one; an outlet and a date with no date on the candidate; an article about a document offered as the document; a later edition (ICD 906 2024, JANAP 146(E)) |
+| Mechanical rules on new sources | a paraphrased title is replaced by the citation as written (63); an issuer or date not in the string is dropped (27, 1) |
+| Result | 4,911 of 6,060 claims resolve (81.0%, floor 0.8103), from 3,189 (52.6%) by URL and identifier alone |
+
+A rejected reading leaves the claim unresolved, with the reviewer's reason as its `why`. Nothing was
+guessed. The work files (batches, proposals, verdicts) were scratch; every decision that counts is in
+`research/_source_decisions.json` with the batch and reviewer that made it.
+
+## Deferred, on purpose
+
+- **Strings that cite two sources** ("X; Y") resolve only by URL or identifier today; a reviewed reading
+  maps a string to one source, so the reviewers rejected about 150 two-source strings. A list-valued
+  decision would resolve most of them. Phase R.
+- **Dossier claims** (the map model's) are not in the registry; they keep their source strings.
+- **Edges** link their sources on the source page ("Links citing it") but the node page's connection rows
+  still print their `{name, url}` sources as before, now with breakable addresses.
+- **300 claims cite the board's own inference** ("Inference from ...") and name nothing that resolves.
+  They are marked unresolved with that reason.

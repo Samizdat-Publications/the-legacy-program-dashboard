@@ -2,6 +2,46 @@
 "archived": [],
 "claims": [
 {
+"cls": "person",
+"id": "c-033803a8f1",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Knapp co-hosts the Weaponized podcast with Jeremy Corbell.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-46b35af5ce",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Wikipedia, 'George Knapp (television journalist)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Knapp worked with Robert Bigelow's National Institute of Discovery Science alongside NIDS deputy administrator Colm Kelleher and publicised Skinwalker Ranch.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-9c63489c6a",
+"locator": null,
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"sourceText": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Knapp has been credited with introducing Senator Harry Reid to Robert Bigelow because of their shared interest in unidentified aerial phenomena.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-7aefacbabc",
+"locator": null,
+"node": "klas-tv",
+"nodeLabel": "KLAS-TV (Las Vegas)",
+"sourceText": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar programmes aired on KLAS in May and November 1989.",
+"tier": 2
+},
+{
 "cls": "document",
 "id": "c-7eda53c07e",
 "locator": null,
@@ -10,6 +50,16 @@
 "sourceText": "Wikipedia article on George Knapp, opened only to read its underlying citation to a Simon and Schuster author profile, https://en.wikipedia.org/wiki/George_Knapp_(television_journalist) , opened 2026-09-18",
 "text": "Knapp's 1990 UFO reporting is said to have won a United Press International 'Individual Achievement by a Journalist' award. The underlying citation is a Simon and Schuster author profile which this board did not open, and the claim is carried at Tier 3 accordingly. The contemporaneous Review-Journal reference to an 'award winning series' in June 1990 is consistent with it but does not name the award.",
 "tier": 3
+},
+{
+"cls": "program",
+"id": "c-ba862b6022",
+"locator": null,
+"node": "weaponized-podcast",
+"nodeLabel": "Weaponized (Knapp & Corbell)",
+"sourceText": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "George Knapp co-hosts the UFO-focused Weaponized podcast alongside Jeremy Corbell.",
+"tier": 2
 }
 ],
 "date": null,
@@ -141,7 +191,15 @@
 ],
 "node": null,
 "title": "Wikipedia - George Knapp",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-9c63489c6a"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "web page",
 "urls": [
 "https://en.wikipedia.org/wiki/George_Knapp_(television_journalist)"

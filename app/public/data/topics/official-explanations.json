@@ -21,7 +21,13 @@
     "text": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-748a46cf1446",
+     "locator": null,
+     "title": "interview with Stanton T. Friedman, February 1978"
+    }
+   ],
    "text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
    "tier": 2
   },
@@ -59,7 +65,7 @@
     {
      "id": "dtic-ada326148",
      "locator": null,
-     "title": "DTIC ADA326148"
+     "title": "The Roswell Reports (USAF, 1994-1997)"
     }
    ],
    "text": "'The Roswell Report: Fact versus Fiction in the New Mexico Desert' (1995, ~881 pp, DTIC ADA326148) was produced by Col. Weaver and 1st Lt. McAndrew in response to Rep. Steven H. Schiff's inquiry and attributes the debris to Project MOGUL.",
@@ -95,7 +101,13 @@
     "text": "Stringfield, Status Report VII (February 1994), Roswell Crash/Retrieval Update",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-stringfield-status-reports",
+     "locator": "Status Report VII (Feb 1994), Roswell Crash/Retrieval Update",
+     "title": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
+    }
+   ],
    "text": "Stringfield's Status Report VII records a source placing the 1947 event just north of Roswell and not on the Plains of San Augustin.",
    "tier": 2
   },
@@ -129,7 +141,13 @@
     "text": "The Roswell Report: Case Closed (1997), Section 1.1, pull quote at p. 12",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 1.1, p.12 pull quote",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The report states: 'It must be emphasized that the claims of bodies only became part of the Roswell Incident after 1978, when they were erroneously linked to the July 1947 retrieval of Project Mogul components.'",
    "tier": 1
   },
@@ -163,7 +181,13 @@
     "text": "Quoted in The Roswell Report: Case Closed (1997), Section 1.1",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 1.1",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The July 1994 report states that at the express written direction of the Secretary of the Air Force, former and retired Air Force members and civilian contract scientists were released from any nondisclosure agreements they may have entered into regarding the relevant past classified activities.",
    "tier": 1
   },
@@ -177,7 +201,13 @@
     "text": "The Roswell Report: Fact versus Fiction in the New Mexico Desert (1995), Attachment 32",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": "Attachment 32",
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "Attachment 32, Lt. McAndrew's synopsis, describes Project Mogul, 'the top-priority classified project of balloon-borne experiments, which provides the explanation for the Roswell Incident.'",
    "tier": 1
   },
@@ -211,7 +241,13 @@
     "text": "USAF, 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert' (1994)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon explanation was a cover story.",
    "tier": 1
   },
@@ -225,7 +261,13 @@
     "text": "USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "The announcement was retracted the same day at Fort Worth by Brig. Gen. Roger Ramey, with Col. Thomas DuBose and weather officer Irving Newton identifying the material as a weather balloon with a radar reflector.",
    "tier": 1
   },
@@ -263,7 +305,7 @@
     {
      "id": "dtic-ada326147",
      "locator": null,
-     "title": "DTIC ADA326147"
+     "title": "The Roswell Report: Case Closed (DTIC ADA326147)"
     }
    ],
    "text": "'The Roswell Report: Case Closed' (1997, 232 pp, DTIC ADA326147) concludes the recovered material 'was not the remnants of an extraterrestrial spacecraft'.",
@@ -299,7 +341,13 @@
     "text": "USAF, 'The Roswell Report: Fact vs. Fiction in the New Mexico Desert' (1995)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-1995",
+     "locator": null,
+     "title": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)"
+    }
+   ],
    "text": "MOGUL was a then-classified top-priority programme of balloon-borne experiments, described at length in the Air Force's 881-page 1995 report by Col. Richard Weaver and 1st Lt. James McAndrew.",
    "tier": 1
   },
@@ -333,7 +381,13 @@
     "text": "The Roswell Report: Case Closed (1997), Appendix B",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Appendix B",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "Appendix B prints sworn witness statements from Charles E. Clouthier, Col. Charles A. Coltman Jr., Col. Dan D. Fulgham, Bernard D. Gildenberg, MSgt Ole Jorgeson, Lt. Col. William C. Kaufman, Col. Joseph W. Kittinger Jr., CMSgt Roland H. Lutz, Lt. Col. Raymond A. Madson and Dr. Frank B. Nordstrom.",
    "tier": 1
   },
@@ -390,7 +444,7 @@
    "sourceRefs": [
     {
      "id": "gao-nsiad-95-187",
-     "locator": "p.3 read against the 1995 USAF report's methodology",
+     "locator": null,
      "title": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell"
     }
    ],
@@ -407,7 +461,13 @@
     "text": "The Roswell Report: Case Closed (1997), Introduction",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Introduction",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The report identifies its four conclusions as consolidation of many years of Air Force activity into July 1947; anthropomorphic test dummies as the 'aliens'; high-altitude balloon launch and recovery as the 'unusual' military activity; and a 1956 KC-97 accident plus a 1959 manned balloon mishap as the source of the hospital bodies accounts.",
    "tier": 1
   },
@@ -441,7 +501,13 @@
     "text": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-59e38a39b1e8",
+     "locator": null,
+     "title": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md"
+    }
+   ],
    "text": "On the Danny Jones Podcast, episode 229, 18 March 2024, at 1:31:41 to 1:32:45, David Morehouse said Operation Snowbird, A-10 training out of Davis-Monthan, was the official explanation given at the time for the Phoenix lights, and that the Maryland Air National Guard confirmed it. The Air National Guard statement is real and dated; the words Operation Snowbird appear nowhere in the opened record, and no Air Force record connecting that deployment programme to the 13 March 1997 sorties was opened, because af.mil refuses this environment.",
    "tier": 2
   },
@@ -455,7 +521,13 @@
     "text": "The Roswell Report: Case Closed (1997), Guide for Readers and Appendix C",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Guide for Readers and Appendix C",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "Appendix C prints full interview transcripts of Gerald Anderson (p. 187), Glenn Dennis (p. 197), Alice Knight (p. 213), Vern Maltais (p. 214) and James Ragsdale (p. 215); the Dennis interview was provided by the interviewer, Karl T. Pflock.",
    "tier": 1
   },
@@ -497,7 +569,13 @@
     "text": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena', Volume I, February 2024",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-aaro-historical-record-vol1",
+     "locator": null,
+     "title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    }
+   ],
    "text": "AARO's 2024 historical report reaffirmed that materials recovered near Roswell 'were consistent with a balloon of the type used in the then-classified Project Mogul'.",
    "tier": 1
   },
@@ -511,7 +589,13 @@
     "text": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-6cbb6cfdf8db",
+     "locator": null,
+     "title": "Brazilian Army inquiry, 2010"
+    }
+   ],
    "text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
    "tier": 2
   },
@@ -559,7 +643,13 @@
     "text": "The Roswell Report: Case Closed (1997), Introduction, 'The conclusions of the additional research are'",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Introduction, quote 'The conclusions of the additional research are'",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The report's conclusions are that Air Force activities spanning many years were consolidated into two or three days of July 1947; that the 'aliens' were probably anthropomorphic test dummies carried aloft by high altitude balloons; that the 'unusual' military activity was balloon launch and recovery; and that the hospital-bodies claims most likely combine a 1956 KC-97 crash in which eleven airmen died with a 1959 manned balloon mishap injuring two pilots.",
    "tier": 1
   },
@@ -573,7 +663,13 @@
     "text": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-0f8fb3c69a57",
+     "locator": null,
+     "title": "Robert Sheaffer interviews with Randle, Skeptical Inquirer"
+    }
+   ],
    "text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
    "tier": 2
   },
@@ -587,7 +683,13 @@
     "text": "Quoted verbatim in The Roswell Report: Case Closed (1997), Section 1.1",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": "Section 1.1 (verbatim quotation)",
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "The July 1994 report concluded that the US Army Air Forces did not recover an extraterrestrial vehicle and alien crew, based on review of classified and unclassified holdings at record depositories, archives, libraries and research facilities nationwide, and stated that of the millions of pages reviewed there was no mention of any activity tangentially suggesting such an event.",
    "tier": 1
   },
@@ -601,7 +703,13 @@
     "text": "USAF, 'The Roswell Report: Case Closed' (1997)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-roswell-report-case-closed",
+     "locator": null,
+     "title": "The Roswell Report: Case Closed (1997)"
+    }
+   ],
    "text": "'Case Closed' attributes witness reports of bodies to anthropomorphic test dummies used in high-altitude parachute tests conducted principally between 1953 and 1959.",
    "tier": 2
   },
@@ -619,7 +727,7 @@
     {
      "id": "dtic-ada326147",
      "locator": null,
-     "title": "DTIC ADA326147"
+     "title": "The Roswell Report: Case Closed (DTIC ADA326147)"
     }
    ],
    "text": "The USAF's 'Case Closed' prints James Ragsdale's interview as Appendix C at page 215, and records that the transcript 'was provided by Kevin Randle, the coauthor of the Truth About the UFO Crash at Roswell (Avon Books, 1994), in which direct quotes from this transcript appear.'",

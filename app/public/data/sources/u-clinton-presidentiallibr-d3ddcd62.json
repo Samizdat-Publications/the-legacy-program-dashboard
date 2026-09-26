@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-644f9ec8a2",
+"locator": null,
+"node": "laurance-rockefeller",
+"nodeLabel": "Laurance S. Rockefeller",
+"sourceText": "Clinton Digital Library collection finding aid, identifier 2006-0480-F",
+"text": "The Clinton Presidential Library holds a FOIA collection (2006-0480-F) consisting of correspondence between President Clinton and Laurance Rockefeller.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {

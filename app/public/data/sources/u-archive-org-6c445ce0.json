@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-902acf6392",
+"locator": null,
+"node": "richard-dolan",
+"nodeLabel": "Richard M. Dolan",
+"sourceText": "The Richard Dolan Show, 'No More Excuses: The Davis Wilson Notes', 28 September 2022 (archived copy)",
+"text": "Dolan publicly analysed the Davis-Wilson notes - a record of a 2002 meeting said to describe a deeply secret extraterrestrial technology reverse-engineering programme - in a broadcast dated 28 September 2022.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

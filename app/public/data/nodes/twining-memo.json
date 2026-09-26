@@ -10,39 +10,63 @@
 "sources": [],
 "text": "The memo is dated 23 September 1947, from Lt. Gen. Nathan Twining, Commanding General Air Materiel Command, to Brig. Gen. George Schulgen, subject 'AMC Opinion Concerning \"Flying Discs\"'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:twining-memo) was rejected in review: names the memo scan and the Condon Report; two sources"
 },
 {
 "id": "c-9a59d4155b",
 "source": "Twining memorandum, 23 Sep 1947, paragraph 2a",
-"sources": [],
+"sources": [
+{
+"id": "n-twining-memo",
+"locator": "paragraph 2a",
+"title": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+}
+],
 "text": "'The phenomenon reported is something real and not visionary or fictitious.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d9d7140369",
 "source": "Condon Report, Section V Chapter 2, quoting the Twining letter",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": "quoting the Twining letter",
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "The memo directs consideration of the possibility that the objects 'are of domestic origin -- the product of some high security project' not known to Air Force intelligence or to Air Materiel Command.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d6bdb652a8",
 "source": "Condon Report, Section V Chapter 2",
-"sources": [],
+"sources": [
+{
+"id": "u-files-ncas-org-efaea9db",
+"locator": null,
+"title": "Condon Report Sec. V Ch. 2"
+}
+],
 "text": "The memo recommended a priority project, which was directed on 30 December 1947 as Project SIGN.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f93ecd8577",
 "source": "Twining memorandum, 23 Sep 1947, as reproduced in the standard declassified text",
-"sources": [],
+"sources": [
+{
+"id": "n-twining-memo",
+"locator": "as reproduced in the standard declassified text",
+"title": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\""
+}
+],
 "text": "The memo also records that the lack of physical evidence in the form of crash-recovered exhibits was a constraint on AMC's analysis.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

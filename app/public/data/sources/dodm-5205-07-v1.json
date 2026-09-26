@@ -7,7 +7,7 @@
 {
 "cls": "program",
 "id": "c-55381ea35b",
-"locator": "Enclosure 2 para 2.c",
+"locator": null,
 "node": "carve-out",
 "nodeLabel": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "sourceText": "DoDD 5205.07 (2010) Glossary; DoDM 5205.07-V1 Enclosure 2 para 2.c; 32 CFR 117.6(b)(3)",
@@ -107,7 +107,7 @@
 {
 "cls": "domain",
 "id": "c-7ed647dbeb",
-"locator": "Enclosure 5 read against E.O. 13526 sections 3.3, 3.5 and 1.8",
+"locator": null,
 "node": "sap-cover-mechanisms",
 "nodeLabel": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "sourceText": "DoDM 5205.07-V1 Enclosure 5 read against E.O. 13526 sections 3.3, 3.5 and 1.8",

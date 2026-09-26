@@ -10,15 +10,21 @@
 "sources": [],
 "text": "BAASS funded MUFON's Star Team Impact Project in 2009 to provide rapid-response field investigation, with case data flowing back to BAASS; the arrangement ended in 2010.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-7ddfe738fe",
 "source": "BAASS Ten Month Report (2009)",
-"sources": [],
+"sources": [
+{
+"id": "n-baass-ten-month-report",
+"locator": null,
+"title": "BAASS Ten Month Report (2009)"
+}
+],
 "text": "The BAASS Ten Month Report describes case collection and database construction consistent with an external civilian reporting pipeline.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7b1c9cd54c",

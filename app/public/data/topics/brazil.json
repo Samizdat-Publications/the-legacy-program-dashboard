@@ -30,7 +30,13 @@
     "text": "Relatório de Ocorrências, 2 June 1986",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-fab-1986-report",
+     "locator": null,
+     "title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
    "text": "The report records that the interceptor pilot in the Anápolis area closed to two miles of a radar contact whose track was 'ora mantinha-se em zique-zaque, ora em curva acentuada pela direita' and which 'afastava-se repentinamente, mesmo estando o interceptador em velocidade supersônica'.",
    "tier": 1
   },
@@ -44,7 +50,13 @@
     "text": "Relatório de Ocorrências, 2 June 1986, Considerações Iniciais",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-fab-1986-report",
+     "locator": "Considerações Iniciais",
+     "title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
    "text": "The report records the technical limitation that Brazilian coverage rested on radars 'cuja finalidade primária é destinado ao controle de tráfego aéreo, não sendo portanto, específico para emprego em Defesa Aérea', making surveillance deficient.",
    "tier": 1
   },
@@ -58,7 +70,13 @@
     "text": "Relatório de Ocorrências, 2 June 1986, Considerações Finais, para 2",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-fab-1986-report",
+     "locator": "Considerações Finais, para 2",
+     "title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
    "text": "Characteristics listed in Considerações Finais: 'a - Produzem ecos radar não só do Sistema de Defesa Aérea, como também das aeronaves interceptadoras simultaneamente, com comparação visual pelos pilotos. b - Variam suas velocidades da gama subsônica até supersônica, bem como mantêm-se em vôo pairado. c - Variam suas altitudes abaixo do FL-050 até altitudes superiores FL-400.'",
    "tier": 1
   },
@@ -72,7 +90,13 @@
     "text": "Brazilian Army inquiry, 2010, quoted findings — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-6cbb6cfdf8db",
+     "locator": "quoted findings",
+     "title": "Brazilian Army inquiry, 2010"
+    }
+   ],
    "text": "The inquiry concluded that the presence of firefighters in Jardim Andere, the parking of Army trucks near a dealership for periodic maintenance and the departure of Escola de Sargentos das Armas vehicles were real events incorrectly interpreted as participation in a capture and transport.",
    "tier": 2
   },
@@ -86,7 +110,13 @@
     "text": "Wikipedia 'Operação Prato' infobox, sourced to ISTOÉ, Folha de S. Paulo, Veja and O Estado de S. Paulo",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-en-wikipedia-org-10421026",
+     "locator": "infobox, operation dates",
+     "title": "Operação Prato - Wikipedia"
+    }
+   ],
    "text": "Operation dates: first phase 20 October - 11 November 1977; second phase 25 November - 5 December 1977; executed by the Brazilian Air Force and the National Information Service; 'Operation found no unusual phenomena'.",
    "tier": 2
   },
@@ -100,7 +130,13 @@
     "text": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, 2 June 1986, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-fab-1986-report",
+     "locator": null,
+     "title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
    "text": "The Air Defence Command's report records the interceptor sequence with Zulu timings, the 13 plots astern of the second Santa Cruz F-5, and the abandonment of pursuits at bingo fuel and on loss of contact.",
    "tier": 1
   },
@@ -142,7 +178,13 @@
     "text": "Brazilian military inquiry findings, 2010, as quoted in Wikipedia 'Varginha UFO incident' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-en-wikipedia-org-627fd8ce",
+     "locator": "quoting 2010 Brazilian military inquiry findings",
+     "title": "Varginha UFO incident - Wikipedia"
+    }
+   ],
    "text": "The 2010 Brazilian military inquiry concluded that 'this citizen, probably being dirty, due to the heavy rains and seen crouching by a wall, was mistaken by the three terrified girls as a space creature', and that the movements of Fire Brigade, Army and EsSA vehicles 'were real facts ... incorrectly interpreted'.",
    "tier": 2
   },
@@ -156,7 +198,13 @@
     "text": "The Debrief, 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2c880837f7cf",
+     "locator": null,
+     "title": "The Debrief, 30 January 2026"
+    }
+   ],
    "text": "An anonymous videotaped witness said he was in the army in 1996 and helped transport the being from the Varginha hospital to Três Corações and thence to Campinas, and that on returning 'there was talk the Americans had the creature, having transported it to an undisclosed location'.",
    "tier": 2
   },
@@ -170,7 +218,13 @@
     "text": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-gov-br-57d2ae29",
+     "locator": null,
+     "title": "Arquivo Nacional (Brasil), 'Conheça o fundo sobre OVNIs do Arquivo Nacional'"
+    }
+   ],
    "text": "The Arquivo Nacional identifies the holding by name and reference: 'o Arquivo Nacional possui o Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX)? O acervo sobre OVNIs é produzido pelo Comando da Aeronáutica do Brasil e está sob a guarda do Arquivo Nacional. Ele é composto de 743 registros que incluem relatos, questionários sobre ocorrências, correspondências, fotografias, desenhos, vídeos, áudios e recortes de jornais e revistas a respeito de objetos que foram vistos nos céus brasileiros ao longo dos anos.'",
    "tier": 1
   },
@@ -204,7 +258,13 @@
     "text": "Senado Federal, RQS 193/2022",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-legis-senado-leg-br-c5ab06ed",
+     "locator": null,
+     "title": "Senado Federal (Brasil), Requerimento nº 193, de 2022 (RQS 193/2022), autoria do Senador Eduardo Girão (PODEMOS/CE) com Eliziane Gama, Alessandro Vieira, Izalci Lucas, Jorge Kajuru, Marcos do Val, Paulo Rocha e Reguffe — sessão especial para os 75 anos do Dia Mundial da Ufologia"
+    }
+   ],
    "text": "The Brazilian Senate's Requerimento 193/2022 dates the transfer route to 2007 and states that the Aeronáutica alone transferred, not the Army or the Navy: 'A partir de 2007, a Aeronáutica, mas não o Exército e nem a Marinha, passou a enviar seus papeis resultantes de suas pesquisas para o Arquivo Nacional, em Brasília. E ano após ano, até o momento, novos documentos ufológicos tiveram o mesmo destino, somando-se hoje mais de 20 mil páginas de arquivos liberados.' It also records that in August 2010 Brigadeiro Junichi Saito, then FAB commander, directed by decree published in the Diário Oficial da União that all FAB UFO cases be concentrated at COMDABRA for shipment to the Arquivo Nacional.",
    "tier": 1
   },
@@ -232,7 +292,13 @@
     "text": "Ministério da Saúde CNES open data, establishment 2761041",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-apidadosabertos-saude-go-3df3e721",
+     "locator": null,
+     "title": "CNES - Cadastro Nacional de Estabelecimentos de Saúde, establishment record 2761041 (Ministério da Saúde open data API)"
+    }
+   ],
    "text": "CNES record 2761041 registers the HOSPITAL REGIONAL DO SUL DE MINAS at Rua Rui Barbosa 158, Centro, Varginha, MG, CEP 37002-140, under municipal administrative sphere, with continuous 24-hour attendance and SUS outpatient service.",
    "tier": 1
   },
@@ -286,7 +352,13 @@
     "text": "Wikipedia 'Operação Prato', citing ISTOÉ (22 July 2013) and Folha de S. Paulo (11 January 2009)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-en-wikipedia-org-10421026",
+     "locator": "quote on operation commander and closure",
+     "title": "Operação Prato - Wikipedia"
+    }
+   ],
    "text": "'The operation was commanded by Captain Uyrangê Bolivar Soares Nogueira de Hollanda Lima ... After approximately four months, the operation was closed after finding no unusual phenomena. The official documents can be obtained from the Brazilian National Archives (Arquivo Nacional).'",
    "tier": 2
   },
@@ -300,7 +372,13 @@
     "text": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-camara-leg-br-f691c19d",
+     "locator": "item 1.2",
+     "title": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 ("
+    }
+   ],
    "text": "RIC 679/2011 records that material was withheld from the National Archives transfer: 'Estão faltando centenas de fotografias de um total de mais de 500 - só foram fornecidas aproximadamente 230 -, várias horas de filmes de OVNIs em películas super 8 e super 16 mm', and that the original I COMAR reports - 'bem mais detalhados do que o \"resumo de todos os casos de OVNIs de que o SINDACTA I participou\"' - were not sent to the Arquivo Nacional's Coordenação Regional no Distrito Federal (COREG).",
    "tier": 1
   },
@@ -348,7 +426,13 @@
     "text": "The Debrief, 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2c880837f7cf",
+     "locator": null,
+     "title": "The Debrief, 30 January 2026"
+    }
+   ],
    "text": "Burlison asked Girão: 'Are there videos that you think you might be able to get access to, any other material evidence?' Girão replied: 'I'm going to try.'",
    "tier": 2
   },
@@ -390,7 +474,13 @@
     "text": "Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO, 27/2/2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-migalhas-com-br-68726963",
+     "locator": null,
+     "title": "Justiça Federal, Seção Judiciária de Santa Catarina, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO signed 27/2/2023 ("
+    }
+   ],
    "text": "A federal suit to compel declassification of Operação Prato films (Rafael Zatarian Pederneiras v. União) was dismissed and the dismissal upheld on 27 February 2023. The court held that the claim of surviving FAB UFO films 'tem lastro especialmente em matérias jornalísticas e relatos de testemunhas, de modo que não constituem indícios suficientes quanto à existência de tais arquivos', and applied the presumption of veracity to the Administration's statement that the surviving records are no longer classified and are held by the Arquivo Nacional.",
    "tier": 1
   },
@@ -404,7 +494,13 @@
     "text": "Relatório de Ocorrências, 2 June 1986, Introdução",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-fab-1986-report",
+     "locator": "Introdução",
+     "title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
    "text": "The report's introduction states that because of limits of time and of specialised knowledge the Command chose to confine itself 'à narração simples dos fatos, de forma a não dar margem a especulações que envolvam o Ministério da Aeronáutica' - to a simple narration of the facts so as not to give scope for speculation involving the Ministry.",
    "tier": 1
   },
@@ -418,7 +514,13 @@
     "text": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-opovo-com-br-c9816d28",
+     "locator": null,
+     "title": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 ("
+    }
+   ],
    "text": "Civil-aviation corroboration on the night: at 21h04 the São José dos Campos controller Sargento Sérgio Mota da Silva contacted the twin-engine Xingu, prefix PT-MBZ, returning from Brasília, carrying Coronel Ozires Silva (who took office as president of Petrobras the following day) and copilot Alcir Pereira da Silva. Sightings were also reported by a TAM Bandeirante on the Londrina-São Paulo route and a Transbrasil aircraft over Araxá (MG).",
    "tier": 2
   },
@@ -432,7 +534,13 @@
     "text": "Portaria nº 551/GC3, de 9 de agosto de 2010, Art. 3º, transcribed in Justiça Federal SC, Recurso Cível n. 5002417-48.2022.4.04.7200/SC, RELVOTO 27/2/2023",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-81e0c999beee",
+     "locator": "Art. 3º",
+     "title": "Portaria nº 551/GC3, de 9 de agosto de 2010"
+    }
+   ],
    "text": "The mechanism that makes the fund open-ended is written into the governing order: Portaria 551/GC3 Art. 3 requires CENDOC to 'copiar, encadernar, arquivar cópias dos registros encaminhados pelo COMDABRA e enviar, periodicamente, os originais ao Arquivo Nacional.' The fund therefore grows by periodic recolhimentos; a fixed terminal year is structurally impossible while the Portaria is in force.",
    "tier": 1
   },
@@ -446,7 +554,13 @@
     "text": "The Debrief, 30 January 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-2c880837f7cf",
+     "locator": null,
+     "title": "The Debrief, 30 January 2026"
+    }
+   ],
    "text": "Claussen: a US cargo mission of this kind 'would require paperwork from Air Mobility Command at Scott AFB in Illinois and the Air Mobility Wing at Charleston AFB in South Carolina', plus refuelling records and an international flight plan; Brazilian air traffic controller Marco Feres reported that on or about 20 January 1996 a USAF cargo aircraft, most likely a C-17, landed at Viracopos airport in Campinas to collect an unusual cargo.",
    "tier": 2
   },
@@ -460,7 +574,13 @@
     "text": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-newsnationnow-com-1f758090",
+     "locator": null,
+     "title": "NewsNation - Lawmaker asks FBI, CIA for info on Brazil's Roswell moment"
+    }
+   ],
    "text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
    "tier": 2
   },
@@ -488,7 +608,13 @@
     "text": "Jacques Vallée, Confrontations: A Scientist's Search for Alien Contact (Ballantine, 1990), p.134",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-3bde8c2feb97",
+     "locator": null,
+     "title": "Confrontations: A Scientist's Search for Alien Contact"
+    }
+   ],
    "text": "Jacques Vallée reported that individuals were said to have been killed by the lights and that injuries were consistent with radiation effects from microwaves.",
    "tier": 2
   },
@@ -502,7 +628,13 @@
     "text": "Arquivo Nacional BR_DFANBSB_ARX_0_0_0249, page images",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-fab-1986-report",
+     "locator": "page images",
+     "title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
    "text": "Document header: 'MINISTÉRIO DA AERONÁUTICA, COMANDO AÉREO DE DEFESA AÉREA ... Brasília-DF, 02 de Junho de 1986. Do Comandante. Ao Exmo Sr Comandante do Comando Geral do Ar. Assunto: Relatório de Ocorrência.' Classification marking [CONFIDENCIAL] on each page.",
    "tier": 1
   },
@@ -536,7 +668,13 @@
     "text": "Comando Aéreo de Defesa Aérea, Relatório de Ocorrências, Brasília-DF, 2 June 1986, signed Brig do Ar José Pessoa Cavalcanti de Albuquerque, Arquivo Nacional BR_DFANBSB_ARX_0_0_0249",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-doc-fab-1986-report",
+     "locator": "signed Pessoa Cavalcanti quote",
+     "title": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)"
+    }
+   ],
    "text": "'Como conclusão dos fatos constantes observados, em quase todas as apresentações, este Comando é de parecer, que os fenômenos são sólidos e refletem de certa forma inteligência, pela capacidade de acompanhar e manter distância dos observadores como também voar em formação, não forçosamente tripulados.'",
    "tier": 1
   },
@@ -604,7 +742,13 @@
     "text": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-opovo-com-br-c9816d28",
+     "locator": null,
+     "title": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 ("
+    }
+   ],
    "text": "The 23-year delay: at the close of the 23 May 1986 press conference the Minister undertook to publish a complete dossier 'dentro de 30 dias'. The report - signed by the interim Comando da Aeronáutica (COMDA) commander José Pessoa Cavalcanti de Albuquerque and dated 2 June 1986 - was released only on 25 September 2009, 23 years later.",
    "tier": 2
   },
@@ -666,7 +810,13 @@
     "text": "Brazilian Army inquiry, 2010 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-6cbb6cfdf8db",
+     "locator": null,
+     "title": "Brazilian Army inquiry, 2010"
+    }
+   ],
    "text": "A 2010 Brazilian military inquiry concluded the women had encountered Luiz Antonio de Paula, known as 'Mudinho', with the commander of the 24th Military Police Battalion supplying photographs and stating his physical characteristics matched the description.",
    "tier": 2
   },
@@ -694,7 +844,13 @@
     "text": "Câmara dos Deputados, RIC 679/2011, item 1.2, 22 June 2011",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-camara-leg-br-f691c19d",
+     "locator": "item 1.2",
+     "title": "Câmara dos Deputados, RIC 679/2011, item 1.3 and justificação, 22 June 2011 ("
+    }
+   ],
    "text": "Brigadeiro Protázio Lopes de Oliveira is identified in the same parliamentary document as 'Chefe do I COMAR à época da Operação', placing the operation under the 1º Comando Aéreo Regional in Belém/PA, 1977-1978.",
    "tier": 1
   },

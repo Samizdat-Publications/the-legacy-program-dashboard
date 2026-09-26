@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-f05f4016dc",
+"locator": null,
+"node": "senado-brasil",
+"nodeLabel": "Senado Federal do Brasil",
+"sourceText": "The Debrief, 'Landmark Brazilian UFO case reaches Capitol Hill as Varginha incident turns 30', 30 January 2026 (recorded on this board under eduardo-girao)",
+"text": "Girão has publicly pursued the Varginha file, and the case was brought to Capitol Hill around its thirtieth anniversary in 2026.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {

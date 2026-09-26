@@ -1,6 +1,47 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-10cf1bb2ee",
+"locator": null,
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "Sarbacher to Steinman, 29 November 1983, facsimile",
+"text": "The letter states that materials 'reported to have come from flying saucer crashes were extremely light and very tough', and that he 'got the impression these aliens were constructed like certain insects we have observed on earth.' Both are given as impressions relayed to him, not as first-hand observation.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-5a9d408a65",
+"locator": null,
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "Sarbacher to Steinman, 29 November 1983, facsimile",
+"text": "In the same letter Sarbacher states that he was invited to but did not attend any recovery meeting: 'I could not personally attend the meetings.' The distinction is his own and is the single most important thing the letter establishes.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-6c6d113ac4",
+"locator": null,
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "Sarbacher to Steinman, 29 November 1983, two-page signed facsimile",
+"text": "In a signed letter of 29 November 1983 to William Steinman, on Washington Institute of Technology letterhead, Sarbacher writes that John von Neumann and Vannevar Bush 'definitely' were involved and 'I think Dr. Robert Oppenheimer also'.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-c32d4b48a9",
+"locator": "facsimile pp.1-2 vs transcript pp.3-4",
+"node": "robert-sarbacher",
+"nodeLabel": "Robert I. Sarbacher",
+"sourceText": "Sarbacher to Steinman, 29 November 1983; facsimile pages 1-2 compared with transcript pages 3-4 of the same PDF",
+"text": "The letter's postscript -- 'It occurs to me that Dr. Bush's name is inccorrect as you have it. Please check the spelling' -- is omitted from the typed transcript bound into the same PDF, so a citation to the transcript rather than the scan is a citation to an abridged document.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -35,7 +76,18 @@
 ],
 "node": null,
 "title": "Sarbacher to Steinman, 29 November 1983, signed facsimile",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-10cf1bb2ee",
+"c-5a9d408a65",
+"c-6c6d113ac4",
+"c-c32d4b48a9"
+],
+"id": "canada",
+"title": "Canada: Project Magnet and Sky Canada"
+}
+],
 "type": "document",
 "urls": [
 "https://ia802909.us.archive.org/9/items/majiall337/sarbacher-steinman-29nov83.pdf"

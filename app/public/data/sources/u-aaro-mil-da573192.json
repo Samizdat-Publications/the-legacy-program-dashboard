@@ -2,7 +2,18 @@
 "archived": [
 "https://web.archive.org/web/20251118010135/https://www.aaro.mil/Portals/136/PDFs/Phillips_Timothy_Bio-DEC%202023-(Acting_Director_Ver)_508.pdf"
 ],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-d4591cd070",
+"locator": null,
+"node": "tim-phillips",
+"nodeLabel": "Timothy A. Phillips",
+"sourceText": "AARO official biography, Timothy A. Phillips, Deputy Director (Acting Director version), December 2023",
+"text": "Phillips served as AARO Acting Director from December 2023 to August 2024 while remaining Deputy Director, on assignment from ODNI.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -37,7 +48,15 @@
 ],
 "node": null,
 "title": "AARO - Timothy A. Phillips biography (Acting Director version)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-d4591cd070"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
+}
+],
 "type": "document",
 "urls": [
 "https://www.aaro.mil/Portals/136/PDFs/Phillips_Timothy_Bio-DEC%202023-(Acting_Director_Ver)_508.pdf"

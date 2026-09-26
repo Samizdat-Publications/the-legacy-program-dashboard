@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-819fcb217d",
+"locator": null,
+"node": "ken-klippenstein",
+"nodeLabel": "Ken Klippenstein",
+"sourceText": "The Intercept, 9 August 2023",
+"text": "Published Loudoun County Sheriff's Office records describing Grusch's 2014 and 2018 emergency custody episodes, obtained under Virginia FOIA.",
+"tier": 1
+}
+],
 "date": "2023-08-09",
 "edges": [
 {
@@ -74,7 +85,22 @@
 ],
 "node": null,
 "title": "The Intercept - UFO Whistleblower Kept Security Clearance After Psychiatric Detention",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-819fcb217d"
+],
+"id": "grusch-allegations",
+"title": "Grusch's allegations: crash retrieval, biologics, misappropriation and reprisal"
+},
+{
+"claims": [
+"c-819fcb217d"
+],
+"id": "media-substrate",
+"title": "Podcasts, broadcasters and independent media"
+}
+],
 "type": "article",
 "urls": [
 "https://theintercept.com/2023/08/09/ufo-david-grusch-clearance/"

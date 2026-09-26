@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-a533456e7c",
+"locator": null,
+"node": "bechtel-nevada",
+"nodeLabel": "Bechtel Nevada Corporation",
+"sourceText": "OSTI.GOV record, Nevada Test Site Environmental Report 2005",
+"text": "Bechtel Nevada is the research organisation of record on DOE Nevada Test Site technical and environmental reports through 2006, succeeded by National Security Technologies, LLC.",
+"tier": 1
+},
+{
+"cls": "location",
+"id": "c-b3ba5d9c80",
+"locator": null,
+"node": "l-nevada-test-site",
+"nodeLabel": "Nevada Test Site / Nevada National Security Site",
+"sourceText": "OSTI.GOV, Nevada Test Site Environmental Report 2005",
+"text": "Bechtel Nevada and subsequently National Security Technologies, LLC appear as the management and operating research organisations of record on DOE Nevada Test Site technical reports.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -96,7 +117,15 @@
 ],
 "node": null,
 "title": "OSTI.GOV: Nevada Test Site Environmental Report 2005, research organization Bechtel Nevada",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-a533456e7c"
+],
+"id": "area-51-ranges",
+"title": "Area 51 and the Nevada ranges"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.osti.gov/biblio/892135"

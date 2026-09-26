@@ -9,9 +9,9 @@
 "source": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
 "sources": [
 {
-"id": "u-robscholtemuseum-nl-4202b907",
+"id": "n-cooper-secret-government-1989",
 "locator": null,
-"title": "Milton William Cooper, 'The Secret Government', dated on its own first page 23 May 1989, updated 21 November 1990, 49pp, text extracted and searched in full"
+"title": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990"
 }
 ],
 "text": "INDEPENDENT 1989 CORROBORATION OF THE HOWE EPISODE FROM A THIRD PARTY. Milton William Cooper's paper dated 23 May 1989 records: 'she confided to me that Sgt. Richard Doty of the Counterintelligence Division of the Air Force Office of Special Investigations had taken her into the Intelligence office at Kirtland Air Force Base in New Mexico and showed her the exact same documents that I had seen.' This corroborates that Howe was telling the story by 1989 and corroborates nothing about the documents' contents or authenticity.",
@@ -29,10 +29,16 @@
 {
 "id": "c-ef98e69bfa",
 "source": "National Archives, Project BLUE BOOK / MJ-12 reference report",
-"sources": [],
+"sources": [
+{
+"id": "u-archives-gov-fcf00d64",
+"locator": null,
+"title": "National Archives, 'Project BLUE BOOK - Unidentified Flying Objects' reference report (incl. MJ-12 / Cutler-Twining findings)"
+}
+],
 "text": "The National Archives searched NSC Policy Paper and Meeting Minute indexes under the subjects 'MJ-12, majestic, unidentified flying objects, UFO, flying saucers, extraterrestrial biological entities, and Aquarius' and reported all searches negative except for the July 1954 Cutler-Twining memorandum.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5be93ffc7e",
@@ -40,7 +46,7 @@
 "sources": [],
 "text": "Linda Moulton Howe was shown a document described as a government briefing paper by AFOSI Special Agent Richard Doty at Kirtland AFB in April 1983 and was not permitted to retain a copy.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic description of dispersed public statements, not one document."
 }
 ],
 "cls": "program",

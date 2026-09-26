@@ -1,21 +1,168 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-ce2fa867d3",
+"locator": null,
+"node": "kevin-knuth",
+"nodeLabel": "Kevin H. Knuth",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Knuth is a co-author of the 2025 UAPx field-expedition results paper in Progress in Aerospace Sciences.",
+"tier": 1
+},
+{
+"cls": "person",
+"id": "c-a5be1805ef",
+"locator": null,
+"node": "matthew-szydagis",
+"nodeLabel": "Matthew Szydagis",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Szydagis is first author of 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena', Progress in Aerospace Sciences 156:101099 (June 2025), with Kevin H. Knuth, Benjamin Kugielsky and Cecilia Levy.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-f8090d9099",
+"locator": null,
+"node": "uapx",
+"nodeLabel": "UAPx",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Szydagis, Knuth, Kugielsky and Levy published 'Initial results from the first field expedition of UAPx to study unidentified anomalous phenomena' in Progress in Aerospace Sciences 156:101099 in June 2025.",
+"tier": 1
+},
+{
+"cls": "institution",
+"id": "c-c361f13e44",
+"locator": null,
+"node": "university-at-albany",
+"nodeLabel": "University at Albany (SUNY), Department of Physics",
+"sourceText": "Progress in Aerospace Sciences, DOI 10.1016/j.paerosci.2025.101099",
+"text": "Szydagis and Knuth co-authored the 2025 UAPx field-expedition paper in Progress in Aerospace Sciences.",
+"tier": 1
+}
+],
 "date": "2025",
-"edges": [],
+"edges": [
+{
+"a": {
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+"b": {
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+"claimTier": 2,
+"id": "e-896d81813e",
+"label": "Vice President of UAPx and co-author of the 2025 paper",
+"note": "Knuth links UAPx to the Galileo Project, where he is a research affiliate, and to SCU through the Entropy collaboration with Powell.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+"b": {
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+"claimTier": 1,
+"id": "e-d908a007f9",
+"label": "Co-founder; first author of the field-expedition results",
+"note": "A liquid-xenon dark-matter physicist applying direct-detection discipline - background rates, instrumental artefacts, false positives - to open-air field observation.",
+"type": "institutional"
+},
+{
+"a": {
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+"b": {
+"cls": "document",
+"id": "paper-uapx-2025",
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+},
+"claimTier": 1,
+"id": "e-aa57215d9a",
+"label": "First peer-reviewed UAP field-expedition results",
+"note": "Progress in Aerospace Sciences 156:101099, June 2025 - a published field protocol against which any future government sensor release can be compared.",
+"type": "programmatic"
+},
+{
+"a": {
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+},
+"b": {
+"cls": "document",
+"id": "paper-uapx-2025",
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+},
+"claimTier": 1,
+"id": "e-2e75fc55f4",
+"label": "Three of four authors carry the UAlbany affiliation; the University publicised the result under its own name",
+"note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
+"type": "research"
+}
+],
 "era": "3",
 "id": "n-paper-uapx-2025",
 "identifiers": [],
 "interestedParty": false,
-"issuer": null,
-"listedOn": [],
+"issuer": "DOI",
+"listedOn": [
+{
+"cls": "person",
+"id": "kevin-knuth",
+"label": "Kevin H. Knuth"
+},
+{
+"cls": "person",
+"id": "matthew-szydagis",
+"label": "Matthew Szydagis"
+},
+{
+"cls": "document",
+"id": "paper-uapx-2025",
+"label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
+},
+{
+"cls": "institution",
+"id": "uapx",
+"label": "UAPx"
+},
+{
+"cls": "institution",
+"id": "university-at-albany",
+"label": "University at Albany (SUNY), Department of Physics"
+}
+],
 "node": {
 "cls": "document",
 "id": "paper-uapx-2025",
 "label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099"
 },
 "title": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-a5be1805ef",
+"c-f8090d9099"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
+}
+],
 "type": "document",
-"urls": []
+"urls": [
+"https://doi.org/10.1016/j.paerosci.2025.101099"
+]
 }

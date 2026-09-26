@@ -10,15 +10,21 @@
 "sources": [],
 "text": "S. 2103 Sec. 1104 would have withheld funds for propulsion technology 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and for any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:iaa-fy2024-sec1104) was rejected in review: string names the whole bill; candidate is one section"
 },
 {
 "id": "c-2b6443b687",
 "source": "USAspending.gov recipient search, retrieved 12 August 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-usaspending-gov-92ade960",
+"locator": null,
+"title": "USAspending.gov federal award search (prime contract obligations by recipient)"
+}
+],
 "text": "USAspending records approximately $8.7 billion in prime contract obligations to Aerojet Rocketdyne entities since FY2008.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

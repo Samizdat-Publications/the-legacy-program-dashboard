@@ -40,18 +40,30 @@
 {
 "id": "c-d4591cd070",
 "source": "AARO official biography, Timothy A. Phillips, Deputy Director (Acting Director version), December 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-aaro-mil-da573192",
+"locator": null,
+"title": "AARO - Timothy A. Phillips biography (Acting Director version)"
+}
+],
 "text": "Phillips served as AARO Acting Director from December 2023 to August 2024 while remaining Deputy Director, on assignment from ODNI.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a8d09dea48",
 "source": "DoD transcript, 'Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1'",
-"sources": [],
+"sources": [
+{
+"id": "u-war-gov-4d23009e",
+"locator": null,
+"title": "DoD - Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1"
+}
+],
 "text": "Phillips conducted the Department's media engagement on Historical Record Report Volume I on 6 March 2024; DoD published the transcript.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-f4bd538237",
@@ -59,15 +71,21 @@
 "sources": [],
 "text": "Phillips publicly reoriented AARO toward current cases and warfighter support and away from historical research.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/private-press-briefing-transcript-with-act) was rejected in review: names two sources; candidate is only one"
 },
 {
 "id": "c-517b0ae937",
 "source": "DefenseScoop, 8 March 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-2fe9c66b",
+"locator": null,
+"title": "DefenseScoop - DOD developing 'Gremlin' capability to help personnel collect real-time UAP data"
+}
+],
 "text": "AARO disclosed the GREMLIN capability for real-time UAP data collection at the Volume I rollout.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

@@ -3,6 +3,16 @@
 "claims": [
 {
 "cls": "person",
+"id": "c-602dc68f5f",
+"locator": "0:34:30",
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"sourceText": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:34:30",
+"text": "At 0:34:30 in the same episode Bishop said that in his own reading Bennewitz 'was his own worst enemy' and that the specific thing he knows Bill Moore did was to be told to give Bennewitz the Aquarius document, in which two of Bennewitz's own films are mentioned. The author of the standard account is on the record limiting what he says was actually done to the man.",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-6a5b76f83d",
 "locator": null,
 "node": "paul-bennewitz",
@@ -51,6 +61,7 @@
 "topics": [
 {
 "claims": [
+"c-602dc68f5f",
 "c-6a5b76f83d"
 ],
 "id": "dulce",
@@ -58,6 +69,7 @@
 },
 {
 "claims": [
+"c-602dc68f5f",
 "c-6a5b76f83d"
 ],
 "id": "kirtland-1980",

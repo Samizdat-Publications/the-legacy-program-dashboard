@@ -74,10 +74,16 @@
 {
 "id": "c-f35d1610f3",
 "source": "Science magazine, June 2022",
-"sources": [],
+"sources": [
+{
+"id": "t-9b5765e9a42e",
+"locator": null,
+"title": "Science magazine, June 2022"
+}
+],
 "text": "Taylor was the chief scientist on the Unidentified Aerial Phenomena Task Force.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-be24d2fe5f",
@@ -85,7 +91,7 @@
 "sources": [],
 "text": "Taylor's pre-UAPTF federal work covered advanced propulsion concepts, space-based beamed energy systems, high-energy lasers, large space telescopes and multi-INT concept studies over more than sixteen years for DoD and NASA.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic 'published professional biography' description, no outlet or title named."
 },
 {
 "id": "c-d5d9077035",
@@ -209,7 +215,7 @@
 "status": "active",
 "sub": "Aerospace engineer and optical scientist; Chief Scientist of the Unidentified Aerial Phenomena Task Force; Principal Research Scientist, Radiance Technologies",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 643 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 642 of 1138, score 26). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

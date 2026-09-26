@@ -21,34 +21,58 @@
 {
 "id": "c-587a2dbcc6",
 "source": "NNSA, About NNSA",
-"sources": [],
+"sources": [
+{
+"id": "u-energy-gov-3c52f884",
+"locator": null,
+"title": "NNSA - About NNSA"
+}
+],
 "text": "DOE's National Nuclear Security Administration was 'Established by Congress in 2000' as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-b3474b79d3",
 "source": "AARO Historical Record Report Volume I, p. 30",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": "p.30",
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO states that it 'sent guidance and requests to DoD, IC elements, DOE, and DHS to review and provide any NDAs pertaining to UAP'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8d7a662d03",
 "source": "Los Alamos National Laboratory, 'FOIA requests at the National Security Research Center', 18 November 2024",
-"sources": [],
+"sources": [
+{
+"id": "u-lanl-gov-b738e76f",
+"locator": null,
+"title": "Los Alamos National Laboratory - FOIA requests at the National Security Research Center"
+}
+],
 "text": "Los Alamos National Laboratory's National Security Research Center holds and processes FOIA requests on the laboratory's classified historical record, including material on the 1949 green fireball investigations.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1ca1bc4d7e",
 "source": "Atomic Energy Act of 1954, as amended, and DOE classification policy",
-"sources": [],
+"sources": [
+{
+"id": "t-8243876d4824",
+"locator": null,
+"title": "Atomic Energy Act of 1954, as amended"
+}
+],
 "text": "Restricted Data and Formerly Restricted Data under the Atomic Energy Act of 1954 are classified by statute rather than by executive order, and are administered jointly by DOE and DoD outside the EO 13526 declassification framework.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-4a465f26ab",

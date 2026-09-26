@@ -86,9 +86,9 @@
 "source": "Full-text search of the 14 June 2001 FOIA release, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "sources": [
 {
-"id": "u-documents-theblackvault--8e6b0d44",
+"id": "n-doc-341-smw-history-1967",
 "locator": null,
-"title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+"title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
 }
 ],
 "text": "The event Salas places himself at is NOT the event the released Air Force paper documents. A full-text search of the 88 released pages of the 341st Strategic Missile Wing histories returns zero occurrences of 'Oscar', zero of 'O Flight', zero of '24 Mar' and zero of '25 Mar'. The release documents Echo Flight on 16 March 1967 and nothing else in March 1967.",
@@ -100,9 +100,9 @@
 "source": "341st SMW history, Jan-Mar 1967, p 32, https://documents.theblackvault.com/documents/ufos/malmstromufo.pdf , opened 2026-09-19",
 "sources": [
 {
-"id": "u-documents-theblackvault--8e6b0d44",
+"id": "n-doc-341-smw-history-1967",
 "locator": null,
-"title": "341st Strategic Missile Wing quarterly histories, 1 January 1967 to 31 March 1968, excerpts released to John Greenewald Jr by Headquarters 341st Space Wing on 14 June 2001 under his FOIA request of 9 May 2001, signed Marty S. Stephens"
+"title": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)"
 }
 ],
 "text": "On one disputed point the same document supports him against his critics. The history states that all launch facilities in Echo Flight lost strategic alert nearly simultaneously, which supports a figure of ten and not the three or four attributed to Capt. Eric D. Carlson.",
@@ -116,7 +116,7 @@
 {
 "id": "u-ufohastings-com-30d064f4",
 "locator": null,
-"title": "Robert Hastings, 'The Echo and Oscar Flight Incidents', separating the two events and dating Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. Opened 19 September 2026"
+"title": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
 }
 ],
 "text": "Robert Hastings now places the Oscar Flight incident on 24 March 1967, eight days after Echo Flight, on Capt. Robert Jamison's information, and states that Salas agrees the two incidents probably occurred on separate days. For years the Oscar Flight account was told as part of the 16 March event, which allowed Echo Flight's documentation to be read as corroborating it.",
@@ -130,7 +130,7 @@
 {
 "id": "u-kevinrandle-blogspot-com-f5c6740b",
 "locator": null,
-"title": "Kevin Randle, 'A Different Perspective: Robert Salas and Me', 19 May 2013. Opened 19 September 2026"
+"title": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
 }
 ],
 "text": "Kevin Randle records Salas revising the number of missiles involved in conversation, quoting Salas saying 'Split the difference and I said eight' and noting that Salas later claimed all ten, and records a discrepancy between Salas, who gives all, and Col. Frederick Meiwald, who gives four or five.",
@@ -156,18 +156,30 @@
 {
 "id": "c-cb832607da",
 "source": "ufohastings.com document archive, item af_teletype_1967-03-17_loss_of_strategic_alert",
-"sources": [],
+"sources": [
+{
+"id": "u-ufohastings-com-1ca28766",
+"locator": "item af_teletype_1967-03-17_loss_of_strategic_alert",
+"title": "UFOs & Nukes document archive"
+}
+],
 "text": "An Air Force teletype dated 17 March 1967 reporting loss of strategic alert at Malmstrom AFB is published in facsimile in the UFOs & Nukes document archive under the heading 'Malmstrom AFB, March 16, 1967 (Echo Flight shutdown)'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-6b82b1dcc5",
 "source": "Salas, Great Falls Tribune interview (1996); signed affidavit published by Robert Hastings; 'Faded Giant' (2005)",
-"sources": [],
+"sources": [
+{
+"id": "t-4fb7b5a4d233",
+"locator": "cf. affidavit published by Hastings; 'Faded Giant' (2005)",
+"title": "Salas, Great Falls Tribune interview (1996"
+}
+],
 "text": "Salas states that while on duty in a Minuteman launch control capsule at Malmstrom in March 1967 he received a report from topside security police of a glowing red object over the front gate, and that his flight's missiles then went off alert.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-03362a8602",
@@ -175,7 +187,7 @@
 "sources": [],
 "text": "Col. Frederick Meiwald, Salas's commander, wrote to Salas on 1 October 1996 concerning the incident; the letter is published in facsimile.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufohastings.com/documents) was rejected in review: cannot tell the Letters section is the documents page"
 },
 {
 "id": "c-e0f961b006",
@@ -183,7 +195,7 @@
 "sources": [],
 "text": "Salas signed an affidavit on the incident which Robert Hastings publishes in facsimile.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:ufohastings.com/documents) was rejected in review: cannot tell the Affidavits section is the documents page"
 }
 ],
 "cls": "person",

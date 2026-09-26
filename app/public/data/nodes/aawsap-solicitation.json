@@ -7,26 +7,44 @@
 {
 "id": "c-6f04a62857",
 "source": "DIA solicitation HHM402-08-R-0211, v.3, released via The Black Vault",
-"sources": [],
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": null,
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "Solicitation number HHM402-08-R-0211, posted 18 August 2008 by DIA Virginia Contracting Activity (ZD50), contracting officer Jennifer Sylvestre, Government Project Leader Dr. James T. Lacatski.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8bac906d64",
 "source": "HHM402-08-R-0211 statement of work",
-"sources": [],
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": "statement of work",
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "'The objective of this program is to understand the physics and engineering of these applications as they apply to the foreign threat out to the far term, i.e., from now through the year 2050.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-e12db74401",
 "source": "HHM402-08-R-0211 statement of work",
-"sources": [],
+"sources": [
+{
+"id": "n-aawsap-solicitation",
+"locator": "statement of work",
+"title": "DIA Solicitation HHM402-08-R-0211"
+}
+],
 "text": "The statement of work specifies eleven technical areas including 'spatial/temporal translation', 'signature reduction', 'human interface' and 'human effects'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-ee7b29a4c7",

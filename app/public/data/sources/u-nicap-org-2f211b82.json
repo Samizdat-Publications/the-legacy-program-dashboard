@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-f35d9da38e",
+"locator": null,
+"node": "howard-mccoy",
+"nodeLabel": "Howard M. McCoy",
+"sourceText": "NICAP document archive, file 471124_McCoy_to_Chief_of_Staff.pdf, indexed in the public NICAP /docs/ directory",
+"text": "A 24 November 1947 letter from AMC intelligence to the Air Force Chief of Staff on the flying disc problem exists and is preserved in scanned form.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -52,7 +63,22 @@
 ],
 "node": null,
 "title": "AMC letter to Chief of Staff, 24 November 1947 (scan)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-f35d9da38e"
+],
+"id": "sign-estimate",
+"title": "The 1947 wave, the Twining memo and Project Sign, 1947-49"
+},
+{
+"claims": [
+"c-f35d9da38e"
+],
+"id": "wright-patterson-ftd",
+"title": "Wright-Patterson: ATIC, the Foreign Technology Division and Moon Dust"
+}
+],
 "type": "document",
 "urls": [
 "https://www.nicap.org/docs/471124_McCoy_to_Chief_of_Staff.pdf"

@@ -25,18 +25,30 @@
 {
 "id": "c-001ebc4771",
 "source": "GI, DOI 10.5194/gi-14-335-2025",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-2f1e44a9",
+"locator": null,
+"title": "Vervelidou, Delacroix, Domine, Kelderman, Little et al., 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335"
+}
+],
 "text": "Little is a co-author of 'The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena', Geoscientific Instrumentation, Methods and Data Systems 14:335 (2025).",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-46b1456f9e",
 "source": "SCU, Zenodo DOI 10.5281/zenodo.10287332",
-"sources": [],
+"sources": [
+{
+"id": "u-doi-org-61f4d7b4",
+"locator": null,
+"title": "Powell, Little, Hancock, Hasan & Truong, 'The Reported Shape, Size, Kinematics, Electromagnetic Effects, and Presence of Sound of Unidentified Aerial Phenomena', SCU (Zenodo)"
+}
+],
 "text": "Little is a co-author of the 2023 SCU study on reported UAP shape, size, kinematics, electromagnetic effects and sound.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

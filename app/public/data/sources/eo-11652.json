@@ -4,7 +4,7 @@
 {
 "cls": "legislation",
 "id": "c-287447c8d8",
-"locator": "sec. 5(A",
+"locator": null,
 "node": "eo-11652",
 "nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "sourceText": "EO 11652 sec. 5(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
@@ -14,7 +14,7 @@
 {
 "cls": "legislation",
 "id": "c-4258ba182e",
-"locator": "sec. 14",
+"locator": null,
 "node": "eo-11652",
 "nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "sourceText": "EO 11652 sec. 14, https://irp.fas.org/offdocs/eo/eo-11652.htm",
@@ -24,7 +24,7 @@
 {
 "cls": "legislation",
 "id": "c-6699966445",
-"locator": "sec. 7(A",
+"locator": null,
 "node": "eo-11652",
 "nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "sourceText": "EO 11652 sec. 7(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
@@ -34,7 +34,7 @@
 {
 "cls": "legislation",
 "id": "c-6ab9bfb8f7",
-"locator": "sec. 1(A",
+"locator": null,
 "node": "eo-11652",
 "nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "sourceText": "EO 11652 sec. 1(A), https://irp.fas.org/offdocs/eo/eo-11652.htm",
@@ -44,21 +44,11 @@
 {
 "cls": "legislation",
 "id": "c-8af24c15fd",
-"locator": "sec. 5(E",
+"locator": null,
 "node": "eo-11652",
 "nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "sourceText": "EO 11652 sec. 5(E), https://irp.fas.org/offdocs/eo/eo-11652.htm",
 "text": "Section 5(E)(1) is a thirty-year rule: material classified after the effective date is automatically declassified at 30 full calendar years unless the head of the originating Department personally determines in writing that continued protection is essential. Section 5(E)(2) puts pre-existing material over 30 years old under systematic review by the Archivist of the United States.",
-"tier": 1
-},
-{
-"cls": "legislation",
-"id": "c-a633f4d28c",
-"locator": "signature block and sec. 15, and the NARA disposition table",
-"node": "eo-11652",
-"nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
-"sourceText": "EO 11652 signature block and sec. 15, and the NARA disposition table, https://www.archives.gov/federal-register/executive-orders/1972.html",
-"text": "Signed by Richard Nixon on 8 March 1972, published at 37 FR 5209 on 10 March 1972, effective 1 June 1972 under section 15.",
 "tier": 1
 },
 {
@@ -74,7 +64,7 @@
 {
 "cls": "legislation",
 "id": "c-f844ee821b",
-"locator": "full text, absence of any such statement",
+"locator": null,
 "node": "eo-11652",
 "nodeLabel": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "sourceText": "EO 11652 full text, absence of any such statement, https://irp.fas.org/offdocs/eo/eo-11652.htm",
@@ -147,7 +137,6 @@
 "c-6699966445",
 "c-6ab9bfb8f7",
 "c-8af24c15fd",
-"c-a633f4d28c",
 "c-a633f4d28c",
 "c-f844ee821b"
 ],

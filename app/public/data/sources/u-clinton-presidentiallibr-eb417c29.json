@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8b9dfccdc0",
+"locator": null,
+"node": "steven-greer",
+"nodeLabel": "Steven M. Greer",
+"sourceText": "Clinton Digital Library collection finding aid, identifier 2006-0474-F",
+"text": "The Clinton Presidential Library's UFO FOIA collection 2006-0474-F 'consists of letters, correspondence tracking forms, memos, reports, email and cables relating to UFO's or extraterrestrial beings. A majority of the collection are documents which were sent to the White House by Steven M. Greer, the head of a nongovernmental organization called the Center for the Study of Extraterrestrial Intelligence (CSETI).'",
+"tier": 1
+},
+{
+"cls": "program",
+"id": "c-4d7b35acd7",
+"locator": null,
+"node": "disclosure-project",
+"nodeLabel": "The Disclosure Project",
+"sourceText": "Clinton Digital Library collection finding aid 2006-0474-F",
+"text": "The Clinton White House's principal UFO FOIA collection (2006-0474-F) consists in the majority of documents sent to the White House by Steven M. Greer of CSETI.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -118,7 +139,16 @@
 ],
 "node": null,
 "title": "Clinton Digital Library, FOIA collection 2006-0474-F, 'Unidentified Flying Objects (UFO)' (Greer/CSETI correspondence)",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-8b9dfccdc0",
+"c-4d7b35acd7"
+],
+"id": "disclosure-project-2001",
+"title": "The Disclosure Project, 2001"
+}
+],
 "type": "web page",
 "urls": [
 "https://clinton.presidentiallibraries.us/items/show/36386"

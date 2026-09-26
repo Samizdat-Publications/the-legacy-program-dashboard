@@ -9,9 +9,9 @@
 "source": "Ansel E. Talbert, New York Herald Tribune, 20 November 1955, continuation p. 36. https://archive.org/download/talbert1ny/talbert1ny_djvu.txt",
 "sources": [
 {
-"id": "u-archive-org-aca8a822",
+"id": "n-talbert-gravity-series-1955",
 "locator": null,
-"title": "Ansel E. Talbert, 'Conquest of Gravity Aim Of Top Scientists in U. S.', New York Herald Tribune, 20 November 1955, page image"
+"title": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
 }
 ],
 "text": "The Herald Tribune series of November 1955 lists 'Bell Aircraft of Buffalo, builders of the first piloted airplane to fly faster than sound and a current jet vertical take-off and landing airplane' among the aircraft industry firms 'now participating or actively interested in gravity'.",
@@ -23,9 +23,9 @@
 "source": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, p. 1. https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "sources": [
 {
-"id": "u-archive-org-1db9ad13",
+"id": "n-talbert-gravity-series-1955",
 "locator": null,
-"title": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, page image"
+"title": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
 }
 ],
 "text": "Lawrence D. Bell told Talbert: 'Aviation as we know it is on the threshold of amazing new concepts', and 'The Wright Brothers proved that man does not have to be earth-bound. Our next step will be to prove that we can operate outside the earth's atmosphere and the third will be to operate outside the gravity of the earth.'",
@@ -37,9 +37,9 @@
 "source": "Talbert, New York Herald Tribune, 22 November 1955, p. 1 and caption. https://archive.org/download/talbert3ny/talbert3ny_djvu.txt",
 "sources": [
 {
-"id": "u-archive-org-1db9ad13",
+"id": "n-talbert-gravity-series-1955",
 "locator": null,
-"title": "Ansel E. Talbert, 'New Air Dream, Planes Flying Outside Gravity', New York Herald Tribune, 22 November 1955, page image"
+"title": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955"
 }
 ],
 "text": "The same article reports that Bell's company had in the preceding days made the first powered flights with its new Bell X-2 rocket plane, and that it was testing a jet vertical-rising-and-landing aircraft. Its photograph caption names three Air Force test pilots with Bell: Lt. Col. Frank J. Everest, Maj. Charles Yeager and Maj. Arthur Murray.",
@@ -49,10 +49,16 @@
 {
 "id": "c-22ae65b2b2",
 "source": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md",
-"sources": [],
+"sources": [
+{
+"id": "t-2cc2eb1059bd",
+"locator": "2:35:18",
+"title": "Danny Jones Podcast, ep. 248, 8 July 2024, 2:35:18, mapped at research/leads/dannyjones-corpus-12.md"
+}
+],
 "text": "On the Danny Jones Podcast, episode 248, 8 July 2024, at 2:35:18, Jason Reza Jorjani named Bell alongside Martin as a second company making the same public electrogravitics claims, and dated the claims to 1953. The opened articles are dated November 1955, and the words attributed to Bell in them do not use the term electrogravitics.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "institution",

@@ -101,10 +101,16 @@
 {
 "id": "c-138447a3b5",
 "source": "Sue Gough, quoted by DefenseScoop, 25 February 2026",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-cda2f816",
+"locator": null,
+"title": "DefenseScoop - Hegseth doubles down on Trump's UAP disclosure promise as AARO's caseload exceeds 2, 000"
+}
+],
 "text": "AARO is examining over 2,000 UAP cases; approximately 1,000 reports lack sufficient data for analysis and remain in AARO's Active Archive for potential future review.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-1b8513352d",
@@ -112,7 +118,7 @@
 "sources": [],
 "text": "The Department stated it has no record of a programme called Immaculate Constellation.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Generic 'UAP coverage' with no specific outlet named."
 },
 {
 "id": "c-3eb5999126",
@@ -125,10 +131,16 @@
 {
 "id": "c-2653cd6ac6",
 "source": "Susan Gough to The Black Vault, 13 June 2019",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-584b2a30",
+"locator": null,
+"title": "The Black Vault"
+}
+],
 "text": "'It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I). DIA administered AATIP, and Elizondo was never assigned to DIA. Elizondo did interact with the DIA office managing the program while the program was still ongoing, but he did not lead it.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8a31c176d2",
@@ -136,31 +148,49 @@
 "sources": [],
 "text": "Gough's statement is a limited denial that concedes the program's existence, its DIA administration and Elizondo's contact with it, and contests only the word 'led' — a construction consistent with protecting an org-chart technicality rather than refuting the substance.",
 "tier": 3,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/pentagon-reinforces-mr-luis-elizondo-had-n) was rejected in review: statement's publisher unnamed; not tied to this page"
 },
 {
 "id": "c-128d118902",
 "source": "Susan Gough to John Greenewald, The Black Vault, 13 June 2019",
-"sources": [],
+"sources": [
+{
+"id": "u-theblackvault-com-584b2a30",
+"locator": null,
+"title": "The Black Vault"
+}
+],
 "text": "On 13 June 2019 stated: 'I can confirm that the memo you're referring to is authentic... It makes no change to previous statements. Mr. Elizondo had no assigned responsibilities for AATIP while he was in OUSD(I).'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-af41014f9e",
 "source": "Susan Gough, DoD statement to The Black Vault, 6 December 2019",
-"sources": [],
+"sources": [
+{
+"id": "t-515aac39a8c7",
+"locator": null,
+"title": "Susan Gough, DoD statement to The Black Vault, 6 December 2019"
+}
+],
 "text": "On 6 December 2019 stated: 'Neither AATIP nor AAWSAP were UAP related. The purpose of AATIP was to investigate foreign advanced aerospace weapons system applications with future technology projections over the next 40 years,' and separately, 'when implemented, AATIP did not pursue research and investigation into unidentified aerial phenomena.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-a3ee21ee62",
 "source": "Susan Gough, DoD statement, 21 May 2021, reported by Blue Blurry Lines",
-"sources": [],
+"sources": [
+{
+"id": "u-blueblurrylines-com-d53d3834",
+"locator": null,
+"title": "Blue Blurry Lines — The Pentagon's Updated Statement: AATIP Studied UAPs"
+}
+],
 "text": "On 21 May 2021 stated that the AATIP contract 'allowed for research drawn from a wide variety of sources, including reports of UAPs. However, the examination of UAP observations was not the purpose of AATIP.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-cf14db0855",
@@ -168,7 +198,7 @@
 "sources": [
 {
 "id": "foia-21-f-0938",
-"locator": "email release",
+"locator": null,
 "title": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence"
 }
 ],
@@ -190,31 +220,49 @@
 "sources": [],
 "text": "'To date, AARO has not discovered any verifiable information to substantiate claims that any programs regarding the possession or reverse-engineering of extraterrestrial materials have existed in the past or exist currently.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:foxnews.com/us/pentagon-denies-secret-ufo-retrieval-program-after-whistleblo) was rejected in review: statement, outlet unnamed; not shown to be this Fox article"
 },
 {
 "id": "c-8265d45876",
 "source": "Susan Gough, statement following the 26 July 2023 hearing, reported by DefenseScoop 31 July 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-defensescoop-com-ba3255c2",
+"locator": null,
+"title": "DefenseScoop - UAP hearing sparks clash between Pentagon officials, witnesses"
+}
+],
 "text": "'The department has no information that any individual has been harmed or killed as a result of providing information to AARO,' with a warning that unsubstantiated harm claims discourage witnesses.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d11e8a2953",
 "source": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023",
-"sources": [],
+"sources": [
+{
+"id": "u-liberationtimes-com-585cd37e",
+"locator": null,
+"title": "Liberation Times - Unclassified Version Of David Grusch's UFO-Related Reprisal Complaint Released"
+}
+],
 "text": "Named in the unclassified version of Grusch's reprisal complaint among officials in the chain by which his identity and complaint were handled.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-0abcdb22ce",
 "source": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others",
-"sources": [],
+"sources": [
+{
+"id": "t-8fa19f34fda1",
+"locator": "as carried by Fox News and others",
+"title": "DoD statement attributed to Susan Gough, 6 June 2023, carried by Fox News and others"
+}
+],
 "text": "The Department's June 2023 statement responding to Grusch was issued in Gough's name and said AARO had not discovered verifiable information substantiating claims of a programme possessing or reverse-engineering extraterrestrial materials.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-918c394a1a",
@@ -236,7 +284,7 @@
 "sources": [],
 "text": "Gough confirmed on the Department's behalf that findings on the fake Air Force alien-technology programme would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:wsj.com/politics/national-security/ufo-us-disinformation-45376f7e) was rejected in review: secondary coverage summarising the article, not the article"
 }
 ],
 "cls": "person",

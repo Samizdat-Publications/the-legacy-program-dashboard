@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "institution",
+"id": "c-5ac243ca28",
+"locator": null,
+"node": "dhs",
+"nodeLabel": "United States Department of Homeland Security",
+"sourceText": "DHS, About DHS, retrieved 12 August 2026",
+"text": "DHS was 'established in 2002, combining 22 different federal departments and agencies into a unified, integrated Cabinet agency' and employs 'more than 260,000 employees'.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",

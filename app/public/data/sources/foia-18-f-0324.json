@@ -1,5 +1,7 @@
 {
-"archived": [],
+"archived": [
+"https://web.archive.org/web/20260201230017/https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf"
+],
 "claims": [
 {
 "cls": "document",
@@ -94,7 +96,7 @@
 {
 "cls": "person",
 "id": "c-561fad2cb0",
-"locator": "timeline entry",
+"locator": null,
 "node": "john-garrity",
 "nodeLabel": "John Garrity",
 "sourceText": "The Black Vault, OSD/JS FOIA case 18-F-0324 timeline entry",
@@ -446,5 +448,8 @@
 }
 ],
 "type": "document",
-"urls": []
+"urls": [
+"https://documents2.theblackvault.com/documents/osd/18-F-0324.pdf",
+"https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf"
+]
 }

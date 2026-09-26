@@ -60,9 +60,29 @@
 "sourceText": "35 U.S.C. 181, Office of the Law Revision Counsel, https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
 "text": "The Act reaches inventions the government does not own. Section 181 second paragraph: where the Commissioner of Patents believes disclosure of an invention 'in which the Government does not have a property interest' might be detrimental to the national security, 'he shall make the application for patent in which such invention is disclosed available for inspection to the Atomic Energy Commission, the Secretary of Defense, and the chief officer of any other department or agency of the Government designated by the President as a defense agency of the United States.'",
 "tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f1d3089285",
+"locator": "Statutes at Large volume 66, govinfo",
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "66 Stat. 3, Statutes at Large volume 66, govinfo, https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+"text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
+"tier": 1
+},
+{
+"cls": "legislation",
+"id": "c-f1d3089285",
+"locator": null,
+"node": "invention-secrecy-act",
+"nodeLabel": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
+"sourceText": "66 Stat. 3, Statutes at Large volume 66, govinfo, https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf",
+"text": "The Act's own short title and date: the Statutes at Large prints the marginal note 'Invention Secrecy Act of 1951.' beside section 1 of 'Public Law 256', 'CHAPTER 4', an Act 'To provide for the withholding of certain patents that might be detrimental to the national security, and for other purposes', approved 'February 1, 1952 [H.R.4687]'.",
+"tier": 1
 }
 ],
-"date": null,
+"date": "1952-02-01",
 "edges": [
 {
 "a": {
@@ -116,10 +136,11 @@
 "type": "programmatic"
 }
 ],
-"era": "nd",
+"era": "0",
 "id": "usc-35-181",
 "identifiers": [
-"35 U.S.C. 181"
+"35 U.S.C. 181",
+"66 Stat. 3"
 ],
 "interestedParty": false,
 "issuer": "U.S. Congress",
@@ -130,9 +151,25 @@
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
 }
 ],
-"node": null,
-"title": "35 U.S.C. 181",
+"node": {
+"cls": "legislation",
+"id": "invention-secrecy-act",
+"label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188"
+},
+"title": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "topics": [
+{
+"claims": [
+"c-7f0e66ba39",
+"c-7f0e66ba39",
+"c-b315ec417b",
+"c-b315ec417b",
+"c-f1d3089285",
+"c-f1d3089285"
+],
+"id": "navy-patents",
+"title": "The Navy's Pais patents, and invention secrecy"
+},
 {
 "claims": [
 "c-7f0e66ba39",
@@ -142,20 +179,12 @@
 ],
 "id": "classification-orders",
 "title": "Classification orders from EO 10501 to EO 13526"
-},
-{
-"claims": [
-"c-7f0e66ba39",
-"c-7f0e66ba39",
-"c-b315ec417b",
-"c-b315ec417b"
-],
-"id": "navy-patents",
-"title": "The Navy's Pais patents, and invention secrecy"
 }
 ],
 "type": "statute",
 "urls": [
-"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim"
+"https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title35-chapter17&edition=prelim",
+"https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section181&num=0&edition=prelim",
+"https://www.govinfo.gov/content/pkg/STATUTE-66/pdf/STATUTE-66-Pg3.pdf"
 ]
 }

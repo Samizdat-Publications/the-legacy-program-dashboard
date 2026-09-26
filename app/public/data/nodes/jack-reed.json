@@ -29,18 +29,30 @@
 {
 "id": "c-a0acb7fa20",
 "source": "Congress.gov bill record, S. 2226, 118th Congress",
-"sources": [],
+"sources": [
+{
+"id": "n-s2226-118",
+"locator": null,
+"title": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act"
+}
+],
 "text": "Reed is the sponsor of S. 2226, introduced 11 July 2023.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-8dc34d99ff",
 "source": "Congressional Record granules for Senate NDAA consideration, 7-12 December 2023, GPO",
-"sources": [],
+"sources": [
+{
+"id": "t-5de017ad3036",
+"locator": null,
+"title": "Congressional Record granules for Senate NDAA consideration, 7-12 December 2023"
+}
+],
 "text": "No transcribed Senate remarks during the December 2023 final consideration of the FY2024 NDAA use the word 'anomalous'; the removal was not debated aloud in the Senate.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-eebcd6bd4b",

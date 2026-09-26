@@ -14,7 +14,7 @@
 {
 "cls": "document",
 "id": "c-4c4f79c707",
-"locator": "note",
+"locator": null,
 "node": "dodi-3204-01",
 "nodeLabel": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "sourceText": "Public Law 118-31, Sec. 1687(b) (50 U.S.C. 3373 note)",
@@ -34,7 +34,7 @@
 {
 "cls": "legislation",
 "id": "c-c32add7baf",
-"locator": "source credit lines",
+"locator": null,
 "node": "ndaa-fy2023",
 "nodeLabel": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
 "sourceText": "50 U.S.C. 3373 source credit lines",

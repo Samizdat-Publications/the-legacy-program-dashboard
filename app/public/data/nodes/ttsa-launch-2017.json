@@ -7,10 +7,16 @@
 {
 "id": "c-d239895358",
 "source": "PR Newswire, To The Stars Academy Of Arts & Science Launches Today, 11 October 2017",
-"sources": [],
+"sources": [
+{
+"id": "u-prnewswire-com-602bc15b",
+"locator": null,
+"title": "PR Newswire — TTSA launch"
+}
+],
 "text": "Launched 11 October 2017 with DeLonge, Puthoff, Semivan, Justice, Elizondo and Mellon named in the announcement, and three divisions: Science, Aerospace (beamed energy and electrogravitics) and Entertainment.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-3c9d89fffa",
@@ -18,7 +24,7 @@
 "sources": [],
 "text": "Elizondo was described at launch as 'former Director of Programs investigating Unidentified Aerial Threats for the Office of the Secretary of Defense'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:prnewswire.com/news-releases/to-the-stars-academy-of-arts--science-launches-) was rejected in review: outlet and date only; candidate undated"
 },
 {
 "id": "c-59dfef2c2a",

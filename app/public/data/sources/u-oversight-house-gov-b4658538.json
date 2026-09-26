@@ -13,6 +13,26 @@
 },
 {
 "cls": "event",
+"id": "c-32c8f01313",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "House Oversight Committee hearing page, 9 September 2025",
+"text": "The hearing was held 9 September 2025 at 10:00 am in HVC-210 by the Task Force on the Declassification of Federal Secrets, with witnesses Nuccetelli, Wiggins, Knapp, Borland and Spielberger.",
+"tier": 1
+},
+{
+"cls": "event",
+"id": "c-7a9c26fbbe",
+"locator": null,
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"sourceText": "House Oversight Committee hearing page, 9 September 2025",
+"text": "The hearing was held 9 September 2025 at 10:00 am in HVC-210 before the Task Force on the Declassification of Federal Secrets, with witnesses Nuccetelli, Wiggins, Knapp, Borland and minority witness Joe Spielberger of POGO.",
+"tier": 1
+},
+{
+"cls": "event",
 "id": "c-9ea82762fc",
 "locator": null,
 "node": "hearing-2025-09-09",

@@ -54,7 +54,13 @@
     "text": "The Black Vault AAWSAP DIRD archive, 2018-2022",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-documents2-theblackvault-2cf9f66d",
+     "locator": null,
+     "title": "The Black Vault, AAWSAP DIRD directory index (37 released DIRDs plus FOIA case file 00159-2018)"
+    }
+   ],
    "text": "Thirty-seven of the 38 DIRDs have been released in full and are publicly downloadable; the SECRET/NOFORN version of the high-energy laser weapons paper has not been released.",
    "tier": 1
   },
@@ -90,9 +96,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-8d9d8dc2",
+     "id": "n-dird-warp-drive-dark-energy-and-the",
      "locator": null,
-     "title": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)"
+     "title": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
     }
    ],
    "text": "ITS OWN SUMMARY, VERBATIM, and what it claims is a possibility and not a result: 'The idea that a sufficiently advanced technology may interact with, and acquire direct control over, the higher dimensions is a tantalizing possibility, and one that is most certainly worthy of deeper investigation. Control of this higher dimensional space may be a source of technological control over the dark energy density and could ultimately play a role in the development of exotic propulsion technologies; specifically, a warp drive. Of course, this may not be actualized until many years in the future...' Its closing sentence: '...if we may make predictions based on the innovative history of scientific pioneers of the past, then it seems entirely possible that the creative minds of the future may indeed find ways to accomplish what, to us, may seem like magic.'",
@@ -110,9 +116,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-cf766d01",
+     "id": "n-dird-state-of-the-art-and-evolution",
      "locator": null,
-     "title": "DIA FOIA Electronic Reading Room entry for this reference document"
+     "title": "State of the Art and Evolution of High-Energy Laser Weapons"
     }
    ],
    "text": "Defense Intelligence Reference Document titled \"State of the Art and Evolution of High-Energy Laser Weapons\", series \"Acquisition Threat Support\", published 2010-03-31 with an Intelligence Cut-Off Date (ICOD) of 2009-12-01, DIA document number DIA-08-1003-019. Released by DIA under FOIA and posted in the DIA FOIA Electronic Reading Room.",
@@ -130,9 +136,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "The same survey's own conclusion on what antigravity would require, verbatim: 'Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
@@ -148,7 +154,13 @@
     "text": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-nytimes-com-b748f28f",
+     "locator": "quoting Davis on the record",
+     "title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+    }
+   ],
    "text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
    "tier": 2
   },
@@ -164,9 +176,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-92fb6d6f",
+     "id": "n-dird-an-introduction-to-the-statistical-drake",
      "locator": null,
-     "title": "documents2.theblackvault.com"
+     "title": "An Introduction to the Statistical Drake Equation"
     }
    ],
    "text": "Appendix B of the released DIRD reproduces Maccone's underlying IAA conference paper \"The Statistical Drake Equation\" with its byline and Turin address intact, corroborating the DIA list attribution from inside the document even though the cover author field is redacted under (b)(6).",
@@ -216,7 +228,13 @@
     "text": "Eric W. Davis quoted in The New York Times, 23 July 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-nytimes-com-b748f28f",
+     "locator": "quote from Eric W. Davis",
+     "title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+    }
+   ],
    "text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
    "tier": 2
   },
@@ -292,7 +310,13 @@
     "text": "Administrative note, DIA-08-1004-004",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dird-traversable-wormholes",
+     "locator": "administrative note",
+     "title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+    }
+   ],
    "text": "DIA-08-1004-004 states that its product 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program', with questions to be addressed to James T. Lacatski, D.Eng., AAWSA Program Manager, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100.",
    "tier": 1
   },
@@ -308,9 +332,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-8d9d8dc2",
+     "id": "n-dird-warp-drive-dark-energy-and-the",
      "locator": null,
-     "title": "Defense Intelligence Reference Document, \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" (The Black Vault FOIA release)"
+     "title": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions"
     }
    ],
    "text": "IT PRINTS THE REQUIREMENT AS A NUMBER, IN TWO TABLES. Table 2, 'Negative Energy Required for Warp Bubble (Larger Negative Energy)', and Table 3 after the reduction the paper argues for. At 0.01c: -3.03 x 10^46 J and -1.00 x 10^38 J. At 0.5c: -7.59 x 10^49 J and -2.50 x 10^41 J. AT LIGHT SPEED: -3.03 x 10^50 J and -1.00 x 10^42 J. At twice light speed: -1.21 x 10^51 J and -4.00 x 10^42 J. The document states that on its model 'energy requirements are reduced immensely when compared to the calculations of Lobo and Visser' and that 'All calculations are order-of-magnitude'.",
@@ -328,9 +352,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-irp-fas-org-ac202ad1",
+     "id": "n-dia-aatip-list-2019",
      "locator": null,
-     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
     }
    ],
    "text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr George Hathaway, Hathaway Consulting'. The author line on the released PDF is redacted under (b)(6).",
@@ -348,9 +372,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-b4f6af86",
+     "id": "n-dird-advanced-space-propulsion-based-on-vacuum",
      "locator": null,
-     "title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)"
+     "title": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
     }
    ],
    "text": "Inside cover reads: \"This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted b(3) 10 USC 424] Advanced Aerospace Weapon System Applications (AAWSA) Program\" and directs questions to the \"AAWSA Program Manager, Defense Intelligence Agency, ATTN: [redacted], Bldg 6000, Washington, DC 20340-5100\".",
@@ -402,9 +426,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "THE MOST CHECKABLE FINDING THE PROPULSION STRAND PRODUCED, AND IT IS ABOUT THIS SERIES. DIRD DIA-08-1003-018, 'Antigravity for Aerospace Applications', cover-dated 30 March 2010 under the 'Acquisition Threat Support' banner, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, DOES NOT MENTION THOMAS TOWNSEND BROWN. Word counts over the whole released PDF, taken 19 September 2026: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and every one of them is the surname of a different author in the reference list: L. S. Brown and Maclay, 'Vacuum Stress between Conducting Plates', Physical Review 184 (1969); H. R. Brown as co-editor of 'The Philosophy of Vacuum' (1991); and J. H. Brownell on Casimir photons (2008). Alcubierre occurs once, as reference [43].",
@@ -460,7 +484,13 @@
     "text": "DIA letter to Senate Armed Services Committee listing 38 AATIP products, 9 January 2018, item 5",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-letter-2018",
+     "locator": "item 5",
+     "title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+    }
+   ],
    "text": "Puthoff authored the AAWSAP Defense Intelligence Reference Document 'Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering' for EarthTech International.",
    "tier": 1
   },
@@ -488,7 +518,13 @@
     "text": "DIA memo U-429-09-DWO-IM, 30 October 2009",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-deliverables-review-2009",
+     "locator": null,
+     "title": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)"
+    }
+   ],
    "text": "DIA's internal review found 'all of the reviews were positive, some exceptionally so' across the 26 FY09 reports, with five outside reviews including three by Sandia National Laboratories staff.",
    "tier": 1
   },
@@ -502,7 +538,13 @@
     "text": "DIA letter to Senate Armed Services Committee, 9 January 2018, items 8, 11, 14, 31, 34",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-letter-2018",
+     "locator": "items 8, 11, 14, 31, 34",
+     "title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+    }
+   ],
    "text": "Davis authored five of the 38 AAWSAP Defense Intelligence Reference Documents, more than any other individual.",
    "tier": 1
   },
@@ -572,9 +614,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "HIS OWN CONCLUSION, verbatim: 'One found that plausible mechanisms exist within Newtonian and general relativistic theories whereby one could embody a realistic device that produces a significant antigravity force. However, one discovered that there are daunting technical challenges that arise in each of the proposed embodiments. Mechanical embodiments that produce antigravity forces require kilometer-sized apparatus, astronomical-sized masses and densities, or extreme mass velocities and accelerations.' And: 'Negative energy has been produced in the lab in very small quantities. The technologies used for producing negative energy are nascent, and so it will be some time before it can be ascertained whether they are capable of producing the astronomical amounts of negative energy required to generate significant antigravity forces.'",
@@ -612,9 +654,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-ntrs-nasa-gov-a7417e6b",
+     "id": "n-millis-tm-2004-213082",
      "locator": null,
-     "title": "NASA/TM-2004-213082, Marc G. Millis, 'Prospects for Breakthrough Propulsion from Physics', NASA Glenn Research Center, 19 pages"
+     "title": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)"
     }
    ],
    "text": "Stated inference, and it is about transparency rather than content. Between 1996 and 2002 NASA ran a public, funded, unclassified assessment of exotic propulsion, named the claims it examined, published which of sixteen tasks failed, and closed. Between 2009 and 2011 DIA commissioned thirty-eight reference documents covering overlapping subject matter, released them only under FOIA, and withheld every author under exemption (b)(6). NOTHING OPENED JOINS THE TWO PROGRAMMES TO EACH OTHER and no institutional edge between them is proposed; Marc Millis wrote for both, which is a fact about a person and not a link between the institutions.",
@@ -630,7 +672,13 @@
     "text": "SEC EDGAR, TTSA Form 1-K Part II, filed April 2018",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-sec-gov-29038929",
+     "locator": null,
+     "title": "SEC EDGAR — TTSA Form 1-K"
+    }
+   ],
    "text": "Harold Puthoff has been President and CEO of EarthTech International since 1985.",
    "tier": 1
   },
@@ -646,9 +694,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-b4f6af86",
+     "id": "n-dird-advanced-space-propulsion-based-on-vacuum",
      "locator": null,
-     "title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)"
+     "title": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
     }
    ],
    "text": "Author name is withheld in the DIA-released copy under FOIA exemption (b)(6); the \"Prepared by:\" line is withheld under (b)(3) 10 USC 424. The released cover therefore does not attribute the DIRD to a named author.",
@@ -678,7 +726,13 @@
     "text": "Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-nytimes-com-b748f28f",
+     "locator": null,
+     "title": "Ralph Blumenthal, 'No Longer in the Shadows, Pentagon's U.F.O. Unit Will Make Some Findings Public', The New York Times"
+    }
+   ],
    "text": "Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'.",
    "tier": 2
   },
@@ -708,9 +762,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-189bbe83",
+     "id": "n-dird-traversable-wormholes-stargates-and-negative-energy",
      "locator": null,
-     "title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+     "title": "Traversable Wormholes, Stargates, and Negative Energy"
     }
    ],
    "text": "The DIRDs fall into two DIA series banners printed on the cover: 'Acquisition Threat Support' (the FY2009 tranche, ICOD 1 December 2009, published Dec 2009 - Apr 2010) and 'Defense Futures' (the FY2010 tranche, ICOD Jul-Dec 2010, published Nov 2010 - Jan 2011).",
@@ -728,9 +782,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "WHAT THE ZERO-COUNTS ARE AND ARE NOT EVIDENCE FOR, stated so no later session overstates them. THEY ARE EVIDENCE that the United States government's own commissioned survey of antigravity for aerospace applications, written under the same programme this board maps, is a review of gravitomagnetic forces, Forward's dipole generator, Felber's effect, negative energy, dark energy, the cosmological constant and quantum vacuum zero-point fluctuation force, and that it never reaches for the figure the electrogravitics literature treats as its origin. THEY ARE NOT EVIDENCE that DIA considered Brown and rejected him: the document shows no sign of having considered him at all, and an absence is not an adjudication. THEY ARE NOT EVIDENCE that Brown's work was suppressed, hidden or classified; nothing opened supports that and nothing here asserts it.",
@@ -810,9 +864,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-189bbe83",
+     "id": "n-dird-traversable-wormholes-stargates-and-negative-energy",
      "locator": null,
-     "title": "DIA FOIA Reading Room — Traversable Wormholes, Stargates, and Negative Energy (PDF)"
+     "title": "Traversable Wormholes, Stargates, and Negative Energy"
     }
    ],
    "text": "Attribution of these two DIRDs to Eric W. Davis is not established by the DIA release (author redacted). It rests on Davis's own account and secondary reporting. Wave-4 item: locate a primary record naming him (e.g. an unredacted copy, a subcontract, or sworn testimony).",
@@ -842,7 +896,13 @@
     "text": "James Lacatski to Jeremy Corbell, published 8 April 2026",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "t-124932fc0083",
+     "locator": null,
+     "title": "Lacatski to Jeremy Corbell, published 8 April 2026"
+    }
+   ],
    "text": "AAWSAP produced more than 100 thick, highly detailed reports of UFO case data, of which the 38 DIRDs are only the literature-survey component.",
    "tier": 2
   },
@@ -858,9 +918,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-71dde161",
+     "id": "n-dird-maverick-inventor-versus-corporate-inventor-where",
      "locator": null,
-     "title": "Released DIRD, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major' — FOIA copy, cover page read 22 August 2026"
+     "title": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?"
     }
    ],
    "text": "A SECOND ZERO-COUNT IN THE SAME SERIES, on the Hutchison effect. DIRD DIA-08-1003-017, 'Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?', 30 March 2010, 20 pages as released, attributed on the DIA list to Dr George Hathaway of Hathaway Consulting, names HUTCHISON 0 times and Pharos 0 times. Hathaway is the author of the book 'Mindbending: The Hutchison Files'.",
@@ -916,7 +976,13 @@
     "text": "DIA letter to Senators John McCain and Jack Reed, Senate Armed Services Committee, 9 January 2018, signed Brian L. Jenkins, Chief, Records Management and Information Services",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-letter-2018",
+     "locator": "full list of 38 products",
+     "title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+    }
+   ],
    "text": "The full DIA-transmitted list of 38 products with authors: 1. Inertial Electrostatic Confinement Fusion (Dr. George Miley, University of Illinois); 2. Advanced Nuclear Propulsion for Manned Deep Space Missions (Dr. F. Winterberg, University of Nevada-Reno); 3. Pulsed High-Power Microwave Technology (Dr. James Wells, JW Enterprises); 4. Space Access (Dr. P. Czysz, HyperTech); 5. Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (Dr. Hal Puthoff, EarthTech International); 6. BioSensors and BioMEMS (Dr. Bruce Towe, University of Arizona); 7. Invisibility Cloaking (Dr. Ulf Leonhardt, University of St Andrews); 8. Traversable Wormholes, Stargates, and Negative Energy (Dr. Eric Davis, EarthTech International); 9. High-Frequency Gravitational Wave Communications (Dr. Robert Baker, GravWave); 10. Role of Superconductors in Gravity Research (Dr. George Hathaway, Hathaway Consulting); 11. Antigravity for Aerospace Applications (Dr. Eric Davis, EarthTech International); 12. Field Effects on Biological Tissues (Dr. Kit Green, Wayne State University); 13. Positron Aerospace Propulsion (Dr. Gerald Smith, Positronics Research); 14. Concepts for Extracting Energy from the Quantum Vacuum (Dr. Eric Davis, EarthTech International); 15. An Introduction to the Statistical Drake Equation (Dr. Claudio Maccone, International Academy of Astronautics); 16. Maverick Inventor Versus Corporate Inventor (Dr. George Hathaway, Hathaway Consulting); 17. Biomaterials (Dr. Bruce Towe, University of Arizona); 18. Metamaterials for Aerospace Applications (Dr. G. Shvets, University of Texas-Austin); 19. Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions (Dr. R. Obousy, Obousy Consultants); 20. Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces (Dr. R. Genik, Wayne State University); 21. Materials for Advanced Aerospace Platforms (Dr. J. Williams, Ohio State University); 22. Metallic Glasses (Dr. T. Hufnagel, Johns Hopkins University); 23. Aerospace Applications of Programmable Matter (Dr. W. McCarthy, Programmable Matter Corporation); 24. Metallic Spintronics (Dr. M. Tsoi, University of Texas-Austin); 25. Space-Communication Implications of Quantum Entanglement and Nonlocality (Dr. J. Cramer, University of Washington); 26. Aneutronic Fusion Propulsion I (Dr. V. Teofilo, Lockheed Martin); 27. Cockpits in the Era of Breakthrough Flight (Dr. G. Millis, Tau Zero); 28. Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft (Dr. R. Genik, Wayne State University); 29. Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities (Dr. W. Culbreth, University of Nevada-Las Vegas); 30. Aneutronic Fusion Propulsion II (Dr. W. Culbreth, University of Nevada-Las Vegas); 31. Laser Lightcraft Nanosatellites (Dr. E. Davis, EarthTech); 32. Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications (Dr. S. Macheret, Lockheed Martin); 33. Quantum Computing and Utilizing Organic Molecules in Automation Technology (Dr. R. Genik, Wayne State University); 34. Quantum Tomography of Negative Energy States in the Vacuum (Dr. Eric Davis, EarthTech); 35. Ultracapacitors as Energy and Power Storage Devices (Dr. J. Golightly, Lockheed Martin); 36. Negative Mass Propulsion (Dr. F. Winterberg, University of Nevada-Reno); 37. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — SECRET/NOFORN; 38. State of the Art and Evolution of High Energy Laser Weapons (J. Albertine, Directed Technologies) — UNCLASSIFIED//FOUO.",
    "tier": 1
   },
@@ -946,9 +1012,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-documents2-theblackvault-9f308033",
+     "id": "n-dird-antigravity-for-aerospace-applications",
      "locator": null,
-     "title": "Defense Intelligence Reference Document DIA-08-1003-018, 'Antigravity for Aerospace Applications', 45 pages as released"
+     "title": "Antigravity for Aerospace Applications"
     }
    ],
    "text": "THE ZERO-COUNTS, taken over the whole released 45-page PDF on 19 September 2026: Biefeld 0, electrogravitics 0, ion wind 0, Podkletnov 0, and THOMAS TOWNSEND BROWN ABSENT. The three occurrences of 'Brown' are other authors' surnames in the reference list. Alcubierre occurs once, as reference [43], the 1994 Classical and Quantum Gravity citation, and that is its only appearance in this document. A count is checkable and an adjective is not, which is why the node carries numbers.",
@@ -998,7 +1064,13 @@
     "text": "Cover and administrative note of DIA-08-1004-004 (released copy)",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dird-traversable-wormholes",
+     "locator": null,
+     "title": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'"
+    }
+   ],
    "text": "DIA reference document DIA-08-1004-004, 'Traversable Wormholes, Stargates, and Negative Energy', dated 6 April 2010, names Eric W. Davis, Ph.D., of EarthTech International Inc. as author and states it was produced in FY2009 under the DIA Defense Warning Office's Advanced Aerospace Weapon System Applications programme, with James T. Lacatski, D.Eng. as programme manager.",
    "tier": 1
   },
@@ -1028,9 +1100,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-irp-fas-org-ac202ad1",
+     "id": "n-dia-aatip-list-2019",
      "locator": null,
-     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
     }
    ],
    "text": "The DIA list transmitted to the Senate Armed Services Committee on 9 January 2018 reads 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.'",
@@ -1060,7 +1132,13 @@
     "text": "DIA letter to SASC, 9 January 2018, items 5, 8, 11, 14, 31, 34",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "n-dia-aatip-letter-2018",
+     "locator": "items 5, 8, 11, 14, 31, 34",
+     "title": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products"
+    }
+   ],
    "text": "EarthTech International personnel authored six of the 38 AAWSAP DIRDs: Puthoff on spacetime metric engineering and Davis on wormholes, antigravity, quantum vacuum energy, laser lightcraft nanosatellites and quantum tomography of negative energy states.",
    "tier": 1
   },
@@ -1096,9 +1174,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-dia-mil-b4f6af86",
+     "id": "n-dird-advanced-space-propulsion-based-on-vacuum",
      "locator": null,
-     "title": "DIA FOIA Reading Room — Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering (PDF)"
+     "title": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering"
     }
    ],
    "text": "Attribution of this DIRD to Harold E. Puthoff is not established by the DIA release, which redacts the author under (b)(6). It rests on Puthoff's own substantially identical published paper and on his public statements. Needs a primary record with the name attached — wave 4.",
@@ -1130,9 +1208,9 @@
    },
    "sourceRefs": [
     {
-     "id": "u-irp-fas-org-ac202ad1",
+     "id": "n-dia-aatip-list-2019",
      "locator": null,
-     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products"
+     "title": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)"
     }
    ],
    "text": "Authored by Dr Claudio Maccone of the International Academy of Astronautics, per the 9 January 2018 DIA list (item 15).",
@@ -1162,7 +1240,13 @@
     "text": "The War Zone analysis of the DIRD list, 18 January 2019, citing the JASON HFGW report",
     "url": null
    },
-   "sourceRefs": [],
+   "sourceRefs": [
+    {
+     "id": "u-twz-com-37fb1a48",
+     "locator": "citing the JASON HFGW report",
+     "title": "The War Zone — Here's The List Of Studies The Military's Secretive UFO Program Funded"
+    }
+   ],
    "text": "The JASON advisory group's 2008 assessment of Robert Baker's high-frequency gravitational wave concept concluded 'the proposed applications of the science of HFGW are fundamentally wrong', a critique published before DIA accepted the DIRD on the same subject.",
    "tier": 2
   },

@@ -102,9 +102,9 @@
 "source": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237654/",
 "sources": [
 {
-"id": "u-dia-mil-e2407192",
+"id": "n-dird-anomalous-acute-and-subacute-field-effects",
 "locator": null,
-"title": "DIA FOIA Reading Room — Anomalous Acute and Subacute Field Effects on Human Biological Tissues (PDF)"
+"title": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues"
 }
 ],
 "text": "DIRD 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues', Acquisition Threat Support series, 11 March 2010, ICOD 1 December 2009, 38 pages, exists in the DIA FOIA release. No DIA document number is printed on the released cover page and the author is withheld under (b)(6).",
@@ -145,7 +145,7 @@
 "sources": [],
 "text": "Green authored the AAWSAP DIRD listed to Congress as 'Field Effects on Biological Tissues' and released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (node:dia-aatip-letter-2018) was rejected in review: string names two or more sources; candidate is only one"
 },
 {
 "id": "c-965466c524",
@@ -153,7 +153,7 @@
 "sources": [],
 "text": "Green maintains a clinical case series of patients with unexplained injuries he associates with proximity to the phenomenon, drawn substantially from military and intelligence personnel.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: Aggregate of unspecified interviews across years, no single document."
 },
 {
 "id": "c-a3da462649",
@@ -169,7 +169,7 @@
 "sources": [],
 "text": "Green has stated that during his CIA service he was the officer to whom UFO and anomalous-phenomena reporting was routed within the Office of Scientific Intelligence.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic reference to unspecified repeated interviews, no single dated source"
 },
 {
 "id": "c-765a55d0f2",
@@ -185,7 +185,7 @@
 "sources": [],
 "text": "The Wilson-Davis memorandum entered public circulation from Green's document holdings.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: generic reporting reference, no outlet named"
 },
 {
 "id": "c-4e243f4a1a",
@@ -198,10 +198,16 @@
 {
 "id": "c-c2dc45ec5f",
 "source": "'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues', cover and Preface",
-"sources": [],
+"sources": [
+{
+"id": "t-72dbd7cb19e5",
+"locator": null,
+"title": "Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues"
+}
+],
 "text": "Green's AAWSAP DIRD carries the cover imprint 'Institute for Advanced Studies at Austin' and states as Hypothesis One that 'sufficient evidence exists from human injury / effects to reverse engineer certain aspects of the Energy / Propulsion Systems'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-9e377a0325",
@@ -209,23 +215,35 @@
 "sources": [],
 "text": "The DIRD's preface quotes a November 2007 proposal addressed to Puthoff/Hathaway stating that 'certain characteristics of the fields associated with exotic propulsion can with near certainty be gleaned from archival records of their effects on human physiology' and proposing outsourcing of the medical analysis.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: No proper title given for 'the Green DIRD' in the string, and no matching candidate found."
 },
 {
 "id": "c-f6c3db215a",
 "source": "Executive Summary of the Green DIRD",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-green-clinical-medical",
+"locator": "executive summary",
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+}
+],
 "text": "The DIRD's executive summary asserts that reported incidents and acquired medical data 'support a hypothesis that some advanced systems are already deployed, and opaque to full US Intelligence understanding'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-207f1a9a9f",
 "source": "Contents and body of the Green DIRD",
-"sources": [],
+"sources": [
+{
+"id": "n-dird-green-clinical-medical",
+"locator": null,
+"title": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'"
+}
+],
 "text": "The document draws on 42 relevant cases from the peer-reviewed medical literature plus roughly 300 unpublished cases, and includes appendices titled 'Schuessler Catalog', 'Green Morris Cases' and 'Green-Morris ICD Diagnostics'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-d40d074f53",
@@ -233,7 +251,7 @@
 "sources": [],
 "text": "Green described the paper as 'focused on forensically assessing accounts of injuries that could have resulted from claimed encounters with UAP'.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:popularmechanics.com/military/research/a30916275/government-secret-ufo-progr) was rejected in review: author, outlet, date; candidate row has no date"
 },
 {
 "id": "c-e667d6fb37",

@@ -25,23 +25,35 @@
 "sources": [],
 "text": "David Grusch testified under oath to the House Oversight Committee on 26 July 2023 that he was informed of a multi-decade UAP crash retrieval and reverse-engineering programme, and that he made a protected disclosure to the ICIG.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (id:chrg-118hhrg53022) was rejected in review: names two sources; NPR report is not the candidate"
 },
 {
 "id": "c-6c465ee5eb",
 "source": "AARO Historical Record Report Volume I",
-"sources": [],
+"sources": [
+{
+"id": "n-aaro-historical-record-vol1",
+"locator": null,
+"title": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+}
+],
 "text": "AARO's Volume I historical record report (February 2024) states it found no empirical evidence for claims of USG or private-company reverse engineering of extraterrestrial technology, and describes its interview and programme-review methodology in Sections V and VI.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-449f830724",
 "source": "DoD OIG DODIG-2023-109",
-"sources": [],
+"sources": [
+{
+"id": "n-dodig-2023-109",
+"locator": null,
+"title": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)"
+}
+],
 "text": "The DoD Inspector General's DODIG-2023-109 evaluation of DoD actions regarding UAP was initiated following personnel complaints and released in unclassified summary on 25 January 2024.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "domain",

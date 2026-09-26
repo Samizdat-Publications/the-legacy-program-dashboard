@@ -36,6 +36,16 @@
 },
 {
 "cls": "institution",
+"id": "c-d329a64376",
+"locator": null,
+"node": "aaro",
+"nodeLabel": "All-domain Anomaly Resolution Office (AARO)",
+"sourceText": "AARO Congressional/Press Products index, accessed 12 August 2026",
+"text": "AARO published three Consolidated Annual Reports in the window: FY2023 (25 October 2023), FY2024 (14 November 2024) and FY2025 (21 July 2026).",
+"tier": 1
+},
+{
+"cls": "institution",
 "id": "c-0fa9d0dfca",
 "locator": null,
 "node": "aaro",
@@ -194,6 +204,13 @@
 ],
 "id": "aaro-historical-record",
 "title": "AARO's historical record reports and their critics"
+},
+{
+"claims": [
+"c-d329a64376"
+],
+"id": "aaro",
+"title": "AARO, 2022 to now"
 }
 ],
 "type": "archive index",

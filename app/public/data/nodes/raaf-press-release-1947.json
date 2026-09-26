@@ -7,10 +7,16 @@
 {
 "id": "c-4c31a96397",
 "source": "RAAF press release, 8 July 1947, reproduced in USAF, 'The Roswell Report: Fact vs. Fiction' (1995)",
-"sources": [],
+"sources": [
+{
+"id": "n-raaf-press-release-1947",
+"locator": "as reproduced in the 1995 USAF report",
+"title": "RAAF Press Release, 8 July 1947"
+}
+],
 "text": "The press release states the intelligence office of the 509th Bomb Group 'was fortunate enough to gain possession of a disc through the cooperation of one of the local ranchers and the sheriff's office of Chaves County'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-987c84c96f",
@@ -29,10 +35,16 @@
 {
 "id": "c-5c533eeab1",
 "source": "FBI Records: The Vault, UFO files",
-"sources": [],
+"sources": [
+{
+"id": "n-fbi-vault-ufo",
+"locator": null,
+"title": "FBI Records: The Vault - UFO collection"
+}
+],
 "text": "FBI records on flying discs from 1947-1954 are publicly released in sixteen parts through the Bureau's electronic reading room.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-eaa3baf0c5",

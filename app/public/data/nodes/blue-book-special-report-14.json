@@ -11,7 +11,7 @@
 {
 "id": "cia-rdp81r00560r000100060001-5",
 "locator": null,
-"title": "CIA-RDP81R00560R000100060001-5"
+"title": "Project Blue Book Special Report No. 14"
 }
 ],
 "text": "Project Blue Book Special Report No. 14, 'Analysis of Reports of Unidentified Aerial Objects', Project No. 10073, is dated 5 May 1955 and marked FOR OFFICIAL USE ONLY.",
@@ -24,7 +24,7 @@
 "sources": [],
 "text": "The report was a massive statistical analysis undertaken by the US Air Force and Battelle Memorial Institute covering approximately 3,200 UFO reports.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:theblackvault.com/documentarchive/project-blue-book-special-report-14-may-5-) was rejected in review: outlet and date only; candidate row shows no date"
 },
 {
 "id": "c-4550b51cf8",
@@ -32,31 +32,49 @@
 "sources": [],
 "text": "The report was republished by the Department of War as CIA-UAP-015 in PURSUE Release 03 in June 2026.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:war.gov/medialink/ufo/061226/release_03/documents/CIA-UAP-015-Project_Blue_B) was rejected in review: names the repository; candidate is one specific PDF"
 },
 {
 "id": "c-6d7775681d",
 "source": "Project Blue Book Special Report No. 14, title page",
-"sources": [],
+"sources": [
+{
+"id": "cia-rdp81r00560r000100060001-5",
+"locator": "title page",
+"title": "Project Blue Book Special Report No. 14"
+}
+],
 "text": "Special Report No. 14 was issued by the Air Technical Intelligence Center on 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-5c8e17f022",
 "source": "Project Blue Book Special Report No. 14, statistical results",
-"sources": [],
+"sources": [
+{
+"id": "cia-rdp81r00560r000100060001-5",
+"locator": "statistical results",
+"title": "Project Blue Book Special Report No. 14"
+}
+],
 "text": "Approximately 4,000 reports were collected; the final statistical study covered 2,199 objects, of which 434 (19.7 per cent) were evaluated as 'Unknown'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-fe034b76a0",
 "source": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
-"sources": [],
+"sources": [
+{
+"id": "cia-rdp81r00560r000100060001-5",
+"locator": "quality-of-report cross-tabulations",
+"title": "Project Blue Book Special Report No. 14"
+}
+],
 "text": "The report's data show a higher proportion of unknowns among the highest-quality reports than among the poorest, and statistically significant differences between knowns and unknowns.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c376a4adbb",
@@ -64,7 +82,7 @@
 "sources": [],
 "text": "Battelle Memorial Institute performed the statistical analysis under contract to ATIC.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "read in review as naming no single source: board's own attribution convention note, not a citable source"
 },
 {
 "id": "c-264a9245e3",
@@ -77,18 +95,30 @@
 {
 "id": "c-e559a1aeb3",
 "source": "Project Blue Book Special Report No. 14, 5 May 1955, cover",
-"sources": [],
+"sources": [
+{
+"id": "cia-rdp81r00560r000100060001-5",
+"locator": "cover",
+"title": "Project Blue Book Special Report No. 14"
+}
+],
 "text": "The report's cover reads 'STUDY NO. 102-EL-55/2-79 / ANALYSIS OF REPORTS OF UNIDENTIFIED AERIAL OBJECTS / PROJECT NO. 10073 / 5 MAY 1955 / SPECIAL REPORT NO. 14', and it states 'No copyright material is contained in this publication.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-861321d9dc",
 "source": "Project Blue Book Special Report No. 14, full-text search of the scan; six independent search terms, all returning nothing",
-"sources": [],
+"sources": [
+{
+"id": "cia-rdp81r00560r000100060001-5",
+"locator": "full-text search (six terms)",
+"title": "Project Blue Book Special Report No. 14"
+}
+],
 "text": "The report does not name Battelle, or any contractor, anywhere on its own face. A full-text search returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the Project Stork status reports and the surrounding file.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "document",

@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-46689ee507",
+"locator": null,
+"node": "bryce-zabel",
+"nodeLabel": "Bryce Zabel",
+"sourceText": "Television Academy, Bryce Zabel bio",
+"text": "The Television Academy credits Zabel with creating five primetime network series including the 'Emmy-winning Dark Skies (NBC)', alongside Kay O'Brien, M.A.N.T.I.S., The Crow: Stairway to Heaven and E.N.G.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [],
 "era": "nd",
@@ -17,7 +28,15 @@
 ],
 "node": null,
 "title": "Television Academy, Bryce Zabel bio",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-46689ee507"
+],
+"id": "documentaries",
+"title": "Documentaries and books"
+}
+],
 "type": "web page",
 "urls": [
 "https://www.televisionacademy.com/bios/bryce-zabel"

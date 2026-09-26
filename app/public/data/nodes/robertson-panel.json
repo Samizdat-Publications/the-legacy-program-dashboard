@@ -7,18 +7,30 @@
 {
 "id": "c-f32fd55072",
 "source": "Robertson Panel report, declassified text",
-"sources": [],
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "declassified text",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The panel was convened by the CIA Office of Scientific Intelligence and met 14-18 January 1953; its report is titled 'Report of Scientific Advisory Panel on Unidentified Flying Objects Convened by Office of Scientific Intelligence, CIA'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-44158d9b9a",
 "source": "Robertson Panel report, Recommendations",
-"sources": [],
+"sources": [
+{
+"id": "u-documents-theblackvault--50710a63",
+"locator": "Recommendations",
+"title": "Robertson Panel report, Tab A of the Durant record (The Black Vault scan, CIA-RDP81R00560R000100030027-0)"
+}
+],
 "text": "The panel recommended a public education programme with 'training' and 'debunking' aims, to be accomplished 'by mass media such as television, motion pictures, and popular articles'.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-c9eabdbf9d",
@@ -26,15 +38,21 @@
 "sources": [],
 "text": "The panel canvassed the Disney organisation and the US Navy Special Devices Center for production of debunking material and recommended monitoring civilian UFO organisations.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf) was rejected in review: names report and Haines 1997; two sources"
 },
 {
 "id": "c-d82372d643",
 "source": "Gerald K. Haines, 'A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990', Studies in Intelligence, 1997",
-"sources": [],
+"sources": [
+{
+"id": "n-haines-cia-history",
+"locator": null,
+"title": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990"
+}
+],
 "text": "'CIA officials wanted knowledge of any Agency interest in the subject of flying saucers carefully restricted, noting not only that the Robertson panel report was classified but also that any mention of CIA sponsorship of the panel was forbidden.'",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-07c75f83a2",
@@ -42,7 +60,7 @@
 "sources": [],
 "text": "The panel reviewed a curated selection of cases over four days and roughly twelve hours of formal session, then issued conclusions covering seventeen years of accumulated reporting.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": "a proposed reading (url:documents.theblackvault.com/documents/ufos/robertsonpanelreport.pdf) was rejected in review: Durant memorandum; candidate titled as Tab A panel report"
 }
 ],
 "cls": "program",

@@ -67,7 +67,7 @@
 {
 "id": "foia-97-f-1677",
 "locator": null,
-"title": "FOIA case 97-F-1677"
+"title": "Unexplained Lights, (FOIA case 97-F-1677)"
 }
 ],
 "text": "Halt's memo states the object was 'metalic in appearance and triangular in shape, approximately two to three meters across the base and approximately two meters high,' and that it 'illuminated the entire forest with a white light.'",
@@ -77,18 +77,30 @@
 {
 "id": "c-9cdec16550",
 "source": "Halt memorandum, 13 Jan 81, paragraph 2",
-"sources": [],
+"sources": [
+{
+"id": "n-halt-memo",
+"locator": "paragraph 2",
+"title": "Halt Memorandum, 'Unexplained Lights', 13 January 1981"
+}
+],
 "text": "Halt's memo records physical trace evidence: three depressions 1.5 inches deep and 7 inches in diameter, and beta/gamma readings of 0.1 milliroentgens peaking in the depressions and at the centre of the triangle they formed.",
 "tier": 1,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 },
 {
 "id": "c-7ef14aaff6",
 "source": "Charles I. Halt, notarized affidavit, 2010; restated in BBC and researcher interviews on the 40th anniversary, 26 Dec 2020",
-"sources": [],
+"sources": [
+{
+"id": "t-aedea9214ea8",
+"locator": null,
+"title": "notarized affidavit"
+}
+],
 "text": "Halt has stated in a notarized affidavit that the objects were under intelligent control, were not of terrestrial origin, and that the US and UK governments acted to suppress the incident.",
 "tier": 2,
-"unresolved": "no URL or identifier, and no reviewed reading of the string"
+"unresolved": null
 }
 ],
 "cls": "person",

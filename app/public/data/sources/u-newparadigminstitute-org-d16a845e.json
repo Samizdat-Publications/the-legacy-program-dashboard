@@ -1,6 +1,27 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-8bd39315ba",
+"locator": null,
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"sourceText": "New Paradigm Institute website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-7adc95908e",
+"locator": null,
+"node": "new-paradigm-institute",
+"nodeLabel": "New Paradigm Institute",
+"sourceText": "New Paradigm Institute website, retrieved 12 August 2026",
+"text": "The New Paradigm Institute runs a campaign stating 'The House Acted. Now Tell the Senate to Pass the UAPDA', plus a UAP Transparency Pledge for candidates and a Citizens for Disclosure programme.",
+"tier": 1
+}
+],
 "date": null,
 "edges": [
 {
@@ -57,7 +78,15 @@
 ],
 "node": null,
 "title": "New Paradigm Institute",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-7adc95908e"
+],
+"id": "uapda",
+"title": "The UAP Disclosure Act and what survived it"
+}
+],
 "type": "web page",
 "urls": [
 "https://newparadigminstitute.org/"

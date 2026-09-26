@@ -2,6 +2,26 @@
 "archived": [],
 "claims": [
 {
+"cls": "person",
+"id": "c-fa78c1b67b",
+"locator": null,
+"node": "avi-loeb",
+"nodeLabel": "Abraham 'Avi' Loeb",
+"sourceText": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
+"text": "Loeb wrote that 'over the past week, I was tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members.",
+"tier": 2
+},
+{
+"cls": "institution",
+"id": "c-b08a4ebbfa",
+"locator": null,
+"node": "uap-science-advisory-council",
+"nodeLabel": "UAP Science Advisory Council",
+"sourceText": "Avi Loeb, 'A UAP Science Advisory Council to the U.S.', Medium, 29 June 2026",
+"text": "Loeb wrote that he was 'tasked by the above organizations to create a research team', naming the White House, AARO, ODNI, the FBI and all Intelligence Community members, and identified a core team of Cloete, Sarmiento, Szydagis, Nandal and Eldadi.",
+"tier": 2
+},
+{
 "cls": "institution",
 "id": "c-b3f139de1c",
 "locator": null,
@@ -115,10 +135,18 @@
 "topics": [
 {
 "claims": [
+"c-fa78c1b67b",
 "c-b3f139de1c"
 ],
 "id": "astronomers-searches",
 "title": "Astronomers' searches: the Galileo Project, Avi Loeb and VASCO"
+},
+{
+"claims": [
+"c-b08a4ebbfa"
+],
+"id": "academic-science",
+"title": "Academic UAP science: Sol, Nolan, Santa Clara and UAPx"
 }
 ],
 "type": "article",

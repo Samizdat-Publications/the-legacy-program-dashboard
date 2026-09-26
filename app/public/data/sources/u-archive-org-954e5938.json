@@ -1,6 +1,17 @@
 {
 "archived": [],
-"claims": [],
+"claims": [
+{
+"cls": "domain",
+"id": "c-831f19c872",
+"locator": null,
+"node": "d-nuc",
+"nodeLabel": "Nuclear Weapons Complex Nexus",
+"sourceText": "CNN coverage, National Press Club, 27 September 2010",
+"text": "Robert Salas and other former missile officers stated publicly at a National Press Club event on 27 September 2010 that UFOs were observed in connection with nuclear missile disruptions.",
+"tier": 2
+}
+],
 "date": null,
 "edges": [
 {
@@ -62,7 +73,15 @@
 ],
 "node": null,
 "title": "CNN coverage, National Press Club, 27 September 2010",
-"topics": [],
+"topics": [
+{
+"claims": [
+"c-831f19c872"
+],
+"id": "atomic-secrecy",
+"title": "Atomic secrecy and the weapons laboratories"
+}
+],
 "type": "document",
 "urls": [
 "https://archive.org/details/FullCnnCoverageOfPressConferenceufosAtNuclearWeaponBases"

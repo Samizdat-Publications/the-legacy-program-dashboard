@@ -1,0 +1,67 @@
+{
+"archived": [],
+"claims": [
+{
+"cls": "person",
+"id": "c-4812325519",
+"locator": "0:16:58",
+"node": "donald-h-menzel",
+"nodeLabel": "Donald H. Menzel",
+"sourceText": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:58, Ramsay read that 'in april 1986 stanton friedman was allowed access to menzel's papers at the harvard university archives he learned that menzel had a 30 year association with the nsa the national security agency and that he also had top secret ultra clearance with the cia'. The Harvard University Archives were not reached from this environment and no record supporting or refuting the finding was opened.",
+"tier": 2
+},
+{
+"cls": "person",
+"id": "c-72ba2615d3",
+"locator": "0:16:02",
+"node": "gordon-gray",
+"nodeLabel": "Gordon Gray",
+"sourceText": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:02",
+"text": "On AREA52 - DEBRIEFED with Chris Ramsay, episode 22, 17 January 2025, at 0:16:02, Ramsay read a prepared list describing Gray as having 'experience in managing information and propaganda during the cold war aligning with MJ12's need for controlling UFO related narratives' and as 'allegedly involved in developing policies to manage public perception of UFO phenomena'. No document opened for this node connects the Psychological Strategy Board to UFO matters.",
+"tier": 2
+}
+],
+"date": "2025-01-17",
+"edges": [],
+"era": "3",
+"id": "t-175196e08741",
+"identifiers": [],
+"interestedParty": false,
+"issuer": "AREA52 - DEBRIEFED with Chris Ramsay",
+"listedOn": [],
+"node": null,
+"title": "AREA52 - DEBRIEFED with Chris Ramsay, ep. 22, 17 January 2025, 0:16:58",
+"topics": [
+{
+"claims": [
+"c-72ba2615d3"
+],
+"id": "perception-management",
+"title": "Perception management: YANKEE BLUE, psychological operations and disinformation practice"
+},
+{
+"claims": [
+"c-4812325519"
+],
+"id": "sceptics",
+"title": "Sceptics and debunkers"
+},
+{
+"claims": [
+"c-72ba2615d3"
+],
+"id": "nsc-spine",
+"title": "The National Security Act and the NSC, 1947-1985"
+},
+{
+"claims": [
+"c-4812325519"
+],
+"id": "denial-ledger",
+"title": "What the government denies, and how"
+}
+],
+"type": "broadcast",
+"urls": []
+}
