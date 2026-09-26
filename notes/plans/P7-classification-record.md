@@ -78,7 +78,33 @@ coarsen the analysis family to one predicate; have Opus re-derive the analysis a
 families wholesale (about 645 edges); or accept family as the reliable unit and show the predicate
 as the label only.
 
-One known inconsistency the tie-breakers introduced: the chair of a committee that is itself the
+### The resolution (the orchestrator's decision, 26 September 2026)
+
+**The family is the reliable unit, and the page is built on it.** Family-level disagreement on the
+random sample is 14.9%, against 21.2% at predicate level (30.0% on all reviewed edges, 53.5% on the
+low ones), and two Opus reviewers disagreed with each other on 32% of the hard edges both saw. So:
+
+- connections group by family;
+- a predicate's own label, and the direction arrow, are shown only where its confidence is `high`
+  (1,931 of 2,788 edges, 69%). A reviewed row's confidence is the reviewer's, whether the reviewer
+  agreed or its answer stands;
+- every other row reads its family's neutral `phrase` (`schema/vocab.json`, for example "linked
+  through money"), with no direction;
+- the authored sentence stays on every row, so no link loses its explanation.
+
+`build_app_data.py` ships `predicateShown` and the displayed `verb` on each connection and `shown`
+on each `edges.json` row. `verify.py` and the audit restate the rule (the audit from the side-car's
+confidence, not the shipped flag), and a poison prints a medium-confidence predicate's own label.
+
+**The chair rule** (the orchestrator's): a chair or head of a body is `led`; `member_of` is plain
+membership. Applied as a targeted pass (`tools/predicates/apply_chair_rule.py`) over every edge
+whose sentence says chair, preside, head or seat: 5 rows changed (a subcommittee chairwoman to
+`led`; a vice chairman to `member_of`; two chaired hearings to `oversaw`, which the vocabulary gives
+for presiding over a hearing; a team chair whose far end is the parent agency to `held_post`).
+Seats on the Waived SAP Notification Group held by virtue of chairing another committee stay
+`member_of`.
+
+The round-2 brief's inconsistency, now settled by that rule: the chair of a committee that is itself the
 object falls under both the "seats" rule (`member_of`) and the "heading the body" rule (`led`).
 Reviewers chose `member_of`; the classifiers split. Settle it in the brief before any re-run.
 
