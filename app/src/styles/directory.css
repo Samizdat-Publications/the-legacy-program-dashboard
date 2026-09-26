@@ -4,6 +4,7 @@
 
 .dir-wait { padding: 20px 0; }
 .dir-top { margin-bottom: 10px; }
+.dir-blurb { max-width: 110ch; margin: 0 0 10px; }
 .dir-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em; margin: 4px 0 10px; }
 .dir-tabs { display: flex; flex-wrap: wrap; gap: 4px; border-bottom: 1px solid var(--line); padding-bottom: 8px; }
 .dir-tab {

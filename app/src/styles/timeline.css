@@ -245,3 +245,7 @@ a.tl-era:hover .tl-era-label { color: var(--text); }
 
 /* a year after the board's own date: scheduled events only */
 .tl-year.later { color: var(--amber); font-style: italic; }
+
+/* a jump in the axis (years with no event after the board's date are not drawn) */
+.tl-year.gap { border-left: 3px double var(--amber); }
+.tl-gl.gap { width: 3px; border-left: 1px solid var(--amber); border-right: 1px solid var(--amber); background: transparent; opacity: 0.6; }

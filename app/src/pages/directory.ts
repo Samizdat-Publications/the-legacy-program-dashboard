@@ -24,14 +24,20 @@ import {
   type IndexNode, type TopicsFile, type FacetsFile, type PersonFacets,
 } from '../data';
 
-interface DirDef { id: string; cls: string; title: string; noun: [string, string]; }
+interface DirDef { id: string; cls: string; title: string; noun: [string, string]; blurb: string; }
 export const DIRS: DirDef[] = [
-  { id: 'people', cls: 'person', title: 'People', noun: ['person', 'people'] },
-  { id: 'orgs', cls: 'institution', title: 'Organisations', noun: ['organisation', 'organisations'] },
-  { id: 'programmes', cls: 'program', title: 'Programmes', noun: ['programme', 'programmes'] },
-  { id: 'laws', cls: 'legislation', title: 'Laws', noun: ['law', 'laws'] },
-  { id: 'places', cls: 'location', title: 'Places', noun: ['place', 'places'] },
-  { id: 'events', cls: 'event', title: 'Events', noun: ['event', 'events'] },
+  { id: 'people', cls: 'person', title: 'People', noun: ['person', 'people'],
+    blurb: 'Every person on the board. A person’s record carries one date, and what it marks varies (a post, an appearance, the event that brought them here), so it orders the list and is explained on their page.' },
+  { id: 'orgs', cls: 'institution', title: 'Organisations', noun: ['organisation', 'organisations'],
+    blurb: 'Every institution on the board: agencies, offices, companies, committees. Dates are the span the record gives.' },
+  { id: 'programmes', cls: 'program', title: 'Programmes', noun: ['programme', 'programmes'],
+    blurb: 'Every programme on the board, acknowledged or alleged. Dates are the span the record gives.' },
+  { id: 'laws', cls: 'legislation', title: 'Laws', noun: ['law', 'laws'],
+    blurb: 'Every statute, order and regulation on the board. Dates are the span the record gives.' },
+  { id: 'places', cls: 'location', title: 'Places', noun: ['place', 'places'],
+    blurb: 'Every place on the board. Dates are the span the record gives, where it gives one.' },
+  { id: 'events', cls: 'event', title: 'Events', noun: ['event', 'events'],
+    blurb: 'The events that have a page of their own. The timeline holds the board’s {TL} dated entries, most of them moments in the life of a person, office or programme, and is where to read them in order.' },
 ];
 
 /* One row, with every facet value it can be filtered on. */
@@ -182,7 +188,10 @@ export async function renderDirectory(view: HTMLElement, dir: string, q: URLSear
   }
   root.append(h('div', { class: 'dir-top' },
     h('div', { class: 'eyebrow' }, 'Directories'),
-    h('h1', { class: 'dir-h1' }, def.title), tabs));
+    h('h1', { class: 'dir-h1' }, def.title),
+    h('p', { class: 'dir-blurb dim' }, def.blurb.replace('{TL}', idx.counts.timeline.toLocaleString('en-GB')),
+      def.id === 'events' ? ' ' : null, def.id === 'events' ? h('a', { href: '#/timeline' }, 'Open the timeline.') : null),
+    tabs));
 
   const wrap = h('div', { class: 'dir-body' });
   const rail = h('aside', { class: 'dir-rail', 'data-open': '0' });
@@ -315,9 +324,8 @@ function row(r: Row, people: boolean, ttitle: Map<string, string>, stitle: Map<s
      never read as a span (blind critic, phase 9 round 1) */
   const d = n.dateStart && n.dateEnd && n.dateStart !== n.dateEnd ? n.dateStart + ' to ' + n.dateEnd
     : n.dateStart || n.dateEnd || '';
-  tr.append(h('td', { class: 'c-date', 'data-h': people ? 'date' : 'dates' },
-    d || h('span', { class: 'faint' }, 'no date recorded'),
-    h('span', { class: 'faint dir-era' }, 'era ' + (eraLabel.get(n.era) || n.era))));
+  tr.append(h('td', { class: 'c-date', 'data-h': people ? 'date' : 'dates', title: 'era ' + (eraLabel.get(n.era) || n.era) },
+    d || h('span', { class: 'faint' }, 'no date recorded')));
   tr.append(h('td', { class: 'c-topic', 'data-h': 'primary topic' },
     r.topic ? h('a', { href: '#/topic/' + r.topic, title: stitle.get(r.section) || r.section }, ttitle.get(r.topic) || r.topic)
       : h('span', { class: 'faint' }, 'in no topic')));

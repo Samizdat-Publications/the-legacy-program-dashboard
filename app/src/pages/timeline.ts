@@ -179,7 +179,8 @@ function header(c: Ctx, bad: string[]): HTMLElement {
   if (openEra) bits.push('era ' + openEra.label + ' open');
   const later = c.events.filter((e) => e.era === c.eraId && scheduled(c, e)).length;
   if (later) bits.push(later + (later === 1 ? ' event is' : ' events are') + ' dated after the board’s date of ' + c.present + ': scheduled, marked in amber');
-  bits.push('click an event to read it; a count opens the events it stands for');
+  bits.push('a chip starts at its date, or ends there when its colour bar is on the right; ' +
+    'click one to read it; a +N count opens the N events it stands for');
 
   const line = h('div', { class: 'tl-head' },
     h('span', { class: 'eyebrow' }, 'Timeline'),
@@ -336,16 +337,20 @@ function drawYearHead(c: Ctx, slots: YearSlot[]): void {
   if (!yh) return;
   clear(yh);
   const presentYear = Number(c.present.slice(0, 4));
-  for (const s of slots) {
+  slots.forEach((s, i) => {
     const txt = String(s.year);
     const fits = s.w >= textWidth(txt) + 8;
     const later = s.year > presentYear;
+    /* years with no event after the board's date are not drawn, so the axis
+       can jump (2026 to 2029): the jump is marked, never hidden */
+    const gap = i > 0 && slots[i - 1].year !== s.year - 1;
     const b = h('button', {
-      class: 'tl-year' + (s.open ? ' on' : '') + (later ? ' later' : ''),
+      class: 'tl-year' + (s.open ? ' on' : '') + (later ? ' later' : '') + (gap ? ' gap' : ''),
       style: 'left:' + s.x.toFixed(1) + 'px;width:' + Math.max(1, s.w - 1).toFixed(1) + 'px',
       'aria-pressed': s.open ? 'true' : 'false',
       'aria-label': (s.open ? 'narrow ' : 'widen ') + txt,
-      title: (s.open ? 'narrow ' : 'widen ') + txt + (later ? ": after the board's date, so scheduled events only" : ''),
+      title: (s.open ? 'narrow ' : 'widen ') + txt + (later ? ": after the board's date, so scheduled events only" : '') +
+        (gap ? ' (the years ' + (slots[i - 1].year + 1) + ' to ' + (s.year - 1) + ' hold no event and are not drawn)' : ''),
       'data-year': txt,
     }, fits || s.open ? txt : null);
     b.addEventListener('click', () => {
@@ -355,7 +360,7 @@ function drawYearHead(c: Ctx, slots: YearSlot[]): void {
       void renderTimeline(c.view, c.route.era, c.scope, c.strand, c.topic);
     });
     yh.append(b);
-  }
+  });
 }
 
 const scheduled = (c: Ctx, e: TEvent): boolean => e.date.slice(0, 10) > c.present;
@@ -364,9 +369,10 @@ function paintLane(c: Ctx, pack: HTMLElement, lay: LaneLayout, slots: YearSlot[]
   clear(pack);
   pack.style.height = Math.max(28, lay.height + 4) + 'px';
 
-  for (const s of slots) {
-    pack.append(h('i', { class: 'tl-gl' + (s.open ? ' on' : ''), style: 'left:' + s.x.toFixed(1) + 'px', 'aria-hidden': 'true' }));
-  }
+  slots.forEach((s, i) => {
+    const gap = i > 0 && slots[i - 1].year !== s.year - 1;
+    pack.append(h('i', { class: 'tl-gl' + (s.open ? ' on' : '') + (gap ? ' gap' : ''), style: 'left:' + s.x.toFixed(1) + 'px', 'aria-hidden': 'true' }));
+  });
 
   for (const it of lay.items) {
     const pos = 'left:' + it.x.toFixed(1) + 'px;top:' + it.y + 'px;width:' + it.w + 'px;height:' + CHIP_H + 'px';
