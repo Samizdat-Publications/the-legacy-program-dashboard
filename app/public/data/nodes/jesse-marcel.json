@@ -91,6 +91,15 @@
 },
 {
 "id": "c-02856cf051",
+"meta": {
+"artefactDate": "1978-02",
+"claimant": "jesse-marcel",
+"claimantLabel": "Jesse A. Marcel Sr.",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Stanton T. Friedman"
+},
 "source": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
 "sources": [
 {
@@ -127,6 +136,15 @@
 },
 {
 "id": "c-1d06de57b6",
+"meta": {
+"artefactDate": "1947-07-08",
+"claimant": "509th-bomb-group",
+"claimantLabel": "509th Bomb Group",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "RAAF press release and Fort Worth AAF press photographs, July 1947; reproduced in the 1995 Air Force report as Fig. 4, 'Maj. Jesse Marcel With Flying Disc Debris'",
 "sources": [],
 "text": "Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target.",
@@ -135,6 +153,15 @@
 },
 {
 "id": "c-d494a510da",
+"meta": {
+"artefactDate": "1978-02",
+"claimant": "jesse-marcel",
+"claimantLabel": "Jesse A. Marcel Sr.",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Stanton Friedman"
+},
 "source": "Friedman's account of the 1978 interview; repeated in Berlitz and Moore (1980) and in Marcel's own filmed interviews",
 "sources": [],
 "text": "Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted.",
@@ -148,6 +175,42 @@
 "text": "Marcel's silence from 1947 to 1978 is more probative than his 1978 statement: a career intelligence officer who believed he had been publicly humiliated by a substitution had thirty-one years and a reserve pension's worth of reasons to say nothing, and did. Reasoning: the timing of his disclosure tracks his retirement and the death of the officers senior to him, not the arrival of a book contract.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1978-02",
+"eventDate": null,
+"id": "c-02856cf051",
+"node": "jesse-marcel",
+"nodeLabel": "Jesse A. Marcel Sr.",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Jesse Marcel Sr., interview with Stanton T. Friedman, February 1978",
+"url": null
+},
+"text": "Marcel stated in 1978 that the weather balloon explanation was a cover story and the recovered material was not identifiable as any known device.",
+"tier": 2,
+"topic": "official-explanations",
+"via": "Stanton T. Friedman"
+},
+{
+"artefactDate": "1978-02",
+"eventDate": null,
+"id": "c-d494a510da",
+"node": "jesse-marcel",
+"nodeLabel": "Jesse A. Marcel Sr.",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Friedman's account of the 1978 interview; repeated in Berlitz and Moore (1980) and in Marcel's own filmed interviews",
+"url": null
+},
+"text": "Marcel told Stanton Friedman in February 1978 that the material he recovered was not from a weather balloon and was not of terrestrial manufacture, and that the material displayed at Fort Worth was substituted.",
+"tier": 2,
+"topic": "official-explanations",
+"via": "Stanton Friedman"
 }
 ],
 "cls": "person",

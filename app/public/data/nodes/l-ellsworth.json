@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-6e0fb78984",
+"meta": {
+"artefactDate": "2026-09-07",
+"claimant": "mario-woods",
+"claimantLabel": "Mario Woods",
+"eventDate": "1977-11-18",
+"route": "interview",
+"speaker": null,
+"via": "Jesse Michels (YouTube)"
+},
 "source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md",
 "sources": [
 {
@@ -28,6 +37,15 @@
 },
 {
 "id": "c-4ca7069538",
+"meta": {
+"artefactDate": "2026-09-12",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The Political Saucer",
+"via": null
+},
 "source": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
 "sources": [
 {

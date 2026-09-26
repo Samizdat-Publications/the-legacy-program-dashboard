@@ -15,6 +15,15 @@
 },
 {
 "id": "c-588f2f44e6",
+"meta": {
+"artefactDate": "2021",
+"claimant": "colm-kelleher",
+"claimantLabel": "Colm A. Kelleher",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Kelleher and Lacatski, 'Skinwalkers at the Pentagon' (2021)",
 "sources": [
 {
@@ -29,6 +38,15 @@
 },
 {
 "id": "c-87c5bfdb27",
+"meta": {
+"artefactDate": "2023-05",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Barry Greenwood",
+"via": "Journal of Scientific Exploration"
+},
 "source": "Journal of Scientific Exploration 37(1)",
 "sources": [],
 "text": "Barry Greenwood published a critical review of 'Skinwalkers at the Pentagon' in the Journal of Scientific Exploration 37(1):127-131 in May 2023.",

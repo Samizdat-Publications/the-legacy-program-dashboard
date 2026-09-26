@@ -42,6 +42,15 @@
 },
 {
 "id": "c-60887b5651",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Fernando et al. (Geophysical Journal International); Gallardo (Research Notes of the AAS)",
+"via": null
+},
 "source": "Geophysical Journal International, March 2024; Research Notes of the AAS, October 2023",
 "sources": [],
 "text": "Fernando et al. showed in Geophysical Journal International (March 2024) that the seismic signal used to localise the search was consistent with truck traffic rather than an impact; Gallardo argued in Research Notes of the AAS (October 2023) for anthropogenic coal-ash contamination.",
@@ -50,6 +59,15 @@
 },
 {
 "id": "c-7bc07a23ce",
+"meta": {
+"artefactDate": null,
+"claimant": "galileo-project",
+"claimantLabel": "The Galileo Project",
+"eventDate": "2022-09",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Published record of the Galileo Project expedition",
 "sources": [],
 "text": "The expedition was announced as fully funded in September 2022 with a budget of approximately $1.6 million.",

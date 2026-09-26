@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-62711bb2c9",
+"meta": {
+"artefactDate": "2026-05-15",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "Rep. Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
 "sources": [],
 "text": "Lincoln Laboratory's attorneys agreed to comply within 30 days with Rep. Burlison's May 2026 demand for a classified 1952 briefing recording referenced as a 'flying saucer talk.'",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-2ef7b1b8d5",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
+"eventDate": "1952-07",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill/NewsNation, 29 June 2026",
 "sources": [
 {
@@ -72,6 +90,15 @@
 },
 {
 "id": "c-0b9421eb2f",
+"meta": {
+"artefactDate": "2026-06-25",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Cybernews"
+},
 "source": "Rep. Eric Burlison via X, reported by Cybernews, 25 June 2026",
 "sources": [],
 "text": "On 25 June 2026 Burlison announced that MIT Lincoln Laboratory had agreed to disclose the 1952 recording, quoting his own approach: 'We told MIT Lincoln Labs we know the exact video file you are holding, by name, and we want it.'",
@@ -80,6 +107,15 @@
 },
 {
 "id": "c-1f33a75072",
+"meta": {
+"artefactDate": "2026-05-26",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Burlison press release, 26 May 2026",
 "sources": [],
 "text": "Burlison's MITRE press release names the Beacon Hill Study alongside 'AF-ATIC-FILM, 03/52', MIT Lincoln Laboratory, NARA and Record Group 615.",

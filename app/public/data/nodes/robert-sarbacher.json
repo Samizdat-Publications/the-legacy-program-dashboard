@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-17f3e8306d",
+"meta": {
+"artefactDate": "2024-10-19",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1954",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:33:16, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-e8e501c109",
+"meta": {
+"artefactDate": "2025-04-23",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1950",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:23:09 and 0:24:00",
 "sources": [
 {
@@ -37,6 +55,15 @@
 },
 {
 "id": "c-4db2fff37f",
+"meta": {
+"artefactDate": "2025-02-07",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1986",
+"route": "interview",
+"speaker": "Whitley Strieber",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:13:20 to 0:15:49",
 "sources": [
 {
@@ -51,6 +78,15 @@
 },
 {
 "id": "c-5240b98453",
+"meta": {
+"artefactDate": "2025-02-07",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Whitley Strieber: Aliens Live Among Us (Exclusive Interview)', published 7 February 2025, at 0:18:16",
 "sources": [
 {
@@ -149,6 +185,15 @@
 },
 {
 "id": "c-43d6dc666c",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (this research's provenance assessment)",
+"via": null
+},
 "source": "Provenance assessment of the hosting item; no institutional custody located",
 "sources": [],
 "text": "The only reachable copy of the 1983 letter is hosted by an advocacy publisher, and the same PDF's last page is a product order form. The scan appears to be a genuine photocopy of a typed letter, but no institutional archive holds a copy that could be opened, so its status is a facsimile widely reproduced from Steinman's own file rather than an archived document.",

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-6726b253e3",
+"meta": {
+"artefactDate": "2026-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2025-08",
+"route": "document",
+"speaker": null,
+"via": "Disclosure Archives"
+},
 "source": "https://disclosurearchives.com/aaro-releases",
 "sources": [
 {

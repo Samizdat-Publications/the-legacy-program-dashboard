@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-8e5918f395",
+"meta": {
+"artefactDate": "1997",
+"claimant": "robert-kaminski",
+"claimantLabel": "Robert J. Kaminski",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Metabunk and ufohastings.com (Robert Hastings)"
+},
 "source": "Reported at Metabunk and in the Hastings material, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , both opened 2026-09-19",
 "sources": [
 {
@@ -61,6 +70,25 @@
 "text": "SECTION 2a PROVENANCE. His account reached the public as a private letter to a researcher thirty years after the event, and is published by Robert Hastings. No dated public statement by Kaminski before that letter was identified by the pass of 19 September 2026.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-8e5918f395",
+"node": "robert-kaminski",
+"nodeLabel": "Robert J. Kaminski",
+"route": "document",
+"source": {
+"domain": "www.metabunk.org",
+"text": "Reported at Metabunk and in the Hastings material, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , both opened 2026-09-19",
+"url": "https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/"
+},
+"text": "In a 1997 letter to researcher Jim Klotz, Boeing engineer Robert Kaminski wrote that the Echo Flight investigation team found no significant failures, engineering data or findings that would explain how ten missiles were knocked off alert, and that the Air Force unexpectedly ordered the inquiry ended mid-stream with no report to be filed.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "Metabunk and ufohastings.com (Robert Hastings)"
 }
 ],
 "cls": "person",

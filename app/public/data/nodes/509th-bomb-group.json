@@ -62,6 +62,25 @@
 "unresolved": null
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "1947-07-08",
+"eventDate": null,
+"id": "c-1d06de57b6",
+"node": "jesse-marcel",
+"nodeLabel": "Jesse A. Marcel Sr.",
+"route": "press",
+"source": {
+"domain": null,
+"text": "RAAF press release and Fort Worth AAF press photographs, July 1947; reproduced in the 1995 Air Force report as Fig. 4, 'Maj. Jesse Marcel With Flying Disc Debris'",
+"url": null
+},
+"text": "Marcel was named in the 8 July 1947 Roswell Army Air Field press release as the intelligence officer responsible for the recovery, and was photographed at Fort Worth AAF with debris identified there as a weather balloon and radar target.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "legacy",
 "conflicts": [],

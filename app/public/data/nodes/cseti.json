@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-16514c0a3f",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1990",
+"route": "document",
+"speaker": "Wikipedia, 'Steven M. Greer'",
+"via": null
+},
 "source": "Wikipedia, 'Steven M. Greer', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -17,6 +26,42 @@
 "text": "Greer founded CSETI in 1990 and the Disclosure Project in 1993; the Disclosure Project seeks amnesty for government whistleblowers willing to violate security oaths.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2000-12",
+"eventDate": null,
+"id": "c-9765b16d0f",
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "On why the craft is described with no windows: a 'synthetic vision system [used] the same kind of technology as the gun slaving system they have in the Apache helicopter', with paired slewing cameras and 'a little screen in front of his helmet', giving 'a perfect 3-D view of the outside, but no windows'.",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": null
+},
+{
+"artefactDate": "2000-12",
+"eventDate": null,
+"id": "c-b32e204a5f",
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "On the crew compartment and the central column: the visible dome 'was actually the upper half of a big sphere-shaped crew compartment that was in the middle of the vehicle'; 'On the inside of the crew compartment was a big column that ran down through the middle, and there were four ejection seats mounted back-to-back on the upper half of this column. Then, right in the middle of the column, was a large flywheel of some kind.'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": null
 }
 ],
 "cls": "institution",

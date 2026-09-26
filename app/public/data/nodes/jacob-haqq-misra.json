@@ -19,6 +19,15 @@
 "claims": [
 {
 "id": "c-bd86395c0b",
+"meta": {
+"artefactDate": null,
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": "2026-06",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Sol Foundation, 'Sol Foundation Co-Founders Named to UAP Science Advisory Council'",
 "sources": [
 {
@@ -33,6 +42,15 @@
 },
 {
 "id": "c-1567c2cf52",
+"meta": {
+"artefactDate": "2026-06",
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Sol Foundation announcement, June 2026",
 "sources": [],
 "text": "The Sol Foundation described the appointment of its co-founders, Gallaudet and Haqq-Misra to the government's scientific advisory body as 'a fulfillment of its founding mission'.",

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-5d28828837",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-4a61c13c2f",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-1cf6dd04be",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
 "sources": [
 {

@@ -41,6 +41,59 @@
 "unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1980",
+"id": "c-0042691a25",
+"node": "eugene-yeates",
+"nodeLabel": "Eugene F. Yeates",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "NSA UFO FOIA collection, litigation records and the Yeates Affidavit",
+"url": null
+},
+"text": "In 1980 NSA was a defendant in Civil Action No. 80-1562, 'Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency'; the presiding judge was given in camera access to a Top Secret explanation of why the UFO records were being withheld and ruled for NSA.",
+"tier": 1,
+"topic": "foia-litigation",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-a0636b3cac",
+"node": "caus-v-nsa",
+"nodeLabel": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "NSA UFO FOIA collection, litigation records including the Yeates Affidavit",
+"url": null
+},
+"text": "In Civil Action No. 80-1562 the judge was given in camera Top Secret access to NSA's explanation of why the UFO documentation was being withheld and ruled in NSA's favour, allowing the information to remain classified.",
+"tier": 1,
+"topic": "foia-litigation",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-e54b52158e",
+"node": "yeates-affidavit",
+"nodeLabel": "Yeates Affidavit (NSA, 1980)",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "NSA UFO FOIA collection, 'Yeates Affidavit'",
+"url": null
+},
+"text": "The Yeates Affidavit is published in NSA's UFO FOIA release, and NSA's litigation position in Civil Action No. 80-1562 was that responsive UFO records existed but could not be disclosed.",
+"tier": 1,
+"topic": "foia-litigation",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "ic",
 "conflicts": [],

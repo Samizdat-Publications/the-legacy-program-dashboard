@@ -23,6 +23,15 @@
 },
 {
 "id": "c-e69301fcde",
+"meta": {
+"artefactDate": null,
+"claimant": "tom-mahood",
+"claimantLabel": "Tom Mahood",
+"eventDate": "1993",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/ , opened 2026-09-18",
 "sources": [
 {
@@ -37,6 +46,15 @@
 },
 {
 "id": "c-e5260345fb",
+"meta": {
+"artefactDate": "2018",
+"claimant": "tom-mahood",
+"claimantLabel": "Tom Mahood",
+"eventDate": "1989-04",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
 "sources": [
 {
@@ -51,6 +69,15 @@
 },
 {
 "id": "c-13d8e1164c",
+"meta": {
+"artefactDate": "2018",
+"claimant": "tom-mahood",
+"claimantLabel": "Tom Mahood",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
 "sources": [
 {
@@ -65,6 +92,15 @@
 },
 {
 "id": "c-91a6428e57",
+"meta": {
+"artefactDate": null,
+"claimant": "tom-mahood",
+"claimantLabel": "Tom Mahood",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Tom Mahood, 'Element 115 tidbits', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18",
 "sources": [
 {
@@ -76,6 +112,161 @@
 "text": "On element 115 his page assembles the prior art: Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, with graphics of expected half-lives for superheavy elements, and a 1970 textbook describing element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. The island of stability was published popular physics long before 1989.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2018",
+"eventDate": null,
+"id": "c-a64ba4a596",
+"node": "s-4-papoose-lake",
+"nodeLabel": "S-4 / Papoose Lake, Nevada",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 0:57:13 and 1:01:21 to 1:02:58, recorded 2026-07-20",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+},
+"text": "THE SECOND-BEST FINDING IN THIS CLUSTER: TWO PEOPLE REACH THE SAME COUNTER-EXPLANATION BY UNRELATED ROUTES. Tom Mahood, a physics graduate who spent years on the documentary record, concludes in his 2018 retrospective that there is 'nothing at Papoose Lake' and that S-4 actually refers to a radar facility at the Tonopah Test Range. Separately, T.D. Barnes, a former CIA and NASA engineer who worked at Groom Lake, says the real Site 4 is a remote radar site north of the main facility that held captured Soviet equipment, that this and not an underground base is what Lazar referred to, and that a named retired Area 51 security chief confirmed to him that Lazar appears on no manifest. Neither route depends on the other: one is documentary and civilian, the other is recollection by a former range engineer. Shared conclusions from a shared method are not corroboration; these two do not share a method.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-8e2d48f66b",
+"node": "element-115-claim",
+"nodeLabel": "Element 115: the Lazar claim and moscovium",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 'Element 115 tidbits', citing Seaborg, Scientific American, April 1969, pp 57-67, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/"
+},
+"text": "THE PRIOR ART, WHICH CUTS AGAINST THE HOSTILE READING AS WELL AS THE CREDULOUS ONE. The island of stability near element 114 was mainstream, popularised physics well before 1989. Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, carried graphics of expected half-lives for superheavy elements, and a 1970 chemistry textbook described element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. A reader of popular science in the 1970s and 1980s had 114 and 115 available. The Seaborg article itself was not opened and is cited here only as Mahood cites it.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2018",
+"eventDate": null,
+"id": "c-7f6a762766",
+"node": "kirk-mayer",
+"nodeLabel": "Kirk-Mayer, Inc.",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+},
+"text": "Tom Mahood's 2018 conclusion on the same question: that Lazar worked as an electronic technician for Kirk-Mayer, a contractor supplying support staff, rather than as a physicist, and that his presence in the telephone directory reflected that contractor relationship and was marked with a 'K/M' notation.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "2018",
+"eventDate": "1982-06-27",
+"id": "c-7fd7489e03",
+"node": "los-alamos-monitor-1982",
+"nodeLabel": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and The Lazar Tape, 1991, captions at 35:48",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+},
+"text": "It is also the date peg for the Edward Teller anecdote, and it creates a discrepancy rather than resolving one. Tom Mahood's 2018 retrospective puts the article on 27 June 1982 with Teller lecturing at Los Alamos the following day, and calls the timing an 'amazing display of totally fucked synchronicity'. Lazar's own 1991 narration places the newspaper story and the Teller speech on the same day. The newspaper's date is fixed, so both cannot be right.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "2018",
+"eventDate": "1989-04",
+"id": "c-e5260345fb",
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 'Looking at the Bob Lazar story from the perspective of 2018', https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+},
+"text": "His 2018 retrospective concludes that there is 'nothing at Papoose Lake', that S-4 actually refers to a radar facility at the Tonopah Test Range, and that Lazar constructed the alien-craft narrative as a cover after security caught him bringing friends to watch classified tests in April 1989. It concedes in the same document that Lazar is 'amazingly believable', that Mahood initially found the story plausible before investigating the details, and that Lazar demonstrated real technical cleverness as a troubleshooter.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1989-04-05",
+"id": "c-13a9f4bc48",
+"node": "john-lear",
+"nodeLabel": "John Olsen Lear",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 'The Robert Lazar Timeline', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/ , opened 2026-09-18",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/"
+},
+"text": "Lear and Lazar had met by 1988. Lear was present at the first and third of the three Wednesday-night desert viewings, on 22 March 1989 and 5 April 1989, and Mahood's timeline records that at the first of those 'only Lear saw the elliptical shape through a telescope'. On 5 April 1989 the group, including Lear, was detained by the Lincoln County Sheriff after guards discovered them.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-91a6428e57",
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 'Element 115 tidbits', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/ , opened 2026-09-18",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/"
+},
+"text": "On element 115 his page assembles the prior art: Glenn Seaborg's article in Scientific American of April 1969, pages 57 to 67, with graphics of expected half-lives for superheavy elements, and a 1970 textbook describing element 114, with 114 protons and 184 neutrons, as 'an island of stability in a sea of instability'. The island of stability was published popular physics long before 1989.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1993",
+"id": "c-e69301fcde",
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 'Lazar Flaws - Education', https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/ , opened 2026-09-18",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/"
+},
+"text": "His conclusion on the credentials: 'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' His investigation records that 'Standard inquiries have been made by George Knapp and Stanton Friedman and turned up nothing'; that Glenn Campbell in 1993 found no Lazar 'in any MIT student directory between 1978 and 1990'; and that Natalie Gilmore of Caltech Graduate Studies stated that Caltech 'does not currently have, nor has it ever had any sort of graduate degree in electronics or electronic technology'.",
+"tier": 2,
+"topic": "lazar-s4",
+"via": null
+},
+{
+"artefactDate": "2018",
+"eventDate": null,
+"id": "c-13d8e1164c",
+"node": "tom-mahood",
+"nodeLabel": "Tom Mahood",
+"route": "document",
+"source": {
+"domain": "otherhand.org",
+"text": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
+"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/"
+},
+"text": "On the Los Alamos question he concludes that Lazar worked as an electronic technician for the contractor Kirk-Mayer rather than as a staff physicist, that the phone-directory listing reflects that contractor relationship, and that the Monitor article's description followed what Lazar told the reporter. He also accepts that the W-2 could be legitimate, representing a brief stint at Groom, while insisting 'it doesn't mean saucers exist at Papoose'.",
+"tier": 2,
+"topic": "sceptics",
+"via": null
 }
 ],
 "cls": "person",

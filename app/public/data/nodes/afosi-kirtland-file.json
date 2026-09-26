@@ -48,6 +48,15 @@
 },
 {
 "id": "c-456a462398",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, DOPSR-2024-0263, 8 Mar 2024 - full-text review",
 "sources": [
 {
@@ -62,6 +71,15 @@
 },
 {
 "id": "c-4e094fcfa7",
+"meta": {
+"artefactDate": null,
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Richard Doty, on-record documentary and press interviews",
 "sources": [],
 "text": "Richard Doty, the AFOSI agent associated with the Kirtland file, has publicly stated that he supplied false documents and information to Bennewitz as part of his official duties.",

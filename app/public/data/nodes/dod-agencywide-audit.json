@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-2d4897578a",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-0f2ae724e8",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-dd07057120",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-f371367f17",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
 "sources": [
 {
@@ -62,6 +98,15 @@
 },
 {
 "id": "c-5a29dfd873",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -76,6 +121,15 @@
 },
 {
 "id": "c-e18a5af635",
+"meta": {
+"artefactDate": "2026-05-12",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {

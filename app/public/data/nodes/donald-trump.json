@@ -27,6 +27,15 @@
 "claims": [
 {
 "id": "c-0a3dd5a8f9",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 20 February 2026, quoting the Truth Social post",
 "sources": [
 {
@@ -49,6 +58,15 @@
 },
 {
 "id": "c-a7b6087c99",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 21 July 2026",
 "sources": [],
 "text": "In July 2026 the administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is 'not a declassification directive.'",
@@ -62,6 +80,195 @@
 "text": "No published executive order establishing PURSUE has surfaced; the programme appears to rest on informal presidential direction plus departmental implementation, which leaves its scope and durability entirely discretionary.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-02",
+"eventDate": null,
+"id": "c-6696878fb1",
+"node": "eop",
+"nodeLabel": "Executive Office of the President",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Contemporary reporting of the February 2026 presidential directive",
+"url": null
+},
+"text": "In February 2026 the President directed the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2026-07-21",
+"eventDate": null,
+"id": "c-d5eacacf83",
+"node": "uap-nda-waiver-directive-2026",
+"nodeLabel": "Presidential directive waiving UAP-related nondisclosure agreements",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Fox News, 21 July 2026",
+"url": null
+},
+"text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators.",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": "Fox News"
+},
+{
+"artefactDate": "2026-02-19",
+"eventDate": null,
+"id": "c-59c4aea86d",
+"node": "pete-hegseth",
+"nodeLabel": "Pete Hegseth",
+"route": "press",
+"source": {
+"domain": null,
+"text": "war.gov/UFO quoting the President; contemporaneous wire coverage 20 February 2026",
+"url": null
+},
+"text": "President Trump stated on 19 February 2026 that he would direct the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
+"tier": 1,
+"topic": "house-push-2026",
+"via": "war.gov/UFO; wire coverage"
+},
+{
+"artefactDate": "2026-07-21",
+"eventDate": null,
+"id": "c-79bb1bb7f3",
+"node": "uap-nda-waiver-directive-2026",
+"nodeLabel": "Presidential directive waiving UAP-related nondisclosure agreements",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Fox News, 21 July 2026",
+"url": null
+},
+"text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorized investigators; a senior official said prior NDAs can be abrogated for those cooperating through proper channels.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "Fox News"
+},
+{
+"artefactDate": "2026-02-19",
+"eventDate": null,
+"id": "c-4b951c1483",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "press",
+"source": {
+"domain": null,
+"text": "war.gov/UFO quoting the President; wire coverage 20 February 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "PURSUE stands on President Trump's 19 February 2026 statement directing the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "war.gov/UFO; wire coverage"
+},
+{
+"artefactDate": "2026-02-19",
+"eventDate": null,
+"id": "c-52604437d8",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 20 February 2026",
+"url": null
+},
+"text": "Trump pledged on 19-20 February 2026 to direct Hegseth and relevant agencies to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-19",
+"eventDate": null,
+"id": "c-604ab35821",
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 20 February 2026",
+"url": null
+},
+"text": "Trump posted on Truth Social on 19-20 February 2026 that he would direct Hegseth and relevant departments to begin identifying and releasing government files on alien and extraterrestrial life, UAP and UFOs.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-19",
+"eventDate": null,
+"id": "c-690699a64f",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "document",
+"source": {
+"domain": null,
+"text": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "President Trump issued a directive on 19 February 2026 instructing the Secretary of War and other agencies to identify and release government files connected to UAP and extraterrestrial life.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-0a3dd5a8f9",
+"node": "donald-trump",
+"nodeLabel": "Donald J. Trump",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 20 February 2026, quoting the Truth Social post",
+"url": null
+},
+"text": "Trump posted on Truth Social that he would direct Hegseth and relevant departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs).'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-1a356a5c1f",
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "Trump directed Hegseth and other departments to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-07-21",
+"eventDate": null,
+"id": "c-a7b6087c99",
+"node": "donald-trump",
+"nodeLabel": "Donald J. Trump",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Fox News, 21 July 2026",
+"url": null
+},
+"text": "In July 2026 the administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is 'not a declassification directive.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "Fox News"
 }
 ],
 "cls": "person",

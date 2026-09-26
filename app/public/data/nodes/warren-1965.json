@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-9a77d2bbb0",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": "1965-08-01",
+"route": "document",
+"speaker": null,
+"via": "rr0.org mirror"
+},
 "source": "rr0.org mirror of Hastings's Warren 1965 material, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-8de9500e37",
+"meta": {
+"artefactDate": "1972",
+"claimant": "j-allen-hynek",
+"claimantLabel": "J. Allen Hynek",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "rr0.org, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
 "sources": [
 {

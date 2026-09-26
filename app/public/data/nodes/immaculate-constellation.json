@@ -20,6 +20,15 @@
 },
 {
 "id": "c-a56bf12ef8",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Rep. Nancy Mace, House Oversight hearing, 13 November 2024 (CHRG-118hhrg57440)",
 "sources": [
 {
@@ -34,6 +43,15 @@
 },
 {
 "id": "c-b90e760547",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
 "sources": [
 {
@@ -48,6 +66,15 @@
 },
 {
 "id": "c-2477ebc37d",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
 "sources": [
 {
@@ -62,6 +89,15 @@
 },
 {
 "id": "c-05bc19eaae",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
 "sources": [
 {
@@ -76,6 +112,15 @@
 },
 {
 "id": "c-cdf39434fd",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024",
 "sources": [
 {
@@ -90,6 +135,15 @@
 },
 {
 "id": "c-5ef2e8f60b",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight (questioned by Rep. Clay Higgins)"
+},
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "sources": [
 {
@@ -104,6 +158,15 @@
 },
 {
 "id": "c-9d3c590324",
+"meta": {
+"artefactDate": null,
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": "Susan Gough; Sean Kirkpatrick",
+"via": null
+},
 "source": "DoD statements as reported in secondary coverage; wave 1 board record",
 "sources": [],
 "text": "The Department of Defense states it has no record of such a programme; spokesperson Sue Gough has said the Department has 'no record', and former AARO director Sean Kirkpatrick has denied its existence.",

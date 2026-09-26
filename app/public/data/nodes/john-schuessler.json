@@ -52,6 +52,15 @@
 },
 {
 "id": "c-ac50f354e1",
+"meta": {
+"artefactDate": null,
+"claimant": "john-schuessler",
+"claimantLabel": "John F. Schuessler",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Contemporary accounts and Schuessler's own report",
 "sources": [],
 "text": "Vickie Landrum was directed to Schuessler after telephoning NASA about the incident.",
@@ -60,6 +69,15 @@
 },
 {
 "id": "c-a56388792f",
+"meta": {
+"artefactDate": "1998",
+"claimant": "john-schuessler",
+"claimantLabel": "John F. Schuessler",
+"eventDate": "1981",
+"route": "document",
+"speaker": null,
+"via": "Philip J. Klass"
+},
 "source": "Philip J. Klass's analysis of Schuessler's published data, 1998",
 "sources": [
 {
@@ -71,6 +89,42 @@
 "text": "Schuessler found no radioactivity when he checked Betty Cash's car with a Geiger counter in early 1981.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1998",
+"eventDate": "1981",
+"id": "c-a56388792f",
+"node": "john-schuessler",
+"nodeLabel": "John F. Schuessler",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Philip J. Klass's analysis of Schuessler's published data, 1998",
+"url": null
+},
+"text": "Schuessler found no radioactivity when he checked Betty Cash's car with a Geiger counter in early 1981.",
+"tier": 2,
+"topic": "biology-medical",
+"via": "Philip J. Klass"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-ac50f354e1",
+"node": "john-schuessler",
+"nodeLabel": "John F. Schuessler",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Contemporary accounts and Schuessler's own report",
+"url": null
+},
+"text": "Vickie Landrum was directed to Schuessler after telephoning NASA about the incident.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
 }
 ],
 "cls": "person",

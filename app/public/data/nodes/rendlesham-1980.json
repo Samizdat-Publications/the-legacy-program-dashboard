@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-a3b77d59e9",
+"meta": {
+"artefactDate": "2000-09",
+"claimant": "larry-warren",
+"claimantLabel": "Larry Warren",
+"eventDate": "1980-12-11",
+"route": "interview",
+"speaker": null,
+"via": "Disclosure Project Briefing Document (Steven M. Greer and Theodore C. Loder III)"
+},
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-c6d95391bb",
+"meta": {
+"artefactDate": "2017-10-17",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Cosimo, Inc. (publisher's announcement)",
+"via": null
+},
 "source": "Cosimo, Inc., publisher's announcement, 'Announcement: Left at East Gate', http://cosimoblog.blogspot.com/2017/10/announcement-left-at-east-gate.html , opened 2026-09-19 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-2a308907d7",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1980-12",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -90,6 +117,15 @@
 },
 {
 "id": "c-36a772fac0",
+"meta": {
+"artefactDate": "2020-12-26",
+"claimant": "david-clarke-uk",
+"claimantLabel": "Dr David Clarke",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "BBC News"
+},
 "source": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?', 26 Dec 2020; David Clarke, 40th-anniversary account with the MoD desk officer, 26 Dec 2020",
 "sources": [],
 "text": "Forty years on, the incident's American witnesses have maintained their accounts publicly while the UK Ministry of Defence's original assessment of 'no defence significance' has been shown to have been reached without interviewing them.",

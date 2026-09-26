@@ -20,6 +20,15 @@
 },
 {
 "id": "c-1c31d7a369",
+"meta": {
+"artefactDate": "2005-12",
+"claimant": "nasa",
+"claimantLabel": "National Aeronautics and Space Administration",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "NASA statement, December 2005",
 "sources": [],
 "text": "NASA stated in December 2005 that experts had examined metallic fragments from the area and determined they were from a Soviet satellite, but that records of their findings were lost in the 1980s.",
@@ -36,6 +45,15 @@
 },
 {
 "id": "c-3bf9c3b04b",
+"meta": {
+"artefactDate": "2007-10",
+"claimant": "nasa",
+"claimantLabel": "National Aeronautics and Space Administration",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Kean v. NASA litigation"
+},
 "source": "Testimony in Kean v. NASA, reported October 2007",
 "sources": [],
 "text": "NASA public liaison officer Steve McConnell testified in the Kean litigation that two boxes of papers from the time of the Kecksburg incident were missing.",

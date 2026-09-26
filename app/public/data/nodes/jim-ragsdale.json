@@ -58,6 +58,15 @@
 },
 {
 "id": "c-5cbc2d7368",
+"meta": {
+"artefactDate": "1997",
+"claimant": "jim-ragsdale",
+"claimantLabel": "James Ragsdale",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "The Roswell Report: Case Closed (1997)"
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.4, note 13",
 "sources": [
 {
@@ -77,6 +86,25 @@
 "text": "Ragsdale's shifting site description is a marker of researcher feedback rather than of memory decay, because the shifts moved toward whichever site the investigating authors were then advancing. Reasoning: chronology of his statements against the 1991 and 1994 Randle-Schmitt scenarios.",
 "tier": 3,
 "unresolved": "read in review as naming no single source: board's own comparative analysis, not a document"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-5cbc2d7368",
+"node": "jim-ragsdale",
+"nodeLabel": "James Ragsdale",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 1.4, note 13",
+"url": null
+},
+"text": "Ragsdale is quoted in the Air Force report describing the objects at the alleged site as 'They were using dummies in those damned things.'",
+"tier": 2,
+"topic": "roswell-1947",
+"via": "The Roswell Report: Case Closed (1997)"
 }
 ],
 "cls": "person",

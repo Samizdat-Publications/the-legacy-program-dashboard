@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-fac04b78ba",
+"meta": {
+"artefactDate": "2019-06-01",
+"claimant": "keith-kloor",
+"claimantLabel": "Keith Kloor",
+"eventDate": "2019-05-31",
+"route": "press",
+"speaker": null,
+"via": "The Intercept"
+},
 "source": "Keith Kloor, The Intercept, 1 June 2019; Wikipedia, Unidentified: Inside America's UFO Investigation",
 "sources": [],
 "text": "Premiered 31 May 2019 on History, executive produced by Tom DeLonge, portraying Elizondo as having led AATIP for eight years.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-ac0748405a",
+"meta": {
+"artefactDate": "2019-06-01",
+"claimant": "keith-kloor",
+"claimantLabel": "Keith Kloor",
+"eventDate": "2019-06-01",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Keith Kloor, The Intercept, 1 June 2019 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {

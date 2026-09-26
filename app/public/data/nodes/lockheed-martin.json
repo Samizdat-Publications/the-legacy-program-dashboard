@@ -20,6 +20,15 @@
 },
 {
 "id": "c-b6d6789c8c",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "George Knapp, sworn testimony, CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {
@@ -34,6 +43,15 @@
 },
 {
 "id": "c-ac64874b83",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "George Knapp, sworn testimony, 9 September 2025",
 "sources": [
 {
@@ -48,6 +66,15 @@
 },
 {
 "id": "c-43863cbfea",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "sources": [
 {
@@ -62,6 +89,15 @@
 },
 {
 "id": "c-ae7352ec1d",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "sources": [
 {
@@ -73,6 +109,25 @@
 "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-c84daf2a74",
+"node": "dana-keoki-jackson",
+"nodeLabel": "Dana (Keoki) Jackson",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Widely reported industry record; Lockheed Martin executive announcements",
+"url": null
+},
+"text": "Jackson previously served as Chief Technology Officer of Lockheed Martin.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
 }
 ],
 "cls": "institution",

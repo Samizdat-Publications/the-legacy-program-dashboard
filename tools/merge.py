@@ -592,9 +592,10 @@ def finalise_defaults(people, entities):
 
 # phase 8: the source registry, the claim-to-source map and the reviewed decisions
 # behind them are side-cars too, written or read by tools/build_source_registry.py;
-# phase 9: the person facets
+# phase 9: the person facets; phase 10: who made each claim (read by tools/claims/ship.py)
 NOT_NODE_DOCUMENTS = {"_edge_tiers.json", "_predicates.json", "_person_facets.json",
-                      "_sources.json", "_claim_sources.json", "_source_decisions.json"}
+                      "_sources.json", "_claim_sources.json", "_source_decisions.json",
+                      "_claim_meta.json"}
 
 
 def _removed_aliases():

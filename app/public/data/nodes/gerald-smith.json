@@ -23,6 +23,15 @@
 },
 {
 "id": "c-d2c956fad1",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": "1961",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
 "sources": [
 {
@@ -37,6 +46,15 @@
 },
 {
 "id": "c-955c5a41f6",
+"meta": {
+"artefactDate": null,
+"claimant": "gerald-smith",
+"claimantLabel": "Gerald A. Smith",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
 "sources": [
 {
@@ -48,6 +66,25 @@
 "text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-955c5a41f6",
+"node": "gerald-smith",
+"nodeLabel": "Gerald A. Smith",
+"route": "document",
+"source": {
+"domain": "www.niac.usra.edu",
+"text": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf",
+"url": "https://www.niac.usra.edu/files/studies/final_report/1147Smith.pdf"
+},
+"text": "Oversaw development of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall; principal investigator on a NASA Institute for Advanced Concepts Phase I study, 'Positron Propelled and Powered Space Transport Vehicle for Planetary Missions'.",
+"tier": 2,
+"topic": "dirds",
+"via": null
 }
 ],
 "cls": "person",

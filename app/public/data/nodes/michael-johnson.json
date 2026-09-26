@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-500da59f84",
+"meta": {
+"artefactDate": "2026-09-07",
+"claimant": "michael-johnson",
+"claimantLabel": "Michael Johnson",
+"eventDate": "1977-11-18",
+"route": "interview",
+"speaker": null,
+"via": "Jesse Michels (YouTube)"
+},
 "source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:07:11, 00:18:44-00:20:40 and 00:53:19-00:53:45, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-d693a76b39",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "2026-06-26",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:03:06-00:03:45 and 00:05:19, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "sources": [
 {
@@ -37,6 +55,15 @@
 },
 {
 "id": "c-81129540ce",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "internal editorial note (provenance check on Michael Johnson's account in the Michels video)",
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:03:34-00:03:40, 00:08:44-00:08:51 and 01:32:29, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "sources": [
 {
@@ -51,6 +78,15 @@
 },
 {
 "id": "c-bab14462a2",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:05:24-00:05:46 and 00:07:29-00:08:51, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "sources": [
 {
@@ -65,6 +101,15 @@
 },
 {
 "id": "c-d3a522ae13",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:07:29-00:07:46 against 00:17:46-00:18:11, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "sources": [
 {
@@ -112,6 +157,25 @@
 "text": "MATERIAL INTEREST WAS ESTABLISHED AFTER CONTACT. The production launched a crowdfunding appeal on the two men's behalf and the episode is commercially sponsored. Recorded plainly as an analytic caveat, not as a disqualifier.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-09-07",
+"eventDate": "1977-11-18",
+"id": "c-500da59f84",
+"node": "michael-johnson",
+"nodeLabel": "Michael Johnson",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:07:11, 00:18:44-00:20:40 and 00:53:19-00:53:45, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "Michael Johnson is presented as the second USAF security policeman of the 44th Missile Security Squadron present at Launch Facility November-5, Ellsworth AFB, on 18 November 1977, working vacation relief on a commander option day, and states he was taken, examined, recovered catatonic at the steering wheel of the truck, interrogated separately on base and subsequently discharged after an Article 15.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": "Jesse Michels (YouTube)"
 }
 ],
 "cls": "person",

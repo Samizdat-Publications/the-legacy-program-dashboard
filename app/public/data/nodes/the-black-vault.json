@@ -34,6 +34,15 @@
 },
 {
 "id": "c-499c8b5e32",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
 "sources": [
 {
@@ -86,6 +95,246 @@
 "text": "A negative FOIA result it records and flags: 'The FBI denies that within the FBI files on United Nuclear are records pertaining to the 2017 raid', with the site's own observation that it 'is unclear why a raid of United Nuclear, which had FBI involvement, would not exist in the FBI file filed under United Nuclear'.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-07-21",
+"eventDate": null,
+"id": "c-9813389165",
+"node": "aaro-fy2025-annual-report",
+"nodeLabel": "AARO FY2025 Consolidated Annual Report on UAP",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Black Vault, 21 July 2026",
+"url": null
+},
+"text": "The report was released months after the statutory reporting cadence under 50 U.S.C. 3373(k)(1)(A).",
+"tier": 2,
+"topic": "aaro",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2017-10-03",
+"id": "c-561fad2cb0",
+"node": "john-garrity",
+"nodeLabel": "John Garrity",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Black Vault, OSD/JS FOIA case 18-F-0324 timeline entry",
+"url": null
+},
+"text": "Identified as the supervisor to whom Elizondo's 3 October 2017 resignation letter was addressed; Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered directly to DoD rather than submitted through standard channels.",
+"tier": 2,
+"topic": "aatip-elizondo",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2017-09",
+"id": "c-efb3d4f85f",
+"node": "neill-tipton",
+"nodeLabel": "Neill Tipton",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Black Vault, 'New Emails Reveal Pentagon Effort to Align Messaging on AATIP and Luis Elizondo'",
+"url": null
+},
+"text": "September 2017 emails show Elizondo drafting a memorandum to help Tipton 'assume the new responsibilities for AATIP' — five years after the Department says AATIP ended.",
+"tier": 2,
+"topic": "aatip-elizondo",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-27d45aefe2",
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+"text": "The Black Vault states in its own voice that 'Callahan's dramatic account is unconfirmed by other sources', while observing that he preserved copies of the data and later shared them with researchers.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-499c8b5e32",
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+"text": "It states its own reservation about the best-known witness to the case: 'Callahan's dramatic account is unconfirmed by other sources', while recording that he preserved copies of the data.",
+"tier": 1,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1961",
+"id": "c-d2c956fad1",
+"node": "gerald-smith",
+"nodeLabel": "Gerald A. Smith",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+"text": "Ph.D. Yale 1961; assistant professor under Luis Alvarez at Berkeley 1961-66; Associate Laboratory Director for High Energy Physics at Argonne 1978; Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State from 1983; Professor Emeritus 2000; founded Positronics Research LLC in 2001.",
+"tier": 2,
+"topic": "dirds",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-345af1cac3",
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+},
+"text": "Many PDFs in the Department's release were password-protected, preventing OCR; The Black Vault removed the restrictions and processed the files into a usable, searchable format.",
+"tier": 2,
+"topic": "foia-litigation",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-6485db2f80",
+"node": "yeates-affidavit",
+"nodeLabel": "Yeates Affidavit (NSA, 1980)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Black Vault, NSA UFO collection background",
+"url": null
+},
+"text": "The affidavit's release in redacted form came only after years of public pressure and republication by private archivists.",
+"tier": 2,
+"topic": "foia-litigation",
+"via": null
+},
+{
+"artefactDate": "2025-09-16",
+"eventDate": "2025-12",
+"id": "c-c865bc5d45",
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Black Vault reporting on the Pentagon's FOIA responses, 16 September 2025 and 15 December 2025",
+"url": null
+},
+"text": "The Pentagon initially denied the existence of any memo describing an alleged Air Force practice codenamed YANKEE BLUE after the Wall Street Journal reported it in September 2025, and in December 2025 reopened its search for the document.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1974",
+"id": "c-cc77ebe81e",
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
+"url": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/"
+},
+"text": "Graduated from the Department of Electrical Engineering, University of Toronto, 1974; Registered Professional Engineer; founder and principal of his consulting firm; consultant on 'novel and exotic materials, energy production and propulsion concepts'; author of 'Mindbending: The Hutchison Files'.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b0a41babe0",
+"node": "blackvault-pursue-archive",
+"nodeLabel": "The Black Vault searchable PURSUE files archive",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+},
+"text": "Many PDFs in the Department of War release were password-protected, preventing OCR processing and rendering documents poorly searchable or entirely unsearchable; The Black Vault removed the restrictions and processed the files into a usable format.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-dd847383ea",
+"node": "blackvault-pursue-archive",
+"nodeLabel": "The Black Vault searchable PURSUE files archive",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+},
+"text": "The Black Vault archive includes searchable PDFs, videos, images, OCR-generated text, transcripts and video subtitles, agency categorisation and related-record linking, with a 2.0GB bulk download.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1975-11",
+"id": "c-078fbacb5c",
+"node": "malmstrom-1975",
+"nodeLabel": "Malmstrom missile-field overflights, 7 to 19 November 1975",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/documentarchive/unidentified-flying-objects-over-malmstrom-afb-november-1975/"
+},
+"text": "The Black Vault's landing page for OASD FOIA case 97-F-1677, released September 1997, describes records of numerous unidentified craft over Malmstrom AFB in November 1975 that could not be intercepted by multiple F-106 fighters. THE PAGE ITSELF REPRODUCES NO DOCUMENT TEXT, so the non-interception claim is corroborated here by the NORAD log rather than by that page.",
+"tier": 2,
+"topic": "sac-overflights-1975",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-10a7fbfce8",
+"node": "d-contracting",
+"nodeLabel": "Federal Contracting Mechanics",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Black Vault, 'Secrecy Deepens About U.S. Army Agreement To Analyze UFO Material'",
+"url": null
+},
+"text": "Secrecy around the Army-TTSA agreement deepened following initial disclosure, with subsequent records requests returning reduced material.",
+"tier": 2,
+"topic": null,
+"via": null
 }
 ],
 "cls": "institution",

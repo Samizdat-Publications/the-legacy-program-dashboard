@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-c2661b0bbf",
+"meta": {
+"artefactDate": "2015-11",
+"claimant": "tal-levesque",
+"claimantLabel": "Tal Levesque (Jason Bishop III)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Adam Gorightly"
+},
 "source": "Norio Hayakawa, 2 April 2024, reproducing the November 2015 email as published in Adam Gorightly, 'Saucers, Spooks and Kooks', https://noriohayakawa.wordpress.com/2024/04/02/startling-final-confession-made-in-2015-by-the-enigmatic-tal-levesque-originator-of-the-entire-dulce-base-myth/ , opened 2026-09-19",
 "sources": [
 {
@@ -35,6 +44,15 @@
 },
 {
 "id": "c-34f6186163",
+"meta": {
+"artefactDate": "1988",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Klass, 'The MJ-12 Crashed-Saucer Documents', Skeptical Inquirer",
 "sources": [
 {

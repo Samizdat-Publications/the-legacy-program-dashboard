@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-e9b7e5fac1",
+"meta": {
+"artefactDate": "1997",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-8bb99172df",
+"meta": {
+"artefactDate": "1997",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.4 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-d3ce81eb80",
+"meta": {
+"artefactDate": "1992",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research)",
+"via": null
+},
 "source": "Rodeghier and Whiting (1992), cited at note 123 of the 1997 Air Force report",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-206b95e21a",
+"meta": {
+"artefactDate": "1994-02",
+"claimant": "leonard-stringfield",
+"claimantLabel": "Leonard H. Stringfield",
+"eventDate": "1947",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Stringfield, Status Report VII (February 1994), Roswell Crash/Retrieval Update",
 "sources": [
 {

@@ -39,6 +39,15 @@
 "claims": [
 {
 "id": "c-cac360cba1",
+"meta": {
+"artefactDate": "1966-03",
+"claimant": "gerald-ford",
+"claimantLabel": "Gerald R. Ford",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Contemporaneous press reporting, March 1966; recounted in the Condon Report's account of the origins of the Colorado project",
 "sources": [],
 "text": "Ford, then House Minority Leader, called in late March 1966 for congressional hearings on unidentified flying objects following the Michigan sightings and the swamp gas explanation.",
@@ -47,6 +56,15 @@
 },
 {
 "id": "c-46d7c5e1e9",
+"meta": {
+"artefactDate": "1966-04-05",
+"claimant": "house-armed-services",
+"claimantLabel": "House Armed Services Committee",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "US House Committee on Armed Services, 'Unidentified Flying Objects', Hearing No. 55, 89th Congress, 5 April 1966",
 "sources": [
 {
@@ -80,6 +98,25 @@
 "text": "The 1966 congressional pressure produced a contracted study rather than an inquiry, and that study became the instrument of termination — the same substitution pattern later seen with the Robertson Panel and with AARO.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1966-03",
+"eventDate": null,
+"id": "c-cac360cba1",
+"node": "gerald-ford",
+"nodeLabel": "Gerald R. Ford",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Contemporaneous press reporting, March 1966; recounted in the Condon Report's account of the origins of the Colorado project",
+"url": null
+},
+"text": "Ford, then House Minority Leader, called in late March 1966 for congressional hearings on unidentified flying objects following the Michigan sightings and the swamp gas explanation.",
+"tier": 2,
+"topic": "condon-1966-69",
+"via": null
 }
 ],
 "cls": "person",

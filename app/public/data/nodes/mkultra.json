@@ -20,6 +20,15 @@
 },
 {
 "id": "c-2ce75a8a2e",
+"meta": {
+"artefactDate": "1963-07-26",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Intelligence Committee (Project MKULTRA joint hearing)"
+},
 "source": "Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "sources": [
 {
@@ -48,6 +57,15 @@
 },
 {
 "id": "c-dd772efb5c",
+"meta": {
+"artefactDate": "1977-08-03",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": "1970",
+"route": "hearing",
+"speaker": null,
+"via": "Senate Select Committee on Intelligence, Project MKULTRA joint hearing"
+},
 "source": "Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "sources": [
 {
@@ -62,6 +80,15 @@
 },
 {
 "id": "c-0f60717ed8",
+"meta": {
+"artefactDate": "1977-08-03",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Intelligence Committee (Project MKULTRA joint hearing)"
+},
 "source": "Project MKULTRA joint hearing, 3 August 1977, opening statement and testimony of Admiral Turner, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
 "sources": [
 {
@@ -76,6 +103,15 @@
 },
 {
 "id": "c-fc23bec8bc",
+"meta": {
+"artefactDate": "2025-09-08",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1953",
+"route": "interview",
+"speaker": "Rebecca Lemov",
+"via": "Danny Jones Podcast"
+},
 "source": "Danny Jones Podcast, ep. 330, 8 September 2025, 0:23:00 to 0:23:52",
 "sources": [
 {

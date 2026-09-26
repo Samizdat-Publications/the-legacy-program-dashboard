@@ -60,6 +60,15 @@
 "claims": [
 {
 "id": "c-d997318f2d",
+"meta": {
+"artefactDate": "2021-02-14",
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": "2021-02-10",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
 "sources": [
 {
@@ -74,6 +83,15 @@
 },
 {
 "id": "c-dc6b1a3872",
+"meta": {
+"artefactDate": "2021-02-14",
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": "1989-02",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
 "sources": [
 {
@@ -88,6 +106,15 @@
 },
 {
 "id": "c-1e2e0657a0",
+"meta": {
+"artefactDate": "2017-08",
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
 "sources": [
 {
@@ -102,6 +129,15 @@
 },
 {
 "id": "c-a820af2e13",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (library catalogue records, Internet Archive)",
+"via": null
+},
 "source": "Library catalogue records mirrored at the Internet Archive (truthaboutufocra0000rand; ufocrashatroswel00rand) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "'The Truth About the UFO Crash at Roswell' by Kevin D. Randle and Donald R. Schmitt was published in 1994, 251 pages with bibliographical references and index; 'UFO Crash at Roswell' was published in 1991.",
@@ -110,6 +146,15 @@
 },
 {
 "id": "c-d9ff54abab",
+"meta": {
+"artefactDate": null,
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Robert Sheaffer, Skeptical Inquirer"
+},
 "source": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
 "sources": [
 {
@@ -124,6 +169,15 @@
 },
 {
 "id": "c-be94466742",
+"meta": {
+"artefactDate": "1994",
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
 "sources": [
 {
@@ -135,6 +189,161 @@
 "text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-ea97b984c9",
+"node": "shag-harbour-1967",
+"nodeLabel": "Shag Harbour incident, 4 October 1967",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Randle interviewed by Robert Sheaffer, Skeptical Inquirer",
+"url": null
+},
+"text": "Kevin Randle, who has grown notably more sceptical about Roswell, has stated that Shag Harbour is one of the two cases he still regards as possibly involving a genuine crash.",
+"tier": 2,
+"topic": "canada",
+"via": "Robert Sheaffer, Skeptical Inquirer"
+},
+{
+"artefactDate": "1994",
+"eventDate": null,
+"id": "c-be94466742",
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Randle, 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002)",
+"url": null
+},
+"text": "Randle concluded the Majestic 12 documents were not authentic, in direct opposition to Stanton Friedman.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2017-08",
+"eventDate": null,
+"id": "c-1e2e0657a0",
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"route": "document",
+"source": {
+"domain": "kevinrandle.blogspot.com",
+"text": "Kevin D. Randle, 'Peter Robbins Explains His Take on Left at East Gate (Part One)', A Different Perspective, http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html , opened 2026-09-19",
+"url": "http://kevinrandle.blogspot.com/2017/08/peter-robbins-explains-his-take-on-left_10.html"
+},
+"text": "He hosted and published Peter Robbins's account of the Larry Warren repudiation in August 2017, which is one of the two routes by which that material reached this board.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2021-02-14",
+"eventDate": "2021-02-10",
+"id": "c-d997318f2d",
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"route": "document",
+"source": {
+"domain": "kevinrandle.blogspot.com",
+"text": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+"url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+},
+"text": "Writing on 14 February 2021, he announced the death of Clifford E. Stone on 10 February 2021 in Roswell, New Mexico, and set out the discrepancies between Stone's account and his service record: Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.'",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2021-02-14",
+"eventDate": "1989-02",
+"id": "c-dc6b1a3872",
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"route": "document",
+"source": {
+"domain": "kevinrandle.blogspot.com",
+"text": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+"url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+},
+"text": "He states the basis of his knowledge of Stone: he met him in February 1989 and 'visited him at his home many times'. This is a thirty-year personal acquaintance rather than a records-based debunking, which is why his account and Klass's are independent methods rather than one method twice.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-d9ff54abab",
+"node": "kevin-randle",
+"nodeLabel": "Kevin D. Randle",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Robert Sheaffer interviews with Randle, Skeptical Inquirer",
+"url": null
+},
+"text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": "Robert Sheaffer, Skeptical Inquirer"
+},
+{
+"artefactDate": "2021-02",
+"eventDate": null,
+"id": "c-02c72aab61",
+"node": "clifford-stone",
+"nodeLabel": "Clifford E. Stone",
+"route": "press",
+"source": {
+"domain": "kevinrandle.blogspot.com",
+"text": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
+"url": "https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html"
+},
+"text": "INDEPENDENT SECOND SOURCE WITH A DIFFERENT METHOD. Kevin D. Randle, announcing Stone's death on 10 February 2021 in Roswell, New Mexico, records that Stone 'claimed four tours, though his military records showed that he had been overseas for 37 months and not all of it in Vietnam', and of the claim that he slipped out at night to hunt the enemy, 'There is nothing in the record to support that claim.' Randle states he met Stone in February 1989 and 'visited him at his home many times'.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
+},
+{
+"artefactDate": "2013-05-19",
+"eventDate": null,
+"id": "c-a9a0ccd5f7",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"route": "document",
+"source": {
+"domain": "kevinrandle.blogspot.com",
+"text": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
+"url": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+},
+"text": "Kevin Randle records Salas revising the number of missiles involved in conversation, quoting Salas saying 'Split the difference and I said eight' and noting that Salas later claimed all ten, and records a discrepancy between Salas, who gives all, and Col. Frederick Meiwald, who gives four or five.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "2013-05-19",
+"eventDate": null,
+"id": "c-e7dbb378ad",
+"node": "frederick-meiwald",
+"nodeLabel": "Col. Frederick Meiwald",
+"route": "document",
+"source": {
+"domain": "kevinrandle.blogspot.com",
+"text": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
+"url": "http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html"
+},
+"text": "Kevin Randle records a discrepancy of substance between the two men rather than a disagreement about whether anything happened: Salas placing all ten missiles off alert and Meiwald four or five. Randle nonetheless assesses Meiwald as having confirmed what Salas said.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
 }
 ],
 "cls": "person",

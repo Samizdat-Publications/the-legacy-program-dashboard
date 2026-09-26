@@ -59,6 +59,8 @@ import tempfile
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "topics"))
 import topiclib  # noqa: E402
 import source_pages  # noqa: E402  (phase 8: the source registry as the app ships it)
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "claims"))
+import ship  # noqa: E402  (phase 10)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "app", "public", "data")
@@ -1258,6 +1260,8 @@ def build(quiet=False):
         for f in os.listdir(nd):
             os.remove(os.path.join(nd, f))
     files = node_files(s, ix)
+    # phase 10: who made each claim, and each claimant's claims (tools/claims/ship.py)
+    ship.join_claim_meta(s, files, s.topics, _alias(), appears_in(s.topics, _alias()))
     tot = 0
     for nid, rec in sorted(files.items()):
         tot += write(os.path.join(nd, nid + ".json"), rec, 0)
@@ -1275,6 +1279,15 @@ def build(quiet=False):
     for t in s.topics:
         tot += write(os.path.join(td, t["id"] + ".json"), topic_record(s, bd, alias, t), 1)
     written.append(("data/topics/*.json (%d files)" % len(s.topics), tot))
+    # phase 10: the questions (research/questions/), each cite resolved
+    qj, qrecs = ship.questions_out(s, bd, meta)
+    written.append(("data/questions.json", write(os.path.join(OUT, "questions.json"), qj, 1)))
+    qd = os.path.join(OUT, "questions")
+    os.makedirs(qd, exist_ok=True)
+    for f in os.listdir(qd):
+        os.remove(os.path.join(qd, f))
+    written.append(("data/questions/*.json (%d files)" % len(qrecs),
+                    sum(write(os.path.join(qd, q + ".json"), r, 1) for q, r in sorted(qrecs.items()))))
 
     # phase 8: the Library and one page per source
     recs = source_pages.pages(s, s.reg, era_of)

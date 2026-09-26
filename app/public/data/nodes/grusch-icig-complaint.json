@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-5ba9eae189",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "2022-05-25",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Grusch sworn testimony 26 July 2023; The Debrief 5 June 2023; unclassified reprisal complaint reported 13 June 2023",
 "sources": [],
 "text": "Filed 25 May 2022 with the ICIG by counsel Charles McCullough III; found credible and urgent in July 2022.",
@@ -28,6 +37,15 @@
 },
 {
 "id": "c-23942641f5",
+"meta": {
+"artefactDate": null,
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": "Liberation Times"
+},
 "source": "Unclassified reprisal complaint reported by Liberation Times, 13 June 2023",
 "sources": [
 {

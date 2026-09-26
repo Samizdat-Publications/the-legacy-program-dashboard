@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-ca5a7ed4ce",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-d09f5025ae",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996",
+"route": "document",
+"speaker": "Wikipedia, 'Skinwalker Ranch'",
+"via": null
+},
 "source": "Wikipedia, Skinwalker Ranch — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-529ddc26a5",
+"meta": {
+"artefactDate": "1989-05",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "KLAS-TV broadcast record; Wikipedia, Area 51",
 "sources": [],
 "text": "George Knapp broadcast the Robert Lazar interviews from KLAS-TV Las Vegas in May 1989.",

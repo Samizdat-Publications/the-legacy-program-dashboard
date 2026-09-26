@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-a7ef3bd0f9",
+"meta": {
+"artefactDate": "1990-06-19",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (Las Vegas Review-Journal, 19 June 1990)",
+"via": null
+},
 "source": "Las Vegas Review-Journal, 19 June 1990, p 8B, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-6-19-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-7aefacbabc",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1981",
+"route": "document",
+"speaker": "Wikipedia, 'George Knapp (television journalist)'",
+"via": null
+},
 "source": "Wikipedia, 'George Knapp (television journalist)', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -31,6 +49,59 @@
 "text": "Knapp joined KLAS-TV as reporter and news anchor in 1981, left in 1991 and was rehired in 1995; the Bob Lazar programmes aired on KLAS in May and November 1989.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2018-07-25",
+"eventDate": null,
+"id": "c-088cd90238",
+"node": "dird-technological-approaches-to-controlling-external-devices",
+"nodeLabel": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
+"route": "document",
+"source": {
+"domain": "ufos-scientificresearch.blogspot.com",
+"text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+"text": "The earlier KLAS-TV list of the same document, published 25 July 2018, titles it \"Brain-Machine Interfaces, Dr R Genik, Wayne State Univ.\" The DIA title and the KLAS title describe the same paper.",
+"tier": 2,
+"topic": "dirds",
+"via": "ufos-scientificresearch.blogspot.com"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-4dfd1e9f67",
+"node": "john-albertine",
+"nodeLabel": "J. Albertine",
+"route": "document",
+"source": {
+"domain": "ufos-scientificresearch.blogspot.com",
+"text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+"text": "The earlier KLAS-TV list gave item 25 as \"Laser Weapons, J Albertine, M.S., Directed Technologies\" and left the 38th DIRD as \"Redacted.\" The DIA letter resolved the redacted item as the classified version of the same laser paper.",
+"tier": 2,
+"topic": "dirds",
+"via": "ufos-scientificresearch.blogspot.com"
+},
+{
+"artefactDate": "2026-07-13",
+"eventDate": "1949",
+"id": "c-a464673463",
+"node": "lanl",
+"nodeLabel": "Los Alamos National Laboratory",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Newsweek, 10 July 2026; KLAS/Mystery Wire, 13 July 2026",
+"url": null
+},
+"text": "Newly declassified records detailing the 1949 Los Alamos green fireballs conference were released and reported in July 2026.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": "Mystery Wire"
 }
 ],
 "cls": "institution",

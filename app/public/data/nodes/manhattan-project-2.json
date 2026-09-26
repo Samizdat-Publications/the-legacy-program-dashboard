@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-608197f302",
+"meta": {
+"artefactDate": "2026-05-01",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1947",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-a5ff1c6c9c",
+"meta": {
+"artefactDate": "2026-05-01",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1954",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-3666550fd8",
+"meta": {
+"artefactDate": "2026-06-19",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1994",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-4ceadb9ef8",
+"meta": {
+"artefactDate": "2026-06-19",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 'Special Access Required' Vol.2, 19 June 2026",
 "sources": [
 {

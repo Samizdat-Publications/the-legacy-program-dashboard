@@ -104,6 +104,15 @@
 },
 {
 "id": "c-09b625e643",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1977-10",
+"route": "document",
+"speaker": "Wikipedia ('Operação Prato'), citing ISTOÉ, Folha de S. Paulo, Veja, O Estado de S. Paulo",
+"via": null
+},
 "source": "Wikipedia 'Operação Prato' infobox, sourced to ISTOÉ, Folha de S. Paulo, Veja and O Estado de S. Paulo",
 "sources": [
 {
@@ -118,6 +127,15 @@
 },
 {
 "id": "c-32cac62e8f",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('Operação Prato'), citing the Information System of the National Archive, Brazil",
+"via": null
+},
 "source": "Wikipedia 'Operação Prato', citing the Information System of the National Archive, Brazil",
 "sources": [
 {
@@ -132,6 +150,15 @@
 },
 {
 "id": "c-7a54f09597",
+"meta": {
+"artefactDate": "1990",
+"claimant": "jacques-vallee",
+"claimantLabel": "Jacques F. Vallee",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Jacques Vallée, Confrontations: A Scientist's Search for Alien Contact (Ballantine, 1990), p.134",
 "sources": [
 {

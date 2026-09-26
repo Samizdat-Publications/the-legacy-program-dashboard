@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-389dff4129",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": "wayne-state-university",
+"claimantLabel": "Wayne State University",
+"eventDate": "2009-04",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-7e8d4f5e56",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": "wayne-state-university",
+"claimantLabel": "Wayne State University",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "sources": [
 {
@@ -79,6 +97,15 @@
 },
 {
 "id": "c-010f58bab1",
+"meta": {
+"artefactDate": null,
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "ufos-scientificresearch.blogspot.com"
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -121,6 +148,15 @@
 },
 {
 "id": "c-7012614e3a",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": "wayne-state-university",
+"claimantLabel": "Wayne State University",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "sources": [
 {
@@ -135,6 +171,15 @@
 },
 {
 "id": "c-cacdbfecf0",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -149,6 +194,15 @@
 },
 {
 "id": "c-79a773dd70",
+"meta": {
+"artefactDate": null,
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "ufos-scientificresearch.blogspot.com"
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -163,6 +217,15 @@
 },
 {
 "id": "c-268e9b2720",
+"meta": {
+"artefactDate": "2009-07-13",
+"claimant": "wayne-state-university",
+"claimantLabel": "Wayne State University",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
 "sources": [
 {

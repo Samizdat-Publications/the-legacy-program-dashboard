@@ -34,6 +34,15 @@
 },
 {
 "id": "c-563d1159a9",
+"meta": {
+"artefactDate": null,
+"claimant": "darpa",
+"claimantLabel": "Defense Advanced Research Projects Agency",
+"eventDate": "1957",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "DARPA, About, retrieved 12 August 2026",
 "sources": [
 {
@@ -73,6 +82,25 @@
 "text": "DARPA is named among the contributing elements to ODNI's 25 June 2021 Preliminary Assessment on UAP.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1957",
+"id": "c-563d1159a9",
+"node": "darpa",
+"nodeLabel": "Defense Advanced Research Projects Agency",
+"route": "document",
+"source": {
+"domain": null,
+"text": "DARPA, About, retrieved 12 August 2026",
+"url": null
+},
+"text": "DARPA states it was 'Created in response to the launch of Sputnik in 1957' and is 'an independent research and development agency within the U.S. Department of War (DOW)', with six technical offices.",
+"tier": 1,
+"topic": "area-51-ranges",
+"via": null
 }
 ],
 "cls": "institution",

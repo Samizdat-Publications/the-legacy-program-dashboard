@@ -29,6 +29,15 @@
 "claims": [
 {
 "id": "c-be27353d73",
+"meta": {
+"artefactDate": "2002",
+"claimant": "richard-dolan",
+"claimantLabel": "Richard M. Dolan",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Dolan, 'UFOs and the National Security State', vols. I and II",
 "sources": [
 {
@@ -43,6 +52,15 @@
 },
 {
 "id": "c-902acf6392",
+"meta": {
+"artefactDate": "2022-09-28",
+"claimant": "richard-dolan",
+"claimantLabel": "Richard M. Dolan",
+"eventDate": "2002",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "The Richard Dolan Show, 'No More Excuses: The Davis Wilson Notes', 28 September 2022 (archived copy)",
 "sources": [
 {
@@ -62,6 +80,59 @@
 "text": "Dolan's frame, not his sources, is his contribution: he is the researcher who moved the field's burden of proof from 'prove a saucer crashed' to 'account for the documented secrecy architecture and its unaudited compartments.' Reasoning: his volumes are built on statutes, reorganisation records and programme structure, all independently checkable, and the post-2017 congressional record adopted the same frame.",
 "tier": 3,
 "unresolved": "read in review as naming no single source: board's own structural/methodological comparison, not a source"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2002",
+"eventDate": null,
+"id": "c-be27353d73",
+"node": "richard-dolan",
+"nodeLabel": "Richard M. Dolan",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Dolan, 'UFOs and the National Security State', vols. I and II",
+"url": null
+},
+"text": "Dolan's two-volume 'UFOs and the National Security State' covers 1941-1973 (2002) and 1973-1991 (2009) and situates the UFO record within the documented growth of the US national security apparatus.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2022-09-28",
+"eventDate": "2002",
+"id": "c-902acf6392",
+"node": "richard-dolan",
+"nodeLabel": "Richard M. Dolan",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "The Richard Dolan Show, 'No More Excuses: The Davis Wilson Notes', 28 September 2022 (archived copy)",
+"url": null
+},
+"text": "Dolan publicly analysed the Davis-Wilson notes - a record of a 2002 meeting said to describe a deeply secret extraterrestrial technology reverse-engineering programme - in a broadcast dated 28 September 2022.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2002",
+"eventDate": null,
+"id": "c-0e472a2e3f",
+"node": "ufos-national-security-state",
+"nodeLabel": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Dolan, 'UFOs and the National Security State', vols. I and II",
+"url": null
+},
+"text": "Volume I covers 1941-1973 and volume II covers 1973-1991, situating the UFO record within the documented development of the US national security apparatus.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
 }
 ],
 "cls": "person",

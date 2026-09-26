@@ -45,6 +45,15 @@
 "claims": [
 {
 "id": "c-946d714ea1",
+"meta": {
+"artefactDate": "2002-10-16",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Wilson-Davis notes, 16 Oct 2002",
 "sources": [
 {
@@ -59,6 +68,15 @@
 },
 {
 "id": "c-39807b341a",
+"meta": {
+"artefactDate": "2019",
+"claimant": "thomas-wilson",
+"claimantLabel": "Thomas R. Wilson",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Thomas R. Wilson, statements to journalists, 2019 onward",
 "sources": [],
 "text": "Wilson has denied that the meeting recorded in the notes took place and has denied the substance attributed to him.",
@@ -72,6 +90,42 @@
 "text": "The refusal mechanism described in the notes - programme security officers and contractor gatekeepers denying a cleared senior official on need-to-know grounds - is the same mechanism described under oath by David Grusch in 2023, indicating a persistent access-control architecture rather than an isolated anecdote.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2019",
+"eventDate": null,
+"id": "c-7cddcadc7e",
+"node": "wilson-davis-memo",
+"nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Thomas R. Wilson, statements to journalists, 2019 onward",
+"url": null
+},
+"text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": "2019",
+"eventDate": null,
+"id": "c-39807b341a",
+"node": "thomas-wilson",
+"nodeLabel": "Thomas R. Wilson",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Thomas R. Wilson, statements to journalists, 2019 onward",
+"url": null
+},
+"text": "Wilson has denied that the meeting recorded in the notes took place and has denied the substance attributed to him.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
 }
 ],
 "cls": "person",

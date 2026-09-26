@@ -79,6 +79,18 @@ export const SAID_TITLE: Record<'said' | 'office', string> = {
   office: "Tier 1 here means it is documented that the office said or published this. The office is an interested party; it is not a finding that what it says is true.",
 };
 
+/* How to read a Tier 1 claim (phase 10, notes/plans/P10-claimants-questions-connect.md,
+   the key wording decision, final). It stands in the "How to read a claim" key
+   wherever the key renders: on Home, and in every key to the marks below. */
+export const READ_T1 = "Tier 1 means the record is documented. For a statement marked 'said on the record', " +
+  'what is documented is that it was said, not that it is true.';
+
+/* Why the same words can stand twice (blind critic, phase 10 round 2): the board
+   carries a record of the saying and, apart from it, the claim on the speaker's
+   word. Phase R decides the pairs; until then the key says what each one is. */
+export const SAID_TWICE = 'The same words can also stand at Tier 2: there they are the claim itself, resting on the ' +
+  "speaker's word, not the record that it was said.";
+
 /* The mark itself: one element, the same on every surface, at the label size.
    `data-said` carries the kind so a check can read it without parsing words. */
 export function saidMark(kind: Said): HTMLElement | null {
@@ -87,12 +99,20 @@ export function saidMark(kind: Said): HTMLElement | null {
 }
 
 /* The key to the marks, for any surface that draws them: what each one means. */
-export function saidKey(kinds: Iterable<Said>): HTMLElement | null {
+export function saidKey(kinds: Iterable<Said>, fold = true): HTMLElement | null {
   const have = new Set(kinds);
-  const key = h('div', { class: 'said-key dim' });
+  if (!have.has('said') && !have.has('office')) return null;
+  /* Folded to its one sentence on screen, the rest a click away: the whole key
+     repeated above every list pushed the content below the fold (blind critic,
+     phase 10 round 3). Paper (the report) passes fold = false. */
+  const key = fold
+    ? h('details', { class: 'said-key dim' }, h('summary', null, h('span', { class: 'said-read' }, READ_T1),
+      h('span', { class: 'said-more faint' }, ' · how to read the marks')))
+    : h('div', { class: 'said-key dim' }, h('div', { class: 'said-read' }, READ_T1));
+  key.append(h('div', { class: 'said-twice' }, SAID_TWICE));
   for (const k of ['said', 'office'] as const) {
     if (!have.has(k)) continue;
     key.append(h('div', null, h('span', { class: 'said-mark key' }, SAID_LABEL[k]), SAID_TITLE[k]));
   }
-  return key.childNodes.length ? key : null;
+  return key;
 }

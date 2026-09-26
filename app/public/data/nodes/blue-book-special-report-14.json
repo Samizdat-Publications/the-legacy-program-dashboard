@@ -64,6 +64,15 @@
 },
 {
 "id": "c-fe034b76a0",
+"meta": {
+"artefactDate": null,
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
 "sources": [
 {
@@ -78,6 +87,15 @@
 },
 {
 "id": "c-c376a4adbb",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "book",
+"speaker": "unnamed (standard attribution in the Blue Book literature)",
+"via": null
+},
 "source": "Standard attribution in the Blue Book literature; the report front matter does not name the contractor",
 "sources": [],
 "text": "Battelle Memorial Institute performed the statistical analysis under contract to ATIC.",

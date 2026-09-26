@@ -20,6 +20,15 @@
 },
 {
 "id": "c-17b195e696",
+"meta": {
+"artefactDate": "1956",
+"claimant": "edward-ruppelt",
+"claimantLabel": "Edward J. Ruppelt",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Ruppelt, 'The Report on Unidentified Flying Objects', 1956",
 "sources": [
 {
@@ -34,6 +43,15 @@
 },
 {
 "id": "c-6cdbb9b4fa",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Air Force representatives and Rep. L. Mendel Rivers",
+"via": null
+},
 "source": "Congressional and Air Force statements catalogued in the secondary literature on Project SIGN",
 "sources": [],
 "text": "Air Force representatives and Rep. L. Mendel Rivers have asserted that no such Estimate ever existed.",

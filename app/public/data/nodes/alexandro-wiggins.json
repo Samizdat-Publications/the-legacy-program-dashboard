@@ -66,6 +66,15 @@
 },
 {
 "id": "c-aed9aedd99",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": "2023-02-15",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
+},
 "source": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
 "sources": [
 {
@@ -80,6 +89,15 @@
 },
 {
 "id": "c-e44cdd8aac",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Wiggins written statement, 9 September 2025",
 "sources": [
 {
@@ -94,6 +112,15 @@
 },
 {
 "id": "c-0ca1e9ad95",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Wiggins, House Oversight hearing testimony, 9 September 2025",
 "sources": [],
 "text": "'When crews observe objects that maneuver in ways that do not match known profiles ... that is first and foremost a safety issue.'",
@@ -102,6 +129,15 @@
 },
 {
 "id": "c-855a82c0db",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": "2023",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Chief Alexandro Wiggins, sworn testimony, House Oversight Task Force, 9 September 2025; DefenseScoop, 9 Sept 2025",
 "sources": [],
 "text": "Described 'a self-luminous Tic Tac-shaped' object emerging from ocean waters near the USS Jackson in 2023, linking with three similar objects, followed by 'high, synchronized, near-instantaneous acceleration.'",
@@ -124,6 +160,15 @@
 },
 {
 "id": "c-c9f81ac29a",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": "2023",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
+},
 "source": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop",
 "sources": [],
 "text": "Wiggins testified that in 2023 aboard USS Jackson he observed a self-luminous Tic Tac-shaped object emerge from the ocean and accelerate without conventional propulsion signatures, detected on multiple radar systems.",
@@ -140,6 +185,15 @@
 },
 {
 "id": "c-0e6b37c713",
+"meta": {
+"artefactDate": "2025-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "sources": [
 {
@@ -154,6 +208,15 @@
 },
 {
 "id": "c-1bfc4cc35e",
+"meta": {
+"artefactDate": "2025-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "sources": [
 {
@@ -168,6 +231,15 @@
 },
 {
 "id": "c-d2609b125e",
+"meta": {
+"artefactDate": "2025-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "sources": [
 {
@@ -179,6 +251,246 @@
 "text": "CIC personnel recorded the encounter on the ship's Star SAFIRE multi-spectral EO/IR system and reported to the Tactical Action Officer; the video was later published by Jeremy Corbell and George Knapp.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-09",
+"eventDate": null,
+"id": "c-0e6b37c713",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+"text": "'I visually observed a light rising from the waterline, consistent with a platform emerging from the ocean rather than distant surface lights or celestial rise.'",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2025-09",
+"eventDate": null,
+"id": "c-1bfc4cc35e",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+"text": "The object joined three similar objects; all four maintained controlled geometry and departed simultaneously with near-instantaneous acceleration, with no sonic boom, exhaust plume or visible control surfaces.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2025-09",
+"eventDate": null,
+"id": "c-d2609b125e",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
+"url": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf"
+},
+"text": "CIC personnel recorded the encounter on the ship's Star SAFIRE multi-spectral EO/IR system and reported to the Tactical Action Officer; the video was later published by Jeremy Corbell and George Knapp.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-0ca1e9ad95",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Wiggins, House Oversight hearing testimony, 9 September 2025",
+"url": null
+},
+"text": "'When crews observe objects that maneuver in ways that do not match known profiles ... that is first and foremost a safety issue.'",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2023-02-15",
+"id": "c-13860e0049",
+"node": "uss-jackson",
+"nodeLabel": "USS Jackson (LCS-6)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
+"url": null
+},
+"text": "USS Jackson's CIC recorded the 15 February 2023 encounter on a Star SAFIRE multi-spectral EO/IR system with intact platform metadata.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2023",
+"id": "c-855a82c0db",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Chief Alexandro Wiggins, sworn testimony, House Oversight Task Force, 9 September 2025; DefenseScoop, 9 Sept 2025",
+"url": null
+},
+"text": "Described 'a self-luminous Tic Tac-shaped' object emerging from ocean waters near the USS Jackson in 2023, linking with three similar objects, followed by 'high, synchronized, near-instantaneous acceleration.'",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2023-02-15",
+"id": "c-8d21c196d3",
+"node": "uss-jackson-2023",
+"nodeLabel": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
+"url": null
+},
+"text": "The encounter occurred '15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast'; a self-luminous tic-tac object emerged from the ocean and joined three similar objects.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2023-02-15",
+"id": "c-aed9aedd99",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025",
+"url": null
+},
+"text": "'15 February 2023 at approximately 1915 PST in the W-291 Warning Area off the Southern California coast' - a self-luminous tic-tac object emerged from the ocean and joined three similar objects, with 'no visible control surfaces and no exhaust plume.'",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-c40dba1bf0",
+"node": "uss-jackson-2023",
+"nodeLabel": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Wiggins written statement, 9 September 2025; The Debrief, 17 April 2025",
+"url": null
+},
+"text": "The stabilized footage and screenshots were published by journalists rather than released by the Navy or AARO.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2023",
+"id": "c-c9f81ac29a",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop",
+"url": null
+},
+"text": "Wiggins testified that in 2023 aboard USS Jackson he observed a self-luminous Tic Tac-shaped object emerge from the ocean and accelerate without conventional propulsion signatures, detected on multiple radar systems.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-cbc955d63a",
+"node": "uss-jackson-2023",
+"nodeLabel": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Wiggins written statement, 9 September 2025",
+"url": null
+},
+"text": "CIC personnel recorded the encounter on a Star SAFIRE multi-spectral EO/IR system; footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-e44cdd8aac",
+"node": "alexandro-wiggins",
+"nodeLabel": "Alexandro Wiggins",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Wiggins written statement, 9 September 2025",
+"url": null
+},
+"text": "CIC personnel recorded the event on a Star SAFIRE multi-spectral EO/IR system; the footage 'includes timestamps, lat/long, and platform readouts consistent with USS Jackson's location.'",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2023-02-15",
+"id": "c-7e8546fc60",
+"node": "l-socal-oparea",
+"nodeLabel": "Southern California Operating Areas (W-291 and Baja approaches)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Alexandro Wiggins written statement, 9 September 2025",
+"url": null
+},
+"text": "The USS Jackson encounter of 15 February 2023 occurred in Warning Area W-291 off the Southern California coast.",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": "2023-02-15",
+"id": "c-6d29ba5e65",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Alexandro C. Wiggins, written statement, 9 September 2025",
+"url": null
+},
+"text": "On 15 February 2023 at approximately 7:15 pm PST, USS Jackson (LCS-6) recorded four self-luminous Tic-Tac-shaped objects on its Star SAFIRE multi-spectral EO/IR system, one emerging from the ocean, all departing with near-instantaneous acceleration and no propulsion signature or sonic boom.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "House Oversight Task Force"
 }
 ],
 "cls": "person",

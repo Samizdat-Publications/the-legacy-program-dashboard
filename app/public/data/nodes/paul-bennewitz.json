@@ -38,6 +38,15 @@
 "claims": [
 {
 "id": "c-6a5b76f83d",
+"meta": {
+"artefactDate": "2025-07-05",
+"claimant": "greg-bishop",
+"claimantLabel": "Greg Bishop",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:36:14 and 0:37:25, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918",
 "sources": [
 {
@@ -52,6 +61,15 @@
 },
 {
 "id": "c-602dc68f5f",
+"meta": {
+"artefactDate": "2025-07-05",
+"claimant": "greg-bishop",
+"claimantLabel": "Greg Bishop",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:34:30",
 "sources": [
 {
@@ -80,6 +98,15 @@
 },
 {
 "id": "c-dafa4f7c7c",
+"meta": {
+"artefactDate": "1981",
+"claimant": "paul-bennewitz",
+"claimantLabel": "Paul Frederick Bennewitz",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Stephen Fisher, The Trenchant Edges Newsletter"
+},
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "sources": [
 {
@@ -108,6 +135,15 @@
 },
 {
 "id": "c-938811e50f",
+"meta": {
+"artefactDate": "2016-08-29",
+"claimant": "norio-hayakawa",
+"claimantLabel": "Norio Hayakawa",
+"eventDate": "1979",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Norio Hayakawa, 29 August 2016, https://noriohayakawa.wordpress.com/2016/08/29/enigmatic-personalities-behind-the-initial-dulce-underground-base-rumors/comment-page-1/ , opened 2026-09-19",
 "sources": [
 {
@@ -136,6 +172,15 @@
 },
 {
 "id": "c-cd5055b303",
+"meta": {
+"artefactDate": "2005",
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Richard Doty, on-record interviews and documentary appearances, 2005-2013",
 "sources": [],
 "text": "Richard Doty, then an AFOSI special agent, has stated publicly that he supplied Bennewitz with false documents and false information as part of an official effort.",
@@ -149,6 +194,59 @@
 "text": "The disinformation fed to Bennewitz was intended to protect an actual sensitive activity at or near Manzano rather than merely to discredit a nuisance complainant - the operation's cost and duration exceed what a simple crank case would warrant.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1981",
+"eventDate": null,
+"id": "c-b081fadc8d",
+"node": "bennewitz-project-beta-1981",
+"nodeLabel": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
+"route": "document",
+"source": {
+"domain": "www.trenchantedges.com",
+"text": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+},
+"text": "Two verbatim fragments were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. The document itself was not opened by this session.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": "Stephen Fisher, The Trenchant Edges Newsletter"
+},
+{
+"artefactDate": "1981",
+"eventDate": null,
+"id": "c-dafa4f7c7c",
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"route": "document",
+"source": {
+"domain": "www.trenchantedges.com",
+"text": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
+"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
+},
+"text": "HIS OWN DATED DOCUMENT, WHICH THE BOARD HAS NOT CARRIED. Bennewitz summarised his own investigation in late 1981 in a roughly five-thousand-word report titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)'. Two fragments of it were read: 'IN TRUTH THEY TEND TO LIE, HOWEVER THEIR MEMORY FOR LYING IS NOT LONG' and 'THEY MUST BE MADE TO COME DOWN - DESTRUCT THEMSELVES WHICH IS A STANDING ORDER'. Tier 2 because the fragments were read in a 2025 newsletter and not in the document.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": "Stephen Fisher, The Trenchant Edges Newsletter"
+},
+{
+"artefactDate": null,
+"eventDate": "1979-07",
+"id": "c-bee36a05e8",
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
 }
 ],
 "cls": "person",

@@ -90,6 +90,15 @@
 },
 {
 "id": "c-dba0a53327",
+"meta": {
+"artefactDate": "2023-07-14",
+"claimant": "chuck-schumer",
+"claimantLabel": "Charles E. Schumer",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Micah Hanks, The Debrief"
+},
 "source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
 "sources": [],
 "text": "'Americans have a right to learn about technologies of unknown origins, non-human intelligence, and unexplainable phenomena.'",
@@ -98,11 +107,73 @@
 },
 {
 "id": "c-b7de57002b",
+"meta": {
+"artefactDate": "2023-12-22",
+"claimant": "chuck-schumer",
+"claimantLabel": "Charles E. Schumer",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief (J.P. Hague)"
+},
 "source": "Schumer, quoted in J.P. Hague, The Debrief, 22 December 2023",
 "sources": [],
 "text": "'It is really an outrage the House didn't work with us on adopting our proposal for a review board.'",
 "tier": 2,
 "unresolved": "a proposed reading (url:thedebrief.org/a-dramatic-dilution-of-the-disclosure-process-a-temporary-sho) was rejected in review: author and date not in candidate row; cannot confirm same article"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-07-14",
+"eventDate": null,
+"id": "c-2bad419819",
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"url": null
+},
+"text": "Schumer: 'I am honored to carry on the legacy of my mentor and dear friend Harry Reid and fight for the transparency that the public has long demanded surrounding these unexplained phenomena.'",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": "The Debrief (Micah Hanks)"
+},
+{
+"artefactDate": "2023-07-14",
+"eventDate": null,
+"id": "c-dba0a53327",
+"node": "chuck-schumer",
+"nodeLabel": "Charles E. Schumer",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
+"url": null
+},
+"text": "'Americans have a right to learn about technologies of unknown origins, non-human intelligence, and unexplainable phenomena.'",
+"tier": 2,
+"topic": "uapda",
+"via": "Micah Hanks, The Debrief"
+},
+{
+"artefactDate": "2023-12-22",
+"eventDate": null,
+"id": "c-b7de57002b",
+"node": "chuck-schumer",
+"nodeLabel": "Charles E. Schumer",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Schumer, quoted in J.P. Hague, The Debrief, 22 December 2023",
+"url": null
+},
+"text": "'It is really an outrage the House didn't work with us on adopting our proposal for a review board.'",
+"tier": 2,
+"topic": "uapda",
+"via": "The Debrief (J.P. Hague)"
 }
 ],
 "cls": "person",

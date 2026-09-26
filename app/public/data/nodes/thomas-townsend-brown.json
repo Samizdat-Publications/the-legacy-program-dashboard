@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-cf8879449c",
+"meta": {
+"artefactDate": "2024-10-19",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "2000",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:27:32, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-8a608d7cdf",
+"meta": {
+"artefactDate": "2024-10-19",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:24:12, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
 "sources": [
 {
@@ -37,6 +55,15 @@
 },
 {
 "id": "c-45517674e4",
+"meta": {
+"artefactDate": "2024-12-06",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Navy Fighter Pilots Witness UFO Mid Flight (Ft. Ryan Graves)', 6 December 2024, 0:29:08, and 'CIA Contractor: Obama Received An Alien Prophecy (ft. Bob McGwire)', 14 December 2024, 0:52:55",
 "sources": [],
 "text": "Two speakers on separate episodes tell the same Rickover anecdote. On 6 December 2024 at 0:29:08 Michels, citing the writer Paul LaViolette, said Brown went to Hyman Rickover and Rickover told him to stop wasting his time. On 14 December 2024 at 0:52:55 Bob McGwire gave the same story with Rickover answering 'don't waste your time. We're already on it.' Neither speaker cites a document.",
@@ -45,6 +72,15 @@
 },
 {
 "id": "c-676595aa3a",
+"meta": {
+"artefactDate": "2025-04-02",
+"claimant": "kirk-mcconnell",
+"claimantLabel": "Kirk McConnell",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 0:19:36",
 "sources": [
 {
@@ -87,6 +123,15 @@
 },
 {
 "id": "c-3be18f726d",
+"meta": {
+"artefactDate": "2024-10-05",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1952",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'The CIA Scientist Who Cracked Antigravity (Townsend Brown Documentary)', 5 October 2024, 0:22:15 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4979487868.mp3?updated=1751926015",
 "sources": [
 {
@@ -255,6 +300,15 @@
 },
 {
 "id": "c-4c1a4ef804",
+"meta": {
+"artefactDate": null,
+"claimant": "thomas-townsend-brown",
+"claimantLabel": "Thomas Townsend Brown",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Project Winterhaven, biographical sketch -- a self-description",
 "sources": [
 {
@@ -269,6 +323,15 @@
 },
 {
 "id": "c-341ca34a75",
+"meta": {
+"artefactDate": null,
+"claimant": "thomas-townsend-brown",
+"claimantLabel": "Thomas Townsend Brown",
+"eventDate": "1927-08-15",
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "US Patent 3,187,206, which states 'my British Patent 300,311, issued August 15, 1927'; and Project Winterhaven",
 "sources": [
 {
@@ -411,6 +474,42 @@
 "text": "THE ABSENCE IN THE GOVERNMENT'S OWN ANTIGRAVITY SURVEY. DIA-08-1003-018, 'Antigravity for Aerospace Applications', 30 March 2010, 45 pages as released, attributed on the DIA list of 9 January 2018 to Dr Eric Davis of EarthTech International, does not mention Thomas Townsend Brown. Word counts over the whole released PDF: Biefeld 0, electrogravitics 0, Podkletnov 0. 'Brown' occurs three times and all three are reference-list surnames of other authors: L. S. Brown and Maclay in Physical Review 184 (1969), H. R. Brown as co-editor of 'The Philosophy of Vacuum', and J. H. Brownell on Casimir photons. THIS IS A FACT ABOUT THE DOCUMENT. IT IS NOT EVIDENCE THAT DIA CONSIDERED AND REJECTED BROWN, because the document shows no sign of having considered him at all.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1927-08-15",
+"id": "c-341ca34a75",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "US Patent 3,187,206, which states 'my British Patent 300,311, issued August 15, 1927'; and Project Winterhaven",
+"url": null
+},
+"text": "British Patent 300,311, 'Method and Apparatus for Producing Force or Motion', issued 15 August 1927, is named in two documents Brown authored: his Winterhaven biography and the text of US 3,187,206. The British grant itself was not opened; Espacenet and the UK IPO refuse this environment.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-4c1a4ef804",
+"node": "thomas-townsend-brown",
+"nodeLabel": "Thomas Townsend Brown",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Project Winterhaven, biographical sketch -- a self-description",
+"url": null
+},
+"text": "Brown's own biographical sketch bound into Project Winterhaven gives his birth as Zanesville, Ohio, 18 March 1905, and lists Naval Research Laboratory 1930-33, the International Gravity Expedition to the West Indies 1932, Bureau of Ships acoustic and magnetic minesweeping 1940-41, Materials and Processes Engineer at Glenn L. Martin, and radar consultant at Lockheed. Only the Lockheed item is corroborated by a second document, the assignment line of US 2,417,347.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": null
 }
 ],
 "cls": "person",

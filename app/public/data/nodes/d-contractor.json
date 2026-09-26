@@ -21,6 +21,15 @@
 },
 {
 "id": "c-4841f84716",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "House Oversight Committee hearing, 26 July 2023",
 "sources": [
 {
@@ -35,6 +44,15 @@
 },
 {
 "id": "c-6d940e9ef2",
+"meta": {
+"artefactDate": "2026-05-16",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Newsmax",
+"via": "Newsmax"
+},
 "source": "Newsmax, 16 May 2026",
 "sources": [
 {

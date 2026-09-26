@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-097ad64d98",
+"meta": {
+"artefactDate": "2025-05-28",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2020",
+"route": "interview",
+"speaker": "James Fowler",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Meet The Startup Summoning UFOs: Skywatcher', published 28 May 2025, at 0:02:33 and 0:05:12",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-334dec30f0",
+"meta": {
+"artefactDate": "2025-05-28",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2021",
+"route": "interview",
+"speaker": "James Fowler",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Meet The Startup Summoning UFOs: Skywatcher', published 28 May 2025, at 0:05:12 to 0:10:17",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-bb7bccfed7",
+"meta": {
+"artefactDate": "2025-01-30",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Jesse Michels, American Alchemy episode description, 30 January 2025",
 "sources": [],
 "text": "Skywatcher's X account and website skywatcher.ai were promoted in the description of Jake Barber's 30 January 2025 American Alchemy interview.",

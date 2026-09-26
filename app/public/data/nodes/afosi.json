@@ -20,6 +20,15 @@
 },
 {
 "id": "c-2942f34735",
+"meta": {
+"artefactDate": null,
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Mystery Wire (George Knapp)"
+},
 "source": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
 "sources": [
 {
@@ -34,6 +43,15 @@
 },
 {
 "id": "c-006afde421",
+"meta": {
+"artefactDate": null,
+"claimant": "afosi",
+"claimantLabel": "Air Force Office of Special Investigations",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AFOSI, About Us, retrieved 12 August 2026",
 "sources": [
 {
@@ -76,6 +94,15 @@
 },
 {
 "id": "c-fcf3886e8f",
+"meta": {
+"artefactDate": "2014-05-13",
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "HuffPost"
+},
 "source": "Doty's repeated on-the-record statements, including to HuffPost, 13 May 2014",
 "sources": [
 {
@@ -90,6 +117,15 @@
 },
 {
 "id": "c-c865bc5d45",
+"meta": {
+"artefactDate": "2025-09-16",
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": "2025-12",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Black Vault reporting on the Pentagon's FOIA responses, 16 September 2025 and 15 December 2025",
 "sources": [],
 "text": "The Pentagon initially denied the existence of any memo describing an alleged Air Force practice codenamed YANKEE BLUE after the Wall Street Journal reported it in September 2025, and in December 2025 reopened its search for the document.",
@@ -103,6 +139,25 @@
 "text": "The Bennewitz operation is the strongest available evidence that the UFO subject was treated by a counterintelligence organisation as a security problem requiring active measures rather than as a nuisance requiring public relations. Reasoning: disinformation is expensive and legally exposed; it is deployed to protect something, not to dispel nothing.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-006afde421",
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"route": "document",
+"source": {
+"domain": null,
+"text": "AFOSI, About Us, retrieved 12 August 2026",
+"url": null
+},
+"text": "AFOSI states its investigative remit covers 'espionage, terrorism, crimes against property, violence against people, larceny, computer hacking, acquisition fraud... and any other illegal activity that undermines the mission of the U.S. Air Force or the Department of Defense', with units 'located at most Air Force bases worldwide'.",
+"tier": 1,
+"topic": "kirtland-1980",
+"via": null
 }
 ],
 "cls": "institution",

@@ -34,6 +34,15 @@
 },
 {
 "id": "c-352f6d278b",
+"meta": {
+"artefactDate": "2026-05-27",
+"claimant": "mitre-corporation",
+"claimantLabel": "The MITRE Corporation",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 27 May 2026",
 "sources": [
 {
@@ -100,6 +109,15 @@
 },
 {
 "id": "c-8001242d68",
+"meta": {
+"artefactDate": "2026-05-26",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Burlison press release, 26 May 2026",
 "sources": [],
 "text": "Burlison stated: 'Federally funded research and development centers occupy a unique position of public trust... They cannot become private vaults for federal records.'",
@@ -116,6 +134,15 @@
 },
 {
 "id": "c-8e66ac9e09",
+"meta": {
+"artefactDate": "2026-05-22",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "sources": [
 {
@@ -130,6 +157,15 @@
 },
 {
 "id": "c-7027c13bf7",
+"meta": {
+"artefactDate": "2026-05-22",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "sources": [
 {
@@ -144,6 +180,15 @@
 },
 {
 "id": "c-211ff5c2b0",
+"meta": {
+"artefactDate": "2026-05-27",
+"claimant": "mitre-corporation",
+"claimantLabel": "The MITRE Corporation",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/05/27/rep-eric-burlison-request-for-uap-records-mitre/",
 "sources": [
 {

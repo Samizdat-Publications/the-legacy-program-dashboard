@@ -105,6 +105,25 @@
 "unresolved": "a proposed reading (node:crane-dod-reprisal-letter) was rejected in review: index of documents is not the Crane letter itself"
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2025-07-24",
+"eventDate": null,
+"id": "c-371ff5de0b",
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Rep. Eli Crane, letter to the Department of Defense dated 24 July 2025, entered into the record of the 9 September 2025 Task Force hearing",
+"url": null
+},
+"text": "Suffered reprisal including removal of security clearance, denial of promotion, and loss of medical retirement.",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": "9 September 2025 Task Force hearing record"
+}
+],
 "cls": "person",
 "cluster": "oversight",
 "conflicts": [],

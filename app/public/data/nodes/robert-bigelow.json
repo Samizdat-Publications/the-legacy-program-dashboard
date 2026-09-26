@@ -132,6 +132,15 @@
 },
 {
 "id": "c-f316a75ba6",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
 "sources": [
 {
@@ -146,6 +155,15 @@
 },
 {
 "id": "c-339b959ceb",
+"meta": {
+"artefactDate": "2017-05-28",
+"claimant": "robert-bigelow",
+"claimantLabel": "Robert T. Bigelow",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "CBS 60 Minutes (Lara Logan)"
+},
 "source": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
 "sources": [
 {
@@ -182,6 +200,15 @@
 },
 {
 "id": "c-476e5782f1",
+"meta": {
+"artefactDate": "1998-08-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996",
+"route": "press",
+"speaker": "Zack Van Eyck, Deseret News",
+"via": null
+},
 "source": "Zack Van Eyck, Deseret News, 10 Aug 1998",
 "sources": [
 {
@@ -196,6 +223,15 @@
 },
 {
 "id": "c-3da352ed70",
+"meta": {
+"artefactDate": "1998-08-10",
+"claimant": "robert-bigelow",
+"claimantLabel": "Robert T. Bigelow",
+"eventDate": "1998-08",
+"route": "interview",
+"speaker": null,
+"via": "Deseret News"
+},
 "source": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
 "sources": [
 {
@@ -210,6 +246,15 @@
 },
 {
 "id": "c-cf75891a0d",
+"meta": {
+"artefactDate": "2021-05-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2007",
+"route": "press",
+"speaker": "The New Yorker",
+"via": null
+},
 "source": "The New Yorker, 10 May 2021",
 "sources": [
 {
@@ -224,6 +269,15 @@
 },
 {
 "id": "c-b4b0bc1c79",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024, Section on KONA BLUE - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -238,6 +292,15 @@
 },
 {
 "id": "c-996d594436",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "George Knapp, sworn testimony, 9 September 2025",
 "sources": [
 {
@@ -263,6 +326,76 @@
 "text": "Federal prime contract obligations to Bigelow Aerospace LLC total approximately $30 million since FY2008.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2017-05-28",
+"eventDate": null,
+"id": "c-339b959ceb",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Robert Bigelow to Lara Logan, CBS 60 Minutes, 28 May 2017",
+"url": null
+},
+"text": "Bigelow told CBS 60 Minutes he is 'absolutely convinced' of an extraterrestrial presence on Earth.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": "CBS 60 Minutes (Lara Logan)"
+},
+{
+"artefactDate": "1998-08-10",
+"eventDate": null,
+"id": "c-f0a924457e",
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "NIDS operated a public reporting line (1-888-433-6500) and would dispatch veterinarians to perform necropsies on reported animal mutilations at no cost to ranchers.",
+"tier": 2,
+"topic": "biology-medical",
+"via": "Deseret News"
+},
+{
+"artefactDate": "2017-12-16",
+"eventDate": null,
+"id": "c-5987c053b3",
+"node": "nyt-2017-12-16",
+"nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"route": "press",
+"source": {
+"domain": null,
+"text": "New York Times, 16 December 2017",
+"url": null
+},
+"text": "Quoted Robert Bigelow saying he had modified Las Vegas buildings for storing recovered metal alloys, and 'Internationally, we are the most backward country on this.'",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "New York Times"
+},
+{
+"artefactDate": "1998-08-10",
+"eventDate": "1998-08",
+"id": "c-3da352ed70",
+"node": "robert-bigelow",
+"nodeLabel": "Robert T. Bigelow",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Robert Bigelow, interview with the Deseret News, 10 Aug 1998",
+"url": null
+},
+"text": "Bigelow said in August 1998 that anomalous aerial activity and unusual animal deaths had continued on and around the property: 'We wouldn't be there just for the weather.'",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": "Deseret News"
 }
 ],
 "cls": "person",

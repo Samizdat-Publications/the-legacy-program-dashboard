@@ -71,6 +71,9 @@ async function dispatch(r: Route): Promise<void> {
     case 'directory': return (await import('./pages/directory')).renderDirectory(view, r.dir, r.q);
     case 'library': return (await import('./pages/library')).renderLibrary(view, r.q);
     case 'source': return (await import('./pages/source')).renderSource(view, r.id);
+    case 'questions': return (await import('./pages/questions')).renderQuestions(view);
+    case 'question': return (await import('./pages/questions')).renderQuestion(view, r.id);
+    case 'connect': return (await import('./pages/connect')).renderConnect(view, r.a, r.b);
     case 'notfound': return notFound(view, r.raw);
   }
 }

@@ -1,0 +1,99 @@
+{
+  "id": "sworn-witnesses",
+  "order": 3,
+  "title": "Who has testified under oath, and what corroborates them?",
+  "status": "verified",
+  "lead": {
+    "text": "House Oversight has taken sworn UAP testimony at three hearings, in July 2023, November 2024 and September 2025. For what the witnesses described, the board mostly has their own word: a hearing record fixes that a person testified and when, and for the most specific naming, Knapp's, the underlying sourcing has not been published.",
+    "cite": ["c-2f4de2d1ed", "c-fde8773047", "c-c5e399264e", "c-04a427edb1", "e-70724d5b89"]
+  },
+  "answer": [
+    {
+      "text": "On 26 July 2023 a House Oversight subcommittee swore Ryan Graves, David Fravor and David Grusch; on 13 November 2024 two subcommittees heard Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael Gold; on 9 September 2025 the Task Force on the Declassification of Federal Secrets heard Jeffrey Nuccetelli, Alexandro Wiggins, George Knapp, Dylan Borland and a minority witness from the Project on Government Oversight.",
+      "cite": ["c-fd29b58882", "c-3e602ee03e", "c-48ab65bcea", "c-dbf15f686d", "c-0bf7a2bfaf", "c-fb1af2ba9a"]
+    },
+    {
+      "text": "The central programme allegation rests, by Grusch's own account, on what others told him: he testified that the government possesses UAP on the basis of interviewing over 40 witnesses over four years, and that he had those with firsthand knowledge make their own protected disclosures to the Inspector General.",
+      "cite": ["c-d28a058e92", "c-6c05829ad9", "e-7272153b37"]
+    },
+    {
+      "text": "Some people said to have testified did not appear. Michael Herrera's written testimony, supplied by Steven Greer, was entered into the record by Rep. Burlison and he is on no witness list; no opened record establishes that Jason Sands testified anywhere; Jake Barber says he gave testimony in a closed setting without naming the committee.",
+      "cite": ["c-62c7f116b4", "c-34e28a9688", "e-35b29a1f09", "c-6b452defaa", "c-e4b2370224"]
+    },
+    {
+      "text": "The route by which testimony reaches the record decides what it is worth. The Disclosure Project's sixty-eight testimonies were all taken by one interviewer, Steven Greer, whose comments are printed inside the witness text, so they share a method and do not corroborate one another.",
+      "cite": ["c-bd6e505d2e", "c-afeee5cd4d", "c-5ef959f163"]
+    }
+  ],
+  "for": [
+    {
+      "text": "Elizondo, a former Defense Department official, answered yes under oath in November 2024 when asked whether the government has conducted secret UAP crash retrieval programmes, and said he had worked with Grusch at US Space Force and agreed with his testimony. The board records it as the only sworn second-source affirmation of Grusch's central allegation in the congressional record, given by a former colleague.",
+      "cite": ["c-f6c82f5a45", "c-31a2ccc536", "c-ad0e622c55", "c-a1a97b371b", "e-e40cabd8ed"]
+    },
+    {
+      "text": "Knapp testified under oath in September 2025 that documents paint a different picture from what Congress has been told, named Lockheed as a company holding material, named Dr. James Ryder at Lockheed and Glenn Gaffney of the CIA as gatekeepers, and said he had confirmed that Robert Bigelow negotiated with Lockheed executives to receive material held in California. The naming is sworn and specific; its sourcing has not been published.",
+      "cite": ["c-b686095509", "c-da031b7d10", "c-2404414528", "c-5b50718005", "e-70724d5b89"]
+    },
+    {
+      "text": "Some accounts carry anchors outside the hearing room. Fravor's written statement describes a white Tic Tac shaped object with no visible flight control surfaces, and under oath he gave the chain by which the case reached investigators; the 1968 Minot case file names Capt. Bradford Runyon as co-pilot and includes a transcription of the co-pilot's recorded radio conversations; and Robert Jacobs published his own account in the MUFON UFO Journal in January 1989, which fixes when his claim was made.",
+      "cite": ["c-a605d34de0", "c-25c886d614", "c-d1c98cde76", "c-affa575b2e"]
+    },
+    {
+      "text": "An interviewer's documentary half can be checked apart from the interviews: the board opened the 341st Strategic Missile Wing histories and the 24th NORAD Region log that Robert Hastings relies on and found them saying what he says.",
+      "cite": ["c-9113af4936", "e-2f1d027c6b"]
+    },
+    {
+      "text": "Grusch's statements were cleared for open publication by DoD prepublication review in April 2023, and his urgent-concern complaint was filed with the Intelligence Community Inspector General in May 2022, which by his sworn account and The Debrief's found it credible and urgent.",
+      "cite": ["c-05d019fba4", "c-5ba9eae189", "c-b19d0fe80f"]
+    },
+    {
+      "text": "Nuccetelli testified that incursions at Vandenberg during NRO launches in 2003 to 2005 were witnessed by multiple personnel, documented and reported up the chain of command, and that Air Force records of them are held by AARO and the FBI.",
+      "cite": ["c-9227fd28a3", "c-986e9668cc", "c-f473aae82f"]
+    }
+  ],
+  "against": [
+    {
+      "text": "The official answer runs the other way: the Department said in June 2023 that AARO had not discovered any verifiable information substantiating a possession or reverse-engineering programme; AARO records at least eight approaches to Grusch and concluded he had no intention of providing information; and AARO's Volume I asserts that none of its interviewees had firsthand knowledge.",
+      "cite": ["c-3b643d967c", "c-55e352d752", "e-9c868f4cb4"]
+    },
+    {
+      "text": "Rep. Grothman said at the November 2024 hearing that none of the agencies had been able to substantiate Grusch's claims despite members endlessly questioning them inside and outside the SCIF.",
+      "cite": ["c-2ca2b4bf41"]
+    },
+    {
+      "text": "Corroboration within one method is not independent. On the board's own rule the Disclosure Project document is Tier 1 only for the fact that a named person gave testimony on a stated date, and the corroboration its notes assert between witnesses is the compiler's own; on the board's reading four Malmstrom witnesses who reached the public only through Robert Hastings or Robert Salas, three of them only as private correspondence or recordings, are not four independent confirmations, and Hastings's count of his own interviewees varies between his own pages.",
+      "cite": ["c-5ef959f163", "c-49bd4c0e50", "c-cc16c644a8", "c-57d8201cba"]
+    },
+    {
+      "text": "On the board's reading, Grusch's supporters are not independent of the route that made him public: Leslie Kean vetted him through Karl Nell for the June 2023 Debrief article, which carried Nell's and Christopher Mellon's on-record support, and Elizondo, who affirmed his testimony, had worked with him.",
+      "cite": ["e-4826b5f3aa", "c-7674ac4f98", "c-a1a97b371b"]
+    },
+    {
+      "text": "Knapp's naming of Ryder is unconfirmed: the only public source for the association is his testimony, no corporate record confirming Ryder's role at Lockheed has been located, and neither Ryder nor Lockheed Martin has publicly responded; AARO's report states that executives and chief technology officers of the named companies denied the allegations on the record.",
+      "cite": ["e-e387aa66ec", "c-ae7352ec1d"]
+    },
+    {
+      "text": "The Department's position since 2019 is that Elizondo had no assigned responsibilities for AATIP and did not lead it; prepublication clearance of Grusch's words is not endorsement, and he said under oath that they are his own views, not the Department's.",
+      "cite": ["c-f38a8a8dcb", "c-c7c86ef93e", "c-bd70eefc48", "e-b3c6f6cfaf"]
+    },
+    {
+      "text": "The document entered at the November 2024 hearing on Immaculate Constellation carries no author, classification marking or control number, and its first page credits the State Department with approving the public version; the Department of Defense says it has no record of such a programme, and former AARO director Sean Kirkpatrick has denied that it exists.",
+      "cite": ["c-8fd6935124", "c-ab28a691c3", "c-9d3c590324"]
+    }
+  ],
+  "open": [
+    "Have any of the roughly 40 witnesses Grusch says he interviewed been heard by any committee?",
+    "When and in what capacity did Elizondo and Grusch work together at US Space Force, and does that bear on how independent his affirmation is?",
+    "Which committee, if any, heard Jake Barber in a closed setting, and when?",
+    "Does AARO hold the Vandenberg security forces records Nuccetelli says it holds, and was his account ever logged in its case holdings?",
+    "For the fifty-seven unchecked Disclosure Project testimonies, is there any earlier dated statement by the witness, made before Greer interviewed them?"
+  ],
+  "threads": [
+    {
+      "id": "oversight",
+      "text": "The oversight thread follows what the sworn testimony led to. Anna Paulina Luna co-drove the July 2023 hearing and established Grusch's prepublication clearance on the record, then chaired the September 2025 Task Force hearing built around serving and former operators, at which Eric Burlison presented footage said to show a drone firing a Hellfire missile at an orb off Yemen. Burlison's May 2026 letter to MITRE was, on his office's account, the first congressional records demand to an FFRDC operator on UAP, and MITRE said it would coordinate any production with the agencies responsible; on the board's reading no UAP subpoena has issued from the committee.",
+      "cite": ["e-a2bddb3019", "e-3ee8c1ae0b", "e-4c38f9f904", "e-de331ad177", "e-b6a656addb", "c-40e772e25c"]
+    }
+  ],
+  "topics": ["congressional-witnesses", "hearing-2023", "hearing-2024", "testimony-provenance", "grusch-allegations", "disclosure-project-2001", "nuclear-witnesses", "whistleblower-channels"]
+}

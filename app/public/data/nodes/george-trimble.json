@@ -37,6 +37,15 @@
 },
 {
 "id": "c-6b934dcf5c",
+"meta": {
+"artefactDate": "1955-06-10",
+"claimant": "george-trimble",
+"claimantLabel": "George S. Trimble",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Dean Rickles (Edition Open Sources)"
+},
 "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report",
 "sources": [
 {
@@ -51,6 +60,15 @@
 },
 {
 "id": "c-f49cade67f",
+"meta": {
+"artefactDate": "1955-06-10",
+"claimant": "george-trimble",
+"claimantLabel": "George S. Trimble",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Dean Rickles"
+},
 "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles",
 "sources": [],
 "text": "The same letter opens by recording a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' Rickles adds that Trimble bemoans that most of those working on gravitation are 'madmen and quacks'.",
@@ -59,6 +77,15 @@
 },
 {
 "id": "c-0f25d56469",
+"meta": {
+"artefactDate": null,
+"claimant": "george-trimble",
+"claimantLabel": "George S. Trimble",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Dean Rickles, 'The Chapel Hill Conference in Context'"
+},
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
 "sources": [
 {
@@ -73,6 +100,15 @@
 },
 {
 "id": "c-02f076cf46",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Dean Rickles",
+"via": null
+},
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
 "sources": [
 {
@@ -84,6 +120,76 @@
 "text": "Trimble and the Glenn L. Martin Company bought a Founder's Membership in the Institute of Field Physics for $5,000 and offered to help solicit further funding.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1955-06-10",
+"eventDate": null,
+"id": "c-6565f681f1",
+"node": "rias-inc",
+"nodeLabel": "RIAS, Inc. (Research Institute for Advanced Studies)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 conference report",
+"url": null
+},
+"text": "RIAS was proposed by George S. Trimble of the Glenn L. Martin Company as an 'industrial version of the Institute for Advanced Study', explicitly to study gravity, in a letter to Bryce DeWitt dated 10 June 1955.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": "Dean Rickles (Edition Open Sources)"
+},
+{
+"artefactDate": "1955-06-10",
+"eventDate": null,
+"id": "c-6b934dcf5c",
+"node": "george-trimble",
+"nodeLabel": "George S. Trimble",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 Chapel Hill conference report",
+"url": null
+},
+"text": "In a letter to Bryce DeWitt dated 10 June 1955, Trimble wrote: 'It occurred to us some time ago that our industry was vitally concerned with gravity. As time goes on we become more and more concerned because we feel certain that sooner or later man will invade space and we see it as our job to do everything possible to speed this event. At least one category of the things one must study, when he desires to bring space flight to reality, is the laws of nature surrounding the force of gravity.'",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": "Dean Rickles (Edition Open Sources)"
+},
+{
+"artefactDate": "1955-06-10",
+"eventDate": null,
+"id": "c-f49cade67f",
+"node": "george-trimble",
+"nodeLabel": "George S. Trimble",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles",
+"url": null
+},
+"text": "The same letter opens by recording a conversation with George Rideout, president of Roger Babson's Gravity Research Foundation, 'commiserating on the unfortunate state of the affairs that knowledgable folks do not wish to get mixed up in the field of gravity research.' Rickles adds that Trimble bemoans that most of those working on gravitation are 'madmen and quacks'.",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": "Dean Rickles"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-0f25d56469",
+"node": "george-trimble",
+"nodeLabel": "George S. Trimble",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"url": null
+},
+"text": "Trimble described the body he proposed as an 'industrial version of the Institute for Advanced Study'. The Glenn L. Martin Company's institute was 'industry-sponsored, and not ensconced in a university', while the Institute of Field Physics was deliberately placed inside the University of North Carolina 'so as to avoid the conflict that physicists felt working in an industrial setting.'",
+"tier": 2,
+"topic": "gravity-research-1950s",
+"via": "Dean Rickles, 'The Chapel Hill Conference in Context'"
 }
 ],
 "cls": "person",

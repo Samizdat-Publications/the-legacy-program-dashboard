@@ -52,6 +52,15 @@
 },
 {
 "id": "c-219874836b",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2009",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, p. 29, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
 "sources": [
 {
@@ -66,6 +75,15 @@
 },
 {
 "id": "c-b236dfa335",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2023-09-17",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, p. 28, https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf , 2024-02",
 "sources": [
 {
@@ -88,6 +106,15 @@
 },
 {
 "id": "c-b3e4e88a17",
+"meta": {
+"artefactDate": "2023-07-17",
+"claimant": "michael-herrera",
+"claimantLabel": "Michael Herrera",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Shawn Ryan Show"
+},
 "source": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
 "sources": [
 {
@@ -121,6 +148,25 @@
 "text": "The National Press Club's own events listing carries 'UFO/UAP Disclosure Press Conference', 12 June 2023, 2:00 PM, in the Club's Ballroom, with the disclaimer 'This event is not sponsored or endorsed by The National Press Club'. Steven Greer is the only named presenter and Michael Herrera is not named on the listing. This matters because that event is widely given as the venue of his first public statement; the venue's own record neither confirms nor denies his presence, it simply does not name him.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-07-17",
+"eventDate": null,
+"id": "c-b3e4e88a17",
+"node": "michael-herrera",
+"nodeLabel": "Michael Herrera",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Shawn Ryan Show #66 part 1, YouTube video id 3zm4nh3S66I, 2023-07-17, opened 2026-09-18",
+"url": null
+},
+"text": "His own account is on the public record in a dated artefact: 'Michael Herrera - US Marine Encounters UFO Black Ops Human Trafficking Operation | SRS #66 (Part 1)', Shawn Ryan Show, premiered 17 July 2023, runtime 1:26:50. The channel's own description reads: 'Former Marine Michael Herrera tells all in part one of this three part series. Herrera and his team were tasked with responding to a major earthquake and tsunami in Indonesia providing overwatch and logistical support. Little did they know--they would come face to face with a UAP / UFO and be ambushed by an unmarked shadow unit of operators.' This is a man saying a thing on a dated recording, and nothing more.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "Shawn Ryan Show"
 }
 ],
 "cls": "person",

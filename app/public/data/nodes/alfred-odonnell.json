@@ -38,6 +38,15 @@
 "claims": [
 {
 "id": "c-266a6dbb9a",
+"meta": {
+"artefactDate": "2023-02-28",
+"claimant": "alfred-odonnell",
+"claimantLabel": "Alfred 'Al' O'Donnell",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Liberation Times (Christopher Sharp, reporting George Knapp)"
+},
 "source": "George Knapp, reported by Christopher Sharp, Liberation Times, 28 February 2023",
 "sources": [],
 "text": "O'Donnell told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and that a 'live being' was recovered with it.",
@@ -46,6 +55,15 @@
 },
 {
 "id": "c-632f3e1ff5",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {
@@ -65,6 +83,59 @@
 "text": "O'Donnell recorded a deathbed confession that was to be released after his death. Reasoning: Knapp states O'Donnell confirmed making it and that O'Donnell's son relayed the same; no recording has appeared in more than a decade, which is consistent either with suppression or with the recording not existing.",
 "tier": 3,
 "unresolved": "a proposed reading (url:liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-5) was rejected in review: outlet and date only; candidate undated"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-02-28",
+"eventDate": null,
+"id": "c-266a6dbb9a",
+"node": "alfred-odonnell",
+"nodeLabel": "Alfred 'Al' O'Donnell",
+"route": "press",
+"source": {
+"domain": null,
+"text": "George Knapp, reported by Christopher Sharp, Liberation Times, 28 February 2023",
+"url": null
+},
+"text": "O'Donnell told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and that a 'live being' was recovered with it.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "Liberation Times (Christopher Sharp, reporting George Knapp)"
+},
+{
+"artefactDate": "2023-02-28",
+"eventDate": null,
+"id": "c-e4199b12f0",
+"node": "eg-and-g",
+"nodeLabel": "EG&G (Edgerton, Germeshausen and Grier)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "George Knapp via Liberation Times, 28 February 2023; named to Congress under oath 9 September 2025",
+"url": null
+},
+"text": "Alfred O'Donnell, described by Knapp as the first general manager of EG&G in Nevada, said 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "George Knapp via Liberation Times"
+},
+{
+"artefactDate": "2023-02-28",
+"eventDate": null,
+"id": "c-6b202c77d5",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "press",
+"source": {
+"domain": null,
+"text": "George Knapp, quoted by Christopher Sharp, Liberation Times, 28 February 2023; repeated in sworn testimony 9 September 2025",
+"url": null
+},
+"text": "Alfred O'Donnell, first general manager of EG&G in Nevada, told Knapp that 'they did have a flying saucer that had been recovered from New Mexico' and a 'live being.'",
+"tier": 2,
+"topic": "media-substrate",
+"via": "George Knapp (recipient); reported by Christopher Sharp, Liberation Times"
 }
 ],
 "cls": "person",

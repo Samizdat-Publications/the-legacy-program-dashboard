@@ -17,6 +17,15 @@
 "claims": [
 {
 "id": "c-ca6478151d",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "jonathan-grey",
+"claimantLabel": "\"Jonathan Grey\" (pseudonym)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "'Jonathan Grey,' NASIC, quoted in The Debrief, 5 June 2023",
 "sources": [
 {
@@ -28,6 +37,42 @@
 "text": "'The non-human intelligence phenomenon is real. We are not alone.' Also: retrievals of this kind are not limited to the United States.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-06-05",
+"eventDate": null,
+"id": "c-acc38c39b0",
+"node": "nasic",
+"nodeLabel": "National Air and Space Intelligence Center",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 5 June 2023",
+"url": null
+},
+"text": "A serving NASIC intelligence officer with Top Secret clearance corroborated Grusch on the record under the pseudonym Jonathan Grey.",
+"tier": 2,
+"topic": "wright-patterson-ftd",
+"via": "The Debrief"
+},
+{
+"artefactDate": "2023-06-05",
+"eventDate": null,
+"id": "c-ca6478151d",
+"node": "jonathan-grey",
+"nodeLabel": "\"Jonathan Grey\" (pseudonym)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "'Jonathan Grey,' NASIC, quoted in The Debrief, 5 June 2023",
+"url": null
+},
+"text": "'The non-human intelligence phenomenon is real. We are not alone.' Also: retrievals of this kind are not limited to the United States.",
+"tier": 2,
+"topic": "wright-patterson-ftd",
+"via": "The Debrief"
 }
 ],
 "cls": "person",

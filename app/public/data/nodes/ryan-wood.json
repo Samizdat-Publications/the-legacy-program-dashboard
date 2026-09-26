@@ -23,6 +23,15 @@
 "claims": [
 {
 "id": "c-e3218ad4c5",
+"meta": {
+"artefactDate": "2005",
+"claimant": "ryan-wood",
+"claimantLabel": "Ryan S. Wood",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Ryan S. Wood, 'Majic Eyes Only' (2005); copy indexed at the Internet Archive",
 "sources": [
 {
@@ -42,6 +51,59 @@
 "text": "The credibility weightings in 'Majic Eyes Only' are not independently reproducible because the weighting function is not published in auditable form, so the catalogue's value is as an index of claims and first-claimants rather than as a ranking. Reasoning: a scoring scheme that cannot be re-run by a third party on the same inputs is a summary, not a metric.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2005",
+"eventDate": null,
+"id": "c-b4c8092bde",
+"node": "majic-eyes-only",
+"nodeLabel": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ryan S. Wood, 'Majic Eyes Only' (2005)",
+"url": null
+},
+"text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": null
+},
+{
+"artefactDate": "2005",
+"eventDate": null,
+"id": "c-e3218ad4c5",
+"node": "ryan-wood",
+"nodeLabel": "Ryan S. Wood",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Ryan S. Wood, 'Majic Eyes Only' (2005); copy indexed at the Internet Archive",
+"url": null
+},
+"text": "'Majic Eyes Only' catalogues claimed crash-retrieval events from the 1940s onward with dates, locations, source trails and numerical credibility weightings.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-3b5de598e8",
+"node": "d-mj12",
+"nodeLabel": "Majestic-12 Corpus",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Majestic Documents (Wood & Wood)",
+"url": null
+},
+"text": "Robert and Ryan Wood maintain the Majestic Documents archive, which catalogues and argues for the authenticity of substantial portions of the corpus.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": null
 }
 ],
 "cls": "person",

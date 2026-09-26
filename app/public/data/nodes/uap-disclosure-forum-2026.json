@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-4e7f5b1aa6",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
+"eventDate": "2026-06-25",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill/NewsNation, 29 June 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-319008468b",
+"meta": {
+"artefactDate": "2026-06-29",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "The Hill/NewsNation, 29 June 2026",
 "sources": [
 {

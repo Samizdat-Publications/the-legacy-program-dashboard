@@ -24,6 +24,15 @@
 "claims": [
 {
 "id": "c-a9dbb10aa0",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "The New York Times"
+},
 "source": "New York Times, 16 December 2017",
 "sources": [],
 "text": "Elizondo's resignation letter was addressed to Defense Secretary Jim Mattis and asked 'Why aren't we spending more time and effort on this issue?'",

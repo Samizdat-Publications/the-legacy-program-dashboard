@@ -45,6 +45,15 @@
 "claims": [
 {
 "id": "c-0c220a0c85",
+"meta": {
+"artefactDate": "2026-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "Brandon Fugal",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:17:46 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
 "sources": [
 {
@@ -59,6 +68,15 @@
 },
 {
 "id": "c-cd477a7d4a",
+"meta": {
+"artefactDate": "2026-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "Fugal (American Alchemy with Jesse Michels)",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'There's A UFO Under the Ranch!' - Skinwalker Owner Breaks Silence, 26 July 2026, 2:19:37 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
 "sources": [
 {
@@ -73,6 +91,15 @@
 },
 {
 "id": "c-f35d1610f3",
+"meta": {
+"artefactDate": "2022-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Science magazine",
+"via": null
+},
 "source": "Science magazine, June 2022",
 "sources": [
 {
@@ -87,6 +114,15 @@
 },
 {
 "id": "c-be24d2fe5f",
+"meta": {
+"artefactDate": null,
+"claimant": "travis-taylor",
+"claimantLabel": "Travis S. Taylor",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Published professional biography",
 "sources": [],
 "text": "Taylor's pre-UAPTF federal work covered advanced propulsion concepts, space-based beamed energy systems, high-energy lasers, large space telescopes and multi-INT concept studies over more than sixteen years for DoD and NASA.",
@@ -100,6 +136,25 @@
 "text": "The overlap between Taylor's UAPTF chief-scientist tenure and his on-camera instrumented investigation of Skinwalker Ranch means the same individual was applying near-identical sensing methodology inside and outside the classified system in the same period, with no public account of what, if anything, crossed between them.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-be24d2fe5f",
+"node": "travis-taylor",
+"nodeLabel": "Travis S. Taylor",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Published professional biography",
+"url": null
+},
+"text": "Taylor's pre-UAPTF federal work covered advanced propulsion concepts, space-based beamed energy systems, high-energy lasers, large space telescopes and multi-INT concept studies over more than sixteen years for DoD and NASA.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
 }
 ],
 "cls": "person",

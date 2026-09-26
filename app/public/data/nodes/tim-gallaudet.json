@@ -81,6 +81,15 @@
 },
 {
 "id": "c-096e4c4621",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": "2015-01",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight joint subcommittee"
+},
 "source": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
 "sources": [
 {
@@ -95,6 +104,15 @@
 },
 {
 "id": "c-fb0a5cff34",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "sources": [
 {
@@ -109,6 +127,15 @@
 },
 {
 "id": "c-7cb83e65ca",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "sources": [
 {
@@ -123,6 +150,15 @@
 },
 {
 "id": "c-5a1f5cb869",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Tim Gallaudet to DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -137,6 +173,15 @@
 },
 {
 "id": "c-60a3c7c85d",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -151,6 +196,15 @@
 },
 {
 "id": "c-f1e306194b",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "CHRG-118hhrg57440",
 "sources": [
 {
@@ -165,6 +219,15 @@
 },
 {
 "id": "c-6e1c145ba1",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "sources": [
 {
@@ -179,6 +242,15 @@
 },
 {
 "id": "c-839c22e236",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "sources": [
 {
@@ -193,6 +265,15 @@
 },
 {
 "id": "c-8f44d878c7",
+"meta": {
+"artefactDate": "2026-06-17",
+"claimant": "uap-science-advisory-council",
+"claimantLabel": "UAP Science Advisory Council",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/06/17/new-science-advisory-council-forms-to-help-us-government-resolve-the-uap-mystery/",
 "sources": [
 {
@@ -204,6 +285,280 @@
 "text": "Named a member of the UAP Science Advisory Council announced 17 June 2026.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-60a3c7c85d",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 14 May 2026",
+"url": null
+},
+"text": "Gallaudet said the absence of metadata made it impossible to conclude that any released object was truly anomalous.",
+"tier": 2,
+"topic": "academic-science",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": "2015-01",
+"id": "c-096e4c4621",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Tim Gallaudet, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"url": null
+},
+"text": "In January 2015 the operations officer of Fleet Forces Command emailed all subordinate commanders under the subject 'URGENT SAFETY OF FLIGHT ISSUE,' attaching the GO FAST video and writing 'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight joint subcommittee"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-5f5aa9e538",
+"node": "gallaudet-2015-email",
+"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"url": null
+},
+"text": "The email's subject line was 'URGENT SAFETY OF FLIGHT ISSUE' and it carried the GO FAST video.",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-7cb83e65ca",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"url": null
+},
+"text": "He concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-f1e306194b",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-118hhrg57440",
+"url": null
+},
+"text": "Gallaudet testified as a witness at the 13 November 2024 House Oversight hearing printed as Serial No. 118-135.",
+"tier": 1,
+"topic": "hearing-2024",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-fb0a5cff34",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"url": null
+},
+"text": "The email disappeared from his account and other recipients' accounts the next day without explanation.",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-839c22e236",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files.",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-5a1f5cb869",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Tim Gallaudet to DefenseScoop, 14 May 2026",
+"url": null
+},
+"text": "'The fact that this was the first time that an administration openly admitted that UAP files have been shielded from the public was promising. However, the ambiguity of the video content in particular is concerning as no metadata was included.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-6e1c145ba1",
+"node": "tim-gallaudet",
+"nodeLabel": "Timothy Gallaudet",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+"text": "'The ambiguity of the video content in particular is concerning as no metadata was included.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-5bed5216ea",
+"node": "gallaudet-2015-email",
+"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Gallaudet written testimony, 13 November 2024",
+"url": null
+},
+"text": "Gallaudet concluded the information 'must have been classified within a special access program managed by an intelligence agency.'",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-5dd1879261",
+"node": "gallaudet-2015-email",
+"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Gallaudet written testimony, 13 November 2024",
+"url": null
+},
+"text": "The email vanished from Gallaudet's and other recipients' accounts 'without explanation' the next day.",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-ae35bedfc4",
+"node": "alex-dietrich",
+"nodeLabel": "Alex Dietrich",
+"route": "hearing",
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm , 2024-11-13",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm"
+},
+"text": "In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world.",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-bfe3d5c8ae",
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-ddf6decfd1",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 14 May 2026",
+"url": null
+},
+"text": "Tim Gallaudet said the absence of metadata made it 'impossible to conclude that any objects were truly anomalous.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": "2015-01",
+"id": "c-2027d1eb12",
+"node": "roosevelt-2014-2015",
+"nodeLabel": "USS Theodore Roosevelt Encounters (2014-2015)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"url": null
+},
+"text": "A January 2015 Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' reported 'multiple near-midair collisions' and was deleted from all recipients' accounts the next day.",
+"tier": 2,
+"topic": "roosevelt-2014-15",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": "2015-01",
+"id": "c-cfa093ffbd",
+"node": "gofast-video",
+"nodeLabel": "GO FAST (Navy ATFLIR video, January 2015)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
+"url": null
+},
+"text": "The GO FAST video was attached to a January 2015 US Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' that was deleted from recipients' accounts the following day.",
+"tier": 2,
+"topic": "uaptf-odni-2021",
+"via": "House Oversight Committee"
 }
 ],
 "cls": "person",

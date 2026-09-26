@@ -41,6 +41,15 @@
 "claims": [
 {
 "id": "c-ed53b4dc83",
+"meta": {
+"artefactDate": "2023-06",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "NewsNation, Ross Coulthart"
+},
 "source": "NewsNation interview by Ross Coulthart, June 2023",
 "sources": [
 {
@@ -55,6 +64,15 @@
 },
 {
 "id": "c-43da451d12",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Ross Coulthart' (biography)",
+"via": null
+},
 "source": "Wikipedia, 'Ross Coulthart', biography, retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -69,6 +87,15 @@
 },
 {
 "id": "c-e41dc06cd3",
+"meta": {
+"artefactDate": "2026-02",
+"claimant": "ross-coulthart",
+"claimantLabel": "Ross Coulthart",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation"
+},
 "source": "NewsNation segment title, published circa February 2026",
 "sources": [],
 "text": "Coulthart publicly endorsed UAP Gerb's structural claims on air: 'I think he's on the money.'",
@@ -77,6 +104,15 @@
 },
 {
 "id": "c-5e12c9177b",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "ross-coulthart",
+"claimantLabel": "Ross Coulthart",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation Reality Check chapter summary, published 4 August 2026",
 "sources": [],
 "text": "Coulthart's 4 August 2026 Reality Check episode covers FFRDCs, UARCs and GOCOs as the vehicle of the legacy program, gatekeeping within it, and whether it constitutes a 'deep state'.",
@@ -85,6 +121,15 @@
 },
 {
 "id": "c-4f0af23f68",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "NewsNation Reality Check with Ross Coulthart"
+},
 "source": "NewsNation Reality Check episode description, 4 August 2026",
 "sources": [],
 "text": "In the same episode Gerb alleged to Coulthart directed-energy attacks on people close to the program, civilian aircraft downed by EMP weapons during craft-recovery operations, and an alleged murder.",
@@ -93,11 +138,73 @@
 },
 {
 "id": "c-8f6b0919b6",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "newsnation-reality-check",
+"claimantLabel": "Reality Check with Ross Coulthart (NewsNation)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation Reality Check episode credits, 4 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "Reality Check credits: Host Ross Coulthart; Executive Producer Andy Gipson; Editorial Producer Meagan Medick; Segment Producers Christine Jenkinson and Will Tomasi; Research Producer Rob Jones; Editor Kanyon Lyons.",
 "tier": 2,
 "unresolved": "a proposed reading (url:newsnationnow.com/podcasts-newsnation/reality-check) was rejected in review: show index page, not the 4 August 2026 episode"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-02",
+"eventDate": null,
+"id": "c-e41dc06cd3",
+"node": "ross-coulthart",
+"nodeLabel": "Ross Coulthart",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation segment title, published circa February 2026",
+"url": null
+},
+"text": "Coulthart publicly endorsed UAP Gerb's structural claims on air: 'I think he's on the money.'",
+"tier": 2,
+"topic": "media-substrate",
+"via": "NewsNation"
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-5e12c9177b",
+"node": "ross-coulthart",
+"nodeLabel": "Ross Coulthart",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check chapter summary, published 4 August 2026",
+"url": null
+},
+"text": "Coulthart's 4 August 2026 Reality Check episode covers FFRDCs, UARCs and GOCOs as the vehicle of the legacy program, gatekeeping within it, and whether it constitutes a 'deep state'.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-a9f451e724",
+"node": "ffrdc-mechanism",
+"nodeLabel": "The FFRDC / UARC / GOCO mechanism",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check chapter summary, 4 August 2026 (17:00)",
+"url": null
+},
+"text": "Ross Coulthart devoted a dedicated segment of his 4 August 2026 Reality Check episode to 'FFRDCs, U-Arcs, and GOCOs' as the vehicle of the legacy program.",
+"tier": 2,
+"topic": null,
+"via": "NewsNation Reality Check"
 }
 ],
 "cls": "person",

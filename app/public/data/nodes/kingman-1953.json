@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-557138e0b5",
+"meta": {
+"artefactDate": null,
+"claimant": "leonard-stringfield",
+"claimantLabel": "Leonard H. Stringfield",
+"eventDate": "1953",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Stringfield, Status Report III, Kingman case notes",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-ac7e216e82",
+"meta": {
+"artefactDate": null,
+"claimant": "leonard-stringfield",
+"claimantLabel": "Leonard H. Stringfield",
+"eventDate": "1980-08-11",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Stringfield, Status Report III, Kingman Q&A",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-cfdb9f052a",
+"meta": {
+"artefactDate": "1980-09-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "'Werner' (pseudonym), in Stringfield's Status Report III",
+"via": "Leonard Stringfield, Status Report III"
+},
 "source": "Stringfield, Status Report III, verbatim Q&A dated 2 September 1980",
 "sources": [
 {

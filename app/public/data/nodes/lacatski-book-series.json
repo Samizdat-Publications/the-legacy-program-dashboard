@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-76c0c38e02",
+"meta": {
+"artefactDate": "2025",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Publisher and retail listings, 2025-2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "Lacatski published 'Inside the U.S. Government Covert UFO Program: New Insights' in 2025 (ISBN 9798989114689) and 'Future Visions' (ISBN 9798989114603) as continuations of the series begun with 'Initial Revelations' in 2023.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-14afb5ae10",
+"meta": {
+"artefactDate": "2026-04-08",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Jeremy Corbell"
+},
 "source": "James Lacatski to Jeremy Corbell, published 8 April 2026",
 "sources": [
 {
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-a5724a799b",
+"meta": {
+"artefactDate": "2026-04-08",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Jeremy Corbell"
+},
 "source": "Lacatski to Corbell, 8 April 2026",
 "sources": [
 {

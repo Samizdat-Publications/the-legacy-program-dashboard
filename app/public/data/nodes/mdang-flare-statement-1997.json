@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-8ba66552f3",
+"meta": {
+"artefactDate": "1997-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1997-03-13",
+"route": "press",
+"speaker": "unnamed (military spokesperson, per AP)",
+"via": "Associated Press (Deseret News)"
+},
 "source": "Associated Press, 'Flares, not UFOs, caused light show, military says', Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-d3ff0e69e6",
+"meta": {
+"artefactDate": "1997-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Capt. Drew Sullins, Maryland Air National Guard spokesman",
+"via": "Associated Press, Deseret News"
+},
 "source": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-2a0e96af60",
+"meta": {
+"artefactDate": "1997-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1997-03-13",
+"route": "press",
+"speaker": "Associated Press",
+"via": "Deseret News"
+},
 "source": "Associated Press, Deseret News, 26 July 1997, https://www.deseret.com/1997/7/26/19325702/flares-not-ufos-caused-light-show-military-says/",
 "sources": [
 {
@@ -62,6 +89,15 @@
 },
 {
 "id": "c-b72712a9da",
+"meta": {
+"artefactDate": "2024-03-18",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1997-03-13",
+"route": "interview",
+"speaker": "David Morehouse",
+"via": "Danny Jones Podcast"
+},
 "source": "Danny Jones Podcast, ep. 229, 18 March 2024, 1:31:41 to 1:32:45, mapped at research/leads/dannyjones-corpus-34.md",
 "sources": [
 {

@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-ba504fadba",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "House Oversight Committee hearing, 26 July 2023; NPR contemporaneous report",
 "sources": [],
 "text": "David Grusch testified under oath on 26 July 2023 that non-human biologics were recovered alongside craft, stating the information came from individuals he interviewed and referred to the ICIG.",
@@ -15,6 +24,15 @@
 },
 {
 "id": "c-8076716006",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I",
 "sources": [
 {

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-862d2ce9d0",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Tom Mahood; T.D. Barnes",
+"via": null
+},
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18; and T.D. Barnes in research/leads/dannyjones-corpus-09.md, episode 415 at 1:01:21 to 1:02:58, recorded 2026-07-20",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-73b2bca7a1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1979-10-15",
+"route": "document",
+"speaker": "Wikipedia, 'Area 51' (citing USAF unit histories)",
+"via": null
+},
 "source": "Wikipedia, Area 51, citing USAF unit histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-881f888810",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1973-05",
+"route": "document",
+"speaker": "Wikipedia, Area 51 article",
+"via": null
+},
 "source": "Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {

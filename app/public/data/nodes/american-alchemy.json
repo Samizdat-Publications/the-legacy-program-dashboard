@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-3aa927f4ec",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Episode description, 11 January 2026",
 "sources": [
 {
@@ -20,11 +29,39 @@
 },
 {
 "id": "c-9e726b4369",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "unnamed (YouTube view counts)",
+"via": null
+},
 "source": "YouTube view counts retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "The 30 January 2025 Jake Barber episode has 1,010,989 views; the 11 January 2026 UAP Gerb episode 514,729; the 8 March 2026 Weinstein/Davis episode 766,314; the 21 February 2025 UAP Gerb episode 450,091; the 14 November 2024 Shellenberger episode 203,593.",
 "tier": 2,
 "unresolved": "read in review as naming no single source: Board's own aggregated view-count tally across several episodes, not one source."
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-01-11",
+"eventDate": null,
+"id": "c-2e97952b57",
+"node": "michels-gerb-structural-episode",
+"nodeLabel": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Episode description, American Alchemy, 11 January 2026",
+"url": null
+},
+"text": "The episode asserts the effort is a layered, compartmentalized system descended from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - not a single program.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
 }
 ],
 "cls": "program",

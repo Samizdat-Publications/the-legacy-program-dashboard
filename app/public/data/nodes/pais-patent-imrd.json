@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-d5d463b6da",
+"meta": {
+"artefactDate": "2018-12-04",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": "2016-04-28",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.freepatentsonline.com/10144532.html",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-0722a6873a",
+"meta": {
+"artefactDate": null,
+"claimant": "salvatore-pais",
+"claimantLabel": "Salvatore Cezar Pais",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "https://www.freepatentsonline.com/10144532.html",
 "sources": [
 {

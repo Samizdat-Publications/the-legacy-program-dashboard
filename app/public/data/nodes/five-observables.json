@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-fba61217b0",
+"meta": {
+"artefactDate": "2019-05-20",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Greg Daugherty and Missy Sullivan, History",
+"via": null
+},
 "source": "Greg Daugherty and Missy Sullivan, 'These 5 UFO Traits, Captured on Video by Navy Fighters, Defy Explanation', History, 20 May 2019, updated 28 May 2025, https://www.history.com/articles/ufo-sightings-speed-appearance-movement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-2e0f6f2253",
+"meta": {
+"artefactDate": null,
+"claimant": "ttsa",
+"claimantLabel": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "'Five Characteristics Unique to UAP's', To The Stars, https://tothestars.media/blogs/press-and-news/five-characteristics-unique-to-uaps, read 28 August 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-363065f09a",
+"meta": {
+"artefactDate": "2019-05-20",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (comparison of History, 20 May 2019, against the To The Stars page)",
+"via": null
+},
 "source": "History, 20 May 2019, compared against the To The Stars page, both read 28 August 2026",
 "sources": [],
 "text": "The list has no fixed text, which matters before anyone quotes it as a definition. The first observable appears as 'Anti-gravity lift' in the History account and as 'Positive lift' on To The Stars, and is elsewhere given as 'positive lift without flight surfaces'. The two published sources located for this board therefore differ on the wording of one of the five and on whether cloaking is named alongside low observability. No canonical text has been located.",
@@ -78,6 +105,15 @@
 },
 {
 "id": "c-1ead60130d",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Committee on Oversight and Accountability"
+},
 "source": "Written Testimony of Luis Elizondo, House Committee on Oversight and Accountability, 13 November 2024, https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Elizondo.pdf",
 "sources": [
 {

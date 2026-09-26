@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-5759fb6f3c",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO HRR Vol I, March 2024, full text; AARO annual reports FY2023-FY2025",
 "sources": [],
 "text": "A full-text search of the released AARO Historical Record Report Volume I returns no occurrence of 'Yankee Blue'. The term is likewise absent from the FY2023, FY2024 and FY2025 consolidated annual reports.",
@@ -22,6 +31,15 @@
 },
 {
 "id": "c-34876c5467",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "sources": [
 {
@@ -36,6 +54,15 @@
 },
 {
 "id": "c-c214e22b7c",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2021",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "sources": [
 {
@@ -114,6 +141,15 @@
 },
 {
 "id": "c-823ec63ce1",
+"meta": {
+"artefactDate": "2025-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Wall Street Journal",
+"via": null
+},
 "source": "Wall Street Journal reporting, June 2025, as summarised in FOIA appeal filings",
 "sources": [],
 "text": "The Wall Street Journal reported in June 2025 that the practice convinced 'hundreds and hundreds of people' they were working on a reverse-engineering programme for alien technology, and that DNI Avril Haines was briefed and described as stunned.",
@@ -122,6 +158,15 @@
 },
 {
 "id": "c-9e225ffcd3",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (Wall Street Journal investigation)",
+"via": "Wall Street Journal"
+},
 "source": "Wall Street Journal investigation, 6 June 2025",
 "sources": [
 {
@@ -136,6 +181,15 @@
 },
 {
 "id": "c-52dd0ae38e",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2023",
+"route": "press",
+"speaker": "Wall Street Journal",
+"via": null
+},
 "source": "Wall Street Journal, 6 June 2025",
 "sources": [
 {
@@ -150,6 +204,15 @@
 },
 {
 "id": "c-aa0c6a5ed9",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (officials, per Wall Street Journal)",
+"via": "Wall Street Journal"
+},
 "source": "Wall Street Journal, 6 June 2025",
 "sources": [
 {
@@ -164,6 +227,15 @@
 },
 {
 "id": "c-5bf219624e",
+"meta": {
+"artefactDate": "2025-06",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Wall Street Journal"
+},
 "source": "DoD spokeswoman Susan Gough to the Wall Street Journal, June 2025",
 "sources": [],
 "text": "A DoD spokeswoman confirmed the findings were not complete when Volume I was released and would appear in Volume II of the Historical Record Report, then scheduled for late 2025.",
@@ -172,6 +244,15 @@
 },
 {
 "id": "c-73179e68ea",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, February 2024, p.30",
 "sources": [
 {

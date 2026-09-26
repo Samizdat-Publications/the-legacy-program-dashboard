@@ -93,6 +93,25 @@
 "unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "1947-09-23",
+"eventDate": null,
+"id": "c-f93ecd8577",
+"node": "twining-memo",
+"nodeLabel": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Twining memorandum, 23 Sep 1947, as reproduced in the standard declassified text",
+"url": null
+},
+"text": "The memo also records that the lack of physical evidence in the form of crash-recovered exhibits was a constraint on AMC's analysis.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
+}
+],
 "cls": "person",
 "cluster": "legacy",
 "conflicts": [],

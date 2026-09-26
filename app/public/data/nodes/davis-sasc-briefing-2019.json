@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-a716c92bc3",
+"meta": {
+"artefactDate": "2020-07-23",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": "2019-10-21",
+"route": "press",
+"speaker": null,
+"via": "The New York Times (Ralph Blumenthal)"
+},
 "source": "Ralph Blumenthal, The New York Times, 23 July 2020, on Davis's own account",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-f5b82c2811",
+"meta": {
+"artefactDate": "2020-07-23",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": "2020-03",
+"route": "press",
+"speaker": null,
+"via": "The New York Times"
+},
 "source": "The New York Times, 23 July 2020",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-081c8e6fc6",
+"meta": {
+"artefactDate": "2020-07-23",
+"claimant": "harry-reid",
+"claimantLabel": "Harry M. Reid",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The New York Times"
+},
 "source": "Harry Reid quoted in The New York Times, 23 July 2020",
 "sources": [
 {

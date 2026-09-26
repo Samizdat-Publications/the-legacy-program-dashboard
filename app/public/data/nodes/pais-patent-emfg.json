@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-967be2867a",
+"meta": {
+"artefactDate": "2018-11-20",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.freepatentsonline.com/10135366.html",
 "sources": [
 {
@@ -118,6 +127,15 @@
 },
 {
 "id": "c-fb470865de",
+"meta": {
+"artefactDate": "2021-02-01",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": "2019-09",
+"route": "press",
+"speaker": "Timothy Boulay, Communications Director, NAWCAD",
+"via": "Brett Tingley, The War Zone"
+},
 "source": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
 "sources": [
 {

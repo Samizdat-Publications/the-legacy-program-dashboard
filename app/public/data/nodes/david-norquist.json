@@ -39,6 +39,15 @@
 },
 {
 "id": "c-ee133adb41",
+"meta": {
+"artefactDate": null,
+"claimant": "david-norquist",
+"claimantLabel": "David L. Norquist",
+"eventDate": "2018",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -50,6 +59,25 @@
 "text": "Norquist signed the FY2018 DoD Agency Financial Report message as Under Secretary of Defense (Comptroller)/Chief Financial Officer, writing: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.'",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "2018",
+"id": "c-ee133adb41",
+"node": "david-norquist",
+"nodeLabel": "David L. Norquist",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+},
+"text": "Norquist signed the FY2018 DoD Agency Financial Report message as Under Secretary of Defense (Comptroller)/Chief Financial Officer, writing: 'In FY 2018, the Department underwent its first full-scope financial statement audit. As anticipated, our independent auditor, the Department of Defense Office of Inspector General, issued a Disclaimer of Opinion as the result of the audit.'",
+"tier": 2,
+"topic": "uaptf-odni-2021",
+"via": null
 }
 ],
 "cls": "person",

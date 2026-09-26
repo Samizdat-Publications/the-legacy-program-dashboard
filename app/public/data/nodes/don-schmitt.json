@@ -49,6 +49,25 @@
 "unresolved": "read in review as naming no single source: board's own comparative analysis, not a document"
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2007",
+"eventDate": null,
+"id": "c-65ca0c2db7",
+"node": "glenn-dennis",
+"nodeLabel": "W. Glenn Dennis",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Carey and Schmitt, 'Witness to Roswell' (2007)",
+"url": null
+},
+"text": "Dennis admitted to Carey and Schmitt that he had deliberately given investigators a false name for the nurse; they wrote that he 'must technically stand impeached as a witness'.",
+"tier": 2,
+"topic": "roswell-1947",
+"via": null
+}
+],
 "cls": "person",
 "cluster": "research",
 "conflicts": [

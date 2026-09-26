@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-92ffa7ba35",
+"meta": {
+"artefactDate": "2026-05-15",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Rep. Eric Burlison on X, 15 May 2026, quoted by The Hill/NewsNation, 16 May 2026",
 "sources": [],
 "text": "'I sent a letter to MIT Lincoln Labs asking for a classified 1952 briefing video referenced as a flying saucer talk. Their attorneys wrote back fast. They'll comply within 30 days. Congressional letters carry weight. We're going to keep sending them.'",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-df816cb2bc",
+"meta": {
+"artefactDate": "2026-06-25",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "The Hill/NewsNation"
+},
 "source": "The Hill/NewsNation, 29 June 2026",
 "sources": [
 {

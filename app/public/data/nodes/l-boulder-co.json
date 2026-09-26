@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-37dc9a0dea",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1966-10",
+"route": "document",
+"speaker": "Wikipedia, 'Condon Committee'",
+"via": null
+},
 "source": "Wikipedia, Condon Committee, citing the project record — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-81d21fa2fa",
+"meta": {
+"artefactDate": "1966-08-09",
+"claimant": "robert-low",
+"claimantLabel": "Robert J. Low",
+"eventDate": "1967-07",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Robert J. Low memorandum, 9 August 1966, University of Colorado project files — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-b63a148024",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1968-11",
+"route": "book",
+"speaker": "unnamed (Condon Report; USAF Blue Book closure records)",
+"via": null
+},
 "source": "Condon Report; USAF Blue Book closure records — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "The 1,485-page report was delivered to the Air Force in November 1968 and released in January 1969; the Air Force terminated Project Blue Book on 17 December 1969 in response.",

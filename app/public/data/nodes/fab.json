@@ -48,6 +48,15 @@
 },
 {
 "id": "c-1807acfd58",
+"meta": {
+"artefactDate": "2026-08-12",
+"claimant": "fab",
+"claimantLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "CNN Brasil"
+},
 "source": "Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
 "sources": [
 {
@@ -76,6 +85,15 @@
 },
 {
 "id": "c-baee476d5a",
+"meta": {
+"artefactDate": "2022-01-14",
+"claimant": "fab",
+"claimantLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "BBC Brasil"
+},
 "source": "BBC Brasil, 14 January 2022",
 "sources": [],
 "text": "Air Force note to BBC Brasil: all available UFO material has been sent to the Arquivo Nacional and the force 'não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo'.",
@@ -84,6 +102,15 @@
 },
 {
 "id": "c-da59522bfa",
+"meta": {
+"artefactDate": "2010-08-10",
+"claimant": "fab",
+"claimantLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"eventDate": "2010-08-10",
+"route": "press",
+"speaker": null,
+"via": "EFE/Terra"
+},
 "source": "EFE/Terra, 'FAB cria normas para pilotos em caso de contato com ovnis', 10 August 2010",
 "sources": [
 {
@@ -95,6 +122,76 @@
 "text": "On 10 August 2010 the Air Force created rules for pilots in case of contact with UFOs.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2010-08-10",
+"eventDate": "2010-08-10",
+"id": "c-da59522bfa",
+"node": "fab",
+"nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"route": "press",
+"source": {
+"domain": null,
+"text": "EFE/Terra, 'FAB cria normas para pilotos em caso de contato com ovnis', 10 August 2010",
+"url": null
+},
+"text": "On 10 August 2010 the Air Force created rules for pilots in case of contact with UFOs.",
+"tier": 2,
+"topic": "brazil",
+"via": "EFE/Terra"
+},
+{
+"artefactDate": "2022-01-14",
+"eventDate": null,
+"id": "c-9e09d694cb",
+"node": "arquivo-nacional-ufo",
+"nodeLabel": "Arquivo Nacional (Brazil) - UFO/UAP collection",
+"route": "press",
+"source": {
+"domain": null,
+"text": "BBC Brasil, 14 January 2022",
+"url": null
+},
+"text": "'Por meio de nota, a Aeronáutica informou que todo o material disponível sobre óvnis já foi encaminhado ao Arquivo Nacional. E mais: não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo.'",
+"tier": 2,
+"topic": "brazil",
+"via": "BBC Brasil"
+},
+{
+"artefactDate": "2022-01-14",
+"eventDate": null,
+"id": "c-baee476d5a",
+"node": "fab",
+"nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"route": "press",
+"source": {
+"domain": null,
+"text": "BBC Brasil, 14 January 2022",
+"url": null
+},
+"text": "Air Force note to BBC Brasil: all available UFO material has been sent to the Arquivo Nacional and the force 'não dispõe de profissionais especializados para realizar investigações científicas ou emitir parecer a respeito deste tipo de fenômeno aéreo'.",
+"tier": 2,
+"topic": "brazil",
+"via": "BBC Brasil"
+},
+{
+"artefactDate": "2026-08-12",
+"eventDate": null,
+"id": "c-1807acfd58",
+"node": "fab",
+"nodeLabel": "Força Aérea Brasileira / Ministério da Aeronáutica",
+"route": "press",
+"source": {
+"domain": "www.cnnbrasil.com.br",
+"text": "Nota da Força Aérea Brasileira, quoted verbatim in CNN Brasil, 12 August 2026 (https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/)",
+"url": "https://www.cnnbrasil.com.br/ciencia/pilotos-e-controladores-relataram-18-casos-de-ovnis-no-brasil-em-2025/"
+},
+"text": "FAB's current stated coverage runs to 2025, contradicting the Arquivo Nacional's 2018 description. Official Air Force note: 'A Força Aérea Brasileira (FAB) informa que todos os documentos, vídeos, fotografias, relatos, entre outros, disponíveis, no âmbito do Comando da Aeronáutica, sobre fenômenos aéreos não identificados, no período de 1952 a 2025, já foram transferidos para o Arquivo Nacional, onde são de domínio público.' The same note cites Portaria 551/GC3 and names COMAE (not COMDABRA) as the receiving command, reflecting the post-2017 reorganisation.",
+"tier": 2,
+"topic": "brazil",
+"via": "CNN Brasil"
 }
 ],
 "cls": "institution",

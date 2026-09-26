@@ -42,6 +42,15 @@
 "claims": [
 {
 "id": "c-eef58397b5",
+"meta": {
+"artefactDate": "2024-01-12",
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill, 12 January 2024",
 "sources": [
 {
@@ -56,6 +65,15 @@
 },
 {
 "id": "c-6c5b14008b",
+"meta": {
+"artefactDate": "2025-02-18",
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill (opinion), 18 February 2025",
 "sources": [],
 "text": "The internal watchdog overseeing the intelligence agencies deemed Grusch's allegations that UAP information was inappropriately concealed from Congress 'credible and urgent,' triggering mandatory notifications to the intelligence committees.",
@@ -72,6 +90,15 @@
 },
 {
 "id": "c-aa22404b13",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "2022-07",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Grusch sworn testimony, House Oversight, 26 July 2023; The Debrief, 5 June 2023",
 "sources": [],
 "text": "The ICIG found Grusch's urgent-concern complaint credible and urgent in July 2022, triggering transmission to the congressional intelligence committees.",
@@ -80,6 +107,15 @@
 },
 {
 "id": "c-e2f13fd353",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Grusch answering Rep. Tim Burchett, House Oversight hearing transcript, 26 July 2023",
 "sources": [
 {

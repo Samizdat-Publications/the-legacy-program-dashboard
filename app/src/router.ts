@@ -21,6 +21,8 @@
  *   #/library                   the Library of sources (redesign phase 8)
  *                               ?type=&issuer=&era=&ip=1|0&q=&sort=
  *   #/s/<id>                    one source (redesign phase 8)
+ *   #/questions  #/q/<id>       the big questions (redesign phase 10)
+ *   #/connect  #/connect/<a>  #/connect/<a>/<b>  routes between two nodes (redesign phase 10)
  *
  * Anything else is not-found, and the not-found page names the route it was given.
  * Every route is shareable; back always works because every state is a hash.
@@ -46,6 +48,9 @@ export type Route =
   | { kind: 'directory'; dir: string; q: URLSearchParams }
   | { kind: 'library'; q: URLSearchParams }
   | { kind: 'source'; id: string }
+  | { kind: 'questions' }
+  | { kind: 'question'; id: string }
+  | { kind: 'connect'; a: string | null; b: string | null }
   | { kind: 'notfound'; raw: string };
 
 /* The six directories of redesign phase 9, by route word. */
@@ -116,6 +121,22 @@ export function parseRoute(hash: string): Route {
   if (p[0] === 'topic') {
     if (p.length !== 2 || !ID.test(p[1])) return bad();
     return { kind: 'topic', id: p[1] };
+  }
+
+  /* redesign phase 10 */
+  if (p[0] === 'questions') {
+    if (p.length !== 1) return bad();
+    return { kind: 'questions' };
+  }
+  if (p[0] === 'q') {
+    if (p.length !== 2 || !ID.test(p[1])) return bad();
+    return { kind: 'question', id: p[1] };
+  }
+  if (p[0] === 'connect') {
+    if (p.length === 1) return { kind: 'connect', a: null, b: null };
+    if (p.length === 2 && ID.test(p[1])) return { kind: 'connect', a: p[1], b: null };
+    if (p.length === 3 && ID.test(p[1]) && ID.test(p[2])) return { kind: 'connect', a: p[1], b: p[2] };
+    return bad();
   }
 
   if (DIRECTORIES.indexOf(p[0]) >= 0) {

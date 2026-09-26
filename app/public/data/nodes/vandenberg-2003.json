@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-878b3c1af7",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": "2003-10-14",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Jeffrey Nuccetelli, written testimony, House Oversight Task Force, 9 September 2025",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-1cf790570c",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": "2005",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Nuccetelli written testimony, 9 September 2025",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-04a2778f2b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Nuccetelli written testimony, 9 September 2025",
 "sources": [
 {

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-2cbcaaa613",
+"meta": {
+"artefactDate": "1991",
+"claimant": "bob-lazar",
+"claimantLabel": "Robert \"Bob\" Lazar",
+"eventDate": "1989",
+"route": "broadcast",
+"speaker": null,
+"via": "Tri-Dot Productions (The Lazar Tape); Las Vegas Review-Journal"
+},
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-3b1a85da65",
+"meta": {
+"artefactDate": "2013-06-25",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": "2013-06-25",
+"route": "document",
+"speaker": null,
+"via": "National Security Archive"
+},
 "source": "CIA U-2/OXCART history, released 25 June 2013 via FOIA to the National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-e710df4c54",
+"meta": {
+"artefactDate": "1989-05",
+"claimant": "bob-lazar",
+"claimantLabel": "Robert \"Bob\" Lazar",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "KLAS-TV, George Knapp"
+},
 "source": "KLAS-TV Las Vegas interviews with Robert Lazar, May 1989; summarised in Wikipedia, Area 51",
 "sources": [],
 "text": "In May 1989 Robert Lazar told KLAS-TV's George Knapp that he had worked at 'S-4' near Papoose Lake, roughly 8.5 miles south of the main Groom facility, on craft the government possessed.",

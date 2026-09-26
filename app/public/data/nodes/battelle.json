@@ -30,6 +30,15 @@
 },
 {
 "id": "c-2a89aa3a92",
+"meta": {
+"artefactDate": "2025-03-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1949",
+"route": "interview",
+"speaker": "John Brandenburg",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Top Physicist: There Was A Nuclear Catastrophe On Mars (ft. Dr. John Brandenburg)', published 13 March 2025, at 1:34:53",
 "sources": [
 {
@@ -44,6 +53,15 @@
 },
 {
 "id": "c-d7bb70911e",
+"meta": {
+"artefactDate": "2025-07-05",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:59:04, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:00:44",
 "sources": [],
 "text": "On American Alchemy with Jesse Michels, 5 July 2025 at 0:59:04 and again on 12 July 2025 at 1:00:44, Michels said that after Jacques Vallee found the Pentacle memo in the Blue Book files the memo could not be raised around the Robertson Panel: 'apparently you weren't allowed to mention the pentacle' and 'you were not supposed to bring this memo up'. Both tellings are the same speaker, neither cites a document for the instruction, and both describe Vallee putting it to J. Allen Hynek, who on Michels's account played dumb. The board carries the memo and Howard C. Cross's authorship but not this alleged instruction.",
@@ -66,6 +84,15 @@
 },
 {
 "id": "c-1e0be348e0",
+"meta": {
+"artefactDate": null,
+"claimant": "cufon",
+"claimantLabel": "Computer UFO Network (CUFON)",
+"eventDate": "1953-01-09",
+"route": "document",
+"speaker": null,
+"via": "Jacques Vallee, Forbidden Science"
+},
 "source": "CUFON transcription; Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
 "sources": [],
 "text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
@@ -104,6 +131,15 @@
 },
 {
 "id": "c-94d91d871f",
+"meta": {
+"artefactDate": "2009-05-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1948",
+"route": "press",
+"speaker": "Anthony Bragalia (and other researchers)",
+"via": "Sarasota Herald-Tribune"
+},
 "source": "Sarasota Herald-Tribune, 'Memory-metal files are missing', 21 May 2009; Bragalia's published research at UFO Explorations",
 "sources": [],
 "text": "Researchers including Anthony Bragalia have alleged that Wright-Patterson-sponsored Battelle reports on nickel-titanium alloy from 1948-49 - the research lineage of nitinol shape-memory metal - are missing from both Air Force and Battelle archives.",
@@ -120,6 +156,15 @@
 },
 {
 "id": "c-01b2297036",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "1954",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024, Project BEAR section",
 "sources": [
 {
@@ -134,6 +179,15 @@
 },
 {
 "id": "c-daf03ad37b",
+"meta": {
+"artefactDate": "2024-07",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2022",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
 "sources": [
 {

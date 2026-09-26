@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-c98ac5e49b",
+"meta": {
+"artefactDate": "2019-09",
+"claimant": "joseph-gradisher",
+"claimantLabel": "Joseph Gradisher",
+"eventDate": "2017",
+"route": "press",
+"speaker": null,
+"via": "The Black Vault"
+},
 "source": "Joseph Gradisher, U.S. Navy, via The Black Vault",
 "sources": [],
 "text": "The Navy stated in September 2019 that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-3edb01eb4b",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Luis Elizondo, sworn testimony, 13 November 2024",
 "sources": [
 {
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-467123052d",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024",
 "sources": [
 {

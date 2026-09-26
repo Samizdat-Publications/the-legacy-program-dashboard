@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-604ab35821",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 20 February 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-dfa877dc23",
+"meta": {
+"artefactDate": "2026-02-25",
+"claimant": "pete-hegseth",
+"claimantLabel": "Pete Hegseth",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 25 February 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-b8cfe517f7",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "sean-parnell",
+"claimantLabel": "Sean Parnell",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 20 February 2026",
 "sources": [
 {
@@ -56,6 +83,15 @@
 },
 {
 "id": "c-1a356a5c1f",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "sources": [
 {
@@ -70,6 +106,15 @@
 },
 {
 "id": "c-a64deafb9c",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "sean-parnell",
+"claimantLabel": "Sean Parnell",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "sources": [
 {
@@ -84,6 +129,15 @@
 },
 {
 "id": "c-bfe3d5c8ae",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "press",
+"speaker": "Tim Gallaudet; Avi Loeb",
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "sources": [
 {
@@ -134,6 +188,15 @@
 },
 {
 "id": "c-88350e5df7",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "press",
+"speaker": "Rep. Anna Paulina Luna; Sen. John Fetterman",
+"via": "Al Jazeera"
+},
 "source": "Al Jazeera, 20 February 2026",
 "sources": [
 {

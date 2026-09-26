@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-52604437d8",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 20 February 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-ff87166571",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-05-08",
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-c91bbc06c1",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-ddf6decfd1",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -62,6 +98,15 @@
 },
 {
 "id": "c-7a3e360b69",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "US Department of War, war.gov/UFO, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -76,6 +121,15 @@
 },
 {
 "id": "c-690699a64f",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -90,6 +144,15 @@
 },
 {
 "id": "c-98a00f8584",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2026-05-08",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -126,6 +189,15 @@
 },
 {
 "id": "c-3836653250",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "aaro.mil homepage, accessed 12 August 2026",
 "sources": [
 {
@@ -154,6 +226,15 @@
 },
 {
 "id": "c-5f9919f1a4",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -198,6 +279,15 @@
 },
 {
 "id": "c-4b951c1483",
+"meta": {
+"artefactDate": "2026-02-19",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "war.gov/UFO; wire coverage"
+},
 "source": "war.gov/UFO quoting the President; wire coverage 20 February 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [],
 "text": "PURSUE stands on President Trump's 19 February 2026 statement directing the Secretary of War to begin identifying and releasing government files related to alien and extraterrestrial life.",
@@ -220,6 +310,15 @@
 },
 {
 "id": "c-3c951a82e1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Disclosure Archives (AARO/DoW release index)",
+"via": null
+},
 "source": "Disclosure Archives AARO/DoW release index, compiled from the war.gov/UFO postings",
 "sources": [],
 "text": "Release 01 comprised 160 files (117 PDFs, 29 sensor videos, 14 photographs) spanning 1944-2026; Release 02 comprised 64 files including 51 sensor videos; Release 03 comprised 72 files with 29 from the FBI.",
@@ -236,6 +335,15 @@
 },
 {
 "id": "c-f5fec6002b",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.war.gov/UFO/",
 "sources": [
 {
@@ -250,6 +358,15 @@
 },
 {
 "id": "c-34e03e4558",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "sources": [
 {
@@ -264,6 +381,15 @@
 },
 {
 "id": "c-554ed7306e",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "sources": [
 {

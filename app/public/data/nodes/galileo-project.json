@@ -48,11 +48,56 @@
 },
 {
 "id": "c-7da32ae413",
+"meta": {
+"artefactDate": null,
+"claimant": "galileo-project",
+"claimantLabel": "The Galileo Project",
+"eventDate": "2021-07-26",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Published project record",
 "sources": [],
 "text": "The project was founded on 26 July 2021, raised approximately $1.8 million in donations in its first year from donors including Frank Laukien and William A. Linton, and installed its first telescope at Harvard College Observatory in 2022.",
 "tier": 2,
 "unresolved": "a proposed reading (url:projects.iq.harvard.edu/galileo) was rejected in review: generic string names no specific page"
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "2022-09",
+"id": "c-7bc07a23ce",
+"node": "im1-pacific-expedition-2023",
+"nodeLabel": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Published record of the Galileo Project expedition",
+"url": null
+},
+"text": "The expedition was announced as fully funded in September 2022 with a budget of approximately $1.6 million.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2021-07-26",
+"id": "c-7da32ae413",
+"node": "galileo-project",
+"nodeLabel": "The Galileo Project",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Published project record",
+"url": null
+},
+"text": "The project was founded on 26 July 2021, raised approximately $1.8 million in donations in its first year from donors including Frank Laukien and William A. Linton, and installed its first telescope at Harvard College Observatory in 2022.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": null
 }
 ],
 "cls": "program",

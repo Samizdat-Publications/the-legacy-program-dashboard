@@ -19,6 +19,15 @@
 "claims": [
 {
 "id": "c-9d97f80e3f",
+"meta": {
+"artefactDate": "2023-09-14",
+"claimant": "nicola-fox",
+"claimantLabel": "Nicola J. Fox",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Nicola Fox, NASA UAP report media briefing, 14 September 2023",
 "sources": [],
 "text": "'The language of scientists is data.'",
@@ -32,6 +41,25 @@
 "text": "NASA announced the appointment of a Director of UAP Research at the 14 September 2023 briefing but did not disclose the individual's name at that briefing; a subsequent statement identified Mark McInerney.",
 "tier": 1,
 "unresolved": "a proposed reading (url:thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-th) was rejected in review: outlet and date plus NASA briefing; two sources"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-09-14",
+"eventDate": null,
+"id": "c-9d97f80e3f",
+"node": "nicola-fox",
+"nodeLabel": "Nicola J. Fox",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Nicola Fox, NASA UAP report media briefing, 14 September 2023",
+"url": null
+},
+"text": "'The language of scientists is data.'",
+"tier": 2,
+"topic": "nasa-uap-study",
+"via": null
 }
 ],
 "cls": "person",

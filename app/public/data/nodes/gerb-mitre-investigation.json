@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-623dc83a8f",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-ef3c50efe0",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1958",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-1fd8a02e99",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-a71c8b454b",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2011",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, MITRE investigation description, 7 August 2026",
 "sources": [
 {
@@ -62,6 +98,15 @@
 },
 {
 "id": "c-2015ddbadf",
+"meta": {
+"artefactDate": null,
+"claimant": "mitre-corporation",
+"claimantLabel": "The MITRE Corporation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -76,6 +121,15 @@
 },
 {
 "id": "c-e8b18a23b9",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "YouTube publication record and description, 7 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "The investigation was published 7 August 2026 by UAP Gerb, runs approximately two hours, and includes chapters titled FFRDC Primer, The MITRE Corporation, MITRE & UFO Legacy Programs, MITRE Gatekeepers, and MITRE Interrogative.",
@@ -84,6 +138,15 @@
 },
 {
 "id": "c-1028666d2b",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1958",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb video description, 7 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "It states that MITRE, its 15 MITRE Labs and 6 operational FFRDCs have served as a long-term strategic partner in the US Government's and DoD's most national-security-sensitive national programs since 1958.",
@@ -92,6 +155,15 @@
 },
 {
 "id": "c-413d209acc",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1958",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb video description, 7 August 2026",
 "sources": [],
 "text": "It alleges MITRE's role in two Navy-spearheaded legacy programmes: reverse engineering and maturation of non-human technologies from late-1940s recoveries, central to the MITRE portfolio since 1958; and tracking of an enormous USO with permanent or semi-permanent Atlantic station, with all-source data processed by MITRE.",
@@ -100,6 +172,15 @@
 },
 {
 "id": "c-66eeaec9a5",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2011",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb video description, 7 August 2026",
 "sources": [],
 "text": "It alleges a legacy programme briefing restriction initiated in 2011 to cease historical briefings on programme incumbents.",

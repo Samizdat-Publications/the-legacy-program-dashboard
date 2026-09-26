@@ -39,6 +39,15 @@
 "claims": [
 {
 "id": "c-d4591cd070",
+"meta": {
+"artefactDate": "2023-12",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO official biography, Timothy A. Phillips, Deputy Director (Acting Director version), December 2023",
 "sources": [
 {
@@ -53,6 +62,15 @@
 },
 {
 "id": "c-a8d09dea48",
+"meta": {
+"artefactDate": "2024-03-06",
+"claimant": "tim-phillips",
+"claimantLabel": "Timothy A. Phillips",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD transcript, 'Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1'",
 "sources": [
 {
@@ -67,6 +85,15 @@
 },
 {
 "id": "c-f4bd538237",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Douglas Dean Johnson (analysis of Phillips media engagement)",
+"via": null
+},
 "source": "Phillips media engagement, 6-8 March 2024; Douglas Dean Johnson analysis",
 "sources": [],
 "text": "Phillips publicly reoriented AARO toward current cases and warfighter support and away from historical research.",
@@ -86,6 +113,25 @@
 "text": "AARO disclosed the GREMLIN capability for real-time UAP data collection at the Volume I rollout.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-03-06",
+"eventDate": null,
+"id": "c-a8d09dea48",
+"node": "tim-phillips",
+"nodeLabel": "Timothy A. Phillips",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD transcript, 'Media Engagement With Acting AARO Director Tim Phillips on the Historical Record Report Volume 1'",
+"url": null
+},
+"text": "Phillips conducted the Department's media engagement on Historical Record Report Volume I on 6 March 2024; DoD published the transcript.",
+"tier": 1,
+"topic": "aaro-historical-record",
+"via": null
 }
 ],
 "cls": "person",

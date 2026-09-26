@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-086ec3b805",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-408921c741",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/07/21/pentagon-investigating-ufo-uap-event-near-virginia-coast/",
 "sources": [
 {

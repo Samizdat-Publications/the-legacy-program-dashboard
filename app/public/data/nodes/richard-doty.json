@@ -48,6 +48,15 @@
 "claims": [
 {
 "id": "c-dd0284dc3f",
+"meta": {
+"artefactDate": "2025-07-05",
+"claimant": "mario-woods",
+"claimantLabel": "Mario Woods",
+"eventDate": "1977",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:23:44 to 0:24:30, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918",
 "sources": [
 {
@@ -76,6 +85,15 @@
 },
 {
 "id": "c-71af595aa6",
+"meta": {
+"artefactDate": "2014-05-13",
+"claimant": "alejandro-rojas",
+"claimantLabel": "Alejandro Rojas",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "HuffPost Weird News"
+},
 "source": "Alejandro Rojas, HuffPost Weird News, 13 May 2014, https://www.huffpost.com/entry/exair-force-law-enforceme_b_5312650 , opened 2026-09-19",
 "sources": [
 {
@@ -90,6 +108,15 @@
 },
 {
 "id": "c-6678982a88",
+"meta": {
+"artefactDate": null,
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Mystery Wire (George Knapp)"
+},
 "source": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case...Part 4', YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
 "sources": [
 {
@@ -104,6 +131,15 @@
 },
 {
 "id": "c-b1d862ec75",
+"meta": {
+"artefactDate": null,
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Mystery Wire"
+},
 "source": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
 "sources": [
 {
@@ -132,6 +168,15 @@
 },
 {
 "id": "c-abd054148a",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2013-06-13",
+"route": "broadcast",
+"speaker": "unnamed (archive.org item metadata for Mirage Men)",
+"via": null
+},
 "source": "archive.org item for Mirage Men (2013), https://archive.org/details/mirage-men-2013 , opened 2026-09-19",
 "sources": [
 {
@@ -154,6 +199,15 @@
 },
 {
 "id": "c-bb4731d98b",
+"meta": {
+"artefactDate": "2005",
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "Richard Doty, on-record documentary and press interviews, 2005-2013",
 "sources": [],
 "text": "Doty has stated publicly that he provided false documents and false information to Paul Bennewitz as part of his AFOSI duties.",
@@ -176,11 +230,209 @@
 },
 {
 "id": "c-3db085ea93",
+"meta": {
+"artefactDate": "1983",
+"claimant": "linda-moulton-howe",
+"claimantLabel": "Linda Moulton Howe",
+"eventDate": "1983-04",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Linda Moulton Howe, contemporaneous notes and repeated public accounts from 1983 onward",
 "sources": [],
 "text": "Doty showed Linda Moulton Howe a document at Kirtland AFB in April 1983 that she has described as a government briefing paper on retrieved craft and occupants.",
 "tier": 2,
 "unresolved": "read in review as naming no single source: Generic description of dispersed public statements, not one document."
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2014",
+"eventDate": null,
+"id": "c-657a7a193f",
+"node": "sandia",
+"nodeLabel": "Sandia National Laboratories",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Greg Bishop, Project Beta; Doty's own subsequent public statements, including his 2014 acknowledgements reported by HuffPost",
+"url": null
+},
+"text": "AFOSI Special Agent Richard Doty was the conduit for fabricated documents supplied to Albuquerque physicist Paul Bennewitz, whose company Thunder Scientific operated adjacent to Kirtland AFB, in an operation that culminated in Bennewitz's psychiatric collapse.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": "HuffPost"
+},
+{
+"artefactDate": "2026-08-21",
+"eventDate": null,
+"id": "c-57bdccc137",
+"node": "armed-forces-institute-of-pathology",
+"nodeLabel": "Armed Forces Institute of Pathology",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 3:21:29, transcript in dist/transcripts/md/",
+"url": null
+},
+"text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 3:21:29, Richard Doty said he knew of autopsies on recovered bodies 'from people like Kate Green and others that work for the Institute for Armed Force Institute for Pathology', then corrected himself within the same passage from 'green did autopsies' to 'he saw the aftermaths read reports'. No document opened here names any individual at the Institute.",
+"tier": 2,
+"topic": "biology-medical",
+"via": "DEBRIEFED with Chris Ramsay"
+},
+{
+"artefactDate": "2005",
+"eventDate": null,
+"id": "c-bb4731d98b",
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Richard Doty, on-record documentary and press interviews, 2005-2013",
+"url": null
+},
+"text": "Doty has stated publicly that he provided false documents and false information to Paul Bennewitz as part of his AFOSI duties.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": "2005",
+"eventDate": null,
+"id": "c-cd5055b303",
+"node": "paul-bennewitz",
+"nodeLabel": "Paul Frederick Bennewitz",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Richard Doty, on-record interviews and documentary appearances, 2005-2013",
+"url": null
+},
+"text": "Richard Doty, then an AFOSI special agent, has stated publicly that he supplied Bennewitz with false documents and false information as part of an official effort.",
+"tier": 2,
+"topic": "dulce",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-6678982a88",
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Mystery Wire, 'UFOs: Former spy Rick Doty's role in a controversial case...Part 4', YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
+},
+"text": "THE DENIAL SIDE, IN HIS OWN VOICE, WHICH THE BOARD HAS NOT CARRIED. Answering George Knapp on camera, Doty rejects the harm narrative outright. From the auto-generated captions, wording approximate: 'yes that was the story that I brainwashed him I fed chemicals I mean I've heard it all we shot beams in his head I mean I've heard everything and none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself he was a brilliant but troubled person'.",
+"tier": 2,
+"topic": "dulce",
+"via": "Mystery Wire (George Knapp)"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b1d862ec75",
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"route": "broadcast",
+"source": {
+"domain": "www.youtube.com",
+"text": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
+},
+"text": "IN THE SAME CLIP HE GIVES BENNEWITZ'S MATERIAL AN EXTRATERRESTRIAL MEANING. Wording approximate, from the same auto-captions: 'he tapped into something national security programs that he shouldn't have had access to...he was collecting frequencies that were up any high gigahertz that we didn't have at that time period in the 1980s so it had to come from it an ET source'. And on custody: 'I wish I knew it went to headquarters...and from that point on I would guess dia has a repository someplace and it went there'.",
+"tier": 2,
+"topic": "dulce",
+"via": "Mystery Wire"
+},
+{
+"artefactDate": "2014-05-13",
+"eventDate": null,
+"id": "c-fcf3886e8f",
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Doty's repeated on-the-record statements, including to HuffPost, 13 May 2014",
+"url": null
+},
+"text": "Doty has stated on the record that he passed fabricated documents concerning crash retrievals and an alleged programme called AQUARIUS to Paul Bennewitz while serving as an AFOSI special agent at Kirtland AFB.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": "HuffPost"
+},
+{
+"artefactDate": "2026-08-21",
+"eventDate": null,
+"id": "c-13984f518f",
+"node": "naval-criminal-investigative-service",
+"nodeLabel": "Naval Criminal Investigative Service",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "DEBRIEFED with Chris Ramsay, 'Former Counterintelligence Agent Shares Wild Alien Encounters - Richard Doty', 21 August 2026, 1:17:09, transcript in dist/transcripts/md/",
+"url": null
+},
+"text": "On DEBRIEFED with Chris Ramsay, 21 August 2026, at 1:17:09, Richard Doty said that Jaime Shandera 'was an asset that was being used by the Naval Investigative Service, which is now Naval Criminal Investigative Service. Back then, it was just NIS', placing that relationship on a separate operation roughly two weeks before the MJ-12 document reached Shandera's mailbox.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": "DEBRIEFED with Chris Ramsay"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-2942f34735",
+"node": "afosi",
+"nodeLabel": "Air Force Office of Special Investigations",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Mystery Wire, YouTube 9TLfM5VKX3M, auto-generated captions read in full, https://www.youtube.com/watch?v=9TLfM5VKX3M , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=9TLfM5VKX3M"
+},
+"text": "The former agent most associated with the Kirtland file has publicly denied the account of harm usually attributed to the operation. Answering George Knapp on camera, Doty said of the story that he drove Bennewitz mad: 'none of it's true every every aspect of that is false'. The board should carry this alongside, and not instead of, the admissions already recorded on this node.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": "Mystery Wire (George Knapp)"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-4e094fcfa7",
+"node": "afosi-kirtland-file",
+"nodeLabel": "AFOSI Kirtland AFB UFO File (1980-1983)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Richard Doty, on-record documentary and press interviews",
+"url": null
+},
+"text": "Richard Doty, the AFOSI agent associated with the Kirtland file, has publicly stated that he supplied false documents and information to Bennewitz as part of his official duties.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-a170e3377f",
+"node": "l-kirtland",
+"nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Doty's own public statements as summarised in the Paul Bennewitz article",
+"url": null
+},
+"text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
 }
 ],
 "cls": "person",

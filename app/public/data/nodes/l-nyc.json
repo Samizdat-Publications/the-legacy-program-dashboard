@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-bf514e1682",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": "ralph-blumenthal",
+"claimantLabel": "Ralph Blumenthal",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The New York Times"
+},
 "source": "The New York Times, 16 December 2017; DEMOTED from Tier 1 (the same assertion is Tier 2 on nyt-2017-12-16); needs primary replacement",
 "sources": [
 {

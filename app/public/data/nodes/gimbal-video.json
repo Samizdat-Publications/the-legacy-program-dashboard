@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-34d43d3787",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2015-01",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement on the release of historical Navy videos, 27 April 2020",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-3b6cf1432c",
+"meta": {
+"artefactDate": "2024-11-19",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Armed Services Committee"
+},
 "source": "AARO SASC open hearing case slides, 19 November 2024",
 "sources": [
 {

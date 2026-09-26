@@ -147,6 +147,15 @@
 "claims": [
 {
 "id": "c-0f9d6aa3df",
+"meta": {
+"artefactDate": "2025-01-30",
+"claimant": "jake-barber",
+"claimantLabel": "Jake Barber",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'UFO Crash Retrieval: Jake Barber's FIRSTHAND Account', published 30 January 2025, at 1:28:12",
 "sources": [
 {
@@ -161,6 +170,15 @@
 },
 {
 "id": "c-da3e0ff244",
+"meta": {
+"artefactDate": "2025-04-02",
+"claimant": "kirk-mcconnell",
+"claimantLabel": "Kirk McConnell",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Senate Staffer Thinks Tesla and Nazi Technology is Being Hidden (ft. Kirk McConnell)', published 2 April 2025, at 1:09:33 to 1:10:25",
 "sources": [
 {
@@ -175,6 +193,15 @@
 },
 {
 "id": "c-5e831a1641",
+"meta": {
+"artefactDate": "2026-07-26",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2018-04",
+"route": "interview",
+"speaker": "Brandon Fugal",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, '\"There's A UFO Under the Ranch!\" - Skinwalker Owner Breaks Silence', 26 July 2026, 2:39:07 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9910649891.mp3",
 "sources": [
 {
@@ -203,6 +230,15 @@
 },
 {
 "id": "c-4f460edadd",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2008",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "sources": [
 {
@@ -217,6 +253,15 @@
 },
 {
 "id": "c-247646d8cf",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, p.23",
 "sources": [
 {
@@ -231,6 +276,15 @@
 },
 {
 "id": "c-739f82b59c",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2012",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, p.24",
 "sources": [
 {
@@ -259,6 +313,15 @@
 },
 {
 "id": "c-1a4658b502",
+"meta": {
+"artefactDate": null,
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Kirkpatrick congressional testimony as quoted by Rep. Virginia Foxx and answered by Grusch, House Oversight transcript, 26 July 2023",
 "sources": [
 {
@@ -273,6 +336,15 @@
 },
 {
 "id": "c-2991f17faf",
+"meta": {
+"artefactDate": "2023-07-31",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Sean Kirkpatrick, statement reported by DefenseScoop, 31 July 2023",
 "sources": [
 {
@@ -287,6 +359,15 @@
 },
 {
 "id": "c-ad39255214",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Sean Kirkpatrick, opinion, Scientific American, 19 January 2024",
 "sources": [
 {
@@ -301,6 +382,15 @@
 },
 {
 "id": "c-c834817791",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "2022-04",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "House Oversight hearing transcript, 26 July 2023",
 "sources": [
 {
@@ -315,6 +405,15 @@
 },
 {
 "id": "c-d90f9be1a6",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, 8 March 2024, key findings",
 "sources": [
 {
@@ -329,6 +428,15 @@
 },
 {
 "id": "c-0324fd580d",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, Section IV",
 "sources": [
 {
@@ -343,6 +451,15 @@
 },
 {
 "id": "c-154ffec676",
+"meta": {
+"artefactDate": "2024-07",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/ORNL 'Synopsis: Analysis of a Metallic Specimen', released July 2024",
 "sources": [
 {
@@ -357,6 +474,15 @@
 },
 {
 "id": "c-772f9533f1",
+"meta": {
+"artefactDate": "2022-07-15",
+"claimant": "kathleen-hicks",
+"claimantLabel": "Kathleen H. Hicks",
+"eventDate": "2022-07-15",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "DoD memorandum 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022, media.defense.gov — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -371,6 +497,15 @@
 },
 {
 "id": "c-a1778d8294",
+"meta": {
+"artefactDate": "2023-04-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Armed Services Subcommittee on Emerging Threats and Capabilities"
+},
 "source": "SASC hearing record 19 April 2023; S.Hrg. 118-648; DefenseScoop 19 April 2023",
 "sources": [],
 "text": "He testified in open session before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on 19 April 2023 that AARO was investigating more than 650 UAP cases.",
@@ -379,6 +514,15 @@
 },
 {
 "id": "c-1a9705cfc4",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Scientific American"
+},
 "source": "Sean Kirkpatrick, Scientific American op-ed, 19 January 2024",
 "sources": [
 {
@@ -393,6 +537,15 @@
 },
 {
 "id": "c-f47a89efb4",
+"meta": {
+"artefactDate": "2023-11-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2023-12-01",
+"route": "press",
+"speaker": "DefenseScoop; Wikipedia biography; The Good Trouble Show",
+"via": null
+},
 "source": "DefenseScoop 30 November 2023; Wikipedia biography; The Good Trouble Show 5 September 2025 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "He left AARO on 1 December 2023 and joined Oak Ridge National Laboratory, a UT-Battelle-operated DOE lab that had supported AARO, as CTO for Defense and Intelligence Programs.",
@@ -409,6 +562,15 @@
 },
 {
 "id": "c-d0b0920dcc",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2022-07-20",
+"route": "document",
+"speaker": "Wikipedia, 'All-domain Anomaly Resolution Office'",
+"via": null
+},
 "source": "https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -423,6 +585,15 @@
 },
 {
 "id": "c-66318aedc0",
+"meta": {
+"artefactDate": null,
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/",
 "sources": [
 {
@@ -448,6 +619,229 @@
 "text": "The former AARO director is a senior technology executive at the national laboratory that performed both of AARO's published specimen analyses, including the January 2026 aluminium analysis. Reasoning: his ORNL role dates from December 2023 and the ORNL/AARO aluminium supplement is dated January 2026.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-04-19",
+"eventDate": null,
+"id": "c-1475bab18f",
+"node": "hearing-2023-04-19",
+"nodeLabel": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "SASC ETC Subcommittee hearing, 19 April 2023; DefenseScoop same day; S.Hrg. 118-648",
+"url": null
+},
+"text": "Kirkpatrick testified on 19 April 2023 that AARO was investigating more than 650 UAP cases and that spherical objects accounted for nearly half of reports.",
+"tier": 1,
+"topic": "aaro",
+"via": "Senate Armed Services Committee, Emerging Threats and Capabilities Subcommittee"
+},
+{
+"artefactDate": "2023-04-19",
+"eventDate": null,
+"id": "c-a1778d8294",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "SASC hearing record 19 April 2023; S.Hrg. 118-648; DefenseScoop 19 April 2023",
+"url": null
+},
+"text": "He testified in open session before the Senate Armed Services Subcommittee on Emerging Threats and Capabilities on 19 April 2023 that AARO was investigating more than 650 UAP cases.",
+"tier": 1,
+"topic": "aaro",
+"via": "Senate Armed Services Subcommittee on Emerging Threats and Capabilities"
+},
+{
+"artefactDate": "2023-07-31",
+"eventDate": null,
+"id": "c-2991f17faf",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, statement reported by DefenseScoop, 31 July 2023",
+"url": null
+},
+"text": "'The central source of those allegations has refused to speak with AARO' - posted after the 26 July 2023 hearing and authenticated by the Pentagon.",
+"tier": 2,
+"topic": "aaro",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2024-01-19",
+"eventDate": null,
+"id": "c-1a9705cfc4",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, Scientific American op-ed, 19 January 2024",
+"url": null
+},
+"text": "He characterised the entire crash-retrieval narrative as 'a textbook example of circular reporting' sourced to 'a small group of interconnected believers' influenced by Robert Bigelow and AATIP.",
+"tier": 2,
+"topic": "aaro",
+"via": "Scientific American"
+},
+{
+"artefactDate": "2024-01-19",
+"eventDate": null,
+"id": "c-a6c2e89db5",
+"node": "kirkpatrick-sciam-oped-2024",
+"nodeLabel": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
+"url": null
+},
+"text": "Kirkpatrick wrote that the crash-retrieval narrative is 'a textbook example of circular reporting' sourced to the same small group of individuals and traceable to Robert Bigelow and AATIP.",
+"tier": 2,
+"topic": "aaro",
+"via": null
+},
+{
+"artefactDate": "2024-01-19",
+"eventDate": null,
+"id": "c-ad39255214",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, opinion, Scientific American, 19 January 2024",
+"url": null
+},
+"text": "Attributes the reverse-engineering allegations to inadvertent disclosures of legitimate US programs or to unsupported belief, and to circular reporting among a small group of interconnected believers.",
+"tier": 2,
+"topic": "aaro",
+"via": null
+},
+{
+"artefactDate": "2024-01-19",
+"eventDate": null,
+"id": "c-f8e3176ba6",
+"node": "kirkpatrick-sciam-oped-2024",
+"nodeLabel": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
+"url": null
+},
+"text": "Kirkpatrick wrote that whistleblowers who prefer to be 'sensationalist in the public eye' rather than bring evidence to AARO are 'suspect'.",
+"tier": 2,
+"topic": "aaro",
+"via": "Scientific American"
+},
+{
+"artefactDate": "2024-01-23",
+"eventDate": null,
+"id": "c-fcd7f330a5",
+"node": "kirkpatrick-sciam-oped-2024",
+"nodeLabel": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Kirkpatrick interview with Peter Bergen, 23 January 2024",
+"url": null
+},
+"text": "In a follow-on interview, suggested Grusch may have misinterpreted information or fallen under the influence of believers, and called the situation a self-licking ice cream cone.",
+"tier": 2,
+"topic": "aaro",
+"via": "Peter Bergen"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-1a4658b502",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Kirkpatrick congressional testimony as quoted by Rep. Virginia Foxx and answered by Grusch, House Oversight transcript, 26 July 2023",
+"url": null
+},
+"text": "Testified to Congress that there was 'no credible evidence thus far of extraterrestrial activity' or of 'off-world technology brought to the attention of the office' - a statement Grusch swore was 'not accurate.'",
+"tier": 1,
+"topic": "aaro",
+"via": "House Oversight"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-66318aedc0",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "press",
+"source": {
+"domain": "www.scientificamerican.com",
+"text": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/",
+"url": "https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/"
+},
+"text": "He wrote that he found no evidence of extraterrestrial visitors and characterised coverup allegations as stemming from legitimate US programmes or misrepresentations promoted by 'a small group of interconnected believers' engaged in 'circular reporting.'",
+"tier": 2,
+"topic": "aaro",
+"via": null
+},
+{
+"artefactDate": "2024-01-19",
+"eventDate": null,
+"id": "c-ec16d68f6c",
+"node": "kirkpatrick-sciam-oped-2024",
+"nodeLabel": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, Scientific American opinion, 19 January 2024",
+"url": null
+},
+"text": "Argues the allegations derive from inadvertent disclosures of legitimate US programs or from unsupported belief, and describes the milieu as circular reporting among interconnected believers.",
+"tier": 2,
+"topic": "aaro-historical-record",
+"via": null
+},
+{
+"artefactDate": "2024-01-19",
+"eventDate": null,
+"id": "c-5f4ef78c47",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, Scientific American, 19 January 2024",
+"url": null
+},
+"text": "Kirkpatrick publicly attributed the modern crash-retrieval narrative to AATIP and Robert Bigelow's circle, an argument that targets Elizondo's account without engaging it as testimony.",
+"tier": 2,
+"topic": "aatip-elizondo",
+"via": null
+},
+{
+"artefactDate": "2026-05-22",
+"eventDate": "2023-02",
+"id": "c-35741be0cc",
+"node": "shootdowns-feb-2023",
+"nodeLabel": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Sean Kirkpatrick, quoted by The War Zone, 22 May 2026",
+"url": null
+},
+"text": "'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.'",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
 }
 ],
 "cls": "person",

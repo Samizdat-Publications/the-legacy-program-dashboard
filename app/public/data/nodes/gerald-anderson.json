@@ -58,6 +58,15 @@
 },
 {
 "id": "c-1ab48b8c5b",
+"meta": {
+"artefactDate": "1997",
+"claimant": "gerald-anderson",
+"claimantLabel": "Gerald Anderson",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "The Roswell Report: Case Closed (USAF)"
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion",
 "sources": [
 {
@@ -72,6 +81,15 @@
 },
 {
 "id": "c-fc01ecff3c",
+"meta": {
+"artefactDate": "1992",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research)",
+"via": null
+},
 "source": "Rodeghier and Whiting, 'The Plains of San Agustin Controversy' (1992), cited at note 123 of the 1997 Air Force report",
 "sources": [
 {
@@ -83,6 +101,25 @@
 "text": "Mark Rodeghier (CUFOS) and Fred Whiting (Fund for UFO Research) published a joint investigation, 'The Plains of San Agustin Controversy', concluding against Anderson's reliability.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-1ab48b8c5b",
+"node": "gerald-anderson",
+"nodeLabel": "Gerald Anderson",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 1.4 and Conclusion",
+"url": null
+},
+"text": "Anderson described the bodies as 'I thought they were plastic dolls' and described recovery procedures the Air Force found consistent with high-altitude balloon and anthropomorphic dummy launch and recovery.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": "The Roswell Report: Case Closed (USAF)"
 }
 ],
 "cls": "person",

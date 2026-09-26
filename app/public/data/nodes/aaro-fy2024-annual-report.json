@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-c591ffb825",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-9ed9fdcd4b",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-4013e8f93c",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-936269715a",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2024-03",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "sources": [
 {
@@ -62,6 +98,15 @@
 },
 {
 "id": "c-2e3386d6dd",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "sources": [
 {
@@ -76,6 +121,15 @@
 },
 {
 "id": "c-d7aaa72e68",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "sources": [
 {
@@ -90,6 +144,15 @@
 },
 {
 "id": "c-8d73b38ca4",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO FY2024 Consolidated Annual Report on UAP, 14 November 2024",
 "sources": [
 {
@@ -104,6 +167,15 @@
 },
 {
 "id": "c-c72f59f2b6",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO FY2024 Consolidated Annual Report on UAP",
 "sources": [
 {
@@ -118,6 +190,15 @@
 },
 {
 "id": "c-25ead050cf",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO FY2024 Consolidated Annual Report on UAP",
 "sources": [
 {
@@ -132,6 +213,15 @@
 },
 {
 "id": "c-e5acc08264",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO FY2024 Consolidated Annual Report on UAP",
 "sources": [
 {
@@ -196,6 +286,15 @@
 },
 {
 "id": "c-5bc75acf58",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "jon-kosloski",
+"claimantLabel": "Jon T. Kosloski",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Kosloski media roundtable, 14 November 2024; DefenseScoop",
 "sources": [],
 "text": "Roughly 900 reports were retained in an active archive because they lacked sufficient scientific data for analysis.",

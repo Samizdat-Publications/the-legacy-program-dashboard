@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-eeb3f713b0",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1945-07-09",
+"route": "document",
+"speaker": "Wikipedia, 'White Sands Missile Range'",
+"via": null
+},
 "source": "Wikipedia, White Sands Missile Range, citing Army range histories — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-45f14695cf",
+"meta": {
+"artefactDate": null,
+"claimant": "lanl",
+"claimantLabel": "Los Alamos National Laboratory",
+"eventDate": "1949-02-16",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Los Alamos National Laboratory historical account of the 16 February 1949 conference — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "A conference on the green fireballs was held at Los Alamos on 16 February 1949 with Edward Teller among the attendees; Los Alamos National Laboratory's own account records that the fireballs were ultimately dismissed as a national security threat.",

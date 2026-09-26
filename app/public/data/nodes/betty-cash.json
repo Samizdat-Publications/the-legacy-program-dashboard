@@ -40,6 +40,15 @@
 "claims": [
 {
 "id": "c-b5e88a5f15",
+"meta": {
+"artefactDate": "1984-01",
+"claimant": "betty-cash",
+"claimantLabel": "Betty Cash",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex.) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -54,6 +63,15 @@
 },
 {
 "id": "c-4ca0d03725",
+"meta": {
+"artefactDate": "1986-08-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "filing",
+"speaker": "Judge Ross N. Sterling (Order of Dismissal, Cash v. United States)",
+"via": null
+},
 "source": "Order of Dismissal, Cash v. United States, No. H-84-348, filed 21 August 1986 (scan of the clerk-stamped original) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -68,6 +86,15 @@
 },
 {
 "id": "c-5cadabebfd",
+"meta": {
+"artefactDate": "1996-11-17",
+"claimant": "peter-gersten",
+"claimantLabel": "Peter A. Gersten",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Houston Chronicle, Texas Magazine"
+},
 "source": "Gersten, quoted in the Houston Chronicle, Texas Magazine, 17 November 1996, p. 8",
 "sources": [
 {
@@ -82,11 +109,39 @@
 },
 {
 "id": "c-4234b2348a",
+"meta": {
+"artefactDate": "1982",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Lt. Col. George Sarran (Dept of the Army IG investigation)",
+"via": null
+},
 "source": "Department of the Army Inspector General investigation, 1982; Sarran quoted in the case literature",
 "sources": [],
 "text": "Lt. Col. George Sarran of the Office of the Inspector General of the US Army conducted the only thorough formal government investigation of the encounter in 1982 and found no evidence that the helicopters belonged to the US armed forces, while stating that Cash and Landrum were credible and that no one appeared to be exaggerating.",
 "tier": 2,
 "unresolved": "read in review as naming no single source: No specific document named; 'Sarran quoted in the case literature' is a generic secondary reference, and no single matching Army IG report w"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1984-01",
+"eventDate": null,
+"id": "c-b5e88a5f15",
+"node": "betty-cash",
+"nodeLabel": "Betty Cash",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "Civil docket sheet, Cash v. United States, No. H-84-348 (S.D. Tex.) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Betty Cash, Vickie Landrum and Colby Landrum sued the United States of America in the US District Court for the Southern District of Texas, Houston Division, Civil Action No. H-84-348, under 28 U.S.C. 1346(b) and 2671 et seq.; the original complaint was filed and summonses issued in January 1984 and Peter A. Gersten was designated attorney in charge.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
 }
 ],
 "cls": "person",

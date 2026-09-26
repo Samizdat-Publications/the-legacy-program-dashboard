@@ -77,6 +77,15 @@
 "claims": [
 {
 "id": "c-9a10ecb99d",
+"meta": {
+"artefactDate": "2025-10-25",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1961-07-11",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 1:16:06 and 1:18:41, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
 "sources": [
 {
@@ -91,6 +100,15 @@
 },
 {
 "id": "c-b65b1471d1",
+"meta": {
+"artefactDate": null,
+"claimant": "nids",
+"claimantLabel": "National Institute for Discovery Science (NIDS)",
+"eventDate": "1995",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "NIDS institutional record; contemporaneous press coverage of NIDS' scientific board",
 "sources": [],
 "text": "Vallee served on the advisory board of Bigelow's National Institute for Discovery Science from its 1995 founding.",
@@ -99,6 +117,15 @@
 },
 {
 "id": "c-41f6b4c601",
+"meta": {
+"artefactDate": "1979",
+"claimant": "jacques-vallee",
+"claimantLabel": "Jacques F. Vallee",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
 "sources": [
 {
@@ -141,6 +168,15 @@
 },
 {
 "id": "c-92b826a92f",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (biographical record)",
+"via": null
+},
 "source": "Biographical record; reported consistently and not disputed",
 "sources": [],
 "text": "Vallee served as a consultant to Robert Bigelow's National Institute for Discovery Science and sat on the Bigelow Aerospace scientific advisory board.",
@@ -154,6 +190,93 @@
 "text": "Vallee's collection is the only continuous non-governmental chain of custody for alleged UAP materials spanning 1957 to the present, which is why the peer-reviewed literature is built on civil-provenance samples rather than government-held ones. The government-held material has never entered a published custody chain.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1992",
+"eventDate": "1953-01-14",
+"id": "c-7834a5383c",
+"node": "howard-c-cross",
+"nodeLabel": "Howard C. Cross",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Jacques Vallee, Forbidden Science (1992) and subsequent correspondence quoted by CUFON",
+"url": null
+},
+"text": "Vallee holds that the Robertson Panel, which met 14-16 January 1953, was not briefed on the Pentacle proposals, and that a separate group had already determined the boundaries of what the panel could discuss.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": "CUFON (correspondence)"
+},
+{
+"artefactDate": null,
+"eventDate": "1953-01-14",
+"id": "c-6787d85102",
+"node": "pentacle-memorandum",
+"nodeLabel": "The Pentacle Memorandum",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Vallee correspondence quoted by CUFON",
+"url": null
+},
+"text": "Vallee holds that the Robertson Panel of 14-16 January 1953 was not briefed on the Pentacle proposals and that another group had already decided what could and could not be discussed.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": "CUFON"
+},
+{
+"artefactDate": "1992",
+"eventDate": "1967-06-18",
+"id": "c-2a57a4f73b",
+"node": "pentacle-memorandum",
+"nodeLabel": "The Pentacle Memorandum",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Jacques Vallee, Forbidden Science; CUFON; Bad UFOs analysis, 18 February 2012",
+"url": null
+},
+"text": "Jacques Vallee discovered the memorandum in 1967 while working with J. Allen Hynek's papers, recorded it in his journal on 18 June 1967, and published an account in Forbidden Science (1992) using the codename 'Pentacle'; H. C. Cross was later identified as its author.",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1990",
+"eventDate": null,
+"id": "c-7a54f09597",
+"node": "operacao-prato",
+"nodeLabel": "Operação Prato (Operation Saucer)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Jacques Vallée, Confrontations: A Scientist's Search for Alien Contact (Ballantine, 1990), p.134",
+"url": null
+},
+"text": "Jacques Vallée reported that individuals were said to have been killed by the lights and that injuries were consistent with radiation effects from microwaves.",
+"tier": 2,
+"topic": "brazil",
+"via": null
+},
+{
+"artefactDate": "1979",
+"eventDate": null,
+"id": "c-41f6b4c601",
+"node": "jacques-vallee",
+"nodeLabel": "Jacques F. Vallee",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Jacques Vallee, 'Messengers of Deception' (1979) and subsequent published diaries",
+"url": null
+},
+"text": "Vallee documented, from the late 1970s onward, that identifiable human actors were injecting fabricated material into UFO cases - the phenomenon later confirmed in the Bennewitz affair.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
 }
 ],
 "cls": "person",

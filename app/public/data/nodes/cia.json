@@ -55,6 +55,263 @@
 "unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2013-06-25",
+"eventDate": "1955",
+"id": "c-0105fd75e0",
+"node": "l-edwards-afb",
+"nodeLabel": "Edwards Air Force Base, California",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CIA U-2/OXCART history, released 25 June 2013; summarised in Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "Groom Lake was selected in 1955 because U-2 flight test and pilot training could not be conducted at Edwards Air Force Base or Lockheed's Palmdale facility given the extreme secrecy of the project.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "Wikipedia, 'Area 51'"
+},
+{
+"artefactDate": "2013-06-25",
+"eventDate": "2013-06-25",
+"id": "c-3b1a85da65",
+"node": "l-area51",
+"nodeLabel": "Area 51 (Homey Airport / Groom Lake operating location)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CIA U-2/OXCART history, released 25 June 2013 via FOIA to the National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The CIA's 25 June 2013 release was the first official acknowledgement of specific activity at the site named Area 51.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "National Security Archive"
+},
+{
+"artefactDate": "2013-06-25",
+"eventDate": null,
+"id": "c-861074b262",
+"node": "l-groom-lake",
+"nodeLabel": "Groom Lake, Nevada",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "On 25 June 2013 the CIA released an official history of the U-2 and OXCART projects acknowledging testing at Area 51, in response to a 2005 FOIA request filed by Jeffrey T. Richelson of the National Security Archive.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1955-04",
+"id": "c-3f931779da",
+"node": "l-groom-lake",
+"nodeLabel": "Groom Lake, Nevada",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CIA OXCART history; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-8c2a9eb082",
+"node": "haines-cia-history",
+"nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Haines, 'CIA's Role in the Study of UFOs, 1947-90'",
+"url": null
+},
+"text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights (namely the U-2) over the United States.'",
+"tier": 1,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1963-07-26",
+"eventDate": null,
+"id": "c-2ce75a8a2e",
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"route": "hearing",
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Report of Inspection of MKULTRA, 26 July 1963, p. 14, quoted in the prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed.",
+"tier": 1,
+"topic": "cia-secrecy-precedents",
+"via": "Senate Intelligence Committee (Project MKULTRA joint hearing)"
+},
+{
+"artefactDate": "1977-08-03",
+"eventDate": null,
+"id": "c-0f60717ed8",
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"route": "hearing",
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Project MKULTRA joint hearing, 3 August 1977, opening statement and testimony of Admiral Turner, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The recovered material covers 149 numbered subprojects plus two boxes of audit reports and financial statements from cut-out funding mechanisms and 33 further subprojects unrelated to behavioural work. Turner told the committee the new identities were 'the names of 185 nongovernment researchers and assistants' and 'names of 80 institutions', comprising 44 colleges or universities, 15 research foundations or chemical or pharmaceutical companies, 12 hospitals or clinics and 3 penal institutions. The hearing's own opening statement gives a different figure, 'Eighty-six universities or institutions were involved.'",
+"tier": 1,
+"topic": "cia-secrecy-precedents",
+"via": "Senate Intelligence Committee (Project MKULTRA joint hearing)"
+},
+{
+"artefactDate": "1977-08-03",
+"eventDate": "1970",
+"id": "c-dd772efb5c",
+"node": "mkultra",
+"nodeLabel": "Project MKULTRA",
+"route": "hearing",
+"source": {
+"domain": "www.intelligence.senate.gov",
+"text": "Prepared statement of Admiral Stansfield Turner, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
+"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
+},
+"text": "The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'.",
+"tier": 1,
+"topic": "cia-secrecy-precedents",
+"via": "Senate Select Committee on Intelligence, Project MKULTRA joint hearing"
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-95d1314e10",
+"node": "d-denial",
+"nodeLabel": "Official Denial",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Haines, Studies in Intelligence (1997)",
+"url": null
+},
+"text": "Air Force officers gave explanations to the public they knew to be false in order to protect U-2 and OXCART flight security, per CIA's own in-house history.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": null
+},
+{
+"artefactDate": "2026-08-10",
+"eventDate": "1963-11",
+"id": "c-aa20c83b57",
+"node": "cia-readingroom-ufo",
+"nodeLabel": "CIA FOIA Reading Room - UFO collection",
+"route": "document",
+"source": {
+"domain": null,
+"text": "EarthSky, 10 August 2026",
+"url": null
+},
+"text": "PURSUE Release 05 included a CIA report of an alleged November 1963 Brazil recovery of a metal sphere with a deceased occupant in a spacesuit, later deemed unsubstantiated by the American Consulate.",
+"tier": 2,
+"topic": "foia-litigation",
+"via": "EarthSky"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-6055f612d0",
+"node": "gao-nsiad-95-187",
+"nodeLabel": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
+"route": "document",
+"source": {
+"domain": null,
+"text": "GAO/NSIAD-95-187, p.6",
+"url": null
+},
+"text": "The CIA's Executive Director stated that 'a search against the term Roswell, New Mexico, in all CIA databases produced no CIA documents related to the crash'.",
+"tier": 1,
+"topic": "official-explanations",
+"via": "GAO (NSIAD-95-187)"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-701323c629",
+"node": "steven-schiff",
+"nodeLabel": "Steven H. Schiff",
+"route": "document",
+"source": {
+"domain": null,
+"text": "GAO/NSIAD-95-187, p.6",
+"url": null
+},
+"text": "The CIA's Executive Director told GAO that a search against the term 'Roswell, New Mexico' in all CIA databases produced no CIA documents related to the crash.",
+"tier": 1,
+"topic": "oversight-before-2017",
+"via": "GAO (NSIAD-95-187)"
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-de9afdb635",
+"node": "haines-cia-history",
+"nodeLabel": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Haines, Studies in Intelligence, 1997",
+"url": null
+},
+"text": "'According to later estimates from CIA officials who worked on the U-2 project and the OXCART (SR-71, or Blackbird) project, over half of all UFO reports from the late 1950s through the 1960s were accounted for by manned reconnaissance flights.'",
+"tier": 1,
+"topic": "robertson-cia-1953",
+"via": null
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-f37b06ad1e",
+"node": "frederick-durant",
+"nodeLabel": "Frederick C. Durant III",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Haines, CIA Studies in Intelligence 1997, on the classification history of the panel record",
+"url": null
+},
+"text": "The Durant Report circulated for years in redacted form before fuller text was released, obscuring the panel's media recommendations.",
+"tier": 2,
+"topic": "robertson-cia-1953",
+"via": null
+},
+{
+"artefactDate": "2013-06-25",
+"eventDate": null,
+"id": "c-428e168fcd",
+"node": "l-la",
+"nodeLabel": "Los Angeles and Burbank, California",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CIA U-2/OXCART history, released 25 June 2013; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "Lockheed's Skunk Works at Burbank produced the U-2, A-12, HAVE BLUE and F-117, all of which were tested at Groom Lake rather than at Edwards or Palmdale because of programme secrecy.",
+"tier": 2,
+"topic": null,
+"via": "Wikipedia, 'Area 51'"
+}
+],
 "cls": "institution",
 "cluster": "ic",
 "conflicts": [],

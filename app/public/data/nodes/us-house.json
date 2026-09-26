@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-1ac30f5fe1",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-b2e834c6bd",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "nancy-mace",
+"claimantLabel": "Nancy Ruth Mace",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-7ff5893738",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {

@@ -35,6 +35,15 @@
 "claims": [
 {
 "id": "c-e213371b5e",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "ralph-blumenthal",
+"claimantLabel": "Ralph Blumenthal",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Debrief byline, 5 June 2023 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "Co-author of the 5 June 2023 Debrief article on Grusch's allegations.",
@@ -43,6 +52,15 @@
 },
 {
 "id": "c-73aa1c8a81",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Ralph Blumenthal'",
+"via": null
+},
 "source": "Wikipedia, 'Ralph Blumenthal', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -54,6 +72,59 @@
 "text": "Blumenthal was a New York Times staff reporter from 1964 to 2009 and co-authored both the 2017 AATIP story and the 2023 Grusch story.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2020-07-23",
+"eventDate": "2020-07",
+"id": "c-c20eb7c8b7",
+"node": "aerospace-corporation",
+"nodeLabel": "The Aerospace Corporation",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Ralph Blumenthal, The New York Times, 23 July 2020",
+"url": null
+},
+"text": "Eric W. Davis was working for The Aerospace Corporation at the time of the July 2020 New York Times report describing his classified briefings on retrievals.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": "The New York Times"
+},
+{
+"artefactDate": "2023-06-05",
+"eventDate": null,
+"id": "c-e213371b5e",
+"node": "ralph-blumenthal",
+"nodeLabel": "Ralph Blumenthal",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief byline, 5 June 2023 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Co-author of the 5 June 2023 Debrief article on Grusch's allegations.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": null
+},
+{
+"artefactDate": "2017-12-16",
+"eventDate": null,
+"id": "c-bf514e1682",
+"node": "l-nyc",
+"nodeLabel": "New York City",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The New York Times, 16 December 2017; DEMOTED from Tier 1 (the same assertion is Tier 2 on nyt-2017-12-16); needs primary replacement",
+"url": null
+},
+"text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017, by Helene Cooper, Ralph Blumenthal and Leslie Kean.",
+"tier": 2,
+"topic": null,
+"via": "The New York Times"
 }
 ],
 "cls": "person",

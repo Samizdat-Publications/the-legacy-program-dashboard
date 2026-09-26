@@ -20,6 +20,15 @@
 },
 {
 "id": "c-75bfff1b37",
+"meta": {
+"artefactDate": "2026-09-18",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "internal editorial note (caption retrieval via TubeAlfred connector)",
+"via": null
+},
 "source": "YouTube video kc10m6HFbDE, captions retrieved via the TubeAlfred connector, 2026-09-18 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -34,6 +43,15 @@
 },
 {
 "id": "c-6bde1fef66",
+"meta": {
+"artefactDate": "1991",
+"claimant": "bob-lazar",
+"claimantLabel": "Robert \"Bob\" Lazar",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
 "sources": [
 {

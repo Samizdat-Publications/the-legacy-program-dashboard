@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-25173f6b32",
+"meta": {
+"artefactDate": "2026-07-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-07-23",
+"route": "press",
+"speaker": "NewsTalk KZRG",
+"via": null
+},
 "source": "NewsTalk KZRG, 23 July 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-932dfc7ce8",
+"meta": {
+"artefactDate": "2026-07-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (NewsTalk KZRG reporting)",
+"via": "NewsTalk KZRG"
+},
 "source": "NewsTalk KZRG, 23 July 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-b64c2d1b36",
+"meta": {
+"artefactDate": "2026-07-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (NewsTalk KZRG reporting)",
+"via": "NewsTalk KZRG"
+},
 "source": "NewsTalk KZRG, 23 July 2026",
 "sources": [
 {
@@ -56,6 +83,15 @@
 },
 {
 "id": "c-7b195c0a7b",
+"meta": {
+"artefactDate": "2026-08-22",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "internal editorial note (board reconciliation of adoption-date nodes)",
+"via": null
+},
 "source": "Internal: reconciliation of uapda-fy2027-house-adopted and burlison-uapda-fy2027-ndaa-amendment on collapse, 22 August 2026",
 "sources": [],
 "text": "The two nodes carried for this amendment before the 22 August 2026 collapse disagreed on its adoption date: one gave 'Adopted by the House 23 July 2026', the other 'Adopted by the House 22-23 July 2026'. The range is retained as the wider and safer statement; the disagreement is recorded rather than resolved silently.",
@@ -78,6 +114,15 @@
 },
 {
 "id": "c-814037e0a2",
+"meta": {
+"artefactDate": "2026-07-23",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Newstalk KZRG",
+"via": null
+},
 "source": "https://www.newstalkkzrg.com/2026/07/23/house-approves-burlison-amendment-creating-framework-for-uap-records-disclosure/",
 "sources": [
 {
@@ -106,6 +151,15 @@
 },
 {
 "id": "c-99fa778dbb",
+"meta": {
+"artefactDate": null,
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "https://burlison.house.gov/media/press-releases/house-adopts-burlison-amendment-establishing-uap-disclosure-framework",
 "sources": [
 {

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-24e60679af",
+"meta": {
+"artefactDate": "2016-07-26",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": "2015",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-f302580144",
+"meta": {
+"artefactDate": "2016-07-26",
+"claimant": "dod-oig",
+"claimantLabel": "Department of Defense Office of Inspector General",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
 "sources": [
 {

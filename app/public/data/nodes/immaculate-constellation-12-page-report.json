@@ -123,6 +123,15 @@
 },
 {
 "id": "c-6c055c72aa",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
 "sources": [
 {
@@ -137,6 +146,15 @@
 },
 {
 "id": "c-fc33e89c5b",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "sources": [
 {
@@ -151,6 +169,15 @@
 },
 {
 "id": "c-077a68511b",
+"meta": {
+"artefactDate": "2026-05-16",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "USA Herald"
+},
 "source": "USA Herald, 16 May 2026, reporting DoD statements",
 "sources": [
 {
@@ -179,6 +206,15 @@
 },
 {
 "id": "c-5ea6aceb26",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
 "sources": [
 {
@@ -193,6 +229,15 @@
 },
 {
 "id": "c-68a60292d1",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "CHRG-118hhrg57440",
 "sources": [
 {
@@ -207,6 +252,15 @@
 },
 {
 "id": "c-23e5653f06",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2025",
+"route": "press",
+"speaker": "Jason Colavito",
+"via": "Wikipedia, Schriever wargame article"
+},
 "source": "Jason Colavito, as cited in the Wikipedia Schriever wargame article",
 "sources": [
 {

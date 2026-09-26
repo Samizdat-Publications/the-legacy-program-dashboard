@@ -19,6 +19,195 @@
 "unresolved": null
 }
 ],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-c1e1b2f2be",
+"node": "marik-von-rennenkampff",
+"nodeLabel": "Marik von Rennenkampff",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, opinion/national-security and opinion/technology sections; URLs confirmed live via The Hill's own search index, 12 August 2026",
+"url": null
+},
+"text": "The Hill has published a sustained series of UAP opinion pieces argued from the official record, including 'Did the Pentagon spread false UFO stories? We're skeptical.', 'Shocking UFO allegations make the case for the Disclosure Act', 'Pentagon still mystified as drone drama deepens' and 'Mysterious orbs demand scientific study'.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-16c5e426ae",
+"node": "hr-6967-safe-airspace-for-americans-act",
+"nodeLabel": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "Intended to close the gap in UAP reporting by enabling civilian pilots and personnel to report encounters to the FAA, which would send reports to AARO, in exchange for legal safeguards.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": "1952-07",
+"id": "c-2ef7b1b8d5",
+"node": "mit-lincoln-laboratory",
+"nodeLabel": "MIT Lincoln Laboratory",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill/NewsNation, 29 June 2026",
+"url": null
+},
+"text": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available; the Disclosure Foundation describes it as a reel-to-reel audio recording relating to the July 1952 Washington sightings and says Lincoln Lab's lawyers confirm it exists.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-eef58397b5",
+"node": "thomas-monheim",
+"nodeLabel": "Thomas A. Monheim",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "Briefed House Oversight and Accountability Committee members in a closed-door session at the Capitol on 12 January 2024 for about ninety minutes, intended to improve transparency around the government's knowledge of UAP.",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": null
+},
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-000ac70875",
+"node": "congressional-uap-caucus",
+"nodeLabel": "Congressional UAP Caucus",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024; The Hill, 12 March 2024; The Hill/NewsNation, 29 June 2026",
+"url": null
+},
+"text": "Rep. Andy Ogles is described as 'part of the UAP Caucus but not the Oversight Committee'; Rep. Moskowitz is described as 'a member of the UAP Caucus'; Rep. Burlison is described as 'a member of the caucus' and later as 'a member of the so-called UAP Caucus in Congress.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2024-03-12",
+"eventDate": null,
+"id": "c-b65a75538e",
+"node": "uap-select-committee-proposal",
+"nodeLabel": "Proposed House Select Committee on UAP",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 March 2024",
+"url": null
+},
+"text": "Burchett led an earlier select committee effort under Speaker Kevin McCarthy that was lost when McCarthy lost the speakership.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2025-03-26",
+"eventDate": "2025-03",
+"id": "c-1bb90262ab",
+"node": "eric-burlison",
+"nodeLabel": "Eric Burlison",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill/NewsNation, 26 March 2025",
+"url": null
+},
+"text": "Hired David Grusch as a senior adviser on UAP issues for a four-month period beginning March 2025.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2026-06-29",
+"eventDate": "2026-06-25",
+"id": "c-4e7f5b1aa6",
+"node": "uap-disclosure-forum-2026",
+"nodeLabel": "Disclosure Forum 2026",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill/NewsNation, 29 June 2026",
+"url": null
+},
+"text": "Held 25 June 2026, sponsored by the Disclosure Foundation, billed as a first-of-its-kind gathering of lawmakers, UAP researchers and whistleblowers.",
+"tier": 2,
+"topic": "house-push-2026",
+"via": null
+},
+{
+"artefactDate": "2025-02-18",
+"eventDate": "2025-02-11",
+"id": "c-d1335c0a12",
+"node": "task-force-declassification-federal-secrets",
+"nodeLabel": "Task Force on the Declassification of Federal Secrets",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill (opinion), 18 February 2025",
+"url": null
+},
+"text": "Established 11 February 2025 by Chairman Comer; Comer and Luna sent letters to Rubio, Hegseth and Ratcliffe requesting a briefing on all UAP-related records in their possession.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-8512998988",
+"node": "icig-briefing-2024-01-12",
+"nodeLabel": "Closed ICIG UAP briefing to House Oversight members",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill, 12 January 2024",
+"url": null
+},
+"text": "Closed-door briefing at the Capitol lasting about 90 minutes at which ICIG Thomas Monheim spoke with House Oversight and Accountability Committee members, intended to improve transparency around the government's knowledge of UAP.",
+"tier": 2,
+"topic": "whistleblower-channels",
+"via": null
+},
+{
+"artefactDate": "2025-02-18",
+"eventDate": null,
+"id": "c-6c5b14008b",
+"node": "thomas-monheim",
+"nodeLabel": "Thomas A. Monheim",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Hill (opinion), 18 February 2025",
+"url": null
+},
+"text": "The internal watchdog overseeing the intelligence agencies deemed Grusch's allegations that UAP information was inappropriately concealed from Congress 'credible and urgent,' triggering mandatory notifications to the intelligence committees.",
+"tier": 2,
+"topic": "whistleblower-channels",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "media",
 "conflicts": [],

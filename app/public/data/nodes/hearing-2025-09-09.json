@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-e9cef2cc46",
+"meta": {
+"artefactDate": "2025-04-11",
+"claimant": "steven-greer",
+"claimantLabel": "Steven M. Greer",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Steven Greer: UFO Secrets Are Held By A Global Cabal', published 11 April 2025, at 2:32:28 to 2:33:21",
 "sources": [
 {
@@ -76,6 +85,15 @@
 },
 {
 "id": "c-d1a66ac2c6",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
+},
 "source": "CHRG-119hhrg61718, opening statement of Rep. Luna",
 "sources": [
 {
@@ -90,6 +108,15 @@
 },
 {
 "id": "c-c4dd62401b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
+},
 "source": "CHRG-119hhrg61718, colloquy between Rep. Burchett and George Knapp",
 "sources": [
 {
@@ -118,6 +145,15 @@
 },
 {
 "id": "c-d8a37809c2",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, House Oversight Task Force hearing, 9 September 2025",
 "sources": [
 {
@@ -132,6 +168,15 @@
 },
 {
 "id": "c-2d9f508a0b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight hearing wrap-up release, 9 September 2025",
 "sources": [
 {
@@ -188,6 +233,15 @@
 },
 {
 "id": "c-5d8f64bd09",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10-30",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "CHRG-119hhrg61718; DefenseScoop, 9 September 2025",
 "sources": [
 {
@@ -216,6 +270,15 @@
 },
 {
 "id": "c-0bea1751ec",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "dylan-borland",
+"claimantLabel": "Dylan Borland",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Serial No. 119-44, 9 September 2025",
 "sources": [
 {
@@ -244,6 +307,15 @@
 },
 {
 "id": "c-9d29dd8692",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {
@@ -286,6 +358,15 @@
 },
 {
 "id": "c-9cf2e25f93",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "hearing",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 9 September 2025",
 "sources": [
 {
@@ -300,6 +381,15 @@
 },
 {
 "id": "c-9a53ea6c4c",
+"meta": {
+"artefactDate": "2026-04-01",
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
+"eventDate": "2025-09-09",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "House Oversight press release, 1 April 2026, recounting the September 2025 testimony",
 "sources": [],
 "text": "Witnesses told the Task Force that AARO holds additional video records of potential UAP sightings.",
@@ -322,6 +412,15 @@
 },
 {
 "id": "c-00fe402ae8",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "hearing",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "DefenseScoop, 9 September 2025",
 "sources": [
 {
@@ -350,6 +449,15 @@
 },
 {
 "id": "c-e95ff1d79b",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": "2024-10",
+"route": "hearing",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "sources": [
 {
@@ -364,6 +472,15 @@
 },
 {
 "id": "c-b686095509",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "https://oversight.house.gov/release/hearing-wrap-up-government-must-be-more-transparent-about-uaps/",
 "sources": [
 {
@@ -378,6 +495,15 @@
 },
 {
 "id": "c-9b150c1f96",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": "2003",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "sources": [
 {
@@ -406,6 +532,15 @@
 },
 {
 "id": "c-aeb10cd3b9",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "jeffrey-nuccetelli",
+"claimantLabel": "Jeffrey Nuccetelli",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Jeffrey Nuccetelli, written testimony, 9 September 2025",
 "sources": [
 {
@@ -420,6 +555,15 @@
 },
 {
 "id": "c-6d29ba5e65",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": "2023-02-15",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Alexandro C. Wiggins, written statement, 9 September 2025",
 "sources": [
 {
@@ -434,6 +578,15 @@
 },
 {
 "id": "c-4ebf08e986",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, written testimony, 9 September 2025",
 "sources": [
 {
@@ -448,6 +601,15 @@
 },
 {
 "id": "c-a81511c283",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "dylan-borland",
+"claimantLabel": "Dylan Borland",
+"eventDate": "2023-03",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Dylan Borland, written testimony, 9 September 2025",
 "sources": [
 {

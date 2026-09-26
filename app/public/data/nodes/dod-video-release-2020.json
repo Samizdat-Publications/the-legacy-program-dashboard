@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-0d9e65cbcb",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2007",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement, 27 April 2020",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-c7312e1e9c",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement, 27 April 2020",
 "sources": [
 {

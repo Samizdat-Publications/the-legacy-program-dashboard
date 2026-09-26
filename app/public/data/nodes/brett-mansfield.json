@@ -18,6 +18,15 @@
 "claims": [
 {
 "id": "c-202c40f72a",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": "brett-mansfield",
+"claimantLabel": "Brett A. Mansfield",
+"eventDate": "2025",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
 "sources": [
 {
@@ -32,6 +41,15 @@
 },
 {
 "id": "c-cd39934a29",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": "brett-mansfield",
+"claimantLabel": "Brett A. Mansfield",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
 "sources": [
 {
@@ -46,6 +64,15 @@
 },
 {
 "id": "c-30d9b16898",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": "brett-mansfield",
+"claimantLabel": "Brett A. Mansfield",
+"eventDate": "2025",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
 "sources": [
 {
@@ -60,6 +87,15 @@
 },
 {
 "id": "c-ea4e357529",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": "brett-mansfield",
+"claimantLabel": "Brett A. Mansfield",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
 "sources": [
 {
@@ -85,6 +121,127 @@
 "text": "Consolidating 22 separately opined reporting entities into 7 and transferring the group auditor role to a contracted firm both reduce the granularity and the government-held provenance of the annual public audit record. Reasoning: fewer entities means fewer separate opinions published; a contractor group auditor holds the working papers under a commercial engagement rather than as federal records held by an Inspector General.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-05-13",
+"eventDate": "2025",
+"id": "c-202c40f72a",
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"route": "hearing",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+"text": "Mansfield testified on 13 May 2026 that unsupported adjustments totalled 'over $859 billion in the last two quarters of FY 25'.",
+"tier": 1,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2026-05-13",
+"eventDate": "2025",
+"id": "c-30d9b16898",
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"route": "hearing",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+"text": "He stated material weaknesses declined from 28 in FY2024 to 26 in FY2025, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years.",
+"tier": 1,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2026-05-13",
+"eventDate": null,
+"id": "c-6434210bbe",
+"node": "dow-financial-mgmt-hearing-2026",
+"nodeLabel": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"route": "hearing",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+"text": "Mansfield announced consolidation of reporting entities from 22 to 7 in FY2027 and transfer of the group auditor role to an independent public accounting firm with OIG oversight.",
+"tier": 1,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2026-05-13",
+"eventDate": null,
+"id": "c-84189a36fe",
+"node": "dow-financial-mgmt-hearing-2026",
+"nodeLabel": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"route": "hearing",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+"text": "Mansfield's statement records unsupported adjustments of 'over $859 billion in the last two quarters of FY 25' and more than $4.7 trillion in assets under management.",
+"tier": 1,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2026-05-13",
+"eventDate": null,
+"id": "c-86c8ca9dc8",
+"node": "dow-financial-mgmt-hearing-2026",
+"nodeLabel": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
+"route": "hearing",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+"text": "The hearing 'DoW Financial Management: Examining Progress and New Audit Approaches' was held by the House Committee on Oversight and Government Reform on 13 May 2026, with Deputy Inspector General Brett A. Mansfield testifying.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": "House Committee on Oversight and Government Reform"
+},
+{
+"artefactDate": "2026-05-13",
+"eventDate": null,
+"id": "c-cd39934a29",
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"route": "hearing",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+"text": "He stated the Department manages more than $4.7 trillion in assets.",
+"tier": 1,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2026-05-13",
+"eventDate": null,
+"id": "c-ea4e357529",
+"node": "brett-mansfield",
+"nodeLabel": "Brett A. Mansfield",
+"route": "hearing",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+"url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+},
+"text": "He stated that reporting entities will consolidate from 22 to 7 in FY2027 and that an independent public accounting firm will assume the group auditor role with OIG oversight.",
+"tier": 1,
+"topic": "unauditable-ledger",
+"via": null
 }
 ],
 "cls": "person",

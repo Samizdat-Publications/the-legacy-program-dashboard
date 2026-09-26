@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-b68da772df",
+"meta": {
+"artefactDate": "2024-10-30",
+"claimant": "norad-northcom",
+"claimantLabel": "NORAD and US Northern Command",
+"eventDate": "2023-12",
+"route": "press",
+"speaker": "unnamed NORAD commander, per The War Zone",
+"via": "The War Zone"
+},
 "source": "The War Zone, 30 October 2024",
 "sources": [],
 "text": "The NORAD commander publicly addressed the December 2023 unidentified incursions over Langley AFB in October 2024.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-1a9b0a82bb",
+"meta": {
+"artefactDate": "2024-03-15",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": "2023-12-06",
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "US Air Force / Langley AFB statement to The War Zone, 15 March 2024",
 "sources": [
 {
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-80b8f4ec61",
+"meta": {
+"artefactDate": "2024-10-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The War Zone",
+"via": null
+},
 "source": "The War Zone, 9 October 2024",
 "sources": [],
 "text": "Protective netting to shield F-22s was under consideration by October 2024.",

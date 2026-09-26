@@ -20,6 +20,15 @@
 },
 {
 "id": "c-6565f681f1",
+"meta": {
+"artefactDate": "1955-06-10",
+"claimant": "george-trimble",
+"claimantLabel": "George S. Trimble",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Dean Rickles (Edition Open Sources)"
+},
 "source": "Trimble to Bryce DeWitt, 10 June 1955, quoted by Dean Rickles in the Edition Open Sources edition of the 1957 conference report",
 "sources": [
 {
@@ -34,6 +43,15 @@
 },
 {
 "id": "c-2f8dab4fee",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Dean Rickles",
+"via": null
+},
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'",
 "sources": [
 {
@@ -48,6 +66,15 @@
 },
 {
 "id": "c-c5d1c6c08d",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Dean Rickles, 'The Chapel Hill Conference in Context'",
+"via": null
+},
 "source": "Dean Rickles, 'The Chapel Hill Conference in Context'; AIP catalog abstract for the Louis Witten oral history",
 "sources": [],
 "text": "Nothing read shows RIAS producing gravity-control results. The Chapel Hill participants recorded a concern about 'the absolute necessity to avoid identification with so-called anti-gravity research', and Witten's documented output is classical general relativity.",

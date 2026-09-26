@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-bae151092d",
+"meta": {
+"artefactDate": null,
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": "1961-07-01",
+"route": "document",
+"speaker": "Air Force Historical Research Agency lineage text, via the usafunithistory.com compilation",
+"via": "usafunithistory.com compilation"
+},
 "source": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
 "sources": [
 {

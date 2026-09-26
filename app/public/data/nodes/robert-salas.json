@@ -55,6 +55,15 @@
 "claims": [
 {
 "id": "c-f81789f8a6",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": "1996",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:58:13, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "sources": [
 {
@@ -69,6 +78,15 @@
 },
 {
 "id": "c-b63a0757d5",
+"meta": {
+"artefactDate": "2026-02-09",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Meet the Nuclear Missile Guard Abducted by Aliens', 9 February 2026, 0:19:06 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL9102178952.mp3?updated=1770679988",
 "sources": [
 {
@@ -111,6 +129,15 @@
 },
 {
 "id": "c-520d9b24e4",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": "1967-03-24",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
 "sources": [
 {
@@ -125,6 +152,15 @@
 },
 {
 "id": "c-a9a0ccd5f7",
+"meta": {
+"artefactDate": "2013-05-19",
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Kevin Randle, 'Robert Salas and Me', 19 May 2013, http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , opened 2026-09-19",
 "sources": [
 {
@@ -169,6 +205,15 @@
 },
 {
 "id": "c-6b82b1dcc5",
+"meta": {
+"artefactDate": "1996",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": "1967-03",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Salas, Great Falls Tribune interview (1996); signed affidavit published by Robert Hastings; 'Faded Giant' (2005)",
 "sources": [
 {
@@ -183,6 +228,15 @@
 },
 {
 "id": "c-03362a8602",
+"meta": {
+"artefactDate": "1996-10-01",
+"claimant": "frederick-meiwald",
+"claimantLabel": "Col. Frederick Meiwald",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "ufohastings.com"
+},
 "source": "ufohastings.com, 'Letters' section, meiwald_letter_10-1-1996",
 "sources": [],
 "text": "Col. Frederick Meiwald, Salas's commander, wrote to Salas on 1 October 1996 concerning the incident; the letter is published in facsimile.",
@@ -191,11 +245,209 @@
 },
 {
 "id": "c-e0f961b006",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": "Robert Hastings (ufohastings.com)"
+},
 "source": "ufohastings.com, 'Witness Affidavits', salas_01 and salas_02",
 "sources": [],
 "text": "Salas signed an affidavit on the incident which Robert Hastings publishes in facsimile.",
 "tier": 2,
 "unresolved": "a proposed reading (url:ufohastings.com/documents) was rejected in review: cannot tell the Affidavits section is the documents page"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2010-09-27",
+"eventDate": null,
+"id": "c-831f19c872",
+"node": "d-nuc",
+"nodeLabel": "Nuclear Weapons Complex Nexus",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "CNN coverage, National Press Club, 27 September 2010",
+"url": null
+},
+"text": "Robert Salas and other former missile officers stated publicly at a National Press Club event on 27 September 2010 that UFOs were observed in connection with nuclear missile disruptions.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": "CNN"
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": "1967-10-19",
+"id": "c-3867c916ed",
+"node": "condon-committee",
+"nodeLabel": "University of Colorado UFO Project (Condon Committee)",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:33:36 and 0:34:29, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:33:36, Robert Salas read on air from what he presents as the Colorado project's own record: 'The following interview conducted by Roy Craig, was Lieutenant Colonel Lewis D. Chase, who is chief of the operations division at Malstrom Air Force Base, Montana. The interview is being conducted at Malmstrom on October 19, 1967.' Salas says Chase had earlier confirmed in writing that he coordinated on the UFO activity and then denied the connection to Craig in this interview.",
+"tier": 2,
+"topic": "condon-1966-69",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": null,
+"id": "c-406816afbc",
+"node": "robert-low",
+"nodeLabel": "Robert J. Low",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:38:48 and 0:42:21, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:38:48 and 0:42:21, Robert Salas said he holds a handwritten note by Low recording that Low had spoken to the Air Force colonel the caption renders as 'Hitler', and that the colonel said the Air Force thought EMP from nuclear testing caused the Malmstrom shutdowns and that the matter was probably too highly classified for the Colorado project to look at. Salas says twice 'I've got it in writing'. The note is not published and was not opened here.",
+"tier": 2,
+"topic": "condon-1966-69",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": "1949",
+"id": "c-8de07fdd20",
+"node": "edward-condon",
+"nodeLabel": "Edward U. Condon",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:07:14 to 1:10:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 1:07:14 and 1:08:25, Robert Salas said that in 1949 J. Edgar Hoover wrote a letter to Congress identifying Condon as, in Salas's own paraphrase, nothing less than a Russian spy; that he holds a copy; that Condon had earlier been asked to resign from the Manhattan Project over an unspecified security issue; and, at 1:09:15 to 1:10:08, that Lewis Branscomb urged Condon in about 1966 to take the Air Force UFO study as a route back to a security clearance. Salas twice says he does not know the details.",
+"tier": 2,
+"topic": "condon-1966-69",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "1996",
+"eventDate": "1967-03",
+"id": "c-6b82b1dcc5",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Salas, Great Falls Tribune interview (1996); signed affidavit published by Robert Hastings; 'Faded Giant' (2005)",
+"url": null
+},
+"text": "Salas states that while on duty in a Minuteman launch control capsule at Malmstrom in March 1967 he received a report from topside security police of a glowing red object over the front gate, and that his flight's missiles then went off alert.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": "1967-03",
+"id": "c-0181233d08",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:28:33, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:28:33, Robert Salas said one of the documents received from the Air Force is a telex about the Echo Flight shutdown which names by name two individuals working for Boeing, in which SAC headquarters demanded a complete investigation and used the words 'this is of grave concern'. Salas says 'I've got that telex.' This is a different document from the 17 March 1967 Air Force teletype the board already cites.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": "1967-03",
+"id": "c-60db0a6a81",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:39:39",
+"url": null
+},
+"text": "At 0:39:39 Salas said he and James Klotz checked with the Department of Energy, cognizant of nuclear testing in Nevada, and that 'There were no nuclear tests on March 16th or March 24th', which on his account removes the nuclear-EMP explanation on the government's own records. He names no document number for the check.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": "1967-03",
+"id": "c-693c2d91a4",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:44:54 to 0:47:25",
+"url": null
+},
+"text": "At 0:44:54 to 0:47:25 Salas described the Boeing bench-test result: an injected electrical signal of a given frequency, voltage and duration could make one guidance and control system shut down, but the testers 'had no idea on how that could be injected into this each missile separately within seconds'; the cable run was about eight to nine inches in diameter and 'triply shielded against EMI'; the report concluded an external signal caused the shutdowns while stating they could not explain how it got in; and Salas says he and James Klotz later reached the two named testers, who repeated that they could not explain it.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": null,
+"id": "c-b7ba0803d5",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:32:01, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:32:01, Robert Salas said that Ray Fowler was a manager under Sylvania Corporation, which held the contract for the electrical systems at Malmstrom, that Fowler's own contractor staff reported seeing the objects and being involved in the missile shutdowns, and that Fowler passed this to Roy Craig, the Colorado project's chief investigator, with names, dates, places and telephone numbers. Salas presents this as the reason Craig travelled to Malmstrom, and says at 0:32:49 that he holds the Chase interview on audio tape.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-12",
+"eventDate": "1996",
+"id": "c-f81789f8a6",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:58:13, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599"
+},
+"text": "On American Alchemy with Jesse Michels, 12 July 2025, at 0:58:13, Salas said he did not learn his own incident was at Oscar Flight rather than Echo Flight until 1996, when he reached his former commander Fred Meiwald, who told him 'we were not at Echo Flight. We were at Oscar flight'. Salas says he had spoken of the Echo Flight incident as his own because it was so similar to what he recalled. This is his own account of the discrepancy the board's node already records.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-e0f961b006",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "ufohastings.com, 'Witness Affidavits', salas_01 and salas_02",
+"url": null
+},
+"text": "Salas signed an affidavit on the incident which Robert Hastings publishes in facsimile.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "Robert Hastings (ufohastings.com)"
 }
 ],
 "cls": "person",

@@ -33,6 +33,15 @@
 "claims": [
 {
 "id": "c-7d8964cae3",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "David Fravor, written statement to House Oversight, 26 July 2023 (corroborating the Princeton radar picture Day ran)",
 "sources": [],
 "text": "Princeton tracked the objects on Aegis for roughly two weeks before the intercept, observing descents from above 80,000 ft to 20,000 ft.",

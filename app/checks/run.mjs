@@ -15,7 +15,11 @@
  * by section, every event named) and added C50 to C53: the directories, their
  * person facets against research/_person_facets.json, search over everything
  * with its keys, and the timeline's panel, counts, repeats, scopes and strand
- * filter. All against the built app served by `npm run preview`.
+ * filter. Redesign phase 10 added C60 to C63: the claims a person made (and an
+ * office's statements) against research/_claim_meta.json, the questions against
+ * research/questions/, Connect on the eight test pairs, and the "How to read a
+ * claim" wording wherever the key renders. All against the built app served by
+ * `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -70,6 +74,23 @@ const DOMAIN_FOCUS = 'd-roswell';
 const SOURCE_FOCUS = 'gao-nsiad-95-187';
 const LIB_FILTER = '#/library?type=report&ip=0';
 const LIB_SEARCH = 'roswell';
+
+/* Phase 10. The eight pairs a reader asks for, from
+   notes/redesign-2026-09-24/B-GRAPH-STRUCTURE.md section 7, written out here
+   rather than imported from the page. AARO's Historical Record Volume I lies on a
+   shortest path for seven of them; Connect must not give it as the first route
+   unless every route runs through it, and then must say so. */
+const CONNECT_PAIRS = [
+  ['david-grusch', 'lockheed-skunk-works'], ['aawsap', 'uapda-2023'],
+  ['roswell-1947', 'hearing-2023-07-26'], ['bob-lazar', 'aaro'],
+  ['project-blue-book', 'aaro'], ['salvatore-pais', 'lockheed-skunk-works'],
+  ['robert-salas', 'aaro'], ['eric-davis', 'lockheed-martin'],
+];
+const VOL1 = 'aaro-historical-record-vol1';
+const OFFICE_FOCUS = 'aaro';
+/* The key wording decision of notes/plans/P10-claimants-questions-connect.md, final. */
+const READ_T1_WORDS = "Tier 1 means the record is documented. For a statement marked 'said on the record', " +
+  'what is documented is that it was said, not that it is true.';
 
 /* ---- C31's rule, restated ------------------------------------------------ */
 /* app/src/attrib.ts decides which Tier 1 claims record that something was SAID.
@@ -158,6 +179,82 @@ function pairsOverlapping(boxes, cap = 6) {
 /* Everything below runs in the page. They read the DOM and nothing else. */
 
 const IN_PAGE = {
+  /* Phase 10: the claims a node MADE, as drawn (C60). */
+  made() {
+    const box = document.querySelector('.node .made');
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    return {
+      present: !!box,
+      head: box ? txt(box.querySelector('.sechead .eyebrow')) : '',
+      groups: Array.prototype.map.call(box ? box.querySelectorAll('.made-group') : [], (g) => ({
+        topic: g.getAttribute('data-topic') || '',
+        rows: Array.prototype.map.call(g.querySelectorAll('.made-row'), (r) => ({
+          cid: r.getAttribute('data-cid'), date: r.getAttribute('data-date') || null,
+          route: r.getAttribute('data-route'), when: txt(r.querySelector('.mwhen')),
+          text: txt(r.querySelector('.mtext')),
+        })),
+      })),
+    };
+  },
+
+  /* Phase 10: the questions list, and one question, as drawn (C61). */
+  qlist() {
+    return Array.prototype.map.call(document.querySelectorAll('.questions ol.qlist li.qrow'), (li) => {
+      const a = li.querySelector('a.qrow-title');
+      return { id: li.getAttribute('data-id'), href: a ? a.getAttribute('href') : null, title: a ? (a.textContent || '').trim() : '' };
+    });
+  },
+  question() {
+    const root = document.querySelector('.question');
+    const blk = (b) => Array.prototype.map.call(document.querySelectorAll('.question [data-block="' + b + '"] .ti'), (ti) => ({
+      text: ((ti.querySelector('.ti-text') || {}).textContent || ''),
+      cites: Array.prototype.map.call(ti.querySelectorAll('.cites .cite'), (c) => ({ cid: c.getAttribute('data-cid'), kind: c.getAttribute('data-kind') })),
+    }));
+    return {
+      present: !!root, id: root ? root.getAttribute('data-id') : null,
+      title: ((document.querySelector('.question h1') || {}).textContent || '').trim(),
+      answer: blk('answer'), for: blk('for'), against: blk('against'),
+      open: document.querySelectorAll('.question [data-block="open"] li').length,
+      threads: Array.prototype.map.call(document.querySelectorAll('.question .q-thread'), (t) => ({
+        id: t.getAttribute('data-thread'), steps: t.querySelectorAll('.q-step').length,
+        cites: t.querySelectorAll('.cite').length })),
+      homeQ: [],
+    };
+  },
+  homeQuestions() {
+    return Array.prototype.map.call(document.querySelectorAll('.home-questions a.home-q'), (a) => a.getAttribute('href'));
+  },
+
+  /* Phase 10: a Connect page as drawn (C62). */
+  connect() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    const only = document.querySelector('.connect-onlyhub');
+    return {
+      a: (document.querySelector('.connect') || { getAttribute: () => null }).getAttribute('data-a'),
+      b: (document.querySelector('.connect') || { getAttribute: () => null }).getAttribute('data-b'),
+      only: only ? { hubs: (only.getAttribute('data-hubs') || '').split(' ').filter(Boolean), text: txt(only) } : null,
+      none: !!document.querySelector('.connect-none'),
+      routes: Array.prototype.map.call(document.querySelectorAll('.connect .croute'), (r) => {
+        const hub = r.querySelector('.croute-hub');
+        return {
+          mids: (r.getAttribute('data-mids') || '').split(' ').filter(Boolean),
+          hub: hub ? { hubs: (hub.getAttribute('data-hubs') || '').split(' ').filter(Boolean), text: txt(hub) } : null,
+          hops: Array.prototype.map.call(r.querySelectorAll('li.chop'), (li) => ({
+            edge: li.getAttribute('data-edge'), from: li.getAttribute('data-from'), to: li.getAttribute('data-to'),
+            verb: txt(li.querySelector('.chop-verb')), text: txt(li.querySelector('.chop-text')),
+            tier: txt(li.querySelector('.chop-tier')), src: !!li.querySelector('.chop-src summary'),
+          })),
+        };
+      }),
+    };
+  },
+
+  /* Phase 10: every rendering of the claim key, and whether it carries the wording (C63). */
+  readKey() {
+    const keys = Array.prototype.slice.call(document.querySelectorAll('.said-key, .home-tiers'));
+    return keys.map((k) => ({ cls: k.className, words: ((k.querySelector('.said-read') || {}).textContent || '').replace(/\s+/g, ' ').trim() }));
+  },
+
   /* the not-found page names the route it was given; that is how it is spotted */
   page() {
     const h2 = document.querySelector('.notice h2');
@@ -657,9 +754,15 @@ const IN_PAGE = {
     } else if (kind === 'source') {
       out.have = all('.src-claims .src-claim-text').filter((e) => seen(e, 150) && txt(e)).length;
       out.what = 'claims citing the source readable';
-    } else if (kind === 'topic') {
+    } else if (kind === 'topic' || kind === 'question') {
       out.have = all('.topic .ti .ti-text').filter((e) => seen(e, 150) && txt(e)).length;
-      out.what = 'topic sentences readable';
+      out.what = kind + ' sentences readable';
+    } else if (kind === 'questions') {
+      out.have = all('.qlist a.qrow-title').filter((e) => seen(e) && txt(e)).length;
+      out.what = 'questions named';
+    } else if (kind === 'connect') {
+      out.have = all('.croute .chop-text').filter((e) => seen(e, 150) && txt(e)).length;
+      out.what = 'route steps readable';
     }
     return out;
   },
@@ -1606,9 +1709,9 @@ const POISONS = {
   },
   c52: {
     stops: ['search52'],
-    what: 'takes the topic rows out of the search list, and marks a row the keys did not reach',
+    what: 'takes the topic and question rows out of the search list, and marks a row the keys did not reach',
     fn: async (page) => page.evaluate(() => {
-      for (const r of document.querySelectorAll('.results a.res[data-type="topic"]')) r.remove();
+      for (const r of document.querySelectorAll('.results a.res[data-type="topic"], .results a.res[data-type="question"]')) r.remove();
     }),
   },
   c53: {
@@ -1621,6 +1724,46 @@ const POISONS = {
       if (a) a.remove();
       const t = document.querySelector('.tl-detail .tl-d-text');
       if (t) t.textContent = 'x';
+    }),
+  },
+  c60: {
+    stops: ['person'],
+    what: "drops one of the claims Grusch made from his page and redates another",
+    fn: async (page) => page.evaluate(() => {
+      const rows = document.querySelectorAll('.node .made .made-row');
+      if (rows.length < 2) return;
+      rows[0].remove();
+      rows[1].setAttribute('data-date', '1901');
+      const w = rows[1].querySelector('.mwhen');
+      if (w) w.textContent = '1901 at a hearing';
+    }),
+  },
+  c61: {
+    stops: ['q'],
+    what: 'takes the evidence against off a question page',
+    fn: async (page) => page.evaluate(() => {
+      const b = document.querySelector('.question [data-block="against"]');
+      if (b) b.remove();
+    }),
+  },
+  c62: {
+    stops: ['connect:0'],
+    what: "reroutes the first route through AARO's Historical Record Volume I and drops the hub warnings",
+    fn: async (page) => page.evaluate(() => {
+      const r = document.querySelector('.connect .croute');
+      if (!r) return;
+      const hops = r.querySelectorAll('li.chop');
+      r.setAttribute('data-mids', 'aaro-historical-record-vol1');
+      if (hops[0]) hops[0].setAttribute('data-to', 'aaro-historical-record-vol1');
+      if (hops[1]) hops[1].setAttribute('data-from', 'aaro-historical-record-vol1');
+      for (const x of document.querySelectorAll('.croute-hub, .connect-onlyhub')) x.remove();
+    }),
+  },
+  c63: {
+    stops: ['evidence'],
+    what: 'takes the Tier 1 reading off the key to the marks on the evidence explorer',
+    fn: async (page) => page.evaluate(() => {
+      for (const x of document.querySelectorAll('.said-key .said-read')) x.remove();
     }),
   },
   c20: {
@@ -1685,7 +1828,7 @@ async function main() {
   };
   let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
       claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec,
-      topicsFile, vocabFile, domainRec, topicRecs, libFile, srcRec, wrapRec;
+      topicsFile, vocabFile, domainRec, topicRecs, libFile, srcRec, wrapRec, questionsFile;
   try {
     [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec, vocabFile] =
@@ -1708,6 +1851,7 @@ async function main() {
     wrapRec = wrapRow ? await jget('data/sources/' + wrapRow.id + '.json') : null;
     topicRecs = Object.fromEntries(await Promise.all(topicsFile.topics.map(async (t) =>
       [t.id, await jget('data/topics/' + t.id + '.json')])));
+    questionsFile = await jget('data/questions.json').catch(() => ({ questions: [] }));
   } catch (e) {
     console.error('HARNESS: the app is not being served at ' + APP + ' (' + e.message +
       (e.cause ? ': ' + (e.cause.code || e.cause.message || e.cause) : '') + ').');
@@ -1786,6 +1930,8 @@ async function main() {
   S.home.starthere = await ev(IN_PAGE.starthere);
   S.home.home = await ev(IN_PAGE.home);
   S.home.sections = await ev(IN_PAGE.homeSections);
+  S.home.key = await ev(IN_PAGE.readKey);
+  S.home.questions = await ev(IN_PAGE.homeQuestions);
 
   await stop('node', '#/n/' + NODE_FOCUS, 1200);
   S.node.node = await ev(IN_PAGE.node);
@@ -1801,6 +1947,30 @@ async function main() {
   S.person.said = await ev(IN_PAGE.said, '.claim');
   S.person.appears = await ev(IN_PAGE.appears);
   S.person.links = await ev(IN_PAGE.claimLinks, '.claim[data-cid]');
+  S.person.made = await ev(IN_PAGE.made);
+  S.person.key = await ev(IN_PAGE.readKey);
+
+  /* phase 10: an office's statements, the questions, Connect on the eight pairs */
+  const QFIRST = (questionsFile.questions || []).slice().sort((a, b) => a.order - b.order)[0];
+  if (!POISON || POISON === 'c60') {
+    await stop('office', '#/n/' + OFFICE_FOCUS, 1400);
+    S.office.made = await ev(IN_PAGE.made);
+  }
+  if (!POISON || POISON === 'c61' || POISON === 'c63') {
+    await stop('questions', '#/questions', 1200);
+    S.questions.list = await ev(IN_PAGE.qlist);
+    if (QFIRST) {
+      await stop('q', '#/q/' + QFIRST.id, 1400);
+      S.q.q = await ev(IN_PAGE.question);
+      S.q.key = await ev(IN_PAGE.readKey);
+    }
+  }
+  if (!POISON || POISON === 'c62') {
+    for (let i = 0; i < CONNECT_PAIRS.length; i++) {
+      await stop('connect:' + i, '#/connect/' + CONNECT_PAIRS[i][0] + '/' + CONNECT_PAIRS[i][1], 1800);
+      S['connect:' + i].connect = await ev(IN_PAGE.connect);
+    }
+  }
 
   /* phase 6: the topic pages, a research gap, an absorbed domain node, the Atlas */
   await stop('topic', '#/topic/' + TOPIC_A, 1400);
@@ -1878,6 +2048,7 @@ async function main() {
   S.evidence.den = await page.evaluate(() =>
     Array.from(document.querySelectorAll('td.c-den')).map((td) => (td.textContent || '').trim()));
   S.evidence.said = await ev(IN_PAGE.said, '.ev-table tbody tr[data-cid]');
+  S.evidence.key = await ev(IN_PAGE.readKey);
   /* phase 8: the Library, unfiltered, filtered and searched, and two source pages */
   await stop('library', '#/library', 1600);
   S.library.lib = await ev(IN_PAGE.library);
@@ -1894,6 +2065,7 @@ async function main() {
   await stop('report', '#/report/n/' + NODE_FOCUS, 1600);
   S.report.rconns = await ev(IN_PAGE.rconns);
   S.report.said = await ev(IN_PAGE.said, '.report ol.rclaims li');
+  S.report.key = await ev(IN_PAGE.readKey);
 
   /* the map again, at the width Design says is below the label floor */
   await page.setViewportSize({ width: 1366, height: 768 });
@@ -1920,6 +2092,9 @@ async function main() {
     ['atlas', '#/atlas'], ['topic', '#/topic/' + TOPIC_A],
     ['people', '#/people'], ['events', '#/events'],
     ['library', '#/library'], ['source', '#/s/' + SOURCE_FOCUS],
+    ['questions', '#/questions'], ['connect', '#/connect/' + CONNECT_PAIRS[1][0] + '/' + CONNECT_PAIRS[1][1]],
+    ...((questionsFile.questions || []).length
+      ? [['question', '#/q/' + (questionsFile.questions || []).slice().sort((a, b) => a.order - b.order)[0].id]] : []),
   ];
   const settleOf = (hash) => hash.startsWith('#/evidence') ? 3200
     : /^#\/(map|timeline)/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
@@ -2097,6 +2272,9 @@ async function main() {
     '#/people', '#/people?claimant=yes&sort=name', '#/orgs?era=1', '#/programmes', '#/laws', '#/places', '#/events',
     '#/timeline?topic=' + TOPIC_A, '#/timeline?strand=witness',
     '#/library', LIB_FILTER, '#/s/' + SOURCE_FOCUS,
+    '#/questions', '#/connect', '#/connect/' + CONNECT_PAIRS[0][0],
+    '#/connect/' + CONNECT_PAIRS[0][0] + '/' + CONNECT_PAIRS[0][1],
+    ...(questionsFile.questions || []).slice(0, 1).map((q) => '#/q/' + q.id),
   ];
   const deadRoutes = [];
   const sweepRoutes = !POISON || POISON === 'c9' || POISON === 'c17';
@@ -2264,6 +2442,13 @@ async function main() {
       await type(tA.title);
       await poisonAt(p, 'search52');
       SEARCH.topic = { q: tA.title, rows: await rowsNow() };
+      /* the merge of phases 9 and 10: a question's own title finds the question */
+      const qA = (questionsFile.questions || []).slice().sort((a, b) => a.order - b.order)[0];
+      if (qA) {
+        await type(qA.title);
+        await poisonAt(p, 'search52');
+        SEARCH.question = { id: qA.id, q: qA.title, rows: await rowsNow() };
+      }
       await type('people');
       SEARCH.dir = await rowsNow();
       await type('roswell');
@@ -2709,6 +2894,10 @@ async function main() {
       /* phase 8 */
       if (p[0] === 'library') return p.length === 1;
       if (p[0] === 's') return p.length === 2 && ID.test(p[1]);
+      /* phase 10 */
+      if (p[0] === 'questions') return p.length === 1;
+      if (p[0] === 'q') return p.length === 2 && ID.test(p[1]);
+      if (p[0] === 'connect') return p.length === 1 || (p.length <= 3 && p.slice(1).every((x) => ID.test(x)));
       return false;
     };
     const seen = new Set(), offScheme = [], deadIds = [];
@@ -2723,6 +2912,8 @@ async function main() {
         if (p[0] === 'patents' && !patentNums.has(p[1].replace(/[^0-9]/g, ''))) deadIds.push(k + ':' + h);
         if (p[0] === 'topic' && !topicIds.has(p[1])) deadIds.push(k + ':' + h);
         if (p[0] === 's' && !sourceIds.has(p[1])) deadIds.push(k + ':' + h);
+        if (p[0] === 'q' && !(questionsFile.questions || []).some((q) => q.id === p[1])) deadIds.push(k + ':' + h);
+        if (p[0] === 'connect' && p.slice(1).some((x) => x && !ids.has(x))) deadIds.push(k + ':' + h);
       }
     }
     check('c9', offScheme.length === 0, 'C9  every rendered in-app href is a route in the 2.1 scheme',
@@ -3423,7 +3614,7 @@ async function main() {
      opens to them and #/map still draws the map. */
   {
     const ROW = ['HOME', 'ATLAS', 'TIMELINE', 'EVIDENCE', 'PATENTS'];
-    const MOREL = ['DIRECTORIES', 'MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT', 'LIBRARY'];
+    const MOREL = ['DIRECTORIES', 'QUESTIONS', 'CONNECT', 'MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT', 'LIBRARY'];
     const bad = [];
     let n = 0;
     for (const [k, s] of Object.entries(S)) {
@@ -3437,7 +3628,7 @@ async function main() {
       const atlas = s.nav.primary.find((x) => x.label === 'ATLAS');
       if (!atlas || atlas.href !== '#/atlas') bad.push(k + ': ATLAS is not #/atlas');
     }
-    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and DIRECTORIES MAP THREADS NEIGHBOURHOOD REPORT LIBRARY under More',
+    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and DIRECTORIES QUESTIONS CONNECT MAP THREADS NEIGHBOURHOOD REPORT LIBRARY under More',
       bad.length ? clip(bad, 2) : `${n} screens`);
     if (MORE) {
       const unreach = MORE.open.filter((x) => x.href && !x.reachable).map((x) => x.label);
@@ -3698,6 +3889,164 @@ async function main() {
       `${t.marks} unnamed marks · ${unnamed.length} chips without text`);
   }
 
+  /* ---- C60 -------------------------------------------------------------- */
+  /* The claims a node made, on its page, against research/_claim_meta.json read
+     off the disk: exactly the rows naming it as claimant, each with the side-car's
+     artefact date and route, each topic one group. */
+  {
+    const ROOT = resolve(dirname(SELF), '..', '..');
+    let side = null;
+    try { side = JSON.parse(readFileSync(resolve(ROOT, 'research', '_claim_meta.json'), 'utf8')).claims; } catch { side = null; }
+    const ROUTE_WORD = { hearing: 'at a hearing', broadcast: 'in a broadcast', interview: 'in an interview', book: 'in a book',
+      filing: 'in a filing', press: 'in the press', document: 'in a document' };
+    for (const [stopId, nid, head] of [['person', PERSON_FOCUS, 'Claims this person has made'], ['office', OFFICE_FOCUS, 'Statements by this office']]) {
+      const m = S[stopId] && S[stopId].made;
+      if (!m) { skip('C60 ' + nid + ' shows the claims it made', 'poison ' + POISON + ' does not walk it'); continue; }
+      if (!side) { check('c60', false, 'C60 research/_claim_meta.json is readable', 'missing'); continue; }
+      const want = Object.entries(side).filter(([, r]) => r.claimant === nid);
+      const rows = m.groups.flatMap((g) => g.rows);
+      const got = new Map(rows.map((r) => [r.cid, r]));
+      const miss = want.filter(([i]) => !got.has(i)).map(([i]) => i);
+      const extra = rows.filter((r) => !side[r.cid] || side[r.cid].claimant !== nid).map((r) => r.cid);
+      const wrong = want.filter(([i, r]) => {
+        if (!got.has(i)) return false;
+        const g = got.get(i);
+        return (g.date || '') !== (r.artefactDate || '') || g.route !== r.route ||
+          !g.when.includes(ROUTE_WORD[r.route]) || (r.artefactDate && !g.when.startsWith(r.artefactDate));
+      }).map(([i]) => i);
+      const topics = m.groups.map((g) => g.topic);
+      const twice = topics.filter((t, k) => topics.indexOf(t) !== k);
+      check('c60', want.length > 0 && m.present && m.head === head && !miss.length && !extra.length && !wrong.length && !twice.length,
+        `C60 #/n/${nid} shows "${head}": exactly the ${want.length} claims the side-car gives it, each dated and routed, one group per topic`,
+        `${rows.length} rows, ${m.groups.length} topics` + (miss.length ? '; missing ' + clip(miss, 2) : '') +
+        (extra.length ? '; not its ' + clip(extra, 2) : '') + (wrong.length ? '; date or route wrong ' + clip(wrong, 2) : '') +
+        (twice.length ? '; topic twice ' + clip(twice, 2) : '') + (m.head !== head ? '; heading "' + m.head + '"' : ''));
+    }
+  }
+
+  /* ---- C61 -------------------------------------------------------------- */
+  /* The questions against research/questions/ read off the disk: the list is
+     every question in order; Home links each; one question page draws its answer,
+     the case for and the case against with every cite resolved, its open
+     questions and each thread it folds in with that thread's steps. */
+  {
+    const ROOT = resolve(dirname(SELF), '..', '..');
+    let qs = [];
+    try {
+      const { readdirSync } = await import('node:fs');
+      qs = readdirSync(resolve(ROOT, 'research', 'questions')).filter((f) => f.endsWith('.json') && !f.startsWith('_'))
+        .map((f) => JSON.parse(readFileSync(resolve(ROOT, 'research', 'questions', f), 'utf8')))
+        .sort((a, b) => a.order - b.order);
+    } catch { qs = []; }
+    if (!S.questions) skip('C61 the questions', 'poison ' + POISON + ' does not walk them');
+    else {
+      const want = qs.map((q) => q.id);
+      const got = S.questions.list.map((r) => r.id);
+      const links = S.questions.list.every((r) => r.href === '#/q/' + r.id && r.title);
+      check('c61', want.length >= 8 && got.join('|') === want.join('|') && links,
+        'C61 #/questions lists every question in research/questions/, in order, each linking its page',
+        `${got.length} listed, ${want.length} authored`);
+      const home = S.home.questions || [];
+      check('c61', want.length > 0 && home.join('|') === want.map((i) => '#/q/' + i).join('|'),
+        'C61 Home\'s big questions link every question, in order', `${home.length} links for ${want.length} questions`);
+      const q = S.q && S.q.q;
+      const rec = q && qs.find((x) => x.id === q.id);
+      if (!q || !rec) check('c61', false, 'C61 a question page draws its record', 'no question page reached');
+      else {
+        const bad = [];
+        const cmp = (k, list) => {
+          const items = (k === 'answer' ? [rec.lead, ...(rec.answer || [])] : rec[k] || []).filter(Boolean);
+          if (list.length !== items.length) bad.push(`${k}: ${list.length} drawn, ${items.length} authored`);
+          items.forEach((it, i) => {
+            const d = list[i];
+            if (!d) return;
+            if (!d.text.startsWith(it.text)) bad.push(`${k}[${i}] text differs`);
+            const cids = d.cites.map((c) => c.cid);
+            if (cids.join('|') !== (it.cite || []).join('|')) bad.push(`${k}[${i}] cites ${cids.length} of ${(it.cite || []).length}`);
+            if (d.cites.some((c) => c.kind === 'missing' || !c.kind)) bad.push(`${k}[${i}] a cite does not resolve`);
+          });
+        };
+        cmp('answer', q.answer); cmp('for', q.for); cmp('against', q.against);
+        if (!(rec.against || []).length) bad.push('the record has no case against');
+        if (q.open !== (rec.open || []).length) bad.push(`open: ${q.open} drawn, ${(rec.open || []).length} authored`);
+        const thr = (threadsFile.threads || threadsFile);
+        for (const t of rec.threads || []) {
+          const d = q.threads.find((x) => x.id === t.id);
+          const steps = (thr.find((x) => x.id === t.id) || { steps: [] }).steps.length;
+          if (!d || d.steps !== steps || d.cites < (t.cite || []).length) bad.push(`thread ${t.id}: ${d ? d.steps + ' steps' : 'not drawn'} of ${steps}`);
+        }
+        check('c61', bad.length === 0 && q.title === rec.title,
+          `C61 #/q/${rec.id} draws its answer, the case for and against with every cite resolved, its open questions and its threads`,
+          bad.length ? clip(bad, 3) : `${q.for.length} for, ${q.against.length} against, ${q.threads.length} threads`);
+      }
+    }
+  }
+
+  /* ---- C62 -------------------------------------------------------------- */
+  /* Connect on the eight pairs: every route is a chain of real links from one end
+     to the other, every step prints its words, sentence, tier and sources; a route
+     through one of the twenty most-connected nodes says so; AARO's Historical
+     Record Volume I is never the first route unless it is on every route, and
+     then the page says so. */
+  {
+    const edgeById = new Map(edges.map((e) => [e.id, e]));
+    const hubs = new Set(index.nodes.slice().sort((x, y) => (y.deg || 0) - (x.deg || 0) || (x.id < y.id ? -1 : 1)).slice(0, 20).map((n) => n.id));
+    let n = 0;
+    for (let i = 0; i < CONNECT_PAIRS.length; i++) {
+      const c = S['connect:' + i] && S['connect:' + i].connect;
+      if (!c) continue;
+      n++;
+      const [a, b] = CONNECT_PAIRS[i];
+      const bad = [];
+      if (!c.routes.length) bad.push('no route drawn');
+      c.routes.forEach((r, k) => {
+        let at = a;
+        for (const hp of r.hops) {
+          const e = edgeById.get(hp.edge);
+          if (!e || !((e.a === hp.from && e.b === hp.to) || (e.b === hp.from && e.a === hp.to))) bad.push(`route ${k + 1}: ${hp.edge} is not a link ${hp.from}-${hp.to}`);
+          if (hp.from !== at) bad.push(`route ${k + 1}: breaks at ${at}`);
+          at = hp.to;
+          if (!hp.verb || !hp.text || !/^T[123]$/.test(hp.tier) || !hp.src) bad.push(`route ${k + 1}: a step without its words, sentence, tier or sources`);
+          if (e && hp.tier !== 'T' + e.tier) bad.push(`route ${k + 1}: ${hp.edge} printed ${hp.tier}, the link is T${e.tier}`);
+        }
+        if (at !== b) bad.push(`route ${k + 1}: ends at ${at}, not ${b}`);
+        const mids = r.hops.slice(0, -1).map((hp) => hp.to);
+        if (mids.join(' ') !== r.mids.join(' ')) bad.push(`route ${k + 1}: its stated intermediates are not its steps`);
+        const hh = mids.filter((m) => hubs.has(m));
+        if (hh.length && (!r.hub || hh.some((m) => !r.hub.hubs.includes(m)))) bad.push(`route ${k + 1}: runs through ${hh.join(', ')} and does not say so`);
+      });
+      const first = c.routes[0];
+      const everyVol1 = c.routes.length > 0 && c.routes.every((r) => r.mids.includes(VOL1));
+      if (first && first.mids.includes(VOL1) && !everyVol1) bad.push('AARO Volume I is the first route but not the only one');
+      if (everyVol1 && !(c.only && c.only.hubs.includes(VOL1))) bad.push('every route runs through AARO Volume I and the page does not say so');
+      const allHub = c.routes.length > 0 && c.routes.every((r) => r.mids.some((m) => hubs.has(m)));
+      if (allHub && !c.only) bad.push('every route runs through a connector hub and the page does not say so');
+      check('c62', bad.length === 0,
+        `C62 #/connect/${a}/${b}: real links end to end, hubs named, AARO Volume I not the answer unless it is the only route`,
+        bad.length ? clip(bad, 3) : c.routes.map((r) => r.mids.join(' > ') || 'direct').join(' | '));
+    }
+    if (!n) skip('C62 Connect on the eight pairs', 'poison ' + POISON + ' does not drive it');
+  }
+
+  /* ---- C63 -------------------------------------------------------------- */
+  /* The key wording, final, wherever the key renders: Home's "How to read a
+     claim", and every key to the marks (node, evidence, report, question). */
+  {
+    const bad = [];
+    let seen = 0;
+    for (const k of ['home', 'person', 'evidence', 'report', 'q']) {
+      const keys = S[k] && S[k].key;
+      if (!keys) continue;
+      if (!keys.length) { bad.push(k + ': no key rendered'); continue; }
+      for (const x of keys) {
+        seen++;
+        if (x.words !== READ_T1_WORDS) bad.push(`${k}: a key (${x.cls}) reads "${x.words.slice(0, 40)}"`);
+      }
+    }
+    check('c63', bad.length === 0 && seen >= 4, 'C63 every rendering of the claim key says what Tier 1 documents for a statement said on the record',
+      bad.length ? clip(bad, 3) : seen + ' keys');
+  }
+
   /* ---- C50 -------------------------------------------------------------- */
   {
     const want = { people: 'person', orgs: 'institution', programmes: 'program', laws: 'legislation', places: 'location', events: 'event' };
@@ -3782,6 +4131,12 @@ async function main() {
     const dfirst = SEARCH.dir[0];
     check('c52', !!dfirst && dfirst.href === '#/people' && /DIRECTORY/.test(dfirst.badge),
       'C52 "people" finds the people directory first', dfirst ? dfirst.href + ' (' + dfirst.badge + ')' : 'no rows');
+    if (SEARCH.question) {
+      const qf = SEARCH.question.rows[0];
+      check('c52', !!qf && qf.href === '#/q/' + SEARCH.question.id && /QUESTION/.test(qf.badge),
+        "C52 a question's own title finds the question, first, badged as a question",
+        `"${SEARCH.question.q}": first row ${qf ? qf.href + ' (' + qf.badge + ')' : 'none'}`);
+    } else skip("C52 a question's own title finds the question", 'no questions served');
     const unbadged = [...SEARCH.topic.rows, ...SEARCH.dir].filter((r) => !r.badge || !r.type).map((r) => r.href);
     check('c52', unbadged.length === 0, 'C52 every search row carries a badge naming what it is',
       unbadged.length ? clip(unbadged, 3) : (SEARCH.topic.rows.length + SEARCH.dir.length) + ' rows');

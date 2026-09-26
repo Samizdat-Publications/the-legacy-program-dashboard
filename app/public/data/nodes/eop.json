@@ -28,6 +28,15 @@
 },
 {
 "id": "c-6696878fb1",
+"meta": {
+"artefactDate": "2026-02",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Contemporary reporting of the February 2026 presidential directive",
 "sources": [],
 "text": "In February 2026 the President directed the Pentagon and federal agencies to identify and release files on UAP and extraterrestrial matters.",
@@ -47,6 +56,42 @@
 "text": "Presidential declassification authority under Executive Order 13526 does not reach Restricted Data created under the Atomic Energy Act, so a 2026 UAP declassification directive cannot compel release of any material held under DOE nuclear classification authority. Reasoning: the two systems have separate statutory and executive foundations.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1962-12-07",
+"eventDate": null,
+"id": "c-c2dbcb6933",
+"node": "harald-b-malmgren",
+"nodeLabel": "Harald B. Malmgren",
+"route": "document",
+"source": {
+"domain": "www.presidency.ucsb.edu",
+"text": "'Remarks at the High School Football Stadium, Los Alamos, New Mexico', 7 December 1962, Public Papers of the Presidents, https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico",
+"url": "https://www.presidency.ucsb.edu/documents/remarks-the-high-school-football-stadium-los-alamos-new-mexico"
+},
+"text": "The December 1962 visit is real, whatever caused it. Kennedy spoke at Los Alamos on 7 December 1962 with the Vice President present, opening 'Dr. Bradbury, Mr. Vice President, Senator Anderson, Congressman Montoya, Congressman Morris'.",
+"tier": 1,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2026-03-18",
+"eventDate": null,
+"id": "c-1aaf5bc83f",
+"node": "alien-gov-domains-2026",
+"nodeLabel": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"url": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/"
+},
+"text": "White House spokeswoman Anna Kelly's comment on the registrations: 'Stay tuned!' with an alien emoji. CISA's Chris Butera: 'CISA does not generally review or audit how government organizations use their registered domains.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
 }
 ],
 "cls": "institution",

@@ -32,6 +32,15 @@
 "claims": [
 {
 "id": "c-1f28b6904f",
+"meta": {
+"artefactDate": "1997",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "Vern Maltais and Alice Knight",
+"via": "The Roswell Report: Case Closed (USAF), quoting FUFOR footage"
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.4, quoting FUFOR footage",
 "sources": [
 {
@@ -46,6 +55,15 @@
 },
 {
 "id": "c-7efd04f46f",
+"meta": {
+"artefactDate": "1997",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {

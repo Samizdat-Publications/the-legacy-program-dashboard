@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-3a5c080b8c",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "luis-elizondo",
+"claimantLabel": "Luis D. Elizondo",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "HHRG-118-GO12 hearing transcript, 13 November 2024",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-f32eab81cf",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2024-08",
+"route": "book",
+"speaker": "Wikipedia, 'Luis Elizondo' (citing publisher and contemporaneous reviews)",
+"via": null
+},
 "source": "Wikipedia, Luis Elizondo, citing publisher and contemporaneous reviews",
 "sources": [
 {

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-ae0197b839",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1946",
+"route": "document",
+"speaker": "Wikipedia (SRI International)",
+"via": null
+},
 "source": "Wikipedia, SRI International — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-0b2b9ce229",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1972",
+"route": "document",
+"speaker": "Wikipedia, 'SRI International'; CIA STAR GATE records (CREST archive)",
+"via": null
+},
 "source": "Wikipedia, SRI International; CIA STAR GATE records in the CREST archive — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "In 1972 Harold Puthoff and Russell Targ began CIA-sponsored research into psychic phenomena at SRI, coining the term 'remote viewing'; the work continued with intelligence community funding until they left SRI in the mid-1980s.",

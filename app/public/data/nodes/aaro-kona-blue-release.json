@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-b6a8e5a712",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records page, accessed 12 August 2026",
 "sources": [],
 "text": "AARO's UAP Records page hosts a DHS KONA BLUE information release describing a proposed but never-approved programme concerning 'non-human biologics'.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-93f9253ce9",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I",
 "sources": [
 {

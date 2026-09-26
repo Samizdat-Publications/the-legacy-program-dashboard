@@ -39,6 +39,15 @@
 "claims": [
 {
 "id": "c-2e388c5f9c",
+"meta": {
+"artefactDate": "1999",
+"claimant": "denis-letty",
+"claimantLabel": "Général Denis Letty",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "COMETA, UFOs and Defense: What Should We Prepare For?, foreword by Denis Letty, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "Letty, foreword: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
@@ -47,6 +56,15 @@
 },
 {
 "id": "c-dfb2441cd7",
+"meta": {
+"artefactDate": "1999",
+"claimant": "denis-letty",
+"claimantLabel": "Général Denis Letty",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -61,6 +79,15 @@
 },
 {
 "id": "c-44162fd50d",
+"meta": {
+"artefactDate": "2010",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1999-02-24",
+"route": "book",
+"speaker": "Kragel and Couprie",
+"via": "Wikipedia, 'COMETA report'"
+},
 "source": "Wikipedia, 'COMETA report', citing Kragel and Couprie, OVNIS, Enquête sur un secret d'état (2010)",
 "sources": [
 {
@@ -72,6 +99,76 @@
 "text": "COMETA was 'officially registered as a non-profit association under the French law of 1901 on February 24, 1999' and was chaired by retired French Air Force General Denis Letty.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1999",
+"eventDate": null,
+"id": "c-2e388c5f9c",
+"node": "denis-letty",
+"nodeLabel": "Général Denis Letty",
+"route": "document",
+"source": {
+"domain": null,
+"text": "COMETA, UFOs and Defense: What Should We Prepare For?, foreword by Denis Letty, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Letty, foreword: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
+"tier": 2,
+"topic": "france",
+"via": null
+},
+{
+"artefactDate": "1999",
+"eventDate": null,
+"id": "c-bfd1539c6d",
+"node": "jj-velasco",
+"nodeLabel": "Jean-Jacques Velasco",
+"route": "document",
+"source": {
+"domain": null,
+"text": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed to the COMETA study.",
+"tier": 2,
+"topic": "france",
+"via": null
+},
+{
+"artefactDate": "1999",
+"eventDate": null,
+"id": "c-dfb2441cd7",
+"node": "denis-letty",
+"nodeLabel": "Général Denis Letty",
+"route": "document",
+"source": {
+"domain": null,
+"text": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Letty credits Norlain and André Lebeau, former chairman of CNES, 'without whom COMETA would not have been born', and names Jean-Jacques Velasco, Head of SEPRA at CNES, among contributors.",
+"tier": 2,
+"topic": "france",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-3259c3ccac",
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"route": "document",
+"source": {
+"domain": "ia800403.us.archive.org",
+"text": "COMETA report, foreword by Denis Letty, Air Force General, 2nd Section - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+},
+"text": "Letty's foreword, verbatim: 'The accumulation of well-documented sightings made by credible witnesses forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular.'",
+"tier": 2,
+"topic": "france",
+"via": null
 }
 ],
 "cls": "person",

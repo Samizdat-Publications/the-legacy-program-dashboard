@@ -50,6 +50,15 @@
 },
 {
 "id": "c-4e0ed2ecda",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": "leslie-kean",
+"claimantLabel": "Leslie Kean",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
 "sources": [],
 "text": "'Brazilian Senator Eduardo Girão, who represents the coastal state of Ceará and led a Brazilian Senate hearing on UAP in 2022, came to Washington to meet with members of Congress and attend the press event. Acting as a private citizen and not representing the Brazilian Senate, Girão spoke from the podium.'",
@@ -58,6 +67,15 @@
 },
 {
 "id": "c-3bd5a85d03",
+"meta": {
+"artefactDate": "2026-01-30",
+"claimant": "eduardo-girao",
+"claimantLabel": "Senador Eduardo Girão",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "The Debrief, 30 January 2026",
 "sources": [
 {
@@ -69,6 +87,42 @@
 "text": "Burlison asked Girão: 'Are there videos that you think you might be able to get access to, any other material evidence?' Girão replied: 'I'm going to try.'",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-3bd5a85d03",
+"node": "eduardo-girao",
+"nodeLabel": "Senador Eduardo Girão",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 30 January 2026",
+"url": null
+},
+"text": "Burlison asked Girão: 'Are there videos that you think you might be able to get access to, any other material evidence?' Girão replied: 'I'm going to try.'",
+"tier": 2,
+"topic": "brazil",
+"via": "The Debrief"
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-f05f4016dc",
+"node": "senado-brasil",
+"nodeLabel": "Senado Federal do Brasil",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 'Landmark Brazilian UFO case reaches Capitol Hill as Varginha incident turns 30', 30 January 2026 (recorded on this board under eduardo-girao)",
+"url": null
+},
+"text": "Girão has publicly pursued the Varginha file, and the case was brought to Capitol Hill around its thirtieth anniversary in 2026.",
+"tier": 2,
+"topic": "brazil",
+"via": "The Debrief"
 }
 ],
 "cls": "person",

@@ -36,11 +36,39 @@
 },
 {
 "id": "c-e58fa43896",
+"meta": {
+"artefactDate": "2023-06-13",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "Unclassified reprisal complaint, reported 13 June 2023",
 "sources": [],
 "text": "The complaint alleges Grusch's identity and his UAP-related communications with the DoD IG were disclosed to parties outside the IG's office, producing retaliation; it states Grusch 'communicated classified information about the improper withholding and/or concealment of classified material from the US Congress.'",
 "tier": 2,
 "unresolved": "a proposed reading (url:liberationtimes.com/home/unclassified-version-of-david-gruschs-ufo-related-r) was rejected in review: no outlet named; cannot tell which report"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2022-05",
+"eventDate": null,
+"id": "c-a7877a98a7",
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"route": "filing",
+"source": {
+"domain": "thedebrief.org",
+"text": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+"text": "Charles McCullough III filed a Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf with the Intelligence Community Inspector General in May 2022.",
+"tier": 2,
+"topic": "funding-channels",
+"via": "The Debrief"
 }
 ],
 "cls": "person",

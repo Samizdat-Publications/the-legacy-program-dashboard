@@ -509,9 +509,11 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 
 /* The mark on a Tier 1 claim that records that something was said (attrib.ts). */
 .said-mark {
+  /* not Tier 2's amber: the mark qualifies a Tier 1 claim, and a reader took
+     the shared colour to mean the claim was really Tier 2 (critic, phase 10) */
   display: inline-block;
-  color: var(--amber);
-  border: 1px solid rgba(239, 181, 85, 0.55);
+  color: var(--text);
+  border: 1px dashed var(--dim);
   padding: 0 5px;
   margin-right: 7px;
   letter-spacing: 0.04em;
@@ -750,3 +752,24 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 
 /* a tier count never splits from its number ("3 at Tier / 3", critic p8 round 3) */
 .sechead .t1, .sechead .t2, .sechead .t3 { white-space: nowrap; }
+/* ---- phase 10: who made a claim, and the claims a node made ---------------- */
+.claim .cby { grid-column: 2 / -1; overflow-wrap: anywhere; }
+.said-key .said-read { color: var(--text); }
+.made { margin-top: 14px; }
+.made-group { display: grid; gap: 3px; margin: 8px 0 10px; }
+.made-topic { margin: 4px 0 2px; font-weight: 600; }
+.made-row {
+  display: grid; grid-template-columns: 30px minmax(0, 1fr); gap: 2px 10px; align-items: baseline;
+  background: var(--panel); border: 1px solid var(--line); padding: 6px 10px;
+}
+.made-row .ct { font-weight: 600; }
+.made-row .mtext { overflow-wrap: anywhere; }
+.made-row .mmeta { grid-column: 2; overflow-wrap: anywhere; }
+@media (max-width: 760px) {
+  .made-row { grid-template-columns: 24px minmax(0, 1fr); }
+}
+.home-questions { margin: 18px 0 8px; }
+ol.home-qlist { margin: 6px 0 0; padding-left: 22px; columns: 2 360px; column-gap: 28px; }
+ol.home-qlist li { break-inside: avoid; margin: 0 0 4px; }
+details.said-key > summary { cursor: pointer; list-style-position: inside; }
+details.said-key[open] > summary { margin-bottom: 3px; }

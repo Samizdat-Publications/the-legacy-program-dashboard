@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-e54b52158e",
+"meta": {
+"artefactDate": null,
+"claimant": "nsa",
+"claimantLabel": "National Security Agency",
+"eventDate": null,
+"route": "filing",
+"speaker": null,
+"via": null
+},
 "source": "NSA UFO FOIA collection, 'Yeates Affidavit'",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-6485db2f80",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Black Vault, NSA UFO collection background",
 "sources": [
 {

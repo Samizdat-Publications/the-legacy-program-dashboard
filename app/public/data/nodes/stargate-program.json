@@ -114,6 +114,15 @@
 },
 {
 "id": "c-f6be221bb7",
+"meta": {
+"artefactDate": "2025-03-02",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "Joseph McMoneagle",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'CIA Psychic Spy: Mars Used To Have Alien Life', published 2 March 2025, at 1:13:18 to 1:49:19",
 "sources": [
 {
@@ -166,6 +175,15 @@
 },
 {
 "id": "c-e95749f8eb",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1970",
+"route": "document",
+"speaker": "Wikipedia, 'Stargate Project (U.S. Army unit)'",
+"via": null
+},
 "source": "Wikipedia, Stargate Project (U.S. Army unit), citing declassified programme records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -180,6 +198,15 @@
 },
 {
 "id": "c-ccf7d334c9",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1972",
+"route": "document",
+"speaker": "Wikipedia, 'SRI International' (citing CIA STAR GATE / CREST records)",
+"via": null
+},
 "source": "Wikipedia, SRI International; CIA STAR GATE records, CREST archive — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "In 1972 Harold Puthoff and Russell Targ began CIA-sponsored psychic research at SRI International in Menlo Park and coined the term 'remote viewing'; the work continued with intelligence community funding until they left SRI in the mid-1980s.",

@@ -18,11 +18,56 @@
 "claims": [
 {
 "id": "c-42e779946d",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "pat-ryder",
+"claimantLabel": "Patrick S. Ryder",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Maj. Gen. Pat Ryder, Pentagon statement releasing AARO Historical Record Report Volume I, 8 March 2024",
 "sources": [],
 "text": "'AARO has approached this project with the widest possible aperture, thoroughly investigating these assertions and claims without any particular pre-conceived conclusion.'",
 "tier": 1,
 "unresolved": "a proposed reading (url:media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTOR) was rejected in review: Ryder statement is not the report"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-08",
+"eventDate": null,
+"id": "c-416d77d07d",
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Pentagon press remarks, August 2024, as recorded by Douglas Dean Johnson",
+"url": null
+},
+"text": "In August 2024 Pentagon spokesman Maj. Gen. Pat Ryder said officials continued the review but had nothing to announce on timing.",
+"tier": 2,
+"topic": "aaro-historical-record",
+"via": "Douglas Dean Johnson"
+},
+{
+"artefactDate": "2024-03-08",
+"eventDate": null,
+"id": "c-42e779946d",
+"node": "pat-ryder",
+"nodeLabel": "Patrick S. Ryder",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Maj. Gen. Pat Ryder, Pentagon statement releasing AARO Historical Record Report Volume I, 8 March 2024",
+"url": null
+},
+"text": "'AARO has approached this project with the widest possible aperture, thoroughly investigating these assertions and claims without any particular pre-conceived conclusion.'",
+"tier": 1,
+"topic": "denial-ledger",
+"via": null
 }
 ],
 "cls": "person",

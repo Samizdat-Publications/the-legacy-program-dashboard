@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-2e97952b57",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": "american-alchemy",
+"claimantLabel": "American Alchemy",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Episode description, American Alchemy, 11 January 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-a0bcdfb314",
+"meta": {
+"artefactDate": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Timestamped chapter list published in the episode description",
 "sources": [],
 "text": "The episode's structure names as load-bearing components: a pyramid of contractors, a 'Modern Majestic 12' control group, the Office of Global Access, MITRE, the DOE NEST, the 1954 Atomic Energy Agreement and the Y-12 Complex.",
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-169ab63052",
+"meta": {
+"artefactDate": "2026-01-11",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Episode description, 11 January 2026",
 "sources": [
 {

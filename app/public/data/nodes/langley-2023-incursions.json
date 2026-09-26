@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-0cbe20e600",
+"meta": {
+"artefactDate": "2024-03-15",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": "2023-12-06",
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "Langley AFB / US Air Force statement to The War Zone, 15 March 2024",
 "sources": [],
 "text": "'The installation first observed UAS activities the evening of December 6 [2023] and experienced multiple incursions throughout the month of December.'",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-d68cf20906",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": null,
+"route": "press",
+"speaker": "Langley AFB spokesperson",
+"via": "The War Zone"
+},
 "source": "Langley AFB spokesperson to The War Zone, March 2024",
 "sources": [],
 "text": "'None of the incursions appeared to exhibit hostile intent but anything flying in our restricted airspace can pose a threat to flight safety.'",
@@ -22,6 +40,15 @@
 },
 {
 "id": "c-9754e30561",
+"meta": {
+"artefactDate": "2024-10-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Gen. Mark Kelly",
+"via": "The War Zone (via Wall Street Journal)"
+},
 "source": "Gen. Mark Kelly, via the Wall Street Journal, reported by The War Zone, 30 October 2024",
 "sources": [
 {
@@ -36,6 +63,15 @@
 },
 {
 "id": "c-f0ebe93c18",
+"meta": {
+"artefactDate": "2024-10-30",
+"claimant": "gregory-guillot",
+"claimantLabel": "Gregory M. Guillot",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
 "sources": [
 {

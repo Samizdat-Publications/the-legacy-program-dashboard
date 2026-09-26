@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-8d21c196d3",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": "2023-02-15",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "Senior Chief Alexandro Wiggins, written statement, House Oversight Task Force, 9 September 2025",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-cbc955d63a",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Wiggins written statement, 9 September 2025",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-c40dba1bf0",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "alexandro-wiggins",
+"claimantLabel": "Alexandro Wiggins",
+"eventDate": null,
+"route": "hearing",
+"speaker": "Alexandro Wiggins (written statement); The Debrief",
+"via": null
+},
 "source": "Wiggins written statement, 9 September 2025; The Debrief, 17 April 2025",
 "sources": [],
 "text": "The stabilized footage and screenshots were published by journalists rather than released by the Navy or AARO.",

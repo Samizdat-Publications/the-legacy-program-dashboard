@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-5c8bccc803",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2008",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-b2cdd2d783",
+"meta": {
+"artefactDate": "2021-06-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (Honolulu Civil Beat)",
+"via": null
+},
 "source": "Honolulu Civil Beat, 13 June 2021",
 "sources": [
 {

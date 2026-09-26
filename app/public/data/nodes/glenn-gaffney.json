@@ -18,6 +18,15 @@
 "claims": [
 {
 "id": "c-78cdcade4d",
+"meta": {
+"artefactDate": "2024-12-13",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:22:48, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
 "sources": [
 {
@@ -32,6 +41,15 @@
 },
 {
 "id": "c-6af94511e8",
+"meta": {
+"artefactDate": "2024-12-13",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:19:28 to 0:20:19",
 "sources": [
 {
@@ -46,6 +64,15 @@
 },
 {
 "id": "c-2fb19b9899",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: President Trump Was Briefed On Alien Hybrids!', 2 July 2026, 1:48:44 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "sources": [
 {
@@ -60,6 +87,15 @@
 },
 {
 "id": "c-233793c747",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {
@@ -74,6 +110,15 @@
 },
 {
 "id": "c-dcd51edf88",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "CHRG-119hhrg61718, 9 September 2025",
 "sources": [
 {
@@ -88,6 +133,15 @@
 },
 {
 "id": "c-6ff0911b65",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2009",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "sources": [
 {

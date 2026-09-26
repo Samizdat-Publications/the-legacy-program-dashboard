@@ -45,6 +45,15 @@
 "claims": [
 {
 "id": "c-1f4d870941",
+"meta": {
+"artefactDate": "1968-07-29",
+"claimant": "j-allen-hynek",
+"claimantLabel": "J. Allen Hynek",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "US House Committee on Science and Astronautics"
+},
 "source": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
 "sources": [
 {
@@ -59,6 +68,15 @@
 },
 {
 "id": "c-28c623b312",
+"meta": {
+"artefactDate": "1972",
+"claimant": "j-allen-hynek",
+"claimantLabel": "J. Allen Hynek",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Hynek, statements from the late 1960s and 'The UFO Experience: A Scientific Inquiry' (1972)",
 "sources": [
 {
@@ -73,6 +91,15 @@
 },
 {
 "id": "c-2c3d8cc9a8",
+"meta": {
+"artefactDate": "1972",
+"claimant": "j-allen-hynek",
+"claimantLabel": "J. Allen Hynek",
+"eventDate": "1966-03",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Hynek's own account in 'The UFO Experience' (1972) and contemporaneous press coverage",
 "sources": [
 {
@@ -98,6 +125,76 @@
 "text": "Hynek served as scientific consultant across Project SIGN (1947-1949), Project GRUDGE (1949-1951) and Project Blue Book (1952-1969).",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1968-07-29",
+"eventDate": null,
+"id": "c-1f4d870941",
+"node": "j-allen-hynek",
+"nodeLabel": "J. Allen Hynek",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "US House Committee on Science and Astronautics, 'Symposium on Unidentified Flying Objects', 90th Congress, 2nd Session, 29 July 1968",
+"url": null
+},
+"text": "Hynek testified before the House Committee on Science and Astronautics at its UFO symposium on 29 July 1968, alongside James E. McDonald, Carl Sagan, Robert L. Hall, James A. Harder and Robert M. L. Baker Jr.",
+"tier": 1,
+"topic": "blue-book",
+"via": "US House Committee on Science and Astronautics"
+},
+{
+"artefactDate": "1972",
+"eventDate": null,
+"id": "c-28c623b312",
+"node": "j-allen-hynek",
+"nodeLabel": "J. Allen Hynek",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Hynek, statements from the late 1960s and 'The UFO Experience: A Scientific Inquiry' (1972)",
+"url": null
+},
+"text": "Hynek stated that Blue Book had become 'a public relations exercise' with 'little or no research undertaken using the scientific method.'",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1972",
+"eventDate": "1966-03",
+"id": "c-2c3d8cc9a8",
+"node": "j-allen-hynek",
+"nodeLabel": "J. Allen Hynek",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Hynek's own account in 'The UFO Experience' (1972) and contemporaneous press coverage",
+"url": null
+},
+"text": "Hynek's March 1966 swamp gas explanation was offered as provisional and for only some cases, but was reported as a blanket dismissal; he later expressed regret.",
+"tier": 2,
+"topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1972",
+"eventDate": null,
+"id": "c-8de9500e37",
+"node": "warren-1965",
+"nodeLabel": "F. E. Warren AFB sightings, 1 August 1965",
+"route": "book",
+"source": {
+"domain": "rr0.org",
+"text": "rr0.org, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
+"url": "https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/"
+},
+"text": "The memorandum summarising those telephone calls was published in 1972 by Dr J. Allen Hynek, the civilian scientific consultant to Project Blue Book, in 'The UFO Experience: A Scientific Inquiry'. That publication is the dated artefact fixing when the claim entered the public record.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
 }
 ],
 "cls": "person",

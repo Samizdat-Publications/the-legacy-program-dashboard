@@ -93,6 +93,15 @@
 },
 {
 "id": "c-a464909043",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -107,6 +116,15 @@
 },
 {
 "id": "c-fa51e29758",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": "1964",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Vol. 17, No. 2, Winter 1993, pages 180 to 186; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -163,6 +181,15 @@
 },
 {
 "id": "c-533cda0c9c",
+"meta": {
+"artefactDate": "1993",
+"claimant": "kingston-george",
+"claimantLabel": "Kingston A. George",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, pp 186-187, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -182,6 +209,25 @@
 "text": "SECTION 2a PROVENANCE. Jacobs is the exception in this cluster and the reason the provenance test is worth applying. He published under his own name in the National Enquirer in 1982 and in the MUFON UFO Journal, No. 249, in January 1989, years before any interviewer sought him out, and was then answered by name and in print by a hostile participant who confirmed his unit, his appointment, his presence and his debriefing while disputing what he saw.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1989-01",
+"eventDate": "1964-09",
+"id": "c-53b963bb56",
+"node": "big-sur-1964",
+"nodeLabel": "Big Sur missile-test filming, September 1964",
+"route": "press",
+"source": {
+"domain": "www.nicap.org",
+"text": "Bob Jacobs, Ph.D., 'Deliberate Deception: The Big Sur UFO Filming', MUFON UFO Journal No. 249, January 1989, reprinted by NICAP, http://www.nicap.org/reports/bigsur2.htm , opened 2026-09-19",
+"url": "http://www.nicap.org/reports/bigsur2.htm"
+},
+"text": "The claimant's account, published in January 1989: an object that 'maneuvered around' the warhead package, 'emitted four distinct bright flashes of light at approximately the 4 cardinal compass points of its orbit', and a warhead that 'malfunctioned and tumbled out of suborbit hundreds of miles short of its target'. His own dating is uncertain: 'most probably either September 2nd, 3rd, or 15th, 1964'.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "MUFON UFO Journal (reprinted by NICAP)"
 }
 ],
 "cls": "person",

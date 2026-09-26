@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-485f919990",
+"meta": {
+"artefactDate": "2024-07-17",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "'RA' (US Army Green Beret, identified only by initials)",
+"via": "UAP Gerb"
+},
 "source": "UAP Gerb, 'Off-World Technologies Division - UAP Technology Reverse Engineering', published 17 July 2024",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-6c334965aa",
+"meta": {
+"artefactDate": "2024-07-17",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, 17 July 2024",
 "sources": [],
 "text": "Gerb connects the division to SAIC and Sandia National Laboratories.",

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-25a7a6a834",
+"meta": {
+"artefactDate": null,
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "war.gov About page, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -59,6 +68,688 @@
 "text": "The waiver provision of 10 U.S.C. 119 is the only lawful mechanism by which a multi-decade DoD program could be concealed from the bulk of the defense committees without a criminal violation; any legacy recovery program that has survived since the 1940s is therefore either a waived unacknowledged SAP, or it is unreported and therefore unlawful. Reasoning: the statute exhausts the lawful options, so the allegation reduces to a binary that Congress can test by demanding the waived-SAP list.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-06-06",
+"eventDate": null,
+"id": "c-9851a9518d",
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Wall Street Journal, 6 June 2025",
+"url": null
+},
+"text": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the Yankee Blue findings would be included in Volume II, then scheduled for late 2025.",
+"tier": 2,
+"topic": "aaro-historical-record",
+"via": "Wall Street Journal"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-25a7a6a834",
+"node": "dod",
+"nodeLabel": "United States Department of Defense (secondary designation: Department of War)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "war.gov About page, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "DoD self-reports a budget of $841.4 billion, 3.4 million personnel and 4,800 sites in over 160 countries, with Pete Hegseth as Secretary and Steve Feinberg as Deputy Secretary.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": null,
+"id": "c-fc0a6eae8f",
+"node": "d-aviators",
+"nodeLabel": "Military Aviators & Operators",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement on release of historical Navy videos",
+"url": null
+},
+"text": "The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified.",
+"tier": 1,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": "2026-05-12",
+"eventDate": null,
+"id": "c-dd07057120",
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"route": "document",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+"text": "One of the ten accounting material weaknesses is titled 'Unsupported Accounting Adjustments'; the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": "2026-07-07",
+"eventDate": "2026-05-20",
+"id": "c-36d9e64d81",
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"route": "document",
+"source": {
+"domain": "history.defense.gov",
+"text": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
+"url": "https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf"
+},
+"text": "The OSD Historical Office's Key Officials list of 7 July 2026 records Michael Powers as Acting Under Secretary of War (Comptroller)/Chief Financial Officer from 20 May 2026 to present, succeeding Jules W. Hurst III, who performed the duties of the office from 5 September 2025 to 20 May 2026.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": "2026-07-07",
+"eventDate": "2026-05-20",
+"id": "c-9770dcb809",
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"route": "document",
+"source": {
+"domain": "www.war.gov",
+"text": "comptroller.war.gov leadership page and https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/, both read 22 August 2026, against the Key Officials list of 7 July 2026",
+"url": "https://www.war.gov/About/Biographies/Biography/Article/4503523/michael-t-powers/,"
+},
+"text": "Two Department pages disagree on who holds the office. The Department of War comptroller site's leadership page names Jules W. Hurst III as Under Secretary of War (Comptroller)/CFO, while war.gov's own biography of Powers opens 'The Honorable Michael Powers currently serves as the Acting Under Secretary of War (Comptroller) and Chief Financial Officer (CFO).' The Historical Office list dates the handover to 20 May 2026, which makes the comptroller site's leadership page the stale one.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": "2026-07-07",
+"eventDate": "2025-12-23",
+"id": "c-af7a70645d",
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"route": "document",
+"source": {
+"domain": "history.defense.gov",
+"text": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
+"url": "https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf"
+},
+"text": "The same list records Powers as Deputy Under Secretary of Defense (Comptroller) from 23 December 2025 to present, so he holds the deputy office and the acting principal office at once.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b95dd664e6",
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/",
+"url": "https://comptroller.war.gov/"
+},
+"text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-ca55043d94",
+"node": "reprogramming-dd1415",
+"nodeLabel": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+},
+"text": "Below-Threshold Reprogramming permits components to realign funds within prescribed cumulative annual limits without approval or notification.",
+"tier": 2,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": "1994-11",
+"eventDate": "1994-01-05",
+"id": "c-4ae369480c",
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"route": "document",
+"source": {
+"domain": "sgp.fas.org",
+"text": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+},
+"text": "The committee was established on 5 January 1994, sixteen years before the directive this node cites. A Deputy Secretary of Defense information bulletin of November 1994 states: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+"tier": 2,
+"topic": "carve-outs",
+"via": "Federation of American Scientists (transcription)"
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": null,
+"id": "c-b6ae2b4fee",
+"node": "d-disclosure",
+"nodeLabel": "Disclosure Movement",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement on release of historical Navy videos",
+"url": null
+},
+"text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
+"tier": 1,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2015-09",
+"eventDate": null,
+"id": "c-a323500aee",
+"node": "reprogramming-dd1415",
+"nodeLabel": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+},
+"text": "DoD FMR Volume 3 Chapter 6, 'Reprogramming of DoD Appropriated Funds' (September 2015), establishes Prior Approval Reprogramming (DD 1415-1), Letter Notification (DD 1415-2), Internal Reprogramming (DD 1415-3) and Below-Threshold Reprogramming.",
+"tier": 2,
+"topic": "funding-channels",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-50956baf86",
+"node": "reprogramming-dd1415",
+"nodeLabel": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+},
+"text": "Congressional approval thresholds: Military Personnel $10 million; Operation and Maintenance $15 million; Procurement $20 million or 20 percent of programme base, whichever is less; RDT&E $10 million or 20 percent of programme base, whichever is less.",
+"tier": 2,
+"topic": "funding-channels",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-d106a433e1",
+"node": "reprogramming-dd1415",
+"nodeLabel": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+},
+"text": "Internal Reprogramming on DD Form 1415-3 is processed entirely within the Department as an audit-trail action, with no congressional action required.",
+"tier": 2,
+"topic": "funding-channels",
+"via": null
+},
+{
+"artefactDate": "2024-12-17",
+"eventDate": null,
+"id": "c-c735d9016b",
+"node": "nj-drone-incursions-2024",
+"nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Joint federal statement, 17 December 2024",
+"url": null
+},
+"text": "The FBI received over 5,000 drone reports; officials analysed roughly 100 specific leads and attributed them to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",
+"tier": 1,
+"topic": "incursions-2023-26",
+"via": null
+},
+{
+"artefactDate": "2024-12-17",
+"eventDate": null,
+"id": "c-f1f518b95b",
+"node": "nj-drone-incursions-2024",
+"nodeLabel": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Joint federal statement, 17 December 2024, reported by The Debrief",
+"url": null
+},
+"text": "Joint statement of 17 December 2024 by DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk over the civilian airspace in New Jersey or other states.'",
+"tier": 1,
+"topic": "incursions-2023-26",
+"via": "The Debrief"
+},
+{
+"artefactDate": "2026-08-10",
+"eventDate": "2021-09-08",
+"id": "c-ada9eb8931",
+"node": "gulf-of-oman-ac130j-2021",
+"nodeLabel": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
+"route": "document",
+"source": {
+"domain": null,
+"text": "EarthSky, 10 August 2026, on PURSUE Release 05",
+"url": null
+},
+"text": "Six videos from an AC-130J gunship and intelligence report DOW-UAP-D101 document approximately 25 instances of UAP over the Gulf of Oman on 8 September 2021.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": "EarthSky"
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": "2020-04-27",
+"id": "c-09b0aab384",
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"url": null
+},
+"text": "The Department of Defense released FLIR1 with the two January 2015 videos on 27 April 2020, stating that 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": null
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": "2020-04-27",
+"id": "c-2c02c3f0d8",
+"node": "flir1-video",
+"nodeLabel": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"url": null
+},
+"text": "DoD authorized release of three unclassified Navy videos filmed November 2004 and January 2015, previously circulated after unauthorized disclosures in 2007 and 2017; 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": null
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": null,
+"id": "c-9588d8ad3a",
+"node": "flir1-video",
+"nodeLabel": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement, 27 April 2020",
+"url": null
+},
+"text": "The videos were made available through the Naval Air Systems Command FOIA reading room.",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": null
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": null,
+"id": "c-9dd27adf5d",
+"node": "chad-underwood",
+"nodeLabel": "Chad Underwood",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"url": null
+},
+"text": "The Department of Defense authorized release of three unclassified Navy videos filmed in November 2004 and January 2015, stating 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": null
+},
+{
+"artefactDate": "2017-12-16",
+"eventDate": null,
+"id": "c-da1fa78261",
+"node": "nyt-2017-12-16",
+"nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Bryan Bender, Politico, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Pentagon spokeswoman Dana White confirmed to Politico that Luis Elizondo directed AATIP.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "Bryan Bender, Politico"
+},
+{
+"artefactDate": "2026-03-18",
+"eventDate": null,
+"id": "c-5fa734778e",
+"node": "sean-parnell",
+"nodeLabel": "Sean Parnell",
+"route": "press",
+"source": {
+"domain": "www.war.gov",
+"text": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/",
+"url": "https://www.war.gov/News/Releases/Release/Article/4437252/statement-by-chief-pentagon-spokesman-sean-parnell-on-strengthening-the-effecti/"
+},
+"text": "A Department of War release dated 18 March 2026 names Sean Parnell as 'Chief Pentagon Spokesman' in its own title: 'Statement by Chief Pentagon Spokesman Sean Parnell on ‘Strengthening the Effectiveness of Our Senior Service Colleges’'.",
+"tier": 1,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-0c018a6d22",
+"node": "pursue-bundle-urls",
+"nodeLabel": "PURSUE release bundle URLs (five tranches, documents and video)",
+"route": "document",
+"source": {
+"domain": "www.war.gov",
+"text": "https://www.war.gov/UFO/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://www.war.gov/UFO/"
+},
+"text": "Release 03's document bundle is 826MB and its video bundle 4.6GB, per the war.gov/UFO portal listing.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-7a3e360b69",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "document",
+"source": {
+"domain": null,
+"text": "US Department of War, war.gov/UFO, retrieved 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "PURSUE stands for the Presidential Unsealing and Reporting System for UAP Encounters and is overseen by the Department of War with support from ODNI.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2026-05-08",
+"id": "c-98a00f8584",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "document",
+"source": {
+"domain": null,
+"text": "US Department of War, war.gov/UFO — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "Release dates: Release 01, 8 May 2026; Release 02, 22 May 2026; Release 03, 12 June 2026; Release 04, 10 July 2026; Release 05, 7 August 2026.",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-f5fec6002b",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "document",
+"source": {
+"domain": "www.war.gov",
+"text": "https://www.war.gov/UFO/",
+"url": "https://www.war.gov/UFO/"
+},
+"text": "PURSUE material is published at war.gov/UFO as five dated releases, each a paired document ZIP hosted on www.war.gov/medialink/ufo/ and a video ZIP hosted on d34w7g4gy10iej.cloudfront.net.",
+"tier": 1,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": "2026-02-27",
+"eventDate": null,
+"id": "c-2a0d21bfb5",
+"node": "nara-uap-collection",
+"nodeLabel": "National Archives Unidentified Anomalous Phenomena Records Collection",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Department of War news story, 27 February 2026",
+"url": null
+},
+"text": "The Department of War states that AARO 'has made progress in making UAP information available and in transferring those records to the National Archives in accordance with federal law.'",
+"tier": 2,
+"topic": "records-collection",
+"via": null
+},
+{
+"artefactDate": "2026-08-07",
+"eventDate": "2026-08-07",
+"id": "c-720a30c7f5",
+"node": "navy-pic-1953-film-analysis",
+"nodeLabel": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"route": "document",
+"source": {
+"domain": null,
+"text": "war.gov/UFO release index; EarthSky, 10 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "The document was released on 7 August 2026 in PURSUE Release 05 at war.gov/UFO.",
+"tier": 2,
+"topic": "robertson-cia-1953",
+"via": "EarthSky"
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": "2007",
+"id": "c-0d9e65cbcb",
+"node": "dod-video-release-2020",
+"nodeLabel": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement, 27 April 2020",
+"url": null
+},
+"text": "Characterises the videos' prior public appearance as the product of 'unauthorized releases in 2007 and 2017'.",
+"tier": 1,
+"topic": "roosevelt-2014-15",
+"via": null
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": "2015-01",
+"id": "c-34d43d3787",
+"node": "gimbal-video",
+"nodeLabel": "GIMBAL (Navy ATFLIR video, January 2015)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement on the release of historical Navy videos, 27 April 2020",
+"url": null
+},
+"text": "GIMBAL was filmed in January 2015 and released by DoD on 27 April 2020 with the phenomena 'characterized as unidentified.'",
+"tier": 1,
+"topic": "roosevelt-2014-15",
+"via": null
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": "2020-04-27",
+"id": "c-743c3a23a4",
+"node": "gofast-video",
+"nodeLabel": "GO FAST (Navy ATFLIR video, January 2015)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement, 27 April 2020",
+"url": null
+},
+"text": "DoD released the video on 27 April 2020 with the phenomena 'characterized as unidentified.'",
+"tier": 1,
+"topic": "roosevelt-2014-15",
+"via": null
+},
+{
+"artefactDate": "2020-04-27",
+"eventDate": null,
+"id": "c-c7312e1e9c",
+"node": "dod-video-release-2020",
+"nodeLabel": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statement, 27 April 2020",
+"url": null
+},
+"text": "States 'the aerial phenomena observed in the videos remain characterized as unidentified.'",
+"tier": 1,
+"topic": "roosevelt-2014-15",
+"via": null
+},
+{
+"artefactDate": "1994-11",
+"eventDate": "1994-11",
+"id": "c-04e1b13cce",
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"route": "document",
+"source": {
+"domain": "sgp.fas.org",
+"text": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+},
+"text": "The committee's membership in November 1994: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.'",
+"tier": 2,
+"topic": "sap-governance",
+"via": null
+},
+{
+"artefactDate": "1994-11",
+"eventDate": "1994-01-05",
+"id": "c-7b93973ea5",
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"route": "document",
+"source": {
+"domain": "sgp.fas.org",
+"text": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+},
+"text": "The annual review and the decision authority date from this change, not from the 2010 directive: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
+"tier": 2,
+"topic": "sap-governance",
+"via": null
+},
+{
+"artefactDate": "1994-11",
+"eventDate": "1994-01-05",
+"id": "c-801ce6aaeb",
+"node": "dod-sap-reform-1994",
+"nodeLabel": "DoD special access programme governance change, 5 January 1994",
+"route": "document",
+"source": {
+"domain": "sgp.fas.org",
+"text": "Deputy Secretary of Defense, Special Access Program Oversight Committee, Information Bulletin, November 1994, as transcribed at https://sgp.fas.org/othergov/sapoc.html",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+},
+"text": "The change and its date: 'On January 5th, 1994, the Deputy Secretary of Defense (DEPSECDEF) significantly enhanced changes in the DoD Special Access Program (SAP) management and control structures. ... The plan standardized and formalized the SAP approval, termination, revalidation and restructuring process through the Special Access Program Oversight Committee (SAPOC). A Senior Review Group (SRG) was established to support the SAPOC principals.' Tier 2 because the text opened is a transcription published by the Federation of American Scientists and no scan of the original bulletin was found from this environment.",
+"tier": 2,
+"topic": "sap-governance",
+"via": null
+},
+{
+"artefactDate": "1994-11",
+"eventDate": null,
+"id": "c-f7425cf07c",
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"route": "document",
+"source": {
+"domain": "sgp.fas.org",
+"text": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+},
+"text": "The 1994 membership was five principals and an executive secretary, not the roughly eighteen of the later instruction: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.' The node's argument about a large in-house validating body describes the later era, not this one.",
+"tier": 2,
+"topic": "sap-governance",
+"via": "Federation of American Scientists (sgp.fas.org)"
+},
+{
+"artefactDate": "1994-11",
+"eventDate": null,
+"id": "c-fad2398de8",
+"node": "sapoc",
+"nodeLabel": "Special Access Program Oversight Committee (SAPOC)",
+"route": "document",
+"source": {
+"domain": "sgp.fas.org",
+"text": "Deputy Secretary of Defense, SAPOC Information Bulletin, November 1994, https://sgp.fas.org/othergov/sapoc.html",
+"url": "https://sgp.fas.org/othergov/sapoc.html"
+},
+"text": "The annual review and validation function this node attributes to the 2010 directive is in the 1994 bulletin: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
+"tier": 2,
+"topic": "sap-governance",
+"via": "Federation of American Scientists (sgp.fas.org)"
+},
+{
+"artefactDate": "2026-05-12",
+"eventDate": null,
+"id": "c-e18a5af635",
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"route": "document",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+"text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": "2026-05-12",
+"eventDate": null,
+"id": "c-f371367f17",
+"node": "dod-agencywide-audit",
+"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+"route": "document",
+"source": {
+"domain": "media.defense.gov",
+"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+},
+"text": "'Universe of Transactions' - the complete set of all transactions falling within audit scope - is itself a standing material weakness, meaning the Department cannot establish what its own transaction population is.",
+"tier": 1,
+"topic": "unauditable-ledger",
+"via": null
 }
 ],
 "cls": "institution",

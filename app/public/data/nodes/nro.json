@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-2a32ef084c",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
+"eventDate": "2023-07-26",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "House Committee on Oversight and Accountability hearing notice, 26 July 2023",
 "sources": [
 {
@@ -48,6 +57,15 @@
 },
 {
 "id": "c-52bcf8861c",
+"meta": {
+"artefactDate": "1992",
+"claimant": "nro",
+"claimantLabel": "National Reconnaissance Office",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "NRO's own published declassified history and the 1992 DEPSECDEF disclosure decision",
 "sources": [],
 "text": "The fact of the NRO's existence was classified from its establishment in 1961 until its declassification in September 1992, a period of 31 years.",
@@ -61,6 +79,25 @@
 "text": "The NRO precedent defeats the strongest a priori objection to a concealed legacy program - that 'someone would have talked'. Reasoning: an agency with tens of thousands of cleared personnel and a multi-billion-dollar annual budget sustained total public non-existence for 31 years, so the leak-rate argument is empirically falsified.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1992",
+"eventDate": null,
+"id": "c-52bcf8861c",
+"node": "nro",
+"nodeLabel": "National Reconnaissance Office",
+"route": "document",
+"source": {
+"domain": null,
+"text": "NRO's own published declassified history and the 1992 DEPSECDEF disclosure decision",
+"url": null
+},
+"text": "The fact of the NRO's existence was classified from its establishment in 1961 until its declassification in September 1992, a period of 31 years.",
+"tier": 2,
+"topic": "black-budget",
+"via": null
 }
 ],
 "cls": "institution",

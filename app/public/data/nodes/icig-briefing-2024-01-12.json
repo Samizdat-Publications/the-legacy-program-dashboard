@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-8512998988",
+"meta": {
+"artefactDate": "2024-01-12",
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Hill, 12 January 2024",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-7fd0d83df4",
+"meta": {
+"artefactDate": "2024-01-13",
+"claimant": "tim-burchett",
+"claimantLabel": "Timothy Floyd Burchett",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Hill"
+},
 "source": "The Hill, 13 January 2024",
 "sources": [],
 "text": "Burchett: 'At one time, we had 16 congressmen in there... And these were people that normally you wouldn't see,' naming Moskowitz, Ocasio-Cortez and Luna; he rated the briefing four out of ten.",
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-566d8272dd",
+"meta": {
+"artefactDate": "2024-01-12",
+"claimant": "andy-ogles",
+"claimantLabel": "Andrew Ogles",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Hill"
+},
 "source": "The Hill, 12 January 2024",
 "sources": [
 {

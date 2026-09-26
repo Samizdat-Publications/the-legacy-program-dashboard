@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-4bba20667e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1950",
+"route": "document",
+"speaker": "Library catalogue record (OCLC 1467735)",
+"via": null
+},
 "source": "Library catalogue record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "'Behind the Flying Saucers' was published by Henry Holt and Company, New York, in 1950 (OCLC 1467735) and became a bestseller.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-51f2cfa20a",
+"meta": {
+"artefactDate": "1950",
+"claimant": "frank-scully",
+"claimantLabel": "Frank Scully",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Scully, 'Behind the Flying Saucers' (1950)",
 "sources": [
 {

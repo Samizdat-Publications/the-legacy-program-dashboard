@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-d12d404431",
+"meta": {
+"artefactDate": "2025-04-23",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "1961",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Presidential Advisor: I Directly Handled UFO Material (Ft. Harald Malmgren)', published 23 April 2025, at 0:57:51",
 "sources": [
 {
@@ -76,6 +85,15 @@
 },
 {
 "id": "c-f69a4b8000",
+"meta": {
+"artefactDate": null,
+"claimant": "mitre-corporation",
+"claimantLabel": "The MITRE Corporation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "MITRE corporate history; UAP Gerb investigation, 7 August 2026, restating the same point",
 "sources": [],
 "text": "MITRE was founded as the Air Force's systems engineering counterpart modelled on the RAND Corporation.",

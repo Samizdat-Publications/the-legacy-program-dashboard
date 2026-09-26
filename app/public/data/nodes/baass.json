@@ -146,6 +146,15 @@
 },
 {
 "id": "c-24ab23fda0",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, p.23",
 "sources": [
 {
@@ -160,6 +169,15 @@
 },
 {
 "id": "c-7fcd5c6ac2",
+"meta": {
+"artefactDate": "2023-05-25",
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
+"eventDate": "2008",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Debrief, 25 May 2023",
 "sources": [],
 "text": "Colm Kelleher served as Deputy Administrator of BAASS from 2008 and led day-to-day execution of the AAWSAP contract.",
@@ -168,6 +186,15 @@
 },
 {
 "id": "c-020d455dc8",
+"meta": {
+"artefactDate": "2009-07",
+"claimant": "baass",
+"claimantLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "BAASS Ten Month Report (2009), leaked copy analysed publicly since 2020",
 "sources": [
 {
@@ -182,11 +209,124 @@
 },
 {
 "id": "c-ab0f2bb8bd",
+"meta": {
+"artefactDate": "2011-03",
+"claimant": "baass",
+"claimantLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"eventDate": "2009",
+"route": "press",
+"speaker": null,
+"via": "The UFO Chronicles"
+},
 "source": "MUFON and BAASS contemporaneous accounts; The UFO Chronicles, March 2011",
 "sources": [],
 "text": "BAASS contracted with MUFON in 2009 to fund the Star Team Impact Project for rapid-response field investigation, terminating the arrangement in 2010.",
 "tier": 2,
 "unresolved": "a proposed reading (url:theufochronicles.com/2011/03/what-caused-failure-of-baass-mufon-sip.html) was rejected in review: names two sources; candidate is only one"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2009-07",
+"eventDate": null,
+"id": "c-020d455dc8",
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"route": "document",
+"source": {
+"domain": null,
+"text": "BAASS Ten Month Report (2009), leaked copy analysed publicly since 2020",
+"url": null
+},
+"text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 covering field investigations, laboratory physics, and case database construction.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2009-07",
+"eventDate": null,
+"id": "c-294a417c86",
+"node": "baass-ten-month-report",
+"nodeLabel": "BAASS Ten Month Report (2009)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Leaked BAASS Ten Month Report (2009), publicly circulated and analysed since 2020",
+"url": null
+},
+"text": "BAASS delivered a 494-page Ten Month Report to DIA in July 2009 integrating laboratory physics research with field investigation, case database construction and sustained operations at the Utah ranch.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2011-03",
+"eventDate": "2009",
+"id": "c-ab0f2bb8bd",
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"route": "press",
+"source": {
+"domain": null,
+"text": "MUFON and BAASS contemporaneous accounts; The UFO Chronicles, March 2011",
+"url": null
+},
+"text": "BAASS contracted with MUFON in 2009 to fund the Star Team Impact Project for rapid-response field investigation, terminating the arrangement in 2010.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": "The UFO Chronicles"
+},
+{
+"artefactDate": "2009",
+"eventDate": null,
+"id": "c-7ddfe738fe",
+"node": "mufon-sip",
+"nodeLabel": "BAASS–MUFON Star Team Impact Project (SIP)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "BAASS Ten Month Report (2009)",
+"url": null
+},
+"text": "The BAASS Ten Month Report describes case collection and database construction consistent with an external civilian reporting pipeline.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2011-03",
+"eventDate": "2009",
+"id": "c-b943ef143f",
+"node": "mufon-sip",
+"nodeLabel": "BAASS–MUFON Star Team Impact Project (SIP)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Contemporaneous MUFON and BAASS accounts; The UFO Chronicles, March 2011",
+"url": null
+},
+"text": "BAASS funded MUFON's Star Team Impact Project in 2009 to provide rapid-response field investigation, with case data flowing back to BAASS; the arrangement ended in 2010.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": "The UFO Chronicles"
+},
+{
+"artefactDate": "2009",
+"eventDate": null,
+"id": "c-3f7a7dcc16",
+"node": "l-skinwalker",
+"nodeLabel": "Skinwalker Ranch, Uintah Basin, Utah",
+"route": "document",
+"source": {
+"domain": null,
+"text": "BAASS Ten Month Report (2009)",
+"url": null
+},
+"text": "The BAASS Ten Month Report describes the Utah property as operating under 24/7 surveillance with rapid-response patrols as part of the DIA-funded effort.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
 }
 ],
 "cls": "institution",

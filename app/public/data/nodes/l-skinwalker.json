@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-67f4fe3c36",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.23",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-3f7a7dcc16",
+"meta": {
+"artefactDate": "2009",
+"claimant": "baass",
+"claimantLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "BAASS Ten Month Report (2009)",
 "sources": [
 {
@@ -58,6 +76,15 @@
 },
 {
 "id": "c-fafed52295",
+"meta": {
+"artefactDate": "1996-06-30",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2004",
+"route": "press",
+"speaker": "Deseret News; The New Yorker",
+"via": null
+},
 "source": "Deseret News, 30 June 1996 and 10 Aug 1998; The New Yorker, 10 May 2021",
 "sources": [],
 "text": "Bigelow moved in a research team and surveillance equipment immediately after the purchase and retained the ranch after closing NIDS in 2004.",
@@ -66,6 +93,15 @@
 },
 {
 "id": "c-31357c5dc3",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996",
+"route": "document",
+"speaker": "Wikipedia, 'Skinwalker Ranch'",
+"via": null
+},
 "source": "Wikipedia, Skinwalker Ranch, citing property and press records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -80,6 +116,15 @@
 },
 {
 "id": "c-e0c130514e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Skinwalker Ranch' (citing Reid's and Lacatski's accounts)",
+"via": null
+},
 "source": "Wikipedia, Skinwalker Ranch, citing Reid's and Lacatski's accounts",
 "sources": [
 {
@@ -94,6 +139,15 @@
 },
 {
 "id": "c-d85b2e59e5",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
 "sources": [
 {
@@ -108,6 +162,15 @@
 },
 {
 "id": "c-e5b822008a",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Skinwalker Ranch'",
+"via": null
+},
 "source": "Wikipedia, Skinwalker Ranch",
 "sources": [
 {

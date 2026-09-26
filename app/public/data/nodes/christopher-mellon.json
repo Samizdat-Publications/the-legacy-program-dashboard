@@ -104,6 +104,15 @@
 },
 {
 "id": "c-c1730160ec",
+"meta": {
+"artefactDate": "2020",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "The Phenomenon (2020), reported by Vice (MJ Banias)"
+},
 "source": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
 "sources": [
 {
@@ -118,6 +127,15 @@
 },
 {
 "id": "c-f49783d6f8",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
 "sources": [
 {
@@ -132,6 +150,15 @@
 },
 {
 "id": "c-c26dfeafaf",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Mellon, quoted in House Oversight release on the 9 September 2025 UAP transparency hearing",
 "sources": [],
 "text": "Characterized an AARO report as 'the most error-ridden and unsatisfactory government report I can recall reading.'",
@@ -140,6 +167,15 @@
 },
 {
 "id": "c-8537261071",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Christopher Mellon to DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -154,6 +190,15 @@
 },
 {
 "id": "c-5cf5fcea27",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "Christopher Mellon to DefenseScoop, 20 February 2026",
 "sources": [
 {
@@ -176,6 +221,15 @@
 },
 {
 "id": "c-877ed75e05",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
 "sources": [
 {
@@ -190,6 +244,15 @@
 },
 {
 "id": "c-4f5e2969ad",
+"meta": {
+"artefactDate": "2026-02-20",
+"claimant": "christopher-mellon",
+"claimantLabel": "Christopher K. Mellon",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "sources": [
 {
@@ -204,6 +267,15 @@
 },
 {
 "id": "c-796ef66e8f",
+"meta": {
+"artefactDate": "2025-12-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2025/12/10/uap-ufo-military-intercepts-north-america-fy-2026-ndaa/",
 "sources": [
 {
@@ -215,6 +287,195 @@
 "text": "The FY2026 NDAA's UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2020",
+"eventDate": null,
+"id": "c-f1668b6955",
+"node": "l-pentagon",
+"nodeLabel": "The Pentagon, Arlington, Virginia",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Christopher Mellon in The Phenomenon (2020), via Vice",
+"url": null
+},
+"text": "Christopher Mellon received the three video files 'in the Pentagon parking lot from a Defense Department official'.",
+"tier": 2,
+"topic": "aatip-elizondo",
+"via": "The Phenomenon (2020), via Vice"
+},
+{
+"artefactDate": "2023-06-05",
+"eventDate": null,
+"id": "c-f49783d6f8",
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Christopher Mellon, on the record, The Debrief, 5 June 2023",
+"url": null
+},
+"text": "'A number of well-placed current and former officials have shared detailed information with me regarding this alleged program.'",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": "The Debrief"
+},
+{
+"artefactDate": "2020",
+"eventDate": null,
+"id": "c-51ac5bb1d9",
+"node": "navy-flir-gimbal-gofast-videos",
+"nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
+"url": null
+},
+"text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "'The Phenomenon' (2020), reported by Vice"
+},
+{
+"artefactDate": "2020",
+"eventDate": null,
+"id": "c-c1730160ec",
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
+"url": null
+},
+"text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "The Phenomenon (2020), reported by Vice (MJ Banias)"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-c26dfeafaf",
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Mellon, quoted in House Oversight release on the 9 September 2025 UAP transparency hearing",
+"url": null
+},
+"text": "Characterized an AARO report as 'the most error-ridden and unsatisfactory government report I can recall reading.'",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-4f5e2969ad",
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.'",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-5cf5fcea27",
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Christopher Mellon to DefenseScoop, 20 February 2026",
+"url": null
+},
+"text": "'This might be a consequential moment, but the impact will depend on the follow-through.'",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-8537261071",
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Christopher Mellon to DefenseScoop, 14 May 2026",
+"url": null
+},
+"text": "'For years the public was told there was little to see. The scale of what exists is itself a revelation. That said, data alone is not disclosure.'",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-877ed75e05",
+"node": "christopher-mellon",
+"nodeLabel": "Christopher K. Mellon",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+"text": "'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-554ed7306e",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/",
+"url": "https://defensescoop.com/2026/05/14/uap-trump-first-pursue-ufo-file-drop/"
+},
+"text": "Christopher Mellon, former deputy assistant secretary of defense for intelligence: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-05-14",
+"eventDate": null,
+"id": "c-c91bbc06c1",
+"node": "pursue-releases",
+"nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DefenseScoop, 14 May 2026",
+"url": null
+},
+"text": "Christopher Mellon on the first drop: 'Data alone is not disclosure. Releasing raw files without context may confuse more than clarify.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
 }
 ],
 "cls": "person",

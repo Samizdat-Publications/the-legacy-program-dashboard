@@ -206,6 +206,15 @@
 },
 {
 "id": "c-993d987c29",
+"meta": {
+"artefactDate": "2020-07-23",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": "2019-03",
+"route": "press",
+"speaker": null,
+"via": "The New York Times (Kean and Blumenthal)"
+},
 "source": "Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020",
 "sources": [
 {
@@ -228,6 +237,15 @@
 },
 {
 "id": "c-c675518958",
+"meta": {
+"artefactDate": "2019",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": "2002-10",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Eric W. Davis, statements to journalists following the notes' 2019 emergence",
 "sources": [],
 "text": "Davis has confirmed to journalists that the fifteen pages of handwritten notes describing an October 2002 conversation with Admiral Thomas Wilson are his own.",
@@ -236,6 +254,15 @@
 },
 {
 "id": "c-9298e0fe98",
+"meta": {
+"artefactDate": "2002-10-16",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Wilson-Davis notes, 16 Oct 2002, as circulated from 2019",
 "sources": [
 {
@@ -258,6 +285,15 @@
 },
 {
 "id": "c-b123bc0555",
+"meta": {
+"artefactDate": "2002-10-16",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Notes attributed to Eric W. Davis of a 16 October 2002 meeting; circulated publicly from 2019",
 "sources": [
 {
@@ -272,6 +308,15 @@
 },
 {
 "id": "c-65d1c2ae1c",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024, Section IV on AAWSAP/AATIP deliverables - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -286,6 +331,15 @@
 },
 {
 "id": "c-32cc3d14a6",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2009",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "sources": [
 {
@@ -300,6 +354,15 @@
 },
 {
 "id": "c-8d6448fa78",
+"meta": {
+"artefactDate": "2026-03-08",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:53:04 to 0:53:25 (machine transcript of the podcast audio, checked against the audio timestamps)",
 "sources": [
 {
@@ -314,6 +377,15 @@
 },
 {
 "id": "c-040ce1a32e",
+"meta": {
+"artefactDate": "2026-03-08",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:52:03 to 0:52:59 (machine transcript, checked against the audio timestamps)",
 "sources": [
 {
@@ -370,6 +442,15 @@
 },
 {
 "id": "c-2451f39f83",
+"meta": {
+"artefactDate": "2020-07-23",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": "2019-10-21",
+"route": "press",
+"speaker": null,
+"via": "The New York Times (Ralph Blumenthal)"
+},
 "source": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
 "sources": [
 {
@@ -384,6 +465,15 @@
 },
 {
 "id": "c-337b9b8425",
+"meta": {
+"artefactDate": "2020-07-23",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The New York Times"
+},
 "source": "Eric W. Davis quoted in The New York Times, 23 July 2020",
 "sources": [
 {
@@ -398,6 +488,15 @@
 },
 {
 "id": "c-83f85ad5a9",
+"meta": {
+"artefactDate": "2002-10-16",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": "2002-10-16",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Widely reported 'Wilson-Davis memo'; Davis has not publicly repudiated authorship. Primary provenance is the Mitchell estate, not a government release.",
 "sources": [
 {
@@ -417,6 +516,365 @@
 "text": "The October 2019 briefings are the proximate cause of the Senate Intelligence Committee's June 2020 report language directing a UAP assessment: a technical contractor told two committees, within 48 hours, that recovered non-human hardware existed.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2002-10-16",
+"eventDate": "1997",
+"id": "c-57e9190bad",
+"node": "wilson-davis-memo",
+"nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
+"url": null
+},
+"text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": "2024-12-12",
+"eventDate": "1989",
+"id": "c-9db1fbc705",
+"node": "arv-fluxliner",
+"nodeLabel": "Alien Reproduction Vehicle (ARV) / Flux Liner",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ , published 2024-12-12, opened 18 September 2026; content recorded at research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00",
+"url": "https://www.youtube.com/watch?v=LnAiNChnuEQ"
+},
+"text": "The case against, from inside the classification line. On the Jesse Michels episode published 12 December 2024, video id LnAiNChnuEQ, Eric Davis said that no ARV exists and none has ever been built, that the Northrop Grumman and Area 51 ARV rumours are 'all myth', that they originate with Bob Lazar-type storytellers who 'believe their own bullshit' rather than with deliberate disinformation, and that the CIA 'shut it all down' in 1989. The episode is identified here by video id and not by title: research/leads/michels-corpus-03.md file 04 recorded it as 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)' on the channel 'American Alchemy', and as opened on 18 September 2026 the same video id carries the title 'Eric Davis: A US President Was Briefed on UFOs!' on the channel 'Jesse Michels'. The corpus timestamp 0:36:24 to 0:38:00 falls inside the video's 52:45 runtime.",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": "Jesse Michels (American Alchemy)"
+},
+{
+"artefactDate": "2024-12-13",
+"eventDate": null,
+"id": "c-6af94511e8",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:19:28 to 0:20:19",
+"url": null
+},
+"text": "At 0:19:28 and 0:20:19 in the same episode Davis said he had no direct interaction with Gaffney but that the aerospace defence firm involved, and that firm's senior and executive vice presidents, did; and that Gaffney was 'very antagonistic' about that company releasing to them, under DIA classification, a collection of crash retrieval materials held by Bigelow Aerospace Advanced Space Studies and EarthTech since the 1989 shutdown. This is a second blocked transfer, distinct from the Lockheed to Bigelow transfer the node already carries.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2024-12-13",
+"eventDate": null,
+"id": "c-78cdcade4d",
+"node": "glenn-gaffney",
+"nodeLabel": "Glenn Gaffney",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:22:48, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868"
+},
+"text": "On American Alchemy with Jesse Michels, 13 December 2024, at 0:22:48, Eric Davis said of Gaffney 'I think his title was deputy director of the CIA over the directorate of science and technology. And that's where the UAP portfolio is held.' Davis hedges the title himself. No record opened in this pass establishes either the title or the portfolio placement.",
+"tier": 2,
+"topic": "congressional-witnesses",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2020-07-23",
+"eventDate": "2019-10-21",
+"id": "c-2451f39f83",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Ralph Blumenthal, The New York Times, 23 July 2020, quoting Davis on the record",
+"url": null
+},
+"text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019, and to a Defense Department agency in March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+"tier": 2,
+"topic": "dirds",
+"via": "The New York Times (Ralph Blumenthal)"
+},
+{
+"artefactDate": "2020-07-23",
+"eventDate": null,
+"id": "c-337b9b8425",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Eric W. Davis quoted in The New York Times, 23 July 2020",
+"url": null
+},
+"text": "Of the analysed materials Davis said: 'We couldn't make it ourselves.'",
+"tier": 2,
+"topic": "dirds",
+"via": "The New York Times"
+},
+{
+"artefactDate": "2020-07-23",
+"eventDate": "2019-03",
+"id": "c-993d987c29",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Leslie Kean and Ralph Blumenthal, New York Times, 23 July 2020",
+"url": null
+},
+"text": "Davis briefed Senate Armed Services Committee staff in March 2019 on retrievals of 'off-world vehicles not made on this earth'.",
+"tier": 2,
+"topic": "dirds",
+"via": "The New York Times (Kean and Blumenthal)"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-615320e008",
+"node": "dird-antigravity-for-aerospace-applications",
+"nodeLabel": "Antigravity for Aerospace Applications",
+"route": "document",
+"source": {
+"domain": "ufos-scientificresearch.blogspot.com",
+"text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
+},
+"text": "EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), \"Antigravity for Aerospace Applications\", Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1003-018, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC. This is the author's own attribution and matches the DIA list and the cover page exactly.",
+"tier": 2,
+"topic": "dirds",
+"via": "ufos-scientificresearch.blogspot.com"
+},
+{
+"artefactDate": "2024-12-13",
+"eventDate": null,
+"id": "c-eedd300b20",
+"node": "david-grusch",
+"nodeLabel": "David Charles Grusch",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'CIA Scientist: George Bush Was Briefed on UFOs (ft. Eric Davis)', 13 December 2024, 0:07:12 to 0:08:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7341687364.mp3?updated=1752173868"
+},
+"text": "On American Alchemy with Jesse Michels, 13 December 2024, at 0:07:12, Eric Davis described three separate acts against Grusch after his whistleblower complaint and before his testimony: he 'got harassed by, by someone in the National Reconnaissance Office', then 'got physically harassed at his home and in his vehicles by people unknown', then somebody leaked a PTSD episode from his private medical files. Davis names an institution only for the first. The three have three different actors and should not be merged.",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2002-10-16",
+"eventDate": "2002-10-16",
+"id": "c-83f85ad5a9",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Widely reported 'Wilson-Davis memo'; Davis has not publicly repudiated authorship. Primary provenance is the Mitchell estate, not a government release.",
+"url": null
+},
+"text": "Notes attributed to Davis of a 16 October 2002 meeting with Vice Adm. Thomas R. Wilson, former Director of the DIA, describe a special access programme within a defence contractor that refused Wilson access; the notes surfaced in 2019 among the estate papers of Apollo astronaut Edgar Mitchell.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2002-10-16",
+"eventDate": null,
+"id": "c-9298e0fe98",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Wilson-Davis notes, 16 Oct 2002, as circulated from 2019",
+"url": null
+},
+"text": "The notes record Wilson describing being refused access, on need-to-know grounds, to a special access programme holding recovered non-human material in contractor custody.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2002-10-16",
+"eventDate": null,
+"id": "c-946d714ea1",
+"node": "thomas-wilson",
+"nodeLabel": "Thomas R. Wilson",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Wilson-Davis notes, 16 Oct 2002",
+"url": null
+},
+"text": "The Davis notes record Wilson stating he was refused access to a special access programme holding recovered non-human material, on the grounds that he lacked need-to-know, despite his position as Joint Staff J-2.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2002-10-16",
+"eventDate": null,
+"id": "c-b123bc0555",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Notes attributed to Eric W. Davis of a 16 October 2002 meeting; circulated publicly from 2019",
+"url": null
+},
+"text": "The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special access program holding a recovered craft, on the basis that the program sat with a private aerospace contractor and he had no need to know.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2019",
+"eventDate": null,
+"id": "c-96a8cb7a41",
+"node": "wilson-davis-memo",
+"nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Eric W. Davis, statements to journalists following the 2019 emergence of the notes",
+"url": null
+},
+"text": "Eric W. Davis has confirmed to journalists that the handwritten notes are his own.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2019",
+"eventDate": "2002-10",
+"id": "c-c675518958",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Eric W. Davis, statements to journalists following the notes' 2019 emergence",
+"url": null
+},
+"text": "Davis has confirmed to journalists that the fifteen pages of handwritten notes describing an October 2002 conversation with Admiral Thomas Wilson are his own.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2026-03-08",
+"eventDate": null,
+"id": "c-040ce1a32e",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:52:03 to 0:52:59 (machine transcript, checked against the audio timestamps)",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo,"
+},
+"text": "In the same conversation, asked how Admiral Thomas Wilson reacted when they met, Davis said: 'I can't confirm or deny that we met, for the security reasons.' He said the document 'was released from Mitchell's estate', that Edgar Mitchell had received a copy 'as a courtesy from who generated it', and that it 'was supposed to be destroyed' a year afterwards. Authorship confirmed; the meeting neither confirmed nor denied by its author.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2026-03-08",
+"eventDate": null,
+"id": "c-8d6448fa78",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "American Alchemy with Jesse Michels, 'Eric Weinstein Demands UFO Secrets From Pentagon Scientist', published 8 March 2026, https://www.youtube.com/watch?v=xnxasfyHtfo, at 0:53:04 to 0:53:25 (machine transcript of the podcast audio, checked against the audio timestamps)",
+"url": "https://www.youtube.com/watch?v=xnxasfyHtfo,"
+},
+"text": "On 8 March 2026, asked by Jesse Michels on the record whether he had confirmed writing the Wilson-Davis notes, Davis said: 'I can confirm. Seeking legal counsel. They're real. They're legit. They're 100% accurate.' He added that the circulated document is 'the typewritten version' and that 'there's a handwritten version, but that's all I can say about it.'",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": null,
+"eventDate": "1999",
+"id": "c-627f05aa82",
+"node": "will-miller",
+"nodeLabel": "Will Miller",
+"route": "document",
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, pp 5-6, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The notes record Wilson as 'Very furious - very angry about Miller' for having 'Violated personal and professional trust - especially among intelligence colleagues/Navy officers', and carry Davis's own parenthesis that 'Miller told Ed Mitchell who only told me in 1999'.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1997-04",
+"id": "c-daf25928e2",
+"node": "will-miller",
+"nodeLabel": "Will Miller",
+"route": "document",
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, p 1, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The notes record Wilson confirming that 'Greer/Miller/Mitchell gave talk in Pentagon Conference room' in April 1997 with Adm. Mike Crawford and Gen. Pat Hughes present, and that afterwards 'Miller/Wilson talked (privately) 2 hours on UFOs, MJ-12, Roswell, crashed UFOs/alien bodies'.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": "The Black Vault"
+},
+{
+"artefactDate": "2020-07-23",
+"eventDate": "2019-10-21",
+"id": "c-a716c92bc3",
+"node": "davis-sasc-briefing-2019",
+"nodeLabel": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Ralph Blumenthal, The New York Times, 23 July 2020, on Davis's own account",
+"url": null
+},
+"text": "Davis gave classified briefings on retrievals of unexplained objects to Senate Armed Services Committee staff on 21 October 2019 and to Senate Intelligence Committee members on 23 October 2019.",
+"tier": 2,
+"topic": null,
+"via": "The New York Times (Ralph Blumenthal)"
+},
+{
+"artefactDate": "2020-07-23",
+"eventDate": "2020-03",
+"id": "c-f5b82c2811",
+"node": "davis-sasc-briefing-2019",
+"nodeLabel": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The New York Times, 23 July 2020",
+"url": null
+},
+"text": "Davis said he gave a classified briefing to a Defense Department agency as recently as March 2020 about retrievals from 'off-world vehicles not made on this earth'.",
+"tier": 2,
+"topic": null,
+"via": "The New York Times"
 }
 ],
 "cls": "person",

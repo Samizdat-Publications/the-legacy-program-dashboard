@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-2d4169e20f",
+"meta": {
+"artefactDate": null,
+"claimant": "cufon",
+"claimantLabel": "Computer UFO Network (CUFON)",
+"eventDate": "1953-01-09",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "CUFON transcription and provenance record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addressed to Miles E. Goll at Wright-Patterson Air Force Base, Ohio, under Project Stork.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-909b2a63ba",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (the Pentacle Memorandum)",
+"via": "CUFON"
+},
 "source": "CUFON transcription of the memorandum text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "It states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area' of proposed controlled experiments.",
@@ -22,6 +40,15 @@
 },
 {
 "id": "c-2a57a4f73b",
+"meta": {
+"artefactDate": "1992",
+"claimant": "jacques-vallee",
+"claimantLabel": "Jacques F. Vallee",
+"eventDate": "1967-06-18",
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Jacques Vallee, Forbidden Science; CUFON; Bad UFOs analysis, 18 February 2012",
 "sources": [],
 "text": "Jacques Vallee discovered the memorandum in 1967 while working with J. Allen Hynek's papers, recorded it in his journal on 18 June 1967, and published an account in Forbidden Science (1992) using the codename 'Pentacle'; H. C. Cross was later identified as its author.",
@@ -30,6 +57,15 @@
 },
 {
 "id": "c-6787d85102",
+"meta": {
+"artefactDate": null,
+"claimant": "jacques-vallee",
+"claimantLabel": "Jacques F. Vallee",
+"eventDate": "1953-01-14",
+"route": "document",
+"speaker": null,
+"via": "CUFON"
+},
 "source": "Vallee correspondence quoted by CUFON",
 "sources": [
 {

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-a1360b1e48",
+"meta": {
+"artefactDate": "2022-05-09",
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
+"eventDate": null,
+"route": "press",
+"speaker": "Dave Beaty, Sean Munger and Craig Labadie (The Debrief)",
+"via": null
+},
 "source": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-35f524b161",
+"meta": {
+"artefactDate": "2022-05-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (Boatswain's Mate of the Watch); Gokey (witness)",
+"via": "The Debrief"
+},
 "source": "The Debrief, 9 May 2022",
 "sources": [],
 "text": "The Boatswain's Mate of the Watch says he was ordered by a senior officer to 'rip it out' of the logbook; another witness was instructed not to write the sighting down; Gokey says he saw an officer order subordinates to remove pages from the deck logbook.",
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-cd3a69b89b",
+"meta": {
+"artefactDate": "2022-05-09",
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
+"eventDate": "2004",
+"route": "press",
+"speaker": "unnamed crew members, per The Debrief",
+"via": null
+},
 "source": "The Debrief, 9 May 2022",
 "sources": [],
 "text": "Crew members estimated 50 to 300 additional personnel witnessed the event.",

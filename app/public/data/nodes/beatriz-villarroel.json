@@ -45,6 +45,15 @@
 "claims": [
 {
 "id": "c-3f71b5a057",
+"meta": {
+"artefactDate": "2025-10-25",
+"claimant": "beatriz-villarroel",
+"claimantLabel": "Beatriz Villarroel",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:22:14, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
 "sources": [
 {
@@ -59,6 +68,15 @@
 },
 {
 "id": "c-78d71cff81",
+"meta": {
+"artefactDate": "2025-10-25",
+"claimant": "beatriz-villarroel",
+"claimantLabel": "Beatriz Villarroel",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:24:04",
 "sources": [
 {
@@ -120,6 +138,42 @@
 "text": "The POSS-I plates are the only surviving, uncontaminated, physically archived instrumental record of the sky over the United States during the exact window in which this board's programme is alleged to have begun, and they sit entirely outside government classification authority. That is why they matter more than their citation count suggests.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2025-10-25",
+"eventDate": null,
+"id": "c-3f71b5a057",
+"node": "beatriz-villarroel",
+"nodeLabel": "Beatriz Villarroel",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:22:14, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1307454785.mp3?updated=1761413167"
+},
+"text": "On American Alchemy with Jesse Michels, 25 October 2025, at 0:22:14 to 0:23:09, Beatriz Villarroel said that since about the early 1960s there have been objects called uncorrelated targets, seen once or a few times on radar or optical sensors and then untrackable, and that these are subtracted from the background when the number of objects in space is calculated. She said the subtraction is not done by NASA or ESA themselves.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-10-25",
+"eventDate": null,
+"id": "c-78d71cff81",
+"node": "beatriz-villarroel",
+"nodeLabel": "Beatriz Villarroel",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'Top Astronomer: I Found 100,000 UFOs Above Earth! (ft. Beatriz Villarroel)', 25 October 2025, 0:24:04",
+"url": null
+},
+"text": "At 0:24:04 in the same episode Villarroel said the lists are held by the Space Force and are classified, including the earliest from the 1960s, and that what she wants is one such list of coordinates so she can test whether the objects vanish in the Earth's shadow. Asked how she knows, she answered 'I think that's what I heard from someone on the inside, yes.' The sourcing limit is hers, stated in the passage.",
+"tier": 2,
+"topic": "astronomers-searches",
+"via": "American Alchemy with Jesse Michels"
 }
 ],
 "cls": "person",

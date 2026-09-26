@@ -108,6 +108,15 @@
 },
 {
 "id": "c-8c212a3c9d",
+"meta": {
+"artefactDate": "2026-05-08",
+"claimant": "kirsten-gillibrand",
+"claimantLabel": "Kirsten E. Gillibrand",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
 "sources": [
 {
@@ -122,6 +131,15 @@
 },
 {
 "id": "c-61c7245cc2",
+"meta": {
+"artefactDate": "2025-07-15",
+"claimant": "kirsten-gillibrand",
+"claimantLabel": "Kirsten E. Gillibrand",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "gillibrand.senate.gov, 15 July 2025",
 "sources": [],
 "text": "Her FY2026 defense bill announcement claims only 'language to update congressional briefing requirements for UAP' — matching Sec. 1671 of P.L. 119-60, not any disclosure mandate.",
@@ -157,11 +175,107 @@
 },
 {
 "id": "c-66f404e0c9",
+"meta": {
+"artefactDate": "2023",
+"claimant": "kirsten-gillibrand",
+"claimantLabel": "Kirsten E. Gillibrand",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Armed Services Committee (UAP hearings)"
+},
 "source": "Gillibrand opening statements, SASC UAP hearings 2023 and 2024",
 "sources": [],
 "text": "Gillibrand's standing criticism is that AARO has been under-resourced and slow-walked by the Department relative to its statutory mandate.",
 "tier": 2,
 "unresolved": "read in review as naming no single source: Names two separate hearings' statements jointly; no single dated source."
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023",
+"eventDate": null,
+"id": "c-66f404e0c9",
+"node": "kirsten-gillibrand",
+"nodeLabel": "Kirsten E. Gillibrand",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Gillibrand opening statements, SASC UAP hearings 2023 and 2024",
+"url": null
+},
+"text": "Gillibrand's standing criticism is that AARO has been under-resourced and slow-walked by the Department relative to its statutory mandate.",
+"tier": 2,
+"topic": "aaro",
+"via": "Senate Armed Services Committee (UAP hearings)"
+},
+{
+"artefactDate": "2025-07-15",
+"eventDate": null,
+"id": "c-61c7245cc2",
+"node": "kirsten-gillibrand",
+"nodeLabel": "Kirsten E. Gillibrand",
+"route": "document",
+"source": {
+"domain": null,
+"text": "gillibrand.senate.gov, 15 July 2025",
+"url": null
+},
+"text": "Her FY2026 defense bill announcement claims only 'language to update congressional briefing requirements for UAP' — matching Sec. 1671 of P.L. 119-60, not any disclosure mandate.",
+"tier": 2,
+"topic": "aaro",
+"via": null
+},
+{
+"artefactDate": "2026-05-08",
+"eventDate": null,
+"id": "c-8c212a3c9d",
+"node": "kirsten-gillibrand",
+"nodeLabel": "Kirsten E. Gillibrand",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
+"url": null
+},
+"text": "'Transparency is the only path to truth... I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"tier": 2,
+"topic": "aaro",
+"via": null
+},
+{
+"artefactDate": "2026-05-08",
+"eventDate": null,
+"id": "c-2cbc0614c6",
+"node": "dow-uap-file-release-2026",
+"nodeLabel": "Department of War release of UAP files",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
+"url": null
+},
+"text": "Gillibrand: 'I am encouraged that the administration has finally heard my call and the call of millions of Americans to begin unsealing these files. This is another important step, but there is much more work to do. I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-42660bd70c",
+"node": "dow-uap-file-release-2026",
+"nodeLabel": "Department of War release of UAP files",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Hyperlink on gillibrand.senate.gov statement page to war.gov news release article 4480582 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "Gillibrand's statement links directly to a Department of War release headed 'Department of War Releases Unidentified Anomalous Phenomena Files.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": null
 }
 ],
 "cls": "person",

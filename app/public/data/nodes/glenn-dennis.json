@@ -43,6 +43,15 @@
 "claims": [
 {
 "id": "c-9f893b5607",
+"meta": {
+"artefactDate": "1997",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Roswell Report: Case Closed (1997), Section 2.1, 'The Missing Nurse and the Pediatrician' — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -57,6 +66,15 @@
 },
 {
 "id": "c-d4e73dc23b",
+"meta": {
+"artefactDate": "1997",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": "1947-07",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Roswell Report: Case Closed (1997), Section 2.1, citing 427th AAFBU Squadron M morning reports — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -71,6 +89,15 @@
 },
 {
 "id": "c-9236b650a1",
+"meta": {
+"artefactDate": "1997",
+"claimant": "usaf",
+"claimantLabel": "United States Air Force",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "The Roswell Report: Case Closed (1997), Section 2.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -85,6 +112,15 @@
 },
 {
 "id": "c-65ca0c2db7",
+"meta": {
+"artefactDate": "2007",
+"claimant": "don-schmitt",
+"claimantLabel": "Donald R. Schmitt",
+"eventDate": null,
+"route": "book",
+"speaker": null,
+"via": null
+},
 "source": "Carey and Schmitt, 'Witness to Roswell' (2007)",
 "sources": [
 {

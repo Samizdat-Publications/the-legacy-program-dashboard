@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-3d8ba5074a",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "ufos-scientificresearch.blogspot.com"
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-2ef2b5df8c",
+"meta": {
+"artefactDate": null,
+"claimant": "paul-czysz",
+"claimantLabel": "Paul A. Czysz",
+"eventDate": "1986",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.researchgate.net/profile/Paul-Czysz",
 "sources": [
 {
@@ -37,6 +55,15 @@
 },
 {
 "id": "c-36c00191a9",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2013",
+"route": "document",
+"speaker": "Legacy.com (obituary)",
+"via": null
+},
 "source": "https://www.legacy.com/us/obituaries/stltoday/name/paul-czysz-obituary?pid=166480027",
 "sources": [
 {
@@ -62,6 +89,25 @@
 "text": "The released cover page of the Space Access DIRD redacts the author name under FOIA exemption (b)(6) and reads only \"Author: [redacted].\" The attribution to Czysz rests on the DIA list, not on the document.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1986",
+"id": "c-2ef2b5df8c",
+"node": "paul-czysz",
+"nodeLabel": "Paul A. Czysz",
+"route": "document",
+"source": {
+"domain": "www.researchgate.net",
+"text": "https://www.researchgate.net/profile/Paul-Czysz",
+"url": "https://www.researchgate.net/profile/Paul-Czysz"
+},
+"text": "Czysz was Professor Emeritus of Aerospace Engineering at Saint Louis University, former chief scientist on the National Aerospace Plane project, and president of HyperTech Concepts LLC; he was named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts.",
+"tier": 2,
+"topic": "dirds",
+"via": null
 }
 ],
 "cls": "person",

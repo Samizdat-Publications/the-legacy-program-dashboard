@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-0678c85bf3",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "ufos-scientificresearch.blogspot.com"
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-4dfd1e9f67",
+"meta": {
+"artefactDate": null,
+"claimant": "klas-tv",
+"claimantLabel": "KLAS-TV (Las Vegas)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "ufos-scientificresearch.blogspot.com"
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -37,6 +55,15 @@
 },
 {
 "id": "c-dac271563e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1976",
+"route": "document",
+"speaker": "SPIE Optical Engineering journal (special section guest editorial)",
+"via": null
+},
 "source": "https://www.spiedigitallibrary.org/journals/optical-engineering/volume-52/issue-2/021001/Special-Section-Guest-Editorial--High-Energy-Laser-Systems-and/10.1117/1.OE.52.2.021001.full",
 "sources": [
 {

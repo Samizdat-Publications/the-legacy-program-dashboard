@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-f1f518b95b",
+"meta": {
+"artefactDate": "2024-12-17",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Joint federal statement, 17 December 2024, reported by The Debrief",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-c735d9016b",
+"meta": {
+"artefactDate": "2024-12-17",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Joint federal statement, 17 December 2024",
 "sources": [],
 "text": "The FBI received over 5,000 drone reports; officials analysed roughly 100 specific leads and attributed them to commercial, hobbyist and law enforcement drones, manned aircraft, helicopters and stars.",

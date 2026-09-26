@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-bde3b1fd88",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1977",
+"route": "document",
+"speaker": "Paul Stonehill and Philip Mantle",
+"via": null
+},
 "source": "Paul Stonehill and Philip Mantle, 'Setka: A Secret Soviet UFO Research Program', Archivos Forteanos Latino Americanos",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-74818cf574",
+"meta": {
+"artefactDate": null,
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Stonehill and Mantle"
+},
 "source": "Stonehill and Mantle, quoting Platov and Sokolov, History of State-directed UFO Research in the USSR",
 "sources": [],
 "text": "Programme secrecy justification, per Y. Platov and B. Sokolov's own 'History of State-directed UFO Research in the USSR': the programmes 'formally belonged to activities pertaining defense-related subjects; initial assumption that there is a high probability of military-technical origin of the observed strange phenomena; and possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes.'",
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-4a2b782dcc",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1978-10-18",
+"route": "book",
+"speaker": "Stonehill and Mantle",
+"via": null
+},
 "source": "Stonehill and Mantle, 'Setka: A Secret Soviet UFO Research Program'",
 "sources": [],
 "text": "Attendee list and institutional affiliations at the founding meeting of 18 October 1978, including Balashov and Volga representing 'the secret military unit 67947', with IZMIRAN as lead agency and Platov as chief executive for SETKA-AN.",
@@ -36,6 +63,15 @@
 },
 {
 "id": "c-307f59b5ac",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1981",
+"route": "book",
+"speaker": "Stonehill and Mantle",
+"via": null
+},
 "source": "Stonehill and Mantle",
 "sources": [],
 "text": "'In 1981, the SETKA research program was given another name, Galaktika ... and in 1986, the name was changed to Gorizont MO and AN. After the program ended ... a group of experts remained in the Department of General Physics and Astronomy of the Russian Academy of Sciences where they analyzed incoming reports until 1996.'",
@@ -44,6 +80,15 @@
 },
 {
 "id": "c-36b98f2f08",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1980-03-07",
+"route": "book",
+"speaker": "Stonehill and Mantle",
+"via": null
+},
 "source": "Stonehill and Mantle",
 "sources": [],
 "text": "'The Guidelines for the Soviet Navy had been dated March 7, 1980, and signed by Deputy Commander of the Main HQ of the Navy, Vice Admiral Saakyan.'",
@@ -52,6 +97,15 @@
 },
 {
 "id": "c-082f39db7e",
+"meta": {
+"artefactDate": "2000",
+"claimant": "uk-di55",
+"claimantLabel": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -66,6 +120,15 @@
 },
 {
 "id": "c-6d1407e493",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Petrozavodsk phenomenon' (citing Stonehill and Mantle)",
+"via": "Wikipedia, 'Petrozavodsk phenomenon'"
+},
 "source": "Wikipedia, 'Petrozavodsk phenomenon', citing Stonehill and Mantle",
 "sources": [
 {
@@ -80,6 +143,15 @@
 },
 {
 "id": "c-1f05a928a1",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": "1977-09-20",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Yu. V. Platov and B. A. Sokolov, translated from Vestnik Rossiiskoi Akademii Nauk, Vol. 70, No. 6, 2000, pp. 507-515 - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -94,6 +166,15 @@
 },
 {
 "id": "c-e27c883087",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -108,6 +189,15 @@
 },
 {
 "id": "c-db23262140",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": "1977-10",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -122,6 +212,15 @@
 },
 {
 "id": "c-591cd82345",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": "1978",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -136,6 +235,15 @@
 },
 {
 "id": "c-0e4c35e827",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": "1978",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -150,6 +258,15 @@
 },
 {
 "id": "c-0b0d175eb3",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -164,6 +281,15 @@
 },
 {
 "id": "c-96349df723",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -178,6 +304,15 @@
 },
 {
 "id": "c-8a70dcb0e0",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": "1980-01",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -192,6 +327,15 @@
 },
 {
 "id": "c-8ca8534426",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -206,6 +350,15 @@
 },
 {
 "id": "c-71fb6b2519",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -220,6 +373,15 @@
 },
 {
 "id": "c-d77bf36e2d",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -234,6 +396,15 @@
 },
 {
 "id": "c-66772d8e0e",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -248,6 +419,15 @@
 },
 {
 "id": "c-7602f94a7a",
+"meta": {
+"artefactDate": "2000",
+"claimant": "yury-platov",
+"claimantLabel": "Yury Viktorovich Platov",
+"eventDate": "1984",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {

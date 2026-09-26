@@ -22,6 +22,15 @@
 "claims": [
 {
 "id": "c-4f6a2b87f2",
+"meta": {
+"artefactDate": "2019-09-10",
+"claimant": "joseph-gradisher",
+"claimantLabel": "Joseph Gradisher",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Joseph Gradisher, U.S. Navy, 10 September 2019",
 "sources": [
 {
@@ -36,6 +45,15 @@
 },
 {
 "id": "c-58a745a2ef",
+"meta": {
+"artefactDate": "2019-09",
+"claimant": "joseph-gradisher",
+"claimantLabel": "Joseph Gradisher",
+"eventDate": "2017",
+"route": "press",
+"speaker": null,
+"via": "The Black Vault"
+},
 "source": "Joseph Gradisher, U.S. Navy, September 2019, via The Black Vault",
 "sources": [
 {
@@ -47,6 +65,76 @@
 "text": "Stated that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2019-09",
+"eventDate": "2017",
+"id": "c-c98ac5e49b",
+"node": "dopsr",
+"nodeLabel": "Defense Office of Prepublication and Security Review",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Joseph Gradisher, U.S. Navy, via The Black Vault",
+"url": null
+},
+"text": "The Navy stated in September 2019 that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
+"tier": 1,
+"topic": "aatip-elizondo",
+"via": "The Black Vault"
+},
+{
+"artefactDate": "2019-09",
+"eventDate": "2017",
+"id": "c-58a745a2ef",
+"node": "joseph-gradisher",
+"nodeLabel": "Joseph Gradisher",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Joseph Gradisher, U.S. Navy, September 2019, via The Black Vault",
+"url": null
+},
+"text": "Stated that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017.'",
+"tier": 1,
+"topic": "denial-ledger",
+"via": "The Black Vault"
+},
+{
+"artefactDate": "2019-09-10",
+"eventDate": null,
+"id": "c-20c625ae80",
+"node": "navy-flir-gimbal-gofast-videos",
+"nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
+"route": "press",
+"source": {
+"domain": null,
+"text": "U.S. Navy statement, 10 September 2019",
+"url": null
+},
+"text": "Navy spokesman Joseph Gradisher stated on 10 September 2019: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+"tier": 1,
+"topic": "denial-ledger",
+"via": null
+},
+{
+"artefactDate": "2019-09-10",
+"eventDate": null,
+"id": "c-4f6a2b87f2",
+"node": "joseph-gradisher",
+"nodeLabel": "Joseph Gradisher",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Joseph Gradisher, U.S. Navy, 10 September 2019",
+"url": null
+},
+"text": "Stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.'",
+"tier": 1,
+"topic": "denial-ledger",
+"via": null
 }
 ],
 "cls": "person",

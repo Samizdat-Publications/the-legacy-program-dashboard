@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-33c2d87a12",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/About/Leaders/ — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-b2872ef380",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-0f989f4879",
+"meta": {
+"artefactDate": "2026-03-16",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": "2025-08",
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/03/16/dod-ufo-workshop-uap-research-aaro/",
 "sources": [
 {

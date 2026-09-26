@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-b4d88c0c0d",
+"meta": {
+"artefactDate": "2023-10-25",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-c1729b3d91",
+"meta": {
+"artefactDate": "2023-10-25",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-44c9513188",
+"meta": {
+"artefactDate": "2023-10-25",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-f88461a38d",
+"meta": {
+"artefactDate": "2023-10-25",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO FY2023 Consolidated Annual Report on UAP, 25 October 2023",
 "sources": [
 {
@@ -62,6 +98,15 @@
 },
 {
 "id": "c-1befb17ee9",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO FY2023 Consolidated Annual Report on UAP",
 "sources": [
 {
@@ -76,6 +121,15 @@
 },
 {
 "id": "c-eb1bb2dd1e",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO FY2023 Consolidated Annual Report on UAP",
 "sources": [
 {

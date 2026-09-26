@@ -34,6 +34,15 @@
 },
 {
 "id": "c-b3474b79d3",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, p. 30",
 "sources": [
 {
@@ -62,6 +71,15 @@
 },
 {
 "id": "c-1ca1bc4d7e",
+"meta": {
+"artefactDate": "1954",
+"claimant": "doe",
+"claimantLabel": "United States Department of Energy",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Atomic Energy Act of 1954, as amended, and DOE classification policy",
 "sources": [
 {
@@ -87,6 +105,42 @@
 "text": "Any material-exploitation activity placed under DOE Restricted Data authority would be structurally immune to a presidential UAP declassification directive issued under Executive Order 13526, and would not appear in a DoD SAP list at all. Reasoning: the two classification systems are legally distinct, and a 2026 directive addressed to national security information does not reach born-classified atomic energy information.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1954",
+"eventDate": null,
+"id": "c-1ca1bc4d7e",
+"node": "doe",
+"nodeLabel": "United States Department of Energy",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Atomic Energy Act of 1954, as amended, and DOE classification policy",
+"url": null
+},
+"text": "Restricted Data and Formerly Restricted Data under the Atomic Energy Act of 1954 are classified by statute rather than by executive order, and are administered jointly by DOE and DoD outside the EO 13526 declassification framework.",
+"tier": 2,
+"topic": "atomic-secrecy",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-29950584ae",
+"node": "stony-brook-university",
+"nodeLabel": "Stony Brook University",
+"route": "document",
+"source": {
+"domain": "www.bnl.gov",
+"text": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
+"url": "https://www.bnl.gov/about/"
+},
+"text": "Brookhaven National Laboratory states that 'Brookhaven Lab is managed for the Office of Science by Brookhaven Science Associates, a partnership between Stony Brook University and Battelle, and six core universities: Columbia, Cornell, Harvard, Massachusetts Institute of Technology, Princeton, and Yale.'",
+"tier": 1,
+"topic": null,
+"via": null
 }
 ],
 "cls": "institution",

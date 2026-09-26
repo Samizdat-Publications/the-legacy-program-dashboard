@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-dcf87b6931",
+"meta": {
+"artefactDate": null,
+"claimant": "stanton-friedman",
+"claimantLabel": "Stanton T. Friedman",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Stanton T. Friedman, 'The Bob Lazar Fraud', https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/ , opened 2026-09-18",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-b15ca3dc91",
+"meta": {
+"artefactDate": "1996-05-25",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "unnamed (Los Alamos colleague, anonymised at his own request)",
+"via": "Mark Farmer"
+},
 "source": "Mark Farmer, recorded telephone interview, 25 May 1996, https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/ , opened 2026-09-18",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-3fd09f3aab",
+"meta": {
+"artefactDate": "1995-03-12",
+"claimant": "gene-huff",
+"claimantLabel": "Gene Huff",
+"eventDate": "1982-05-18",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Gene Huff, synopsis, 12 March 1995, https://www.dreamlandresort.com/area51/lazar/synopsis.htm , opened 2026-09-18",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-7f6a762766",
+"meta": {
+"artefactDate": "2018",
+"claimant": "tom-mahood",
+"claimantLabel": "Tom Mahood",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Tom Mahood, 2018 retrospective, https://otherhand.org/home-page/area-51-and-other-strange-places/looking-at-the-bob-lazar-story-from-the-perspective-of-2018/ , opened 2026-09-18",
 "sources": [
 {

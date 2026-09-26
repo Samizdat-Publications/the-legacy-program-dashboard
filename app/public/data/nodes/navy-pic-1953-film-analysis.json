@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-deb08bc110",
+"meta": {
+"artefactDate": "1953",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
+"eventDate": "1952",
+"route": "document",
+"speaker": null,
+"via": "EarthSky, 10 August 2026"
+},
 "source": "EarthSky, 10 August 2026, quoting the document released in PURSUE Release 05",
 "sources": [],
 "text": "A 1953 Navy Photographic Interpretation Center analysis of the 1950 Montana and 1952 Utah films assessed the Utah objects, after over 1,000 hours of analysis, as 'bright, silvery reflective disks' that were 'self-luminous, intelligently controlled' and inconsistent with 'natural phenomena or commonly known aerospace technologies.'",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-720a30c7f5",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2026-08-07",
+"route": "document",
+"speaker": null,
+"via": "EarthSky"
+},
 "source": "war.gov/UFO release index; EarthSky, 10 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [],
 "text": "The document was released on 7 August 2026 in PURSUE Release 05 at war.gov/UFO.",

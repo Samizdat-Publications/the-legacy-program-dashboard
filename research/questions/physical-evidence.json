@@ -1,0 +1,103 @@
+{
+  "id": "physical-evidence",
+  "order": 6,
+  "title": "What physical evidence is claimed?",
+  "status": "verified",
+  "lead": {
+    "text": "Physical material is where the argument could be settled by measurement rather than testimony. The board holds three lines of analysis: a peer-reviewed study of the 1977 Council Bluffs molten mass, the To The Stars ADAM samples that became the subject of an Army research agreement, and AARO's Oak Ridge analyses of a magnesium and an aluminium specimen, both of which came back as terrestrial or conventional alloys. No material has been released for the claim that non-human biologics were recovered.",
+    "cite": ["e-8b0c15185b", "c-3aba54fde6", "c-cabfe87d1f", "c-decd0fa511", "c-5868af5613", "c-53962f4042", "e-1914e084d6", "c-4711e15514"]
+  },
+  "answer": [
+    {
+      "text": "Nolan, Vallee, Jiang and Lemke published an instrumental analysis of the Council Bluffs material in Progress in Aerospace Sciences in 2022. It found no anomalous isotopic values but incomplete mixing of the metals in the once-molten mass, indicating an industrial process of unknown origin.",
+      "cite": ["c-2874240153", "c-a61fcd4cb5", "c-a05bfe2b83"]
+    },
+    {
+      "text": "To The Stars Academy's SEC filings describe its ADAM project as acquiring and analysing material samples from advanced aerospace vehicles of unknown origin, with EarthTech International as research partner, and record the company paying $35,000 for items including six pieces of bismuth/magnesium-zinc metal and a piece of aluminium.",
+      "cite": ["c-cabfe87d1f", "c-1c248fc4ca", "c-f1aa52f89a", "e-02e6600133"]
+    },
+    {
+      "text": "AARO says it acquired a magnesium alloy specimen, with stakeholder permission, from a private UAP organisation and the Army, and contracted Oak Ridge in 2022 to test it; in the synopsis AARO released, Oak Ridge assessed it as terrestrial and unable to function as a terahertz waveguide. A second Oak Ridge analysis, reported by AARO in January 2026, matched an aluminium specimen from Flint Ridge, Ohio to conventional reference alloys.",
+      "cite": ["c-0c3f9958a1", "c-7a1dcfe1fa", "c-5868af5613", "c-4915b47989"]
+    },
+    {
+      "text": "Chain of custody is the weak link throughout: Steve Justice conceded that the ADAM materials came from sources with varying levels of chain-of-custody documentation, and AARO's reports say the magnesium specimen's undocumented chain of custody and conflicting personal accounts leave its origin unclear.",
+      "cite": ["c-940cc35161", "e-2e18001412", "c-21cce3f392"]
+    },
+    {
+      "text": "For biologics the board keeps two things apart: the claim that non-human biologics were recovered, which rests on testimony, and a documented record of injuries attributed to encounters, chiefly a DIA-commissioned AAWSAP medical study and the Cash-Landrum lawsuit, dismissed in 1986.",
+      "cite": ["e-1914e084d6", "c-ba504fadba", "c-4bba85e3c3"]
+    }
+  ],
+  "for": [
+    {
+      "text": "Grusch testified under oath that biologics came with some recoveries and were nonhuman, giving that as the assessment of people with direct knowledge still on the programme whom he talked to. It is sworn second-hand testimony; no material has been released.",
+      "cite": ["c-052f481735", "c-ba504fadba", "e-1914e084d6"]
+    },
+    {
+      "text": "The Council Bluffs study examined and ruled out meteorite, spacecraft debris, aircraft debris, dumped molten metal and thermite on physical grounds, leaving an industrial process of unknown origin.",
+      "cite": ["c-54e8823326", "c-a05bfe2b83"]
+    },
+    {
+      "text": "Steve Justice, a former Skunk Works programme director, said of the ADAM specimens that their structure and composition are not from any known existing military or commercial application, and AARO confirms the organisation negotiated an agreement in 2019 with the Army to analyse the samples.",
+      "cite": ["c-8dec80810b", "c-a6f44c2515", "c-4711e15514"]
+    },
+    {
+      "text": "Kit Green's AAWSAP reference document on clinical field effects states as its first hypothesis that human injury evidence could be used to reverse engineer aspects of the energy and propulsion systems, and its executive summary says reported incidents and medical data support a hypothesis that some advanced systems are already deployed and opaque to full US intelligence understanding. These are hypotheses in a contractor's document, not findings.",
+      "cite": ["c-c2dc45ec5f", "c-6f5c39bdbe", "c-f6c3db215a"]
+    },
+    {
+      "text": "Garry Nolan says people representing the government and an aerospace corporation approached him about medical harm to individuals from supposed interactions with an anomalous craft; he does not name them in the account the board cites, and no document connects this to the earlier AAWSAP medical work.",
+      "cite": ["c-87216993fd", "e-7a63ae249c"]
+    },
+    {
+      "text": "The Army denied in full 29 emails of its correspondence with To The Stars over the samples, and on the board's reading no characterisation, technical output or statement of findings from the agreement has been published.",
+      "cite": ["c-4ded6c289b", "e-b8c126f90f"]
+    }
+  ],
+  "against": [
+    {
+      "text": "AARO's published analyses all came back ordinary: Oak Ridge assessed the magnesium specimen as terrestrial, AARO's Volume I says an alleged spacecraft sample was a manufactured terrestrial alloy of magnesium, zinc and bismuth, and the aluminium specimen matched conventional casting alloys with no radioactive emissions.",
+      "cite": ["c-5868af5613", "c-e3ce3f022d", "c-4915b47989"]
+    },
+    {
+      "text": "The Council Bluffs material has been read conventionally from the start: analyses in the weeks after the event found high-carbon steel and slag, and the 2022 study found no anomalous isotopic values. What remains unexplained is the industrial process, not the isotopes.",
+      "cite": ["c-0f74178f4f", "c-a05bfe2b83"]
+    },
+    {
+      "text": "Harold Puthoff, who had tested the same samples privately, reported in a 2012 letter that testing had not proved alien origin nor produced any anomalous outcome, with one test pending; EarthTech has published no results.",
+      "cite": ["c-d0db5ba070", "e-a858e2c144", "e-f0a242043d"]
+    },
+    {
+      "text": "The Army did not endorse the claimed origin: its public affairs officer said the Army's interest was in novel materials and that any speculation as to their origin is immaterial.",
+      "cite": ["c-e50b8bbcfc"]
+    },
+    {
+      "text": "AARO's FY2025 report states that no entity has ever captured or exploited UAP-derived materials. That is an interested office's statement, and on the board's inference two characterisations of voluntarily surrendered specimens cannot carry a general negative about holdings AARO has never inspected.",
+      "cite": ["c-6dbef477f9", "c-1ea247310f"]
+    },
+    {
+      "text": "The injury record has its own case against: the United States denied the Cash-Landrum object was its own and the court dismissed the suit; the plaintiffs' attorney later said the suit was a bluff brought in hope of a quiet settlement, and Schuessler found no radioactivity on Cash's car in early 1981.",
+      "cite": ["e-2a34e96ccd", "c-4bba85e3c3", "c-5cadabebfd", "c-a56388792f"]
+    },
+    {
+      "text": "The memory-metal story attached to Roswell runs against the federal literature: NASA's 1972 review, written by Battelle itself, credits the alloy to the Naval Ordnance Laboratory, whose earliest cited report on it is of 1961.",
+      "cite": ["c-81fc6eae00", "c-8eecca4508", "c-eb0fb0ce48"]
+    }
+  ],
+  "open": [
+    "What happened to the ADAM samples after the Army agreement was signed, and did the agreement ever produce a characterisation, a technical output or a statement of findings?",
+    "Which samples have Puthoff's laboratories received, from whom, and under what documentation?",
+    "Does any of the material Nolan has examined carry a documented federal chain of custody, and where would that documentation be held?",
+    "Has AARO ever had authority to inspect or compel the contractor holdings the allegations concern, or does its negative rest on voluntary statements?",
+    "Which Pais device was built and tested, and does the NAWCAD FOIA release behind the test result exist in a form the board can open?"
+  ],
+  "threads": [
+    {
+      "id": "patents",
+      "text": "The patents thread follows a hardware claim with a government sponsor printed on it. Salvatore Pais of NAWCAD authored the PAX 205 disclosure for an inertial mass reduction device, which became a granted patent assigned to the Secretary of the Navy; the Navy led the UAP Task Force whose holdings became the 2021 assessment, and AARO inherited that reporting line. The briefing itself calls the invention a theoretical concept with no prototype, and NAWCAD said that after three years and $508,000 of testing the related field generator's effect could not be proven.",
+      "cite": ["e-90d5a4103d", "e-2bf2582793", "e-b0456f2b24", "e-343e5049bc", "e-3ed75a8466", "e-9ad0ad2bc2", "c-dea9e5af37", "e-f2a7824a71"]
+    }
+  ],
+  "topics": ["specimens", "biology-medical", "navy-patents", "battelle-nitinol", "legacy-programme", "ttsa"]
+}

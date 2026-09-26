@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-d326caa0f9",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Disclosure Archives (inventory of Release 01)",
+"via": null
+},
 "source": "Disclosure Archives inventory compiled from the war.gov/UFO Release 01 posting",
 "sources": [
 {
@@ -28,6 +37,15 @@
 },
 {
 "id": "c-673b761fbf",
+"meta": {
+"artefactDate": "2026-05-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "DefenseScoop, 14 May 2026",
 "sources": [
 {
@@ -42,6 +60,15 @@
 },
 {
 "id": "c-1ef5e118ab",
+"meta": {
+"artefactDate": "2026-05-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Aerotime; Disclosure Archives inventory",
+"via": null
+},
 "source": "Aerotime, 9 May 2026; Disclosure Archives inventory",
 "sources": [],
 "text": "Contents include Apollo 12 and 17 records, FBI infrared imagery from the western US in September and December 2025, and a 2026 US Army report of a North American sighting.",
@@ -50,6 +77,15 @@
 },
 {
 "id": "c-0db075e81a",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Disclosure Archives (inventory of Release 01)",
+"via": null
+},
 "source": "Disclosure Archives inventory of Release 01",
 "sources": [
 {

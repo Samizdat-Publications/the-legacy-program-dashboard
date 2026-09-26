@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-a6c2e89db5",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Sean Kirkpatrick, Scientific American, 19 January 2024",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-f8e3176ba6",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Scientific American"
+},
 "source": "Sean Kirkpatrick, Scientific American, 19 January 2024",
 "sources": [
 {
@@ -42,6 +60,15 @@
 },
 {
 "id": "c-ec16d68f6c",
+"meta": {
+"artefactDate": "2024-01-19",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Sean Kirkpatrick, Scientific American opinion, 19 January 2024",
 "sources": [
 {
@@ -56,6 +83,15 @@
 },
 {
 "id": "c-fcd7f330a5",
+"meta": {
+"artefactDate": "2024-01-23",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Peter Bergen"
+},
 "source": "Kirkpatrick interview with Peter Bergen, 23 January 2024",
 "sources": [
 {

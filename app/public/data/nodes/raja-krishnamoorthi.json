@@ -25,6 +25,15 @@
 "claims": [
 {
 "id": "c-64c5a78548",
+"meta": {
+"artefactDate": "2024-01-12",
+"claimant": "raja-krishnamoorthi",
+"claimantLabel": "Subramanian Raja Krishnamoorthi",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Hill"
+},
 "source": "Rep. Raja Krishnamoorthi after the 12 January 2024 closed ICIG briefing, quoted by The Hill",
 "sources": [],
 "text": "'Let's just say that all of us were very interested in the substance of his claims, and unfortunately, I didn't get the answers that I was hoping for.'",
@@ -44,6 +53,25 @@
 "text": "Listed as a Democratic member of the Task Force on the Declassification of Federal Secrets.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-01-12",
+"eventDate": null,
+"id": "c-64c5a78548",
+"node": "raja-krishnamoorthi",
+"nodeLabel": "Subramanian Raja Krishnamoorthi",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Rep. Raja Krishnamoorthi after the 12 January 2024 closed ICIG briefing, quoted by The Hill",
+"url": null
+},
+"text": "'Let's just say that all of us were very interested in the substance of his claims, and unfortunately, I didn't get the answers that I was hoping for.'",
+"tier": 2,
+"topic": null,
+"via": "The Hill"
 }
 ],
 "cls": "person",

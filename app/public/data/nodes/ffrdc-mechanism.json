@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-c1cd2658cc",
+"meta": {
+"artefactDate": null,
+"claimant": "mitre-corporation",
+"claimantLabel": "The MITRE Corporation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "MITRE Corporation official website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -21,6 +30,15 @@
 },
 {
 "id": "c-ae2ef33171",
+"meta": {
+"artefactDate": "2026-08-07",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, MITRE investigation, 7 August 2026",
 "sources": [
 {
@@ -35,6 +53,15 @@
 },
 {
 "id": "c-a9f451e724",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "ross-coulthart",
+"claimantLabel": "Ross Coulthart",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation Reality Check"
+},
 "source": "NewsNation Reality Check chapter summary, 4 August 2026 (17:00)",
 "sources": [],
 "text": "Ross Coulthart devoted a dedicated segment of his 4 August 2026 Reality Check episode to 'FFRDCs, U-Arcs, and GOCOs' as the vehicle of the legacy program.",

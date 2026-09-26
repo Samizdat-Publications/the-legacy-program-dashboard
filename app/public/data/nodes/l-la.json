@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-428e168fcd",
+"meta": {
+"artefactDate": "2013-06-25",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Wikipedia, 'Area 51'"
+},
 "source": "CIA U-2/OXCART history, released 25 June 2013; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "Lockheed's Skunk Works at Burbank produced the U-2, A-12, HAVE BLUE and F-117, all of which were tested at Groom Lake rather than at Edwards or Palmdale because of programme secrecy.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-2b4be98bd7",
+"meta": {
+"artefactDate": "2025-09-09",
+"claimant": "george-knapp",
+"claimantLabel": "George Knapp",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Task Force"
+},
 "source": "George Knapp, written testimony, House Oversight Task Force, 9 September 2025",
 "sources": [
 {

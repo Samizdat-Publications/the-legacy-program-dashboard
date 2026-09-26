@@ -1,0 +1,25 @@
+/* questions.css: the Questions list and a question page (redesign phase 10).
+   A question page is a topic page's grammar: topic.css carries the sentences,
+   the cites and the blocks; this adds the list and the chains of evidence. */
+
+.questions { max-width: 1180px; margin: 0 auto; }
+.q-intro { max-width: 100ch; font-size: var(--fs-body); line-height: 1.5; margin: 0 0 16px; }
+ol.qlist { margin: 0; padding-left: 24px; display: grid; gap: 14px; }
+.qrow { min-width: 0; }
+a.qrow-title { font-size: var(--fs-body); font-weight: 600; }
+.qrow-lead { margin: 4px 0 2px; max-width: 100ch; line-height: 1.5; overflow-wrap: anywhere; }
+
+.question .topic-crumb { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; }
+.q-answer > .eyebrow { margin-bottom: -6px; }
+.q-blocks { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+
+.q-threads { margin-top: 18px; display: grid; gap: 16px; }
+.q-thread { border-left: 2px solid var(--line2); padding-left: 12px; min-width: 0; display: grid; gap: 6px; }
+a.q-thread-title { font-weight: 600; }
+ol.q-steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.q-step { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 2px 8px; align-items: baseline; }
+.q-step .q-step-ev { grid-column: 2; overflow-wrap: anywhere; line-height: 1.45; }
+
+@media (max-width: 760px) {
+  .q-blocks { grid-template-columns: minmax(0, 1fr); }
+}

@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-9833c31b5c",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1950",
+"route": "filing",
+"speaker": "unnamed (documented press and court record; Aztec incident literature)",
+"via": null
+},
 "source": "Documented press and court record summarised in the Aztec incident literature",
 "sources": [],
 "text": "The Aztec claim originated with Frank Scully's 1950 book and was traced to promoters later prosecuted for fraud in a separate matter.",

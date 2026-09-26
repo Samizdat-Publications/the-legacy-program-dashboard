@@ -36,6 +36,15 @@
 },
 {
 "id": "c-bd6fe98f1c",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (F-16 pilot audio, per The War Zone)",
+"via": "The War Zone"
+},
 "source": "F-16 pilot audio, reported by The War Zone",
 "sources": [],
 "text": "Pilot audio: 'In the targeting pod, I can't tell if it's metallic or what, but I can see like lines coming down below it.'",
@@ -52,6 +61,15 @@
 },
 {
 "id": "c-35741be0cc",
+"meta": {
+"artefactDate": "2026-05-22",
+"claimant": "sean-kirkpatrick",
+"claimantLabel": "Sean M. Kirkpatrick",
+"eventDate": "2023-02",
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "Sean Kirkpatrick, quoted by The War Zone, 22 May 2026",
 "sources": [],
 "text": "'We scrambled jets and shot down a bunch of things. Do you know what we shot down? Balloons.'",

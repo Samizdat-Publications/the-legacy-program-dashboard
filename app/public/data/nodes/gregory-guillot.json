@@ -34,6 +34,15 @@
 "claims": [
 {
 "id": "c-38a4e69cb3",
+"meta": {
+"artefactDate": "2024-10-30",
+"claimant": "gregory-guillot",
+"claimantLabel": "Gregory M. Guillot",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
 "sources": [
 {
@@ -48,6 +57,15 @@
 },
 {
 "id": "c-8295afa3b6",
+"meta": {
+"artefactDate": "2024-10-30",
+"claimant": "gregory-guillot",
+"claimantLabel": "Gregory M. Guillot",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
 "sources": [
 {
@@ -62,6 +80,15 @@
 },
 {
 "id": "c-a0ef35b47f",
+"meta": {
+"artefactDate": "2024-10-30",
+"claimant": "norad-northcom",
+"claimantLabel": "NORAD and US Northern Command",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "NORAD, via The War Zone, 30 October 2024",
 "sources": [
 {
@@ -76,6 +103,15 @@
 },
 {
 "id": "c-37c763c871",
+"meta": {
+"artefactDate": "2026-03-25",
+"claimant": "gregory-guillot",
+"claimantLabel": "Gregory M. Guillot",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026",
 "sources": [
 {
@@ -87,6 +123,93 @@
 "text": "'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-10-30",
+"eventDate": null,
+"id": "c-38a4e69cb3",
+"node": "gregory-guillot",
+"nodeLabel": "Gregory M. Guillot",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"url": null
+},
+"text": "'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude.'",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "2024-10-30",
+"eventDate": null,
+"id": "c-8295afa3b6",
+"node": "gregory-guillot",
+"nodeLabel": "Gregory M. Guillot",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"url": null
+},
+"text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "2024-10-30",
+"eventDate": null,
+"id": "c-f0ebe93c18",
+"node": "langley-2023-incursions",
+"nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Gen. Gregory Guillot to The War Zone, 30 October 2024",
+"url": null
+},
+"text": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus.'",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "2024-10-30",
+"eventDate": null,
+"id": "c-f8c2919cd7",
+"node": "norad-northcom",
+"nodeLabel": "NORAD and US Northern Command",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The War Zone, 30 October 2024",
+"url": null
+},
+"text": "Guillot established Falcon Peak, a counter-drone demonstration with multiple vendors, and advocates a layered approach including directed energy.",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "2026-03-25",
+"eventDate": null,
+"id": "c-37c763c871",
+"node": "gregory-guillot",
+"nodeLabel": "Gregory M. Guillot",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Gen. Gregory Guillot, reported by The War Zone, 25 March 2026",
+"url": null
+},
+"text": "'We've seen an increase from last year in the number of detections over military installations'; roughly one quarter of detected drones are now defeated, versus almost none previously.",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
 }
 ],
 "cls": "person",

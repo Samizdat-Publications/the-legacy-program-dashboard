@@ -28,6 +28,15 @@
 "claims": [
 {
 "id": "c-791a9f28a3",
+"meta": {
+"artefactDate": "1989-05-23",
+"claimant": "bill-cooper",
+"claimantLabel": "Milton William Cooper",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Milton William Cooper, 'The Secret Government', 23 May 1989 updated 21 November 1990, https://robscholtemuseum.nl/wp-content/uploads/2016/01/The-Secret-Government.pdf , text extracted and read 2026-09-19",
 "sources": [
 {
@@ -42,6 +51,15 @@
 },
 {
 "id": "c-c381b962d5",
+"meta": {
+"artefactDate": "1983",
+"claimant": "linda-moulton-howe",
+"claimantLabel": "Linda Moulton Howe",
+"eventDate": "1983-04",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "Linda Moulton Howe, contemporaneous notes and consistent public accounts, 1983-present",
 "sources": [],
 "text": "Howe states that AFOSI Special Agent Richard Doty showed her at Kirtland AFB in April 1983 a paper describing US recovery of craft and biological entities, and that she was permitted to read but not copy it.",
@@ -55,6 +73,76 @@
 "text": "The 'Project Aquarius' paper shown to Howe and the MJ-12 film mailed to Shandera from Albuquerque twenty months later originated from the same operation.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "1983",
+"eventDate": "1983-04",
+"id": "c-3db085ea93",
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Linda Moulton Howe, contemporaneous notes and repeated public accounts from 1983 onward",
+"url": null
+},
+"text": "Doty showed Linda Moulton Howe a document at Kirtland AFB in April 1983 that she has described as a government briefing paper on retrieved craft and occupants.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
+},
+{
+"artefactDate": "1983",
+"eventDate": "1983-04",
+"id": "c-5be93ffc7e",
+"node": "project-aquarius",
+"nodeLabel": "Project AQUARIUS (alleged)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Linda Moulton Howe, contemporaneous notes and consistent public accounts since 1983",
+"url": null
+},
+"text": "Linda Moulton Howe was shown a document described as a government briefing paper by AFOSI Special Agent Richard Doty at Kirtland AFB in April 1983 and was not permitted to retain a copy.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
+},
+{
+"artefactDate": "1983",
+"eventDate": "1983-04",
+"id": "c-c381b962d5",
+"node": "linda-moulton-howe",
+"nodeLabel": "Linda Moulton Howe",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Linda Moulton Howe, contemporaneous notes and consistent public accounts, 1983-present",
+"url": null
+},
+"text": "Howe states that AFOSI Special Agent Richard Doty showed her at Kirtland AFB in April 1983 a paper describing US recovery of craft and biological entities, and that she was permitted to read but not copy it.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": null
+},
+{
+"artefactDate": "2019-11-14",
+"eventDate": "1996",
+"id": "c-2e887f4156",
+"node": "adam-research-project",
+"nodeLabel": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Linda Moulton Howe to M.J. Banias, Vice, 14 November 2019",
+"url": null
+},
+"text": "Linda Moulton Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and again by Harold Puthoff and others on several occasions.",
+"tier": 2,
+"topic": "specimens",
+"via": "M.J. Banias, Vice"
 }
 ],
 "cls": "person",

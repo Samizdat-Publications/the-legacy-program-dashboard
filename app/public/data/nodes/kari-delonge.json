@@ -49,6 +49,15 @@
 },
 {
 "id": "c-0cd90af078",
+"meta": {
+"artefactDate": "2019-06-01",
+"claimant": "kari-delonge",
+"claimantLabel": "Kari DeLonge",
+"eventDate": "2010",
+"route": "press",
+"speaker": null,
+"via": "The Intercept (Keith Kloor)"
+},
 "source": "Keith Kloor, The Intercept, 1 June 2019",
 "sources": [
 {
@@ -60,6 +69,25 @@
 "text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2019-06-01",
+"eventDate": "2010",
+"id": "c-0cd90af078",
+"node": "kari-delonge",
+"nodeLabel": "Kari DeLonge",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Keith Kloor, The Intercept, 1 June 2019",
+"url": null
+},
+"text": "Told The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
+"tier": 2,
+"topic": "ttsa",
+"via": "The Intercept (Keith Kloor)"
 }
 ],
 "cls": "person",

@@ -20,11 +20,56 @@
 },
 {
 "id": "c-f70e7aec3e",
+"meta": {
+"artefactDate": null,
+"claimant": "new-paradigm-institute",
+"claimantLabel": "New Paradigm Institute",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "New Paradigm Institute website; Wikipedia, 'Daniel Sheehan (attorney)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "Daniel Sheehan leads the organisation and represents Luis Elizondo in a case against the Department of Defense.",
 "tier": 2,
 "unresolved": "a proposed reading (url:newparadigminstitute.org) was rejected in review: names two sources; candidate is only one"
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-8bd39315ba",
+"node": "daniel-sheehan",
+"nodeLabel": "Daniel P. Sheehan",
+"route": "document",
+"source": {
+"domain": null,
+"text": "New Paradigm Institute website, retrieved 12 August 2026 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The New Paradigm Institute is running a public campaign urging the Senate to pass the UAP Disclosure Act following House passage of its version, and a 'UAP Transparency Pledge' for candidates.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-f70e7aec3e",
+"node": "new-paradigm-institute",
+"nodeLabel": "New Paradigm Institute",
+"route": "document",
+"source": {
+"domain": null,
+"text": "New Paradigm Institute website; Wikipedia, 'Daniel Sheehan (attorney)' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "Daniel Sheehan leads the organisation and represents Luis Elizondo in a case against the Department of Defense.",
+"tier": 2,
+"topic": "uapda",
+"via": null
 }
 ],
 "cls": "institution",

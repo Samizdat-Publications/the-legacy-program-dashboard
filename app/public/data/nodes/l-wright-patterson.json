@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-13fee176f9",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1948-01-13",
+"route": "document",
+"speaker": "Wikipedia, 'Wright-Patterson Air Force Base'",
+"via": null
+},
 "source": "Wikipedia, Wright-Patterson Air Force Base, citing USAF historical records — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-66aa9e0c71",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "USAF fact sheet on Project Blue Book (as summarised in the Wright-Patterson AFB article)",
+"via": null
+},
 "source": "USAF fact sheet on Project Blue Book, as summarised in the Wright-Patterson AFB article — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [],
 "text": "Project Blue Book operated at Wright-Patterson from 1952 to 1969, studying 12,618 sightings of which 701 remained unexplained at closure.",
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-e206209d5a",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Wright-Patterson Air Force Base'",
+"via": null
+},
 "source": "Wikipedia, Wright-Patterson Air Force Base, tenant units — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {

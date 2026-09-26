@@ -58,6 +58,15 @@
 },
 {
 "id": "c-0c553cf467",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-gold",
+"claimantLabel": "Michael Gold",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight joint subcommittee"
+},
 "source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
 "sources": [
 {
@@ -72,6 +81,15 @@
 },
 {
 "id": "c-037a723a61",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-gold",
+"claimantLabel": "Michael Gold",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Michael Gold, written testimony, 13 November 2024",
 "sources": [
 {
@@ -86,6 +104,15 @@
 },
 {
 "id": "c-945d19967c",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-gold",
+"claimantLabel": "Michael Gold",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Michael Gold, written testimony, 13 November 2024",
 "sources": [
 {
@@ -100,6 +127,15 @@
 },
 {
 "id": "c-f0385bea12",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-gold",
+"claimantLabel": "Michael Gold",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "House Oversight hearing page and Gold written testimony, 13 November 2024",
 "sources": [],
 "text": "Testified at the 13 November 2024 joint hearing as former NASA Associate Administrator of Space Policy and Partnerships and a member of the NASA UAP Independent Study Team; written testimony published by the committee.",
@@ -119,6 +155,110 @@
 "text": "Answered 'No, ma'am' when Rep. Boebert asked whether he was familiar with an alleged DoD program manipulating human genetics with non-human genetic material.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-037a723a61",
+"node": "michael-gold",
+"nodeLabel": "Michael Gold",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Gold, written testimony, 13 November 2024",
+"url": null
+},
+"text": "Alex Dietrich 'was mocked by her colleagues' and her incident 'went years without any investigation.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-0c553cf467",
+"node": "michael-gold",
+"nodeLabel": "Michael Gold",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"url": null
+},
+"text": "'the stigmatization of the UAP phenomena is so harmful. The stigma prevents scientific inquiry.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight joint subcommittee"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-945d19967c",
+"node": "michael-gold",
+"nodeLabel": "Michael Gold",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Gold, written testimony, 13 November 2024",
+"url": null
+},
+"text": "Recommends NASA work with the FAA to establish civilian pilot UAP reporting procedures and leverage the Aviation Safety Reporting System.",
+"tier": 2,
+"topic": "hearing-2024",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-ea9e460300",
+"node": "hearing-2024-11-13",
+"nodeLabel": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Gold, written testimony, 13 November 2024",
+"url": null
+},
+"text": "Michael Gold testified that Alex Dietrich 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-f0385bea12",
+"node": "michael-gold",
+"nodeLabel": "Michael Gold",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Oversight hearing page and Gold written testimony, 13 November 2024",
+"url": null
+},
+"text": "Testified at the 13 November 2024 joint hearing as former NASA Associate Administrator of Space Policy and Partnerships and a member of the NASA UAP Independent Study Team; written testimony published by the committee.",
+"tier": 1,
+"topic": "nasa-uap-study",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-dab6356024",
+"node": "alex-dietrich",
+"nodeLabel": "Alex Dietrich",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
+"url": null
+},
+"text": "Dietrich 'was mocked by her colleagues' and the incident 'went years without any investigation.'",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": "House Oversight Committee"
 }
 ],
 "cls": "person",

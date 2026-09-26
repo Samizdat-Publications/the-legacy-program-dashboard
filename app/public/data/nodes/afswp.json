@@ -86,6 +86,15 @@
 },
 {
 "id": "c-338f36edf9",
+"meta": {
+"artefactDate": null,
+"claimant": "national-archives",
+"claimantLabel": "National Archives and Records Administration",
+"eventDate": "1946-12-31",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Records of the Defense Threat Reduction Agency, Record Group 374, sec. 374.2, Guide to Federal Records in the National Archives, https://www.archives.gov/research/guide-fed-records/groups/374.html",
 "sources": [
 {
@@ -105,6 +114,15 @@
 },
 {
 "id": "c-6a6e082f05",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1947",
+"route": "interview",
+"speaker": null,
+"via": "Debriefed"
+},
 "source": "Batch 17 file 03, 1:28;19-1:29;13, research/leads/area52-corpus-17.md; contradicted by War Department Memorandum No. 850-25-8, https://archive.org/download/DTIC_ADA412977/DTIC_ADA412977_djvu.txt",
 "sources": [
 {

@@ -137,6 +137,16 @@ async function build(r: Route): Promise<string> {
       return (r.kind === 'library' ? 'THE LIBRARY: every source the board cites. '
         : 'ONE SOURCE in the Library (#/s/' + r.id + '), with the claims and links that cite it. ') +
         'The board in summary:\n' + await runTool('overview', {});
+    case 'questions':
+      return 'QUESTIONS: the list of the big questions. The board in summary:\n' + await runTool('overview', {});
+
+    case 'question':
+      return 'QUESTION ' + r.id + ': a cited answer so far, the evidence for and against, open questions and ' +
+        'the threads that bear on it. The board in summary:\n' + await runTool('overview', {});
+
+    case 'connect':
+      return 'CONNECT: up to three routes of sourced links between ' + (r.a || 'a node') + ' and ' + (r.b || 'another') +
+        '.' + (r.a && r.b ? ' Both ends in full:\n' + await runTool('node', { ids: [r.a, r.b] }) : '');
 
     case 'notfound':
       return 'A route that does not resolve (' + r.raw + '). Nothing is open. ' +
@@ -191,6 +201,9 @@ export async function stateSummary(r: Route): Promise<string> {
     case 'directory': return 'reading the ' + r.dir + ' directory';
     case 'library': return 'reading the Library';
     case 'source': return 'reading the source ' + r.id;
+    case 'questions': return 'reading the questions';
+    case 'question': return 'reading the question ' + r.id;
+    case 'connect': return r.a && r.b ? 'connecting ' + r.a + ' and ' + r.b : 'choosing two things to connect';
     default: return 'reading the board';
   }
 }

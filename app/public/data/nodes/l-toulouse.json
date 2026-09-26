@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-8bb11ca095",
+"meta": {
+"artefactDate": null,
+"claimant": "geipan",
+"claimantLabel": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "GEIPAN official site — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {

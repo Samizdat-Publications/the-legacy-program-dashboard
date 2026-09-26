@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-2869014a22",
+"meta": {
+"artefactDate": null,
+"claimant": "afrl",
+"claimantLabel": "Air Force Research Laboratory",
+"eventDate": "1997-10-31",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Air Force Research Laboratory official history",
 "sources": [
 {
@@ -39,6 +48,25 @@
 "text": "AFRL is the continuity organisation for foreign materiel exploitation at Wright-Patterson, which makes it the most probable modern institutional home of any exploitation activity that began there in the 1940s. Reasoning: the mission, the physical plant and the clearance architecture were never relocated, only renamed.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1997-10-31",
+"id": "c-2869014a22",
+"node": "afrl",
+"nodeLabel": "Air Force Research Laboratory",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Air Force Research Laboratory official history",
+"url": null
+},
+"text": "AFRL was established on 31 October 1997 by consolidating the Wright, Phillips, Rome and Armstrong laboratories and the Air Force Office of Scientific Research, headquartered at Wright-Patterson AFB, Ohio.",
+"tier": 2,
+"topic": "wright-patterson-ftd",
+"via": null
 }
 ],
 "cls": "institution",

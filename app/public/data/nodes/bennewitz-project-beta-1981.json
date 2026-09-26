@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-967967dee9",
+"meta": {
+"artefactDate": "2025-11-29",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1981",
+"route": "press",
+"speaker": "Stephen Fisher, The Trenchant Edges Newsletter",
+"via": null
+},
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-b081fadc8d",
+"meta": {
+"artefactDate": "1981",
+"claimant": "paul-bennewitz",
+"claimantLabel": "Paul Frederick Bennewitz",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Stephen Fisher, The Trenchant Edges Newsletter"
+},
 "source": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
 "sources": [
 {

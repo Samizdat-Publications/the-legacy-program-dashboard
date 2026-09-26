@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-53e609b7bd",
+"meta": {
+"artefactDate": "2024-11-19",
+"claimant": "jon-kosloski",
+"claimantLabel": "Jon T. Kosloski",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Armed Services Committee, Emerging Threats and Capabilities Subcommittee"
+},
 "source": "Statement for the Record, Dr. Jon Kosloski, SASC ETC Subcommittee, 19 November 2024",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-92a64a5be8",
+"meta": {
+"artefactDate": "2024-11-19",
+"claimant": "jon-kosloski",
+"claimantLabel": "Jon T. Kosloski",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Armed Services Committee"
+},
 "source": "Statement for the Record, 19 November 2024, full text",
 "sources": [],
 "text": "Kosloski's statement for the record makes no mention of whistleblowers, Immaculate Constellation, or Volume II of the Historical Record Report.",
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-3a8d2f75d1",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "jon-kosloski",
+"claimantLabel": "Jon T. Kosloski",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "Senate Armed Services Committee"
+},
 "source": "Kosloski media roundtable 14 November 2024 and SASC testimony 19 November 2024",
 "sources": [],
 "text": "Kosloski concurrently stated AARO is analysing several 'truly anomalous' cases he does not understand.",

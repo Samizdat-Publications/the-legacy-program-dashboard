@@ -44,6 +44,15 @@
 "claims": [
 {
 "id": "c-705372c2d3",
+"meta": {
+"artefactDate": "2024-10-19",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:39:03, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE7249545573.mp3?updated=1751915004",
 "sources": [
 {
@@ -58,6 +67,15 @@
 },
 {
 "id": "c-3b63ff6346",
+"meta": {
+"artefactDate": "2024-10-19",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:39:52, and 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:37:53",
 "sources": [],
 "text": "At 0:39:52 in the same episode Michels said Condon was 'in close coordination with Air Force kernels like Robert Hippler', and that a written memo exists in which Hippler tells Condon to show that UFO research was a waste of money. On 12 July 2025 at 0:37:53 Robert Salas independently described letters between an Air Force colonel, rendered by the caption as 'Robert Hitler', and Condon to the same effect. Two speakers, two episodes, one alleged memo, which neither of them produces.",
@@ -66,6 +84,15 @@
 },
 {
 "id": "c-8de07fdd20",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": "1949",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 1:07:14 to 1:10:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "sources": [
 {
@@ -150,6 +177,15 @@
 },
 {
 "id": "c-6d39e2420f",
+"meta": {
+"artefactDate": "1968-05",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "John G. Fuller, Look magazine",
+"via": null
+},
 "source": "John G. Fuller, 'Flying Saucer Fiasco', Look magazine, May 1968",
 "sources": [
 {

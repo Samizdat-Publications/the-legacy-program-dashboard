@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-29950584ae",
+"meta": {
+"artefactDate": null,
+"claimant": "doe",
+"claimantLabel": "United States Department of Energy",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Brookhaven National Laboratory, 'About Brookhaven', https://www.bnl.gov/about/",
 "sources": [
 {
@@ -62,6 +71,15 @@
 },
 {
 "id": "c-be04656b5d",
+"meta": {
+"artefactDate": "2026-07-17",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "unnamed (a panel speaker on DEBRIEFED with Chris Ramsay)",
+"via": "DEBRIEFED with Chris Ramsay"
+},
 "source": "DEBRIEFED with Chris Ramsay, 'Jesse Michels, UAPGerb & Chris Ramsay - Flying Saucer Diner', 17 July 2026, 1:01:18, transcript in dist/transcripts/md/",
 "sources": [
 {

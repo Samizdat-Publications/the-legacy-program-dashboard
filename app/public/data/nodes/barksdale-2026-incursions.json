@@ -28,6 +28,15 @@
 },
 {
 "id": "c-125bc71b66",
+"meta": {
+"artefactDate": "2026-03-25",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-03-09",
+"route": "press",
+"speaker": "The War Zone",
+"via": null
+},
 "source": "The War Zone, 25 March 2026",
 "sources": [
 {
@@ -42,6 +51,15 @@
 },
 {
 "id": "c-878017e4ba",
+"meta": {
+"artefactDate": "2026-03-25",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The War Zone",
+"via": null
+},
 "source": "The War Zone, 25 March 2026",
 "sources": [
 {
@@ -56,6 +74,15 @@
 },
 {
 "id": "c-714b17fcc8",
+"meta": {
+"artefactDate": "2026-03-25",
+"claimant": "norad-northcom",
+"claimantLabel": "NORAD and US Northern Command",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The War Zone"
+},
 "source": "The War Zone, 25 March 2026",
 "sources": [
 {

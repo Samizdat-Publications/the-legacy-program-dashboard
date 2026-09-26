@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-ada9eb8931",
+"meta": {
+"artefactDate": "2026-08-10",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": "2021-09-08",
+"route": "document",
+"speaker": null,
+"via": "EarthSky"
+},
 "source": "EarthSky, 10 August 2026, on PURSUE Release 05",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-14b3e42d63",
+"meta": {
+"artefactDate": "2026-08-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2021-09-08",
+"route": "press",
+"speaker": "EarthSky (summarising DOW-UAP-D101)",
+"via": null
+},
 "source": "EarthSky, 10 August 2026, summarising DOW-UAP-D101",
 "sources": [],
 "text": "The objects are described as cold orbs approximately four feet in diameter flying at lower altitudes between 250 and 1,300 mph, reportedly reacting to the aircraft's cannon fire.",

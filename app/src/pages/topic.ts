@@ -181,7 +181,7 @@ export async function renderTopic(view: HTMLElement, id: string): Promise<void> 
 
 /* One sentence of the topic, with its numbered references and, under it, each
    of its cites in full. */
-function item(it: TopicItem, block: Block, rec: TopicRecord,
+export function item(it: TopicItem, block: Block | string, rec: { cites: TopicRecord['cites'] },
   numberOf: (c: string) => number, kinds: Set<Said>): HTMLElement {
   const box = h('div', { class: 'ti ti-' + block, 'data-block': block });
   const cites = it.cite || [];
@@ -205,7 +205,7 @@ function item(it: TopicItem, block: Block, rec: TopicRecord,
   return box;
 }
 
-function cite(n: number, cid: string, c: TopicCite | undefined, kinds: Set<Said>): HTMLElement {
+export function cite(n: number, cid: string, c: TopicCite | undefined, kinds: Set<Said>): HTMLElement {
   if (!c || c.missing || !c.kind) {
     return h('div', { class: 'cite missing', 'data-cid': cid, 'data-kind': 'missing' },
       h('span', { class: 'cite-n' }, String(n)),

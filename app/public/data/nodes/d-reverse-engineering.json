@@ -7,6 +7,15 @@
 "claims": [
 {
 "id": "c-461daa8df0",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "House Oversight Committee hearing, 26 July 2023",
 "sources": [
 {
@@ -21,6 +30,15 @@
 },
 {
 "id": "c-96458686ee",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I",
 "sources": [
 {
@@ -35,6 +53,15 @@
 },
 {
 "id": "c-43e0daeb69",
+"meta": {
+"artefactDate": "2026-01",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Aluminum Materials Analysis Supplement, document 26-P-0218",
 "sources": [
 {

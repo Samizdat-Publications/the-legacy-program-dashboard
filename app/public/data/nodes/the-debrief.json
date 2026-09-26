@@ -20,6 +20,15 @@
 },
 {
 "id": "c-c6242914a5",
+"meta": {
+"artefactDate": "2023-06-05",
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
+"eventDate": "2023-06-05",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "The Debrief; corroborated by Wikipedia entries for Leslie Kean and Ralph Blumenthal — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023.",
@@ -39,6 +48,212 @@
 "text": "The Debrief has published sustained coverage of the disclosure fight including 'Immaculate Constellation: UAP Bombshell or Disinformation?', 'The 2024 AARO Report', 'Where The Second UAP Disclosure Act Failure May Now Steer The Ark of Human History' and 'Former Officials Warn Lawmakers of Alleged Secret UAP Programs Operating Beyond Congressional Oversight'.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-05-25",
+"eventDate": "2008",
+"id": "c-7fcd5c6ac2",
+"node": "baass",
+"nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 25 May 2023",
+"url": null
+},
+"text": "Colm Kelleher served as Deputy Administrator of BAASS from 2008 and led day-to-day execution of the AAWSAP contract.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2023-05-25",
+"eventDate": "1996",
+"id": "c-f9bb0a3cde",
+"node": "colm-kelleher",
+"nodeLabel": "Colm A. Kelleher",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 'Colm Kelleher: AAWSAP and the Skinwalker Enigma', 25 May 2023",
+"url": null
+},
+"text": "Kelleher led the NIDS team on Skinwalker Ranch 1996-2004 and in 2008 became Deputy Administrator of BAASS, leading day-to-day execution of the AAWSAP contract.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": "1996-01-20",
+"id": "c-6315f9358f",
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 30 January 2026",
+"url": null
+},
+"text": "Claussen: a US cargo mission of this kind 'would require paperwork from Air Mobility Command at Scott AFB in Illinois and the Air Mobility Wing at Charleston AFB in South Carolina', plus refuelling records and an international flight plan; Brazilian air traffic controller Marco Feres reported that on or about 20 January 1996 a USAF cargo aircraft, most likely a C-17, landed at Viracopos airport in Campinas to collect an unusual cargo.",
+"tier": 2,
+"topic": "brazil",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2022-07",
+"id": "c-bddf3d9130",
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"route": "press",
+"source": {
+"domain": "thedebrief.org",
+"text": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+},
+"text": "The Intelligence Community Inspector General found the complaint 'credible and urgent' in July 2022.",
+"tier": 2,
+"topic": "funding-channels",
+"via": null
+},
+{
+"artefactDate": "2023-06-05",
+"eventDate": "2023-04-07",
+"id": "c-656f473895",
+"node": "debrief-2023-06-05",
+"nodeLabel": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 5 June 2023",
+"url": null
+},
+"text": "Reports that Grusch left government on 7 April 2023 to advance accountability through public disclosure, and that he helped draft the UAP whistleblower language in the FY2023 NDAA.",
+"tier": 2,
+"topic": "grusch-allegations",
+"via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": "2025",
+"id": "c-03917995fa",
+"node": "matt-ross",
+"nodeLabel": "Matt Ross",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Reported figure cited in The Debrief, 30 January 2026",
+"url": null
+},
+"text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": null
+},
+{
+"artefactDate": "2023-06-05",
+"eventDate": "2023-06-05",
+"id": "c-c6242914a5",
+"node": "the-debrief",
+"nodeLabel": "The Debrief",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief; corroborated by Wikipedia entries for Leslie Kean and Ralph Blumenthal — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "The Debrief published Kean and Blumenthal's David Grusch story on 5 June 2023.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2022-05-09",
+"eventDate": null,
+"id": "c-a1360b1e48",
+"node": "uss-reagan-2004",
+"nodeLabel": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Dave Beaty, Sean Munger and Craig Labadie, The Debrief, 9 May 2022",
+"url": null
+},
+"text": "Multiple USS Ronald Reagan watchstanders observed a round, orange, self-luminous object hovering above the flight deck and pacing the ship; witnesses include Karol Olesiak, Derek Smith and Patrick Gokey.",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": null
+},
+{
+"artefactDate": "2022-05-09",
+"eventDate": "2004",
+"id": "c-cd3a69b89b",
+"node": "uss-reagan-2004",
+"nodeLabel": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 9 May 2022",
+"url": null
+},
+"text": "Crew members estimated 50 to 300 additional personnel witnessed the event.",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": null
+},
+{
+"artefactDate": "2022-04-13",
+"eventDate": null,
+"id": "c-8ea2dc2e2e",
+"node": "d-counterintel",
+"nodeLabel": "Counterintelligence",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 13 April 2022",
+"url": null
+},
+"text": "The Pentagon's head of counterintelligence and security, Garry Reid, was reported in 2022 to have been ousted amid controversy touching the UAP task force's handling; the reporting names him directly.",
+"tier": 2,
+"topic": "perception-management",
+"via": null
+},
+{
+"artefactDate": "2023-05-25",
+"eventDate": null,
+"id": "c-03670f4d31",
+"node": "nids",
+"nodeLabel": "National Institute for Discovery Science (NIDS)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 25 May 2023",
+"url": null
+},
+"text": "Colm Kelleher led the NIDS science team at Skinwalker Ranch from 1996 to 2004 and carried that team structure into BAASS in 2008.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
+},
+{
+"artefactDate": "2023-12-22",
+"eventDate": null,
+"id": "c-673ae3ac23",
+"node": "d-legislative",
+"nodeLabel": "Legislative Process (proposed and pending)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Debrief, 'A Dramatic Dilution', 22 December 2023",
+"url": null
+},
+"text": "The dilution of the Schumer-Rounds disclosure language during the FY2024 conference was reported contemporaneously as a deliberate weakening rather than a drafting accident.",
+"tier": 2,
+"topic": "uapda",
+"via": null
 }
 ],
 "cls": "institution",

@@ -242,6 +242,15 @@
 },
 {
 "id": "c-188cbb0ed1",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2021-12-31",
+"route": "document",
+"speaker": "10 U.S.C. 119(e)(1) (statutory text; inference is the board's own reading)",
+"via": null
+},
 "source": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim",
 "sources": [
 {
@@ -312,6 +321,15 @@
 },
 {
 "id": "c-b7a483edb5",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2009",
+"route": "press",
+"speaker": "unnamed (army.mil article)",
+"via": null
+},
 "source": "https://www.army.mil/article/27650/hon_john_mchugh_takes_office_as_secretary_of_the_army",
 "sources": [
 {
@@ -396,6 +414,15 @@
 },
 {
 "id": "c-c905efd658",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2023",
+"route": "press",
+"speaker": "House Appropriations Committee (Democratic press release)",
+"via": null
+},
 "source": "https://democrats-appropriations.house.gov/news/press-releases/delauro-applauds-granger-for-trailblazing-career",
 "sources": [
 {

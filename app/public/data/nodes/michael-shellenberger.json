@@ -62,6 +62,15 @@
 },
 {
 "id": "c-22de0bb4da",
+"meta": {
+"artefactDate": "2024-10-17",
+"claimant": "micah-hanks",
+"claimantLabel": "Micah Hanks",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief"
+},
 "source": "Micah Hanks, The Debrief, 'Immaculate Constellation: UAP Bombshell or Disinformation?', 17 October 2024",
 "sources": [
 {
@@ -76,6 +85,15 @@
 },
 {
 "id": "c-a32445f6bb",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Contemporaneous video coverage of the 13 November 2024 hearing; Jesse Michels interview published 14 November 2024",
 "sources": [],
 "text": "On 13 November 2024 Shellenberger handed a twelve-page document to a House Oversight subcommittee.",
@@ -84,6 +102,15 @@
 },
 {
 "id": "c-ab3c7abb30",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('Michael Shellenberger')",
+"via": null
+},
 "source": "Wikipedia, 'Michael Shellenberger', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -112,6 +139,15 @@
 },
 {
 "id": "c-6ae89a86ac",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Michael Shellenberger, sworn testimony, 13 November 2024",
 "sources": [
 {
@@ -126,6 +162,15 @@
 },
 {
 "id": "c-a9474c782c",
+"meta": {
+"artefactDate": "2024",
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
+"eventDate": null,
+"route": "press",
+"speaker": "Susan Gough; Sean Kirkpatrick",
+"via": null
+},
 "source": "DoD statements as reported in UAP coverage, 2024-2026",
 "sources": [],
 "text": "Pentagon spokesperson Sue Gough said the Department has no record of such a programme; Sean Kirkpatrick also denied its existence.",
@@ -134,6 +179,15 @@
 },
 {
 "id": "c-cf540c1b0e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2025",
+"route": "press",
+"speaker": "Jason Colavito, jasoncolavito.com",
+"via": "Wikipedia, 'Schriever wargame'"
+},
 "source": "Jason Colavito, jasoncolavito.com, as cited in the Wikipedia Schriever wargame article",
 "sources": [
 {
@@ -153,6 +207,212 @@
 "text": "The Schriever attribution addresses a 2025 claimant's account of where he found the name; it does not by itself account for the 12-page document delivered in November 2024 or explain why no AARO product has ever addressed the name entered into the Record.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-583719cb99",
+"node": "church-committee",
+"nodeLabel": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "michels-corpus-02.md file 02 at 13;52 and 14;51 (Shellenberger); michels-corpus-05.md file 04 at 18;41 (West)",
+"url": null
+},
+"text": "Two Michels-corpus speakers who agree on very little else, Michael Shellenberger and Mick West, each name the Church Committee as the model for what oversight of a compartmented programme should look like. The committee's own report describes an inquiry whose every document arrived through the filter of the agency that held it.",
+"tier": 2,
+"topic": "black-budget",
+"via": "American Alchemy with Jesse Michels (corpus transcript)"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-2477ebc37d",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"url": null
+},
+"text": "'One involved orbs surrounding and forcing an F-22 out of its patrol area. In another incident, the crew of a Navy aircraft carrier watched a small orange/red sphere rapidly descend from a high altitude of 100 to 200 yards directly above the flight deck.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-5ef2e8f60b",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-118hhrg57440, 13 November 2024",
+"url": null
+},
+"text": "Asked by Higgins whether he knew the author, Shellenberger replied 'I do'; asked whether his sources sat inside the Defense Department he said 'I will not say ... I protect my sources.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight (questioned by Rep. Clay Higgins)"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-b90e760547",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"url": null
+},
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms' and 'includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-cdf39434fd",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024",
+"url": null
+},
+"text": "The source told Public the USAP is 'a strategic intelligence program'; a source subsequently told Shellenberger the programme 'is controlled by the White House and executed and administrated by the DOD to avoid compliance with Title 10.'",
+"tier": 2,
+"topic": "hearing-2024",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-05bc19eaae",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"url": null
+},
+"text": "The report describes 'a roughly 13-minute long, high-definition, full-color video of a white orb UAP coming out of the ocean approximately 20 miles off the coast of Kuwait ... joined by another orb that briefly comes into the frame from the left.'",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": null
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-5ea6aceb26",
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"url": null
+},
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-6ae89a86ac",
+"node": "michael-shellenberger",
+"nodeLabel": "Michael Shellenberger",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"url": null
+},
+"text": "'Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-6c055c72aa",
+"node": "immaculate-constellation-12-page-report",
+"nodeLabel": "Immaculate Constellation 12-page report entered into the Congressional Record",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, sworn testimony, 13 November 2024",
+"url": null
+},
+"text": "'The report that was just shared with Congress says Immaculate Constellation serves as a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms. Immaculate Constellation includes high-quality imagery intelligence and measurement and signature intelligence of UAPs.'",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-a32445f6bb",
+"node": "michael-shellenberger",
+"nodeLabel": "Michael Shellenberger",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Contemporaneous video coverage of the 13 November 2024 hearing; Jesse Michels interview published 14 November 2024",
+"url": null
+},
+"text": "On 13 November 2024 Shellenberger handed a twelve-page document to a House Oversight subcommittee.",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": "2017",
+"id": "c-b556629330",
+"node": "nyt-2017-12-16",
+"nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
+"url": null
+},
+"text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",
+"tier": 2,
+"topic": "immaculate-constellation",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2024-11-13",
+"eventDate": null,
+"id": "c-dc1a525a2a",
+"node": "lauren-boebert",
+"nodeLabel": "Lauren Opal Boebert",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-118hhrg57440, 13 November 2024",
+"url": null
+},
+"text": "Asked Shellenberger: 'Do you believe that there is a concerted effort by the Pentagon to keep Congress out of the loop regarding these UAP activities specifically in our waters?' Shellenberger: 'Yes.'",
+"tier": 1,
+"topic": "task-force-2025",
+"via": "House Oversight Committee"
 }
 ],
 "cls": "person",

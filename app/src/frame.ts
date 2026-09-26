@@ -1,6 +1,7 @@
 /* frame.ts: the common frame of Design response section 1.1.
  *
- * A 40px bar: the wordmark, five routes and More (five more: the Library since phase 8), and the search field. The raw URL
+ * A 40px bar: the wordmark, five routes and More (eight more: the Library since phase 8, Questions and
+ * Connect since phase 10), and the search field. The raw URL
  * fragment and the viewport size used to sit on the right; they were debugging
  * aids, not reader chrome, and went in redesign phase 5b. The route is on the
  * bar as `data-route` for anything that needs to read it.
@@ -45,6 +46,8 @@ function items(r: Route): NavItem[] {
     { label: 'EVIDENCE', href: '#/evidence', match: (x) => x.kind === 'evidence' },
     { label: 'PATENTS', href: '#/patents/' + PATENT_IN_VIEW, match: (x) => x.kind === 'patents' },
     { label: 'DIRECTORIES', more: true, href: '#/people', match: (x) => x.kind === 'directory' },
+    { label: 'QUESTIONS', more: true, href: '#/questions', match: (x) => x.kind === 'questions' || x.kind === 'question' },
+    { label: 'CONNECT', more: true, href: nid ? '#/connect/' + nid : '#/connect', match: (x) => x.kind === 'connect' },
     { label: 'MAP', more: true, href: '#/map', match: (x) => x.kind === 'map' || x.kind === 'node-map' || x.kind === 'thread-map' },
     { label: 'THREADS', more: true, href: '#/t/' + THREAD_IN_VIEW, match: (x) => x.kind === 'thread' },
     { label: 'NEIGHBOURHOOD', more: true, href: '#/hood', match: (x) => x.kind === 'hood' || x.kind === 'node-hood' },

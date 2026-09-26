@@ -23,6 +23,15 @@
 },
 {
 "id": "c-a3ecaebbee",
+"meta": {
+"artefactDate": null,
+"claimant": "george-hathaway",
+"claimantLabel": "George D. Hathaway",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/ , opened 2026-09-19",
 "sources": [
 {
@@ -65,6 +74,15 @@
 },
 {
 "id": "c-cc77ebe81e",
+"meta": {
+"artefactDate": null,
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
+"eventDate": "1974",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.theblackvault.com/documentarchive/the-advanced-aviation-threat-identification-program-aatip-dird-report-research/",
 "sources": [
 {
@@ -79,6 +97,15 @@
 },
 {
 "id": "c-4fbd4c6b85",
+"meta": {
+"artefactDate": "2018-01-09",
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "ufos-scientificresearch.blogspot.com"
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -93,6 +120,15 @@
 },
 {
 "id": "c-e439fc9793",
+"meta": {
+"artefactDate": null,
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -107,6 +143,15 @@
 },
 {
 "id": "c-9e31d2c7da",
+"meta": {
+"artefactDate": null,
+"claimant": "george-hathaway",
+"claimantLabel": "George D. Hathaway",
+"eventDate": "1974",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.hathawayresearch.com/principal-staff/",
 "sources": [
 {
@@ -121,6 +166,15 @@
 },
 {
 "id": "c-d9d0bfeb7d",
+"meta": {
+"artefactDate": null,
+"claimant": "george-hathaway",
+"claimantLabel": "George D. Hathaway",
+"eventDate": "1996",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.altpropulsion.com/gravity-control-experiments/",
 "sources": [
 {
@@ -132,6 +186,76 @@
 "text": "Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1974",
+"id": "c-9e31d2c7da",
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"route": "document",
+"source": {
+"domain": "www.hathawayresearch.com",
+"text": "https://www.hathawayresearch.com/principal-staff/",
+"url": "https://www.hathawayresearch.com/principal-staff/"
+},
+"text": "Hathaway graduated in electrical engineering from the University of Toronto in 1974, is a registered professional engineer, and founded Hathaway Consulting Services and later Hathaway Research International, a laboratory near Toronto International Airport dedicated to testing claims of anomalous energy production and unconventional propulsion and gravity modification.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-a3ecaebbee",
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"route": "document",
+"source": {
+"domain": "www.hathawayresearch.com",
+"text": "Hathaway Research International, principal staff page, https://www.hathawayresearch.com/principal-staff/ , opened 2026-09-19",
+"url": "https://www.hathawayresearch.com/principal-staff/"
+},
+"text": "HE IS THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND THE LINK RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own staff page states that he 'graduated from the Dep't of Electrical Engineering at the University of Toronto in 1974 and is a Registered Professional Engineer', that he consults on 'novel and exotic materials, energy production and propulsion concepts', and that he is 'author of the book \"Mindbending: The Hutchison Files\"'. HIS HUTCHISON PUBLICATION IS A BOOK AND NOT A PAPER, and this board carries no peer-reviewed publication and no primary record of a controlled Hutchison demonstration, because none was found.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1996",
+"id": "c-ca79a374f0",
+"node": "dird-the-role-of-superconductors-in-gravity",
+"nodeLabel": "The Role of Superconductors in Gravity Research",
+"route": "document",
+"source": {
+"domain": "www.altpropulsion.com",
+"text": "https://www.altpropulsion.com/gravity-control-experiments/",
+"url": "https://www.altpropulsion.com/gravity-control-experiments/"
+},
+"text": "The paper reviews the rotating-superconductor gravity-modification claims associated with Evgeny Podkletnov and the work of Ning Li. Hathaway had personally run a Podkletnov replication between 1996 and 2003 and obtained null results, so DIA commissioned the review from a researcher with a documented record of failing to reproduce the effect.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1996",
+"id": "c-d9d0bfeb7d",
+"node": "george-hathaway",
+"nodeLabel": "George D. Hathaway",
+"route": "document",
+"source": {
+"domain": "www.altpropulsion.com",
+"text": "https://www.altpropulsion.com/gravity-control-experiments/",
+"url": "https://www.altpropulsion.com/gravity-control-experiments/"
+},
+"text": "Between 1996 and 2003 Hathaway conducted the Podkletnov spinning-superconductor gravity experiment for a prospective investor and reported null results.",
+"tier": 2,
+"topic": "propulsion-claims",
+"via": null
 }
 ],
 "cls": "person",

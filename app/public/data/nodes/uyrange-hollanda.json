@@ -48,6 +48,15 @@
 "claims": [
 {
 "id": "c-249b1f4c7e",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('Operação Prato'), citing ISTOÉ and Folha de S. Paulo",
+"via": null
+},
 "source": "Wikipedia 'Operação Prato', citing ISTOÉ (22 July 2013) and Folha de S. Paulo (11 January 2009)",
 "sources": [
 {
@@ -62,6 +71,15 @@
 },
 {
 "id": "c-df12fa8309",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Andy Wells, Yahoo News",
+"via": null
+},
 "source": "Andy Wells, 'Operation Saucer: The Official Search For UFOs That Attacked Brazilians With Light Beams In 1977', Yahoo News",
 "sources": [
 {
@@ -76,6 +94,15 @@
 },
 {
 "id": "c-755754e2e6",
+"meta": {
+"artefactDate": "2009-01-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Fernando Rodrigues, Folha de S. Paulo",
+"via": null
+},
 "source": "Fernando Rodrigues, 'SNI investigou óvnis durante a ditadura', Folha de S. Paulo, 11 January 2009, pp. A10-A11",
 "sources": [
 {

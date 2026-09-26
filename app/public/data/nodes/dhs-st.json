@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-8e1531fe2f",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2011",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/DHS, 'History and Origin of KONA BLUE'",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-abadabc569",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, p. 35",
 "sources": [
 {

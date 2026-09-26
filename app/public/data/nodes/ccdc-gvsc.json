@@ -14,11 +14,73 @@
 },
 {
 "id": "c-35cfb0086a",
+"meta": {
+"artefactDate": "2020-03-12",
+"claimant": "ccdc-gvsc",
+"claimantLabel": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Black Vault"
+},
 "source": "The Black Vault, 12 March 2020",
 "sources": [],
 "text": "GVSP public affairs officer Doug Halleaux stated 'we try not to release details on collaborative work until the work itself has reached a conclusion.'",
 "tier": 2,
 "unresolved": "a proposed reading (url:theblackvault.com/documentarchive/u-s-army-releases-crada-with-to-the-stars-) was rejected in review: outlet and date only; candidate row shows no date"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2020-03-12",
+"eventDate": null,
+"id": "c-e50b8bbcfc",
+"node": "ttsa-army-crada",
+"nodeLabel": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Black Vault, 12 March 2020",
+"url": null
+},
+"text": "Army GVSP public affairs officer Doug Halleaux said that because 'the Army's interest is in the potential for novel materials and exploring the edges of materials science, any speculation as to their origin is (pardon the pun) immaterial.'",
+"tier": 2,
+"topic": "funding-channels",
+"via": "The Black Vault"
+},
+{
+"artefactDate": "2019",
+"eventDate": null,
+"id": "c-3042938ef6",
+"node": "l-detroit-arsenal",
+"nodeLabel": "Detroit Arsenal, Warren, Michigan",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Army public affairs statement, 2019",
+"url": null
+},
+"text": "GVSP spokesman Doug Halleaux stated that because the Army's interest is in the potential for novel materials, 'any speculation as to their origin is (pardon the pun) immaterial.'",
+"tier": 2,
+"topic": "ttsa",
+"via": null
+},
+{
+"artefactDate": "2020-03-12",
+"eventDate": null,
+"id": "c-35cfb0086a",
+"node": "ccdc-gvsc",
+"nodeLabel": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The Black Vault, 12 March 2020",
+"url": null
+},
+"text": "GVSP public affairs officer Doug Halleaux stated 'we try not to release details on collaborative work until the work itself has reached a conclusion.'",
+"tier": 2,
+"topic": "ttsa",
+"via": "The Black Vault"
 }
 ],
 "cls": "institution",

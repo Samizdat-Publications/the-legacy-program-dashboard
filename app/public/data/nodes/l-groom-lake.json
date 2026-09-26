@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-18e8f83d44",
+"meta": {
+"artefactDate": "2013-10-29",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2013",
+"route": "document",
+"speaker": "National Security Archive Electronic Briefing Book 443 (by Jeffrey T. Richelson)",
+"via": null
+},
 "source": "National Security Archive Electronic Briefing Book 443, 29 October 2013, https://nsarchive.gwu.edu/node/3324 , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-21a5c3bcb5",
+"meta": {
+"artefactDate": "1991",
+"claimant": "bob-lazar",
+"claimantLabel": "Robert \"Bob\" Lazar",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Tri-Dot Productions (The Lazar Tape)"
+},
 "source": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07 and 27:16 via YouTube video kc10m6HFbDE, https://archive.org/details/antigravity , opened 2026-09-18",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-861074b262",
+"meta": {
+"artefactDate": "2013-06-25",
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "CIA, 'The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974', released 25 June 2013; National Security Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-c51537b8a9",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1995",
+"route": "document",
+"speaker": "Wikipedia, 'Area 51' (citing the presidential determination)",
+"via": null
+},
 "source": "Presidential determination on the Groom Lake exemption; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "In 1995 President Clinton issued a presidential determination exempting the Air Force's operating location near Groom Lake, Nevada from environmental disclosure laws; the determination is reissued annually.",
@@ -56,6 +92,15 @@
 },
 {
 "id": "c-a88dff69a1",
+"meta": {
+"artefactDate": "1998",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1994",
+"route": "filing",
+"speaker": "unnamed (Kasza v. Browner litigation record; Wikipedia)",
+"via": null
+},
 "source": "Kasza v. Browner, 133 F.3d 1159 (9th Cir. 1998); Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "Kasza v. Browner and Frost v. Perry (filed 1994) alleged exposure to hazardous waste burned in open pits at Groom Lake; Rutgers biochemists found elevated dioxin, dibenzofuran and trichloroethylene in claimants' body fat; District Judge Philip Pro rejected the government's state secrets claim before the suits were dismissed for lack of evidence.",
@@ -64,6 +109,15 @@
 },
 {
 "id": "c-3f931779da",
+"meta": {
+"artefactDate": null,
+"claimant": "cia",
+"claimantLabel": "Central Intelligence Agency",
+"eventDate": "1955-04",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "CIA OXCART history; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [],
 "text": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982.",

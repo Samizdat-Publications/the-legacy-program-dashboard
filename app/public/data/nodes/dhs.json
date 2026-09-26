@@ -20,6 +20,15 @@
 },
 {
 "id": "c-1777ff44ba",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2011",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/DHS, 'History and Origin of KONA BLUE' - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -34,6 +43,15 @@
 },
 {
 "id": "c-4d02194aff",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2012",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, pp. 34-35",
 "sources": [
 {
@@ -48,6 +66,15 @@
 },
 {
 "id": "c-89704028c3",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, p. 34",
 "sources": [
 {
@@ -67,6 +94,25 @@
 "text": "The KONA BLUE record establishes that a US department was formally asked, at Under Secretary level and with the support of two sitting senators, to create a compartment for the exploitation of recovered non-human material. Whether the material existed is a separate question from whether the request was made; the request is documented. Reasoning: the AARO/DHS paper is itself the government's admission of the request.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-02-05",
+"eventDate": "2012-02-10",
+"id": "c-99020cec55",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Letter from DHS Acting Deputy Secretary Kristie Canegallo to the Deputy Secretary of Defense, 5 February 2024, released with the AARO DHS Kona Blue package - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "Kona Blue was a DHS prospective special access program terminated on 10 February 2012; DHS declassified the associated documents and transmitted them to the Deputy Secretary of Defense on 5 February 2024.",
+"tier": 2,
+"topic": "kona-blue",
+"via": "AARO, in its DHS Kona Blue release"
 }
 ],
 "cls": "institution",

@@ -33,6 +33,15 @@
 "claims": [
 {
 "id": "c-794e899eea",
+"meta": {
+"artefactDate": "2026-04-21",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": "2026-02-27",
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:05:16 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
 "sources": [
 {
@@ -47,6 +56,15 @@
 },
 {
 "id": "c-f4a5ee7eff",
+"meta": {
+"artefactDate": "2026-04-21",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Why America's Top Scientists Are Going Missing [They Knew Too Much...]', 21 April 2026, 0:09:04 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL3303927368.mp3?updated=1776795850",
 "sources": [
 {
@@ -61,6 +79,15 @@
 },
 {
 "id": "c-cce744bbec",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: \"President Trump Was Briefed On Alien Hybrids!\"', 2 July 2026, 1:28:33 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "sources": [
 {
@@ -75,6 +102,15 @@
 },
 {
 "id": "c-6d0c3aebc6",
+"meta": {
+"artefactDate": "2026-07-02",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Congressman: \"President Trump Was Briefed On Alien Hybrids!\"', 2 July 2026, 1:28:33 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL2654068830.mp3",
 "sources": [
 {
@@ -89,6 +125,15 @@
 },
 {
 "id": "c-bbacf6320c",
+"meta": {
+"artefactDate": "2026-06-07",
+"claimant": "jeremy-corbell",
+"claimantLabel": "Jeremy Kenyon Lockyer Corbell",
+"eventDate": null,
+"route": "interview",
+"speaker": "Lyn Buchanan; Jeremy Corbell; Michael Shermer",
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels: '\"I Saw a Mantis Alien At THIS American Military Base!\" -Army Sergeant Lyn Buchanan', 28 May 2026, 2:14:52 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6048917608.mp3 ; '\"If You Knew What I Knew!\" -Jeremy Corbell UNLEASHES On Jesse Michels | EARLY RELEASE', 7 June 2026, 1:56:41 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL1864048266.mp3 ; 'I Debated UFOs With America's Top Skeptic (It Got Ugly...)', 9 July 2026, 1:14:21 https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL4216664886.mp3",
 "sources": [
 {
@@ -113,6 +158,15 @@
 },
 {
 "id": "c-837cf383c4",
+"meta": {
+"artefactDate": "2026-04-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-02",
+"route": "broadcast",
+"speaker": "Fox News",
+"via": null
+},
 "source": "Fox News, 21 April 2026",
 "sources": [],
 "text": "Retired Air Force Gen. William Neil McCasland vanished in February 2026 from his Albuquerque, New Mexico home, leaving behind his phone, prescription glasses, hiking boots, wallet, and a .38-caliber revolver.",
@@ -121,6 +175,15 @@
 },
 {
 "id": "c-810ccbf0f9",
+"meta": {
+"artefactDate": "2026-04-21",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 21 April 2026",
 "sources": [],
 "text": "Rep. Burlison's staff had been attempting to contact McCasland regarding a separate congressional investigation before his disappearance.",
@@ -129,6 +192,15 @@
 },
 {
 "id": "c-97243dc63d",
+"meta": {
+"artefactDate": "2026-04-21",
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 21 April 2026",
 "sources": [],
 "text": "McCasland is one of eleven individuals in nuclear or rocket technology who have died or vanished under mysterious circumstances since 2022, per the House Oversight probe.",
@@ -137,6 +209,15 @@
 },
 {
 "id": "c-fd94d3df51",
+"meta": {
+"artefactDate": "2026-04-21",
+"claimant": "james-comer",
+"claimantLabel": "James Comer Jr.",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 21 April 2026",
 "sources": [],
 "text": "Chairman Comer and Rep. Burlison requested briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026.",

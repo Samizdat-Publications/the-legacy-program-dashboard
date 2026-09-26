@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-6525879f6e",
+"meta": {
+"artefactDate": "2001-04",
+"claimant": "disclosure-project",
+"claimantLabel": "The Disclosure Project",
+"eventDate": "2000-09",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-3fb5052fea",
+"meta": {
+"artefactDate": "2001-04",
+"claimant": "clifford-stone",
+"claimantLabel": "Clifford E. Stone",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "The Disclosure Project"
+},
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -37,6 +55,15 @@
 },
 {
 "id": "c-e607761c85",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1968-07-08",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -51,6 +78,15 @@
 },
 {
 "id": "c-738d47d8f8",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1983-12-23",
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -65,6 +101,15 @@
 },
 {
 "id": "c-17de04ef24",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -79,6 +124,15 @@
 },
 {
 "id": "c-ae7046016d",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1988-01",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -93,6 +147,15 @@
 },
 {
 "id": "c-02c72aab61",
+"meta": {
+"artefactDate": "2021-02",
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kevin D. Randle, 'Cliff Stone Has Died', A Different Perspective, https://kevinrandle.blogspot.com/2021/02/cliff-stone-has-died.html , opened 2026-09-19",
 "sources": [
 {
@@ -107,6 +170,15 @@
 },
 {
 "id": "c-f1309e7d6f",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "2001-05-09",
+"route": "document",
+"speaker": null,
+"via": "Fox News Channel"
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -132,6 +204,25 @@
 "text": "STATED INFERENCE. Klass and Randle are not two agents sharing a method. One worked from a records request to the National Personnel Records Center; the other from thirty years of personal acquaintance and is a retired Air Force officer who argues for the reality of other cases. The corollary in CLAUDE.md section 2 about two agents agreeing under a shared method does not apply to this pair.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2001-04",
+"eventDate": null,
+"id": "c-3fb5052fea",
+"node": "clifford-stone",
+"nodeLabel": "Clifford E. Stone",
+"route": "interview",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "In the same testimony he describes his own training in his own words: 'very early on in my career they sent me to NBC School at Fort McCullen [sp], Alabama. It's a three-week school. It's for NBC personnel, NBC meaning Nuclear, Biological, and Chemical', and elsewhere places himself in 'the 96th Civil Affairs Company. I was the NBC Non-Commissioner [sic]'.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": "The Disclosure Project"
 }
 ],
 "cls": "person",

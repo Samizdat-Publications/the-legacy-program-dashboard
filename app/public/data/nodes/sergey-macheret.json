@@ -23,6 +23,15 @@
 },
 {
 "id": "c-004de7ed47",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia",
+"via": null
+},
 "source": "https://en.wikipedia.org/wiki/Sergey_Macheret",
 "sources": [
 {
@@ -37,6 +46,15 @@
 },
 {
 "id": "c-b810ea7a32",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2014",
+"route": "document",
+"speaker": "unnamed (Purdue University spotlight page)",
+"via": null
+},
 "source": "https://digitwin2024.polytechnic.purdue.edu/AAE/spotlights/2022/2022-0331-Sergey-Macheret-AIAA-plasma-lasers-award",
 "sources": [
 {

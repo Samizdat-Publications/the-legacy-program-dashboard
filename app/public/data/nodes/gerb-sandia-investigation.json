@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-6d8d2ec5bb",
+"meta": {
+"artefactDate": "2025-11-01",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-f7e7223863",
+"meta": {
+"artefactDate": "2025-11-01",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-d6cfaecf2c",
+"meta": {
+"artefactDate": "2025-11-01",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "1949",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Sandia investigation description, 1 November 2025, restating public record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {

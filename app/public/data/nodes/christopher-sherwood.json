@@ -27,6 +27,15 @@
 "claims": [
 {
 "id": "c-4522a28213",
+"meta": {
+"artefactDate": "2019-05-22",
+"claimant": "christopher-sherwood",
+"claimantLabel": "Christopher Sherwood",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "New York Post"
+},
 "source": "Christopher Sherwood to the New York Post, 22 May 2019",
 "sources": [
 {
@@ -41,6 +50,15 @@
 },
 {
 "id": "c-0a6dd9aeca",
+"meta": {
+"artefactDate": "2019-06-01",
+"claimant": "christopher-sherwood",
+"claimantLabel": "Christopher Sherwood",
+"eventDate": "2017-10-04",
+"route": "press",
+"speaker": null,
+"via": "The Intercept (Keith Kloor)"
+},
 "source": "Keith Kloor, The Intercept, 1 June 2019",
 "sources": [
 {
@@ -52,6 +70,59 @@
 "text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2019-05-22",
+"eventDate": null,
+"id": "c-4522a28213",
+"node": "christopher-sherwood",
+"nodeLabel": "Christopher Sherwood",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Christopher Sherwood to the New York Post, 22 May 2019",
+"url": null
+},
+"text": "Stated on 22 May 2019 that AATIP 'did pursue research and investigation into unidentified aerial phenomena'.",
+"tier": 1,
+"topic": "aatip-elizondo",
+"via": "New York Post"
+},
+{
+"artefactDate": "2019-06-01",
+"eventDate": "2017-10-04",
+"id": "c-0a6dd9aeca",
+"node": "christopher-sherwood",
+"nodeLabel": "Christopher Sherwood",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Keith Kloor, The Intercept, 1 June 2019",
+"url": null
+},
+"text": "Stated on 1 June 2019: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+"tier": 1,
+"topic": "aatip-elizondo",
+"via": "The Intercept (Keith Kloor)"
+},
+{
+"artefactDate": "2019-06-01",
+"eventDate": "2017-10-04",
+"id": "c-c7c86ef93e",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Christopher Sherwood, Pentagon spokesperson, 1 June 2019",
+"url": null
+},
+"text": "DoD's public position is that 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017.'",
+"tier": 1,
+"topic": "aatip-elizondo",
+"via": null
 }
 ],
 "cls": "person",

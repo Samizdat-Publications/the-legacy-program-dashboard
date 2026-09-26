@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-754148a031",
+"meta": {
+"artefactDate": "1977",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Petrozavodsk phenomenon' (citing the 1977 Academy of Sciences preliminary report)",
+"via": "Wikipedia, 'Petrozavodsk phenomenon'"
+},
 "source": "Wikipedia, 'Petrozavodsk phenomenon', citing the 1977 Academy of Sciences preliminary report",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-2dd3c292a3",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1977-09-20",
+"route": "document",
+"speaker": "Wikipedia, 'Petrozavodsk phenomenon'",
+"via": null
+},
 "source": "Wikipedia, 'Petrozavodsk phenomenon'",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-3a13c89574",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Petrozavodsk phenomenon'",
+"via": null
+},
 "source": "Wikipedia, 'Petrozavodsk phenomenon'",
 "sources": [
 {

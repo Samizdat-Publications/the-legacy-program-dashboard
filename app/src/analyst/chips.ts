@@ -35,7 +35,8 @@ export function chipKey(r: Route): ChipKey {
     case 'report-node': case 'report-thread': return 'report';
     /* the Atlas and topic pages have no chips of their own until Stewart has
        approved some (phase 12); they are front-door pages, so they get Home's */
-    case 'home': case 'notfound': case 'atlas': case 'topic': case 'directory': case 'library': case 'source': return 'home';
+    case 'home': case 'notfound': case 'atlas': case 'topic': case 'directory': case 'library': case 'source':
+    case 'questions': case 'question': case 'connect': return 'home';
   }
 }
 

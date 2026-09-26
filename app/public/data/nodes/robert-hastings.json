@@ -33,6 +33,15 @@
 "claims": [
 {
 "id": "c-075fb2c424",
+"meta": {
+"artefactDate": "2024-10-19",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:34:57, and 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 2:07:40",
 "sources": [],
 "text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'.",
@@ -41,6 +50,15 @@
 },
 {
 "id": "c-cc947e22b4",
+"meta": {
+"artefactDate": "2025-01-27",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": null
+},
 "source": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523",
 "sources": [
 {
@@ -55,6 +73,15 @@
 },
 {
 "id": "c-57d8201cba",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
 "sources": [
 {
@@ -114,6 +141,15 @@
 },
 {
 "id": "c-917255071a",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": "1967-03",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
 "sources": [
 {
@@ -142,6 +178,15 @@
 },
 {
 "id": "c-f75eefd975",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": "2010-09-27",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
 "sources": [],
 "text": "On 27 September 2010 Hastings convened seven US Air Force veterans at the National Press Club to describe UFO incursions at nuclear weapons sites; CNN carried the event.",
@@ -150,6 +195,15 @@
 },
 {
 "id": "c-b9fd9a3683",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "ufohastings.com, 'Witness Affidavits' section",
 "sources": [],
 "text": "Hastings holds signed witness affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson, published in facsimile.",
@@ -158,11 +212,481 @@
 },
 {
 "id": "c-73c2938936",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Hastings, ufohastings.com and 'UFOs and Nukes' (2nd ed.)",
 "sources": [],
 "text": "Hastings states he has interviewed more than 150 military veterans about UFO-related incidents at US missile sites, weapons storage facilities and nuclear test ranges.",
 "tier": 2,
 "unresolved": "read in review as naming no single source: Names website and a separate book jointly; two distinct sources."
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2024-12-24",
+"eventDate": "2023-01",
+"id": "c-60a31813b6",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10 and 1:51:51, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE4049919963.mp3?updated=1752173281"
+},
+"text": "On American Alchemy with Jesse Michels, 24 December 2024, at 1:49:10, Robert Hastings said that in January 2023 McConnell, whom he describes as 'a retired Senate Armed Service Committee investigator', contacted him and asked him to gather veterans with experiences at nuclear weapons sites for AARO to interview, and at 1:51:51 that 'it was 11 of roughly 20 who agreed to speak' with the office. The transcript renders the name Kurt McConnell throughout.",
+"tier": 2,
+"topic": "academic-science",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2024-12-24",
+"eventDate": "2023-03",
+"id": "c-f985a32aad",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy with Jesse Michels, 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 1:49:10",
+"url": null
+},
+"text": "In the same passage Hastings said McConnell emailed him in about March 2023 saying he had driven a veteran to that veteran's AARO interview, and relayed what the veteran said he had told AARO's then director about where a particular film was held. Hastings gives the account at two removes and names no document.",
+"tier": 2,
+"topic": "academic-science",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-57d8201cba",
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "THE COUNT IS NOT STABLE ON HIS OWN SITE. His press-conference article states 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' His biographical page, opened the same day, states 'To date, Hastings has interviewed more than 150 military veterans.' The board records both figures with their pages rather than a round number, because the count is itself the principal evidence for the scale of the claim.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": "2011-06",
+"eventDate": null,
+"id": "c-70aea950c9",
+"node": "walter-figel",
+"nodeLabel": "Col. Walter Figel Jr.",
+"route": "document",
+"source": {
+"domain": "www.theufochronicles.com",
+"text": "The UFO Chronicles, republishing Robert Hastings, June 2011, https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html , opened 2026-09-19",
+"url": "https://www.theufochronicles.com/2011/06/echo-flight-icbm-incident-retired-usaf.html"
+},
+"text": "Robert Hastings states that Col. Walter Figel described, on audio tape, receiving a report of a large round object hovering above a missile silo at the moment the Echo Flight missiles went off alert. The account exists as Hastings's recordings of three telephone conversations in 2008, 2009 and 2010 and not as anything Figel has published, sworn or written.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "The UFO Chronicles (republishing)"
+},
+{
+"artefactDate": null,
+"eventDate": "1967-03-24",
+"id": "c-406805c7d0",
+"node": "robert-jamison",
+"nodeLabel": "Capt. Robert Jamison",
+"route": "document",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Robert Hastings dates the Oscar Flight incident to 24 March 1967, eight days after Echo Flight, and gives Capt. Jamison's information as the basis for that date. The separation of the two events rests on this recollection.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1967-03-24",
+"id": "c-520d9b24e4",
+"node": "robert-salas",
+"nodeLabel": "Capt. Robert L. Salas",
+"route": "document",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Robert Hastings now places the Oscar Flight incident on 24 March 1967, eight days after Echo Flight, on Capt. Robert Jamison's information, and states that Salas agrees the two incidents probably occurred on separate days. For years the Oscar Flight account was told as part of the 16 March event, which allowed Echo Flight's documentation to be read as corroborating it.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1996-10-01",
+"id": "c-6ed65ba810",
+"node": "frederick-meiwald",
+"nodeLabel": "Col. Frederick Meiwald",
+"route": "document",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Robert Salas located his former missile commander Frederick Meiwald in the summer of 1996, and Meiwald wrote to him about the March 1967 incident on 1 October 1996. Robert Hastings additionally states that he tape-recorded a telephone conversation with Meiwald in August 1996 and spoke with him again on 6 May 2011.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1996-10-01",
+"id": "c-8820c504e1",
+"node": "malmstrom-oscar-flight-1967",
+"nodeLabel": "Malmstrom Oscar Flight claim, 24 March 1967",
+"route": "press",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , all opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Col. Frederick Meiwald wrote to Salas about the incident on 1 October 1996. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD and two incompatible characterisations of it are in circulation, one supporting and one contradicting Salas. Kevin Randle separately records Salas giving all ten missiles and Meiwald four or five.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1965-08-01",
+"id": "c-98dfae4f96",
+"node": "l-warren",
+"nodeLabel": "F. E. Warren AFB, Wyoming",
+"route": "document",
+"source": {
+"domain": "rr0.org",
+"text": "rr0.org mirror of Hastings's F. E. Warren 1965 material, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
+"url": "https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/"
+},
+"text": "A Project Blue Book telephone log kept by Lt. Anspaugh records calls between 0130 and 0440 on 1 August 1965 reporting objects over the F. E. Warren missile complex, from Capt. Snelling of the Air Force command post, from the base commander Col. Johnson, from Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and from Capt. Howell, referring to sites designated E Site, G Flight, Quebec Flight, H-2 and B-4. The memorandum summarising those calls was first published by Dr J. Allen Hynek, Blue Book's civilian scientific consultant, in 'The UFO Experience: A Scientific Inquiry' in 1972.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "rr0.org mirror"
+},
+{
+"artefactDate": null,
+"eventDate": "1965-08-01",
+"id": "c-9a77d2bbb0",
+"node": "warren-1965",
+"nodeLabel": "F. E. Warren AFB sightings, 1 August 1965",
+"route": "document",
+"source": {
+"domain": "rr0.org",
+"text": "rr0.org mirror of Hastings's Warren 1965 material, https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/ , opened 2026-09-19",
+"url": "https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/"
+},
+"text": "Personnel at F. E. Warren AFB, including the base commander, telephoned Project Blue Book at Wright-Patterson AFB in the earliest hours of 1 August 1965 to report sightings over the Warren Minuteman missile sites. Lt. Anspaugh fielded and logged the calls between about 0130 and 0440. Named callers are Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Site designators recorded include E Site, G Flight, Quebec Flight, H-2 and B-4.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "rr0.org mirror"
+},
+{
+"artefactDate": null,
+"eventDate": "1996-10-01",
+"id": "c-9de1088659",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"route": "press",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Contested between Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , and the Metabunk skeptical resources thread, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Col. Frederick Meiwald wrote to Robert Salas about the March 1967 events on 1 October 1996, after Salas located him in the summer of that year. The letter is published by Salas and Robert Hastings. IT HAS NOT BEEN OPENED BY THIS BOARD and two flatly incompatible characterisations of its contents are in public circulation: that it elaborates and supports the Oscar Flight account, and that it records Meiwald's recollection as differing from Salas's and regrets being unable to help him establish his claims.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-ce797c4d12",
+"node": "l-warren",
+"nodeLabel": "F. E. Warren AFB, Wyoming",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Two of the seven US Air Force veterans at the 27 September 2010 National Press Club event served at F. E. Warren: Capt. Bruce Fenstermacher, missile combat crew commander, 1974 to 1977, and Patrick McDonough, geodetic surveyor, 1962 to 1966, with worldwide temporary duty surveying Atlas, Titan, Minuteman, Mace and Matador sites.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1967-03-24",
+"id": "c-cebc9e1286",
+"node": "malmstrom-oscar-flight-1967",
+"nodeLabel": "Malmstrom Oscar Flight claim, 24 March 1967",
+"route": "document",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Robert Hastings dates Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information and states that Salas agrees the two incidents probably occurred on separate days. The date that separates Oscar Flight from Echo Flight therefore comes from a witness the same interviewer found.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-dadb934d39",
+"node": "robert-jamison",
+"nodeLabel": "Capt. Robert Jamison",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Robert Jamison was a US Air Force 1st Lieutenant commanding an ICBM Combat Targeting Team at Malmstrom AFB, Montana, from January 1965 to October 1967, then a missile targeting instructor at Chanute AFB, Illinois, and separated from active duty as a Captain in July 1972. He executed an affidavit and appeared at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": "2010-09-27",
+"eventDate": null,
+"id": "c-2c45f86e94",
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "CNN report on the press conference, 27 September 2010",
+"url": null
+},
+"text": "Hastings said at the podium: 'Regarding the missile shut-down incidents, my opinion, their opinion, is that whoever are aboard this craft are sending a signal to both Washington and Moscow, among others, that we are playing with fire.'",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": "CNN"
+},
+{
+"artefactDate": "2010-09-27",
+"eventDate": null,
+"id": "c-deaa295d00",
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
+"url": null
+},
+"text": "Seven US Air Force veterans discussed UFO incursions at nuclear weapons sites at the National Press Club on 27 September 2010; CNN streamed the event live and carried coverage.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": "CNN"
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-2975352b99",
+"node": "patrick-mcdonough",
+"nodeLabel": "Patrick McDonough",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Patrick McDonough served in the US Air Force as a geodetic surveyor from 1962 to 1966 and, from F. E. Warren AFB at Cheyenne, Wyoming, performed temporary duty worldwide relating to surveys for Atlas, Titan, Minuteman, Mace and Matador missile sites. He executed an affidavit and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-29eec9d7e3",
+"node": "bruce-fenstermacher",
+"nodeLabel": "Capt. Bruce Fenstermacher",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Bruce Fenstermacher, Captain USAF, was a missile combat crew commander at F. E. Warren AFB, Wyoming from 1974 to 1977, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-4384238fed",
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"route": "document",
+"source": {
+"domain": null,
+"text": "ufohastings.com, 'Witness Affidavits' section",
+"url": null
+},
+"text": "Signed affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson are published in facsimile in the UFOs & Nukes document archive.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-55c24fcbd3",
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "The roster with ranks, units and periods, from Hastings's own page: Dwynne Arneson, Lt Col, 28th Air Division, Malmstrom AFB, 1967; Bruce Fenstermacher, Capt, missile combat crew commander, F. E. Warren AFB, 1974 to 1977; Charles Halt, Lt Col and later Col, RAF Bentwaters and Woodbridge and later Kunsan AB; Robert Jamison, Capt, ICBM combat targeting team, Malmstrom AFB, January 1965 to October 1967; Patrick McDonough, geodetic surveyor, F. E. Warren AFB, 1962 to 1966; Jerry Nelson, deputy missile crew commander, 579th Strategic Missile Squadron, Walker AFB, Roswell; and Robert Salas, Capt, Malmstrom AFB. The page names McDonough, Salas, Jamison, Arneson, Fenstermacher and Halt as having executed affidavits.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-73c2938936",
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Hastings, ufohastings.com and 'UFOs and Nukes' (2nd ed.)",
+"url": null
+},
+"text": "Hastings states he has interviewed more than 150 military veterans about UFO-related incidents at US missile sites, weapons storage facilities and nuclear test ranges.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-87776ea760",
+"node": "dwynne-arneson",
+"nodeLabel": "Lt Col Dwynne Arneson",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Dwynne Arneson, Lt Col USAF, served with the 28th Air Division at Malmstrom AFB, Montana in 1967, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-8787df72b6",
+"node": "jerry-nelson",
+"nodeLabel": "Jerry (Jerome) Nelson",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Jerry Nelson served as a deputy missile crew commander with the 579th Strategic Missile Squadron at Walker AFB, Roswell, New Mexico from 1962 to 1965, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1967-03",
+"id": "c-917255071a",
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"route": "document",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "It is Hastings, not a sceptic, who separated the two March 1967 events. He dates Echo Flight to 16 March 1967 and Oscar Flight to 24 March 1967 on Capt. Robert Jamison's information. That separation is what allows the Oscar Flight claim to survive the unit history's silence, and it was produced by the same interviewer whose interviews are the only source for it.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b9fd9a3683",
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"route": "document",
+"source": {
+"domain": null,
+"text": "ufohastings.com, 'Witness Affidavits' section",
+"url": null
+},
+"text": "Hastings holds signed witness affidavits from Robert Salas, Charles Halt, Patrick McDonough, Robert Jamison, Dwynne Arneson, Bruce Fenstermacher and Jerry Nelson, published in facsimile.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-f75eefd975",
+"node": "robert-hastings",
+"nodeLabel": "Robert L. Hastings",
+"route": "document",
+"source": {
+"domain": null,
+"text": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
+"url": null
+},
+"text": "On 27 September 2010 Hastings convened seven US Air Force veterans at the National Press Club to describe UFO incursions at nuclear weapons sites; CNN carried the event.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-fb6088351b",
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference and https://ufohastings.com/about , both opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "The witness count Hastings gives on this page differs from the one on his own biographical page. Here: 'I have interviewed more than 160 U.S. Air Force veterans regarding their involvement in UFO incidents at nuclear weapons sites.' There: 'To date, Hastings has interviewed more than 150 military veterans.' Both pages were opened on the same day.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
 }
 ],
 "cls": "person",

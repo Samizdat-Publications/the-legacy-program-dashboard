@@ -53,6 +53,15 @@
 },
 {
 "id": "c-a605d34de0",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": "2004-11",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Subcommittee on National Security, the Border and Foreign Affairs"
+},
 "source": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
 "sources": [
 {
@@ -67,6 +76,15 @@
 },
 {
 "id": "c-4d1e44e465",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "sources": [
 {
@@ -81,6 +99,15 @@
 },
 {
 "id": "c-4e6f45d8d5",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "David Fravor, written statement to House Oversight, 26 July 2023",
 "sources": [
 {
@@ -95,6 +122,15 @@
 },
 {
 "id": "c-8158e45ac8",
+"meta": {
+"artefactDate": "2021-05-16",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "CBS 60 Minutes"
+},
 "source": "David Fravor, CBS 60 Minutes, 16 May 2021",
 "sources": [
 {
@@ -137,6 +173,15 @@
 },
 {
 "id": "c-88a47e32c1",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": "2004-11-14",
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "sources": [
 {
@@ -151,6 +196,15 @@
 },
 {
 "id": "c-626b1da412",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight"
+},
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "sources": [
 {
@@ -165,6 +219,15 @@
 },
 {
 "id": "c-25c886d614",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": "2009",
+"route": "hearing",
+"speaker": null,
+"via": null
+},
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "sources": [
 {
@@ -179,6 +242,15 @@
 },
 {
 "id": "c-dafe8b11ea",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "sources": [
 {
@@ -190,6 +262,263 @@
 "text": "Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.'",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-13ba256c52",
+"node": "hearing-2023-07-26",
+"nodeLabel": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement, 26 July 2023",
+"url": null
+},
+"text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 2,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": "2009",
+"id": "c-25c886d614",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "hearing",
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Under oath he gave the chain by which the case reached investigators and then the public: 'It was not until 2009, until Jay Stratton had contacted me to investigate. Unbeknownst to all, he was part of the ATIP program in the Pentagon led by Lue Elizondo. There was an unofficial official report that came out that is now on the internet. Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk. I was contacted by Mr. Elizondo, and we talked for a short period of time.' This is the provenance chain in the words of the witness, under oath.",
+"tier": 1,
+"topic": "hearing-2023",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-4d1e44e465",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement to House Oversight, 26 July 2023",
+"url": null
+},
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1,
+"topic": "hearing-2023",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": "2004-11",
+"id": "c-a605d34de0",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement for the House Oversight Subcommittee on National Security, the Border and Foreign Affairs, 26 July 2023",
+"url": null
+},
+"text": "'In Nov 2004, I was the Commanding Officer of Strike Fighter Squadron Forty-One' and encountered 'a small white Tic Tac shaped object ... There were no Rotors, No Rotor wash, or any visible flight control surfaces.'",
+"tier": 1,
+"topic": "hearing-2023",
+"via": "House Oversight Subcommittee on National Security, the Border and Foreign Affairs"
+},
+{
+"artefactDate": "2021-05-16",
+"eventDate": null,
+"id": "c-8158e45ac8",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "David Fravor, CBS 60 Minutes, 16 May 2021",
+"url": null
+},
+"text": "'It was aware we were there' and 'It just disappears. Like, gone.'",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": "CBS 60 Minutes"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": "2004-11",
+"id": "c-01fc0691e3",
+"node": "uss-princeton",
+"nodeLabel": "USS Princeton (CG-59)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement to House Oversight, 26 July 2023",
+"url": null
+},
+"text": "Princeton tracked the objects on Aegis for roughly two weeks before 14 Nov 2004, observing descents from above 80,000 ft to 20,000 ft.",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-3080230a51",
+"node": "alex-dietrich",
+"nodeLabel": "Alex Dietrich",
+"route": "hearing",
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account.",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight subcommittee"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-450cee6c03",
+"node": "vfa-41",
+"nodeLabel": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement to House Oversight, 26 July 2023",
+"url": null
+},
+"text": "'the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-4e6f45d8d5",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement to House Oversight, 26 July 2023",
+"url": null
+},
+"text": "USS Princeton had been tracking the objects on Aegis for two weeks, descending from above 80,000 ft to 20,000 ft.",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-626b1da412",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "hearing",
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Under oath he gave the reason the aircrew were airborne at all: 'We were at a work up with all the battle groups. So, we integrate the ships with the carrier, the airwing with the carrier, and we start working. So, we were doing an air to air defense to hone not only our skills but those of the USS Princeton when they had been tracking them for 2 weeks. The problem was that there was never manned aircraft airborne when they were tracking them and this was the first day and, unfortunately, we were the ones airborne and went and saw it.'",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-7d8964cae3",
+"node": "kevin-day",
+"nodeLabel": "Kevin Day",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement to House Oversight, 26 July 2023 (corroborating the Princeton radar picture Day ran)",
+"url": null
+},
+"text": "Princeton tracked the objects on Aegis for roughly two weeks before the intercept, observing descents from above 80,000 ft to 20,000 ft.",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": "2004-11-14",
+"id": "c-88a47e32c1",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "hearing",
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.'",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-b26a6549fc",
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement to House Oversight, 26 July 2023",
+"url": null
+},
+"text": "'They had been observing these objects on their Aegis combat system for the previous 2 weeks,' descending from above 80,000 ft rapidly down to 20,000 ft.",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-dafe8b11ea",
+"node": "david-fravor",
+"nodeLabel": "David Fravor",
+"route": "hearing",
+"source": {
+"domain": "www.govinfo.gov",
+"text": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
+"url": "https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm"
+},
+"text": "Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.'",
+"tier": 1,
+"topic": "nimitz-2004",
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": null,
+"id": "c-faa0f5bfd8",
+"node": "nimitz-2004",
+"nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "David Fravor, written statement to House Oversight, 26 July 2023",
+"url": null
+},
+"text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": "House Oversight Committee"
 }
 ],
 "cls": "person",

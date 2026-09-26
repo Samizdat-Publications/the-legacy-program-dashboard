@@ -9,6 +9,15 @@
 "claims": [
 {
 "id": "c-50b7bc23aa",
+"meta": {
+"artefactDate": "2026-09-07",
+"claimant": "mario-woods",
+"claimantLabel": "Mario Woods",
+"eventDate": "1977-11-18",
+"route": "interview",
+"speaker": null,
+"via": "Jesse Michels (YouTube)"
+},
 "source": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:00:00-00:00:09 and 00:07:05-00:07:31; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md , https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "sources": [
 {
@@ -23,6 +32,15 @@
 },
 {
 "id": "c-2a214d4464",
+"meta": {
+"artefactDate": null,
+"claimant": "mario-woods",
+"claimantLabel": "Mario Woods",
+"eventDate": "1996",
+"route": "interview",
+"speaker": null,
+"via": "Jesse Michels"
+},
 "source": "Jesse Michels, video rjUdn6FklAU, at 00:20:48 and 00:01:46-00:02:01, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
 "sources": [
 {
@@ -37,6 +55,15 @@
 },
 {
 "id": "c-390dcc8e9f",
+"meta": {
+"artefactDate": "2026-09-12",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The Political Saucer",
+"via": null
+},
 "source": "The Political Saucer, 12 September 2026, https://politicalsaucer.substack.com/p/the-night-at-november-5-two-missile , opened 2026-09-19",
 "sources": [
 {
@@ -64,6 +91,110 @@
 "text": "SECTION 2a PROVENANCE. Woods is the originating claimant and was not found by anybody: he has been telling this account under his own name since 1996. That is the opposite of his co-claimant's provenance, and it is also the reason the two accounts cannot be treated as independent, because his published telling named Johnson and described the event for thirty years before Johnson was located.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-89d4aa637b",
+"node": "prp-nuclear-weapon",
+"nodeLabel": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "American Alchemy, episode with Mario Woods, 02;41 to 03;36 and 59;33 to 1:00;25; and the Michael Shermer episode of 9 July 2026, 0:13:03",
+"url": null
+},
+"text": "Speakers on the American Alchemy corpus describe PRP as a reason nuclear-site personnel did not report what they saw, and attach a figure of 167 to it. The 167 is Robert Hastings's count of nuclear-base witnesses, not a count of PRP personnel; no opened record supports either the figure or the reporting claim, and the directive contains no provision about reporting aerial phenomena.",
+"tier": 2,
+"topic": "classification-orders",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2025-07-05",
+"eventDate": "1977",
+"id": "c-dd0284dc3f",
+"node": "richard-doty",
+"nodeLabel": "Richard C. Doty",
+"route": "interview",
+"source": {
+"domain": "mgln.ai",
+"text": "American Alchemy with Jesse Michels, 'Fake Alien Signals Drove Him Insane... (ft. Greg Bishop)', 5 July 2025, 0:23:44 to 0:24:30, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918",
+"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL6921419786.mp3?updated=1752608918"
+},
+"text": "On American Alchemy with Jesse Michels, 5 July 2025, at 0:23:44 to 0:24:30, the episode describes the 1977 Ellsworth Air Force Base case of missile security officer Mario Woods and cuts in Woods's own voice saying of his debrief 'Next to him was this new OSI guy named Rick Doty', and later that when he saw him again on television he thought 'I know that guy. He was at my debrief.' Michels and Greg Bishop then date it to a year or two before the Bennewitz operation. The transcript renders the name Dodi and Dodie throughout.",
+"tier": 2,
+"topic": "kirtland-1980",
+"via": "American Alchemy with Jesse Michels"
+},
+{
+"artefactDate": "2026-09-07",
+"eventDate": "1977-11-18",
+"id": "c-50b7bc23aa",
+"node": "mario-woods",
+"nodeLabel": "Mario Woods",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:00:00-00:00:09 and 00:07:05-00:07:31; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md , https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "Mario Woods claims that on 18 November 1977 at about 0100, on an 1800 to 0600 shift, he and Michael Johnson of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth AFB Minuteman field, encountered a large bright object hovering under about fifty feet above the site and four humanoid figures, were taken aboard and physically examined, lost several hours, and were recovered about eight miles away beside a reservoir dam and interrogated separately on base.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": "Jesse Michels (YouTube)"
+},
+{
+"artefactDate": "2026-09-07",
+"eventDate": "1977-11-18",
+"id": "c-6e0fb78984",
+"node": "l-ellsworth",
+"nodeLabel": "Ellsworth AFB, South Dakota",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19; triaged at research/leads/michels-rjUdn6FklAU-triage-2026-09-19.md",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "The claim attached to this installation is that on 18 November 1977 at about 0100, security policemen Mario Woods and Michael Johnson of the 44th Missile Security Squadron responded to an alarm at Launch Facility November-5 in the Ellsworth Minuteman field and encountered a large object and humanoid figures. Woods has told the account publicly since 1996; Johnson was located in June 2026.",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": "Jesse Michels (YouTube)"
+},
+{
+"artefactDate": "2026-09-07",
+"eventDate": "1977-11-18",
+"id": "c-7b54df3316",
+"node": "ellsworth-1977",
+"nodeLabel": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:00:00-00:00:09 and 00:07:05-00:07:31, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "The claim, as stated on the dated artefact: Launch Facility November-5, Ellsworth AFB, 18 November 1977 at approximately 0100, two security policemen of the 44th Missile Security Squadron, an object hovering under about fifty feet, four humanoid figures, both men taken and examined, missing time, both recovered about eight miles away beside a reservoir dam, separate interrogations on base, and the second man subsequently discharged.",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": "Jesse Michels (YouTube)"
+},
+{
+"artefactDate": null,
+"eventDate": "1996",
+"id": "c-2a214d4464",
+"node": "mario-woods",
+"nodeLabel": "Mario Woods",
+"route": "interview",
+"source": {
+"domain": "www.youtube.com",
+"text": "Jesse Michels, video rjUdn6FklAU, at 00:20:48 and 00:01:46-00:02:01, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",
+"url": "https://www.youtube.com/watch?v=rjUdn6FklAU"
+},
+"text": "Woods states he has been telling the account publicly since 1996 and the episode claims more than forty media appearances for him, including History Channel, Discovery+ and NewsNation, in which he repeatedly named Michael Johnson on air and asked audiences to help find him.",
+"tier": 2,
+"topic": "testimony-provenance",
+"via": "Jesse Michels"
 }
 ],
 "cls": "person",

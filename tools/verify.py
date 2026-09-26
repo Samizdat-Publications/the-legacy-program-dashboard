@@ -3230,6 +3230,347 @@ def _person_facets_shipped(b):
     return bad[:40]
 
 
+# ---------------------------------------------------------------------------
+# Redesign phase 10, task 1: who made each claim (research/_claim_meta.json).
+# One row per Tier 2 claim and per Tier 1 claim the "said on the record" rule marks
+# ('said' or the office's own account). The rule is restated here from
+# app/src/attrib.ts, not imported from tools/claims/claim_meta.py, so the side-car's
+# scope is decided twice by two routes. Poison channel: a poisoned board copy
+# carries `_claimMeta` (the side-car's claims map) and `_claimMetaApp` (the shipped
+# node files, {id: record}).
+# ---------------------------------------------------------------------------
+
+CLAIM_META = os.path.join(ROOT, "research", "_claim_meta.json")
+CLAIM_ROUTES = ("hearing", "broadcast", "interview", "book", "filing", "press", "document")
+_CM_DATE = re.compile(r"^\d{4}(?:-(?:0[1-9]|1[0-2])(?:-(?:0[1-9]|[12]\d|3[01]))?)?$")
+_SAID_OPEN = re.compile(r"""^['"‘“]?(?:Sworn\b|Under oath\b|Testif(?:ied|ies|ying)\b|In (?:sworn |his |her |their |written )?testimony\b|Stated\b|States:|Said\b|Says\b|Told\b|Tells\b|According to\b|Asked\b|Answering\b|Attributed\b|Elicited\b|Claimed\b|Claims\b|Alleged\b|Alleges\b)""", re.I)
+_SAID_SPEAKER = re.compile(r"""^(?:[A-Z][\w.'’&()-]*\s){0,4}(?!(?:The|A|An|Its|Their|His|Her|This|That|These|Those)\s)[A-Z][\w.'’&()-]*\s(?:said|says|stated|states|testified|testifies|told|tells|swore|alleged|alleges|claimed|claims|asserted|asserts|declared|declares|responded|replied|answered)\b""")
+_SAID_DOC = re.compile(r"\b(?:Report|Paper|Assessment|Memo|Memorandum|Brief|Charter|Act|Volume|Document|Instruction|Directive|Manual|Order|FAQ|JANAP|Condon|NSDD|DIA-\d)")
+_SAID_SRC = re.compile(r"\b(?:sworn|testimony|testified|deposition|affidavit|spokes(?:man|woman|person)|(?:opening|written|prepared|emailed|joint|DoD|Navy|NASA|Pentagon|federal) statement|statement (?:for the record|to|following|by|attributed)|remarks|press conference(?! photographs)|media roundtable|media engagement)\b", re.I)
+_SAID_ABOUT = re.compile(r"^(?:Held\b|Official hearing record|The (?:hearing|transcript|document|record|report|letter|memo)\b|Its core|Page \d|Sole witness|Witness of record|Called as|Appeared as|Listed in|Written testimony filed)", re.I)
+_SAID_QSRC = re.compile(r"\b(?:transcript|hearing|statement(?! of work)|interview)\b", re.I)
+
+
+def _said_mark(tier, text, source):
+    """'said', 'office' or None: app/src/attrib.ts's rule, in this file's words."""
+    if tier != 1:
+        return None
+    t, raw = text or "", source or ""
+    s = re.sub(r"https?://\S+", " ", raw)
+    if _SAID_OPEN.search(t):
+        return "said"
+    m = _SAID_SPEAKER.search(t)
+    if m and not _SAID_DOC.search(m.group(0)):
+        return "said"
+    if not _SAID_ABOUT.search(t) and _SAID_SRC.search(s):
+        return "said"
+    if re.match(r"""^['"‘“]""", t) and _SAID_QSRC.search(s):
+        return "said"
+    h = re.search(r"https?://([^/?#:\s)\]]+)", raw, re.I)
+    host = h.group(1).lower() if h else ""
+    if re.search(r"(^|\.)(?:aaro\.mil|defense\.gov|war\.gov)$", host, re.I) or \
+            re.match(r"^(?:AARO|All-domain Anomaly Resolution Office)\b", s.strip(), re.I):
+        return "office"
+    return None
+
+
+def _claim_meta_rows(b):
+    if "_claimMeta" in b:
+        return b["_claimMeta"]
+    if not os.path.exists(CLAIM_META):
+        return None
+    with open(CLAIM_META, encoding="utf-8") as fh:
+        return (json.load(fh) or {}).get("claims")
+
+
+def _claims_in_scope(b):
+    """{claim id: (node id, tier, mark)} for every Tier 2 claim and every marked Tier 1."""
+    out = {}
+    for n in b["people"] + b["entities"]:
+        for c in n.get("claims") or []:
+            if not c.get("id"):
+                continue
+            k = _said_mark(c.get("tier"), c.get("text"), c.get("source"))
+            if c.get("tier") == 2 or k:
+                out[c["id"]] = (n["id"], c.get("tier"), k)
+    return out
+
+
+@check("every claim in scope carries one claim-meta row, and every row is a claim in scope")
+def _claim_meta_cover(b):
+    """Scope is every Tier 2 claim and every Tier 1 claim marked 'said on the record'
+    or 'the office's own account'. A claim with no row is one whose speaker the
+    person pages cannot show; a row for a claim out of scope is a stray the merge
+    of a claim edit left behind."""
+    rows = _claim_meta_rows(b)
+    if rows is None:
+        return ["research/_claim_meta.json is missing or has no `claims` map"]
+    scope = _claims_in_scope(b)
+    bad = [f"claim {i} ({scope[i][0]}, tier {scope[i][1]}) has no claim-meta row"
+           for i in sorted(set(scope) - set(rows))]
+    bad += [f"claim-meta row {i} is not a claim in scope" for i in sorted(set(rows) - set(scope))]
+    return bad[:40]
+
+
+@check("every claimant is a node, every claim date is well formed and every route is in the list")
+def _claim_meta_values(b):
+    """A claimant is a node on the board (a person, or an institution for an office's
+    statement); artefactDate and eventDate are YYYY, YYYY-MM or YYYY-MM-DD or null;
+    route is one of seven; a row without a claimant names its speaker; every row
+    says which pass wrote it."""
+    rows = _claim_meta_rows(b) or {}
+    nodes = {n["id"] for n in b["people"] + b["entities"]}
+    bad = []
+    for i, r in sorted(rows.items()):
+        who = r.get("claimant")
+        if who is not None and who not in nodes:
+            bad.append(f"{i}: claimant {who!r} is not a node on the board")
+        if who is None and not str(r.get("speaker") or "").strip():
+            bad.append(f"{i}: no claimant and no speaker named")
+        for f in ("artefactDate", "eventDate"):
+            v = r.get(f)
+            if v is not None and not (isinstance(v, str) and _CM_DATE.match(v)):
+                bad.append(f"{i}: {f} {v!r} is not YYYY, YYYY-MM or YYYY-MM-DD")
+        if r.get("route") not in CLAIM_ROUTES:
+            bad.append(f"{i}: route {r.get('route')!r} is not one of {CLAIM_ROUTES}")
+        if not str(r.get("by") or "").strip():
+            bad.append(f"{i}: no provenance (`by`)")
+        for f in ("speaker", "via"):
+            if "—" in str(r.get(f) or ""):
+                bad.append(f"{i}: {f} carries an em dash")
+    return bad[:40]
+
+
+@check("a claim marked 'said on the record' or 'the office's own account' names its claimant")
+def _claim_meta_said(b):
+    """The mark tells a reader that what is documented is that it was SAID. Said by
+    whom is then the one thing the page must be able to answer: a marked claim whose
+    row has no claimant is a quotation without a speaker. The one exception is a
+    speaker for whom neither they nor any institution they spoke for is a node; the
+    row then says so in `offBoard` and names the speaker, so the absence is a
+    reviewed finding, not a gap."""
+    rows = _claim_meta_rows(b) or {}
+    bad = []
+    for i, (nid, _t, k) in sorted(_claims_in_scope(b).items()):
+        r = rows.get(i) or {}
+        if r.get("offBoard") and str(r.get("offBoard")).strip() and str(r.get("speaker") or "").strip():
+            continue
+        if k in ("said", "office") and i in rows and not rows[i].get("claimant"):
+            bad.append(f"{i} on {nid}: marked {k!r}, and its row names no claimant "
+                       f"(speaker {rows[i].get('speaker')!r})")
+    return bad[:40]
+
+
+@check("every person page ships the claims that person made, exactly as the side-car has them")
+def _claim_meta_shipped(b):
+    """app/public/data/nodes/<id>.json `claimsMade` is the claims whose claimant is
+    that node, each with the side-car's dates and route; and each in-scope claim on
+    a node carries the same row as `meta`."""
+    rows = _claim_meta_rows(b) or {}
+    app = b["_claimMetaApp"] if "_claimMetaApp" in b else _app_nodes()
+    if not app:
+        return ["app/public/data/nodes/ is empty: run tools/build_app_data.py"]
+    want = {}
+    for i, r in rows.items():
+        if r.get("claimant"):
+            want.setdefault(r["claimant"], {})[i] = r
+    bad = []
+    for nid in sorted(set(want) | {k for k, v in app.items() if v.get("claimsMade")}):
+        got = {x.get("id"): x for x in (app.get(nid) or {}).get("claimsMade") or []}
+        w = want.get(nid, {})
+        miss, extra = sorted(set(w) - set(got)), sorted(set(got) - set(w))
+        if miss or extra:
+            bad.append(f"{nid}: claimsMade ships {len(got)}, the side-car has {len(w)}"
+                       + (f"; missing {miss[:2]}" if miss else "") + (f"; not its {extra[:2]}" if extra else ""))
+            continue
+        for i, x in got.items():
+            for f in ("artefactDate", "eventDate", "route", "via"):
+                if x.get(f) != w[i].get(f):
+                    bad.append(f"{nid}: {i} ships {f} {x.get(f)!r}, the side-car {w[i].get(f)!r}")
+    for nid, rec in sorted(app.items()):
+        for c in rec.get("claims") or []:
+            r = rows.get(c.get("id"))
+            m = c.get("meta")
+            if r and (not m or m.get("claimant") != r.get("claimant") or m.get("artefactDate") != r.get("artefactDate")):
+                bad.append(f"{nid}: claim {c.get('id')} ships meta {m and m.get('claimant')!r}, "
+                           f"the side-car {r.get('claimant')!r}")
+    return bad[:40]
+
+
+# ---------------------------------------------------------------------------
+# Redesign phase 10, task 3: the questions (research/questions/<id>.json). Authored
+# like topics and checked like them, restated here: every sentence cites a claim or
+# an edge on the board (a question ranges over the whole board, so the topic rule
+# that a cite sits on the topic's own members does not apply); a quotation is
+# verbatim in what it cites; nothing links out; the case against is present; every
+# thread is folded into a question as a chain of evidence. Poison channel: a
+# poisoned board copy carries `_questions` ({file: record}) and `_questionsApp`.
+# ---------------------------------------------------------------------------
+
+QUESTIONS_DIR = os.path.join(ROOT, "research", "questions")
+APP_QUESTIONS = os.path.join(ROOT, "app", "public", "data")
+Q_KEYS = ("lead", "answer", "for", "against", "threads")
+Q_MIN, Q_MAX = 8, 12
+
+
+def _questions(b):
+    if "_questions" in b:
+        return b["_questions"]
+    out = {}
+    if os.path.isdir(QUESTIONS_DIR):
+        for f in sorted(os.listdir(QUESTIONS_DIR)):
+            if f.endswith(".json") and not f.startswith("_"):
+                with open(os.path.join(QUESTIONS_DIR, f), encoding="utf-8") as fh:
+                    out[f] = json.load(fh)
+    return out
+
+
+def _q_items(q):
+    out = []
+    if q.get("lead") is not None:
+        out.append(("lead", q["lead"]))
+    for k in Q_KEYS[1:]:
+        for i, it in enumerate(q.get(k) or []):
+            out.append((f"{k}[{i}]", it))
+    return out
+
+
+@check("there are 8 to 12 questions, each whole: its own id, a lead, an answer, the case for and against")
+def _q_shape(b):
+    qs = _questions(b)
+    bad = []
+    if not Q_MIN <= len(qs) <= Q_MAX:
+        bad.append(f"{len(qs)} questions in research/questions/, not {Q_MIN} to {Q_MAX}")
+    threads = {t["id"] for t in (_threads() or {}).get("threads", [])}
+    topics = {t.get("id") for t in _topic_docs()["topics"].values()}
+    seen = set()
+    for f, q in sorted(qs.items()):
+        if q.get("id") + ".json" != f:
+            bad.append(f"{f}: id {q.get('id')!r} does not match its file")
+        if q.get("status") not in ("drafted", "verified"):
+            bad.append(f"{f}: status {q.get('status')!r} is not drafted or verified")
+        if not str(q.get("title") or "").strip().endswith("?"):
+            bad.append(f"{f}: the title is not a question")
+        if not isinstance(q.get("lead"), dict):
+            bad.append(f"{f}: no lead")
+        for k in ("answer", "for", "against"):
+            if not q.get(k):
+                bad.append(f"{f}: no {k}" + (" (the case against must be present)" if k == "against" else ""))
+        for t in q.get("threads") or []:
+            if not isinstance(t, dict) or t.get("id") not in threads:
+                bad.append(f"{f}: thread {t.get('id') if isinstance(t, dict) else t!r} is not a thread")
+        for t in q.get("topics") or []:
+            if t not in topics:
+                bad.append(f"{f}: topic {t!r} is not a topic")
+        for i, o in enumerate(q.get("open") or []):
+            if not isinstance(o, str) or not o.strip():
+                bad.append(f"{f}: open[{i}] is not a question in words")
+        if q.get("order") in seen:
+            bad.append(f"{f}: order {q.get('order')!r} is used twice")
+        seen.add(q.get("order"))
+    return bad[:40]
+
+
+@check("every sentence of a question cites a claim or an edge on the board")
+def _q_cites(b):
+    claims, edges, _a, _n = _topic_board(b)
+    bad = []
+    for f, q in sorted(_questions(b).items()):
+        for where, it in _q_items(q):
+            if not isinstance(it, dict) or not str(it.get("text") or "").strip():
+                bad.append(f"{f} {where}: is not a {{text, cite}} item with text")
+                continue
+            cs = [c for c in it.get("cite") or [] if isinstance(c, str) and c]
+            if not cs:
+                bad.append(f"{f} {where}: cites nothing ({str(it.get('text'))[:50]!r})")
+            for c in cs:
+                if c not in claims and c not in edges:
+                    bad.append(f"{f} {where}: cites {c!r}, which is no claim or edge id")
+    return bad[:40]
+
+
+@check("every quotation in a question is verbatim in a claim or edge it cites")
+def _q_quotes(b):
+    claims, edges, _a, _n = _topic_board(b)
+    bad = []
+    for f, q in sorted(_questions(b).items()):
+        for where, it in _q_items(q):
+            if not isinstance(it, dict):
+                continue
+            hay = []
+            for c in it.get("cite") or []:
+                if c in claims:
+                    hay.append(claims[c][2])
+                elif c in edges:
+                    hay += [edges[c].get("note") or "", edges[c].get("label") or ""]
+            hay = [_norm_ws(h) for h in hay]
+            for rx in _TOPIC_QUOTE:
+                for qt in rx.findall(str(it.get("text") or "")):
+                    if not any(_norm_ws(qt) in h for h in hay):
+                        bad.append(f"{f} {where}: the quotation {qt[:60]!r} is in none of the claims or edges it cites")
+    return bad[:40]
+
+
+@check("no question carries a URL or an em dash")
+def _q_urls(b):
+    bad = []
+    for f, q in sorted(_questions(b).items()):
+        texts = [("title", q.get("title"))] + [(w, it.get("text")) for w, it in _q_items(q) if isinstance(it, dict)]
+        texts += [(f"open[{i}]", o) for i, o in enumerate(q.get("open") or [])]
+        for where, s in texts:
+            if _TOPIC_URL.search(str(s or "")):
+                bad.append(f"{f} {where}: carries a URL")
+            if "—" in str(s or ""):
+                bad.append(f"{f} {where}: carries an em dash")
+    return bad[:40]
+
+
+@check("every thread is folded into at least one question as a chain of evidence")
+def _q_threads(b):
+    qs = _questions(b)
+    used = {t.get("id") for q in qs.values() for t in q.get("threads") or [] if isinstance(t, dict)}
+    return [f"thread {t['id']!r} is folded into no question"
+            for t in (_threads() or {}).get("threads", []) if t["id"] not in used]
+
+
+@check("the app ships every question, and every id it cites resolved")
+def _q_shipped(b):
+    qs = _questions(b)
+    if "_questionsApp" in b:
+        idx, recs = b["_questionsApp"]
+    else:
+        p = os.path.join(APP_QUESTIONS, "questions.json")
+        if not os.path.exists(p):
+            return ["app/public/data/questions.json is missing: run tools/build_app_data.py"]
+        with open(p, encoding="utf-8") as fh:
+            idx = json.load(fh)
+        recs = {}
+        d = os.path.join(APP_QUESTIONS, "questions")
+        for f in sorted(os.listdir(d)) if os.path.isdir(d) else []:
+            with open(os.path.join(d, f), encoding="utf-8") as fh:
+                recs[f[:-5]] = json.load(fh)
+    want = sorted(q.get("id") for q in qs.values())
+    got = sorted(r.get("id") for r in idx.get("questions") or [])
+    bad = []
+    if want != got:
+        bad.append(f"questions.json lists {got[:3]}..., the research has {want[:3]}... "
+                   f"({len(got)} against {len(want)})")
+    for f, q in sorted(qs.items()):
+        r = recs.get(q.get("id"))
+        if r is None:
+            bad.append(f"questions/{q.get('id')}.json is not shipped")
+            continue
+        cited = {c for _w, it in _q_items(q) if isinstance(it, dict) for c in it.get("cite") or []}
+        cs = r.get("cites") or {}
+        for c in sorted(cited):
+            x = cs.get(c)
+            if not x or x.get("missing") or x.get("kind") not in ("claim", "edge"):
+                bad.append(f"questions/{q.get('id')}.json: cite {c} is not resolved")
+        if r.get("against") != q.get("against"):
+            bad.append(f"questions/{q.get('id')}.json: the case against differs from the research")
+    return bad[:40]
+
+
 @check("counts match the golden manifest")
 def _golden(b):
     now = measure(b)
@@ -4384,6 +4725,152 @@ def self_test():
                                          facet_claimant_unreviewed, facet_dead_but_current)],
         "the app ships the person facets exactly as the side-car has them":
             [_facets_poison(facet_app_role_changed, app=True)],
+    })
+
+    # ---- phase 10: the claim meta side-car and the questions, the real files
+    # each broken one way, carried on the poisoned board copy.
+    def _cm_poison(fn_, app=False):
+        def mutate(rb):
+            rows = copy.deepcopy(_claim_meta_rows({}) or {})
+            if app:
+                shipped = copy.deepcopy(_app_nodes())
+                fn_(shipped, rows)
+                rb["_claimMetaApp"] = shipped
+            else:
+                fn_(rows, rb)
+            rb["_claimMeta"] = rows
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def _cm_first(rows, test):
+        for k in sorted(rows):
+            if test(k, rows[k]):
+                return k, rows[k]
+        raise SystemExit("self-test: no claim-meta row to poison")
+
+    def cm_row_missing(rows, rb):
+        rows.pop(sorted(rows)[0])
+
+    def cm_row_stray(rows, rb):
+        t3 = next(c["id"] for n in rb["people"] + rb["entities"] for c in n.get("claims") or []
+                  if c.get("tier") == 3 and c.get("id"))
+        rows[t3] = copy.deepcopy(rows[sorted(rows)[0]])
+
+    def cm_claimant_ghost(rows, rb):
+        _cm_first(rows, lambda k, r: bool(r.get("claimant")))[1]["claimant"] = "a-person-not-on-the-board"
+
+    def cm_date_prose(rows, rb):
+        _cm_first(rows, lambda k, r: bool(r.get("artefactDate")))[1]["artefactDate"] = "13 December 2024"
+
+    def cm_route_unknown(rows, rb):
+        _cm_first(rows, lambda k, r: True)[1]["route"] = "podcast"
+
+    def cm_nobody(rows, rb):
+        r = _cm_first(rows, lambda k, r: True)[1]
+        r["claimant"] = None
+        r.pop("speaker", None)
+
+    def cm_said_unnamed(rows, rb):
+        said = {i for i, (_n, _t, k) in _claims_in_scope(rb).items() if k == "said"}
+        r = _cm_first(rows, lambda k, r: k in said and bool(r.get("claimant")))[1]
+        r["claimant"] = None
+        r["speaker"] = "a witness"
+
+    def cm_offboard_unnamed(rows, rb):
+        said = {i for i, (_n, _t, k) in _claims_in_scope(rb).items() if k == "said"}
+        r = _cm_first(rows, lambda k, r: k in said and bool(r.get("claimant")))[1]
+        r["claimant"] = None
+        r["offBoard"] = "not on the board"
+        r.pop("speaker", None)
+
+    def cm_app_drop(app, rows):
+        nid = next(k for k in sorted(app) if app[k].get("claimsMade"))
+        app[nid]["claimsMade"] = app[nid]["claimsMade"][1:]
+
+    def cm_app_date(app, rows):
+        nid = next(k for k in sorted(app) if app[k].get("claimsMade"))
+        app[nid]["claimsMade"][0]["artefactDate"] = "1901"
+
+    def _q_poison(fn_, app=False):
+        def mutate(rb):
+            qs = copy.deepcopy(_questions({}))
+            if not qs:
+                raise SystemExit("self-test: research/questions/ is empty, nothing to poison")
+            if app:
+                idx = json.load(open(os.path.join(APP_QUESTIONS, "questions.json"), encoding="utf-8"))
+                d = os.path.join(APP_QUESTIONS, "questions")
+                recs = {f[:-5]: json.load(open(os.path.join(d, f), encoding="utf-8")) for f in sorted(os.listdir(d))}
+                fn_(idx, recs)
+                rb["_questionsApp"] = (idx, recs)
+            else:
+                fn_(qs)
+            rb["_questions"] = qs
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def _q1(qs):
+        return qs[sorted(qs)[0]]
+
+    def q_no_against(qs):
+        _q1(qs)["against"] = []
+
+    def q_thread_ghost(qs):
+        _q1(qs).setdefault("threads", []).append({"id": "no-such-thread", "text": "x", "cite": []})
+
+    def q_title_statement(qs):
+        _q1(qs)["title"] = _q1(qs)["title"].rstrip("?")
+
+    def q_too_few(qs):
+        for k in sorted(qs)[3:]:
+            qs.pop(k)
+
+    def q_uncited(qs):
+        _q1(qs)["for"][0]["cite"] = []
+
+    def q_cite_ghost(qs):
+        _q1(qs)["against"][0]["cite"] = ["c-0000000000"]
+
+    def q_quote_invented(qs):
+        it = _q1(qs)["answer"][0]
+        it["text"] = it["text"] + ' He called it "a craft of unknown origin beyond doubt".'
+
+    def q_url(qs):
+        it = _q1(qs)["for"][0]
+        it["text"] = it["text"] + " See https://example.org/q."
+
+    def q_thread_dropped(qs):
+        for q in qs.values():
+            q["threads"] = [t for t in q.get("threads") or [] if t.get("id") != "money"]
+
+    def q_app_dropped(idx, recs):
+        idx["questions"] = idx["questions"][1:]
+
+    def q_app_unresolved(idx, recs):
+        r = recs[sorted(recs)[0]]
+        k = sorted(r["cites"])[0]
+        r["cites"][k] = {"id": k, "kind": None, "missing": True}
+
+    poison_realboard.update({
+        "every claim in scope carries one claim-meta row, and every row is a claim in scope":
+            [_cm_poison(f) for f in (cm_row_missing, cm_row_stray)],
+        "every claimant is a node, every claim date is well formed and every route is in the list":
+            [_cm_poison(f) for f in (cm_claimant_ghost, cm_date_prose, cm_route_unknown, cm_nobody)],
+        "a claim marked 'said on the record' or 'the office's own account' names its claimant":
+            [_cm_poison(f) for f in (cm_said_unnamed, cm_offboard_unnamed)],
+        "every person page ships the claims that person made, exactly as the side-car has them":
+            [_cm_poison(f, app=True) for f in (cm_app_drop, cm_app_date)],
+        "there are 8 to 12 questions, each whole: its own id, a lead, an answer, the case for and against":
+            [_q_poison(f) for f in (q_no_against, q_thread_ghost, q_title_statement, q_too_few)],
+        "every sentence of a question cites a claim or an edge on the board":
+            [_q_poison(f) for f in (q_uncited, q_cite_ghost)],
+        "every quotation in a question is verbatim in a claim or edge it cites":
+            [_q_poison(q_quote_invented)],
+        "no question carries a URL or an em dash":
+            [_q_poison(q_url)],
+        "every thread is folded into at least one question as a chain of evidence":
+            [_q_poison(q_thread_dropped)],
+        "the app ships every question, and every id it cites resolved":
+            [_q_poison(f, app=True) for f in (q_app_dropped, q_app_unresolved)],
     })
     # ---- L0 fixtures. Each L0 check gets a model it MUST reject, through
     # _L0_OVERRIDE; its clean call gets L0() through the same channel.

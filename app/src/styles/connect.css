@@ -1,0 +1,45 @@
+/* connect.css: the Connect page (redesign phase 10). One label size; every hop
+   is a sentence under the words of the relationship; nothing is cut. */
+
+.connect { max-width: 1180px; margin: 0 auto; }
+h1.connect-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em; margin: 8px 0 8px; overflow-wrap: anywhere; }
+.connect-method { max-width: 100ch; margin: 0 0 12px; font-size: var(--fs-body); line-height: 1.5; }
+
+.connect-form { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin: 0 0 18px; }
+.connect-in {
+  flex: 1 1 100%; min-width: 0; background: var(--bg2); color: var(--text);
+  border: 1px solid var(--line2); padding: 6px 8px; font: inherit;
+}
+.connect-msg { flex-basis: 100%; }
+
+.connect-onlyhub, .croute-hub {
+  border: 1px solid var(--line2); border-left: 2px solid var(--amber);
+  background: var(--panel); padding: 8px 12px; margin: 0 0 14px;
+  display: grid; gap: 4px; max-width: 100ch;
+}
+.croute-hub { margin: 6px 0 8px; color: var(--dim); }
+.connect-none { color: var(--dim); }
+
+.croute { border-top: 2px solid var(--line2); padding-top: 8px; margin: 0 0 22px; min-width: 0; }
+.croute-head { margin-bottom: 6px; }
+
+ol.chops { list-style: none; margin: 0; padding: 0; display: grid; gap: 0; }
+.chop { display: grid; gap: 3px; min-width: 0; }
+.chop-node {
+  display: grid; grid-template-columns: 10px minmax(0, 1fr); gap: 7px; align-items: baseline;
+  padding: 4px 0; font-weight: 600;
+}
+.chop-link, .chop-say, .chop-src { margin-left: 17px; padding-left: 12px; border-left: 1px solid var(--line2); min-width: 0; }
+.chop.denial .chop-link, .chop.denial .chop-say, .chop.denial .chop-src { border-left-color: var(--red); }
+.chop-verb { color: var(--cyan); }
+.chop-say { display: grid; gap: 2px; }
+.chop-text { overflow-wrap: anywhere; line-height: 1.5; }
+.chop-src summary { color: var(--dim); cursor: pointer; }
+.chop-src a, .chop-src span { display: block; overflow-wrap: anywhere; }
+
+.connect-examples ul { margin: 6px 0 0; padding-left: 18px; display: grid; gap: 4px; }
+
+@media (max-width: 760px) {
+  h1.connect-h1 { font-size: var(--fs-body); line-height: 1.4; }
+  .chop-link, .chop-say, .chop-src { margin-left: 4px; }
+}

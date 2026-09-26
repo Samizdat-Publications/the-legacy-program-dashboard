@@ -59,6 +59,15 @@
 },
 {
 "id": "c-b3735068f1",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-m-wood",
+"claimantLabel": "Dr. Robert M. Wood",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Wood's own account, given in lectures and in the Majestic Documents materials",
 "sources": [],
 "text": "Wood managed advanced research at McDonnell Douglas for 43 years and directed a company study of field-propulsion effects related to UFO reports.",
@@ -75,6 +84,15 @@
 },
 {
 "id": "c-4ff20e480e",
+"meta": {
+"artefactDate": null,
+"claimant": "robert-m-wood",
+"claimantLabel": "Dr. Robert M. Wood",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
 "sources": [],
 "text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
@@ -94,6 +112,59 @@
 "text": "McDonnell Douglas's interest was corporate self-protection - a prime contractor conducting proprietary research into an aerospace capability it did not possess. Reasoning: this matches the incentive structure later codified in DoD IR&D policy and named by Grusch, but no McDonnell Douglas internal record of the study has been released.",
 "tier": 3,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-6f952410e5",
+"node": "mcdonnell-douglas",
+"nodeLabel": "McDonnell Douglas Corporation",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Robert M. Wood's own repeated public account",
+"url": null
+},
+"text": "Robert M. Wood conducted a company-funded study of unidentified craft at McDonnell Douglas Astronautics, Huntington Beach, in the late 1960s.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-b3735068f1",
+"node": "robert-m-wood",
+"nodeLabel": "Dr. Robert M. Wood",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Wood's own account, given in lectures and in the Majestic Documents materials",
+"url": null
+},
+"text": "Wood managed advanced research at McDonnell Douglas for 43 years and directed a company study of field-propulsion effects related to UFO reports.",
+"tier": 2,
+"topic": "mj12-documents",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-4ff20e480e",
+"node": "robert-m-wood",
+"nodeLabel": "Dr. Robert M. Wood",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Robert M. Wood's own repeated public account, including via the majesticdocuments.com archive he co-founded",
+"url": null
+},
+"text": "Wood spent his career at McDonnell Douglas Astronautics and ran a company-funded study of unidentified craft from the Huntington Beach facility in the late 1960s.",
+"tier": 2,
+"topic": "named-contractors",
+"via": null
 }
 ],
 "cls": "person",

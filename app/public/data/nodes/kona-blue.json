@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-745a951e8b",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-fb26e683f0",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, pp.34-35",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-ae3f5cd7ea",
+"meta": {
+"artefactDate": "2024",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (reporting on the KONA BLUE document releases)",
+"via": null
+},
 "source": "Reporting on the KONA BLUE document releases, 2024-2026",
 "sources": [],
 "text": "DHS Under Secretary for Science and Technology Tara O'Toole is identified in released documentation and reporting as having established KONA BLUE before its cancellation.",
@@ -42,6 +69,15 @@
 },
 {
 "id": "c-00e1c8f5f8",
+"meta": {
+"artefactDate": "2026-04-08",
+"claimant": "james-lacatski",
+"claimantLabel": "James T. Lacatski",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Jeremy Corbell"
+},
 "source": "James Lacatski to Jeremy Corbell, published 8 April 2026",
 "sources": [
 {
@@ -64,6 +100,15 @@
 },
 {
 "id": "c-aaf8048245",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -78,6 +123,15 @@
 },
 {
 "id": "c-f8be65f4b2",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, March 2024",
 "sources": [
 {
@@ -92,6 +146,15 @@
 },
 {
 "id": "c-f55d15edeb",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, March 2024",
 "sources": [
 {
@@ -114,6 +177,15 @@
 },
 {
 "id": "c-54c273322e",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "NewsNation Reality Check with Ross Coulthart"
+},
 "source": "UAP Gerb, interviewed by Ross Coulthart, NewsNation Reality Check, premiered 4 August 2026",
 "sources": [],
 "text": "Kona Blue was an alleged DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
@@ -122,6 +194,15 @@
 },
 {
 "id": "c-837d5315e5",
+"meta": {
+"artefactDate": "2026-08-04",
+"claimant": "newsnation",
+"claimantLabel": "NewsNation",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation Reality Check episode description, 4 August 2026",
 "sources": [],
 "text": "The Kona Blue discussion was presented alongside the Immaculate Constellation document and whistleblower Matthew Brown's claims about non-human and reproduction vehicle data.",
@@ -130,6 +211,15 @@
 },
 {
 "id": "c-8ab1627799",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -144,6 +234,15 @@
 },
 {
 "id": "c-45009a78a0",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO, Historical Record Report Volume I, March 2024",
 "sources": [
 {
@@ -172,6 +271,15 @@
 },
 {
 "id": "c-99020cec55",
+"meta": {
+"artefactDate": "2024-02-05",
+"claimant": "dhs",
+"claimantLabel": "United States Department of Homeland Security",
+"eventDate": "2012-02-10",
+"route": "document",
+"speaker": null,
+"via": "AARO, in its DHS Kona Blue release"
+},
 "source": "Letter from DHS Acting Deputy Secretary Kristie Canegallo to the Deputy Secretary of Defense, 5 February 2024, released with the AARO DHS Kona Blue package - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {
@@ -200,6 +308,15 @@
 },
 {
 "id": "c-abe51918aa",
+"meta": {
+"artefactDate": "2024-02",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, February 2024",
 "sources": [
 {

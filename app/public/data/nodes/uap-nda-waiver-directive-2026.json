@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-79bb1bb7f3",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 21 July 2026",
 "sources": [],
 "text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorized investigators; a senior official said prior NDAs can be abrogated for those cooperating through proper channels.",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-645d940fc6",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "broadcast",
+"speaker": "unnamed (\"Officials\")",
+"via": "Fox News"
+},
 "source": "Fox News, 21 July 2026",
 "sources": [],
 "text": "Officials clarified the directive is 'not a declassification directive' and permits disclosure only to cleared government investigators at AARO or the PURSUE task force.",
@@ -30,6 +48,15 @@
 },
 {
 "id": "c-d5eacacf83",
+"meta": {
+"artefactDate": "2026-07-21",
+"claimant": "donald-trump",
+"claimantLabel": "Donald J. Trump",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 21 July 2026",
 "sources": [],
 "text": "Trump directed the Department of War and the intelligence community to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators.",

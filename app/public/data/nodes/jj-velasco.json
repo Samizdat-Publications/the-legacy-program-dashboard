@@ -34,6 +34,15 @@
 "claims": [
 {
 "id": "c-bfd1539c6d",
+"meta": {
+"artefactDate": "1999",
+"claimant": "denis-letty",
+"claimantLabel": "Général Denis Letty",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "COMETA report, Letty foreword, 1999 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -48,6 +57,15 @@
 },
 {
 "id": "c-bcf45c470e",
+"meta": {
+"artefactDate": "2009",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia ('GEIPAN'), citing Marc Kreidler",
+"via": null
+},
 "source": "Wikipedia 'GEIPAN', citing Marc Kreidler, 'UFOs: an Assessment of Thirty Years of Official Studies in France', Skeptical Inquirer (2009)",
 "sources": [
 {
@@ -62,6 +80,15 @@
 },
 {
 "id": "c-4038428864",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'COMETA report' (uncited claim)",
+"via": null
+},
 "source": "Wikipedia, 'COMETA report' (flagged there as needing citation)",
 "sources": [
 {

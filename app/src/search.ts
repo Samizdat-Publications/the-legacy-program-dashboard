@@ -1,17 +1,17 @@
 /* search.ts: one search over the whole board (redesign phase 9, task 3).
  *
- * Topics, the six directories (and the people directory filtered by a role),
- * sources (phase 8's library, once it is served), nodes, threads, timeline events
+ * Topics, the big questions (phase 10), the six directories (and the people
+ * directory filtered by a role), sources (phase 8's library, once it is served), nodes, threads, timeline events
  * and claim text, in ONE ranked list, every row carrying a badge that says what
  * it is. index.json is loaded at boot; everything else is fetched the first time
  * a query runs, so none of it is paid for on first paint.
  *
  * THE RANK. Every row gets one number, lower first:
- *   0 to 5   a NAME match (a topic's title, a directory, a node's label, a
- *            thread's title, a source's title, an event's label): 0 the id,
+ *   0 to 5   a NAME match (a topic's title, a question's, a directory, a
+ *            node's label, a thread's title, a source's title, an event's label): 0 the id,
  *            1 the whole name, 2 its start, 3 inside the id, 4 inside the
  *            name, 5 every word somewhere in it. Ties go to the kind (a
- *            directory, then a topic, then a node, a thread, a source, an
+ *            directory, then a topic, a question, then a node, a thread, a source, an
  *            event), then to the node's degree.
  *   6        an event whose text, not its label, matches.
  *   7 and up claims, 7 + their claim rank / 100, so the claim ranking below,
@@ -23,7 +23,7 @@
  * Keys: ArrowDown and ArrowUp move through the rows, Enter opens the one
  * marked (the first when none is), Escape clears the field and closes the list.
  *
- * Every result is a route: #/topic/<id>, #/<directory>, #/n/<id>, #/t/<id>,
+ * Every result is a route: #/topic/<id>, #/q/<id>, #/<directory>, #/n/<id>, #/t/<id>,
  * #/s/<id> (phase 8's source page), and for an event that names
  * no node, its era on the timeline.
  */
@@ -33,6 +33,7 @@ import {
   loadIndex, loadClaims, loadTimeline, loadThreads, loadTopics, loadFacets, loadSourcesIfAny, clsColour,
   type IndexNode, type ClaimRow, type TimelineEvent, type Thread, type TopicRow, type SourceRow,
 } from './data';
+import { loadQuestions, type QuestionRow } from './p10data';
 
 const MAX_NODE_HITS = 24;
 const MAX_CLAIM_HITS = 12;
@@ -52,6 +53,7 @@ let events: TimelineEvent[] | null = null;
 let eventFlat: string[] = [];
 let threads: Thread[] | null = null;
 let topics: TopicRow[] | null = null;
+let questions: QuestionRow[] | null = null;
 let sources: SourceRow[] | null = null;
 let roleCounts: Record<string, number> = {};
 
@@ -115,6 +117,8 @@ function askAll(rerun: () => void): void {
   );
   loadThreads().then((f) => { threads = f.threads; rerun(); }, () => { threads = []; });
   loadTopics().then((f) => { topics = f.topics; rerun(); }, () => { topics = []; });
+  /* phase 10's questions, /data/questions.json */
+  loadQuestions().then((f) => { questions = f.questions; rerun(); }, () => { questions = []; });
   loadFacets().then((f) => {
     roleCounts = {};
     for (const p of Object.values(f.people)) for (const r of p.roles) roleCounts[r] = (roleCounts[r] || 0) + 1;
@@ -195,7 +199,7 @@ function hitLine(text: string, q: string, terms: string[]): HTMLElement {
 
 /* One row of the merged list. `kind` orders ties and names the badge. */
 interface Hit { s: number; kind: number; tie: number; el: HTMLElement; }
-const KIND = { directory: 0, topic: 1, node: 2, thread: 3, source: 4, event: 5, claim: 6 };
+const KIND = { directory: 0, topic: 1, question: 2, node: 3, thread: 4, source: 5, event: 6, claim: 7 };
 
 function badge(text: string, colour: string | null): HTMLElement {
   return h('span', { class: 'badge' }, colour ? mark(colour) : null, colour ? ' ' : null, text);
@@ -247,6 +251,24 @@ function render(panel: HTMLElement, raw: string, rerun: () => void): void {
         badge('TOPIC', null), h('span', { class: 'label' }, t.title), h('span', { class: 'meta' }, t.researchGap ? 'a research gap' : t.counts.members + ' members')) });
     }
     count('topic', n);
+  }
+
+  /* the big questions (phase 10): matched on the title; a match in the lead
+     ranks as a word match, as a thread's blurb does */
+  if (questions) {
+    let n = 0;
+    for (const x of questions) {
+      let s = nameScore(x.title, '', x.id, q, flat, terms);
+      if (s < 0) {
+        const hay = flatten(x.lead || '');
+        if ((flat && hay.includes(flat)) || (terms.length && terms.every((w) => hay.includes(w)))) s = 5;
+      }
+      if (s < 0) continue;
+      n++;
+      hits.push({ s, kind: KIND.question, tie: x.order, el: h('a', { class: 'res question', href: '#/q/' + x.id, 'data-type': 'question' },
+        badge('QUESTION', null), h('span', { class: 'label' }, x.title), h('span', { class: 'meta' }, 'a big question')) });
+    }
+    count('question', n);
   }
 
   /* nodes */
@@ -344,7 +366,8 @@ function render(panel: HTMLElement, raw: string, rerun: () => void): void {
 
   /* the one line over the list: what matched, by kind */
   const WORD: [string, string, string][] = [
-    ['directory', 'directory', 'directories'], ['topic', 'topic', 'topics'], ['node', 'node', 'nodes'],
+    ['directory', 'directory', 'directories'], ['topic', 'topic', 'topics'], ['question', 'question', 'questions'],
+    ['node', 'node', 'nodes'],
     ['thread', 'thread', 'threads'], ['source', 'source', 'sources'], ['event', 'event', 'events'], ['claim', 'claim', 'claims'],
   ];
   const parts = WORD.filter(([k]) => tally[k]).map(([k, one, many]) => tally[k] + ' ' + (tally[k] === 1 ? one : many));

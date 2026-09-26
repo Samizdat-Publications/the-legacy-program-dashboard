@@ -23,6 +23,15 @@
 "claims": [
 {
 "id": "c-7c9bffae9d",
+"meta": {
+"artefactDate": null,
+"claimant": "solari",
+"claimantLabel": "Solari, Inc. / The Solari Report",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://solari.com/people/catherine-austin-fitts",
 "sources": [
 {
@@ -37,6 +46,15 @@
 },
 {
 "id": "c-8c4ae44b55",
+"meta": {
+"artefactDate": null,
+"claimant": "solari",
+"claimantLabel": "Solari, Inc. / The Solari Report",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://solari.com/people/catherine-austin-fitts",
 "sources": [
 {
@@ -51,6 +69,15 @@
 },
 {
 "id": "c-25c2904425",
+"meta": {
+"artefactDate": "2017-09",
+"claimant": "catherine-austin-fitts",
+"claimantLabel": "Catherine Austin Fitts",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
 "sources": [
 {
@@ -62,6 +89,25 @@
 "text": "She co-authored the September 2017 Summary Report on Unsupported Journal Voucher Adjustments with Mark Skidmore.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2017-09",
+"eventDate": null,
+"id": "c-25c2904425",
+"node": "catherine-austin-fitts",
+"nodeLabel": "Catherine Austin Fitts",
+"route": "document",
+"source": {
+"domain": "missingmoney.solari.com",
+"text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
+},
+"text": "She co-authored the September 2017 Summary Report on Unsupported Journal Voucher Adjustments with Mark Skidmore.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
 }
 ],
 "cls": "person",

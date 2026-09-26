@@ -34,6 +34,15 @@
 },
 {
 "id": "c-e38c69fd2e",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -48,6 +57,15 @@
 },
 {
 "id": "c-f49fc56b50",
+"meta": {
+"artefactDate": "2001",
+"claimant": "philip-j-klass",
+"claimantLabel": "Philip J. Klass",
+"eventDate": "1997",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
 "sources": [
 {
@@ -62,6 +80,15 @@
 },
 {
 "id": "c-406af5d95f",
+"meta": {
+"artefactDate": "2001-05-09",
+"claimant": "disclosure-project",
+"claimantLabel": "The Disclosure Project",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage",
 "sources": [],
 "text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
@@ -89,6 +116,76 @@
 "text": "The Disclosure Project's April 1997 Washington briefing week is the proximate trigger recorded in the Wilson-Davis notes for Admiral Thomas Wilson's 1997 attempt to locate the special access programme.",
 "tier": 3,
 "unresolved": "the board's own inference; it names no source that resolves"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2001-04",
+"eventDate": null,
+"id": "c-0e89e64fb8",
+"node": "mark-mccandlish",
+"nodeLabel": "Mark McCandlish",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2001-04 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "The document's own editorial header describes him, not as an engineer, but as follows: 'Mark McCandlish is an accomplished aerospace illustrator and has worked for many of the top aerospace corporations in the United States.'",
+"tier": 2,
+"topic": "arv-fluxliner",
+"via": null
+},
+{
+"artefactDate": "2001-04",
+"eventDate": "2000-09",
+"id": "c-6525879f6e",
+"node": "clifford-stone",
+"nodeLabel": "Clifford E. Stone",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. Its editorial header states: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.' TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
+},
+{
+"artefactDate": "2001-05-09",
+"eventDate": null,
+"id": "c-406af5d95f",
+"node": "disclosure-project",
+"nodeLabel": "The Disclosure Project",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Disclosure Project National Press Club event, 9 May 2001, and contemporaneous international press coverage",
+"url": null
+},
+"text": "On 9 May 2001 the Disclosure Project presented roughly twenty former military and government witnesses at the National Press Club and called for congressional hearings with subpoena power and amnesty for witnesses.",
+"tier": 2,
+"topic": "disclosure-project-2001",
+"via": null
+},
+{
+"artefactDate": "2001-04",
+"eventDate": "2000-09",
+"id": "c-4aaf9034a6",
+"node": "larry-warren",
+"nodeLabel": "Larry Warren",
+"route": "document",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
+"tier": 2,
+"topic": "rendlesham-1980",
+"via": null
 }
 ],
 "cls": "program",

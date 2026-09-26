@@ -1,0 +1,1443 @@
+{
+ "against": [
+  {
+   "cite": [
+    "c-f302580144",
+    "c-827cf2e4b8",
+    "c-972f62aa7e"
+   ],
+   "text": "On the board's reading, the trillion-dollar figures are adjustment volumes, not a sum shown to be missing, and the $21 trillion total double-counts by construction; the Inspector General's own footnote says its figures are not cumulative and should not be added together."
+  },
+  {
+   "cite": [
+    "e-2c0ac19e10",
+    "c-6c8bf1ccb8"
+   ],
+   "text": "The link between Grusch's allegation and the research-cost bar is the board's reasoning: no source states that section 1687(b) was drafted in response to him, and his written testimony contains no discussion of funding mechanisms, budget lines or contractor finances."
+  },
+  {
+   "cite": [
+    "c-c51e1eafc7",
+    "c-24ab23fda0",
+    "e-e508b3d69c"
+   ],
+   "text": "AAWSAP itself ran on an ordinary route: a public solicitation that drew one bid and priced annual modifications, all later released. The Department's account is that the contractor did UFO research with the DIA programme manager's support even though UAP investigation was not in the statement of work."
+  },
+  {
+   "cite": [
+    "e-bf70a383b6",
+    "c-ae7352ec1d"
+   ],
+   "text": "AARO's reports address the retrieval claims and say nothing about misappropriated funds or contractor research money; on the custody allegations, AARO's report states that executives and chief technology officers of the named companies denied them to its Director on the record."
+  },
+  {
+   "cite": [
+    "c-48563592e1",
+    "c-30d9b16898",
+    "c-e18a5af635"
+   ],
+   "text": "SFFAS 56 did not create the ability to conceal spending, which long predates it at the appropriation and programme-element level, on the board's own account; and the audit trend is not all one way, with material weaknesses falling from 28 to 26 on the Department's figures."
+  },
+  {
+   "cite": [
+    "c-06d6fe6e26",
+    "c-77f4c7301a",
+    "c-0e87b01a63",
+    "c-53194e6884"
+   ],
+   "text": "The accounts of the $22 million disagree with each other: the newspaper account has Reid, Inouye and Stevens directing it in 2007, while DIA's memo gives a $10 million FY2008 supplemental add sponsored by Reid and Inouye and a $12 million add in FY2010."
+  }
+ ],
+ "answer": [
+  {
+   "cite": [
+    "c-5c8bccc803",
+    "c-4e0bb8614c",
+    "c-f2a0b9e9e5",
+    "e-b88c5faf1b"
+   ],
+   "text": "AAWSAP shows the whole path on paper: $22 million appropriated to DIA at Senator Reid's direction, a DIA solicitation that drew a single bid from Bigelow Aerospace Advanced Space Studies, and contract HHM402-08-C-0072 signed on 22 September 2008."
+  },
+  {
+   "cite": [
+    "c-10b27323c4",
+    "c-21326c3401",
+    "c-be1cebacbc",
+    "c-94398ba636",
+    "e-05230040b6"
+   ],
+   "text": "Two authorities in the 2026 defense laws let the Secretary of Defense move money after Congress has appropriated it, up to $6bn each, and both require only prompt notice of transfers already made; beneath them sits a reprogramming regulation that includes below-threshold reprogramming needing no approval or notification."
+  },
+  {
+   "cite": [
+    "c-b25a8692aa",
+    "c-067b35bd70",
+    "e-0db52c74ac",
+    "c-f1ff2030ef",
+    "e-46bc16c648"
+   ],
+   "text": "Independent research and development is contractor research reimbursed as an allowable indirect cost. In the FY2024 NDAA and Intelligence Authorization Act, Congress barred UAP-related research of this kind from being charged that way unless disclosed to the committees and leadership, and none of the prime contractors on the board has publicly reported a disclosure."
+  },
+  {
+   "cite": [
+    "e-eb0a34f7e0",
+    "e-902d4727c0",
+    "c-0f2ae724e8",
+    "c-dd07057120"
+   ],
+   "text": "The Department's ledger has never received an audit opinion: it has had a disclaimer of opinion every year since its first full-scope audit, for FY2018, and the FY2025 audit found 26 material weaknesses, including unsupported accounting adjustments of more than $859 billion in two quarters."
+  }
+ ],
+ "cites": {
+  "c-067b35bd70": {
+   "id": "c-067b35bd70",
+   "kind": "claim",
+   "node": "irad-mechanism",
+   "nodeLabel": "Independent Research and Development (IR&D) as a funding channel",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+   },
+   "text": "Congress prohibited IR&D funding relating to UAP from being allowable as an indirect expense absent disclosure to the appropriate congressional committees and leadership, in both NDAA FY2024 Sec. 1687(b) and IAA FY2024 Sec. 7343(c).",
+   "tier": 1
+  },
+  "c-06d6fe6e26": {
+   "id": "c-06d6fe6e26",
+   "kind": "claim",
+   "node": "daniel-inouye",
+   "nodeLabel": "Daniel K. Inouye",
+   "source": {
+    "domain": null,
+    "text": "Honolulu Civil Beat, 13 June 2021",
+    "url": null
+   },
+   "text": "Inouye, Reid and Stevens collaborated in 2007 to direct $22 million into the Pentagon's classified black budget for UFO-related research; Inouye's chairmanship of Appropriations was pivotal in bypassing Senate floor debate about the allocation.",
+   "tier": 2
+  },
+  "c-08697ebeac": {
+   "id": "c-08697ebeac",
+   "kind": "claim",
+   "node": "sffas-56",
+   "nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+   "source": {
+    "domain": "files.fasab.gov",
+    "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+    "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+   },
+   "text": "Paragraph 12 requires entities to disclose that modifications are permitted by the standards but expressly prohibits disclosure of whether the entity applied the Statement.",
+   "tier": 1
+  },
+  "c-0e87b01a63": {
+   "id": "c-0e87b01a63",
+   "kind": "claim",
+   "node": "aawsap",
+   "nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+   },
+   "text": "DIA Info Memo U-10-2552 to USD(AT&L): 'The Advanced Aerospace Threat Identification Program was first sponsored in the Fiscal Year (FY) 2008 Defense Supplemental Appropriation Act by Senators Reid and Inouye with a $10 million add. The purpose of this congressional add was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years and to build an infrastructure to house a center of expertise on advanced aerospace technologies.'",
+   "tier": 1
+  },
+  "c-0f2ae724e8": {
+   "id": "c-0f2ae724e8",
+   "kind": "claim",
+   "node": "dod-agencywide-audit",
+   "nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+    "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+   },
+   "text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
+   "tier": 1
+  },
+  "c-10b27323c4": {
+   "id": "c-10b27323c4",
+   "kind": "claim",
+   "node": "sec-8005-transfer",
+   "nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+   },
+   "text": "Section 8005 of the DoD Appropriations Act 2026 permits transfer of not to exceed $6,000,000,000 of working capital funds or funds made available in the Act for military functions between appropriations or funds or any subdivision thereof, with OMB approval.",
+   "tier": 1
+  },
+  "c-17da8ec825": {
+   "id": "c-17da8ec825",
+   "kind": "claim",
+   "node": "sffas-56",
+   "nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+   "source": {
+    "domain": "files.fasab.gov",
+    "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+    "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+   },
+   "text": "SFFAS 56 'Classified Activities' was issued 4 October 2018, effective for periods beginning after 30 September 2018.",
+   "tier": 1
+  },
+  "c-20e915f42c": {
+   "id": "c-20e915f42c",
+   "kind": "claim",
+   "node": "sec-8005-transfer",
+   "nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+   },
+   "text": "Section 8006(b) provides that amounts in the explanatory-statement and classified-annex tables shall not be treated as subdivisions of appropriations for purposes of section 8005; section 8005 applies only when transfers occur between appropriation accounts.",
+   "tier": 1
+  },
+  "c-21326c3401": {
+   "id": "c-21326c3401",
+   "kind": "claim",
+   "node": "sec-8005-transfer",
+   "nodeLabel": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+   },
+   "text": "Section 8005 requires only that the Secretary 'notify the Congress promptly of all transfers made pursuant to this authority or any other authority in this Act' - notification after the fact, not prior approval.",
+   "tier": 1
+  },
+  "c-24ab23fda0": {
+   "id": "c-24ab23fda0",
+   "kind": "claim",
+   "node": "baass",
+   "nodeLabel": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume 1, p.23",
+    "url": null
+   },
+   "text": "DoD states the contractor 'conducted UFO research with the support of the DIA program manager' although UAP investigation was not in the statement of work.",
+   "tier": 1
+  },
+  "c-2521b44fb4": {
+   "id": "c-2521b44fb4",
+   "kind": "claim",
+   "node": "irad-mechanism",
+   "nodeLabel": "Independent Research and Development (IR&D) as a funding channel",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+   },
+   "text": "IR&D is the mechanism that best fits the alleged fact pattern of government-funded, contractor-held, contractor-directed work on recovered material outside congressional programme visibility, because it combines government payment, contractor direction, contractor retention of results, and absence of a named appropriation line. Reasoning: each element of the alleged pattern maps onto a structural feature of IR&D cost allowability; no other standard federal funding instrument does so.",
+   "tier": 3
+  },
+  "c-30d9b16898": {
+   "id": "c-30d9b16898",
+   "kind": "claim",
+   "node": "brett-mansfield",
+   "nodeLabel": "Brett A. Mansfield",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF",
+    "url": "https://media.defense.gov/2026/May/22/2003937005/-1/-1/1/MANSFIELD%20ORAL%20STATEMENT%205.13.26_FINAL.PDF"
+   },
+   "text": "He stated material weaknesses declined from 28 in FY2024 to 26 in FY2025, and that auditors issued 427 fewer Notices of Findings and Recommendations than in prior years.",
+   "tier": 1
+  },
+  "c-33570aa664": {
+   "id": "c-33570aa664",
+   "kind": "claim",
+   "node": "grusch-misappropriation-allegation",
+   "nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+   "source": {
+    "domain": "thedebrief.org",
+    "text": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+    "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+   },
+   "text": "Grusch, quoted in The Debrief on 5 June 2023: 'Individuals on these UAP programs approached me in my official capacity and disclosed their concerns regarding a multitude of wrongdoings, such as illegal contracting against the Federal Acquisition Regulations and other criminality and the suppression of information across a qualified industrial base and academia.'",
+   "tier": 2
+  },
+  "c-48563592e1": {
+   "id": "c-48563592e1",
+   "kind": "claim",
+   "node": "sffas-56",
+   "nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+   "source": {
+    "domain": "files.fasab.gov",
+    "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+    "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+   },
+   "text": "SFFAS 56 does not create the capability to conceal spending - appropriation-level and program-element-level concealment long predate it - but it removes the last accounting-standards obstacle to a published financial statement that is knowingly and deliberately misleading as to the location of money, and it does so with no external tripwire, because paragraph 12 forbids the entity from saying it used the standard. Reasoning: the prohibition on disclosing application is the operative feature; a permission to modify that had to be disclosed would be detectable, and this one is not.",
+   "tier": 3
+  },
+  "c-48952e92f6": {
+   "id": "c-48952e92f6",
+   "kind": "claim",
+   "node": "sec-1001-gta",
+   "nodeLabel": "Section 1001 General Transfer Authority (annual NDAA)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+   },
+   "text": "Section 4001(c), NDAA FY2026: transfer or reprogramming of a funding-table amount 'shall not count against a ceiling on such transfers or reprogrammings under section 1001 of this Act or any other provision of law, unless such transfer or reprogramming would move funds between appropriation accounts.'",
+   "tier": 1
+  },
+  "c-4e0bb8614c": {
+   "id": "c-4e0bb8614c",
+   "kind": "claim",
+   "node": "aawsap",
+   "nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237615/"
+   },
+   "text": "'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive and the contract signed on 22 September 2008.' (DIA Talking Paper U-326-09, 02 January 2009)",
+   "tier": 1
+  },
+  "c-53194e6884": {
+   "id": "c-53194e6884",
+   "kind": "claim",
+   "node": "aawsap",
+   "nodeLabel": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+   },
+   "text": "Same memo: 'The FY 2010 Defense Appropriations Act included a $12 million add for the project. Twelve additional reports were produced and delivered.' Total across FY08 supplemental ($10M) and FY10 ($12M) = $22M.",
+   "tier": 1
+  },
+  "c-5c8bccc803": {
+   "id": "c-5c8bccc803",
+   "kind": "claim",
+   "node": "defense-appropriations-aawsap",
+   "nodeLabel": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
+   "source": {
+    "domain": null,
+    "text": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
+    "url": null
+   },
+   "text": "'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats.'",
+   "tier": 1
+  },
+  "c-6c8bf1ccb8": {
+   "id": "c-6c8bf1ccb8",
+   "kind": "claim",
+   "node": "grusch-misappropriation-allegation",
+   "nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+   "source": {
+    "domain": "oversight.house.gov",
+    "text": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf",
+    "url": "https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf"
+   },
+   "text": "Grusch's written testimony to the House Oversight Committee contains no discussion of funding mechanisms, budget lines, or contractor financial arrangements; the financial specifics were reserved for classified session.",
+   "tier": 1
+  },
+  "c-77f4c7301a": {
+   "id": "c-77f4c7301a",
+   "kind": "claim",
+   "node": "ted-stevens",
+   "nodeLabel": "Theodore F. Stevens",
+   "source": {
+    "domain": null,
+    "text": "Honolulu Civil Beat, 13 June 2021; Harry Reid interviews with KLAS/Mystery Wire",
+    "url": null
+   },
+   "text": "Stevens was one of three senators — with Reid and Inouye — who directed $22 million into the defense black budget in 2007 for what became AAWSAP.",
+   "tier": 2
+  },
+  "c-827cf2e4b8": {
+   "id": "c-827cf2e4b8",
+   "kind": "claim",
+   "node": "skidmore-fitts-report",
+   "nodeLabel": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
+    "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
+   },
+   "text": "The $21 trillion figure double-counts by construction, because gross adjustment volumes across eighteen years are being summed and individual dollars are adjusted repeatedly; it is an index of documentation failure, not a quantity of money. Reasoning: it is derived from the same class of gross-entry figures as the DODIG-2016-113 $6.5 trillion number, which the OIG itself flags as non-cumulative.",
+   "tier": 3
+  },
+  "c-89f93fe8f3": {
+   "id": "c-89f93fe8f3",
+   "kind": "claim",
+   "node": "classified-annex",
+   "nodeLabel": "The Classified Annex (NDAA and Defense Appropriations)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+   },
+   "text": "Section 8006(a), DoD Appropriations Act 2026: the tables in the classified annex accompanying the Act are 'hereby required by law to be carried out in the manner provided by such tables to the same extent as if the tables were included in the text of this Act.'",
+   "tier": 1
+  },
+  "c-8ad250645b": {
+   "id": "c-8ad250645b",
+   "kind": "claim",
+   "node": "david-grusch",
+   "nodeLabel": "David Charles Grusch",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Sworn, to Rep. Jared Moskowitz, on how such a program is funded: 'misappropriation of funds and self-fund,' with contractor internal research and development identified as the vehicle - 'IR&D is literally internal to the contractors. So, as long as it is money, either profits, private investment, et cetera, they do whatever they want.'",
+   "tier": 1
+  },
+  "c-94398ba636": {
+   "id": "c-94398ba636",
+   "kind": "claim",
+   "node": "sec-1001-gta",
+   "nodeLabel": "Section 1001 General Transfer Authority (annual NDAA)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+   },
+   "text": "Section 1001(d) requires only that 'The Secretary shall promptly notify Congress of each transfer made under subsection (a).'",
+   "tier": 1
+  },
+  "c-961ee028e3": {
+   "id": "c-961ee028e3",
+   "kind": "claim",
+   "node": "harry-reid",
+   "nodeLabel": "Harry M. Reid",
+   "source": {
+    "domain": "www.dia.mil",
+    "text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+    "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+   },
+   "text": "Signed the 24 June 2009 letter to Deputy Secretary of Defense William J. Lynn III, on Senate Majority Leader letterhead, requesting DoD place the AAITP under 'Restricted Special Access Protection'.",
+   "tier": 1
+  },
+  "c-972f62aa7e": {
+   "id": "c-972f62aa7e",
+   "kind": "claim",
+   "node": "dodig-2016-113",
+   "nodeLabel": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
+    "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
+   },
+   "text": "The $6.5 trillion figure is the gross value of unsupported compilation adjustments, not an amount of missing money; the same dollars can be adjusted repeatedly within a compilation cycle. Reasoning: the Army General Fund's FY2015 appropriation was on the order of $120-150 billion, so a literal reading would require the Army to have handled roughly fifty times its own budget, which is arithmetically impossible; the figure therefore measures entry volume, not fund flow.",
+   "tier": 3
+  },
+  "c-ab940c5c51": {
+   "id": "c-ab940c5c51",
+   "kind": "claim",
+   "node": "classified-programs-line",
+   "nodeLabel": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+   },
+   "text": "The FY2026 NDAA funding tables contain 25 line items titled 'CLASSIFIED PROGRAMS' totalling $95.786 billion requested and $95.907 billion authorized (computed directly from the enacted text, Division D).",
+   "tier": 1
+  },
+  "c-ae7352ec1d": {
+   "id": "c-ae7352ec1d",
+   "kind": "claim",
+   "node": "lockheed-martin",
+   "nodeLabel": "Lockheed Martin Corporation",
+   "source": {
+    "domain": null,
+    "text": "AARO, Historical Record Report Volume I, March 2024",
+    "url": null
+   },
+   "text": "AARO's report describes Lockheed Martin's Advanced Development Programs organisation by name in its treatment of classified aeronautics mistaken for UAP, and separately states that executives and CTOs of the named companies denied the allegations to AARO's Director on the record.",
+   "tier": 1
+  },
+  "c-b25a8692aa": {
+   "id": "c-b25a8692aa",
+   "kind": "claim",
+   "node": "irad-mechanism",
+   "nodeLabel": "Independent Research and Development (IR&D) as a funding channel",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+   },
+   "text": "DoD Instruction 3204.01, dated 20 August 2014 incorporating change 2 dated 9 July 2020, establishes Department policy for oversight of independent research and development.",
+   "tier": 1
+  },
+  "c-b2cdd2d783": {
+   "id": "c-b2cdd2d783",
+   "kind": "claim",
+   "node": "defense-appropriations-aawsap",
+   "nodeLabel": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
+   "source": {
+    "domain": null,
+    "text": "Honolulu Civil Beat, 13 June 2021",
+    "url": null
+   },
+   "text": "The funds were routed through the classified black budget with Inouye's agreement, bypassing Senate floor debate about the allocation.",
+   "tier": 2
+  },
+  "c-b50c0f271b": {
+   "id": "c-b50c0f271b",
+   "kind": "claim",
+   "node": "d-funding",
+   "nodeLabel": "Funding Channels",
+   "source": {
+    "domain": null,
+    "text": "P.L. 119-75, DoD Appropriations Act 2026",
+    "url": null
+   },
+   "text": "The Department of Defense Appropriations Act for 2026 (P.L. 119-75) contains general transfer authority at Sections 8005-8009 permitting post-enactment movement of funds between accounts.",
+   "tier": 1
+  },
+  "c-be1cebacbc": {
+   "id": "c-be1cebacbc",
+   "kind": "claim",
+   "node": "sec-1001-gta",
+   "nodeLabel": "Section 1001 General Transfer Authority (annual NDAA)",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+   },
+   "text": "Section 1001, NDAA FY2026: transfer authority on the Secretary's determination that action 'is necessary in the national interest', capped at $6,000,000,000, excluding military personnel transfers.",
+   "tier": 1
+  },
+  "c-c51e1eafc7": {
+   "id": "c-c51e1eafc7",
+   "kind": "claim",
+   "node": "d-contracting",
+   "nodeLabel": "Federal Contracting Mechanics",
+   "source": {
+    "domain": null,
+    "text": "DIA AAWSAP contract file, FOIA-00349-2018",
+    "url": null
+   },
+   "text": "DIA awarded the AAWSAP contract following solicitation HHM402-08-R-0211 and issued priced annual modifications, all released under FOIA.",
+   "tier": 1
+  },
+  "c-db40f5aab8": {
+   "id": "c-db40f5aab8",
+   "kind": "claim",
+   "node": "sffas-56",
+   "nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+   "source": {
+    "domain": "files.fasab.gov",
+    "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+    "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+   },
+   "text": "Paragraph 9 defines a permitted modification as 'Presenting amounts associated with one financial statement line item in another financial statement line item but not presenting narrative explaining the modification.'",
+   "tier": 1
+  },
+  "c-dd07057120": {
+   "id": "c-dd07057120",
+   "kind": "claim",
+   "node": "dod-agencywide-audit",
+   "nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
+    "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+   },
+   "text": "One of the ten accounting material weaknesses is titled 'Unsupported Accounting Adjustments'; the report states that in the last two quarters of FY2025 the Department's adjustments totalled more than $859 billion.",
+   "tier": 1
+  },
+  "c-ddd10ee462": {
+   "id": "c-ddd10ee462",
+   "kind": "claim",
+   "node": "grusch-misappropriation-allegation",
+   "nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+   "source": {
+    "domain": "thedebrief.org",
+    "text": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
+    "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+   },
+   "text": "The named mechanism in the allegation is procurement rather than appropriation: 'illegal contracting against the Federal Acquisition Regulations' describes government money reaching a contractor under an instrument that does not comply with the rules determining what the government gets for it - which is the precise legal condition under which recovered material could sit in private custody while having been paid for with federal funds. Reasoning: the FAR governs data rights, property title and cost allowability; contracting outside it is how title would fail to pass.",
+   "tier": 3
+  },
+  "c-e18a5af635": {
+   "id": "c-e18a5af635",
+   "kind": "claim",
+   "node": "dod-agencywide-audit",
+   "nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+    "url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
+   },
+   "text": "In FY2025, 22 reporting entities received stand-alone audits: 11 clean opinions, 1 qualified opinion, 9 disclaimers, and 1 entity (Navy Working Capital Fund) received no opinion under a two-year audit cycle.",
+   "tier": 2
+  },
+  "c-e288e8bd43": {
+   "id": "c-e288e8bd43",
+   "kind": "claim",
+   "node": "ndaa-fy2024-1687",
+   "nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+   "source": {
+    "domain": null,
+    "text": "PLAW-118publ31 sec. 1687(a)",
+    "url": null
+   },
+   "text": "Enacted text, PL 118-31 sec. 1687(a), 137 Stat. 621: 'LIMITATION ON USE OF FUNDS FOR CERTAIN UNREPORTED PROGRAMS. (a) Limitation on Availability of Funds.--None of the funds authorized to be appropriated or otherwise made available by this Act may be obligated or expended in support of any activities involving unidentified anomalous phenomena protected under any form of special access or restricted access limitations unless the Secretary of Defense has provided the details of the activity to the appropriate congressional committees and congressional leadership, including for any activities described in a report released by the All-Domain Anomaly Resolution Office in fiscal year 2024.'",
+   "tier": 1
+  },
+  "c-e519791a79": {
+   "id": "c-e519791a79",
+   "kind": "claim",
+   "node": "sffas-56",
+   "nodeLabel": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
+   "source": {
+    "domain": "files.fasab.gov",
+    "text": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
+    "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+   },
+   "text": "The Department of Defense identified the need for the standard in August 2016, citing conflict between GAAP and classification obligations under Executive Order 13526.",
+   "tier": 1
+  },
+  "c-f1ff2030ef": {
+   "id": "c-f1ff2030ef",
+   "kind": "claim",
+   "node": "ndaa-fy2024-1687",
+   "nodeLabel": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
+   "source": {
+    "domain": "www.govinfo.gov",
+    "text": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm",
+    "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+   },
+   "text": "Sec. 1687(b), verbatim, carrying the note '50 USC 3373 note': 'Consistent with Department of Defense Instruction Number 3204.01 (dated August 20, 2014, incorporating change 2, dated July 9, 2020; relating to Department policy for oversight of independent research and development), independent research and development funding relating to unidentified anomalous phenomena shall not be allowable as indirect expenses for purposes of contracts covered by such instruction, unless such material and information is made available the appropriate congressional committees and congressional leadership.' This closes the IR&D indirect-cost route by which a contractor could fund UAP work without a named government program.",
+   "tier": 1
+  },
+  "c-f2a0b9e9e5": {
+   "id": "c-f2a0b9e9e5",
+   "kind": "claim",
+   "node": "aawsap-contract",
+   "nodeLabel": "DIA Contract HHM402-08-C-0072 (BAASS)",
+   "source": {
+    "domain": null,
+    "text": "DIA release FOIA-00349-2018, 13 October 2022",
+    "url": null
+   },
+   "text": "Contract HHM402-08-C-0072, awarded 22 September 2008, firm fixed price, $10,000,000 base, to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7.",
+   "tier": 1
+  },
+  "c-f302580144": {
+   "id": "c-f302580144",
+   "kind": "claim",
+   "node": "dodig-2016-113",
+   "nodeLabel": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported",
+   "source": {
+    "domain": "media.defense.gov",
+    "text": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf",
+    "url": "https://media.defense.gov/2016/Jul/26/2001714261/-1/-1/1/DODIG-2016-113.pdf"
+   },
+   "text": "Footnote 2 of the report states the amounts are not cumulative and should not be added together.",
+   "tier": 1
+  },
+  "c-fb0d11d5a6": {
+   "id": "c-fb0d11d5a6",
+   "kind": "claim",
+   "node": "jared-moskowitz",
+   "nodeLabel": "Jared Evan Moskowitz",
+   "source": {
+    "domain": null,
+    "text": "House Oversight hearing transcript, 26 July 2023",
+    "url": null
+   },
+   "text": "Elicited: funding by 'misappropriation of funds and self-fund,' and 'Correct, through something called IR&D' on contractor overcharging.",
+   "tier": 1
+  },
+  "e-05230040b6": {
+   "endpoints": [
+    {
+     "id": "reprogramming-dd1415",
+     "label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)"
+    },
+    {
+     "id": "sec-8005-transfer",
+     "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)"
+    }
+   ],
+   "id": "e-05230040b6",
+   "kind": "edge",
+   "label": "The administrative layer beneath the statutory transfer authority",
+   "sources": [
+    {
+     "date": "2015-09-01",
+     "name": "DoD FMR Volume 3, Chapter 6",
+     "url": "https://comptroller.war.gov/Portals/45/documents/fmr/current/03/03_06.pdf"
+    }
+   ],
+   "text": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-0db52c74ac": {
+   "endpoints": [
+    {
+     "id": "ndaa-fy2024-1687",
+     "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+    },
+    {
+     "id": "irad-mechanism",
+     "label": "Independent Research and Development (IR&D) as a funding channel"
+    }
+   ],
+   "id": "e-0db52c74ac",
+   "kind": "edge",
+   "label": "Statutory bar on UAP-related IR&D as an allowable indirect cost",
+   "sources": [
+    {
+     "date": "2023-12-22",
+     "name": "NDAA FY2024, Sec. 1687(b)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    }
+   ],
+   "text": "Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-16460b18c3": {
+   "endpoints": [
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    },
+    {
+     "id": "classified-annex",
+     "label": "The Classified Annex (NDAA and Defense Appropriations)"
+    }
+   ],
+   "id": "e-16460b18c3",
+   "kind": "edge",
+   "label": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "date": "2026-02-03",
+     "name": "DoD Appropriations Act 2026 (P.L. 119-75), Secs. 8005-8009, 8059, 8084",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+    },
+    {
+     "date": "2025-12-18",
+     "name": "NDAA FY2026 (P.L. 119-60), Secs. 4, 5, 1001, 4001",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm"
+    }
+   ],
+   "text": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-1b9efc13df": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    }
+   ],
+   "id": "e-1b9efc13df",
+   "kind": "edge",
+   "label": "same appropriation, two designations",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume 1",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2021-05-21",
+     "name": "Blue Blurry Lines",
+     "url": "https://www.blueblurrylines.com/2021/05/the-pentagons-updated-statement-aatip.html"
+    }
+   ],
+   "text": "Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-2c0ac19e10": {
+   "endpoints": [
+    {
+     "id": "grusch-misappropriation-allegation",
+     "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+    },
+    {
+     "id": "irad-mechanism",
+     "label": "Independent Research and Development (IR&D) as a funding channel"
+    }
+   ],
+   "id": "e-2c0ac19e10",
+   "kind": "edge",
+   "label": "The allegation of illegal contracting and the statute that names IR&D",
+   "sources": [
+    {
+     "date": "2023-06-05",
+     "name": "The Debrief; NDAA FY2024 Sec. 1687(b)",
+     "url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
+    }
+   ],
+   "text": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
+   "tier": 3,
+   "type": "funding"
+  },
+  "e-3702e0d376": {
+   "endpoints": [
+    {
+     "id": "ndaa-fy2024-1687",
+     "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+    },
+    {
+     "id": "waived-usap",
+     "label": "Waived unacknowledged special access program (waived USAP)"
+    }
+   ],
+   "id": "e-3702e0d376",
+   "kind": "edge",
+   "label": "",
+   "sources": [
+    {
+     "date": "2023-12-22",
+     "name": "Public Law 118-31, National Defense Authorization Act for FY2024 (full text, GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "date": "2026-03-09",
+     "name": "Archived: DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2) (Wayback 2026-03-09)",
+     "url": "https://web.archive.org/web/20260309144222/https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+    }
+   ],
+   "text": "The section acts on the mechanism without touching it. Sec. 1687(a) conditions obligation of funds on the Secretary reporting the activity to the defense and intelligence committees and congressional leadership; it does not repeal or amend 10 U.S.C. 119(e). The waiver stays lawful and the money stops instead.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-43c27cf0b9": {
+   "endpoints": [
+    {
+     "id": "classified-annex",
+     "label": "The Classified Annex (NDAA and Defense Appropriations)"
+    },
+    {
+     "id": "d-funding",
+     "label": "Funding Channels"
+    }
+   ],
+   "id": "e-43c27cf0b9",
+   "kind": "edge",
+   "label": "the second set of numbers, given the same legal force and not printed in the Statutes at Large",
+   "sources": [
+    {
+     "date": "2026-02-03",
+     "name": "Public Law 119-75, Department of Defense Appropriations Act, 2026 (Secs. 8005-8006) (GPO)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/pdf/PLAW-119publ75.pdf"
+    }
+   ],
+   "text": "Sec. 8006 of the FY2026 DoD Appropriations Act (P.L. 119-75, 3 Feb 2026) provides that obligation and expenditure for the programs, projects and activities listed in the tables in the classified annex 'are hereby required by law to be carried out in the manner provided by such tables.' Money directed by a document the public cannot read, with statutory force, is the definitional case of an unaccounted fund.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-46bc16c648": {
+   "endpoints": [
+    {
+     "id": "ndaa-fy2024-1687",
+     "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+    },
+    {
+     "id": "lockheed-martin",
+     "label": "Lockheed Martin Corporation"
+    }
+   ],
+   "id": "e-46bc16c648",
+   "kind": "edge",
+   "label": "The IR&D restriction applies directly to covered prime contractors",
+   "sources": [
+    {
+     "date": "2023-12-22",
+     "name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    },
+    {
+     "date": "2020-07-09",
+     "name": "DoD Instruction 3204.01, 'DoD Policy for Oversight of Independent Research and Development (IR&D)' (Change 2)",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/320401p.pdf"
+    },
+    {
+     "date": "2026-08-12",
+     "name": "USAspending.gov federal award search (prime contract obligations by recipient)",
+     "url": "https://www.usaspending.gov/search"
+    }
+   ],
+   "text": "DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-52d1ba0184": {
+   "endpoints": [
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    },
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    }
+   ],
+   "id": "e-52d1ba0184",
+   "kind": "edge",
+   "label": "co-sponsored FY2008 supplemental $10M add with Sen. Inouye",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237626/"
+    }
+   ],
+   "text": "",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-616b41aecf": {
+   "endpoints": [
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    },
+    {
+     "id": "d-funding",
+     "label": "Funding Channels"
+    }
+   ],
+   "id": "e-616b41aecf",
+   "kind": "edge",
+   "label": "the only case where money for a UAP programme has been traced from a classified appropriation to a named contract",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+     "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html"
+    },
+    {
+     "date": "2017-12-16",
+     "name": "New York Times, 'Glowing Auras and Black Money' (NICAP archival copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    },
+    {
+     "date": "2008-08-18",
+     "name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+    },
+    {
+     "date": "2009-09-02",
+     "name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+    }
+   ],
+   "text": "Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain's proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-6cb045b811": {
+   "endpoints": [
+    {
+     "id": "sffas-56",
+     "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+    },
+    {
+     "id": "dod-agencywide-audit",
+     "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+    }
+   ],
+   "id": "e-6cb045b811",
+   "kind": "edge",
+   "label": "Authorises modification of the same public financial reports the audit examines",
+   "sources": [
+    {
+     "date": "2018-10-04",
+     "name": "SFFAS 56; DoD AFR FY2018",
+     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+    }
+   ],
+   "text": "SFFAS 56 became effective for periods beginning after 30 September 2018 - the first period after the Department's first full-scope audit - and permits amounts to be presented in a different line item without narrative explanation. Attested by the Statement and by the FY2018 Agency Financial Report.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-902d4727c0": {
+   "endpoints": [
+    {
+     "id": "dod-agencywide-audit",
+     "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+    },
+    {
+     "id": "dod-oig",
+     "label": "Department of Defense Office of Inspector General"
+    }
+   ],
+   "id": "e-902d4727c0",
+   "kind": "edge",
+   "label": "The OIG is the independent auditor issuing the annual opinion",
+   "sources": [
+    {
+     "date": "2018-11-15",
+     "name": "DoD AFR FY2018; DOWIG-2026-081",
+     "url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+    }
+   ],
+   "text": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-9cf0569b0d": {
+   "endpoints": [
+    {
+     "id": "aaro-historical-record-vol1",
+     "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I"
+    },
+    {
+     "id": "kona-blue",
+     "label": "KONA BLUE"
+    }
+   ],
+   "id": "e-9cf0569b0d",
+   "kind": "edge",
+   "label": "Volume I surfaced Kona Blue and framed it as the origin of crash-retrieval belief",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Volume I",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    },
+    {
+     "date": "2024-06-01",
+     "name": "AARO DHS Kona Blue package",
+     "url": "https://www.aaro.mil/Portals/136/PDFs/UAP_Records_Research/AARO_DHS_Kona_Blue.pdf"
+    }
+   ],
+   "text": "AARO disclosed the DHS prospective SAP and used it to argue that witnesses mistook a rejected proposal for an operating programme.",
+   "tier": 1,
+   "type": "investigative"
+  },
+  "e-aeaf681082": {
+   "endpoints": [
+    {
+     "id": "dod-sapco",
+     "label": "DoD Special Access Program Central Office (DoD SAPCO)"
+    },
+    {
+     "id": "waived-sap-notification-group",
+     "label": "Waived SAP Notification Group"
+    }
+   ],
+   "id": "e-aeaf681082",
+   "kind": "edge",
+   "label": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
+   "sources": [
+    {
+     "date": null,
+     "name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/520511p.pdf"
+    },
+    {
+     "date": "2026-08-22",
+     "name": "10 U.S.C. 119, Special Access Programs: congressional oversight — subsections (e)(2) and (g) (OLRC prelim text, read 22 August 2026)",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2026-05-18",
+     "name": "Archived: DoD Directive 5205.07, Special Access Program (SAP) Policy (Wayback 2026-05-18)",
+     "url": "https://web.archive.org/web/20260518065512/https://www.esd.whs.mil/portals/54/documents/dd/issuances/dodd/520507p.pdf"
+    },
+    {
+     "date": null,
+     "name": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf",
+     "url": "https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/520507p.pdf"
+    }
+   ],
+   "text": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs,' effective 12 September 2024, para. 7.2.a(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction 'except for waived programs.'",
+   "tier": 1,
+   "type": "institutional"
+  },
+  "e-b88c5faf1b": {
+   "endpoints": [
+    {
+     "id": "aawsap-contract",
+     "label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+    },
+    {
+     "id": "d-funding",
+     "label": "Funding Channels"
+    }
+   ],
+   "id": "e-b88c5faf1b",
+   "kind": "edge",
+   "label": "the one instrument on the board where the appropriation-to-contract path is fully documented",
+   "sources": [
+    {
+     "date": "2009-09-02",
+     "name": "Amendment of Solicitation/Modification of Contract P00001 to HHM402-08-C-0072, Bigelow Aerospace Advanced Space Studies LLC (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237652/"
+    },
+    {
+     "date": "2008-08-18",
+     "name": "FedBizOpps notice, Solicitation HHM402-08-R-0211, Advanced Aerospace Weapon System Applications Program (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237630/"
+    }
+   ],
+   "text": "The AAWSAP prime contract, awarded 22 September 2008 to BAASS off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity, and released through DIA FOIA together with modification P00001. It is the concrete artefact that turns 'money moved through a classified channel' into a document with a number on it, which is what this domain exists to collect.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-bf70a383b6": {
+   "endpoints": [
+    {
+     "id": "aaro",
+     "label": "All-domain Anomaly Resolution Office (AARO)"
+    },
+    {
+     "id": "grusch-misappropriation-allegation",
+     "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony"
+    }
+   ],
+   "id": "e-bf70a383b6",
+   "kind": "edge",
+   "label": "AARO's reports address the retrieval claims and say nothing about the funding claims",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO Historical Record Report Vol. I",
+     "url": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF"
+    }
+   ],
+   "text": "The AARO Historical Record Report Volume I (March 2024) and the FY2025 Consolidated Annual Report contain no discussion of misappropriated funds, illegal contracting, IR&D or contractor financial arrangements. The absence is attested by the reports themselves.",
+   "tier": 1,
+   "type": "denial"
+  },
+  "e-c103bc5c27": {
+   "endpoints": [
+    {
+     "id": "irad-mechanism",
+     "label": "Independent Research and Development (IR&D) as a funding channel"
+    },
+    {
+     "id": "sec-8009-sap-notice",
+     "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program"
+    }
+   ],
+   "id": "e-c103bc5c27",
+   "kind": "edge",
+   "label": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
+   "sources": [
+    {
+     "date": "2026-02-03",
+     "name": "DoD Appropriations Act 2026 Sec. 8009; NDAA FY2024 Sec. 1687(b)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ75/html/PLAW-119publ75.htm"
+    }
+   ],
+   "text": "Section 8009 attaches to funds appropriated by the Act; contractor IR&D is reimbursed as an allowable indirect cost across a contract portfolio rather than appropriated to a programme. Reasoned inference from the structure of both instruments.",
+   "tier": 3,
+   "type": "behavioral"
+  },
+  "e-cb6758f186": {
+   "endpoints": [
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    },
+    {
+     "id": "kona-blue",
+     "label": "KONA BLUE"
+    }
+   ],
+   "id": "e-cb6758f186",
+   "kind": "edge",
+   "label": "Bigelow's organisation was the anticipated contract performer for the proposed program",
+   "sources": [
+    {
+     "date": "2024-03-08",
+     "name": "AARO, 'Report on the Historical Record of U.S. Government Involvement with Unidentified Anomalous Phenomena (UAP), Volume I'",
+     "url": "https://documents2.theblackvault.com/documents/dod/AARO_Historical_Record_Report_Volume_1_2024.pdf"
+    }
+   ],
+   "text": "AARO notes the material 'was only assumed to exist by KONA BLUE advocates and its anticipated contract performers,' and that the proposed lines of effort mirrored the private sector organisation's AAWSAP work.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-cc04e375ba": {
+   "endpoints": [
+    {
+     "id": "sffas-56",
+     "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)"
+    },
+    {
+     "id": "classified-annex",
+     "label": "The Classified Annex (NDAA and Defense Appropriations)"
+    }
+   ],
+   "id": "e-cc04e375ba",
+   "kind": "edge",
+   "label": "Accounting-side and appropriations-side concealment of the same activity",
+   "sources": [
+    {
+     "date": "2018-10-04",
+     "name": "SFFAS 56; DoD Appropriations Act 2026 Sec. 8006",
+     "url": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf"
+    }
+   ],
+   "text": "The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them.",
+   "tier": 3,
+   "type": "programmatic"
+  },
+  "e-d09af927d0": {
+   "endpoints": [
+    {
+     "id": "usc-10-119",
+     "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight"
+    },
+    {
+     "id": "ndaa-fy2024-1687",
+     "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs"
+    }
+   ],
+   "id": "e-d09af927d0",
+   "kind": "edge",
+   "label": "Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter",
+   "sources": [
+    {
+     "date": "2024-01-01",
+     "name": "10 U.S.C. Sec. 119, Special access programs: congressional oversight",
+     "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim"
+    },
+    {
+     "date": "2023-12-22",
+     "name": "National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31 (enacted text)",
+     "url": "https://www.govinfo.gov/content/pkg/PLAW-118publ31/html/PLAW-118publ31.htm"
+    }
+   ],
+   "text": "Where Sec. 119(e) permits reporting to only the chairman and ranking member of each defense committee, Sec. 1687 conditions the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.",
+   "tier": 1,
+   "type": "legislative"
+  },
+  "e-d7cfbb8b8c": {
+   "endpoints": [
+    {
+     "id": "harry-reid",
+     "label": "Harry M. Reid"
+    },
+    {
+     "id": "aawsap",
+     "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)"
+    }
+   ],
+   "id": "e-d7cfbb8b8c",
+   "kind": "edge",
+   "label": "",
+   "sources": [
+    {
+     "date": "2009-06-24",
+     "name": "Letter, Sen. Harry Reid to Deputy Secretary of Defense William J. Lynn III, 24 June 2009 (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+    },
+    {
+     "date": "2009",
+     "name": "USD(I) Memorandum for the Deputy Secretary of Defense, 'Senator Harry Reid's Request to Put the Advanced Aerospace Threat and Identification Program (AAITP) under Special Access Protection' (DIA FOIA release)",
+     "url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237660/"
+    }
+   ],
+   "text": "He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.",
+   "tier": 1,
+   "type": "programmatic"
+  },
+  "e-df129a8e7b": {
+   "endpoints": [
+    {
+     "id": "aatip",
+     "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)"
+    },
+    {
+     "id": "robert-bigelow",
+     "label": "Robert T. Bigelow"
+    }
+   ],
+   "id": "e-df129a8e7b",
+   "kind": "edge",
+   "label": "Most of the ~$22m went to Bigelow Aerospace, 2008-2011",
+   "sources": [
+    {
+     "date": "2017-12-16",
+     "name": "New York Times (NICAP copy)",
+     "url": "https://www.nicap.org/reports2/2004_20171216_NYTArt_1.pdf"
+    }
+   ],
+   "text": "Reported by the New York Times with Bigelow on record describing modified Las Vegas buildings for storing recovered metal alloys.",
+   "tier": 1,
+   "type": "funding"
+  },
+  "e-e508b3d69c": {
+   "endpoints": [
+    {
+     "id": "dia",
+     "label": "Defense Intelligence Agency"
+    },
+    {
+     "id": "aawsap-contract",
+     "label": "DIA Contract HHM402-08-C-0072 (BAASS)"
+    }
+   ],
+   "id": "e-e508b3d69c",
+   "kind": "edge",
+   "label": "withheld the contract for eleven years",
+   "sources": [
+    {
+     "date": "2022-03-01",
+     "name": "The UFO Trail",
+     "url": "https://ufotrail.blogspot.com/2022/03/dia-further-verifies-aawsap-award-to.html"
+    }
+   ],
+   "text": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
+   "tier": 2,
+   "type": "denial"
+  },
+  "e-eb0a34f7e0": {
+   "endpoints": [
+    {
+     "id": "david-norquist",
+     "label": "David L. Norquist"
+    },
+    {
+     "id": "dod-agencywide-audit",
+     "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)"
+    }
+   ],
+   "id": "e-eb0a34f7e0",
+   "kind": "edge",
+   "label": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
+   "sources": [
+    {
+     "date": "2018-11-15",
+     "name": "DoD AFR FY2018, Financial Section",
+     "url": "https://comptroller.war.gov/Portals/45/Documents/afr/fy2018/3-Financial_Section.pdf"
+    }
+   ],
+   "text": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
+   "tier": 1,
+   "type": "institutional"
+  }
+ },
+ "for": [
+  {
+   "cite": [
+    "c-8ad250645b",
+    "c-fb0d11d5a6",
+    "c-33570aa664",
+    "c-6c8bf1ccb8"
+   ],
+   "text": "Grusch testified under oath that such programmes are paid for by misappropriation of funds and self-funding, through contractor internal research and development money, and earlier told The Debrief that people on these programmes had disclosed concerns to him including illegal contracting against the Federal Acquisition Regulations. He reserved the funding specifics for classified session."
+  },
+  {
+   "cite": [
+    "c-89f93fe8f3",
+    "e-43c27cf0b9",
+    "c-ab940c5c51",
+    "c-48952e92f6",
+    "c-20e915f42c"
+   ],
+   "text": "The classified annex carries the force of law: its tables are binding as if printed in the Act, while the public tables show rows titled CLASSIFIED PROGRAMS, 25 of them in FY2026 totalling $95.786bn requested, and movements among annex lines inside one account count against neither transfer ceiling."
+  },
+  {
+   "cite": [
+    "c-17da8ec825",
+    "c-e519791a79",
+    "c-db40f5aab8",
+    "c-08697ebeac",
+    "e-6cb045b811"
+   ],
+   "text": "SFFAS 56, effective for the period after the Department's first full-scope audit, permits an entity to present amounts from one line item in another without explanation, and forbids it to disclose whether it applied the standard."
+  },
+  {
+   "cite": [
+    "c-2521b44fb4",
+    "c-ddd10ee462",
+    "e-c103bc5c27"
+   ],
+   "text": "On the board's reading, independent research and development is the instrument that best fits the alleged pattern of government-paid, contractor-directed, contractor-held work with no named appropriation line, and it does not trigger the section 8009 notice. That is an inference."
+  },
+  {
+   "cite": [
+    "c-e288e8bd43",
+    "e-d09af927d0",
+    "e-3702e0d376"
+   ],
+   "text": "Congress acted on the funding route itself: section 1687(a) of the FY2024 NDAA bars that Act's funds from any UAP activity under special or restricted access unless the Secretary has given the details to the committees and leadership. It does not repeal the section 119 waiver; it conditions the money instead."
+  },
+  {
+   "cite": [
+    "c-06d6fe6e26",
+    "c-b2cdd2d783",
+    "c-77f4c7301a",
+    "c-961ee028e3"
+   ],
+   "text": "A 2021 newspaper account says Reid, Inouye and Stevens directed the $22 million into the classified budget in 2007, with Inouye's chairmanship letting it bypass floor debate, and Reid asked the Deputy Secretary of Defense in June 2009 to place the programme under Restricted Special Access Protection."
+  }
+ ],
+ "id": "where-the-money",
+ "lead": {
+  "cite": [
+   "c-b50c0f271b",
+   "e-05230040b6",
+   "c-b25a8692aa",
+   "e-616b41aecf",
+   "c-8ad250645b",
+   "c-067b35bd70"
+  ],
+  "text": "Money reaches classified work through ordinary channels that are hard to follow from outside: authority to move funds after enactment, an administrative reprogramming layer, contractor research charged to the government as overhead, and contract vehicles. The one UAP programme whose money has been traced from a classified appropriation to a numbered contract is AAWSAP; the alleged funding of a retrieval programme rests on Grusch's testimony."
+ },
+ "open": [
+  "Has any contractor covered by DoD Instruction 3204.01 made a disclosure under section 1687(b), and to whom?",
+  "What did Grusch tell Congress in classified session about how the programmes he describes are paid for?",
+  "How much money moves each year through below-threshold and internal reprogramming, which needs no approval or notification?",
+  "Which appropriation account and bill language carried the $22 million for AAWSAP, and how much was obligated in each year of the contract?",
+  "Has any federal entity applied SFFAS 56, given that the standard forbids it to say so?"
+ ],
+ "order": 4,
+ "status": "verified",
+ "threads": [
+  {
+   "cite": [
+    "e-d7cfbb8b8c",
+    "e-52d1ba0184",
+    "e-1b9efc13df",
+    "e-df129a8e7b",
+    "e-cb6758f186",
+    "e-9cf0569b0d"
+   ],
+   "id": "lineage",
+   "text": "The lineage thread is the one funding chain the board can document end to end: Reid co-sponsored the FY2008 supplemental $10M add with Senator Inouye, the appropriation AAWSAP was run on; the Department has treated AAWSAP and AATIP, alternately, as one contract under two labels; the New York Times reported that most of the roughly $22m went to Bigelow Aerospace between 2008 and 2011; on AARO's account Bigelow's organisation was the anticipated contract performer for the proposed KONA BLUE programme; and AARO's Volume I is where the Department's account of that money now sits."
+  },
+  {
+   "cite": [
+    "e-6cb045b811",
+    "e-cc04e375ba",
+    "e-16460b18c3",
+    "e-aeaf681082",
+    "e-902d4727c0"
+   ],
+   "id": "money",
+   "text": "The money thread shows what cannot be followed: a disclaimer of opinion every year since FY2018, an accounting standard that lets amounts sit in a different line without narrative, and a waived-programme channel whose budget papers go only to committee staff directors. The step joining the classified annex to that accounting standard is the board's inference, and no document links them."
+  }
+ ],
+ "title": "Where would the money come from?",
+ "topics": [
+  "funding-channels",
+  "unauditable-ledger",
+  "black-budget",
+  "aawsap-baass",
+  "grusch-allegations",
+  "named-contractors"
+ ]
+}

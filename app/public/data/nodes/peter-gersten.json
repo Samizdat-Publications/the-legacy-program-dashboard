@@ -65,6 +65,25 @@
 "unresolved": null
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "1996-11-17",
+"eventDate": null,
+"id": "c-5cadabebfd",
+"node": "betty-cash",
+"nodeLabel": "Betty Cash",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Gersten, quoted in the Houston Chronicle, Texas Magazine, 17 November 1996, p. 8",
+"url": null
+},
+"text": "Attorney Peter Gersten later stated that the suit was a bluff, brought in the hope that the government would settle quietly and cover the medical expenses.",
+"tier": 2,
+"topic": "biology-medical",
+"via": "Houston Chronicle, Texas Magazine"
+}
+],
 "cls": "person",
 "cluster": "oversight",
 "conflicts": [],

@@ -29,6 +29,15 @@
 "claims": [
 {
 "id": "c-06d6fe6e26",
+"meta": {
+"artefactDate": "2021-06-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2007",
+"route": "press",
+"speaker": "Honolulu Civil Beat",
+"via": null
+},
 "source": "Honolulu Civil Beat, 13 June 2021",
 "sources": [
 {
@@ -43,6 +52,15 @@
 },
 {
 "id": "c-b4d121091a",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22 - DEMOTED from Tier 1 (sourced only to an interested party (AARO/DoD) in the source registry, asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [
 {

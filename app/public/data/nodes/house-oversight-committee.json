@@ -51,6 +51,144 @@
 "unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2024-11-13",
+"eventDate": "2024-11-13",
+"id": "c-2308ae3439",
+"node": "luis-elizondo",
+"nodeLabel": "Luis D. Elizondo",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "House Committee on Oversight and Accountability hearing record, 13 November 2024",
+"url": null
+},
+"text": "Elizondo testified as a named witness before the House Oversight Subcommittees on Cybersecurity/IT and National Security on 13 November 2024.",
+"tier": 1,
+"topic": "aatip-elizondo",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": "2023-07-26",
+"id": "c-2a32ef084c",
+"node": "nro",
+"nodeLabel": "National Reconnaissance Office",
+"route": "document",
+"source": {
+"domain": null,
+"text": "House Committee on Oversight and Accountability hearing notice, 26 July 2023",
+"url": null
+},
+"text": "David Grusch testified before the House Oversight Committee on 26 July 2023 with the official witness title 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": "2023-07-26",
+"eventDate": "2023-07-26",
+"id": "c-78d3626945",
+"node": "grusch-misappropriation-allegation",
+"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
+"route": "document",
+"source": {
+"domain": "oversight.house.gov",
+"text": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+"url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/"
+},
+"text": "Grusch testified under oath on 26 July 2023 before the House Oversight subcommittee at the hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', with Ryan Graves and David Fravor.",
+"tier": 1,
+"topic": "funding-channels",
+"via": null
+},
+{
+"artefactDate": "2026-04-20",
+"eventDate": null,
+"id": "c-c2e397eb16",
+"node": "missing-scientists-probe-2026",
+"nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"route": "document",
+"source": {
+"domain": "www.foxnews.com",
+"text": "Fox News, 21 April 2026, https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals ; checked against the Committee letters of 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
+"url": "https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals"
+},
+"text": "Fox News reported on 21 April 2026 that Chairman Comer and Rep. Burlison had launched a congressional probe into eleven individuals in nuclear or rocket technology who had died or vanished since 2022, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026. The Committee's own letters, opened on 2 September 2026, say 'at least ten individuals' and date the pattern to 2023; the eleven and the 2022 are what Fox reported.",
+"tier": 2,
+"topic": "missing-scientists",
+"via": "Fox News"
+},
+{
+"artefactDate": "2026-04-21",
+"eventDate": null,
+"id": "c-97243dc63d",
+"node": "william-mccasland",
+"nodeLabel": "William Neil McCasland",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Fox News, 21 April 2026",
+"url": null
+},
+"text": "McCasland is one of eleven individuals in nuclear or rocket technology who have died or vanished under mysterious circumstances since 2022, per the House Oversight probe.",
+"tier": 2,
+"topic": "missing-scientists",
+"via": "Fox News"
+},
+{
+"artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-2d9f508a0b",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "press",
+"source": {
+"domain": null,
+"text": "House Oversight hearing wrap-up release, 9 September 2025",
+"url": null
+},
+"text": "Rep. Nancy Mace asked about potential government psychological operations; Rep. Burchett questioned whistleblower protections.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2026-04-01",
+"eventDate": "2025-09",
+"id": "c-2d55fa363b",
+"node": "anna-paulina-luna",
+"nodeLabel": "Anna Paulina Luna",
+"route": "press",
+"source": {
+"domain": null,
+"text": "House Oversight press release, 1 April 2026, recounting the September 2025 testimony",
+"url": null
+},
+"text": "Witnesses told the Task Force that AARO holds additional video records of potential UAP sightings; Luna wrote to Hegseth on 1 April 2026 seeking them.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+},
+{
+"artefactDate": "2026-04-01",
+"eventDate": "2025-09-09",
+"id": "c-9a53ea6c4c",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "press",
+"source": {
+"domain": null,
+"text": "House Oversight press release, 1 April 2026, recounting the September 2025 testimony",
+"url": null
+},
+"text": "Witnesses told the Task Force that AARO holds additional video records of potential UAP sightings.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "oversight",
 "conflicts": [],

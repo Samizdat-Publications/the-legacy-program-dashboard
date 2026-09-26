@@ -62,11 +62,39 @@
 },
 {
 "id": "c-6b02d3a5a5",
+"meta": {
+"artefactDate": "2024-03",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Douglas Dean Johnson (analysis); Christopher Mellon (contemporaneous comment)",
+"via": null
+},
 "source": "Analysis by Douglas Dean Johnson; contemporaneous comment by Christopher Mellon, March 2024",
 "sources": [],
 "text": "Hicks declined to publicly endorse the key findings of Historical Record Report Volume I.",
 "tier": 2,
 "unresolved": "read in review as naming no single source: no specific article named for either analyst's comment"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2022-07-15",
+"eventDate": "2022-07-15",
+"id": "c-772f9533f1",
+"node": "sean-kirkpatrick",
+"nodeLabel": "Sean M. Kirkpatrick",
+"route": "document",
+"source": {
+"domain": null,
+"text": "DoD memorandum 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022, media.defense.gov — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"url": null
+},
+"text": "Kirkpatrick was appointed first Director of AARO when Deputy Secretary of Defense Kathleen Hicks established the office by memorandum dated 15 July 2022.",
+"tier": 2,
+"topic": "aaro",
+"via": null
 }
 ],
 "cls": "person",

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-2cbc0614c6",
+"meta": {
+"artefactDate": "2026-05-08",
+"claimant": "kirsten-gillibrand",
+"claimantLabel": "Kirsten E. Gillibrand",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Gillibrand statement on release of UAP files, gillibrand.senate.gov, 8 May 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-42660bd70c",
+"meta": {
+"artefactDate": null,
+"claimant": "kirsten-gillibrand",
+"claimantLabel": "Kirsten E. Gillibrand",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Hyperlink on gillibrand.senate.gov statement page to war.gov news release article 4480582 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [],
 "text": "Gillibrand's statement links directly to a Department of War release headed 'Department of War Releases Unidentified Anomalous Phenomena Files.'",

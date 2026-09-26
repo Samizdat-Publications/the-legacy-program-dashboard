@@ -1,0 +1,290 @@
+{
+ "generated": "2026-09-26",
+ "questions": [
+  {
+   "counts": {
+    "against": 7,
+    "answer": 5,
+    "for": 7,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "recovered-craft",
+   "lead": "The allegation that a multi-decade effort has retrieved craft and material and tried to reverse-engineer them rests on testimony, most prominently David Grusch's sworn account of July 2023. AARO says it found no empirical evidence of reverse engineering, and no released AAWSAP-era document records the receipt, transfer or storage of any physical sample.",
+   "order": 1,
+   "status": "verified",
+   "threads": [
+    "custody"
+   ],
+   "title": "Has the US recovered non-human craft?",
+   "topics": [
+    "legacy-programme",
+    "grusch-allegations",
+    "roswell-1947",
+    "aaro-historical-record",
+    "specimens",
+    "kona-blue",
+    "crash-claims",
+    "lazar-s4"
+   ]
+  },
+  {
+   "counts": {
+    "against": 7,
+    "answer": 5,
+    "for": 7,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "hidden-from-congress",
+   "lead": "What the board documents is the lawful machinery, not a programme using it: for the Department of Defense, 10 U.S.C. 119 lets the Secretary send a waived programme's details only to the chairman and ranking minority member of each of six defense committees, and a carve-out, approved only by the Secretary or Deputy Secretary, removes outside industrial security inspection of a programme held at a contractor.",
+   "order": 2,
+   "status": "verified",
+   "threads": [
+    "money"
+   ],
+   "title": "How could a programme be hidden from Congress?",
+   "topics": [
+    "sap-reporting",
+    "carve-outs",
+    "sap-states",
+    "sap-governance",
+    "black-budget",
+    "whistleblower-channels",
+    "ffrdc-probes"
+   ]
+  },
+  {
+   "counts": {
+    "against": 7,
+    "answer": 4,
+    "for": 6,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "sworn-witnesses",
+   "lead": "House Oversight has taken sworn UAP testimony at three hearings, in July 2023, November 2024 and September 2025. For what the witnesses described, the board mostly has their own word: a hearing record fixes that a person testified and when, and for the most specific naming, Knapp's, the underlying sourcing has not been published.",
+   "order": 3,
+   "status": "verified",
+   "threads": [
+    "oversight"
+   ],
+   "title": "Who has testified under oath, and what corroborates them?",
+   "topics": [
+    "congressional-witnesses",
+    "hearing-2023",
+    "hearing-2024",
+    "testimony-provenance",
+    "grusch-allegations",
+    "disclosure-project-2001",
+    "nuclear-witnesses",
+    "whistleblower-channels"
+   ]
+  },
+  {
+   "counts": {
+    "against": 6,
+    "answer": 4,
+    "for": 6,
+    "open": 5,
+    "threads": 2
+   },
+   "id": "where-the-money",
+   "lead": "Money reaches classified work through ordinary channels that are hard to follow from outside: authority to move funds after enactment, an administrative reprogramming layer, contractor research charged to the government as overhead, and contract vehicles. The one UAP programme whose money has been traced from a classified appropriation to a numbered contract is AAWSAP; the alleged funding of a retrieval programme rests on Grusch's testimony.",
+   "order": 4,
+   "status": "verified",
+   "threads": [
+    "lineage",
+    "money"
+   ],
+   "title": "Where would the money come from?",
+   "topics": [
+    "funding-channels",
+    "unauditable-ledger",
+    "black-budget",
+    "aawsap-baass",
+    "grusch-allegations",
+    "named-contractors"
+   ]
+  },
+  {
+   "counts": {
+    "against": 6,
+    "answer": 5,
+    "for": 6,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "government-denials",
+   "lead": "The Department of Defense denies that any programme possessing or reverse-engineering extraterrestrial material has been found, in words that report what AARO has discovered rather than what exists. Read as a dated ledger, its statements on AATIP moved from acknowledgement to flat denial to partial concession, while its denial that Luis Elizondo ran the programme never moved.",
+   "order": 5,
+   "status": "verified",
+   "threads": [
+    "denials"
+   ],
+   "title": "What does the government deny, and how?",
+   "topics": [
+    "denial-ledger",
+    "official-explanations",
+    "aaro",
+    "aaro-historical-record",
+    "immaculate-constellation",
+    "aatip-elizondo",
+    "perception-management"
+   ]
+  },
+  {
+   "counts": {
+    "against": 7,
+    "answer": 5,
+    "for": 6,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "physical-evidence",
+   "lead": "Physical material is where the argument could be settled by measurement rather than testimony. The board holds three lines of analysis: a peer-reviewed study of the 1977 Council Bluffs molten mass, the To The Stars ADAM samples that became the subject of an Army research agreement, and AARO's Oak Ridge analyses of a magnesium and an aluminium specimen, both of which came back as terrestrial or conventional alloys. No material has been released for the claim that non-human biologics were recovered.",
+   "order": 6,
+   "status": "verified",
+   "threads": [
+    "patents"
+   ],
+   "title": "What physical evidence is claimed?",
+   "topics": [
+    "specimens",
+    "biology-medical",
+    "navy-patents",
+    "battelle-nitinol",
+    "legacy-programme",
+    "ttsa"
+   ]
+  },
+  {
+   "counts": {
+    "against": 7,
+    "answer": 5,
+    "for": 5,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "famous-documents",
+   "lead": "The documents divide cleanly by provenance. Those released from government files, such as the 1947 Twining memorandum, the Roswell press release and the 1953 Robertson Panel report, are genuine records of what officials wrote; the Majestic-12 papers arrived, by their recipients' account, as an anonymous roll of film, and the FBI says an Air Force investigation found the memo it received to be a fake; the Wilson-Davis notes surfaced from private papers, their author vouches for them and their subject denies the meeting.",
+   "order": 7,
+   "status": "verified",
+   "threads": [
+    "wilson-davis"
+   ],
+   "title": "Which famous documents are genuine?",
+   "topics": [
+    "mj12-documents",
+    "wilson-davis-notes",
+    "sign-estimate",
+    "robertson-cia-1953",
+    "roswell-1947",
+    "immaculate-constellation",
+    "hearing-2024"
+   ]
+  },
+  {
+   "counts": {
+    "against": 7,
+    "answer": 4,
+    "for": 6,
+    "open": 5,
+    "threads": 0
+   },
+   "id": "nuclear-sites",
+   "lead": "The Air Force's own paper records one event beyond dispute, the loss of strategic alert across every launch facility of Malmstrom's Echo Flight on 16 March 1967, and government records of unidentified intruders over weapons storage areas at Kirtland in 1980 and at Strategic Air Command bases in 1975. What the objects were, and whether they caused the shutdowns, rests on testimony, much of which reached the record through one researcher, Robert Hastings.",
+   "order": 8,
+   "status": "verified",
+   "threads": [],
+   "title": "What happened at nuclear sites?",
+   "topics": [
+    "nuclear-missiles-1960s",
+    "nuclear-witnesses",
+    "sac-overflights-1975",
+    "kirtland-1980",
+    "rendlesham-1980",
+    "testimony-provenance"
+   ]
+  },
+  {
+   "counts": {
+    "against": 6,
+    "answer": 4,
+    "for": 6,
+    "open": 4,
+    "threads": 0
+   },
+   "id": "other-governments",
+   "lead": "Britain's defence intelligence study and Canada's defence committee found no threat, the Soviet programme's academic history records no landing, contact or abduction, and France and Chile run open offices that publish their findings. The exceptions are Brazil's Air Defence Command, which in 1986 called the objects its fighters chased solid and showing a form of intelligence, and COMETA, a private French association whose members included generals and an admiral, which in 1999 favoured the extraterrestrial hypothesis.",
+   "order": 9,
+   "status": "verified",
+   "threads": [],
+   "title": "What do other governments say?",
+   "topics": [
+    "uk",
+    "france",
+    "ussr",
+    "brazil",
+    "canada",
+    "latin-america",
+    "office-models"
+   ]
+  },
+  {
+   "counts": {
+    "against": 6,
+    "answer": 4,
+    "for": 5,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "beyond-the-record",
+   "lead": "The popular story runs furthest ahead of the record where a single source seeded many retellings: the Dulce base's central insider was confessed in 2015 as an invention by the man who says he mailed a hundred packets to make the story look independently sourced, and the TR-3B first appears in one 1998 presentation given, in its own words, about a new book that the Library of Congress catalogues as science fiction. Some of the confusion was manufactured: two participants have said they fed a civilian false UFO information at Kirtland.",
+   "order": 10,
+   "status": "verified",
+   "threads": [
+    "scientists"
+   ],
+   "title": "Where does the popular story go beyond the record?",
+   "topics": [
+    "dulce",
+    "tr-3b-fouche",
+    "lazar-s4",
+    "corso-day-after",
+    "perception-management",
+    "missing-scientists",
+    "testimony-provenance",
+    "media-substrate"
+   ]
+  },
+  {
+   "counts": {
+    "against": 6,
+    "answer": 4,
+    "for": 5,
+    "open": 5,
+    "threads": 1
+   },
+   "id": "what-would-settle-it",
+   "lead": "Two things could settle the question where testimony cannot: physical material measured by a falsifiable test, and records produced by the agencies and contractors said to hold them. The law now orders the records collected at the National Archives, but the independent review board and the power to take privately held material were removed before it passed, and the agencies decide what to postpone.",
+   "order": 11,
+   "status": "verified",
+   "threads": [
+    "oversight"
+   ],
+   "title": "What would settle it?",
+   "topics": [
+    "records-collection",
+    "uapda",
+    "pursue-2026",
+    "specimens",
+    "house-push-2026",
+    "ffrdc-probes",
+    "astronomers-searches",
+    "task-force-2025"
+   ]
+  }
+ ],
+ "source": "f688ad003d39"
+}

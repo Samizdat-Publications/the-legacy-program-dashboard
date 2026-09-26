@@ -34,6 +34,15 @@
 },
 {
 "id": "c-c829be5a10",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1971-07-01",
+"route": "document",
+"speaker": "Wikipedia, 'Kirtland Air Force Base' (citing USAF fact sheets)",
+"via": null
+},
 "source": "Wikipedia, Kirtland Air Force Base, citing USAF fact sheets — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -48,6 +57,15 @@
 },
 {
 "id": "c-bee36a05e8",
+"meta": {
+"artefactDate": null,
+"claimant": "paul-bennewitz",
+"claimantLabel": "Paul Frederick Bennewitz",
+"eventDate": "1979-07",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "Wikipedia, Paul Bennewitz, citing contemporaneous correspondence and the Albuquerque Tribune — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -62,6 +80,15 @@
 },
 {
 "id": "c-9df8a13609",
+"meta": {
+"artefactDate": "1989-07-01",
+"claimant": "william-l-moore",
+"claimantLabel": "William L. Moore",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "MUFON"
+},
 "source": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
 "sources": [
 {
@@ -76,6 +103,15 @@
 },
 {
 "id": "c-a170e3377f",
+"meta": {
+"artefactDate": null,
+"claimant": "richard-doty",
+"claimantLabel": "Richard C. Doty",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Doty's own public statements as summarised in the Paul Bennewitz article",
 "sources": [],
 "text": "Richard C. Doty, a former AFOSI special agent, has said he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz.",

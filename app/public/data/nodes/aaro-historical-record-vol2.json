@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-0425885755",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-0ec7e9e9b9",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-519cf45c62",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-CLEARED-508-COMPLIANT-HRRV1-08-MAR-2024-FINAL.PDF",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-4494a4212c",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/Congressional-Press-Products/",
 "sources": [
 {
@@ -62,6 +98,15 @@
 },
 {
 "id": "c-e9b2ec3856",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2024-03",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF",
 "sources": [
 {
@@ -104,6 +149,15 @@
 },
 {
 "id": "c-3e4e602bdf",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, scope statement",
 "sources": [
 {
@@ -118,6 +172,15 @@
 },
 {
 "id": "c-e27ac80551",
+"meta": {
+"artefactDate": "2024-11-14",
+"claimant": "jon-kosloski",
+"claimantLabel": "Jon T. Kosloski",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "Kosloski media roundtable on the FY2024 report, 14 November 2024",
 "sources": [
 {
@@ -132,6 +195,15 @@
 },
 {
 "id": "c-dc6656ecad",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (this research's own note, checking aaro.mil and war.gov/UFO)",
+"via": null
+},
 "source": "aaro.mil Congressional/Press Products and war.gov/UFO, accessed 12 August 2026 — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
 "sources": [],
 "text": "No Volume II appears in AARO's Congressional/Press Products index or on the war.gov/UFO release index as of 12 August 2026.",
@@ -148,6 +220,15 @@
 },
 {
 "id": "c-22712ed626",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume I, scope statement",
 "sources": [
 {
@@ -162,6 +243,15 @@
 },
 {
 "id": "c-416d77d07d",
+"meta": {
+"artefactDate": "2024-08",
+"claimant": "pat-ryder",
+"claimantLabel": "Patrick S. Ryder",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Douglas Dean Johnson"
+},
 "source": "Pentagon press remarks, August 2024, as recorded by Douglas Dean Johnson",
 "sources": [
 {
@@ -176,6 +266,15 @@
 },
 {
 "id": "c-9851a9518d",
+"meta": {
+"artefactDate": "2025-06-06",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed DoD spokeswoman",
+"via": "Wall Street Journal"
+},
 "source": "Wall Street Journal, 6 June 2025",
 "sources": [
 {

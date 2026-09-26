@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-953874b965",
+"meta": {
+"artefactDate": "1986-05-23",
+"claimant": "otavio-moreira-lima",
+"claimantLabel": "Brigadeiro Octávio Júlio Moreira Lima",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "BBC Brasil (Andre Bernardo)"
+},
 "source": "André Bernardo, BBC Brasil, 'A noite em que 21 óvnis invadiram o espaço aéreo brasileiro e foram perseguidos por caças da FAB', published 14 January 2022, republished 17 May 2026 (https://www.opovo.com.br/agencia/bbc/2026/05/17/amp/a-noite-em-que-21-ovnis-invadiram-o-espaco-aereo-brasileiro-e-foram-perseguidos-por-cacas-da-fab.html)",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-981bd03a48",
+"meta": {
+"artefactDate": "2022-01-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2009-09-25",
+"route": "press",
+"speaker": "André Bernardo, BBC Brasil",
+"via": null
+},
 "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-287044e340",
+"meta": {
+"artefactDate": "2022-01-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1986-05-19",
+"route": "press",
+"speaker": "André Bernardo, BBC Brasil",
+"via": null
+},
 "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026. NOTE: prefix FAB-4913 for the Viriato Mirage and the 22h48 (not 22h50) departure time differ in detail from earlier board entries; Tier 1 confirmation requires the Relatório de Ocorrências itself in SIAN, which could not be machine-retrieved.",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-57e064955f",
+"meta": {
+"artefactDate": "2022-01-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "André Bernardo, BBC Brasil",
+"via": null
+},
 "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
 "sources": [
 {
@@ -98,6 +134,15 @@
 },
 {
 "id": "c-36e986ba83",
+"meta": {
+"artefactDate": "2022-01-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "André Bernardo, BBC Brasil",
+"via": null
+},
 "source": "André Bernardo, BBC Brasil, 14 January 2022",
 "sources": [],
 "text": "Pilot and aircraft identifications: Lt Kleber Caldas Marinho (F-5, FAB-4848, 22:34 from Santa Cruz); Capt Márcio Brisolla Jordão (F-5, FAB-4849, 22:50); Capt Armindo Sousa Viriato de Freitas (Mirage, Anápolis); Capt Rodolfo Silva e Souza (FAB-4918, 23:17); Capt Júlio Cézar Rozemberg (FAB-4917, 23:46).",
@@ -106,6 +151,15 @@
 },
 {
 "id": "c-0f32dc3ebd",
+"meta": {
+"artefactDate": "1993",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "Captain Viriato",
+"via": "BBC Brasil (quoting the 1993 Globo Repórter interview)"
+},
 "source": "BBC Brasil, 14 January 2022, quoting the 1993 Globo Repórter interview",
 "sources": [],
 "text": "Captain Viriato, TV Globo 'Globo Repórter' interview, 1993, on the object that accelerated away from his Mirage at Mach 1.3: 'Se existe avião que possa desenvolver essa velocidade, eu desconheço.'",
@@ -114,6 +168,15 @@
 },
 {
 "id": "c-f1d6c49d69",
+"meta": {
+"artefactDate": "2022-01-14",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "interview",
+"speaker": "Adenir Britto, in BBC Brasil interview",
+"via": "BBC Brasil"
+},
 "source": "BBC Brasil, 14 January 2022, interview with Adenir Britto",
 "sources": [],
 "text": "A month after the event two officers of the Aerospace Technical Centre (CTA), accompanied by the American researcher James J. Hurtak, collected the photographic negatives taken by press photographer Adenir Britto from the newspaper Vale Paraibano, saying they would be analysed by NASA; they were never returned.",

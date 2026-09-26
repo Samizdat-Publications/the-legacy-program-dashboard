@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-c6723a754c",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "Albuquerque press coverage; company corporate record",
+"via": null
+},
 "source": "Contemporaneous Albuquerque press coverage and the company's own corporate record",
 "sources": [],
 "text": "Bennewitz founded and ran Thunder Scientific Corporation, an Albuquerque instrumentation firm whose customers included the US Air Force, from a property overlooking the eastern side of Kirtland AFB.",

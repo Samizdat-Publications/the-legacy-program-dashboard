@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-680997bc65",
+"meta": {
+"artefactDate": "2026-03-18",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2026-03-17",
+"route": "press",
+"speaker": "DefenseScoop",
+"via": null
+},
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-1aaf5bc83f",
+"meta": {
+"artefactDate": "2026-03-18",
+"claimant": "eop",
+"claimantLabel": "Executive Office of the President",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "DefenseScoop"
+},
 "source": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
 "sources": [
 {

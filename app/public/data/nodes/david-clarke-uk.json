@@ -47,6 +47,15 @@
 },
 {
 "id": "c-41e8ccc0a5",
+"meta": {
+"artefactDate": "2006-09-25",
+"claimant": "david-clarke-uk",
+"claimantLabel": "Dr David Clarke",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Guardian (James Randerson)"
+},
 "source": "James Randerson, The Guardian, 25 September 2006, cited in Wikipedia 'Project Condign'",
 "sources": [
 {
@@ -58,6 +67,59 @@
 "text": "Clarke's assessment was that the release shed no new light on the phenomenon but did show the DIS had conducted a far larger investigation than previously revealed.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2020-12-26",
+"eventDate": null,
+"id": "c-36a772fac0",
+"node": "rendlesham-1980",
+"nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "BBC News, 'Rendlesham Forest UFO: Are we any closer to the truth 40 years on?', 26 Dec 2020; David Clarke, 40th-anniversary account with the MoD desk officer, 26 Dec 2020",
+"url": null
+},
+"text": "Forty years on, the incident's American witnesses have maintained their accounts publicly while the UK Ministry of Defence's original assessment of 'no defence significance' has been shown to have been reached without interviewing them.",
+"tier": 2,
+"topic": "rendlesham-1980",
+"via": "BBC News"
+},
+{
+"artefactDate": "2020-12-26",
+"eventDate": null,
+"id": "c-d760d034ef",
+"node": "l-raf-woodbridge",
+"nodeLabel": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
+"route": "press",
+"source": {
+"domain": null,
+"text": "David Clarke, 40th-anniversary account, 26 Dec 2020",
+"url": null
+},
+"text": "Forty years later the UK Ministry of Defence desk officer who handled the file spoke publicly for the first time about how the report was processed.",
+"tier": 2,
+"topic": "rendlesham-1980",
+"via": null
+},
+{
+"artefactDate": "2006-09-25",
+"eventDate": null,
+"id": "c-41e8ccc0a5",
+"node": "david-clarke-uk",
+"nodeLabel": "Dr David Clarke",
+"route": "press",
+"source": {
+"domain": null,
+"text": "James Randerson, The Guardian, 25 September 2006, cited in Wikipedia 'Project Condign'",
+"url": null
+},
+"text": "Clarke's assessment was that the release shed no new light on the phenomenon but did show the DIS had conducted a far larger investigation than previously revealed.",
+"tier": 2,
+"topic": "sceptics",
+"via": "The Guardian (James Randerson)"
 }
 ],
 "cls": "person",

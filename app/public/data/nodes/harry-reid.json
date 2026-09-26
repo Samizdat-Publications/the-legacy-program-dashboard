@@ -115,6 +115,15 @@
 },
 {
 "id": "c-1470af8c01",
+"meta": {
+"artefactDate": "2024",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2008",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf",
 "sources": [
 {
@@ -129,6 +138,15 @@
 },
 {
 "id": "c-6ebd6ee9ad",
+"meta": {
+"artefactDate": "2024-03-08",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2008",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO Historical Record Report Volume 1, 8 March 2024, p.22",
 "sources": [
 {
@@ -171,6 +189,15 @@
 },
 {
 "id": "c-65761a45c6",
+"meta": {
+"artefactDate": "2019",
+"claimant": "harry-reid",
+"claimantLabel": "Harry M. Reid",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Vice/KLAS Mystery Wire"
+},
 "source": "Harry Reid interview, Vice/KLAS Mystery Wire, 2019-2021",
 "sources": [],
 "text": "Reid said $22 million was not enough and that if the US government is not studying the subject it is malpractice.",
@@ -187,6 +214,15 @@
 },
 {
 "id": "c-2bad419819",
+"meta": {
+"artefactDate": "2023-07-14",
+"claimant": "chuck-schumer",
+"claimantLabel": "Charles E. Schumer",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "The Debrief (Micah Hanks)"
+},
 "source": "Schumer, quoted in Micah Hanks, The Debrief, 14 July 2023",
 "sources": [],
 "text": "Schumer: 'I am honored to carry on the legacy of my mentor and dear friend Harry Reid and fight for the transparency that the public has long demanded surrounding these unexplained phenomena.'",
@@ -206,6 +242,76 @@
 "text": "Reid died on 28 December 2021, one day after the enactment of P.L. 117-81, which created the office at 50 U.S.C. 3373.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2009",
+"eventDate": null,
+"id": "c-32c463d49a",
+"node": "reid-sap-letter-2009",
+"nodeLabel": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
+"route": "document",
+"source": {
+"domain": "www.dia.mil",
+"text": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/",
+"url": "https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/237659/"
+},
+"text": "Reid, the sitting Senate Majority Leader, asserted on his own signature that the program had produced 'several highly sensitive, unconventional aerospace-related findings' warranting 'extraordinary protection' — a claim made in writing to the Deputy Secretary of Defense, not to the press.",
+"tier": 2,
+"topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2021",
+"eventDate": null,
+"id": "c-d8c66b2aa4",
+"node": "george-knapp",
+"nodeLabel": "George Knapp",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Harry Reid interview with George Knapp, KLAS/Mystery Wire, 2021",
+"url": null
+},
+"text": "Reid told Knapp on camera that the $22 million was not enough and that not studying the subject would be malpractice.",
+"tier": 2,
+"topic": "media-substrate",
+"via": "George Knapp, KLAS/Mystery Wire"
+},
+{
+"artefactDate": "2019",
+"eventDate": null,
+"id": "c-65761a45c6",
+"node": "harry-reid",
+"nodeLabel": "Harry M. Reid",
+"route": "interview",
+"source": {
+"domain": null,
+"text": "Harry Reid interview, Vice/KLAS Mystery Wire, 2019-2021",
+"url": null
+},
+"text": "Reid said $22 million was not enough and that if the US government is not studying the subject it is malpractice.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "Vice/KLAS Mystery Wire"
+},
+{
+"artefactDate": "2020-07-23",
+"eventDate": null,
+"id": "c-081c8e6fc6",
+"node": "davis-sasc-briefing-2019",
+"nodeLabel": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Harry Reid quoted in The New York Times, 23 July 2020",
+"url": null
+},
+"text": "Harry Reid told the same reporter that it is 'extremely important that information about the discovery of physical materials or retrieved craft come out'.",
+"tier": 2,
+"topic": null,
+"via": "The New York Times"
 }
 ],
 "cls": "person",

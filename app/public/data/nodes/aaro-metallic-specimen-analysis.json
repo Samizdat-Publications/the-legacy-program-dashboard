@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-5868af5613",
+"meta": {
+"artefactDate": "2024-07",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/ORNL Synopsis: Analysis of a Metallic Specimen, released July 2024",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-0c3f9958a1",
+"meta": {
+"artefactDate": null,
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2022",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO summary and Historical Record Report Volume I",
 "sources": [],
 "text": "AARO contracted ORNL in 2022 to conduct materials testing on the specimen after acquiring it, with stakeholder permission, from a private UAP organisation and the US Army.",
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-21cce3f392",
+"meta": {
+"artefactDate": "2024-07",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO/ORNL Synopsis, July 2024",
 "sources": [
 {
@@ -42,6 +69,15 @@
 },
 {
 "id": "c-fa6a413d70",
+"meta": {
+"artefactDate": "2024-04",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": "2022",
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "AARO UAP Records/Information Papers page",
 "sources": [],
 "text": "The report is titled 'ORNL Synopsis: Analysis of a Metallic Specimen', dated April 2024, produced under a 2022 AARO contract with Oak Ridge National Laboratory.",
@@ -50,6 +86,15 @@
 },
 {
 "id": "c-75c22fe63f",
+"meta": {
+"artefactDate": "2024-07-11",
+"claimant": "newsnation",
+"claimantLabel": "NewsNation",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
 "sources": [],
 "text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
@@ -58,6 +103,15 @@
 },
 {
 "id": "c-f03a2ef640",
+"meta": {
+"artefactDate": "2024-07-11",
+"claimant": "aaro",
+"claimantLabel": "All-domain Anomaly Resolution Office (AARO)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": "Gizmodo"
+},
 "source": "Gizmodo, 11 July 2024, quoting the published synopsis",
 "sources": [
 {

@@ -24,6 +24,15 @@
 "claims": [
 {
 "id": "c-ce2f8704d9",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Wikipedia, 'Bryce Zabel'",
+"via": null
+},
 "source": "Wikipedia, 'Bryce Zabel', retrieved 12 August 2026 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -38,6 +47,15 @@
 },
 {
 "id": "c-a822f17130",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1996",
+"route": "document",
+"speaker": "Wikipedia ('Bryce Zabel')",
+"via": null
+},
 "source": "Wikipedia, 'Bryce Zabel' — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "sources": [
 {
@@ -52,6 +70,15 @@
 },
 {
 "id": "c-ba08072ac2",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "2002",
+"route": "document",
+"speaker": "unnamed (Television Academy)",
+"via": null
+},
 "source": "Television Academy, Bryce Zabel bio and Presidents and Chairs list",
 "sources": [],
 "text": "The Television Academy's own biography describes Zabel as 'chairman/CEO of the Academy of Television Arts & Sciences from 2002 to 2003, the first writer in that position since Rod Serling.' Its separate list of Presidents and Chairs carries the entry '2002-2003 Bryce Zabel Chair/CEO' independently.",
@@ -60,6 +87,15 @@
 },
 {
 "id": "c-46689ee507",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Television Academy",
+"via": null
+},
 "source": "Television Academy, Bryce Zabel bio",
 "sources": [
 {
@@ -74,6 +110,15 @@
 },
 {
 "id": "c-bd3d9c1ec4",
+"meta": {
+"artefactDate": "2026-08-25",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed (absence checked against Television Academy pages)",
+"via": null
+},
 "source": "Absence checked against both Television Academy pages, 25 August 2026",
 "sources": [],
 "text": "Neither Television Academy page mentions A.D. (After Disclosure) or Richard Dolan. The co-authorship claim on this board rests on the encyclopedic source alone and has not been replaced with a primary one.",

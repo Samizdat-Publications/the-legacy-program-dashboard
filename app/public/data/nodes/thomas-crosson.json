@@ -17,11 +17,56 @@
 "claims": [
 {
 "id": "c-70422b7dda",
+"meta": {
+"artefactDate": "2017-12-16",
+"claimant": "thomas-crosson",
+"claimantLabel": "Thomas Crosson",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "New York Times (Helene Cooper, Ralph Blumenthal and Leslie Kean)"
+},
 "source": "Helene Cooper, Ralph Blumenthal and Leslie Kean, New York Times, 16 December 2017",
 "sources": [],
 "text": "Told the New York Times that AATIP was shut down because 'it was determined that there were other, higher priority issues that merit' the funding.",
 "tier": 2,
 "unresolved": "a proposed reading (url:nicap.org/reports2/2004_20171216_NYTArt_1.pdf) was rejected in review: cannot tell which 16 Dec 2017 NYT article the NICAP copy is"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2017-12-16",
+"eventDate": "2012",
+"id": "c-c4b78fa8b1",
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "New York Times, 16 December 2017, quoting Pentagon spokesman Thomas Crosson",
+"url": null
+},
+"text": "Existed and was terminated in 2012 on the Department's own account, with roughly $22 million appropriated from late 2008 through 2011 and most of it going to Bigelow Aerospace.",
+"tier": 1,
+"topic": "aatip-elizondo",
+"via": "The New York Times"
+},
+{
+"artefactDate": "2017-12-16",
+"eventDate": null,
+"id": "c-70422b7dda",
+"node": "thomas-crosson",
+"nodeLabel": "Thomas Crosson",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Helene Cooper, Ralph Blumenthal and Leslie Kean, New York Times, 16 December 2017",
+"url": null
+},
+"text": "Told the New York Times that AATIP was shut down because 'it was determined that there were other, higher priority issues that merit' the funding.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": "New York Times (Helene Cooper, Ralph Blumenthal and Leslie Kean)"
 }
 ],
 "cls": "person",

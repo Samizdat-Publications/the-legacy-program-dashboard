@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-3867c916ed",
+"meta": {
+"artefactDate": "2025-07-12",
+"claimant": "robert-salas",
+"claimantLabel": "Capt. Robert L. Salas",
+"eventDate": "1967-10-19",
+"route": "interview",
+"speaker": null,
+"via": "American Alchemy with Jesse Michels"
+},
 "source": "American Alchemy with Jesse Michels, 'Air Force Officer: A UFO Shut Down 10 Nukes in Seconds (ft. Bob Salas)', 12 July 2025, 0:33:36 and 0:34:29, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/HPL8813107798.mp3?updated=1752514599",
 "sources": [
 {
@@ -90,6 +99,15 @@
 },
 {
 "id": "c-0fc3700724",
+"meta": {
+"artefactDate": "1969",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "National Academy of Sciences panel (chaired by Gerald M. Clemence)",
+"via": null
+},
 "source": "National Academy of Sciences review of the Colorado report, 1969",
 "sources": [
 {
@@ -101,6 +119,25 @@
 "text": "A National Academy of Sciences panel chaired by Gerald M. Clemence concluded extraterrestrial visitation was 'the least likely explanation' and that no high priority for UFO investigation was warranted.",
 "tier": 2,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": "1947-06-25",
+"id": "c-d26d3f74dc",
+"node": "kenneth-arnold",
+"nodeLabel": "Kenneth Arnold",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Contemporaneous wire coverage, 25 June 1947, as reconstructed in the Condon Report Sec. V Ch. 2",
+"url": null
+},
+"text": "The term 'flying saucer' derives from press paraphrase of Arnold's description of the objects' motion, not their shape.",
+"tier": 2,
+"topic": "sign-estimate",
+"via": null
 }
 ],
 "cls": "program",

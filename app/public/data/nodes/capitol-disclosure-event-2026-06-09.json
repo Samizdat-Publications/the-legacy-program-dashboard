@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-35af88b5ee",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "anna-paulina-luna",
+"claimantLabel": "Anna Paulina Luna",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-dd2db84562",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-1f6f285457",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation/The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-cec0113c13",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "jared-moskowitz",
+"claimantLabel": "Jared Evan Moskowitz",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "NewsNation; The Hill"
+},
 "source": "NewsNation/The Hill, 9 June 2026",
 "sources": [
 {

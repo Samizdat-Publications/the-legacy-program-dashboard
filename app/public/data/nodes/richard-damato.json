@@ -34,6 +34,15 @@
 "claims": [
 {
 "id": "c-ed860dfc07",
+"meta": {
+"artefactDate": "2023-02-28",
+"claimant": "richard-damato",
+"claimantLabel": "Richard D'Amato",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Liberation Times"
+},
 "source": "Richard D'Amato public statement, quoted in Liberation Times, 28 February 2023",
 "sources": [
 {
@@ -53,6 +62,25 @@
 "text": "D'Amato privately regarded it as 'entirely feasible, that this UFO cover-up exists within a private company' such as Lockheed Martin, EG&G or Northrop Grumman. Reasoning: attributed by Knapp, consistent with D'Amato's SAP portfolio, but not stated by D'Amato himself on the record.",
 "tier": 3,
 "unresolved": "a proposed reading (url:liberationtimes.com/home/former-chief-for-defense-contractor-that-ran-area-5) was rejected in review: outlet and date only; candidate undated"
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2023-02-28",
+"eventDate": null,
+"id": "c-ed860dfc07",
+"node": "richard-damato",
+"nodeLabel": "Richard D'Amato",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Richard D'Amato public statement, quoted in Liberation Times, 28 February 2023",
+"url": null
+},
+"text": "'A senior Senate Committee chairman asked me to conduct a preliminary inquiry into allegations that came to his attention regarding unidentified aerial crashes in the 1940s in New Mexico... I reported my conclusion to the Senator that the basis for such allegations did not appear to merit any further Senate investigation.'",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": "Liberation Times"
 }
 ],
 "cls": "person",

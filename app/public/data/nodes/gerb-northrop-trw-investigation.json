@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-6e7381fd4e",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-ebe714bfa2",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, citing David Grusch",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-0494bb0b16",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": null,
+"route": "document",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-c94ac019c6",
+"meta": {
+"artefactDate": "2026-03-20",
+"claimant": "uap-gerb",
+"claimantLabel": "'UAP Gerb' (Sam)",
+"eventDate": "2011",
+"route": "broadcast",
+"speaker": null,
+"via": null
+},
 "source": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026",
 "sources": [
 {

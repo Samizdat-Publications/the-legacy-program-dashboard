@@ -28,6 +28,15 @@
 "claims": [
 {
 "id": "c-9dd27adf5d",
+"meta": {
+"artefactDate": "2020-04-27",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": null
+},
 "source": "DoD statement on the release of historical Navy videos, 27 April 2020",
 "sources": [
 {

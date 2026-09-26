@@ -47,6 +47,15 @@
 },
 {
 "id": "c-0b40ad5d16",
+"meta": {
+"artefactDate": "2021-05-16",
+"claimant": "alex-dietrich",
+"claimantLabel": "Alex Dietrich",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "CBS 60 Minutes"
+},
 "source": "Alex Dietrich, CBS 60 Minutes, 16 May 2021",
 "sources": [],
 "text": "'I never wanted to be on national TV, no offense.'",
@@ -55,6 +64,15 @@
 },
 {
 "id": "c-dab6356024",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "michael-gold",
+"claimantLabel": "Michael Gold",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
 "sources": [
 {
@@ -97,6 +115,15 @@
 },
 {
 "id": "c-3080230a51",
+"meta": {
+"artefactDate": "2023-07-26",
+"claimant": "david-fravor",
+"claimantLabel": "David Fravor",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight subcommittee"
+},
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "sources": [
 {
@@ -111,6 +138,15 @@
 },
 {
 "id": "c-ae35bedfc4",
+"meta": {
+"artefactDate": "2024-11-13",
+"claimant": "tim-gallaudet",
+"claimantLabel": "Timothy Gallaudet",
+"eventDate": null,
+"route": "hearing",
+"speaker": null,
+"via": "House Oversight Committee"
+},
 "source": "Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm , 2024-11-13",
 "sources": [
 {
@@ -122,6 +158,42 @@
 "text": "In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world.",
 "tier": 1,
 "unresolved": null
+}
+],
+"claimsMade": [
+{
+"artefactDate": "2021-05-16",
+"eventDate": "2004",
+"id": "c-a119ca1435",
+"node": "d-aviators",
+"nodeLabel": "Military Aviators & Operators",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "CBS 60 Minutes, 16 May 2021",
+"url": null
+},
+"text": "Alex Dietrich and David Fravor described the 2004 Nimitz encounter on the record to CBS 60 Minutes on 16 May 2021.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": "CBS 60 Minutes"
+},
+{
+"artefactDate": "2021-05-16",
+"eventDate": null,
+"id": "c-0b40ad5d16",
+"node": "alex-dietrich",
+"nodeLabel": "Alex Dietrich",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Alex Dietrich, CBS 60 Minutes, 16 May 2021",
+"url": null
+},
+"text": "'I never wanted to be on national TV, no offense.'",
+"tier": 2,
+"topic": "nimitz-2004",
+"via": "CBS 60 Minutes"
 }
 ],
 "cls": "person",

@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-4bc49c0fb1",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "mark-mccandlish",
+"claimantLabel": "Mark McCandlish",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Disclosure Project Briefing Document"
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-da10a5f80f",
+"meta": {
+"artefactDate": "1990-12-03",
+"claimant": "brad-sorensen",
+"claimantLabel": "'Brad' Sorensen",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "William B. Scott"
+},
 "source": "William B. Scott, interview notes on 'Brad', https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , transcript p 10, 1990-12-03",
 "sources": [
 {
@@ -72,6 +90,15 @@
 },
 {
 "id": "c-260480f68b",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "mark-mccandlish",
+"claimantLabel": "Mark McCandlish",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "The Disclosure Project"
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "sources": [
 {
@@ -86,6 +113,15 @@
 },
 {
 "id": "c-b32e204a5f",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "cseti",
+"claimantLabel": "CSETI / The Disclosure Project",
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed witness quoted in the Disclosure Project Briefing Document",
+"via": null
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "sources": [
 {
@@ -100,6 +136,15 @@
 },
 {
 "id": "c-cbee327aed",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "mark-mccandlish",
+"claimantLabel": "Mark McCandlish",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "The Disclosure Project"
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "sources": [
 {
@@ -114,6 +159,15 @@
 },
 {
 "id": "c-9765b16d0f",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "cseti",
+"claimantLabel": "CSETI / The Disclosure Project",
+"eventDate": null,
+"route": "document",
+"speaker": "unnamed witness quoted in the Disclosure Project Briefing Document",
+"via": null
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "sources": [
 {
@@ -128,6 +182,15 @@
 },
 {
 "id": "c-01385c5532",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "mark-mccandlish",
+"claimantLabel": "Mark McCandlish",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "The Disclosure Project"
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12, read against the board's existing claims on thomas-townsend-brown for US 3,187,206 and US 2,949,550",
 "sources": [
 {
@@ -152,6 +215,15 @@
 },
 {
 "id": "c-9db1fbc705",
+"meta": {
+"artefactDate": "2024-12-12",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
+"eventDate": "1989",
+"route": "interview",
+"speaker": null,
+"via": "Jesse Michels (American Alchemy)"
+},
 "source": "Jesse Michels, video id LnAiNChnuEQ, https://www.youtube.com/watch?v=LnAiNChnuEQ , published 2024-12-12, opened 18 September 2026; content recorded at research/leads/michels-corpus-03.md file 04 at 0:36:24 to 0:38:00",
 "sources": [
 {

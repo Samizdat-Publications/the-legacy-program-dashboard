@@ -52,6 +52,25 @@
 "unresolved": "the board's own inference; it names no source that resolves"
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2018-01-09",
+"eventDate": null,
+"id": "c-4cd6dbfbf4",
+"node": "aatip",
+"nodeLabel": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "DIA letter to SASC, 9 January 2018, signed Brian L. Jenkins",
+"url": null
+},
+"text": "DIA told the Senate Armed Services Committee that 'the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' and enclosed a list of 38 products.",
+"tier": 1,
+"topic": "nyt-2017",
+"via": null
+}
+],
 "cls": "person",
 "cluster": "legacy",
 "conflicts": [],

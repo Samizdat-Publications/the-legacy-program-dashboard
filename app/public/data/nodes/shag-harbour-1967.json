@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-e478d1ae39",
+"meta": {
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Department of National Defence file summary (Library and Archives Canada)",
+"via": null
+},
 "source": "Department of National Defence file summary held at Library and Archives Canada — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-6e053ec256",
+"meta": {
+"artefactDate": "1967-10-07",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "The Chronicle-Herald, Halifax (Ray MacLeod; Squadron Leader Bain quoted)",
+"via": null
+},
 "source": "The Chronicle-Herald, Halifax, 7 and 9 October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-d9728c70f2",
+"meta": {
+"artefactDate": "1967-10",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "document",
+"speaker": "Canadian Forces Fleet Diving Unit Atlantic",
+"via": null
+},
 "source": "Canadian Forces Fleet Diving Unit Atlantic search report, October 1967 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "sources": [
 {
@@ -48,6 +75,15 @@
 },
 {
 "id": "c-ea97b984c9",
+"meta": {
+"artefactDate": null,
+"claimant": "kevin-randle",
+"claimantLabel": "Kevin D. Randle",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Robert Sheaffer, Skeptical Inquirer"
+},
 "source": "Randle interviewed by Robert Sheaffer, Skeptical Inquirer",
 "sources": [
 {

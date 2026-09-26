@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-ade42be27b",
+"meta": {
+"artefactDate": "2026-05-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (Kyodo News)",
+"via": "Kyodo News"
+},
 "source": "Kyodo News (English), 9 May 2026, indexed via Google News",
 "sources": [],
 "text": "Kyodo News headline, 9 May 2026: 'UFO footage disclosed by U.S. shows football-shaped object near Japan.'",
@@ -14,6 +23,15 @@
 },
 {
 "id": "c-b379079a2d",
+"meta": {
+"artefactDate": "2026-05-11",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "unnamed (The Japan Times)",
+"via": "The Japan Times"
+},
 "source": "The Japan Times, 11 May 2026, indexed via Google News",
 "sources": [
 {
@@ -28,6 +46,15 @@
 },
 {
 "id": "c-3b192829bf",
+"meta": {
+"artefactDate": "2026-05-13",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": null,
+"route": "press",
+"speaker": "International Business Times UK",
+"via": null
+},
 "source": "International Business Times UK, 13 May 2026, indexed via Google News",
 "sources": [
 {

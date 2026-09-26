@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-bde51b2525",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 10 June 2026, reporting the 9 June 2026 Capitol press conference",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-d8c531f3ae",
+"meta": {
+"artefactDate": "2026-06-09",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "1996",
+"route": "broadcast",
+"speaker": null,
+"via": "NewsNation"
+},
 "source": "NewsNation coverage of the 9 June 2026 press conference",
 "sources": [
 {
@@ -34,6 +52,15 @@
 },
 {
 "id": "c-ee7f1574d9",
+"meta": {
+"artefactDate": "2026-06-10",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": null,
+"route": "broadcast",
+"speaker": null,
+"via": "Fox News"
+},
 "source": "Fox News, 10 June 2026",
 "sources": [
 {

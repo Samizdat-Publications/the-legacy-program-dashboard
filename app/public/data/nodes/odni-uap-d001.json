@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-bbcee28870",
+"meta": {
+"artefactDate": "2026-05-22",
+"claimant": "odni",
+"claimantLabel": "Office of the Director of National Intelligence",
+"eventDate": "2025",
+"route": "document",
+"speaker": null,
+"via": "Disclosure Archives"
+},
 "source": "Disclosure Archives inventory of the war.gov Release 02 posting",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-0b2bb75f46",
+"meta": {
+"artefactDate": "2026-05-09",
+"claimant": "tulsi-gabbard",
+"claimantLabel": "Tulsi Gabbard",
+"eventDate": null,
+"route": "press",
+"speaker": null,
+"via": "Aerotime"
+},
 "source": "Aerotime, 9 May 2026",
 "sources": [],
 "text": "Gabbard characterised PURSUE as an ongoing joint effort coordinated between intelligence and defence agencies.",

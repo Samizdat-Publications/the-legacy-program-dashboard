@@ -6,6 +6,15 @@
 "claims": [
 {
 "id": "c-abdca31a12",
+"meta": {
+"artefactDate": "2000-12",
+"claimant": "mark-mccandlish",
+"claimantLabel": "Mark McCandlish",
+"eventDate": null,
+"route": "interview",
+"speaker": null,
+"via": "Disclosure Project"
+},
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
 "sources": [
 {
@@ -20,6 +29,15 @@
 },
 {
 "id": "c-b2be72a72e",
+"meta": {
+"artefactDate": "2000-09",
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1981",
+"route": "interview",
+"speaker": "Lt Col John Williams",
+"via": "Disclosure Project"
+},
 "source": "Disclosure Project Briefing Document, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-09",
 "sources": [
 {

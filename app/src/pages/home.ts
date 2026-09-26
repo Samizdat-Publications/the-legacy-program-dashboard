@@ -3,7 +3,7 @@
  * Search first; what the board is and how to read a tier, the "said on the
  * record" mark included; Start here, the owner's fourteen flags as a tour of
  * their topics in the signed-off order; the ten sections with their topics;
- * the counts. Big questions arrive in phase 10.
+ * the counts, and the big questions (phase 10).
  *
  * Every figure on this page is read from index.json or topics.json. None is
  * typed in here. app/checks/run.mjs C11, C27 and C38 hold it to the data.
@@ -15,7 +15,8 @@ import {
   loadIndex, loadHighlights, loadTopics, spanText,
   type BoardIndex, type Highlight, type TopicsFile,
 } from '../data';
-import { SAID_LABEL, SAID_TITLE } from '../attrib';
+import { SAID_LABEL, SAID_TITLE, READ_T1, SAID_TWICE } from '../attrib';
+import { loadQuestions } from '../p10data';
 
 const n = (x: number) => x.toLocaleString('en-GB');
 
@@ -73,6 +74,8 @@ export async function renderHome(view: HTMLElement): Promise<void> {
       h('span', null, 'a named person on the record says so: testimony, an allegation, an official statement.')),
     h('div', { class: 'ht-row' }, h('span', { class: 'ht-k t3' }, 'T3'),
       h('span', null, 'a stated inference: what the board reasons from the record, flagged as such.')),
+    h('div', { class: 'ht-row said-read' }, h('span', { class: 'ht-k' }), h('span', null, READ_T1)),
+    h('div', { class: 'ht-row said-twice' }, h('span', { class: 'ht-k' }), h('span', null, SAID_TWICE)),
     h('div', { class: 'ht-row' }, h('span', { class: 'said-mark' }, SAID_LABEL.said),
       h('span', null, SAID_TITLE.said)),
     h('div', { class: 'ht-row' }, h('span', { class: 'said-mark' }, SAID_LABEL.office),
@@ -110,6 +113,19 @@ export async function renderHome(view: HTMLElement): Promise<void> {
     }
     sh.append(ol);
     wide.append(sh);
+  }
+
+  /* ---- the big questions (phase 10), each linking its page ---------------- */
+  const qf = await loadQuestions().catch(() => null);
+  if (qf && qf.questions.length) {
+    const qs = qf.questions.slice().sort((a, b) => a.order - b.order);
+    const ol = h('ol', { class: 'home-qlist' });
+    for (const q of qs) ol.append(h('li', null, h('a', { class: 'home-q', href: '#/q/' + q.id }, q.title)));
+    wide.append(h('section', { class: 'home-questions' },
+      h('div', { class: 'sec-head' }, h('span', { class: 'eyebrow' }, 'Big questions'), ' ',
+        h('span', { class: 'dim' }, qs.length + ' questions, each answered so far from the record, with the case for and against · '),
+        h('a', { href: '#/questions' }, 'all questions ›')),
+      ol));
   }
 
   /* ---- the sections, each with its topics -------------------------------- */
