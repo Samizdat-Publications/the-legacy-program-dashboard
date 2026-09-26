@@ -79,12 +79,12 @@
 "direction": "out",
 "edgeId": "e-5096558a18",
 "edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
-"family": "organisation",
+"family": "place-time",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
-"predicate": "ran",
+"predicate": "responded_to",
 "predicateSide": "object",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was run by"
+"verb": "drew a response from"
 },
 {
 "claimTier": 1,

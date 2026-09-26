@@ -94,12 +94,12 @@
 "direction": "out",
 "edgeId": "e-ef9e4c53f5",
 "edgeLabel": "Co-launched the probe",
-"family": "oversight",
+"family": "role",
 "id": "missing-scientists-probe-2026",
 "l0": false,
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "note": "Comer and Burlison opened the investigation on 21 April 2026.",
-"predicate": "investigated",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,7 +110,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "investigated"
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -146,12 +146,12 @@
 "direction": "out",
 "edgeId": "e-dc7b31d087",
 "edgeLabel": "Reported to support the proposed select committee; never created one",
-"family": "analysis",
+"family": "conduct",
 "id": "uap-select-committee-proposal",
 "l0": false,
 "label": "Proposed House Select Committee on UAP",
 "note": "Burlison named Comer's support publicly on 12 March 2024.",
-"predicate": "affects",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -162,7 +162,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "affects"
+"verb": "supported"
 }
 ],
 "date": "2025-02-11",

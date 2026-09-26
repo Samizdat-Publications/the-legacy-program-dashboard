@@ -36,12 +36,12 @@
 "direction": "in",
 "edgeId": "e-628aacec41",
 "edgeLabel": "authored at Wayne State University",
-"family": "organisation",
+"family": "documents",
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "l0": false,
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "The DIA list gives Green's affiliation of record for this deliverable as Wayne State University. Wayne State is second only to EarthTech on the DIRD author list, supplying Green plus R. Genik's three human-interface papers.",
-"predicate": "produced",
+"predicate": "wrote",
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,7 +67,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "produced"
+"verb": "wrote"
 },
 {
 "claimTier": 1,

@@ -58,7 +58,7 @@
 "l0": false,
 "label": "Clifford E. Stone",
 "note": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -105,12 +105,12 @@
 "direction": "in",
 "edgeId": "e-ce4ab35e03",
 "edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
-"family": "role",
+"family": "media",
 "id": "daniel-sheehan",
 "l0": false,
 "label": "Daniel P. Sheehan",
 "note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
-"predicate": "held_post",
+"predicate": "appeared_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -126,7 +126,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "had in a post"
+"verb": "featured"
 },
 {
 "claimTier": 1,
@@ -141,8 +141,8 @@
 "l0": true,
 "label": "The Disclosure Project",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
-"predicate": "produced",
-"predicateSide": "object",
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-05-09",
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -198,12 +198,12 @@
 "direction": "in",
 "edgeId": "e-582c0fbf97",
 "edgeLabel": "Spoke at the podium, 9 May 2001",
-"family": "testimony",
+"family": "media",
 "id": "john-callahan",
 "l0": false,
 "label": "John Callahan",
 "note": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
-"predicate": "testified_at",
+"predicate": "appeared_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -214,7 +214,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "featured"
 },
 {
 "claimTier": 1,

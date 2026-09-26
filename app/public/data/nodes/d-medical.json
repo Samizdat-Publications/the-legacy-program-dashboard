@@ -88,13 +88,13 @@
 "direction": "out",
 "edgeId": "e-24416f9cae",
 "edgeLabel": "The only injury case that reached federal court",
-"family": "place-time",
+"family": "analysis",
 "id": "l-huffman-tx",
 "l0": false,
 "label": "Huffman / Dayton, Texas",
 "note": "Cash v. United States arose from the December 1980 encounter on FM 1485 and was dismissed in August 1986.",
-"predicate": "occurred_at",
-"predicateSide": "subject",
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-01-01",
@@ -104,7 +104,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "happened at"
+"verb": "has as an instance"
 }
 ],
 "coords": null,

@@ -67,12 +67,12 @@
 "direction": "out",
 "edgeId": "e-bda6bc5604",
 "edgeLabel": "requirement written to a capability only BAASS held",
-"family": "testimony",
+"family": "analysis",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
-"predicate": "made_claims_about",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "made claims about"
+"verb": "affects"
 }
 ],
 "coords": null,

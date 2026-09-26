@@ -36,12 +36,12 @@
 "direction": "out",
 "edgeId": "e-5c1ff77fec",
 "edgeLabel": "Same service, both functions",
-"family": "analysis",
+"family": "role",
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
-"predicate": "parallels",
+"predicate": "worked_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -52,7 +52,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "parallels"
+"verb": "worked with"
 },
 {
 "claimTier": 3,

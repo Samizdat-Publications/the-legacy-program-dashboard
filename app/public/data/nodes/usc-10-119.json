@@ -167,13 +167,13 @@
 "direction": "in",
 "edgeId": "e-56a4443e8f",
 "edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
-"family": "law",
+"family": "organisation",
 "id": "accm",
 "l0": false,
 "label": "Alternative Compensatory Control Measures (ACCM)",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
-"predicate": "governs",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -188,7 +188,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "governs"
+"verb": "does not include"
 },
 {
 "claimTier": 3,
@@ -198,13 +198,13 @@
 "direction": "in",
 "edgeId": "e-bfb79d4a7a",
 "edgeLabel": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
-"family": "other",
+"family": "organisation",
 "id": "bechtel-nevada",
 "l0": false,
 "label": "Bechtel Nevada Corporation",
 "note": "Atomic Energy Act Restricted Data authorities are a separate statutory classification scheme; material held under them by a DOE management and operating contractor is not reachable by the Sec. 119 reporting obligations Congress relies on. No document places UAP material under DOE authority.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-01",
@@ -219,7 +219,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "is connected to"
+"verb": "does not include"
 },
 {
 "claimTier": 3,
@@ -229,12 +229,12 @@
 "direction": "in",
 "edgeId": "e-236a5189be",
 "edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
-"family": "analysis",
+"family": "organisation",
 "id": "booz-allen",
 "l0": false,
 "label": "Booz Allen Hamilton",
 "note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -250,7 +250,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -436,13 +436,13 @@
 "direction": "in",
 "edgeId": "e-cd889583d8",
 "edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
-"family": "law",
+"family": "organisation",
 "id": "eo-13526",
 "l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "",
-"predicate": "governs",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -452,7 +452,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "governs"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -550,13 +550,13 @@
 "direction": "in",
 "edgeId": "e-06e33ef452",
 "edgeLabel": "A program can be designed and formally requested without ever crossing the congressional reporting threshold",
-"family": "law",
+"family": "organisation",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "AARO: 'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.' The government states the gap in its own defence.",
-"predicate": "governs",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -571,7 +571,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "governs"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -664,13 +664,13 @@
 "direction": "in",
 "edgeId": "e-79f7d5edec",
 "edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
-"family": "documents",
+"family": "organisation",
 "id": "usc-50-3348",
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(3) defines the term; 10 U.S.C. 119 uses it throughout without defining it. Section 3091a(b)(2)(A) cross-references 3348(g) for the definition.",
-"predicate": "cites",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -690,7 +690,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is cited by"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -700,13 +700,13 @@
 "direction": "in",
 "edgeId": "e-6a79a7612e",
 "edgeLabel": "excludes DoD, routing it to sec. 119",
-"family": "documents",
+"family": "organisation",
 "id": "usc-50-3348",
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
-"predicate": "cites",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -721,7 +721,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is cited by"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,

@@ -140,12 +140,12 @@
 "direction": "in",
 "edgeId": "e-f94b7db7df",
 "edgeLabel": "Earliest opened record of the claim, taken about two years after the alleged event",
-"family": "documents",
+"family": "testimony",
 "id": "scott-sorensen-notes-1990",
 "l0": false,
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations.",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -156,7 +156,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,

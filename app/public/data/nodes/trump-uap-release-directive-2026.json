@@ -116,7 +116,7 @@
 "l0": false,
 "label": "Donald J. Trump",
 "note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
-"predicate": "wrote",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -132,7 +132,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "was written by"
+"verb": "was published by"
 },
 {
 "claimTier": 3,
@@ -147,7 +147,7 @@
 "l0": false,
 "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
-"predicate": "contradicts",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -163,7 +163,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -173,12 +173,12 @@
 "direction": "in",
 "edgeId": "e-dfd399cc1a",
 "edgeLabel": "Named implementer; called it 'that executive order'",
-"family": "testimony",
+"family": "law",
 "id": "pete-hegseth",
 "l0": false,
 "label": "Pete Hegseth",
 "note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
-"predicate": "acknowledged",
+"predicate": "implements",
 "predicateSide": "object",
 "sources": [
 {
@@ -194,7 +194,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "was acknowledged by"
+"verb": "is implemented by"
 },
 {
 "claimTier": 2,

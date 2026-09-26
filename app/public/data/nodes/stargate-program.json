@@ -179,7 +179,7 @@
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -190,7 +190,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -340,7 +340,7 @@
 "l0": false,
 "label": "Russell Targ",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
-"predicate": "led",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -351,7 +351,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was led by"
+"verb": "had as a member"
 },
 {
 "claimTier": 2,

@@ -47,7 +47,7 @@
 "l0": false,
 "label": "The Cover-Up",
 "note": "GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system.",
-"predicate": "affects",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -58,7 +58,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "affects"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -177,12 +177,12 @@
 "direction": "in",
 "edgeId": "e-190fca4c68",
 "edgeLabel": "Ordered the destruction of the MKULTRA files, January 1973",
-"family": "conduct",
+"family": "analysis",
 "id": "sidney-gottlieb",
 "l0": false,
 "label": "Sidney Gottlieb",
 "note": "The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing.",
-"predicate": "acted_against",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -193,7 +193,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was the target of action by"
+"verb": "has as an instance"
 }
 ],
 "coords": null,

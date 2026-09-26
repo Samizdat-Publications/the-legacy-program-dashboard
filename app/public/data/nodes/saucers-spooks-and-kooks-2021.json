@@ -54,12 +54,12 @@
 "direction": "out",
 "edgeId": "e-716c382b71",
 "edgeLabel": "Obtained Levesque's confession across a multi-year correspondence",
-"family": "testimony",
+"family": "oversight",
 "id": "tal-levesque",
 "l0": false,
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
-"predicate": "brought_to_record",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -75,7 +75,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "brought to the record"
+"verb": "investigated"
 }
 ],
 "coords": null,

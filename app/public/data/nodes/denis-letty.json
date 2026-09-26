@@ -73,7 +73,7 @@
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
-"predicate": "led",
+"predicate": "founded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,7 +84,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "led"
+"verb": "founded"
 }
 ],
 "date": "1999-07-01",

@@ -91,13 +91,13 @@
 "direction": "out",
 "edgeId": "e-4185e51175",
 "edgeLabel": "Covert action is expressly outside the IC controlled access program regime",
-"family": "law",
+"family": "organisation",
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section C.3: 'Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.'",
-"predicate": "governs",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-19",
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -122,12 +122,12 @@
 "direction": "in",
 "edgeId": "e-fd4f2ad12e",
 "edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
-"family": "analysis",
+"family": "law",
 "id": "usc-50-3091",
 "l0": false,
 "label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
-"predicate": "affects",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,7 +143,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "affects"
+"verb": "governs"
 }
 ],
 "coords": null,

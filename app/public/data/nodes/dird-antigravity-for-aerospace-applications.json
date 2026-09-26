@@ -151,12 +151,12 @@
 "direction": "in",
 "edgeId": "e-ba96b8315b",
 "edgeLabel": "published and holds; DIA-08-1003-018",
-"family": "custody",
+"family": "documents",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -172,7 +172,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is held by"
+"verb": "was published by"
 },
 {
 "claimTier": 1,

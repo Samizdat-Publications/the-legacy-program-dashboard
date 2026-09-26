@@ -108,7 +108,7 @@
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +119,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -181,12 +181,12 @@
 "direction": "in",
 "edgeId": "e-b00c154646",
 "edgeLabel": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
-"family": "documents",
+"family": "law",
 "id": "sap-cover-mechanisms",
 "l0": false,
 "label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
-"predicate": "concerns",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -197,7 +197,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "concerns"
+"verb": "governs"
 }
 ],
 "coords": null,

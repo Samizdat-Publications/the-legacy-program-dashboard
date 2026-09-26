@@ -68,13 +68,13 @@
 "direction": "out",
 "edgeId": "e-a0edefad80",
 "edgeLabel": "Inferred identification with the anonymised page 29 interviewee",
-"family": "testimony",
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.",
-"predicate": "alleged_tie",
-"predicateSide": "either",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-02",
@@ -84,7 +84,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is alleged to be tied to"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -146,12 +146,12 @@
 "direction": "out",
 "edgeId": "e-86199651c0",
 "edgeLabel": "Named on the record as the custodian who supplied the written testimony",
-"family": "testimony",
+"family": "custody",
 "id": "steven-greer",
 "l0": false,
 "label": "Steven M. Greer",
 "note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
-"predicate": "brought_to_record",
+"predicate": "holds",
 "predicateSide": "object",
 "sources": [
 {
@@ -162,7 +162,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was brought to the record by"
+"verb": "is held by"
 }
 ],
 "date": null,

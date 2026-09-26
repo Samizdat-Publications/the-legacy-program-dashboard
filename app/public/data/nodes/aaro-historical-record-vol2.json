@@ -169,13 +169,13 @@
 "direction": "in",
 "edgeId": "e-f1ae8c9ff6",
 "edgeLabel": "Volume I explicitly defers its unresolved allegations to Volume II",
-"family": "organisation",
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I's scope statement commits Volume II to covering research from 1 November 2023 to 15 April 2024 plus the allegations left open.",
-"predicate": "succeeded",
-"predicateSide": "subject",
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -185,7 +185,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "succeeded"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -226,12 +226,12 @@
 "direction": "in",
 "edgeId": "e-087662ab2f",
 "edgeLabel": "Promised publication 'within months' in November 2024",
-"family": "denial",
+"family": "testimony",
 "id": "jon-kosloski",
 "l0": false,
 "label": "Jon T. Kosloski",
 "note": "Kosloski told reporters in November 2024 that Volume II would appear within months; it does not appear on AARO's Congressional and Press Products page as of 12 August 2026.",
-"predicate": "refused",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -247,7 +247,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,

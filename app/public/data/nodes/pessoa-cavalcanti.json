@@ -84,12 +84,12 @@
 "direction": "out",
 "edgeId": "e-0d6a5d9d9a",
 "edgeLabel": "Commanded the air defence organisation whose engagement he then wrote up",
-"family": "role",
+"family": "testimony",
 "id": "ev-noite-ovnis-1986",
 "l0": false,
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
-"predicate": "led",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,7 +110,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "led"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,

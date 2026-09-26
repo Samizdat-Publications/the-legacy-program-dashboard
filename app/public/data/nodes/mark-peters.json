@@ -106,7 +106,7 @@
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,7 +117,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 }
 ],
 "date": "2024-09-03",

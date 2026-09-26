@@ -211,8 +211,8 @@
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
-"predicate": "responded_to",
-"predicateSide": "subject",
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -222,7 +222,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "responded to"
+"verb": "followed from"
 },
 {
 "claimTier": 1,
@@ -232,12 +232,12 @@
 "direction": "in",
 "edgeId": "e-f158da06a7",
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
-"family": "role",
+"family": "documents",
 "id": "richard-cloete",
 "l0": false,
 "label": "Richard Cloete",
 "note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
-"predicate": "held_post",
+"predicate": "wrote",
 "predicateSide": "object",
 "sources": [
 {
@@ -248,7 +248,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -258,13 +258,13 @@
 "direction": "in",
 "edgeId": "e-0f90f618dc",
 "edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
-"family": "documents",
+"family": "role",
 "id": "sarah-little",
 "l0": false,
 "label": "Sarah Little",
 "note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
-"predicate": "studied",
-"predicateSide": "object",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-11-26",
@@ -274,7 +274,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was studied by"
+"verb": "worked with"
 },
 {
 "claimTier": 1,

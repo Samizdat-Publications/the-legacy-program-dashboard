@@ -103,7 +103,7 @@
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,

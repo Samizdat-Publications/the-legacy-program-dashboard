@@ -46,8 +46,8 @@
 "l0": false,
 "label": "Grady L. 'Barney' Barnett",
 "note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
-"predicate": "witnessed",
-"predicateSide": "object",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1997-01-01",
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,

@@ -132,12 +132,12 @@
 "direction": "in",
 "edgeId": "e-4ae4877705",
 "edgeLabel": "subject domain: zero-point/vacuum energy extraction",
-"family": "analysis",
+"family": "documents",
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
-"predicate": "exemplifies",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -158,7 +158,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "has as an instance"
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -230,7 +230,7 @@
 "l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
-"predicate": "concerns",
+"predicate": "studied",
 "predicateSide": "object",
 "sources": [
 {
@@ -241,7 +241,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is the subject of"
+"verb": "was studied by"
 }
 ],
 "coords": null,

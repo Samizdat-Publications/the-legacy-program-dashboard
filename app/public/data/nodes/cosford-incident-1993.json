@@ -73,12 +73,12 @@
 "direction": "out",
 "edgeId": "e-c67290f01a",
 "edgeLabel": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
-"family": "documents",
+"family": "custody",
 "id": "uk-defe24",
 "l0": false,
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.",
-"predicate": "concerns",
+"predicate": "holds",
 "predicateSide": "object",
 "sources": [
 {
@@ -89,7 +89,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "is the subject of"
+"verb": "is held by"
 },
 {
 "claimTier": 1,

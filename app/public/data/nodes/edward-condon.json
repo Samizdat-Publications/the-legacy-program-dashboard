@@ -137,12 +137,12 @@
 "direction": "in",
 "edgeId": "e-6a7962d86b",
 "edgeLabel": "Condon praised him by name in the study he directed",
-"family": "testimony",
+"family": "conduct",
 "id": "donald-h-menzel",
 "l0": false,
 "label": "Donald H. Menzel",
 "note": "The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported.",
-"predicate": "acknowledged",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -153,7 +153,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "acknowledged"
+"verb": "supported"
 },
 {
 "claimTier": 2,
@@ -163,12 +163,12 @@
 "direction": "out",
 "edgeId": "e-e5faf782b0",
 "edgeLabel": "Condon fired the investigators who surfaced Low's memo",
-"family": "analysis",
+"family": "conduct",
 "id": "robert-low",
 "l0": false,
 "label": "Robert J. Low",
 "note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
-"predicate": "affects",
+"predicate": "acted_against",
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,7 +179,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "affects"
+"verb": "took action against"
 }
 ],
 "date": "1969-01-08",

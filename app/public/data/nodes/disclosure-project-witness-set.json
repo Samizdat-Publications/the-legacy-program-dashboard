@@ -175,7 +175,7 @@
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere.",
-"predicate": "made_claims_about",
+"predicate": "contradicts",
 "predicateSide": "subject",
 "sources": [
 {
@@ -196,7 +196,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "made claims about"
+"verb": "contradicts"
 },
 {
 "claimTier": 3,

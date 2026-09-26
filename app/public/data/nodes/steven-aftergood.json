@@ -103,12 +103,12 @@
 "direction": "out",
 "edgeId": "e-104d58da85",
 "edgeLabel": "Created the first segment of the record by litigation",
-"family": "organisation",
+"family": "testimony",
 "id": "intel-budget-disclosure-record",
 "l0": false,
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
-"predicate": "produced",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +119,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "produced"
+"verb": "brought to the record"
 }
 ],
 "date": "2021-01-01",

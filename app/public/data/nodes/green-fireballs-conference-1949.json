@@ -139,12 +139,12 @@
 "direction": "in",
 "edgeId": "e-99e10f0db9",
 "edgeLabel": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
-"family": "place-time",
+"family": "testimony",
 "id": "lincoln-lapaz",
 "l0": false,
 "label": "Lincoln LaPaz",
 "note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
-"predicate": "led_to",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -155,7 +155,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "followed from"
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

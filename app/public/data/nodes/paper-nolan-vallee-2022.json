@@ -40,7 +40,7 @@
 "l0": false,
 "label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
 "note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
-"predicate": "studied",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -56,7 +56,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "studied"
+"verb": "concerns"
 },
 {
 "claimTier": 3,
@@ -211,12 +211,12 @@
 "direction": "in",
 "edgeId": "e-9a84fa729f",
 "edgeLabel": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
-"family": "media",
+"family": "documents",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
-"predicate": "reported_on",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -227,7 +227,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -243,7 +243,7 @@
 "label": "Nolan Laboratory, Stanford University School of Medicine",
 "note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
 "predicate": "analysed_material",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-01-01",
@@ -258,7 +258,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had material analysed by"
+"verb": "analysed material from"
 }
 ],
 "coords": null,

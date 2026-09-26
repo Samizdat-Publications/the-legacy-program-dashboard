@@ -35,12 +35,12 @@
 "direction": "out",
 "edgeId": "e-0c229c96b4",
 "edgeLabel": "CAUS was the plaintiff in Civil Action No. 80-1562",
-"family": "role",
+"family": "place-time",
 "id": "caus-v-nsa",
 "l0": false,
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
-"predicate": "led",
+"predicate": "led_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -56,7 +56,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "led"
+"verb": "led to"
 },
 {
 "claimTier": 2,

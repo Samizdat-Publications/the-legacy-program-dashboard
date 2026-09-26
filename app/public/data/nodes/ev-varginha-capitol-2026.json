@@ -84,7 +84,7 @@
 "l0": false,
 "label": "Senador Eduardo Girão",
 "note": "Girão, who led a 2022 Brazilian Senate UAP hearing, met Rep. Eric Burlison for the first time at the National Press Club event.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "has a first-hand account from"
+"verb": "heard testimony from"
 },
 {
 "claimTier": 2,
@@ -105,13 +105,13 @@
 "direction": "in",
 "edgeId": "e-e71299ed35",
 "edgeLabel": "1996 witnesses testify to US legislators thirty years later",
-"family": "place-time",
+"family": "testimony",
 "id": "ev-varginha-1996",
 "l0": false,
 "label": "Varginha incident, Minas Gerais, January 1996",
 "note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
-"predicate": "led_to",
-"predicateSide": "object",
+"predicate": "brought_to_record",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -121,7 +121,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "followed from"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -136,7 +136,7 @@
 "l0": false,
 "label": "Dr Ítalo Venturelli",
 "note": "Kean and Blumenthal had sole media access to the closed-door session and reported his testimony verbatim.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "heard testimony from"
 }
 ],
 "coords": null,

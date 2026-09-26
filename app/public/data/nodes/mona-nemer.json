@@ -93,12 +93,12 @@
 "direction": "out",
 "edgeId": "e-1283a7aeb3",
 "edgeLabel": "Chief Science Advisor whose office produced the report",
-"family": "role",
+"family": "organisation",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
-"predicate": "led",
+"predicate": "ran",
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led"
+"verb": "ran"
 }
 ],
 "date": "2025-07-01",

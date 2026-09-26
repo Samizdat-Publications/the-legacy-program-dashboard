@@ -264,8 +264,8 @@
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The text filed as S.Amdt. 797 travelled into S. 2226 as Division G, Secs. 9001-9015, which the Senate passed on 27 July 2023.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "same_as",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-07-27",
@@ -280,7 +280,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is part of"
+"verb": "is the same as"
 }
 ],
 "coords": null,

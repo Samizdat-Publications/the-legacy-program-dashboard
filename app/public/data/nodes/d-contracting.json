@@ -129,12 +129,12 @@
 "direction": "out",
 "edgeId": "e-697f9226c1",
 "edgeLabel": "Vehicle and appropriation",
-"family": "analysis",
+"family": "organisation",
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "The contract vehicle is the visible end of the money; the appropriation and transfer authorities are the invisible end.",
-"predicate": "affects",
+"predicate": "part_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +145,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "affects"
+"verb": "is part of"
 },
 {
 "claimTier": 1,

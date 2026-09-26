@@ -97,12 +97,12 @@
 "direction": "out",
 "edgeId": "e-78168a1d36",
 "edgeLabel": "The project's own publication",
-"family": "organisation",
+"family": "documents",
 "id": "disclosure-project",
 "l0": true,
 "label": "The Disclosure Project",
 "note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
-"predicate": "produced",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -113,7 +113,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -123,12 +123,12 @@
 "direction": "out",
 "edgeId": "e-441c880888",
 "edgeLabel": "The Project's own compiled briefing document, April 2001",
-"family": "organisation",
+"family": "documents",
 "id": "disclosure-project",
 "l0": true,
 "label": "The Disclosure Project",
 "note": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
-"predicate": "produced",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -139,7 +139,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was produced by"
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -180,7 +180,7 @@
 "l0": false,
 "label": "John Callahan",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -191,7 +191,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "heard testimony from"
 },
 {
 "claimTier": 1,
@@ -258,7 +258,7 @@
 "l0": false,
 "label": "Mark McCandlish",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, which is the form the existing node already uses. NOTHING OPENED PLACES HIM AT THE 9 MAY 2001 PODIUM, and this edge must never be read as implying it.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -269,7 +269,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "heard testimony from"
 },
 {
 "claimTier": 1,

@@ -88,12 +88,12 @@
 "direction": "in",
 "edgeId": "e-e5faf782b0",
 "edgeLabel": "Condon fired the investigators who surfaced Low's memo",
-"family": "analysis",
+"family": "conduct",
 "id": "edward-condon",
 "l0": false,
 "label": "Edward U. Condon",
 "note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
-"predicate": "affects",
+"predicate": "acted_against",
 "predicateSide": "object",
 "sources": [
 {
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "was the target of action by"
 },
 {
 "claimTier": 1,

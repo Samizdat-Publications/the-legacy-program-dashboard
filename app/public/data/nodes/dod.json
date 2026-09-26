@@ -212,12 +212,12 @@
 "direction": "out",
 "edgeId": "e-a3f5cbdc15",
 "edgeLabel": "The Department is the account holder for every published classified line",
-"family": "money",
+"family": "custody",
 "id": "classified-programs-line",
 "l0": false,
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "All 25 'CLASSIFIED PROGRAMS' rows in the FY2026 funding tables sit in Department of Defense appropriation accounts - Army, Navy, Air Force, Space Force, Defense-Wide and Special Operations. Attested by the enacted funding tables.",
-"predicate": "funded",
+"predicate": "holds",
 "predicateSide": "subject",
 "sources": [
 {
@@ -228,7 +228,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "funded"
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -243,8 +243,8 @@
 "l0": false,
 "label": "Conventional Prompt Global Strike",
 "note": "The Air Force, Navy and Army each run a component of the effort, and the Pentagon renamed it from prompt global strike to prompt strike in 2012.",
-"predicate": "ran",
-"predicateSide": "subject",
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-07-16",
@@ -254,7 +254,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "ran"
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -316,12 +316,12 @@
 "direction": "in",
 "edgeId": "e-68c5b48746",
 "edgeLabel": "First protected disclosure to the DoD Inspector General, July 2021",
-"family": "oversight",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The Debrief records that Grusch provided classified information to the DoD IG in July 2021 regarding the concealment of UAP-related material from Congress, ten months before the ICIG filing. The reprisal complaint alleges his identity and those communications were later disclosed outside the IG channel.",
-"predicate": "reports_to",
+"predicate": "told",
 "predicateSide": "object",
 "sources": [
 {
@@ -337,7 +337,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "receives reports from"
+"verb": "received an account from"
 },
 {
 "claimTier": 1,
@@ -560,13 +560,13 @@
 "direction": "out",
 "edgeId": "e-9a878750ea",
 "edgeLabel": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
-"family": "denial",
+"family": "other",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison put both on the record at the 9 September 2025 hearing: 'not an elected official, but someone in staff blocked us. And I have had it.'",
-"predicate": "refused",
-"predicateSide": "subject",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -576,7 +576,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -1000,8 +1000,8 @@
 "l0": false,
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "The directive is issued under the authority of the Assistant Secretary of Defense (C3I) and binds every DoD component.",
-"predicate": "created",
-"predicateSide": "subject",
+"predicate": "governs",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1993-05-25",
@@ -1011,7 +1011,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "created"
+"verb": "is governed by"
 },
 {
 "claimTier": 2,
@@ -1021,13 +1021,13 @@
 "direction": "in",
 "edgeId": "e-c34cbffa9d",
 "edgeLabel": "Release volume without release quality",
-"family": "testimony",
+"family": "organisation",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
-"predicate": "contradicts",
-"predicateSide": "object",
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-13",
@@ -1037,7 +1037,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "ran"
 },
 {
 "claimTier": 1,

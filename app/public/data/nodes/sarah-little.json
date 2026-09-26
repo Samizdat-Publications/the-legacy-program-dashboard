@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-0f90f618dc",
 "edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
-"family": "documents",
+"family": "role",
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
-"predicate": "studied",
-"predicateSide": "subject",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-11-26",
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "studied"
+"verb": "worked with"
 },
 {
 "claimTier": 1,

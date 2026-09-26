@@ -41,12 +41,12 @@
 "direction": "out",
 "edgeId": "e-dc422e2331",
 "edgeLabel": "AARO's 2024 finding restates the 1994-1997 Air Force position",
-"family": "testimony",
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Twenty-seven years later the successor office reaffirmed the MOGUL attribution without new primary records, because the primary records GAO identified as destroyed have not been recovered.",
-"predicate": "corroborated",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -62,7 +62,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "is corroborated by"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,

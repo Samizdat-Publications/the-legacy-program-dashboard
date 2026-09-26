@@ -119,13 +119,13 @@
 "direction": "out",
 "edgeId": "e-748a157dea",
 "edgeLabel": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
-"family": "denial",
+"family": "analysis",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
-"predicate": "omitted",
-"predicateSide": "object",
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -140,7 +140,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is left out of"
+"verb": "affects"
 }
 ],
 "coords": null,

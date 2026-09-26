@@ -53,12 +53,12 @@
 "direction": "out",
 "edgeId": "e-c72c263707",
 "edgeLabel": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
-"family": "documents",
+"family": "testimony",
 "id": "arv-fluxliner",
 "l0": true,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated.",
-"predicate": "studied",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,7 +74,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "studied"
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -84,12 +84,12 @@
 "direction": "out",
 "edgeId": "e-0cc477250c",
 "edgeLabel": "Hosts his coroner's file and publishes a reconstruction built from his talks",
-"family": "media",
+"family": "custody",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement.",
-"predicate": "reported_on",
+"predicate": "holds",
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,7 +105,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "reported on"
+"verb": "holds"
 },
 {
 "claimTier": 1,

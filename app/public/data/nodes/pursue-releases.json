@@ -212,13 +212,13 @@
 "direction": "in",
 "edgeId": "e-e34fc1c2ae",
 "edgeLabel": "recommendations the release programme did not adopt",
-"family": "testimony",
+"family": "denial",
 "id": "aaro-2025-workshop-white-paper",
 "l0": false,
 "label": "AARO 2025 UAP workshop white paper (February 2026)",
 "note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
-"predicate": "contradicts",
-"predicateSide": "object",
+"predicate": "refused",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -233,7 +233,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "is contradicted by"
+"verb": "refused"
 },
 {
 "claimTier": 3,
@@ -491,7 +491,7 @@
 "l0": false,
 "label": "The Black Vault searchable PURSUE files archive",
 "note": "Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -502,7 +502,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was studied by"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -543,7 +543,7 @@
 "l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
-"predicate": "concerns",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -554,7 +554,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is the subject of"
+"verb": "is cited by"
 },
 {
 "claimTier": 2,
@@ -616,13 +616,13 @@
 "direction": "out",
 "edgeId": "e-c34cbffa9d",
 "edgeLabel": "Release volume without release quality",
-"family": "testimony",
+"family": "organisation",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
-"predicate": "contradicts",
-"predicateSide": "subject",
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-13",
@@ -632,7 +632,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "contradicts"
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -668,12 +668,12 @@
 "direction": "in",
 "edgeId": "e-37c43f146f",
 "edgeLabel": "imagery released, methodology withheld",
-"family": "testimony",
+"family": "denial",
 "id": "dodig-2021-000806-foia",
 "l0": false,
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
-"predicate": "contradicts",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -689,7 +689,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "contradicts"
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -828,12 +828,12 @@
 "direction": "out",
 "edgeId": "e-e08a48e3fc",
 "edgeLabel": "Metadata stripping defeats the study team's core recommendation",
-"family": "conduct",
+"family": "analysis",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
-"predicate": "acted_against",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -849,7 +849,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "took action against"
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -952,12 +952,12 @@
 "direction": "out",
 "edgeId": "e-6f531eb64f",
 "edgeLabel": "physical release locations",
-"family": "custody",
+"family": "documents",
 "id": "pursue-bundle-urls",
 "l0": false,
 "label": "PURSUE release bundle URLs (five tranches, documents and video)",
 "note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
-"predicate": "holds",
+"predicate": "released",
 "predicateSide": "subject",
 "sources": [
 {
@@ -968,7 +968,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "holds"
+"verb": "released"
 },
 {
 "claimTier": 1,
@@ -1164,12 +1164,12 @@
 "direction": "in",
 "edgeId": "e-c96292e7fb",
 "edgeLabel": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
-"family": "denial",
+"family": "analysis",
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
-"predicate": "disputed",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -1180,7 +1180,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is disputed by"
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -1221,12 +1221,12 @@
 "direction": "in",
 "edgeId": "e-f29e7147c3",
 "edgeLabel": "Sol issued press statements on each major PURSUE release",
-"family": "place-time",
+"family": "media",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the PURSUE releases, positioning itself as the interpretive authority on the released record.",
-"predicate": "responded_to",
+"predicate": "reported_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -1237,7 +1237,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "drew a response from"
+"verb": "was reported on by"
 },
 {
 "claimTier": 2,
@@ -1345,12 +1345,12 @@
 "direction": "in",
 "edgeId": "e-90f215c57a",
 "edgeLabel": "ODNI coordinating authority for the release programme",
-"family": "oversight",
+"family": "organisation",
 "id": "tulsi-gabbard",
 "l0": false,
 "label": "Tulsi Gabbard",
 "note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
-"predicate": "oversaw",
+"predicate": "ran",
 "predicateSide": "object",
 "sources": [
 {
@@ -1366,7 +1366,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was overseen by"
+"verb": "was run by"
 },
 {
 "claimTier": 2,
@@ -1412,7 +1412,7 @@
 "l0": false,
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "object",
 "sources": [
 {
@@ -1423,7 +1423,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is governed by"
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -1474,12 +1474,12 @@
 "direction": "in",
 "edgeId": "e-90873ab7a0",
 "edgeLabel": "Statutory backstop for an executive release programme",
-"family": "law",
+"family": "analysis",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "Burlison's own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE's defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.",
-"predicate": "governs",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -1495,7 +1495,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "is affected by"
 },
 {
 "claimTier": 1,

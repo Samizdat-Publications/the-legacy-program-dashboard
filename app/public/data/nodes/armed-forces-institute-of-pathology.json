@@ -79,13 +79,13 @@
 "direction": "out",
 "edgeId": "e-8e70e4ce76",
 "edgeLabel": "Doty places Green at the Institute, then corrects himself within the same passage",
-"family": "place-time",
+"family": "testimony",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
-"predicate": "located_at",
-"predicateSide": "object",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-21",
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the location of"
+"verb": "is alleged to be tied to"
 }
 ],
 "coords": null,

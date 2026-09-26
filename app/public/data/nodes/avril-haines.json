@@ -47,12 +47,12 @@
 "direction": "out",
 "edgeId": "e-0fc68b0385",
 "edgeLabel": "DNI who transmitted the assessment to Congress",
-"family": "documents",
+"family": "testimony",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "published"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,

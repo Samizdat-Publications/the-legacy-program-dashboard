@@ -102,13 +102,13 @@
 "direction": "out",
 "edgeId": "e-c5cc37f1cc",
 "edgeLabel": "Signed the CIA reply to Keyhoe",
-"family": "testimony",
+"family": "conduct",
 "id": "donald-keyhoe",
 "l0": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
-"predicate": "told",
-"predicateSide": "subject",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-03",
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "passed an account to"
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -128,12 +128,12 @@
 "direction": "out",
 "edgeId": "e-e38b67d35a",
 "edgeLabel": "Air Force intelligence chief at Blue Book's creation",
-"family": "place-time",
+"family": "role",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The edge exists to carry the correction: the office he held in March 1952 was USAF Director of Intelligence, not a CIA post, and the transcript that surfaced him has it the other way round.",
-"predicate": "preceded",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "held a post at"
 },
 {
 "claimTier": 1,

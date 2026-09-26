@@ -127,13 +127,13 @@
 "direction": "in",
 "edgeId": "e-91256df644",
 "edgeLabel": "",
-"family": "organisation",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.",
-"predicate": "ran",
-"predicateSide": "subject",
+"predicate": "contracted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2008-08-18",
@@ -148,7 +148,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "ran"
+"verb": "was contracted by"
 },
 {
 "claimTier": 1,
@@ -184,12 +184,12 @@
 "direction": "in",
 "edgeId": "e-bda6bc5604",
 "edgeLabel": "requirement written to a capability only BAASS held",
-"family": "testimony",
+"family": "analysis",
 "id": "aawsap-solicitation",
 "l0": false,
 "label": "DIA Solicitation HHM402-08-R-0211",
 "note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
-"predicate": "made_claims_about",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -200,7 +200,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is the subject of claims by"
+"verb": "is affected by"
 },
 {
 "claimTier": 2,
@@ -360,7 +360,7 @@
 "l0": false,
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
 "note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
-"predicate": "funded",
+"predicate": "contracted",
 "predicateSide": "subject",
 "sources": [
 {
@@ -381,7 +381,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "funded"
+"verb": "contracted"
 },
 {
 "claimTier": 2,
@@ -634,13 +634,13 @@
 "direction": "in",
 "edgeId": "e-3334b97519",
 "edgeLabel": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
-"family": "organisation",
+"family": "place-time",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
-"predicate": "succeeded",
-"predicateSide": "subject",
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-10",
@@ -655,7 +655,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "succeeded"
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -665,12 +665,12 @@
 "direction": "in",
 "edgeId": "e-f709769690",
 "edgeLabel": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
-"family": "documents",
+"family": "oversight",
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "Basterfield and Cecotti's reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in 'Skinwalkers at the Pentagon' includes the BAASS March 2009 monthly report 'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler', the August 2009 monthly report 'Relations with South American organizations', and a July 2009 report 'Project Colares/Brazil, Outreach to South America'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said 'They wanted artifacts from UFOs, such as metamaterials'; Fortaleza researcher Helio Loyola said 'Here in Brazil they didn't do any research. They took and photographed what the ufologists saw and documented.' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.",
-"predicate": "studied",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -701,7 +701,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "studied"
+"verb": "investigated"
 },
 {
 "claimTier": 1,

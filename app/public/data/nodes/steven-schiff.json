@@ -147,12 +147,12 @@
 "direction": "out",
 "edgeId": "e-9a707bbfad",
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
-"family": "place-time",
+"family": "oversight",
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
-"predicate": "led_to",
+"predicate": "requested",
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "led to"
+"verb": "made a request of"
 },
 {
 "claimTier": 1,

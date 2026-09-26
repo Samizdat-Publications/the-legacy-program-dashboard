@@ -134,13 +134,13 @@
 "direction": "out",
 "edgeId": "e-7956425c5c",
 "edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
-"family": "role",
+"family": "conduct",
 "id": "george-kocher",
 "l0": false,
 "label": "George Kocher",
 "note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
-"predicate": "held_post",
-"predicateSide": "object",
+"predicate": "supported",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -150,7 +150,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "supported"
 },
 {
 "claimTier": 2,
@@ -279,13 +279,13 @@
 "direction": "in",
 "edgeId": "e-94d5b0d894",
 "edgeLabel": "Doctorate from the RAND Graduate School",
-"family": "role",
+"family": "other",
 "id": "samantha-ravich",
 "l0": false,
 "label": "Samantha F. Ravich",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
-"predicate": "member_of",
-"predicateSide": "object",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-19",
@@ -295,7 +295,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "is connected to"
 }
 ],
 "coords": null,

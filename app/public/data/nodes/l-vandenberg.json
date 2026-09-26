@@ -173,12 +173,12 @@
 "direction": "in",
 "edgeId": "e-b41ad4bb4b",
 "edgeLabel": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
-"family": "place-time",
+"family": "role",
 "id": "robert-jacobs",
 "l0": false,
 "label": "Robert M. Jacobs",
 "note": "His own published statement of his post, independently confirmed as to unit and role by the project engineer.",
-"predicate": "located_at",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -194,7 +194,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "had in a post"
 }
 ],
 "coords": [

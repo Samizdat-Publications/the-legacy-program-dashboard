@@ -109,13 +109,13 @@
 "direction": "in",
 "edgeId": "e-96b3e80718",
 "edgeLabel": "Recorded him in August 1996 and again on 6 May 2011, and publishes his letter",
-"family": "testimony",
+"family": "media",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Meiwald was found by Salas, the claimant, and published by Salas and Hastings.",
-"predicate": "told",
-"predicateSide": "subject",
+"predicate": "interviewed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -125,7 +125,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "passed an account to"
+"verb": "was interviewed by"
 }
 ],
 "date": "1996-10-01",

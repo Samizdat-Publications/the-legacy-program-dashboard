@@ -91,13 +91,13 @@
 "direction": "out",
 "edgeId": "e-aaedf67eb7",
 "edgeLabel": "NASA UAP study participant testifying on stigma and data policy alongside AARO's remit",
-"family": "analysis",
+"family": "testimony",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Gold's testimony argued the problem is stigma and data quality as much as classification.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "made_claims_about",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "parallels"
+"verb": "made claims about"
 },
 {
 "claimTier": 2,

@@ -41,12 +41,12 @@
 "direction": "in",
 "edgeId": "e-7edc019ab1",
 "edgeLabel": "The DNI must concur in the appointment to the office she held",
-"family": "law",
+"family": "role",
 "id": "betty-sapp",
 "l0": false,
 "label": "Betty J. Sapp",
 "note": "The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense's recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table.",
-"predicate": "governs",
+"predicate": "appointed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "governs"
+"verb": "appointed"
 },
 {
 "claimTier": 1,
@@ -67,12 +67,12 @@
 "direction": "in",
 "edgeId": "e-d6236a07f3",
 "edgeLabel": "Senior partner was ODNI's Intelligence Community Inspector General",
-"family": "role",
+"family": "other",
 "id": "compass-rose-legal-group",
 "l0": false,
 "label": "Compass Rose Legal Group",
 "note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
-"predicate": "worked_with",
+"predicate": "connected_to",
 "predicateSide": "either",
 "sources": [
 {
@@ -93,7 +93,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "worked with"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -357,13 +357,13 @@
 "direction": "in",
 "edgeId": "e-41ac157fba",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
-"family": "role",
+"family": "oversight",
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "reports_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-25",
@@ -373,7 +373,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "receives reports from"
 },
 {
 "claimTier": 2,
@@ -440,13 +440,13 @@
 "direction": "in",
 "edgeId": "e-3aca902dec",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment",
-"family": "oversight",
+"family": "role",
 "id": "ousdi",
 "l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
-"predicate": "reports_to",
-"predicateSide": "object",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-06-25",
@@ -456,7 +456,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -507,12 +507,12 @@
 "direction": "in",
 "edgeId": "e-a804d0395f",
 "edgeLabel": "Established by ODNI with FBI support",
-"family": "role",
+"family": "law",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "ODNI announced the council following the PURSUE records releases; the FBI is named as supporting.",
-"predicate": "founded",
+"predicate": "created",
 "predicateSide": "subject",
 "sources": [
 {
@@ -523,7 +523,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "founded"
+"verb": "created"
 }
 ],
 "coords": null,

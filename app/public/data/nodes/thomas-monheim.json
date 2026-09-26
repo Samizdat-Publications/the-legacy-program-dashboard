@@ -116,7 +116,7 @@
 "l0": false,
 "label": "Inspector General of the Intelligence Community",
 "note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 2,

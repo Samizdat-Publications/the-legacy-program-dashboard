@@ -46,7 +46,7 @@
 "l0": false,
 "label": "509th Bomb Group",
 "note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
-"predicate": "investigated",
+"predicate": "requested",
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,7 +67,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "investigated"
+"verb": "made a request of"
 },
 {
 "claimTier": 1,
@@ -294,12 +294,12 @@
 "direction": "in",
 "edgeId": "e-40a47828ba",
 "edgeLabel": "Air Force SAP directive bars congressional briefings without SAPCO approval",
-"family": "denial",
+"family": "law",
 "id": "saf-aaz",
 "l0": false,
 "label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
-"predicate": "refused",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -320,7 +320,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "was refused by"
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -361,7 +361,7 @@
 "l0": false,
 "label": "Tom Cole",
 "note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -382,7 +382,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,

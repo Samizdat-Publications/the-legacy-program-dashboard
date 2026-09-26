@@ -151,12 +151,12 @@
 "direction": "out",
 "edgeId": "e-0640577000",
 "edgeLabel": "Author of the statute publicly states the obligation is unmet",
-"family": "testimony",
+"family": "denial",
 "id": "dow-uap-file-release-2026",
 "l0": false,
 "label": "Department of War release of UAP files",
 "note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
-"predicate": "made_claims_about",
+"predicate": "disputed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -172,7 +172,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "made claims about"
+"verb": "disputes"
 },
 {
 "claimTier": 1,

@@ -252,13 +252,13 @@
 "direction": "out",
 "edgeId": "e-775f7b84b4",
 "edgeLabel": "House-adopted amendment against a Senate base text with no UAP provisions",
-"family": "analysis",
+"family": "organisation",
 "id": "ndaa-fy2027-s4784",
 "l0": false,
 "label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
 "note": "The House framework must survive conference against a Senate reported bill (S. 4784, S. Rept. 119-127) containing zero UAP provisions - the second consecutive cycle in which the subject is absent from the Senate base text. The 2023 precedent is that the eminent-domain and review-board provisions were stripped in conference.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-22",
@@ -273,7 +273,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is affected by"
+"verb": "falls outside"
 },
 {
 "claimTier": 2,
@@ -283,12 +283,12 @@
 "direction": "out",
 "edgeId": "e-90873ab7a0",
 "edgeLabel": "Statutory backstop for an executive release programme",
-"family": "law",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Burlison's own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE's defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.",
-"predicate": "governs",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -304,7 +304,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "affects"
 },
 {
 "claimTier": 3,
@@ -314,13 +314,13 @@
 "direction": "in",
 "edgeId": "e-72e9744ede",
 "edgeLabel": "unchartered body versus Senate-confirmed board",
-"family": "place-time",
+"family": "analysis",
 "id": "pursue-task-force",
 "l0": false,
 "label": "PURSUE Task Force",
 "note": "The amendment's Senate-confirmed Records Review Board is the constitutional answer to a task force exercising declassification authority with no published charter.",
-"predicate": "responded_to",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-01",
@@ -335,7 +335,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "responded to"
+"verb": "parallels"
 }
 ],
 "coords": null,

@@ -85,12 +85,12 @@
 "direction": "out",
 "edgeId": "e-5ea45d9614",
 "edgeLabel": "The craft claimed to deliver them",
-"family": "documents",
+"family": "testimony",
 "id": "pais-patent-imrd",
 "l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +101,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -111,13 +111,13 @@
 "direction": "out",
 "edgeId": "e-ab522e8de8",
 "edgeLabel": "Four of five itemised as design goals",
-"family": "documents",
+"family": "analysis",
 "id": "pax-205-disclosure",
 "l0": false,
 "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
 "note": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "concerns"
+"verb": "parallels"
 }
 ],
 "coords": null,

@@ -160,13 +160,13 @@
 "direction": "out",
 "edgeId": "e-c46cc80ccf",
 "edgeLabel": "19.7 per cent of analysed objects were unknowns, rising with report quality",
-"family": "documents",
+"family": "organisation",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-05-05",
@@ -176,7 +176,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "concerns"
+"verb": "was produced by"
 },
 {
 "claimTier": 1,

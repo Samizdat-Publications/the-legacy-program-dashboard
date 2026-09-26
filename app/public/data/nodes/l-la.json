@@ -35,12 +35,12 @@
 "direction": "in",
 "edgeId": "e-c90c7f9c2c",
 "edgeLabel": "The most-repeated custody allegation names Lockheed and California",
-"family": "custody",
+"family": "place-time",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
-"predicate": "alleged_to_hold",
+"predicate": "located_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to have material held by"
+"verb": "is the location of"
 },
 {
 "claimTier": 1,

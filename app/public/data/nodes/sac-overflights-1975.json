@@ -132,12 +132,12 @@
 "direction": "in",
 "edgeId": "e-0e72dd782f",
 "edgeLabel": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
-"family": "documents",
+"family": "oversight",
 "id": "clear-intent-1984",
 "l0": false,
 "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
 "note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
-"predicate": "studied",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -148,7 +148,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was studied by"
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -215,12 +215,12 @@
 "direction": "out",
 "edgeId": "e-2501ad2c53",
 "edgeLabel": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
-"family": "oversight",
+"family": "testimony",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records.",
-"predicate": "investigated",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -236,7 +236,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,

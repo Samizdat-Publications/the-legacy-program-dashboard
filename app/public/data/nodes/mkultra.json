@@ -53,12 +53,12 @@
 "direction": "in",
 "edgeId": "e-6d5a02a3cd",
 "edgeLabel": "Authorized MKULTRA as DCI, 13 April 1953",
-"family": "role",
+"family": "law",
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
-"predicate": "founded",
+"predicate": "created",
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was founded by"
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -183,12 +183,12 @@
 "direction": "in",
 "edgeId": "e-6f72b68362",
 "edgeLabel": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
-"family": "oversight",
+"family": "documents",
 "id": "hearing-2026-06-30",
 "l0": false,
 "label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026",
 "note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
-"predicate": "investigated",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -199,7 +199,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -209,12 +209,12 @@
 "direction": "in",
 "edgeId": "e-ecbd1ca66a",
 "edgeLabel": "The FOIA request that caused the recovery of the surviving MKULTRA file",
-"family": "place-time",
+"family": "testimony",
 "id": "john-marks-foia-f-76-374",
 "l0": false,
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
-"predicate": "led_to",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -225,7 +225,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "followed from"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -235,13 +235,13 @@
 "direction": "in",
 "edgeId": "e-7fcf81429f",
 "edgeLabel": "The 1950 predecessor of the 1953 programme",
-"family": "place-time",
+"family": "organisation",
 "id": "project-bluebird",
 "l0": false,
 "label": "Project BLUEBIRD",
 "note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
-"predicate": "preceded",
-"predicateSide": "object",
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-08-03",
@@ -251,7 +251,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came after"
+"verb": "succeeded"
 },
 {
 "claimTier": 1,

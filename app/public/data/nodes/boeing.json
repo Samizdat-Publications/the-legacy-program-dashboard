@@ -35,12 +35,12 @@
 "direction": "in",
 "edgeId": "e-06746fc4a7",
 "edgeLabel": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
-"family": "testimony",
+"family": "place-time",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution.",
-"predicate": "alleged_tie",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is alleged to be tied to"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-5dd3289eab",
 "edgeLabel": "Boeing contractors were the observers in the 2003 Vandenberg red square incident",
-"family": "testimony",
+"family": "documents",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist.",
-"predicate": "witnessed",
-"predicateSide": "subject",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -123,8 +123,8 @@
 "l0": false,
 "label": "McDonnell Douglas Corporation",
 "note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
-"predicate": "succeeded",
-"predicateSide": "subject",
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -134,7 +134,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "succeeded"
+"verb": "includes"
 }
 ],
 "coords": null,

@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-053e6d6bd3",
 "edgeLabel": "published as DOW-UAP-D098",
-"family": "organisation",
+"family": "documents",
 "id": "pursue-r05-identifiers",
 "l0": false,
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is part of"
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,

@@ -52,7 +52,7 @@
 "l0": false,
 "label": "Betty J. Sapp",
 "note": "Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 3,
@@ -374,7 +374,7 @@
 "l0": false,
 "label": "William B. Adkins",
 "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -390,7 +390,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 }
 ],
 "coords": null,

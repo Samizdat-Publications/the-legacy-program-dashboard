@@ -131,12 +131,12 @@
 "direction": "in",
 "edgeId": "e-6822c0b550",
 "edgeLabel": "The category this Act invented is the one the executive order cannot reach",
-"family": "law",
+"family": "organisation",
 "id": "atomic-energy-act-1946",
 "l0": false,
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
-"predicate": "governs",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -302,13 +302,13 @@
 "direction": "out",
 "edgeId": "e-cd889583d8",
 "edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
-"family": "law",
+"family": "organisation",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "",
-"predicate": "governs",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -318,7 +318,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is governed by"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,

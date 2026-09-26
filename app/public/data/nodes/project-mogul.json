@@ -41,12 +41,12 @@
 "direction": "out",
 "edgeId": "e-1c8b739b37",
 "edgeLabel": "The MOGUL attribution cannot be tested against destroyed records",
-"family": "analysis",
+"family": "oversight",
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
-"predicate": "affects",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is affected by"
+"verb": "was investigated by"
 },
 {
 "claimTier": 3,

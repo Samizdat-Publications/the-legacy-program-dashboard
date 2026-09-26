@@ -92,13 +92,13 @@
 "direction": "out",
 "edgeId": "e-94d5b0d894",
 "edgeLabel": "Doctorate from the RAND Graduate School",
-"family": "role",
+"family": "other",
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
-"predicate": "member_of",
-"predicateSide": "subject",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-19",
@@ -108,7 +108,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "is connected to"
 }
 ],
 "date": "2026-05-19",

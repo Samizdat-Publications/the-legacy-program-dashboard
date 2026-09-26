@@ -87,12 +87,12 @@
 "direction": "out",
 "edgeId": "e-5ea9ac2007",
 "edgeLabel": "Named respondent",
-"family": "documents",
+"family": "testimony",
 "id": "neill-tipton",
 "l0": false,
 "label": "Neill Tipton",
 "note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "concerns"
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -113,12 +113,12 @@
 "direction": "out",
 "edgeId": "e-30674442cf",
 "edgeLabel": "Named respondent",
-"family": "documents",
+"family": "testimony",
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "concerns"
+"verb": "made claims about"
 }
 ],
 "coords": null,

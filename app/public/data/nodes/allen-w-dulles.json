@@ -84,7 +84,7 @@
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "All three 13 March 1953 letters are on Central Intelligence Agency, Office of the Director letterhead and are signed 'Allen W. Dulles, Director'.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -131,12 +131,12 @@
 "direction": "out",
 "edgeId": "e-6d5a02a3cd",
 "edgeLabel": "Authorized MKULTRA as DCI, 13 April 1953",
-"family": "role",
+"family": "law",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
-"predicate": "founded",
+"predicate": "created",
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "founded"
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -157,12 +157,12 @@
 "direction": "out",
 "edgeId": "e-69e7342db5",
 "edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
-"family": "denial",
+"family": "testimony",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
-"predicate": "disputed",
+"predicate": "acknowledged",
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "disputes"
+"verb": "acknowledged"
 },
 {
 "claimTier": 1,

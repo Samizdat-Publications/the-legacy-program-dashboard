@@ -53,12 +53,12 @@
 "direction": "out",
 "edgeId": "e-fe7fe85868",
 "edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
-"family": "analysis",
+"family": "organisation",
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "affects"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -79,12 +79,12 @@
 "direction": "out",
 "edgeId": "e-02914ce5fc",
 "edgeLabel": "",
-"family": "analysis",
+"family": "organisation",
 "id": "four-regime-map",
 "l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on 'special access program' or 'controlled access program'. A measure that is neither falls outside all four.",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,7 +100,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is an instance of"
+"verb": "falls outside"
 },
 {
 "claimTier": 3,
@@ -110,13 +110,13 @@
 "direction": "out",
 "edgeId": "e-56a4443e8f",
 "edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
-"family": "law",
+"family": "organisation",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
-"predicate": "governs",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -131,7 +131,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is governed by"
+"verb": "falls outside"
 }
 ],
 "coords": null,

@@ -175,12 +175,12 @@
 "direction": "out",
 "edgeId": "e-ce4ab35e03",
 "edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
-"family": "role",
+"family": "media",
 "id": "national-press-club-2001",
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
-"predicate": "held_post",
+"predicate": "appeared_on",
 "predicateSide": "subject",
 "sources": [
 {
@@ -196,7 +196,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "held a post at"
+"verb": "appeared on"
 },
 {
 "claimTier": 1,

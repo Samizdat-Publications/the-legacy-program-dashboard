@@ -58,7 +58,7 @@
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Witnesses are told that NDAs, agreements, oaths or commitments are waived 'when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE'.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -110,7 +110,7 @@
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The Director of the Central Intelligence Agency is an addressee of the ODNI NDA-waiver memorandum and the CIA has no series in Record Group 615, whose transfer deadline passed on 30 September 2025.",
-"predicate": "omitted",
+"predicate": "refused",
 "predicateSide": "object",
 "sources": [
 {
@@ -126,7 +126,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is left out of"
+"verb": "was refused by"
 },
 {
 "claimTier": 3,
@@ -198,12 +198,12 @@
 "direction": "in",
 "edgeId": "e-ab3e841c6f",
 "edgeLabel": "obtained and published",
-"family": "documents",
+"family": "testimony",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison published the memorandum on 1 August 2026 after calling publicly on 29 July for ODNI to issue implementation guidance.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -219,7 +219,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was published by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 3,

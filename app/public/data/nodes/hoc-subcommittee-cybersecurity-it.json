@@ -85,7 +85,7 @@
 "l0": false,
 "label": "Nancy Ruth Mace",
 "note": "Mace chaired the joint hearing and moved the Immaculate Constellation document into the record.",
-"predicate": "led",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -96,7 +96,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was led by"
+"verb": "had as a member"
 }
 ],
 "coords": null,

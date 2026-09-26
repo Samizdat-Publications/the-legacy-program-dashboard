@@ -341,7 +341,7 @@
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -357,7 +357,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is the subject of claims by"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -372,7 +372,7 @@
 "l0": false,
 "label": "Neill Tipton",
 "note": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
-"predicate": "led",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -383,7 +383,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "was led by"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -393,12 +393,12 @@
 "direction": "in",
 "edgeId": "e-7e52055715",
 "edgeLabel": "Broke the program's existence, funding and Reid origin",
-"family": "documents",
+"family": "testimony",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -414,7 +414,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

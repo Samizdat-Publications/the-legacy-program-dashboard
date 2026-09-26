@@ -116,7 +116,7 @@
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch filed the ICIG urgent-concern complaint in May 2022 through counsel, was found credible and urgent in July 2022, went on the record in June 2023 and testified under oath on 26 July 2023. Attested by The Debrief reporting and the House Oversight hearing record.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -127,7 +127,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "heard testimony from"
 },
 {
 "claimTier": 3,
@@ -189,12 +189,12 @@
 "direction": "out",
 "edgeId": "e-2c0ac19e10",
 "edgeLabel": "The allegation of illegal contracting and the statute that names IR&D",
-"family": "documents",
+"family": "testimony",
 "id": "irad-mechanism",
 "l0": false,
 "label": "Independent Research and Development (IR&D) as a funding channel",
 "note": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -205,7 +205,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "concerns"
+"verb": "made claims about"
 }
 ],
 "coords": null,

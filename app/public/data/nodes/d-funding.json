@@ -140,12 +140,12 @@
 "direction": "in",
 "edgeId": "e-697f9226c1",
 "edgeLabel": "Vehicle and appropriation",
-"family": "analysis",
+"family": "organisation",
 "id": "d-contracting",
 "l0": false,
 "label": "Federal Contracting Mechanics",
 "note": "The contract vehicle is the visible end of the money; the appropriation and transfer authorities are the invisible end.",
-"predicate": "affects",
+"predicate": "part_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -156,7 +156,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "is affected by"
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -197,12 +197,12 @@
 "direction": "in",
 "edgeId": "e-0d32f86756",
 "edgeLabel": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
-"family": "law",
+"family": "analysis",
 "id": "iaa-2024",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -223,7 +223,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "is governed by"
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -233,12 +233,12 @@
 "direction": "in",
 "edgeId": "e-61daa5e97a",
 "edgeLabel": "the Senate committee text that would have closed the channel at the contractor end",
-"family": "law",
+"family": "analysis",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -259,7 +259,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is governed by"
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,

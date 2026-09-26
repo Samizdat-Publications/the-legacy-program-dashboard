@@ -136,12 +136,12 @@
 "direction": "in",
 "edgeId": "e-e733340a1e",
 "edgeLabel": "sited in the Department of the Navy with ONI involvement",
-"family": "organisation",
+"family": "place-time",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
-"predicate": "part_of",
+"predicate": "located_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -162,7 +162,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "includes"
+"verb": "is the location of"
 }
 ],
 "coords": null,

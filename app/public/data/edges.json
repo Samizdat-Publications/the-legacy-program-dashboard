@@ -82,7 +82,7 @@
 "dateStart": "2023",
 "id": "e-28c40cd38e",
 "label": "AARO's own record of nine interview attempts, June 2023 - January 2024",
-"predicate": "wrote",
+"predicate": "produced",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -93,7 +93,7 @@
 "dateStart": "2023",
 "id": "e-e75d281aae",
 "label": "built a documentary record of its attempts to interview Grusch",
-"predicate": "produced",
+"predicate": "wrote",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -280,7 +280,7 @@
 "dateStart": "2026",
 "id": "e-2dc09b6bdd",
 "label": "Council announced 17 June 2026, between Releases 03 and 04",
-"predicate": "created",
+"predicate": "worked_with",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -291,8 +291,8 @@
 "dateStart": "2026-02",
 "id": "e-e34fc1c2ae",
 "label": "recommendations the release programme did not adopt",
-"predicate": "contradicts",
-"subject": "a",
+"predicate": "refused",
+"subject": "b",
 "t": "research",
 "tier": 3
 },
@@ -302,8 +302,8 @@
 "dateStart": "2026-05-08",
 "id": "e-334bde0bd4",
 "label": "signposts users to a channel it does not run",
-"predicate": "cites",
-"subject": "a",
+"predicate": "outside_of",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -346,7 +346,7 @@
 "dateStart": "2022",
 "id": "e-717558b5d3",
 "label": "ordered the UAPTF disestablished and its data and materials transferred to AARO",
-"predicate": "mandated",
+"predicate": "concerns",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -357,8 +357,8 @@
 "dateStart": null,
 "id": "e-83698822ae",
 "label": "The negative finding is inserted after Grusch, not inherited",
-"predicate": "succeeded",
-"subject": "b",
+"predicate": "preceded",
+"subject": "a",
 "t": "temporal",
 "tier": 3
 },
@@ -379,8 +379,8 @@
 "dateStart": "2024",
 "id": "e-26bf49d9f5",
 "label": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
-"predicate": "contradicts",
-"subject": "b",
+"predicate": "denied",
+"subject": "a",
 "t": "denial",
 "tier": 3
 },
@@ -390,7 +390,7 @@
 "dateStart": "2026-07-21",
 "id": "e-d11af2add4",
 "label": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
-"predicate": "denied",
+"predicate": "contradicts",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -489,8 +489,8 @@
 "dateStart": "2024",
 "id": "e-f1ae8c9ff6",
 "label": "Volume I explicitly defers its unresolved allegations to Volume II",
-"predicate": "succeeded",
-"subject": "b",
+"predicate": "cites",
+"subject": "a",
 "t": "programmatic",
 "tier": 1
 },
@@ -511,7 +511,7 @@
 "dateStart": "2024",
 "id": "e-d398b4bc8c",
 "label": "The materials line of effort and its published scope",
-"predicate": "concerns",
+"predicate": "cites",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -544,7 +544,7 @@
 "dateStart": "2024",
 "id": "e-f9af68a20c",
 "label": "official history confirms the money, closes the file",
-"predicate": "explained_away",
+"predicate": "omitted",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -610,7 +610,7 @@
 "dateStart": "2024",
 "id": "e-e2c80139df",
 "label": "Report offers KONA BLUE as the explanation for the reverse-engineering allegations",
-"predicate": "concerns",
+"predicate": "explained_away",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -665,8 +665,8 @@
 "dateStart": "2023",
 "id": "e-6e71962f2c",
 "label": "The 'outside of government so the technology could remain proprietary' formulation is what the eminent domain provision was written to defeat",
-"predicate": "responded_to",
-"subject": "b",
+"predicate": "parallels",
+"subject": "a",
 "t": "legislative",
 "tier": 3
 },
@@ -720,8 +720,8 @@
 "dateStart": "2025-05-21",
 "id": "e-4e88156cdd",
 "label": "first purpose-built case system, solicited May 2025",
-"predicate": "part_of",
-"subject": "a",
+"predicate": "ran",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -841,8 +841,8 @@
 "dateStart": null,
 "id": "e-2d91026357",
 "label": "",
-"predicate": "created",
-"subject": "b",
+"predicate": "contracted",
+"subject": "a",
 "t": "programmatic",
 "tier": 1
 },
@@ -863,8 +863,8 @@
 "dateStart": null,
 "id": "e-91256df644",
 "label": "",
-"predicate": "ran",
-"subject": "b",
+"predicate": "contracted",
+"subject": "a",
 "t": "programmatic",
 "tier": 1
 },
@@ -1281,7 +1281,7 @@
 "dateStart": "2017",
 "id": "e-7de7d7ba16",
 "label": "the program the New York Times revealed",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "subject": "b",
 "t": "investigative",
 "tier": 1
@@ -1369,7 +1369,7 @@
 "dateStart": "2008",
 "id": "e-bda6bc5604",
 "label": "requirement written to a capability only BAASS held",
-"predicate": "made_claims_about",
+"predicate": "affects",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -1380,7 +1380,7 @@
 "dateStart": null,
 "id": "e-fe7fe85868",
 "label": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
-"predicate": "affects",
+"predicate": "outside_of",
 "subject": "a",
 "t": "legislative",
 "tier": 3
@@ -1391,7 +1391,7 @@
 "dateStart": null,
 "id": "e-02914ce5fc",
 "label": "",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -1402,8 +1402,8 @@
 "dateStart": "2021-02-24",
 "id": "e-56a4443e8f",
 "label": "ACCM sits below the definitional trigger of every SAP reporting statute",
-"predicate": "governs",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "denial",
 "tier": 3
 },
@@ -1424,8 +1424,8 @@
 "dateStart": "2018",
 "id": "e-f0a242043d",
 "label": "Research partnership from August 2018",
-"predicate": "ran",
-"subject": "b",
+"predicate": "worked_with",
+"subject": "a",
 "t": "programmatic",
 "tier": 1
 },
@@ -1457,7 +1457,7 @@
 "dateStart": "2019",
 "id": "e-62a26e2553",
 "label": "ADAM materials became the subject of a five-year Army CRADA",
-"predicate": "funded",
+"predicate": "concerns",
 "subject": "b",
 "t": "funding",
 "tier": 2
@@ -1501,8 +1501,8 @@
 "dateStart": "1952",
 "id": "e-25c09fade4",
 "label": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
-"predicate": "studied",
-"subject": "b",
+"predicate": "reports_to",
+"subject": "a",
 "t": "programmatic",
 "tier": 3
 },
@@ -1534,7 +1534,7 @@
 "dateStart": "1980",
 "id": "e-98f2a0d120",
 "label": "AFOSI is the originating agency of the released Kirtland UFO file",
-"predicate": "holds",
+"predicate": "released",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -1611,7 +1611,7 @@
 "dateStart": "1997",
 "id": "e-d1e2d616b4",
 "label": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
-"predicate": "located_at",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "geographic",
 "tier": 2
@@ -1666,8 +1666,8 @@
 "dateStart": "1959",
 "id": "e-922342baef",
 "label": "A copy went to WADD at Wright-Patterson",
-"predicate": "transferred",
-"subject": "a",
+"predicate": "holds",
+"subject": "b",
 "t": "custody",
 "tier": 1
 },
@@ -1941,7 +1941,7 @@
 "dateStart": "1953",
 "id": "e-e3b6e1564e",
 "label": "Director of Central Intelligence, signing as Director on Office of the Director paper",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -1952,7 +1952,7 @@
 "dateStart": "1953-04-13",
 "id": "e-6d5a02a3cd",
 "label": "Authorized MKULTRA as DCI, 13 April 1953",
-"predicate": "founded",
+"predicate": "created",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -1963,7 +1963,7 @@
 "dateStart": "1953-03-13",
 "id": "e-69e7342db5",
 "label": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
-"predicate": "disputed",
+"predicate": "acknowledged",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -2106,7 +2106,7 @@
 "dateStart": "2023",
 "id": "e-b055c8cb45",
 "label": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
-"predicate": "exemplifies",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -2117,7 +2117,7 @@
 "dateStart": "2026",
 "id": "e-6b127e1755",
 "label": "Luna's 2026 records demand ran in parallel with the delayed annual report",
-"predicate": "preceded",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -2128,7 +2128,7 @@
 "dateStart": "2026",
 "id": "e-de4829fd15",
 "label": "Asked the White House to grant immunity to whistleblowers who disclose locations of craft and technology",
-"predicate": "appeared_on",
+"predicate": "supported",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -2194,7 +2194,7 @@
 "dateStart": "2025",
 "id": "e-60f84097b9",
 "label": "Luna chaired the hearing at which the contractor allegation acquired names",
-"predicate": "oversaw",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -2260,7 +2260,7 @@
 "dateStart": "2025-09-09",
 "id": "e-3752916b84",
 "label": "Chairwoman stated the HASC/HAC-D read-in gate on the record",
-"predicate": "oversaw",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -2293,8 +2293,8 @@
 "dateStart": "2026-04",
 "id": "e-e1ce42aadf",
 "label": "letter said to be answered by the tranche",
-"predicate": "led_to",
-"subject": "a",
+"predicate": "responded_to",
+"subject": "b",
 "t": "investigative",
 "tier": 3
 },
@@ -2337,7 +2337,7 @@
 "dateStart": null,
 "id": "e-465eaee615",
 "label": "no statutory entitlement; not a defense committee chair or ranking member",
-"predicate": "connected_to",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -2370,8 +2370,8 @@
 "dateStart": "2026-08-21",
 "id": "e-8e70e4ce76",
 "label": "Doty places Green at the Institute, then corrects himself within the same passage",
-"predicate": "located_at",
-"subject": "b",
+"predicate": "alleged_tie",
+"subject": "a",
 "t": "witness-chain",
 "tier": 2
 },
@@ -2491,7 +2491,7 @@
 "dateStart": "2024",
 "id": "e-c72c263707",
 "label": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
-"predicate": "studied",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -2502,7 +2502,7 @@
 "dateStart": "2024",
 "id": "e-0cc477250c",
 "label": "Hosts his coroner's file and publishes a reconstruction built from his talks",
-"predicate": "reported_on",
+"predicate": "holds",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -2568,7 +2568,7 @@
 "dateStart": "2009",
 "id": "e-6822c0b550",
 "label": "The category this Act invented is the one the executive order cannot reach",
-"predicate": "governs",
+"predicate": "outside_of",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -2612,7 +2612,7 @@
 "dateStart": "1954-08-30",
 "id": "e-f57dd7ab57",
 "label": "The statutory definition of Restricted Data",
-"predicate": "governs",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -2656,8 +2656,8 @@
 "dateStart": "1946",
 "id": "e-a1f38a4299",
 "label": "Statutory transfer of the Manhattan Engineer District's holdings",
-"predicate": "transferred",
-"subject": "b",
+"predicate": "exemplifies",
+"subject": "a",
 "t": "custody",
 "tier": 1
 },
@@ -2722,7 +2722,7 @@
 "dateStart": "2021",
 "id": "e-0fc68b0385",
 "label": "DNI who transmitted the assessment to Congress",
-"predicate": "published",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -2755,7 +2755,7 @@
 "dateStart": "1974",
 "id": "e-b06cb056e2",
 "label": "detail donor to later Roswell accounts",
-"predicate": "affects",
+"predicate": "led_to",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -2854,7 +2854,7 @@
 "dateStart": "1947-07",
 "id": "e-69c2259327",
 "label": "Originating but never-interviewed eyewitness",
-"predicate": "witnessed",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "witness-chain",
 "tier": 3
@@ -2887,7 +2887,7 @@
 "dateStart": "1948",
 "id": "e-a028df5723",
 "label": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
-"predicate": "located_at",
+"predicate": "connected_to",
 "subject": "a",
 "t": "funding",
 "tier": 2
@@ -2898,7 +2898,7 @@
 "dateStart": "2024",
 "id": "e-cf61c445f9",
 "label": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
-"predicate": "parallels",
+"predicate": "in_contact_with",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -2942,7 +2942,7 @@
 "dateStart": "1947",
 "id": "e-ccbf092f20",
 "label": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
-"predicate": "alleged_tie",
+"predicate": "alleged_to_hold",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -2986,7 +2986,7 @@
 "dateStart": "2019",
 "id": "e-fae7ad3ff1",
 "label": "Principal investigator",
-"predicate": "led",
+"predicate": "held_post",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -3008,7 +3008,7 @@
 "dateStart": "1996",
 "id": "e-bfb79d4a7a",
 "label": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
-"predicate": "connected_to",
+"predicate": "outside_of",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -3019,7 +3019,7 @@
 "dateStart": "1949",
 "id": "e-bc5dfefcba",
 "label": "The book is the sole origin of the Aztec claim",
-"predicate": "brought_to_record",
+"predicate": "led_to",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -3030,8 +3030,8 @@
 "dateStart": null,
 "id": "e-98ad34a71e",
 "label": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
-"predicate": "omitted",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "research",
 "tier": 1
 },
@@ -3052,8 +3052,8 @@
 "dateStart": null,
 "id": "e-2c17e6bb88",
 "label": "Not informed at the time, and no threat to the UK",
-"predicate": "responded_to",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "denial",
 "tier": 1
 },
@@ -3096,7 +3096,7 @@
 "dateStart": "1981",
 "id": "e-23d46b2513",
 "label": "The claimant's own dated statement of his own claim, late 1981",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -3107,7 +3107,7 @@
 "dateStart": "1995-03",
 "id": "e-4d2a295012",
 "label": "IHEDN director who sponsored the project",
-"predicate": "founded",
+"predicate": "supported",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -3118,7 +3118,7 @@
 "dateStart": "1984-01-18",
 "id": "e-ee2256ce2d",
 "label": "Lead named plaintiff",
-"predicate": "led",
+"predicate": "held_post",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -3140,7 +3140,7 @@
 "dateStart": "2012-07-06",
 "id": "e-07adfdd770",
 "label": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -3151,7 +3151,7 @@
 "dateStart": "2012-07-06",
 "id": "e-7edc019ab1",
 "label": "The DNI must concur in the appointment to the office she held",
-"predicate": "governs",
+"predicate": "appointed",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -3195,7 +3195,7 @@
 "dateStart": "1989-05-23",
 "id": "e-652d74a0e0",
 "label": "FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times",
-"predicate": "made_claims_about",
+"predicate": "affects",
 "subject": "a",
 "t": "witness-chain",
 "tier": 3
@@ -3206,7 +3206,7 @@
 "dateStart": "2026-05-11",
 "id": "e-cb85fb5d52",
 "label": "supplies the index the releasing authority did not",
-"predicate": "studied",
+"predicate": "cites",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -3239,8 +3239,8 @@
 "dateStart": "1955",
 "id": "e-c46cc80ccf",
 "label": "19.7 per cent of analysed objects were unknowns, rising with report quality",
-"predicate": "concerns",
-"subject": "a",
+"predicate": "produced",
+"subject": "b",
 "t": "investigative",
 "tier": 1
 },
@@ -3261,7 +3261,7 @@
 "dateStart": null,
 "id": "e-4205b6b627",
 "label": "BMSIS research investigator seated on NASA's UAP independent study team",
-"predicate": "member_of",
+"predicate": "worked_with",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -3371,7 +3371,7 @@
 "dateStart": "1989",
 "id": "e-7c48dbc330",
 "label": "The element 115 fuel claim is his",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -3393,7 +3393,7 @@
 "dateStart": "1982",
 "id": "e-99ff421d34",
 "label": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
-"predicate": "connected_to",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -3459,7 +3459,7 @@
 "dateStart": "1977-07-05",
 "id": "e-53d5cd6bf6",
 "label": "Director of the National Security Agency from 5 July 1977",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -3470,7 +3470,7 @@
 "dateStart": "1982",
 "id": "e-19c8d53c8b",
 "label": "Director of SAIC since 1982 and a paid part-time employee since 1990",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -3481,8 +3481,8 @@
 "dateStart": "2003",
 "id": "e-5dd3289eab",
 "label": "Boeing contractors were the observers in the 2003 Vandenberg red square incident",
-"predicate": "witnessed",
-"subject": "a",
+"predicate": "concerns",
+"subject": "b",
 "t": "witness-chain",
 "tier": 1
 },
@@ -3492,8 +3492,8 @@
 "dateStart": "1997",
 "id": "e-fc70cccfdd",
 "label": "Boeing absorbed McDonnell Douglas in 1997, inheriting the Huntington Beach organisation and its records",
-"predicate": "succeeded",
-"subject": "a",
+"predicate": "part_of",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -3503,7 +3503,7 @@
 "dateStart": "1969",
 "id": "e-3fc20213e5",
 "label": "The Bolender memo closed the base's public reporting channel while conceding another existed",
-"predicate": "denied",
+"predicate": "refused",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -3514,8 +3514,8 @@
 "dateStart": "1969",
 "id": "e-7d403df934",
 "label": "No records series has ever been identified for the JANAP channel",
-"predicate": "omitted",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "custody",
 "tier": 3
 },
@@ -3547,7 +3547,7 @@
 "dateStart": "2000",
 "id": "e-236a5189be",
 "label": "Security-support primes administer the compartmentation the statute is supposed to make visible",
-"predicate": "affects",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -3602,7 +3602,7 @@
 "dateStart": "1968-10-24",
 "id": "e-2dabc29ad5",
 "label": "B-52H co-pilot based at Minot AFB",
-"predicate": "located_at",
+"predicate": "held_post",
 "subject": "a",
 "t": "geographic",
 "tier": 1
@@ -3701,7 +3701,7 @@
 "dateStart": "2009-06-16",
 "id": "e-b3d5fb0f1d",
 "label": "House Armed Services leadership, 2009-2015",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -3767,7 +3767,7 @@
 "dateStart": "2026",
 "id": "e-58a94cc465",
 "label": "Framed as enforcement of the records identified for public release under the 2026 disclosure push",
-"predicate": "concerns",
+"predicate": "cites",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -3811,7 +3811,7 @@
 "dateStart": "2011-12-30",
 "id": "e-20f97512a9",
 "label": "ISOO advises the working group that produces the marking standard",
-"predicate": "produced",
+"predicate": "oversaw",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -3877,7 +3877,7 @@
 "dateStart": "2015-06-18",
 "id": "e-2952deb718",
 "label": "Switches off the only external inspector of a contractor SAP facility",
-"predicate": "affects",
+"predicate": "governs",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -3888,7 +3888,7 @@
 "dateStart": null,
 "id": "e-b85dfd7793",
 "label": "relieves DCSA of NISP industrial security oversight for a DoD SAP",
-"predicate": "acted_against",
+"predicate": "outside_of",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -3899,7 +3899,7 @@
 "dateStart": null,
 "id": "e-6fe42b1d48",
 "label": "relieves it of NISP oversight",
-"predicate": "affects",
+"predicate": "governs",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -3987,7 +3987,7 @@
 "dateStart": "1980",
 "id": "e-0c229c96b4",
 "label": "CAUS was the plaintiff in Civil Action No. 80-1562",
-"predicate": "led",
+"predicate": "led_to",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -4119,7 +4119,7 @@
 "dateStart": "2004",
 "id": "e-841812283a",
 "label": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
-"predicate": "witnessed",
+"predicate": "produced",
 "subject": "a",
 "t": "witness-chain",
 "tier": 3
@@ -4152,7 +4152,7 @@
 "dateStart": null,
 "id": "e-ccfa2376a6",
 "label": "Reported as stating that Warren 'was not there'",
-"predicate": "disputed",
+"predicate": "denied",
 "subject": "a",
 "t": "denial",
 "tier": 3
@@ -4229,7 +4229,7 @@
 "dateStart": "1958-02-05",
 "id": "e-c5cc37f1cc",
 "label": "Signed the CIA reply to Keyhoe",
-"predicate": "told",
+"predicate": "in_contact_with",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -4240,7 +4240,7 @@
 "dateStart": "1952-03",
 "id": "e-e38b67d35a",
 "label": "Air Force intelligence chief at Blue Book's creation",
-"predicate": "preceded",
+"predicate": "held_post",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -4262,7 +4262,7 @@
 "dateStart": "2014-02-11",
 "id": "e-f8af998cf3",
 "label": "Custodian of the Fouche file, under a named operator",
-"predicate": "connected_to",
+"predicate": "holds",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -4295,8 +4295,8 @@
 "dateStart": "2025",
 "id": "e-5d137d3368",
 "label": "Luna read Mellon's demolition of AARO's historical report into her 2025 opening statement",
-"predicate": "cites",
-"subject": "b",
+"predicate": "told",
+"subject": "a",
 "t": "investigative",
 "tier": 1
 },
@@ -4328,7 +4328,7 @@
 "dateStart": "2017",
 "id": "e-21a4a99511",
 "label": "Received the three files in the Pentagon parking lot and passed them to the NYT",
-"predicate": "holds",
+"predicate": "transferred",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -4339,7 +4339,7 @@
 "dateStart": "2025-12-10",
 "id": "e-3e5dd89692",
 "label": "recommendations reflected in statute",
-"predicate": "affects",
+"predicate": "supported",
 "subject": "a",
 "t": "legislative",
 "tier": 2
@@ -4350,7 +4350,7 @@
 "dateStart": "2025",
 "id": "e-fda7b978fe",
 "label": "Two of the three provisions mirror recommendations he championed",
-"predicate": "led_to",
+"predicate": "supported",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -4361,7 +4361,7 @@
 "dateStart": "2017",
 "id": "e-3e330b3250",
 "label": "Supplied the videos published with the story",
-"predicate": "released",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -4625,7 +4625,7 @@
 "dateStart": "1953-01",
 "id": "e-3710978124",
 "label": "CIA convened and staffed the January 1953 scientific advisory panel",
-"predicate": "ran",
+"predicate": "founded",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -4691,8 +4691,8 @@
 "dateStart": null,
 "id": "e-c581aaba16",
 "label": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
-"predicate": "preceded",
-"subject": "a",
+"predicate": "cites",
+"subject": "b",
 "t": "investigative",
 "tier": 2
 },
@@ -4757,8 +4757,8 @@
 "dateStart": "2025-12-18",
 "id": "e-c0ad6e3ef2",
 "label": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
-"predicate": "governs",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "legislative",
 "tier": 1
 },
@@ -4768,7 +4768,7 @@
 "dateStart": "2026-02-03",
 "id": "e-b5c0392d90",
 "label": "Annex tables are exempted from the section 8005 transfer ceiling",
-"predicate": "governs",
+"predicate": "outside_of",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -4779,7 +4779,7 @@
 "dateStart": "2025-12-18",
 "id": "e-b4a016d1a2",
 "label": "The one-word line item is the public face of the annex table",
-"predicate": "part_of",
+"predicate": "same_as",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -4834,7 +4834,7 @@
 "dateStart": "1977",
 "id": "e-5dcf23d494",
 "label": "founding director 1977-1978",
-"predicate": "founded",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -4878,7 +4878,7 @@
 "dateStart": "1977-12-26",
 "id": "e-0e72dd782f",
 "label": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
-"predicate": "studied",
+"predicate": "investigated",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -4911,7 +4911,7 @@
 "dateStart": "2001-05-09",
 "id": "e-9cd99bcbaf",
 "label": "Shown at the podium by Fox News Channel, 9 May 2001",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -5131,7 +5131,7 @@
 "dateStart": null,
 "id": "e-d6236a07f3",
 "label": "Senior partner was ODNI's Intelligence Community Inspector General",
-"predicate": "worked_with",
+"predicate": "connected_to",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -5208,7 +5208,7 @@
 "dateStart": null,
 "id": "e-7d67c2383f",
 "label": "caucus membership confers no statutory access",
-"predicate": "connected_to",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -5274,8 +5274,8 @@
 "dateStart": null,
 "id": "e-21afaec830",
 "label": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
-"predicate": "ran",
-"subject": "b",
+"predicate": "part_of",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -5285,7 +5285,7 @@
 "dateStart": "2018-11-01",
 "id": "e-b460e9a8a8",
 "label": "2018 documentary that returned the claim to mass circulation",
-"predicate": "concerns",
+"predicate": "reported_on",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -5307,7 +5307,7 @@
 "dateStart": null,
 "id": "e-c67290f01a",
 "label": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
-"predicate": "concerns",
+"predicate": "holds",
 "subject": "b",
 "t": "custody",
 "tier": 1
@@ -5340,8 +5340,8 @@
 "dateStart": "1993-12-13",
 "id": "e-ea7dc5a78f",
 "label": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
-"predicate": "disputed",
-"subject": "b",
+"predicate": "made_claims_about",
+"subject": "a",
 "t": "institutional",
 "tier": 3
 },
@@ -5362,8 +5362,8 @@
 "dateStart": "1943-06-01",
 "id": "e-b84969d2ea",
 "label": "Advanced projects shops are the industrial home",
-"predicate": "part_of",
-"subject": "a",
+"predicate": "located_at",
+"subject": "b",
 "t": "institutional",
 "tier": 2
 },
@@ -5373,7 +5373,7 @@
 "dateStart": "1955-01-01",
 "id": "e-4a9ea0a978",
 "label": "Black aircraft generated real cover stories",
-"predicate": "affects",
+"predicate": "led_to",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -5384,8 +5384,8 @@
 "dateStart": "2025-10-20",
 "id": "e-a0b2f4964f",
 "label": "Sky-survey transients correlate with nuclear testing",
-"predicate": "affects",
-"subject": "b",
+"predicate": "parallels",
+"subject": "a",
 "t": "research",
 "tier": 1
 },
@@ -5428,7 +5428,7 @@
 "dateStart": "1947-01-01",
 "id": "e-697f9226c1",
 "label": "Vehicle and appropriation",
-"predicate": "affects",
+"predicate": "part_of",
 "subject": "a",
 "t": "funding",
 "tier": 1
@@ -5440,7 +5440,7 @@
 "id": "e-cb35a5f80f",
 "label": "The seam between government and industry",
 "predicate": "affects",
-"subject": "a",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -5450,7 +5450,7 @@
 "dateStart": "1967-07-04",
 "id": "e-4c464af296",
 "label": "Contractor records are outside the statute",
-"predicate": "affects",
+"predicate": "outside_of",
 "subject": "a",
 "t": "denial",
 "tier": 3
@@ -5461,7 +5461,7 @@
 "dateStart": "1948-08-01",
 "id": "e-5c1ff77fec",
 "label": "Same service, both functions",
-"predicate": "parallels",
+"predicate": "worked_with",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -5483,8 +5483,8 @@
 "dateStart": "1947-01-01",
 "id": "e-00b8f13277",
 "label": "Denial is the public face of concealment",
-"predicate": "led_to",
-"subject": "a",
+"predicate": "exemplifies",
+"subject": "b",
 "t": "denial",
 "tier": 1
 },
@@ -5494,7 +5494,7 @@
 "dateStart": "1953-01-17",
 "id": "e-f84fed5a8b",
 "label": "Debunking recommended as a security measure",
-"predicate": "affects",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -5505,7 +5505,7 @@
 "dateStart": "1947-01-01",
 "id": "e-001786d34d",
 "label": "Record destruction as concealment",
-"predicate": "affects",
+"predicate": "exemplifies",
 "subject": "b",
 "t": "custody",
 "tier": 1
@@ -5582,7 +5582,7 @@
 "dateStart": "1953-01-17",
 "id": "e-8853149ed8",
 "label": "CIA convened the panel that recommended debunking",
-"predicate": "led_to",
+"predicate": "affects",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -5604,7 +5604,7 @@
 "dateStart": "1977-05-01",
 "id": "e-0c87c9fc36",
 "label": "Comparative disclosure as leverage",
-"predicate": "affects",
+"predicate": "parallels",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -5615,8 +5615,8 @@
 "dateStart": "1977-05-01",
 "id": "e-2d105735cf",
 "label": "GEIPAN's operating base",
-"predicate": "located_at",
-"subject": "a",
+"predicate": "exemplifies",
+"subject": "b",
 "t": "geographic",
 "tier": 1
 },
@@ -5648,7 +5648,7 @@
 "dateStart": "1947-07-01",
 "id": "e-c49642e4c9",
 "label": "Exploitation is the programme's purpose",
-"predicate": "parallels",
+"predicate": "affects",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -5670,7 +5670,7 @@
 "dateStart": "2023-07-27",
 "id": "e-c89c1d3bd4",
 "label": "Proposal versus enactment",
-"predicate": "led_to",
+"predicate": "preceded",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -5692,7 +5692,7 @@
 "dateStart": "2022-01-01",
 "id": "e-8b0c15185b",
 "label": "Isotopics is the falsifiable test",
-"predicate": "part_of",
+"predicate": "affects",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -5725,8 +5725,8 @@
 "dateStart": "1980-12-29",
 "id": "e-24416f9cae",
 "label": "The only injury case that reached federal court",
-"predicate": "occurred_at",
-"subject": "a",
+"predicate": "exemplifies",
+"subject": "b",
 "t": "geographic",
 "tier": 1
 },
@@ -5780,7 +5780,7 @@
 "dateStart": "2023-07-26",
 "id": "e-7660084926",
 "label": "Sworn testimony is oversight's evidence-gathering act",
-"predicate": "affects",
+"predicate": "part_of",
 "subject": "b",
 "t": "witness-chain",
 "tier": 1
@@ -5791,7 +5791,7 @@
 "dateStart": "2023-07-26",
 "id": "e-0d1042aa10",
 "label": "Where the hearings happen",
-"predicate": "located_at",
+"predicate": "occurred_at",
 "subject": "a",
 "t": "geographic",
 "tier": 1
@@ -5835,7 +5835,7 @@
 "dateStart": "2009-11-01",
 "id": "e-c5ca7cb71e",
 "label": "Conversion from visible to invisible",
-"predicate": "led_to",
+"predicate": "affects",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -5857,8 +5857,8 @@
 "dateStart": "1980-01-01",
 "id": "e-25b998b015",
 "label": "Fabricated material as the delivery vehicle",
-"predicate": "affects",
-"subject": "a",
+"predicate": "part_of",
+"subject": "b",
 "t": "programmatic",
 "tier": 2
 },
@@ -5879,7 +5879,7 @@
 "dateStart": "1947-07-08",
 "id": "e-72773b3fd6",
 "label": "Site to container to shelf",
-"predicate": "affects",
+"predicate": "led_to",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -5923,7 +5923,7 @@
 "dateStart": "1947-07-08",
 "id": "e-93f13856ef",
 "label": "Exploitation begins with characterisation",
-"predicate": "affects",
+"predicate": "part_of",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -5956,8 +5956,8 @@
 "dateStart": "1947-07-08",
 "id": "e-7f8bdd03ff",
 "label": "Where the disc became a balloon",
-"predicate": "exemplifies",
-"subject": "b",
+"predicate": "occurred_at",
+"subject": "a",
 "t": "custody",
 "tier": 1
 },
@@ -5978,7 +5978,7 @@
 "dateStart": "1960-01-01",
 "id": "e-eb60349b7a",
 "label": "SAP tiers implement compartmentation",
-"predicate": "exemplifies",
+"predicate": "implements",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -5989,8 +5989,8 @@
 "dateStart": "1960-01-01",
 "id": "e-f8bff00c2e",
 "label": "Statutory basis for the access tier",
-"predicate": "part_of",
-"subject": "b",
+"predicate": "affects",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -6023,7 +6023,7 @@
 "id": "e-11512eb21e",
 "label": "Exemption 3 and the Glomar posture",
 "predicate": "affects",
-"subject": "b",
+"subject": "a",
 "t": "denial",
 "tier": 1
 },
@@ -6121,7 +6121,7 @@
 "dateStart": "2001-05-09",
 "id": "e-ce4ab35e03",
 "label": "Counsel to the Project, at the podium on 9 May 2001",
-"predicate": "held_post",
+"predicate": "appeared_on",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -6154,8 +6154,8 @@
 "dateStart": "1958-02-07",
 "id": "e-b13a738e83",
 "label": "Founded under the authority of the 1947 Act",
-"predicate": "created",
-"subject": "b",
+"predicate": "connected_to",
+"subject": "a",
 "t": "legislative",
 "tier": 1
 },
@@ -6187,8 +6187,8 @@
 "dateStart": "2023",
 "id": "e-8b98192939",
 "label": "SAPCO director's March 2023 memorandum cited as AARO's access authority",
-"predicate": "wrote",
-"subject": "a",
+"predicate": "cites",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -6198,7 +6198,7 @@
 "dateStart": "2005-09",
 "id": "e-ef6bd7e00a",
 "label": "FOI request that forced the release",
-"predicate": "requested",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -6220,7 +6220,7 @@
 "dateStart": "2004",
 "id": "e-e24499bdbf",
 "label": "Section lead and wingman on the same intercept",
-"predicate": "corroborated",
+"predicate": "worked_with",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -6275,7 +6275,7 @@
 "dateStart": "2023",
 "id": "e-06746fc4a7",
 "label": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
-"predicate": "alleged_tie",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "funding",
 "tier": 3
@@ -6308,7 +6308,7 @@
 "dateStart": "2026",
 "id": "e-a855b2c07a",
 "label": "Returned to Capitol Hill and said political appointees have not complied with the disclosure law",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -6363,7 +6363,7 @@
 "dateStart": "2021",
 "id": "e-68c5b48746",
 "label": "First protected disclosure to the DoD Inspector General, July 2021",
-"predicate": "reports_to",
+"predicate": "told",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -6374,7 +6374,7 @@
 "dateStart": "2010-07-01",
 "id": "e-c1da82fed6",
 "label": "The office that must approve any contractor's provision of SAP material to Congress",
-"predicate": "governs",
+"predicate": "refused",
 "subject": "b",
 "t": "denial",
 "tier": 1
@@ -6407,8 +6407,8 @@
 "dateStart": "2025",
 "id": "e-30c7b9de6c",
 "label": "Hired as senior adviser on UAP issues for a four-month term from March 2025",
-"predicate": "worked_with",
-"subject": "a",
+"predicate": "appointed",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -6418,7 +6418,7 @@
 "dateStart": "2022",
 "id": "e-bbc013b4fe",
 "label": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
-"predicate": "brought_to_record",
+"predicate": "wrote",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -6429,7 +6429,7 @@
 "dateStart": "2022-05",
 "id": "e-8aa865ce68",
 "label": "The named complainant, under oath and under an IG complaint",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -6440,8 +6440,8 @@
 "dateStart": "2024",
 "id": "e-f1eb7e870e",
 "label": "Plaintiff; suit dismissed with prejudice 6 August 2025",
-"predicate": "concerns",
-"subject": "b",
+"predicate": "wrote",
+"subject": "a",
 "t": "behavioral",
 "tier": 1
 },
@@ -6462,8 +6462,8 @@
 "dateStart": "2025",
 "id": "e-889bb3d97c",
 "label": "Present in the room as reprisal against him is entered into the record",
-"predicate": "concerns",
-"subject": "b",
+"predicate": "witnessed",
+"subject": "a",
 "t": "temporal",
 "tier": 1
 },
@@ -6473,7 +6473,7 @@
 "dateStart": "2023",
 "id": "e-27ae127cee",
 "label": "Warner's contractor turn-in targets the same private holders",
-"predicate": "parallels",
+"predicate": "connected_to",
 "subject": "a",
 "t": "witness-chain",
 "tier": 3
@@ -6495,7 +6495,7 @@
 "dateStart": "2023",
 "id": "e-88fa685315",
 "label": "Corroborating NASIC officer sits at the installation at the center of the legacy custody claims",
-"predicate": "made_claims_about",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "custody",
 "tier": 3
@@ -6539,7 +6539,7 @@
 "dateStart": "2026",
 "id": "e-6fc321689f",
 "label": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
-"predicate": "witnessed",
+"predicate": "appeared_on",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -6550,7 +6550,7 @@
 "dateStart": "2023",
 "id": "e-40b1d3b3a8",
 "label": "Co-witness, 26 July 2023 hearing panel",
-"predicate": "in_contact_with",
+"predicate": "parallels",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -6583,7 +6583,7 @@
 "dateStart": "2025",
 "id": "e-0c1e37ec0b",
 "label": "Serves the Task Force via the Burlison advisory role",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -6605,7 +6605,7 @@
 "dateStart": "2019",
 "id": "e-c49d93a157",
 "label": "NRO representative to the UAP Task Force, 2019-2021",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -6616,7 +6616,7 @@
 "dateStart": "2023",
 "id": "e-9d18364bef",
 "label": "The Act's definitions are drafted around his allegations",
-"predicate": "led_to",
+"predicate": "affects",
 "subject": "a",
 "t": "witness-chain",
 "tier": 3
@@ -6649,7 +6649,7 @@
 "dateStart": "2018",
 "id": "e-eb0a34f7e0",
 "label": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
-"predicate": "led",
+"predicate": "oversaw",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -6671,7 +6671,7 @@
 "dateStart": "2022",
 "id": "e-9050616f60",
 "label": "Chaired the NASA UAP Independent Study Team",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -6682,7 +6682,7 @@
 "dateStart": "2022",
 "id": "e-6f1436abda",
 "label": "Panel worked under sustained public harassment",
-"predicate": "led",
+"predicate": "member_of",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -6704,7 +6704,7 @@
 "dateStart": "2019",
 "id": "e-63ae0cc411",
 "label": "Delivered to the SASC professional staff cohort McConnell belonged to",
-"predicate": "affects",
+"predicate": "reports_to",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -6715,7 +6715,7 @@
 "dateStart": "2021-02-24",
 "id": "e-cdf8b6260f",
 "label": "Designated the DoD Cognizant Security Office by regulation",
-"predicate": "governs",
+"predicate": "created",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -6792,7 +6792,7 @@
 "dateStart": "1965",
 "id": "e-843215b95d",
 "label": "inspected Lockheed's other contracts while excluded from its special access contract",
-"predicate": "investigated",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -6836,7 +6836,7 @@
 "dateStart": "2013",
 "id": "e-7981069a36",
 "label": "Both refusals on this designation are public only because of The Black Vault",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "subject": "b",
 "t": "investigative",
 "tier": 1
@@ -6858,7 +6858,7 @@
 "dateStart": "1996",
 "id": "e-834c8e64c5",
 "label": "founded and chaired COMETA",
-"predicate": "led",
+"predicate": "founded",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -6891,7 +6891,7 @@
 "dateStart": null,
 "id": "e-ca88b7c301",
 "label": "Named as a panel member inside the disputed document",
-"predicate": "made_claims_about",
+"predicate": "concerns",
 "subject": "b",
 "t": "investigative",
 "tier": 3
@@ -6913,7 +6913,7 @@
 "dateStart": "2011",
 "id": "e-237ca67106",
 "label": "DHS Deputy Secretary disapproved and terminated KONA BLUE approximately six months later",
-"predicate": "refused",
+"predicate": "denied",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -6979,7 +6979,7 @@
 "dateStart": null,
 "id": "e-08b89c5713",
 "label": "published and holds; DIA-08-1003-007",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -6990,7 +6990,7 @@
 "dateStart": null,
 "id": "e-b3d1c303ac",
 "label": "published and holds; DIA-08-1003-015",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7001,7 +7001,7 @@
 "dateStart": null,
 "id": "e-481df679bd",
 "label": "published and holds; DIA-08-0911-016",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7012,7 +7012,7 @@
 "dateStart": null,
 "id": "e-df8b80bb96",
 "label": "published and holds; document number not recoverable",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7023,7 +7023,7 @@
 "dateStart": null,
 "id": "e-99b8cc33d1",
 "label": "published and holds; DIA-08-1011-003",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7034,7 +7034,7 @@
 "dateStart": null,
 "id": "e-94108c02a5",
 "label": "published and holds; DIA-08-1011-004",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7045,7 +7045,7 @@
 "dateStart": null,
 "id": "e-517f496d13",
 "label": "published and holds; document number not recoverable",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7056,7 +7056,7 @@
 "dateStart": null,
 "id": "e-ba96b8315b",
 "label": "published and holds; DIA-08-1003-018",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7188,7 +7188,7 @@
 "dateStart": "2025-04-24",
 "id": "e-c964d38d63",
 "label": "Produced no records for the first statutory UAP transfer",
-"predicate": "refused",
+"predicate": "omitted",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -7232,7 +7232,7 @@
 "dateStart": "2018",
 "id": "e-152e6fcbe7",
 "label": "receipt for the authorization gap",
-"predicate": "led_to",
+"predicate": "affects",
 "subject": "b",
 "t": "legislative",
 "tier": 3
@@ -7243,7 +7243,7 @@
 "dateStart": "2018",
 "id": "e-cf77ee29ca",
 "label": "transmitted the complete list of 38 products",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -7320,7 +7320,7 @@
 "dateStart": null,
 "id": "e-628aacec41",
 "label": "authored at Wayne State University",
-"predicate": "produced",
+"predicate": "wrote",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -7430,7 +7430,7 @@
 "dateStart": null,
 "id": "e-4ae4877705",
 "label": "subject domain: zero-point/vacuum energy extraction",
-"predicate": "exemplifies",
+"predicate": "concerns",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -7496,7 +7496,7 @@
 "dateStart": "2007",
 "id": "e-e17e4dea1a",
 "label": "Preface quotes a November 2007 proposal on 'Probable ET Generated' emissions addressed to Puthoff/Hathaway",
-"predicate": "cites",
+"predicate": "concerns",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -7540,7 +7540,7 @@
 "dateStart": null,
 "id": "e-5174a7ba01",
 "label": "subject domain: compact non-tokamak fusion power",
-"predicate": "concerns",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -7584,7 +7584,7 @@
 "dateStart": null,
 "id": "e-58d62150c2",
 "label": "author's institutional affiliation at time of writing",
-"predicate": "produced",
+"predicate": "wrote",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -7606,7 +7606,7 @@
 "dateStart": null,
 "id": "e-8c07f96e43",
 "label": "commissioned via the BAASS prime contract",
-"predicate": "funded",
+"predicate": "contracted",
 "subject": "b",
 "t": "funding",
 "tier": 2
@@ -8497,7 +8497,7 @@
 "dateStart": null,
 "id": "e-fe46c80cec",
 "label": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
-"predicate": "published",
+"predicate": "brought_to_record",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -8519,7 +8519,7 @@
 "dateStart": null,
 "id": "e-0bd57a7667",
 "label": "author's affiliation of record; one of three Lockheed Martin DIRDs",
-"predicate": "wrote",
+"predicate": "produced",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -8530,7 +8530,7 @@
 "dateStart": "1997",
 "id": "e-dd096990f4",
 "label": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
-"predicate": "led_to",
+"predicate": "preceded",
 "subject": "a",
 "t": "temporal",
 "tier": 3
@@ -8541,7 +8541,7 @@
 "dateStart": "2001-04",
 "id": "e-78168a1d36",
 "label": "The project's own publication",
-"predicate": "produced",
+"predicate": "published",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -8552,7 +8552,7 @@
 "dateStart": "2001-04",
 "id": "e-441c880888",
 "label": "The Project's own compiled briefing document, April 2001",
-"predicate": "produced",
+"predicate": "published",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -8618,7 +8618,7 @@
 "dateStart": "1966",
 "id": "e-f0ce72fa85",
 "label": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
-"predicate": "made_claims_about",
+"predicate": "contradicts",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -8640,7 +8640,7 @@
 "dateStart": "2026",
 "id": "e-9c7f1a3fe7",
 "label": "Target vehicle contains no UAP provisions to amend",
-"predicate": "preceded",
+"predicate": "concerns",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -8651,7 +8651,7 @@
 "dateStart": null,
 "id": "e-7680c03d87",
 "label": "Requester of the 9 May 2001 FOIA that produced the release",
-"predicate": "holds",
+"predicate": "brought_to_record",
 "subject": "b",
 "t": "custody",
 "tier": 1
@@ -8728,7 +8728,7 @@
 "dateStart": "1999-07",
 "id": "e-e655f31171",
 "label": "recommended boosting SEPRA's resources and foreign relations status",
-"predicate": "concerns",
+"predicate": "supported",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -8739,7 +8739,7 @@
 "dateStart": "2000",
 "id": "e-7de8ba3f80",
 "label": "Volume 3 holds the material excluded from the RESTRICTED summary",
-"predicate": "holds",
+"predicate": "part_of",
 "subject": "b",
 "t": "custody",
 "tier": 1
@@ -8783,7 +8783,7 @@
 "dateStart": "2000",
 "id": "e-785567ca81",
 "label": "records the Spanish release and DI55's non-access",
-"predicate": "concerns",
+"predicate": "cites",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -8794,8 +8794,8 @@
 "dateStart": "2000",
 "id": "e-011ee4dad4",
 "label": "records a flat denial of any US/Canada exchange, then redacts four lines",
-"predicate": "denied",
-"subject": "b",
+"predicate": "concerns",
+"subject": "a",
 "t": "denial",
 "tier": 1
 },
@@ -8838,7 +8838,7 @@
 "dateStart": "1968-10-28",
 "id": "e-a389e61911",
 "label": "The Air Force's own investigative file on the event",
-"predicate": "concerns",
+"predicate": "investigated",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -8948,7 +8948,7 @@
 "dateStart": "1979-01-17",
 "id": "e-f9137f2573",
 "label": "The wing historian's file recovering an event his own wing history omitted",
-"predicate": "investigated",
+"predicate": "concerns",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -8970,7 +8970,7 @@
 "dateStart": "2025-12-18",
 "id": "e-a3f5cbdc15",
 "label": "The Department is the account holder for every published classified line",
-"predicate": "funded",
+"predicate": "holds",
 "subject": "a",
 "t": "funding",
 "tier": 1
@@ -9014,7 +9014,7 @@
 "dateStart": "2024",
 "id": "e-9a878750ea",
 "label": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
-"predicate": "refused",
+"predicate": "connected_to",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -9102,7 +9102,7 @@
 "dateStart": "2018",
 "id": "e-902d4727c0",
 "label": "The OIG is the independent auditor issuing the annual opinion",
-"predicate": "investigated",
+"predicate": "oversaw",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -9124,7 +9124,7 @@
 "dateStart": "2023-08-15",
 "id": "e-cc2b42a391",
 "label": "DoD OIG issued the only formal audit of the Department's UAP conduct",
-"predicate": "produced",
+"predicate": "wrote",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -9135,7 +9135,7 @@
 "dateStart": "2015-06-18",
 "id": "e-46abea4830",
 "label": "SAP fraud and abuse complaints must not use collateral reporting channels",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "b",
 "t": "denial",
 "tier": 1
@@ -9146,8 +9146,8 @@
 "dateStart": null,
 "id": "e-c0814acf71",
 "label": "The SAPCO staffed the committee from the start",
-"predicate": "led",
-"subject": "b",
+"predicate": "led_to",
+"subject": "a",
 "t": "institutional",
 "tier": 2
 },
@@ -9432,7 +9432,7 @@
 "dateStart": "2013-02-06",
 "id": "e-4621acfb67",
 "label": "Makes the SRG the working-level body that reviews every waived program annually",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -9487,7 +9487,7 @@
 "dateStart": "2026-06-16",
 "id": "e-37c43f146f",
 "label": "imagery released, methodology withheld",
-"predicate": "contradicts",
+"predicate": "refused",
 "subject": "b",
 "t": "denial",
 "tier": 3
@@ -9608,7 +9608,7 @@
 "dateStart": "1954",
 "id": "e-c60b581ef1",
 "label": "Restricted Data authority sits outside presidential EO declassification power",
-"predicate": "affects",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -9641,7 +9641,7 @@
 "dateStart": "1947",
 "id": "e-62e89f2da2",
 "label": "DOE/NNSA management and operating contract; Los Alamos",
-"predicate": "ran",
+"predicate": "contracted",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -9652,7 +9652,7 @@
 "dateStart": "1952",
 "id": "e-4051a852ce",
 "label": "DOE/NNSA management and operating contract; Lawrence Livermore",
-"predicate": "ran",
+"predicate": "contracted",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -9663,7 +9663,7 @@
 "dateStart": "2025-04-24",
 "id": "e-7c109610d6",
 "label": "DOE produced nothing for the first statutory UAP records transfer",
-"predicate": "omitted",
+"predicate": "refused",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -9685,7 +9685,7 @@
 "dateStart": "1949",
 "id": "e-4a72281e24",
 "label": "DOE/NNSA management and operating contract; Sandia",
-"predicate": "ran",
+"predicate": "contracted",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -9696,7 +9696,7 @@
 "dateStart": "1969",
 "id": "e-a225fc597a",
 "label": "The Colorado project's own history chapter endorses his debunking book",
-"predicate": "acknowledged",
+"predicate": "supported",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -9707,7 +9707,7 @@
 "dateStart": "1953",
 "id": "e-38a9bb8999",
 "label": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
-"predicate": "exemplifies",
+"predicate": "disputed",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -9718,7 +9718,7 @@
 "dateStart": "1969",
 "id": "e-6a7962d86b",
 "label": "Condon praised him by name in the study he directed",
-"predicate": "acknowledged",
+"predicate": "supported",
 "subject": "b",
 "t": "behavioral",
 "tier": 1
@@ -9751,7 +9751,7 @@
 "dateStart": null,
 "id": "e-11e74ee7a1",
 "label": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
-"predicate": "refused",
+"predicate": "responded_to",
 "subject": "b",
 "t": "denial",
 "tier": 1
@@ -9773,7 +9773,7 @@
 "dateStart": null,
 "id": "e-1f838db3ba",
 "label": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
-"predicate": "worked_with",
+"predicate": "appointed",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -9795,7 +9795,7 @@
 "dateStart": "2025-09-05",
 "id": "e-ebdd78b62d",
 "label": "Signed EO 14347 and issued the 2026 UAP release directives",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -9806,7 +9806,7 @@
 "dateStart": "2026",
 "id": "e-ef8b0a977d",
 "label": "Issued the direction that created PURSUE",
-"predicate": "wrote",
+"predicate": "published",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -9828,7 +9828,7 @@
 "dateStart": "2023",
 "id": "e-33aa14cb00",
 "label": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
-"predicate": "produced",
+"predicate": "released",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -9927,7 +9927,7 @@
 "dateStart": "2010-09-27",
 "id": "e-9f69c70ea3",
 "label": "Spoke on the record with a signed affidavit",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -9949,8 +9949,8 @@
 "dateStart": "2025",
 "id": "e-1cca3ef322",
 "label": "The reprisal case the bill is designed to cover",
-"predicate": "concerns",
-"subject": "b",
+"predicate": "led_to",
+"subject": "a",
 "t": "programmatic",
 "tier": 3
 },
@@ -10059,7 +10059,7 @@
 "dateStart": "2026-01-20",
 "id": "e-7875c9af1a",
 "label": "Brazilian senator attended and discussed a joint evidence effort",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "subject": "a",
 "t": "legislative",
 "tier": 2
@@ -10081,7 +10081,7 @@
 "dateStart": "1968",
 "id": "e-e5faf782b0",
 "label": "Condon fired the investigators who surfaced Low's memo",
-"predicate": "affects",
+"predicate": "acted_against",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -10136,7 +10136,7 @@
 "dateStart": "1952",
 "id": "e-c7cf595ca0",
 "label": "Co-founder and director of the Livermore laboratory",
-"predicate": "led",
+"predicate": "founded",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -10246,7 +10246,7 @@
 "dateStart": "2021",
 "id": "e-5ea9ac2007",
 "label": "Named respondent",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -10257,7 +10257,7 @@
 "dateStart": "2021",
 "id": "e-30674442cf",
 "label": "Named respondent",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -10334,8 +10334,8 @@
 "dateStart": "1953-12-15",
 "id": "e-8728c3e910",
 "label": "Excludes Restricted Data from the executive classification system",
-"predicate": "connected_to",
-"subject": "a",
+"predicate": "outside_of",
+"subject": "b",
 "t": "legislative",
 "tier": 1
 },
@@ -10345,7 +10345,7 @@
 "dateStart": "1953-12-15",
 "id": "e-16b4c774e4",
 "label": "Fixes the three categories and takes classification authority away from 28 agencies",
-"predicate": "governs",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -10367,7 +10367,7 @@
 "dateStart": "1972-06-01",
 "id": "e-d4fa337aaf",
 "label": "Lodges classification oversight in the Council",
-"predicate": "governs",
+"predicate": "created",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -10488,8 +10488,8 @@
 "dateStart": null,
 "id": "e-cd889583d8",
 "label": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
-"predicate": "governs",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -10532,7 +10532,7 @@
 "dateStart": "2026-02",
 "id": "e-5953c48d83",
 "label": "Presidential direction produced the PURSUE release portal",
-"predicate": "produced",
+"predicate": "created",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -10686,7 +10686,7 @@
 "dateStart": "2026",
 "id": "e-4f4526e5e6",
 "label": "Co-launched the probe; revealed the McCasland trigger",
-"predicate": "led",
+"predicate": "investigated",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -10741,7 +10741,7 @@
 "dateStart": "2026-08-01",
 "id": "e-ab3e841c6f",
 "label": "obtained and published",
-"predicate": "published",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -10785,7 +10785,7 @@
 "dateStart": "2024",
 "id": "e-8d3b7ed08b",
 "label": "Led the March 2024 call for a select committee focused on expenditures",
-"predicate": "led",
+"predicate": "supported",
 "subject": "a",
 "t": "legislative",
 "tier": 2
@@ -10807,8 +10807,8 @@
 "dateStart": null,
 "id": "e-3573062eba",
 "label": "no statutory entitlement; not a defense committee chair or ranking member",
-"predicate": "omitted",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -10862,7 +10862,7 @@
 "dateStart": "2020",
 "id": "e-515432576e",
 "label": "'We couldn't make it ourselves' - a custody claim with no public chain",
-"predicate": "made_claims_about",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -10961,7 +10961,7 @@
 "dateStart": "2020",
 "id": "e-6d600853f7",
 "label": "Same report carried Reid's statement on retrieved materials",
-"predicate": "corroborated",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -11060,7 +11060,7 @@
 "dateStart": "2026-05-08",
 "id": "e-33d5dfd309",
 "label": "the US 2026 release cites COMETA as a source on the Argentine case",
-"predicate": "concerns",
+"predicate": "cites",
 "subject": "b",
 "t": "research",
 "tier": 2
@@ -11082,8 +11082,8 @@
 "dateStart": "2026-01-15",
 "id": "e-e71299ed35",
 "label": "1996 witnesses testify to US legislators thirty years later",
-"predicate": "led_to",
-"subject": "a",
+"predicate": "brought_to_record",
+"subject": "b",
 "t": "witness-chain",
 "tier": 2
 },
@@ -11247,7 +11247,7 @@
 "dateStart": null,
 "id": "e-5ea45d9614",
 "label": "The craft claimed to deliver them",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "b",
 "t": "research",
 "tier": 2
@@ -11258,7 +11258,7 @@
 "dateStart": null,
 "id": "e-ab522e8de8",
 "label": "Four of five itemised as design goals",
-"predicate": "concerns",
+"predicate": "parallels",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -11269,8 +11269,8 @@
 "dateStart": "2004",
 "id": "e-fb91856787",
 "label": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
-"predicate": "produced",
-"subject": "b",
+"predicate": "concerns",
+"subject": "a",
 "t": "custody",
 "tier": 1
 },
@@ -11412,7 +11412,7 @@
 "dateStart": "2014-06-15",
 "id": "e-7e73c6e3c7",
 "label": "Self-published compilation about and by its own subject",
-"predicate": "wrote",
+"predicate": "published",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -11588,7 +11588,7 @@
 "dateStart": "1976",
 "id": "e-7403f1c300",
 "label": "New Mexico State Police officer stationed at Dulce from 1976",
-"predicate": "held_post",
+"predicate": "located_at",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -11621,8 +11621,8 @@
 "dateStart": "2021",
 "id": "e-b94a321123",
 "label": "Founded in direct response to the June 2021 ODNI assessment",
-"predicate": "responded_to",
-"subject": "a",
+"predicate": "led_to",
+"subject": "b",
 "t": "temporal",
 "tier": 2
 },
@@ -11643,7 +11643,7 @@
 "dateStart": "2015",
 "id": "e-f4cc5a6307",
 "label": "Gallaudet's inference points at an unacknowledged SAP; Shellenberger named one",
-"predicate": "corroborated",
+"predicate": "parallels",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -11742,7 +11742,7 @@
 "dateStart": "1986",
 "id": "e-f398d6c500",
 "label": "GAO produced and publicly released the testimony",
-"predicate": "produced",
+"predicate": "published",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -11995,7 +11995,7 @@
 "dateStart": "2005-09",
 "id": "e-12606bd281",
 "label": "co-requester of the Condign FOI",
-"predicate": "requested",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -12083,8 +12083,8 @@
 "dateStart": null,
 "id": "e-49604e8ecd",
 "label": "shared IHEDN lineage; SEPRA head contributed",
-"predicate": "worked_with",
-"subject": "a",
+"predicate": "cites",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -12160,7 +12160,7 @@
 "dateStart": "2017",
 "id": "e-776b5a7789",
 "label": "published the contract documentation",
-"predicate": "published",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -12325,7 +12325,7 @@
 "dateStart": "1989-03",
 "id": "e-5e41f493ab",
 "label": "Journalist who brought the claim to air in 1989 and has carried it since",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -12347,7 +12347,7 @@
 "dateStart": "1968",
 "id": "e-86248b630b",
 "label": "RAND was documenting the case for instrumented study as Condon was closing it down",
-"predicate": "preceded",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -12369,7 +12369,7 @@
 "dateStart": "1978",
 "id": "e-7b448401b1",
 "label": "US NSA holds a contemporaneous assessment of GEPAN's 1978 report",
-"predicate": "studied",
+"predicate": "cites",
 "subject": "b",
 "t": "investigative",
 "tier": 1
@@ -12512,7 +12512,7 @@
 "dateStart": "1960",
 "id": "e-cb955e3042",
 "label": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -12534,7 +12534,7 @@
 "dateStart": "2026",
 "id": "e-6832526c0c",
 "label": "Argues FFRDCs are the 'missing link' that lets programmes be vested outside government",
-"predicate": "concerns",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "investigative",
 "tier": 3
@@ -12567,7 +12567,7 @@
 "dateStart": "1958",
 "id": "e-84f69e61f4",
 "label": "Names MITRE as the central FFRDC node of the legacy portfolio",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -12611,7 +12611,7 @@
 "dateStart": "1980",
 "id": "e-c7dcb21198",
 "label": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -12644,7 +12644,7 @@
 "dateStart": "2023",
 "id": "e-2d0a63f811",
 "label": "Built around Grusch's NRO and NGA service and UAPTF liaison role",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -12677,8 +12677,8 @@
 "dateStart": "2015",
 "id": "e-0e1dacadf6",
 "label": "January 2015 ATFLIR artefact from the same operating environment",
-"predicate": "concerns",
-"subject": "a",
+"predicate": "produced",
+"subject": "b",
 "t": "custody",
 "tier": 1
 },
@@ -12710,7 +12710,7 @@
 "dateStart": "2023",
 "id": "e-8ffb2d99eb",
 "label": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
-"predicate": "oversaw",
+"predicate": "led",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -12787,8 +12787,8 @@
 "dateStart": "2015",
 "id": "e-0705447e89",
 "label": "January 2015 ATFLIR artefact from the same operating environment",
-"predicate": "concerns",
-"subject": "a",
+"predicate": "produced",
+"subject": "b",
 "t": "custody",
 "tier": 1
 },
@@ -12798,7 +12798,7 @@
 "dateStart": "1951",
 "id": "e-8b36f8d849",
 "label": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
-"predicate": "in_contact_with",
+"predicate": "worked_with",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -12809,7 +12809,7 @@
 "dateStart": "1951",
 "id": "e-4784735fe2",
 "label": "First Director of the Psychological Strategy Board, appointed 1951",
-"predicate": "led",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -12908,7 +12908,7 @@
 "dateStart": "2024",
 "id": "e-ddb80ccfeb",
 "label": "two years after GREMLIN, the FY2025 report still cites lack of sensor data as the binding constraint",
-"predicate": "preceded",
+"predicate": "affects",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -12963,8 +12963,8 @@
 "dateStart": "2022-05-01",
 "id": "e-a5b0ba5ba9",
 "label": "An urgent concern complaint enters a system whose SAP layer is itself compartmented",
-"predicate": "parallels",
-"subject": "a",
+"predicate": "affects",
+"subject": "b",
 "t": "witness-chain",
 "tier": 3
 },
@@ -12996,7 +12996,7 @@
 "dateStart": "2023-06-05",
 "id": "e-2c0ac19e10",
 "label": "The allegation of illegal contracting and the statute that names IR&D",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "funding",
 "tier": 3
@@ -13051,8 +13051,8 @@
 "dateStart": "1997",
 "id": "e-7f2d88f3b4",
 "label": "CIA's own published history concedes the Air Force made deceptive public statements",
-"predicate": "contradicts",
-"subject": "a",
+"predicate": "published",
+"subject": "b",
 "t": "denial",
 "tier": 1
 },
@@ -13073,7 +13073,7 @@
 "dateStart": "1955",
 "id": "e-5622f47f71",
 "label": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -13106,7 +13106,7 @@
 "dateStart": "1955",
 "id": "e-4e62005113",
 "label": "A documented precedent for institutional falsification about UFOs by the US Air Force",
-"predicate": "affects",
+"predicate": "parallels",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -13118,7 +13118,7 @@
 "id": "e-46c23b6f8b",
 "label": "Released to The Black Vault under DoD FOIA case 97-F-1677",
 "predicate": "brought_to_record",
-"subject": "b",
+"subject": "a",
 "t": "investigative",
 "tier": 1
 },
@@ -13139,7 +13139,7 @@
 "dateStart": "1962",
 "id": "e-cd0fae33a2",
 "label": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
-"predicate": "held_post",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -13150,7 +13150,7 @@
 "dateStart": "1962-12-07",
 "id": "e-725c11436a",
 "label": "Named as the cause of the December 1962 presidential visit",
-"predicate": "led_to",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "temporal",
 "tier": 3
@@ -13260,7 +13260,7 @@
 "dateStart": "1972",
 "id": "e-09d4874e30",
 "label": "Puthoff was principal investigator and project director",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -13315,7 +13315,7 @@
 "dateStart": "2007",
 "id": "e-1e431e0251",
 "label": "directed the $22M appropriation",
-"predicate": "sponsored_law",
+"predicate": "led_to",
 "subject": "a",
 "t": "funding",
 "tier": 1
@@ -13392,7 +13392,7 @@
 "dateStart": null,
 "id": "e-4355eb219d",
 "label": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
-"predicate": "connected_to",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -13425,7 +13425,7 @@
 "dateStart": "1947",
 "id": "e-0774622dfd",
 "label": "Appointed the first Director of Central Intelligence of the CIA",
-"predicate": "in_contact_with",
+"predicate": "appointed",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -13436,7 +13436,7 @@
 "dateStart": "1946-01-22",
 "id": "e-ce38f7546c",
 "label": "Designated the first Director of Central Intelligence",
-"predicate": "acknowledged",
+"predicate": "appointed",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -13458,7 +13458,7 @@
 "dateStart": null,
 "id": "e-78a95e3299",
 "label": "Loeb directs the Institute for Theory and Computation at the CfA",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -13601,7 +13601,7 @@
 "dateStart": "2026-06-30",
 "id": "e-6f72b68362",
 "label": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
-"predicate": "investigated",
+"predicate": "concerns",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -13623,7 +13623,7 @@
 "dateStart": "2026-02-23",
 "id": "e-2795b20cb0",
 "label": "characterises a social-media post as an executive order",
-"predicate": "contradicts",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "denial",
 "tier": 3
@@ -13656,8 +13656,8 @@
 "dateStart": null,
 "id": "e-03b4dc1205",
 "label": "Varginha discussed in a 2024 meeting with AARO staff",
-"predicate": "investigated",
-"subject": "b",
+"predicate": "alleged_tie",
+"subject": "a",
 "t": "investigative",
 "tier": 3
 },
@@ -13678,8 +13678,8 @@
 "dateStart": null,
 "id": "e-55af5adca8",
 "label": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
-"predicate": "told",
-"subject": "a",
+"predicate": "investigated",
+"subject": "b",
 "t": "witness-chain",
 "tier": 2
 },
@@ -13722,8 +13722,8 @@
 "dateStart": "2023",
 "id": "e-d5effe5db8",
 "label": "The Board was designed to bypass the intelligence committees",
-"predicate": "omitted",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "denial",
 "tier": 1
 },
@@ -13821,7 +13821,7 @@
 "dateStart": "1953-01",
 "id": "e-3a568b8f37",
 "label": "Chaired the CIA-convened panel of January 1953",
-"predicate": "led",
+"predicate": "held_post",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -13876,7 +13876,7 @@
 "dateStart": "2026",
 "id": "e-2d1a1241c6",
 "label": "would abolish AARO outright and bar any successor entity",
-"predicate": "affects",
+"predicate": "governs",
 "subject": "a",
 "t": "legislative",
 "tier": 2
@@ -13887,7 +13887,7 @@
 "dateStart": "2022-12-23",
 "id": "e-6e5c6c050e",
 "label": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
-"predicate": "part_of",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -13898,7 +13898,7 @@
 "dateStart": null,
 "id": "e-9cb06d1530",
 "label": "AARO reporting change and UAP funding limitation",
-"predicate": "mandated",
+"predicate": "governs",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -13909,7 +13909,7 @@
 "dateStart": "2023-12-22",
 "id": "e-0d32f86756",
 "label": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
-"predicate": "governs",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "funding",
 "tier": 1
@@ -13953,7 +13953,7 @@
 "dateStart": null,
 "id": "e-d217ceae91",
 "label": "named as an appropriate committee",
-"predicate": "mandated",
+"predicate": "governs",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -14030,7 +14030,7 @@
 "dateStart": null,
 "id": "e-833d67ee1b",
 "label": "named as an appropriate committee",
-"predicate": "mandated",
+"predicate": "governs",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -14052,7 +14052,7 @@
 "dateStart": "2023-06-22",
 "id": "e-61daa5e97a",
 "label": "the Senate committee text that would have closed the channel at the contractor end",
-"predicate": "governs",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "funding",
 "tier": 2
@@ -14085,7 +14085,7 @@
 "dateStart": "2023",
 "id": "e-01047e524d",
 "label": "The provision named derived propulsion work as a defunding category",
-"predicate": "governs",
+"predicate": "affects",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -14096,7 +14096,7 @@
 "dateStart": "2023",
 "id": "e-ec4b2ecec8",
 "label": "SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -14173,7 +14173,7 @@
 "dateStart": "2015-10-17",
 "id": "e-e128df55ba",
 "label": "Makes the CAPCO director the accountable official and registry holder",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -14184,7 +14184,7 @@
 "dateStart": null,
 "id": "e-85fbac12e9",
 "label": "D.9 makes the CAPCO Director the accountable official",
-"predicate": "governs",
+"predicate": "created",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -14195,7 +14195,7 @@
 "dateStart": null,
 "id": "e-98e3e59267",
 "label": "",
-"predicate": "created",
+"predicate": "mandated",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -14206,8 +14206,8 @@
 "dateStart": null,
 "id": "e-e2aa68b41c",
 "label": "",
-"predicate": "governs",
-"subject": "a",
+"predicate": "cites",
+"subject": "b",
 "t": "programmatic",
 "tier": 1
 },
@@ -14218,7 +14218,7 @@
 "id": "e-84c61e5c3d",
 "label": "Irreconcilable executive-branch findings on the same allegations",
 "predicate": "contradicts",
-"subject": "b",
+"subject": "a",
 "t": "denial",
 "tier": 3
 },
@@ -14261,7 +14261,7 @@
 "dateStart": "1976",
 "id": "e-bef625fd7d",
 "label": "1976 IHEDN committee produced GEPAN",
-"predicate": "founded",
+"predicate": "produced",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -14305,7 +14305,7 @@
 "dateStart": "2024-11-13",
 "id": "e-2ced9755af",
 "label": "The disclosure event is constituted by the 13 November 2024 hearing",
-"predicate": "part_of",
+"predicate": "same_as",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -14316,7 +14316,7 @@
 "dateStart": "2024-11-13",
 "id": "e-6213afa1a0",
 "label": "The event is anchored by the document entered on 13 November 2024",
-"predicate": "produced",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -14327,7 +14327,7 @@
 "dateStart": "2025",
 "id": "e-c8f65d8771",
 "label": "The only provenance story ever attached to the report points at Schriever",
-"predicate": "made_claims_about",
+"predicate": "occurred_at",
 "subject": "a",
 "t": "geographic",
 "tier": 2
@@ -14371,7 +14371,7 @@
 "dateStart": "2023",
 "id": "e-d0383fe3f4",
 "label": "Manuscript reviewed and cleared by the Department's prepublication office",
-"predicate": "acknowledged",
+"predicate": "investigated",
 "subject": "b",
 "t": "institutional",
 "tier": 2
@@ -14426,7 +14426,7 @@
 "dateStart": null,
 "id": "e-36c03e7cc0",
 "label": "A ridiculed subject held inside service-secretary-level access controls",
-"predicate": "ran",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "programmatic",
 "tier": 3
@@ -14459,7 +14459,7 @@
 "dateStart": "1957-01",
 "id": "e-7adae31730",
 "label": "Witten took part in the Institute's inaugural Chapel Hill conference",
-"predicate": "member_of",
+"predicate": "held_post",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -14492,7 +14492,7 @@
 "dateStart": "1952",
 "id": "e-dc49dcfec5",
 "label": "FAS publishes the only public series on how often the Act is used",
-"predicate": "studied",
+"predicate": "reported_on",
 "subject": "b",
 "t": "investigative",
 "tier": 1
@@ -14525,7 +14525,7 @@
 "dateStart": "2023-12-22",
 "id": "e-c103bc5c27",
 "label": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
-"predicate": "affects",
+"predicate": "outside_of",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -14547,7 +14547,7 @@
 "dateStart": "1978",
 "id": "e-ce2fc3d777",
 "label": "NISP oversight is the only government-wide window on contractor-held classified work",
-"predicate": "affects",
+"predicate": "oversaw",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -14569,7 +14569,7 @@
 "dateStart": "2026-01-15",
 "id": "e-526824cfe2",
 "label": "gave the hospital custody account to members of Congress",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -14613,7 +14613,7 @@
 "dateStart": "1953",
 "id": "e-6ecac0ea84",
 "label": "Hynek presented to the panel but was not a member",
-"predicate": "witnessed",
+"predicate": "outside_of",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -14767,7 +14767,7 @@
 "dateStart": "2001-05",
 "id": "e-fc29e7ebf3",
 "label": "Federal file recovered after seventeen years and two destruction notices",
-"predicate": "investigated",
+"predicate": "brought_to_record",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -14778,7 +14778,7 @@
 "dateStart": "2010",
 "id": "e-550fd0f314",
 "label": "Disputes that any Oscar Flight incident occurred",
-"predicate": "denied",
+"predicate": "disputed",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -14800,7 +14800,7 @@
 "dateStart": "2009",
 "id": "e-d4c5520ff0",
 "label": "USD(I) recommends against establishing a SAP",
-"predicate": "disputed",
+"predicate": "refused",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -14844,7 +14844,7 @@
 "dateStart": "2026",
 "id": "e-ef9e4c53f5",
 "label": "Co-launched the probe",
-"predicate": "investigated",
+"predicate": "led",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -14866,7 +14866,7 @@
 "dateStart": "2024",
 "id": "e-dc7b31d087",
 "label": "Reported to support the proposed select committee; never created one",
-"predicate": "affects",
+"predicate": "supported",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -14943,7 +14943,7 @@
 "dateStart": "2023",
 "id": "e-4261f8418f",
 "label": "releasing AAWSAP material through trade publication",
-"predicate": "wrote",
+"predicate": "published",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -14954,7 +14954,7 @@
 "dateStart": "2007",
 "id": "e-5b25da505b",
 "label": "2007 approach that originated the contract",
-"predicate": "in_contact_with",
+"predicate": "requested",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -15086,7 +15086,7 @@
 "dateStart": "2023",
 "id": "e-1c4c6121ad",
 "label": "Ranking Member of the full committee at the time of the founding hearing",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -15108,7 +15108,7 @@
 "dateStart": "1954",
 "id": "e-bd9b6d6043",
 "label": "JANAP created a parallel reporting channel outside Blue Book",
-"predicate": "parallels",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -15130,7 +15130,7 @@
 "dateStart": "2026",
 "id": "e-5d54a26bc0",
 "label": "'Disclosure today, disclosure tomorrow'",
-"predicate": "appeared_on",
+"predicate": "supported",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -15174,7 +15174,7 @@
 "dateStart": "1990-08-01",
 "id": "e-2af0a56a75",
 "label": "The Defence Secretariat file covering the claimed assessment is closed until 2076",
-"predicate": "holds",
+"predicate": "alleged_to_hold",
 "subject": "b",
 "t": "custody",
 "tier": 1
@@ -15251,7 +15251,7 @@
 "dateStart": "2004-11-15",
 "id": "e-06b6b97b02",
 "label": "Turner independently corroborates the confiscation window",
-"predicate": "witnessed",
+"predicate": "corroborated",
 "subject": "a",
 "t": "custody",
 "tier": 3
@@ -15317,7 +15317,7 @@
 "dateStart": "2020",
 "id": "e-a4d95ee7cb",
 "label": "Director, UAP Task Force",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -15395,7 +15395,7 @@
 "id": "e-85739d3979",
 "label": "His report 'The UAP Puzzle' was submitted into the record by Rep. Burchett",
 "predicate": "brought_to_record",
-"subject": "b",
+"subject": "a",
 "t": "investigative",
 "tier": 1
 },
@@ -15471,7 +15471,7 @@
 "dateStart": "1978",
 "id": "e-3bd6422e43",
 "label": "Marcel's account is the spine of the 1980 book",
-"predicate": "witnessed",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -15504,7 +15504,7 @@
 "dateStart": "2021",
 "id": "e-01ec7bd604",
 "label": "Creator and host",
-"predicate": "founded",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -15570,7 +15570,7 @@
 "dateStart": "2026",
 "id": "e-19201b74d1",
 "label": "Michels produced and hosted the structural episode",
-"predicate": "produced",
+"predicate": "published",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -15614,7 +15614,7 @@
 "dateStart": "2026",
 "id": "e-baa1666c7f",
 "label": "The 2026 bomber-base incursions are the task force's live problem",
-"predicate": "investigated",
+"predicate": "responded_to",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -15625,8 +15625,8 @@
 "dateStart": "2025",
 "id": "e-6a8f301936",
 "label": "Task force stood up in August 2025 after two years of unattributed incursions",
-"predicate": "led_to",
-"subject": "b",
+"predicate": "responded_to",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -15680,7 +15680,7 @@
 "dateStart": "1996",
 "id": "e-74a2638135",
 "label": "serving head of SEPRA contributed to the report",
-"predicate": "told",
+"predicate": "testified_at",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -15757,7 +15757,7 @@
 "dateStart": "2000-10",
 "id": "e-b6d879af4b",
 "label": "Testimony at section 3.8.2, dated October 2000",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -15779,7 +15779,7 @@
 "dateStart": "1986-11",
 "id": "e-71c30c8403",
 "label": "Claimed role in the FAA's handling of the case",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -15790,7 +15790,7 @@
 "dateStart": "2001-05-09",
 "id": "e-582c0fbf97",
 "label": "Spoke at the podium, 9 May 2001",
-"predicate": "testified_at",
+"predicate": "appeared_on",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -15812,7 +15812,7 @@
 "dateStart": "2026",
 "id": "e-78ceff23b1",
 "label": "Established publicly that the FY2025 report was released months late",
-"predicate": "investigated",
+"predicate": "reported_on",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -15823,7 +15823,7 @@
 "dateStart": "2024",
 "id": "e-c5c5c63494",
 "label": "Hosts the working public mirror of Volume I",
-"predicate": "holds",
+"predicate": "published",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -15856,7 +15856,7 @@
 "dateStart": "2016-04-01",
 "id": "e-6bc30259df",
 "label": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
-"predicate": "explained_away",
+"predicate": "investigated",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -15977,7 +15977,7 @@
 "dateStart": "1989",
 "id": "e-fbfa3432a7",
 "label": "Carrier of the claim, not an eyewitness to the claimed site",
-"predicate": "brought_to_record",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "witness-chain",
 "tier": 3
@@ -15999,7 +15999,7 @@
 "dateStart": "1976",
 "id": "e-ecbd1ca66a",
 "label": "The FOIA request that caused the recovery of the surviving MKULTRA file",
-"predicate": "led_to",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -16032,7 +16032,7 @@
 "dateStart": "2009-01-06",
 "id": "e-69044cbc2f",
 "label": "Ranking Member, House Armed Services Committee",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -16065,7 +16065,7 @@
 "dateStart": "1981",
 "id": "e-31145fb101",
 "label": "MUFON International Director 2000-2006 and case investigator",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -16076,7 +16076,7 @@
 "dateStart": "2024",
 "id": "e-0031c6245c",
 "label": "Director of AARO from August 2024",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -16120,7 +16120,7 @@
 "dateStart": "2024",
 "id": "e-087662ab2f",
 "label": "Promised publication 'within months' in November 2024",
-"predicate": "refused",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -16142,7 +16142,7 @@
 "dateStart": "2024",
 "id": "e-a2a85adb8c",
 "label": "AARO parallax reanalysis: no anomalous speed or flight characteristics",
-"predicate": "explained_away",
+"predicate": "disputed",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -16252,7 +16252,7 @@
 "dateStart": null,
 "id": "e-397aa273bc",
 "label": "Participant at the Institute's inaugural conference, January 1957",
-"predicate": "member_of",
+"predicate": "in_contact_with",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -16263,7 +16263,7 @@
 "dateStart": null,
 "id": "e-44a537068b",
 "label": "Both printed on the same forty-six-name participants list",
-"predicate": "in_contact_with",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -16308,7 +16308,7 @@
 "id": "e-bf17a5f41c",
 "label": "Mace read his 'nonhuman intelligence exists' statement into the hearing record",
 "predicate": "brought_to_record",
-"subject": "b",
+"subject": "a",
 "t": "witness-chain",
 "tier": 1
 },
@@ -16318,7 +16318,7 @@
 "dateStart": "2021",
 "id": "e-40af12a2c9",
 "label": "Army liaison to the UAP Task Force, 2021-2022",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -16417,7 +16417,7 @@
 "dateStart": null,
 "id": "e-f0ff699d82",
 "label": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -16439,7 +16439,7 @@
 "dateStart": "1947",
 "id": "e-84f49eef40",
 "label": "Arnold's case entered the official file series from the outset",
-"predicate": "witnessed",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -16516,7 +16516,7 @@
 "dateStart": "2025-06-06",
 "id": "e-c52d85dd3c",
 "label": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
-"predicate": "acknowledged",
+"predicate": "supported",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -16758,7 +16758,7 @@
 "dateStart": "2026",
 "id": "e-0640577000",
 "label": "Author of the statute publicly states the obligation is unmet",
-"predicate": "made_claims_about",
+"predicate": "disputed",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -16945,7 +16945,7 @@
 "dateStart": "1989-05",
 "id": "e-077e74214f",
 "label": "The original broadcast artefact of the claim",
-"predicate": "made_claims_about",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 3
@@ -16978,7 +16978,7 @@
 "dateStart": null,
 "id": "e-6aefd1a019",
 "label": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
-"predicate": "in_contact_with",
+"predicate": "led_to",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -17044,8 +17044,8 @@
 "dateStart": "2011",
 "id": "e-954e7cf49b",
 "label": "CIA alleged to have terminated the programme",
-"predicate": "refused",
-"subject": "b",
+"predicate": "alleged_tie",
+"subject": "a",
 "t": "denial",
 "tier": 2
 },
@@ -17066,7 +17066,7 @@
 "dateStart": "2011",
 "id": "e-e6510f8902",
 "label": "The proposal's premise was that existing holdings would be moved into a structure Congress could see",
-"predicate": "alleged_to_hold",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -17088,8 +17088,8 @@
 "dateStart": "2009",
 "id": "e-6cfabd6094",
 "label": "second attempt at the protection Reid was refused",
-"predicate": "parallels",
-"subject": "a",
+"predicate": "led_to",
+"subject": "b",
 "t": "temporal",
 "tier": 3
 },
@@ -17099,8 +17099,8 @@
 "dateStart": "2011",
 "id": "e-06e33ef452",
 "label": "A program can be designed and formally requested without ever crossing the congressional reporting threshold",
-"predicate": "governs",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "behavioral",
 "tier": 1
 },
@@ -17275,7 +17275,7 @@
 "dateStart": null,
 "id": "e-a03abd6c70",
 "label": "Project Stork / Blue Book Special Report No. 14 produced here",
-"predicate": "located_at",
+"predicate": "occurred_at",
 "subject": "b",
 "t": "geographic",
 "tier": 1
@@ -17319,7 +17319,7 @@
 "dateStart": "1955",
 "id": "e-2f40ed25b5",
 "label": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
-"predicate": "led_to",
+"predicate": "affects",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -17407,7 +17407,7 @@
 "dateStart": "2020",
 "id": "e-4f7b7cdc90",
 "label": "The Task Force's chief scientist was employed by a Huntsville contractor",
-"predicate": "affects",
+"predicate": "connected_to",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -17451,7 +17451,7 @@
 "dateStart": null,
 "id": "e-7990ea3bad",
 "label": "AAWSAP contract performed from Las Vegas",
-"predicate": "located_at",
+"predicate": "occurred_at",
 "subject": "b",
 "t": "geographic",
 "tier": 1
@@ -17495,8 +17495,8 @@
 "dateStart": null,
 "id": "e-4aaf7db27c",
 "label": "produced at Whitehall, released via TNA at Kew",
-"predicate": "located_at",
-"subject": "b",
+"predicate": "holds",
+"subject": "a",
 "t": "geographic",
 "tier": 1
 },
@@ -17517,7 +17517,7 @@
 "dateStart": "1948",
 "id": "e-ae3ccf63e9",
 "label": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
-"predicate": "parallels",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "geographic",
 "tier": 2
@@ -17616,8 +17616,8 @@
 "dateStart": "1945",
 "id": "e-3700b6a81e",
 "label": "Roswell sits inside the 1947 New Mexico nuclear and rocketry complex",
-"predicate": "affects",
-"subject": "b",
+"predicate": "concurrent_with",
+"subject": "a",
 "t": "geographic",
 "tier": 3
 },
@@ -17627,7 +17627,7 @@
 "dateStart": null,
 "id": "e-a10e9a7d78",
 "label": "alleged second recovery site (Barnett account)",
-"predicate": "alleged_to_hold",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "geographic",
 "tier": 3
@@ -17649,7 +17649,7 @@
 "dateStart": "1970",
 "id": "e-eb4efc2c30",
 "label": "The ranch sits inside the Uintah Basin reporting region",
-"predicate": "located_at",
+"predicate": "part_of",
 "subject": "a",
 "t": "geographic",
 "tier": 2
@@ -17671,8 +17671,8 @@
 "dateStart": null,
 "id": "e-dde6788a41",
 "label": "UK-commissioned study of its own air defence region",
-"predicate": "concerns",
-"subject": "b",
+"predicate": "holds",
+"subject": "a",
 "t": "geographic",
 "tier": 1
 },
@@ -17748,8 +17748,8 @@
 "dateStart": "1965-08-01",
 "id": "e-0ae62d7e61",
 "label": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
-"predicate": "located_at",
-"subject": "b",
+"predicate": "part_of",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -17858,7 +17858,7 @@
 "dateStart": "1993",
 "id": "e-bc1955e500",
 "label": "The initiative worked the Clinton White House while Podesta was Staff Secretary and later Chief of Staff",
-"predicate": "affects",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -17946,7 +17946,7 @@
 "dateStart": "1991",
 "id": "e-493dba580e",
 "label": "The dated, opened, complete statement of the claim in the claimant's own voice",
-"predicate": "made_claims_about",
+"predicate": "concerns",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -17968,7 +17968,7 @@
 "dateStart": "1995",
 "id": "e-8dfef71261",
 "label": "Randle's case-by-case surveys audit Stringfield's corpus",
-"predicate": "studied",
+"predicate": "investigated",
 "subject": "b",
 "t": "research",
 "tier": 3
@@ -18023,7 +18023,7 @@
 "dateStart": "2003-12-09",
 "id": "e-e1a409137f",
 "label": "Plaintiff who forced a court-supervised NASA records search",
-"predicate": "investigated",
+"predicate": "led",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -18078,7 +18078,7 @@
 "dateStart": "1947-02-28",
 "id": "e-3e370ea9c5",
 "label": "First Chief, AFSWP",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -18122,7 +18122,7 @@
 "dateStart": "1949",
 "id": "e-99e10f0db9",
 "label": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
-"predicate": "led_to",
+"predicate": "witnessed",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -18155,8 +18155,8 @@
 "dateStart": "1952",
 "id": "e-459335c3bd",
 "label": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
-"predicate": "governs",
-"subject": "b",
+"predicate": "part_of",
+"subject": "a",
 "t": "funding",
 "tier": 1
 },
@@ -18167,7 +18167,7 @@
 "id": "e-48a6e59963",
 "label": "Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS",
 "predicate": "alleged_to_hold",
-"subject": "a",
+"subject": "b",
 "t": "custody",
 "tier": 2
 },
@@ -18188,7 +18188,7 @@
 "dateStart": "2024",
 "id": "e-207fe30640",
 "label": "Alleged domain-partitioned allocation of material across primes by technical expertise",
-"predicate": "parallels",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -18199,7 +18199,7 @@
 "dateStart": "2009",
 "id": "e-c90c7f9c2c",
 "label": "The most-repeated custody allegation names Lockheed and California",
-"predicate": "alleged_to_hold",
+"predicate": "located_at",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -18210,7 +18210,7 @@
 "dateStart": "2026",
 "id": "e-9190046bcf",
 "label": "Lockheed Martin is named among the contractors supporting NAVAIR work at the site alleged to store an exotic vehicle",
-"predicate": "alleged_to_hold",
+"predicate": "located_at",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -18309,7 +18309,7 @@
 "dateStart": "1966-08-09",
 "id": "e-e941910834",
 "label": "The Low memo shows the conclusion was framed before the study began",
-"predicate": "concerns",
+"predicate": "denied",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -18320,7 +18320,7 @@
 "dateStart": "2010",
 "id": "e-13549cbed5",
 "label": "Ran the program from c.2010 to 2017 (asserted); role denied by DoD",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -18342,7 +18342,7 @@
 "dateStart": "2017",
 "id": "e-918eb3fde5",
 "label": "Successive OUSD(I)/IC witnesses making the same structural allegation seven years apart",
-"predicate": "corroborated",
+"predicate": "parallels",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -18518,8 +18518,8 @@
 "dateStart": "2017-12-16",
 "id": "e-3d6d5781a1",
 "label": "Elizondo's resignation and the videos anchored the story",
-"predicate": "brought_to_record",
-"subject": "a",
+"predicate": "concerns",
+"subject": "b",
 "t": "witness-chain",
 "tier": 1
 },
@@ -18661,7 +18661,7 @@
 "dateStart": "1967-03-17",
 "id": "e-d2b70dec63",
 "label": "Hastings holds and publishes the 17 March 1967 teletype",
-"predicate": "holds",
+"predicate": "published",
 "subject": "b",
 "t": "custody",
 "tier": 1
@@ -18695,7 +18695,7 @@
 "id": "e-93cf33cac5",
 "label": "Alleges custody of recovered disks vested in AEC national laboratories",
 "predicate": "alleged_to_hold",
-"subject": "b",
+"subject": "a",
 "t": "custody",
 "tier": 2
 },
@@ -18716,7 +18716,7 @@
 "dateStart": "2025",
 "id": "e-3dff29bc31",
 "label": "Sandia investigation is the evidentiary bridge for AEC custody",
-"predicate": "corroborated",
+"predicate": "concerns",
 "subject": "b",
 "t": "programmatic",
 "tier": 2
@@ -18727,7 +18727,7 @@
 "dateStart": "1994",
 "id": "e-ede027794e",
 "label": "Non-Covert Action Programs alleged to carry waived reporting requirements",
-"predicate": "made_claims_about",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -18859,8 +18859,8 @@
 "dateStart": "2024",
 "id": "e-1371bca480",
 "label": "Absent from the 2024 refiling; left the Senate January 2025",
-"predicate": "preceded",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "temporal",
 "tier": 1
 },
@@ -18936,7 +18936,7 @@
 "dateStart": "1975",
 "id": "e-a50f06bfae",
 "label": "Claimed security policeman, 44th Missile Security Squadron",
-"predicate": "witnessed",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "geographic",
 "tier": 2
@@ -18980,8 +18980,8 @@
 "dateStart": "2000-12",
 "id": "e-3042ddef5b",
 "label": "Disclosure Project witness, testimony taken December 2000",
-"predicate": "brought_to_record",
-"subject": "b",
+"predicate": "witnessed",
+"subject": "a",
 "t": "witness-chain",
 "tier": 1
 },
@@ -18991,7 +18991,7 @@
 "dateStart": "2000-12",
 "id": "e-a569f5ad14",
 "label": "Testimony at section 3.8.5, dated December 2000",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -19079,8 +19079,8 @@
 "dateStart": "2000-12",
 "id": "e-26a4782550",
 "label": "Witness to Greer's compilation; Greer writes the editorial notes around his testimony",
-"predicate": "brought_to_record",
-"subject": "b",
+"predicate": "told",
+"subject": "a",
 "t": "witness-chain",
 "tier": 1
 },
@@ -19090,7 +19090,7 @@
 "dateStart": "2000-12",
 "id": "e-be1ea94e26",
 "label": "Attributes the claimed lift effect to a Brown patent of the late 1950s or early 1960s",
-"predicate": "made_claims_about",
+"predicate": "cites",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -19123,7 +19123,7 @@
 "dateStart": "2023",
 "id": "e-dba8386fcd",
 "label": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup",
-"predicate": "disputed",
+"predicate": "denied",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -19145,7 +19145,7 @@
 "dateStart": "2024",
 "id": "e-a4de721608",
 "label": "President and CEO from 3 September 2024",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -19178,7 +19178,7 @@
 "dateStart": "2023",
 "id": "e-5e8104b5f4",
 "label": "Author of the IAA FY2024 contractor turn-in",
-"predicate": "sponsored_law",
+"predicate": "wrote",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -19222,7 +19222,7 @@
 "dateStart": "2023",
 "id": "e-456e219f67",
 "label": "Received a protected disclosure from Eglin and went to the base with Burchett and Luna",
-"predicate": "located_at",
+"predicate": "witnessed",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -19255,7 +19255,7 @@
 "dateStart": "2026",
 "id": "e-1f65569ae2",
 "label": "Named for instrumentation and data collection",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -19310,7 +19310,7 @@
 "dateStart": "1968",
 "id": "e-9e18b58924",
 "label": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
-"predicate": "parallels",
+"predicate": "preceded",
 "subject": "a",
 "t": "funding",
 "tier": 3
@@ -19365,7 +19365,7 @@
 "dateStart": "2024",
 "id": "e-aaedf67eb7",
 "label": "NASA UAP study participant testifying on stigma and data policy alongside AARO's remit",
-"predicate": "parallels",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -19409,8 +19409,8 @@
 "dateStart": "2024-02",
 "id": "e-a0edefad80",
 "label": "Inferred identification with the anonymised page 29 interviewee",
-"predicate": "alleged_tie",
-"subject": "a",
+"predicate": "concerns",
+"subject": "b",
 "t": "investigative",
 "tier": 3
 },
@@ -19442,7 +19442,7 @@
 "dateStart": "2025-09-09",
 "id": "e-86199651c0",
 "label": "Named on the record as the custodian who supplied the written testimony",
-"predicate": "brought_to_record",
+"predicate": "holds",
 "subject": "b",
 "t": "custody",
 "tier": 1
@@ -19453,7 +19453,7 @@
 "dateStart": "1977-11-18",
 "id": "e-f1356e7a78",
 "label": "The second witness, located by the publishing party in June 2026",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -19475,7 +19475,7 @@
 "dateStart": "2026-06-26",
 "id": "e-3bdeac722b",
 "label": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
-"predicate": "told",
+"predicate": "in_contact_with",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -19486,7 +19486,7 @@
 "dateStart": null,
 "id": "e-4b0133aa9e",
 "label": "The Comptroller executes the annex",
-"predicate": "held_post",
+"predicate": "implements",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -19607,7 +19607,7 @@
 "dateStart": "2023",
 "id": "e-6776b3e9b3",
 "label": "Chairman during the FY2024 conference",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -19618,7 +19618,7 @@
 "dateStart": "2023",
 "id": "e-503008c1dd",
 "label": "Named as co-leading the effort to eliminate or alter the Act",
-"predicate": "disputed",
+"predicate": "refused",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -19695,7 +19695,7 @@
 "dateStart": "2023",
 "id": "e-233b7b64d2",
 "label": "Named as demanding removal of the Board's subpoena power",
-"predicate": "refused",
+"predicate": "acted_against",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -19706,7 +19706,7 @@
 "dateStart": "2023",
 "id": "e-d5f895867e",
 "label": "Named as demanding removal of the eminent domain provision",
-"predicate": "refused",
+"predicate": "disputed",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -19717,7 +19717,7 @@
 "dateStart": "2004",
 "id": "e-623b0662f3",
 "label": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
-"predicate": "corroborated",
+"predicate": "cites",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -19728,7 +19728,7 @@
 "dateStart": "2004",
 "id": "e-c0690fe47e",
 "label": "The domain's best single published adjudication",
-"predicate": "concerns",
+"predicate": "studied",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -19739,8 +19739,8 @@
 "dateStart": "2004",
 "id": "e-63679eb61d",
 "label": "The published summary of the project's methods and findings",
-"predicate": "produced",
-"subject": "b",
+"predicate": "concerns",
+"subject": "a",
 "t": "investigative",
 "tier": 1
 },
@@ -19761,7 +19761,7 @@
 "dateStart": "2004",
 "id": "e-9594c4bce3",
 "label": "NASA: the observed thrust is ion wind, and these devices are not viable candidates",
-"predicate": "denied",
+"predicate": "explained_away",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -20069,7 +20069,7 @@
 "dateStart": "2022",
 "id": "e-1283a7aeb3",
 "label": "Chief Science Advisor whose office produced the report",
-"predicate": "led",
+"predicate": "ran",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -20080,7 +20080,7 @@
 "dateStart": null,
 "id": "e-186e7f0eb6",
 "label": "INSCOM assessed the Institute's Gateway training in June 1983, inside CENTER LANE's span",
-"predicate": "part_of",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -20146,7 +20146,7 @@
 "dateStart": "2023",
 "id": "e-213bf86c7d",
 "label": "Chairwoman; presided over the 2024 joint hearing",
-"predicate": "led",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -20212,7 +20212,7 @@
 "dateStart": null,
 "id": "e-a08330f2e8",
 "label": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
-"predicate": "connected_to",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -20256,7 +20256,7 @@
 "dateStart": "2024",
 "id": "e-36dba3239e",
 "label": "Agency compliance ran nineteen months past the statutory deadline",
-"predicate": "produced",
+"predicate": "preceded",
 "subject": "a",
 "t": "temporal",
 "tier": 3
@@ -20267,7 +20267,7 @@
 "dateStart": null,
 "id": "e-bce3600bac",
 "label": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
-"predicate": "parallels",
+"predicate": "succeeded",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -20289,7 +20289,7 @@
 "dateStart": "2024",
 "id": "e-0a3d589db7",
 "label": "Both are components of the National Archives",
-"predicate": "connected_to",
+"predicate": "parallels",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -20399,7 +20399,7 @@
 "dateStart": "2022",
 "id": "e-d57bd1b10a",
 "label": "Ran concurrently with, and separately from, AARO",
-"predicate": "parallels",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -20410,7 +20410,7 @@
 "dateStart": "2023",
 "id": "e-74432a42eb",
 "label": "Concluded data was insufficient - having been given only the unclassified record",
-"predicate": "omitted",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "denial",
 "tier": 3
@@ -20454,7 +20454,7 @@
 "dateStart": "1954",
 "id": "e-d55064a259",
 "label": "The 1954 regulation was issued under Twining as Chief of Staff",
-"predicate": "created",
+"predicate": "wrote",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -20520,8 +20520,8 @@
 "dateStart": "2001-05-09",
 "id": "e-2fde4013a2",
 "label": "The Project's press conference, 9 May 2001",
-"predicate": "produced",
-"subject": "b",
+"predicate": "part_of",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -20597,8 +20597,8 @@
 "dateStart": null,
 "id": "e-46d2736566",
 "label": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
-"predicate": "contracted",
-"subject": "a",
+"predicate": "cites",
+"subject": "b",
 "t": "research",
 "tier": 1
 },
@@ -20608,7 +20608,7 @@
 "dateStart": null,
 "id": "e-4a2d971b55",
 "label": "NASA commissioned both federal reports that date and attribute the alloy",
-"predicate": "cites",
+"predicate": "contracted",
 "subject": "b",
 "t": "research",
 "tier": 1
@@ -20652,8 +20652,8 @@
 "dateStart": "2004",
 "id": "e-319485e757",
 "label": "Reporting volume tracks the existence of a channel, not the phenomenon",
-"predicate": "concerns",
-"subject": "a",
+"predicate": "led_to",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -20674,8 +20674,8 @@
 "dateStart": null,
 "id": "e-5ee871d791",
 "label": "Sec. 1683 is the UAP-office provision of P.L. 117-81",
-"predicate": "same_as",
-"subject": "a",
+"predicate": "part_of",
+"subject": "b",
 "t": "legislative",
 "tier": 1
 },
@@ -20696,7 +20696,7 @@
 "dateStart": null,
 "id": "e-7fc24b3d81",
 "label": "directed disestablishment of the UAPTF",
-"predicate": "mandated",
+"predicate": "led_to",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -20762,7 +20762,7 @@
 "dateStart": "2022-12-23",
 "id": "e-1017d21b4d",
 "label": "amends 50 U.S.C. 3373 to create AARO",
-"predicate": "succeeded",
+"predicate": "amended",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -20795,8 +20795,8 @@
 "dateStart": "2022",
 "id": "e-c5c575145c",
 "label": "Statutory NDA-voiding precedent behind the Act's whistleblower posture",
-"predicate": "cites",
-"subject": "b",
+"predicate": "led_to",
+"subject": "a",
 "t": "legislative",
 "tier": 1
 },
@@ -20993,7 +20993,7 @@
 "dateStart": "2023-12-22",
 "id": "e-b83e0af118",
 "label": "Cuts off funding for UAP activity held under special or restricted access unless disclosed",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -21092,7 +21092,7 @@
 "dateStart": "2025-12-18",
 "id": "e-96a9c74f02",
 "label": "repeals 50 U.S.C. 3373a",
-"predicate": "succeeded",
+"predicate": "amended",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -21114,7 +21114,7 @@
 "dateStart": "2025",
 "id": "e-d122cf1fbf",
 "label": "Disposed of with seventeen amendments and no open process",
-"predicate": "governs",
+"predicate": "refused",
 "subject": "b",
 "t": "behavioral",
 "tier": 1
@@ -21136,7 +21136,7 @@
 "dateStart": "2026",
 "id": "e-dd08efa658",
 "label": "Would extend statutory disclosure to contractors holding covered records",
-"predicate": "affects",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -21180,7 +21180,7 @@
 "dateStart": "2025-12-10",
 "id": "e-6f55bf24d3",
 "label": "demands an intercept history since 2004",
-"predicate": "mandated",
+"predicate": "concerns",
 "subject": "a",
 "t": "legislative",
 "tier": 2
@@ -21191,7 +21191,7 @@
 "dateStart": "1957-11-20",
 "id": "e-8494c52acb",
 "label": "Named AFSWP as the reason the new agency was renamed",
-"predicate": "responded_to",
+"predicate": "cites",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -21224,7 +21224,7 @@
 "dateStart": "2017",
 "id": "e-51e6f50585",
 "label": "Sept 2017: Elizondo drafts a memo helping Tipton 'assume the new responsibilities for AATIP'",
-"predicate": "led",
+"predicate": "held_post",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -21257,7 +21257,7 @@
 "dateStart": "2023",
 "id": "e-f5a886dd05",
 "label": "Running the campaign for Senate passage of the UAPDA",
-"predicate": "affects",
+"predicate": "supported",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -21356,7 +21356,7 @@
 "dateStart": "1964",
 "id": "e-b15d55bc2b",
 "label": "Blue Book's former headquarters monitor sat on the NICAP board",
-"predicate": "in_contact_with",
+"predicate": "connected_to",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -21433,7 +21433,7 @@
 "dateStart": "2023",
 "id": "e-db853ade8a",
 "label": "NASA science chief at the report release briefing",
-"predicate": "acknowledged",
+"predicate": "held_post",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -21466,8 +21466,8 @@
 "dateStart": "2004",
 "id": "e-3334b97519",
 "label": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
-"predicate": "succeeded",
-"subject": "b",
+"predicate": "led_to",
+"subject": "a",
 "t": "programmatic",
 "tier": 2
 },
@@ -21565,7 +21565,7 @@
 "dateStart": "2013-08-29",
 "id": "e-8dcc79bc9c",
 "label": "What the Schedule of Authorizations looks like from the inside",
-"predicate": "parallels",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "programmatic",
 "tier": 3
@@ -21642,7 +21642,7 @@
 "dateStart": "1975-11-07",
 "id": "e-c8394a3a8c",
 "label": "Produced by the 24th NORAD Region's own senior directors",
-"predicate": "wrote",
+"predicate": "produced",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -21719,8 +21719,8 @@
 "dateStart": "1978",
 "id": "e-a2a3fad2e6",
 "label": "USAF a named partner and the publisher of the fact sheet",
-"predicate": "worked_with",
-"subject": "a",
+"predicate": "ran",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -21807,7 +21807,7 @@
 "dateStart": "2021-06-25",
 "id": "e-41ac157fba",
 "label": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
-"predicate": "worked_with",
+"predicate": "reports_to",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -21840,7 +21840,7 @@
 "dateStart": "1954-03-15",
 "id": "e-9141865605",
 "label": "Supersedes and rescinds the charter that created the office",
-"predicate": "succeeded",
+"predicate": "governs",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -21851,7 +21851,7 @@
 "dateStart": "1954-03-15",
 "id": "e-bb7647d699",
 "label": "Written under the same residual clause, six years on",
-"predicate": "implements",
+"predicate": "cites",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -21862,7 +21862,7 @@
 "dateStart": "1954-03-15",
 "id": "e-e667505860",
 "label": "Issued by the Council and approved by the President the same day",
-"predicate": "published",
+"predicate": "wrote",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -21884,7 +21884,7 @@
 "dateStart": "1985-01-18",
 "id": "e-ec701494a2",
 "label": "Orders a special access compartment over a whole policy subject",
-"predicate": "governs",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -21939,7 +21939,7 @@
 "dateStart": "2017",
 "id": "e-7e52055715",
 "label": "Broke the program's existence, funding and Reid origin",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -21961,7 +21961,7 @@
 "dateStart": "2023",
 "id": "e-a08e6bb75a",
 "label": "The New York Times did not publish the 2023 Grusch story",
-"predicate": "parallels",
+"predicate": "refused",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -21972,7 +21972,7 @@
 "dateStart": "2007",
 "id": "e-ecbb6b27fc",
 "label": "Identified Reid as the senator who initiated and funded AATIP",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "funding",
 "tier": 1
@@ -22016,7 +22016,7 @@
 "dateStart": "2017",
 "id": "e-d1da23f925",
 "label": "Named him as the official who ran AATIP",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -22049,7 +22049,7 @@
 "dateStart": null,
 "id": "e-a37188a394",
 "label": "AARO reviewed as a foreign model and named as a proposed partner",
-"predicate": "studied",
+"predicate": "cites",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -22126,8 +22126,8 @@
 "dateStart": "2015-10-17",
 "id": "e-869f016839",
 "label": "ISOO requests about IC controlled access programs are routed through CAPCO",
-"predicate": "requested",
-"subject": "b",
+"predicate": "governs",
+"subject": "a",
 "t": "denial",
 "tier": 1
 },
@@ -22137,7 +22137,7 @@
 "dateStart": "2026-08-01",
 "id": "e-564bde4e2c",
 "label": "designates AARO as a receiving channel for waived-NDA testimony",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -22148,7 +22148,7 @@
 "dateStart": "2026-08-01",
 "id": "e-e64cb62474",
 "label": "directed to release; absent from the statutory archive",
-"predicate": "omitted",
+"predicate": "refused",
 "subject": "b",
 "t": "denial",
 "tier": 3
@@ -22214,7 +22214,7 @@
 "dateStart": "2021",
 "id": "e-4ed02e166f",
 "label": "The 2021 data-limitation formula persists unchanged through FY2025",
-"predicate": "affects",
+"predicate": "parallels",
 "subject": "a",
 "t": "temporal",
 "tier": 3
@@ -22225,7 +22225,7 @@
 "dateStart": "2021",
 "id": "e-5b1955a7b7",
 "label": "Official confirmation of the stigma ASA exists to route around",
-"predicate": "affects",
+"predicate": "acknowledged",
 "subject": "a",
 "t": "behavioral",
 "tier": 1
@@ -22236,7 +22236,7 @@
 "dateStart": "2021",
 "id": "e-1c66e5b56e",
 "label": "18 of 144 incidents showed unusual movement patterns; sensors not designed to identify UAP",
-"predicate": "cites",
+"predicate": "concerns",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -22313,7 +22313,7 @@
 "dateStart": null,
 "id": "e-35135fea70",
 "label": "Approved the same day as the Atomic Energy Act of 1946",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -22368,7 +22368,7 @@
 "dateStart": "2009-03",
 "id": "e-f709769690",
 "label": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
-"predicate": "studied",
+"predicate": "investigated",
 "subject": "b",
 "t": "research",
 "tier": 2
@@ -22423,7 +22423,7 @@
 "dateStart": null,
 "id": "e-2d15759ff5",
 "label": "Named the operation as the deployment framing for the Weygandt Peru account",
-"predicate": "brought_to_record",
+"predicate": "made_claims_about",
 "subject": "b",
 "t": "investigative",
 "tier": 2
@@ -22489,7 +22489,7 @@
 "dateStart": null,
 "id": "e-5021b06b7a",
 "label": "The annex places the duplicate aircraft at Eglin AFB",
-"predicate": "concerns",
+"predicate": "located_at",
 "subject": "a",
 "t": "geographic",
 "tier": 1
@@ -22512,7 +22512,7 @@
 "id": "e-8268e44c49",
 "label": "The classified report was produced inside the ministry ten days after his public 'no explanation'",
 "predicate": "contradicts",
-"subject": "b",
+"subject": "a",
 "t": "institutional",
 "tier": 2
 },
@@ -22544,7 +22544,7 @@
 "dateStart": "2003",
 "id": "e-05472f762d",
 "label": "OSD principal for intelligence and security policy in the SAP enterprise",
-"predicate": "worked_with",
+"predicate": "oversaw",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -22555,7 +22555,7 @@
 "dateStart": "2021-06-25",
 "id": "e-3aca902dec",
 "label": "Named contributor to the 2021 ODNI Preliminary Assessment",
-"predicate": "reports_to",
+"predicate": "worked_with",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -22588,8 +22588,8 @@
 "dateStart": "2023-08-15",
 "id": "e-a35779b1d5",
 "label": "The audit Congress has, and cannot read",
-"predicate": "holds",
-"subject": "a",
+"predicate": "reports_to",
+"subject": "b",
 "t": "investigative",
 "tier": 1
 },
@@ -22610,7 +22610,7 @@
 "dateStart": "1988",
 "id": "e-8832e2477f",
 "label": "Defense committee receiving waived-SAP notification",
-"predicate": "part_of",
+"predicate": "member_of",
 "subject": "b",
 "t": "legislative",
 "tier": 1
@@ -22621,8 +22621,8 @@
 "dateStart": "1988",
 "id": "e-41afc54acd",
 "label": "The 10 U.S.C. 119(e) waiver reduces notification to eight members",
-"predicate": "governs",
-"subject": "a",
+"predicate": "reports_to",
+"subject": "b",
 "t": "legislative",
 "tier": 1
 },
@@ -22654,7 +22654,7 @@
 "dateStart": "1977",
 "id": "e-a3efb2b48b",
 "label": "Subject of the analysis: the 17 December 1977 molten mass",
-"predicate": "studied",
+"predicate": "concerns",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -22677,7 +22677,7 @@
 "id": "e-e8a651a623",
 "label": "Analysis performed with MIBI, a Stanford-developed instrument",
 "predicate": "analysed_material",
-"subject": "b",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -22720,7 +22720,7 @@
 "dateStart": "2010-09-27",
 "id": "e-761afa6dbd",
 "label": "Spoke on the record with a signed affidavit",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -22753,7 +22753,7 @@
 "dateStart": "1980",
 "id": "e-b8b3af9d03",
 "label": "Bennewitz's reporting generated the AFOSI Kirtland file",
-"predicate": "brought_to_record",
+"predicate": "led_to",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -22841,8 +22841,8 @@
 "dateStart": "1953",
 "id": "e-748a157dea",
 "label": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
-"predicate": "omitted",
-"subject": "b",
+"predicate": "affects",
+"subject": "a",
 "t": "denial",
 "tier": 2
 },
@@ -22896,7 +22896,7 @@
 "dateStart": "1986-05-19",
 "id": "e-0d6a5d9d9a",
 "label": "Commanded the air defence organisation whose engagement he then wrote up",
-"predicate": "led",
+"predicate": "witnessed",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -22918,7 +22918,7 @@
 "dateStart": "2026",
 "id": "e-dfd399cc1a",
 "label": "Named implementer; called it 'that executive order'",
-"predicate": "acknowledged",
+"predicate": "implements",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -22940,7 +22940,7 @@
 "dateStart": null,
 "id": "e-02badd9af5",
 "label": "Both printed on the same forty-six-name participants list",
-"predicate": "in_contact_with",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -22995,7 +22995,7 @@
 "dateStart": "2017-06-13",
 "id": "e-0bb36c2a9b",
 "label": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
-"predicate": "denied",
+"predicate": "disputed",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -23006,7 +23006,7 @@
 "dateStart": null,
 "id": "e-bea8e112d4",
 "label": "Co-author of a book-length treatment of the event, later repudiated by him",
-"predicate": "studied",
+"predicate": "investigated",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -23017,7 +23017,7 @@
 "dateStart": "2022",
 "id": "e-a42c1b3a90",
 "label": "Co-founder, Executive Director and Secretary of the Board",
-"predicate": "led",
+"predicate": "founded",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -23050,7 +23050,7 @@
 "dateStart": "1954",
 "id": "e-637132b95a",
 "label": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
-"predicate": "located_at",
+"predicate": "held_post",
 "subject": "a",
 "t": "geographic",
 "tier": 1
@@ -23105,7 +23105,7 @@
 "dateStart": null,
 "id": "e-14448fc00e",
 "label": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
-"predicate": "concerns",
+"predicate": "reports_to",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -23127,7 +23127,7 @@
 "dateStart": null,
 "id": "e-09a73a6e36",
 "label": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -23160,7 +23160,7 @@
 "dateStart": null,
 "id": "e-a50886e01d",
 "label": "POGO recommendations delivered to Luna's task force",
-"predicate": "reports_to",
+"predicate": "told",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -23204,8 +23204,8 @@
 "dateStart": "1983-04",
 "id": "e-ea9f7c422a",
 "label": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
-"predicate": "acted_against",
-"subject": "a",
+"predicate": "alleged_to_hold",
+"subject": "b",
 "t": "behavioral",
 "tier": 2
 },
@@ -23325,8 +23325,8 @@
 "dateStart": "1950",
 "id": "e-7fcf81429f",
 "label": "The 1950 predecessor of the 1953 programme",
-"predicate": "preceded",
-"subject": "a",
+"predicate": "succeeded",
+"subject": "b",
 "t": "temporal",
 "tier": 1
 },
@@ -23402,7 +23402,7 @@
 "dateStart": "1995",
 "id": "e-1c8b739b37",
 "label": "The MOGUL attribution cannot be tested against destroyed records",
-"predicate": "affects",
+"predicate": "investigated",
 "subject": "b",
 "t": "investigative",
 "tier": 3
@@ -23457,7 +23457,7 @@
 "dateStart": "1961",
 "id": "e-acd43d41ac",
 "label": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
-"predicate": "parallels",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "programmatic",
 "tier": 3
@@ -23523,8 +23523,8 @@
 "dateStart": "1993-05-25",
 "id": "e-e1df8cc34e",
 "label": "Issued under ASD(C3I) authority and binding on every DoD component",
-"predicate": "created",
-"subject": "b",
+"predicate": "governs",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -23534,8 +23534,8 @@
 "dateStart": null,
 "id": "e-5783d53f40",
 "label": "A nuclear weapons installation inside the directive's stated scope",
-"predicate": "part_of",
-"subject": "b",
+"predicate": "governs",
+"subject": "a",
 "t": "geographic",
 "tier": 2
 },
@@ -23545,7 +23545,7 @@
 "dateStart": null,
 "id": "e-397ebfc3b6",
 "label": "The administrative regime his testimony was given against",
-"predicate": "affects",
+"predicate": "governs",
 "subject": "a",
 "t": "witness-chain",
 "tier": 3
@@ -23600,7 +23600,7 @@
 "dateStart": "2026-08-07",
 "id": "e-0d7d12e17d",
 "label": "published the engagement record",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -23611,8 +23611,8 @@
 "dateStart": "2026-08-07",
 "id": "e-053e6d6bd3",
 "label": "published as DOW-UAP-D098",
-"predicate": "part_of",
-"subject": "b",
+"predicate": "concerns",
+"subject": "a",
 "t": "custody",
 "tier": 1
 },
@@ -23677,7 +23677,7 @@
 "dateStart": "2026",
 "id": "e-d353ac476f",
 "label": "29 FBI files including a 2021-2025 orb corpus and an agents' own FD-1057",
-"predicate": "released",
+"predicate": "produced",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -23710,8 +23710,8 @@
 "dateStart": "2026",
 "id": "e-4ea7aca143",
 "label": "Released the 1963 Brazil sphere report",
-"predicate": "released",
-"subject": "a",
+"predicate": "omitted",
+"subject": "b",
 "t": "custody",
 "tier": 2
 },
@@ -23721,7 +23721,7 @@
 "dateStart": "2026",
 "id": "e-2cf2601aea",
 "label": "Released the AC-130J gunship videos and DOW-UAP-D101",
-"predicate": "concerns",
+"predicate": "released",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -23776,8 +23776,8 @@
 "dateStart": "2026",
 "id": "e-c34cbffa9d",
 "label": "Release volume without release quality",
-"predicate": "contradicts",
-"subject": "a",
+"predicate": "ran",
+"subject": "b",
 "t": "denial",
 "tier": 2
 },
@@ -23820,7 +23820,7 @@
 "dateStart": "2026",
 "id": "e-e08a48e3fc",
 "label": "Metadata stripping defeats the study team's core recommendation",
-"predicate": "acted_against",
+"predicate": "affects",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -23842,7 +23842,7 @@
 "dateStart": "2026-05-08",
 "id": "e-6f531eb64f",
 "label": "physical release locations",
-"predicate": "holds",
+"predicate": "released",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -23919,7 +23919,7 @@
 "dateStart": "2026-08-01",
 "id": "e-ab47414775",
 "label": "the executive channel that competes with the congressional one",
-"predicate": "affects",
+"predicate": "parallels",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -23930,8 +23930,8 @@
 "dateStart": "2026-07-22",
 "id": "e-72e9744ede",
 "label": "unchartered body versus Senate-confirmed board",
-"predicate": "responded_to",
-"subject": "b",
+"predicate": "parallels",
+"subject": "a",
 "t": "legislative",
 "tier": 3
 },
@@ -23963,8 +23963,8 @@
 "dateStart": "2008",
 "id": "e-151882c234",
 "label": "Radiance is a mid-tier technical prime in the space where compartmented analytical tasks are placed",
-"predicate": "connected_to",
-"subject": "a",
+"predicate": "contracted",
+"subject": "b",
 "t": "funding",
 "tier": 3
 },
@@ -24007,8 +24007,8 @@
 "dateStart": "1968",
 "id": "e-7956425c5c",
 "label": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
-"predicate": "held_post",
-"subject": "b",
+"predicate": "supported",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -24183,7 +24183,7 @@
 "dateStart": "1955",
 "id": "e-d52c23f842",
 "label": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
-"predicate": "connected_to",
+"predicate": "part_of",
 "subject": "a",
 "t": "institutional",
 "tier": 3
@@ -24216,7 +24216,7 @@
 "dateStart": "2023",
 "id": "e-f158da06a7",
 "label": "Lead author of the project's detection and tracking computing platform",
-"predicate": "held_post",
+"predicate": "wrote",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -24227,7 +24227,7 @@
 "dateStart": "2026",
 "id": "e-9240195937",
 "label": "Named for data analysis and AI tools",
-"predicate": "member_of",
+"predicate": "held_post",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -24249,7 +24249,7 @@
 "dateStart": "1994",
 "id": "e-d1429d73f2",
 "label": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
-"predicate": "made_claims_about",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "investigative",
 "tier": 3
@@ -24337,7 +24337,7 @@
 "dateStart": "1980",
 "id": "e-36e2bf1fd5",
 "label": "Filed the AFOSI complaint form documenting the incident",
-"predicate": "investigated",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -24348,7 +24348,7 @@
 "dateStart": "1980",
 "id": "e-fce341e7ef",
 "label": "Doty's AFOSI detachment ran the Bennewitz deception from Kirtland",
-"predicate": "located_at",
+"predicate": "held_post",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -24381,8 +24381,8 @@
 "dateStart": "1980",
 "id": "e-70687ef611",
 "label": "Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz",
-"predicate": "acknowledged",
-"subject": "b",
+"predicate": "worked_with",
+"subject": "a",
 "t": "behavioral",
 "tier": 2
 },
@@ -24414,7 +24414,7 @@
 "dateStart": "2009-01-01",
 "id": "e-fa3cbb7ee2",
 "label": "co-affiliated AAWSAP authors at Wayne State University",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -24458,7 +24458,7 @@
 "dateStart": "1955-04-12",
 "id": "e-d3a62f4e9f",
 "label": "Selected the site on 12 April 1955",
-"predicate": "located_at",
+"predicate": "witnessed",
 "subject": "a",
 "t": "geographic",
 "tier": 1
@@ -24469,7 +24469,7 @@
 "dateStart": "1954",
 "id": "e-cae517d5f7",
 "label": "Ran the project Kelly Johnson built the aircraft for",
-"predicate": "contracted",
+"predicate": "ran",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -24590,7 +24590,7 @@
 "dateStart": "1995",
 "id": "e-581497930d",
 "label": "founded and privately funded NIDS 1995-2004",
-"predicate": "founded",
+"predicate": "funded",
 "subject": "a",
 "t": "funding",
 "tier": 2
@@ -24601,7 +24601,7 @@
 "dateStart": "1958",
 "id": "e-168f8298c2",
 "label": "First technical director; carried SAGE engineering authority across from MIT",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -24623,7 +24623,7 @@
 "dateStart": "2023",
 "id": "e-9e8c3cf991",
 "label": "Ranking Member at the 2023 hearing",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -24634,7 +24634,7 @@
 "dateStart": "2025",
 "id": "e-5eac3debc5",
 "label": "Ranking Member of the full committee from 2025",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -24678,8 +24678,8 @@
 "dateStart": "1996-08",
 "id": "e-96b3e80718",
 "label": "Recorded him in August 1996 and again on 6 May 2011, and publishes his letter",
-"predicate": "told",
-"subject": "b",
+"predicate": "interviewed",
+"subject": "a",
 "t": "research",
 "tier": 2
 },
@@ -24689,7 +24689,7 @@
 "dateStart": "1965-08-01",
 "id": "e-d24e36eebc",
 "label": "Publishes the F. E. Warren 1 August 1965 material",
-"predicate": "studied",
+"predicate": "reported_on",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -24711,7 +24711,7 @@
 "dateStart": "1966-08-25",
 "id": "e-abc6efc425",
 "label": "Publishes the 25 August 1966 Minot documents in facsimile",
-"predicate": "published",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -24755,7 +24755,7 @@
 "dateStart": "2008",
 "id": "e-7be1e0e83f",
 "label": "Located and recorded him; the account exists only as Hastings's tapes",
-"predicate": "brought_to_record",
+"predicate": "interviewed",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -24788,7 +24788,7 @@
 "dateStart": "1963-05",
 "id": "e-b41ad4bb4b",
 "label": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
-"predicate": "located_at",
+"predicate": "held_post",
 "subject": "a",
 "t": "geographic",
 "tier": 1
@@ -24810,7 +24810,7 @@
 "dateStart": "1967-03-24",
 "id": "e-ea24d246c2",
 "label": "Retargeting team commander; the source of the 24 March 1967 date",
-"predicate": "brought_to_record",
+"predicate": "witnessed",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -24832,7 +24832,7 @@
 "dateStart": "1967-03",
 "id": "e-86165af218",
 "label": "Boeing engineer on the investigation task group",
-"predicate": "witnessed",
+"predicate": "investigated",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -24854,7 +24854,7 @@
 "dateStart": "1999",
 "id": "e-c8f09a7e02",
 "label": "Co-principal of the document archive and its rating scheme",
-"predicate": "led",
+"predicate": "held_post",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -24887,7 +24887,7 @@
 "dateStart": "2010",
 "id": "e-39c5dc1d26",
 "label": "Founding board member; author of the Stephenville and Aguadilla studies",
-"predicate": "founded",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -24909,7 +24909,7 @@
 "dateStart": "1967-03-24",
 "id": "e-d563b7af04",
 "label": "The originating claimant of the Oscar Flight account",
-"predicate": "brought_to_record",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -24920,7 +24920,7 @@
 "dateStart": "2010-09-27",
 "id": "e-b55f2bd900",
 "label": "Spoke on the record and has a signed affidavit on file",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -24931,7 +24931,7 @@
 "dateStart": "1950",
 "id": "e-d10a801bc9",
 "label": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
-"predicate": "contradicts",
+"predicate": "told",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -24975,7 +24975,7 @@
 "dateStart": "1994",
 "id": "e-b4b15b96fc",
 "label": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
-"predicate": "produced",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -25019,7 +25019,7 @@
 "dateStart": "2025",
 "id": "e-daa0a085a2",
 "label": "Chaired SASC for the FY2026 authorization",
-"predicate": "sponsored_law",
+"predicate": "connected_to",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -25184,7 +25184,7 @@
 "dateStart": "1972",
 "id": "e-b2047540f4",
 "label": "Targ co-founded the SRI remote viewing research",
-"predicate": "led",
+"predicate": "member_of",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -25239,7 +25239,7 @@
 "dateStart": "2026",
 "id": "e-c96292e7fb",
 "label": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
-"predicate": "disputed",
+"predicate": "affects",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -25261,7 +25261,7 @@
 "dateStart": "1999",
 "id": "e-7637a7be80",
 "label": "Co-principal of the document archive",
-"predicate": "ran",
+"predicate": "held_post",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -25283,7 +25283,7 @@
 "dateStart": "1989",
 "id": "e-b37b426850",
 "label": "Claimed custody of non-human craft at the claimed site",
-"predicate": "alleged_to_hold",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "custody",
 "tier": 3
@@ -25316,7 +25316,7 @@
 "dateStart": "1989",
 "id": "e-45dedeb372",
 "label": "Claimed site sited by reference to Groom Lake, about fifteen miles north of it",
-"predicate": "located_at",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "geographic",
 "tier": 2
@@ -25327,7 +25327,7 @@
 "dateStart": "1989",
 "id": "e-8364469706",
 "label": "Claimed site placed on the Nellis range by the claimant",
-"predicate": "alleged_tie",
+"predicate": "located_at",
 "subject": "a",
 "t": "geographic",
 "tier": 2
@@ -25350,7 +25350,7 @@
 "id": "e-b55848e817",
 "label": "DISPUTE over the designator: two sources say S-4 belongs to a Tonopah radar facility",
 "predicate": "contradicts",
-"subject": "b",
+"subject": "a",
 "t": "geographic",
 "tier": 2
 },
@@ -25382,7 +25382,7 @@
 "dateStart": "1997",
 "id": "e-2501ad2c53",
 "label": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
-"predicate": "investigated",
+"predicate": "brought_to_record",
 "subject": "b",
 "t": "investigative",
 "tier": 1
@@ -25459,7 +25459,7 @@
 "dateStart": null,
 "id": "e-40a47828ba",
 "label": "Air Force SAP directive bars congressional briefings without SAPCO approval",
-"predicate": "refused",
+"predicate": "governs",
 "subject": "a",
 "t": "behavioral",
 "tier": 1
@@ -25492,7 +25492,7 @@
 "dateStart": "2015-07-24",
 "id": "e-16ebae69c7",
 "label": "NAWCAD, NAS Patuxent River, at the time of filing",
-"predicate": "held_post",
+"predicate": "located_at",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -25580,7 +25580,7 @@
 "dateStart": "1990",
 "id": "e-94d5b0d894",
 "label": "Doctorate from the RAND Graduate School",
-"predicate": "member_of",
+"predicate": "connected_to",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -25613,7 +25613,7 @@
 "dateStart": "2023",
 "id": "e-4da9f95ced",
 "label": "The amendment became Division G of the engrossed bill",
-"predicate": "part_of",
+"predicate": "same_as",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -25624,8 +25624,8 @@
 "dateStart": "2009",
 "id": "e-7ea004dd8e",
 "label": "three Sandia staff among the five outside reviewers",
-"predicate": "cites",
-"subject": "b",
+"predicate": "produced",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -25646,7 +25646,7 @@
 "dateStart": "2015-06-18",
 "id": "e-b00c154646",
 "label": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
-"predicate": "concerns",
+"predicate": "governs",
 "subject": "b",
 "t": "programmatic",
 "tier": 1
@@ -25668,8 +25668,8 @@
 "dateStart": "2023",
 "id": "e-109c53aa87",
 "label": "The jurisdictional routing that keeps the subpoena committee uncleared",
-"predicate": "affects",
-"subject": "a",
+"predicate": "exemplifies",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -25690,7 +25690,7 @@
 "dateStart": "2010-07-01",
 "id": "e-300f5334aa",
 "label": "The read-in gate members describe is the policy text of paragraph 4.f",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -25712,7 +25712,7 @@
 "dateStart": "2025",
 "id": "e-0f90f618dc",
 "label": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
-"predicate": "studied",
+"predicate": "worked_with",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -25745,7 +25745,7 @@
 "dateStart": "2015-11",
 "id": "e-716c382b71",
 "label": "Obtained Levesque's confession across a multi-year correspondence",
-"predicate": "brought_to_record",
+"predicate": "investigated",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -25800,7 +25800,7 @@
 "dateStart": "1990-12-03",
 "id": "e-f94b7db7df",
 "label": "Earliest opened record of the claim, taken about two years after the alleged event",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -25822,7 +25822,7 @@
 "dateStart": "2022",
 "id": "e-780376d816",
 "label": "first Director, July 2022 - 1 December 2023",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -25855,7 +25855,7 @@
 "dateStart": "2023-12",
 "id": "e-fe0196fcd3",
 "label": "former director at the laboratory that tests the specimens",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "research",
 "tier": 3
@@ -25888,7 +25888,7 @@
 "dateStart": "2023",
 "id": "e-1d686c431b",
 "label": "'The central source of those allegations has refused to speak with AARO'",
-"predicate": "disputed",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -25899,7 +25899,7 @@
 "dateStart": "2022-07",
 "id": "e-bda2094de0",
 "label": "AARO Director's programmatic access ran through the SAPCO enterprise",
-"predicate": "reports_to",
+"predicate": "in_contact_with",
 "subject": "a",
 "t": "investigative",
 "tier": 3
@@ -25965,7 +25965,7 @@
 "dateStart": "2024",
 "id": "e-aae62bb24d",
 "label": "Bylined attribution of the allegations to circular reporting and unsupported belief",
-"predicate": "wrote",
+"predicate": "explained_away",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -26009,7 +26009,7 @@
 "dateStart": "2022-07-15",
 "id": "e-42c168569d",
 "label": "AARO's search for a concealed program ran against a document AARO did not control",
-"predicate": "investigated",
+"predicate": "outside_of",
 "subject": "a",
 "t": "investigative",
 "tier": 3
@@ -26031,7 +26031,7 @@
 "dateStart": "2026-02-03",
 "id": "e-494c7e9c5b",
 "label": "The appropriations tripwire on initiating or modifying a special access programme",
-"predicate": "mandated",
+"predicate": "governs",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -26042,7 +26042,7 @@
 "dateStart": "2026-02-03",
 "id": "e-f0d4ac776f",
 "label": "NIP reprogramming is measured against levels that exist only in the annex",
-"predicate": "cites",
+"predicate": "governs",
 "subject": "a",
 "t": "funding",
 "tier": 1
@@ -26064,7 +26064,7 @@
 "dateStart": "2022-03",
 "id": "e-6f55dbfaed",
 "label": "The 1986 night is named in the Senate instrument that produced the 2022 special session",
-"predicate": "acknowledged",
+"predicate": "made_claims_about",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -26075,7 +26075,7 @@
 "dateStart": "2022-03",
 "id": "e-b41085299c",
 "label": "The Senate instrument treats the Aeronáutica's record as the national record",
-"predicate": "acknowledged",
+"predicate": "cites",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -26086,7 +26086,7 @@
 "dateStart": null,
 "id": "e-35edaff45d",
 "label": "Girao backed Varginha hospital witnesses in Washington",
-"predicate": "connected_to",
+"predicate": "supported",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -26119,8 +26119,8 @@
 "dateStart": "2023",
 "id": "e-5da44eaee1",
 "label": "Never reported the Act; it existed only as a floor amendment",
-"predicate": "connected_to",
-"subject": "a",
+"predicate": "outside_of",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -26273,7 +26273,7 @@
 "dateStart": null,
 "id": "e-53d8efbf33",
 "label": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
-"predicate": "released",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -26295,7 +26295,7 @@
 "dateStart": "2023",
 "id": "e-5096558a18",
 "label": "NORAD-controlled fighters destroyed three unidentified objects in four days",
-"predicate": "ran",
+"predicate": "responded_to",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -26339,7 +26339,7 @@
 "dateStart": "1973-01",
 "id": "e-190fca4c68",
 "label": "Ordered the destruction of the MKULTRA files, January 1973",
-"predicate": "acted_against",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -26361,7 +26361,7 @@
 "dateStart": null,
 "id": "e-604aaaa21a",
 "label": "First Director of Central Intelligence, 22 January to 10 June 1946",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -26383,7 +26383,7 @@
 "dateStart": null,
 "id": "e-7f55007a7e",
 "label": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
-"predicate": "in_contact_with",
+"predicate": "preceded",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -26427,7 +26427,7 @@
 "dateStart": "2025-06",
 "id": "e-c74ea5c24a",
 "label": "identifies SEFAA as a model and recommends partnership",
-"predicate": "studied",
+"predicate": "cites",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -26438,7 +26438,7 @@
 "dateStart": "2025-06",
 "id": "e-59e4315663",
 "label": "identifies GEIPAN as a model and recommends partnership",
-"predicate": "studied",
+"predicate": "cites",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -26449,7 +26449,7 @@
 "dateStart": "2025-06",
 "id": "e-f48b2b0d7c",
 "label": "the report is the source of the three-office model",
-"predicate": "produced",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -26460,7 +26460,7 @@
 "dateStart": "2022",
 "id": "e-3690351afc",
 "label": "2025 report is the first federal review to work the LAC holding",
-"predicate": "studied",
+"predicate": "investigated",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -26526,8 +26526,8 @@
 "dateStart": "2025",
 "id": "e-fbe842e2a5",
 "label": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
-"predicate": "member_of",
-"subject": "b",
+"predicate": "brought_to_record",
+"subject": "a",
 "t": "institutional",
 "tier": 1
 },
@@ -26548,7 +26548,7 @@
 "dateStart": "2026",
 "id": "e-9a84fa729f",
 "label": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
-"predicate": "reported_on",
+"predicate": "cites",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -26559,7 +26559,7 @@
 "dateStart": "2026",
 "id": "e-f29e7147c3",
 "label": "Sol issued press statements on each major PURSUE release",
-"predicate": "responded_to",
+"predicate": "reported_on",
 "subject": "a",
 "t": "behavioral",
 "tier": 1
@@ -26636,7 +26636,7 @@
 "dateStart": "2013-02-06",
 "id": "e-9cf77b75e0",
 "label": "Unanimous SRG recommendations bypass the SAPOC entirely",
-"predicate": "affects",
+"predicate": "outside_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -26823,7 +26823,7 @@
 "dateStart": "1997",
 "id": "e-104d58da85",
 "label": "Created the first segment of the record by litigation",
-"predicate": "produced",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -26845,7 +26845,7 @@
 "dateStart": "1993",
 "id": "e-a387ccf61b",
 "label": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
-"predicate": "transferred",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -26867,7 +26867,7 @@
 "dateStart": "1994",
 "id": "e-9a707bbfad",
 "label": "Schiff tasked GAO after DoD refused to answer him",
-"predicate": "led_to",
+"predicate": "requested",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -26955,7 +26955,7 @@
 "dateStart": "1980-01",
 "id": "e-44b0b9ec96",
 "label": "Status Report chronology indexes Del Rio as Item B-7",
-"predicate": "cites",
+"predicate": "concerns",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -26966,7 +26966,7 @@
 "dateStart": "1980-09-02",
 "id": "e-192e936ba5",
 "label": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -26977,7 +26977,7 @@
 "dateStart": "2021",
 "id": "e-8b16fbadbc",
 "label": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -27021,7 +27021,7 @@
 "dateStart": "2022",
 "id": "e-fe98664395",
 "label": "OSD Public Affairs handled AARO press matters; the office had no dedicated spokesperson",
-"predicate": "held_post",
+"predicate": "worked_with",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -27087,7 +27087,7 @@
 "dateStart": "2024-11",
 "id": "e-967fa40c2a",
 "label": "The Department's response is a records assertion, not a denial of existence",
-"predicate": "denied",
+"predicate": "refused",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -27120,7 +27120,7 @@
 "dateStart": "2019",
 "id": "e-39e97fde8b",
 "label": "authenticated the letter, denied its significance",
-"predicate": "disputed",
+"predicate": "acknowledged",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -27142,7 +27142,7 @@
 "dateStart": "2015-11",
 "id": "e-66f926d97d",
 "label": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
-"predicate": "denied",
+"predicate": "explained_away",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -27175,7 +27175,7 @@
 "dateStart": null,
 "id": "e-6a9fe39af6",
 "label": "Quoted by name as Martin's vice-president in charge of advanced design planning",
-"predicate": "reported_on",
+"predicate": "concerns",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -27208,7 +27208,7 @@
 "dateStart": null,
 "id": "e-85c028b1f6",
 "label": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
-"predicate": "concerns",
+"predicate": "reported_on",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -27252,7 +27252,7 @@
 "dateStart": "2025",
 "id": "e-2566981fdb",
 "label": "the panel with jurisdiction over the collection's non-contributors",
-"predicate": "investigated",
+"predicate": "oversaw",
 "subject": "a",
 "t": "investigative",
 "tier": 3
@@ -27274,7 +27274,7 @@
 "dateStart": "2007",
 "id": "e-b370e289c1",
 "label": "provided bipartisan cover for the earmark",
-"predicate": "sponsored_law",
+"predicate": "supported",
 "subject": "a",
 "t": "funding",
 "tier": 2
@@ -27318,7 +27318,7 @@
 "dateStart": null,
 "id": "e-92c9d0cb87",
 "label": "An information addressee on the report's own distribution list",
-"predicate": "concerns",
+"predicate": "reports_to",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -27384,7 +27384,7 @@
 "dateStart": "2018-11",
 "id": "e-249be19a29",
 "label": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
-"predicate": "reported_on",
+"predicate": "holds",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -27483,7 +27483,7 @@
 "dateStart": null,
 "id": "e-1bc7468877",
 "label": "FOIA'd police records on Grusch published weeks after his testimony",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -27549,7 +27549,7 @@
 "dateStart": "2021",
 "id": "e-35fcaff806",
 "label": "Inspector General of the Intelligence Community, 2021-present",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -27670,7 +27670,7 @@
 "dateStart": "2023",
 "id": "e-e5830448a8",
 "label": "Drove the hearing into existence; opened by disclosing the denied SCIF access",
-"predicate": "led_to",
+"predicate": "oversaw",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -27758,7 +27758,7 @@
 "dateStart": "2023",
 "id": "e-1904dfd6f1",
 "label": "Accompanied Gaetz to Eglin on the protected disclosure",
-"predicate": "witnessed",
+"predicate": "investigated",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -27868,7 +27868,7 @@
 "dateStart": "2023",
 "id": "e-e21d7a8876",
 "label": "Deputy Director from Oct 2023; Acting Director Dec 2023 - Aug 2024",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -27934,7 +27934,7 @@
 "dateStart": "2024-04-10",
 "id": "e-2d84da5d4e",
 "label": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -27945,7 +27945,7 @@
 "dateStart": "2024-04-10",
 "id": "e-e7956f36fd",
 "label": "Chairman, House Appropriations Committee",
-"predicate": "held_post",
+"predicate": "member_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -27956,7 +27956,7 @@
 "dateStart": "2016",
 "id": "e-bb550eb995",
 "label": "Recruitment of a serving OUSD(I) official into a private disclosure vehicle",
-"predicate": "in_contact_with",
+"predicate": "appointed",
 "subject": "a",
 "t": "behavioral",
 "tier": 2
@@ -28033,7 +28033,7 @@
 "dateStart": "1998-08",
 "id": "e-9a3b053627",
 "label": "CLAIMED ONLY: named as a funder and tasker at slide 70",
-"predicate": "made_claims_about",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -28077,7 +28077,7 @@
 "dateStart": "1998-08",
 "id": "e-311c879a10",
 "label": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
-"predicate": "alleged_to_hold",
+"predicate": "alleged_tie",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -28099,7 +28099,7 @@
 "dateStart": "1955",
 "id": "e-bc630b2273",
 "label": "A dated Air Force document dismissing the flying-saucer resemblance of an aircraft it was itself funding",
-"predicate": "denied",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "denial",
 "tier": 1
@@ -28121,8 +28121,8 @@
 "dateStart": "1954",
 "id": "e-3f06a85a6e",
 "label": "Records the Air Force research and development status of the disc-aircraft proposal",
-"predicate": "wrote",
-"subject": "b",
+"predicate": "concerns",
+"subject": "a",
 "t": "programmatic",
 "tier": 1
 },
@@ -28132,7 +28132,7 @@
 "dateStart": "2020",
 "id": "e-f6e9c83206",
 "label": "Led instrumented field investigation at Skinwalker Ranch while serving as UAPTF chief scientist",
-"predicate": "led",
+"predicate": "investigated",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -28242,7 +28242,7 @@
 "dateStart": "2017",
 "id": "e-d0038ba9e4",
 "label": "Hosted and distributed the three videos from 2017-2018",
-"predicate": "released",
+"predicate": "published",
 "subject": "a",
 "t": "custody",
 "tier": 2
@@ -28275,7 +28275,7 @@
 "dateStart": "2019",
 "id": "e-a770d67d68",
 "label": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
-"predicate": "transferred",
+"predicate": "led_to",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -28330,8 +28330,8 @@
 "dateStart": "2017",
 "id": "e-4fa01d6807",
 "label": "Public launch and Regulation A+ offering, 11 October 2017",
-"predicate": "produced",
-"subject": "b",
+"predicate": "occurred_at",
+"subject": "a",
 "t": "temporal",
 "tier": 1
 },
@@ -28341,7 +28341,7 @@
 "dateStart": "2026",
 "id": "e-90f215c57a",
 "label": "ODNI coordinating authority for the release programme",
-"predicate": "oversaw",
+"predicate": "ran",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -28396,7 +28396,7 @@
 "dateStart": "2026",
 "id": "e-01829daf96",
 "label": "Gerb authored and published the MITRE investigation",
-"predicate": "wrote",
+"predicate": "published",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -28462,7 +28462,7 @@
 "dateStart": "2024",
 "id": "e-a4e1cc5b45",
 "label": "Gerb documented the first-hand witness account",
-"predicate": "brought_to_record",
+"predicate": "reported_on",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -28506,7 +28506,7 @@
 "dateStart": "2026",
 "id": "e-e086d2008f",
 "label": "The waiver reproduces the channel that failed Grusch",
-"predicate": "affects",
+"predicate": "parallels",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -28528,7 +28528,7 @@
 "dateStart": "2026",
 "id": "e-74c9ca2665",
 "label": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "programmatic",
 "tier": 2
@@ -28550,7 +28550,7 @@
 "dateStart": "2026",
 "id": "e-bf549df459",
 "label": "No budget, no classified access - constitutionally unable to reach the material",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "subject": "a",
 "t": "denial",
 "tier": 2
@@ -28561,7 +28561,7 @@
 "dateStart": "2026",
 "id": "e-a804d0395f",
 "label": "Established by ODNI with FBI support",
-"predicate": "founded",
+"predicate": "created",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -28583,7 +28583,7 @@
 "dateStart": "2026",
 "id": "e-6c1c8aea13",
 "label": "third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68)",
-"predicate": "succeeded",
+"predicate": "parallels",
 "subject": "a",
 "t": "temporal",
 "tier": 3
@@ -28627,8 +28627,8 @@
 "dateStart": null,
 "id": "e-8b3e6d7553",
 "label": "",
-"predicate": "produced",
-"subject": "a",
+"predicate": "part_of",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -28649,7 +28649,7 @@
 "dateStart": "2020",
 "id": "e-e733340a1e",
 "label": "sited in the Department of the Navy with ONI involvement",
-"predicate": "part_of",
+"predicate": "located_at",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -28671,7 +28671,7 @@
 "dateStart": "2025",
 "id": "e-ca7ca83f75",
 "label": "Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025",
-"predicate": "sponsored_law",
+"predicate": "supported",
 "subject": "b",
 "t": "legislative",
 "tier": 1
@@ -28748,8 +28748,8 @@
 "dateStart": "2024",
 "id": "e-e6238b23e3",
 "label": "Never called up; FY2025 enacted with no disclosure regime",
-"predicate": "contradicts",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "denial",
 "tier": 1
 },
@@ -28814,8 +28814,8 @@
 "dateStart": "2026-07-22",
 "id": "e-775f7b84b4",
 "label": "House-adopted amendment against a Senate base text with no UAP provisions",
-"predicate": "affects",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "legislative",
 "tier": 3
 },
@@ -28825,7 +28825,7 @@
 "dateStart": "2026",
 "id": "e-90873ab7a0",
 "label": "Statutory backstop for an executive release programme",
-"predicate": "governs",
+"predicate": "affects",
 "subject": "a",
 "t": "legislative",
 "tier": 2
@@ -28847,8 +28847,8 @@
 "dateStart": "2023",
 "id": "e-f1224ef375",
 "label": "No enacted statute contains the eminent domain language",
-"predicate": "contradicts",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "denial",
 "tier": 1
 },
@@ -28979,7 +28979,7 @@
 "dateStart": "2025-06",
 "id": "e-c216fb66c6",
 "label": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
-"predicate": "wrote",
+"predicate": "produced",
 "subject": "a",
 "t": "research",
 "tier": 1
@@ -29012,7 +29012,7 @@
 "dateStart": null,
 "id": "e-8f83587840",
 "label": "Congressionally requested GAO search of 509th and RAAF records",
-"predicate": "investigated",
+"predicate": "requested",
 "subject": "a",
 "t": "investigative",
 "tier": 1
@@ -29089,7 +29089,7 @@
 "dateStart": null,
 "id": "e-5c89b52f4e",
 "label": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
-"predicate": "ran",
+"predicate": "released",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -29144,7 +29144,7 @@
 "dateStart": null,
 "id": "e-343e5049bc",
 "label": "Navy designated lead service for the UAP Task Force",
-"predicate": "led",
+"predicate": "ran",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -29166,7 +29166,7 @@
 "dateStart": "1976",
 "id": "e-316903ec94",
 "label": "Committee of jurisdiction for intelligence community programs",
-"predicate": "member_of",
+"predicate": "part_of",
 "subject": "b",
 "t": "institutional",
 "tier": 1
@@ -29232,7 +29232,7 @@
 "dateStart": "1976",
 "id": "e-2cbf64c664",
 "label": "BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm",
-"predicate": "released",
+"predicate": "holds",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -29298,7 +29298,7 @@
 "dateStart": "1997",
 "id": "e-dc422e2331",
 "label": "AARO's 2024 finding restates the 1994-1997 Air Force position",
-"predicate": "corroborated",
+"predicate": "cites",
 "subject": "b",
 "t": "temporal",
 "tier": 1
@@ -29386,7 +29386,7 @@
 "dateStart": "1987-12-04",
 "id": "e-3083fd0ed0",
 "label": "Waiver narrows the audience to chairman and ranking minority member of each defense committee",
-"predicate": "mandated",
+"predicate": "governs",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -29419,7 +29419,7 @@
 "dateStart": null,
 "id": "e-61aa034903",
 "label": "the waiver authority itself",
-"predicate": "created",
+"predicate": "governs",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -29463,7 +29463,7 @@
 "dateStart": "1991-08-14",
 "id": "e-fd4f2ad12e",
 "label": "The general 'fully and currently informed' duty and its covert action exception",
-"predicate": "affects",
+"predicate": "governs",
 "subject": "b",
 "t": "legislative",
 "tier": 1
@@ -29474,7 +29474,7 @@
 "dateStart": "2024-12-23",
 "id": "e-7ad5dac79d",
 "label": "Congress prohibited moving a capability out of a CAP into a SAP without notice",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -29507,7 +29507,7 @@
 "dateStart": null,
 "id": "e-a9db3c9949",
 "label": "6603 bars CAP-to-SAP capability transfer without notice",
-"predicate": "governs",
+"predicate": "exemplifies",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -29551,8 +29551,8 @@
 "dateStart": "2015-10-17",
 "id": "e-4185e51175",
 "label": "Covert action is expressly outside the IC controlled access program regime",
-"predicate": "governs",
-"subject": "b",
+"predicate": "outside_of",
+"subject": "a",
 "t": "legislative",
 "tier": 1
 },
@@ -29573,7 +29573,7 @@
 "dateStart": "2018-12-21",
 "id": "e-3d95991e94",
 "label": "Gives House Oversight a statutory entitlement to SAP reports from every covered agency",
-"predicate": "governs",
+"predicate": "mandated",
 "subject": "a",
 "t": "legislative",
 "tier": 1
@@ -29584,8 +29584,8 @@
 "dateStart": null,
 "id": "e-79f7d5edec",
 "label": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
-"predicate": "cites",
-"subject": "a",
+"predicate": "outside_of",
+"subject": "b",
 "t": "legislative",
 "tier": 1
 },
@@ -29595,8 +29595,8 @@
 "dateStart": null,
 "id": "e-6a79a7612e",
 "label": "excludes DoD, routing it to sec. 119",
-"predicate": "cites",
-"subject": "a",
+"predicate": "outside_of",
+"subject": "b",
 "t": "programmatic",
 "tier": 1
 },
@@ -29639,7 +29639,7 @@
 "dateStart": "1949-06-20",
 "id": "e-76f1f79b21",
 "label": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
-"predicate": "affects",
+"predicate": "outside_of",
 "subject": "a",
 "t": "behavioral",
 "tier": 3
@@ -29650,7 +29650,7 @@
 "dateStart": "2023",
 "id": "e-ca701262bc",
 "label": "Footage reached the public through journalists, not through the Navy or AARO",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "subject": "b",
 "t": "investigative",
 "tier": 2
@@ -29672,8 +29672,8 @@
 "dateStart": "2023",
 "id": "e-d13462e313",
 "label": "The ship whose EO/IR system produced the recording",
-"predicate": "witnessed",
-"subject": "b",
+"predicate": "occurred_at",
+"subject": "a",
 "t": "institutional",
 "tier": 2
 },
@@ -29683,7 +29683,7 @@
 "dateStart": "2004",
 "id": "e-74535c77a4",
 "label": "Generated the primary sensor record of the encounter; no such data has ever been released",
-"predicate": "produced",
+"predicate": "holds",
 "subject": "a",
 "t": "custody",
 "tier": 1
@@ -29749,8 +29749,8 @@
 "dateStart": "1979-02",
 "id": "e-f281dd672f",
 "label": "Hollanda's account to an American reporter is preserved in the Pratt file",
-"predicate": "told",
-"subject": "a",
+"predicate": "holds",
+"subject": "b",
 "t": "witness-chain",
 "tier": 2
 },
@@ -29815,7 +29815,7 @@
 "dateStart": null,
 "id": "e-2ccc2917d3",
 "label": "commissioned subject-matter author",
-"predicate": "funded",
+"predicate": "contracted",
 "subject": "b",
 "t": "funding",
 "tier": 1
@@ -29848,7 +29848,7 @@
 "dateStart": "2026-07-21",
 "id": "e-9dc389691f",
 "label": "sole maritime case in the report",
-"predicate": "reported_on",
+"predicate": "concerns",
 "subject": "b",
 "t": "institutional",
 "tier": 2
@@ -29859,7 +29859,7 @@
 "dateStart": "2026-07-21",
 "id": "e-e1e8a83868",
 "label": "a mass event against a case system still being procured",
-"predicate": "affects",
+"predicate": "concurrent_with",
 "subject": "a",
 "t": "research",
 "tier": 3
@@ -29870,7 +29870,7 @@
 "dateStart": "1989",
 "id": "e-142f04fd34",
 "label": "ran the parallel public ufology centre after censorship lifted",
-"predicate": "ran",
+"predicate": "parallels",
 "subject": "a",
 "t": "research",
 "tier": 2
@@ -29881,7 +29881,7 @@
 "dateStart": null,
 "id": "e-b589cbbc34",
 "label": "four of the twelve seats are appropriations leadership",
-"predicate": "holds",
+"predicate": "oversaw",
 "subject": "a",
 "t": "funding",
 "tier": 2
@@ -29903,8 +29903,8 @@
 "dateStart": null,
 "id": "e-ae5b455dc0",
 "label": "not a defense committee; receives nothing under 10 U.S.C. 119",
-"predicate": "affects",
-"subject": "a",
+"predicate": "outside_of",
+"subject": "b",
 "t": "institutional",
 "tier": 1
 },
@@ -29914,7 +29914,7 @@
 "dateStart": null,
 "id": "e-fbdfe5892f",
 "label": "the narrow aperture through which Congress sees waived DoD SAPs",
-"predicate": "reports_to",
+"predicate": "part_of",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -30002,7 +30002,7 @@
 "dateStart": "1952",
 "id": "e-55f06b164c",
 "label": "Director of Central Intelligence",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -30013,7 +30013,7 @@
 "dateStart": "1953",
 "id": "e-895ded2e05",
 "label": "Convened at his direction",
-"predicate": "oversaw",
+"predicate": "created",
 "subject": "a",
 "t": "programmatic",
 "tier": 1
@@ -30057,8 +30057,8 @@
 "dateStart": "2002-12",
 "id": "e-bd781c8cb0",
 "label": "Schmitt drafted and embargoed the 2002 Haut affidavit",
-"predicate": "brought_to_record",
-"subject": "b",
+"predicate": "told",
+"subject": "a",
 "t": "witness-chain",
 "tier": 2
 },
@@ -30090,7 +30090,7 @@
 "dateStart": "1947-07-08",
 "id": "e-7426f97fd8",
 "label": "Haut issued the 8 July 1947 'flying disc' press release",
-"predicate": "published",
+"predicate": "brought_to_record",
 "subject": "a",
 "t": "witness-chain",
 "tier": 2
@@ -30123,8 +30123,8 @@
 "dateStart": "1952",
 "id": "e-771646ed71",
 "label": "The flap put the CIA's science directorate onto the problem",
-"predicate": "led_to",
-"subject": "a",
+"predicate": "investigated",
+"subject": "b",
 "t": "investigative",
 "tier": 1
 },
@@ -30134,7 +30134,7 @@
 "dateStart": "1952",
 "id": "e-5be026875b",
 "label": "The flap occurred during Ruppelt's tenure and drove the record volume",
-"predicate": "led_to",
+"predicate": "affects",
 "subject": "a",
 "t": "temporal",
 "tier": 1
@@ -30222,7 +30222,7 @@
 "dateStart": null,
 "id": "e-aae119eaed",
 "label": "His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics",
-"predicate": "told",
+"predicate": "in_contact_with",
 "subject": "a",
 "t": "witness-chain",
 "tier": 1
@@ -30244,8 +30244,8 @@
 "dateStart": null,
 "id": "e-c3107a22c6",
 "label": "The private two hour conversation of April 1997, as the notes record it",
-"predicate": "told",
-"subject": "b",
+"predicate": "in_contact_with",
+"subject": "a",
 "t": "witness-chain",
 "tier": 2
 },
@@ -30266,8 +30266,8 @@
 "dateStart": null,
 "id": "e-7247b6d94d",
 "label": "Named on six of the fifteen pages; his own signed letter is two of them",
-"predicate": "concerns",
-"subject": "b",
+"predicate": "witnessed",
+"subject": "a",
 "t": "witness-chain",
 "tier": 1
 },
@@ -30299,7 +30299,7 @@
 "dateStart": null,
 "id": "e-d858087fa9",
 "label": "Principal Deputy Director, then Acting Director, NRO",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 1
@@ -30354,7 +30354,7 @@
 "dateStart": "1989-07",
 "id": "e-3efb6ca3ff",
 "label": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
-"predicate": "cites",
+"predicate": "disputed",
 "subject": "b",
 "t": "denial",
 "tier": 2
@@ -30442,7 +30442,7 @@
 "dateStart": "2026",
 "id": "e-2a3a4b0cda",
 "label": "Commanded the Air Force Research Laboratory at Wright-Patterson",
-"predicate": "led",
+"predicate": "held_post",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -30640,7 +30640,7 @@
 "dateStart": "1978-10-18",
 "id": "e-e19c9dd63e",
 "label": "chief executive for SETKA-AN at IZMIRAN",
-"predicate": "held_post",
+"predicate": "led",
 "subject": "a",
 "t": "institutional",
 "tier": 2
@@ -30651,7 +30651,7 @@
 "dateStart": "2013-06-02",
 "id": "e-9c7f8f9791",
 "label": "A feature documentary carrying the claim to a later audience",
-"predicate": "reported_on",
+"predicate": "concerns",
 "subject": "a",
 "t": "investigative",
 "tier": 2
@@ -30662,7 +30662,7 @@
 "dateStart": "2013-06-02",
 "id": "e-509f666d13",
 "label": "The film is about him and names him in its title",
-"predicate": "concerns",
+"predicate": "reported_on",
 "subject": "a",
 "t": "investigative",
 "tier": 1

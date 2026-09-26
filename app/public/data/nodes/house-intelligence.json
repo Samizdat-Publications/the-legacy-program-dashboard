@@ -61,13 +61,13 @@
 "direction": "out",
 "edgeId": "e-d5effe5db8",
 "edgeLabel": "The Board was designed to bypass the intelligence committees",
-"family": "denial",
+"family": "organisation",
 "id": "uap-records-review-board",
 "l0": false,
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
-"predicate": "omitted",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -77,7 +77,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is left out of"
+"verb": "falls outside"
 },
 {
 "claimTier": 2,

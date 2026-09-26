@@ -199,13 +199,13 @@
 "direction": "out",
 "edgeId": "e-1371bca480",
 "edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
-"family": "place-time",
+"family": "organisation",
 "id": "uapda-2024-samdt-2610",
 "l0": false,
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
-"predicate": "preceded",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-13",
@@ -215,7 +215,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came after"
+"verb": "falls outside"
 }
 ],
 "date": "2023-07-13",

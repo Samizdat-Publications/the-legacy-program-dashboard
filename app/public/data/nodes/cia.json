@@ -46,7 +46,7 @@
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "All three 13 March 1953 letters are on Central Intelligence Agency, Office of the Director letterhead and are signed 'Allen W. Dulles, Director'.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -285,13 +285,13 @@
 "direction": "in",
 "edgeId": "e-ea7dc5a78f",
 "edgeLabel": "Claimed 1993 UFO briefing of sitting CIA Director Woolsey (disputed)",
-"family": "denial",
+"family": "testimony",
 "id": "cseti",
 "l0": false,
 "label": "CSETI / The Disclosure Project",
 "note": "CSETI founder Steven Greer says he briefed sitting CIA Director R. James Woolsey on UFOs on 13 December 1993 at a dinner in Arlington arranged by John Petersen, and quotes a Petersen memo referring to sabotage of 'Project Starlight', the CSETI disclosure effort. Woolsey and the other attendees disputed this characterisation in a signed 16 September 1999 letter, saying it was a dinner party and that Greer's published account was distorted. Both accounts are on the record; the relationship is contested.",
-"predicate": "disputed",
-"predicateSide": "subject",
+"predicate": "made_claims_about",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -306,7 +306,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "disputes"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -316,12 +316,12 @@
 "direction": "in",
 "edgeId": "e-11e74ee7a1",
 "edgeLabel": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
-"family": "denial",
+"family": "place-time",
 "id": "donald-keyhoe",
 "l0": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
-"predicate": "refused",
+"predicate": "responded_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -332,7 +332,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "refused"
+"verb": "responded to"
 },
 {
 "claimTier": 1,
@@ -368,12 +368,12 @@
 "direction": "in",
 "edgeId": "e-8b36f8d849",
 "edgeLabel": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
-"family": "conduct",
+"family": "role",
 "id": "gordon-gray",
 "l0": false,
 "label": "Gordon Gray",
 "note": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
-"predicate": "in_contact_with",
+"predicate": "worked_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -384,7 +384,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -420,13 +420,13 @@
 "direction": "in",
 "edgeId": "e-7f2d88f3b4",
 "edgeLabel": "CIA's own published history concedes the Air Force made deceptive public statements",
-"family": "testimony",
+"family": "documents",
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
-"predicate": "contradicts",
-"predicateSide": "object",
+"predicate": "published",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -436,7 +436,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -503,7 +503,7 @@
 "l0": false,
 "label": "Howard P. Robertson",
 "note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
-"predicate": "led",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -514,7 +514,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was led by"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -607,13 +607,13 @@
 "direction": "in",
 "edgeId": "e-954e7cf49b",
 "edgeLabel": "CIA alleged to have terminated the programme",
-"family": "denial",
+"family": "testimony",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
-"predicate": "refused",
-"predicateSide": "subject",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-04",
@@ -623,7 +623,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 1,
@@ -861,7 +861,7 @@
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The Director of the Central Intelligence Agency is an addressee of the ODNI NDA-waiver memorandum and the CIA has no series in Record Group 615, whose transfer deadline passed on 30 September 2025.",
-"predicate": "omitted",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -877,7 +877,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "leaves out"
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -1022,12 +1022,12 @@
 "direction": "out",
 "edgeId": "e-3710978124",
 "edgeLabel": "CIA convened and staffed the January 1953 scientific advisory panel",
-"family": "organisation",
+"family": "role",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
-"predicate": "ran",
+"predicate": "founded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1043,7 +1043,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "ran"
+"verb": "founded"
 },
 {
 "claimTier": 1,
@@ -1136,7 +1136,7 @@
 "l0": false,
 "label": "Rear Adm. Sidney W. Souers",
 "note": "He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -1147,7 +1147,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -1188,8 +1188,8 @@
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.",
-"predicate": "made_claims_about",
-"predicateSide": "object",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1998-08",
@@ -1199,7 +1199,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 1,
@@ -1214,7 +1214,7 @@
 "l0": false,
 "label": "Walter Bedell Smith",
 "note": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -1225,7 +1225,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 1,

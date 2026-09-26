@@ -41,8 +41,8 @@
 "l0": false,
 "label": "Disclosure Movement",
 "note": "GEIPAN's published classification scheme and open case archive establish that an acknowledged state programme is possible, shifting the burden onto the concealment argument.",
-"predicate": "affects",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-03-31",
@@ -52,7 +52,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "affects"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -62,13 +62,13 @@
 "direction": "out",
 "edgeId": "e-2d105735cf",
 "edgeLabel": "GEIPAN's operating base",
-"family": "place-time",
+"family": "analysis",
 "id": "l-toulouse",
 "l0": false,
 "label": "Toulouse, France",
 "note": "GEIPAN has operated within CNES at Toulouse since 1977, publishing classifications and statistics openly.",
-"predicate": "located_at",
-"predicateSide": "subject",
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-03-31",
@@ -78,7 +78,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is located at"
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,

@@ -167,12 +167,12 @@
 "direction": "in",
 "edgeId": "e-a770d67d68",
 "edgeLabel": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
-"family": "custody",
+"family": "place-time",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
-"predicate": "transferred",
+"predicate": "led_to",
 "predicateSide": "object",
 "sources": [
 {
@@ -193,7 +193,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "received records or material from"
+"verb": "followed from"
 }
 ],
 "coords": null,

@@ -123,13 +123,13 @@
 "direction": "in",
 "edgeId": "e-397aa273bc",
 "edgeLabel": "Participant at the Institute's inaugural conference, January 1957",
-"family": "role",
+"family": "conduct",
 "id": "joseph-weber",
 "l0": false,
 "label": "Joseph Weber",
 "note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
-"predicate": "member_of",
-"predicateSide": "object",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -139,7 +139,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "had as a member"
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -154,7 +154,7 @@
 "l0": false,
 "label": "Louis Witten",
 "note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
-"predicate": "member_of",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -165,7 +165,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "had as a member"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,

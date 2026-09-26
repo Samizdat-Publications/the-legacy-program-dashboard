@@ -35,7 +35,7 @@
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
 "predicate": "analysed_material",
-"predicateSide": "subject",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-01-01",
@@ -50,7 +50,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "analysed material from"
+"verb": "had material analysed by"
 }
 ],
 "coords": null,

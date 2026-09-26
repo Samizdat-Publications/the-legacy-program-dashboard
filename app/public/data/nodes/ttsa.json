@@ -359,7 +359,7 @@
 "l0": false,
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
-"predicate": "released",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -370,7 +370,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "released"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -535,13 +535,13 @@
 "direction": "in",
 "edgeId": "e-4fa01d6807",
 "edgeLabel": "Public launch and Regulation A+ offering, 11 October 2017",
-"family": "organisation",
+"family": "place-time",
 "id": "ttsa-launch-2017",
 "l0": false,
 "label": "To The Stars Academy public launch, 11 October 2017",
 "note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
-"predicate": "produced",
-"predicateSide": "subject",
+"predicate": "occurred_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-10-11",
@@ -551,7 +551,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "produced"
+"verb": "was the scene of"
 },
 {
 "claimTier": 2,

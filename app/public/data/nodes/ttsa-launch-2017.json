@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-4fa01d6807",
 "edgeLabel": "Public launch and Regulation A+ offering, 11 October 2017",
-"family": "organisation",
+"family": "place-time",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
-"predicate": "produced",
-"predicateSide": "object",
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-10-11",
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "was produced by"
+"verb": "happened at"
 }
 ],
 "coords": null,

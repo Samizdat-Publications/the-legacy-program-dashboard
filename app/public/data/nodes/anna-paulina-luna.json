@@ -356,8 +356,8 @@
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "She wrote to the Secretary of War on 31 March 2026 demanding more than 46 UAP videos by 14 April; the deadline passed with an offer of a future briefing, and the FY2025 report appeared in July.",
-"predicate": "preceded",
-"predicateSide": "subject",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-04-14",
@@ -372,7 +372,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "came before"
+"verb": "happened alongside"
 },
 {
 "claimTier": 2,
@@ -382,12 +382,12 @@
 "direction": "out",
 "edgeId": "e-de4829fd15",
 "edgeLabel": "Asked the White House to grant immunity to whistleblowers who disclose locations of craft and technology",
-"family": "media",
+"family": "conduct",
 "id": "capitol-disclosure-event-2026-06-09",
 "l0": false,
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "note": "The immunity ask is the caucus's response to the failure of the whistleblower bills to move.",
-"predicate": "appeared_on",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -398,7 +398,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "appeared on"
+"verb": "supported"
 },
 {
 "claimTier": 1,
@@ -408,13 +408,13 @@
 "direction": "in",
 "edgeId": "e-5d137d3368",
 "edgeLabel": "Luna read Mellon's demolition of AARO's historical report into her 2025 opening statement",
-"family": "documents",
+"family": "testimony",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Mellon called it 'the most error-ridden and unsatisfactory government report I can recall reading after decades of government service.'",
-"predicate": "cites",
-"predicateSide": "subject",
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -424,7 +424,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "cites"
+"verb": "received an account from"
 },
 {
 "claimTier": 2,
@@ -590,12 +590,12 @@
 "direction": "out",
 "edgeId": "e-60f84097b9",
 "edgeLabel": "Luna chaired the hearing at which the contractor allegation acquired names",
-"family": "oversight",
+"family": "role",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Luna chaired the Task Force on the Declassification of Federal Secrets hearing at which four witnesses testified on UAP transparency and whistleblower retaliation.",
-"predicate": "oversaw",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -616,7 +616,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "oversaw"
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -828,12 +828,12 @@
 "direction": "out",
 "edgeId": "e-3752916b84",
 "edgeLabel": "Chairwoman stated the HASC/HAC-D read-in gate on the record",
-"family": "oversight",
+"family": "testimony",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
-"predicate": "oversaw",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -844,7 +844,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "oversaw"
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -921,12 +921,12 @@
 "direction": "in",
 "edgeId": "e-a50886e01d",
 "edgeLabel": "POGO recommendations delivered to Luna's task force",
-"family": "oversight",
+"family": "testimony",
 "id": "pogo",
 "l0": false,
 "label": "Project On Government Oversight",
 "note": "Spielberger's testimony is addressed to 'Chairwoman Luna, Ranking Member Crockett, and task force members' and lays out a legislative agenda for protecting UAP whistleblowers. Luna convened and chaired the hearing; the connection is a witness-to-chair relationship at a single hearing, not an ongoing partnership.",
-"predicate": "reports_to",
+"predicate": "told",
 "predicateSide": "object",
 "sources": [
 {
@@ -947,7 +947,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "receives reports from"
+"verb": "received an account from"
 },
 {
 "claimTier": 3,
@@ -962,8 +962,8 @@
 "l0": false,
 "label": "PURSUE Release 02",
 "note": "Release 02 is the only tranche with an identified congressional trigger - Luna's April 2026 letter - and the letter itself has not been published.",
-"predicate": "led_to",
-"predicateSide": "subject",
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -973,7 +973,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "led to"
+"verb": "drew a response from"
 },
 {
 "claimTier": 2,
@@ -1118,13 +1118,13 @@
 "direction": "out",
 "edgeId": "e-465eaee615",
 "edgeLabel": "no statutory entitlement; not a defense committee chair or ranking member",
-"family": "other",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1149,7 +1149,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "falls outside"
 }
 ],
 "date": "2025-09-09",

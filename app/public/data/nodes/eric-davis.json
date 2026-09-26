@@ -369,12 +369,12 @@
 "direction": "out",
 "edgeId": "e-515432576e",
 "edgeLabel": "'We couldn't make it ourselves' - a custody claim with no public chain",
-"family": "testimony",
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
-"predicate": "made_claims_about",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -385,7 +385,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "made claims about"
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -806,13 +806,13 @@
 "direction": "out",
 "edgeId": "e-6d600853f7",
 "edgeLabel": "Same report carried Reid's statement on retrieved materials",
-"family": "testimony",
+"family": "place-time",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
-"predicate": "corroborated",
-"predicateSide": "subject",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-07-23",
@@ -822,7 +822,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "corroborates"
+"verb": "happened alongside"
 },
 {
 "claimTier": 2,
@@ -946,13 +946,13 @@
 "direction": "in",
 "edgeId": "e-aae119eaed",
 "edgeLabel": "His letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics",
-"family": "testimony",
+"family": "conduct",
 "id": "will-miller",
 "l0": false,
 "label": "Will Miller",
 "note": "Miller's letter of 25 April 2002 is addressed to Davis at Warp Drive Metrics and offers him paid research assistance.",
-"predicate": "told",
-"predicateSide": "object",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2002-10-16",
@@ -962,7 +962,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "was in contact with"
 },
 {
 "claimTier": 2,

@@ -43,13 +43,13 @@
 "direction": "out",
 "edgeId": "e-f8af998cf3",
 "edgeLabel": "Custodian of the Fouche file, under a named operator",
-"family": "other",
+"family": "custody",
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2014-02-11",
@@ -59,7 +59,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is connected to"
+"verb": "holds"
 },
 {
 "claimTier": 1,

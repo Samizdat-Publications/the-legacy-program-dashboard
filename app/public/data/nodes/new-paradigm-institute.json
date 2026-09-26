@@ -55,12 +55,12 @@
 "direction": "out",
 "edgeId": "e-f5a886dd05",
 "edgeLabel": "Running the campaign for Senate passage of the UAPDA",
-"family": "analysis",
+"family": "conduct",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "NPI's front page as of August 2026 reads 'The House Acted. Now Tell the Senate to Pass the UAPDA', indicating House passage of a version and Senate inaction.",
-"predicate": "affects",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -71,7 +71,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "affects"
+"verb": "supported"
 }
 ],
 "coords": null,

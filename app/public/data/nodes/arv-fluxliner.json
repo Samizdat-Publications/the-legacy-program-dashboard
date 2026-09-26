@@ -105,12 +105,12 @@
 "direction": "in",
 "edgeId": "e-c72c263707",
 "edgeLabel": "Publishes a 3D reconstruction of the claimed craft and sells prints of it",
-"family": "documents",
+"family": "testimony",
 "id": "arvp-fluxliner-project",
 "l0": false,
 "label": "ARVP (arvp.co.uk), the Flux Liner project site",
 "note": "The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated.",
-"predicate": "studied",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -126,7 +126,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was studied by"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -297,12 +297,12 @@
 "direction": "in",
 "edgeId": "e-9c7f8f9791",
 "edgeLabel": "A feature documentary carrying the claim to a later audience",
-"family": "media",
+"family": "documents",
 "id": "zero-point-documentary",
 "l0": false,
 "label": "Zero Point: The Story of Mark McCandlish and the Flux Liner",
 "note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types.",
-"predicate": "reported_on",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -318,7 +318,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "is the subject of"
 }
 ],
 "coords": null,

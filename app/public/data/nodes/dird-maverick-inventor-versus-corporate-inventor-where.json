@@ -89,7 +89,7 @@
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
-"predicate": "funded",
+"predicate": "contracted",
 "predicateSide": "object",
 "sources": [
 {
@@ -110,7 +110,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was funded by"
+"verb": "was contracted by"
 },
 {
 "claimTier": 1,

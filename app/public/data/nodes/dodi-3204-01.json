@@ -60,13 +60,13 @@
 "direction": "in",
 "edgeId": "e-9e18b58924",
 "edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
-"family": "analysis",
+"family": "place-time",
 "id": "mcdonnell-douglas",
 "l0": false,
 "label": "McDonnell Douglas Corporation",
 "note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-07-09",
@@ -76,7 +76,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "parallels"
+"verb": "came after"
 },
 {
 "claimTier": 1,

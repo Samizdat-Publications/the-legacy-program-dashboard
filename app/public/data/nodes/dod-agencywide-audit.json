@@ -116,12 +116,12 @@
 "direction": "in",
 "edgeId": "e-eb0a34f7e0",
 "edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
-"family": "role",
+"family": "oversight",
 "id": "david-norquist",
 "l0": false,
 "label": "David L. Norquist",
 "note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
-"predicate": "led",
+"predicate": "oversaw",
 "predicateSide": "object",
 "sources": [
 {
@@ -132,7 +132,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was led by"
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,
@@ -147,7 +147,7 @@
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
-"predicate": "investigated",
+"predicate": "oversaw",
 "predicateSide": "object",
 "sources": [
 {
@@ -158,7 +158,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was investigated by"
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,

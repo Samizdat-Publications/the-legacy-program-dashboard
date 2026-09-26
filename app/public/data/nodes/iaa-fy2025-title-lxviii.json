@@ -104,13 +104,13 @@
 "direction": "in",
 "edgeId": "e-e6238b23e3",
 "edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
-"family": "testimony",
+"family": "organisation",
 "id": "uapda-2024-samdt-2610",
 "l0": false,
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
-"predicate": "contradicts",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-07-11",
@@ -125,7 +125,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "contradicts"
+"verb": "does not include"
 }
 ],
 "coords": null,

@@ -132,7 +132,7 @@
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,7 +143,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 3,
@@ -184,13 +184,13 @@
 "direction": "out",
 "edgeId": "e-79f7d5edec",
 "edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
-"family": "documents",
+"family": "organisation",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "50 U.S.C. 3348(g)(3) defines the term; 10 U.S.C. 119 uses it throughout without defining it. Section 3091a(b)(2)(A) cross-references 3348(g) for the definition.",
-"predicate": "cites",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -210,7 +210,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "cites"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -220,13 +220,13 @@
 "direction": "out",
 "edgeId": "e-6a79a7612e",
 "edgeLabel": "excludes DoD, routing it to sec. 119",
-"family": "documents",
+"family": "organisation",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
-"predicate": "cites",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -241,7 +241,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "cites"
+"verb": "does not include"
 },
 {
 "claimTier": 1,

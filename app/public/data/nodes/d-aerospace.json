@@ -62,13 +62,13 @@
 "direction": "out",
 "edgeId": "e-b84969d2ea",
 "edgeLabel": "Advanced projects shops are the industrial home",
-"family": "organisation",
+"family": "place-time",
 "id": "d-contractor",
 "l0": false,
 "label": "Prime Contractor Custody",
 "note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "located_at",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2004-03-03",
@@ -78,7 +78,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is part of"
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -88,12 +88,12 @@
 "direction": "out",
 "edgeId": "e-4a9ea0a978",
 "edgeLabel": "Black aircraft generated real cover stories",
-"family": "analysis",
+"family": "place-time",
 "id": "d-coverup",
 "l0": false,
 "label": "The Cover-Up",
 "note": "CIA's own historian states that U-2 and OXCART flights accounted for over half of late-1950s and 1960s reports and that false explanations were issued to protect them.",
-"predicate": "affects",
+"predicate": "led_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +104,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "affects"
+"verb": "led to"
 },
 {
 "claimTier": 1,

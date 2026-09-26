@@ -73,12 +73,12 @@
 "direction": "out",
 "edgeId": "e-a770d67d68",
 "edgeLabel": "The privately held specimen passed from the company through the Army to AARO and then to ORNL",
-"family": "custody",
+"family": "place-time",
 "id": "aaro-metallic-specimen-analysis",
 "l0": false,
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
-"predicate": "transferred",
+"predicate": "led_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,7 +99,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "passed records or material to"
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -109,12 +109,12 @@
 "direction": "in",
 "edgeId": "e-62a26e2553",
 "edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
-"family": "money",
+"family": "documents",
 "id": "adam-research-project",
 "l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
-"predicate": "funded",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,7 +125,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "funded"
+"verb": "concerns"
 },
 {
 "claimTier": 2,

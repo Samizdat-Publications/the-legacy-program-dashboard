@@ -61,12 +61,12 @@
 "direction": "out",
 "edgeId": "e-2f40ed25b5",
 "edgeLabel": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
-"family": "place-time",
+"family": "analysis",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
-"predicate": "led_to",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "led to"
+"verb": "affects"
 },
 {
 "claimTier": 2,

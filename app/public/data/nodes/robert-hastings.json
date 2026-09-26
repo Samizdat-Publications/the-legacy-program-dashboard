@@ -174,13 +174,13 @@
 "direction": "out",
 "edgeId": "e-96b3e80718",
 "edgeLabel": "Recorded him in August 1996 and again on 6 May 2011, and publishes his letter",
-"family": "testimony",
+"family": "media",
 "id": "frederick-meiwald",
 "l0": false,
 "label": "Col. Frederick Meiwald",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Meiwald was found by Salas, the claimant, and published by Salas and Hastings.",
-"predicate": "told",
-"predicateSide": "object",
+"predicate": "interviewed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -190,7 +190,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "received an account from"
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -200,12 +200,12 @@
 "direction": "out",
 "edgeId": "e-d24e36eebc",
 "edgeLabel": "Publishes the F. E. Warren 1 August 1965 material",
-"family": "documents",
+"family": "media",
 "id": "l-warren",
 "l0": false,
 "label": "F. E. Warren AFB, Wyoming",
 "note": "Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings.",
-"predicate": "studied",
+"predicate": "reported_on",
 "predicateSide": "subject",
 "sources": [
 {
@@ -216,7 +216,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "studied"
+"verb": "reported on"
 },
 {
 "claimTier": 1,
@@ -226,12 +226,12 @@
 "direction": "in",
 "edgeId": "e-d2b70dec63",
 "edgeLabel": "Hastings holds and publishes the 17 March 1967 teletype",
-"family": "custody",
+"family": "documents",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,7 +242,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -278,12 +278,12 @@
 "direction": "out",
 "edgeId": "e-abc6efc425",
 "edgeLabel": "Publishes the 25 August 1966 Minot documents in facsimile",
-"family": "documents",
+"family": "testimony",
 "id": "minot-1966",
 "l0": false,
 "label": "Minot AFB incursions, 1966",
 "note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -294,7 +294,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "published"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -423,12 +423,12 @@
 "direction": "out",
 "edgeId": "e-7be1e0e83f",
 "edgeLabel": "Located and recorded him; the account exists only as Hastings's tapes",
-"family": "testimony",
+"family": "media",
 "id": "walter-figel",
 "l0": false,
 "label": "Col. Walter Figel Jr.",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Three telephone conversations in 2008, 2009 and 2010, recorded by and held by the interviewer. The recordings have not been published in full at any URL this board has opened.",
-"predicate": "brought_to_record",
+"predicate": "interviewed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -439,7 +439,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "brought to the record"
+"verb": "interviewed"
 }
 ],
 "date": "2026-06-20",

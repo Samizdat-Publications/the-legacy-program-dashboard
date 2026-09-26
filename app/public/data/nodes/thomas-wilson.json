@@ -81,7 +81,7 @@
 "l0": true,
 "label": "The Disclosure Project",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
-"predicate": "led_to",
+"predicate": "preceded",
 "predicateSide": "object",
 "sources": [
 {
@@ -97,7 +97,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "followed from"
+"verb": "came after"
 },
 {
 "claimTier": 2,
@@ -107,13 +107,13 @@
 "direction": "in",
 "edgeId": "e-c3107a22c6",
 "edgeLabel": "The private two hour conversation of April 1997, as the notes record it",
-"family": "testimony",
+"family": "conduct",
 "id": "will-miller",
 "l0": false,
 "label": "Will Miller",
 "note": "The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it.",
-"predicate": "told",
-"predicateSide": "subject",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2002-10-16",
@@ -123,7 +123,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "passed an account to"
+"verb": "was in contact with"
 },
 {
 "claimTier": 2,

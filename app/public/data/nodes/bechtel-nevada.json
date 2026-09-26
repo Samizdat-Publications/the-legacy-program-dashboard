@@ -55,13 +55,13 @@
 "direction": "out",
 "edgeId": "e-bfb79d4a7a",
 "edgeLabel": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
-"family": "other",
+"family": "organisation",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Atomic Energy Act Restricted Data authorities are a separate statutory classification scheme; material held under them by a DOE management and operating contractor is not reachable by the Sec. 119 reporting obligations Congress relies on. No document places UAP material under DOE authority.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -76,7 +76,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is connected to"
+"verb": "falls outside"
 }
 ],
 "coords": null,

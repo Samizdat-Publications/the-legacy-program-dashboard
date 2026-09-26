@@ -76,7 +76,7 @@
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "Timestamped in the 1991 tape: the reactor account, the 223 grams, the 1740 degrees Celsius melting point and the machining into triangles.",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -87,7 +87,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,

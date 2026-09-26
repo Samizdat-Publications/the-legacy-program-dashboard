@@ -71,12 +71,12 @@
 "direction": "in",
 "edgeId": "e-2952deb718",
 "edgeLabel": "Switches off the only external inspector of a contractor SAP facility",
-"family": "analysis",
+"family": "law",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "DoDM 5205.07-V1 Enclosure 2 para 2.c enumerates what DSS/DCSA does 'Unless a carve-out provision is approved' - inspections, IS authorisation and CI cross-sharing.",
-"predicate": "affects",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -102,12 +102,12 @@
 "direction": "in",
 "edgeId": "e-b85dfd7793",
 "edgeLabel": "relieves DCSA of NISP industrial security oversight for a DoD SAP",
-"family": "conduct",
+"family": "organisation",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "",
-"predicate": "acted_against",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -118,7 +118,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was the target of action by"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -128,12 +128,12 @@
 "direction": "in",
 "edgeId": "e-6fe42b1d48",
 "edgeLabel": "relieves it of NISP oversight",
-"family": "analysis",
+"family": "law",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "The regulation names the office the carve-out acts on. 32 CFR 117.6(b) makes the Director, DCSA responsible for 'security oversight of the NISP as the DoD CSO', and then (b)(3) removes it: \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" So the effect is not that oversight passes to another body but that the cognizant security office's oversight function ceases for that programme, on the written approval of one of two named officials.",
-"predicate": "affects",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is affected by"
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -159,7 +159,7 @@
 "l0": false,
 "label": "32 CFR Part 117 - NISPOM Rule",
 "note": "32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.'",
-"predicate": "governs",
+"predicate": "created",
 "predicateSide": "object",
 "sources": [
 {
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is governed by"
+"verb": "was created by"
 },
 {
 "claimTier": 1,

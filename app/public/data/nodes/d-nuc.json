@@ -65,8 +65,8 @@
 "l0": false,
 "label": "Astronomy & Astrophysics",
 "note": "Bruehl and Villarroel's Scientific Reports paper links POSS-I transients to nuclear testing and to UAP reports, connecting the astronomical and nuclear-nexus domains.",
-"predicate": "affects",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -76,7 +76,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "affects"
+"verb": "parallels"
 },
 {
 "claimTier": 1,

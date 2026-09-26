@@ -75,7 +75,7 @@
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,7 +86,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 }
 ],
 "date": "2023-10-31",

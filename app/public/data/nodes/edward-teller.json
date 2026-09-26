@@ -110,7 +110,7 @@
 "l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
-"predicate": "led",
+"predicate": "founded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,7 +121,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led"
+"verb": "founded"
 }
 ],
 "date": "1949-02-16",

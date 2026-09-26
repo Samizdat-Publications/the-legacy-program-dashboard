@@ -94,12 +94,12 @@
 "direction": "out",
 "edgeId": "e-db853ade8a",
 "edgeLabel": "NASA science chief at the report release briefing",
-"family": "testimony",
+"family": "role",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
-"predicate": "acknowledged",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,7 +110,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "acknowledged"
+"verb": "held a post at"
 }
 ],
 "date": "2023-09-14",

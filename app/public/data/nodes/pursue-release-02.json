@@ -47,13 +47,13 @@
 "direction": "in",
 "edgeId": "e-26bf49d9f5",
 "edgeLabel": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
-"family": "testimony",
+"family": "denial",
 "id": "aaro-fy2024-annual-report",
 "l0": true,
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
-"predicate": "contradicts",
-"predicateSide": "subject",
+"predicate": "denied",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-14",
@@ -68,7 +68,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "contradicts"
+"verb": "was denied by"
 },
 {
 "claimTier": 3,
@@ -83,8 +83,8 @@
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Release 02 is the only tranche with an identified congressional trigger - Luna's April 2026 letter - and the letter itself has not been published.",
-"predicate": "led_to",
-"predicateSide": "object",
+"predicate": "responded_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -94,7 +94,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "followed from"
+"verb": "responded to"
 },
 {
 "claimTier": 1,

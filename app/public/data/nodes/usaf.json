@@ -587,13 +587,13 @@
 "direction": "in",
 "edgeId": "e-a2a3fad2e6",
 "edgeLabel": "USAF a named partner and the publisher of the fact sheet",
-"family": "role",
+"family": "organisation",
 "id": "northrop-tacit-blue",
 "l0": false,
 "label": "Northrop TACIT BLUE",
 "note": "The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "ran",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-18",
@@ -603,7 +603,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "ran"
 },
 {
 "claimTier": 2,
@@ -644,12 +644,12 @@
 "direction": "out",
 "edgeId": "e-2cbf64c664",
 "edgeLabel": "BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm",
-"family": "documents",
+"family": "custody",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.",
-"predicate": "released",
+"predicate": "holds",
 "predicateSide": "subject",
 "sources": [
 {
@@ -660,7 +660,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "released"
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -732,8 +732,8 @@
 "l0": false,
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
 "note": "Section II names Technical Requirement No. 3 of 13 August 1954 and the order to proceed of 29 December 1954, so the Air Force interest is dated by the document rather than inferred.",
-"predicate": "wrote",
-"predicateSide": "subject",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-02-15",
@@ -743,7 +743,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "wrote"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,

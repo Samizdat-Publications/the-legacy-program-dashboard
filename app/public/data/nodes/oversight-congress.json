@@ -41,12 +41,12 @@
 "direction": "in",
 "edgeId": "e-3752916b84",
 "edgeLabel": "Chairwoman stated the HASC/HAC-D read-in gate on the record",
-"family": "oversight",
+"family": "testimony",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
-"predicate": "oversaw",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was overseen by"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -72,7 +72,7 @@
 "l0": false,
 "label": "Howard P. \"Buck\" McKeon",
 "note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -88,7 +88,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -212,13 +212,13 @@
 "direction": "out",
 "edgeId": "e-a35779b1d5",
 "edgeLabel": "The audit Congress has, and cannot read",
-"family": "custody",
+"family": "oversight",
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary.",
-"predicate": "holds",
-"predicateSide": "subject",
+"predicate": "reports_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-15",
@@ -228,7 +228,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "holds"
+"verb": "receives reports from"
 },
 {
 "claimTier": 1,
@@ -290,12 +290,12 @@
 "direction": "out",
 "edgeId": "e-8832e2477f",
 "edgeLabel": "Defense committee receiving waived-SAP notification",
-"family": "organisation",
+"family": "role",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Same statutory provision; four committees, eight members.",
-"predicate": "part_of",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -306,7 +306,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "includes"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -352,12 +352,12 @@
 "direction": "in",
 "edgeId": "e-fbdfe5892f",
 "edgeLabel": "the narrow aperture through which Congress sees waived DoD SAPs",
-"family": "oversight",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
-"predicate": "reports_to",
+"predicate": "part_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -378,7 +378,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -388,13 +388,13 @@
 "direction": "out",
 "edgeId": "e-41afc54acd",
 "edgeLabel": "The 10 U.S.C. 119(e) waiver reduces notification to eight members",
-"family": "law",
+"family": "oversight",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Where the Secretary waives reporting, the statute directs that the information and the justification go 'jointly to the chairman and ranking minority member of each of the defense committees'. This is the lawful mechanism by which a program can be hidden from the rest of Congress.",
-"predicate": "governs",
-"predicateSide": "subject",
+"predicate": "reports_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-01",
@@ -404,7 +404,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "receives reports from"
 }
 ],
 "coords": null,

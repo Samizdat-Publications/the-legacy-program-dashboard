@@ -141,7 +141,7 @@
 "label": "Bigelow Aerospace",
 "note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
 "predicate": "alleged_to_hold",
-"predicateSide": "subject",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -156,7 +156,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to hold material from"
+"verb": "is alleged to have material held by"
 },
 {
 "claimTier": 2,
@@ -264,12 +264,12 @@
 "direction": "in",
 "edgeId": "e-843215b95d",
 "edgeLabel": "inspected Lockheed's other contracts while excluded from its special access contract",
-"family": "oversight",
+"family": "organisation",
 "id": "defense-investigative-service",
 "l0": false,
 "label": "Defense Investigative Service",
 "note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
-"predicate": "investigated",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -280,7 +280,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was investigated by"
+"verb": "does not include"
 },
 {
 "claimTier": 2,
@@ -382,12 +382,12 @@
 "direction": "in",
 "edgeId": "e-0bd57a7667",
 "edgeLabel": "author's affiliation of record; one of three Lockheed Martin DIRDs",
-"family": "documents",
+"family": "organisation",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
-"predicate": "wrote",
+"predicate": "produced",
 "predicateSide": "subject",
 "sources": [
 {
@@ -418,7 +418,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "wrote"
+"verb": "produced"
 },
 {
 "claimTier": 3,
@@ -480,12 +480,12 @@
 "direction": "out",
 "edgeId": "e-207fe30640",
 "edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
-"family": "analysis",
+"family": "testimony",
 "id": "general-dynamics",
 "l0": false,
 "label": "General Dynamics Corporation",
 "note": "Rep. Mace proposed that undersea propulsion material would go to a contractor like General Dynamics and aerospace material to Lockheed; Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
-"predicate": "parallels",
+"predicate": "alleged_tie",
 "predicateSide": "either",
 "sources": [
 {
@@ -496,7 +496,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,
@@ -537,7 +537,7 @@
 "l0": false,
 "label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
 "note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "object",
 "sources": [
 {
@@ -553,7 +553,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "is required by"
 },
 {
 "claimTier": 2,
@@ -615,12 +615,12 @@
 "direction": "in",
 "edgeId": "e-e6510f8902",
 "edgeLabel": "The proposal's premise was that existing holdings would be moved into a structure Congress could see",
-"family": "custody",
+"family": "testimony",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "AARO records the proponents' belief that creating the program under DHS 'would allow all of the technology and knowledge of these alleged programs to be moved under the KONA BLUE program' where it could be properly monitored by oversight committees.",
-"predicate": "alleged_to_hold",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -631,7 +631,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is alleged to have material held by"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -641,12 +641,12 @@
 "direction": "out",
 "edgeId": "e-c90c7f9c2c",
 "edgeLabel": "The most-repeated custody allegation names Lockheed and California",
-"family": "custody",
+"family": "place-time",
 "id": "l-la",
 "l0": false,
 "label": "Los Angeles and Burbank, California",
 "note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
-"predicate": "alleged_to_hold",
+"predicate": "located_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -657,7 +657,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is alleged to hold material from"
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -667,12 +667,12 @@
 "direction": "out",
 "edgeId": "e-9190046bcf",
 "edgeLabel": "Lockheed Martin is named among the contractors supporting NAVAIR work at the site alleged to store an exotic vehicle",
-"family": "custody",
+"family": "place-time",
 "id": "l-pax-river",
 "l0": false,
 "label": "Naval Air Station Patuxent River, Maryland",
 "note": "Liberation Times reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included Lockheed Martin and MITRE.",
-"predicate": "alleged_to_hold",
+"predicate": "located_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -683,7 +683,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is alleged to hold material from"
+"verb": "is located at"
 },
 {
 "claimTier": 3,
@@ -807,13 +807,13 @@
 "direction": "in",
 "edgeId": "e-d52c23f842",
 "edgeLabel": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
-"family": "other",
+"family": "organisation",
 "id": "rias-inc",
 "l0": false,
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-01-01",
@@ -823,7 +823,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "includes"
 },
 {
 "claimTier": 3,
@@ -838,8 +838,8 @@
 "l0": false,
 "label": "Richard D'Amato",
 "note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
-"predicate": "made_claims_about",
-"predicateSide": "object",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-02-28",
@@ -854,7 +854,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "is the subject of claims by"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,

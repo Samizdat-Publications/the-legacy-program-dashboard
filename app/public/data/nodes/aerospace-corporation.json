@@ -164,12 +164,12 @@
 "direction": "in",
 "edgeId": "e-cb955e3042",
 "edgeLabel": "Groups Aerospace Corporation with MITRE as the FFRDC layer",
-"family": "documents",
+"family": "testimony",
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -185,7 +185,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -195,12 +195,12 @@
 "direction": "in",
 "edgeId": "e-c7dcb21198",
 "edgeLabel": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
-"family": "documents",
+"family": "testimony",
 "id": "gerb-northrop-trw-investigation",
 "l0": false,
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -211,7 +211,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 }
 ],
 "coords": null,

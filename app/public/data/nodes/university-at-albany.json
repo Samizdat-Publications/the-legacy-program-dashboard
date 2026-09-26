@@ -136,12 +136,12 @@
 "direction": "out",
 "edgeId": "e-c216fb66c6",
 "edgeLabel": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
-"family": "documents",
+"family": "organisation",
 "id": "paper-knuth-2025-new-science",
 "l0": false,
 "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
-"predicate": "wrote",
+"predicate": "produced",
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,7 +157,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "wrote"
+"verb": "produced"
 },
 {
 "claimTier": 1,

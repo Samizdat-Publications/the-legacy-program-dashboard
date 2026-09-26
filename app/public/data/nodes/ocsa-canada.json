@@ -53,7 +53,7 @@
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Sky Canada report records that 'On June 1, 2024, AARO released its second report on 757 UAP reports from May 1, 2023, to June 1, 2024', of which '174 cases were resolved and found to be objects such as balloons, birds, unmanned aerial systems, satellites and aircraft', and cites AARO's Historical Record Report Volume I in its references. Its recommendation 13 directs the future Canadian lead organization to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "studied"
+"verb": "cites"
 },
 {
 "claimTier": 1,

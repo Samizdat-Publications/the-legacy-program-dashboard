@@ -542,8 +542,8 @@
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-03-26",
@@ -563,7 +563,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "appointed"
 },
 {
 "claimTier": 1,
@@ -573,13 +573,13 @@
 "direction": "in",
 "edgeId": "e-9a878750ea",
 "edgeLabel": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
-"family": "denial",
+"family": "other",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Burlison put both on the record at the 9 September 2025 hearing: 'not an elected official, but someone in staff blocked us. And I have had it.'",
-"predicate": "refused",
-"predicateSide": "object",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -589,7 +589,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -677,13 +677,13 @@
 "direction": "in",
 "edgeId": "e-55af5adca8",
 "edgeLabel": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
-"family": "testimony",
+"family": "oversight",
 "id": "hospital-regional-varginha",
 "l0": false,
 "label": "Hospital Regional de Varginha",
 "note": "Rep. Eric Burlison attended the 15 January 2026 closed meeting with the Varginha witnesses, asked whether other hospital staff could corroborate Venturelli's account and urged that they be brought forward, and spoke at the 20 January National Press Club event calling for international transparency.",
-"predicate": "told",
-"predicateSide": "object",
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -703,7 +703,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -791,12 +791,12 @@
 "direction": "out",
 "edgeId": "e-4f4526e5e6",
 "edgeLabel": "Co-launched the probe; revealed the McCasland trigger",
-"family": "role",
+"family": "oversight",
 "id": "missing-scientists-probe-2026",
 "l0": false,
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "note": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
-"predicate": "led",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -807,7 +807,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "led"
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -921,12 +921,12 @@
 "direction": "out",
 "edgeId": "e-ab3e841c6f",
 "edgeLabel": "obtained and published",
-"family": "documents",
+"family": "testimony",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "Burlison published the memorandum on 1 August 2026 after calling publicly on 29 July for ODNI to issue implementation guidance.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -942,7 +942,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "published"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -1035,12 +1035,12 @@
 "direction": "out",
 "edgeId": "e-8d3b7ed08b",
 "edgeLabel": "Led the March 2024 call for a select committee focused on expenditures",
-"family": "role",
+"family": "conduct",
 "id": "uap-select-committee-proposal",
 "l0": false,
 "label": "Proposed House Select Committee on UAP",
 "note": "Burlison said he had the support of Comer, Burchett and Moskowitz but had not raised it with Speaker Johnson.",
-"predicate": "led",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1051,7 +1051,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "led"
+"verb": "supported"
 },
 {
 "claimTier": 1,
@@ -1061,12 +1061,12 @@
 "direction": "in",
 "edgeId": "e-ca7ca83f75",
 "edgeLabel": "Burlison could not get the UAP Disclosure Act onto the House NDAA in 2024 or 2025",
-"family": "law",
+"family": "conduct",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "'It was stripped out by the House last year, and I cannot get it onto the bill leaving the House this year.'",
-"predicate": "sponsored_law",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1077,7 +1077,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "sponsored"
+"verb": "supported"
 },
 {
 "claimTier": 1,
@@ -1118,13 +1118,13 @@
 "direction": "out",
 "edgeId": "e-3573062eba",
 "edgeLabel": "no statutory entitlement; not a defense committee chair or ranking member",
-"family": "denial",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
-"predicate": "omitted",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1149,7 +1149,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is left out of"
+"verb": "falls outside"
 }
 ],
 "date": "2026-05-22",

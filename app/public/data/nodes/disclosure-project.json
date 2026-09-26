@@ -59,12 +59,12 @@
 "direction": "in",
 "edgeId": "e-78168a1d36",
 "edgeLabel": "The project's own publication",
-"family": "organisation",
+"family": "documents",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
-"predicate": "produced",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -75,7 +75,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "produced"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -85,12 +85,12 @@
 "direction": "in",
 "edgeId": "e-441c880888",
 "edgeLabel": "The Project's own compiled briefing document, April 2001",
-"family": "organisation",
+"family": "documents",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
-"predicate": "produced",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -101,7 +101,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "produced"
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -142,8 +142,8 @@
 "l0": false,
 "label": "Mark McCandlish",
 "note": "His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'.",
-"predicate": "brought_to_record",
-"predicateSide": "subject",
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -153,7 +153,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -168,8 +168,8 @@
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
-"predicate": "produced",
-"predicateSide": "subject",
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-05-09",
@@ -184,7 +184,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "produced"
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -251,7 +251,7 @@
 "l0": false,
 "label": "Thomas R. Wilson",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
-"predicate": "led_to",
+"predicate": "preceded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -267,7 +267,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "led to"
+"verb": "came before"
 }
 ],
 "coords": null,

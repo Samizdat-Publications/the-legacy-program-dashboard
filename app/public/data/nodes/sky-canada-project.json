@@ -109,7 +109,7 @@
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,7 +125,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "studied"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -140,7 +140,7 @@
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -156,7 +156,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "studied"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -166,12 +166,12 @@
 "direction": "out",
 "edgeId": "e-f48b2b0d7c",
 "edgeLabel": "the report is the source of the three-office model",
-"family": "organisation",
+"family": "analysis",
 "id": "intl-uap-office-model",
 "l0": false,
 "label": "The three-office model: GEIPAN, SEFAA, AARO",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
-"predicate": "produced",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -182,7 +182,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "produced"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -228,12 +228,12 @@
 "direction": "out",
 "edgeId": "e-3690351afc",
 "edgeLabel": "2025 report is the first federal review to work the LAC holding",
-"family": "documents",
+"family": "oversight",
 "id": "lac-ufo-collection",
 "l0": false,
 "label": "Library and Archives Canada - UFO records collection",
 "note": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
-"predicate": "studied",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -244,7 +244,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "studied"
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -254,12 +254,12 @@
 "direction": "in",
 "edgeId": "e-1283a7aeb3",
 "edgeLabel": "Chief Science Advisor whose office produced the report",
-"family": "role",
+"family": "organisation",
 "id": "mona-nemer",
 "l0": false,
 "label": "Dr Mona Nemer",
 "note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
-"predicate": "led",
+"predicate": "ran",
 "predicateSide": "object",
 "sources": [
 {
@@ -270,7 +270,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was led by"
+"verb": "was run by"
 }
 ],
 "coords": null,

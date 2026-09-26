@@ -138,13 +138,13 @@
 "direction": "in",
 "edgeId": "e-83698822ae",
 "edgeLabel": "The negative finding is inserted after Grusch, not inherited",
-"family": "organisation",
+"family": "place-time",
 "id": "aaro-fy2023-annual-report",
 "l0": false,
 "label": "AARO FY2023 Consolidated Annual Report on UAP",
 "note": "The FY2023 report contains no extraterrestrial-technology denial; the FY2024 report leads with one. The change tracks the July 2023 hearing, indicating the formula is a communications response rather than an analytic finding.",
-"predicate": "succeeded",
-"predicateSide": "subject",
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-10-25",
@@ -159,7 +159,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "succeeded"
+"verb": "came after"
 },
 {
 "claimTier": 1,
@@ -314,13 +314,13 @@
 "direction": "out",
 "edgeId": "e-26bf49d9f5",
 "edgeLabel": "'Lack of timely and actionable sensor data' against 51 released sensor videos",
-"family": "testimony",
+"family": "denial",
 "id": "pursue-release-02",
 "l0": false,
 "label": "PURSUE Release 02",
 "note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
-"predicate": "contradicts",
-"predicateSide": "object",
+"predicate": "denied",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-14",
@@ -335,7 +335,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "denied"
 }
 ],
 "coords": null,

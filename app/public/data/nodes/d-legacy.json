@@ -73,8 +73,8 @@
 "l0": false,
 "label": "Reverse Engineering",
 "note": "The legacy claim and the reverse-engineering claim are the same claim stated at different stages; AARO addresses and rejects both in Volume I.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-02-01",
@@ -84,7 +84,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "affects"
 },
 {
 "claimTier": 3,

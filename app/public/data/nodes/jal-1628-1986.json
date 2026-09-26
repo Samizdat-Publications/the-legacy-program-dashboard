@@ -135,7 +135,7 @@
 "l0": false,
 "label": "John Callahan",
 "note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -156,7 +156,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is the subject of claims by"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -192,12 +192,12 @@
 "direction": "out",
 "edgeId": "e-fc29e7ebf3",
 "edgeLabel": "Federal file recovered after seventeen years and two destruction notices",
-"family": "oversight",
+"family": "testimony",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
-"predicate": "investigated",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -213,7 +213,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was investigated by"
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,

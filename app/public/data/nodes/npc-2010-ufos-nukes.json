@@ -116,7 +116,7 @@
 "l0": false,
 "label": "Lt Col Dwynne Arneson",
 "note": "No dated public statement by him before this event has been identified.",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -127,7 +127,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -168,7 +168,7 @@
 "l0": false,
 "label": "Patrick McDonough",
 "note": "No dated public statement by him before this event has been identified.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -179,7 +179,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "heard testimony from"
 },
 {
 "claimTier": 2,
@@ -251,7 +251,7 @@
 "l0": false,
 "label": "Capt. Robert L. Salas",
 "note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -267,7 +267,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

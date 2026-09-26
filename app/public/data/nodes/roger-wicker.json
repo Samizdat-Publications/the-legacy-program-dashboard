@@ -64,13 +64,13 @@
 "direction": "out",
 "edgeId": "e-daa0a085a2",
 "edgeLabel": "Chaired SASC for the FY2026 authorization",
-"family": "law",
+"family": "other",
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
-"predicate": "sponsored_law",
-"predicateSide": "subject",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-12-18",
@@ -85,7 +85,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "sponsored"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,

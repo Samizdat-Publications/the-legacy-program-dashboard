@@ -164,7 +164,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
 "predicate": "alleged_to_hold",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -179,7 +179,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to have material held by"
+"verb": "is alleged to hold material from"
 },
 {
 "claimTier": 2,

@@ -97,7 +97,7 @@
 "l0": false,
 "label": "Wilbert Brockhouse Smith",
 "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
-"predicate": "contradicts",
+"predicate": "told",
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,7 +108,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "contradicts"
+"verb": "passed an account to"
 }
 ],
 "date": "1983-11-29",

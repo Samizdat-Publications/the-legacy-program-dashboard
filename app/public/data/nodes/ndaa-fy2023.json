@@ -166,12 +166,12 @@
 "direction": "out",
 "edgeId": "e-1017d21b4d",
 "edgeLabel": "amends 50 U.S.C. 3373 to create AARO",
-"family": "organisation",
+"family": "law",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "IAA FY2023 sec. 6802(a) rewrites sec. 1683 in full.",
-"predicate": "succeeded",
+"predicate": "amended",
 "predicateSide": "subject",
 "sources": [
 {
@@ -182,7 +182,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "succeeded"
+"verb": "amended"
 }
 ],
 "coords": null,

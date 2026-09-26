@@ -119,7 +119,7 @@
 "l0": false,
 "label": "Michael Johnson",
 "note": "LOCATED BY THE PUBLISHING PARTY ON 26 JUNE 2026 FROM A VIEWER'S FACEBOOK TIP, VIA AN UNNAMED RECRUITER. NO DATED PUBLIC STATEMENT BY HIM ABOUT THIS EVENT EXISTS PRIOR TO THAT CONTACT. ON THE RECORDED CALL HE ANSWERED 'NO' BEFORE THE ORIGINAL WITNESS NAMED THE UFO, TWICE, AND HE THEN ASSENTED. THE EPISODE'S OWN LATER RETELLING OF THAT MOMENT CONTRADICTS ITS OWN RECORDING OF IT. The accounts agree on substance and diverge on posture and agency, which reads very differently from verbatim agreement.",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -130,7 +130,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

@@ -355,7 +355,7 @@
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
-"predicate": "concerns",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -366,7 +366,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "concerns"
+"verb": "cites"
 }
 ],
 "coords": null,

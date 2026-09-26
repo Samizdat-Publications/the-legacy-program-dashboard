@@ -46,7 +46,7 @@
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
-"predicate": "concerns",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -67,7 +67,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "is cited by"
 },
 {
 "claimTier": 3,
@@ -108,12 +108,12 @@
 "direction": "in",
 "edgeId": "e-fe0196fcd3",
 "edgeLabel": "former director at the laboratory that tests the specimens",
-"family": "other",
+"family": "place-time",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "is connected to"
+"verb": "happened alongside"
 }
 ],
 "coords": null,

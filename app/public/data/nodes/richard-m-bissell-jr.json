@@ -102,12 +102,12 @@
 "direction": "out",
 "edgeId": "e-d3a62f4e9f",
 "edgeLabel": "Selected the site on 12 April 1955",
-"family": "place-time",
+"family": "testimony",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "He and Ritland flew over Nevada with Kelly Johnson and Tony LeVier, landed on the lakebed and walked the strip, and the monograph notes that a landing on the airstrip itself would probably have killed the key figures in the project.",
-"predicate": "located_at",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -118,7 +118,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is located at"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -128,12 +128,12 @@
 "direction": "out",
 "edgeId": "e-cae517d5f7",
 "edgeLabel": "Ran the project Kelly Johnson built the aircraft for",
-"family": "money",
+"family": "organisation",
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers.",
-"predicate": "contracted",
+"predicate": "ran",
 "predicateSide": "subject",
 "sources": [
 {
@@ -144,7 +144,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "contracted"
+"verb": "ran"
 },
 {
 "claimTier": 1,

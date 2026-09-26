@@ -34,7 +34,7 @@
 "l0": false,
 "label": "Dr. Robert M. Wood",
 "note": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
-"predicate": "led",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -45,7 +45,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was led by"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -55,12 +55,12 @@
 "direction": "in",
 "edgeId": "e-7637a7be80",
 "edgeLabel": "Co-principal of the document archive",
-"family": "organisation",
+"family": "role",
 "id": "ryan-wood",
 "l0": false,
 "label": "Ryan S. Wood",
 "note": "Same copyright notice and About page attribution.",
-"predicate": "ran",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -71,7 +71,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was run by"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,

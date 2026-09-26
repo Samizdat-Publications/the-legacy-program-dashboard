@@ -103,13 +103,13 @@
 "direction": "out",
 "edgeId": "e-ea9f7c422a",
 "edgeLabel": "Fabricated programme material in the Kirtland operation, corroborated as told by 1989",
-"family": "conduct",
+"family": "custody",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Cooper's 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.",
-"predicate": "acted_against",
-"predicateSide": "subject",
+"predicate": "alleged_to_hold",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -119,7 +119,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "took action against"
+"verb": "is alleged to have material held by"
 }
 ],
 "coords": null,

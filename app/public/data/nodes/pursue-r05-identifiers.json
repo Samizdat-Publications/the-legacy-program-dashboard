@@ -41,11 +41,37 @@
 "direction": "out",
 "edgeId": "e-0d7d12e17d",
 "edgeLabel": "published the engagement record",
-"family": "documents",
+"family": "testimony",
 "id": "gulf-of-oman-ac130j-2021",
 "l0": false,
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
+"predicate": "brought_to_record",
+"predicateSide": "subject",
+"sources": [
+{
+"date": "2026-08-07",
+"name": "EarthSky, PURSUE batch 5",
+"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
+}
+],
+"tier": "B",
+"type": "custody",
+"verb": "brought to the record"
+},
+{
+"claimTier": 1,
+"cls": "document",
+"dateEnd": null,
+"dateStart": "2026-08-07",
+"direction": "out",
+"edgeId": "e-053e6d6bd3",
+"edgeLabel": "published as DOW-UAP-D098",
+"family": "documents",
+"id": "navy-pic-1953-film-analysis",
+"l0": false,
+"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
+"note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
 "predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
@@ -58,32 +84,6 @@
 "tier": "B",
 "type": "custody",
 "verb": "concerns"
-},
-{
-"claimTier": 1,
-"cls": "document",
-"dateEnd": null,
-"dateStart": "2026-08-07",
-"direction": "out",
-"edgeId": "e-053e6d6bd3",
-"edgeLabel": "published as DOW-UAP-D098",
-"family": "organisation",
-"id": "navy-pic-1953-film-analysis",
-"l0": false,
-"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
-"note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
-"predicate": "part_of",
-"predicateSide": "object",
-"sources": [
-{
-"date": "2026-08-07",
-"name": "EarthSky, PURSUE batch 5",
-"url": "https://earthsky.org/human-world/pentagon-uap-files-batch-5-ufos-orbs-triangles/"
-}
-],
-"tier": "B",
-"type": "custody",
-"verb": "includes"
 },
 {
 "claimTier": 1,

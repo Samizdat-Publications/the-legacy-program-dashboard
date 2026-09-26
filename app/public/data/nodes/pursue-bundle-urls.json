@@ -35,12 +35,12 @@
 "direction": "in",
 "edgeId": "e-6f531eb64f",
 "edgeLabel": "physical release locations",
-"family": "custody",
+"family": "documents",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
-"predicate": "holds",
+"predicate": "released",
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is held by"
+"verb": "was released by"
 }
 ],
 "coords": null,

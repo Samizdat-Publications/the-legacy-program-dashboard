@@ -154,12 +154,12 @@
 "direction": "out",
 "edgeId": "e-8dfef71261",
 "edgeLabel": "Randle's case-by-case surveys audit Stringfield's corpus",
-"family": "documents",
+"family": "oversight",
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "'A History of UFO Crashes' (1995) and 'Crash: When UFOs Fall From the Sky' (2010) revisit the Status Report cases with named sourcing where it exists and rejection where it does not. Reasoning: comparison of case lists.",
-"predicate": "studied",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -170,7 +170,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was studied by"
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,

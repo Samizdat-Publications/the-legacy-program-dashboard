@@ -176,13 +176,13 @@
 "direction": "in",
 "edgeId": "e-5dd3289eab",
 "edgeLabel": "Boeing contractors were the observers in the 2003 Vandenberg red square incident",
-"family": "testimony",
+"family": "documents",
 "id": "boeing",
 "l0": false,
 "label": "The Boeing Company",
 "note": "Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist.",
-"predicate": "witnessed",
-"predicateSide": "object",
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -197,7 +197,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -413,12 +413,12 @@
 "direction": "in",
 "edgeId": "e-8ffb2d99eb",
 "edgeLabel": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
-"family": "oversight",
+"family": "role",
 "id": "glenn-grothman",
 "l0": false,
 "label": "Glenn S. Grothman",
 "note": "Grothman's question about what information Grusch believed was hidden produced the only program-category language in the unclassified record.",
-"predicate": "oversaw",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -429,7 +429,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was overseen by"
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -564,7 +564,7 @@
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Listed in the hearing's Index of Documents.",
 "predicate": "brought_to_record",
-"predicateSide": "subject",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -574,7 +574,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "brought to the record"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -775,12 +775,12 @@
 "direction": "in",
 "edgeId": "e-e5830448a8",
 "edgeLabel": "Drove the hearing into existence; opened by disclosing the denied SCIF access",
-"family": "place-time",
+"family": "oversight",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing.",
-"predicate": "led_to",
+"predicate": "oversaw",
 "predicateSide": "object",
 "sources": [
 {
@@ -791,7 +791,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "followed from"
+"verb": "was overseen by"
 }
 ],
 "coords": null,

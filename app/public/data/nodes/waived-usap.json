@@ -381,12 +381,12 @@
 "direction": "in",
 "edgeId": "e-36c03e7cc0",
 "edgeLabel": "A ridiculed subject held inside service-secretary-level access controls",
-"family": "organisation",
+"family": "analysis",
 "id": "inscom",
 "l0": true,
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
-"predicate": "ran",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -397,7 +397,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was run by"
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -407,12 +407,12 @@
 "direction": "in",
 "edgeId": "e-ce2fc3d777",
 "edgeLabel": "NISP oversight is the only government-wide window on contractor-held classified work",
-"family": "analysis",
+"family": "oversight",
 "id": "isoo",
 "l0": false,
 "label": "Information Security Oversight Office",
 "note": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program'. A contractor-held program with no government sponsor of record would be visible, if anywhere, through NISP - and ISOO has never been directed at the UAP question.",
-"predicate": "affects",
+"predicate": "oversaw",
 "predicateSide": "object",
 "sources": [
 {
@@ -423,7 +423,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,
@@ -568,7 +568,7 @@
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "FY2024 NDAA sec. 1687(a) conditions obligation of funds on the Secretary of Defense providing details to the defense and intelligence committees and congressional leadership.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "object",
 "sources": [
 {
@@ -579,7 +579,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -620,13 +620,13 @@
 "direction": "in",
 "edgeId": "e-41afc54acd",
 "edgeLabel": "The 10 U.S.C. 119(e) waiver reduces notification to eight members",
-"family": "law",
+"family": "oversight",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Where the Secretary waives reporting, the statute directs that the information and the justification go 'jointly to the chairman and ranking minority member of each of the defense committees'. This is the lawful mechanism by which a program can be hidden from the rest of Congress.",
-"predicate": "governs",
-"predicateSide": "object",
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -636,7 +636,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -677,12 +677,12 @@
 "direction": "in",
 "edgeId": "e-300f5334aa",
 "edgeLabel": "The read-in gate members describe is the policy text of paragraph 4.f",
-"family": "analysis",
+"family": "organisation",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "DoDD 5205.07 (2010) para 4.f is the written rule that members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs'.",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -693,7 +693,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is an instance of"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -796,7 +796,7 @@
 "l0": false,
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "10 U.S.C. 119(e) is the waiver: 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security.' Where it is exercised, 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Read directly from the OLRC text on 22 August 2026.",
-"predicate": "created",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -807,7 +807,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "was created by"
+"verb": "is governed by"
 },
 {
 "claimTier": 1,

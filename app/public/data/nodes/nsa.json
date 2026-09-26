@@ -40,7 +40,7 @@
 "l0": false,
 "label": "Adm. Bobby Ray Inman",
 "note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -149,7 +149,7 @@
 "l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -160,7 +160,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "studied"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -196,13 +196,13 @@
 "direction": "out",
 "edgeId": "e-41ac157fba",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
-"family": "role",
+"family": "oversight",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -212,7 +212,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -222,12 +222,12 @@
 "direction": "in",
 "edgeId": "e-92c9d0cb87",
 "edgeLabel": "An information addressee on the report's own distribution list",
-"family": "documents",
+"family": "oversight",
 "id": "tehran-f4-intercept-1976",
 "l0": false,
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "note": "NSA Washington is an information addressee on the report's own distribution list.",
-"predicate": "concerns",
+"predicate": "reports_to",
 "predicateSide": "object",
 "sources": [
 {
@@ -238,7 +238,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "receives reports from"
 },
 {
 "claimTier": 2,

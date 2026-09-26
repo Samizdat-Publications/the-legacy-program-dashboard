@@ -34,8 +34,8 @@
 "l0": false,
 "label": "The Boeing Company",
 "note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
-"predicate": "succeeded",
-"predicateSide": "object",
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -45,7 +45,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was succeeded by"
+"verb": "is part of"
 },
 {
 "claimTier": 3,
@@ -55,13 +55,13 @@
 "direction": "out",
 "edgeId": "e-9e18b58924",
 "edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
-"family": "analysis",
+"family": "place-time",
 "id": "dodi-3204-01",
 "l0": false,
 "label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-07-09",
@@ -71,7 +71,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "parallels"
+"verb": "came before"
 },
 {
 "claimTier": 2,

@@ -68,13 +68,13 @@
 "direction": "in",
 "edgeId": "e-25b998b015",
 "edgeLabel": "Fabricated material as the delivery vehicle",
-"family": "analysis",
+"family": "organisation",
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-20",
@@ -84,7 +84,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is affected by"
+"verb": "is part of"
 },
 {
 "claimTier": 2,

@@ -61,12 +61,12 @@
 "direction": "in",
 "edgeId": "e-23d46b2513",
 "edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
-"family": "documents",
+"family": "testimony",
 "id": "bennewitz-project-beta-1981",
 "l0": false,
 "label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
 "note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 3,
@@ -87,12 +87,12 @@
 "direction": "in",
 "edgeId": "e-652d74a0e0",
 "edgeLabel": "FRAME-PROPAGATION ONLY: his 1989 paper contains the word Dulce zero times",
-"family": "testimony",
+"family": "analysis",
 "id": "bill-cooper",
 "l0": false,
 "label": "Milton William Cooper",
 "note": "Cooper carried the frame of alien bases built under Indian reservations in the Four Corners area to a mass audience from 1989. The string 'Dulce' occurs zero times in the forty-nine pages, which were extracted and searched in full. Tier 3 because attaching his frame to this specific site is inference and not text, and an edge worded any more strongly would contradict its own source.",
-"predicate": "made_claims_about",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "is affected by"
 },
 {
 "claimTier": 2,
@@ -196,12 +196,12 @@
 "direction": "in",
 "edgeId": "e-6bc30259df",
 "edgeLabel": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
-"family": "denial",
+"family": "oversight",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2.",
-"predicate": "explained_away",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -212,7 +212,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was given a conventional explanation by"
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -419,7 +419,7 @@
 "l0": false,
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration.",
-"predicate": "denied",
+"predicate": "explained_away",
 "predicateSide": "object",
 "sources": [
 {
@@ -430,7 +430,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "was denied by"
+"verb": "was given a conventional explanation by"
 },
 {
 "claimTier": 2,

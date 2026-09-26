@@ -118,13 +118,13 @@
 "direction": "out",
 "edgeId": "e-e24499bdbf",
 "edgeLabel": "Section lead and wingman on the same intercept",
-"family": "testimony",
+"family": "role",
 "id": "alex-dietrich",
 "l0": false,
 "label": "Alex Dietrich",
 "note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
-"predicate": "corroborated",
-"predicateSide": "subject",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-01-14",
@@ -139,7 +139,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "corroborates"
+"verb": "worked with"
 },
 {
 "claimTier": 1,

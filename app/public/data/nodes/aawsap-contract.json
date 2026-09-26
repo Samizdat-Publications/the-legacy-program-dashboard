@@ -97,13 +97,13 @@
 "direction": "in",
 "edgeId": "e-2d91026357",
 "edgeLabel": "",
-"family": "law",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
-"predicate": "created",
-"predicateSide": "subject",
+"predicate": "contracted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-09-02",
@@ -118,7 +118,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "created"
+"verb": "was contracted by"
 },
 {
 "claimTier": 1,
@@ -268,12 +268,12 @@
 "direction": "in",
 "edgeId": "e-776b5a7789",
 "edgeLabel": "published the contract documentation",
-"family": "documents",
+"family": "testimony",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Knapp's KLAS I-Team established publicly that the DIA-funded study was executed in Nevada, ahead of DIA's own release of the contract in 2022.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -284,7 +284,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was published by"
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,

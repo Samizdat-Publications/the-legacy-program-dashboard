@@ -163,12 +163,12 @@
 "direction": "out",
 "edgeId": "e-6ecac0ea84",
 "edgeLabel": "Hynek presented to the panel but was not a member",
-"family": "testimony",
+"family": "organisation",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
-"predicate": "witnessed",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,7 +179,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "falls outside"
 }
 ],
 "date": "1968-07-29",

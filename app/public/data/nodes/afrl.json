@@ -40,8 +40,8 @@
 "l0": false,
 "label": "National Air and Space Intelligence Center",
 "note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
-"predicate": "located_at",
-"predicateSide": "subject",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -51,7 +51,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is located at"
+"verb": "happened alongside"
 },
 {
 "claimTier": 2,

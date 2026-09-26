@@ -62,13 +62,13 @@
 "direction": "out",
 "edgeId": "e-f8bff00c2e",
 "edgeLabel": "Statutory basis for the access tier",
-"family": "organisation",
+"family": "analysis",
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain.",
-"predicate": "part_of",
-"predicateSide": "object",
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "includes"
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -93,12 +93,12 @@
 "direction": "in",
 "edgeId": "e-16b4c774e4",
 "edgeLabel": "Fixes the three categories and takes classification authority away from 28 agencies",
-"family": "law",
+"family": "analysis",
 "id": "eo-10501",
 "l0": false,
 "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "note": "Section 1 bars any designation other than Top Secret, Secret and Confidential 'except as expressly provided by statute'. Section 2 provides that agencies without direct national-defense responsibility have no original classification authority at all, and the attached memorandum names 28 of them.",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is governed by"
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,

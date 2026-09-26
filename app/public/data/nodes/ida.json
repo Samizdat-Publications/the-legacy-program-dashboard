@@ -99,12 +99,12 @@
 "direction": "in",
 "edgeId": "e-cd0fae33a2",
 "edgeLabel": "Assigned to IDA during the Cuban Missile Crisis, on a family account",
-"family": "role",
+"family": "testimony",
 "id": "harald-b-malmgren",
 "l0": false,
 "label": "Harald B. Malmgren",
 "note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
-"predicate": "held_post",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -115,7 +115,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,

@@ -68,7 +68,7 @@
 "l0": false,
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
-"predicate": "disputed",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,7 +79,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "disputes"
+"verb": "refused"
 },
 {
 "claimTier": 2,

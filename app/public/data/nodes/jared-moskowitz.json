@@ -111,12 +111,12 @@
 "direction": "out",
 "edgeId": "e-5d54a26bc0",
 "edgeLabel": "'Disclosure today, disclosure tomorrow'",
-"family": "media",
+"family": "conduct",
 "id": "capitol-disclosure-event-2026-06-09",
 "l0": false,
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "note": "Keeps the 2026 push bipartisan.",
-"predicate": "appeared_on",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,7 +127,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "appeared on"
+"verb": "supported"
 },
 {
 "claimTier": 1,

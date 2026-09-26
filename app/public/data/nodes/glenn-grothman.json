@@ -96,12 +96,12 @@
 "direction": "out",
 "edgeId": "e-8ffb2d99eb",
 "edgeLabel": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
-"family": "oversight",
+"family": "role",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Grothman's question about what information Grusch believed was hidden produced the only program-category language in the unclassified record.",
-"predicate": "oversaw",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -112,7 +112,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "oversaw"
+"verb": "led"
 },
 {
 "claimTier": 1,

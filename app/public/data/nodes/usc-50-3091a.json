@@ -124,7 +124,7 @@
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "50 U.S.C. 3091a(b)(2)(A), added by section 6603 of Public Law 118-159, bars transfer of a capability from a CAP to a special access program until notice is submitted to the appropriate committees and leadership.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,7 +140,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -217,13 +217,13 @@
 "direction": "in",
 "edgeId": "e-e2aa68b41c",
 "edgeLabel": "",
-"family": "law",
+"family": "documents",
 "id": "icd-906",
 "l0": false,
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "The statute defines its own subject by reference to the directive: 50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'. Congress delegated the definition to an executive instrument, so what counts as a CAP can change without legislation.",
-"predicate": "governs",
-"predicateSide": "object",
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-05",
@@ -238,7 +238,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is governed by"
+"verb": "cites"
 },
 {
 "claimTier": 1,

@@ -61,7 +61,7 @@
 "l0": true,
 "label": "United States House of Representatives",
 "note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,7 +82,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -97,7 +97,7 @@
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -123,7 +123,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 }
 ],
 "date": "2024-04-10",

@@ -406,7 +406,7 @@
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -422,7 +422,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "made claims about"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -536,13 +536,13 @@
 "direction": "out",
 "edgeId": "e-918eb3fde5",
 "edgeLabel": "Successive OUSD(I)/IC witnesses making the same structural allegation seven years apart",
-"family": "testimony",
+"family": "analysis",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "At the 13 November 2024 hearing Elizondo told Rep. Burchett he had worked with Grusch at US Space Force and answered 'Yes, sir' when asked whether he agreed with Grusch's multi-decade crash-retrieval testimony - a second former senior DoD official affirming the core claim under oath.",
-"predicate": "corroborated",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-11-13",
@@ -557,7 +557,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "corroborates"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -1148,12 +1148,12 @@
 "direction": "in",
 "edgeId": "e-d1da23f925",
 "edgeLabel": "Named him as the official who ran AATIP",
-"family": "documents",
+"family": "testimony",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The article identified him, quoted his resignation letter and reported his move to TTSA — the act that made him the Department's problem.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -1164,7 +1164,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -1174,13 +1174,13 @@
 "direction": "out",
 "edgeId": "e-3d6d5781a1",
 "edgeLabel": "Elizondo's resignation and the videos anchored the story",
-"family": "testimony",
+"family": "documents",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP.",
-"predicate": "brought_to_record",
-"predicateSide": "subject",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-16",
@@ -1190,7 +1190,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -1407,13 +1407,13 @@
 "direction": "in",
 "edgeId": "e-bb550eb995",
 "edgeLabel": "Recruitment of a serving OUSD(I) official into a private disclosure vehicle",
-"family": "conduct",
+"family": "role",
 "id": "tom-delonge",
 "l0": false,
 "label": "Thomas Matthew DeLonge",
 "note": "DeLonge courted serving and retired officials from 2015-2017; the launch roster of 11 October 2017 is the product. The recruitment overlapped Elizondo's final year in government.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-10-11",
@@ -1428,7 +1428,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "was in contact with"
+"verb": "was appointed by"
 },
 {
 "claimTier": 1,

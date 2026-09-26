@@ -119,12 +119,12 @@
 "direction": "in",
 "edgeId": "e-5ea45d9614",
 "edgeLabel": "The craft claimed to deliver them",
-"family": "documents",
+"family": "testimony",
 "id": "five-observables",
 "l0": false,
 "label": "The five observables (UAP performance taxonomy)",
 "note": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -135,7 +135,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "concerns"
+"verb": "made claims about"
 },
 {
 "claimTier": 2,

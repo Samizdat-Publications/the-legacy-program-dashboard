@@ -88,12 +88,12 @@
 "direction": "out",
 "edgeId": "e-c5ca7cb71e",
 "edgeLabel": "Conversion from visible to invisible",
-"family": "place-time",
+"family": "analysis",
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
-"predicate": "led_to",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "led to"
+"verb": "affects"
 }
 ],
 "coords": null,

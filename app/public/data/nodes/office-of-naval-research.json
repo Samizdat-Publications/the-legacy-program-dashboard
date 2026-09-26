@@ -47,12 +47,12 @@
 "direction": "out",
 "edgeId": "e-35135fea70",
 "edgeLabel": "Approved the same day as the Atomic Energy Act of 1946",
-"family": "other",
+"family": "place-time",
 "id": "atomic-energy-act-1946",
 "l0": false,
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "Both statutes are in Statutes at Large volume 60 and both carry the approval date 1 August 1946: the Atomic Energy Act at page 755 and the Office of Naval Research Act at page 779. The triage row that proposed this node dated ONR two days later; the page itself says otherwise.",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "is connected to"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,

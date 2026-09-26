@@ -81,12 +81,12 @@
 "direction": "out",
 "edgeId": "e-76f1f79b21",
 "edgeLabel": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
-"family": "analysis",
+"family": "organisation",
 "id": "sec-8009-sap-notice",
 "l0": false,
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "note": "Section 8009 binds only funds appropriated by the annual Defense Appropriations Act; unvouchered Agency spending under 50 U.S.C. 3510 is neither DoD appropriated funds nor subject to normal expenditure law. Reasoned inference from the two texts; no document asserts this has occurred.",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -97,7 +97,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "affects"
+"verb": "falls outside"
 }
 ],
 "coords": null,

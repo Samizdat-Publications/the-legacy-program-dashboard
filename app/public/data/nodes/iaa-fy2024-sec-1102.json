@@ -143,12 +143,12 @@
 "direction": "out",
 "edgeId": "e-61daa5e97a",
 "edgeLabel": "the Senate committee text that would have closed the channel at the contractor end",
-"family": "law",
+"family": "analysis",
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,7 +169,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "governs"
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -215,12 +215,12 @@
 "direction": "in",
 "edgeId": "e-27ae127cee",
 "edgeLabel": "Warner's contractor turn-in targets the same private holders",
-"family": "analysis",
+"family": "other",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Sec. 1102 orders contractors to surrender a list of 'non-earth origin or exotic' material, the category Grusch alleged had been moved to industry.",
-"predicate": "parallels",
+"predicate": "connected_to",
 "predicateSide": "either",
 "sources": [
 {
@@ -231,7 +231,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "is connected to"
 },
 {
 "claimTier": 2,
@@ -344,12 +344,12 @@
 "direction": "in",
 "edgeId": "e-5e8104b5f4",
 "edgeLabel": "Author of the IAA FY2024 contractor turn-in",
-"family": "law",
+"family": "documents",
 "id": "mark-warner",
 "l0": false,
 "label": "Mark R. Warner",
 "note": "Warner submitted S.Amdt. 666 on 13 July 2023, which became Division M of the engrossed bill containing Sec. 1102.",
-"predicate": "sponsored_law",
+"predicate": "wrote",
 "predicateSide": "object",
 "sources": [
 {
@@ -360,7 +360,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was sponsored by"
+"verb": "was written by"
 },
 {
 "claimTier": 3,

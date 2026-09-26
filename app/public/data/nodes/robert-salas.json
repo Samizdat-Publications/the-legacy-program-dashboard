@@ -197,7 +197,7 @@
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
-"predicate": "brought_to_record",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -218,7 +218,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -233,7 +233,7 @@
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -249,7 +249,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 3,
@@ -259,12 +259,12 @@
 "direction": "in",
 "edgeId": "e-397ebfc3b6",
 "edgeLabel": "The administrative regime his testimony was given against",
-"family": "analysis",
+"family": "law",
 "id": "prp-nuclear-weapon",
 "l0": false,
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
-"predicate": "affects",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -275,7 +275,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is affected by"
+"verb": "is governed by"
 }
 ],
 "date": "2025-01-01",

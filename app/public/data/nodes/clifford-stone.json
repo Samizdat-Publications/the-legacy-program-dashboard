@@ -134,7 +134,7 @@
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +145,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,

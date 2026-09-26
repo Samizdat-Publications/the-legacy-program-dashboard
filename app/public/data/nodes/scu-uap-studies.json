@@ -67,12 +67,12 @@
 "direction": "in",
 "edgeId": "e-c52d85dd3c",
 "edgeLabel": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
-"family": "testimony",
+"family": "conduct",
 "id": "kevin-knuth",
 "l0": false,
 "label": "Kevin H. Knuth",
 "note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
-"predicate": "acknowledged",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "acknowledged"
+"verb": "supported"
 },
 {
 "claimTier": 1,
@@ -124,7 +124,7 @@
 "l0": false,
 "label": "Robert M. Powell",
 "note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
-"predicate": "founded",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -140,7 +140,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was founded by"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,

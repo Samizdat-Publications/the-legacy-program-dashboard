@@ -87,12 +87,12 @@
 "direction": "in",
 "edgeId": "e-abc6efc425",
 "edgeLabel": "Publishes the 25 August 1966 Minot documents in facsimile",
-"family": "documents",
+"family": "testimony",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was published by"
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,

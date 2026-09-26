@@ -125,7 +125,7 @@
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 1,

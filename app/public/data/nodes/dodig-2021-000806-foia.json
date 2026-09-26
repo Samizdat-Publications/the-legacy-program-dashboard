@@ -67,12 +67,12 @@
 "direction": "out",
 "edgeId": "e-37c43f146f",
 "edgeLabel": "imagery released, methodology withheld",
-"family": "testimony",
+"family": "denial",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
-"predicate": "contradicts",
+"predicate": "refused",
 "predicateSide": "object",
 "sources": [
 {
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "was refused by"
 }
 ],
 "coords": null,

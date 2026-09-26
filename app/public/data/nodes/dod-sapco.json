@@ -226,12 +226,12 @@
 "direction": "in",
 "edgeId": "e-c1da82fed6",
 "edgeLabel": "The office that must approve any contractor's provision of SAP material to Congress",
-"family": "law",
+"family": "denial",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
-"predicate": "governs",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,7 +242,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "governs"
+"verb": "refused"
 },
 {
 "claimTier": 2,
@@ -309,13 +309,13 @@
 "direction": "in",
 "edgeId": "e-c0814acf71",
 "edgeLabel": "The SAPCO staffed the committee from the start",
-"family": "role",
+"family": "place-time",
 "id": "dod-sap-reform-1994",
 "l0": false,
 "label": "DoD special access programme governance change, 5 January 1994",
 "note": "The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO 'serves as the primary point of contact with Congress, the National Security Council, and other government agencies'.",
-"predicate": "led",
-"predicateSide": "subject",
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1994-11-01",
@@ -325,7 +325,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led"
+"verb": "followed from"
 },
 {
 "claimTier": 1,
@@ -392,13 +392,13 @@
 "direction": "in",
 "edgeId": "e-05472f762d",
 "edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
-"family": "role",
+"family": "oversight",
 "id": "ousdi",
 "l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "DoDD 5205.07 assigns SAP policy responsibilities across OSD principals including the Under Secretary of Defense for Intelligence and Security, while vesting central management in DoD SAPCO under DEPSECDEF.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "oversaw",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-09-12",
@@ -408,7 +408,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,
@@ -511,13 +511,13 @@
 "direction": "in",
 "edgeId": "e-bda2094de0",
 "edgeLabel": "AARO Director's programmatic access ran through the SAPCO enterprise",
-"family": "oversight",
+"family": "conduct",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Kirkpatrick directed AARO throughout the period covered by the Historical Record Report, so the 'full access to all pertinent sensitive USG programs' assurance is his. Reasoning: the report is AARO's product under his directorship, and no independent verification of the SAP list handed to AARO has been produced.",
-"predicate": "reports_to",
-"predicateSide": "object",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -527,7 +527,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "receives reports from"
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -542,7 +542,7 @@
 "l0": false,
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "note": "Section 8009 of the FY2026 Defense Appropriations Act bars use of that Act's funds to initiate or materially modify the scope of a SAP without 30 days advance notice to the congressional defense committees; DoD SAPCO is the office that administers the SAP enterprise under the Deputy Secretary. Attested by the statute.",
-"predicate": "mandated",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -553,7 +553,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is required by"
+"verb": "is governed by"
 },
 {
 "claimTier": 1,

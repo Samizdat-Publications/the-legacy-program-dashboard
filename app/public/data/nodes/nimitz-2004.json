@@ -121,13 +121,13 @@
 "direction": "in",
 "edgeId": "e-fb91856787",
 "edgeLabel": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
-"family": "organisation",
+"family": "documents",
 "id": "flir1-video",
 "l0": false,
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
-"predicate": "produced",
-"predicateSide": "subject",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -142,7 +142,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "produced"
+"verb": "is the subject of"
 },
 {
 "claimTier": 3,
@@ -214,7 +214,7 @@
 "l0": false,
 "label": "Jason Turner",
 "note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
-"predicate": "witnessed",
+"predicate": "corroborated",
 "predicateSide": "object",
 "sources": [
 {
@@ -225,7 +225,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "has a first-hand account from"
+"verb": "is corroborated by"
 },
 {
 "claimTier": 2,
@@ -494,12 +494,12 @@
 "direction": "in",
 "edgeId": "e-5c89b52f4e",
 "edgeLabel": "Nimitz encounter was a Navy carrier strike group event; Navy released the FLIR video",
-"family": "organisation",
+"family": "documents",
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
-"predicate": "ran",
+"predicate": "released",
 "predicateSide": "object",
 "sources": [
 {
@@ -520,7 +520,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was run by"
+"verb": "was released by"
 },
 {
 "claimTier": 2,
@@ -561,12 +561,12 @@
 "direction": "in",
 "edgeId": "e-74535c77a4",
 "edgeLabel": "Generated the primary sensor record of the encounter; no such data has ever been released",
-"family": "organisation",
+"family": "custody",
 "id": "uss-princeton",
 "l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
-"predicate": "produced",
+"predicate": "holds",
 "predicateSide": "object",
 "sources": [
 {
@@ -582,7 +582,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was produced by"
+"verb": "is held by"
 },
 {
 "claimTier": 1,

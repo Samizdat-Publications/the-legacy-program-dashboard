@@ -73,13 +73,13 @@
 "direction": "in",
 "edgeId": "e-63679eb61d",
 "edgeLabel": "The published summary of the project's methods and findings",
-"family": "organisation",
+"family": "documents",
 "id": "millis-tm-2004-213082",
 "l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks.",
-"predicate": "produced",
-"predicateSide": "subject",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2004",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "produced"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,

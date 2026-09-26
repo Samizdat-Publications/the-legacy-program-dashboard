@@ -157,12 +157,12 @@
 "direction": "in",
 "edgeId": "e-3e5dd89692",
 "edgeLabel": "recommendations reflected in statute",
-"family": "analysis",
+"family": "conduct",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "The FY2026 NDAA's three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
-"predicate": "affects",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is affected by"
+"verb": "was supported by"
 },
 {
 "claimTier": 2,
@@ -183,12 +183,12 @@
 "direction": "in",
 "edgeId": "e-fda7b978fe",
 "edgeLabel": "Two of the three provisions mirror recommendations he championed",
-"family": "place-time",
+"family": "conduct",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Per Disclosure Foundation executive director Jordan Flowers.",
-"predicate": "led_to",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -199,7 +199,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "followed from"
+"verb": "was supported by"
 },
 {
 "claimTier": 3,
@@ -266,12 +266,12 @@
 "direction": "out",
 "edgeId": "e-6f55bf24d3",
 "edgeLabel": "demands an intercept history since 2004",
-"family": "law",
+"family": "documents",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
-"predicate": "mandated",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -282,7 +282,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "requires"
+"verb": "concerns"
 }
 ],
 "coords": null,

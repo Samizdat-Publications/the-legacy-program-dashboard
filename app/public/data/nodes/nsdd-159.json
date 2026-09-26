@@ -91,12 +91,12 @@
 "direction": "out",
 "edgeId": "e-ec701494a2",
 "edgeLabel": "Orders a special access compartment over a whole policy subject",
-"family": "law",
+"family": "analysis",
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "The directive tells the national security adviser to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action', with one designated focal point per agency. This is special access architecture applied to policy rather than to a programme, and it is 1985.",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -107,7 +107,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "governs"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,

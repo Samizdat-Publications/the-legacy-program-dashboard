@@ -40,8 +40,8 @@
 "l0": false,
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "A Sources Sought Notice for a JWICS-hosted case management system establishes that AARO had no purpose-built case system three years after standing up.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-05-21",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is part of"
+"verb": "was run by"
 },
 {
 "claimTier": 3,
@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-e1e8a83868",
 "edgeLabel": "a mass event against a case system still being procured",
-"family": "analysis",
+"family": "place-time",
 "id": "virginia-coast-uap-2026",
 "l0": false,
 "label": "Navy UAP event off the Virginia coast (reported July 2026)",
 "note": "Roughly 100 objects and two uncrewed surface systems reported by Navy assets, in an office whose purpose-built case management system was still at the sources-sought stage in mid-2025.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-07-21",
@@ -113,7 +113,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "is affected by"
+"verb": "happened alongside"
 }
 ],
 "coords": null,

@@ -50,12 +50,12 @@
 "direction": "out",
 "edgeId": "e-a225fc597a",
 "edgeLabel": "The Colorado project's own history chapter endorses his debunking book",
-"family": "testimony",
+"family": "conduct",
 "id": "condon-committee",
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Section V chapter 2 of the report, written by Condon, calls Menzel's 1953 Flying Saucers 'an excellent book' and notes it is 'generally regarded as \"debunking\" and \"negative.\"' Menzel wrote no chapter of the report; he appears in its text and its bibliographies.",
-"predicate": "acknowledged",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -66,7 +66,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was acknowledged by"
+"verb": "was supported by"
 },
 {
 "claimTier": 1,
@@ -76,12 +76,12 @@
 "direction": "out",
 "edgeId": "e-38a9bb8999",
 "edgeLabel": "Three books and a journal paper arguing against the extraterrestrial hypothesis, 1953 to 1977",
-"family": "analysis",
+"family": "denial",
 "id": "d-denial",
 "l0": false,
 "label": "Official Denial",
 "note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
-"predicate": "exemplifies",
+"predicate": "disputed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is an instance of"
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -102,12 +102,12 @@
 "direction": "out",
 "edgeId": "e-6a7962d86b",
 "edgeLabel": "Condon praised him by name in the study he directed",
-"family": "testimony",
+"family": "conduct",
 "id": "edward-condon",
 "l0": false,
 "label": "Edward U. Condon",
 "note": "The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported.",
-"predicate": "acknowledged",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "was acknowledged by"
+"verb": "was supported by"
 }
 ],
 "date": "1976",

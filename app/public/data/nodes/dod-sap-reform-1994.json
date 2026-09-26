@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-c0814acf71",
 "edgeLabel": "The SAPCO staffed the committee from the start",
-"family": "role",
+"family": "place-time",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO 'serves as the primary point of contact with Congress, the National Security Council, and other government agencies'.",
-"predicate": "led",
-"predicateSide": "object",
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-11-01",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was led by"
+"verb": "led to"
 },
 {
 "claimTier": 2,

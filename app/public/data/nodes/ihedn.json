@@ -29,12 +29,12 @@
 "direction": "out",
 "edgeId": "e-bef625fd7d",
 "edgeLabel": "1976 IHEDN committee produced GEPAN",
-"family": "role",
+"family": "organisation",
 "id": "gepan",
 "l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
-"predicate": "founded",
+"predicate": "produced",
 "predicateSide": "subject",
 "sources": [
 {
@@ -45,7 +45,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "founded"
+"verb": "produced"
 }
 ],
 "coords": null,

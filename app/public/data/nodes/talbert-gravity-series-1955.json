@@ -79,12 +79,12 @@
 "direction": "out",
 "edgeId": "e-6a9fe39af6",
 "edgeLabel": "Quoted by name as Martin's vice-president in charge of advanced design planning",
-"family": "media",
+"family": "documents",
 "id": "george-trimble",
 "l0": false,
 "label": "George S. Trimble",
 "note": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
-"predicate": "reported_on",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "reported on"
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -157,12 +157,12 @@
 "direction": "out",
 "edgeId": "e-85c028b1f6",
 "edgeLabel": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
-"family": "documents",
+"family": "media",
 "id": "rias-inc",
 "l0": false,
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955.",
-"predicate": "concerns",
+"predicate": "reported_on",
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,7 +173,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "concerns"
+"verb": "reported on"
 },
 {
 "claimTier": 1,

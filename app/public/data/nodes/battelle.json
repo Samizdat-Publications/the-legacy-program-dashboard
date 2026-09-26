@@ -240,13 +240,13 @@
 "direction": "out",
 "edgeId": "e-a028df5723",
 "edgeLabel": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
-"family": "place-time",
+"family": "other",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
-"predicate": "located_at",
-"predicateSide": "subject",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2009-05-21",
@@ -261,7 +261,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is located at"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -302,12 +302,12 @@
 "direction": "out",
 "edgeId": "e-cf61c445f9",
 "edgeLabel": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
-"family": "analysis",
+"family": "conduct",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
-"predicate": "parallels",
+"predicate": "in_contact_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -323,7 +323,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -333,13 +333,13 @@
 "direction": "in",
 "edgeId": "e-46d2736566",
 "edgeLabel": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
-"family": "money",
+"family": "documents",
 "id": "naval-ordnance-laboratory",
 "l0": false,
 "label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
 "note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
-"predicate": "contracted",
-"predicateSide": "object",
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -349,7 +349,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was contracted by"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -468,13 +468,13 @@
 "direction": "out",
 "edgeId": "e-ccbf092f20",
 "edgeLabel": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
-"family": "testimony",
+"family": "custody",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "The allegation rests on the coincidence of timing between the 1947 recovery, the 1948-49 Battelle NiTi work, and the absence of the reports from both archives. No document connects the two directly.",
-"predicate": "alleged_tie",
-"predicateSide": "either",
+"predicate": "alleged_to_hold",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-05-21",
@@ -484,7 +484,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to be tied to"
+"verb": "is alleged to hold material from"
 },
 {
 "claimTier": 1,

@@ -212,13 +212,13 @@
 "direction": "in",
 "edgeId": "e-0ae62d7e61",
 "edgeLabel": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
-"family": "place-time",
+"family": "organisation",
 "id": "l-warren",
 "l0": false,
 "label": "F. E. Warren AFB, Wyoming",
 "note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
-"predicate": "located_at",
-"predicateSide": "subject",
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -233,7 +233,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is located at"
+"verb": "includes"
 },
 {
 "claimTier": 1,

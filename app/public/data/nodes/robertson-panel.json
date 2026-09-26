@@ -78,12 +78,12 @@
 "direction": "in",
 "edgeId": "e-69e7342db5",
 "edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
-"family": "denial",
+"family": "testimony",
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
-"predicate": "disputed",
+"predicate": "acknowledged",
 "predicateSide": "object",
 "sources": [
 {
@@ -94,7 +94,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is disputed by"
+"verb": "was acknowledged by"
 },
 {
 "claimTier": 1,
@@ -135,12 +135,12 @@
 "direction": "in",
 "edgeId": "e-3710978124",
 "edgeLabel": "CIA convened and staffed the January 1953 scientific advisory panel",
-"family": "organisation",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
-"predicate": "ran",
+"predicate": "founded",
 "predicateSide": "object",
 "sources": [
 {
@@ -156,7 +156,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was run by"
+"verb": "was founded by"
 },
 {
 "claimTier": 2,
@@ -327,12 +327,12 @@
 "direction": "in",
 "edgeId": "e-6ecac0ea84",
 "edgeLabel": "Hynek presented to the panel but was not a member",
-"family": "testimony",
+"family": "organisation",
 "id": "j-allen-hynek",
 "l0": false,
 "label": "J. Allen Hynek",
 "note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
-"predicate": "witnessed",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -343,7 +343,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "does not include"
 },
 {
 "claimTier": 3,
@@ -384,13 +384,13 @@
 "direction": "in",
 "edgeId": "e-748a157dea",
 "edgeLabel": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
-"family": "denial",
+"family": "analysis",
 "id": "pentacle-memorandum",
 "l0": false,
 "label": "The Pentacle Memorandum",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
-"predicate": "omitted",
-"predicateSide": "subject",
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -405,7 +405,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "leaves out"
+"verb": "is affected by"
 },
 {
 "claimTier": 3,
@@ -415,13 +415,13 @@
 "direction": "in",
 "edgeId": "e-6c1c8aea13",
 "edgeLabel": "third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68)",
-"family": "organisation",
+"family": "analysis",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described.",
-"predicate": "succeeded",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -431,7 +431,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "was succeeded by"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -441,12 +441,12 @@
 "direction": "in",
 "edgeId": "e-895ded2e05",
 "edgeLabel": "Convened at his direction",
-"family": "oversight",
+"family": "law",
 "id": "walter-bedell-smith",
 "l0": false,
 "label": "Walter Bedell Smith",
 "note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
-"predicate": "oversaw",
+"predicate": "created",
 "predicateSide": "object",
 "sources": [
 {
@@ -457,7 +457,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "was overseen by"
+"verb": "was created by"
 }
 ],
 "coords": null,

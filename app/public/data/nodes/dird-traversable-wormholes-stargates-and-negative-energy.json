@@ -193,12 +193,12 @@
 "direction": "out",
 "edgeId": "e-fe46c80cec",
 "edgeLabel": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
-"family": "documents",
+"family": "testimony",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech International lists six DIRDs by Eric Davis on its publications page, with DIA document numbers and the issuing division named as the Acquisition Support Division (DWO-3) or Technology Warning Division (DWO-4) of the Defense Warning Office. A contractor publishing its DIA reference-document numbers on an open website is itself part of how the DIRD series became documentable.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -224,7 +224,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was published by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

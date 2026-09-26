@@ -102,13 +102,13 @@
 "direction": "out",
 "edgeId": "e-83698822ae",
 "edgeLabel": "The negative finding is inserted after Grusch, not inherited",
-"family": "organisation",
+"family": "place-time",
 "id": "aaro-fy2024-annual-report",
 "l0": true,
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The FY2023 report contains no extraterrestrial-technology denial; the FY2024 report leads with one. The change tracks the July 2023 hearing, indicating the formula is a communications response rather than an analytic finding.",
-"predicate": "succeeded",
-"predicateSide": "object",
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-10-25",
@@ -123,7 +123,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "was succeeded by"
+"verb": "came before"
 },
 {
 "claimTier": 1,

@@ -28,7 +28,7 @@
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
-"predicate": "concerns",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -39,7 +39,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "is cited by"
 }
 ],
 "coords": null,

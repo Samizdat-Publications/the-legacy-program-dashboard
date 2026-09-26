@@ -129,12 +129,12 @@
 "direction": "out",
 "edgeId": "e-acd43d41ac",
 "edgeLabel": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
-"family": "analysis",
+"family": "place-time",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
-"predicate": "parallels",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -150,7 +150,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,

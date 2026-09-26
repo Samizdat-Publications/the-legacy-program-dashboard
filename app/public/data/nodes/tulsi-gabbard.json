@@ -53,12 +53,12 @@
 "direction": "out",
 "edgeId": "e-90f215c57a",
 "edgeLabel": "ODNI coordinating authority for the release programme",
-"family": "oversight",
+"family": "organisation",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
-"predicate": "oversaw",
+"predicate": "ran",
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,7 +74,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "oversaw"
+"verb": "ran"
 }
 ],
 "date": "2026-05-08",

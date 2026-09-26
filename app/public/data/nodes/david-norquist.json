@@ -54,12 +54,12 @@
 "direction": "out",
 "edgeId": "e-eb0a34f7e0",
 "edgeLabel": "Signed the FY2018 report announcing the first full-scope audit and its disclaimer",
-"family": "role",
+"family": "oversight",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
-"predicate": "led",
+"predicate": "oversaw",
 "predicateSide": "subject",
 "sources": [
 {
@@ -70,7 +70,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led"
+"verb": "oversaw"
 },
 {
 "claimTier": 1,

@@ -69,13 +69,13 @@
 "direction": "out",
 "edgeId": "e-bb550eb995",
 "edgeLabel": "Recruitment of a serving OUSD(I) official into a private disclosure vehicle",
-"family": "conduct",
+"family": "role",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "DeLonge courted serving and retired officials from 2015-2017; the launch roster of 11 October 2017 is the product. The recruitment overlapped Elizondo's final year in government.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-10-11",
@@ -90,7 +90,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "was in contact with"
+"verb": "appointed"
 },
 {
 "claimTier": 1,

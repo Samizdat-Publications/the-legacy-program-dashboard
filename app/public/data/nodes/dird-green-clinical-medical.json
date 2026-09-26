@@ -78,7 +78,7 @@
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "This is the earliest dated documentary link between Puthoff and a US-sponsored effort to characterise fields associated with 'exotic propulsion' - nine months before the AAWSAP contract was awarded to BAASS.",
-"predicate": "cites",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "cites"
+"verb": "concerns"
 },
 {
 "claimTier": 1,

@@ -49,7 +49,7 @@
 "l0": false,
 "label": "Armed Forces Special Weapons Project",
 "note": "The agency's own chronology dates the appointment and the retirement to the day, and gives the promotion to Lieutenant General on 24 January 1948 while in post.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -60,7 +60,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,

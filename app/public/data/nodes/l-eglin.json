@@ -92,12 +92,12 @@
 "direction": "in",
 "edgeId": "e-456e219f67",
 "edgeLabel": "Received a protected disclosure from Eglin and went to the base with Burchett and Luna",
-"family": "place-time",
+"family": "testimony",
 "id": "matt-gaetz",
 "l0": false,
 "label": "Matthew Louis Gaetz II",
 "note": "Initially refused images, radar and full crew access; obtained a photograph and one crew member after a discussion 'about how authorities flow in the United States of America.'",
-"predicate": "located_at",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -108,7 +108,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "is the location of"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -118,12 +118,12 @@
 "direction": "in",
 "edgeId": "e-5021b06b7a",
 "edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
-"family": "documents",
+"family": "place-time",
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
-"predicate": "concerns",
+"predicate": "located_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -134,7 +134,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is the subject of"
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -144,12 +144,12 @@
 "direction": "in",
 "edgeId": "e-1904dfd6f1",
 "edgeLabel": "Accompanied Gaetz to Eglin on the protected disclosure",
-"family": "testimony",
+"family": "oversight",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Named by Gaetz on the record and again by Luna in 2025.",
-"predicate": "witnessed",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -165,7 +165,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "has a first-hand account from"
+"verb": "was investigated by"
 }
 ],
 "coords": null,

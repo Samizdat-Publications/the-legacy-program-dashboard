@@ -41,13 +41,13 @@
 "direction": "out",
 "edgeId": "e-e6238b23e3",
 "edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
-"family": "testimony",
+"family": "organisation",
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
 "label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
-"predicate": "contradicts",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-11",
@@ -62,7 +62,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -72,13 +72,13 @@
 "direction": "in",
 "edgeId": "e-1371bca480",
 "edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
-"family": "place-time",
+"family": "organisation",
 "id": "marco-rubio",
 "l0": false,
 "label": "Marco Rubio",
 "note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
-"predicate": "preceded",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-13",
@@ -88,7 +88,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came before"
+"verb": "does not include"
 },
 {
 "claimTier": 1,

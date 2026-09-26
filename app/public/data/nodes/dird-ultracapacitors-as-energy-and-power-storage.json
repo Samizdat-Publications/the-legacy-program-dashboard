@@ -224,12 +224,12 @@
 "direction": "out",
 "edgeId": "e-0bd57a7667",
 "edgeLabel": "author's affiliation of record; one of three Lockheed Martin DIRDs",
-"family": "documents",
+"family": "organisation",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
-"predicate": "wrote",
+"predicate": "produced",
 "predicateSide": "object",
 "sources": [
 {
@@ -260,7 +260,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was written by"
+"verb": "was produced by"
 }
 ],
 "coords": null,

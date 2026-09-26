@@ -378,12 +378,12 @@
 "direction": "out",
 "edgeId": "e-e5830448a8",
 "edgeLabel": "Drove the hearing into existence; opened by disclosing the denied SCIF access",
-"family": "place-time",
+"family": "oversight",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing.",
-"predicate": "led_to",
+"predicate": "oversaw",
 "predicateSide": "subject",
 "sources": [
 {
@@ -394,7 +394,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "led to"
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -596,12 +596,12 @@
 "direction": "out",
 "edgeId": "e-1904dfd6f1",
 "edgeLabel": "Accompanied Gaetz to Eglin on the protected disclosure",
-"family": "testimony",
+"family": "oversight",
 "id": "l-eglin",
 "l0": false,
 "label": "Eglin Air Force Base, Florida",
 "note": "Named by Gaetz on the record and again by Luna in 2025.",
-"predicate": "witnessed",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -617,7 +617,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "gave a first-hand account of"
+"verb": "investigated"
 },
 {
 "claimTier": 2,

@@ -41,12 +41,12 @@
 "direction": "out",
 "edgeId": "e-a9db3c9949",
 "edgeLabel": "6603 bars CAP-to-SAP capability transfer without notice",
-"family": "law",
+"family": "analysis",
 "id": "sap-taxonomy",
 "l0": false,
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "is an instance of"
 },
 {
 "claimTier": 3,

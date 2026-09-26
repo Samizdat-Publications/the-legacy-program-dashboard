@@ -156,12 +156,12 @@
 "direction": "out",
 "edgeId": "e-7981069a36",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
-"family": "media",
+"family": "testimony",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -177,7 +177,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

@@ -77,7 +77,7 @@
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
-"predicate": "brought_to_record",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +93,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,

@@ -47,12 +47,12 @@
 "direction": "in",
 "edgeId": "e-96a9c74f02",
 "edgeLabel": "repeals 50 U.S.C. 3373a",
-"family": "organisation",
+"family": "law",
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "PL 119-60 sec. 1672(a): 'Section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (division X of Public Law 117-103; 50 U.S.C. 3373a) is repealed.'",
-"predicate": "succeeded",
+"predicate": "amended",
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was succeeded by"
+"verb": "was amended by"
 }
 ],
 "coords": null,

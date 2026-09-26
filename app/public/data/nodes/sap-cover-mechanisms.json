@@ -72,12 +72,12 @@
 "direction": "out",
 "edgeId": "e-b00c154646",
 "edgeLabel": "HVSACO, nicknames and unacknowledged locations are all defined in the manual",
-"family": "documents",
+"family": "law",
 "id": "dodm-5205-07-v1",
 "l0": false,
 "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
-"predicate": "concerns",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is the subject of"
+"verb": "is governed by"
 },
 {
 "claimTier": 3,

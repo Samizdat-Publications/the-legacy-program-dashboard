@@ -268,7 +268,7 @@
 "l0": false,
 "label": "The Roswell Incident (Berlitz and Moore, 1980)",
 "note": "Berlitz and Moore built 'The Roswell Incident' on Friedman's Marcel material together with the second-hand Barney Barnett account.",
-"predicate": "witnessed",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -279,7 +279,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,

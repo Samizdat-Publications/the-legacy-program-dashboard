@@ -417,13 +417,13 @@
 "direction": "in",
 "edgeId": "e-142f04fd34",
 "edgeLabel": "ran the parallel public ufology centre after censorship lifted",
-"family": "organisation",
+"family": "analysis",
 "id": "vladimir-azhazha",
 "l0": false,
 "label": "Vladimir Georgievich Azhazha",
 "note": "SOYUZUFOTSENTR was created in 1990 with Academy of Sciences institute rights, after the removal of censorship on the subject in 1989.",
-"predicate": "ran",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2006-05-15",
@@ -438,7 +438,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was run by"
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -453,7 +453,7 @@
 "l0": false,
 "label": "Yury Viktorovich Platov",
 "note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -464,7 +464,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 }
 ],
 "coords": null,

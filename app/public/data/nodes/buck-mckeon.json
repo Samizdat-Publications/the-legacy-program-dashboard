@@ -43,7 +43,7 @@
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -59,7 +59,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 1,

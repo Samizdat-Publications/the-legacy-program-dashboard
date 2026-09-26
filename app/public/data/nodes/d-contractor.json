@@ -36,13 +36,13 @@
 "direction": "in",
 "edgeId": "e-b84969d2ea",
 "edgeLabel": "Advanced projects shops are the industrial home",
-"family": "organisation",
+"family": "place-time",
 "id": "d-aerospace",
 "l0": false,
 "label": "Aerospace Engineering & Advanced Projects",
 "note": "The organisations with facility clearances, SAP infrastructure and IRAD accounts are the only plausible industrial venue for an exploitation programme.",
-"predicate": "part_of",
-"predicateSide": "object",
+"predicate": "located_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2004-03-03",
@@ -52,7 +52,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "includes"
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -68,7 +68,7 @@
 "label": "The FFRDC Seam",
 "note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
 "predicate": "affects",
-"predicateSide": "subject",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -78,7 +78,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "affects"
+"verb": "is affected by"
 },
 {
 "claimTier": 3,
@@ -88,12 +88,12 @@
 "direction": "out",
 "edgeId": "e-4c464af296",
 "edgeLabel": "Contractor records are outside the statute",
-"family": "analysis",
+"family": "organisation",
 "id": "d-foia",
 "l0": false,
 "label": "Freedom of Information Practice",
 "note": "FOIA reaches agency records; material moved into contractor custody leaves the statute's reach without any change in classification. Reasoning stated in the d-foia dossier.",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "affects"
+"verb": "falls outside"
 },
 {
 "claimTier": 2,

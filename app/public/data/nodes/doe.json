@@ -136,12 +136,12 @@
 "direction": "out",
 "edgeId": "e-c60b581ef1",
 "edgeLabel": "Restricted Data authority sits outside presidential EO declassification power",
-"family": "analysis",
+"family": "organisation",
 "id": "eop",
 "l0": false,
 "label": "Executive Office of the President",
 "note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "affects"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -276,12 +276,12 @@
 "direction": "out",
 "edgeId": "e-62e89f2da2",
 "edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
-"family": "organisation",
+"family": "money",
 "id": "lanl",
 "l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
-"predicate": "ran",
+"predicate": "contracted",
 "predicateSide": "subject",
 "sources": [
 {
@@ -297,7 +297,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "ran"
+"verb": "contracted"
 },
 {
 "claimTier": 2,
@@ -333,13 +333,13 @@
 "direction": "in",
 "edgeId": "e-459335c3bd",
 "edgeLabel": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
-"family": "law",
+"family": "organisation",
 "id": "llnl",
 "l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
-"predicate": "governs",
-"predicateSide": "subject",
+"predicate": "part_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-15",
@@ -349,7 +349,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "governs"
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -359,12 +359,12 @@
 "direction": "out",
 "edgeId": "e-4051a852ce",
 "edgeLabel": "DOE/NNSA management and operating contract; Lawrence Livermore",
-"family": "organisation",
+"family": "money",
 "id": "llnl",
 "l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
-"predicate": "ran",
+"predicate": "contracted",
 "predicateSide": "subject",
 "sources": [
 {
@@ -375,7 +375,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "ran"
+"verb": "contracted"
 },
 {
 "claimTier": 2,
@@ -391,7 +391,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
 "predicate": "alleged_to_hold",
-"predicateSide": "subject",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-01",
@@ -406,7 +406,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to hold material from"
+"verb": "is alleged to have material held by"
 },
 {
 "claimTier": 2,
@@ -447,7 +447,7 @@
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
-"predicate": "omitted",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -458,7 +458,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "leaves out"
+"verb": "refused"
 },
 {
 "claimTier": 3,
@@ -582,12 +582,12 @@
 "direction": "out",
 "edgeId": "e-4a72281e24",
 "edgeLabel": "DOE/NNSA management and operating contract; Sandia",
-"family": "organisation",
+"family": "money",
 "id": "sandia",
 "l0": true,
 "label": "Sandia National Laboratories",
 "note": "Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI.",
-"predicate": "ran",
+"predicate": "contracted",
 "predicateSide": "subject",
 "sources": [
 {
@@ -598,7 +598,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "ran"
+"verb": "contracted"
 },
 {
 "claimTier": 1,

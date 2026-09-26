@@ -159,12 +159,12 @@
 "direction": "in",
 "edgeId": "e-42c168569d",
 "edgeLabel": "AARO's search for a concealed program ran against a document AARO did not control",
-"family": "oversight",
+"family": "organisation",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "The annual SAP report and the waived-program list are produced by cognizant authorities through DoD SAPCO and validated by the SRG and SAPOC; no AARO authority in statute or directive gives it access to the waived list.",
-"predicate": "investigated",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -180,7 +180,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "does not include"
 },
 {
 "claimTier": 1,

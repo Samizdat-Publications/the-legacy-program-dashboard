@@ -62,12 +62,12 @@
 "direction": "in",
 "edgeId": "e-eb60349b7a",
 "edgeLabel": "SAP tiers implement compartmentation",
-"family": "analysis",
+"family": "law",
 "id": "d-sap",
 "l0": false,
 "label": "Special Access Programs",
 "note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
-"predicate": "exemplifies",
+"predicate": "implements",
 "predicateSide": "object",
 "sources": [
 {
@@ -78,7 +78,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "has as an instance"
+"verb": "is implemented by"
 },
 {
 "claimTier": 2,

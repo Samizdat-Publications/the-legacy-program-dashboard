@@ -227,12 +227,12 @@
 "direction": "in",
 "edgeId": "e-6213afa1a0",
 "edgeLabel": "The event is anchored by the document entered on 13 November 2024",
-"family": "organisation",
+"family": "testimony",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The twelve-page report is the physical artefact of the disclosure; it has never been located as a retrievable primary file at a stable public URL.",
-"predicate": "produced",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -243,7 +243,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "was produced by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

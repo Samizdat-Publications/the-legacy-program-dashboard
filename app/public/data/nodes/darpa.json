@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-b13a738e83",
 "edgeLabel": "Founded under the authority of the 1947 Act",
-"family": "law",
+"family": "other",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
-"predicate": "created",
-"predicateSide": "object",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1975-12-01",
@@ -115,7 +115,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "was created by"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,

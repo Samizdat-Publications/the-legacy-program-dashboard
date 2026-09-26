@@ -56,12 +56,12 @@
 "direction": "out",
 "edgeId": "e-ef6bd7e00a",
 "edgeLabel": "FOI request that forced the release",
-"family": "oversight",
+"family": "testimony",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
-"predicate": "requested",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "made a request of"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,

@@ -78,8 +78,8 @@
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The directive is issued under the authority of the Assistant Secretary of Defense (C3I) and binds every DoD component.",
-"predicate": "created",
-"predicateSide": "object",
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1993-05-25",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was created by"
+"verb": "governs"
 },
 {
 "claimTier": 2,
@@ -99,13 +99,13 @@
 "direction": "out",
 "edgeId": "e-5783d53f40",
 "edgeLabel": "A nuclear weapons installation inside the directive's stated scope",
-"family": "organisation",
+"family": "law",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions.",
-"predicate": "part_of",
-"predicateSide": "object",
+"predicate": "governs",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1993-05-25",
@@ -115,7 +115,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "includes"
+"verb": "governs"
 },
 {
 "claimTier": 3,
@@ -125,12 +125,12 @@
 "direction": "out",
 "edgeId": "e-397ebfc3b6",
 "edgeLabel": "The administrative regime his testimony was given against",
-"family": "analysis",
+"family": "law",
 "id": "robert-salas",
 "l0": false,
 "label": "Capt. Robert L. Salas",
 "note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
-"predicate": "affects",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "affects"
+"verb": "governs"
 }
 ],
 "coords": null,

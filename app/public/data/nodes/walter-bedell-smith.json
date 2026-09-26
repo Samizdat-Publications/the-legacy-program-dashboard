@@ -77,7 +77,7 @@
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -88,7 +88,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -129,12 +129,12 @@
 "direction": "out",
 "edgeId": "e-895ded2e05",
 "edgeLabel": "Convened at his direction",
-"family": "oversight",
+"family": "law",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
-"predicate": "oversaw",
+"predicate": "created",
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +145,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "oversaw"
+"verb": "created"
 },
 {
 "claimTier": 1,

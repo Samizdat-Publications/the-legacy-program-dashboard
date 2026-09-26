@@ -131,8 +131,8 @@
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.",
-"predicate": "made_claims_about",
-"predicateSide": "subject",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1998-08",
@@ -142,7 +142,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "made claims about"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 1,
@@ -339,13 +339,13 @@
 "direction": "out",
 "edgeId": "e-311c879a10",
 "edgeLabel": "CLAIMED ONLY: named as a developer of the Magnetic Field Disrupter at slide 72",
-"family": "custody",
+"family": "testimony",
 "id": "sandia",
 "l0": true,
 "label": "Sandia National Laboratories",
 "note": "A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid.",
-"predicate": "alleged_to_hold",
-"predicateSide": "subject",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1998-08",
@@ -355,7 +355,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is alleged to hold material from"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 3,

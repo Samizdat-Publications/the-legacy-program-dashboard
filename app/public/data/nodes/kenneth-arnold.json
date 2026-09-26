@@ -68,7 +68,7 @@
 "l0": true,
 "label": "Project Blue Book",
 "note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
-"predicate": "witnessed",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,7 +84,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,

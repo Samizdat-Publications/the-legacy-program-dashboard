@@ -133,7 +133,7 @@
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly.",
-"predicate": "brought_to_record",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -144,7 +144,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "made claims about"
 }
 ],
 "date": "2022-03-29",

@@ -170,13 +170,13 @@
 "direction": "in",
 "edgeId": "e-f4cc5a6307",
 "edgeLabel": "Gallaudet's inference points at an unacknowledged SAP; Shellenberger named one",
-"family": "testimony",
+"family": "analysis",
 "id": "gallaudet-2015-email",
 "l0": false,
 "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
 "note": "Gallaudet concluded the recalled information 'must have been classified within a special access program managed by an intelligence agency'; at the same hearing Shellenberger described an alleged parent USAP consolidating UAP imagery collection.",
-"predicate": "corroborated",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-11-13",
@@ -191,7 +191,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is corroborated by"
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -232,8 +232,8 @@
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The report was delivered, described under oath and entered into the record at this hearing.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "same_as",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-11-13",
@@ -248,7 +248,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is part of"
+"verb": "is the same as"
 },
 {
 "claimTier": 1,
@@ -289,12 +289,12 @@
 "direction": "out",
 "edgeId": "e-6213afa1a0",
 "edgeLabel": "The event is anchored by the document entered on 13 November 2024",
-"family": "organisation",
+"family": "testimony",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "The twelve-page report is the physical artefact of the disclosure; it has never been located as a retrievable primary file at a stable public URL.",
-"predicate": "produced",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -305,7 +305,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "produced"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -346,12 +346,12 @@
 "direction": "out",
 "edgeId": "e-c8f65d8771",
 "edgeLabel": "The only provenance story ever attached to the report points at Schriever",
-"family": "testimony",
+"family": "place-time",
 "id": "l-colorado-springs",
 "l0": false,
 "label": "Colorado Springs, Colorado",
 "note": "A self-identified whistleblower said in 2025 he located the material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed the claimant had mistaken wargame documents for UFO revelations. Schriever Space Force Base is at Colorado Springs.",
-"predicate": "made_claims_about",
+"predicate": "occurred_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -362,7 +362,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "made claims about"
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -615,7 +615,7 @@
 "l0": false,
 "label": "Susan Gough",
 "note": "Pentagon spokesperson Sue Gough has stated the Department has 'no record' of such a programme. The Department has not stated that the programme does not exist.",
-"predicate": "denied",
+"predicate": "refused",
 "predicateSide": "object",
 "sources": [
 {
@@ -626,7 +626,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was denied by"
+"verb": "was refused by"
 }
 ],
 "coords": null,

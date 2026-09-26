@@ -102,12 +102,12 @@
 "direction": "in",
 "edgeId": "e-0d7d12e17d",
 "edgeLabel": "published the engagement record",
-"family": "documents",
+"family": "testimony",
 "id": "pursue-r05-identifiers",
 "l0": false,
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is the subject of"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -133,7 +133,7 @@
 "l0": false,
 "label": "PURSUE Release 05",
 "note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
-"predicate": "concerns",
+"predicate": "released",
 "predicateSide": "object",
 "sources": [
 {
@@ -149,7 +149,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is the subject of"
+"verb": "was released by"
 }
 ],
 "coords": null,

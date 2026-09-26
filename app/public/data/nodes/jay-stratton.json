@@ -287,7 +287,7 @@
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The AAWSAP alumnus who took the subject back inside government after the 2017 disclosure.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -298,7 +298,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "held a post at"
+"verb": "led"
 }
 ],
 "date": "2009-01-01",

@@ -42,12 +42,12 @@
 "direction": "in",
 "edgeId": "e-b055c8cb45",
 "edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
-"family": "analysis",
+"family": "testimony",
 "id": "andy-ogles",
 "l0": false,
 "label": "Andrew Ogles",
 "note": "The only statutory enforcement mechanism any member has named on the record; never used on this subject.",
-"predicate": "exemplifies",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -58,7 +58,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "has as an instance"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -135,8 +135,8 @@
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Documented by Luna on 9 September 2025; corroborated by Burlison's 2024 AARO briefing block and his 2025 non-germane amendment ruling.",
-"predicate": "affects",
-"predicateSide": "subject",
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -146,7 +146,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "affects"
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -239,12 +239,12 @@
 "direction": "out",
 "edgeId": "e-300f5334aa",
 "edgeLabel": "The read-in gate members describe is the policy text of paragraph 4.f",
-"family": "analysis",
+"family": "organisation",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDD 5205.07 (2010) para 4.f is the written rule that members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs'.",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -255,7 +255,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "has as an instance"
+"verb": "does not include"
 }
 ],
 "coords": null,

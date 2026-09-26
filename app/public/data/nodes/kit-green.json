@@ -215,13 +215,13 @@
 "direction": "in",
 "edgeId": "e-8e70e4ce76",
 "edgeLabel": "Doty places Green at the Institute, then corrects himself within the same passage",
-"family": "place-time",
+"family": "testimony",
 "id": "armed-forces-institute-of-pathology",
 "l0": false,
 "label": "Armed Forces Institute of Pathology",
 "note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
-"predicate": "located_at",
-"predicateSide": "subject",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-21",
@@ -231,7 +231,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is located at"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,
@@ -427,12 +427,12 @@
 "direction": "in",
 "edgeId": "e-fa3cbb7ee2",
 "edgeLabel": "co-affiliated AAWSAP authors at Wayne State University",
-"family": "other",
+"family": "place-time",
 "id": "richard-genik",
 "l0": false,
 "label": "Richard J. Genik II",
 "note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -453,7 +453,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "happened alongside"
 },
 {
 "claimTier": 2,

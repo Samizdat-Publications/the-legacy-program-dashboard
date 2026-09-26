@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-e24499bdbf",
 "edgeLabel": "Section lead and wingman on the same intercept",
-"family": "testimony",
+"family": "role",
 "id": "david-fravor",
 "l0": false,
 "label": "David Fravor",
 "note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
-"predicate": "corroborated",
-"predicateSide": "object",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-01-14",
@@ -113,7 +113,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is corroborated by"
+"verb": "worked with"
 },
 {
 "claimTier": 2,

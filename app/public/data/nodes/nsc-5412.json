@@ -47,12 +47,12 @@
 "direction": "out",
 "edgeId": "e-9141865605",
 "edgeLabel": "Supersedes and rescinds the charter that created the office",
-"family": "organisation",
+"family": "law",
 "id": "cia-office-of-policy-coordination",
 "l0": false,
 "label": "CIA Office of Policy Coordination",
 "note": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
-"predicate": "succeeded",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "succeeded"
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -73,12 +73,12 @@
 "direction": "out",
 "edgeId": "e-bb7647d699",
 "edgeLabel": "Written under the same residual clause, six years on",
-"family": "law",
+"family": "documents",
 "id": "national-security-act-1947",
 "l0": false,
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "note": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
-"predicate": "implements",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -89,7 +89,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "implements"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -104,7 +104,7 @@
 "l0": false,
 "label": "National Security Council",
 "note": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
-"predicate": "published",
+"predicate": "wrote",
 "predicateSide": "object",
 "sources": [
 {
@@ -115,7 +115,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was published by"
+"verb": "was written by"
 },
 {
 "claimTier": 1,

@@ -35,12 +35,12 @@
 "direction": "out",
 "edgeId": "e-a389e61911",
 "edgeLabel": "The Air Force's own investigative file on the event",
-"family": "documents",
+"family": "oversight",
 "id": "minot-1968",
 "l0": false,
 "label": "Minot AFB B-52 incident, 24 October 1968",
 "note": "Werlich's Basic Reporting Data, the FTD final report, seven AF Form 117 questionnaires, thirteen radarscope photographs and the overlay map.",
-"predicate": "concerns",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "concerns"
+"verb": "investigated"
 },
 {
 "claimTier": 1,

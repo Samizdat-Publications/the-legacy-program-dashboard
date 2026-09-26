@@ -101,12 +101,12 @@
 "direction": "out",
 "edgeId": "e-4ae4877705",
 "edgeLabel": "subject domain: zero-point/vacuum energy extraction",
-"family": "analysis",
+"family": "documents",
 "id": "d-exotic",
 "l0": false,
 "label": "Exotic Technology & Physics",
 "note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
-"predicate": "exemplifies",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is an instance of"
+"verb": "concerns"
 },
 {
 "claimTier": 1,

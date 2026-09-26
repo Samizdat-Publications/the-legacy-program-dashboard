@@ -103,7 +103,7 @@
 "l0": false,
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
-"predicate": "founded",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +119,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "founded"
+"verb": "was a member of"
 }
 ],
 "date": "2019-09-25",

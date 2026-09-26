@@ -83,7 +83,7 @@
 "l0": true,
 "label": "United States House of Representatives",
 "note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
-"predicate": "investigated",
+"predicate": "requested",
 "predicateSide": "object",
 "sources": [
 {
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "received a request from"
 }
 ],
 "coords": null,

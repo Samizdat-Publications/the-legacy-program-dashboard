@@ -237,13 +237,13 @@
 "direction": "out",
 "edgeId": "e-7d67c2383f",
 "edgeLabel": "caucus membership confers no statutory access",
-"family": "other",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -258,7 +258,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "falls outside"
 }
 ],
 "coords": null,

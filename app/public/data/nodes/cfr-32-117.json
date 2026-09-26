@@ -195,7 +195,7 @@
 "l0": false,
 "label": "DCSA as DoD Cognizant Security Office under the NISP",
 "note": "32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.'",
-"predicate": "governs",
+"predicate": "created",
 "predicateSide": "subject",
 "sources": [
 {
@@ -206,7 +206,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "governs"
+"verb": "created"
 },
 {
 "claimTier": 1,

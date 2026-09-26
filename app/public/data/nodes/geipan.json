@@ -246,13 +246,13 @@
 "direction": "out",
 "edgeId": "e-49604e8ecd",
 "edgeLabel": "shared IHEDN lineage; SEPRA head contributed",
-"family": "role",
+"family": "documents",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -262,7 +262,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -411,7 +411,7 @@
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -427,7 +427,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was studied by"
+"verb": "is cited by"
 },
 {
 "claimTier": 3,

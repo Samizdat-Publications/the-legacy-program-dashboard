@@ -72,7 +72,7 @@
 "l0": false,
 "label": "Betty Cash",
 "note": "Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, No. H-84-348, S.D. Tex., Houston Division, dismissed 21 August 1986 by Judge Ross N. Sterling.",
-"predicate": "led",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was led by"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,

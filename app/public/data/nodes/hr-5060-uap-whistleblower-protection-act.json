@@ -104,13 +104,13 @@
 "direction": "in",
 "edgeId": "e-1cca3ef322",
 "edgeLabel": "The reprisal case the bill is designed to cover",
-"family": "documents",
+"family": "place-time",
 "id": "dylan-borland",
 "l0": false,
 "label": "Dylan Borland",
 "note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -125,7 +125,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "concerns"
+"verb": "followed from"
 },
 {
 "claimTier": 1,

@@ -67,13 +67,13 @@
 "direction": "in",
 "edgeId": "e-d5effe5db8",
 "edgeLabel": "The Board was designed to bypass the intelligence committees",
-"family": "denial",
+"family": "organisation",
 "id": "house-intelligence",
 "l0": false,
 "label": "House Permanent Select Committee on Intelligence",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
-"predicate": "omitted",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "leaves out"
+"verb": "does not include"
 },
 {
 "claimTier": 2,
@@ -93,12 +93,12 @@
 "direction": "in",
 "edgeId": "e-233b7b64d2",
 "edgeLabel": "Named as demanding removal of the Board's subpoena power",
-"family": "denial",
+"family": "conduct",
 "id": "mike-turner",
 "l0": false,
 "label": "Michael R. Turner",
 "note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
-"predicate": "refused",
+"predicate": "acted_against",
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +114,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was refused by"
+"verb": "was the target of action by"
 },
 {
 "claimTier": 1,

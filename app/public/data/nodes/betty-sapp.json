@@ -43,7 +43,7 @@
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -54,7 +54,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -64,12 +64,12 @@
 "direction": "out",
 "edgeId": "e-7edc019ab1",
 "edgeLabel": "The DNI must concur in the appointment to the office she held",
-"family": "law",
+"family": "role",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense's recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table.",
-"predicate": "governs",
+"predicate": "appointed",
 "predicateSide": "object",
 "sources": [
 {
@@ -80,7 +80,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is governed by"
+"verb": "was appointed by"
 }
 ],
 "date": "2012-07-06",

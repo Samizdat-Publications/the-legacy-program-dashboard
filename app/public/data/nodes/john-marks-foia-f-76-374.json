@@ -73,12 +73,12 @@
 "direction": "out",
 "edgeId": "e-ecbd1ca66a",
 "edgeLabel": "The FOIA request that caused the recovery of the surviving MKULTRA file",
-"family": "place-time",
+"family": "testimony",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
-"predicate": "led_to",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "led to"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,

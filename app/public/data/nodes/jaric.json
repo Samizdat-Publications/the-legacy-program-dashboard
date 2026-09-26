@@ -52,7 +52,7 @@
 "l0": false,
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "DEFE 24/1940 is the UFO reports file for 1 August 1990 to 31 January 1991 and carries a record opening date of 1 January 2076 under a Freedom of Information Act exemption signed 7 June 2023; a redacted digital copy at DEFE 24/1940/1 has been open since 20 October 2008. The edge records where the assessment would sit, not that it is there.",
-"predicate": "holds",
+"predicate": "alleged_to_hold",
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "is held by"
+"verb": "is alleged to have material held by"
 },
 {
 "claimTier": 1,

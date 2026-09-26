@@ -87,12 +87,12 @@
 "direction": "in",
 "edgeId": "e-72773b3fd6",
 "edgeLabel": "Site to container to shelf",
-"family": "analysis",
+"family": "place-time",
 "id": "d-recovery",
 "l0": false,
 "label": "Retrieval & Recovery Operations",
 "note": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
-"predicate": "affects",
+"predicate": "led_to",
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is affected by"
+"verb": "followed from"
 },
 {
 "claimTier": 1,
@@ -144,12 +144,12 @@
 "direction": "in",
 "edgeId": "e-515432576e",
 "edgeLabel": "'We couldn't make it ourselves' - a custody claim with no public chain",
-"family": "testimony",
+"family": "analysis",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
-"predicate": "made_claims_about",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -160,7 +160,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is the subject of claims by"
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -232,12 +232,12 @@
 "direction": "in",
 "edgeId": "e-74432a42eb",
 "edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
-"family": "denial",
+"family": "analysis",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
-"predicate": "omitted",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -253,7 +253,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is left out of"
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -289,12 +289,12 @@
 "direction": "in",
 "edgeId": "e-b37b426850",
 "edgeLabel": "Claimed custody of non-human craft at the claimed site",
-"family": "custody",
+"family": "analysis",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
-"predicate": "alleged_to_hold",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -305,7 +305,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is alleged to have material held by"
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -341,12 +341,12 @@
 "direction": "in",
 "edgeId": "e-bf549df459",
 "edgeLabel": "No budget, no classified access - constitutionally unable to reach the material",
-"family": "analysis",
+"family": "organisation",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -362,7 +362,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "has as an instance"
+"verb": "does not include"
 }
 ],
 "coords": null,

@@ -141,12 +141,12 @@
 "direction": "in",
 "edgeId": "e-623b0662f3",
 "edgeLabel": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
-"family": "testimony",
+"family": "documents",
 "id": "millis-tm-2004-213082",
 "l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts 'require enormous quantities of \"negative energy\" (equivalent mass of planets or suns)' and are 'extremely unlikely to be engineered'. Alcubierre's own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents.",
-"predicate": "corroborated",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is corroborated by"
+"verb": "is cited by"
 }
 ],
 "coords": null,

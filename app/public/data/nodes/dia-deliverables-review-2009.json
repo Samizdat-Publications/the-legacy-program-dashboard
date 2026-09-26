@@ -98,13 +98,13 @@
 "direction": "in",
 "edgeId": "e-7ea004dd8e",
 "edgeLabel": "three Sandia staff among the five outside reviewers",
-"family": "documents",
+"family": "organisation",
 "id": "sandia",
 "l0": true,
 "label": "Sandia National Laboratories",
 "note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
-"predicate": "cites",
-"predicateSide": "subject",
+"predicate": "produced",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-10-30",
@@ -114,7 +114,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "cites"
+"verb": "was produced by"
 }
 ],
 "coords": null,

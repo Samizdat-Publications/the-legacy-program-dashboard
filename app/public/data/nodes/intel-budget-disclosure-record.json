@@ -79,12 +79,12 @@
 "direction": "in",
 "edgeId": "e-104d58da85",
 "edgeLabel": "Created the first segment of the record by litigation",
-"family": "organisation",
+"family": "testimony",
 "id": "steven-aftergood",
 "l0": false,
 "label": "Steven Aftergood",
 "note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
-"predicate": "produced",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was produced by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

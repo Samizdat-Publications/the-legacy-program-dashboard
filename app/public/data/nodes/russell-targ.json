@@ -117,7 +117,7 @@
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
-"predicate": "led",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -128,7 +128,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "led"
+"verb": "was a member of"
 }
 ],
 "date": "1974-10-18",

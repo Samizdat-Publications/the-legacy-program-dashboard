@@ -206,12 +206,12 @@
 "direction": "in",
 "edgeId": "e-cc2b42a391",
 "edgeLabel": "DoD OIG issued the only formal audit of the Department's UAP conduct",
-"family": "organisation",
+"family": "documents",
 "id": "dod-oig",
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified.",
-"predicate": "produced",
+"predicate": "wrote",
 "predicateSide": "object",
 "sources": [
 {
@@ -222,7 +222,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "was produced by"
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -263,13 +263,13 @@
 "direction": "in",
 "edgeId": "e-a35779b1d5",
 "edgeLabel": "The audit Congress has, and cannot read",
-"family": "custody",
+"family": "oversight",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary.",
-"predicate": "holds",
-"predicateSide": "object",
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-08-15",
@@ -279,7 +279,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is held by"
+"verb": "reports to"
 }
 ],
 "coords": null,

@@ -83,12 +83,12 @@
 "direction": "in",
 "edgeId": "e-ef6bd7e00a",
 "edgeLabel": "FOI request that forced the release",
-"family": "oversight",
+"family": "testimony",
 "id": "david-clarke-uk",
 "l0": false,
 "label": "Dr David Clarke",
 "note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
-"predicate": "requested",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -99,7 +99,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "received a request from"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -109,12 +109,12 @@
 "direction": "out",
 "edgeId": "e-7de8ba3f80",
 "edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
-"family": "custody",
+"family": "organisation",
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
-"predicate": "holds",
+"predicate": "part_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -125,7 +125,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is held by"
+"verb": "includes"
 },
 {
 "claimTier": 3,
@@ -166,12 +166,12 @@
 "direction": "in",
 "edgeId": "e-12606bd281",
 "edgeLabel": "co-requester of the Condign FOI",
-"family": "oversight",
+"family": "testimony",
 "id": "gary-anthony-uk",
 "l0": false,
 "label": "Gary Anthony",
 "note": "Named with Clarke as co-requester in the report's release history and in contemporaneous BBC and Guardian coverage.",
-"predicate": "requested",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -182,7 +182,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "received a request from"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -192,13 +192,13 @@
 "direction": "in",
 "edgeId": "e-4aaf7db27c",
 "edgeLabel": "produced at Whitehall, released via TNA at Kew",
-"family": "place-time",
+"family": "custody",
 "id": "l-london",
 "l0": false,
 "label": "London, United Kingdom",
 "note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
-"predicate": "located_at",
-"predicateSide": "subject",
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-01-01",
@@ -218,7 +218,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is located at"
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -228,13 +228,13 @@
 "direction": "in",
 "edgeId": "e-dde6788a41",
 "edgeLabel": "UK-commissioned study of its own air defence region",
-"family": "documents",
+"family": "custody",
 "id": "l-uk",
 "l0": false,
 "label": "United Kingdom",
 "note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-01-01",
@@ -249,7 +249,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "concerns"
+"verb": "is held by"
 },
 {
 "claimTier": 1,

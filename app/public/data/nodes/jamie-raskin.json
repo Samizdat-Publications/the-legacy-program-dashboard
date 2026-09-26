@@ -40,7 +40,7 @@
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Raskin took two full rounds of questioning at the 26 July 2023 subcommittee hearing.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 }
 ],
 "date": "2023-07-26",

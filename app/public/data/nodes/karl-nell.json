@@ -101,7 +101,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Nell did not testify; his May 2024 conference statement was quoted from the chair.",
 "predicate": "brought_to_record",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -111,7 +111,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -121,13 +121,13 @@
 "direction": "in",
 "edgeId": "e-fbe842e2a5",
 "edgeLabel": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
-"family": "role",
+"family": "testimony",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
-"predicate": "member_of",
-"predicateSide": "subject",
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -137,7 +137,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -152,7 +152,7 @@
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Nell's Task Force role is what converts his corroboration from opinion into positional testimony: he sat inside the same organization Grusch reported to.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,7 +163,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 }
 ],
 "date": "2023-06-05",

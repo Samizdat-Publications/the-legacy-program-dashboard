@@ -660,12 +660,12 @@
 "direction": "out",
 "edgeId": "e-06746fc4a7",
 "edgeLabel": "Contractor thread: Boeing personnel named in the same hearing; Grusch's IR&D mechanism",
-"family": "testimony",
+"family": "place-time",
 "id": "boeing",
 "l0": false,
 "label": "The Boeing Company",
 "note": "Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution.",
-"predicate": "alleged_tie",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -676,7 +676,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "is alleged to be tied to"
+"verb": "happened alongside"
 },
 {
 "claimTier": 3,
@@ -810,7 +810,7 @@
 "l0": false,
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "note": "His first Capitol appearance with lawmakers since the 2023 testimony.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -821,7 +821,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "testified at"
 },
 {
 "claimTier": 3,
@@ -1028,12 +1028,12 @@
 "direction": "out",
 "edgeId": "e-68c5b48746",
 "edgeLabel": "First protected disclosure to the DoD Inspector General, July 2021",
-"family": "oversight",
+"family": "testimony",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Debrief records that Grusch provided classified information to the DoD IG in July 2021 regarding the concealment of UAP-related material from Congress, ten months before the ICIG filing. The reprisal complaint alleges his identity and those communications were later disclosed outside the IG channel.",
-"predicate": "reports_to",
+"predicate": "told",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1049,7 +1049,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "reports to"
+"verb": "passed an account to"
 },
 {
 "claimTier": 1,
@@ -1059,12 +1059,12 @@
 "direction": "out",
 "edgeId": "e-c1da82fed6",
 "edgeLabel": "The office that must approve any contractor's provision of SAP material to Congress",
-"family": "law",
+"family": "denial",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
-"predicate": "governs",
+"predicate": "refused",
 "predicateSide": "object",
 "sources": [
 {
@@ -1075,7 +1075,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is governed by"
+"verb": "was refused by"
 },
 {
 "claimTier": 2,
@@ -1152,8 +1152,8 @@
 "l0": false,
 "label": "Eric Burlison",
 "note": "The first time the central whistleblower in this record has been formally embedded in the legislative branch, with an explicit brief on UAP transparency and service on the Task Force on the Declassification of Federal Secrets.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-03-26",
@@ -1173,7 +1173,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "was appointed by"
 },
 {
 "claimTier": 1,
@@ -1287,12 +1287,12 @@
 "direction": "in",
 "edgeId": "e-2d0a63f811",
 "edgeLabel": "Built around Grusch's NRO and NGA service and UAPTF liaison role",
-"family": "documents",
+"family": "testimony",
 "id": "gerb-nro-investigation",
 "l0": false,
 "label": "UAP Gerb - National Reconnaissance Office investigation",
 "note": "Gerb frames the NRO's entry into the discussion through Grusch, who served in both the NRO and NGA and acted as liaison from those agencies to the UAP Task Force.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -1303,7 +1303,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -1313,12 +1313,12 @@
 "direction": "out",
 "edgeId": "e-bbc013b4fe",
 "edgeLabel": "Complainant of record, PPD-19 urgent concern, 25 May 2022",
-"family": "testimony",
+"family": "documents",
 "id": "grusch-icig-complaint",
 "l0": false,
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "Grusch testified he 'became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general.' The Debrief dates the filing 25 May 2022 and identifies counsel.",
-"predicate": "brought_to_record",
+"predicate": "wrote",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1334,7 +1334,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -1349,7 +1349,7 @@
 "l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "Grusch filed the ICIG urgent-concern complaint in May 2022 through counsel, was found credible and urgent in July 2022, went on the record in June 2023 and testified under oath on 26 July 2023. Attested by The Debrief reporting and the House Oversight hearing record.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1360,7 +1360,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -1375,8 +1375,8 @@
 "l0": false,
 "label": "David C. Grusch v. Michael Chapman et al.",
 "note": "Filed 15 July 2024 in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee. Dismissed with prejudice on 6 August 2025 on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records. The outcome establishes that no legal shield protected the whistleblower's most sensitive records.",
-"predicate": "concerns",
-"predicateSide": "object",
+"predicate": "wrote",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-25",
@@ -1391,7 +1391,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "is the subject of"
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -1483,13 +1483,13 @@
 "direction": "out",
 "edgeId": "e-889bb3d97c",
 "edgeLabel": "Present in the room as reprisal against him is entered into the record",
-"family": "documents",
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home.",
-"predicate": "concerns",
-"predicateSide": "object",
+"predicate": "witnessed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -1499,7 +1499,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "is the subject of"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 3,
@@ -1509,12 +1509,12 @@
 "direction": "out",
 "edgeId": "e-27ae127cee",
 "edgeLabel": "Warner's contractor turn-in targets the same private holders",
-"family": "analysis",
+"family": "other",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1102 orders contractors to surrender a list of 'non-earth origin or exotic' material, the category Grusch alleged had been moved to industry.",
-"predicate": "parallels",
+"predicate": "connected_to",
 "predicateSide": "either",
 "sources": [
 {
@@ -1525,7 +1525,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -1711,8 +1711,8 @@
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Grusch testified he knows the exact locations of held material and provided them to the Inspector General; the one corroborator whose duty station is public serves at NASIC, Wright-Patterson. Reasoning: the geography is suggestive and no document places Grusch's locations at Wright-Patterson.",
-"predicate": "made_claims_about",
-"predicateSide": "subject",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-06-05",
@@ -1727,7 +1727,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "made claims about"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,
@@ -1763,13 +1763,13 @@
 "direction": "in",
 "edgeId": "e-918eb3fde5",
 "edgeLabel": "Successive OUSD(I)/IC witnesses making the same structural allegation seven years apart",
-"family": "testimony",
+"family": "analysis",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "At the 13 November 2024 hearing Elizondo told Rep. Burchett he had worked with Grusch at US Space Force and answered 'Yes, sir' when asked whether he agreed with Grusch's multi-decade crash-retrieval testimony - a second former senior DoD official affirming the core claim under oath.",
-"predicate": "corroborated",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-11-13",
@@ -1784,7 +1784,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is corroborated by"
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -1799,7 +1799,7 @@
 "l0": false,
 "label": "Mark A. Milley",
 "note": "Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation.",
-"predicate": "disputed",
+"predicate": "denied",
 "predicateSide": "object",
 "sources": [
 {
@@ -1810,7 +1810,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "is disputed by"
+"verb": "was denied by"
 },
 {
 "claimTier": 1,
@@ -2012,13 +2012,13 @@
 "direction": "in",
 "edgeId": "e-a08e6bb75a",
 "edgeLabel": "The New York Times did not publish the 2023 Grusch story",
-"family": "analysis",
+"family": "denial",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "refused",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -2033,7 +2033,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "parallels"
+"verb": "was refused by"
 },
 {
 "claimTier": 2,
@@ -2043,12 +2043,12 @@
 "direction": "out",
 "edgeId": "e-6fc321689f",
 "edgeLabel": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
-"family": "testimony",
+"family": "media",
 "id": "press-conf-2026-06-09",
 "l0": false,
 "label": "Capitol UAP Disclosure Press Conference",
 "note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
-"predicate": "witnessed",
+"predicate": "appeared_on",
 "predicateSide": "subject",
 "sources": [
 {
@@ -2064,7 +2064,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "appeared on"
 },
 {
 "claimTier": 1,
@@ -2136,12 +2136,12 @@
 "direction": "out",
 "edgeId": "e-40b1d3b3a8",
 "edgeLabel": "Co-witness, 26 July 2023 hearing panel",
-"family": "conduct",
+"family": "analysis",
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
-"predicate": "in_contact_with",
+"predicate": "parallels",
 "predicateSide": "either",
 "sources": [
 {
@@ -2152,7 +2152,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "was in contact with"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -2162,12 +2162,12 @@
 "direction": "in",
 "edgeId": "e-1d686c431b",
 "edgeLabel": "'The central source of those allegations has refused to speak with AARO'",
-"family": "denial",
+"family": "testimony",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Posted by Kirkpatrick after the 26 July 2023 hearing and authenticated by the Pentagon, calling the hearing insulting to DoD and IC officers. Signatory: Sean M. Kirkpatrick, then AARO director. It contradicts nothing Grusch swore to; it substitutes a procedural complaint for a substantive rebuttal.",
-"predicate": "disputed",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -2183,7 +2183,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is disputed by"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -2281,7 +2281,7 @@
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Burlison's announcement states Grusch's role includes serving on the Task Force on the Declassification of Federal Secrets, the body that held the September 2025 UAP hearing and hosted the June 2026 press conference.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -2292,7 +2292,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -2333,12 +2333,12 @@
 "direction": "in",
 "edgeId": "e-1bc7468877",
 "edgeLabel": "FOIA'd police records on Grusch published weeks after his testimony",
-"family": "media",
+"family": "testimony",
 "id": "the-intercept",
 "l0": false,
 "label": "The Intercept",
 "note": "Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: 'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff's Office.' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -2354,7 +2354,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -2421,8 +2421,8 @@
 "l0": false,
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-07-21",
@@ -2437,7 +2437,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -2509,7 +2509,7 @@
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Grusch swore he was a member of the UAP Task Force from 2019 to 2021 in his Air Force NRO reservist capacity; his published biography and The Debrief both record the same billet. This is the seat from which he was tasked to inventory SAPs and CAPs.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -2520,7 +2520,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 3,
@@ -2530,12 +2530,12 @@
 "direction": "out",
 "edgeId": "e-9d18364bef",
 "edgeLabel": "The Act's definitions are drafted around his allegations",
-"family": "place-time",
+"family": "analysis",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Grusch's allegations were published 5 June 2023; S.Amdt. 797 was filed 38 days later containing bespoke definitions of 'legacy program' and 'controlling authority' reaching private and academic holders.",
-"predicate": "led_to",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -2551,7 +2551,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "led to"
+"verb": "affects"
 },
 {
 "claimTier": 2,

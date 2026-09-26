@@ -187,12 +187,12 @@
 "direction": "in",
 "edgeId": "e-a9db3c9949",
 "edgeLabel": "6603 bars CAP-to-SAP capability transfer without notice",
-"family": "law",
+"family": "analysis",
 "id": "usc-50-3091a-2024amend",
 "l0": false,
 "label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "note": "",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -203,7 +203,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,

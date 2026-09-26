@@ -323,13 +323,13 @@
 "direction": "in",
 "edgeId": "e-7247b6d94d",
 "edgeLabel": "Named on six of the fifteen pages; his own signed letter is two of them",
-"family": "documents",
+"family": "testimony",
 "id": "will-miller",
 "l0": false,
 "label": "Will Miller",
 "note": "Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2002-10-16",
@@ -339,7 +339,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "concerns"
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

@@ -125,12 +125,12 @@
 "direction": "out",
 "edgeId": "e-92c9d0cb87",
 "edgeLabel": "An information addressee on the report's own distribution list",
-"family": "documents",
+"family": "oversight",
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "NSA Washington is an information addressee on the report's own distribution list.",
-"predicate": "concerns",
+"predicate": "reports_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "concerns"
+"verb": "reports to"
 },
 {
 "claimTier": 1,

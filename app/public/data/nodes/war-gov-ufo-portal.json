@@ -35,13 +35,13 @@
 "direction": "in",
 "edgeId": "e-334bde0bd4",
 "edgeLabel": "signposts users to a channel it does not run",
-"family": "documents",
+"family": "organisation",
 "id": "aaro-2026-posture",
 "l0": false,
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "AARO's homepage carries a PURSUE banner linking to war.gov/UFO and a NARA banner linking to archives.gov, directing the public away from its own EFOIA reading room.",
-"predicate": "cites",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is cited by"
+"verb": "falls outside"
 },
 {
 "claimTier": 2,
@@ -61,12 +61,12 @@
 "direction": "in",
 "edgeId": "e-5953c48d83",
 "edgeLabel": "Presidential direction produced the PURSUE release portal",
-"family": "organisation",
+"family": "law",
 "id": "eop",
 "l0": false,
 "label": "Executive Office of the President",
 "note": "Following the February 2026 presidential directive to identify and release UAP files, the Department of War established the PURSUE portal at war.gov/UFO and published its first tranche on 8 May 2026.",
-"predicate": "produced",
+"predicate": "created",
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +82,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "was created by"
 },
 {
 "claimTier": 3,

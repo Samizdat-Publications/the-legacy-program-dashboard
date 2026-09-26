@@ -382,13 +382,13 @@
 "direction": "in",
 "edgeId": "e-7d403df934",
 "edgeLabel": "No records series has ever been identified for the JANAP channel",
-"family": "denial",
+"family": "organisation",
 "id": "bolender-memo",
 "l0": false,
 "label": "Bolender Memorandum",
 "note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
-"predicate": "omitted",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-04-24",
@@ -403,7 +403,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "leaves out"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -470,7 +470,7 @@
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
-"predicate": "refused",
+"predicate": "omitted",
 "predicateSide": "object",
 "sources": [
 {
@@ -481,7 +481,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "is left out of"
 },
 {
 "claimTier": 1,
@@ -527,7 +527,7 @@
 "l0": true,
 "label": "United States Department of Energy",
 "note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
-"predicate": "omitted",
+"predicate": "refused",
 "predicateSide": "object",
 "sources": [
 {
@@ -538,7 +538,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is left out of"
+"verb": "was refused by"
 },
 {
 "claimTier": 3,
@@ -548,12 +548,12 @@
 "direction": "out",
 "edgeId": "e-36dba3239e",
 "edgeLabel": "Agency compliance ran nineteen months past the statutory deadline",
-"family": "organisation",
+"family": "place-time",
 "id": "dow-uap-file-release-2026",
 "l0": false,
 "label": "Department of War release of UAP files",
 "note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
-"predicate": "produced",
+"predicate": "preceded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -574,7 +574,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "produced"
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -615,13 +615,13 @@
 "direction": "out",
 "edgeId": "e-bce3600bac",
 "edgeLabel": "FBI transferred records to RG 615 while its standing Vault collection stayed frozen at 2013",
-"family": "analysis",
+"family": "organisation",
 "id": "fbi-vault-ufo",
 "l0": false,
 "label": "FBI Records: The Vault - UFO collection",
 "note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "succeeded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -631,7 +631,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "parallels"
+"verb": "succeeded"
 },
 {
 "claimTier": 3,
@@ -672,12 +672,12 @@
 "direction": "out",
 "edgeId": "e-0a3d589db7",
 "edgeLabel": "Both are components of the National Archives",
-"family": "other",
+"family": "analysis",
 "id": "isoo",
 "l0": false,
 "label": "Information Security Oversight Office",
 "note": "NARA hosts both the statutory UAP collection and the Information Security Oversight Office, the body responsible to the President for the classification system.",
-"predicate": "connected_to",
+"predicate": "parallels",
 "predicateSide": "either",
 "sources": [
 {
@@ -693,7 +693,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -1070,7 +1070,7 @@
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "The task force's declared remit is federal secrecy generally; the agencies absent from RG 615 - CIA, DIA, NRO, NGA, DOE - are the same agencies whose other files it has pursued.",
-"predicate": "investigated",
+"predicate": "oversaw",
 "predicateSide": "object",
 "sources": [
 {
@@ -1086,7 +1086,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,

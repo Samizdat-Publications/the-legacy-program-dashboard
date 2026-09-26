@@ -145,7 +145,7 @@
 "l0": false,
 "label": "Element 115: the Lazar claim and moscovium",
 "note": "Timestamped in the 1991 tape: the reactor account, the 223 grams, the 1740 degrees Celsius melting point and the machining into triangles.",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -156,7 +156,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "made claims about"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -223,13 +223,13 @@
 "direction": "out",
 "edgeId": "e-99ff421d34",
 "edgeLabel": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
-"family": "other",
+"family": "organisation",
 "id": "lanl",
 "l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-12",
@@ -239,7 +239,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -410,12 +410,12 @@
 "direction": "in",
 "edgeId": "e-249be19a29",
 "edgeLabel": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
-"family": "media",
+"family": "custody",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
-"predicate": "reported_on",
+"predicate": "holds",
 "predicateSide": "object",
 "sources": [
 {
@@ -426,7 +426,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was reported on by"
+"verb": "is held by"
 },
 {
 "claimTier": 1,

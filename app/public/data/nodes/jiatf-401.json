@@ -41,12 +41,12 @@
 "direction": "out",
 "edgeId": "e-baa1666c7f",
 "edgeLabel": "The 2026 bomber-base incursions are the task force's live problem",
-"family": "oversight",
+"family": "place-time",
 "id": "barksdale-2026-incursions",
 "l0": false,
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
-"predicate": "investigated",
+"predicate": "responded_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -62,7 +62,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "investigated"
+"verb": "responded to"
 },
 {
 "claimTier": 1,
@@ -103,8 +103,8 @@
 "l0": false,
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
-"predicate": "led_to",
-"predicateSide": "object",
+"predicate": "responded_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -119,7 +119,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "followed from"
+"verb": "responded to"
 }
 ],
 "coords": null,

@@ -65,12 +65,12 @@
 "direction": "out",
 "edgeId": "e-236a5189be",
 "edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
-"family": "analysis",
+"family": "organisation",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,7 +86,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "affects"
+"verb": "falls outside"
 }
 ],
 "coords": null,

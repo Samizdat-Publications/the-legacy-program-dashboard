@@ -272,12 +272,12 @@
 "direction": "out",
 "edgeId": "e-e1a409137f",
 "edgeLabel": "Plaintiff who forced a court-supervised NASA records search",
-"family": "oversight",
+"family": "role",
 "id": "kean-v-nasa",
 "l0": false,
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
-"predicate": "investigated",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -293,7 +293,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "investigated"
+"verb": "led"
 },
 {
 "claimTier": 1,

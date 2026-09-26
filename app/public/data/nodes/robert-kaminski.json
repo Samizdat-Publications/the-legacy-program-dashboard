@@ -46,12 +46,12 @@
 "direction": "out",
 "edgeId": "e-86165af218",
 "edgeLabel": "Boeing engineer on the investigation task group",
-"family": "testimony",
+"family": "oversight",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "HIS ACCOUNT REACHED THE PUBLIC AS A 1997 LETTER TO RESEARCHER JIM KLOTZ, THIRTY YEARS AFTER THE EVENT. The half of it that says no cause was found is corroborated by the unit history; the half that says the inquiry was stopped with no report filed is contradicted by it.",
-"predicate": "witnessed",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "investigated"
 },
 {
 "claimTier": 2,

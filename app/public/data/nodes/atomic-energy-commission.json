@@ -292,13 +292,13 @@
 "direction": "out",
 "edgeId": "e-a1f38a4299",
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
-"family": "custody",
+"family": "analysis",
 "id": "manhattan-project-2",
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine.",
-"predicate": "transferred",
-"predicateSide": "object",
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1946-08-01",
@@ -308,7 +308,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "received records or material from"
+"verb": "is an instance of"
 }
 ],
 "coords": null,

@@ -178,12 +178,12 @@
 "direction": "out",
 "edgeId": "e-58d62150c2",
 "edgeLabel": "author's institutional affiliation at time of writing",
-"family": "organisation",
+"family": "documents",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech International of Austin, Texas is the affiliation recorded against this title on the DIA congressional list. EarthTech is the single largest institutional source on the list; Puthoff and Davis between them are primary authors on six of the 38 products.",
-"predicate": "produced",
+"predicate": "wrote",
 "predicateSide": "object",
 "sources": [
 {
@@ -214,7 +214,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "was written by"
 },
 {
 "claimTier": 1,

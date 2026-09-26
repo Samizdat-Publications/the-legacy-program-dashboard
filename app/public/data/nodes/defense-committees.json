@@ -115,7 +115,7 @@
 "l0": false,
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(2) directs the waived information and its justification 'jointly to the chairman and ranking minority member of each of the defense committees'.",
-"predicate": "mandated",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -126,7 +126,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is required by"
+"verb": "is governed by"
 }
 ],
 "coords": null,

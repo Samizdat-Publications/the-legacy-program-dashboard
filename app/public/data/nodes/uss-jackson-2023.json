@@ -61,12 +61,12 @@
 "direction": "out",
 "edgeId": "e-ca701262bc",
 "edgeLabel": "Footage reached the public through journalists, not through the Navy or AARO",
-"family": "media",
+"family": "testimony",
 "id": "jeremy-corbell",
 "l0": false,
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp.",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -77,7 +77,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -144,13 +144,13 @@
 "direction": "out",
 "edgeId": "e-d13462e313",
 "edgeLabel": "The ship whose EO/IR system produced the recording",
-"family": "testimony",
+"family": "place-time",
 "id": "uss-jackson",
 "l0": false,
 "label": "USS Jackson (LCS-6)",
 "note": "The footage carries 'timestamps, lat/long, and platform readouts consistent with USS Jackson's location' - precisely the metadata the NASA study team said government UAP holdings lack.",
-"predicate": "witnessed",
-"predicateSide": "object",
+"predicate": "occurred_at",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -165,7 +165,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "has a first-hand account from"
+"verb": "happened at"
 }
 ],
 "coords": null,

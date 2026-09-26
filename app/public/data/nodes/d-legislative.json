@@ -78,7 +78,7 @@
 "l0": false,
 "label": "Enacted Statute",
 "note": "Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary.",
-"predicate": "led_to",
+"predicate": "preceded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,7 +94,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "led to"
+"verb": "came before"
 },
 {
 "claimTier": 1,

@@ -65,12 +65,12 @@
 "direction": "out",
 "edgeId": "e-7680c03d87",
 "edgeLabel": "Requester of the 9 May 2001 FOIA that produced the release",
-"family": "custody",
+"family": "testimony",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his.",
-"predicate": "holds",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -81,7 +81,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is held by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

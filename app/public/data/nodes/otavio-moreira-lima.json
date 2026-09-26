@@ -73,7 +73,7 @@
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
 "predicate": "contradicts",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -98,7 +98,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is contradicted by"
+"verb": "contradicts"
 },
 {
 "claimTier": 2,

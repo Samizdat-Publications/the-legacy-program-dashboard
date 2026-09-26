@@ -98,12 +98,12 @@
 "direction": "out",
 "edgeId": "e-1bc7468877",
 "edgeLabel": "FOIA'd police records on Grusch published weeks after his testimony",
-"family": "media",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: 'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff's Office.' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "reported on"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,

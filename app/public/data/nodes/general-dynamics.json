@@ -23,12 +23,12 @@
 "direction": "in",
 "edgeId": "e-207fe30640",
 "edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
-"family": "analysis",
+"family": "testimony",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Rep. Mace proposed that undersea propulsion material would go to a contractor like General Dynamics and aerospace material to Lockheed; Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
-"predicate": "parallels",
+"predicate": "alleged_tie",
 "predicateSide": "either",
 "sources": [
 {
@@ -39,7 +39,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,

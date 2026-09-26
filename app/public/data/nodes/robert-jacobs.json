@@ -184,12 +184,12 @@
 "direction": "out",
 "edgeId": "e-b41ad4bb4b",
 "edgeLabel": "1369th Photographic Squadron, Vandenberg AFB, May 1963 to May 1966",
-"family": "place-time",
+"family": "role",
 "id": "l-vandenberg",
 "l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "His own published statement of his post, independently confirmed as to unit and role by the project engineer.",
-"predicate": "located_at",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -205,7 +205,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is located at"
+"verb": "held a post at"
 }
 ],
 "date": null,

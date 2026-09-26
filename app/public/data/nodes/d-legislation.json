@@ -41,7 +41,7 @@
 "l0": false,
 "label": "Legislative Process (proposed and pending)",
 "note": "Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary.",
-"predicate": "led_to",
+"predicate": "preceded",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "followed from"
+"verb": "came after"
 },
 {
 "claimTier": 1,
@@ -67,12 +67,12 @@
 "direction": "in",
 "edgeId": "e-6e5c6c050e",
 "edgeLabel": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
-"family": "organisation",
+"family": "analysis",
 "id": "iaa-2023",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803",
 "note": "Sec. 6802 rewrote 50 U.S.C. 3373 to create AARO and inserted the 'unidentified anomalous phenomena' and 'transmedium' definitions; sec. 6803 attached a Comptroller General audit and briefing requirement to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records that the statutory definitions the whole board uses were enacted in an intelligence authorization, not a defence one.",
-"predicate": "part_of",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -88,7 +88,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "includes"
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,

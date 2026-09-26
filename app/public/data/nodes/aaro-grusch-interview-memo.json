@@ -61,12 +61,12 @@
 "direction": "in",
 "edgeId": "e-28c40cd38e",
 "edgeLabel": "AARO's own record of nine interview attempts, June 2023 - January 2024",
-"family": "documents",
+"family": "organisation",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Released under DoD FOIA case 24-F-0266. It documents both the refusals AARO cites and the fact that AARO worked through intermediaries and Senate staff for five months before making direct contact.",
-"predicate": "wrote",
+"predicate": "produced",
 "predicateSide": "object",
 "sources": [
 {
@@ -77,7 +77,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was written by"
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -87,12 +87,12 @@
 "direction": "in",
 "edgeId": "e-e75d281aae",
 "edgeLabel": "built a documentary record of its attempts to interview Grusch",
-"family": "organisation",
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The memorandum for record of 8 January 2024 logs eight approaches between June 2023 and November 2023 and a missed 14 November interview.",
-"predicate": "produced",
+"predicate": "wrote",
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was produced by"
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -118,8 +118,8 @@
 "l0": false,
 "label": "David W. Abba",
 "note": "Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, signed the memorandum AARO invoked in its invitations. SAPCO is the one office that could resolve the read-on denial and has never publicly addressed it.",
-"predicate": "wrote",
-"predicateSide": "object",
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-08",
@@ -129,7 +129,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was written by"
+"verb": "cites"
 },
 {
 "claimTier": 1,

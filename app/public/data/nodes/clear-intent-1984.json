@@ -66,12 +66,12 @@
 "direction": "out",
 "edgeId": "e-0e72dd782f",
 "edgeLabel": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
-"family": "documents",
+"family": "oversight",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
-"predicate": "studied",
+"predicate": "investigated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "studied"
+"verb": "investigated"
 },
 {
 "claimTier": 3,

@@ -46,7 +46,7 @@
 "l0": false,
 "label": "Dr Claude Poher",
 "note": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
-"predicate": "founded",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was founded by"
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -67,12 +67,12 @@
 "direction": "in",
 "edgeId": "e-bef625fd7d",
 "edgeLabel": "1976 IHEDN committee produced GEPAN",
-"family": "role",
+"family": "organisation",
 "id": "ihedn",
 "l0": false,
 "label": "Institut des Hautes Études de Défense Nationale (IHEDN)",
 "note": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
-"predicate": "founded",
+"predicate": "produced",
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +83,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was founded by"
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -98,7 +98,7 @@
 "l0": true,
 "label": "National Security Agency",
 "note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "was studied by"
+"verb": "is cited by"
 },
 {
 "claimTier": 2,

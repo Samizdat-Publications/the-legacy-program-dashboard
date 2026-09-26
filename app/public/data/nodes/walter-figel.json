@@ -120,12 +120,12 @@
 "direction": "in",
 "edgeId": "e-7be1e0e83f",
 "edgeLabel": "Located and recorded him; the account exists only as Hastings's tapes",
-"family": "testimony",
+"family": "media",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Three telephone conversations in 2008, 2009 and 2010, recorded by and held by the interviewer. The recordings have not been published in full at any URL this board has opened.",
-"predicate": "brought_to_record",
+"predicate": "interviewed",
 "predicateSide": "object",
 "sources": [
 {
@@ -136,7 +136,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was brought to the record by"
+"verb": "was interviewed by"
 }
 ],
 "date": "1967-03-16",

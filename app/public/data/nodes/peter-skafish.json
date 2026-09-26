@@ -126,7 +126,7 @@
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
-"predicate": "led",
+"predicate": "founded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "led"
+"verb": "founded"
 },
 {
 "claimTier": 2,

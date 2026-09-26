@@ -119,12 +119,12 @@
 "direction": "in",
 "edgeId": "e-c8394a3a8c",
 "edgeLabel": "Produced by the 24th NORAD Region's own senior directors",
-"family": "documents",
+"family": "organisation",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
-"predicate": "wrote",
+"predicate": "produced",
 "predicateSide": "object",
 "sources": [
 {
@@ -135,7 +135,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was written by"
+"verb": "was produced by"
 },
 {
 "claimTier": 1,

@@ -41,8 +41,8 @@
 "l0": false,
 "label": "Nuclear Weapons Complex Nexus",
 "note": "Bruehl and Villarroel's Scientific Reports paper links POSS-I transients to nuclear testing and to UAP reports, connecting the astronomical and nuclear-nexus domains.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -52,7 +52,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is affected by"
+"verb": "parallels"
 },
 {
 "claimTier": 1,

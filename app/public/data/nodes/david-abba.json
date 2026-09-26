@@ -45,8 +45,8 @@
 "l0": false,
 "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "note": "Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, signed the memorandum AARO invoked in its invitations. SAPCO is the one office that could resolve the read-on denial and has never publicly addressed it.",
-"predicate": "wrote",
-"predicateSide": "subject",
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-08",
@@ -56,7 +56,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "wrote"
+"verb": "is cited by"
 }
 ],
 "date": "2024-01-08",

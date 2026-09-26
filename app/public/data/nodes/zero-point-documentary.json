@@ -67,42 +67,11 @@
 "direction": "out",
 "edgeId": "e-9c7f8f9791",
 "edgeLabel": "A feature documentary carrying the claim to a later audience",
-"family": "media",
+"family": "documents",
 "id": "arv-fluxliner",
 "l0": true,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types.",
-"predicate": "reported_on",
-"predicateSide": "subject",
-"sources": [
-{
-"date": "2026-09-18",
-"name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'",
-"url": "https://vimeo.com/channels/942663"
-},
-{
-"date": "2026-09-18",
-"name": "IMDb tt6111304, user-maintained listing",
-"url": "https://www.imdb.com/title/tt6111304/"
-}
-],
-"tier": "A",
-"type": "investigative",
-"verb": "reported on"
-},
-{
-"claimTier": 1,
-"cls": "person",
-"dateEnd": "2013-06-02",
-"dateStart": "2013-06-02",
-"direction": "out",
-"edgeId": "e-509f666d13",
-"edgeLabel": "The film is about him and names him in its title",
-"family": "documents",
-"id": "mark-mccandlish",
-"l0": false,
-"label": "Mark McCandlish",
-"note": "The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member.",
 "predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
@@ -120,6 +89,37 @@
 "tier": "A",
 "type": "investigative",
 "verb": "concerns"
+},
+{
+"claimTier": 1,
+"cls": "person",
+"dateEnd": "2013-06-02",
+"dateStart": "2013-06-02",
+"direction": "out",
+"edgeId": "e-509f666d13",
+"edgeLabel": "The film is about him and names him in its title",
+"family": "media",
+"id": "mark-mccandlish",
+"l0": false,
+"label": "Mark McCandlish",
+"note": "The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member.",
+"predicate": "reported_on",
+"predicateSide": "subject",
+"sources": [
+{
+"date": "2026-09-18",
+"name": "Vimeo channel 'Zero Point: The Story of Mark McCandlish and the Flux Liner'",
+"url": "https://vimeo.com/channels/942663"
+},
+{
+"date": "2026-09-18",
+"name": "IMDb tt6111304, user-maintained listing",
+"url": "https://www.imdb.com/title/tt6111304/"
+}
+],
+"tier": "A",
+"type": "investigative",
+"verb": "reported on"
 }
 ],
 "coords": null,

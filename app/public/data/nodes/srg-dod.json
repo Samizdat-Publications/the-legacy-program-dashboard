@@ -58,7 +58,7 @@
 "l0": true,
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is governed by"
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -79,12 +79,12 @@
 "direction": "out",
 "edgeId": "e-9cf77b75e0",
 "edgeLabel": "Unanimous SRG recommendations bypass the SAPOC entirely",
-"family": "analysis",
+"family": "organisation",
 "id": "sapoc",
 "l0": false,
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "affects"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,

@@ -47,13 +47,13 @@
 "direction": "out",
 "edgeId": "e-186e7f0eb6",
 "edgeLabel": "INSCOM assessed the Institute's Gateway training in June 1983, inside CENTER LANE's span",
-"family": "organisation",
+"family": "place-time",
 "id": "center-lane",
 "l0": false,
 "label": "CENTER LANE",
 "note": "The memorandum is an INSCOM product of 9 June 1983 written for USAINSCOM personnel required to take Gateway training, and CENTER LANE is INSCOM's remote-viewing special access programme of 1983 to 1986; the assessment is contemporaneous with the programme and issued by the same command.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1983-06-09",
@@ -63,7 +63,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is part of"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,

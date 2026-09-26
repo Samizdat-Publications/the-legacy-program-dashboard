@@ -59,12 +59,12 @@
 "direction": "out",
 "edgeId": "e-d57bd1b10a",
 "edgeLabel": "Ran concurrently with, and separately from, AARO",
-"family": "analysis",
+"family": "place-time",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings.",
-"predicate": "parallels",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "parallels"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -116,12 +116,12 @@
 "direction": "out",
 "edgeId": "e-74432a42eb",
 "edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
-"family": "denial",
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
-"predicate": "omitted",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -137,7 +137,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "leaves out"
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -152,7 +152,7 @@
 "l0": false,
 "label": "David N. Spergel",
 "note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
-"predicate": "led",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -163,7 +163,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "was led by"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -261,12 +261,12 @@
 "direction": "in",
 "edgeId": "e-db853ade8a",
 "edgeLabel": "NASA science chief at the report release briefing",
-"family": "testimony",
+"family": "role",
 "id": "nicola-fox",
 "l0": false,
 "label": "Nicola J. Fox",
 "note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
-"predicate": "acknowledged",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -277,7 +277,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was acknowledged by"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -318,12 +318,12 @@
 "direction": "in",
 "edgeId": "e-e08a48e3fc",
 "edgeLabel": "Metadata stripping defeats the study team's core recommendation",
-"family": "conduct",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
-"predicate": "acted_against",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -339,7 +339,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "was the target of action by"
+"verb": "is affected by"
 }
 ],
 "coords": null,

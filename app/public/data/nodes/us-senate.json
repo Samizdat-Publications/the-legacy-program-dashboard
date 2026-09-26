@@ -113,12 +113,12 @@
 "direction": "out",
 "edgeId": "e-316903ec94",
 "edgeLabel": "Committee of jurisdiction for intelligence community programs",
-"family": "role",
+"family": "organisation",
 "id": "senate-intelligence",
 "l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
-"predicate": "member_of",
+"predicate": "part_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -129,7 +129,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "includes"
 }
 ],
 "coords": null,

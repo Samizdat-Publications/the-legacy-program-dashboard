@@ -50,13 +50,13 @@
 "direction": "in",
 "edgeId": "e-c5cc37f1cc",
 "edgeLabel": "Signed the CIA reply to Keyhoe",
-"family": "testimony",
+"family": "conduct",
 "id": "charles-p-cabell",
 "l0": false,
 "label": "Gen. Charles P. Cabell",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
-"predicate": "told",
-"predicateSide": "object",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-03",
@@ -66,7 +66,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "received an account from"
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -76,12 +76,12 @@
 "direction": "out",
 "edgeId": "e-11e74ee7a1",
 "edgeLabel": "CIA routed his UFO inquiries to the Air Force and made it a precedent",
-"family": "denial",
+"family": "place-time",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "A 1958 CIA memorandum for record states that the letters from him would be forwarded to the Air Force to answer and that the Agency would use the procedure as a precedent henceforth in all inquiries regarding UFOs.",
-"predicate": "refused",
+"predicate": "responded_to",
 "predicateSide": "object",
 "sources": [
 {
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "drew a response from"
 },
 {
 "claimTier": 1,
@@ -133,8 +133,8 @@
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1964-05-01",
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "appointed"
 },
 {
 "claimTier": 1,

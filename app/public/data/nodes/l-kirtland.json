@@ -272,12 +272,12 @@
 "direction": "in",
 "edgeId": "e-fce341e7ef",
 "edgeLabel": "Doty's AFOSI detachment ran the Bennewitz deception from Kirtland",
-"family": "place-time",
+"family": "role",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore.",
-"predicate": "located_at",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -288,7 +288,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is the location of"
+"verb": "had in a post"
 },
 {
 "claimTier": 2,

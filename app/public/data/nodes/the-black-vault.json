@@ -53,12 +53,12 @@
 "direction": "out",
 "edgeId": "e-249be19a29",
 "edgeLabel": "Holds the FBI FOIA releases, the 2017 Laingsburg police report and the Friedman article",
-"family": "media",
+"family": "custody",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
-"predicate": "reported_on",
+"predicate": "holds",
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "reported on"
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -79,12 +79,12 @@
 "direction": "in",
 "edgeId": "e-7981069a36",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
-"family": "media",
+"family": "testimony",
 "id": "defense-support-program",
 "l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,7 +100,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "reported on"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -136,12 +136,12 @@
 "direction": "in",
 "edgeId": "e-fc29e7ebf3",
 "edgeLabel": "Federal file recovered after seventeen years and two destruction notices",
-"family": "oversight",
+"family": "testimony",
 "id": "jal-1628-1986",
 "l0": false,
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
-"predicate": "investigated",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "investigated"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -281,13 +281,13 @@
 "direction": "in",
 "edgeId": "e-f281dd672f",
 "edgeLabel": "Hollanda's account to an American reporter is preserved in the Pratt file",
-"family": "testimony",
+"family": "custody",
 "id": "uyrange-hollanda",
 "l0": false,
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
 "note": "Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.",
-"predicate": "told",
-"predicateSide": "object",
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -307,7 +307,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "holds"
 }
 ],
 "coords": null,

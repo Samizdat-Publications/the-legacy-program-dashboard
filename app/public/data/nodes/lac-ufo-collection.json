@@ -67,12 +67,12 @@
 "direction": "in",
 "edgeId": "e-3690351afc",
 "edgeLabel": "2025 report is the first federal review to work the LAC holding",
-"family": "documents",
+"family": "oversight",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
-"predicate": "studied",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was studied by"
+"verb": "was investigated by"
 }
 ],
 "coords": null,

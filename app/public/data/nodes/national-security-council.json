@@ -46,7 +46,7 @@
 "l0": false,
 "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
-"predicate": "governs",
+"predicate": "created",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is governed by"
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -150,7 +150,7 @@
 "l0": false,
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
-"predicate": "published",
+"predicate": "wrote",
 "predicateSide": "subject",
 "sources": [
 {
@@ -161,7 +161,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "published"
+"verb": "wrote"
 },
 {
 "claimTier": 1,

@@ -219,12 +219,12 @@
 "direction": "out",
 "edgeId": "e-776b5a7789",
 "edgeLabel": "published the contract documentation",
-"family": "documents",
+"family": "testimony",
 "id": "aawsap-contract",
 "l0": false,
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Knapp's KLAS I-Team established publicly that the DIA-funded study was executed in Nevada, ahead of DIA's own release of the contract in 2022.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -235,7 +235,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "published"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -696,12 +696,12 @@
 "direction": "out",
 "edgeId": "e-5e41f493ab",
 "edgeLabel": "Journalist who brought the claim to air in 1989 and has carried it since",
-"family": "media",
+"family": "testimony",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -712,7 +712,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "reported on"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,

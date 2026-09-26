@@ -71,7 +71,7 @@
 "l0": false,
 "label": "House Armed Services Committee",
 "note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,7 +82,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -97,7 +97,7 @@
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
-"predicate": "disputed",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,7 +108,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "disputes"
+"verb": "refused"
 },
 {
 "claimTier": 1,

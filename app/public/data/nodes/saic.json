@@ -40,7 +40,7 @@
 "l0": false,
 "label": "Adm. Bobby Ray Inman",
 "note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -56,7 +56,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 2,

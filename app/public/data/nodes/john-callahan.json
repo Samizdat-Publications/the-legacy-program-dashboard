@@ -82,7 +82,7 @@
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +93,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "testified at"
 },
 {
 "claimTier": 2,
@@ -139,7 +139,7 @@
 "l0": false,
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
-"predicate": "made_claims_about",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -160,7 +160,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "made claims about"
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -170,12 +170,12 @@
 "direction": "out",
 "edgeId": "e-582c0fbf97",
 "edgeLabel": "Spoke at the podium, 9 May 2001",
-"family": "testimony",
+"family": "media",
 "id": "national-press-club-2001",
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
-"predicate": "testified_at",
+"predicate": "appeared_on",
 "predicateSide": "subject",
 "sources": [
 {
@@ -186,7 +186,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "appeared on"
 }
 ],
 "date": null,

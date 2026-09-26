@@ -84,8 +84,8 @@
 "l0": false,
 "label": "Walter Haut",
 "note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
-"predicate": "brought_to_record",
-"predicateSide": "subject",
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "received an account from"
 }
 ],
 "date": "2007-01-01",

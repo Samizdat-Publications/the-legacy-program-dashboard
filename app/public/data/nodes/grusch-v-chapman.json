@@ -34,8 +34,8 @@
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Filed 15 July 2024 in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee. Dismissed with prejudice on 6 August 2025 on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records. The outcome establishes that no legal shield protected the whistleblower's most sensitive records.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "wrote",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-07-25",
@@ -50,7 +50,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "concerns"
+"verb": "was written by"
 },
 {
 "claimTier": 1,

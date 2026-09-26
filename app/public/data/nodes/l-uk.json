@@ -24,13 +24,13 @@
 "direction": "out",
 "edgeId": "e-dde6788a41",
 "edgeLabel": "UK-commissioned study of its own air defence region",
-"family": "documents",
+"family": "custody",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
-"predicate": "concerns",
-"predicateSide": "object",
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-01-01",
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is the subject of"
+"verb": "holds"
 },
 {
 "claimTier": 1,

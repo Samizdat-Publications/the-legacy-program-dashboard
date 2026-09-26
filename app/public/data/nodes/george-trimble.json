@@ -108,12 +108,12 @@
 "direction": "in",
 "edgeId": "e-6a9fe39af6",
 "edgeLabel": "Quoted by name as Martin's vice-president in charge of advanced design planning",
-"family": "media",
+"family": "documents",
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
-"predicate": "reported_on",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -124,7 +124,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was reported on by"
+"verb": "is the subject of"
 }
 ],
 "date": "1955-06-10",

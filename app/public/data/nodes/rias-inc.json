@@ -93,13 +93,13 @@
 "direction": "out",
 "edgeId": "e-d52c23f842",
 "edgeLabel": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
-"family": "other",
+"family": "organisation",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-01-01",
@@ -109,7 +109,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -145,12 +145,12 @@
 "direction": "in",
 "edgeId": "e-85c028b1f6",
 "edgeLabel": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
-"family": "documents",
+"family": "media",
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955.",
-"predicate": "concerns",
+"predicate": "reported_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -161,7 +161,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "was reported on by"
 }
 ],
 "coords": null,

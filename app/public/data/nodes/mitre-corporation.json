@@ -77,12 +77,12 @@
 "direction": "in",
 "edgeId": "e-cf61c445f9",
 "edgeLabel": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
-"family": "analysis",
+"family": "conduct",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
-"predicate": "parallels",
+"predicate": "in_contact_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -98,7 +98,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -310,12 +310,12 @@
 "direction": "in",
 "edgeId": "e-84f69e61f4",
 "edgeLabel": "Names MITRE as the central FFRDC node of the legacy portfolio",
-"family": "documents",
+"family": "testimony",
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -326,7 +326,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -553,7 +553,7 @@
 "l0": false,
 "label": "Mark Todd Peters",
 "note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -564,7 +564,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -776,7 +776,7 @@
 "l0": false,
 "label": "Robert R. Everett",
 "note": "Everett joined MITRE at incorporation as first technical director and later became its president.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -787,7 +787,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -828,7 +828,7 @@
 "l0": false,
 "label": "Susan M. Gordon",
 "note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -839,7 +839,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 3,

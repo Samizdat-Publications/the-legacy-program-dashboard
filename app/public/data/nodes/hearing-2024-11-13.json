@@ -323,8 +323,8 @@
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The report was delivered, described under oath and entered into the record at this hearing.",
-"predicate": "part_of",
-"predicateSide": "object",
+"predicate": "same_as",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-11-13",
@@ -339,7 +339,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "includes"
+"verb": "is the same as"
 },
 {
 "claimTier": 1,
@@ -381,7 +381,7 @@
 "label": "Karl E. Nell",
 "note": "Nell did not testify; his May 2024 conference statement was quoted from the chair.",
 "predicate": "brought_to_record",
-"predicateSide": "subject",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -391,7 +391,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

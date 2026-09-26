@@ -78,8 +78,8 @@
 "l0": false,
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -89,7 +89,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,

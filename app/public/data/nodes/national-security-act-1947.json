@@ -136,12 +136,12 @@
 "direction": "in",
 "edgeId": "e-bb7647d699",
 "edgeLabel": "Written under the same residual clause, six years on",
-"family": "law",
+"family": "documents",
 "id": "nsc-5412",
 "l0": false,
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
-"predicate": "implements",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -152,7 +152,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is implemented by"
+"verb": "is cited by"
 }
 ],
 "coords": null,

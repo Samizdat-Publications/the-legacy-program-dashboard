@@ -93,8 +93,8 @@
 "l0": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1964-05-01",
@@ -104,7 +104,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "was appointed by"
 },
 {
 "claimTier": 2,
@@ -114,13 +114,13 @@
 "direction": "in",
 "edgeId": "e-0774622dfd",
 "edgeLabel": "Appointed the first Director of Central Intelligence of the CIA",
-"family": "conduct",
+"family": "role",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-01-22",
@@ -130,7 +130,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "was appointed by"
 },
 {
 "claimTier": 1,
@@ -192,13 +192,13 @@
 "direction": "in",
 "edgeId": "e-7f55007a7e",
 "edgeLabel": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
-"family": "conduct",
+"family": "place-time",
 "id": "sidney-souers",
 "l0": false,
 "label": "Rear Adm. Sidney W. Souers",
 "note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "preceded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-09-26",
@@ -208,7 +208,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "came after"
 }
 ],
 "date": "1960-06-01",

@@ -89,7 +89,7 @@
 "l0": false,
 "label": "Ellsworth AFB, South Dakota",
 "note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
-"predicate": "witnessed",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,7 +100,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "gave a first-hand account of"
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -110,13 +110,13 @@
 "direction": "in",
 "edgeId": "e-3bdeac722b",
 "edgeLabel": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
-"family": "testimony",
+"family": "conduct",
 "id": "michael-johnson",
 "l0": false,
 "label": "Michael Johnson",
 "note": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
-"predicate": "told",
-"predicateSide": "object",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-07",
@@ -126,7 +126,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "was in contact with"
 }
 ],
 "date": "1977-11-18",

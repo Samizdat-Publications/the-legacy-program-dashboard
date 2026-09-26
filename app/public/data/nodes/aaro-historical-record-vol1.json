@@ -336,13 +336,13 @@
 "direction": "out",
 "edgeId": "e-f1ae8c9ff6",
 "edgeLabel": "Volume I explicitly defers its unresolved allegations to Volume II",
-"family": "organisation",
+"family": "documents",
 "id": "aaro-historical-record-vol2",
 "l0": true,
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "Volume I's scope statement commits Volume II to covering research from 1 November 2023 to 15 April 2024 plus the allegations left open.",
-"predicate": "succeeded",
-"predicateSide": "object",
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -352,7 +352,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was succeeded by"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -398,7 +398,7 @@
 "l0": false,
 "label": "AARO / Oak Ridge National Laboratory materials analyses",
 "note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
-"predicate": "concerns",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -419,7 +419,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "concerns"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -496,7 +496,7 @@
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Confirms the $22M, the Reid direction, the contractor's UFO work and the ranch — then terminates the story with 'concerns about the project' and names no one.",
-"predicate": "explained_away",
+"predicate": "omitted",
 "predicateSide": "subject",
 "sources": [
 {
@@ -507,7 +507,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "gave a conventional explanation for"
+"verb": "leaves out"
 },
 {
 "claimTier": 2,
@@ -682,12 +682,12 @@
 "direction": "in",
 "edgeId": "e-c5c5c63494",
 "edgeLabel": "Hosts the working public mirror of Volume I",
-"family": "custody",
+"family": "documents",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -703,7 +703,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is held by"
+"verb": "was published by"
 },
 {
 "claimTier": 2,
@@ -775,12 +775,12 @@
 "direction": "out",
 "edgeId": "e-e2c80139df",
 "edgeLabel": "Report offers KONA BLUE as the explanation for the reverse-engineering allegations",
-"family": "documents",
+"family": "denial",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "AARO identifies KONA BLUE as a prospective SAP proposed to DHS, never approved, whose advocates only assumed material existed. The proposal's own premise - consolidating alleged concealed holdings under DHS for proper oversight - presupposes the thing AARO says does not exist.",
-"predicate": "concerns",
+"predicate": "explained_away",
 "predicateSide": "subject",
 "sources": [
 {
@@ -791,7 +791,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "concerns"
+"verb": "gave a conventional explanation for"
 },
 {
 "claimTier": 1,
@@ -853,13 +853,13 @@
 "direction": "in",
 "edgeId": "e-a0edefad80",
 "edgeLabel": "Inferred identification with the anonymised page 29 interviewee",
-"family": "testimony",
+"family": "documents",
 "id": "michael-herrera",
 "l0": false,
 "label": "Michael Herrera",
 "note": "THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.",
-"predicate": "alleged_tie",
-"predicateSide": "either",
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-02",
@@ -869,7 +869,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is alleged to be tied to"
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -1272,13 +1272,13 @@
 "direction": "out",
 "edgeId": "e-6e71962f2c",
 "edgeLabel": "The 'outside of government so the technology could remain proprietary' formulation is what the eminent domain provision was written to defeat",
-"family": "place-time",
+"family": "analysis",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Section 9010 asserts federal eminent domain over recovered technologies 'controlled by private persons or entities.' Reasoning: the legislative remedy matches the mechanism AARO records interviewees describing; no drafting record ties the two documents.",
-"predicate": "responded_to",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-07-27",
@@ -1293,7 +1293,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "drew a response from"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -1303,12 +1303,12 @@
 "direction": "in",
 "edgeId": "e-dc422e2331",
 "edgeLabel": "AARO's 2024 finding restates the 1994-1997 Air Force position",
-"family": "testimony",
+"family": "documents",
 "id": "usaf-roswell-reports",
 "l0": false,
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "note": "Twenty-seven years later the successor office reaffirmed the MOGUL attribution without new primary records, because the primary records GAO identified as destroyed have not been recovered.",
-"predicate": "corroborated",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1324,7 +1324,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "corroborates"
+"verb": "cites"
 },
 {
 "claimTier": 1,

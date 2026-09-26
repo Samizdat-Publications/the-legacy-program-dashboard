@@ -108,7 +108,7 @@
 "l0": false,
 "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
 "note": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +119,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -134,7 +134,7 @@
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +145,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 1,

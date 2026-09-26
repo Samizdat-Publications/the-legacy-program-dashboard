@@ -32,13 +32,13 @@
 "direction": "out",
 "edgeId": "e-397aa273bc",
 "edgeLabel": "Participant at the Institute's inaugural conference, January 1957",
-"family": "role",
+"family": "conduct",
 "id": "institute-of-field-physics",
 "l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
-"predicate": "member_of",
-"predicateSide": "subject",
+"predicate": "in_contact_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -48,7 +48,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was a member of"
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -58,12 +58,12 @@
 "direction": "out",
 "edgeId": "e-44a537068b",
 "edgeLabel": "Both printed on the same forty-six-name participants list",
-"family": "conduct",
+"family": "place-time",
 "id": "louis-witten",
 "l0": false,
 "label": "Louis Witten",
 "note": "Both are printed on the same forty-six-name participants list.",
-"predicate": "in_contact_with",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -74,7 +74,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was in contact with"
+"verb": "happened alongside"
 }
 ],
 "date": "1957-01-18",

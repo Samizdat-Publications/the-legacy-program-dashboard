@@ -87,12 +87,12 @@
 "direction": "in",
 "edgeId": "e-f48b2b0d7c",
 "edgeLabel": "the report is the source of the three-office model",
-"family": "organisation",
+"family": "analysis",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
-"predicate": "produced",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was produced by"
+"verb": "has as an instance"
 }
 ],
 "coords": null,

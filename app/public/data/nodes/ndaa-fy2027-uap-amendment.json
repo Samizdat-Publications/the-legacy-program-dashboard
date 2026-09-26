@@ -40,7 +40,7 @@
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "The only proposed mechanism that would convert FFRDC holdings into records reachable by an independent review board with subpoena power, without sponsoring-agency consent.",
-"predicate": "affects",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "affects"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,

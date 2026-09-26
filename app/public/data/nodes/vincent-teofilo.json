@@ -43,7 +43,7 @@
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either.",
-"predicate": "funded",
+"predicate": "contracted",
 "predicateSide": "object",
 "sources": [
 {
@@ -64,7 +64,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was funded by"
+"verb": "was contracted by"
 },
 {
 "claimTier": 2,

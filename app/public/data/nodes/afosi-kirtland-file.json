@@ -47,12 +47,12 @@
 "direction": "in",
 "edgeId": "e-98f2a0d120",
 "edgeLabel": "AFOSI is the originating agency of the released Kirtland UFO file",
-"family": "custody",
+"family": "documents",
 "id": "afosi",
 "l0": true,
 "label": "Air Force Office of Special Investigations",
 "note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
-"predicate": "holds",
+"predicate": "released",
 "predicateSide": "object",
 "sources": [
 {
@@ -68,7 +68,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is held by"
+"verb": "was released by"
 },
 {
 "claimTier": 2,
@@ -130,12 +130,12 @@
 "direction": "in",
 "edgeId": "e-b8b3af9d03",
 "edgeLabel": "Bennewitz's reporting generated the AFOSI Kirtland file",
-"family": "testimony",
+"family": "place-time",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting.",
-"predicate": "brought_to_record",
+"predicate": "led_to",
 "predicateSide": "object",
 "sources": [
 {
@@ -151,7 +151,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "followed from"
 },
 {
 "claimTier": 2,

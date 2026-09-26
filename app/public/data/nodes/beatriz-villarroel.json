@@ -125,7 +125,7 @@
 "l0": false,
 "label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
-"predicate": "led",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "led"
+"verb": "held a post at"
 }
 ],
 "date": "2025-10-20",

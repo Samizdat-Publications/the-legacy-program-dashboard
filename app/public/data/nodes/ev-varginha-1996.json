@@ -59,13 +59,13 @@
 "direction": "out",
 "edgeId": "e-e71299ed35",
 "edgeLabel": "1996 witnesses testify to US legislators thirty years later",
-"family": "place-time",
+"family": "testimony",
 "id": "ev-varginha-capitol-2026",
 "l0": false,
 "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
 "note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
-"predicate": "led_to",
-"predicateSide": "subject",
+"predicate": "brought_to_record",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -75,7 +75,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "led to"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,

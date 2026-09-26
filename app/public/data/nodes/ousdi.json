@@ -109,13 +109,13 @@
 "direction": "out",
 "edgeId": "e-05472f762d",
 "edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
-"family": "role",
+"family": "oversight",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 assigns SAP policy responsibilities across OSD principals including the Under Secretary of Defense for Intelligence and Security, while vesting central management in DoD SAPCO under DEPSECDEF.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "oversaw",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-09-12",
@@ -125,7 +125,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -171,8 +171,8 @@
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
-"predicate": "made_claims_about",
-"predicateSide": "object",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-06-19",
@@ -182,7 +182,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is the subject of claims by"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 1,
@@ -218,13 +218,13 @@
 "direction": "out",
 "edgeId": "e-3aca902dec",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment",
-"family": "oversight",
+"family": "role",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
-"predicate": "reports_to",
-"predicateSide": "subject",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-06-25",
@@ -234,7 +234,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "reports to"
+"verb": "worked with"
 }
 ],
 "coords": null,

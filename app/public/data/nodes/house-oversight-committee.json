@@ -211,7 +211,7 @@
 "l0": false,
 "label": "Jamin Ben Raskin",
 "note": "Raskin took two full rounds of questioning at the 26 July 2023 subcommittee hearing.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -222,7 +222,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 2,
@@ -377,7 +377,7 @@
 "l0": false,
 "label": "Robert Garcia",
 "note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -388,7 +388,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -403,8 +403,8 @@
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Documented by Luna on 9 September 2025; corroborated by Burlison's 2024 AARO briefing block and his 2025 non-germane amendment ruling.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "exemplifies",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -414,7 +414,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -491,7 +491,7 @@
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "object",
 "sources": [
 {
@@ -502,7 +502,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -512,13 +512,13 @@
 "direction": "in",
 "edgeId": "e-ae5b455dc0",
 "edgeLabel": "not a defense committee; receives nothing under 10 U.S.C. 119",
-"family": "analysis",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -533,7 +533,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "falls outside"
 }
 ],
 "coords": null,

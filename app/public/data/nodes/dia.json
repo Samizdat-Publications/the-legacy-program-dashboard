@@ -183,12 +183,12 @@
 "direction": "out",
 "edgeId": "e-08b89c5713",
 "edgeLabel": "published and holds; DIA-08-1003-007",
-"family": "custody",
+"family": "documents",
 "id": "dird-advanced-nuclear-propulsion-for-manned-deep",
 "l0": false,
 "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -204,7 +204,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -214,12 +214,12 @@
 "direction": "out",
 "edgeId": "e-b3d1c303ac",
 "edgeLabel": "published and holds; DIA-08-1003-015",
-"family": "custody",
+"family": "documents",
 "id": "dird-advanced-space-propulsion-based-on-vacuum",
 "l0": false,
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -235,7 +235,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -245,12 +245,12 @@
 "direction": "out",
 "edgeId": "e-481df679bd",
 "edgeLabel": "published and holds; DIA-08-0911-016",
-"family": "custody",
+"family": "documents",
 "id": "dird-aerospace-applications-of-programmable-matter",
 "l0": false,
 "label": "Aerospace Applications of Programmable Matter",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -266,7 +266,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -276,12 +276,12 @@
 "direction": "out",
 "edgeId": "e-df8b80bb96",
 "edgeLabel": "published and holds; document number not recoverable",
-"family": "custody",
+"family": "documents",
 "id": "dird-an-introduction-to-the-statistical-drake",
 "l0": false,
 "label": "An Introduction to the Statistical Drake Equation",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -297,7 +297,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -307,12 +307,12 @@
 "direction": "out",
 "edgeId": "e-99b8cc33d1",
 "edgeLabel": "published and holds; DIA-08-1011-003",
-"family": "custody",
+"family": "documents",
 "id": "dird-aneutronic-fusion-propulsion",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -328,7 +328,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -338,12 +338,12 @@
 "direction": "out",
 "edgeId": "e-94108c02a5",
 "edgeLabel": "published and holds; DIA-08-1011-004",
-"family": "custody",
+"family": "documents",
 "id": "dird-aneutronic-fusion-propulsion-2",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -359,7 +359,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -369,12 +369,12 @@
 "direction": "out",
 "edgeId": "e-517f496d13",
 "edgeLabel": "published and holds; document number not recoverable",
-"family": "custody",
+"family": "documents",
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "l0": false,
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -390,7 +390,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -400,12 +400,12 @@
 "direction": "out",
 "edgeId": "e-ba96b8315b",
 "edgeLabel": "published and holds; DIA-08-1003-018",
-"family": "custody",
+"family": "documents",
 "id": "dird-antigravity-for-aerospace-applications",
 "l0": true,
 "label": "Antigravity for Aerospace Applications",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -421,7 +421,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "holds"
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -818,7 +818,7 @@
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
-"predicate": "refused",
+"predicate": "omitted",
 "predicateSide": "subject",
 "sources": [
 {
@@ -829,7 +829,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "leaves out"
 },
 {
 "claimTier": 1,
@@ -922,13 +922,13 @@
 "direction": "in",
 "edgeId": "e-151882c234",
 "edgeLabel": "Radiance is a mid-tier technical prime in the space where compartmented analytical tasks are placed",
-"family": "other",
+"family": "money",
 "id": "radiance-technologies",
 "l0": false,
 "label": "Radiance Technologies, Inc.",
 "note": "Reasoning: roughly $2.6 billion in prime obligations since FY2008 across intelligence, sensors and advanced concepts. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but no primary personnel record has been located and none is asserted.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "contracted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -938,7 +938,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "is connected to"
+"verb": "contracted"
 },
 {
 "claimTier": 1,

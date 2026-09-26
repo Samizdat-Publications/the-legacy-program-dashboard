@@ -56,12 +56,12 @@
 "direction": "out",
 "edgeId": "e-8b36f8d849",
 "edgeLabel": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
-"family": "conduct",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
-"predicate": "in_contact_with",
+"predicate": "worked_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -82,12 +82,12 @@
 "direction": "out",
 "edgeId": "e-4784735fe2",
 "edgeLabel": "First Director of the Psychological Strategy Board, appointed 1951",
-"family": "role",
+"family": "analysis",
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
-"predicate": "led",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,7 +98,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,

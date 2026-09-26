@@ -42,12 +42,12 @@
 "direction": "out",
 "edgeId": "e-72773b3fd6",
 "edgeLabel": "Site to container to shelf",
-"family": "analysis",
+"family": "place-time",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
-"predicate": "affects",
+"predicate": "led_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -58,7 +58,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "affects"
+"verb": "led to"
 },
 {
 "claimTier": 2,

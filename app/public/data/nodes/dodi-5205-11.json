@@ -284,7 +284,7 @@
 "l0": false,
 "label": "Senior Review Group (DoD SAP governance)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -295,7 +295,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 1,

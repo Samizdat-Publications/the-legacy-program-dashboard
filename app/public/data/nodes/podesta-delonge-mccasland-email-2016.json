@@ -79,12 +79,12 @@
 "direction": "out",
 "edgeId": "e-14448fc00e",
 "edgeLabel": "Addressee of the McCasland email and organiser of the 25 January 2016 meeting",
-"family": "documents",
+"family": "oversight",
 "id": "john-podesta",
 "l0": false,
 "label": "John D. Podesta",
 "note": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
-"predicate": "concerns",
+"predicate": "reports_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "concerns"
+"verb": "reports to"
 },
 {
 "claimTier": 2,
@@ -131,12 +131,12 @@
 "direction": "out",
 "edgeId": "e-09a73a6e36",
 "edgeLabel": "Rob Weiss of Lockheed Skunk Works copied on the meeting thread and named by DeLonge",
-"family": "documents",
+"family": "testimony",
 "id": "lockheed-skunk-works",
 "l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "concerns"
+"verb": "made claims about"
 },
 {
 "claimTier": 1,

@@ -53,13 +53,13 @@
 "direction": "in",
 "edgeId": "e-98ad34a71e",
 "edgeLabel": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
-"family": "denial",
+"family": "organisation",
 "id": "belgian-af-f16-intercept-1990",
 "l0": false,
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "note": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
-"predicate": "omitted",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2000-01-01",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "leaves out"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -79,12 +79,12 @@
 "direction": "in",
 "edgeId": "e-7de8ba3f80",
 "edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
-"family": "custody",
+"family": "organisation",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
-"predicate": "holds",
+"predicate": "part_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "holds"
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -162,7 +162,7 @@
 "l0": false,
 "label": "Spanish Ministry of Defence UFO file declassification",
 "note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
-"predicate": "concerns",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,7 +173,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "concerns"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -183,13 +183,13 @@
 "direction": "out",
 "edgeId": "e-011ee4dad4",
 "edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
-"family": "denial",
+"family": "documents",
 "id": "uk-mod",
 "l0": false,
 "label": "United Kingdom Ministry of Defence",
 "note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
-"predicate": "denied",
-"predicateSide": "object",
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2006-05-15",
@@ -199,7 +199,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was denied by"
+"verb": "concerns"
 },
 {
 "claimTier": 1,

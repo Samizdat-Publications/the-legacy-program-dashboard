@@ -354,13 +354,13 @@
 "direction": "in",
 "edgeId": "e-5b25da505b",
 "edgeLabel": "2007 approach that originated the contract",
-"family": "conduct",
+"family": "oversight",
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "requested",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-01",
@@ -370,7 +370,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "received a request from"
 },
 {
 "claimTier": 2,
@@ -473,12 +473,12 @@
 "direction": "out",
 "edgeId": "e-581497930d",
 "edgeLabel": "founded and privately funded NIDS 1995-2004",
-"family": "role",
+"family": "money",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
-"predicate": "founded",
+"predicate": "funded",
 "predicateSide": "subject",
 "sources": [
 {
@@ -499,7 +499,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "founded"
+"verb": "funded"
 }
 ],
 "date": "2008-09-22",

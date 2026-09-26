@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-8728c3e910",
 "edgeLabel": "Excludes Restricted Data from the executive classification system",
-"family": "other",
+"family": "organisation",
 "id": "atomic-energy-act-1954",
 "l0": false,
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "note": "Section 13 leaves Atomic Energy Act Restricted Data outside the order's reach. This is the seam between the two regimes: one body of information in United States law is classified by statute and not by executive order, and the executive order says so itself. Note the order predates the 1954 Act by ten months and the exclusion runs to the Atomic Energy Act as it then stood.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -74,7 +74,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is connected to"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -84,12 +84,12 @@
 "direction": "out",
 "edgeId": "e-16b4c774e4",
 "edgeLabel": "Fixes the three categories and takes classification authority away from 28 agencies",
-"family": "law",
+"family": "analysis",
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "Section 1 bars any designation other than Top Secret, Secret and Confidential 'except as expressly provided by statute'. Section 2 provides that agencies without direct national-defense responsibility have no original classification authority at all, and the attached memorandum names 28 of them.",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,7 +100,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "governs"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,

@@ -163,12 +163,12 @@
 "direction": "in",
 "edgeId": "e-40b1d3b3a8",
 "edgeLabel": "Co-witness, 26 July 2023 hearing panel",
-"family": "conduct",
+"family": "analysis",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
-"predicate": "in_contact_with",
+"predicate": "parallels",
 "predicateSide": "either",
 "sources": [
 {
@@ -179,7 +179,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "was in contact with"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -313,12 +313,12 @@
 "direction": "out",
 "edgeId": "e-c96292e7fb",
 "edgeLabel": "Set the four-element test: provenance, sensor context, metadata, chain of custody",
-"family": "denial",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
-"predicate": "disputed",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -329,7 +329,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "disputes"
+"verb": "affects"
 },
 {
 "claimTier": 1,

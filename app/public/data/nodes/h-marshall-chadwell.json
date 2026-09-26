@@ -161,13 +161,13 @@
 "direction": "in",
 "edgeId": "e-771646ed71",
 "edgeLabel": "The flap put the CIA's science directorate onto the problem",
-"family": "place-time",
+"family": "oversight",
 "id": "washington-flap-1952",
 "l0": false,
 "label": "1952 Washington DC Sightings",
 "note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
-"predicate": "led_to",
-"predicateSide": "object",
+"predicate": "investigated",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1952-09-11",
@@ -177,7 +177,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "followed from"
+"verb": "investigated"
 }
 ],
 "date": "1952-12-02",

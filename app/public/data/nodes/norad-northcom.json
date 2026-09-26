@@ -87,12 +87,12 @@
 "direction": "out",
 "edgeId": "e-c8394a3a8c",
 "edgeLabel": "Produced by the 24th NORAD Region's own senior directors",
-"family": "documents",
+"family": "organisation",
 "id": "doc-norad-24th-log-1975",
 "l0": false,
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
-"predicate": "wrote",
+"predicate": "produced",
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "wrote"
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -175,12 +175,12 @@
 "direction": "in",
 "edgeId": "e-6f55bf24d3",
 "edgeLabel": "demands an intercept history since 2004",
-"family": "law",
+"family": "documents",
 "id": "ndaa26-uap-provisions",
 "l0": false,
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
-"predicate": "mandated",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -191,7 +191,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is required by"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -237,12 +237,12 @@
 "direction": "in",
 "edgeId": "e-5096558a18",
 "edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
-"family": "organisation",
+"family": "place-time",
 "id": "shootdowns-feb-2023",
 "l0": false,
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
-"predicate": "ran",
+"predicate": "responded_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -253,7 +253,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "ran"
+"verb": "responded to"
 }
 ],
 "coords": null,

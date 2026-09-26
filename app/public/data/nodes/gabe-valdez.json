@@ -38,12 +38,12 @@
 "direction": "out",
 "edgeId": "e-7403f1c300",
 "edgeLabel": "New Mexico State Police officer stationed at Dulce from 1976",
-"family": "role",
+"family": "place-time",
 "id": "l-dulce",
 "l0": false,
 "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
 "note": "The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.",
-"predicate": "held_post",
+"predicate": "located_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -54,7 +54,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "is located at"
 }
 ],
 "date": null,

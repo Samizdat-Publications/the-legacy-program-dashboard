@@ -61,12 +61,12 @@
 "direction": "out",
 "edgeId": "e-843215b95d",
 "edgeLabel": "inspected Lockheed's other contracts while excluded from its special access contract",
-"family": "oversight",
+"family": "organisation",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
-"predicate": "investigated",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -77,7 +77,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "investigated"
+"verb": "falls outside"
 }
 ],
 "coords": null,

@@ -55,12 +55,12 @@
 "direction": "in",
 "edgeId": "e-a4e1cc5b45",
 "edgeLabel": "Gerb documented the first-hand witness account",
-"family": "testimony",
+"family": "media",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 17 July 2024 based on witness 'RA', a US Army Green Beret describing an underground division near Crane, Indiana holding two non-human artifacts, 2013-2015.",
-"predicate": "brought_to_record",
+"predicate": "reported_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -71,7 +71,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was brought to the record by"
+"verb": "was reported on by"
 }
 ],
 "coords": null,

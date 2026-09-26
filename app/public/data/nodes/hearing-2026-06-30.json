@@ -55,12 +55,12 @@
 "direction": "out",
 "edgeId": "e-6f72b68362",
 "edgeLabel": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
-"family": "oversight",
+"family": "documents",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
-"predicate": "investigated",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -71,7 +71,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "investigated"
+"verb": "concerns"
 },
 {
 "claimTier": 1,

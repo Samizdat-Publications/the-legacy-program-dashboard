@@ -29,13 +29,13 @@
 "direction": "in",
 "edgeId": "e-2c17e6bb88",
 "edgeLabel": "Not informed at the time, and no threat to the UK",
-"family": "place-time",
+"family": "organisation",
 "id": "belgian-af-f16-intercept-1990",
 "l0": false,
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
-"predicate": "responded_to",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-08-17",
@@ -45,7 +45,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "responded to"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -55,13 +55,13 @@
 "direction": "in",
 "edgeId": "e-011ee4dad4",
 "edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
-"family": "denial",
+"family": "documents",
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
-"predicate": "denied",
-"predicateSide": "subject",
+"predicate": "concerns",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2006-05-15",
@@ -71,7 +71,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "denied"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,

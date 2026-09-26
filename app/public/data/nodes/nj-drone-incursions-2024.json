@@ -72,8 +72,8 @@
 "l0": false,
 "label": "Joint Interagency Task Force 401 (JIATF-401)",
 "note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
-"predicate": "led_to",
-"predicateSide": "subject",
+"predicate": "responded_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -88,7 +88,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "led to"
+"verb": "drew a response from"
 },
 {
 "claimTier": 1,

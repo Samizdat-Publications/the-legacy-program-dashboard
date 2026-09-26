@@ -72,8 +72,8 @@
 "l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "Listed under ARDC CENTERS as 'WADD, Wright-Patterson AFB, Ohio'.",
-"predicate": "transferred",
-"predicateSide": "object",
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1959-06-19",
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "received records or material from"
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -176,13 +176,13 @@
 "direction": "in",
 "edgeId": "e-a028df5723",
 "edgeLabel": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
-"family": "place-time",
+"family": "other",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
-"predicate": "located_at",
-"predicateSide": "object",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2009-05-21",
@@ -197,7 +197,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is the location of"
+"verb": "is connected to"
 },
 {
 "claimTier": 2,
@@ -212,7 +212,7 @@
 "l0": false,
 "label": "Bolender Memorandum",
 "note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base's own reporting architecture.",
-"predicate": "denied",
+"predicate": "refused",
 "predicateSide": "object",
 "sources": [
 {
@@ -223,7 +223,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was denied by"
+"verb": "was refused by"
 },
 {
 "claimTier": 3,
@@ -238,8 +238,8 @@
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch testified he knows the exact locations of held material and provided them to the Inspector General; the one corroborator whose duty station is public serves at NASIC, Wright-Patterson. Reasoning: the geography is suggestive and no document places Grusch's locations at Wright-Patterson.",
-"predicate": "made_claims_about",
-"predicateSide": "object",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-06-05",
@@ -254,7 +254,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is the subject of claims by"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 1,
@@ -560,7 +560,7 @@
 "l0": false,
 "label": "William Neil McCasland",
 "note": "AFRL at Wright-Patterson is the single installation most persistently named in the legacy recovery literature.",
-"predicate": "led",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -571,7 +571,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was led by"
+"verb": "had in a post"
 }
 ],
 "coords": [

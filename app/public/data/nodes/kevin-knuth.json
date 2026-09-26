@@ -130,12 +130,12 @@
 "direction": "out",
 "edgeId": "e-c52d85dd3c",
 "edgeLabel": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
-"family": "testimony",
+"family": "conduct",
 "id": "scu-uap-studies",
 "l0": false,
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
-"predicate": "acknowledged",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -146,7 +146,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was acknowledged by"
+"verb": "was supported by"
 },
 {
 "claimTier": 2,

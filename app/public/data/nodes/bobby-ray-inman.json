@@ -130,7 +130,7 @@
 "l0": true,
 "label": "National Security Agency",
 "note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -156,7 +156,7 @@
 "l0": false,
 "label": "Science Applications International Corporation",
 "note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -172,7 +172,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 }
 ],
 "date": "1981-02-03",

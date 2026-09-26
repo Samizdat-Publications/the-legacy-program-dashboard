@@ -118,7 +118,7 @@
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Confirms the $22M, the Reid direction, the contractor's UFO work and the ranch — then terminates the story with 'concerns about the project' and names no one.",
-"predicate": "explained_away",
+"predicate": "omitted",
 "predicateSide": "object",
 "sources": [
 {
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was given a conventional explanation by"
+"verb": "is left out of"
 },
 {
 "claimTier": 1,
@@ -222,13 +222,13 @@
 "direction": "out",
 "edgeId": "e-2d91026357",
 "edgeLabel": "",
-"family": "law",
+"family": "money",
 "id": "aawsap-contract",
 "l0": false,
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
-"predicate": "created",
-"predicateSide": "object",
+"predicate": "contracted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-09-02",
@@ -243,7 +243,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was created by"
+"verb": "contracted"
 },
 {
 "claimTier": 1,
@@ -310,13 +310,13 @@
 "direction": "out",
 "edgeId": "e-91256df644",
 "edgeLabel": "",
-"family": "organisation",
+"family": "money",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.",
-"predicate": "ran",
-"predicateSide": "object",
+"predicate": "contracted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2008-08-18",
@@ -331,7 +331,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was run by"
+"verb": "contracted"
 },
 {
 "claimTier": 1,
@@ -1878,7 +1878,7 @@
 "l0": false,
 "label": "Las Vegas, Nevada",
 "note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
-"predicate": "located_at",
+"predicate": "occurred_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -1899,7 +1899,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is located at"
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -2033,12 +2033,12 @@
 "direction": "out",
 "edgeId": "e-7de7d7ba16",
 "edgeLabel": "the program the New York Times revealed",
-"family": "documents",
+"family": "testimony",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The 16 December 2017 story named the program, the $22M, Reid and Bigelow, and forced DIA to write the Senate Armed Services Committee three weeks later.",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -2049,7 +2049,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -2136,7 +2136,7 @@
 "l0": false,
 "label": "Vincent L. Teofilo",
 "note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either.",
-"predicate": "funded",
+"predicate": "contracted",
 "predicateSide": "subject",
 "sources": [
 {
@@ -2157,7 +2157,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "funded"
+"verb": "contracted"
 },
 {
 "claimTier": 1,

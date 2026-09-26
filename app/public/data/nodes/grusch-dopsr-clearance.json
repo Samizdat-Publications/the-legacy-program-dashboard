@@ -61,12 +61,12 @@
 "direction": "in",
 "edgeId": "e-33aa14cb00",
 "edgeLabel": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
-"family": "organisation",
+"family": "documents",
 "id": "dopsr",
 "l0": false,
 "label": "Defense Office of Prepublication and Security Review",
 "note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
-"predicate": "produced",
+"predicate": "released",
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +82,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "was released by"
 }
 ],
 "coords": null,

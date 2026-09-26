@@ -35,12 +35,12 @@
 "direction": "out",
 "edgeId": "e-01047e524d",
 "edgeLabel": "The provision named derived propulsion work as a defunding category",
-"family": "law",
+"family": "analysis",
 "id": "aerojet-rocketdyne",
 "l0": false,
 "label": "Aerojet Rocketdyne",
 "note": "Sec. 1104(c) targets propulsion 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
-"predicate": "governs",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "governs"
+"verb": "affects"
 },
 {
 "claimTier": 1,
@@ -66,7 +66,7 @@
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,7 +82,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 1,

@@ -41,8 +41,8 @@
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "NASA's announcement of the 16-member independent study team describes Anamaria Berea as 'an associate professor of Computational and Data Science at George Mason University in Fairfax, Virginia', 'a research affiliate with the SETI Institute' and 'a research investigator with Blue Marble Space Institute of Science in Seattle'. Worth noting for anyone checking: the team's final report of September 2023 lists her affiliation as George Mason University alone, and does not mention Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's; the Blue Marble tie is in the announcement, not the report.",
-"predicate": "member_of",
-"predicateSide": "subject",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2022-10-21",
@@ -62,7 +62,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was a member of"
+"verb": "worked with"
 }
 ],
 "coords": null,

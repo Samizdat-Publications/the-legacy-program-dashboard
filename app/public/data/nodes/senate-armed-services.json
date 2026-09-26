@@ -102,7 +102,7 @@
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
-"predicate": "mandated",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -113,7 +113,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is required by"
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -149,12 +149,12 @@
 "direction": "in",
 "edgeId": "e-d122cf1fbf",
 "edgeLabel": "Disposed of with seventeen amendments and no open process",
-"family": "law",
+"family": "denial",
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
-"predicate": "governs",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,7 +165,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "governs"
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -175,12 +175,12 @@
 "direction": "in",
 "edgeId": "e-8832e2477f",
 "edgeLabel": "Defense committee receiving waived-SAP notification",
-"family": "organisation",
+"family": "role",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Same statutory provision; four committees, eight members.",
-"predicate": "part_of",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -191,7 +191,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is part of"
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -201,13 +201,13 @@
 "direction": "out",
 "edgeId": "e-5da44eaee1",
 "edgeLabel": "Never reported the Act; it existed only as a floor amendment",
-"family": "other",
+"family": "organisation",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "No standalone UAP disclosure bill exists in the Senate in the 118th or 119th Congress, and no committee has ever marked the text up.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -222,7 +222,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "does not include"
 },
 {
 "claimTier": 1,

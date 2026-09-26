@@ -109,13 +109,13 @@
 "direction": "in",
 "edgeId": "e-f8af998cf3",
 "edgeLabel": "Custodian of the Fouche file, under a named operator",
-"family": "other",
+"family": "custody",
 "id": "checktheevidence",
 "l0": false,
 "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
 "note": "Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-02-11",
@@ -125,7 +125,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is connected to"
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -166,7 +166,7 @@
 "l0": false,
 "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
 "note": "INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
-"predicate": "wrote",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -177,7 +177,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "wrote"
+"verb": "published"
 },
 {
 "claimTier": 2,

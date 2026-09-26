@@ -68,7 +68,7 @@
 "label": "Freedom of Information Practice",
 "note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
 "predicate": "affects",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1981-11-03",
@@ -78,7 +78,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is affected by"
+"verb": "affects"
 },
 {
 "claimTier": 1,

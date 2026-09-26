@@ -110,12 +110,12 @@
 "direction": "out",
 "edgeId": "e-6822c0b550",
 "edgeLabel": "The category this Act invented is the one the executive order cannot reach",
-"family": "law",
+"family": "organisation",
 "id": "eo-13526",
 "l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
-"predicate": "governs",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,7 +126,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -162,12 +162,12 @@
 "direction": "in",
 "edgeId": "e-35135fea70",
 "edgeLabel": "Approved the same day as the Atomic Energy Act of 1946",
-"family": "other",
+"family": "place-time",
 "id": "office-of-naval-research",
 "l0": false,
 "label": "Office of Naval Research",
 "note": "Both statutes are in Statutes at Large volume 60 and both carry the approval date 1 August 1946: the Atomic Energy Act at page 755 and the Office of Naval Research Act at page 779. The triage row that proposed this node dated ONR two days later; the page itself says otherwise.",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -178,7 +178,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "is connected to"
+"verb": "happened alongside"
 }
 ],
 "coords": null,

@@ -162,8 +162,8 @@
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Air Force, Navy and Army each run a component of the effort, and the Pentagon renamed it from prompt global strike to prompt strike in 2012.",
-"predicate": "ran",
-"predicateSide": "object",
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-07-16",
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was run by"
+"verb": "is part of"
 }
 ],
 "coords": null,

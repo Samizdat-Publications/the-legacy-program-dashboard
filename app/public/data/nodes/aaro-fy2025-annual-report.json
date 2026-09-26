@@ -305,12 +305,12 @@
 "direction": "out",
 "edgeId": "e-d11af2add4",
 "edgeLabel": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
-"family": "denial",
+"family": "testimony",
 "id": "aaro-2026-posture",
 "l0": false,
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
-"predicate": "denied",
+"predicate": "contradicts",
 "predicateSide": "subject",
 "sources": [
 {
@@ -321,7 +321,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "denied"
+"verb": "contradicts"
 },
 {
 "claimTier": 1,
@@ -424,8 +424,8 @@
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "She wrote to the Secretary of War on 31 March 2026 demanding more than 46 UAP videos by 14 April; the deadline passed with an offer of a future briefing, and the FY2025 report appeared in July.",
-"predicate": "preceded",
-"predicateSide": "object",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-04-14",
@@ -440,7 +440,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "came after"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -533,12 +533,12 @@
 "direction": "in",
 "edgeId": "e-ddb80ccfeb",
 "edgeLabel": "two years after GREMLIN, the FY2025 report still cites lack of sensor data as the binding constraint",
-"family": "place-time",
+"family": "analysis",
 "id": "gremlin-program",
 "l0": false,
 "label": "GREMLIN",
 "note": "AARO's stated remedy for its permanent excuse has produced no published result; the excuse is unchanged in the July 2026 report.",
-"predicate": "preceded",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -549,7 +549,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "came after"
+"verb": "is affected by"
 },
 {
 "claimTier": 3,
@@ -595,12 +595,12 @@
 "direction": "in",
 "edgeId": "e-78ceff23b1",
 "edgeLabel": "Established publicly that the FY2025 report was released months late",
-"family": "oversight",
+"family": "media",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy.",
-"predicate": "investigated",
+"predicate": "reported_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -616,7 +616,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "was reported on by"
 },
 {
 "claimTier": 1,
@@ -729,8 +729,8 @@
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "Every AARO annual report reproduces the Preliminary Assessment's move of attributing non-resolution to limited and inconsistent data rather than to any property of the objects.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-06-25",
@@ -745,7 +745,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "is affected by"
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -817,12 +817,12 @@
 "direction": "in",
 "edgeId": "e-9dc389691f",
 "edgeLabel": "sole maritime case in the report",
-"family": "media",
+"family": "documents",
 "id": "virginia-coast-uap-2026",
 "l0": false,
 "label": "Navy UAP event off the Virginia coast (reported July 2026)",
 "note": "AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.",
-"predicate": "reported_on",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -833,7 +833,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "reported on"
+"verb": "concerns"
 }
 ],
 "coords": null,

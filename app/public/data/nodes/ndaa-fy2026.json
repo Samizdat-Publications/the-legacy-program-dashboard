@@ -127,12 +127,12 @@
 "direction": "out",
 "edgeId": "e-96a9c74f02",
 "edgeLabel": "repeals 50 U.S.C. 3373a",
-"family": "organisation",
+"family": "law",
 "id": "iaa-2022",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
 "note": "PL 119-60 sec. 1672(a): 'Section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (division X of Public Law 117-103; 50 U.S.C. 3373a) is repealed.'",
-"predicate": "succeeded",
+"predicate": "amended",
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,7 +143,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "succeeded"
+"verb": "amended"
 },
 {
 "claimTier": 2,
@@ -277,13 +277,13 @@
 "direction": "in",
 "edgeId": "e-daa0a085a2",
 "edgeLabel": "Chaired SASC for the FY2026 authorization",
-"family": "law",
+"family": "other",
 "id": "roger-wicker",
 "l0": false,
 "label": "Roger F. Wicker",
 "note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
-"predicate": "sponsored_law",
-"predicateSide": "object",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-12-18",
@@ -298,7 +298,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was sponsored by"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -308,12 +308,12 @@
 "direction": "out",
 "edgeId": "e-d122cf1fbf",
 "edgeLabel": "Disposed of with seventeen amendments and no open process",
-"family": "law",
+"family": "denial",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
-"predicate": "governs",
+"predicate": "refused",
 "predicateSide": "object",
 "sources": [
 {
@@ -324,7 +324,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is governed by"
+"verb": "was refused by"
 },
 {
 "claimTier": 1,

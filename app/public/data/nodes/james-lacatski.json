@@ -335,7 +335,7 @@
 "l0": false,
 "label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
 "note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.",
-"predicate": "wrote",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -346,7 +346,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "wrote"
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -356,13 +356,13 @@
 "direction": "out",
 "edgeId": "e-5b25da505b",
 "edgeLabel": "2007 approach that originated the contract",
-"family": "conduct",
+"family": "oversight",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "requested",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-01",
@@ -372,7 +372,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "made a request of"
 },
 {
 "claimTier": 2,

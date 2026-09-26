@@ -61,7 +61,7 @@
 "label": "John Greenewald Jr.",
 "note": "The Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office released the memo in September 1997 under case 97-F-1677.",
 "predicate": "brought_to_record",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-11-11",
@@ -71,7 +71,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was brought to the record by"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,

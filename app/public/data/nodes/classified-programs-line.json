@@ -64,8 +64,8 @@
 "l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 4001 authorises obligation of amounts in the funding tables and applies to any classified annex accompanying the Act; the printed tables show only 'CLASSIFIED PROGRAMS' and a number, the annex shows the programme detail. Attested by the enacted text.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "same_as",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-12-18",
@@ -75,7 +75,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is part of"
+"verb": "is the same as"
 },
 {
 "claimTier": 1,
@@ -85,12 +85,12 @@
 "direction": "in",
 "edgeId": "e-a3f5cbdc15",
 "edgeLabel": "The Department is the account holder for every published classified line",
-"family": "money",
+"family": "custody",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "All 25 'CLASSIFIED PROGRAMS' rows in the FY2026 funding tables sit in Department of Defense appropriation accounts - Army, Navy, Air Force, Space Force, Defense-Wide and Special Operations. Attested by the enacted funding tables.",
-"predicate": "funded",
+"predicate": "holds",
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +101,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was funded by"
+"verb": "is held by"
 },
 {
 "claimTier": 3,

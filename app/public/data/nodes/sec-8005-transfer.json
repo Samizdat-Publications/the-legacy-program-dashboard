@@ -47,12 +47,12 @@
 "direction": "in",
 "edgeId": "e-b5c0392d90",
 "edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
-"family": "law",
+"family": "organisation",
 "id": "classified-annex",
 "l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
-"predicate": "governs",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "does not include"
 },
 {
 "claimTier": 1,

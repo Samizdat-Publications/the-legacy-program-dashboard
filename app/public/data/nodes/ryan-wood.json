@@ -48,12 +48,12 @@
 "direction": "out",
 "edgeId": "e-7637a7be80",
 "edgeLabel": "Co-principal of the document archive",
-"family": "organisation",
+"family": "role",
 "id": "majestic-documents-archive",
 "l0": false,
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "Same copyright notice and About page attribution.",
-"predicate": "ran",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -64,7 +64,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "ran"
+"verb": "held a post at"
 },
 {
 "claimTier": 2,

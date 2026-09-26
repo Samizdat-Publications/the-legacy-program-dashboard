@@ -52,7 +52,7 @@
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Everett joined MITRE at incorporation as first technical director and later became its president.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 }
 ],
 "date": "1958-07-21",

@@ -80,7 +80,7 @@
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
-"predicate": "led",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,7 +91,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "led"
+"verb": "held a post at"
 },
 {
 "claimTier": 1,

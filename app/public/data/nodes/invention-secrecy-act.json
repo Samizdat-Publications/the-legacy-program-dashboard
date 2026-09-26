@@ -78,12 +78,12 @@
 "direction": "out",
 "edgeId": "e-dc49dcfec5",
 "edgeLabel": "FAS publishes the only public series on how often the Act is used",
-"family": "documents",
+"family": "media",
 "id": "fas",
 "l0": false,
 "label": "Federation of American Scientists",
 "note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used.",
-"predicate": "studied",
+"predicate": "reported_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -94,7 +94,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was studied by"
+"verb": "was reported on by"
 },
 {
 "claimTier": 2,

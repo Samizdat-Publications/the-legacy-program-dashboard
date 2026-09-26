@@ -329,12 +329,12 @@
 "direction": "in",
 "edgeId": "e-60f84097b9",
 "edgeLabel": "Luna chaired the hearing at which the contractor allegation acquired names",
-"family": "oversight",
+"family": "role",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna chaired the Task Force on the Declassification of Federal Secrets hearing at which four witnesses testified on UAP transparency and whistleblower retaliation.",
-"predicate": "oversaw",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -355,7 +355,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was overseen by"
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -427,13 +427,13 @@
 "direction": "in",
 "edgeId": "e-889bb3d97c",
 "edgeLabel": "Present in the room as reprisal against him is entered into the record",
-"family": "documents",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "witnessed",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -443,7 +443,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "concerns"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -958,8 +958,8 @@
 "l0": false,
 "label": "PURSUE Task Force",
 "note": "Burlison warned that it is uncertain whether the NDA abrogation applies to testimony given to Congress before referral to the executive branch - a witness routed to PURSUE may be routed away from a hearing room.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-07-29",
@@ -974,7 +974,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "parallels"
 },
 {
 "claimTier": 1,

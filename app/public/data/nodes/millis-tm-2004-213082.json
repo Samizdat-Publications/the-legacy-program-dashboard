@@ -59,12 +59,12 @@
 "direction": "out",
 "edgeId": "e-623b0662f3",
 "edgeLabel": "NASA's assessment of metric engineering: enormous negative energy, extremely unlikely to be engineered",
-"family": "testimony",
+"family": "documents",
 "id": "alcubierre-1994",
 "l0": false,
 "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
 "note": "DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts 'require enormous quantities of \"negative energy\" (equivalent mass of planets or suns)' and are 'extremely unlikely to be engineered'. Alcubierre's own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents.",
-"predicate": "corroborated",
+"predicate": "cites",
 "predicateSide": "subject",
 "sources": [
 {
@@ -75,7 +75,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "corroborates"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -121,7 +121,7 @@
 "l0": false,
 "label": "Exotic Technology & Physics",
 "note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
-"predicate": "concerns",
+"predicate": "studied",
 "predicateSide": "subject",
 "sources": [
 {
@@ -132,7 +132,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "concerns"
+"verb": "studied"
 },
 {
 "claimTier": 1,
@@ -168,13 +168,13 @@
 "direction": "out",
 "edgeId": "e-63679eb61d",
 "edgeLabel": "The published summary of the project's methods and findings",
-"family": "organisation",
+"family": "documents",
 "id": "nasa-bpp",
 "l0": false,
 "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "note": "A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks.",
-"predicate": "produced",
-"predicateSide": "object",
+"predicate": "concerns",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2004",
@@ -184,7 +184,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was produced by"
+"verb": "concerns"
 },
 {
 "claimTier": 3,
@@ -225,7 +225,7 @@
 "l0": false,
 "label": "Thomas Townsend Brown",
 "note": "EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text.",
-"predicate": "denied",
+"predicate": "explained_away",
 "predicateSide": "subject",
 "sources": [
 {
@@ -236,7 +236,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "denied"
+"verb": "gave a conventional explanation for"
 }
 ],
 "coords": null,

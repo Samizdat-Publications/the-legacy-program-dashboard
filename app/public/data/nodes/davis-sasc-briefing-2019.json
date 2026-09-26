@@ -66,12 +66,12 @@
 "direction": "out",
 "edgeId": "e-63ae0cc411",
 "edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
-"family": "analysis",
+"family": "oversight",
 "id": "kirk-mcconnell",
 "l0": false,
 "label": "Kirk McConnell",
 "note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
-"predicate": "affects",
+"predicate": "reports_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,7 +87,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "affects"
+"verb": "reports to"
 }
 ],
 "coords": null,

@@ -155,13 +155,13 @@
 "direction": "in",
 "edgeId": "e-2dc09b6bdd",
 "edgeLabel": "Council announced 17 June 2026, between Releases 03 and 04",
-"family": "law",
+"family": "role",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
-"predicate": "created",
-"predicateSide": "object",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-01",
@@ -196,7 +196,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was created by"
+"verb": "worked with"
 },
 {
 "claimTier": 3,
@@ -283,12 +283,12 @@
 "direction": "out",
 "edgeId": "e-bf549df459",
 "edgeLabel": "No budget, no classified access - constitutionally unable to reach the material",
-"family": "analysis",
+"family": "organisation",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -304,7 +304,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is an instance of"
+"verb": "falls outside"
 },
 {
 "claimTier": 2,
@@ -376,7 +376,7 @@
 "l0": false,
 "label": "Matthew Szydagis",
 "note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -392,7 +392,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -402,12 +402,12 @@
 "direction": "out",
 "edgeId": "e-a804d0395f",
 "edgeLabel": "Established by ODNI with FBI support",
-"family": "role",
+"family": "law",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI announced the council following the PURSUE records releases; the FBI is named as supporting.",
-"predicate": "founded",
+"predicate": "created",
 "predicateSide": "object",
 "sources": [
 {
@@ -418,7 +418,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was founded by"
+"verb": "was created by"
 },
 {
 "claimTier": 2,
@@ -505,7 +505,7 @@
 "l0": false,
 "label": "Richard Cloete",
 "note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
-"predicate": "member_of",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -521,7 +521,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "had in a post"
 },
 {
 "claimTier": 3,
@@ -531,13 +531,13 @@
 "direction": "out",
 "edgeId": "e-6c1c8aea13",
 "edgeLabel": "third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68)",
-"family": "organisation",
+"family": "analysis",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described.",
-"predicate": "succeeded",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -547,7 +547,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "succeeded"
+"verb": "parallels"
 },
 {
 "claimTier": 1,

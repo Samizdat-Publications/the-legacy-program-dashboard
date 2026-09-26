@@ -85,12 +85,12 @@
 "direction": "in",
 "edgeId": "e-a389e61911",
 "edgeLabel": "The Air Force's own investigative file on the event",
-"family": "documents",
+"family": "oversight",
 "id": "doc-minot-1968-blue-book",
 "l0": false,
 "label": "Project Blue Book case file, Minot AFB, 24 October 1968",
 "note": "Werlich's Basic Reporting Data, the FTD final report, seven AF Form 117 questionnaires, thirteen radarscope photographs and the overlay map.",
-"predicate": "concerns",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +101,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,

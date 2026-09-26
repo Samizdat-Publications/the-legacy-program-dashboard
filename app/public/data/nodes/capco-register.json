@@ -59,12 +59,12 @@
 "direction": "out",
 "edgeId": "e-20f97512a9",
 "edgeLabel": "ISOO advises the working group that produces the marking standard",
-"family": "organisation",
+"family": "oversight",
 "id": "isoo",
 "l0": false,
 "label": "Information Security Oversight Office",
 "note": "The CAPCO Register v5.1 lists NARA/Information Security Oversight Office among the IC Classification Markings Implementation Working Group advisors.",
-"predicate": "produced",
+"predicate": "oversaw",
 "predicateSide": "object",
 "sources": [
 {
@@ -75,7 +75,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was produced by"
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,

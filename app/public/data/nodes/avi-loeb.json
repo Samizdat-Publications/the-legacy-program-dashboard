@@ -242,7 +242,7 @@
 "l0": false,
 "label": "Harvard-Smithsonian Center for Astrophysics",
 "note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -263,7 +263,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,

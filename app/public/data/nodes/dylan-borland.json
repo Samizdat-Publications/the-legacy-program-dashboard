@@ -244,13 +244,13 @@
 "direction": "out",
 "edgeId": "e-1cca3ef322",
 "edgeLabel": "The reprisal case the bill is designed to cover",
-"family": "documents",
+"family": "place-time",
 "id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
-"predicate": "concerns",
-"predicateSide": "object",
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -265,7 +265,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "is the subject of"
+"verb": "led to"
 },
 {
 "claimTier": 2,

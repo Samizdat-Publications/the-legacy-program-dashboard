@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-4f7b7cdc90",
 "edgeLabel": "The Task Force's chief scientist was employed by a Huntsville contractor",
-"family": "analysis",
+"family": "other",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Science magazine reported in June 2022 that Travis S. Taylor, a principal research scientist at Huntsville-based Radiance Technologies, was chief scientist of the UAP Task Force.",
-"predicate": "affects",
-"predicateSide": "subject",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "affects"
+"verb": "is connected to"
 }
 ],
 "coords": [

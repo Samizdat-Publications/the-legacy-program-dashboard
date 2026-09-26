@@ -55,7 +55,7 @@
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -66,7 +66,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -76,12 +76,12 @@
 "direction": "in",
 "edgeId": "e-ce38f7546c",
 "edgeLabel": "Designated the first Director of Central Intelligence",
-"family": "testimony",
+"family": "role",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates.",
-"predicate": "acknowledged",
+"predicate": "appointed",
 "predicateSide": "object",
 "sources": [
 {
@@ -92,7 +92,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was acknowledged by"
+"verb": "was appointed by"
 },
 {
 "claimTier": 3,
@@ -128,13 +128,13 @@
 "direction": "out",
 "edgeId": "e-7f55007a7e",
 "edgeLabel": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
-"family": "conduct",
+"family": "place-time",
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "preceded",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1947-09-26",
@@ -144,7 +144,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "came before"
 }
 ],
 "date": "1946-01-22",

@@ -34,7 +34,7 @@
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Division G carries two UAP sections. Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office', amends section 1683(k)(1) of the FY2022 NDAA (50 U.S.C. 3373(k)(1)) as it had already been amended by sec. 6802(a) of the IAA for FY2023. Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena', bars division funds from any UAP activity 'protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership' - the DNI is the discloser, not AARO, which the section names only in its trailing reference to 'activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024'. Subsection (c) goes further and at contractors: independent research and development funding relating to UAP 'shall not be allowable as indirect expenses' unless the material is made available to the same committees and leadership.",
-"predicate": "mandated",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -50,7 +50,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "requires"
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -60,12 +60,12 @@
 "direction": "out",
 "edgeId": "e-0d32f86756",
 "edgeLabel": "sec. 7343 conditions intelligence funding for UAP special- or restricted-access activity on prior disclosure to the committees",
-"family": "law",
+"family": "analysis",
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,7 +86,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "governs"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,

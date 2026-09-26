@@ -116,7 +116,7 @@
 "l0": false,
 "label": "Larry Warren",
 "note": "TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2.",
-"predicate": "disputed",
+"predicate": "denied",
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,7 +127,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "disputes"
+"verb": "denied"
 },
 {
 "claimTier": 2,

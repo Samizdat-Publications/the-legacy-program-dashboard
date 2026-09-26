@@ -102,13 +102,13 @@
 "direction": "in",
 "edgeId": "e-b13a738e83",
 "edgeLabel": "Founded under the authority of the 1947 Act",
-"family": "law",
+"family": "other",
 "id": "darpa",
 "l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
-"predicate": "created",
-"predicateSide": "subject",
+"predicate": "connected_to",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1975-12-01",
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "created"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -154,13 +154,13 @@
 "direction": "out",
 "edgeId": "e-0774622dfd",
 "edgeLabel": "Appointed the first Director of Central Intelligence of the CIA",
-"family": "conduct",
+"family": "role",
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "appointed",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1946-01-22",
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "appointed"
 },
 {
 "claimTier": 1,
@@ -180,12 +180,12 @@
 "direction": "out",
 "edgeId": "e-ce38f7546c",
 "edgeLabel": "Designated the first Director of Central Intelligence",
-"family": "testimony",
+"family": "role",
 "id": "sidney-souers",
 "l0": false,
 "label": "Rear Adm. Sidney W. Souers",
 "note": "The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates.",
-"predicate": "acknowledged",
+"predicate": "appointed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -196,7 +196,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "acknowledged"
+"verb": "appointed"
 },
 {
 "claimTier": 1,

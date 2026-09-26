@@ -125,12 +125,12 @@
 "direction": "in",
 "edgeId": "e-bc5dfefcba",
 "edgeLabel": "The book is the sole origin of the Aztec claim",
-"family": "testimony",
+"family": "place-time",
 "id": "behind-the-flying-saucers",
 "l0": false,
 "label": "Behind the Flying Saucers (Scully, 1950)",
 "note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.",
-"predicate": "brought_to_record",
+"predicate": "led_to",
 "predicateSide": "object",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was brought to the record by"
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -249,12 +249,12 @@
 "direction": "out",
 "edgeId": "e-b06cb056e2",
 "edgeLabel": "detail donor to later Roswell accounts",
-"family": "analysis",
+"family": "place-time",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
-"predicate": "affects",
+"predicate": "led_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -270,7 +270,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "affects"
+"verb": "led to"
 },
 {
 "claimTier": 2,

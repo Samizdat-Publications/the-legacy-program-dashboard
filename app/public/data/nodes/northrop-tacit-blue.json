@@ -119,13 +119,13 @@
 "direction": "out",
 "edgeId": "e-a2a3fad2e6",
 "edgeLabel": "USAF a named partner and the publisher of the fact sheet",
-"family": "role",
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.",
-"predicate": "worked_with",
-"predicateSide": "either",
+"predicate": "ran",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "was run by"
 }
 ],
 "coords": null,

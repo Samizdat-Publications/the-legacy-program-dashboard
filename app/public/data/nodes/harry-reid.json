@@ -253,12 +253,12 @@
 "direction": "out",
 "edgeId": "e-1e431e0251",
 "edgeLabel": "directed the $22M appropriation",
-"family": "law",
+"family": "place-time",
 "id": "defense-appropriations-aawsap",
 "l0": false,
 "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'.",
-"predicate": "sponsored_law",
+"predicate": "led_to",
 "predicateSide": "subject",
 "sources": [
 {
@@ -269,7 +269,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "sponsored"
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -279,13 +279,13 @@
 "direction": "in",
 "edgeId": "e-6d600853f7",
 "edgeLabel": "Same report carried Reid's statement on retrieved materials",
-"family": "testimony",
+"family": "place-time",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
-"predicate": "corroborated",
-"predicateSide": "object",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-07-23",
@@ -295,7 +295,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is corroborated by"
+"verb": "happened alongside"
 },
 {
 "claimTier": 2,
@@ -331,13 +331,13 @@
 "direction": "in",
 "edgeId": "e-6aefd1a019",
 "edgeLabel": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
-"family": "conduct",
+"family": "place-time",
 "id": "klas-tv",
 "l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.",
-"predicate": "in_contact_with",
-"predicateSide": "either",
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -352,7 +352,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was in contact with"
+"verb": "followed from"
 },
 {
 "claimTier": 1,
@@ -429,12 +429,12 @@
 "direction": "in",
 "edgeId": "e-ecbb6b27fc",
 "edgeLabel": "Identified Reid as the senator who initiated and funded AATIP",
-"family": "documents",
+"family": "testimony",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -445,7 +445,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -621,13 +621,13 @@
 "direction": "out",
 "edgeId": "e-4355eb219d",
 "edgeLabel": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
-"family": "other",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -657,7 +657,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,

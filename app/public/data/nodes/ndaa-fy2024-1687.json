@@ -527,7 +527,7 @@
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "FY2024 NDAA sec. 1687(a) conditions obligation of funds on the Secretary of Defense providing details to the defense and intelligence committees and congressional leadership.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -538,7 +538,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 1,

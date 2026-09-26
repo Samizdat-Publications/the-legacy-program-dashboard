@@ -182,12 +182,12 @@
 "direction": "in",
 "edgeId": "e-cf77ee29ca",
 "edgeLabel": "transmitted the complete list of 38 products",
-"family": "documents",
+"family": "testimony",
 "id": "dia-aatip-letter-2018",
 "l0": false,
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "note": "Every subsequent FOIA request for individual DIRDs was built from this list; 37 of 38 have since been released.",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -198,7 +198,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,

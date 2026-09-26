@@ -110,12 +110,12 @@
 "direction": "out",
 "edgeId": "e-b055c8cb45",
 "edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
-"family": "analysis",
+"family": "testimony",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "The only statutory enforcement mechanism any member has named on the record; never used on this subject.",
-"predicate": "exemplifies",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,7 +126,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is an instance of"
+"verb": "made claims about"
 }
 ],
 "date": "2023-07-26",

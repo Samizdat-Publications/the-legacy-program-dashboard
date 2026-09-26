@@ -142,12 +142,12 @@
 "direction": "out",
 "edgeId": "e-f94b7db7df",
 "edgeLabel": "Earliest opened record of the claim, taken about two years after the alleged event",
-"family": "documents",
+"family": "testimony",
 "id": "norton-afb-airshow-1988",
 "l0": false,
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations.",
-"predicate": "concerns",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -158,7 +158,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "concerns"
+"verb": "brought to the record"
 }
 ],
 "coords": null,

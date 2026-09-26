@@ -127,13 +127,13 @@
 "direction": "out",
 "edgeId": "e-bd9b6d6043",
 "edgeLabel": "JANAP created a parallel reporting channel outside Blue Book",
-"family": "analysis",
+"family": "organisation",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1954-03-10",
@@ -148,7 +148,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "parallels"
+"verb": "falls outside"
 }
 ],
 "coords": null,

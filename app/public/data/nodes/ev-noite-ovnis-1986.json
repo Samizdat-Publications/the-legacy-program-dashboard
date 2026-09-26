@@ -211,12 +211,12 @@
 "direction": "in",
 "edgeId": "e-0d6a5d9d9a",
 "edgeLabel": "Commanded the air defence organisation whose engagement he then wrote up",
-"family": "role",
+"family": "testimony",
 "id": "pessoa-cavalcanti",
 "l0": false,
 "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
 "note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
-"predicate": "led",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -237,7 +237,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "was led by"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -252,7 +252,7 @@
 "l0": true,
 "label": "Senado Federal do Brasil",
 "note": "RQS 193/2022 names the event: 'em 1986, quando ocorreu a hoje conhecida como \"Noite Oficial dos UFOs no Brasil\", quando 21 OVNIs esféricos de 100 metros de diâmetro cada foram perseguidos durante horas por nossos caças a jato.' The special session was held on 24 June 2022. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
-"predicate": "acknowledged",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -283,7 +283,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was acknowledged by"
+"verb": "is the subject of claims by"
 }
 ],
 "coords": null,

@@ -84,7 +84,7 @@
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
-"predicate": "investigated",
+"predicate": "oversaw",
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +95,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "investigated"
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -131,12 +131,12 @@
 "direction": "out",
 "edgeId": "e-cc2b42a391",
 "edgeLabel": "DoD OIG issued the only formal audit of the Department's UAP conduct",
-"family": "organisation",
+"family": "documents",
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified.",
-"predicate": "produced",
+"predicate": "wrote",
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "produced"
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -162,7 +162,7 @@
 "l0": false,
 "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "object",
 "sources": [
 {
@@ -173,7 +173,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is governed by"
+"verb": "is required by"
 },
 {
 "claimTier": 2,

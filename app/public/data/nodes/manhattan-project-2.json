@@ -73,13 +73,13 @@
 "direction": "in",
 "edgeId": "e-a1f38a4299",
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
-"family": "custody",
+"family": "analysis",
 "id": "atomic-energy-commission",
 "l0": true,
 "label": "Atomic Energy Commission",
 "note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine.",
-"predicate": "transferred",
-"predicateSide": "subject",
+"predicate": "exemplifies",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-08-01",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "passed records or material to"
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -136,7 +136,7 @@
 "label": "United States Department of Energy",
 "note": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
 "predicate": "alleged_to_hold",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-01",
@@ -151,7 +151,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to have material held by"
+"verb": "is alleged to hold material from"
 },
 {
 "claimTier": 2,
@@ -192,12 +192,12 @@
 "direction": "out",
 "edgeId": "e-3dff29bc31",
 "edgeLabel": "Sandia investigation is the evidentiary bridge for AEC custody",
-"family": "testimony",
+"family": "documents",
 "id": "gerb-sandia-investigation",
 "l0": false,
 "label": "UAP Gerb - Sandia National Laboratories investigation",
 "note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
-"predicate": "corroborated",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -208,7 +208,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "is corroborated by"
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -259,8 +259,8 @@
 "l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
-"predicate": "made_claims_about",
-"predicateSide": "subject",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-06-19",
@@ -270,7 +270,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "made claims about"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,

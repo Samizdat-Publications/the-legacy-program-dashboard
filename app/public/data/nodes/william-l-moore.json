@@ -127,12 +127,12 @@
 "direction": "out",
 "edgeId": "e-3efb6ca3ff",
 "edgeLabel": "Moore's 1989 AFOSI admission is Randle's strongest argument against MJ-12",
-"family": "documents",
+"family": "denial",
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "Moore stated publicly at the 1989 MUFON symposium that he had cooperated with AFOSI and passed disinformation to Paul Bennewitz; Randle's 'Conclusions on Operation Majestic Twelve' (1994) and 'Case MJ-12' (2002) treat the corpus as fabricated.",
-"predicate": "cites",
+"predicate": "disputed",
 "predicateSide": "object",
 "sources": [
 {
@@ -143,7 +143,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is cited by"
+"verb": "is disputed by"
 },
 {
 "claimTier": 1,
@@ -267,13 +267,13 @@
 "direction": "in",
 "edgeId": "e-70687ef611",
 "edgeLabel": "Moore admitted cooperating with AFOSI and passing disinformation to Bennewitz",
-"family": "testimony",
+"family": "role",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material.",
-"predicate": "acknowledged",
-"predicateSide": "subject",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1997-01-01",
@@ -288,7 +288,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "acknowledged"
+"verb": "worked with"
 },
 {
 "claimTier": 2,

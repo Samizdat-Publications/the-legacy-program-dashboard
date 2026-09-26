@@ -85,12 +85,12 @@
 "direction": "out",
 "edgeId": "e-f398d6c500",
 "edgeLabel": "GAO produced and publicly released the testimony",
-"family": "organisation",
+"family": "documents",
 "id": "gao",
 "l0": false,
 "label": "Government Accountability Office",
 "note": "The statement was delivered by Martin M. Ferber, Associate Director, National Security and International Affairs Division, and released on delivery at 10:00 a.m. on 24 July 1986.",
-"predicate": "produced",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +101,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "was published by"
 },
 {
 "claimTier": 1,

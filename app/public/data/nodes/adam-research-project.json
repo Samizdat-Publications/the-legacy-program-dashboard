@@ -108,13 +108,13 @@
 "direction": "out",
 "edgeId": "e-f0a242043d",
 "edgeLabel": "Research partnership from August 2018",
-"family": "organisation",
+"family": "role",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
-"predicate": "ran",
-"predicateSide": "object",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-07-24",
@@ -129,7 +129,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was run by"
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -263,12 +263,12 @@
 "direction": "out",
 "edgeId": "e-62a26e2553",
 "edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
-"family": "money",
+"family": "documents",
 "id": "ttsa-army-crada",
 "l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
-"predicate": "funded",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -279,7 +279,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was funded by"
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,

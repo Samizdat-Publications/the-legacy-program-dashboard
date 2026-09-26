@@ -40,7 +40,7 @@
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
-"predicate": "holds",
+"predicate": "transferred",
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +51,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is held by"
+"verb": "received records or material from"
 },
 {
 "claimTier": 1,
@@ -144,7 +144,7 @@
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
-"predicate": "released",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -155,7 +155,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "was released by"
+"verb": "was published by"
 }
 ],
 "coords": null,

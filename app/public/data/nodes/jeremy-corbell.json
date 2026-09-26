@@ -124,7 +124,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Listed in the hearing's Index of Documents.",
 "predicate": "brought_to_record",
-"predicateSide": "object",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -134,7 +134,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was brought to the record by"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -196,12 +196,12 @@
 "direction": "in",
 "edgeId": "e-ca701262bc",
 "edgeLabel": "Footage reached the public through journalists, not through the Navy or AARO",
-"family": "media",
+"family": "testimony",
 "id": "uss-jackson-2023",
 "l0": false,
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp.",
-"predicate": "reported_on",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -212,7 +212,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "reported on"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,

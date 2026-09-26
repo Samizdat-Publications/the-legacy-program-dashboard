@@ -120,7 +120,7 @@
 "l0": false,
 "label": "House Armed Services Committee",
 "note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
-"predicate": "mandated",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -131,7 +131,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "requires"
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -338,7 +338,7 @@
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
-"predicate": "mandated",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -349,7 +349,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "requires"
+"verb": "governs"
 },
 {
 "claimTier": 3,

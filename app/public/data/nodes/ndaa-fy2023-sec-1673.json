@@ -148,13 +148,13 @@
 "direction": "out",
 "edgeId": "e-c5c575145c",
 "edgeLabel": "Statutory NDA-voiding precedent behind the Act's whistleblower posture",
-"family": "documents",
+"family": "place-time",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Sec. 1673(b)(1)(A) had already established that an authorized disclosure 'shall not be subject to a nondisclosure agreement'; the UAPDA extends that logic to records and material.",
-"predicate": "cites",
-"predicateSide": "object",
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-12-23",
@@ -169,7 +169,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is cited by"
+"verb": "led to"
 }
 ],
 "coords": null,

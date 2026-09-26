@@ -146,8 +146,8 @@
 "l0": false,
 "label": "Donald R. Schmitt",
 "note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
-"predicate": "brought_to_record",
-"predicateSide": "object",
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -157,7 +157,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "passed an account to"
 },
 {
 "claimTier": 2,
@@ -219,12 +219,12 @@
 "direction": "out",
 "edgeId": "e-7426f97fd8",
 "edgeLabel": "Haut issued the 8 July 1947 'flying disc' press release",
-"family": "documents",
+"family": "testimony",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence office had gained possession of a disc.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -235,7 +235,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "published"
+"verb": "brought to the record"
 }
 ],
 "date": "1947-07-08",

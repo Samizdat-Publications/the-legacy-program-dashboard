@@ -93,12 +93,12 @@
 "direction": "in",
 "edgeId": "e-7403f1c300",
 "edgeLabel": "New Mexico State Police officer stationed at Dulce from 1976",
-"family": "role",
+"family": "place-time",
 "id": "gabe-valdez",
 "l0": false,
 "label": "Gabriel L. \"Gabe\" Valdez",
 "note": "The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.",
-"predicate": "held_post",
+"predicate": "located_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -109,7 +109,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "is the location of"
 },
 {
 "claimTier": 1,

@@ -84,7 +84,7 @@
 "l0": false,
 "label": "Congressional Oversight",
 "note": "The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia.",
-"predicate": "located_at",
+"predicate": "occurred_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -100,7 +100,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -146,12 +146,12 @@
 "direction": "in",
 "edgeId": "e-637132b95a",
 "edgeLabel": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
-"family": "place-time",
+"family": "role",
 "id": "philip-corso",
 "l0": false,
 "label": "Philip J. Corso",
 "note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
-"predicate": "located_at",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -162,7 +162,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "had in a post"
 }
 ],
 "coords": [

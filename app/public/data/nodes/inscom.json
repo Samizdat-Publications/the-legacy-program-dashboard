@@ -177,12 +177,12 @@
 "direction": "out",
 "edgeId": "e-36c03e7cc0",
 "edgeLabel": "A ridiculed subject held inside service-secretary-level access controls",
-"family": "organisation",
+"family": "analysis",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
-"predicate": "ran",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,7 +193,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "ran"
+"verb": "is an instance of"
 }
 ],
 "coords": null,

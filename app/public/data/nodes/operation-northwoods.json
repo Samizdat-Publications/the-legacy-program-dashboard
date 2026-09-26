@@ -177,12 +177,12 @@
 "direction": "out",
 "edgeId": "e-5021b06b7a",
 "edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
-"family": "documents",
+"family": "place-time",
 "id": "l-eglin",
 "l0": false,
 "label": "Eglin Air Force Base, Florida",
 "note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
-"predicate": "concerns",
+"predicate": "located_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,7 +193,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "concerns"
+"verb": "is located at"
 },
 {
 "claimTier": 1,

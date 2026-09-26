@@ -136,8 +136,8 @@
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Listed under ARDC CENTERS as 'WADD, Wright-Patterson AFB, Ohio'.",
-"predicate": "transferred",
-"predicateSide": "subject",
+"predicate": "holds",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1959-06-19",
@@ -147,7 +147,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "passed records or material to"
+"verb": "is held by"
 },
 {
 "claimTier": 1,

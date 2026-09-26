@@ -34,7 +34,7 @@
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
-"predicate": "mandated",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is required by"
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -60,7 +60,7 @@
 "l0": false,
 "label": "Mike Rogers (Alabama)",
 "note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -71,7 +71,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "was led by"
 },
 {
 "claimTier": 1,

@@ -53,12 +53,12 @@
 "direction": "in",
 "edgeId": "e-4f4526e5e6",
 "edgeLabel": "Co-launched the probe; revealed the McCasland trigger",
-"family": "role",
+"family": "oversight",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
-"predicate": "led",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was led by"
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -105,12 +105,12 @@
 "direction": "in",
 "edgeId": "e-ef9e4c53f5",
 "edgeLabel": "Co-launched the probe",
-"family": "oversight",
+"family": "role",
 "id": "james-comer",
 "l0": false,
 "label": "James Comer Jr.",
 "note": "Comer and Burlison opened the investigation on 21 April 2026.",
-"predicate": "investigated",
+"predicate": "led",
 "predicateSide": "object",
 "sources": [
 {
@@ -121,7 +121,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "was led by"
 },
 {
 "claimTier": 2,

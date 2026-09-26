@@ -119,8 +119,8 @@
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Every AARO annual report reproduces the Preliminary Assessment's move of attributing non-resolution to limited and inconsistent data rather than to any property of the objects.",
-"predicate": "affects",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-06-25",
@@ -135,7 +135,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "affects"
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -176,12 +176,12 @@
 "direction": "out",
 "edgeId": "e-5b1955a7b7",
 "edgeLabel": "Official confirmation of the stigma ASA exists to route around",
-"family": "analysis",
+"family": "testimony",
 "id": "americans-for-safe-aerospace",
 "l0": true,
 "label": "Americans for Safe Aerospace",
 "note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
-"predicate": "affects",
+"predicate": "acknowledged",
 "predicateSide": "subject",
 "sources": [
 {
@@ -197,7 +197,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "affects"
+"verb": "acknowledged"
 },
 {
 "claimTier": 1,
@@ -207,12 +207,12 @@
 "direction": "in",
 "edgeId": "e-0fc68b0385",
 "edgeLabel": "DNI who transmitted the assessment to Congress",
-"family": "documents",
+"family": "testimony",
 "id": "avril-haines",
 "l0": false,
 "label": "Avril D. Haines",
 "note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
-"predicate": "published",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -223,7 +223,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was published by"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -238,8 +238,8 @@
 "l0": true,
 "label": "The Galileo Project",
 "note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
-"predicate": "responded_to",
-"predicateSide": "object",
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -249,7 +249,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "drew a response from"
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -264,7 +264,7 @@
 "l0": false,
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "note": "'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics,' and military sensors 'are not generally suited for identifying UAP.'",
-"predicate": "cites",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -275,7 +275,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "cites"
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -440,8 +440,8 @@
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship.",
-"predicate": "produced",
-"predicateSide": "object",
+"predicate": "part_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -456,7 +456,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "is part of"
 },
 {
 "claimTier": 1,

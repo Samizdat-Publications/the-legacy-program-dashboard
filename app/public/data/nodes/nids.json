@@ -120,13 +120,13 @@
 "direction": "out",
 "edgeId": "e-3334b97519",
 "edgeLabel": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
-"family": "organisation",
+"family": "place-time",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
-"predicate": "succeeded",
-"predicateSide": "object",
+"predicate": "led_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-10",
@@ -141,7 +141,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was succeeded by"
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -456,12 +456,12 @@
 "direction": "in",
 "edgeId": "e-581497930d",
 "edgeLabel": "founded and privately funded NIDS 1995-2004",
-"family": "role",
+"family": "money",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
-"predicate": "founded",
+"predicate": "funded",
 "predicateSide": "object",
 "sources": [
 {
@@ -482,7 +482,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was founded by"
+"verb": "was funded by"
 }
 ],
 "coords": null,

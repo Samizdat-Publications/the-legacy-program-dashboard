@@ -379,12 +379,12 @@
 "direction": "in",
 "edgeId": "e-bea8e112d4",
 "edgeLabel": "Co-author of a book-length treatment of the event, later repudiated by him",
-"family": "documents",
+"family": "oversight",
 "id": "peter-robbins",
 "l0": false,
 "label": "Peter Robbins",
 "note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.",
-"predicate": "studied",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -400,7 +400,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was studied by"
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -410,12 +410,12 @@
 "direction": "in",
 "edgeId": "e-53d8efbf33",
 "edgeLabel": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
-"family": "documents",
+"family": "testimony",
 "id": "sheffield-hallam",
 "l0": false,
 "label": "Sheffield Hallam University",
 "note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
-"predicate": "released",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -446,7 +446,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "was released by"
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,

@@ -60,12 +60,12 @@
 "direction": "in",
 "edgeId": "e-fe7fe85868",
 "edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
-"family": "analysis",
+"family": "organisation",
 "id": "accm",
 "l0": false,
 "label": "Alternative Compensatory Control Measures (ACCM)",
 "note": "",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -76,7 +76,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is affected by"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -86,12 +86,12 @@
 "direction": "in",
 "edgeId": "e-02914ce5fc",
 "edgeLabel": "",
-"family": "analysis",
+"family": "organisation",
 "id": "accm",
 "l0": false,
 "label": "Alternative Compensatory Control Measures (ACCM)",
 "note": "ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on 'special access program' or 'controlled access program'. A measure that is neither falls outside all four.",
-"predicate": "exemplifies",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -107,7 +107,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "has as an instance"
+"verb": "does not include"
 },
 {
 "claimTier": 1,

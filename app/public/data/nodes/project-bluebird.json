@@ -105,13 +105,13 @@
 "direction": "out",
 "edgeId": "e-7fcf81429f",
 "edgeLabel": "The 1950 predecessor of the 1953 programme",
-"family": "place-time",
+"family": "organisation",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
-"predicate": "preceded",
-"predicateSide": "subject",
+"predicate": "succeeded",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1977-08-03",
@@ -121,7 +121,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,

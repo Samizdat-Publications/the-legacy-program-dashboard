@@ -226,12 +226,12 @@
 "direction": "out",
 "edgeId": "e-a387ccf61b",
 "edgeLabel": "Greer's CSETI submissions form the majority of the Clinton White House UFO file",
-"family": "custody",
+"family": "testimony",
 "id": "john-podesta",
 "l0": false,
 "label": "John D. Podesta",
 "note": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
-"predicate": "transferred",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,7 +242,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "passed records or material to"
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -257,8 +257,8 @@
 "l0": false,
 "label": "Mark McCandlish",
 "note": "Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB.",
-"predicate": "brought_to_record",
-"predicateSide": "subject",
+"predicate": "told",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -268,7 +268,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "received an account from"
 },
 {
 "claimTier": 1,
@@ -278,12 +278,12 @@
 "direction": "in",
 "edgeId": "e-86199651c0",
 "edgeLabel": "Named on the record as the custodian who supplied the written testimony",
-"family": "testimony",
+"family": "custody",
 "id": "michael-herrera",
 "l0": false,
 "label": "Michael Herrera",
 "note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
-"predicate": "brought_to_record",
+"predicate": "holds",
 "predicateSide": "subject",
 "sources": [
 {
@@ -294,7 +294,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "brought to the record"
+"verb": "holds"
 },
 {
 "claimTier": 1,

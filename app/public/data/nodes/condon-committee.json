@@ -90,12 +90,12 @@
 "direction": "in",
 "edgeId": "e-a225fc597a",
 "edgeLabel": "The Colorado project's own history chapter endorses his debunking book",
-"family": "testimony",
+"family": "conduct",
 "id": "donald-h-menzel",
 "l0": false,
 "label": "Donald H. Menzel",
 "note": "Section V chapter 2 of the report, written by Condon, calls Menzel's 1953 Flying Saucers 'an excellent book' and notes it is 'generally regarded as \"debunking\" and \"negative.\"' Menzel wrote no chapter of the report; he appears in its text and its bibliographies.",
-"predicate": "acknowledged",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -106,7 +106,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "acknowledged"
+"verb": "supported"
 },
 {
 "claimTier": 1,
@@ -173,8 +173,8 @@
 "l0": false,
 "label": "George Kocher",
 "note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
-"predicate": "preceded",
-"predicateSide": "object",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1968-11-01",
@@ -184,7 +184,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "came after"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,

@@ -29,12 +29,12 @@
 "direction": "out",
 "edgeId": "e-23d46b2513",
 "edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
-"family": "documents",
+"family": "testimony",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "concerns"
+"verb": "made claims about"
 },
 {
 "claimTier": 2,

@@ -55,8 +55,8 @@
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
-"predicate": "preceded",
-"predicateSide": "subject",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1968-11-01",
@@ -66,7 +66,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -76,13 +76,13 @@
 "direction": "in",
 "edgeId": "e-7956425c5c",
 "edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
-"family": "role",
+"family": "conduct",
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
-"predicate": "held_post",
-"predicateSide": "subject",
+"predicate": "supported",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -92,7 +92,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was supported by"
 }
 ],
 "date": "1968-11-01",

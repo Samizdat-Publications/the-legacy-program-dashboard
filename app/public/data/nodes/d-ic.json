@@ -42,12 +42,12 @@
 "direction": "out",
 "edgeId": "e-8853149ed8",
 "edgeLabel": "CIA convened the panel that recommended debunking",
-"family": "place-time",
+"family": "analysis",
 "id": "d-coverup",
 "l0": false,
 "label": "The Cover-Up",
 "note": "The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.",
-"predicate": "led_to",
+"predicate": "affects",
 "predicateSide": "subject",
 "sources": [
 {
@@ -58,7 +58,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "led to"
+"verb": "affects"
 },
 {
 "claimTier": 3,

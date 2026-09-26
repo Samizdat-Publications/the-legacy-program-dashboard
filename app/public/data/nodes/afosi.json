@@ -65,12 +65,12 @@
 "direction": "out",
 "edgeId": "e-98f2a0d120",
 "edgeLabel": "AFOSI is the originating agency of the released Kirtland UFO file",
-"family": "custody",
+"family": "documents",
 "id": "afosi-kirtland-file",
 "l0": false,
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
-"predicate": "holds",
+"predicate": "released",
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,7 +86,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "released"
 },
 {
 "claimTier": 1,

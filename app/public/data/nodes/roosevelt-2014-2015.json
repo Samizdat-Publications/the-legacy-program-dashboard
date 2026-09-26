@@ -92,13 +92,13 @@
 "direction": "in",
 "edgeId": "e-0e1dacadf6",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
-"family": "documents",
+"family": "organisation",
 "id": "gimbal-video",
 "l0": false,
 "label": "GIMBAL (Navy ATFLIR video, January 2015)",
 "note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
-"predicate": "concerns",
-"predicateSide": "object",
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -113,7 +113,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "is the subject of"
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -123,13 +123,13 @@
 "direction": "in",
 "edgeId": "e-0705447e89",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
-"family": "documents",
+"family": "organisation",
 "id": "gofast-video",
 "l0": false,
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "note": "GO FAST is the video Gallaudet says was attached to the recalled Fleet Forces Command safety message, and the one AARO later reanalysed on parallax grounds.",
-"predicate": "concerns",
-"predicateSide": "object",
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -149,7 +149,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is the subject of"
+"verb": "produced"
 },
 {
 "claimTier": 1,

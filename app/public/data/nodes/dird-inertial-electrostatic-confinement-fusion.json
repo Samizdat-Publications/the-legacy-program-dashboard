@@ -106,12 +106,12 @@
 "direction": "out",
 "edgeId": "e-5174a7ba01",
 "edgeLabel": "subject domain: compact non-tokamak fusion power",
-"family": "documents",
+"family": "analysis",
 "id": "d-plasma",
 "l0": false,
 "label": "Plasma Physics & Atmospheric Electricity",
 "note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
-"predicate": "concerns",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -137,7 +137,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "concerns"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,

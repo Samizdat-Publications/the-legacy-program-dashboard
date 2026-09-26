@@ -363,7 +363,7 @@
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
-"predicate": "studied",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -379,7 +379,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was studied by"
+"verb": "is cited by"
 }
 ],
 "coords": null,

@@ -29,12 +29,12 @@
 "direction": "out",
 "edgeId": "e-6e5c6c050e",
 "edgeLabel": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
-"family": "organisation",
+"family": "analysis",
 "id": "d-legislation",
 "l0": false,
 "label": "Enacted Statute",
 "note": "Sec. 6802 rewrote 50 U.S.C. 3373 to create AARO and inserted the 'unidentified anomalous phenomena' and 'transmedium' definitions; sec. 6803 attached a Comptroller General audit and briefing requirement to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records that the statutory definitions the whole board uses were enacted in an intelligence authorization, not a defence one.",
-"predicate": "part_of",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -50,7 +50,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is part of"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,

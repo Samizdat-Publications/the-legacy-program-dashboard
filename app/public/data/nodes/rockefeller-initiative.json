@@ -66,13 +66,13 @@
 "direction": "out",
 "edgeId": "e-b4b15b96fc",
 "edgeLabel": "The initiative's live period coincides with the GAO records audit and its retention in the White House Roswell file",
-"family": "organisation",
+"family": "place-time",
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "The Clinton White House Roswell file (2006-0476-F) contains the July 1995 GAO report; the unclassified records audit is what the White House ended up holding.",
-"predicate": "produced",
-"predicateSide": "subject",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1995-07-28",
@@ -87,7 +87,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "produced"
+"verb": "happened alongside"
 },
 {
 "claimTier": 2,

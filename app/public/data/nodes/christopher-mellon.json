@@ -187,13 +187,13 @@
 "direction": "out",
 "edgeId": "e-5d137d3368",
 "edgeLabel": "Luna read Mellon's demolition of AARO's historical report into her 2025 opening statement",
-"family": "documents",
+"family": "testimony",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Mellon called it 'the most error-ridden and unsatisfactory government report I can recall reading after decades of government service.'",
-"predicate": "cites",
-"predicateSide": "object",
+"predicate": "told",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -203,7 +203,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is cited by"
+"verb": "passed an account to"
 },
 {
 "claimTier": 2,
@@ -296,7 +296,7 @@
 "l0": false,
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
-"predicate": "holds",
+"predicate": "transferred",
 "predicateSide": "subject",
 "sources": [
 {
@@ -307,7 +307,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "passed records or material to"
 },
 {
 "claimTier": 2,
@@ -317,12 +317,12 @@
 "direction": "out",
 "edgeId": "e-3e5dd89692",
 "edgeLabel": "recommendations reflected in statute",
-"family": "analysis",
+"family": "conduct",
 "id": "ndaa26-uap-provisions",
 "l0": false,
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "The FY2026 NDAA's three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
-"predicate": "affects",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -333,7 +333,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "affects"
+"verb": "supported"
 },
 {
 "claimTier": 2,
@@ -343,12 +343,12 @@
 "direction": "out",
 "edgeId": "e-fda7b978fe",
 "edgeLabel": "Two of the three provisions mirror recommendations he championed",
-"family": "place-time",
+"family": "conduct",
 "id": "ndaa26-uap-provisions",
 "l0": false,
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "Per Disclosure Foundation executive director Jordan Flowers.",
-"predicate": "led_to",
+"predicate": "supported",
 "predicateSide": "subject",
 "sources": [
 {
@@ -359,7 +359,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "led to"
+"verb": "supported"
 },
 {
 "claimTier": 2,
@@ -369,12 +369,12 @@
 "direction": "out",
 "edgeId": "e-3e330b3250",
 "edgeLabel": "Supplied the videos published with the story",
-"family": "documents",
+"family": "testimony",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Mellon says he provided the files to the Times; the Times separately stated the Department of Defense was its on-the-record source for them.",
-"predicate": "released",
+"predicate": "brought_to_record",
 "predicateSide": "subject",
 "sources": [
 {
@@ -385,7 +385,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "released"
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,

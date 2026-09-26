@@ -79,7 +79,7 @@
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
-"predicate": "held_post",
+"predicate": "member_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,7 +105,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 }
 ],
 "date": "2009-01-06",

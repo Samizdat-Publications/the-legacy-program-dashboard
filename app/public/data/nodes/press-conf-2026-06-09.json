@@ -35,12 +35,12 @@
 "direction": "in",
 "edgeId": "e-6fc321689f",
 "edgeLabel": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
-"family": "testimony",
+"family": "media",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
-"predicate": "witnessed",
+"predicate": "appeared_on",
 "predicateSide": "object",
 "sources": [
 {
@@ -56,7 +56,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "featured"
 },
 {
 "claimTier": 2,

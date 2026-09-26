@@ -99,7 +99,7 @@
 "l0": false,
 "label": "Edgar Fouche",
 "note": "INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
-"predicate": "wrote",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -110,7 +110,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was written by"
+"verb": "was published by"
 },
 {
 "claimTier": 1,

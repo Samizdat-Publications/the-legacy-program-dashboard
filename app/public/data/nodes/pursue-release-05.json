@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-4ea7aca143",
 "edgeLabel": "Released the 1963 Brazil sphere report",
-"family": "documents",
+"family": "denial",
 "id": "cia-readingroom-ufo",
 "l0": false,
 "label": "CIA FOIA Reading Room - UFO collection",
 "note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
-"predicate": "released",
-"predicateSide": "subject",
+"predicate": "omitted",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-10",
@@ -74,7 +74,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "released"
+"verb": "is left out of"
 },
 {
 "claimTier": 2,
@@ -89,7 +89,7 @@
 "l0": false,
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
-"predicate": "concerns",
+"predicate": "released",
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,7 +105,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "concerns"
+"verb": "released"
 },
 {
 "claimTier": 2,

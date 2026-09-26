@@ -17,13 +17,13 @@
 "direction": "out",
 "edgeId": "e-4aaf7db27c",
 "edgeLabel": "produced at Whitehall, released via TNA at Kew",
-"family": "place-time",
+"family": "custody",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
-"predicate": "located_at",
-"predicateSide": "object",
+"predicate": "holds",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-01-01",
@@ -43,7 +43,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "holds"
 }
 ],
 "coords": [

@@ -340,8 +340,8 @@
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA's own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.",
-"predicate": "affects",
-"predicateSide": "object",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1997-01-01",
@@ -356,7 +356,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "parallels"
 },
 {
 "claimTier": 1,

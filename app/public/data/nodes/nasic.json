@@ -28,8 +28,8 @@
 "l0": false,
 "label": "Air Force Research Laboratory",
 "note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
-"predicate": "located_at",
-"predicateSide": "object",
+"predicate": "concurrent_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -39,7 +39,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "happened alongside"
 },
 {
 "claimTier": 2,

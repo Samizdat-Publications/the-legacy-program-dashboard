@@ -82,13 +82,13 @@
 "direction": "out",
 "edgeId": "e-142f04fd34",
 "edgeLabel": "ran the parallel public ufology centre after censorship lifted",
-"family": "organisation",
+"family": "analysis",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "SOYUZUFOTSENTR was created in 1990 with Academy of Sciences institute rights, after the removal of censorship on the subject in 1989.",
-"predicate": "ran",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2006-05-15",
@@ -103,7 +103,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "ran"
+"verb": "parallels"
 },
 {
 "claimTier": 1,

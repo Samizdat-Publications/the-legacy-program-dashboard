@@ -41,12 +41,12 @@
 "direction": "in",
 "edgeId": "e-de4829fd15",
 "edgeLabel": "Asked the White House to grant immunity to whistleblowers who disclose locations of craft and technology",
-"family": "media",
+"family": "conduct",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "The immunity ask is the caucus's response to the failure of the whistleblower bills to move.",
-"predicate": "appeared_on",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "featured"
+"verb": "was supported by"
 },
 {
 "claimTier": 2,
@@ -72,7 +72,7 @@
 "l0": false,
 "label": "David Charles Grusch",
 "note": "His first Capitol appearance with lawmakers since the 2023 testimony.",
-"predicate": "witnessed",
+"predicate": "testified_at",
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +83,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "heard testimony from"
 },
 {
 "claimTier": 2,
@@ -119,12 +119,12 @@
 "direction": "in",
 "edgeId": "e-5d54a26bc0",
 "edgeLabel": "'Disclosure today, disclosure tomorrow'",
-"family": "media",
+"family": "conduct",
 "id": "jared-moskowitz",
 "l0": false,
 "label": "Jared Evan Moskowitz",
 "note": "Keeps the 2026 push bipartisan.",
-"predicate": "appeared_on",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -135,7 +135,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "featured"
+"verb": "was supported by"
 },
 {
 "claimTier": 2,

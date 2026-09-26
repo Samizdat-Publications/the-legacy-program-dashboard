@@ -130,7 +130,7 @@
 "l0": true,
 "label": "KONA BLUE",
 "note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
-"predicate": "refused",
+"predicate": "denied",
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "denied"
 },
 {
 "claimTier": 1,

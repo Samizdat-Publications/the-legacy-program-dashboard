@@ -73,7 +73,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
 "predicate": "contradicts",
-"predicateSide": "subject",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018",
@@ -83,7 +83,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "contradicts"
+"verb": "is contradicted by"
 }
 ],
 "coords": [

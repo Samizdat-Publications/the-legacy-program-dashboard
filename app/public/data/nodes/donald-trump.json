@@ -67,7 +67,7 @@
 "l0": false,
 "label": "Executive Office of the President",
 "note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -88,7 +88,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -103,7 +103,7 @@
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
-"predicate": "wrote",
+"predicate": "published",
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +119,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "wrote"
+"verb": "published"
 },
 {
 "claimTier": 2,

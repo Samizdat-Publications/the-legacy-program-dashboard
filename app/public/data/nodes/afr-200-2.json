@@ -97,12 +97,12 @@
 "direction": "in",
 "edgeId": "e-d55064a259",
 "edgeLabel": "The 1954 regulation was issued under Twining as Chief of Staff",
-"family": "law",
+"family": "documents",
 "id": "nathan-twining",
 "l0": false,
 "label": "Nathan F. Twining",
 "note": "The officer who wrote in 1947 that the phenomenon was real was Air Force Chief of Staff when the regulation restricting public discussion of unexplained cases was promulgated.",
-"predicate": "created",
+"predicate": "wrote",
 "predicateSide": "object",
 "sources": [
 {
@@ -118,7 +118,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was created by"
+"verb": "was written by"
 },
 {
 "claimTier": 1,

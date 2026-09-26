@@ -35,13 +35,13 @@
 "direction": "out",
 "edgeId": "e-25c09fade4",
 "edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
-"family": "documents",
+"family": "oversight",
 "id": "beacon-hill-study",
 "l0": false,
 "label": "Project Beacon Hill",
 "note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
-"predicate": "studied",
-"predicateSide": "object",
+"predicate": "reports_to",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-26",
@@ -51,7 +51,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "was studied by"
+"verb": "reports to"
 },
 {
 "claimTier": 1,

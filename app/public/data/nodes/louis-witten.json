@@ -61,7 +61,7 @@
 "l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
-"predicate": "member_of",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was a member of"
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -82,12 +82,12 @@
 "direction": "in",
 "edgeId": "e-44a537068b",
 "edgeLabel": "Both printed on the same forty-six-name participants list",
-"family": "conduct",
+"family": "place-time",
 "id": "joseph-weber",
 "l0": false,
 "label": "Joseph Weber",
 "note": "Both are printed on the same forty-six-name participants list.",
-"predicate": "in_contact_with",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -98,7 +98,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was in contact with"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -108,12 +108,12 @@
 "direction": "in",
 "edgeId": "e-02badd9af5",
 "edgeLabel": "Both printed on the same forty-six-name participants list",
-"family": "conduct",
+"family": "place-time",
 "id": "peter-bergmann",
 "l0": false,
 "label": "Peter G. Bergmann",
 "note": "Both are printed on the same forty-six-name participants list of the January 1957 Chapel Hill conference.",
-"predicate": "in_contact_with",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -124,7 +124,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was in contact with"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,

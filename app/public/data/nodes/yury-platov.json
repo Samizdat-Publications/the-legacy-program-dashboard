@@ -61,7 +61,7 @@
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,7 +72,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 }
 ],
 "date": "1989-01-01",

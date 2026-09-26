@@ -72,13 +72,13 @@
 "direction": "in",
 "edgeId": "e-4ea7aca143",
 "edgeLabel": "Released the 1963 Brazil sphere report",
-"family": "documents",
+"family": "denial",
 "id": "pursue-release-05",
 "l0": false,
 "label": "PURSUE Release 05",
 "note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
-"predicate": "released",
-"predicateSide": "object",
+"predicate": "omitted",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-10",
@@ -93,7 +93,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "was released by"
+"verb": "leaves out"
 }
 ],
 "coords": null,

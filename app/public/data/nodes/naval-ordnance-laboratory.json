@@ -47,37 +47,11 @@
 "direction": "out",
 "edgeId": "e-46d2736566",
 "edgeLabel": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
-"family": "money",
+"family": "documents",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
-"predicate": "contracted",
-"predicateSide": "subject",
-"sources": [
-{
-"date": null,
-"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
-"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
-}
-],
-"tier": "A",
-"type": "research",
-"verb": "contracted"
-},
-{
-"claimTier": 1,
-"cls": "institution",
-"dateEnd": null,
-"dateStart": null,
-"direction": "out",
-"edgeId": "e-4a2d971b55",
-"edgeLabel": "NASA commissioned both federal reports that date and attribute the alloy",
-"family": "documents",
-"id": "nasa",
-"l0": true,
-"label": "National Aeronautics and Space Administration",
-"note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
 "predicate": "cites",
 "predicateSide": "object",
 "sources": [
@@ -90,6 +64,32 @@
 "tier": "A",
 "type": "research",
 "verb": "is cited by"
+},
+{
+"claimTier": 1,
+"cls": "institution",
+"dateEnd": null,
+"dateStart": null,
+"direction": "out",
+"edgeId": "e-4a2d971b55",
+"edgeLabel": "NASA commissioned both federal reports that date and attribute the alloy",
+"family": "money",
+"id": "nasa",
+"l0": true,
+"label": "National Aeronautics and Space Administration",
+"note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
+"predicate": "contracted",
+"predicateSide": "object",
+"sources": [
+{
+"date": null,
+"name": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf",
+"url": "https://ntrs.nasa.gov/api/citations/19720022818/downloads/19720022818.pdf"
+}
+],
+"tier": "A",
+"type": "research",
+"verb": "was contracted by"
 },
 {
 "claimTier": 1,

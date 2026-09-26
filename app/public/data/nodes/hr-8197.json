@@ -29,12 +29,12 @@
 "direction": "out",
 "edgeId": "e-2d1a1241c6",
 "edgeLabel": "would abolish AARO outright and bar any successor entity",
-"family": "analysis",
+"family": "law",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of concealment rather than a remedy for it.",
-"predicate": "affects",
+"predicate": "governs",
 "predicateSide": "subject",
 "sources": [
 {
@@ -45,7 +45,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "affects"
+"verb": "governs"
 },
 {
 "claimTier": 2,

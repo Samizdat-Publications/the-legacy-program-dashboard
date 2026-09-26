@@ -92,12 +92,12 @@
 "direction": "in",
 "edgeId": "e-5b1955a7b7",
 "edgeLabel": "Official confirmation of the stigma ASA exists to route around",
-"family": "analysis",
+"family": "testimony",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
-"predicate": "affects",
+"predicate": "acknowledged",
 "predicateSide": "object",
 "sources": [
 {
@@ -113,7 +113,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "was acknowledged by"
 },
 {
 "claimTier": 1,

@@ -69,7 +69,7 @@
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "No dated public statement by him before this event has been identified.",
-"predicate": "testified_at",
+"predicate": "witnessed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -80,7 +80,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2010-09-27",

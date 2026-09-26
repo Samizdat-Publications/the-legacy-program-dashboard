@@ -46,12 +46,12 @@
 "direction": "out",
 "edgeId": "e-f158da06a7",
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
-"family": "role",
+"family": "documents",
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
-"predicate": "held_post",
+"predicate": "wrote",
 "predicateSide": "subject",
 "sources": [
 {
@@ -62,7 +62,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -77,7 +77,7 @@
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
-"predicate": "member_of",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +93,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "held a post at"
 }
 ],
 "date": "2026-06-15",

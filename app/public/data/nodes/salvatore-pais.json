@@ -424,12 +424,12 @@
 "direction": "out",
 "edgeId": "e-16ebae69c7",
 "edgeLabel": "NAWCAD, NAS Patuxent River, at the time of filing",
-"family": "role",
+"family": "place-time",
 "id": "l-pax-river",
 "l0": false,
 "label": "Naval Air Station Patuxent River, Maryland",
 "note": "The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.",
-"predicate": "held_post",
+"predicate": "located_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -440,7 +440,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "is located at"
 },
 {
 "claimTier": 2,

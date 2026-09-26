@@ -73,13 +73,13 @@
 "direction": "in",
 "edgeId": "e-c46cc80ccf",
 "edgeLabel": "19.7 per cent of analysed objects were unknowns, rising with report quality",
-"family": "documents",
+"family": "organisation",
 "id": "blue-book-special-report-14",
 "l0": true,
 "label": "Project Blue Book Special Report No. 14",
 "note": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
-"predicate": "concerns",
-"predicateSide": "object",
+"predicate": "produced",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-05-05",
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -156,12 +156,12 @@
 "direction": "in",
 "edgeId": "e-e38b67d35a",
 "edgeLabel": "Air Force intelligence chief at Blue Book's creation",
-"family": "place-time",
+"family": "role",
 "id": "charles-p-cabell",
 "l0": false,
 "label": "Gen. Charles P. Cabell",
 "note": "The edge exists to carry the correction: the office he held in March 1952 was USAF Director of Intelligence, not a CIA post, and the transcript that surfaced him has it the other way round.",
-"predicate": "preceded",
+"predicate": "held_post",
 "predicateSide": "object",
 "sources": [
 {
@@ -172,7 +172,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came after"
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -395,12 +395,12 @@
 "direction": "in",
 "edgeId": "e-5622f47f71",
 "edgeLabel": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
-"family": "documents",
+"family": "testimony",
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.'",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -411,7 +411,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -509,13 +509,13 @@
 "direction": "in",
 "edgeId": "e-bd9b6d6043",
 "edgeLabel": "JANAP created a parallel reporting channel outside Blue Book",
-"family": "analysis",
+"family": "organisation",
 "id": "janap-146",
 "l0": false,
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1954-03-10",
@@ -530,7 +530,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "parallels"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -545,7 +545,7 @@
 "l0": false,
 "label": "Kenneth Arnold",
 "note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
-"predicate": "witnessed",
+"predicate": "brought_to_record",
 "predicateSide": "object",
 "sources": [
 {
@@ -561,7 +561,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -576,7 +576,7 @@
 "l0": false,
 "label": "Columbus, Ohio",
 "note": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make.",
-"predicate": "located_at",
+"predicate": "occurred_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -597,7 +597,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is located at"
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -690,12 +690,12 @@
 "direction": "in",
 "edgeId": "e-b15d55bc2b",
 "edgeLabel": "Blue Book's former headquarters monitor sat on the NICAP board",
-"family": "conduct",
+"family": "other",
 "id": "nicap",
 "l0": true,
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
-"predicate": "in_contact_with",
+"predicate": "connected_to",
 "predicateSide": "either",
 "sources": [
 {
@@ -706,7 +706,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -747,12 +747,12 @@
 "direction": "in",
 "edgeId": "e-acd43d41ac",
 "edgeLabel": "MOON DUST was the retrieval function alongside Blue Book's public sighting file",
-"family": "analysis",
+"family": "place-time",
 "id": "project-moon-dust",
 "l0": false,
 "label": "Project MOON DUST",
 "note": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
-"predicate": "parallels",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -768,7 +768,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -861,12 +861,12 @@
 "direction": "in",
 "edgeId": "e-2cbf64c664",
 "edgeLabel": "BLUE BOOK records transferred to the National Archives as 94 rolls of microfilm",
-"family": "documents",
+"family": "custody",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.",
-"predicate": "released",
+"predicate": "holds",
 "predicateSide": "object",
 "sources": [
 {
@@ -877,7 +877,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "was released by"
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -913,12 +913,12 @@
 "direction": "in",
 "edgeId": "e-5be026875b",
 "edgeLabel": "The flap occurred during Ruppelt's tenure and drove the record volume",
-"family": "place-time",
+"family": "analysis",
 "id": "washington-flap-1952",
 "l0": false,
 "label": "1952 Washington DC Sightings",
 "note": "Blue Book case documentation for the 19 July 1952 Washington radar events survives; 1952 produced the largest single-year report volume of the program's history.",
-"predicate": "led_to",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -934,7 +934,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "followed from"
+"verb": "is affected by"
 }
 ],
 "coords": null,

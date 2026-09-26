@@ -106,12 +106,12 @@
 "direction": "out",
 "edgeId": "e-637132b95a",
 "edgeLabel": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
-"family": "place-time",
+"family": "role",
 "id": "l-dc",
 "l0": false,
 "label": "Washington, D.C.",
 "note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
-"predicate": "located_at",
+"predicate": "held_post",
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,7 +122,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is located at"
+"verb": "held a post at"
 }
 ],
 "date": "1962-04-18",

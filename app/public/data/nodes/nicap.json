@@ -125,12 +125,12 @@
 "direction": "out",
 "edgeId": "e-b15d55bc2b",
 "edgeLabel": "Blue Book's former headquarters monitor sat on the NICAP board",
-"family": "conduct",
+"family": "other",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
-"predicate": "in_contact_with",
+"predicate": "connected_to",
 "predicateSide": "either",
 "sources": [
 {
@@ -141,7 +141,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was in contact with"
+"verb": "is connected to"
 },
 {
 "claimTier": 1,

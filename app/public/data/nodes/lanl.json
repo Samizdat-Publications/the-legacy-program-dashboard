@@ -53,13 +53,13 @@
 "direction": "in",
 "edgeId": "e-99ff421d34",
 "edgeLabel": "Named in a 1982 laboratory telephone directory, NOT documented as employed by it",
-"family": "other",
+"family": "organisation",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-12",
@@ -69,7 +69,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -79,12 +79,12 @@
 "direction": "in",
 "edgeId": "e-62e89f2da2",
 "edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
-"family": "organisation",
+"family": "money",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
-"predicate": "ran",
+"predicate": "contracted",
 "predicateSide": "object",
 "sources": [
 {
@@ -100,7 +100,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was run by"
+"verb": "was contracted by"
 },
 {
 "claimTier": 2,

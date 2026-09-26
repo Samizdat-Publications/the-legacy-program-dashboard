@@ -241,12 +241,12 @@
 "direction": "out",
 "edgeId": "e-fa3cbb7ee2",
 "edgeLabel": "co-affiliated AAWSAP authors at Wayne State University",
-"family": "other",
+"family": "place-time",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
-"predicate": "connected_to",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -267,7 +267,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is connected to"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,

@@ -79,7 +79,7 @@
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Phillips came to AARO on assignment from ODNI and ran the office between Kirkpatrick and Kosloski.",
-"predicate": "held_post",
+"predicate": "led",
 "predicateSide": "subject",
 "sources": [
 {
@@ -90,7 +90,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "led"
 },
 {
 "claimTier": 1,

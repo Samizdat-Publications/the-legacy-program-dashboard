@@ -63,12 +63,12 @@
 "direction": "out",
 "edgeId": "e-5e8104b5f4",
 "edgeLabel": "Author of the IAA FY2024 contractor turn-in",
-"family": "law",
+"family": "documents",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Warner submitted S.Amdt. 666 on 13 July 2023, which became Division M of the engrossed bill containing Sec. 1102.",
-"predicate": "sponsored_law",
+"predicate": "wrote",
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,7 +79,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "sponsored"
+"verb": "wrote"
 },
 {
 "claimTier": 1,

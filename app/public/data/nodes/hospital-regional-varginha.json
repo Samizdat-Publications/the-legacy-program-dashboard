@@ -42,13 +42,13 @@
 "direction": "out",
 "edgeId": "e-03b4dc1205",
 "edgeLabel": "Varginha discussed in a 2024 meeting with AARO staff",
-"family": "oversight",
+"family": "testimony",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Filmmaker James Fox says that in 2024 he met AARO personnel to discuss video his team had obtained and that the Varginha incident was among the cases debated, with AARO director Dr Jon Kosloski entering the room. This rests solely on Fox's account as reported by The Debrief; AARO's own 2024 report states no investigation has concluded that any UAP report indicates extraterrestrial origin, and the Pentagon did not respond to requests for comment.",
-"predicate": "investigated",
-"predicateSide": "object",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -68,7 +68,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,
@@ -114,13 +114,13 @@
 "direction": "out",
 "edgeId": "e-55af5adca8",
 "edgeLabel": "Burlison took the Varginha hospital testimony and pressed for more witnesses",
-"family": "testimony",
+"family": "oversight",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Rep. Eric Burlison attended the 15 January 2026 closed meeting with the Varginha witnesses, asked whether other hospital staff could corroborate Venturelli's account and urged that they be brought forward, and spoke at the 20 January National Press Club event calling for international transparency.",
-"predicate": "told",
-"predicateSide": "subject",
+"predicate": "investigated",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -140,7 +140,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "passed an account to"
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -186,13 +186,13 @@
 "direction": "in",
 "edgeId": "e-35edaff45d",
 "edgeLabel": "Girao backed Varginha hospital witnesses in Washington",
-"family": "other",
+"family": "conduct",
 "id": "senado-brasil",
 "l0": true,
 "label": "Senado Federal do Brasil",
 "note": "Sen. Eduardo Girao, who presided over the 2022 Brazilian Senate UAP session, travelled to Washington for the 20 January 2026 National Press Club event and praised the Varginha witnesses, and discussed a joint Brazil-US evidence effort with Rep. Eric Burlison. The Debrief is explicit that Girao acted as a private citizen and was not officially representing the Brazilian Senate, so this is a personal rather than institutional linkage.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "supported",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -217,7 +217,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "is connected to"
+"verb": "was supported by"
 }
 ],
 "coords": null,

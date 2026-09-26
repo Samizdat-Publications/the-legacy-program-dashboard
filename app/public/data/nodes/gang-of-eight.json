@@ -90,8 +90,8 @@
 "l0": false,
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The ICIG PPD-19 route reaches the intelligence committees, but access to waived DoD programs is restricted by DoDD 5205.07 (2010) para 4.f to chairs, ranking members and staff directors.",
-"predicate": "parallels",
-"predicateSide": "either",
+"predicate": "affects",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -101,7 +101,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "affects"
 },
 {
 "claimTier": 1,

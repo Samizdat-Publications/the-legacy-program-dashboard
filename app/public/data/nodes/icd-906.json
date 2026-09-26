@@ -205,7 +205,7 @@
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "ICD 906 section D.9 designates the Director of ODNI CAPCO as accountable for implementation and requires management of the CAP Registry of all control systems, compartments and sub-compartments.",
-"predicate": "governs",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -216,7 +216,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "governs"
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -231,7 +231,7 @@
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "",
-"predicate": "governs",
+"predicate": "created",
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,7 +242,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -257,7 +257,7 @@
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "The directive creates the office's duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.",
-"predicate": "created",
+"predicate": "mandated",
 "predicateSide": "subject",
 "sources": [
 {
@@ -273,7 +273,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "created"
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -319,13 +319,13 @@
 "direction": "out",
 "edgeId": "e-e2aa68b41c",
 "edgeLabel": "",
-"family": "law",
+"family": "documents",
 "id": "usc-50-3091a",
 "l0": false,
 "label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "The statute defines its own subject by reference to the directive: 50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'. Congress delegated the definition to an executive instrument, so what counts as a CAP can change without legislation.",
-"predicate": "governs",
-"predicateSide": "subject",
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-05",
@@ -340,7 +340,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "governs"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -350,13 +350,13 @@
 "direction": "in",
 "edgeId": "e-4185e51175",
 "edgeLabel": "Covert action is expressly outside the IC controlled access program regime",
-"family": "law",
+"family": "organisation",
 "id": "usc-50-3093",
 "l0": false,
 "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "ICD 906 section C.3: 'Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.'",
-"predicate": "governs",
-"predicateSide": "subject",
+"predicate": "outside_of",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-19",
@@ -371,7 +371,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "governs"
+"verb": "does not include"
 }
 ],
 "coords": null,

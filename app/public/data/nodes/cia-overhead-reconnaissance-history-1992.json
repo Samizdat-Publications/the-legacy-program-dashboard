@@ -73,13 +73,13 @@
 "direction": "out",
 "edgeId": "e-c581aaba16",
 "edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
-"family": "place-time",
+"family": "documents",
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it.",
-"predicate": "preceded",
-"predicateSide": "subject",
+"predicate": "cites",
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -89,7 +89,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "came before"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,

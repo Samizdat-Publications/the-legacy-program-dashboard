@@ -83,13 +83,13 @@
 "direction": "out",
 "edgeId": "e-7f2d88f3b4",
 "edgeLabel": "CIA's own published history concedes the Air Force made deceptive public statements",
-"family": "testimony",
+"family": "documents",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "'This led the Air Force to make misleading and deceptive statements to the public in order to allay public fears and to protect an extraordinarily sensitive national security project.'",
-"predicate": "contradicts",
-"predicateSide": "subject",
+"predicate": "published",
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -99,7 +99,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "contradicts"
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -135,13 +135,13 @@
 "direction": "in",
 "edgeId": "e-c581aaba16",
 "edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
-"family": "place-time",
+"family": "documents",
 "id": "cia-overhead-reconnaissance-history-1992",
 "l0": false,
 "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
 "note": "The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it.",
-"predicate": "preceded",
-"predicateSide": "object",
+"predicate": "cites",
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -151,7 +151,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "came after"
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -187,12 +187,12 @@
 "direction": "out",
 "edgeId": "e-5622f47f71",
 "edgeLabel": "Blue Book investigators knowingly issued false explanations for U-2 sightings",
-"family": "documents",
+"family": "testimony",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "CIA records that Blue Book investigators aware of the secret U-2 flights attributed sightings to ice crystals and temperature inversions and 'were careful, however, not to reveal the true cause of the sighting to the public.'",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "subject",
 "sources": [
 {
@@ -203,7 +203,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "concerns"
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -296,8 +296,8 @@
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "CIA's own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.",
-"predicate": "affects",
-"predicateSide": "subject",
+"predicate": "parallels",
+"predicateSide": "either",
 "sources": [
 {
 "date": "1997-01-01",
@@ -312,7 +312,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "affects"
+"verb": "parallels"
 }
 ],
 "coords": null,

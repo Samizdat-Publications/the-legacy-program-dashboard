@@ -145,12 +145,12 @@
 "direction": "out",
 "edgeId": "e-7660084926",
 "edgeLabel": "Sworn testimony is oversight's evidence-gathering act",
-"family": "analysis",
+"family": "organisation",
 "id": "d-witness",
 "l0": false,
 "label": "Witness Chain",
 "note": "The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record.",
-"predicate": "affects",
+"predicate": "part_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -161,7 +161,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is affected by"
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -202,7 +202,7 @@
 "l0": false,
 "label": "Washington, D.C.",
 "note": "The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia.",
-"predicate": "located_at",
+"predicate": "occurred_at",
 "predicateSide": "subject",
 "sources": [
 {
@@ -218,7 +218,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is located at"
+"verb": "happened at"
 }
 ],
 "coords": null,

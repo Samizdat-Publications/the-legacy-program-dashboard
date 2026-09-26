@@ -93,12 +93,12 @@
 "direction": "out",
 "edgeId": "e-e941910834",
 "edgeLabel": "The Low memo shows the conclusion was framed before the study began",
-"family": "documents",
+"family": "denial",
 "id": "l-boulder-co",
 "l0": false,
 "label": "Boulder, Colorado",
 "note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
-"predicate": "concerns",
+"predicate": "denied",
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +109,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "concerns"
+"verb": "denied"
 },
 {
 "claimTier": 1,

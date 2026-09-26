@@ -87,12 +87,12 @@
 "direction": "out",
 "edgeId": "e-717558b5d3",
 "edgeLabel": "ordered the UAPTF disestablished and its data and materials transferred to AARO",
-"family": "law",
+"family": "documents",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records.",
-"predicate": "mandated",
+"predicate": "concerns",
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,7 +103,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "requires"
+"verb": "concerns"
 }
 ],
 "coords": null,

@@ -62,12 +62,12 @@
 "direction": "in",
 "edgeId": "e-c5ca7cb71e",
 "edgeLabel": "Conversion from visible to invisible",
-"family": "place-time",
+"family": "analysis",
 "id": "d-program",
 "l0": false,
 "label": "Program Structure & Management",
 "note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
-"predicate": "led_to",
+"predicate": "affects",
 "predicateSide": "object",
 "sources": [
 {
@@ -78,7 +78,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "followed from"
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -88,13 +88,13 @@
 "direction": "in",
 "edgeId": "e-f8bff00c2e",
 "edgeLabel": "Statutory basis for the access tier",
-"family": "organisation",
+"family": "analysis",
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain.",
-"predicate": "part_of",
-"predicateSide": "subject",
+"predicate": "affects",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-01",
@@ -109,7 +109,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is part of"
+"verb": "is affected by"
 },
 {
 "claimTier": 1,
@@ -119,12 +119,12 @@
 "direction": "out",
 "edgeId": "e-eb60349b7a",
 "edgeLabel": "SAP tiers implement compartmentation",
-"family": "analysis",
+"family": "law",
 "id": "d-secrecy-architecture",
 "l0": false,
 "label": "Secrecy Architecture",
 "note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
-"predicate": "exemplifies",
+"predicate": "implements",
 "predicateSide": "subject",
 "sources": [
 {
@@ -135,7 +135,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is an instance of"
+"verb": "implements"
 },
 {
 "claimTier": 1,
@@ -171,12 +171,12 @@
 "direction": "in",
 "edgeId": "e-ec701494a2",
 "edgeLabel": "Orders a special access compartment over a whole policy subject",
-"family": "law",
+"family": "analysis",
 "id": "nsdd-159",
 "l0": false,
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
 "note": "The directive tells the national security adviser to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action', with one designated focal point per agency. This is special access architecture applied to policy rather than to a programme, and it is 1985.",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "object",
 "sources": [
 {
@@ -187,7 +187,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is governed by"
+"verb": "has as an instance"
 }
 ],
 "coords": null,

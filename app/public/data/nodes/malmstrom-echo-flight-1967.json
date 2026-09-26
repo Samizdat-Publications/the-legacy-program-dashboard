@@ -284,12 +284,12 @@
 "direction": "out",
 "edgeId": "e-d2b70dec63",
 "edgeLabel": "Hastings holds and publishes the 17 March 1967 teletype",
-"family": "custody",
+"family": "documents",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown.",
-"predicate": "holds",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -300,7 +300,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is held by"
+"verb": "was published by"
 },
 {
 "claimTier": 2,
@@ -310,12 +310,12 @@
 "direction": "in",
 "edgeId": "e-86165af218",
 "edgeLabel": "Boeing engineer on the investigation task group",
-"family": "testimony",
+"family": "oversight",
 "id": "robert-kaminski",
 "l0": false,
 "label": "Robert J. Kaminski",
 "note": "HIS ACCOUNT REACHED THE PUBLIC AS A 1997 LETTER TO RESEARCHER JIM KLOTZ, THIRTY YEARS AFTER THE EVENT. The half of it that says no cause was found is corroborated by the unit history; the half that says the inquiry was stopped with no report filed is contradicted by it.",
-"predicate": "witnessed",
+"predicate": "investigated",
 "predicateSide": "object",
 "sources": [
 {
@@ -336,7 +336,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,

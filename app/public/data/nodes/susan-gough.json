@@ -207,8 +207,8 @@
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Gough's February 2026 figures mean roughly half of AARO's holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.",
-"predicate": "held_post",
-"predicateSide": "subject",
+"predicate": "worked_with",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-09-01",
@@ -223,7 +223,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -342,12 +342,12 @@
 "direction": "in",
 "edgeId": "e-30674442cf",
 "edgeLabel": "Named respondent",
-"family": "documents",
+"family": "testimony",
 "id": "elizondo-dodig-complaint-2021",
 "l0": false,
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
-"predicate": "concerns",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -358,7 +358,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -425,7 +425,7 @@
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Pentagon spokesperson Sue Gough has stated the Department has 'no record' of such a programme. The Department has not stated that the programme does not exist.",
-"predicate": "denied",
+"predicate": "refused",
 "predicateSide": "subject",
 "sources": [
 {
@@ -436,7 +436,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "denied"
+"verb": "refused"
 },
 {
 "claimTier": 2,
@@ -570,12 +570,12 @@
 "direction": "out",
 "edgeId": "e-39e97fde8b",
 "edgeLabel": "authenticated the letter, denied its significance",
-"family": "denial",
+"family": "testimony",
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
-"predicate": "disputed",
+"predicate": "acknowledged",
 "predicateSide": "subject",
 "sources": [
 {
@@ -586,7 +586,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "disputes"
+"verb": "acknowledged"
 },
 {
 "claimTier": 2,

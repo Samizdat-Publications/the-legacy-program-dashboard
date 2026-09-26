@@ -117,7 +117,7 @@
 "l0": false,
 "label": "James Carlson",
 "note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
-"predicate": "denied",
+"predicate": "disputed",
 "predicateSide": "object",
 "sources": [
 {
@@ -133,7 +133,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "was denied by"
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -205,7 +205,7 @@
 "l0": false,
 "label": "Capt. Robert Jamison",
 "note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
-"predicate": "brought_to_record",
+"predicate": "witnessed",
 "predicateSide": "object",
 "sources": [
 {
@@ -221,7 +221,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -236,7 +236,7 @@
 "l0": false,
 "label": "Capt. Robert L. Salas",
 "note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
-"predicate": "brought_to_record",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -257,7 +257,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "is the subject of claims by"
 }
 ],
 "coords": null,

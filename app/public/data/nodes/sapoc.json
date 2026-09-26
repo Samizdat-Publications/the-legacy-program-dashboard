@@ -199,12 +199,12 @@
 "direction": "in",
 "edgeId": "e-9cf77b75e0",
 "edgeLabel": "Unanimous SRG recommendations bypass the SAPOC entirely",
-"family": "analysis",
+"family": "organisation",
 "id": "srg-dod",
 "l0": false,
 "label": "Senior Review Group (DoD SAP governance)",
 "note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
-"predicate": "affects",
+"predicate": "outside_of",
 "predicateSide": "object",
 "sources": [
 {
@@ -215,7 +215,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "does not include"
 }
 ],
 "coords": null,

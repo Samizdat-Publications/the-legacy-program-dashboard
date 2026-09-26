@@ -404,12 +404,12 @@
 "direction": "in",
 "edgeId": "e-b41085299c",
 "edgeLabel": "The Senate instrument treats the Aeronáutica's record as the national record",
-"family": "testimony",
+"family": "documents",
 "id": "senado-brasil",
 "l0": true,
 "label": "Senado Federal do Brasil",
 "note": "RQS 193/2022 credits Brazil as the first state to admit officially that the objects exist — the 1954 Escola Superior de Guerra meeting at which then-Captain João Adil de Oliveira spoke — lists SIOANI (1969, IV COMAR), Operação Prato (1977) and the 1986 night as official Aeronáutica programmes, and notes that the Aeronáutica 'sempre foi discreta quanto a estes e a outros fatos, mas nunca os negou quando inquirida'. It also records that the Army and Navy did not transfer their holdings — a named, sourced gap in the Brazilian openness story rather than a clean win. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
-"predicate": "acknowledged",
+"predicate": "cites",
 "predicateSide": "object",
 "sources": [
 {
@@ -435,7 +435,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was acknowledged by"
+"verb": "is cited by"
 },
 {
 "claimTier": 1,

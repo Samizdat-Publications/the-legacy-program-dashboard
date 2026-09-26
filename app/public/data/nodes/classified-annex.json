@@ -52,8 +52,8 @@
 "l0": false,
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "Section 4001 authorises obligation of amounts in the funding tables and applies to any classified annex accompanying the Act; the printed tables show only 'CLASSIFIED PROGRAMS' and a number, the annex shows the programme detail. Attested by the enacted text.",
-"predicate": "part_of",
-"predicateSide": "object",
+"predicate": "same_as",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-12-18",
@@ -63,7 +63,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "includes"
+"verb": "is the same as"
 },
 {
 "claimTier": 1,
@@ -135,12 +135,12 @@
 "direction": "in",
 "edgeId": "e-4b0133aa9e",
 "edgeLabel": "The Comptroller executes the annex",
-"family": "role",
+"family": "law",
 "id": "michael-powers-comptroller",
 "l0": false,
 "label": "Michael Powers",
 "note": "The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex.",
-"predicate": "held_post",
+"predicate": "implements",
 "predicateSide": "object",
 "sources": [
 {
@@ -151,7 +151,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "is implemented by"
 },
 {
 "claimTier": 1,
@@ -161,13 +161,13 @@
 "direction": "out",
 "edgeId": "e-c0ad6e3ef2",
 "edgeLabel": "Funding-table amounts, including the annex, do not count against the section 1001 ceiling",
-"family": "law",
+"family": "organisation",
 "id": "sec-1001-gta",
 "l0": false,
 "label": "Section 1001 General Transfer Authority (annual NDAA)",
 "note": "Section 4001(c) of the FY2026 NDAA states transfers or reprogrammings of funding-table amounts shall not count against the section 1001 ceiling unless funds move between appropriation accounts; section 4001(d) applies the section to any classified annex. Attested by the enacted text.",
-"predicate": "governs",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -177,7 +177,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -187,12 +187,12 @@
 "direction": "out",
 "edgeId": "e-b5c0392d90",
 "edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
-"family": "law",
+"family": "organisation",
 "id": "sec-8005-transfer",
 "l0": false,
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
-"predicate": "governs",
+"predicate": "outside_of",
 "predicateSide": "subject",
 "sources": [
 {
@@ -203,7 +203,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "governs"
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -213,12 +213,12 @@
 "direction": "in",
 "edgeId": "e-f0d4ac776f",
 "edgeLabel": "NIP reprogramming is measured against levels that exist only in the annex",
-"family": "documents",
+"family": "law",
 "id": "sec-8084-nip-reprogramming",
 "l0": false,
 "label": "Section 8084 - NIP reprogramming notification against classified annex levels",
 "note": "Section 8084(b) conditions NIP reprogramming notice on cumulative change to 'the levels specified in the classified annex accompanying the Act' - a public statute making the unpublished annex the operative baseline. Attested by the enacted text.",
-"predicate": "cites",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -229,7 +229,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "is cited by"
+"verb": "is governed by"
 },
 {
 "claimTier": 3,
@@ -265,12 +265,12 @@
 "direction": "in",
 "edgeId": "e-b589cbbc34",
 "edgeLabel": "four of the twelve seats are appropriations leadership",
-"family": "custody",
+"family": "oversight",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
-"predicate": "holds",
+"predicate": "oversaw",
 "predicateSide": "object",
 "sources": [
 {
@@ -291,7 +291,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is held by"
+"verb": "was overseen by"
 }
 ],
 "coords": null,

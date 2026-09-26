@@ -85,12 +85,12 @@
 "direction": "out",
 "edgeId": "e-fd4f2ad12e",
 "edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
-"family": "analysis",
+"family": "law",
 "id": "usc-50-3093",
 "l0": false,
 "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
-"predicate": "affects",
+"predicate": "governs",
 "predicateSide": "object",
 "sources": [
 {
@@ -106,7 +106,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is affected by"
+"verb": "is governed by"
 }
 ],
 "coords": null,

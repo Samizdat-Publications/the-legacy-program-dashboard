@@ -123,12 +123,12 @@
 "direction": "in",
 "edgeId": "e-19201b74d1",
 "edgeLabel": "Michels produced and hosted the structural episode",
-"family": "organisation",
+"family": "documents",
 "id": "jesse-michels",
 "l0": false,
 "label": "Jesse Michels",
 "note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
-"predicate": "produced",
+"predicate": "published",
 "predicateSide": "object",
 "sources": [
 {
@@ -139,7 +139,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was produced by"
+"verb": "was published by"
 },
 {
 "claimTier": 2,

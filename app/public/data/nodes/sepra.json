@@ -29,12 +29,12 @@
 "direction": "in",
 "edgeId": "e-e655f31171",
 "edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
-"family": "documents",
+"family": "conduct",
 "id": "doc-cometa-report",
 "l0": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
-"predicate": "concerns",
+"predicate": "supported",
 "predicateSide": "object",
 "sources": [
 {
@@ -45,7 +45,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is the subject of"
+"verb": "was supported by"
 },
 {
 "claimTier": 2,

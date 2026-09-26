@@ -93,12 +93,12 @@
 "direction": "in",
 "edgeId": "e-725c11436a",
 "edgeLabel": "Named as the cause of the December 1962 presidential visit",
-"family": "place-time",
+"family": "testimony",
 "id": "harald-b-malmgren",
 "l0": false,
 "label": "Harald B. Malmgren",
 "note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
-"predicate": "led_to",
+"predicate": "made_claims_about",
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +114,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "followed from"
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -124,12 +124,12 @@
 "direction": "out",
 "edgeId": "e-ae3ccf63e9",
 "edgeLabel": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
-"family": "analysis",
+"family": "place-time",
 "id": "l-white-sands",
 "l0": false,
 "label": "White Sands Missile Range, New Mexico",
 "note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.",
-"predicate": "parallels",
+"predicate": "concurrent_with",
 "predicateSide": "either",
 "sources": [
 {
@@ -140,7 +140,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "parallels"
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,

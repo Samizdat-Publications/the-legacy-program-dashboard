@@ -90,8 +90,8 @@
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
-"predicate": "made_claims_about",
-"predicateSide": "subject",
+"predicate": "alleged_tie",
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-02-28",
@@ -106,7 +106,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "made claims about"
+"verb": "is alleged to be tied to"
 }
 ],
 "date": "1993-01-01",

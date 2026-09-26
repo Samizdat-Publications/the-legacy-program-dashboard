@@ -173,7 +173,7 @@
 "l0": false,
 "label": "Robert I. Sarbacher",
 "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
-"predicate": "contradicts",
+"predicate": "told",
 "predicateSide": "object",
 "sources": [
 {
@@ -184,7 +184,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is contradicted by"
+"verb": "received an account from"
 }
 ],
 "date": "1962-12-27",

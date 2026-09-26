@@ -121,7 +121,7 @@
 "l0": false,
 "label": "National Security Council",
 "note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
-"predicate": "governs",
+"predicate": "created",
 "predicateSide": "subject",
 "sources": [
 {
@@ -132,7 +132,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "governs"
+"verb": "created"
 }
 ],
 "coords": null,

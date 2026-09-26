@@ -41,12 +41,12 @@
 "direction": "in",
 "edgeId": "e-f9137f2573",
 "edgeLabel": "The wing historian's file recovering an event his own wing history omitted",
-"family": "oversight",
+"family": "documents",
 "id": "doc-wurtsmith-historian-1979",
 "l0": false,
 "label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
 "note": "Cahill's Research Record of Events of 17 January 1979 and Taylor's Memo for the Record of 18 January 1979.",
-"predicate": "investigated",
+"predicate": "concerns",
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +57,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,

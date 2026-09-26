@@ -118,12 +118,12 @@
 "direction": "out",
 "edgeId": "e-233b7b64d2",
 "edgeLabel": "Named as demanding removal of the Board's subpoena power",
-"family": "denial",
+"family": "conduct",
 "id": "uap-records-review-board",
 "l0": false,
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
-"predicate": "refused",
+"predicate": "acted_against",
 "predicateSide": "subject",
 "sources": [
 {
@@ -139,7 +139,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "took action against"
 },
 {
 "claimTier": 2,
@@ -154,7 +154,7 @@
 "l0": false,
 "label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
-"predicate": "refused",
+"predicate": "disputed",
 "predicateSide": "subject",
 "sources": [
 {
@@ -170,7 +170,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "disputes"
 }
 ],
 "date": "2023-12-22",

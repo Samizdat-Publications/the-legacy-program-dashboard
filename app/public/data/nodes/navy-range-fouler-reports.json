@@ -129,13 +129,13 @@
 "direction": "out",
 "edgeId": "e-319485e757",
 "edgeLabel": "Reporting volume tracks the existence of a channel, not the phenomenon",
-"family": "documents",
+"family": "place-time",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent from 2021 alone - the year after the Task Force was stood up.",
-"predicate": "concerns",
-"predicateSide": "subject",
+"predicate": "led_to",
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -145,7 +145,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "concerns"
+"verb": "followed from"
 }
 ],
 "coords": null,

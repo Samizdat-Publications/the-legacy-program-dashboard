@@ -53,13 +53,13 @@
 "direction": "out",
 "edgeId": "e-98ad34a71e",
 "edgeLabel": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
-"family": "denial",
+"family": "organisation",
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
-"predicate": "omitted",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2000-01-01",
@@ -69,7 +69,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is left out of"
+"verb": "falls outside"
 },
 {
 "claimTier": 2,
@@ -131,13 +131,13 @@
 "direction": "out",
 "edgeId": "e-2c17e6bb88",
 "edgeLabel": "Not informed at the time, and no threat to the UK",
-"family": "place-time",
+"family": "organisation",
 "id": "uk-mod",
 "l0": false,
 "label": "United Kingdom Ministry of Defence",
 "note": "The guide summarises a letter from Malcolm Rifkind to Lord Hill-Norton saying the MoD was not informed of the incident at the time and concluded there was no threat to the UK.",
-"predicate": "responded_to",
-"predicateSide": "object",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-08-17",
@@ -147,7 +147,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "drew a response from"
+"verb": "falls outside"
 }
 ],
 "coords": null,

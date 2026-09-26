@@ -110,12 +110,12 @@
 "direction": "out",
 "edgeId": "e-f57dd7ab57",
 "edgeLabel": "The statutory definition of Restricted Data",
-"family": "law",
+"family": "analysis",
 "id": "d-nuclear",
 "l0": false,
 "label": "Nuclear Security & Restricted Data",
 "note": "42 U.S.C. 2014(y), enacted as section 11 r.: all data concerning design, manufacture or utilization of atomic weapons, the production of special nuclear material, or the use of special nuclear material in the production of energy, less whatever has been declassified under the statutory procedure.",
-"predicate": "governs",
+"predicate": "exemplifies",
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,7 +126,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "governs"
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -136,13 +136,13 @@
 "direction": "in",
 "edgeId": "e-8728c3e910",
 "edgeLabel": "Excludes Restricted Data from the executive classification system",
-"family": "other",
+"family": "organisation",
 "id": "eo-10501",
 "l0": false,
 "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "note": "Section 13 leaves Atomic Energy Act Restricted Data outside the order's reach. This is the seam between the two regimes: one body of information in United States law is classified by statute and not by executive order, and the executive order says so itself. Note the order predates the 1954 Act by ten months and the exclusion runs to the Atomic Energy Act as it then stood.",
-"predicate": "connected_to",
-"predicateSide": "either",
+"predicate": "outside_of",
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -157,7 +157,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is connected to"
+"verb": "falls outside"
 }
 ],
 "coords": null,
