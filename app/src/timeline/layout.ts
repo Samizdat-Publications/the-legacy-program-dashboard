@@ -171,8 +171,12 @@ export interface PackOpts {
 }
 
 /* The width of a count: its digits and a sign, and no more. */
-export function moreWidth(n: number): number {
-  return Math.ceil(textWidth('+' + n)) + 8;
+export function moreWidth(n: number, year?: number, room?: number): number {
+  const short = Math.ceil(textWidth('+' + n)) + 8;
+  if (year == null || room == null) return short;
+  /* "2024 +16" where the year has room for it, else "+16" */
+  const long = Math.ceil(textWidth(year + ' +' + n)) + 8;
+  return long <= room ? long : short;
 }
 
 /* Greedy first-fit by date. A chip is placed only where its whole label fits at
@@ -243,9 +247,9 @@ export function packLane(lane: Lane, events: TEvent[], o: PackOpts): LaneLayout 
   for (const y of years) {
     const list = (left.get(y) || []).slice().sort((a, b) => (a.date < b.date ? -1 : a.date > b.date ? 1 : a.id < b.id ? -1 : 1));
     counted += list.length;
-    const w = moreWidth(list.length);
-    let x = 0;
-    for (const s of o.slots) if (s.year === y) { x = s.x; break; }
+    let x = 0, room = 0;
+    for (const s of o.slots) if (s.year === y) { x = s.x; room = s.w - 2; break; }
+    const w = moreWidth(list.length, y, room);
     x = Math.max(0, Math.min(x, o.width - w));
     let r = 0;
     for (; r < 200; r++) {

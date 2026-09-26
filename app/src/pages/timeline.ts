@@ -179,8 +179,13 @@ function header(c: Ctx, bad: string[]): HTMLElement {
   if (openEra) bits.push('era ' + openEra.label + ' open');
   const later = c.events.filter((e) => e.era === c.eraId && scheduled(c, e)).length;
   if (later) bits.push(later + (later === 1 ? ' event is' : ' events are') + ' dated after the board’s date of ' + c.present + ': scheduled, marked in amber');
-  bits.push('a chip starts at its date, or ends there when its colour bar is on the right; ' +
-    'click one to read it; a +N count opens the N events it stands for');
+  if (window.innerWidth > 760) {
+    bits.push('a chip starts at its date, or ends there when its colour bar is on the right; the bar’s colour ' +
+      'is the class of the event’s node; click one to read it; a +N count opens the N events of that year it stands for');
+    bits.push('an event sits in the section of its node’s primary topic, whatever its date');
+  } else {
+    bits.push('tap an event to read it; an event sits in the section of its node’s primary topic');
+  }
 
   const line = h('div', { class: 'tl-head' },
     h('span', { class: 'eyebrow' }, 'Timeline'),
@@ -401,11 +406,18 @@ function paintLane(c: Ctx, pack: HTMLElement, lay: LaneLayout, slots: YearSlot[]
         'aria-label': it.evs.length + ' more events in ' + it.year + ', ' + lane.label + ': open the list',
         'data-tl-more': '1', 'data-kind': 'more', 'data-era': c.eraId, 'data-section': lane.id,
         'data-year': String(it.year), 'data-ids': ids.join(' '),
-      }, '+' + it.evs.length);
+      }, moreText(it.evs.length, it.year, it.w));
       b.addEventListener('click', () => { pick = { kind: 'list', ids, lane: lane.label, year: it.year }; drawPanel(c, panel, true); markPick(); });
       pack.append(b);
     }
   }
+}
+
+/* A count names its year when the year has room for it (blind critic, phase 9
+   round 3: a bare "+16" did not say which year it stood for). */
+function moreText(n: number, year: number, w: number): string {
+  const long = year + ' +' + n;
+  return w >= textWidth(long) + 8 ? long : '+' + n;
 }
 
 /* the event in the panel is the chip marked on the grid */

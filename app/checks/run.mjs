@@ -3343,7 +3343,9 @@ async function main() {
     const got = drawn.slice().sort();
     const dup = got.filter((x, i) => i && got[i - 1] === x);
     const printed = Number((t.openEraSub.match(/(\d+)\s+events/) || [])[1]);
-    const miscount = t.mores.filter((m) => m.text !== '+' + m.ids.length).map((m) => m.id + ' says ' + m.text + ', holds ' + m.ids.length);
+    /* a count reads "+N", or "YYYY +N" where its year has room: the number and, when printed, the year must be its own */
+    const cnt = (m) => { const x = /^(?:(\d{4}) )?\+(\d+)$/.exec(m.text); return x && Number(x[2]) === m.ids.length && (!x[1] || x[1] === m.year); };
+    const miscount = t.mores.filter((m) => !cnt(m)).map((m) => m.id + ' says ' + m.text + ', holds ' + m.ids.length);
     check('c15', got.join('|') === want.join('|') && dup.length === 0 && printed === want.length && repeats.length === 0 && miscount.length === 0,
       'C15 the open era names every one of its events once, on a chip or behind a count that says how many',
       `era ${openEra}: ${t.items.length} chips + ${t.mores.reduce((a, m) => a + m.ids.length, 0)} counted = ${got.length}, ` +
@@ -3467,7 +3469,7 @@ async function main() {
       const m = TL.more.more, pn = TL.more.panel;
       const got = pn.list.map((x) => x.id);
       const named = pn.list.every((x) => x.label && x.label === (byEv.get(x.id) || {}).label);
-      check('c53', pn.mode === 'list' && got.length === m.ids.length && got.join('|') === m.ids.join('|') && named && m.text === '+' + m.ids.length,
+      check('c53', pn.mode === 'list' && got.length === m.ids.length && got.join('|') === m.ids.join('|') && named && m.text.endsWith('+' + m.ids.length),
         'C53 a count opens the named list of exactly the events it counts',
         `${m.text} in ${m.section} ${m.year}: list of ${got.length}, all named ${named}`);
     } else skip('C53 a count opens its named list', 'the open era placed every event on a chip');

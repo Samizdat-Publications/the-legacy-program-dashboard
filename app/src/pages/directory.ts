@@ -317,7 +317,7 @@ function row(r: Row, people: boolean, ttitle: Map<string, string>, stitle: Map<s
       f ? (f.roleStatus === UNK ? 'role status unknown' : f.roleStatus + ' role') : ''));
     tr.append(st);
     tr.append(h('td', { class: 'c-oath', 'data-h': 'under oath', title: b.underOath || null },
-      !f || f.underOath === UNK ? h('span', { class: 'faint' }, 'not stated')
+      !f || f.underOath === UNK ? h('span', { class: 'faint' }, 'unknown')
         : f.underOath === 'yes' ? 'under oath' : 'record says not'));
   }
   /* the era on its own line, named as the era, so "1946 · THROUGH 1969" is
