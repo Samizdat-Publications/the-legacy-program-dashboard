@@ -642,7 +642,8 @@
     "event",
     "program",
     "location",
-    "institution"
+    "institution",
+    "person"
    ],
    "refines": "custody",
    "subject": [
@@ -751,7 +752,8 @@
    "subject": [
     "legislation",
     "document",
-    "institution"
+    "institution",
+    "program"
    ],
    "use": "regulates, defines, codifies, restricts, exempts, conditions funding on, sets rules for"
   },
@@ -786,7 +788,8 @@
     "legislation",
     "document",
     "institution",
-    "program"
+    "program",
+    "person"
    ],
    "use": "a regulation, manual, instruction or office putting a higher instrument into effect"
   },
@@ -829,7 +832,8 @@
     "institution",
     "program",
     "event",
-    "location"
+    "location",
+    "document"
    ],
    "refines": "legislative",
    "subject": [
@@ -878,14 +882,16 @@
    "inverse": "receives reports from",
    "object": [
     "person",
-    "institution"
+    "institution",
+    "program"
    ],
    "refines": "legislative",
    "subject": [
     "person",
     "institution",
     "program",
-    "document"
+    "document",
+    "event"
    ],
    "use": "must notify, report to or brief; briefed; a report submitted to"
   },
@@ -1318,6 +1324,17 @@
   },
   {
    "family": "place-time",
+   "forward": "happened alongside",
+   "id": "concurrent_with",
+   "inverse": "happened alongside",
+   "object": "any",
+   "refines": "temporal",
+   "subject": "any",
+   "symmetric": true,
+   "use": "at the same time or in the same place, with no order or cause stated (co-occurrence, adjacency)"
+  },
+  {
+   "family": "place-time",
    "forward": "led to",
    "id": "led_to",
    "inverse": "followed from",
@@ -1335,6 +1352,21 @@
    "refines": "temporal",
    "subject": "any",
    "use": "answered, acted on, rebutted in time (a rebuttal by an interested party is a denial predicate)"
+  },
+  {
+   "family": "conduct",
+   "forward": "supported",
+   "id": "supported",
+   "inverse": "was supported by",
+   "object": "any",
+   "refines": "behavioral",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "use": "backed, endorsed, advocated for or lobbied for something other than a bill it sponsored"
   },
   {
    "family": "conduct",
@@ -1417,7 +1449,7 @@
    "use": "ONLY when no predicate above fits the sentence"
   }
  ],
- "source": "ea5665124f95",
+ "source": "4a7eb51ccc9a",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

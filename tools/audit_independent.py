@@ -197,13 +197,14 @@ def predicate_rules(vocab, b):
     FAMILIES = ["role", "organisation", "money", "custody", "law", "oversight", "testimony",
                 "denial", "documents", "media", "place-time", "conduct", "analysis", "other"]
     DENIAL = {"denied", "refused", "disputed", "explained_away", "omitted"}
-    SYMMETRIC = {"worked_with", "same_as", "in_contact_with", "parallels", "alleged_tie", "connected_to"}
+    SYMMETRIC = {"worked_with", "same_as", "in_contact_with", "parallels", "alleged_tie",
+                 "concurrent_with", "connected_to"}
     preds = {p["id"]: p for p in vocab.get("predicates") or []}
     ck("schema/vocab.json names the fourteen predicate families",
        [f["id"] for f in vocab.get("predicateFamilies") or []], FAMILIES)
     ck("the Denials family is exactly the five denial predicates",
        sorted(k for k, p in preds.items() if p["family"] == "denial"), sorted(DENIAL))
-    ck("the symmetric predicates are exactly the six",
+    ck("the symmetric predicates are exactly the seven",
        sorted(k for k, p in preds.items() if p.get("symmetric")), sorted(SYMMETRIC))
     ck("connected_to is the one predicate in the other family and refines no type",
        [(k, p["refines"]) for k, p in preds.items() if p["family"] == "other"],
