@@ -56,40 +56,6 @@
 "claimsMade": [
 {
 "artefactDate": "2001",
-"eventDate": "1987-01-02",
-"id": "c-bba6b740bb",
-"node": "jal-1628-1986",
-"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
-"route": "document",
-"source": {
-"domain": "cdn.centerforinquiry.org",
-"text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
-"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
-},
-"text": "From the FAA's own 2 January 1987 crew interview, as reported by Klass, Capt. Terauchi 'admitted that this was the third time he had reported sighting a UFO'; and on 11 January 1987 he reported a fourth sighting over Alaska which, after landing, he told FAA personnel he believed was 'light from a petroleum pumping station bouncing off clouds of ice crystals'.",
-"tier": 2,
-"topic": "aviation-cases",
-"via": null
-},
-{
-"artefactDate": "2001",
-"eventDate": null,
-"id": "c-cef312081f",
-"node": "jal-1628-1986",
-"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
-"route": "document",
-"source": {
-"domain": "cdn.centerforinquiry.org",
-"text": "Philip J. Klass, Skeptics UFO Newsletter (SUN) #68, Summer 2001, 'Dr. Greer's Disclosure Conference Reveals His New Strategy'; PDF downloaded and converted to text in full this session, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf , opened 2026-09-19",
-"url": "https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/2022/09/26195512/SUN-68-Summer-2001.pdf"
-},
-"text": "The air traffic control transcript, as Klass prints it, records that a United Airlines crew vectored toward JAL 1628 for a closer look reported 'We've got the Japan airliner in sight. I don't see anybody around him', and again 'I don't see anybody around him at all. I can see his contrail but I sure don't see any other airplanes.' A USAF C-130 vectored to within about fifteen miles 'reported seeing no other traffic in the vicinity of JAL 1628'.",
-"tier": 2,
-"topic": "aviation-cases",
-"via": null
-},
-{
-"artefactDate": "2001",
 "eventDate": "2001-05-09",
 "id": "c-d726ea4ed0",
 "node": "john-callahan",
@@ -260,7 +226,7 @@
 },
 {
 "artefactDate": "2001",
-"eventDate": "2001-05",
+"eventDate": "2001-05-09",
 "id": "c-f1309e7d6f",
 "node": "clifford-stone",
 "nodeLabel": "Clifford E. Stone",
@@ -298,30 +264,13 @@
 "id": "c-f553ff4141",
 "node": "d-mj12",
 "nodeLabel": "Majestic-12 Corpus",
-"route": "document",
+"route": "press",
 "source": {
 "domain": null,
 "text": "Klass, Skeptical Inquirer",
 "url": null
 },
 "text": "Philip J. Klass published a forensic critique identifying document anomalies in Skeptical Inquirer in 1988.",
-"tier": 2,
-"topic": "mj12-documents",
-"via": null
-},
-{
-"artefactDate": null,
-"eventDate": null,
-"id": "c-0b511dc817",
-"node": "stanton-friedman",
-"nodeLabel": "Stanton T. Friedman",
-"route": "document",
-"source": {
-"domain": null,
-"text": "Wikipedia biography of Friedman; Klass-Friedman correspondence",
-"url": null
-},
-"text": "Philip J. Klass offered Friedman $100 per legitimate example of the Pica typeface used in the Cutler-Twining memo; Friedman produced fourteen and was paid $1,000.",
 "tier": 2,
 "topic": "mj12-documents",
 "via": null

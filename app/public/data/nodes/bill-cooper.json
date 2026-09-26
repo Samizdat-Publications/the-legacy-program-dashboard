@@ -28,10 +28,10 @@
 {
 "id": "c-f34f3635a2",
 "meta": {
-"artefactDate": null,
+"artefactDate": "1989",
 "claimant": "bill-cooper",
 "claimantLabel": "Milton William Cooper",
-"eventDate": "1989",
+"eventDate": null,
 "route": "document",
 "speaker": null,
 "via": null
@@ -58,8 +58,8 @@
 ],
 "claimsMade": [
 {
-"artefactDate": null,
-"eventDate": "1989",
+"artefactDate": "1989",
+"eventDate": null,
 "id": "c-f34f3635a2",
 "node": "bill-cooper",
 "nodeLabel": "Milton William Cooper",

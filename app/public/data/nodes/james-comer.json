@@ -59,7 +59,7 @@
 "claimant": "james-comer",
 "claimantLabel": "James Comer Jr.",
 "eventDate": "2026-04-20",
-"route": "broadcast",
+"route": "press",
 "speaker": null,
 "via": "Fox News"
 },
@@ -81,7 +81,7 @@
 "id": "c-f9d79c4b2f",
 "node": "james-comer",
 "nodeLabel": "James Comer Jr.",
-"route": "broadcast",
+"route": "press",
 "source": {
 "domain": null,
 "text": "Fox News, 21 April 2026",
@@ -91,6 +91,23 @@
 "tier": 2,
 "topic": "house-push-2026",
 "via": "Fox News"
+},
+{
+"artefactDate": "2025-02-18",
+"eventDate": null,
+"id": "c-5783b95c3e",
+"node": "comer-luna-agency-letters-2025",
+"nodeLabel": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Hill (opinion), 18 February 2025",
+"url": null
+},
+"text": "Comer and Luna sent letters to Secretary of State Marco Rubio, Secretary of Defense Pete Hegseth and CIA Director John Ratcliffe requesting a briefing on all UAP-related records in their possession, with the goal of 'deliver[ing] transparency to the American people.'",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "The Hill (opinion)"
 },
 {
 "artefactDate": "2025-02-18",
@@ -110,29 +127,12 @@
 "via": "The Hill (opinion)"
 },
 {
-"artefactDate": "2025-02-18",
-"eventDate": "2025-02-11",
-"id": "c-d1335c0a12",
-"node": "task-force-declassification-federal-secrets",
-"nodeLabel": "Task Force on the Declassification of Federal Secrets",
-"route": "press",
-"source": {
-"domain": null,
-"text": "The Hill (opinion), 18 February 2025",
-"url": null
-},
-"text": "Established 11 February 2025 by Chairman Comer; Comer and Luna sent letters to Rubio, Hegseth and Ratcliffe requesting a briefing on all UAP-related records in their possession.",
-"tier": 2,
-"topic": "task-force-2025",
-"via": null
-},
-{
 "artefactDate": "2026-04-21",
-"eventDate": "2026-04-27",
+"eventDate": null,
 "id": "c-fd94d3df51",
 "node": "william-mccasland",
 "nodeLabel": "William Neil McCasland",
-"route": "broadcast",
+"route": "press",
 "source": {
 "domain": null,
 "text": "Fox News, 21 April 2026",

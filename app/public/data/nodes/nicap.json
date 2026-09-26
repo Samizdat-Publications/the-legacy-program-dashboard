@@ -64,6 +64,23 @@
 },
 {
 "artefactDate": null,
+"eventDate": "1975-10-27",
+"id": "c-4f9a5b694f",
+"node": "loring-1975",
+"nodeLabel": "Loring AFB penetrations, 27 to 31 October 1975",
+"route": "document",
+"source": {
+"domain": "www.nicap.org",
+"text": "NICAP, http://www.nicap.org/intsac.htm and http://www.nicap.org/articles/CI-Loring.htm , both opened 2026-09-19",
+"url": "http://www.nicap.org/intsac.htm"
+},
+"text": "SSgt Danny K. Lewis of the 42nd Security Police Squadron first sighted the object at about 1945 on 27 October 1975 while on duty at the munitions storage area; Sgt Clifton W. Blakeslee and SSgt William J. Long saw a similar craft the following night; SSgt James P. Sampley of the 2192nd Communications Squadron tracked it on tower radar; and Sgt Grover K. Eggleston tracked it for forty minutes before it vanished from the screen.",
+"tier": 2,
+"topic": "sac-overflights-1975",
+"via": null
+},
+{
+"artefactDate": null,
 "eventDate": null,
 "id": "c-995bfbadff",
 "node": "l-loring",
@@ -75,6 +92,40 @@
 "url": "http://www.nicap.org/intsac.htm"
 },
 "text": "Named Loring witnesses are in the contemporaneous record rather than in any interview programme: SSgt Danny K. Lewis, Sgt Clifton W. Blakeslee, SSgt William J. Long, SSgt Michael D. Scott, TSgt David E. Mott and Capt. Richard R. Fuhs of the 42nd Security Police Squadron; SSgt James P. Sampley and Sgt Grover K. Eggleston of the 2192nd Communications Squadron; Sgt Steven Eichner and Sgt R. Jones of a B-52 crew; and Col. Richard E. Chapman, Commander of the 42nd Bomb Wing, who implemented a Security Option 3 alert.",
+"tier": 2,
+"topic": "sac-overflights-1975",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1975-10",
+"id": "c-e4efa34130",
+"node": "strategic-air-command",
+"nodeLabel": "Strategic Air Command (SAC)",
+"route": "press",
+"source": {
+"domain": "www.nicap.org",
+"text": "NICAP, http://www.nicap.org/intsac.htm , and The War Zone, https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base , both opened 2026-09-19",
+"url": "http://www.nicap.org/intsac.htm"
+},
+"text": "Several SAC bases in the northern tier were placed on a high priority Security Option 3 alert during the October and November 1975 intrusions over atomic weapons storage areas, and a SAC security police message of October 1975 was captioned 'Defense Against Helicopter Assault'.",
+"tier": 2,
+"topic": "sac-overflights-1975",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-f91d854ede",
+"node": "l-wurtsmith",
+"nodeLabel": "Wurtsmith AFB, Michigan",
+"route": "document",
+"source": {
+"domain": "www.nicap.org",
+"text": "NICAP, http://www.nicap.org/articles/CI-Wurtsmith.htm and https://www.nicap.org/babylon/751030_wurtsmith.htm , both opened 2026-09-19",
+"url": "http://www.nicap.org/articles/CI-Wurtsmith.htm"
+},
+"text": "Named ground witnesses at Wurtsmith are in the contemporaneous record: Airman Martin E. Tackabury at the Capehart housing area gate, Airman Michael J. Myers of Police Unit Seven at the motor pool, Sergeant Robert J. Anderson at the motor pool, Airman Roger Skipper at the main gate and Sergeant James A. Miller of the weapons storage area security police. Col. Boardman is named as wing commander.",
 "tier": 2,
 "topic": "sac-overflights-1975",
 "via": null

@@ -162,7 +162,7 @@
 "claimant": "uap-gerb",
 "claimantLabel": "'UAP Gerb' (Sam)",
 "eventDate": null,
-"route": "broadcast",
+"route": "document",
 "speaker": null,
 "via": null
 },
@@ -177,7 +177,7 @@
 "claimant": "uap-gerb",
 "claimantLabel": "'UAP Gerb' (Sam)",
 "eventDate": "1958",
-"route": "broadcast",
+"route": "document",
 "speaker": null,
 "via": null
 },
@@ -222,7 +222,7 @@
 "claimant": "uap-gerb",
 "claimantLabel": "'UAP Gerb' (Sam)",
 "eventDate": null,
-"route": "broadcast",
+"route": "document",
 "speaker": null,
 "via": null
 },
@@ -252,7 +252,7 @@
 "claimant": "uap-gerb",
 "claimantLabel": "'UAP Gerb' (Sam)",
 "eventDate": "2017",
-"route": "broadcast",
+"route": "document",
 "speaker": null,
 "via": null
 },
@@ -267,7 +267,7 @@
 "claimant": "uap-gerb",
 "claimantLabel": "'UAP Gerb' (Sam)",
 "eventDate": null,
-"route": "broadcast",
+"route": "document",
 "speaker": null,
 "via": null
 },
@@ -282,7 +282,7 @@
 "claimant": "uap-gerb",
 "claimantLabel": "'UAP Gerb' (Sam)",
 "eventDate": null,
-"route": "broadcast",
+"route": "document",
 "speaker": null,
 "via": null
 },
@@ -330,7 +330,7 @@
 "claimsMade": [
 {
 "artefactDate": "2024-10-21",
-"eventDate": "1988",
+"eventDate": "2024-10-21",
 "id": "c-4b574a5d5b",
 "node": "mark-mccandlish",
 "nodeLabel": "Mark McCandlish",
@@ -347,7 +347,7 @@
 },
 {
 "artefactDate": "2026-03-20",
-"eventDate": "1946-12-31",
+"eventDate": "1947",
 "id": "c-6a6e082f05",
 "node": "afswp",
 "nodeLabel": "Armed Forces Special Weapons Project",
@@ -368,7 +368,7 @@
 "id": "c-956b7eef41",
 "node": "dtra",
 "nodeLabel": "Defense Threat Reduction Agency",
-"route": "broadcast",
+"route": "interview",
 "source": {
 "domain": "www.archives.gov",
 "text": "Batch 17 file 03, 0:43;33-0:44;22, research/leads/area52-corpus-17.md; checked against RG 374, https://www.archives.gov/research/guide-fed-records/groups/374.html and 63 FR 68736, https://www.federalregister.gov/documents/1998/12/14/98-33042/privacy-act-of-1974-system-of-records",
@@ -504,7 +504,7 @@
 "id": "c-59c1b1c96b",
 "node": "steven-greer",
 "nodeLabel": "Steven M. Greer",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb livestream description, 12 May 2026",
@@ -538,7 +538,7 @@
 "id": "c-4a61c13c2f",
 "node": "gerb-hidden-wing",
 "nodeLabel": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
@@ -555,7 +555,7 @@
 "id": "c-5d28828837",
 "node": "gerb-hidden-wing",
 "nodeLabel": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, 'The Hidden Wing' description, 30 January 2026",
@@ -579,6 +579,23 @@
 "url": null
 },
 "text": "Battelle studied UAP material - likely a shape-memory metallic alloy from the 1947 Roswell site, now referred to as nitinol - and participated with the USAF in building a machine index of UFO reports and in quelling public interest.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2025-11-01",
+"eventDate": null,
+"id": "c-6d8d2ec5bb",
+"node": "gerb-sandia-investigation",
+"nodeLabel": "UAP Gerb - Sandia National Laboratories investigation",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Sandia investigation description, 1 November 2025",
+"url": null
+},
+"text": "USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle.",
 "tier": 2,
 "topic": "ffrdc-probes",
 "via": null
@@ -657,7 +674,7 @@
 "id": "c-57ba3bcfaa",
 "node": "uap-gerb",
 "nodeLabel": "'UAP Gerb' (Sam)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, video description, 'National Reconnaissance Office - UFO Crash Retrievals, Surveillance, and Legacy Program Gatekeepers', published 13 December 2025",
@@ -691,7 +708,7 @@
 "id": "c-67fdd8e2d1",
 "node": "uap-gerb",
 "nodeLabel": "'UAP Gerb' (Sam)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, video description, 'The Hidden Wing - US Air Force UFO Reverse Engineering Programs', published 30 January 2026",
@@ -708,7 +725,7 @@
 "id": "c-5a1dad12f3",
 "node": "uap-gerb",
 "nodeLabel": "'UAP Gerb' (Sam)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, video description, 'Northrop Grumman & TRW' Vol.2, published 20 March 2026",
@@ -725,7 +742,7 @@
 "id": "c-6e7381fd4e",
 "node": "gerb-northrop-trw-investigation",
 "nodeLabel": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, extrapolating from David Grusch's statements on Megyn Kelly",
@@ -759,7 +776,7 @@
 "id": "c-4bea1dda1f",
 "node": "uap-gerb",
 "nodeLabel": "'UAP Gerb' (Sam)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, video description, 'The Manhattan Project 2.0' Vol.1, 1 May 2026",
@@ -946,7 +963,7 @@
 "id": "c-5a0d8fa58d",
 "node": "uap-gerb",
 "nodeLabel": "'UAP Gerb' (Sam)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, video description, MITRE investigation, 7 August 2026",
@@ -963,7 +980,7 @@
 "id": "c-5dc4eabd2c",
 "node": "uap-gerb",
 "nodeLabel": "'UAP Gerb' (Sam)",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, video description, 'The MITRE Corporation - UFO Reverse Engineering, USO Tracking, & Legacy Programs', published 7 August 2026",
@@ -980,7 +997,7 @@
 "id": "c-623dc83a8f",
 "node": "gerb-mitre-investigation",
 "nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb, MITRE investigation description, 7 August 2026",
@@ -997,7 +1014,7 @@
 "id": "c-66eeaec9a5",
 "node": "gerb-mitre-investigation",
 "nodeLabel": "UAP Gerb - The MITRE Corporation investigation",
-"route": "broadcast",
+"route": "document",
 "source": {
 "domain": null,
 "text": "UAP Gerb video description, 7 August 2026",
@@ -1247,6 +1264,23 @@
 "via": null
 },
 {
+"artefactDate": "2026-03-20",
+"eventDate": null,
+"id": "c-ebe714bfa2",
+"node": "gerb-northrop-trw-investigation",
+"nodeLabel": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "UAP Gerb, Northrop Grumman & TRW Vol.2 description, 20 March 2026, citing David Grusch",
+"url": null
+},
+"text": "Stephanie O'Sullivan - former Principal Deputy DNI, former TRW engineer and current Aerospace Corporation board member - is stated by David Grusch to have managed the UFO crash retrieval issue alongside James Clapper at ODNI.",
+"tier": 2,
+"topic": "named-contractors",
+"via": null
+},
+{
 "artefactDate": "2026-07-17",
 "eventDate": null,
 "id": "c-f77dc3c4cc",
@@ -1286,7 +1320,7 @@
 "id": "c-b4cf5ccf24",
 "node": "office-of-naval-research",
 "nodeLabel": "Office of Naval Research",
-"route": "broadcast",
+"route": "interview",
 "source": {
 "domain": null,
 "text": "Batch 17 file 01, 0:25;01, research/leads/area52-corpus-17.md",

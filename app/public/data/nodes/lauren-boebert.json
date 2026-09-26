@@ -32,35 +32,16 @@
 "id": "c-dc1a525a2a",
 "meta": {
 "artefactDate": "2024-11-13",
-"claimant": "lauren-boebert",
-"claimantLabel": "Lauren Opal Boebert",
+"claimant": "michael-shellenberger",
+"claimantLabel": "Michael Shellenberger",
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "CHRG-118hhrg57440, 13 November 2024",
 "text": "Asked Shellenberger: 'Do you believe that there is a concerted effort by the Pentagon to keep Congress out of the loop regarding these UAP activities specifically in our waters?' Shellenberger: 'Yes.'",
 "tier": 1
-}
-],
-"claimsMade": [
-{
-"artefactDate": "2024-11-13",
-"eventDate": null,
-"id": "c-dc1a525a2a",
-"node": "lauren-boebert",
-"nodeLabel": "Lauren Opal Boebert",
-"route": "hearing",
-"source": {
-"domain": null,
-"text": "CHRG-118hhrg57440, 13 November 2024",
-"url": null
-},
-"text": "Asked Shellenberger: 'Do you believe that there is a concerted effort by the Pentagon to keep Congress out of the loop regarding these UAP activities specifically in our waters?' Shellenberger: 'Yes.'",
-"tier": 1,
-"topic": "task-force-2025",
-"via": null
 }
 ],
 "cls": "person",

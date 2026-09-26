@@ -82,7 +82,7 @@
 },
 {
 "artefactDate": "2019-02-21",
-"eventDate": null,
+"eventDate": "2017-08-16",
 "id": "c-11acfb83a8",
 "node": "pais-app-superconductor",
 "nodeLabel": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
@@ -99,7 +99,7 @@
 },
 {
 "artefactDate": "2019-06-18",
-"eventDate": null,
+"eventDate": "2017-02-14",
 "id": "c-00d9699447",
 "node": "pais-patent-hfgw",
 "nodeLabel": "US Patent 10,322,827 - High frequency gravitational wave generator",
@@ -116,7 +116,7 @@
 },
 {
 "artefactDate": "2019-09-26",
-"eventDate": null,
+"eventDate": "2018-03-22",
 "id": "c-14af0beb73",
 "node": "pais-app-fusion",
 "nodeLabel": "US Application 2019/0295733 - Plasma Compression Fusion Device",
@@ -151,6 +151,23 @@
 {
 "artefactDate": "2021-02-01",
 "eventDate": "2019-09",
+"id": "c-fb470865de",
+"node": "pais-patent-emfg",
+"nodeLabel": "US Patent 10,135,366 - Electromagnetic field generator",
+"route": "press",
+"source": {
+"domain": "www.twz.com",
+"text": "Brett Tingley, The War Zone, updated 1 February 2021, quoting Timothy Boulay, Communications Director, NAWCAD, https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments , opened 2026-09-19",
+"url": "https://www.twz.com/39012/the-navy-finally-speaks-up-about-its-bizarre-ufo-patent-experiments"
+},
+"text": "THIS IS THE ONE PAIS DEVICE THE NAVY ACTUALLY TESTED, AND THE TEST FAILED. Timothy Boulay, Communications Director at NAWCAD, on the record to Brett Tingley of The War Zone: 'The High Energy Electromagnetic Field Generator testing occurred from October 2016 through September 2019.' 'The cost was $508,000 over the course of three years. Around ninety percent of the total - $462,000 - was for salaries, while the rest was used for equipment, test preparation, testing and assessment.' And: 'When NAWCAD concluded testing in September 2019, the \"Pais Effect\" could not be proven.' Tier 2 because this is a named official on the record and not a document this board has opened; the underlying FOIA release is not in the board's hands.",
+"tier": 2,
+"topic": "navy-patents",
+"via": "Brett Tingley, The War Zone"
+},
+{
+"artefactDate": "2021-02-01",
+"eventDate": "2019-09",
 "id": "c-fc09d86e45",
 "node": "us-navy",
 "nodeLabel": "United States Navy",
@@ -167,17 +184,17 @@
 },
 {
 "artefactDate": null,
-"eventDate": null,
-"id": "c-0722a6873a",
-"node": "pais-patent-imrd",
-"nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
-"route": "filing",
+"eventDate": "2015-07",
+"id": "c-fb7370e586",
+"node": "salvatore-pais",
+"nodeLabel": "Salvatore Cezar Pais",
+"route": "document",
 "source": {
-"domain": "www.freepatentsonline.com",
-"text": "https://www.freepatentsonline.com/10144532.html",
-"url": "https://www.freepatentsonline.com/10144532.html"
+"domain": null,
+"text": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
+"url": null
 },
-"text": "The abstract begins 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters'.",
+"text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
 "tier": 2,
 "topic": "navy-patents",
 "via": null

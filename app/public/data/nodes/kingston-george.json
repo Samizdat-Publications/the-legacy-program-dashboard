@@ -89,7 +89,7 @@
 "claimsMade": [
 {
 "artefactDate": "1993",
-"eventDate": "1964-09",
+"eventDate": null,
 "id": "c-2a3c7f7286",
 "node": "big-sur-1964",
 "nodeLabel": "Big Sur missile-test filming, September 1964",
@@ -123,7 +123,7 @@
 },
 {
 "artefactDate": "1993",
-"eventDate": "1964-09",
+"eventDate": null,
 "id": "c-47746e92d2",
 "node": "big-sur-1964",
 "nodeLabel": "Big Sur missile-test filming, September 1964",
@@ -204,7 +204,7 @@
 "text": "The date and the launch, per the project engineer: 'Dawn on September 22, 1964', on 'an Atlas launch nicknamed Buzzing Bee before sunup'.",
 "tier": 2,
 "topic": "nuclear-missiles-1960s",
-"via": null
+"via": "Skeptical Inquirer"
 },
 {
 "artefactDate": "1993",
@@ -246,7 +246,7 @@
 "id": "c-b94ee57158",
 "node": "big-sur-1964",
 "nodeLabel": "Big Sur missile-test filming, September 1964",
-"route": "document",
+"route": "press",
 "source": {
 "domain": "cdn.centerforinquiry.org",
 "text": "Kingston A. George, Skeptical Inquirer Vol. 17, Winter 1993, p 187 references, https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1993/01/22165151/p77.pdf , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
@@ -276,7 +276,7 @@
 },
 {
 "artefactDate": "1993",
-"eventDate": "1964-09",
+"eventDate": null,
 "id": "c-c6bfe46ddb",
 "node": "big-sur-1964",
 "nodeLabel": "Big Sur missile-test filming, September 1964",
@@ -310,7 +310,7 @@
 },
 {
 "artefactDate": "1993",
-"eventDate": "1964-09",
+"eventDate": null,
 "id": "c-d2a91a9b33",
 "node": "florenz-mansmann",
 "nodeLabel": "Maj. Florenz J. Mansmann",
@@ -357,7 +357,7 @@
 "text": "George states the physical evidence no longer exists: the Top Secret film was marked for downgrading and declassification after twelve years, 'but its utility was over after a few months', and 'the film and related materials were all destroyed long before the 12 years were up'. He adds that Jacobs 'is being both safe and cagey in observing that the Air Force denies the existence of the film or other hard evidence'.",
 "tier": 2,
 "topic": "nuclear-missiles-1960s",
-"via": null
+"via": "Skeptical Inquirer"
 },
 {
 "artefactDate": "1993",

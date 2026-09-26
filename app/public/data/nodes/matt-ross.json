@@ -48,35 +48,16 @@
 "id": "c-03917995fa",
 "meta": {
 "artefactDate": "2026-01-30",
-"claimant": "matt-ross",
-"claimantLabel": "Matt Ross",
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
 "eventDate": "2025",
 "route": "press",
 "speaker": null,
-"via": "The Debrief"
+"via": null
 },
 "source": "Reported figure cited in The Debrief, 30 January 2026",
 "text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
 "tier": 2
-}
-],
-"claimsMade": [
-{
-"artefactDate": "2026-01-30",
-"eventDate": "2025",
-"id": "c-03917995fa",
-"node": "matt-ross",
-"nodeLabel": "Matt Ross",
-"route": "press",
-"source": {
-"domain": null,
-"text": "Reported figure cited in The Debrief, 30 January 2026",
-"url": null
-},
-"text": "Restricted-airspace drone sightings rose 26 percent in 2025.",
-"tier": 2,
-"topic": "incursions-2023-26",
-"via": "The Debrief"
 }
 ],
 "cls": "person",

@@ -76,7 +76,7 @@
 "eventDate": null,
 "route": "broadcast",
 "speaker": null,
-"via": null
+"via": "International UFO Congress"
 },
 "source": "Fouche 1998 presentation text as carried at https://archive.org/stream/TopSecretTr-3bAstraDocuments/Tr-3b-FlyingTriangles-MfdInformation_djvu.txt , opened 2026-09-18",
 "text": "He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted.",
@@ -86,11 +86,11 @@
 "id": "c-1eb798c34b",
 "meta": {
 "artefactDate": "2015-01-13",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "checktheevidence",
+"claimantLabel": "Check The Evidence (checktheevidence.com), Andrew Johnson",
 "eventDate": null,
 "route": "document",
-"speaker": "Andrew Johnson",
+"speaker": null,
 "via": null
 },
 "source": "Andrew Johnson, checktheevidence.com, 13 January 2015, https://www.checktheevidence.com/wordpress/2015/01/13/edgar-fouche-documents-released-in-foia-show-the-same-type-of-record-as-he-provided-himself/ , opened 2026-09-18",
@@ -105,23 +105,6 @@
 }
 ],
 "claimsMade": [
-{
-"artefactDate": "2025-11-01",
-"eventDate": null,
-"id": "c-6d8d2ec5bb",
-"node": "gerb-sandia-investigation",
-"nodeLabel": "UAP Gerb - Sandia National Laboratories investigation",
-"route": "broadcast",
-"source": {
-"domain": null,
-"text": "UAP Gerb, Sandia investigation description, 1 November 2025",
-"url": null
-},
-"text": "USAF MSgt Edgar Fouche claimed Sandia and Lawrence Livermore reverse-engineered the propulsion device for the TR-3B alien reproduction vehicle.",
-"tier": 2,
-"topic": "ffrdc-probes",
-"via": "UAP Gerb (Sandia investigation description)"
-},
 {
 "artefactDate": "1998-08",
 "eventDate": null,
@@ -188,7 +171,7 @@
 "text": "He states the documents were vetted before the talk: 'Before I gave a presentation to the International UFO Congress in Laughlin, Nevada in August, I brought over 200 documents as an offer of proof to substantiate my credibility... These documents were viewed by Ken Seddington of the International UFO Congress, Jim Courrant, a UFO investigator, and Tim Shawcross and John Purdie of Union Pictures in London England.' None of these four people was contacted and no account by any of them was opened, so the claim that the documents were vetted is itself unvetted.",
 "tier": 2,
 "topic": "tr-3b-fouche",
-"via": null
+"via": "International UFO Congress"
 }
 ],
 "cls": "person",

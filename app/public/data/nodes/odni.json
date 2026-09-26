@@ -31,6 +31,23 @@
 ],
 "claimsMade": [
 {
+"artefactDate": "2026-06-16",
+"eventDate": "2026-06-15",
+"id": "c-b282429063",
+"node": "jon-kosloski",
+"nodeLabel": "Jon T. Kosloski",
+"route": "press",
+"source": {
+"domain": null,
+"text": "ODNI official to Liberation Times, 16 June 2026",
+"url": null
+},
+"text": "An ODNI official confirmed that ODNI, the FBI and the Department of War established a UAP Governance Board to coordinate investigations and declassification, which first met on 15 June 2026.",
+"tier": 2,
+"topic": "aaro",
+"via": "Liberation Times"
+},
+{
 "artefactDate": "2026-05-22",
 "eventDate": "2025",
 "id": "c-bbcee28870",
@@ -45,7 +62,7 @@
 "text": "ODNI-UAP-D001, released in PURSUE Release 02 on 22 May 2026, is a first-person narrative by a serving senior intelligence officer of a one-hour, multi-witness UAP encounter from a military helicopter in late 2025.",
 "tier": 2,
 "topic": "pursue-2026",
-"via": null
+"via": "Disclosure Archives"
 },
 {
 "artefactDate": null,
@@ -62,7 +79,7 @@
 "text": "PURSUE Release 02 includes ODNI-UAP-D001, a first-person account by a serving senior intelligence officer of a one-hour multi-witness UAP encounter from a military helicopter in late 2025.",
 "tier": 2,
 "topic": "pursue-2026",
-"via": null
+"via": "Disclosure Archives"
 }
 ],
 "cls": "institution",

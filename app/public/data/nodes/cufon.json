@@ -29,6 +29,57 @@
 "claimsMade": [
 {
 "artefactDate": null,
+"eventDate": "1953-01-09",
+"id": "c-1cf6a05a6c",
+"node": "howard-c-cross",
+"nodeLabel": "Howard C. Cross",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Text and provenance published by the Computer UFO Network (CUFON); Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
+"url": null
+},
+"text": "A two-page memorandum dated 9 January 1953, reference G-1579-4, marked SECRET and unsigned, was addressed to Miles E. Goll at Wright-Patterson AFB under Project Stork; H. C. Cross of Battelle Memorial Institute was later identified as its author.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": "Jacques Vallee, Forbidden Science"
+},
+{
+"artefactDate": null,
+"eventDate": "1953-01-09",
+"id": "c-1e0be348e0",
+"node": "battelle",
+"nodeLabel": "Battelle Memorial Institute",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CUFON transcription; Jacques Vallee, Forbidden Science; DEMOTED from Tier 1 (no primary record of the memorandum is cited, only the CUFON transcription and Vallee's copy; the same assertion is Tier 2 on pentacle-memorandum); needs primary replacement",
+"url": null
+},
+"text": "H. C. Cross of Battelle authored the 9 January 1953 memorandum to Miles E. Goll at Wright-Patterson AFB under Project Stork, reference G-1579-4, marked SECRET.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": "Jacques Vallee, Forbidden Science"
+},
+{
+"artefactDate": null,
+"eventDate": "1953-01-09",
+"id": "c-2d4169e20f",
+"node": "pentacle-memorandum",
+"nodeLabel": "The Pentacle Memorandum",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CUFON transcription and provenance record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addressed to Miles E. Goll at Wright-Patterson Air Force Base, Ohio, under Project Stork.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": null
+},
+{
+"artefactDate": null,
 "eventDate": "1983",
 "id": "c-b2e981e795",
 "node": "cufon",

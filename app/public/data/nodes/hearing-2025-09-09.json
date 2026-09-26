@@ -52,7 +52,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
 },
 "source": "CHRG-119hhrg61718, opening statement of Rep. Luna",
 "text": "Opening statement of Chairwoman Anna Paulina Luna: 'For too long, the issue of unidentified anomalous phenomena, commonly known as UAPs, has been shrouded in secrecy, stigma, and in some cases outright dismissal. Today, I want to state clearly that this is not science fiction or creating speculation. This is about national security, government accountability, and the American people's right to the truth.' She further stated she had 'spoken now to a number of whistleblowers from the military to include the infamous Eglin Air Force Base incident'.",
@@ -67,7 +67,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
 },
 "source": "CHRG-119hhrg61718, colloquy between Rep. Burchett and George Knapp",
 "text": "Rep. Tim Burchett stated on the record that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.' Witness George Knapp responded: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
@@ -88,7 +88,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Task Force"
 },
 "source": "George Knapp, House Oversight Task Force hearing, 9 September 2025",
 "text": "Knapp: the public has been told since the late 1940s 'there's nothing to worry about here,' while documents show personnel acknowledging 'these things are real. They're not fictitious.'",
@@ -98,12 +98,12 @@
 "id": "c-2d9f508a0b",
 "meta": {
 "artefactDate": "2025-09-09",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
 "eventDate": null,
-"route": "hearing",
-"speaker": "Nancy Mace; Tim Burchett",
-"via": "House Oversight"
+"route": "press",
+"speaker": null,
+"via": null
 },
 "source": "House Oversight hearing wrap-up release, 9 September 2025",
 "text": "Rep. Nancy Mace asked about potential government psychological operations; Rep. Burchett questioned whistleblower protections.",
@@ -131,11 +131,11 @@
 "id": "c-5d8f64bd09",
 "meta": {
 "artefactDate": "2025-09-09",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
 "eventDate": "2024-10-30",
 "route": "hearing",
-"speaker": "Rep. Burlison",
+"speaker": null,
 "via": "House Oversight Task Force"
 },
 "source": "CHRG-119hhrg61718; DefenseScoop, 9 September 2025",
@@ -203,7 +203,7 @@
 "claimant": "eric-burlison",
 "claimantLabel": "Eric Burlison",
 "eventDate": "2024-10",
-"route": "press",
+"route": "hearing",
 "speaker": null,
 "via": "DefenseScoop"
 },
@@ -215,12 +215,12 @@
 "id": "c-9a53ea6c4c",
 "meta": {
 "artefactDate": "2026-04-01",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
 "eventDate": "2025-09-09",
-"route": "hearing",
-"speaker": "unnamed (witnesses at the Task Force hearing)",
-"via": "House Oversight"
+"route": "press",
+"speaker": null,
+"via": null
 },
 "source": "House Oversight press release, 1 April 2026, recounting the September 2025 testimony",
 "text": "Witnesses told the Task Force that AARO holds additional video records of potential UAP sightings.",
@@ -262,7 +262,7 @@
 "eventDate": "2024-10",
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "DefenseScoop"
 },
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "Rep. Eric Burlison unveiled video for the first time depicting a US military MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",

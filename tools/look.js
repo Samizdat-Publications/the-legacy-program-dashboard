@@ -129,13 +129,16 @@ async function realIds() {
       ['evidence', '#/evidence'], ['thread', '#/t/' + ids.thread], ['patent', '#/patents/' + ids.patent],
       ['report', '#/report/n/' + ids.node],
     ];
+    /* name=#/hash, or name=#/hash@selector to shoot with that element scrolled
+       to the top of the screen (phase 10: a section below the first screen) */
     for (const extra of (argOf('--routes') || '').split(',').filter(Boolean)) {
-      const [name, hash] = extra.split('=');
-      if (name && hash) routes.push([name, hash]);
+      const [name, rest] = extra.split('=');
+      const [hash, scroll] = (rest || '').split('@');
+      if (name && hash) routes.push([name, hash, scroll || null]);
     }
     const out = [];
     for (const [size, tag] of [[BIG, '1920'], [SMALL, '1366'], [PHONE, '375']]) {
-      for (const [name, hash] of routes) out.push({ file: tag + '-' + name, hash, size, dpr: 1 });
+      for (const [name, hash, scroll] of routes) out.push({ file: tag + '-' + name, hash, size, dpr: 1, scroll: scroll || null });
     }
     return out;
   };
@@ -184,6 +187,10 @@ async function realIds() {
       await slot.page.evaluate(h => { location.hash = h; }, stop.hash);
     }
     await slot.page.waitForTimeout(settleFor(stop.hash));
+    if (stop.scroll) {
+      await slot.page.evaluate((sel) => { const el = document.querySelector(sel); if (el) { el.scrollIntoView({ block: 'start' }); window.scrollBy(0, -96); } }, stop.scroll);
+      await slot.page.waitForTimeout(300);
+    }
 
     const file = path.join(OUT, stop.file + '.png');
     await slot.page.screenshot({ path: file });

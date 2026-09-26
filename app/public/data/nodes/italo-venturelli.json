@@ -41,7 +41,7 @@
 "artefactDate": "2026-01-31",
 "claimant": null,
 "claimantLabel": null,
-"eventDate": "1996-01",
+"eventDate": "1996",
 "route": "interview",
 "speaker": "Dr Armando Fortunato",
 "via": "American Alchemy with Jesse Michels"
@@ -86,7 +86,7 @@
 "artefactDate": "2026-01-15",
 "claimant": "italo-venturelli",
 "claimantLabel": "Dr Ítalo Venturelli",
-"eventDate": "1996-01",
+"eventDate": null,
 "route": "press",
 "speaker": null,
 "via": "The Debrief"
@@ -114,7 +114,7 @@
 "claimsMade": [
 {
 "artefactDate": "2026-01-15",
-"eventDate": "1996-01",
+"eventDate": null,
 "id": "c-1dd86110a8",
 "node": "ev-varginha-1996",
 "nodeLabel": "Varginha incident, Minas Gerais, January 1996",
@@ -131,7 +131,7 @@
 },
 {
 "artefactDate": "2026-01-15",
-"eventDate": "1996-01",
+"eventDate": null,
 "id": "c-1fb781da03",
 "node": "italo-venturelli",
 "nodeLabel": "Dr Ítalo Venturelli",

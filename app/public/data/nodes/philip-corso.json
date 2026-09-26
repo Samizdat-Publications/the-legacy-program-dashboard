@@ -64,13 +64,13 @@
 {
 "id": "c-c620cce564",
 "meta": {
-"artefactDate": "1998-06-08",
+"artefactDate": "1998-05",
 "claimant": "philip-corso",
 "claimantLabel": "Philip J. Corso",
 "eventDate": null,
 "route": "filing",
 "speaker": null,
-"via": "CAUS press release"
+"via": "CAUS"
 },
 "source": "Reproduction of the CAUS press release of 8 June 1998 and the affidavit text, adjudicated against the DA Form 66",
 "text": "Corso's affidavit was sworn in May 1998, with the day left blank in the circulating copy, and was announced by a CAUS press release of 8 June 1998. It asserts he 'was a member of President Eisenhower's National Security Council' -- which his own DA Form 66 contradicts, recording him instead as an Intelligence Staff Officer on the Operations Coordinating Board, a body that reported to the NSC and was not the NSC. No signed original of the affidavit was obtained; only a reproduction of its text.",
@@ -79,7 +79,7 @@
 ],
 "claimsMade": [
 {
-"artefactDate": "1998-06-08",
+"artefactDate": "1998-05",
 "eventDate": null,
 "id": "c-c620cce564",
 "node": "philip-corso",
@@ -93,7 +93,7 @@
 "text": "Corso's affidavit was sworn in May 1998, with the day left blank in the circulating copy, and was announced by a CAUS press release of 8 June 1998. It asserts he 'was a member of President Eisenhower's National Security Council' -- which his own DA Form 66 contradicts, recording him instead as an Intelligence Staff Officer on the Operations Coordinating Board, a body that reported to the NSC and was not the NSC. No signed original of the affidavit was obtained; only a reproduction of its text.",
 "tier": 2,
 "topic": "corso-day-after",
-"via": "CAUS press release"
+"via": "CAUS"
 }
 ],
 "cls": "person",

@@ -69,10 +69,10 @@
 {
 "id": "c-d90fb036b1",
 "meta": {
-"artefactDate": "2017-12",
+"artefactDate": null,
 "claimant": "mark-skidmore",
 "claimantLabel": "Mark Skidmore",
-"eventDate": null,
+"eventDate": "2017-12",
 "route": "document",
 "speaker": null,
 "via": null
@@ -84,18 +84,18 @@
 ],
 "claimsMade": [
 {
-"artefactDate": "2017-12",
+"artefactDate": "2018",
 "eventDate": null,
-"id": "c-d90fb036b1",
-"node": "mark-skidmore",
-"nodeLabel": "Mark Skidmore",
+"id": "c-539082e0af",
+"node": "skidmore-fitts-report",
+"nodeLabel": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "route": "document",
 "source": {
-"domain": "mark-skidmore.com",
-"text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
-"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+"domain": "missingmoney.solari.com",
+"text": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf",
+"url": "https://missingmoney.solari.com/wp-content/uploads/2018/08/Unsupported_Adjustments_Report_Final_4.pdf"
 },
-"text": "Skidmore co-authored three Forbes columns with Laurence Kotlikoff on the $21 trillion figure, in December 2017, July 2018 and January 2019.",
+"text": "The authors state: 'The Inspector General's reports that are available to the public only provide summary information; thus it is impossible for us to conduct a detailed assessment of the nature of these unsupported adjustments and errors.'",
 "tier": 2,
 "topic": "unauditable-ledger",
 "via": null
@@ -187,7 +187,7 @@
 },
 {
 "artefactDate": null,
-"eventDate": "2017-12",
+"eventDate": null,
 "id": "c-afe4a3cbdf",
 "node": "boston-university",
 "nodeLabel": "Boston University",
@@ -215,6 +215,23 @@
 "url": "https://mark-skidmore.com/about/"
 },
 "text": "Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University and is a Professor of Economics there.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2017-12",
+"id": "c-d90fb036b1",
+"node": "mark-skidmore",
+"nodeLabel": "Mark Skidmore",
+"route": "document",
+"source": {
+"domain": "mark-skidmore.com",
+"text": "https://mark-skidmore.com/research/research-in-finance-public-finance/",
+"url": "https://mark-skidmore.com/research/research-in-finance-public-finance/"
+},
+"text": "Skidmore co-authored three Forbes columns with Laurence Kotlikoff on the $21 trillion figure, in December 2017, July 2018 and January 2019.",
 "tier": 2,
 "topic": "unauditable-ledger",
 "via": null

@@ -266,6 +266,40 @@
 "tier": 2,
 "topic": "propulsion-claims",
 "via": "Jeremy Corbell"
+},
+{
+"artefactDate": "2021",
+"eventDate": null,
+"id": "c-aef08c13d0",
+"node": "skinwalkers-at-the-pentagon",
+"nodeLabel": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
+"route": "book",
+"source": {
+"domain": null,
+"text": "'Skinwalkers at the Pentagon' (2021)",
+"url": null
+},
+"text": "Lacatski, Kelleher and Knapp describe AAWSAP's Utah field operations, human physiological effects on personnel, and Lacatski's account of entering a craft of unknown origin.",
+"tier": 2,
+"topic": "skinwalker-nids",
+"via": null
+},
+{
+"artefactDate": "2021",
+"eventDate": "2008",
+"id": "c-e916972dbb",
+"node": "jay-stratton",
+"nodeLabel": "Jay Stratton",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Lacatski, Kelleher and Knapp, 'Skinwalkers at the Pentagon' (2021); Stratton public statements 2022-2023",
+"url": null
+},
+"text": "Stratton participated in the AAWSAP effort and later directed the UAP Task Force, providing direct institutional continuity from the 2008 DIA contract to the 2021 ODNI assessment.",
+"tier": 2,
+"topic": "uaptf-odni-2021",
+"via": null
 }
 ],
 "cls": "person",

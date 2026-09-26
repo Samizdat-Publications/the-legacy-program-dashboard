@@ -10,7 +10,7 @@
 "artefactDate": "2026-05-15",
 "claimant": "eric-burlison",
 "claimantLabel": "Eric Burlison",
-"eventDate": "1952",
+"eventDate": null,
 "route": "press",
 "speaker": null,
 "via": "The Hill/NewsNation"
@@ -23,12 +23,12 @@
 "id": "c-2ef7b1b8d5",
 "meta": {
 "artefactDate": "2026-06-29",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
 "eventDate": "1952-07",
-"route": "broadcast",
-"speaker": "The Disclosure Foundation; The Hill/NewsNation",
-"via": "The Hill/NewsNation"
+"route": "press",
+"speaker": null,
+"via": null
 },
 "source": "The Hill/NewsNation, 29 June 2026",
 "text": "By 25 June 2026 Lincoln Laboratory had agreed to make the material available; the Disclosure Foundation describes it as a reel-to-reel audio recording relating to the July 1952 Washington sightings and says Lincoln Lab's lawyers confirm it exists.",
@@ -64,7 +64,7 @@
 "artefactDate": "2026-06-25",
 "claimant": "eric-burlison",
 "claimantLabel": "Eric Burlison",
-"eventDate": "1952",
+"eventDate": null,
 "route": "press",
 "speaker": null,
 "via": "Cybernews"

@@ -10,7 +10,7 @@
 "artefactDate": "2024-11-13",
 "claimant": "tim-gallaudet",
 "claimantLabel": "Timothy Gallaudet",
-"eventDate": "2015-01",
+"eventDate": null,
 "route": "hearing",
 "speaker": null,
 "via": "House Oversight"
@@ -23,11 +23,11 @@
 "id": "c-8dc6a6819b",
 "meta": {
 "artefactDate": "2024-11-13",
-"claimant": "tim-gallaudet",
-"claimantLabel": "Timothy Gallaudet",
+"claimant": null,
+"claimantLabel": null,
 "eventDate": null,
 "route": "hearing",
-"speaker": "Fleet Forces Command operations officer (quoted by Gallaudet)",
+"speaker": "Fleet Forces Command operations officer, quoted in Gallaudet written testimony",
 "via": null
 },
 "source": "Gallaudet written testimony quoting the Fleet Forces Command operations officer, 13 November 2024",
@@ -40,7 +40,7 @@
 "artefactDate": "2024-11-13",
 "claimant": "tim-gallaudet",
 "claimantLabel": "Timothy Gallaudet",
-"eventDate": "2015-01",
+"eventDate": null,
 "route": "hearing",
 "speaker": null,
 "via": "House Oversight"
@@ -55,7 +55,7 @@
 "artefactDate": "2024-11-13",
 "claimant": "tim-gallaudet",
 "claimantLabel": "Timothy Gallaudet",
-"eventDate": "2015-01",
+"eventDate": null,
 "route": "hearing",
 "speaker": null,
 "via": "House Oversight"

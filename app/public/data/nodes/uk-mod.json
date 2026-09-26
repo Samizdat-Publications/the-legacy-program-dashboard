@@ -17,25 +17,6 @@
 "tier": 1
 }
 ],
-"claimsMade": [
-{
-"artefactDate": "2000",
-"eventDate": null,
-"id": "c-082f39db7e",
-"node": "setka-program",
-"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
-"route": "document",
-"source": {
-"domain": null,
-"text": "Project Condign, Volume 3, Chapter 4, para 1, UK MoD, 2000 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": null
-},
-"text": "UK Defence Intelligence Staff assessment: 'It is clear that the Former Soviet Union has taken the study of UAPs seriously and that this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.'",
-"tier": 2,
-"topic": "ussr",
-"via": null
-}
-],
 "cls": "institution",
 "cluster": "legacy",
 "conflicts": [],

@@ -17,11 +17,11 @@
 "id": "c-cb48071832",
 "meta": {
 "artefactDate": null,
-"claimant": "bradford-runyon",
-"claimantLabel": "Capt. Bradford Runyon",
+"claimant": null,
+"claimantLabel": null,
 "eventDate": "2000",
 "route": "document",
-"speaker": null,
+"speaker": "minotb52ufo.com case investigation narrative",
 "via": null
 },
 "source": "Minot B-52 UFO case investigation material, https://minotb52ufo.com/doc.php and the case investigation narrative, opened 2026-09-19",
@@ -33,42 +33,6 @@
 "source": "Derived by this board from the register in research/leads/verified-nuclear-witnesses-2026-09-19.md, which lists every nuclear-facility witness found in the 19 September 2026 pass together with the route by which each account reached the public",
 "text": "SECTION 2a PROVENANCE. Runyon is the clearest instance in this cluster of a witness approaching a research body rather than a research body finding a witness. The board records the direction of contact explicitly, because it is the control case against which the Malmstrom and Ellsworth provenance chains should be read.",
 "tier": 3
-}
-],
-"claimsMade": [
-{
-"artefactDate": null,
-"eventDate": "2000",
-"id": "c-31013cb2ac",
-"node": "minot-1968",
-"nodeLabel": "Minot AFB B-52 incident, 24 October 1968",
-"route": "document",
-"source": {
-"domain": "minotb52ufo.com",
-"text": "https://minotb52ufo.com/doc.php and the case investigation narrative, opened 2026-09-19",
-"url": "https://minotb52ufo.com/doc.php"
-},
-"text": "SECTION 2a PROVENANCE, AND THIS CASE IS THE CONTROL GROUP FOR THE WHOLE CLUSTER. The modern investigation exists because one of the B-52 crew, Capt. Bradford Runyon, contacted the Center for UFO Studies in 2000 on his own initiative and completed a CUFOS questionnaire. A witness approached a research body; a research body did not recruit a witness. That is the opposite of the pattern that dominates the Malmstrom material, and it is why this case carries the weight it does.",
-"tier": 2,
-"topic": "nuclear-missiles-1960s",
-"via": "Center for UFO Studies (CUFOS)"
-},
-{
-"artefactDate": null,
-"eventDate": "2000",
-"id": "c-cb48071832",
-"node": "bradford-runyon",
-"nodeLabel": "Capt. Bradford Runyon",
-"route": "document",
-"source": {
-"domain": "minotb52ufo.com",
-"text": "Minot B-52 UFO case investigation material, https://minotb52ufo.com/doc.php and the case investigation narrative, opened 2026-09-19",
-"url": "https://minotb52ufo.com/doc.php"
-},
-"text": "The modern investigation of the Minot 1968 case began when Runyon contacted the Center for UFO Studies in 2000 and completed a CUFOS UFO questionnaire on his own initiative. He was not located or recruited by a researcher.",
-"tier": 2,
-"topic": "nuclear-missiles-1960s",
-"via": null
 }
 ],
 "cls": "person",

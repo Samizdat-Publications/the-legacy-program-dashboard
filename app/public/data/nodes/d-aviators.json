@@ -12,7 +12,7 @@
 "claimant": "dod",
 "claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
 "eventDate": null,
-"route": "document",
+"route": "press",
 "speaker": null,
 "via": null
 },
@@ -36,8 +36,8 @@
 "id": "c-a119ca1435",
 "meta": {
 "artefactDate": "2021-05-16",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "alex-dietrich",
+"claimantLabel": "Alex Dietrich",
 "eventDate": "2004",
 "route": "broadcast",
 "speaker": "Alex Dietrich; David Fravor",

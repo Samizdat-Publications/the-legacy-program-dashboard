@@ -19,13 +19,13 @@
 {
 "id": "c-c2e397eb16",
 "meta": {
-"artefactDate": "2026-04-21",
-"claimant": null,
-"claimantLabel": null,
+"artefactDate": "2026-04-20",
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
 "eventDate": null,
-"route": "broadcast",
+"route": "document",
 "speaker": "unnamed (Fox News); House Oversight Committee letters",
-"via": "Fox News; House Oversight Committee"
+"via": "Fox News"
 },
 "source": "Fox News, 21 April 2026, https://www.foxnews.com/politics/missing-scientists-probe-sparked-after-ufo-general-disappeared-republican-lawmaker-reveals ; checked against the Committee letters of 20 April 2026, https://oversight.house.gov/wp-content/uploads/2026/04/NASA-Missing-Scientists-Letter_4.20.26.pdf",
 "text": "Fox News reported on 21 April 2026 that Chairman Comer and Rep. Burlison had launched a congressional probe into eleven individuals in nuclear or rocket technology who had died or vanished since 2022, requesting briefings from the FBI, the Department of War, NASA and the Department of Energy by 27 April 2026. The Committee's own letters, opened on 2 September 2026, say 'at least ten individuals' and date the pattern to 2023; the eleven and the 2022 are what Fox reported.",
@@ -41,11 +41,11 @@
 "id": "c-4c086e0698",
 "meta": {
 "artefactDate": "2026-04-21",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "eric-burlison",
+"claimantLabel": "Eric Burlison",
 "eventDate": null,
 "route": "broadcast",
-"speaker": "Burlison",
+"speaker": null,
 "via": "Fox News"
 },
 "source": "Fox News, 21 April 2026",

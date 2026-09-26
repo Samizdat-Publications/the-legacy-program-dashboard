@@ -101,11 +101,11 @@
 "id": "c-f9bb0a3cde",
 "meta": {
 "artefactDate": "2023-05-25",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
 "eventDate": "1996",
 "route": "press",
-"speaker": "The Debrief profile",
+"speaker": null,
 "via": null
 },
 "source": "The Debrief, 'Colm Kelleher: AAWSAP and the Skinwalker Enigma', 25 May 2023",
@@ -139,7 +139,7 @@
 "artefactDate": "2005",
 "claimant": "colm-kelleher",
 "claimantLabel": "Colm A. Kelleher",
-"eventDate": null,
+"eventDate": "1996",
 "route": "book",
 "speaker": null,
 "via": null
@@ -203,7 +203,7 @@
 "claimsMade": [
 {
 "artefactDate": "2005",
-"eventDate": null,
+"eventDate": "1996",
 "id": "c-c9b53d17a7",
 "node": "colm-kelleher",
 "nodeLabel": "Colm A. Kelleher",
@@ -250,6 +250,23 @@
 "text": "Kelleher served as deputy administrator of BAASS during the DIA AAWSAP contract.",
 "tier": 2,
 "topic": "aawsap-baass",
+"via": null
+},
+{
+"artefactDate": "2021",
+"eventDate": null,
+"id": "c-588f2f44e6",
+"node": "d-paranormal",
+"nodeLabel": "Anomalous Phenomena Adjacent to UAP",
+"route": "book",
+"source": {
+"domain": null,
+"text": "Kelleher and Lacatski, 'Skinwalkers at the Pentagon' (2021)",
+"url": null
+},
+"text": "Colm Kelleher and James Lacatski published 'Skinwalkers at the Pentagon' in 2021, describing federally funded collection of anomalous phenomena reports at Skinwalker Ranch under the AAWSAP effort, with Lacatski named as the DIA official who initiated it.",
+"tier": 2,
+"topic": "skinwalker-nids",
 "via": null
 }
 ],

@@ -83,7 +83,7 @@
 "claimant": "john-callahan",
 "claimantLabel": "John Callahan",
 "eventDate": null,
-"route": "hearing",
+"route": "interview",
 "speaker": null,
 "via": "Steven M. Greer and Theodore C. Loder III (Disclosure Project Briefing Document)"
 },
@@ -105,7 +105,7 @@
 "id": "c-e72c67f50c",
 "node": "john-callahan",
 "nodeLabel": "John Callahan",
-"route": "hearing",
+"route": "interview",
 "source": {
 "domain": "archive.org",
 "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",

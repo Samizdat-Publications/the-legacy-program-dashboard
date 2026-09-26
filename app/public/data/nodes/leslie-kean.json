@@ -124,11 +124,11 @@
 "id": "c-794679f1f7",
 "meta": {
 "artefactDate": "2017-12-16",
-"claimant": "leslie-kean",
-"claimantLabel": "Leslie Kean",
+"claimant": null,
+"claimantLabel": null,
 "eventDate": null,
 "route": "press",
-"speaker": null,
+"speaker": "Wikipedia, 'Leslie Kean'; New York Times byline",
 "via": null
 },
 "source": "Wikipedia, 'Leslie Kean'; New York Times, 16 December 2017 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
@@ -184,7 +184,7 @@
 "claimsMade": [
 {
 "artefactDate": "2017-12-16",
-"eventDate": "2017-10-04",
+"eventDate": null,
 "id": "c-fafdfa9627",
 "node": "elizondo-resignation-letter-2",
 "nodeLabel": "Elizondo Resignation Memorandum for Record, 4 October 2017",
@@ -198,6 +198,23 @@
 "tier": 2,
 "topic": "aatip-elizondo",
 "via": null
+},
+{
+"artefactDate": "2026-01-30",
+"eventDate": null,
+"id": "c-4e0ed2ecda",
+"node": "eduardo-girao",
+"nodeLabel": "Senador Eduardo Girão",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Leslie Kean and Ralph Blumenthal, The Debrief, 30 January 2026",
+"url": null
+},
+"text": "'Brazilian Senator Eduardo Girão, who represents the coastal state of Ceará and led a Brazilian Senate hearing on UAP in 2022, came to Washington to meet with members of Congress and attend the press event. Acting as a private citizen and not representing the Brazilian Senate, Girão spoke from the podium.'",
+"tier": 2,
+"topic": "brazil",
+"via": "The Debrief"
 },
 {
 "artefactDate": "2026-01-30",
@@ -219,16 +236,33 @@
 {
 "artefactDate": "2017-12-16",
 "eventDate": null,
-"id": "c-794679f1f7",
-"node": "leslie-kean",
-"nodeLabel": "Leslie Kean",
+"id": "c-947b2fc1ee",
+"node": "nyt-2017-12-16",
+"nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "route": "press",
 "source": {
 "domain": null,
-"text": "Wikipedia, 'Leslie Kean'; New York Times, 16 December 2017 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"text": "The New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "url": null
 },
-"text": "Kean co-authored the 16 December 2017 New York Times article revealing the $22.5M AATIP programme.",
+"text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017 by Helene Cooper, Ralph Blumenthal and Leslie Kean, revealing AATIP, a $22 million appropriation over 2007-2012 arranged by Sen. Harry Reid, and Navy infrared videos.",
+"tier": 2,
+"topic": "nyt-2017",
+"via": null
+},
+{
+"artefactDate": "2017-12-16",
+"eventDate": "2007",
+"id": "c-bf79874311",
+"node": "nyt-2017-12-16",
+"nodeLabel": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
+"route": "press",
+"source": {
+"domain": null,
+"text": "New York Times, 16 December 2017 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Bylined Helene Cooper, Ralph Blumenthal and Leslie Kean and published 16 December 2017; reported AATIP's roughly $22 million funding from late 2008 through 2011 to Bigelow Aerospace and Harry Reid's origination of the program in 2007.",
 "tier": 2,
 "topic": "nyt-2017",
 "via": null

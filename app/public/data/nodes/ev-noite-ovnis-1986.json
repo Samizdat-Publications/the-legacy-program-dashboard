@@ -10,7 +10,7 @@
 "artefactDate": "1986-05-23",
 "claimant": "otavio-moreira-lima",
 "claimantLabel": "Brigadeiro Octávio Júlio Moreira Lima",
-"eventDate": "1986-05-19",
+"eventDate": null,
 "route": "press",
 "speaker": null,
 "via": "BBC Brasil (Andre Bernardo)"
@@ -22,13 +22,13 @@
 {
 "id": "c-981bd03a48",
 "meta": {
-"artefactDate": "1986-05-23",
-"claimant": "otavio-moreira-lima",
-"claimantLabel": "Brigadeiro Octávio Júlio Moreira Lima",
+"artefactDate": "2022-01-14",
+"claimant": null,
+"claimantLabel": null,
 "eventDate": "2009-09-25",
 "route": "press",
-"speaker": null,
-"via": "BBC Brasil (Andre Bernardo)"
+"speaker": "André Bernardo, BBC Brasil",
+"via": null
 },
 "source": "André Bernardo, BBC Brasil, 14 January 2022 / 17 May 2026",
 "text": "The 23-year delay: at the close of the 23 May 1986 press conference the Minister undertook to publish a complete dossier 'dentro de 30 dias'. The report - signed by the interim Comando da Aeronáutica (COMDA) commander José Pessoa Cavalcanti de Albuquerque and dated 2 June 1986 - was released only on 25 September 2009, 23 years later.",
@@ -41,7 +41,7 @@
 "claimant": null,
 "claimantLabel": null,
 "eventDate": "1986-05-19",
-"route": "broadcast",
+"route": "press",
 "speaker": "André Bernardo, BBC Brasil",
 "via": null
 },
@@ -55,7 +55,7 @@
 "artefactDate": "2022-01-14",
 "claimant": null,
 "claimantLabel": null,
-"eventDate": "1986-05-19",
+"eventDate": null,
 "route": "press",
 "speaker": "André Bernardo, BBC Brasil",
 "via": null
@@ -88,8 +88,8 @@
 "artefactDate": "2022-01-14",
 "claimant": null,
 "claimantLabel": null,
-"eventDate": "1986-05-19",
-"route": "broadcast",
+"eventDate": null,
+"route": "press",
 "speaker": "André Bernardo, BBC Brasil",
 "via": null
 },
@@ -118,7 +118,7 @@
 "artefactDate": "2022-01-14",
 "claimant": null,
 "claimantLabel": null,
-"eventDate": "1986-06",
+"eventDate": null,
 "route": "interview",
 "speaker": "Adenir Britto, in BBC Brasil interview",
 "via": "BBC Brasil"

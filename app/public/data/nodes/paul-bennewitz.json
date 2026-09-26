@@ -75,10 +75,10 @@
 {
 "id": "c-dafa4f7c7c",
 "meta": {
-"artefactDate": "2025-11-29",
+"artefactDate": "1981",
 "claimant": "paul-bennewitz",
 "claimantLabel": "Paul Frederick Bennewitz",
-"eventDate": "1981",
+"eventDate": null,
 "route": "document",
 "speaker": null,
 "via": "Stephen Fisher, The Trenchant Edges Newsletter"
@@ -140,23 +140,6 @@
 {
 "artefactDate": "1981",
 "eventDate": null,
-"id": "c-967967dee9",
-"node": "bennewitz-project-beta-1981",
-"nodeLabel": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
-"route": "document",
-"source": {
-"domain": "www.trenchantedges.com",
-"text": "Stephen Fisher, The Trenchant Edges Newsletter, 29 November 2025, https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz , opened 2026-09-19",
-"url": "https://www.trenchantedges.com/p/what-did-they-do-to-paul-bennewitz"
-},
-"text": "Bennewitz summarised his own investigation in late 1981 in a document of roughly five thousand words titled 'Project Beta: SUMMARY OF REPORT AND STATUS (WITH SUGGESTED GUIDELINES)', which opens by describing the research methods he used to obtain his information.",
-"tier": 2,
-"topic": "dulce",
-"via": "Stephen Fisher, The Trenchant Edges Newsletter"
-},
-{
-"artefactDate": "1981",
-"eventDate": null,
 "id": "c-b081fadc8d",
 "node": "bennewitz-project-beta-1981",
 "nodeLabel": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
@@ -172,8 +155,8 @@
 "via": "Stephen Fisher, The Trenchant Edges Newsletter"
 },
 {
-"artefactDate": "2025-11-29",
-"eventDate": "1981",
+"artefactDate": "1981",
+"eventDate": null,
 "id": "c-dafa4f7c7c",
 "node": "paul-bennewitz",
 "nodeLabel": "Paul Frederick Bennewitz",
@@ -203,23 +186,6 @@
 "text": "Bennewitz dated the start of his personally funded study to July 1979, contacted the base on 24 October 1980 and briefed Kirtland officials on 10 November 1980.",
 "tier": 2,
 "topic": "kirtland-1980",
-"via": null
-},
-{
-"artefactDate": "1981-04",
-"eventDate": "1966",
-"id": "c-bf18546b0a",
-"node": "l-albuquerque",
-"nodeLabel": "Albuquerque, New Mexico",
-"route": "press",
-"source": {
-"domain": null,
-"text": "Wikipedia, Paul Bennewitz, citing an April 1981 Albuquerque Tribune profile — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"url": null
-},
-"text": "Bennewitz founded Thunder Scientific in 1966 after acquiring humidity sensor rights from Sandia National Laboratories.",
-"tier": 2,
-"topic": "sign-estimate",
 "via": null
 }
 ],

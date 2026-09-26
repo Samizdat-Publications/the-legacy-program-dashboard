@@ -199,7 +199,7 @@
 "artefactDate": "2025-09-09",
 "claimant": "eric-burlison",
 "claimantLabel": "Eric Burlison",
-"eventDate": null,
+"eventDate": "2025-09-08",
 "route": "hearing",
 "speaker": null,
 "via": null
@@ -248,7 +248,7 @@
 "claimant": "eric-burlison",
 "claimantLabel": "Eric Burlison",
 "eventDate": null,
-"route": "broadcast",
+"route": "press",
 "speaker": null,
 "via": "The Hill/NewsNation"
 },
@@ -260,12 +260,12 @@
 "id": "c-1bb90262ab",
 "meta": {
 "artefactDate": "2025-03-26",
-"claimant": "eric-burlison",
-"claimantLabel": "Eric Burlison",
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
 "eventDate": "2025-03",
-"route": "broadcast",
+"route": "press",
 "speaker": null,
-"via": "The Hill/NewsNation"
+"via": null
 },
 "source": "The Hill/NewsNation, 26 March 2025",
 "text": "Hired David Grusch as a senior adviser on UAP issues for a four-month period beginning March 2025.",
@@ -371,7 +371,7 @@
 "claimant": "eric-burlison",
 "claimantLabel": "Eric Burlison",
 "eventDate": "2024-10",
-"route": "press",
+"route": "hearing",
 "speaker": null,
 "via": "DefenseScoop"
 },
@@ -456,23 +456,6 @@
 "via": "The Debrief"
 },
 {
-"artefactDate": "2026-07-15",
-"eventDate": null,
-"id": "c-6854ebcd40",
-"node": "ev-varginha-capitol-2026",
-"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
-"route": "broadcast",
-"source": {
-"domain": null,
-"text": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
-"url": null
-},
-"text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
-"tier": 2,
-"topic": "brazil",
-"via": "NewsNation"
-},
-{
 "artefactDate": "2026-07-02",
 "eventDate": null,
 "id": "c-2fb19b9899",
@@ -525,7 +508,7 @@
 },
 {
 "artefactDate": "2026-05-15",
-"eventDate": "1952",
+"eventDate": null,
 "id": "c-62711bb2c9",
 "node": "mit-lincoln-laboratory",
 "nodeLabel": "MIT Lincoln Laboratory",
@@ -644,7 +627,7 @@
 },
 {
 "artefactDate": "2026-06-25",
-"eventDate": "1952",
+"eventDate": null,
 "id": "c-0b9421eb2f",
 "node": "mit-lincoln-laboratory",
 "nodeLabel": "MIT Lincoln Laboratory",
@@ -678,7 +661,7 @@
 },
 {
 "artefactDate": "2026-06-25",
-"eventDate": null,
+"eventDate": "1952",
 "id": "c-7ba025bd85",
 "node": "af-atic-film-0352",
 "nodeLabel": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
@@ -694,8 +677,8 @@
 "via": "Cybernews"
 },
 {
-"artefactDate": "2026-06-29",
-"eventDate": "2026-06-25",
+"artefactDate": "2026-06-25",
+"eventDate": null,
 "id": "c-df816cb2bc",
 "node": "burlison-mit-lincoln-letter-2026",
 "nodeLabel": "Rep. Burlison letter to MIT Lincoln Laboratory, May 2026",
@@ -729,7 +712,7 @@
 },
 {
 "artefactDate": "2024-03-12",
-"eventDate": null,
+"eventDate": "2024-03-12",
 "id": "c-7c69f2d612",
 "node": "uap-select-committee-proposal",
 "nodeLabel": "Proposed House Select Committee on UAP",
@@ -779,25 +762,8 @@
 "via": "The Hill/NewsNation"
 },
 {
-"artefactDate": "2025-03-26",
-"eventDate": "2025-03",
-"id": "c-1bb90262ab",
-"node": "eric-burlison",
-"nodeLabel": "Eric Burlison",
-"route": "broadcast",
-"source": {
-"domain": null,
-"text": "The Hill/NewsNation, 26 March 2025",
-"url": null
-},
-"text": "Hired David Grusch as a senior adviser on UAP issues for a four-month period beginning March 2025.",
-"tier": 2,
-"topic": "house-push-2026",
-"via": "The Hill/NewsNation"
-},
-{
 "artefactDate": "2025-09-09",
-"eventDate": null,
+"eventDate": "2025-09-08",
 "id": "c-0bf4c36931",
 "node": "eric-burlison",
 "nodeLabel": "Eric Burlison",
@@ -818,7 +784,7 @@
 "id": "c-209f0bb8c5",
 "node": "eric-burlison",
 "nodeLabel": "Eric Burlison",
-"route": "press",
+"route": "hearing",
 "source": {
 "domain": null,
 "text": "DefenseScoop, 9 September 2025",
@@ -852,7 +818,7 @@
 "id": "c-f8538dedc0",
 "node": "eric-burlison",
 "nodeLabel": "Eric Burlison",
-"route": "broadcast",
+"route": "press",
 "source": {
 "domain": null,
 "text": "Rep. Burlison on X, quoted by The Hill/NewsNation, 16 May 2026",
@@ -916,7 +882,7 @@
 },
 {
 "artefactDate": "2026-06-29",
-"eventDate": "1952",
+"eventDate": null,
 "id": "c-319008468b",
 "node": "uap-disclosure-forum-2026",
 "nodeLabel": "Disclosure Forum 2026",
@@ -980,7 +946,24 @@
 "text": "Rep. Burlison unveiled at the 9 September 2025 hearing video of a US MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
 "tier": 2,
 "topic": "military-encounters-2019",
-"via": null
+"via": "DefenseScoop"
+},
+{
+"artefactDate": "2026-04-21",
+"eventDate": null,
+"id": "c-4c086e0698",
+"node": "missing-scientists-probe-2026",
+"nodeLabel": "House Oversight probe into deaths and disappearances of scientists, April 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "Fox News, 21 April 2026",
+"url": null
+},
+"text": "Burlison: 'How many people walk out their front door without their phone, their wallet, their keys, or anything? I don't go anywhere without my phone.'",
+"tier": 2,
+"topic": "missing-scientists",
+"via": "Fox News"
 },
 {
 "artefactDate": "2026-04-21",
@@ -1103,11 +1086,28 @@
 },
 {
 "artefactDate": "2025-09-09",
+"eventDate": "2024-10-30",
+"id": "c-5d8f64bd09",
+"node": "hearing-2025-09-09",
+"nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "CHRG-119hhrg61718; DefenseScoop, 9 September 2025",
+"url": null
+},
+"text": "Rep. Burlison publicly unveiled footage recorded 30 October 2024 of an MQ-9 tracking an orb off the coast of Yemen while a second MQ-9 fired a Hellfire missile; the object appeared struck and continued moving.",
+"tier": 2,
+"topic": "task-force-2025",
+"via": "House Oversight Task Force"
+},
+{
+"artefactDate": "2025-09-09",
 "eventDate": "2024-10",
 "id": "c-9cf2e25f93",
 "node": "hearing-2025-09-09",
 "nodeLabel": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
-"route": "press",
+"route": "hearing",
 "source": {
 "domain": null,
 "text": "DefenseScoop, 9 September 2025",
@@ -1133,7 +1133,7 @@
 "text": "Rep. Eric Burlison unveiled video for the first time depicting a US military MQ-9 firing a Hellfire missile at a high-speed orb off Yemen's coast in October 2024; the object appeared impacted but not destroyed.",
 "tier": 2,
 "topic": "task-force-2025",
-"via": null
+"via": "DefenseScoop"
 },
 {
 "artefactDate": null,
@@ -1153,29 +1153,12 @@
 "via": null
 },
 {
-"artefactDate": "2026-05-16",
-"eventDate": null,
-"id": "c-6d940e9ef2",
-"node": "d-contractor",
-"nodeLabel": "Prime Contractor Custody",
-"route": "press",
-"source": {
-"domain": null,
-"text": "Newsmax, 16 May 2026",
-"url": null
-},
-"text": "In May 2026 a group of House Republicans led by Rep. Eric Burlison sent a letter targeting private UFO contractors.",
-"tier": 2,
-"topic": null,
-"via": "Newsmax"
-},
-{
 "artefactDate": "2026-06-25",
 "eventDate": null,
 "id": "c-15906049c1",
 "node": "jason-matheny",
 "nodeLabel": "Jason Matheny",
-"route": "broadcast",
+"route": "press",
 "source": {
 "domain": null,
 "text": "Rep. Eric Burlison, quoted by Cybernews, 25 June 2026, and NewsNation, 15 May 2026",

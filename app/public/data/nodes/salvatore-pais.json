@@ -184,8 +184,8 @@
 "id": "c-fb7370e586",
 "meta": {
 "artefactDate": null,
-"claimant": "salvatore-pais",
-"claimantLabel": "Salvatore Cezar Pais",
+"claimant": "us-navy",
+"claimantLabel": "United States Navy",
 "eventDate": "2015-07",
 "route": "document",
 "speaker": null,
@@ -427,17 +427,17 @@
 "claimsMade": [
 {
 "artefactDate": null,
-"eventDate": "2015-07",
-"id": "c-fb7370e586",
-"node": "salvatore-pais",
-"nodeLabel": "Salvatore Cezar Pais",
-"route": "document",
+"eventDate": null,
+"id": "c-0722a6873a",
+"node": "pais-patent-imrd",
+"nodeLabel": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
+"route": "filing",
 "source": {
-"domain": null,
-"text": "Patent bibliographic records for US10135366, US10144532, US10322827, US20190058105 and US20190295733 (FreePatentsOnline mirror of the USPTO full-text record), read 28 August 2026",
-"url": null
+"domain": "www.freepatentsonline.com",
+"text": "https://www.freepatentsonline.com/10144532.html",
+"url": "https://www.freepatentsonline.com/10144532.html"
 },
-"text": "Five patent filings between July 2015 and March 2018 name Pais as inventor and are assigned to the United States as represented by the Secretary of the Navy: applications 14/807943, 15/141270, 15/431823, 15/678672 and 15/928703. Three issued as US 10,135,366, US 10,144,532 and US 10,322,827.",
+"text": "The abstract begins 'A craft using an inertial mass reduction device comprises of an inner resonant cavity wall, an outer resonant cavity, and microwave emitters'.",
 "tier": 2,
 "topic": "navy-patents",
 "via": null

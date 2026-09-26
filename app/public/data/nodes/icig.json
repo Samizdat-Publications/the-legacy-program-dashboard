@@ -7,11 +7,11 @@
 {
 "id": "c-b19d0fe80f",
 "meta": {
-"artefactDate": "2022-07",
-"claimant": "icig",
-"claimantLabel": "Inspector General of the Intelligence Community",
-"eventDate": null,
-"route": "document",
+"artefactDate": "2023-07-26",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
+"eventDate": "2022-07",
+"route": "hearing",
 "speaker": null,
 "via": null
 },
@@ -24,42 +24,6 @@
 "source": "Contemporaneous reporting, January 2024",
 "text": "Briefed House Oversight subcommittee members in closed session on UAP transparency on 13 January 2024; members publicly reported learning nothing new.",
 "tier": 1
-}
-],
-"claimsMade": [
-{
-"artefactDate": "2022-07",
-"eventDate": null,
-"id": "c-bddf3d9130",
-"node": "grusch-misappropriation-allegation",
-"nodeLabel": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
-"route": "document",
-"source": {
-"domain": "thedebrief.org",
-"text": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
-"url": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/"
-},
-"text": "The Intelligence Community Inspector General found the complaint 'credible and urgent' in July 2022.",
-"tier": 2,
-"topic": "funding-channels",
-"via": "The Debrief"
-},
-{
-"artefactDate": "2022-07",
-"eventDate": null,
-"id": "c-b19d0fe80f",
-"node": "icig",
-"nodeLabel": "Inspector General of the Intelligence Community",
-"route": "document",
-"source": {
-"domain": null,
-"text": "Grusch sworn testimony, 26 July 2023; The Debrief, 5 June 2023",
-"url": null
-},
-"text": "Determined Grusch's PPD-19 urgent-concern complaint credible and urgent in July 2022.",
-"tier": 1,
-"topic": "grusch-allegations",
-"via": null
 }
 ],
 "cls": "institution",

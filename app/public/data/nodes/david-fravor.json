@@ -124,7 +124,7 @@
 "eventDate": "2004-11-14",
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.'",
@@ -169,7 +169,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.'",
@@ -264,7 +264,7 @@
 },
 {
 "artefactDate": "2023-07-26",
-"eventDate": "2004-11-14",
+"eventDate": "2004-11",
 "id": "c-01fc0691e3",
 "node": "uss-princeton",
 "nodeLabel": "USS Princeton (CG-59)",
@@ -294,7 +294,7 @@
 "text": "In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account.",
 "tier": 1,
 "topic": "nimitz-2004",
-"via": null
+"via": "House Oversight subcommittee"
 },
 {
 "artefactDate": "2023-07-26",
@@ -379,7 +379,7 @@
 "text": "Under oath he gave the radar picture of the 14 November 2004 intercept, in answer to Rep. Langworthy: 'The Princeton tracked it. The Nimitz tracked it. The E2 tracked it. We never saw it on our radars. Our fire control radars never picked it up. The other airplane that took the video did get it on a radar. As soon as it tried to lock it, it jammed the radar, spit the lock and he rapidly switched over to the targeting pod, which you can do in the F-18.'",
 "tier": 1,
 "topic": "nimitz-2004",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2023-07-26",
@@ -396,7 +396,7 @@
 "text": "'They had been observing these objects on their Aegis combat system for the previous 2 weeks,' descending from above 80,000 ft rapidly down to 20,000 ft.",
 "tier": 2,
 "topic": "nimitz-2004",
-"via": "House Oversight"
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2023-07-26",
@@ -413,7 +413,7 @@
 "text": "Asked by Rep. Langworthy 'is it true that you saw, in your words, a 40-foot flying Tic Tac shaped object?', he answered under oath: 'That is correct. For some people that cannot--know what a Tic Tac is it is a giant flying propane tank.'",
 "tier": 1,
 "topic": "nimitz-2004",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2023-07-26",
@@ -430,7 +430,7 @@
 "text": "'What is shocking is that the incident was never investigated, none of my crew were ever questioned, tapes were never taken.'",
 "tier": 2,
 "topic": "nimitz-2004",
-"via": null
+"via": "House Oversight Committee"
 }
 ],
 "cls": "person",

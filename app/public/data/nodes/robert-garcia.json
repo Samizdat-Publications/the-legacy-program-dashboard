@@ -71,12 +71,12 @@
 "id": "c-6c05829ad9",
 "meta": {
 "artefactDate": "2023-07-26",
-"claimant": "robert-garcia",
-"claimantLabel": "Robert Garcia",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
@@ -84,23 +84,6 @@
 }
 ],
 "claimsMade": [
-{
-"artefactDate": "2023-07-26",
-"eventDate": null,
-"id": "c-6c05829ad9",
-"node": "robert-garcia",
-"nodeLabel": "Robert Garcia",
-"route": "hearing",
-"source": {
-"domain": null,
-"text": "House Oversight hearing transcript, 26 July 2023",
-"url": null
-},
-"text": "Elicited: 'Absolutely, based on interviewing over 40 witnesses over 4 years... I actually had the people with the firsthand knowledge provide a protected disclosure to the Inspector General.'",
-"tier": 1,
-"topic": "hearing-2023",
-"via": null
-},
 {
 "artefactDate": "2024-01-12",
 "eventDate": null,

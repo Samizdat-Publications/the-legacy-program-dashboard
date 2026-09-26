@@ -23,7 +23,7 @@
 "claimant": "mark-mccandlish",
 "claimantLabel": "Mark McCandlish",
 "eventDate": "1988-11-12",
-"route": "hearing",
+"route": "interview",
 "speaker": null,
 "via": "The Disclosure Project"
 },
@@ -109,13 +109,13 @@
 {
 "id": "c-f1396770b7",
 "meta": {
-"artefactDate": "2001",
+"artefactDate": "2000-12",
 "claimant": "mark-mccandlish",
 "claimantLabel": "Mark McCandlish",
 "eventDate": null,
-"route": "hearing",
+"route": "interview",
 "speaker": null,
-"via": "The Disclosure Project"
+"via": "Disclosure Project"
 },
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12, read against Scott interview notes transcript p 2, https://www.arvp.co.uk/wp-content/uploads/2024/12/SORENSEN-1990-INTERVIEW.pdf , 1990-12-03",
 "text": "McCandlish's 2001 testimony adds a claim the 1990 document does not contain: 'Brad said that in this exhibit at Norton Air Force Base, a three star general said that these vehicles were capable of doing light speed or better.' The 1990 document says the opposite about ranks present: 'I did NOT see any stars in there--like generals of any sort. If there had, I would have noticed that.'",
@@ -142,7 +142,7 @@
 "artefactDate": "1990-12-03",
 "claimant": "brad-sorensen",
 "claimantLabel": "'Brad' Sorensen",
-"eventDate": "1988-11-12",
+"eventDate": null,
 "route": "interview",
 "speaker": null,
 "via": "William B. Scott"

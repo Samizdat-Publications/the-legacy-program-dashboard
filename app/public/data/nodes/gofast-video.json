@@ -13,7 +13,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "Senate Armed Services Committee"
 },
 "source": "AARO case slides, Senate Armed Services Committee open hearing, 19 November 2024",
 "text": "AARO assessed GO FAST as an object at approximately 13,000 feet travelling around 45 mph with 60-knot winds; it 'did not demonstrate any anomalous speeds or flight characteristics.'",
@@ -28,7 +28,7 @@
 "eventDate": "2015-01",
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "text": "The GO FAST video was attached to a January 2015 US Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' that was deleted from recipients' accounts the following day.",
@@ -40,8 +40,8 @@
 "artefactDate": "2020-04-27",
 "claimant": "dod",
 "claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
-"eventDate": null,
-"route": "document",
+"eventDate": "2020-04-27",
+"route": "press",
 "speaker": null,
 "via": null
 },

@@ -8,8 +8,8 @@
 "id": "c-bf79874311",
 "meta": {
 "artefactDate": "2017-12-16",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "leslie-kean",
+"claimantLabel": "Leslie Kean",
 "eventDate": "2007",
 "route": "press",
 "speaker": "The New York Times (Cooper, Blumenthal, Kean)",
@@ -53,8 +53,8 @@
 "id": "c-947b2fc1ee",
 "meta": {
 "artefactDate": "2017-12-16",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "leslie-kean",
+"claimantLabel": "Leslie Kean",
 "eventDate": null,
 "route": "press",
 "speaker": "The New York Times (Cooper, Blumenthal, Kean)",
@@ -88,7 +88,7 @@
 "eventDate": "2017",
 "route": "hearing",
 "speaker": "unnamed whistleblower source (via Shellenberger)",
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024, reporting his whistleblower source",
 "text": "The alleged Immaculate Constellation programme was created by the Department of Defense in 2017 in response to the New York Times publication on AATIP.",

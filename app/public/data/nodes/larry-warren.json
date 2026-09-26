@@ -11,12 +11,12 @@
 "id": "c-4aaf9034a6",
 "meta": {
 "artefactDate": "2001-04",
-"claimant": "larry-warren",
-"claimantLabel": "Larry Warren",
+"claimant": "disclosure-project",
+"claimantLabel": "The Disclosure Project",
 "eventDate": "2000-09",
-"route": "hearing",
+"route": "document",
 "speaker": null,
-"via": "Disclosure Project Briefing Document (Steven M. Greer and Theodore C. Loder III)"
+"via": null
 },
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
@@ -29,7 +29,7 @@
 "claimant": "larry-warren",
 "claimantLabel": "Larry Warren",
 "eventDate": "1980-12-11",
-"route": "hearing",
+"route": "interview",
 "speaker": null,
 "via": "The Disclosure Project"
 },
@@ -70,7 +70,7 @@
 {
 "id": "c-aaa53a7b22",
 "meta": {
-"artefactDate": null,
+"artefactDate": "2017-08",
 "claimant": "peter-robbins",
 "claimantLabel": "Peter Robbins",
 "eventDate": "1981-01",
@@ -103,12 +103,29 @@
 ],
 "claimsMade": [
 {
+"artefactDate": "2000-09",
+"eventDate": "1980-12-11",
+"id": "c-a3b77d59e9",
+"node": "rendlesham-1980",
+"nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
+"route": "interview",
+"source": {
+"domain": "archive.org",
+"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
+"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
+},
+"text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
+"tier": 1,
+"topic": "disclosure-project-2001",
+"via": "Disclosure Project Briefing Document (Steven M. Greer and Theodore C. Loder III)"
+},
+{
 "artefactDate": "2001-04",
 "eventDate": "1980-12-11",
 "id": "c-33f4f4b762",
 "node": "larry-warren",
 "nodeLabel": "Larry Warren",
-"route": "hearing",
+"route": "interview",
 "source": {
 "domain": "archive.org",
 "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
@@ -118,40 +135,6 @@
 "tier": 2,
 "topic": "disclosure-project-2001",
 "via": "The Disclosure Project"
-},
-{
-"artefactDate": "2026-09-19",
-"eventDate": "2000-09",
-"id": "c-a3b77d59e9",
-"node": "rendlesham-1980",
-"nodeLabel": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
-"route": "hearing",
-"source": {
-"domain": "archive.org",
-"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-"text": "Larry Warren's claimed connection to it is printed at section 3.8.4 of the Disclosure Project Briefing Document under 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000', in which he states he was assigned to the 81st Tactical Fighter Wing at Bentwaters and that his PRP clearance was approved on 11 December 1980.",
-"tier": 1,
-"topic": "disclosure-project-2001",
-"via": null
-},
-{
-"artefactDate": "2001-04",
-"eventDate": "2000-09",
-"id": "c-4aaf9034a6",
-"node": "larry-warren",
-"nodeLabel": "Larry Warren",
-"route": "hearing",
-"source": {
-"domain": "archive.org",
-"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-"text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'. TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
-"tier": 2,
-"topic": "rendlesham-1980",
-"via": "Disclosure Project Briefing Document (Steven M. Greer and Theodore C. Loder III)"
 }
 ],
 "cls": "person",

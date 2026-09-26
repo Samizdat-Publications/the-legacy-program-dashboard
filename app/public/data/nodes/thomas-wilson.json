@@ -47,8 +47,8 @@
 "id": "c-946d714ea1",
 "meta": {
 "artefactDate": "2002-10-16",
-"claimant": "thomas-wilson",
-"claimantLabel": "Thomas R. Wilson",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
 "eventDate": null,
 "route": "document",
 "speaker": null,
@@ -82,23 +82,6 @@
 ],
 "claimsMade": [
 {
-"artefactDate": "2002-10-16",
-"eventDate": "1997",
-"id": "c-57e9190bad",
-"node": "wilson-davis-memo",
-"nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
-"route": "document",
-"source": {
-"domain": null,
-"text": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
-"url": null
-},
-"text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
-"tier": 2,
-"topic": "area-51-ranges",
-"via": "Eric W. Davis (notetaker)"
-},
-{
 "artefactDate": "2019",
 "eventDate": null,
 "id": "c-7cddcadc7e",
@@ -113,74 +96,6 @@
 "text": "Thomas R. Wilson denies that the meeting took place and denies the substance attributed to him.",
 "tier": 2,
 "topic": "area-51-ranges",
-"via": null
-},
-{
-"artefactDate": "2002-10-16",
-"eventDate": "1999",
-"id": "c-627f05aa82",
-"node": "will-miller",
-"nodeLabel": "Will Miller",
-"route": "document",
-"source": {
-"domain": "documents2.theblackvault.com",
-"text": "The Wilson-Davis notes as published, pp 5-6, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
-"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
-},
-"text": "The notes record Wilson as 'Very furious - very angry about Miller' for having 'Violated personal and professional trust - especially among intelligence colleagues/Navy officers', and carry Davis's own parenthesis that 'Miller told Ed Mitchell who only told me in 1999'.",
-"tier": 2,
-"topic": "wilson-davis-notes",
-"via": "Eric W. Davis (notetaker)"
-},
-{
-"artefactDate": "2002-10-16",
-"eventDate": null,
-"id": "c-9298e0fe98",
-"node": "eric-davis",
-"nodeLabel": "Eric W. Davis",
-"route": "document",
-"source": {
-"domain": null,
-"text": "The Wilson-Davis notes, 16 Oct 2002, as circulated from 2019",
-"url": null
-},
-"text": "The notes record Wilson describing being refused access, on need-to-know grounds, to a special access programme holding recovered non-human material in contractor custody.",
-"tier": 2,
-"topic": "wilson-davis-notes",
-"via": null
-},
-{
-"artefactDate": "2002-10-16",
-"eventDate": null,
-"id": "c-946d714ea1",
-"node": "thomas-wilson",
-"nodeLabel": "Thomas R. Wilson",
-"route": "document",
-"source": {
-"domain": null,
-"text": "Wilson-Davis notes, 16 Oct 2002",
-"url": null
-},
-"text": "The Davis notes record Wilson stating he was refused access to a special access programme holding recovered non-human material, on the grounds that he lacked need-to-know, despite his position as Joint Staff J-2.",
-"tier": 2,
-"topic": "wilson-davis-notes",
-"via": null
-},
-{
-"artefactDate": "2002-10-16",
-"eventDate": null,
-"id": "c-b123bc0555",
-"node": "eric-davis",
-"nodeLabel": "Eric W. Davis",
-"route": "document",
-"source": {
-"domain": null,
-"text": "Notes attributed to Eric W. Davis of a 16 October 2002 meeting; circulated publicly from 2019",
-"url": null
-},
-"text": "The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special access program holding a recovered craft, on the basis that the program sat with a private aerospace contractor and he had no need to know.",
-"tier": 2,
-"topic": "wilson-davis-notes",
 "via": null
 },
 {

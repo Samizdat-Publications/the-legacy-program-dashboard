@@ -165,7 +165,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Subcommittee on National Security, the Border, and Foreign Affairs"
 },
 "source": "Rep. Tim Burchett, opening statement, House Oversight National Security subcommittee hearing, 26 July 2023, GPO transcript CHRG-118hhrg53022",
 "text": "'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
@@ -252,7 +252,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Stated on the record at the hearing that members were denied access to a SCIF, limiting what Grusch could say.",
@@ -314,7 +314,7 @@
 "id": "c-90d8ae47ca",
 "node": "alexandria-ocasio-cortez",
 "nodeLabel": "Alexandria Ocasio-Cortez",
-"route": "broadcast",
+"route": "interview",
 "source": {
 "domain": null,
 "text": "Rep. Burchett to NewsNation, reported by The Hill, 13 January 2024",
@@ -323,7 +323,7 @@
 "text": "Present at the 12 January 2024 closed-door ICIG UAP briefing along with roughly sixteen members.",
 "tier": 2,
 "topic": "grusch-allegations",
-"via": "NewsNation"
+"via": "NewsNation, reported by The Hill"
 },
 {
 "artefactDate": "2023-07-26",
@@ -340,7 +340,7 @@
 "text": "Stated on the record at the hearing that members were denied access to a SCIF, limiting what Grusch could say.",
 "tier": 1,
 "topic": "hearing-2023",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2023-07-26",
@@ -357,7 +357,7 @@
 "text": "'We were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
 "tier": 1,
 "topic": "hearing-2023",
-"via": null
+"via": "House Oversight Subcommittee on National Security, the Border, and Foreign Affairs"
 },
 {
 "artefactDate": "2023-08-22",
@@ -493,7 +493,7 @@
 "text": "Rep. Tim Burchett stated on the record that he had 'recently introduced the UAP Whistleblower Protection Act to help provide whistleblower protection to Federal personnel for disclosing the use of Federal taxpayer funds to investigate UFOs.' Witness George Knapp responded: 'I think you have got to unleash the dogs and go track down the money and where it goes because a lot of this stuff has been moved out of government'.",
 "tier": 2,
 "topic": "task-force-2025",
-"via": null
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
 },
 {
 "artefactDate": "2024-01-12",
@@ -535,7 +535,7 @@
 "id": "c-3ec282cfc2",
 "node": "hr-8197",
 "nodeLabel": "H.R. 8197 (119th Congress) - bill to abolish AARO",
-"route": "press",
+"route": "document",
 "source": {
 "domain": null,
 "text": "H.R. 8197, 119th Congress; Newsweek 8 April 2026; Political Saucer analysis of the bill text — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
@@ -544,7 +544,7 @@
 "text": "H.R. 8197 was introduced by Rep. Tim Burchett on 6 April 2026 and would abolish AARO, bar any successor entity, and redistribute its functions to the military departments; it was referred to HASC and HPSCI.",
 "tier": 2,
 "topic": null,
-"via": "Newsweek"
+"via": null
 }
 ],
 "cls": "person",

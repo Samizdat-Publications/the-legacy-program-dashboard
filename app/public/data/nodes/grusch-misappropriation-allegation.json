@@ -37,13 +37,13 @@
 {
 "id": "c-bddf3d9130",
 "meta": {
-"artefactDate": "2022-07",
-"claimant": "icig",
-"claimantLabel": "Inspector General of the Intelligence Community",
-"eventDate": null,
-"route": "document",
+"artefactDate": null,
+"claimant": "the-debrief",
+"claimantLabel": "The Debrief",
+"eventDate": "2022-07",
+"route": "press",
 "speaker": null,
-"via": "The Debrief"
+"via": null
 },
 "source": "https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/",
 "text": "The Intelligence Community Inspector General found the complaint 'credible and urgent' in July 2022.",
@@ -53,12 +53,12 @@
 "id": "c-78d3626945",
 "meta": {
 "artefactDate": "2023-07-26",
-"claimant": "david-grusch",
-"claimantLabel": "David Charles Grusch",
-"eventDate": null,
-"route": "hearing",
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
+"eventDate": "2023-07-26",
+"route": "document",
 "speaker": null,
-"via": "House Oversight Committee"
+"via": null
 },
 "source": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
 "text": "Grusch testified under oath on 26 July 2023 before the House Oversight subcommittee at the hearing 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency', with Ryan Graves and David Fravor.",
@@ -67,7 +67,7 @@
 {
 "id": "c-5abd0cfa1a",
 "meta": {
-"artefactDate": "2023",
+"artefactDate": "2023-07",
 "claimant": "david-grusch",
 "claimantLabel": "David Charles Grusch",
 "eventDate": null,

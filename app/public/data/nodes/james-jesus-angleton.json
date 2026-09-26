@@ -43,7 +43,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "Church Committee"
 },
 "source": "S. Rept. 94-755, Book III, quoting Angleton testimony of 17 September 1975, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
 "text": "Angleton's own stated reason for the exemption was the number of people normal processing would have exposed: a typical project would need sign-off by many components and a project review board, giving 'this tremendous opening up of the activity to a great number of people. ... That is the reason why I think it was excepted from [the usual approval system], and that way it shortcircuited the normal project approval process.'",
@@ -52,13 +52,13 @@
 {
 "id": "c-b8454427f5",
 "meta": {
-"artefactDate": "2024",
+"artefactDate": null,
 "claimant": "james-jesus-angleton",
 "claimantLabel": "James Jesus Angleton",
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "Church Committee"
 },
 "source": "S. Rept. 94-755, Book III, public hearing exchange with Senator Church, https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-94755-iii.pdf",
 "text": "Asked in public session why the Agency continued the mail programme after the President revoked the authority, Angleton answered: 'I have no satisfactory answer or that.'",
@@ -81,10 +81,10 @@
 "text": "Angleton's own stated reason for the exemption was the number of people normal processing would have exposed: a typical project would need sign-off by many components and a project review board, giving 'this tremendous opening up of the activity to a great number of people. ... That is the reason why I think it was excepted from [the usual approval system], and that way it shortcircuited the normal project approval process.'",
 "tier": 1,
 "topic": "oversight-before-2017",
-"via": null
+"via": "Church Committee"
 },
 {
-"artefactDate": "2024",
+"artefactDate": null,
 "eventDate": null,
 "id": "c-b8454427f5",
 "node": "james-jesus-angleton",
@@ -98,7 +98,7 @@
 "text": "Asked in public session why the Agency continued the mail programme after the President revoked the authority, Angleton answered: 'I have no satisfactory answer or that.'",
 "tier": 1,
 "topic": "oversight-before-2017",
-"via": null
+"via": "Church Committee"
 }
 ],
 "cls": "person",

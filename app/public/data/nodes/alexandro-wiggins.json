@@ -131,7 +131,7 @@
 "eventDate": "2023",
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
 },
 "source": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop",
 "text": "Wiggins testified that in 2023 aboard USS Jackson he observed a self-luminous Tic Tac-shaped object emerge from the ocean and accelerate without conventional propulsion signatures, detected on multiple radar systems.",
@@ -182,7 +182,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "https://oversight.house.gov/wp-content/uploads/2025/09/Wiggins-Written-Statement.pdf",
 "text": "CIC personnel recorded the encounter on the ship's Star SAFIRE multi-spectral EO/IR system and reported to the Tactical Action Officer; the video was later published by Jeremy Corbell and George Knapp.",
@@ -239,7 +239,7 @@
 "text": "CIC personnel recorded the encounter on the ship's Star SAFIRE multi-spectral EO/IR system and reported to the Tactical Action Officer; the video was later published by Jeremy Corbell and George Knapp.",
 "tier": 2,
 "topic": "military-encounters-2019",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2025-09-09",
@@ -328,6 +328,23 @@
 },
 {
 "artefactDate": "2025-09-09",
+"eventDate": null,
+"id": "c-c40dba1bf0",
+"node": "uss-jackson-2023",
+"nodeLabel": "USS Jackson (LCS-6) Encounter, 15 February 2023",
+"route": "hearing",
+"source": {
+"domain": null,
+"text": "Wiggins written statement, 9 September 2025; The Debrief, 17 April 2025",
+"url": null
+},
+"text": "The stabilized footage and screenshots were published by journalists rather than released by the Navy or AARO.",
+"tier": 2,
+"topic": "military-encounters-2019",
+"via": null
+},
+{
+"artefactDate": "2025-09-09",
 "eventDate": "2023",
 "id": "c-c9f81ac29a",
 "node": "alexandro-wiggins",
@@ -341,7 +358,7 @@
 "text": "Wiggins testified that in 2023 aboard USS Jackson he observed a self-luminous Tic Tac-shaped object emerge from the ocean and accelerate without conventional propulsion signatures, detected on multiple radar systems.",
 "tier": 2,
 "topic": "military-encounters-2019",
-"via": null
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
 },
 {
 "artefactDate": "2025-09-09",

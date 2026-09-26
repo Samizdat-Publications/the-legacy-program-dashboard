@@ -253,7 +253,7 @@
 "artefactDate": "2017-12-16",
 "claimant": "luis-elizondo",
 "claimantLabel": "Luis D. Elizondo",
-"eventDate": null,
+"eventDate": "2010",
 "route": "press",
 "speaker": null,
 "via": "New York Times"
@@ -340,7 +340,7 @@
 "eventDate": null,
 "route": "filing",
 "speaker": null,
-"via": null
+"via": "The Black Vault"
 },
 "source": "The Black Vault document archive of Elizondo's DoD IG complaint and associated FOIA releases",
 "text": "Filed a DoD Inspector General complaint in May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats' by named senior officials.",
@@ -376,7 +376,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Sworn testimony, House Oversight, 13 November 2024",
 "text": "Asked whether he agreed with Grusch that the US has run a multi-decade UAP crash, retrieval and reverse engineering program: 'Yes, sir.'",
@@ -430,13 +430,13 @@
 {
 "id": "c-760a39cac1",
 "meta": {
-"artefactDate": "2026-01-13",
+"artefactDate": null,
 "claimant": "luis-elizondo",
 "claimantLabel": "Luis D. Elizondo",
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "Liberation Times (Christopher Sharp)"
 },
 "source": "Christopher Sharp, Liberation Times, 13 January 2026, citing Elizondo's written testimony to Congress",
 "text": "Elizondo alleged in written congressional testimony that NAS Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to move material by air and by river.",
@@ -452,9 +452,9 @@
 "id": "c-2308ae3439",
 "meta": {
 "artefactDate": "2024-11-13",
-"claimant": "luis-elizondo",
-"claimantLabel": "Luis D. Elizondo",
-"eventDate": null,
+"claimant": "house-oversight-committee",
+"claimantLabel": "U.S. House Committee on Oversight and Government Reform",
+"eventDate": "2024-11-13",
 "route": "hearing",
 "speaker": null,
 "via": null
@@ -512,7 +512,7 @@
 "claimsMade": [
 {
 "artefactDate": "2017-12-16",
-"eventDate": null,
+"eventDate": "2010",
 "id": "c-611eb79ba5",
 "node": "luis-elizondo",
 "nodeLabel": "Luis D. Elizondo",
@@ -576,7 +576,7 @@
 "text": "Filed a DoD Inspector General complaint in May 2021 alleging 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats' by named senior officials.",
 "tier": 2,
 "topic": "aatip-elizondo",
-"via": null
+"via": "The Black Vault"
 },
 {
 "artefactDate": "2022-04",
@@ -644,24 +644,7 @@
 "text": "Elizondo does not state the five observables in his sworn written testimony. His written statement to the House Committee on Oversight and Accountability for the hearing 'Unidentified Anomalous Phenomena: Exposing the Truth', 13 November 2024, contains none of the words 'observable', 'acceleration', 'trans-medium', 'lift', 'hypersonic', 'signature', 'cloak' or 'AATIP'. The full text was retrieved from oversight.house.gov and is transcribed at research/testimony/elizondo-house-oversight-2024-11-13.txt. This is a searchable negative on the most likely government-record source for the set, and it is why the taxonomy stays at Tier 2 attributed to him rather than moving to the congressional record.",
 "tier": 1,
 "topic": "aatip-elizondo",
-"via": null
-},
-{
-"artefactDate": "2024-11-13",
-"eventDate": null,
-"id": "c-2308ae3439",
-"node": "luis-elizondo",
-"nodeLabel": "Luis D. Elizondo",
-"route": "hearing",
-"source": {
-"domain": null,
-"text": "House Committee on Oversight and Accountability hearing record, 13 November 2024",
-"url": null
-},
-"text": "Elizondo testified as a named witness before the House Oversight Subcommittees on Cybersecurity/IT and National Security on 13 November 2024.",
-"tier": 1,
-"topic": "aatip-elizondo",
-"via": null
+"via": "House Committee on Oversight and Accountability"
 },
 {
 "artefactDate": "2024-11-13",
@@ -749,7 +732,7 @@
 "via": null
 },
 {
-"artefactDate": "2026-01-13",
+"artefactDate": null,
 "eventDate": null,
 "id": "c-760a39cac1",
 "node": "luis-elizondo",
@@ -763,7 +746,7 @@
 "text": "Elizondo alleged in written congressional testimony that NAS Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to move material by air and by river.",
 "tier": 2,
 "topic": "aatip-elizondo",
-"via": null
+"via": "Liberation Times (Christopher Sharp)"
 },
 {
 "artefactDate": "2024-11-13",
@@ -817,6 +800,23 @@
 "via": "UAP Digest"
 },
 {
+"artefactDate": null,
+"eventDate": "2017",
+"id": "c-0f190eb969",
+"node": "foia-21-f-0938",
+"nodeLabel": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
+"route": "filing",
+"source": {
+"domain": null,
+"text": "OSD FOIA 21-F-0938",
+"url": null
+},
+"text": "Records Elizondo's assertion that a DoD Press Secretary verified in 2017 that he was an OUSD(I) staff member, and that Sherwood had indicated the Department would release an exonerating statement.",
+"tier": 2,
+"topic": "foia-litigation",
+"via": null
+},
+{
 "artefactDate": "2024-11-13",
 "eventDate": null,
 "id": "c-3edb01eb4b",
@@ -848,7 +848,7 @@
 "text": "Elizondo's written testimony states that 'Advanced technologies not made by our Government – or any other government – are monitoring sensitive military installations around the globe' and alleges 'a multi-decade, secretive arms race'.",
 "tier": 2,
 "topic": "hearing-2024",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2024-11-13",
@@ -950,7 +950,7 @@
 "text": "Asked whether he agreed with Grusch that the US has run a multi-decade UAP crash, retrieval and reverse engineering program: 'Yes, sir.'",
 "tier": 1,
 "topic": "hearing-2024",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2024-11-13",
@@ -1038,7 +1038,7 @@
 "via": "House Oversight (questioned by Rep. Nancy Mace)"
 },
 {
-"artefactDate": "2026-01-13",
+"artefactDate": null,
 "eventDate": null,
 "id": "c-1ed8c47f65",
 "node": "l-pax-river",
@@ -1052,7 +1052,7 @@
 "text": "Elizondo claimed in written testimony to Congress that Patuxent River was among the sites prepared in connection with the Lockheed Martin - Bigelow Aerospace transfer, including a hangar designed to facilitate movement of material by air and by river.",
 "tier": 2,
 "topic": "navy-patents",
-"via": null
+"via": "Liberation Times"
 }
 ],
 "cls": "person",

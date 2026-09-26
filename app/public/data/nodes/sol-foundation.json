@@ -136,6 +136,23 @@
 ],
 "claimsMade": [
 {
+"artefactDate": "2026-04",
+"eventDate": null,
+"id": "c-2c5d74b65c",
+"node": "garry-nolan",
+"nodeLabel": "Garry Nolan",
+"route": "document",
+"source": {
+"domain": "thesolfoundation.org",
+"text": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
+"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
+},
+"text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
 "artefactDate": "2026-06",
 "eventDate": null,
 "id": "c-1567c2cf52",
@@ -187,6 +204,23 @@
 "via": null
 },
 {
+"artefactDate": "2026-06-15",
+"eventDate": null,
+"id": "c-7991fbf939",
+"node": "peter-skafish",
+"nodeLabel": "Peter Skafish",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Sol Foundation announcement; Skeptics Society, 15 June 2026",
+"url": null
+},
+"text": "Skafish was named to the UAP Science Advisory Council in June 2026.",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
 "artefactDate": null,
 "eventDate": null,
 "id": "c-13ff9228d9",
@@ -199,6 +233,23 @@
 "url": "https://thesolfoundation.org/sol-foundation-co-founders-named-to-uap-science-advisory-council/"
 },
 "text": "'All data shared with the council will be unclassified.'",
+"tier": 2,
+"topic": "academic-science",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-5b22d52338",
+"node": "kirk-mcconnell",
+"nodeLabel": "Kirk McConnell",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Sol Foundation biography of Kirk McConnell",
+"url": null
+},
+"text": "McConnell spent 37 years on Capitol Hill, primarily on defence and intelligence, including service with the Senate Armed Services Committee and both the House and Senate intelligence committees, retiring in March 2024; his UAP work began after the 2017 New York Times disclosures and included participation in UAP investigations and development of related legislation.",
 "tier": 2,
 "topic": "academic-science",
 "via": null
@@ -272,8 +323,8 @@
 "via": null
 },
 {
-"artefactDate": "2025-10",
-"eventDate": null,
+"artefactDate": null,
+"eventDate": "2025-10-24",
 "id": "c-8c59387185",
 "node": "jake-barber",
 "nodeLabel": "Jake Barber",

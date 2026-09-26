@@ -67,7 +67,7 @@
 "claimsMade": [
 {
 "artefactDate": "2020-07-23",
-"eventDate": null,
+"eventDate": "2020-07",
 "id": "c-c20eb7c8b7",
 "node": "aerospace-corporation",
 "nodeLabel": "The Aerospace Corporation",
@@ -98,6 +98,23 @@
 "tier": 2,
 "topic": "nyt-2017",
 "via": null
+},
+{
+"artefactDate": "2017-12-16",
+"eventDate": null,
+"id": "c-bf514e1682",
+"node": "l-nyc",
+"nodeLabel": "New York City",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The New York Times, 16 December 2017; DEMOTED from Tier 1 (the same assertion is Tier 2 on nyt-2017-12-16); needs primary replacement",
+"url": null
+},
+"text": "The New York Times published 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program' on 16 December 2017, by Helene Cooper, Ralph Blumenthal and Leslie Kean.",
+"tier": 2,
+"topic": null,
+"via": "The New York Times"
 }
 ],
 "cls": "person",

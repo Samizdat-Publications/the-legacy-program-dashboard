@@ -17,7 +17,7 @@
 "claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
 "eventDate": "2026-05-20",
 "route": "document",
-"speaker": "OSD Historical Office",
+"speaker": null,
 "via": null
 },
 "source": "OSD Historical Office, Key Officials September 1947-July 2026 (7 July 2026), https://history.defense.gov/Portals/70/Documents/key_officials/KeyOfficials-2026-07-07.pdf",
@@ -58,8 +58,8 @@
 "id": "c-b95dd664e6",
 "meta": {
 "artefactDate": null,
-"claimant": "michael-powers-comptroller",
-"claimantLabel": "Michael Powers",
+"claimant": "dod",
+"claimantLabel": "United States Department of Defense (secondary designation: Department of War)",
 "eventDate": null,
 "route": "document",
 "speaker": null,
@@ -74,25 +74,6 @@
 "source": "https://files.fasab.gov/pdffiles/handbook_sffas_56.pdf",
 "text": "The Department of Defense identified the need for the standard that became SFFAS 56 in August 2016.",
 "tier": 1
-}
-],
-"claimsMade": [
-{
-"artefactDate": null,
-"eventDate": null,
-"id": "c-b95dd664e6",
-"node": "michael-powers-comptroller",
-"nodeLabel": "Michael Powers",
-"route": "document",
-"source": {
-"domain": "comptroller.war.gov",
-"text": "https://comptroller.war.gov/",
-"url": "https://comptroller.war.gov/"
-},
-"text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
-"tier": 1,
-"topic": "black-budget",
-"via": null
 }
 ],
 "cls": "person",

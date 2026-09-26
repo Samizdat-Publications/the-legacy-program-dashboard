@@ -98,10 +98,10 @@
 {
 "id": "c-64b2984489",
 "meta": {
-"artefactDate": "2002",
+"artefactDate": "2002-12-26",
 "claimant": "walter-haut",
 "claimantLabel": "Walter Haut",
-"eventDate": "1947",
+"eventDate": null,
 "route": "filing",
 "speaker": null,
 "via": null
@@ -122,10 +122,10 @@
 "artefactDate": "1993-05-14",
 "claimant": "walter-haut",
 "claimantLabel": "Walter Haut",
-"eventDate": "1947",
+"eventDate": null,
 "route": "filing",
 "speaker": null,
-"via": null
+"via": "Fund for UFO Research (affidavit series)"
 },
 "source": "Haut affidavit, 14 May 1993 (Fund for UFO Research affidavit series)",
 "text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
@@ -134,10 +134,10 @@
 {
 "id": "c-b70ec8f7b2",
 "meta": {
-"artefactDate": "1980",
+"artefactDate": "1979",
 "claimant": "walter-haut",
 "claimantLabel": "Walter Haut",
-"eventDate": "1979",
+"eventDate": null,
 "route": "book",
 "speaker": null,
 "via": null
@@ -155,8 +155,8 @@
 ],
 "claimsMade": [
 {
-"artefactDate": "1980",
-"eventDate": "1979",
+"artefactDate": "1979",
+"eventDate": null,
 "id": "c-b70ec8f7b2",
 "node": "walter-haut",
 "nodeLabel": "Walter Haut",
@@ -173,7 +173,7 @@
 },
 {
 "artefactDate": "1993-05-14",
-"eventDate": "1947",
+"eventDate": null,
 "id": "c-7c157d2895",
 "node": "walter-haut",
 "nodeLabel": "Walter Haut",
@@ -186,11 +186,11 @@
 "text": "In an affidavit signed 14 May 1993 Haut stated that Col. Blanchard had seen the material, that there was no chance Blanchard would have mistaken it for a weather balloon, and no chance Marcel would have been mistaken.",
 "tier": 2,
 "topic": "roswell-1947",
-"via": null
+"via": "Fund for UFO Research (affidavit series)"
 },
 {
-"artefactDate": "2002",
-"eventDate": "1947",
+"artefactDate": "2002-12-26",
+"eventDate": null,
 "id": "c-64b2984489",
 "node": "walter-haut",
 "nodeLabel": "Walter Haut",

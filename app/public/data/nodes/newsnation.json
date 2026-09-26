@@ -22,6 +22,142 @@
 ],
 "claimsMade": [
 {
+"artefactDate": "2024-07-11",
+"eventDate": null,
+"id": "c-75c22fe63f",
+"node": "aaro-metallic-specimen-analysis",
+"nodeLabel": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 11 July 2024; Popular Mechanics, 23 March 2026",
+"url": null
+},
+"text": "The analysis concluded the material is a magnesium alloy and found no evidence of extraterrestrial origin; ORNL scientists examined it for technosignatures using scanning transmission electron microscopy after finding no biosignatures.",
+"tier": 2,
+"topic": "battelle-nitinol",
+"via": null
+},
+{
+"artefactDate": "2026-07-15",
+"eventDate": null,
+"id": "c-0edd47ab22",
+"node": "l-varginha",
+"nodeLabel": "Varginha, Minas Gerais, Brazil",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 15 July 2026",
+"url": null
+},
+"text": "A US lawmaker requested FBI and CIA records on the Varginha incident in July 2026.",
+"tier": 2,
+"topic": "brazil",
+"via": null
+},
+{
+"artefactDate": "2026-07-15",
+"eventDate": null,
+"id": "c-6854ebcd40",
+"node": "ev-varginha-capitol-2026",
+"nodeLabel": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 'UFO files: Lawmaker asks FBI, CIA for info on Brazil's Roswell moment', 15 July 2026",
+"url": null
+},
+"text": "On 15 July 2026 NewsNation reported that a lawmaker had asked the FBI and CIA for information on the Varginha case; contemporaneous coverage names Representative Eric Burlison as the requester.",
+"tier": 2,
+"topic": "brazil",
+"via": null
+},
+{
+"artefactDate": "2026-05-15",
+"eventDate": null,
+"id": "c-3bbf7cbfad",
+"node": "ida",
+"nodeLabel": "Institute for Defense Analyses",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 15 May 2026",
+"url": null
+},
+"text": "IDA is named among the FFRDCs implicated in public reporting on the congressional UAP contractor inquiry.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-05-15",
+"eventDate": null,
+"id": "c-b9fc5746cb",
+"node": "charles-a-richard",
+"nodeLabel": "Charles A. Richard",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 15 May 2026",
+"url": null
+},
+"text": "IDA is among the federally funded research organisations named in public reporting on the congressional UAP contractor inquiry, alongside MIT Lincoln Laboratory, MITRE, RAND, the Aerospace Corporation, JPL and Sandia.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-837d5315e5",
+"node": "kona-blue",
+"nodeLabel": "KONA BLUE",
+"route": "document",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check episode description, 4 August 2026",
+"url": null
+},
+"text": "The Kona Blue discussion was presented alongside the Immaculate Constellation document and whistleblower Matthew Brown's claims about non-human and reproduction vehicle data.",
+"tier": 2,
+"topic": "kona-blue",
+"via": null
+},
+{
+"artefactDate": "2026-02",
+"eventDate": null,
+"id": "c-e02a27993e",
+"node": "newsnation-reality-check",
+"nodeLabel": "Reality Check with Ross Coulthart (NewsNation)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, published circa February 2026",
+"url": null
+},
+"text": "NewsNation published a segment titled 'Ross Coulthart on UAP Gerb's claims: I think he's on the money.'",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-08-04",
+"eventDate": null,
+"id": "c-04fe7f6939",
+"node": "newsnation-reality-check",
+"nodeLabel": "Reality Check with Ross Coulthart (NewsNation)",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation Reality Check chapter summary, 4 August 2026",
+"url": null
+},
+"text": "The 4 August 2026 episode covered Immaculate Constellation, Kona Blue, FFRDCs/UARCs/GOCOs, gatekeeping within the legacy program, alleged directed-energy attacks on whistleblowers, alleged EMP downings of civilian aircraft and 'blue on blue' kinetic strikes.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
+},
+{
 "artefactDate": "2026-08-04",
 "eventDate": null,
 "id": "c-b7433aeaa4",
@@ -36,6 +172,40 @@
 "text": "NewsNation employs Ross Coulthart as senior special investigations correspondent and produces Reality Check with a credited team including executive producer Andy Gipson, editorial producer Meagan Medick and research producer Rob Jones.",
 "tier": 2,
 "topic": "media-substrate",
+"via": null
+},
+{
+"artefactDate": "2026-07-15",
+"eventDate": "2026-07",
+"id": "c-a152b756bc",
+"node": "d-international",
+"nodeLabel": "International & Allied Programs",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 15 July 2026",
+"url": null
+},
+"text": "In July 2026 a US lawmaker formally asked the FBI and CIA for information relating to the 1996 Varginha incident in Brazil.",
+"tier": 2,
+"topic": "office-models",
+"via": null
+},
+{
+"artefactDate": "2026-04-17",
+"eventDate": "2026-04",
+"id": "c-362a326610",
+"node": "luna-hegseth-video-letter-2026",
+"nodeLabel": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "NewsNation, 17 April 2026",
+"url": null
+},
+"text": "The Pentagon missed the video deadline in mid-April 2026 and Luna publicly raised a subpoena.",
+"tier": 2,
+"topic": "task-force-2025",
 "via": null
 }
 ],

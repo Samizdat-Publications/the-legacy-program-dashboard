@@ -50,12 +50,12 @@
 "id": "c-deaa295d00",
 "meta": {
 "artefactDate": "2010-09-27",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "robert-hastings",
+"claimantLabel": "Robert L. Hastings",
 "eventDate": null,
 "route": "broadcast",
 "speaker": "ufohastings.com; CNN",
-"via": null
+"via": "CNN"
 },
 "source": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
 "text": "Seven US Air Force veterans discussed UFO incursions at nuclear weapons sites at the National Press Club on 27 September 2010; CNN streamed the event live and carried coverage.",
@@ -82,7 +82,7 @@
 "artefactDate": null,
 "claimant": "robert-hastings",
 "claimantLabel": "Robert L. Hastings",
-"eventDate": "2010-09-27",
+"eventDate": null,
 "route": "document",
 "speaker": null,
 "via": null

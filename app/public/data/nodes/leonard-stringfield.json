@@ -199,24 +199,7 @@
 "text": "Status Report I was a paper delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as 4412 Grove Avenue, Cincinnati, Ohio 45227.",
 "tier": 2,
 "topic": "crash-claims",
-"via": null
-},
-{
-"artefactDate": "1980-08-11",
-"eventDate": null,
-"id": "c-ac7e216e82",
-"node": "kingman-1953",
-"nodeLabel": "Kingman, Arizona claim, 1953",
-"route": "document",
-"source": {
-"domain": null,
-"text": "Stringfield, Status Report III, Kingman Q&A",
-"url": null
-},
-"text": "Stringfield wrote to Fowler on 11 August 1980 seeking permission to question Fowler's source 'Fritz Werner' (pseudonym); Werner's written answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
-"tier": 2,
-"topic": "crash-claims",
-"via": null
+"via": "MUFON Symposium"
 },
 {
 "artefactDate": "1991-07",
@@ -237,7 +220,7 @@
 },
 {
 "artefactDate": "1994-02",
-"eventDate": null,
+"eventDate": "1947",
 "id": "c-206b95e21a",
 "node": "plains-san-agustin-1947",
 "nodeLabel": "Plains of San Agustin claim, July 1947",
@@ -299,6 +282,23 @@
 "url": null
 },
 "text": "Kingman, Arizona 1953 was first investigated and reported by Raymond Fowler; Stringfield referenced it at pages 178-185 of 'Situation Red, The UFO Siege' (Doubleday, 1977) and as Abstract 6 of 'Retrievals of the Third Kind' (1978).",
+"tier": 2,
+"topic": "crash-claims",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "1980-08-11",
+"id": "c-ac7e216e82",
+"node": "kingman-1953",
+"nodeLabel": "Kingman, Arizona claim, 1953",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Stringfield, Status Report III, Kingman Q&A",
+"url": null
+},
+"text": "Stringfield wrote to Fowler on 11 August 1980 seeking permission to question Fowler's source 'Fritz Werner' (pseudonym); Werner's written answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
 "tier": 2,
 "topic": "crash-claims",
 "via": null

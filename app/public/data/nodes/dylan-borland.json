@@ -161,12 +161,12 @@
 "id": "c-adaa156878",
 "meta": {
 "artefactDate": "2026-08-05",
-"claimant": "dylan-borland",
-"claimantLabel": "Dylan Borland",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
 "eventDate": "2012",
 "route": "interview",
 "speaker": null,
-"via": "American Alchemy with Jesse Michels"
+"via": null
 },
 "source": "Jesse Michels, American Alchemy episode description, 5 August 2026",
 "text": "Borland is a former USAF 1N1 geospatial intelligence specialist who spent years in the drone programme supporting special operations, and in 2012 witnessed a 100-to-150-foot black metallic triangle take off near the NASA hangar at Langley Air Force Base and stop 100 feet above him.",
@@ -176,12 +176,12 @@
 "id": "c-c8108b1609",
 "meta": {
 "artefactDate": "2026-08-05",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
 "eventDate": null,
 "route": "interview",
-"speaker": "American Alchemy chapter list description",
-"via": "American Alchemy with Jesse Michels"
+"speaker": null,
+"via": null
 },
 "source": "Chapter list, American Alchemy, 5 August 2026 (2:39, 4:18, 6:48)",
 "text": "The episode covers congressional testimony, ODNI and a leaked program name, and his disclosure to journalists.",
@@ -202,7 +202,7 @@
 "eventDate": "2012",
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
 },
 "source": "Sworn testimony, House Oversight Task Force on the Declassification of Federal Secrets, 9 September 2025; DefenseScoop",
 "text": "Borland testified that after reporting a 2012 UAP observation at Langley AFB his career was deliberately obstructed and he faced sustained workplace harassment.",
@@ -223,7 +223,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "DefenseScoop"
 },
 "source": "https://defensescoop.com/2025/09/09/military-whistleblowers-share-new-evidence-alleged-uap-ufo-hearing/",
 "text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals.'",
@@ -269,7 +269,7 @@
 "text": "'My professional career was deliberately obstructed, and I have endured sustained reprisals.'",
 "tier": 2,
 "topic": "congressional-witnesses",
-"via": null
+"via": "DefenseScoop"
 },
 {
 "artefactDate": "2025-09-09",
@@ -337,7 +337,7 @@
 "text": "Borland testified that after reporting a 2012 UAP observation at Langley AFB his career was deliberately obstructed and he faced sustained workplace harassment.",
 "tier": 2,
 "topic": "congressional-witnesses",
-"via": null
+"via": "House Oversight Task Force on the Declassification of Federal Secrets"
 },
 {
 "artefactDate": "2026-08-05",
@@ -371,23 +371,6 @@
 "text": "In the same episode Borland argued that because AARO holds no original classification authority it had to refer his account out to the intelligence community and to private companies for a classification determination, and that his triangle account coming back unclassified while other drawings were classified is therefore itself evidence about what was seen: 'they would have to be classified' (2:23:27). Nothing opened for this board establishes AARO's classification authority either way; this is recorded as his argument.",
 "tier": 2,
 "topic": "congressional-witnesses",
-"via": "American Alchemy with Jesse Michels"
-},
-{
-"artefactDate": "2026-08-05",
-"eventDate": "2012",
-"id": "c-adaa156878",
-"node": "dylan-borland",
-"nodeLabel": "Dylan Borland",
-"route": "interview",
-"source": {
-"domain": null,
-"text": "Jesse Michels, American Alchemy episode description, 5 August 2026",
-"url": null
-},
-"text": "Borland is a former USAF 1N1 geospatial intelligence specialist who spent years in the drone programme supporting special operations, and in 2012 witnessed a 100-to-150-foot black metallic triangle take off near the NASA hangar at Langley Air Force Base and stop 100 feet above him.",
-"tier": 2,
-"topic": "task-force-2025",
 "via": "American Alchemy with Jesse Michels"
 },
 {

@@ -43,12 +43,12 @@
 "id": "c-ed53b4dc83",
 "meta": {
 "artefactDate": "2023-06",
-"claimant": "ross-coulthart",
-"claimantLabel": "Ross Coulthart",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
 "eventDate": null,
 "route": "interview",
 "speaker": null,
-"via": "NewsNation"
+"via": "NewsNation, Ross Coulthart"
 },
 "source": "NewsNation interview by Ross Coulthart, June 2023",
 "text": "Elicited Grusch's on-camera statements that the recovered objects are non-human origin technical vehicles and that dead pilots have been encountered.",
@@ -132,23 +132,6 @@
 ],
 "claimsMade": [
 {
-"artefactDate": "2023-06",
-"eventDate": null,
-"id": "c-ed53b4dc83",
-"node": "ross-coulthart",
-"nodeLabel": "Ross Coulthart",
-"route": "interview",
-"source": {
-"domain": null,
-"text": "NewsNation interview by Ross Coulthart, June 2023",
-"url": null
-},
-"text": "Elicited Grusch's on-camera statements that the recovered objects are non-human origin technical vehicles and that dead pilots have been encountered.",
-"tier": 2,
-"topic": "media-substrate",
-"via": "NewsNation"
-},
-{
 "artefactDate": "2026-02",
 "eventDate": null,
 "id": "c-e41dc06cd3",
@@ -197,7 +180,7 @@
 "text": "Ross Coulthart devoted a dedicated segment of his 4 August 2026 Reality Check episode to 'FFRDCs, U-Arcs, and GOCOs' as the vehicle of the legacy program.",
 "tier": 2,
 "topic": null,
-"via": null
+"via": "NewsNation Reality Check"
 }
 ],
 "cls": "person",

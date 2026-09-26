@@ -19,7 +19,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": "House Oversight"
+"via": "House Oversight Committee"
 },
 "source": "Rep. Nancy Mace, House Oversight hearing, 13 November 2024 (CHRG-118hhrg57440)",
 "text": "'Committee staff asked me to go ahead, and I will do it, to enter into the Congressional Record this 12-page document that Michael Shellenberger brought today that describes the Immaculate Constellation government program.'",
@@ -79,7 +79,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Michael Shellenberger, written testimony to House Oversight, 13 November 2024",
 "text": "The source told Public the USAP is 'a strategic intelligence program'; a source subsequently told Shellenberger the programme 'is controlled by the White House and executed and administrated by the DOD to avoid compliance with Title 10.'",
@@ -104,8 +104,8 @@
 "id": "c-9d3c590324",
 "meta": {
 "artefactDate": null,
-"claimant": null,
-"claimantLabel": null,
+"claimant": "susan-gough",
+"claimantLabel": "Susan Gough",
 "eventDate": null,
 "route": "press",
 "speaker": "Susan Gough; Sean Kirkpatrick",

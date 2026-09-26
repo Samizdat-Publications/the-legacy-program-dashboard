@@ -24,13 +24,13 @@
 {
 "id": "c-c1e1b2f2be",
 "meta": {
-"artefactDate": "2026-08-12",
-"claimant": "marik-von-rennenkampff",
-"claimantLabel": "Marik von Rennenkampff",
+"artefactDate": null,
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
 "eventDate": null,
 "route": "press",
 "speaker": null,
-"via": "The Hill"
+"via": null
 },
 "source": "The Hill, opinion/national-security and opinion/technology sections; URLs confirmed live via The Hill's own search index, 12 August 2026",
 "text": "The Hill has published a sustained series of UAP opinion pieces argued from the official record, including 'Did the Pentagon spread false UFO stories? We're skeptical.', 'Shocking UFO allegations make the case for the Disclosure Act', 'Pentagon still mystified as drone drama deepens' and 'Mysterious orbs demand scientific study'.",
@@ -54,23 +54,6 @@
 "tier": 2,
 "topic": "academic-science",
 "via": "The Sol Foundation"
-},
-{
-"artefactDate": "2026-08-12",
-"eventDate": null,
-"id": "c-c1e1b2f2be",
-"node": "marik-von-rennenkampff",
-"nodeLabel": "Marik von Rennenkampff",
-"route": "press",
-"source": {
-"domain": null,
-"text": "The Hill, opinion/national-security and opinion/technology sections; URLs confirmed live via The Hill's own search index, 12 August 2026",
-"url": null
-},
-"text": "The Hill has published a sustained series of UAP opinion pieces argued from the official record, including 'Did the Pentagon spread false UFO stories? We're skeptical.', 'Shocking UFO allegations make the case for the Disclosure Act', 'Pentagon still mystified as drone drama deepens' and 'Mysterious orbs demand scientific study'.",
-"tier": 2,
-"topic": "academic-science",
-"via": "The Hill"
 }
 ],
 "cls": "person",

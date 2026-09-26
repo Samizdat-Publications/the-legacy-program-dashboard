@@ -74,12 +74,12 @@
 "id": "c-1bc557220d",
 "meta": {
 "artefactDate": "2026-06-16",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "christopher-sharp",
+"claimantLabel": "Christopher Sharp",
 "eventDate": "2026-06-15",
 "route": "press",
-"speaker": "unnamed (ODNI official, per Christopher Sharp)",
-"via": "Liberation Times (Christopher Sharp)"
+"speaker": null,
+"via": "Liberation Times"
 },
 "source": "Liberation Times, 16 June 2026",
 "text": "An ODNI official told Sharp that ODNI, with the FBI and the Department of War, established a UAP Governance Board that first met on 15 June 2026.",
@@ -103,6 +103,23 @@
 "tier": 2,
 "topic": "ffrdc-probes",
 "via": "Liberation Times"
+},
+{
+"artefactDate": "2023-06-24",
+"eventDate": "2023",
+"id": "c-cd5a378090",
+"node": "d-legal",
+"nodeLabel": "Legal Doctrine & Liability",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Christopher Sharp, Liberation Times, 24 June 2023",
+"url": null
+},
+"text": "The Senate Select Committee on Intelligence's 2023 UAP language proposed an amnesty route for defence contractors holding non-earth origin or exotic materials.",
+"tier": 2,
+"topic": "foia-litigation",
+"via": null
 },
 {
 "artefactDate": "2026-01-13",
@@ -154,6 +171,23 @@
 "tier": 2,
 "topic": null,
 "via": null
+},
+{
+"artefactDate": "2026-06-16",
+"eventDate": "2026-06-15",
+"id": "c-1bc557220d",
+"node": "christopher-sharp",
+"nodeLabel": "Christopher Sharp",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Liberation Times, 16 June 2026",
+"url": null
+},
+"text": "An ODNI official told Sharp that ODNI, with the FBI and the Department of War, established a UAP Governance Board that first met on 15 June 2026.",
+"tier": 2,
+"topic": null,
+"via": "Liberation Times"
 },
 {
 "artefactDate": null,

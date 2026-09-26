@@ -10,7 +10,7 @@
 "artefactDate": "2024-03-12",
 "claimant": "eric-burlison",
 "claimantLabel": "Eric Burlison",
-"eventDate": null,
+"eventDate": "2024-03-12",
 "route": "press",
 "speaker": null,
 "via": "The Hill"
@@ -38,12 +38,12 @@
 "id": "c-b65a75538e",
 "meta": {
 "artefactDate": "2024-03-12",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "the-hill",
+"claimantLabel": "The Hill",
 "eventDate": null,
 "route": "press",
-"speaker": "unnamed (The Hill)",
-"via": "The Hill"
+"speaker": null,
+"via": null
 },
 "source": "The Hill, 12 March 2024",
 "text": "Burchett led an earlier select committee effort under Speaker Kevin McCarthy that was lost when McCarthy lost the speakership.",

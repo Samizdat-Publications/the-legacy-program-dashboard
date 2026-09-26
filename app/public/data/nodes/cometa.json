@@ -187,7 +187,7 @@
 {
 "id": "c-429c3568ac",
 "meta": {
-"artefactDate": null,
+"artefactDate": "1999-07",
 "claimant": "cometa",
 "claimantLabel": "COMETA - Comité d'Études Approfondies",
 "eventDate": "1994-01-28",
@@ -202,7 +202,7 @@
 {
 "id": "c-0e38856b10",
 "meta": {
-"artefactDate": null,
+"artefactDate": "1999-07",
 "claimant": "cometa",
 "claimantLabel": "COMETA - Comité d'Études Approfondies",
 "eventDate": null,
@@ -510,23 +510,6 @@
 {
 "artefactDate": "1999-07",
 "eventDate": null,
-"id": "c-b69693cb4d",
-"node": "cometa",
-"nodeLabel": "COMETA - Comité d'Études Approfondies",
-"route": "document",
-"source": {
-"domain": "ia800403.us.archive.org",
-"text": "COMETA, 'UFOs and Defense: What Should We Prepare For?', English translation - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
-},
-"text": "Title page: 'UFOs and Defense: What Should We Prepare For? -An independent report on UFOs written by the French association COMETA. This report details the results of a study by the Institute of Higher Studies for National Defence.- This paper originally appeared in a special issue of the magazine VSD published In France in July 1999.'",
-"tier": 2,
-"topic": "france",
-"via": null
-},
-{
-"artefactDate": null,
-"eventDate": null,
 "id": "c-0e38856b10",
 "node": "cometa",
 "nodeLabel": "COMETA - Comité d'Études Approfondies",
@@ -542,7 +525,7 @@
 "via": null
 },
 {
-"artefactDate": null,
+"artefactDate": "1999-07",
 "eventDate": "1994-01-28",
 "id": "c-429c3568ac",
 "node": "cometa",
@@ -554,6 +537,23 @@
 "url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
 },
 "text": "Chapter 7.5: twelve French aeronautical cases were known to GEPAN/SEPRA, 'only three or four of these can be considered to fall into category D'; the first UAP D dates to 1951 involving Vampire military aircraft near Orange; and not until 28 January 1994 did an Air France crew produce 'the first case of a visual sighting correlated with a radar detection over 50 seconds long'. A worldwide list compiled by Dominique Weinstein describes '489 well-documented cases of aeronautical UAP D sightings the sources of which were duly verified'.",
+"tier": 2,
+"topic": "france",
+"via": null
+},
+{
+"artefactDate": "1999-07",
+"eventDate": null,
+"id": "c-b69693cb4d",
+"node": "cometa",
+"nodeLabel": "COMETA - Comité d'Études Approfondies",
+"route": "document",
+"source": {
+"domain": "ia800403.us.archive.org",
+"text": "COMETA, 'UFOs and Defense: What Should We Prepare For?', English translation - https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "https://ia800403.us.archive.org/17/items/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D.pdf"
+},
+"text": "Title page: 'UFOs and Defense: What Should We Prepare For? -An independent report on UFOs written by the French association COMETA. This report details the results of a study by the Institute of Higher Studies for National Defence.- This paper originally appeared in a special issue of the magazine VSD published In France in July 1999.'",
 "tier": 2,
 "topic": "france",
 "via": null

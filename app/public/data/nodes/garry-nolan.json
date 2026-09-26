@@ -175,12 +175,12 @@
 "id": "c-2c5d74b65c",
 "meta": {
 "artefactDate": "2026-04",
-"claimant": "garry-nolan",
-"claimantLabel": "Garry Nolan",
+"claimant": "sol-foundation",
+"claimantLabel": "The Sol Foundation",
 "eventDate": null,
 "route": "document",
 "speaker": null,
-"via": "The Sol Foundation"
+"via": null
 },
 "source": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
 "text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
@@ -255,23 +255,6 @@
 "tier": 2,
 "topic": "academic-science",
 "via": "The Debrief"
-},
-{
-"artefactDate": "2026-04",
-"eventDate": null,
-"id": "c-2c5d74b65c",
-"node": "garry-nolan",
-"nodeLabel": "Garry Nolan",
-"route": "document",
-"source": {
-"domain": "thesolfoundation.org",
-"text": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/",
-"url": "https://thesolfoundation.org/publications/first-peer-reviewed-scientific-analysis-of-possible-uap-materials-employs-state-of/"
-},
-"text": "Sol Foundation Briefing No. 3 (April 2026) presents peer-reviewed atomic and isotopic analysis of possible UAP materials from a multi-witness event, conducted by Nolan.",
-"tier": 2,
-"topic": "academic-science",
-"via": "The Sol Foundation"
 }
 ],
 "cls": "person",

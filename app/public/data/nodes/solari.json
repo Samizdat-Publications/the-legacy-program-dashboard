@@ -8,8 +8,8 @@
 "id": "c-af59fc4bf9",
 "meta": {
 "artefactDate": null,
-"claimant": "catherine-austin-fitts",
-"claimantLabel": "Catherine Austin Fitts",
+"claimant": "solari",
+"claimantLabel": "Solari, Inc. / The Solari Report",
 "eventDate": null,
 "route": "document",
 "speaker": null,
@@ -36,6 +36,57 @@
 }
 ],
 "claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-7c9bffae9d",
+"node": "catherine-austin-fitts",
+"nodeLabel": "Catherine Austin Fitts",
+"route": "document",
+"source": {
+"domain": "solari.com",
+"text": "https://solari.com/people/catherine-austin-fitts",
+"url": "https://solari.com/people/catherine-austin-fitts"
+},
+"text": "Fitts was a managing director and board member of Dillon, Read and Co. Inc. and served as Assistant Secretary of Housing and Federal Housing Commissioner at HUD under President George H. W. Bush.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-8c4ae44b55",
+"node": "catherine-austin-fitts",
+"nodeLabel": "Catherine Austin Fitts",
+"route": "document",
+"source": {
+"domain": "solari.com",
+"text": "https://solari.com/people/catherine-austin-fitts",
+"url": "https://solari.com/people/catherine-austin-fitts"
+},
+"text": "She founded Hamilton Securities Group and is founder and president of Solari, Inc., publisher of the Solari Report.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-af59fc4bf9",
+"node": "solari",
+"nodeLabel": "Solari, Inc. / The Solari Report",
+"route": "document",
+"source": {
+"domain": "solari.com",
+"text": "https://solari.com/people/catherine-austin-fitts",
+"url": "https://solari.com/people/catherine-austin-fitts"
+},
+"text": "Solari, Inc. is founded by Catherine Austin Fitts and publishes the Solari Report.",
+"tier": 2,
+"topic": "unauditable-ledger",
+"via": null
+},
 {
 "artefactDate": null,
 "eventDate": null,

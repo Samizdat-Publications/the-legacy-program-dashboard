@@ -83,6 +83,23 @@
 },
 {
 "artefactDate": null,
+"eventDate": "1955-04",
+"id": "c-3f931779da",
+"node": "l-groom-lake",
+"nodeLabel": "Groom Lake, Nevada",
+"route": "document",
+"source": {
+"domain": null,
+"text": "CIA OXCART history; Wikipedia, Area 51 — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": null
+},
+"text": "Project AQUATONE was established in April 1955 with the first U-2 arriving 24 July 1955; Project OXCART was established August 1959 with the first A-12 arriving 28 February 1962; HAVE BLUE first flew December 1977; TACIT BLUE first flew 5 February 1982.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
+{
+"artefactDate": null,
 "eventDate": null,
 "id": "c-8c2a9eb082",
 "node": "haines-cia-history",
@@ -113,7 +130,7 @@
 "text": "The same survey records the programme's own record-keeping practice: 'Present practice is to maintain no records of the planning and approval of test programs.' The Director of Central Intelligence quoted that sentence back to the Senate in 1977 as part of the reason so little was known even before the files were destroyed.",
 "tier": 1,
 "topic": "cia-secrecy-precedents",
-"via": null
+"via": "Senate Intelligence Committee (Project MKULTRA joint hearing)"
 },
 {
 "artefactDate": "1977-08-03",
@@ -130,7 +147,7 @@
 "text": "The recovered material covers 149 numbered subprojects plus two boxes of audit reports and financial statements from cut-out funding mechanisms and 33 further subprojects unrelated to behavioural work. Turner told the committee the new identities were 'the names of 185 nongovernment researchers and assistants' and 'names of 80 institutions', comprising 44 colleges or universities, 15 research foundations or chemical or pharmaceutical companies, 12 hospitals or clinics and 3 penal institutions. The hearing's own opening statement gives a different figure, 'Eighty-six universities or institutions were involved.'",
 "tier": 1,
 "topic": "cia-secrecy-precedents",
-"via": null
+"via": "Senate Intelligence Committee (Project MKULTRA joint hearing)"
 },
 {
 "artefactDate": "1977-08-03",
@@ -147,7 +164,7 @@
 "text": "The surviving records are finance folders and they survived by accident. DCI Stansfield Turner reported 'our recent discovery of seven boxes of documents related to Project MKULTRA', found at the Retired Records Center because the Budget and Fiscal Section had sent them there in 1970 in what the statement calls a departure from normal procedure whose reason 'is not known'. As a result 'the material escaped retrieval and destruction in 1973 ... as well as discovery in 1975'.",
 "tier": 1,
 "topic": "cia-secrecy-precedents",
-"via": null
+"via": "Senate Select Committee on Intelligence, Project MKULTRA joint hearing"
 },
 {
 "artefactDate": "1997",

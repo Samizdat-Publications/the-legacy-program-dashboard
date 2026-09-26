@@ -75,12 +75,12 @@
 "id": "c-968a99a47e",
 "meta": {
 "artefactDate": "2025-01-30",
-"claimant": "jake-barber",
-"claimantLabel": "Jake Barber",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
 "eventDate": null,
 "route": "interview",
 "speaker": null,
-"via": "American Alchemy with Jesse Michels"
+"via": null
 },
 "source": "Jesse Michels, American Alchemy episode description, 30 January 2025",
 "text": "Barber, described as a former intelligence officer and whistleblower, gave an account of retrieving a craft using a helicopter.",
@@ -104,10 +104,10 @@
 {
 "id": "c-8c59387185",
 "meta": {
-"artefactDate": "2025-10",
+"artefactDate": null,
 "claimant": "sol-foundation",
 "claimantLabel": "The Sol Foundation",
-"eventDate": null,
+"eventDate": "2025-10-24",
 "route": "document",
 "speaker": null,
 "via": null
@@ -199,23 +199,6 @@
 "url": null
 },
 "text": "In the same episode, between 2:04:48 and 2:06:33, Barber said that he and colleagues wrote a 120,000 word historical-fiction manuscript with a hired ghost writer and submitted it to the DOPSR review process in pieces, beginning with the first twenty pages, in order to 'red team the DOPSR process to expose who subject matter experts are' and to map who controls which information. He describes seeding the manuscript with four deliberately chosen categories of information as the probe.",
-"tier": 2,
-"topic": "congressional-witnesses",
-"via": "American Alchemy with Jesse Michels"
-},
-{
-"artefactDate": "2025-01-30",
-"eventDate": null,
-"id": "c-968a99a47e",
-"node": "jake-barber",
-"nodeLabel": "Jake Barber",
-"route": "interview",
-"source": {
-"domain": null,
-"text": "Jesse Michels, American Alchemy episode description, 30 January 2025",
-"url": null
-},
-"text": "Barber, described as a former intelligence officer and whistleblower, gave an account of retrieving a craft using a helicopter.",
 "tier": 2,
 "topic": "congressional-witnesses",
 "via": "American Alchemy with Jesse Michels"

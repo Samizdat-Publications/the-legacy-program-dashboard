@@ -40,21 +40,21 @@
 ],
 "claimsMade": [
 {
-"artefactDate": "2022-07-15",
+"artefactDate": "2025-06-06",
 "eventDate": null,
-"id": "c-772f9533f1",
-"node": "sean-kirkpatrick",
-"nodeLabel": "Sean M. Kirkpatrick",
-"route": "document",
+"id": "c-9851a9518d",
+"node": "aaro-historical-record-vol2",
+"nodeLabel": "AARO Historical Record Report, Volume II (unpublished)",
+"route": "press",
 "source": {
 "domain": null,
-"text": "DoD memorandum 'Establishment of the All-domain Anomaly Resolution Office', 15 July 2022, media.defense.gov — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
+"text": "Wall Street Journal, 6 June 2025",
 "url": null
 },
-"text": "Kirkpatrick was appointed first Director of AARO when Deputy Secretary of Defense Kathleen Hicks established the office by memorandum dated 15 July 2022.",
+"text": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the Yankee Blue findings would be included in Volume II, then scheduled for late 2025.",
 "tier": 2,
-"topic": "aaro",
-"via": null
+"topic": "aaro-historical-record",
+"via": "Wall Street Journal"
 },
 {
 "artefactDate": null,
@@ -79,7 +79,7 @@
 "id": "c-fc0a6eae8f",
 "node": "d-aviators",
 "nodeLabel": "Military Aviators & Operators",
-"route": "document",
+"route": "press",
 "source": {
 "domain": null,
 "text": "DoD statement on release of historical Navy videos",
@@ -88,23 +88,6 @@
 "text": "The Department of Defense formally released the FLIR1, GIMBAL and GOFAST videos on 27 April 2020, stating that the aerial phenomena in them remain characterised as unidentified.",
 "tier": 1,
 "topic": "aviation-cases",
-"via": null
-},
-{
-"artefactDate": "2026-05-12",
-"eventDate": null,
-"id": "c-0f2ae724e8",
-"node": "dod-agencywide-audit",
-"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
-"route": "document",
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
-"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
-},
-"text": "The FY2025 audit identified 26 material weaknesses: 10 in management responsibility and asset accountability, 6 in information technology, and 10 in accounting.",
-"tier": 1,
-"topic": "black-budget",
 "via": null
 },
 {
@@ -178,6 +161,23 @@
 {
 "artefactDate": null,
 "eventDate": null,
+"id": "c-b95dd664e6",
+"node": "michael-powers-comptroller",
+"nodeLabel": "Michael Powers",
+"route": "document",
+"source": {
+"domain": "comptroller.war.gov",
+"text": "https://comptroller.war.gov/",
+"url": "https://comptroller.war.gov/"
+},
+"text": "Michael Powers is identified on the Department of War Comptroller site as Acting Under Secretary of War (Comptroller)/Chief Financial Officer, a CPA, Certified Defense Financial Manager and DoD Financial Management Certification Level 3 holder.",
+"tier": 1,
+"topic": "black-budget",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
 "id": "c-ca55043d94",
 "node": "reprogramming-dd1415",
 "nodeLabel": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
@@ -224,23 +224,6 @@
 "text": "The Department of Defense formally released three declassified Navy videos (FLIR1, GOFAST, GIMBAL) on 27 April 2020 in an official statement.",
 "tier": 1,
 "topic": "civilian-groups",
-"via": null
-},
-{
-"artefactDate": "1997",
-"eventDate": null,
-"id": "c-7efd04f46f",
-"node": "barney-barnett",
-"nodeLabel": "Grady L. 'Barney' Barnett",
-"route": "document",
-"source": {
-"domain": null,
-"text": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": null
-},
-"text": "The Air Force's 1997 report states that the San Agustin claim rests on three testimonies - two second-hand (Maltais, Knight) and one first-hand (Gerald Anderson) - and that Barnett, the original alleged eyewitness, is deceased.",
-"tier": 2,
-"topic": "crash-claims",
 "via": null
 },
 {
@@ -347,7 +330,7 @@
 },
 {
 "artefactDate": "2020-04-27",
-"eventDate": "2004-11",
+"eventDate": "2020-04-27",
 "id": "c-09b0aab384",
 "node": "nimitz-2004",
 "nodeLabel": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
@@ -364,7 +347,7 @@
 },
 {
 "artefactDate": "2020-04-27",
-"eventDate": null,
+"eventDate": "2020-04-27",
 "id": "c-2c02c3f0d8",
 "node": "flir1-video",
 "nodeLabel": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
@@ -483,7 +466,7 @@
 },
 {
 "artefactDate": null,
-"eventDate": null,
+"eventDate": "2026-05-08",
 "id": "c-98a00f8584",
 "node": "pursue-releases",
 "nodeLabel": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
@@ -534,7 +517,7 @@
 },
 {
 "artefactDate": "2026-08-07",
-"eventDate": null,
+"eventDate": "2026-08-07",
 "id": "c-720a30c7f5",
 "node": "navy-pic-1953-film-analysis",
 "nodeLabel": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
@@ -551,7 +534,7 @@
 },
 {
 "artefactDate": "2020-04-27",
-"eventDate": null,
+"eventDate": "2007",
 "id": "c-0d9e65cbcb",
 "node": "dod-video-release-2020",
 "nodeLabel": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
@@ -585,11 +568,11 @@
 },
 {
 "artefactDate": "2020-04-27",
-"eventDate": null,
+"eventDate": "2020-04-27",
 "id": "c-743c3a23a4",
 "node": "gofast-video",
 "nodeLabel": "GO FAST (Navy ATFLIR video, January 2015)",
-"route": "document",
+"route": "press",
 "source": {
 "domain": null,
 "text": "DoD statement, 27 April 2020",
@@ -619,7 +602,7 @@
 },
 {
 "artefactDate": "1994-11",
-"eventDate": null,
+"eventDate": "1994-11",
 "id": "c-04e1b13cce",
 "node": "dod-sap-reform-1994",
 "nodeLabel": "DoD special access programme governance change, 5 January 1994",
@@ -683,7 +666,7 @@
 "text": "The 1994 membership was five principals and an executive secretary, not the roughly eighteen of the later instruction: 'The SAPOC is chaired by the Honorable John Deutch, DEPSECDEF, with permanent members the Honorable Paul Kaminski USD(A&T), the Honorable Walter Slocombe USD(P), ADM William A. Owens, VCJCS, and the Honorable Emmett Paige Jr., ASD(C3I). BGEN Mike Kostelnik, OUSD(A&T), serves as both member and executive secretary to the SAPOC in his capacity as director of the SAPCO (SAP Coordinating Office). SAPOC membership is not further delegable.' The node's argument about a large in-house validating body describes the later era, not this one.",
 "tier": 2,
 "topic": "sap-governance",
-"via": null
+"via": "Federation of American Scientists (sgp.fas.org)"
 },
 {
 "artefactDate": "1994-11",
@@ -700,58 +683,7 @@
 "text": "The annual review and validation function this node attributes to the 2010 directive is in the 1994 bulletin: 'All SAPs will be reviewed and validated annually for continued SAP status by the OSD SAPOC. ... The DEPSECDEF is the final decision maker in establishing, disestablishing or restructuring SAPs.'",
 "tier": 2,
 "topic": "sap-governance",
-"via": null
-},
-{
-"artefactDate": "2026-05-12",
-"eventDate": null,
-"id": "c-2d4897578a",
-"node": "dod-agencywide-audit",
-"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
-"route": "document",
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
-},
-"text": "The Department received a disclaimer of opinion on its agency-wide financial statements for eight consecutive years through FY2025.",
-"tier": 2,
-"topic": "unauditable-ledger",
-"via": null
-},
-{
-"artefactDate": "2026-05-12",
-"eventDate": null,
-"id": "c-5a29dfd873",
-"node": "dod-agencywide-audit",
-"nodeLabel": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
-"route": "document",
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF — DEMOTED from Tier 1 (sourced to an interested party (AARO/DoD) asserting an external fact; primary record of the statement, not of the fact); needs primary replacement",
-"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
-},
-"text": "Fund Balance with Treasury, an estimated $1 trillion in spending accounts, is a standing material weakness.",
-"tier": 2,
-"topic": "unauditable-ledger",
-"via": null
-},
-{
-"artefactDate": "2026-05-12",
-"eventDate": null,
-"id": "c-601da71d07",
-"node": "dowig-2026-081",
-"nodeLabel": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
-"route": "document",
-"source": {
-"domain": "media.defense.gov",
-"text": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF",
-"url": "https://media.defense.gov/2026/May/12/2003929535/-1/-1/1/FY%202025%20DOW%20FINANCIAL%20STATEMENT%20AUDIT%20EXPLAINED_V6.PDF"
-},
-"text": "The report states 'In the last two quarters of FY 2025, the DoW's adjustments totaled more than $859 billion' without adequate supporting documentation, attributing contributions to Army, Air Force, Navy and DLA across general and working capital funds.",
-"tier": 1,
-"topic": "unauditable-ledger",
-"via": null
+"via": "Federation of American Scientists (sgp.fas.org)"
 },
 {
 "artefactDate": "2026-05-12",

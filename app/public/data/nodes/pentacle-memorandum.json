@@ -7,13 +7,13 @@
 {
 "id": "c-2d4169e20f",
 "meta": {
-"artefactDate": "1953-01-09",
-"claimant": null,
-"claimantLabel": null,
-"eventDate": null,
+"artefactDate": null,
+"claimant": "cufon",
+"claimantLabel": "Computer UFO Network (CUFON)",
+"eventDate": "1953-01-09",
 "route": "document",
-"speaker": "unnamed (unsigned memorandum, per CUFON transcription)",
-"via": "Computer UFO Network (CUFON)"
+"speaker": null,
+"via": null
 },
 "source": "CUFON transcription and provenance record — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The memorandum is dated 9 January 1953, carries reference G-1579-4, is marked SECRET, is unsigned, and is addressed to Miles E. Goll at Wright-Patterson Air Force Base, Ohio, under Project Stork.",
@@ -37,7 +37,7 @@
 {
 "id": "c-2a57a4f73b",
 "meta": {
-"artefactDate": "2012-02-18",
+"artefactDate": "1992",
 "claimant": "jacques-vallee",
 "claimantLabel": "Jacques F. Vallee",
 "eventDate": "1967-06-18",

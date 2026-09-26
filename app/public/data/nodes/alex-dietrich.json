@@ -67,7 +67,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Michael Gold, written testimony, House Oversight joint subcommittee hearing, 13 November 2024",
 "text": "Dietrich 'was mocked by her colleagues' and the incident 'went years without any investigation.'",
@@ -94,7 +94,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight subcommittee"
 },
 "source": "Serial No. 118-53, https://www.govinfo.gov/content/pkg/CHRG-118hhrg53022/html/CHRG-118hhrg53022.htm , 2023-07-26",
 "text": "In sworn testimony at the 26 July 2023 House Oversight subcommittee hearing, David Fravor placed her in the chain of who re-opened the 2004 case: 'Years later, I was contacted by the other pilot, Alex Dietrich, and asked if I would been contacted and I said no, but I am willing to talk.' Tier 1 for the fact that a sworn witness said this on that date; the underlying sequence is his account.",
@@ -109,7 +109,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Serial No. 118-135, https://www.govinfo.gov/content/pkg/CHRG-118hhrg57440/html/CHRG-118hhrg57440.htm , 2024-11-13",
 "text": "In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world.",
@@ -117,6 +117,23 @@
 }
 ],
 "claimsMade": [
+{
+"artefactDate": "2021-05-16",
+"eventDate": "2004",
+"id": "c-a119ca1435",
+"node": "d-aviators",
+"nodeLabel": "Military Aviators & Operators",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "CBS 60 Minutes, 16 May 2021",
+"url": null
+},
+"text": "Alex Dietrich and David Fravor described the 2004 Nimitz encounter on the record to CBS 60 Minutes on 16 May 2021.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": "CBS 60 Minutes"
+},
 {
 "artefactDate": "2021-05-16",
 "eventDate": null,

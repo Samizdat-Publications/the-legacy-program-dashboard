@@ -95,7 +95,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "Tim Gallaudet, written testimony, House Oversight, 13 November 2024",
 "text": "The email disappeared from his account and other recipients' accounts the next day without explanation.",
@@ -107,7 +107,7 @@
 "artefactDate": "2024-11-13",
 "claimant": "tim-gallaudet",
 "claimantLabel": "Timothy Gallaudet",
-"eventDate": "2015-01",
+"eventDate": null,
 "route": "hearing",
 "speaker": null,
 "via": "House Oversight"
@@ -155,7 +155,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "CHRG-118hhrg57440",
 "text": "Gallaudet testified as a witness at the 13 November 2024 House Oversight hearing printed as Serial No. 118-135.",
@@ -244,7 +244,7 @@
 },
 {
 "artefactDate": "2024-11-13",
-"eventDate": "2015-01",
+"eventDate": null,
 "id": "c-5f5aa9e538",
 "node": "gallaudet-2015-email",
 "nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
@@ -261,7 +261,7 @@
 },
 {
 "artefactDate": "2024-11-13",
-"eventDate": "2015-01",
+"eventDate": null,
 "id": "c-7cb83e65ca",
 "node": "tim-gallaudet",
 "nodeLabel": "Timothy Gallaudet",
@@ -291,7 +291,7 @@
 "text": "Gallaudet testified as a witness at the 13 November 2024 House Oversight hearing printed as Serial No. 118-135.",
 "tier": 1,
 "topic": "hearing-2024",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2024-11-13",
@@ -308,7 +308,7 @@
 "text": "The email disappeared from his account and other recipients' accounts the next day without explanation.",
 "tier": 2,
 "topic": "hearing-2024",
-"via": null
+"via": "House Oversight Committee"
 },
 {
 "artefactDate": "2026-02-20",
@@ -363,7 +363,7 @@
 },
 {
 "artefactDate": "2024-11-13",
-"eventDate": "2015-01",
+"eventDate": null,
 "id": "c-5bed5216ea",
 "node": "gallaudet-2015-email",
 "nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
@@ -380,7 +380,7 @@
 },
 {
 "artefactDate": "2024-11-13",
-"eventDate": "2015-01",
+"eventDate": null,
 "id": "c-5dd1879261",
 "node": "gallaudet-2015-email",
 "nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
@@ -410,7 +410,24 @@
 "text": "In sworn testimony at the 13 November 2024 House Oversight joint hearing, Tim Gallaudet named her while alleging AARO pressure on him: 'In addition, they tried to have me question very valid UAP reports like the Tic Tac incident, even coming to a--stating possibly that the Tic Tac was American technology. And then, of course, if you ask David Fravor or Alex Dietrich, the two witnesses, they were convinced it was otherwise.' Tier 1 for the fact that he said it under oath. The allegation about AARO's conduct is his word and caps at Tier 2 as a claim about the world.",
 "tier": 1,
 "topic": "nimitz-2004",
-"via": null
+"via": "House Oversight Committee"
+},
+{
+"artefactDate": "2026-02-20",
+"eventDate": null,
+"id": "c-bfe3d5c8ae",
+"node": "trump-uap-release-directive-2026",
+"nodeLabel": "Presidential direction to identify and release UAP files (19-20 February 2026)",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
+"url": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/"
+},
+"text": "Tim Gallaudet: 'As with other promises made by Trump, I'll believe it when I see it,' referencing unreleased Epstein files. Avi Loeb: 'One step that can be taken immediately is to declassify events from 50 years ago.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
 },
 {
 "artefactDate": "2026-05-14",
@@ -448,23 +465,6 @@
 },
 {
 "artefactDate": "2024-11-13",
-"eventDate": null,
-"id": "c-8dc6a6819b",
-"node": "gallaudet-2015-email",
-"nodeLabel": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
-"route": "hearing",
-"source": {
-"domain": null,
-"text": "Gallaudet written testimony quoting the Fleet Forces Command operations officer, 13 November 2024",
-"url": null
-},
-"text": "'If any of you know what these are, tell me ASAP. We are having multiple near-midair collisions, and if we do not resolve it soon, we will have to shut down the exercise.'",
-"tier": 2,
-"topic": "roosevelt-2014-15",
-"via": null
-},
-{
-"artefactDate": "2024-11-13",
 "eventDate": "2015-01",
 "id": "c-cfa093ffbd",
 "node": "gofast-video",
@@ -478,7 +478,7 @@
 "text": "The GO FAST video was attached to a January 2015 US Fleet Forces Command all-commanders email titled 'URGENT SAFETY OF FLIGHT ISSUE' that was deleted from recipients' accounts the following day.",
 "tier": 2,
 "topic": "uaptf-odni-2021",
-"via": null
+"via": "House Oversight Committee"
 }
 ],
 "cls": "person",

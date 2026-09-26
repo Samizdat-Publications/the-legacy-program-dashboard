@@ -71,7 +71,7 @@
 "claimant": "steven-greer",
 "claimantLabel": "Steven M. Greer",
 "eventDate": null,
-"route": "broadcast",
+"route": "press",
 "speaker": null,
 "via": "ABC News"
 },
@@ -152,7 +152,7 @@
 "claimant": "uap-gerb",
 "claimantLabel": "'UAP Gerb' (Sam)",
 "eventDate": "2026-05-08",
-"route": "broadcast",
+"route": "document",
 "speaker": null,
 "via": null
 },
@@ -168,7 +168,7 @@
 "id": "c-6f8abecb2f",
 "node": "steven-greer",
 "nodeLabel": "Steven M. Greer",
-"route": "broadcast",
+"route": "press",
 "source": {
 "domain": "abcnews.com",
 "text": "ABC News, 'Group Calls for Disclosure of UFO Info', 9 May 2001, 2:35 PM, https://abcnews.com/Technology/story?id=98572&page=1 , opened 2026-09-19",

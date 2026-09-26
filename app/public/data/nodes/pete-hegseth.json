@@ -158,6 +158,23 @@
 ],
 "claimsMade": [
 {
+"artefactDate": "2026-02-23",
+"eventDate": null,
+"id": "c-ff2ad25955",
+"node": "hegseth-uap-statements-2026",
+"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
+"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
+},
+"text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
+"tier": 2,
+"topic": "house-push-2026",
+"via": "DefenseScoop"
+},
+{
 "artefactDate": "2026-02-25",
 "eventDate": null,
 "id": "c-2f334000a3",
@@ -204,23 +221,6 @@
 "url": null
 },
 "text": "'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president' and 'I don't want to over-promise and under-deliver.'",
-"tier": 2,
-"topic": "house-push-2026",
-"via": "DefenseScoop"
-},
-{
-"artefactDate": "2026-02-25",
-"eventDate": null,
-"id": "c-ff2ad25955",
-"node": "hegseth-uap-statements-2026",
-"nodeLabel": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
-"route": "press",
-"source": {
-"domain": "defensescoop.com",
-"text": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/",
-"url": "https://defensescoop.com/2026/02/25/hegseth-ufo-disclosure-trump-aaro-uap-caseload/"
-},
-"text": "Hegseth, Louisville, Colorado, 23 February 2026: 'We're going to be in full compliance with that executive order, [and we're] eager to provide that for the president. So, there'll be more coming on that.'",
 "tier": 2,
 "topic": "house-push-2026",
 "via": "DefenseScoop"

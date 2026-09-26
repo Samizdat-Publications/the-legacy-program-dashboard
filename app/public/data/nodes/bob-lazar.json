@@ -193,7 +193,7 @@
 "id": "c-2cbcaaa613",
 "node": "l-area51",
 "nodeLabel": "Area 51 (Homey Airport / Groom Lake operating location)",
-"route": "press",
+"route": "broadcast",
 "source": {
 "domain": "archive.org",
 "text": "The Lazar Tape, Tri-Dot Productions, 1991, captions at 2:07, https://archive.org/details/antigravity ; and Las Vegas Review-Journal, 19 June 1990, p 8B, opened 2026-09-18",
@@ -271,23 +271,6 @@
 "tier": 2,
 "topic": "atomic-secrecy",
 "via": null
-},
-{
-"artefactDate": "1990-08-21",
-"eventDate": null,
-"id": "c-700b351e38",
-"node": "s-4-papoose-lake",
-"nodeLabel": "S-4 / Papoose Lake, Nevada",
-"route": "press",
-"source": {
-"domain": "otherhand.org",
-"text": "Las Vegas Review-Journal, 21 August 1990, p 2C, by Warren Bates, reprinted at https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/ , opened 2026-09-18 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": "https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lv-review-journal-8-21-1990/"
-},
-"text": "THE CLAIM'S GEOGRAPHY MOVED, ON THE CONTEMPORANEOUS RECORD. The Las Vegas Review-Journal of 21 August 1990 describes Lazar's claim, as of that date, as being that 'the U.S. government was testing alien spacecraft at the Nevada Test Site, 65 miles northwest of Las Vegas'. That is a different named place from Papoose Lake and from the Nellis range. The board carries the discrepancy on the hub rather than smoothing it into the later settled version.",
-"tier": 2,
-"topic": "lazar-s4",
-"via": "Warren Bates, Las Vegas Review-Journal"
 },
 {
 "artefactDate": "1991",

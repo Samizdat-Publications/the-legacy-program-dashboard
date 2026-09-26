@@ -55,6 +55,23 @@
 "tier": 1,
 "topic": "atomic-secrecy",
 "via": null
+},
+{
+"artefactDate": "2026-03-18",
+"eventDate": null,
+"id": "c-1aaf5bc83f",
+"node": "alien-gov-domains-2026",
+"nodeLabel": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
+"route": "press",
+"source": {
+"domain": "defensescoop.com",
+"text": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/",
+"url": "https://defensescoop.com/2026/03/18/white-house-registers-new-alien-gov-domains-ufo-uap/"
+},
+"text": "White House spokeswoman Anna Kelly's comment on the registrations: 'Stay tuned!' with an alien emoji. CISA's Chris Butera: 'CISA does not generally review or audit how government organizations use their registered domains.'",
+"tier": 2,
+"topic": "pursue-2026",
+"via": "DefenseScoop"
 }
 ],
 "cls": "institution",

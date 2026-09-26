@@ -23,25 +23,6 @@
 "tier": 1
 }
 ],
-"claimsMade": [
-{
-"artefactDate": "1977-08-03",
-"eventDate": null,
-"id": "c-d95dfb90d0",
-"node": "john-marks-foia-f-76-374",
-"nodeLabel": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
-"route": "hearing",
-"source": {
-"domain": "www.intelligence.senate.gov",
-"text": "Opening statement, Project MKULTRA joint hearing, 3 August 1977, https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf",
-"url": "https://www.intelligence.senate.gov/sites/default/files/hearings/95mkultra.pdf"
-},
-"text": "The Senate said the same thing without the name: 'Then one individual, through a Freedom of Information request, accomplished what two U.S. Senate committees could not. He spurred the agency into finding additional records pertaining to the CIA's program of experimentation with human subjects.'",
-"tier": 1,
-"topic": "cia-secrecy-precedents",
-"via": null
-}
-],
 "cls": "institution",
 "cluster": "oversight",
 "conflicts": [],

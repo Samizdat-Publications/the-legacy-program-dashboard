@@ -94,9 +94,9 @@
 {
 "id": "c-bbacf6320c",
 "meta": {
-"artefactDate": "2026-05-28",
-"claimant": null,
-"claimantLabel": null,
+"artefactDate": "2026-06-07",
+"claimant": "jeremy-corbell",
+"claimantLabel": "Jeremy Kenyon Lockyer Corbell",
 "eventDate": null,
 "route": "interview",
 "speaker": "Lyn Buchanan; Jeremy Corbell; Michael Shermer",
@@ -143,7 +143,7 @@
 "claimant": "house-oversight-committee",
 "claimantLabel": "U.S. House Committee on Oversight and Government Reform",
 "eventDate": null,
-"route": "broadcast",
+"route": "press",
 "speaker": null,
 "via": "Fox News"
 },
@@ -157,8 +157,8 @@
 "artefactDate": "2026-04-21",
 "claimant": "james-comer",
 "claimantLabel": "James Comer Jr.",
-"eventDate": "2026-04-27",
-"route": "broadcast",
+"eventDate": null,
+"route": "press",
 "speaker": null,
 "via": "Fox News"
 },

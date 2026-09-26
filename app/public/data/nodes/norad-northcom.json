@@ -61,6 +61,23 @@
 },
 {
 "artefactDate": "2024-10-30",
+"eventDate": "2023-12",
+"id": "c-b68da772df",
+"node": "l-langley-afb",
+"nodeLabel": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The War Zone, 30 October 2024",
+"url": null
+},
+"text": "The NORAD commander publicly addressed the December 2023 unidentified incursions over Langley AFB in October 2024.",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "2024-10-30",
 "eventDate": null,
 "id": "c-f5c8abeab4",
 "node": "norad-northcom",
@@ -72,6 +89,23 @@
 "url": null
 },
 "text": "NORAD recorded more than 600 drone reports above US military installations since 2022.",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
+},
+{
+"artefactDate": "2026-03-25",
+"eventDate": null,
+"id": "c-714b17fcc8",
+"node": "barksdale-2026-incursions",
+"nodeLabel": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "The War Zone, 25 March 2026",
+"url": null
+},
+"text": "A NORTHCOM spokesman on 25 March 2026 declined to specify affected base locations for operational security and confirmed jamming protocols were deployed.",
 "tier": 2,
 "topic": "incursions-2023-26",
 "via": "The War Zone"
@@ -91,7 +125,7 @@
 "text": "Minot is named in the CINCNORAD four-part message of 11 November 1975: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
 "tier": 2,
 "topic": "nuclear-missiles-1960s",
-"via": null
+"via": "NICAP"
 },
 {
 "artefactDate": "1975-11-13",

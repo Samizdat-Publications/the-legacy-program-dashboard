@@ -215,7 +215,7 @@
 "id": "c-9df8a13609",
 "node": "l-kirtland",
 "nodeLabel": "Kirtland Air Force Base and Albuquerque, New Mexico",
-"route": "press",
+"route": "broadcast",
 "source": {
 "domain": null,
 "text": "Wikipedia, Paul Bennewitz, citing Moore's 1989 MUFON statement and the Monroe Institute article in the CIA reading room",
@@ -224,7 +224,7 @@
 "text": "On 1 July 1989 William Moore stated publicly that he had attempted to push Bennewitz into a mental breakdown by feeding him false information about aliens; a 1992 article held in the CIA library identified Moore and AFOSI agent Richard Doty as responsible for a disinformation campaign against Bennewitz.",
 "tier": 2,
 "topic": "kirtland-1980",
-"via": null
+"via": "MUFON"
 },
 {
 "artefactDate": "1989",
@@ -241,7 +241,7 @@
 "text": "William L. Moore made his public statement about cooperating with AFOSI and passing disinformation to Paul Bennewitz at the 1989 MUFON symposium in Las Vegas.",
 "tier": 2,
 "topic": "mj12-documents",
-"via": null
+"via": "MUFON"
 },
 {
 "artefactDate": "1980",

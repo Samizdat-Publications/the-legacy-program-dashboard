@@ -40,13 +40,13 @@
 {
 "id": "c-41c5cda83e",
 "meta": {
-"artefactDate": "1949",
-"claimant": "frank-scully",
-"claimantLabel": "Frank Scully",
-"eventDate": null,
-"route": "press",
-"speaker": null,
-"via": "Wikipedia, 'Aztec crashed saucer hoax'"
+"artefactDate": null,
+"claimant": null,
+"claimantLabel": null,
+"eventDate": "1949",
+"route": "document",
+"speaker": "Wikipedia, 'Aztec crashed saucer hoax'",
+"via": null
 },
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "The story 'was first published in 1949 by journalist Frank Scully in his Variety magazine columns, and later in his 1950 book Behind the Flying Saucers.'",
@@ -76,13 +76,13 @@
 {
 "id": "c-cc44026d90",
 "meta": {
-"artefactDate": "2021-07-16",
+"artefactDate": null,
 "claimant": null,
 "claimantLabel": null,
-"eventDate": "1948-03",
+"eventDate": null,
 "route": "document",
 "speaker": "Silas M. Newton",
-"via": null
+"via": "Denver Public Library Special Collections"
 },
 "source": "Denver Public Library Special Collections and Archives, 'Of Flying Saucers and Fraud: The Silas M. Newton Story', 16 July 2021 - https://history.denverlibrary.org/news/western-history/flying-saucers-and-fraud-silas-m-newton-story",
 "text": "Newton claimed the beings were 'probably from Venus', 'between 38 and 42 inches tall', wore cloth 'that could not be torn', and that their magnetic propulsion allowed travel 'at twice the speed of light'.",
@@ -139,13 +139,13 @@
 {
 "id": "c-28668eb7e1",
 "meta": {
-"artefactDate": "1974",
+"artefactDate": null,
 "claimant": null,
 "claimantLabel": null,
-"eventDate": "1948-03",
-"route": "press",
-"speaker": "Robert Spencer Carr (1974 claim), per Wikipedia citing Toby Smith and John Michael Greer",
-"via": "Wikipedia, 'Aztec crashed saucer hoax' (citing Toby Smith and John Michael Greer)"
+"eventDate": "1974",
+"route": "document",
+"speaker": "Wikipedia, 'Aztec crashed saucer hoax' (citing Toby Smith and John Michael Greer)",
+"via": null
 },
 "source": "https://en.wikipedia.org/wiki/Aztec_crashed_saucer_hoax citing Toby Smith, 'Little Gray Men', p. 84, and John Michael Greer, 'The UFO Phenomenon' (2009)",
 "text": "In 1974 Robert Spencer Carr publicly claimed alien bodies recovered near Aztec were stored at 'Hangar 18' at Wright-Patterson AFB, 'prompting official denials from the Air Force'; in later years 'many accounts, allegedly first-hand, of the Roswell crash contained the Aztec crash story'.",

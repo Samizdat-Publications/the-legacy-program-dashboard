@@ -22,36 +22,17 @@
 {
 "id": "c-7723209207",
 "meta": {
-"artefactDate": "2019",
-"claimant": null,
-"claimantLabel": null,
+"artefactDate": null,
+"claimant": "dia",
+"claimantLabel": "Defense Intelligence Agency",
 "eventDate": null,
 "route": "document",
-"speaker": "ufos-scientificresearch (blog compilation)",
-"via": null
+"speaker": null,
+"via": "ufos-scientificresearch.blogspot.com"
 },
 "source": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
 "text": "Two other DIRDs on the DIA list were authored by Lockheed Martin staff: item 32, MHD Air Breathing Propulsion and Power for Aerospace Applications (Dr S Macheret), and item 35, Ultracapacitors as Energy and Power Storage Devices (Dr J Golightly).",
 "tier": 2
-}
-],
-"claimsMade": [
-{
-"artefactDate": null,
-"eventDate": null,
-"id": "c-21d5d3be83",
-"node": "dird-aneutronic-fusion-propulsion-2",
-"nodeLabel": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
-"route": "document",
-"source": {
-"domain": "documents2.theblackvault.com",
-"text": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf",
-"url": "https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_37-DIRD_Aneutronic_Fusion_Propulsion_II.pdf"
-},
-"text": "Assigned to Teofilo on internal evidence: endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\", the only occurrence of either candidate author's surname in either aneutronic document. It sits immediately adjacent to endnote 16, a citation of AeroJet/Lockheed Martin Space Systems Company Hall thruster hardware that is also named in the body text. The document's framing is industrial rather than academic: GEO comsat markets, a funding table of privately backed fusion companies, and a closing argument that reactor physicists must now work alongside \"the space systems companies\".",
-"tier": 2,
-"topic": "dirds",
-"via": null
 }
 ],
 "cls": "person",

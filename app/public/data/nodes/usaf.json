@@ -36,7 +36,7 @@
 "id": "c-fe034b76a0",
 "node": "blue-book-special-report-14",
 "nodeLabel": "Project Blue Book Special Report No. 14",
-"route": "book",
+"route": "document",
 "source": {
 "domain": null,
 "text": "Project Blue Book Special Report No. 14, quality-of-report cross-tabulations",
@@ -45,6 +45,23 @@
 "text": "The report's data show a higher proportion of unknowns among the highest-quality reports than among the poorest, and statistically significant differences between knowns and unknowns.",
 "tier": 2,
 "topic": "blue-book",
+"via": null
+},
+{
+"artefactDate": "1997",
+"eventDate": null,
+"id": "c-7efd04f46f",
+"node": "barney-barnett",
+"nodeLabel": "Grady L. 'Barney' Barnett",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Roswell Report: Case Closed (1997), Section 1.1 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "The Air Force's 1997 report states that the San Agustin claim rests on three testimonies - two second-hand (Maltais, Knight) and one first-hand (Gerald Anderson) - and that Barnett, the original alleged eyewitness, is deceased.",
+"tier": 2,
+"topic": "crash-claims",
 "via": null
 },
 {
@@ -80,6 +97,23 @@
 "tier": 2,
 "topic": "crash-claims",
 "via": null
+},
+{
+"artefactDate": "2024-03",
+"eventDate": null,
+"id": "c-d68cf20906",
+"node": "langley-2023-incursions",
+"nodeLabel": "Langley AFB Drone Incursions (December 2023)",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Langley AFB spokesperson to The War Zone, March 2024",
+"url": null
+},
+"text": "'None of the incursions appeared to exhibit hostile intent but anything flying in our restricted airspace can pose a threat to flight safety.'",
+"tier": 2,
+"topic": "incursions-2023-26",
+"via": "The War Zone"
 },
 {
 "artefactDate": "2024-03-15",
@@ -184,21 +218,38 @@
 "via": null
 },
 {
-"artefactDate": "1947-09-23",
+"artefactDate": null,
 "eventDate": null,
-"id": "c-f93ecd8577",
-"node": "twining-memo",
-"nodeLabel": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
+"id": "c-7e72a62305",
+"node": "l-loring",
+"nodeLabel": "Loring AFB, Maine",
 "route": "document",
 "source": {
-"domain": null,
-"text": "Twining memorandum, 23 Sep 1947, as reproduced in the standard declassified text",
-"url": null
+"domain": "www.twz.com",
+"text": "The War Zone, https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base , opened 2026-09-19",
+"url": "https://www.twz.com/35674/the-bizarre-mystery-of-unexplained-aerial-incursions-over-loring-air-force-base"
 },
-"text": "The memo also records that the lack of physical evidence in the form of crash-recovered exhibits was a constraint on AMC's analysis.",
+"text": "A Loring operations report records: 'It is our opinion that the unknown helicopter has demonstrated a clear intent in the weapons storage area, is smart and a most capable aviator.' This is the phrase from which Fawcett and Greenwood took the title of their 1984 book.",
 "tier": 2,
-"topic": "sign-estimate",
-"via": null
+"topic": "sac-overflights-1975",
+"via": "The War Zone"
+},
+{
+"artefactDate": null,
+"eventDate": "1961-07-01",
+"id": "c-bae151092d",
+"node": "atic",
+"nodeLabel": "Air Technical Intelligence Center",
+"route": "document",
+"source": {
+"domain": "www.usafunithistory.com",
+"text": "AEROSPACE TECHNICAL INTELLIGENCE CENTER, Department of the Air Force Organizational Histories compilation, created 10 December 2025, sourced to the Air Force Historical Research Agency, https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf",
+"url": "https://www.usafunithistory.com/PDF/A-E/AEROSPACE%20TECHNICAL%20INTELLIGENCE%20CENTER.pdf"
+},
+"text": "The lineage is a discontinuation and a new constitution, not a renaming: 'Air Technical Intelligence Center established 21 May 1951; redesignated Aerospace Technical Intelligence Center, 21 September 1959; discontinued 1 July 1961. Foreign Technology Division constituted, activated, and organized 1 July 1961', and 'On 1 July 1961, the organization was inactivated and the mission and resources absorbed by the Foreign Technology Division (FTD)'. Tier 2 because the compilation carrying this text is a private site citing the Air Force Historical Research Agency, and AFHRA's own pages return HTTP 403 from this environment.",
+"tier": 2,
+"topic": "wright-patterson-ftd",
+"via": "usafunithistory.com compilation"
 }
 ],
 "cls": "institution",

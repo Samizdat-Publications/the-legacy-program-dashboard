@@ -11,7 +11,7 @@
 "claimant": "mark-mccandlish",
 "claimantLabel": "Mark McCandlish",
 "eventDate": null,
-"route": "hearing",
+"route": "interview",
 "speaker": null,
 "via": "Disclosure Project Briefing Document"
 },
@@ -53,7 +53,7 @@
 "claimant": "mark-mccandlish",
 "claimantLabel": "Mark McCandlish",
 "eventDate": null,
-"route": "hearing",
+"route": "interview",
 "speaker": null,
 "via": "The Disclosure Project"
 },
@@ -65,11 +65,11 @@
 "id": "c-b32e204a5f",
 "meta": {
 "artefactDate": "2000-12",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "cseti",
+"claimantLabel": "CSETI / The Disclosure Project",
 "eventDate": null,
 "route": "document",
-"speaker": "unnamed (Disclosure Project Briefing Document, section 3.8.5)",
+"speaker": "unnamed witness quoted in the Disclosure Project Briefing Document",
 "via": null
 },
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
@@ -82,8 +82,8 @@
 "artefactDate": "2000-12",
 "claimant": "mark-mccandlish",
 "claimantLabel": "Mark McCandlish",
-"eventDate": "1988-11-12",
-"route": "hearing",
+"eventDate": null,
+"route": "interview",
 "speaker": null,
 "via": "The Disclosure Project"
 },
@@ -95,11 +95,11 @@
 "id": "c-9765b16d0f",
 "meta": {
 "artefactDate": "2000-12",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "cseti",
+"claimantLabel": "CSETI / The Disclosure Project",
 "eventDate": null,
 "route": "document",
-"speaker": "unnamed (Disclosure Project Briefing Document, section 3.8.5)",
+"speaker": "unnamed witness quoted in the Disclosure Project Briefing Document",
 "via": null
 },
 "source": "Disclosure Project Briefing Document, section 3.8.5, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , 2000-12",
@@ -113,7 +113,7 @@
 "claimant": "mark-mccandlish",
 "claimantLabel": "Mark McCandlish",
 "eventDate": null,
-"route": "hearing",
+"route": "interview",
 "speaker": null,
 "via": "The Disclosure Project"
 },

@@ -212,8 +212,8 @@
 "id": "c-9298e0fe98",
 "meta": {
 "artefactDate": "2002-10-16",
-"claimant": "thomas-wilson",
-"claimantLabel": "Thomas R. Wilson",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
 "eventDate": null,
 "route": "document",
 "speaker": null,
@@ -233,8 +233,8 @@
 "id": "c-b123bc0555",
 "meta": {
 "artefactDate": "2002-10-16",
-"claimant": "thomas-wilson",
-"claimantLabel": "Thomas R. Wilson",
+"claimant": "eric-davis",
+"claimantLabel": "Eric W. Davis",
 "eventDate": null,
 "route": "document",
 "speaker": null,
@@ -358,7 +358,7 @@
 "artefactDate": "2002-10-16",
 "claimant": "eric-davis",
 "claimantLabel": "Eric W. Davis",
-"eventDate": null,
+"eventDate": "2002-10-16",
 "route": "document",
 "speaker": null,
 "via": null
@@ -375,6 +375,23 @@
 }
 ],
 "claimsMade": [
+{
+"artefactDate": "2002-10-16",
+"eventDate": "1997",
+"id": "c-57e9190bad",
+"node": "wilson-davis-memo",
+"nodeLabel": "The Wilson-Davis Notes (16 October 2002)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Wilson-Davis notes, 16 Oct 2002, in public circulation since 2019",
+"url": null
+},
+"text": "The notes record Wilson describing a 1997 attempt to gain access to a special access programme holding recovered non-human material in contractor custody, and being refused on need-to-know grounds by a programme security officer, a contractor programme manager and a lawyer.",
+"tier": 2,
+"topic": "area-51-ranges",
+"via": null
+},
 {
 "artefactDate": "2024-12-12",
 "eventDate": "1989",
@@ -425,74 +442,6 @@
 "tier": 2,
 "topic": "congressional-witnesses",
 "via": "American Alchemy with Jesse Michels"
-},
-{
-"artefactDate": "2010",
-"eventDate": null,
-"id": "c-615320e008",
-"node": "dird-antigravity-for-aerospace-applications",
-"nodeLabel": "Antigravity for Aerospace Applications",
-"route": "document",
-"source": {
-"domain": "ufos-scientificresearch.blogspot.com",
-"text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
-},
-"text": "EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), \"Antigravity for Aerospace Applications\", Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1003-018, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC. This is the author's own attribution and matches the DIA list and the cover page exactly.",
-"tier": 2,
-"topic": "dirds",
-"via": "EarthTech International (publication list)"
-},
-{
-"artefactDate": "2017-12-18",
-"eventDate": null,
-"id": "c-15b334c53a",
-"node": "dird-warp-drive-dark-energy-and-the",
-"nodeLabel": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
-"route": "document",
-"source": {
-"domain": "ufos-scientificresearch.blogspot.com",
-"text": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
-"url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
-},
-"text": "One of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017. Davis confirmed by email to the researcher Isaac Koi that the circulating copy was genuine.",
-"tier": 2,
-"topic": "dirds",
-"via": null
-},
-{
-"artefactDate": "2017-12-18",
-"eventDate": null,
-"id": "c-6ab00b8a0c",
-"node": "dird-traversable-wormholes-stargates-and-negative-energy",
-"nodeLabel": "Traversable Wormholes, Stargates, and Negative Energy",
-"route": "document",
-"source": {
-"domain": "ufos-scientificresearch.blogspot.com",
-"text": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html",
-"url": "https://ufos-scientificresearch.blogspot.com/2018/06/those-defense-intelligence-reference.html"
-},
-"text": "This is one of the first two DIRDs to reach the public internet, appearing on a website operated by Corey Goode in an item dated 18 December 2017, before any FOIA release. Davis confirmed by email to the researcher Isaac Koi that the circulating copies were his documents.",
-"tier": 2,
-"topic": "dirds",
-"via": "Corey Goode (website); confirmed to researcher Isaac Koi by email"
-},
-{
-"artefactDate": "2018-01-09",
-"eventDate": null,
-"id": "c-ea84755c68",
-"node": "dird-traversable-wormholes-stargates-and-negative-energy",
-"nodeLabel": "Traversable Wormholes, Stargates, and Negative Energy",
-"route": "document",
-"source": {
-"domain": "ufos-scientificresearch.blogspot.com",
-"text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
-"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
-},
-"text": "Author of record per the DIA letter of 9 January 2018, item 8: \"Traversable Wormholes, Stargates and Negative Energy, Dr Eric Davis, EarthTech International.\" The popular attribution to Davis is, in this case, correct and matches the government list.",
-"tier": 2,
-"topic": "dirds",
-"via": null
 },
 {
 "artefactDate": "2020-07-23",
@@ -548,19 +497,19 @@
 {
 "artefactDate": null,
 "eventDate": null,
-"id": "c-026acaeed3",
-"node": "dird-laser-lightcraft-nanosatellites",
-"nodeLabel": "Laser Lightcraft Nanosatellites",
+"id": "c-615320e008",
+"node": "dird-antigravity-for-aerospace-applications",
+"nodeLabel": "Antigravity for Aerospace Applications",
 "route": "document",
 "source": {
-"domain": "irp.fas.org",
-"text": "https://irp.fas.org/dia/aatip-list.pdf",
-"url": "https://irp.fas.org/dia/aatip-list.pdf"
+"domain": "ufos-scientificresearch.blogspot.com",
+"text": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html — DEMOTED from Tier 1 (cited to a secondary/encyclopedic source); needs primary replacement",
+"url": "https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html"
 },
-"text": "Attributed on the DIA list of AATIP/AAWSAP products supplied to the Senate Armed Services Committee to 'Dr E Davis, EarthTech'. The author line on the released PDF is redacted under (b)(5)/(b)(6), so the congressional list is the sole naming authority.",
-"tier": 1,
+"text": "EarthTech International's own publication list independently records the document as: Davis, E. W. (2010), \"Antigravity for Aerospace Applications\", Defense Intelligence Reference Document, Acquisition Threat Support, DIA-08-1003-018, Acquisition Support Division (DWO-3), Defense Warning Office, Directorate for Analysis, Defense Intelligence Agency, Washington, DC. This is the author's own attribution and matches the DIA list and the cover page exactly.",
+"tier": 2,
 "topic": "dirds",
-"via": "DIA list of AATIP/AAWSAP products (to Senate Armed Services Committee)"
+"via": "ufos-scientificresearch.blogspot.com"
 },
 {
 "artefactDate": "2024-12-13",
@@ -581,7 +530,7 @@
 },
 {
 "artefactDate": "2002-10-16",
-"eventDate": null,
+"eventDate": "2002-10-16",
 "id": "c-83f85ad5a9",
 "node": "eric-davis",
 "nodeLabel": "Eric W. Davis",
@@ -592,6 +541,57 @@
 "url": null
 },
 "text": "Notes attributed to Davis of a 16 October 2002 meeting with Vice Adm. Thomas R. Wilson, former Director of the DIA, describe a special access programme within a defence contractor that refused Wilson access; the notes surfaced in 2019 among the estate papers of Apollo astronaut Edgar Mitchell.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2002-10-16",
+"eventDate": null,
+"id": "c-9298e0fe98",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "The Wilson-Davis notes, 16 Oct 2002, as circulated from 2019",
+"url": null
+},
+"text": "The notes record Wilson describing being refused access, on need-to-know grounds, to a special access programme holding recovered non-human material in contractor custody.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2002-10-16",
+"eventDate": null,
+"id": "c-946d714ea1",
+"node": "thomas-wilson",
+"nodeLabel": "Thomas R. Wilson",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Wilson-Davis notes, 16 Oct 2002",
+"url": null
+},
+"text": "The Davis notes record Wilson stating he was refused access to a special access programme holding recovered non-human material, on the grounds that he lacked need-to-know, despite his position as Joint Staff J-2.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": "2002-10-16",
+"eventDate": null,
+"id": "c-b123bc0555",
+"node": "eric-davis",
+"nodeLabel": "Eric W. Davis",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Notes attributed to Eric W. Davis of a 16 October 2002 meeting; circulated publicly from 2019",
+"url": null
+},
+"text": "The Wilson-Davis memorandum records Adm. Thomas Wilson being denied access to a special access program holding a recovered craft, on the basis that the program sat with a private aerospace contractor and he had no need to know.",
 "tier": 2,
 "topic": "wilson-davis-notes",
 "via": null
@@ -666,6 +666,23 @@
 },
 {
 "artefactDate": null,
+"eventDate": "1999",
+"id": "c-627f05aa82",
+"node": "will-miller",
+"nodeLabel": "Will Miller",
+"route": "document",
+"source": {
+"domain": "documents2.theblackvault.com",
+"text": "The Wilson-Davis notes as published, pp 5-6, https://documents2.theblackvault.com/casefiles/wilsonleak.pdf",
+"url": "https://documents2.theblackvault.com/casefiles/wilsonleak.pdf"
+},
+"text": "The notes record Wilson as 'Very furious - very angry about Miller' for having 'Violated personal and professional trust - especially among intelligence colleagues/Navy officers', and carry Davis's own parenthesis that 'Miller told Ed Mitchell who only told me in 1999'.",
+"tier": 2,
+"topic": "wilson-davis-notes",
+"via": null
+},
+{
+"artefactDate": null,
 "eventDate": "1997-04",
 "id": "c-daf25928e2",
 "node": "will-miller",
@@ -679,7 +696,7 @@
 "text": "The notes record Wilson confirming that 'Greer/Miller/Mitchell gave talk in Pentagon Conference room' in April 1997 with Adm. Mike Crawford and Gen. Pat Hughes present, and that afterwards 'Miller/Wilson talked (privately) 2 hours on UFOs, MJ-12, Roswell, crashed UFOs/alien bodies'.",
 "tier": 2,
 "topic": "wilson-davis-notes",
-"via": null
+"via": "The Black Vault"
 },
 {
 "artefactDate": "2020-07-23",

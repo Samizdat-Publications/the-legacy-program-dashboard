@@ -126,12 +126,12 @@
 "id": "c-fb0d11d5a6",
 "meta": {
 "artefactDate": "2023-07-26",
-"claimant": "jared-moskowitz",
-"claimantLabel": "Jared Evan Moskowitz",
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "House Oversight hearing transcript, 26 July 2023",
 "text": "Elicited: funding by 'misappropriation of funds and self-fund,' and 'Correct, through something called IR&D' on contractor overcharging.",
@@ -189,23 +189,6 @@
 "via": null
 },
 {
-"artefactDate": "2023-07-26",
-"eventDate": null,
-"id": "c-fb0d11d5a6",
-"node": "jared-moskowitz",
-"nodeLabel": "Jared Evan Moskowitz",
-"route": "hearing",
-"source": {
-"domain": null,
-"text": "House Oversight hearing transcript, 26 July 2023",
-"url": null
-},
-"text": "Elicited: funding by 'misappropriation of funds and self-fund,' and 'Correct, through something called IR&D' on contractor overcharging.",
-"tier": 1,
-"topic": "hearing-2023",
-"via": null
-},
-{
 "artefactDate": "2023-12",
 "eventDate": null,
 "id": "c-74f272c367",
@@ -245,7 +228,7 @@
 "id": "c-cec0113c13",
 "node": "capitol-disclosure-event-2026-06-09",
 "nodeLabel": "Capitol UAP disclosure event, 9 June 2026",
-"route": "broadcast",
+"route": "press",
 "source": {
 "domain": null,
 "text": "NewsNation/The Hill, 9 June 2026",
@@ -254,7 +237,7 @@
 "text": "Rep. Moskowitz: 'Disclosure today, disclosure tomorrow. The American people deserve to know.'",
 "tier": 2,
 "topic": "house-push-2026",
-"via": "NewsNation/The Hill"
+"via": "NewsNation; The Hill"
 },
 {
 "artefactDate": "2025-09-09",

@@ -20,7 +20,7 @@
 "eventDate": null,
 "route": "hearing",
 "speaker": null,
-"via": null
+"via": "House Oversight Committee"
 },
 "source": "House Oversight Committee hearing, 26 July 2023",
 "text": "David Grusch testified on 26 July 2023 that material and programmes had been placed with defence contractors outside congressional oversight.",
@@ -30,11 +30,11 @@
 "id": "c-6d940e9ef2",
 "meta": {
 "artefactDate": "2026-05-16",
-"claimant": "eric-burlison",
-"claimantLabel": "Eric Burlison",
+"claimant": null,
+"claimantLabel": null,
 "eventDate": null,
 "route": "press",
-"speaker": null,
+"speaker": "Newsmax",
 "via": "Newsmax"
 },
 "source": "Newsmax, 16 May 2026",

@@ -97,13 +97,13 @@
 {
 "id": "c-c1730160ec",
 "meta": {
-"artefactDate": "2020-10-20",
+"artefactDate": "2020",
 "claimant": "christopher-mellon",
 "claimantLabel": "Christopher K. Mellon",
 "eventDate": null,
-"route": "press",
+"route": "broadcast",
 "speaker": null,
-"via": "Vice (MJ Banias)"
+"via": "The Phenomenon (2020), reported by Vice (MJ Banias)"
 },
 "source": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
 "text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
@@ -199,7 +199,7 @@
 "eventDate": null,
 "route": "press",
 "speaker": null,
-"via": null
+"via": "DefenseScoop"
 },
 "source": "https://defensescoop.com/2026/02/20/trump-ufo-uap-government-files-disclosure/",
 "text": "'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.'",
@@ -257,12 +257,12 @@
 "via": "The Debrief"
 },
 {
-"artefactDate": "2020-10-20",
+"artefactDate": "2020",
 "eventDate": null,
 "id": "c-51ac5bb1d9",
 "node": "navy-flir-gimbal-gofast-videos",
 "nodeLabel": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
-"route": "press",
+"route": "broadcast",
 "source": {
 "domain": null,
 "text": "Christopher Mellon in The Phenomenon (2020), reported by Vice, 20 October 2020",
@@ -271,15 +271,15 @@
 "text": "Christopher Mellon stated he received the videos from a Defense Department official in the Pentagon parking lot and provided them to the New York Times.",
 "tier": 2,
 "topic": "nyt-2017",
-"via": "Vice (reporting on 'The Phenomenon', 2020)"
+"via": "'The Phenomenon' (2020), reported by Vice"
 },
 {
-"artefactDate": "2020-10-20",
+"artefactDate": "2020",
 "eventDate": null,
 "id": "c-c1730160ec",
 "node": "christopher-mellon",
 "nodeLabel": "Christopher K. Mellon",
-"route": "press",
+"route": "broadcast",
 "source": {
 "domain": null,
 "text": "Christopher Mellon in The Phenomenon (2020), reported by MJ Banias, Vice, 20 October 2020",
@@ -288,7 +288,7 @@
 "text": "Stated: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official,' and that he retains the original packaging.",
 "tier": 2,
 "topic": "nyt-2017",
-"via": "Vice (MJ Banias)"
+"via": "The Phenomenon (2020), reported by Vice (MJ Banias)"
 },
 {
 "artefactDate": "2025-09-09",
@@ -322,7 +322,7 @@
 "text": "'This might be a consequential moment, but the impact will depend on the follow-through... The public's trust has been eroded and must be restored.'",
 "tier": 2,
 "topic": "nyt-2017",
-"via": null
+"via": "DefenseScoop"
 },
 {
 "artefactDate": "2026-02-20",

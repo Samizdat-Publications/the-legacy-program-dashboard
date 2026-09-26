@@ -117,7 +117,7 @@
 {
 "id": "c-1b8513352d",
 "meta": {
-"artefactDate": "2024-11",
+"artefactDate": null,
 "claimant": "susan-gough",
 "claimantLabel": "Susan Gough",
 "eventDate": null,
@@ -229,11 +229,11 @@
 "id": "c-d11e8a2953",
 "meta": {
 "artefactDate": "2023-06-13",
-"claimant": null,
-"claimantLabel": null,
+"claimant": "david-grusch",
+"claimantLabel": "David Charles Grusch",
 "eventDate": null,
 "route": "filing",
-"speaker": "Liberation Times (reporting the unclassified reprisal complaint)",
+"speaker": null,
 "via": "Liberation Times"
 },
 "source": "Unclassified reprisal complaint as reported by Liberation Times, 13 June 2023",
@@ -415,23 +415,6 @@
 "via": "DefenseScoop"
 },
 {
-"artefactDate": "2024-11",
-"eventDate": null,
-"id": "c-1b8513352d",
-"node": "susan-gough",
-"nodeLabel": "Susan Gough",
-"route": "press",
-"source": {
-"domain": null,
-"text": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing",
-"url": null
-},
-"text": "The Department stated it has no record of a programme called Immaculate Constellation.",
-"tier": 2,
-"topic": "denial-ledger",
-"via": null
-},
-{
 "artefactDate": "2025-06-06",
 "eventDate": null,
 "id": "c-981516bc3f",
@@ -464,6 +447,40 @@
 "tier": 2,
 "topic": "denial-ledger",
 "via": "DefenseScoop"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-1b8513352d",
+"node": "susan-gough",
+"nodeLabel": "Susan Gough",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statements attributed to Sue Gough in UAP coverage following the November 2024 hearing",
+"url": null
+},
+"text": "The Department stated it has no record of a programme called Immaculate Constellation.",
+"tier": 2,
+"topic": "denial-ledger",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-9d3c590324",
+"node": "immaculate-constellation",
+"nodeLabel": "Immaculate Constellation disclosure, October-November 2024",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statements as reported in secondary coverage; wave 1 board record",
+"url": null
+},
+"text": "The Department of Defense states it has no record of such a programme; spokesperson Sue Gough has said the Department has 'no record', and former AARO director Sean Kirkpatrick has denied its existence.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
 },
 {
 "artefactDate": "2025-10-01",
@@ -515,6 +532,23 @@
 "tier": 2,
 "topic": "house-push-2026",
 "via": "DefenseScoop"
+},
+{
+"artefactDate": "2024",
+"eventDate": null,
+"id": "c-a9474c782c",
+"node": "michael-shellenberger",
+"nodeLabel": "Michael Shellenberger",
+"route": "press",
+"source": {
+"domain": null,
+"text": "DoD statements as reported in UAP coverage, 2024-2026",
+"url": null
+},
+"text": "Pentagon spokesperson Sue Gough said the Department has no record of such a programme; Sean Kirkpatrick also denied its existence.",
+"tier": 2,
+"topic": "media-substrate",
+"via": null
 },
 {
 "artefactDate": "2025-06",

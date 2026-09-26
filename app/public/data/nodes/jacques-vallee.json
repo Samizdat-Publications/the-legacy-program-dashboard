@@ -94,11 +94,11 @@
 "id": "c-b65b1471d1",
 "meta": {
 "artefactDate": null,
-"claimant": null,
-"claimantLabel": null,
+"claimant": "nids",
+"claimantLabel": "National Institute for Discovery Science (NIDS)",
 "eventDate": "1995",
 "route": "document",
-"speaker": "unnamed (NIDS institutional record; contemporaneous press coverage)",
+"speaker": null,
 "via": null
 },
 "source": "NIDS institutional record; contemporaneous press coverage of NIDS' scientific board",
@@ -190,7 +190,7 @@
 "via": "CUFON"
 },
 {
-"artefactDate": "2012-02-18",
+"artefactDate": "1992",
 "eventDate": "1967-06-18",
 "id": "c-2a57a4f73b",
 "node": "pentacle-memorandum",

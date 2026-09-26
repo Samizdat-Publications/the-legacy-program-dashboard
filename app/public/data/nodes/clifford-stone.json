@@ -11,12 +11,12 @@
 "id": "c-6525879f6e",
 "meta": {
 "artefactDate": "2001-04",
-"claimant": "clifford-stone",
-"claimantLabel": "Clifford E. Stone",
+"claimant": "disclosure-project",
+"claimantLabel": "The Disclosure Project",
 "eventDate": "2000-09",
-"route": "hearing",
+"route": "document",
 "speaker": null,
-"via": "Disclosure Project Briefing Document (Steven M. Greer and Theodore C. Loder III)"
+"via": null
 },
 "source": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. Its editorial header states: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.' TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
@@ -29,7 +29,7 @@
 "claimant": "clifford-stone",
 "claimantLabel": "Clifford E. Stone",
 "eventDate": null,
-"route": "hearing",
+"route": "interview",
 "speaker": null,
 "via": "The Disclosure Project"
 },
@@ -100,7 +100,7 @@
 {
 "id": "c-02c72aab61",
 "meta": {
-"artefactDate": "2021-02-10",
+"artefactDate": "2021-02",
 "claimant": "kevin-randle",
 "claimantLabel": "Kevin D. Randle",
 "eventDate": null,
@@ -118,7 +118,7 @@
 "artefactDate": "2001",
 "claimant": "philip-j-klass",
 "claimantLabel": "Philip J. Klass",
-"eventDate": "2001-05",
+"eventDate": "2001-05-09",
 "route": "document",
 "speaker": null,
 "via": "Fox News Channel"
@@ -141,7 +141,7 @@
 "id": "c-3fb5052fea",
 "node": "clifford-stone",
 "nodeLabel": "Clifford E. Stone",
-"route": "hearing",
+"route": "interview",
 "source": {
 "domain": "archive.org",
 "text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
@@ -151,23 +151,6 @@
 "tier": 2,
 "topic": "disclosure-project-2001",
 "via": "The Disclosure Project"
-},
-{
-"artefactDate": "2001-04",
-"eventDate": "2000-09",
-"id": "c-6525879f6e",
-"node": "clifford-stone",
-"nodeLabel": "Clifford E. Stone",
-"route": "hearing",
-"source": {
-"domain": "archive.org",
-"text": "Disclosure Project Briefing Document, April 2001, written and compiled by Steven M. Greer, M.D., and Theodore C. Loder III, Ph.D.; full OCR text read this session, https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt , opened 2026-09-19 — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": "https://archive.org/stream/DisclosureProjectBriefingDocument/DisclosureProjectBriefingDocument_djvu.txt"
-},
-"text": "The Disclosure Project Briefing Document of April 2001 prints his testimony at section 3.8.4 under the heading 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'. Its editorial header states: 'Stone has seen living and dead extraterrestrials in his official duties on an army team that retrieved crashed ET crafts.' TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY.",
-"tier": 2,
-"topic": "disclosure-project-2001",
-"via": "Disclosure Project Briefing Document (Steven M. Greer and Theodore C. Loder III)"
 }
 ],
 "cls": "person",

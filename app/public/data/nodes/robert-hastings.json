@@ -35,12 +35,12 @@
 "id": "c-075fb2c424",
 "meta": {
 "artefactDate": "2024-10-19",
-"claimant": "robert-hastings",
-"claimantLabel": "Robert L. Hastings",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
 "eventDate": null,
 "route": "interview",
 "speaker": null,
-"via": "American Alchemy with Jesse Michels"
+"via": null
 },
 "source": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:34:57, and 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 2:07:40",
 "text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'.",
@@ -50,12 +50,12 @@
 "id": "c-cc947e22b4",
 "meta": {
 "artefactDate": "2025-01-27",
-"claimant": "robert-hastings",
-"claimantLabel": "Robert L. Hastings",
+"claimant": "jesse-michels",
+"claimantLabel": "Jesse Michels",
 "eventDate": null,
 "route": "interview",
 "speaker": null,
-"via": "American Alchemy with Jesse Michels"
+"via": null
 },
 "source": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523",
 "text": "On the same show on 27 January 2025 at 3:07:08 Michels said he had overstated the case and that Hastings emailed him a correction: 'it was only like 12 to 15. I don't remember the exact number. But radar operators, the rest were ICBM security personnel'. In the same passage he gives the overall total as 170. The correction concerns the composition of the witness population, not only its size.",
@@ -197,40 +197,6 @@
 "via": "American Alchemy with Jesse Michels"
 },
 {
-"artefactDate": "2024-10-19",
-"eventDate": null,
-"id": "c-075fb2c424",
-"node": "robert-hastings",
-"nodeLabel": "Robert L. Hastings",
-"route": "interview",
-"source": {
-"domain": null,
-"text": "American Alchemy with Jesse Michels, 'Did Oppenheimer Work on UFOs?', 19 October 2024, 0:34:57, and 'UFOs Are Monitoring Nuclear Weapons GLOBALLY (ft. Robert Hastings)', 24 December 2024, 2:07:40",
-"url": null
-},
-"text": "On American Alchemy with Jesse Michels, 19 October 2024, at 0:34:57, Michels gave Hastings's figure as '167 UFO sighting cases at nuclear bases', and in the same breath as '167 ICBM security personnel, radar operators, people who work at these nuclear sites'. On 24 December 2024 at 2:07:40, with Hastings present, he described the same body of testimony as 'almost 200 stand-up patriots'.",
-"tier": 2,
-"topic": "civilian-groups",
-"via": "American Alchemy with Jesse Michels"
-},
-{
-"artefactDate": "2025-01-27",
-"eventDate": null,
-"id": "c-cc947e22b4",
-"node": "robert-hastings",
-"nodeLabel": "Robert L. Hastings",
-"route": "interview",
-"source": {
-"domain": "mgln.ai",
-"text": "American Alchemy with Jesse Michels, 'UFO Believer vs. UFO Skeptic: Are Aliens Visiting Earth?' (ft. Mick West and Marik von Rennenkampff), 27 January 2025, 3:07:08, https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523",
-"url": "https://mgln.ai/e/1119/pscrb.fm/rss/p/traffic.megaphone.fm/TOE9180015195.mp3?updated=1738087523"
-},
-"text": "On the same show on 27 January 2025 at 3:07:08 Michels said he had overstated the case and that Hastings emailed him a correction: 'it was only like 12 to 15. I don't remember the exact number. But radar operators, the rest were ICBM security personnel'. In the same passage he gives the overall total as 170. The correction concerns the composition of the witness population, not only its size.",
-"tier": 2,
-"topic": "civilian-groups",
-"via": "American Alchemy with Jesse Michels"
-},
-{
 "artefactDate": null,
 "eventDate": null,
 "id": "c-57d8201cba",
@@ -317,6 +283,23 @@
 },
 {
 "artefactDate": null,
+"eventDate": "1996-10-01",
+"id": "c-8820c504e1",
+"node": "malmstrom-oscar-flight-1967",
+"nodeLabel": "Malmstrom Oscar Flight claim, 24 March 1967",
+"route": "press",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Contested between https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ and http://kevinrandle.blogspot.com/2013/05/robert-salas-and-me.html , all opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Col. Frederick Meiwald wrote to Salas about the incident on 1 October 1996. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD and two incompatible characterisations of it are in circulation, one supporting and one contradicting Salas. Kevin Randle separately records Salas giving all ten missiles and Meiwald four or five.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": null
+},
+{
+"artefactDate": null,
 "eventDate": "1965-08-01",
 "id": "c-98dfae4f96",
 "node": "l-warren",
@@ -330,7 +313,7 @@
 "text": "A Project Blue Book telephone log kept by Lt. Anspaugh records calls between 0130 and 0440 on 1 August 1965 reporting objects over the F. E. Warren missile complex, from Capt. Snelling of the Air Force command post, from the base commander Col. Johnson, from Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and from Capt. Howell, referring to sites designated E Site, G Flight, Quebec Flight, H-2 and B-4. The memorandum summarising those calls was first published by Dr J. Allen Hynek, Blue Book's civilian scientific consultant, in 'The UFO Experience: A Scientific Inquiry' in 1972.",
 "tier": 2,
 "topic": "nuclear-missiles-1960s",
-"via": null
+"via": "rr0.org mirror"
 },
 {
 "artefactDate": null,
@@ -345,6 +328,23 @@
 "url": "https://rr0.org/time/2/0/0/6/02/24/Hastings_UfosightingsAtIcbmSites/Warren_1965/"
 },
 "text": "Personnel at F. E. Warren AFB, including the base commander, telephoned Project Blue Book at Wright-Patterson AFB in the earliest hours of 1 August 1965 to report sightings over the Warren Minuteman missile sites. Lt. Anspaugh fielded and logged the calls between about 0130 and 0440. Named callers are Capt. Snelling of the Air Force command post, Col. Johnson the base commander, Col. Williams commanding the Sioux Army Depot at Sidney, Nebraska, and Capt. Howell. Site designators recorded include E Site, G Flight, Quebec Flight, H-2 and B-4.",
+"tier": 2,
+"topic": "nuclear-missiles-1960s",
+"via": "rr0.org mirror"
+},
+{
+"artefactDate": null,
+"eventDate": "1996-10-01",
+"id": "c-9de1088659",
+"node": "malmstrom-echo-flight-1967",
+"nodeLabel": "Malmstrom AFB missile shutdowns, March 1967",
+"route": "press",
+"source": {
+"domain": "www.ufohastings.com",
+"text": "Contested between Robert Hastings, 'The Echo and Oscar Flight Incidents', https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents , and the Metabunk skeptical resources thread, https://www.metabunk.org/threads/ufos-at-nuclear-weapons-sites-salas-malmstrom-eagle-flight-skeptical-resources.3284/ , both opened 2026-09-19",
+"url": "https://www.ufohastings.com/articles/the-echo-and-oscar-flight-incidents"
+},
+"text": "Col. Frederick Meiwald wrote to Robert Salas about the March 1967 events on 1 October 1996, after Salas located him in the summer of that year. The letter is published by Salas and Robert Hastings. IT HAS NOT BEEN OPENED BY THIS BOARD and two flatly incompatible characterisations of its contents are in public circulation: that it elaborates and supports the Oscar Flight account, and that it records Meiwald's recollection as differing from Salas's and regrets being unable to help him establish his claims.",
 "tier": 2,
 "topic": "nuclear-missiles-1960s",
 "via": null
@@ -418,8 +418,59 @@
 "via": "CNN"
 },
 {
+"artefactDate": "2010-09-27",
+"eventDate": null,
+"id": "c-deaa295d00",
+"node": "npc-2010-ufos-nukes",
+"nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
+"route": "broadcast",
+"source": {
+"domain": null,
+"text": "ufohastings.com; CNN coverage of the press conference, 27 September 2010",
+"url": null
+},
+"text": "Seven US Air Force veterans discussed UFO incursions at nuclear weapons sites at the National Press Club on 27 September 2010; CNN streamed the event live and carried coverage.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": "CNN"
+},
+{
 "artefactDate": null,
 "eventDate": "2010-09-27",
+"id": "c-2975352b99",
+"node": "patrick-mcdonough",
+"nodeLabel": "Patrick McDonough",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Patrick McDonough served in the US Air Force as a geodetic surveyor from 1962 to 1966 and, from F. E. Warren AFB at Cheyenne, Wyoming, performed temporary duty worldwide relating to surveys for Atlas, Titan, Minuteman, Mace and Matador missile sites. He executed an affidavit and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": "2010-09-27",
+"id": "c-29eec9d7e3",
+"node": "bruce-fenstermacher",
+"nodeLabel": "Capt. Bruce Fenstermacher",
+"route": "document",
+"source": {
+"domain": "ufohastings.com",
+"text": "Robert Hastings, 'The UFOs-Nukes Connection Press Conference', https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference , opened 2026-09-19",
+"url": "https://ufohastings.com/articles/the-ufos-nukes-connection-press-conference"
+},
+"text": "Bruce Fenstermacher, Captain USAF, was a missile combat crew commander at F. E. Warren AFB, Wyoming from 1974 to 1977, executed an affidavit, and spoke at the UFO-Nukes Connection press conference at the National Press Club on 27 September 2010.",
+"tier": 2,
+"topic": "nuclear-witnesses",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
 "id": "c-4384238fed",
 "node": "npc-2010-ufos-nukes",
 "nodeLabel": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",

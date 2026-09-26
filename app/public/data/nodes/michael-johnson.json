@@ -14,7 +14,7 @@
 "claimant": "michael-johnson",
 "claimantLabel": "Michael Johnson",
 "eventDate": "1977-11-18",
-"route": "broadcast",
+"route": "interview",
 "speaker": null,
 "via": "Jesse Michels (YouTube)"
 },
@@ -40,11 +40,11 @@
 {
 "id": "c-81129540ce",
 "meta": {
-"artefactDate": "2026-09-19",
+"artefactDate": null,
 "claimant": null,
 "claimantLabel": null,
 "eventDate": null,
-"route": "broadcast",
+"route": "document",
 "speaker": "internal editorial note (provenance check on Michael Johnson's account in the Michels video)",
 "via": null
 },
@@ -108,7 +108,7 @@
 "id": "c-500da59f84",
 "node": "michael-johnson",
 "nodeLabel": "Michael Johnson",
-"route": "broadcast",
+"route": "interview",
 "source": {
 "domain": "www.youtube.com",
 "text": "Jesse Michels, video rjUdn6FklAU, 7 September 2026, at 00:07:11, 00:18:44-00:20:40 and 00:53:19-00:53:45, https://www.youtube.com/watch?v=rjUdn6FklAU , opened 2026-09-19",

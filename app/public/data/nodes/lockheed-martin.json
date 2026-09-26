@@ -71,6 +71,25 @@
 "tier": 1
 }
 ],
+"claimsMade": [
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-c84daf2a74",
+"node": "dana-keoki-jackson",
+"nodeLabel": "Dana (Keoki) Jackson",
+"route": "press",
+"source": {
+"domain": null,
+"text": "Widely reported industry record; Lockheed Martin executive announcements",
+"url": null
+},
+"text": "Jackson previously served as Chief Technology Officer of Lockheed Martin.",
+"tier": 2,
+"topic": "ffrdc-probes",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "contractor",
 "conflicts": [],

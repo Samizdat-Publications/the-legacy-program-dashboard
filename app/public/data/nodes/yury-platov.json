@@ -28,7 +28,7 @@
 "claimant": null,
 "claimantLabel": null,
 "eventDate": null,
-"route": "book",
+"route": "document",
 "speaker": "Stonehill and Mantle, 'Setka: A Secret Soviet UFO Research Program'",
 "via": null
 },
@@ -58,7 +58,7 @@
 "claimant": null,
 "claimantLabel": null,
 "eventDate": null,
-"route": "book",
+"route": "document",
 "speaker": "Stonehill and Mantle",
 "via": null
 },
@@ -115,6 +115,74 @@
 "url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
 },
 "text": "The Petrozavodsk phenomenon of 20 September 1977 was reported in Izvestia on 23 September 1977 under the title 'The Unidentified natural phenomenon', describing a 'huge \"star\" with impulsive beams of light coming to the ground' that hung over the town 'as a huge \"jellyfish\"'.",
+"tier": 2,
+"topic": "ussr",
+"via": null
+},
+{
+"artefactDate": "2000",
+"eventDate": "1978",
+"id": "c-591cd82345",
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"route": "document",
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Two topics were entered in the 1978 defence research plan, verbatim: '\"Setka MO\" (Ministry of Defence) - \"Research of paranormal atmospheric and space phenomena and their influence on the operation of military technical equipment and personnel\"; \"Setka AS\" (Academy of Sciences) - \"Research of a physical nature and mechanisms of paranormal atmospheric and space phenomena\".'",
+"tier": 2,
+"topic": "ussr",
+"via": null
+},
+{
+"artefactDate": "2000",
+"eventDate": null,
+"id": "c-66772d8e0e",
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"route": "document",
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "Across the whole programme there was no message about a UFO landing, no message about contact with UFO occupants, and no message about abductions. The authors state the conclusion as a fork: 'either the territory of the USSR was, due to any reasons, closed for alien visitations during, at least, 13 years or that the hypothesis of an extraterrestrial origin of \"UFO\" is inconsistent.'",
+"tier": 2,
+"topic": "ussr",
+"via": null
+},
+{
+"artefactDate": "2000",
+"eventDate": null,
+"id": "c-71fb6b2519",
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"route": "document",
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The research was classified for three stated reasons: it formally entered the classified defence plan; a military-technical origin for the effects was thought likely at the outset; and there was 'a capability of a military use of some probable properties of the UFO ... absence of a radar contrast, high manoeuvrability, etc.' In official documents 'the use of an abbreviation \"UFO\" was not accepted, instead of it the term \"paranormal phenomenon\" was used.'",
+"tier": 2,
+"topic": "ussr",
+"via": null
+},
+{
+"artefactDate": "2000",
+"eventDate": "1984",
+"id": "c-7602f94a7a",
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"route": "document",
+"source": {
+"domain": "www.debunker.com",
+"text": "Platov and Sokolov (2000) - http://www.debunker.com/historical/HistoryRussianUFOlogy.html — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": "http://www.debunker.com/historical/HistoryRussianUFOlogy.html"
+},
+"text": "The series of flight emergencies in 1984-87 at the Borisoglebsk air unit in Voronezh region, characterised by unknown objects on radar and visually observed by pilots in emergency zones, is left explicitly unresolved: 'So far there is no consensus of opinion as to the role played in these emergencies by the mysterious objects observed in the zone of flight, and we shall interpret these events as unidentified.'",
 "tier": 2,
 "topic": "ussr",
 "via": null
@@ -234,6 +302,23 @@
 "url": null
 },
 "text": "Platov and Sokolov's stated reasons for secrecy include 'possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes.'",
+"tier": 2,
+"topic": "ussr",
+"via": "Stonehill and Mantle"
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-74818cf574",
+"node": "setka-program",
+"nodeLabel": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Stonehill and Mantle, quoting Platov and Sokolov, History of State-directed UFO Research in the USSR",
+"url": null
+},
+"text": "Programme secrecy justification, per Y. Platov and B. Sokolov's own 'History of State-directed UFO Research in the USSR': the programmes 'formally belonged to activities pertaining defense-related subjects; initial assumption that there is a high probability of military-technical origin of the observed strange phenomena; and possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes.'",
 "tier": 2,
 "topic": "ussr",
 "via": "Stonehill and Mantle"

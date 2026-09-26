@@ -24,6 +24,110 @@
 "tier": 3
 }
 ],
+"claimsMade": [
+{
+"artefactDate": "2009-04-02",
+"eventDate": null,
+"id": "c-c82c914225",
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"route": "press",
+"source": {
+"domain": "today.wayne.edu",
+"text": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+"url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+},
+"text": "The same item gives Green's role at that date as 'assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and records his appointment as a professor of the Chinese Academy of Sciences, sponsored by its Institute of Biophysics, the location of the clinical Brain and Imaging MRI Center of Excellence in Beijing.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+},
+{
+"artefactDate": "2009-04-02",
+"eventDate": null,
+"id": "c-e667d6fb37",
+"node": "kit-green",
+"nodeLabel": "Christopher C. 'Kit' Green",
+"route": "press",
+"source": {
+"domain": "today.wayne.edu",
+"text": "Wayne State University School of Medicine News, 2 April 2009 https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373",
+"url": "https://today.wayne.edu/medicine/news/2009/04/02/chinese-academy-of-sciences-apppoints-dr-green-as-professor-25373"
+},
+"text": "Wayne State University School of Medicine states: 'Prior to his current assignment, Dr. Green served as the executive director of the Emergent Technology Research Division in the Departments of Psychiatry and Behavioral Neurosciences, and Diagnostic Radiology, where he is an adjunct professor and Fellow in Clinical Neuroimaging.' The title was executive director, and as of 2 April 2009 he had already left it.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+},
+{
+"artefactDate": "2009-07-13",
+"eventDate": null,
+"id": "c-268e9b2720",
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"route": "press",
+"source": {
+"domain": "today.wayne.edu",
+"text": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+},
+"text": "Richard J. Genik II is director of the Emergent Technology Research Division and research assistant professor in the Department of Psychiatry and Behavioral Neurosciences at Wayne State University, with a PhD in physics from Michigan State University and a BS in applied physics from Wayne State.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+},
+{
+"artefactDate": "2009-07-13",
+"eventDate": "2009-04",
+"id": "c-389dff4129",
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"route": "press",
+"source": {
+"domain": "today.wayne.edu",
+"text": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+},
+"text": "Wayne State's title for Genik is director, not executive director: 'Richard J. Genik II, Ph.D., director of the Emergent Technology Research Division and assistant professor of the Department of Psychiatry and Behavioral Neurosciences for the Wayne State University School of Medicine'. Green held the executive directorship and had left it by April 2009; Genik is director by July 2009. The two titles are different and sequential, not competing.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+},
+{
+"artefactDate": "2009-07-13",
+"eventDate": null,
+"id": "c-7012614e3a",
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"route": "press",
+"source": {
+"domain": "today.wayne.edu",
+"text": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+},
+"text": "Director of the Emergent Technology Research Division and assistant professor, Department of Psychiatry and Behavioral Neurosciences, Wayne State University School of Medicine; selected as one of fifteen experts advising the U.S. Army on two decades of neuroscience research investment.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+},
+{
+"artefactDate": "2009-07-13",
+"eventDate": null,
+"id": "c-7e8d4f5e56",
+"node": "richard-genik",
+"nodeLabel": "Richard J. Genik II",
+"route": "document",
+"source": {
+"domain": "today.wayne.edu",
+"text": "Wayne State University School of Medicine News, 13 July 2009 https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514",
+"url": "https://today.wayne.edu/medicine/news/2009/07/13/richard-genik-phd-25514"
+},
+"text": "The Army study Genik was selected for was requested by Tom Killion, deputy assistant secretary for Research and Technology and chief scientist for the U.S. Army, of the National Research Council. Genik chaired the technology group of the 20-month study and was one of four committee members on the briefing team, presenting at the Pentagon, the Board of Army Science and Technology, the Army Research Lab, the Army Research Institute, Medical Research and Material Command, Training and Doctrine Command, and the Office of Acquisition, Logistics and Technology. He was the only member of the briefing team to present at all three official briefings.",
+"tier": 2,
+"topic": "biology-medical",
+"via": null
+}
+],
 "cls": "institution",
 "cluster": "research",
 "conflicts": [],

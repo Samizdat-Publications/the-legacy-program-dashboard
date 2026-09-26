@@ -20,8 +20,8 @@
 "id": "c-499c8b5e32",
 "meta": {
 "artefactDate": null,
-"claimant": "john-greenewald",
-"claimantLabel": "John Greenewald Jr.",
+"claimant": "the-black-vault",
+"claimantLabel": "The Black Vault",
 "eventDate": null,
 "route": "document",
 "speaker": null,
@@ -104,6 +104,40 @@
 },
 {
 "artefactDate": null,
+"eventDate": null,
+"id": "c-27d45aefe2",
+"node": "jal-1628-1986",
+"nodeLabel": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+"text": "The Black Vault states in its own voice that 'Callahan's dramatic account is unconfirmed by other sources', while observing that he preserved copies of the data and later shared them with researchers.",
+"tier": 2,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-499c8b5e32",
+"node": "the-black-vault",
+"nodeLabel": "The Black Vault",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "The Black Vault case file, 'The Vault Files: 1986 Alaska JAL Flight 1628', John Greenewald Jr., https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/ , opened 2026-09-19",
+"url": "https://www.theblackvault.com/casefiles/the-vault-files-1986-alaska-jal-flight-1628/"
+},
+"text": "It states its own reservation about the best-known witness to the case: 'Callahan's dramatic account is unconfirmed by other sources', while recording that he preserved copies of the data.",
+"tier": 1,
+"topic": "aviation-cases",
+"via": null
+},
+{
+"artefactDate": null,
 "eventDate": "1961",
 "id": "c-d2c956fad1",
 "node": "gerald-smith",
@@ -117,6 +151,23 @@
 "text": "Ph.D. Yale 1961; assistant professor under Luis Alvarez at Berkeley 1961-66; Associate Laboratory Director for High Energy Physics at Argonne 1978; Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State from 1983; Professor Emeritus 2000; founded Positronics Research LLC in 2001.",
 "tier": 2,
 "topic": "dirds",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
+"id": "c-345af1cac3",
+"node": "john-greenewald",
+"nodeLabel": "John Greenewald Jr.",
+"route": "document",
+"source": {
+"domain": "www.theblackvault.com",
+"text": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/",
+"url": "https://www.theblackvault.com/documentarchive/the-black-vault-launches-searchable-ufo-files-release-archive/"
+},
+"text": "Many PDFs in the Department's release were password-protected, preventing OCR; The Black Vault removed the restrictions and processed the files into a usable, searchable format.",
+"tier": 2,
+"topic": "foia-litigation",
 "via": null
 },
 {
