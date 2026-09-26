@@ -125,6 +125,7 @@
 "label": "Andy Biggs",
 "note": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -140,7 +141,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -156,6 +157,7 @@
 "label": "Anna Paulina Luna",
 "note": "Moskowitz thanked Burchett and Luna for pushing the hearing forward; Luna's rounds established both facts on the record.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -182,6 +184,7 @@
 "label": "The Boeing Company",
 "note": "Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -197,7 +200,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -213,6 +216,7 @@
 "label": "David Fravor",
 "note": "Fravor's written statement to the subcommittee is the primary sworn account of the 2004 intercept.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -254,6 +258,7 @@
 "label": "David Charles Grusch",
 "note": "The committee deliberately seated two aviator witnesses beside a whistleblower alleging a concealed retrieval program, framing the observational record as the visible surface of a hidden effort.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -290,6 +295,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch testified under oath before the House Oversight national security subcommittee, producing the 40-witness figure, the nonhuman biologics answer, the harm and murder exchanges, and the misappropriation and IR&D funding answers.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -336,6 +342,7 @@
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "note": "The Debrief published 5 June 2023; the House Oversight subcommittee took sworn testimony 26 July 2023. The speed is itself a data point about congressional appetite in that window.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -362,6 +369,7 @@
 "label": "George Knapp",
 "note": "Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -393,6 +401,7 @@
 "label": "Glenn S. Grothman",
 "note": "The waiver list is a map of the disclosure caucus at formation.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -413,12 +422,13 @@
 "direction": "in",
 "edgeId": "e-8ffb2d99eb",
 "edgeLabel": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
-"family": "role",
+"family": "oversight",
 "id": "glenn-grothman",
 "l0": false,
 "label": "Glenn S. Grothman",
 "note": "Grothman's question about what information Grusch believed was hidden produced the only program-category language in the unclassified record.",
-"predicate": "led",
+"predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -429,7 +439,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was led by"
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,
@@ -445,6 +455,7 @@
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The ICIG found the complaint credible and urgent in July 2022; Grusch testified publicly in July 2023 only after leaving government and clearing his statements through DOPSR. The intervening year is the period the reprisal complaint covers.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -476,6 +487,7 @@
 "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "note": "Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -486,7 +498,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -502,6 +514,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Grusch testified in 2023 to being informed of a retrieval programme; in 2024 Elizondo answered Mace's direct question with 'Yes'.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -517,7 +530,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -533,6 +546,7 @@
 "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
 "note": "Serial No. 118-53, 2154 Rayburn.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -564,6 +578,7 @@
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Listed in the hearing's Index of Documents.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -574,7 +589,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -590,6 +605,7 @@
 "label": "Washington, D.C.",
 "note": "2154 Rayburn on 26 July 2023 and 13 November 2024; HVC-210 on 9 September 2025.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -626,6 +642,7 @@
 "label": "Eglin Air Force Base, Florida",
 "note": "No production of the Eglin material to the committee has been recorded as of August 2026.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -636,7 +653,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -652,6 +669,7 @@
 "label": "Maxwell Alejandro Frost",
 "note": "Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.'",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -667,7 +685,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -683,6 +701,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Fravor's written statement placed on the record that the incident was never investigated, no crew were questioned and no tapes were taken.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -714,6 +733,7 @@
 "label": "Ryan Graves",
 "note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -755,6 +775,7 @@
 "label": "Susan Gough",
 "note": "Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -781,6 +802,7 @@
 "label": "Timothy Floyd Burchett",
 "note": "Garcia and Moskowitz both credited Burchett's leadership from the dais; Burchett's opening statement records that members were denied a SCIF briefing before the hearing.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

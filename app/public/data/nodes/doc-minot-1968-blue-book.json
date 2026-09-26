@@ -41,6 +41,7 @@
 "label": "Minot AFB B-52 incident, 24 October 1968",
 "note": "Werlich's Basic Reporting Data, the FTD final report, seven AF Form 117 questionnaires, thirteen radarscope photographs and the overlay map.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "investigated"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Project Blue Book",
 "note": "The final case report of 13 November 1968 is the FTD's conclusions on the data submitted from Minot.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

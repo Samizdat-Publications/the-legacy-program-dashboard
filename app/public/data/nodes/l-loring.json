@@ -53,6 +53,7 @@
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "note": "Subject line 'AFB Penetration'; Loring AFB Maine named in paragraph 1.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "note": "The NMCC memorandum names Loring AFB, Maine by name in its first numbered paragraph.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "The NMCC memorandum records SAC informing NORAD of the penetration and the SAC Command Center reporting back on the failed National Guard search, citing SAC CP OPS CONTROL 291954Z OCT 75.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

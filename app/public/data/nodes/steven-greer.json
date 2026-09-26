@@ -128,6 +128,7 @@
 "label": "Daniel P. Sheehan",
 "note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -138,7 +139,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -154,6 +155,7 @@
 "label": "The Disclosure Project",
 "note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -180,6 +182,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -206,6 +209,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is also the interviewer in every transcript, printed as 'SG', and his editorial interjections appear inside the witness text marked 'SG]'. This edge is the structural reason the document caps at Tier 2 for content.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -232,6 +236,7 @@
 "label": "John D. Podesta",
 "note": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,7 +247,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -258,6 +263,7 @@
 "label": "Mark McCandlish",
 "note": "Greer is the Briefing Document's named compiler and writes the bracketed editorial notes, signed 'SG', that cross-reference the McCandlish testimony to the Lt Col John Williams testimony on Norton AFB.",
 "predicate": "told",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -268,7 +274,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -284,6 +290,7 @@
 "label": "Michael Herrera",
 "note": "Custody of the DOCUMENT, not of material. Burlison said on the record that the testimony 'was given to me by Dr. Steven Greer'.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -310,6 +317,7 @@
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -336,6 +344,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -362,6 +371,7 @@
 "label": "Will Miller",
 "note": "The notes place Miller with Greer and Mitchell at the April 1997 Pentagon talk and record that Miller told Greer what Wilson had said.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

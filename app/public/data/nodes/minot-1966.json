@@ -41,6 +41,7 @@
 "label": "Minot AFB, North Dakota",
 "note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Robert L. Hastings",
 "note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

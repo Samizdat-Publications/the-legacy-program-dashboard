@@ -72,6 +72,7 @@
 "label": "House Armed Services Committee",
 "note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,6 +99,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,7 +110,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -124,6 +126,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

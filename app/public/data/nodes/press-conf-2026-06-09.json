@@ -41,6 +41,7 @@
 "label": "David Charles Grusch",
 "note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "featured"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 2,
@@ -72,6 +73,7 @@
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,6 +105,7 @@
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

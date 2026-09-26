@@ -107,6 +107,7 @@
 "label": "Big Sur missile-test filming, September 1964",
 "note": "THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -138,6 +139,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -164,6 +166,7 @@
 "label": "Kingston A. George",
 "note": "TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -190,6 +193,7 @@
 "label": "Vandenberg Space Force Base, California",
 "note": "His own published statement of his post, independently confirmed as to unit and role by the project engineer.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

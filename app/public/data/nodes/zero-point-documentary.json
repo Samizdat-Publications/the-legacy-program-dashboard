@@ -73,6 +73,7 @@
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "A later carrier rather than a source. The film itself was not opened; the node rests on the Vimeo channel, the arvp.co.uk link and the user-maintained IMDb listing. Written as 'investigative' because 'media' is not one of this board's edge types.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +105,7 @@
 "label": "Mark McCandlish",
 "note": "The dossier and the session ruling call this a media edge; 'media' is not one of this board's twelve edge types, so it is written as 'investigative', the type the board already uses for a media node covering a subject. IMDb credits him as 'Self - Guest', the only listed cast member.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +121,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "reported on"
+"verb": "linked through media coverage"
 }
 ],
 "coords": null,

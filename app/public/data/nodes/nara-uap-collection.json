@@ -275,6 +275,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO's UAP Records page links first to the National Archives collection, and the Department states AARO has made progress transferring records in accordance with federal law.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -306,6 +307,7 @@
 "label": "AARO JWICS case management system (sources sought, May 2025)",
 "note": "Hosting the consolidated UAP case record on JWICS places it at Top Secret/SCI by default, which is a structural obstacle to transfer that neither the FY2024 NDAA nor the 2026 directives address.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -321,7 +323,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -337,6 +339,7 @@
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "COMPARISON EDGE — no institutional contact between the Arquivo Nacional and NARA is claimed or evidenced. Brazil: from 2007 the Comando da Aeronáutica began sending its holdings to the Arquivo Nacional of its own motion, producing the Fundo Objeto Voador Não Identificado – OVNI (BR DFANBSB ARX), 743 registros, served online, with the service publicly disclaiming further competence. The United States: the UAP Records Collection in Record Group 615 exists only because sections 1841–1843 of Public Law 118-31 ordered it into being, with a statutory transfer deadline and with the independent review board stripped out in conference. Same archival endpoint, opposite mechanism — one service handed its record over, the other had to be legislated at. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -388,6 +391,7 @@
 "label": "Bolender Memorandum",
 "note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -403,7 +407,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "does not include"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -419,6 +423,7 @@
 "label": "Central Intelligence Agency",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. CIA, which holds documented UAP equity, transferred nothing.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -429,7 +434,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -445,6 +450,7 @@
 "label": "United States Department of Homeland Security",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -471,6 +477,7 @@
 "label": "Defense Intelligence Agency",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -497,6 +504,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -512,7 +520,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "leaves out"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -528,6 +536,7 @@
 "label": "United States Department of Energy",
 "note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -554,6 +563,7 @@
 "label": "Department of War release of UAP files",
 "note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -574,7 +584,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -590,6 +600,7 @@
 "label": "Federal Aviation Administration",
 "note": "The FAA's transferred UAP records sit in Record Group 615 as series NAID 493468575, one of eight agency series NARA lists in the collection.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -621,6 +632,7 @@
 "label": "FBI Records: The Vault - UFO collection",
 "note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -631,7 +643,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "succeeded"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 3,
@@ -647,6 +659,7 @@
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -662,7 +675,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -678,6 +691,7 @@
 "label": "Information Security Oversight Office",
 "note": "NARA hosts both the statutory UAP collection and the Information Security Oversight Office, the body responsible to the President for the classification system.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -693,7 +707,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -709,6 +723,7 @@
 "label": "National Archives and Records Administration",
 "note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -740,6 +755,7 @@
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "The surviving remnant of the Schumer-Rounds UAP Disclosure Act. The 24 April 2025 release drew records from ODNI, OSD, the FAA and the NRC, with rolling additions - the statutory machinery any executive declassification directive must eventually run through.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -776,6 +792,7 @@
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -807,6 +824,7 @@
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -833,6 +851,7 @@
 "label": "National Geospatial-Intelligence Agency",
 "note": "ODNI named NGA as a contributor of UAP reporting in June 2021; NARA's April 2025 transfer list does not include NGA, CIA, NSA, NRO, DIA, DOE or DHS.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -864,6 +883,7 @@
 "label": "National Reconnaissance Office",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -890,6 +910,7 @@
 "label": "National Security Agency",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NSA, which holds documented UAP equity, transferred nothing.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -900,7 +921,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -916,6 +937,7 @@
 "label": "Office of the Director of National Intelligence",
 "note": "NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -952,6 +974,7 @@
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The memorandum's distribution list includes CIA, DIA, NRO, NGA, DOE and every military department - none of which has a series in Record Group 615. The same agencies are simultaneously addressees of a UAP release directive and absentees from the statutory collection.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -967,7 +990,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -983,6 +1006,7 @@
 "label": "Project Blue Book",
 "note": "Approximately 42 cubic feet of Blue Book material on 94 rolls of microfilm (T-1206) sits alongside the new RG 615 accessions; NARA states no Blue Book document discusses Roswell.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1014,6 +1038,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "PURSUE publishes at will through the Secretary's website with no FOIA case numbers or exemption citations, while the statutory NARA collection publishes no compliance accounting - neither channel can be audited.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -1045,6 +1070,7 @@
 "label": "The annual DoD special access program report to Congress",
 "note": "Sections 1841-1843 of Public Law 118-31 require transmission of UAP records regardless of classification; the annual SAP report and waived-program list are agency records that would fall within the definition if UAP-related.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1055,7 +1081,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -1071,6 +1097,7 @@
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "The task force's declared remit is federal secrecy generally; the agencies absent from RG 615 - CIA, DIA, NRO, NGA, DOE - are the same agencies whose other files it has pursued.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1086,7 +1113,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -1102,6 +1129,7 @@
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The amendment requires agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline and creates a Senate-confirmed Records Review Board with subpoena authority.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1138,6 +1166,7 @@
 "label": "United States Senate",
 "note": "The collection is the surviving remnant of the Schumer-Rounds UAP Disclosure Act after the review board and eminent domain provisions were removed in conference.",
 "predicate": "created",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1148,7 +1177,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "was created by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -1164,6 +1193,7 @@
 "label": "United States Air Force",
 "note": "94 rolls of 35mm microfilm, T-1206, permanently transferred to NARA - the Air Force is the one agency whose UFO records were fully accessioned, and they stop in 1969.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

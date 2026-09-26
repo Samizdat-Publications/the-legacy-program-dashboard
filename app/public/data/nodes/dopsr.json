@@ -53,6 +53,7 @@
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017 — consistent with the form's 'not for publication' framing.",
 "predicate": "requested",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "received a request from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
 "note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +112,7 @@
 "label": "Imminent: Inside the Pentagon's Hunt for UFOs",
 "note": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental determination that the assertions are not classified.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -120,7 +123,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "investigated"
+"verb": "linked through oversight"
 }
 ],
 "coords": null,

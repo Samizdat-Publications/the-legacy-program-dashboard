@@ -62,6 +62,7 @@
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -88,6 +89,7 @@
 "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
 "note": "Each National Archives UFO release page credits Dr David Clarke's guide and carries his videocast or podcast.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

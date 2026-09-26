@@ -41,6 +41,7 @@
 "label": "David Charles Grusch",
 "note": "Ryan Graves named Boeing contractors as witnesses to the 2003 Vandenberg event, and Rep. Ocasio-Cortez used that to open the contractor line with Grusch, who described the metal benders doing specific performance on government contracts and IR&D as the unreported funding channel. Reasoning: Grusch named no company; the connection is the hearing's own sequence, not an attribution.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Ryan Graves described the incident in 2023 and Jeffrey Nuccetelli, who investigated it, testified to it in 2025. Rep. Ocasio-Cortez used the detail to open the question of contractor reporting obligations, and Grusch answered that none exist.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +84,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -98,6 +100,7 @@
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -124,6 +127,7 @@
 "label": "McDonnell Douglas Corporation",
 "note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

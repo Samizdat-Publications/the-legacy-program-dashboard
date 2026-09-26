@@ -119,6 +119,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Confirms the $22M, the Reid direction, the contractor's UFO work and the ranch — then terminates the story with 'concerns about the project' and names no one.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -129,7 +130,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is left out of"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -145,6 +146,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "",
 "predicate": "same_as",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -171,6 +173,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.",
 "predicate": "same_as",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -186,7 +189,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is the same as"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -202,6 +205,7 @@
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -228,6 +232,7 @@
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -243,7 +248,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "contracted"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -259,6 +264,7 @@
 "label": "AAWSAP Defense Intelligence Reference Document series",
 "note": "Each released DIRD states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program'.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -290,6 +296,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -316,6 +323,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -331,7 +339,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "contracted"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -347,6 +355,7 @@
 "label": "Claudio Maccone",
 "note": "Credited with one of the 38 AAWSAP deliverables, 'An Introduction to the Statistical Drake Equation', dated 11 March 2010, whose released text names AAWSAP. Maccone is the only foreign-based academic on the author list alongside Ulf Leonhardt at St Andrews. Tier 2 because the released document's 'Author' field is redacted under FOIA exemption (b)(6); the attribution comes from the separate list of deliverables DIA transmitted to Congress, not from the document itself.",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -383,6 +392,7 @@
 "label": "Colm A. Kelleher",
 "note": "Kelleher ran the operational science side of the contract that produced the DIRD series, having previously managed NIDS field investigations for the same principal, Robert Bigelow.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -414,6 +424,7 @@
 "label": "Funding Channels",
 "note": "Roughly $22 million was placed in the classified defense appropriation at the direction of Senate leadership and spent through DIA solicitation HHM402-08-R-0211 and the resulting prime contract. AAWSAP is therefore the domain's proof of concept: it establishes that money for exactly this subject can and did move through the classified channel, and that it becomes visible only when a contract number surfaces.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -455,6 +466,7 @@
 "label": "Defense Intelligence Agency",
 "note": "DIA's Defense Warning Office housed the program office and its Virginia Contracting Activity issued the solicitation and award.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -481,6 +493,7 @@
 "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -512,6 +525,7 @@
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -543,6 +557,7 @@
 "label": "Aerospace Applications of Programmable Matter",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -574,6 +589,7 @@
 "label": "An Introduction to the Statistical Drake Equation",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -605,6 +621,7 @@
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -641,6 +658,7 @@
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -672,6 +690,7 @@
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -703,6 +722,7 @@
 "label": "Antigravity for Aerospace Applications",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -734,6 +754,7 @@
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "The document's own administrative note states it 'is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program', with comments directed to the AAWSA Program Manager, DIA, Bldg 6000, Washington DC 20340-5100. Hal Puthoff, subcontracting to BAASS through EarthTech International, has stated he let the 38 contracts himself, acting as a surrogate so DIA would not have to expose its interest.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -770,6 +791,7 @@
 "label": "Cockpits in the Era of Breakthrough Flight",
 "note": "The cover carries DIA-08-1011-002, 1 November 2010, ICOD 8 July 2010, under the 'Defense Futures' banner. The administrative note confirms the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program. The shift from 'Acquisition Threat Support' to 'Defense Futures' across the later 2010 deliverables marks a change in the DIA office of record, from the Acquisition Support Division (DWO-3) to the Technology Warning Division (DWO-4) of the Defense Warning Office.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -806,6 +828,7 @@
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -842,6 +865,7 @@
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -878,6 +902,7 @@
 "label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -914,6 +939,7 @@
 "label": "High-Frequency Gravitational Wave Communications",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
 "predicate": "funded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -939,7 +965,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "funded"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -955,6 +981,7 @@
 "label": "Inertial Electrostatic Confinement Fusion",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -996,6 +1023,7 @@
 "label": "Invisibility Cloaking: Theory and Experiments",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1037,6 +1065,7 @@
 "label": "Laser Lightcraft Nanosatellites",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1068,6 +1097,7 @@
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
 "note": "The document's administrative note states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency [redacted] Advanced Aerospace Weapon System Applications (AAWSA) Program'. Issued as DIA-08-1003-017 on 30 March 2010, ICOD 1 December 2009. It is not a physics paper: it is a research-culture argument about whether breakthrough invention originates with lone inventors or corporate laboratories, which is the clearest single illustration of how loosely the DIRD mandate was drawn in practice.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1099,6 +1129,7 @@
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1130,6 +1161,7 @@
 "label": "Negative Mass Propulsion",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1161,6 +1193,7 @@
 "label": "Positron Aerospace Propulsion",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1197,6 +1230,7 @@
 "label": "Pulsed High-Power Microwave Source Technology",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1233,6 +1267,7 @@
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1264,6 +1299,7 @@
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1300,6 +1336,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "The DIRDs are the contract's deliverables. DIA Talking Paper U-973-09 records that the RFP broke the work into twelve technical areas - lift, propulsion, control, armament, signature reduction and the rest - and the Defense Intelligence Reference Documents are the products those areas were delivered as. Every one of the 32 series-member edges was verified against the released PDF's cover page on 22 August 2026.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1331,6 +1368,7 @@
 "label": "Space Access: Where We've Been and Where We Could Go",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1362,6 +1400,7 @@
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1398,6 +1437,7 @@
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1429,6 +1469,7 @@
 "label": "The Role of Superconductors in Gravity Research",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1460,6 +1501,7 @@
 "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1491,6 +1533,7 @@
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1532,6 +1575,7 @@
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1563,6 +1607,7 @@
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1599,6 +1644,7 @@
 "label": "Friedwardt Winterberg",
 "note": "Credited with two of the 38 AAWSAP deliverables: 'Advanced Nuclear Propulsion for Manned Deep Space Missions' (11 March 2010) and 'Negative Mass Propulsion' (3 January 2011, DIA-08-1101-023). Both released texts name AAWSAP. The work was contracted through the DIA/BAASS chain, not performed as a DIA employee. Tier 2: both documents have their 'Author' field redacted under FOIA exemption (b)(6), so the attribution rests on DIA's separate list of deliverables.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1635,6 +1681,7 @@
 "label": "Harry M. Reid",
 "note": "",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1661,6 +1708,7 @@
 "label": "Harry M. Reid",
 "note": "He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1692,6 +1740,7 @@
 "label": "James T. Lacatski",
 "note": "",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1702,7 +1751,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -1718,6 +1767,7 @@
 "label": "James T. Lacatski",
 "note": "Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1744,6 +1794,7 @@
 "label": "Jay Stratton",
 "note": "Direct personnel continuity from the 2008 DIA contract to the organisation that produced the 2021 ODNI assessment.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1754,7 +1805,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -1770,6 +1821,7 @@
 "label": "Jesse Michels",
 "note": "Davis's AAWSAP clearances and DIA deputisation are the credential on which the episode's authority rests.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1796,6 +1848,7 @@
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1811,7 +1864,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -1827,6 +1880,7 @@
 "label": "KONA BLUE",
 "note": "AARO describes KONA BLUE as a proposed UAP recovery and reverse-engineering SAP at DHS, rejected by DHS leadership; the same personnel and subject matter as AAWSAP.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1853,6 +1907,7 @@
 "label": "KONA BLUE",
 "note": "AARO records that when DIA cancelled AAWSAP/AATIP in 2012, 'its supporters proposed to DHS that they create and fund a new version' to restart UAP investigations and 'reverse-engineer any recovered off-world spacecraft'.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1863,7 +1918,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "was succeeded by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -1879,6 +1934,7 @@
 "label": "Las Vegas, Nevada",
 "note": "AAWSAP was performed by BAASS out of Robert Bigelow's Nevada base rather than from Washington, which is what puts this programme on a map of southern Nevada at all. Two limits keep it at tier 2. The federal award system places BIGELOW AEROSPACE LLC at North Las Vegas - a separate municipality from Las Vegas - on NASA contracts, not on the DIA contract; and searches of USASpending for 'Bigelow Aerospace Advanced Space Studies' and for 'BAASS' both return nothing, so the AAWSAP contract is not in the public award record under either name.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1915,6 +1971,7 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "Reid and Sen. Ted Stevens secured roughly $22 million in Defense appropriations after Bigelow relayed Lacatski's ranch experience. BAASS, headquartered in Las Vegas, won the contract.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1930,7 +1987,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -1946,6 +2003,7 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "AARO confirms the investigation; DIA says it cannot locate the resulting 'Utah Ranch Investigation: August 2009-February 2010' report.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1977,6 +2035,7 @@
 "label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
 "note": "If accurate, the released deliverable set is a small fraction of what the appropriation produced, and the rest has no public custody trail.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -2003,6 +2062,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "This is the structural pivot of the era: capability was privatised in 1995 and re-acquired by contract in 2008, meaning the government never had to stand up an acknowledged office.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -2023,7 +2083,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "succeeded"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -2039,6 +2099,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The 16 December 2017 story named the program, the $22M, Reid and Bigelow, and forced DIA to write the Senate Armed Services Committee three weeks later.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -2065,6 +2126,7 @@
 "label": "Operação Prato (Operation Saucer)",
 "note": "Chapter fifteen of Lacatski, Kelleher and Knapp's 'Inside the U.S. Government Covert UFO Program: Initial Revelations' describes the Project Colares database as a 'Data base containing all UAP sighting events related to the 1977-1978, Colares, Brazil, UAP flap. Total records 346. Event timeline 1977-1978.' The CAPELLA data warehouse, conceived by Jacques Vallee, held eleven data sets of which one was titled 'Brazil'. Tier 2: book-sourced, quoted by a named researcher; no contract document or DIA record obtained in this pass. This is the strongest outward link the Brazilian cluster has — the American programme did not ignore the Brazilian record, it ingested it.",
 "predicate": "studied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -2106,6 +2168,7 @@
 "label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
 "note": "AARO's official history places AAWSAP (2009-2012), also known as AATIP, directly downstream of Reid's direction and the resulting DIA appropriation, and records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program - a request Lynn declined on the recommendation of Under Secretary of Defense for Intelligence James R. Clapper, Jr. Tier 2: AARO is an interested party in its own history.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -2137,6 +2200,7 @@
 "label": "Vincent L. Teofilo",
 "note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either.",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -2173,6 +2237,7 @@
 "label": "Wil McCarthy",
 "note": "Credited with one of the 38 AAWSAP deliverables, 'Aerospace Applications of Programmable Matter' (14 December 2009, DIA-08-0911-016), contracted through The Programmable Matter Corporation. The released text names AAWSAP. Tier 2 because the 'Author' field is redacted under FOIA exemption (b)(6) and the attribution comes from DIA's separate list.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -2193,7 +2258,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "contracted"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -2209,6 +2274,7 @@
 "label": "William Culbreth",
 "note": "Credited with two of the 38 AAWSAP deliverables: 'Aneutronic Fusion Propulsion II' (1 November 2010) and 'Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities' (20 November 2010, DIA-08-1012-001). Both released texts name AAWSAP. Culbreth was based at the University of Nevada, Las Vegas, the same city as the prime contractor BAASS. Tier 2: both documents redact their 'Author' field under FOIA exemption (b)(6), so the attribution rests on DIA's separate list of deliverables.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

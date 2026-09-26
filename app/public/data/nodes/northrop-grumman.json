@@ -41,6 +41,7 @@
 "label": "Eric Burlison",
 "note": "Same statement of 14-16 May 2026.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "National Security Technologies LLC succeeded Bechtel Nevada, inheriting the Remote Sensing Laboratory, the Special Technologies Laboratory and the classified support infrastructure adjacent to Groom Lake.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -124,6 +127,7 @@
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -134,7 +138,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -150,6 +154,7 @@
 "label": "The MITRE Corporation",
 "note": "Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -160,7 +165,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -176,6 +181,7 @@
 "label": "Northrop TACIT BLUE",
 "note": "The fact sheet names 'the Northrop Corp.'; the board's existing node is northrop-grumman, the successor entity after the 1994 merger, and the edge is wired to it on that basis.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -202,6 +208,7 @@
 "label": "TRW Inc.",
 "note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -119,6 +119,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The hearing is the fixed, dateable event at which the Immaculate Constellation document entered the record.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,6 +146,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -186,6 +188,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -227,6 +230,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -258,6 +262,7 @@
 "label": "Jesse Michels",
 "note": "Published 14 November 2024, recorded immediately after the 13 November hearing; 203,593 views. Michels was the first long-form venue for Shellenberger's account of the document.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

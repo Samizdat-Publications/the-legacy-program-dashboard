@@ -47,6 +47,7 @@
 "label": "PURSUE Release 03",
 "note": "A version of the Agency's own foundational UAP document less redacted than the one in its public reading room appeared seventy-three years later, by executive direction.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "PURSUE Release 05",
 "note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "leaves out"
+"verb": "linked through a denial"
 }
 ],
 "coords": null,

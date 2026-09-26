@@ -29,6 +29,7 @@
 "label": "Jared Evan Moskowitz",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -55,6 +56,7 @@
 "label": "Timothy Floyd Burchett",
 "note": "Introduced 11 February 2025, the day the Task Force was announced.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

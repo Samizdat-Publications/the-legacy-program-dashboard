@@ -113,6 +113,7 @@
 "label": "Defense Intelligence Agency",
 "note": "The effort moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was consolidated as STAR GATE in 1991.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -139,6 +140,7 @@
 "label": "Harold E. Puthoff",
 "note": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -164,7 +166,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -180,6 +182,7 @@
 "label": "Harold E. Puthoff",
 "note": "Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -206,6 +209,7 @@
 "label": "James R. Clapper Jr.",
 "note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -232,6 +236,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -242,7 +247,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 3,
@@ -258,6 +263,7 @@
 "label": "Groom Lake, Nevada",
 "note": "Groom Lake ran 58 years to specific acknowledgement via FOIA; STAR GATE ran 25 years to bulk CREST publication in 2017. Reasoning: structural comparison of two documented concealment lifecycles.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -289,6 +295,7 @@
 "label": "SRI International, Menlo Park, California",
 "note": "SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -315,6 +322,7 @@
 "label": "The Monroe Institute",
 "note": "The memorandum names remote viewing as a follow-on technique inside the Gateway Experience and was written for USAINSCOM personnel required to take that training, which places the Institute's method inside the programme chain the STAR GATE node covers.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -325,7 +333,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -341,6 +349,7 @@
 "label": "Russell Targ",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -351,7 +360,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "had as a member"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -367,6 +376,7 @@
 "label": "SRI International (Stanford Research Institute)",
 "note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -398,6 +408,7 @@
 "label": "SUN STREAK",
 "note": "CIA compiled and released roughly 12,000 pages of the programme record in 1995 after the American Institutes for Research evaluation.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

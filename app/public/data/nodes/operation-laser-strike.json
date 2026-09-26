@@ -53,6 +53,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb is the investigator who brings Laser Strike to this corpus as the deployment framing for the Weygandt Peru account; the operation's own record says nothing about it.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

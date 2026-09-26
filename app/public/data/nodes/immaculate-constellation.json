@@ -83,6 +83,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, nor any of the five PURSUE tranches between 8 May and 7 August 2026, addresses a programme name that sits in the Congressional Record. Reasoning: review of the published AARO product set and release indexes.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +120,7 @@
 "label": "Independent media as the disclosure substrate",
 "note": "An alleged unacknowledged special access program entered the public record in October 2024 through an independent journalist and the Congressional Record on 13 November 2024, via written testimony and the House Oversight hearing transcript. Whatever the underlying report is worth, the path it travelled is the clearest single demonstration of how disclosure is now produced and distributed.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -150,6 +152,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "'The DOD has no record, present or historical, of any type of SAP called IMMACULATE CONSTELLATION.' Recorded as a denial artefact: a categorical statement about records, issued by a press office, about a program alleged to be unacknowledged.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -176,6 +179,7 @@
 "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
 "note": "Gallaudet concluded the recalled information 'must have been classified within a special access program managed by an intelligence agency'; at the same hearing Shellenberger described an alleged parent USAP consolidating UAP imagery collection.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -191,7 +195,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -207,6 +211,7 @@
 "label": "UAP Gerb - National Reconnaissance Office investigation",
 "note": "The most consequential single claim in the NRO investigation: that the NRO's Sentient program supplied tasked and untasked overhead collection to the USAP Immaculate Constellation, established 2017. This supplies a concrete collection pipeline for the programme Shellenberger entered into the congressional record in November 2024.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -233,6 +238,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The report was delivered, described under oath and entered into the record at this hearing.",
 "predicate": "same_as",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -248,7 +254,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is the same as"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -264,6 +270,7 @@
 "label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office",
 "note": "The alleged programme had been entered into the congressional record weeks earlier and described in an ODNI unclassified press item of 22 October 2024; AARO's director addressed the Senate six days after the House hearing without naming it.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -295,6 +302,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "The twelve-page report is the physical artefact of the disclosure; it has never been located as a retrievable primary file at a stable public URL.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -321,6 +329,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Shellenberger described the program in the document as 'a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -352,6 +361,7 @@
 "label": "Colorado Springs, Colorado",
 "note": "A self-identified whistleblower said in 2025 he located the material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed the claimant had mistaken wargame documents for UFO revelations. Schriever Space Force Base is at Colorado Springs.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -362,7 +372,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "happened at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -378,6 +388,7 @@
 "label": "Luis D. Elizondo",
 "note": "Asked by Mace whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph - which is not a denial.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -404,6 +415,7 @@
 "label": "Micah Hanks",
 "note": "The Debrief's 17 October 2024 piece framed the programme as an open question - 'UAP Bombshell or Disinformation?' - and predates the congressional submission by four weeks.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -430,6 +442,7 @@
 "label": "Michael Shellenberger",
 "note": "On 13 November 2024 Shellenberger testified to a House Oversight subcommittee and submitted a twelve-page report, sourced to an alleged insider, describing an unacknowledged special access program collecting UAP data outside acknowledged reporting channels.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -471,6 +484,7 @@
 "label": "Nancy Ruth Mace",
 "note": "Mace announced from the dais that committee staff had asked her to enter the document; it appears in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -497,6 +511,7 @@
 "label": "NewsNation",
 "note": "NewsNation ran explainer and news coverage of the alleged unacknowledged special access program named in the whistleblower brief that Michael Shellenberger delivered to Congress in autumn 2024.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -528,6 +543,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Shellenberger's whistleblower alleges DoD created Immaculate Constellation in 2017 after the New York Times published on AATIP. The claim is attributed, not documented.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -538,7 +554,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -554,6 +570,7 @@
 "label": "Public",
 "note": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -590,6 +607,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "Kirkpatrick, AARO's first director, has publicly denied the existence of Immaculate Constellation. He left AARO in December 2023, before the report surfaced.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -616,6 +634,7 @@
 "label": "Susan Gough",
 "note": "Pentagon spokesperson Sue Gough has stated the Department has 'no record' of such a programme. The Department has not stated that the programme does not exist.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -626,7 +645,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 }
 ],
 "coords": null,

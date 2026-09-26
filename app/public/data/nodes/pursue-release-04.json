@@ -47,6 +47,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Release 04 material was characterised as consistent with balloons or sensor artefacts and as not clear evidence of unknown aircraft, reverting to the AARO idiom the release programme had disclaimed.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -78,6 +79,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "227MB of documents and 1.4GB of video spanning the 1940s to 2026, published without any stated file count.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -109,6 +111,7 @@
 "label": "war.gov/UFO release portal",
 "note": "Releases 01, 02, 03 and 05 have published file counts; Release 04 has none on the portal or in independent inventories.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -124,7 +127,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "is left out of"
+"verb": "linked through a denial"
 }
 ],
 "coords": null,

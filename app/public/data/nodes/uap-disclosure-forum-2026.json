@@ -35,6 +35,7 @@
 "label": "Eric Burlison",
 "note": "Jordan Flowers credited Burlison with shaking the artifact loose: 'He's stopped asking politely.'",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -45,7 +46,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "featured"
+"verb": "linked through media coverage"
 }
 ],
 "coords": null,

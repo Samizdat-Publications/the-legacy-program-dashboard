@@ -53,6 +53,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Frost used his round on the scientific and stigma dimension: NASA's independent study team, the Galileo Project, whether military pilots feeling empowered to speak had shifted scientific research goals, and how Congress might connect scientists to the government's UAP work. He closed: 'I think it is important that we keep our top scientific minds focused on this issue and look for ways to increase collaboration.'",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -68,7 +69,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "oversaw"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -84,6 +85,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +112,7 @@
 "label": "Ryan Graves",
 "note": "Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

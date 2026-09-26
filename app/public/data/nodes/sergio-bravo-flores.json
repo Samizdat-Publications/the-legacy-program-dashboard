@@ -56,6 +56,7 @@
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "SEFAA's history places the origin of official Chilean UAP reporting with Bravo Flores at the Meteorological Office in 1968.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -66,7 +67,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "founded"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -82,6 +83,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "SEFAA records that part of the dozen reports gathered were sent to the University of Colorado, where the commission later known as the Condon Committee was working.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

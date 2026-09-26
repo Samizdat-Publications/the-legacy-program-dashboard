@@ -59,6 +59,7 @@
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "DoDI 5205.11 Enclosure 3 para 3: 'Unanimous recommendations of the SRG may be forwarded directly to the DepSecDef for decision.'",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

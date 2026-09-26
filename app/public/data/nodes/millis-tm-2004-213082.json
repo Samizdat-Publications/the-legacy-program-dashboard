@@ -65,6 +65,7 @@
 "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
 "note": "DELIBERATELY NOT A DENIAL EDGE. NASA does not contradict the paper; it agrees with it and restates its requirement in engineering terms. Section 3.3.1: these concepts 'require enormous quantities of \"negative energy\" (equivalent mass of planets or suns)' and are 'extremely unlikely to be engineered'. Alcubierre's own abstract says exotic matter will be needed. Writing this as a denial would misrepresent both documents.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
 "note": "Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "Exotic Technology & Physics",
 "note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
 "predicate": "studied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -148,6 +151,7 @@
 "label": "Marc G. Millis",
 "note": "AUTHORSHIP IS research AND NOT custody on this board: custody carries a x3.0 programme weighting and an author is not a custodian. He wrote the document; he did not hold it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -174,6 +178,7 @@
 "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "note": "A document about a programme. Its abstract states the three grand challenges and the outcome of sixteen incremental research tasks.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -200,6 +205,7 @@
 "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "note": "STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -210,7 +216,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -226,6 +232,7 @@
 "label": "Thomas Townsend Brown",
 "note": "EXPLICIT DENIAL EDGE, AND ITS SCOPE MUST NOT BE OVERSTATED. Section 3.2.7: 'To date, all rigorous experimental tests indicate that the observed thrust is attributable to ion wind... These \"Biefeld-Brown,\" \"Lifter\" and \"Asymmetrical Capacitor Thrusters\" are not viable candidates for breakthrough physics propulsion.' THIS IS A FINDING ABOUT THE EFFECT AND THE DEVICES BUILT ON IT. It is NOT a finding about what Brown's patents claim, because neither patent ever claimed anti-gravity: the word 'gravity' appears zero times in both. The denial lands on the electrogravitic reading of the effect, not on the inventor's own text.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

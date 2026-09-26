@@ -41,6 +41,7 @@
 "label": "Citizens Against UFO Secrecy (CAUS)",
 "note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -72,6 +73,7 @@
 "label": "National Security Agency",
 "note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "Yeates Affidavit (NSA, 1980)",
 "note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

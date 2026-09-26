@@ -29,6 +29,7 @@
 "label": "Independent media as the disclosure substrate",
 "note": "The Hill is read by congressional staff and has carried sustained UAP coverage and opinion aimed at that readership - the January 2024 classified briefing, the fight over the UAP amendment's inclusion in the FY2024 defence bill, and continuing coverage of Grusch. Graded Tier 2 because the sourced record shows placement and coverage, not original documentary investigation.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -60,6 +61,7 @@
 "label": "David Charles Grusch",
 "note": "The Hill has carried repeated reporting on Grusch's claims and on lawmakers' efforts to get him into a classified setting, including 'Congress continues to seek answers on UFOs' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,6 +93,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline 'House panel hears of hidden UAP trove, secretive arms race', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR's same-day report.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,6 +130,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The Hill covered House members demanding transparency from leadership over whether the UAP Disclosure Act amendment would be retained in the FY2024 National Defense Authorization Act. The article page could not be retrieved directly (the site blocked automated fetch), so this edge rests on the indexed headline and URL rather than a verified full text; date left null for that reason.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -137,7 +141,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "reported on"
+"verb": "linked through media coverage"
 }
 ],
 "coords": null,

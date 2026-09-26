@@ -153,6 +153,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Direct personnel continuity from the 2008 DIA contract to the organisation that produced the 2021 ODNI assessment.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,7 +164,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -179,6 +180,7 @@
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "Stratton, former director of the government's UAP Task Force, is named in the film's promotional materials as a participant.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -205,6 +207,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch swore that in 2019 'the UAP Task Force Director asked me to identify all special access programs and controlled access programs... we needed to satisfy our congressionally mandated mission.' Stratton is the individual publicly identified as directing that effort in that period. Grusch has never made the identification himself, so this is a reasoned inference, not a documented one.",
 "predicate": "requested",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -220,7 +223,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "made a request of"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 2,
@@ -236,6 +239,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch testified under oath that the UAP Task Force Director gave him this tasking and that the read-ons were then refused. Stratton is the publicly identified holder of that post.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -262,6 +266,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Stratton is publicly identified as UAPTF director in its operative period, including in his own public statements and in the 2024 announcement of his memoir.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -288,6 +293,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The AAWSAP alumnus who took the subject back inside government after the 2017 disclosure.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

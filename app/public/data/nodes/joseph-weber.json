@@ -38,6 +38,7 @@
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
 "predicate": "in_contact_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -48,7 +49,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was in contact with"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -64,6 +65,7 @@
 "label": "Louis Witten",
 "note": "Both are printed on the same forty-six-name participants list.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -74,7 +76,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 }
 ],
 "date": "1957-01-18",

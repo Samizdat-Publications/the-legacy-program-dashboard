@@ -41,6 +41,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO assembled and published a full KONA BLUE release while publishing no comparable package for the IC controlled access programme Volume I concedes was expanded in 2021 to a UAP reverse-engineering mission.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "United States Department of Homeland Security",
 "note": "The paper 'History and Origin of KONA BLUE' is published on AARO's UAP Records page as a joint AARO/DHS product.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -53,6 +53,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The establishment memorandum directed USD(I&S) to establish the office and placed AARO in that chain until summer 2023.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Program structure and organisational mapping",
 "note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -115,6 +117,7 @@
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 assigns SAP policy responsibilities across OSD principals including the Under Secretary of Defense for Intelligence and Security, while vesting central management in DoD SAPCO under DEPSECDEF.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,7 +128,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "oversaw"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -141,6 +144,7 @@
 "label": "Luis D. Elizondo",
 "note": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -172,6 +176,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -182,7 +187,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -198,6 +203,7 @@
 "label": "Neill Tipton",
 "note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -224,6 +230,7 @@
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -234,7 +241,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 }
 ],
 "coords": null,

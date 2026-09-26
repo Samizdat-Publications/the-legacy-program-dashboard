@@ -41,6 +41,7 @@
 "label": "Irvin Charles McCullough III",
 "note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch testified he 'became a whistleblower through a PPD-19 urgent concern filing in May 2022 with the intelligence community inspector general.' The Debrief dates the filing 25 May 2022 and identifies counsel.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "The Gang of Eight and the limited-notification convention",
 "note": "The ICIG PPD-19 route reaches the intelligence committees, but access to waived DoD programs is restricted by DoDD 5205.07 (2010) para 4.f to chairs, ranking members and staff directors.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -124,6 +127,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "The ICIG found the complaint credible and urgent in July 2022; Grusch testified publicly in July 2023 only after leaving government and clearing his statements through DOPSR. The intervening year is the period the reprisal complaint covers.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -155,6 +159,7 @@
 "label": "Inspector General of the Intelligence Community",
 "note": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -58,6 +58,7 @@
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "National Security Engineering Center (NSEC)",
 "note": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
 "predicate": "led",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led"
+"verb": "linked through a role"
 }
 ],
 "date": "2026-05-22",

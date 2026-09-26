@@ -47,6 +47,7 @@
 "label": "Controlled Disclosure Campaign Plan",
 "note": "The Controlled Disclosure Campaign Plan exists only as a Review Board product; removing the Board removed the Plan.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "House Permanent Select Committee on Intelligence",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Michael R. Turner",
 "note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
 "predicate": "acted_against",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was the target of action by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -130,6 +133,7 @@
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -145,7 +149,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -161,6 +165,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The Act's enforcement rests entirely on the Review Board: it orders disclosure absent clear and convincing evidence and examines recovered material under Sec. 9010(b).",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

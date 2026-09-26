@@ -65,6 +65,7 @@
 "label": "Official Denial",
 "note": "The published report calls him only an employee of the Department of the Army and attaches a footnote saying the few remaining Agency records indicate he may have had a history of emotional instability.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Litigation",
 "note": "The District of Columbia granted the Government's motion to dismiss without reaching the merits, while recording that the public record supports many of the allegations pleaded.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,6 +119,7 @@
 "label": "Gerald R. Ford",
 "note": "Ford signed S. 3035 paying the widow and three children $187,500 each in full settlement, and said his administration had supported $1,250,000 and would support further relief legislation.",
 "predicate": "responded_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -143,6 +146,7 @@
 "label": "Project MKULTRA",
 "note": "DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,6 +173,7 @@
 "label": "Sidney Gottlieb",
 "note": "The Church Committee text reprinted in the 1977 hearing print states the drug was placed in the bottle by Robert Lashbrook as part of an experiment he and Sidney Gottlieb performed at a meeting of Army and CIA scientists.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

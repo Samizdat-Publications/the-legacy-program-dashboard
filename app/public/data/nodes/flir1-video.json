@@ -41,6 +41,7 @@
 "label": "Chad Underwood",
 "note": "Consistently reported since 2019 and never disputed by the Navy or Fravor, but not anchored to a primary record in this pass.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 3,
@@ -67,6 +68,7 @@
 "label": "Chad Underwood",
 "note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +84,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -98,6 +100,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,6 +132,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The DoD's own 2020 release statement acknowledges the videos circulated publicly after unauthorized disclosures in 2007 and 2017.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -47,6 +47,7 @@
 "label": "Air Force Office of Special Investigations",
 "note": "AFOSI is the Air Force's independent investigative agency with units 'located at most Air Force bases worldwide', covering espionage, terrorism and counterintelligence.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Air Force Research Laboratory",
 "note": "AFRL consolidated the Wright, Phillips, Rome and Armstrong laboratories and AFOSR at Wright-Patterson - the installation named in every retrieval account since 1947.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The title page names the command and the station, and the publication review is signed by the Center's Deputy Commander.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "Arthur E. Exon",
 "note": "He held the command as a United States Air Force officer, listed as a colonel in the Air Force's own installation-commander table.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -151,6 +155,7 @@
 "label": "Aurora (FY1986-FY1987 procurement line)",
 "note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -177,6 +182,7 @@
 "label": "Bell Aircraft Corporation",
 "note": "The 22 November 1955 article photographs Lawrence D. Bell with three named Air Force test pilots during the Bell X-2 programme.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -187,7 +193,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -203,6 +209,7 @@
 "label": "Big Sur missile-test filming, September 1964",
 "note": "Instrument owned by the Range Measurements Laboratory of the Air Force Eastern Test Range; nine of eleven Vandenberg launches covered; the resulting film classified Top Secret on a weapons-vulnerability rationale and later destroyed.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -229,6 +236,7 @@
 "label": "Bluegill Triple Prime",
 "note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -239,7 +247,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "ran"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -255,6 +263,7 @@
 "label": "Gen. Charles P. Cabell",
 "note": "Both FRUS persons lists give the office; the later volume dates it to 1953 within its own coverage. This is the office he held while Project Blue Book was created.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -281,6 +290,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "The termination decision rested on 'Scientific Study of Unidentified Flying Objects' and a National Academy of Sciences review of it.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -307,6 +317,7 @@
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -333,6 +344,7 @@
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "The history is an Air Force wing history and the release is an Air Force FOIA response.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -359,6 +371,7 @@
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "The same memorandum records that the officer contacted at the Office of the Secretary of the Air Force Information Service wanted the letters forwarded to him to answer, that the Air Force was endeavouring to impress on Keyhoe and others that his office was the proper place to come for such information, and that the Air Force was most insistent on being permitted to answer.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -369,7 +382,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -385,6 +398,7 @@
 "label": "Edgar Fouche",
 "note": "Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -411,6 +425,7 @@
 "label": "Foreign Technology Division, Wright-Patterson AFB",
 "note": "AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -437,6 +452,7 @@
 "label": "Harry S. Truman",
 "note": "Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -463,6 +479,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -489,6 +506,7 @@
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -515,6 +533,7 @@
 "label": "Maryland Air National Guard flare statement, 26 July 1997",
 "note": "The statement is an Air National Guard one, made by a named unit spokesman about his own unit's sorties.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -525,7 +544,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -541,6 +560,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "94 rolls of 35mm microfilm, T-1206, permanently transferred to NARA - the Air Force is the one agency whose UFO records were fully accessioned, and they stop in 1969.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -567,6 +587,7 @@
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -593,6 +614,7 @@
 "label": "Northrop TACIT BLUE",
 "note": "The Air Force is both a programme partner and the author of the primary record, and the fact sheet is a claim about its own programme, which is exactly the case CLAUDE.md section 2 says is a primary record rather than an interested-party inference.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -619,6 +641,7 @@
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "The air show is an Air Force open house and is documented as such. The briefers inside the alleged exhibit are described only in the witness's words: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'. No Air Force record of the exhibit was opened.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -650,6 +673,7 @@
 "label": "Project Blue Book",
 "note": "The records were permanently transferred to NARA and are held as 94 rolls of 35mm microfilm, T-1206.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -660,7 +684,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -676,6 +700,7 @@
 "label": "Project Blue Book",
 "note": "12,618 sightings were reported to BLUE BOOK, of which 701 remain 'Unidentified'. The Secretary of the Air Force announced termination on 17 December 1969.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -702,6 +727,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "Asserted from the primary records themselves, which route SAC reporting through Air Force channels: the NMCC memorandum's distribution includes CSAF, and the 341st SMW history records SAC Headquarters tasking Ogden Air Materiel Area.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -733,6 +759,7 @@
 "label": "TR-AC-47, Joint ATIC-WADC Report on Project Silver Bug, 15 February 1955",
 "note": "Section II names Technical Requirement No. 3 of 13 August 1954 and the order to proceed of 29 December 1954, so the Air Force interest is dated by the document rather than inferred.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -759,6 +786,7 @@
 "label": "1127th USAF Field Activities Group",
 "note": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -41,6 +41,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO publishes analytic methodology continuously while withholding Volume II and its video holdings.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

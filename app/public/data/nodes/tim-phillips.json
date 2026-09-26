@@ -80,6 +80,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Phillips came to AARO on assignment from ODNI and ran the office between Kirkpatrick and Kosloski.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -106,6 +107,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Phillips conducted a private press briefing on 6 March 2024 and an on-record media engagement published by DoD on 8 March 2024.",
 "predicate": "released",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -116,7 +118,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "released"
+"verb": "linked through a document"
 }
 ],
 "date": "2024-03-08",

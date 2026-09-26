@@ -41,6 +41,7 @@
 "label": "Eric W. Davis",
 "note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -72,6 +73,7 @@
 "label": "Kirk McConnell",
 "note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,7 +89,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "reports to"
+"verb": "linked through oversight"
 }
 ],
 "coords": null,

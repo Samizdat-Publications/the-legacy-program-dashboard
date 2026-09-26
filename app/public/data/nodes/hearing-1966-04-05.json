@@ -47,6 +47,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Gerald R. Ford",
 "note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "J. Allen Hynek",
 "note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

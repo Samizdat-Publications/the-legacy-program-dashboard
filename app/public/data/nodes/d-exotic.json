@@ -60,6 +60,7 @@
 "label": "Alcubierre, 'The warp drive: hyper-fast travel within general relativity' (1994)",
 "note": "THE NOTE IS THE POINT. The paper itself is mainstream general relativity in a mainstream journal and nothing about it is exotic or disputed. It sits in this domain because of what is claimed FOR it, not because of what is in it: the word 'device' appears zero times in ten pages.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -86,6 +87,7 @@
 "label": "Program Structure & Management",
 "note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -96,7 +98,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -112,6 +114,7 @@
 "label": "Propulsion & Field Physics",
 "note": "DIRD 15 and DIRD 19 are commissioned studies of metric engineering and antigravity - the exotic-physics domain applied to the flight problem.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,7 +125,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -138,6 +141,7 @@
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "Davis and Puthoff had published the same argument in the open literature the year before as Chapter 18, 'On Extracting Energy from the Quantum Vacuum', in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis - who wrote the 'Cockpits' DIRD. The AAWSAP author network is largely a pre-existing publishing network.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -158,7 +162,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -174,6 +178,7 @@
 "label": "George D. Hathaway",
 "note": "THE BOARD'S ONLY DOCUMENTED LINK TO THE HUTCHISON CLAIM, AND IT RUNS THROUGH A PERSON RATHER THAN THROUGH ANY RECORD OF THE EFFECT. His firm's own page gives the University of Toronto electrical engineering degree of 1974, the professional registration, the consulting subjects and the book. NO HUTCHISON NODE EXISTS AND NONE SHOULD BE CREATED: no peer-reviewed publication and no primary record of a controlled demonstration was found, and his own DIA-funded reference document names Hutchison zero times.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -205,6 +210,7 @@
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "note": "THE PATENT ITSELF IS NOT EXOTIC. It is a linear induction motor using ionised air as its armature, which is classical electromagnetism. It sits in this domain solely because it was cited as evidence for scalar physics, and the strand's product is the gap between the citation and the document.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -231,6 +237,7 @@
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "One unclassified, openable, official document that rules by name on Biefeld-Brown and its variants, on metric engineering, and on high frequency gravitational waves.",
 "predicate": "studied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

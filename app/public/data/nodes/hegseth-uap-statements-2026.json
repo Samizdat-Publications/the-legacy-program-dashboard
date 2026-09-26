@@ -47,6 +47,7 @@
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "made claims about"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

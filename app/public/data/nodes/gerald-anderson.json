@@ -73,6 +73,7 @@
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "note": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +100,7 @@
 "label": "Fund for UFO Research",
 "note": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +127,7 @@
 "label": "Plains of San Agustin claim, July 1947",
 "note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

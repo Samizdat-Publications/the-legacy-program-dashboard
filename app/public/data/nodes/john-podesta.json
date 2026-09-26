@@ -74,6 +74,7 @@
 "label": "Bob Fish",
 "note": "Fish wrote to Podesta directly over three days in March 2015 offering programme names; Podesta replied once and forwarded one email onward.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -100,6 +101,7 @@
 "label": "The Disclosure Project",
 "note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,7 +112,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "responded to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -126,6 +128,7 @@
 "label": "Laurance S. Rockefeller",
 "note": "Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -141,7 +144,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -157,6 +160,7 @@
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -167,7 +171,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -183,6 +187,7 @@
 "label": "Steven M. Greer",
 "note": "Clinton FOIA collection 2006-0474-F consists in the majority of documents sent to the White House by Greer - the material reached the building and was filed as correspondence.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -193,7 +198,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 }
 ],
 "date": "2002-10-22",

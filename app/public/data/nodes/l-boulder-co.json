@@ -47,6 +47,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon as director and Robert Low as coordinator.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Low Memorandum (\"the trick would be...\")",
 "note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "was denied by"
+"verb": "linked through a denial"
 }
 ],
 "coords": [

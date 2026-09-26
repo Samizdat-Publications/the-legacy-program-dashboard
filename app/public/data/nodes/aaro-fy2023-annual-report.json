@@ -77,6 +77,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "291 new reports, 801 total holdings, and no finding of any kind on extraterrestrial technology - a formula that appears only from FY2024 onward.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -108,6 +109,7 @@
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The FY2023 report contains no extraterrestrial-technology denial; the FY2024 report leads with one. The change tracks the July 2023 hearing, indicating the formula is a communications response rather than an analytic finding.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -123,7 +125,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -139,6 +141,7 @@
 "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
 "note": "Subsection (k)(1)(A): 'Not later than 180 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023, and annually thereafter for four years, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the appropriate congressional committees a report on unidentified anomalous phenomena.' The obligation is JOINT between the DNI and the Secretary, and it is time-limited to five reports rather than standing.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -165,6 +168,7 @@
 "label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena",
 "note": "The reporting line passes here. The 2022 report is ODNI's, and it records AARO's establishment under its own heading; from FY2023 the consolidated annual report is AARO's product. Same statutory obligation, different office holding the pen.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

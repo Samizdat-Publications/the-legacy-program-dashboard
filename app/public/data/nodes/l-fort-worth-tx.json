@@ -30,6 +30,7 @@
 "label": "Roswell",
 "note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -40,7 +41,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was the scene of"
+"verb": "linked in place or time"
 }
 ],
 "coords": [

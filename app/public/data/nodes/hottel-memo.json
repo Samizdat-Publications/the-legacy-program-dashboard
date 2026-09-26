@@ -41,6 +41,7 @@
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "Hottel's memo of 22 March 1950 describes three fifty-foot discs with three-foot occupants two months before Scully's book described one ninety-nine-foot disc with sixteen. The narratives are related but not identical, so the memo is better read as evidence that the recovery rumour was already in official circulation than as independent confirmation of Aztec.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

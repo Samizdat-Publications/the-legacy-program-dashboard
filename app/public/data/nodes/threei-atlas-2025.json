@@ -35,6 +35,7 @@
 "label": "UAP Science Advisory Council",
 "note": "An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "led to"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

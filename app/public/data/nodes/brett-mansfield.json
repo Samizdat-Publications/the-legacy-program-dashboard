@@ -65,6 +65,7 @@
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "Deputy Inspector General Mansfield told the House Committee on Oversight and Government Reform on 13 May 2026 that unsupported adjustments exceeded $859 billion in the last two quarters of FY2025. Attested by his published oral statement.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -91,6 +92,7 @@
 "label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
 "note": "Mansfield was the Office of Inspector General witness at 'DoW Financial Management: Examining Progress and New Audit Approaches'. Attested by the OIG's publication of his statement.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

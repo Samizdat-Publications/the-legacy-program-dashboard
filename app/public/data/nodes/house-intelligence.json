@@ -41,6 +41,7 @@
 "label": "Michael R. Turner",
 "note": "Turner chaired HPSCI from January 2023 to January 2025, spanning the conference in which the disclosure division was reduced.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "Sec. 9007(b)(3)(A) routes nominations through congressional leadership, DoD, the National Academy of Sciences, nonprofit UAP research bodies and the American Historical Association — never through HPSCI or SSCI.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "United States House of Representatives",
 "note": "Programs carried in the IC SAP control enterprise are reported, if at all, to the intelligence committees rather than to the defense committees.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

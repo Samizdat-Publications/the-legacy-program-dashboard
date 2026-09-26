@@ -41,6 +41,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "cites"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

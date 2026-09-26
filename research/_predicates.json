@@ -2424,9 +2424,9 @@
    "subject": "a"
   },
   "e-213bf86c7d": {
-   "by": "opus-5.5 reviewer, round 2, 2026-09-26",
-   "confidence": "medium",
-   "predicate": "member_of",
+   "by": "opus-5.5 coordinator, chair rule, 2026-09-26",
+   "confidence": "high",
+   "predicate": "led",
    "reviewed": true,
    "subject": "a"
   },
@@ -4307,9 +4307,9 @@
    "subject": "a"
   },
   "e-3abfb450e2": {
-   "by": "sonnet-5 classifier, round 2, 2026-09-26",
+   "by": "opus-5.5 coordinator, chair rule, 2026-09-26",
    "confidence": "high",
-   "predicate": "held_post",
+   "predicate": "member_of",
    "reviewed": false,
    "subject": "a"
   },
@@ -7373,9 +7373,9 @@
    "subject": "a"
   },
   "e-60f84097b9": {
-   "by": "sonnet-5 classifier, round 2, 2026-09-26",
+   "by": "opus-5.5 coordinator, chair rule, 2026-09-26",
    "confidence": "high",
-   "predicate": "led",
+   "predicate": "oversaw",
    "reviewed": false,
    "subject": "a"
   },
@@ -10922,9 +10922,9 @@
    "subject": "a"
   },
   "e-8ffb2d99eb": {
-   "by": "sonnet-5 classifier, round 2, 2026-09-26",
+   "by": "opus-5.5 coordinator, chair rule, 2026-09-26",
    "confidence": "high",
-   "predicate": "led",
+   "predicate": "oversaw",
    "reviewed": false,
    "subject": "a"
   },
@@ -10971,9 +10971,9 @@
    "subject": "a"
   },
   "e-9050616f60": {
-   "by": "sonnet-5 classifier, round 2, 2026-09-26",
-   "confidence": "medium",
-   "predicate": "led",
+   "by": "opus-5.5 coordinator, chair rule, 2026-09-26",
+   "confidence": "high",
+   "predicate": "held_post",
    "reviewed": false,
    "subject": "a"
   },

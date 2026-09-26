@@ -41,6 +41,7 @@
 "label": "32 CFR Part 117 - NISPOM Rule",
 "note": "32 CFR 117.6(a)(1) records that USD(I&S) issues and maintains the rule under section 201 of E.O. 12829.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "32 CFR Part 117 - NISPOM Rule",
 "note": "",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "32 CFR Part 117 - NISPOM Rule",
 "note": "32 CFR part 117 names E.O. 12829 in its authority citation - 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...' - and section 117.1 Purpose states that the rule 'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, \"National Industrial Security Program\"'. Read from the eCFR renderer API on 22 August 2026.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

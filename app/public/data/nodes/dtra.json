@@ -59,6 +59,7 @@
 "label": "Atomic Energy Commission",
 "note": "DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating DSWA, OSIA, DTSA and OSD arms control elements.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

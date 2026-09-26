@@ -41,6 +41,7 @@
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "AARO's homepage carries a PURSUE banner linking to war.gov/UFO and a NARA banner linking to archives.gov, directing the public away from its own EFOIA reading room.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -67,6 +68,7 @@
 "label": "Executive Office of the President",
 "note": "Following the February 2026 presidential directive to identify and release UAP files, the Department of War established the PURSUE portal at war.gov/UFO and published its first tranche on 8 May 2026.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "PURSUE Release 04",
 "note": "Releases 01, 02, 03 and 05 have published file counts; Release 04 has none on the portal or in independent inventories.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -113,7 +116,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "leaves out"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -129,6 +132,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "All five tranches are published on the Secretary of War's web estate at war.gov/UFO, with video served from a CloudFront distribution and no FOIA case numbers or exemption citations.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

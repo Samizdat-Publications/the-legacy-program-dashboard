@@ -41,6 +41,7 @@
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1102 rode in the Intelligence Authorization Act for FY2024, Division M of the engrossed Senate bill.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "note": "The 22 June 1977 memorandum's second recommended action is to inform the Senate Select Committee of the recently located records prior to informing Mr. Marks' attorneys; the joint hearing followed on 3 August.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -118,7 +121,8 @@
 "l0": false,
 "label": "Marco Rubio",
 "note": "Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant.",
-"predicate": "held_post",
+"predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -129,7 +133,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -145,6 +149,7 @@
 "label": "Mark R. Warner",
 "note": "Warner chaired SSCI when it produced the contractor turn-in and the Historical Record Report requirement.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -171,6 +176,7 @@
 "label": "United States Senate",
 "note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

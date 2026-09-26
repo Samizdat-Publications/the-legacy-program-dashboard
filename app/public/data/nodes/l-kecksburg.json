@@ -35,6 +35,7 @@
 "label": "Kecksburg incident, 9 December 1965",
 "note": "The claimed recovery occurred in woodland at Kecksburg, Westmoreland County, Pennsylvania, on the evening of 9 December 1965.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "Stan Gordon",
 "note": "Gordon, a Greensburg-area researcher, assembled the local witness pool at Kecksburg that supplied the 1990 and 2003 broadcasts and the factual premise of the Kean litigation.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

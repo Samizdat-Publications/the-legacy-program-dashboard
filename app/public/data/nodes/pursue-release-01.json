@@ -53,6 +53,7 @@
 "label": "FBI Records: The Vault - UFO collection",
 "note": "The Bureau's master flying disc file covering 1947 to 1968 was released as a single 101MB PDF through war.gov rather than through the FBI's own reading room.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "Apollo mission records including cockpit transcript describing 'very bright particles or fragments' appear in the first tranche.",
 "predicate": "released",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,7 +101,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "released"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -115,6 +117,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, at least 100 carrying redactions.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

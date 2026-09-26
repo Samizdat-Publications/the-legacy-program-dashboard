@@ -30,6 +30,7 @@
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "DI55, which produced the report, is a Defence Intelligence branch of the Ministry of Defence; it inherited responsibility for inquiries into UFO incidents of possible defence significance in 1967. The National Archives guide places the MoD's UFO secretariat work at Whitehall but does not state where the Condign volumes were physically held, so the Whitehall tie here is institutional rather than a documented location of the report.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -66,6 +67,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,7 +88,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 }
 ],
 "coords": [

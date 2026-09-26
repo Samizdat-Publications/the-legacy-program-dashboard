@@ -88,6 +88,7 @@
 "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
 "note": "Kean and Blumenthal had sole media access to the closed-door session and reported his testimony verbatim.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,7 +99,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "linked through testimony"
 }
 ],
 "date": "2026-01-20",

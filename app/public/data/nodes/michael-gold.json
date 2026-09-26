@@ -97,6 +97,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Gold's testimony argued the problem is stigma and data quality as much as classification.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -112,7 +113,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -128,6 +129,7 @@
 "label": "Alex Dietrich",
 "note": "Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -154,6 +156,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -195,6 +198,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "Gold is listed among the team's members and later testified to Congress on its findings.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

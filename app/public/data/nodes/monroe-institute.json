@@ -53,6 +53,7 @@
 "label": "CENTER LANE",
 "note": "The memorandum is an INSCOM product of 9 June 1983 written for USAINSCOM personnel required to take Gateway training, and CENTER LANE is INSCOM's remote-viewing special access programme of 1983 to 1986; the assessment is contemporaneous with the programme and issued by the same command.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "The memorandum names remote viewing as a follow-on technique inside the Gateway Experience and was written for USAINSCOM personnel required to take that training, which places the Institute's method inside the programme chain the STAR GATE node covers.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -89,7 +91,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

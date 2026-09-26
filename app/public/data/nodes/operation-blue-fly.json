@@ -47,6 +47,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Foreign Technology Division at Wright-Patterson was the designated technical exploitation centre; the Air Force felt it necessary in its January 1985 public fact sheet to deny that extraterrestrial equipment had ever been there.",
 "predicate": "transferred",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "passed records or material to"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 3,
@@ -78,6 +79,7 @@
 "label": "Project MOON DUST",
 "note": "The two codewords appear together in Air Force intelligence correspondence; MOON DUST was the collection authority and BLUE FLY the transport and custody leg.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -109,6 +111,7 @@
 "label": "1127th USAF Field Activities Group",
 "note": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

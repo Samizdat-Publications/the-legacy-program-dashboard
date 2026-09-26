@@ -35,6 +35,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch was tasked to inventory the SAPs and CAPs relevant to the Task Force's congressional mandate and was refused. The billet lists, access rosters and classification guides that execute such refusals are administered in substantial part by security-support primes. No committee has requested those rosters.",
 "predicate": "acted_against",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -55,7 +56,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "took action against"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 3,
@@ -71,6 +72,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,7 +88,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

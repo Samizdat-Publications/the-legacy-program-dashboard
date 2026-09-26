@@ -38,6 +38,7 @@
 "label": "Waived SAP Notification Group",
 "note": "As ranking member of the Defense Subcommittee of Senate Appropriations he holds one of the twelve seats. 10 U.S.C. 119(g) names that subcommittee separately from the full Appropriations Committee, which is precisely why the count is twelve and not eight. The subcommittee's published jurisdiction includes the CIA, DIA and NSA.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -89,6 +89,7 @@
 "label": "'Brad' Sorensen",
 "note": "He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -115,6 +116,7 @@
 "label": "Norton Air Force Base, San Bernardino, California",
 "note": "Both primary documents place the account at Norton AFB, and the air show itself is dated at the base independently by a Blackbird photographic collection.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -146,6 +148,7 @@
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -172,6 +175,7 @@
 "label": "United States Air Force",
 "note": "The air show is an Air Force open house and is documented as such. The briefers inside the alleged exhibit are described only in the witness's words: uniforms in 'Blue; Air Force', 'Colonel, major, something like that'. No Air Force record of the exhibit was opened.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

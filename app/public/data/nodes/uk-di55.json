@@ -41,6 +41,7 @@
 "label": "Project Condign",
 "note": "The product was issued as DIS Scientific & Technical Memorandum 55/2/00 and its key recommendation was addressed to DI55's own tasking.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "Condign's database was built from approximately 10,000 reports accumulated by DI55 from the reporting stream the desk handled.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

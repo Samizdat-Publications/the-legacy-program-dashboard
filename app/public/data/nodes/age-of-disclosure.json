@@ -47,6 +47,7 @@
 "label": "Dan Farah",
 "note": "Farah directed and produced the film that premiered at SXSW on 9 March 2025.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Eric W. Davis",
 "note": "Davis's participation puts the man who briefed two Senate committees on retrievals on camera alongside a sitting Secretary of State and a former Director of National Intelligence.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
 "note": "The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "Harold E. Puthoff",
 "note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force chief scientist and the Stanford materials analyst.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -151,6 +155,7 @@
 "label": "Jay Stratton",
 "note": "Stratton, former director of the government's UAP Task Force, is named in the film's promotional materials as a participant.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -177,6 +182,7 @@
 "label": "Marco Rubio",
 "note": "A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

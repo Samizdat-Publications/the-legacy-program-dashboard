@@ -59,6 +59,7 @@
 "label": "Raytheon (RTX Corporation)",
 "note": "Raytheon acquired E-Systems outright on 1 May 1995, taking its reconnaissance, surveillance and intelligence-collection business lines into the Raytheon node the board already carries.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

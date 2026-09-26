@@ -41,6 +41,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. The relation is authorship of a document, which the board's ruling of 18 September 2026 types as research, because custody is weighted x3.0 as a programme edge and giving a claimant a triple-weighted edge to his own artefact would inflate him.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Element 115: the Lazar claim and moscovium",
 "note": "GENUINE CUSTODY: a document containing the claim, in the same sense the ruling allows for a document containing another document. Neither endpoint is a claimant, so the x3.0 weighting falls on two artefact nodes and not on a person.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Gene Huff",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling. This is the edge that makes Huff structurally important rather than merely a witness: he is the publisher of the cluster's primary artefact.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "The strongest artefact in the cluster and the one actually opened. A videotape of a claimant narrating his own claim is evidence of the claim and never of its content.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,7 +133,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "concerns"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

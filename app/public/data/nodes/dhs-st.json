@@ -41,6 +41,7 @@
 "label": "United States Department of Homeland Security",
 "note": "The Under Secretary for Science and Technology is a DHS component head; the KONA BLUE paper identifies that office as the one that established the prospective program.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "KONA BLUE",
 "note": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP' - the government's own words in the joint AARO/DHS paper.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

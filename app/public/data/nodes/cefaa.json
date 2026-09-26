@@ -131,6 +131,7 @@
 "label": "DGAC Chile - Dirección General de Aeronáutica Civil",
 "note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -167,6 +168,7 @@
 "label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
 "note": "The Chilean office published the raw sensor product without an explanation, three years before the US DoD authorised release of the Navy videos.",
 "predicate": "analysed_material",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,6 +195,7 @@
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Photo and video analysts in France, including François Louange, were brought into CEFAA's investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN's analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -224,6 +227,7 @@
 "label": "The three-office model: GEIPAN, SEFAA, AARO",
 "note": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -250,6 +254,7 @@
 "label": "Santiago, Chile",
 "note": "Chile's DGAC dates CEFAA's establishment to 3 October 1997 and traces the reporting lineage back to 1968 at the old Oficina Meteorologica de Chile in the Complejo Aeronautico Quinta Normal, Avenida Diego Portales 3450, Santiago. After the 2021 reorganisation the successor body SEFAA sits at Av. Pedro Aguirre Cerda 5100, Cerrillos, Santiago.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -281,6 +286,7 @@
 "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
 "note": "COMPARISON EDGE — no joint work is claimed. Andina names Chile among the regional peers DIFAA's reopening brought Peru level with, and reports Peru's stated posture on cooperation as reserved: it considered itself able to analyse the phenomena independently and would appeal to exchange with neighbours only exceptionally, to compare data. Structurally the two are opposites: DIFAA sits inside the Fuerza Aérea del Perú under DINAE, while CEFAA/SEFAA sits inside Chile's civil aviation authority, the DGAC, and frames the subject as an aviation-safety matter. Tier 2 — the structural contrast is analytic, the Peruvian facts are Andina-sourced and the Chilean facts sit on the cefaa and dgac-chile nodes.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -312,6 +318,7 @@
 "label": "General de Brigada Aérea (A) Ricardo Bermúdez Sanhueza",
 "note": "SEFAA's own official history records his simultaneous appointment to the Escuela Técnica Aeronáutica and the CEFAA directorship.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -338,6 +345,7 @@
 "label": "Coronel de Aviación Sergio Bravo Flores",
 "note": "SEFAA's history places the origin of official Chilean UAP reporting with Bravo Flores at the Meteorological Office in 1968.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -348,7 +356,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "was founded by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -364,6 +372,7 @@
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -113,6 +113,7 @@
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "32 CFR 117.6(b)(3) is the operative regulatory text relieving the Director, DCSA of NISP oversight for a carved-out DoD SAP.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -139,6 +140,7 @@
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -149,7 +151,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -165,6 +167,7 @@
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "The carve-out is in the codified federal regulation, not only in a DoD manual. 32 CFR 117.6(b)(3), 'Responsibilities': \"The Director, DCSA, will be relieved of this oversight function for DoD special access programs (SAPs) when the Secretary of Defense or the Deputy Secretary of Defense approves a carve-out provision in accordance with DoDD 5205.07, 'DoD SAP Policy'.\" The NISPOM Rule was published at 85 FR 83312 on 21 December 2020, so the provision relieving the oversight body has the force of a legislative rule rather than of internal DoD policy. Read from the eCFR renderer API on 22 August 2026.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -196,6 +199,7 @@
 "label": "DCSA as DoD Cognizant Security Office under the NISP",
 "note": "32 CFR 117.6(b)(1): the Director, DCSA 'Oversees and manages DCSA, which serves as the DoD CSO.'",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -222,6 +226,7 @@
 "label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "32 CFR 117.6(a)(1) records that USD(I&S) issues and maintains the rule under section 201 of E.O. 12829.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -248,6 +253,7 @@
 "label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -274,6 +280,7 @@
 "label": "Executive Order 12829 - National Industrial Security Program (6 Jan 1993)",
 "note": "32 CFR part 117 names E.O. 12829 in its authority citation - 'Authority: 32 CFR part 2004; E.O. 10865; E.O. 12333; E.O. 12829; E.O. 12866; E.O. 12968; E.O. 13526; E.O. 13563; E.O. 13587; E.O. 13691; Public Law 108-458...' - and section 117.1 Purpose states that the rule 'implements policy, assigns responsibilities, establishes requirements, and provides procedures, consistent with E.O. 12829, \"National Industrial Security Program\"'. Read from the eCFR renderer API on 22 August 2026.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -300,6 +307,7 @@
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "32 CFR 117.3(b) defines SAP as a program controlling access and distribution 'beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information'.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

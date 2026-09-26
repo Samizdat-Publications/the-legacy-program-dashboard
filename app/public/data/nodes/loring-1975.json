@@ -47,6 +47,7 @@
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "note": "Five numbered paragraphs plus four DDO updates, each citing its source message.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Loring AFB, Maine",
 "note": "The NMCC memorandum names Loring AFB, Maine by name in its first numbered paragraph.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CINCNORAD's message of 11 November 1975 names Loring first among the five installations.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

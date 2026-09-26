@@ -59,6 +59,7 @@
 "label": "Central Intelligence Agency",
 "note": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Psychological Operations & Perception Management",
 "note": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Harry S. Truman",
 "note": "The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -168,6 +172,7 @@
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

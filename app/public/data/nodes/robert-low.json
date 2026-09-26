@@ -94,6 +94,7 @@
 "label": "Edward U. Condon",
 "note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
 "predicate": "acted_against",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,7 +105,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "was the target of action by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -120,6 +121,7 @@
 "label": "Low Memorandum (\"the trick would be...\")",
 "note": "Written 9 August 1966 to University of Colorado administrators, before the 6 October 1966 project formation — the design predates the data.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

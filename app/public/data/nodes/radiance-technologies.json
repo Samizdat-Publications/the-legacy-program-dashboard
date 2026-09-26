@@ -29,6 +29,7 @@
 "label": "Defense Intelligence Agency",
 "note": "Reasoning: roughly $2.6 billion in prime obligations since FY2008 across intelligence, sensors and advanced concepts. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but no primary personnel record has been located and none is asserted.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -39,7 +40,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was contracted by"
+"verb": "linked through money"
 }
 ],
 "coords": null,

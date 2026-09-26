@@ -41,6 +41,7 @@
 "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
 "note": "Gallaudet's written testimony states the January 2015 'URGENT SAFETY OF FLIGHT ISSUE' email attached the GO FAST video and cited 'multiple near-midair collisions.'",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Jon T. Kosloski",
 "note": "AARO's SASC case slides place the object at roughly 13,000 feet at about 45 mph with 60-knot winds. The analysis addresses apparent speed; it does not address the recall of the fleet safety message built on the same footage.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics,' and military sensors 'are not generally suited for identifying UAP.'",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -124,6 +127,7 @@
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "GO FAST is the video Gallaudet says was attached to the recalled Fleet Forces Command safety message, and the one AARO later reanalysed on parallax grounds.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -144,7 +148,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

@@ -65,6 +65,7 @@
 "label": "Alex Dietrich",
 "note": "Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -96,6 +97,7 @@
 "label": "David Fravor",
 "note": "Fravor's sworn written statement to House Oversight places him as commanding officer of VFA-41 flying the intercept; the Navy's own range fouler report names him as aircrew.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -127,6 +129,7 @@
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -158,6 +161,7 @@
 "label": "Gary Voorhis",
 "note": "Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -168,7 +172,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -184,6 +188,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Fravor's written statement placed on the record that the incident was never investigated, no crew were questioned and no tapes were taken.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -215,6 +220,7 @@
 "label": "Jason Turner",
 "note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -225,7 +231,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "is corroborated by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -241,6 +247,7 @@
 "label": "Kevin Day",
 "note": "As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -267,6 +274,7 @@
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "note": "Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -298,6 +306,7 @@
 "label": "Southern California Operating Areas (W-291 and Baja approaches)",
 "note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -329,6 +338,7 @@
 "label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
 "note": "The January 2023 FOIA release proves the encounter was reported inside the Navy through intelligence personnel and then died at Third Fleet with no dissemination process.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -355,6 +365,7 @@
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -381,6 +392,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The New York Times published the November 2004 footage alongside the AATIP revelation, converting a shelved incident into a national accountability story.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -407,6 +419,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The assessment's date range begins November 2004 - the month of the Nimitz intercept - and it resolved only one of 144 reports with high confidence.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -417,7 +430,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -433,6 +446,7 @@
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
 "predicate": "studied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -459,6 +473,7 @@
 "label": "Raytheon (RTX Corporation)",
 "note": "The Advanced Targeting Forward Looking Infrared pod is built by Raytheon and is, in the Navy's own words, 'the primary weapons delivery targeting sensor for the U.S. Navy' on F/A-18 C, E and F variants. The Department released three genuine Navy videos in April 2020, one of them from November 2004. Tier 2 because neither document states which sensor produced that video: the contractor's own page on the subject returns 404 and navair.navy.mil returns 403, so the specific tie between the pod and the FLIR1 footage is inference from the aircraft type and the period, not a documented statement.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -484,7 +499,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -500,6 +515,7 @@
 "label": "United States Navy",
 "note": "The Department authorised release of three unclassified Navy videos, one from November 2004 and two from January 2015, stating that 'the U.S. Navy previously acknowledged that these videos circulating in the public domain were indeed Navy videos' and releasing them 'in order to clear up any misconceptions by the public on whether or not the footage that has been circulating was real'. The Department's own characterisation of what they show has not moved: 'The aerial phenomena observed in the videos remain characterized as unidentified.'",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -536,6 +552,7 @@
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "A transmedium tic-tac-shaped object in W-291 in February 2023 repeats the November 2004 description in the same Southern California naval training space, with no published government assessment of either sensor record.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -551,7 +568,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -567,6 +584,7 @@
 "label": "USS Princeton (CG-59)",
 "note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -598,6 +616,7 @@
 "label": "USS Princeton (CG-59)",
 "note": "Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -624,6 +643,7 @@
 "label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
 "note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -655,6 +675,7 @@
 "label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
 "note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

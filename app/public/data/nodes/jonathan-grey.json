@@ -40,6 +40,7 @@
 "label": "David Charles Grusch",
 "note": "'The non-human intelligence phenomenon is real. We are not alone.' A currently serving Top Secret-cleared NASIC officer would corroborate but would not attach a name - itself evidence about the environment at Wright-Patterson.",
 "predicate": "corroborated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -66,6 +67,7 @@
 "label": "National Air and Space Intelligence Center",
 "note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

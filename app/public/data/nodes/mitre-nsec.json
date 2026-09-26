@@ -47,6 +47,7 @@
 "label": "Dana (Keoki) Jackson",
 "note": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
 "predicate": "led",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was led by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "The MITRE Corporation",
 "note": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

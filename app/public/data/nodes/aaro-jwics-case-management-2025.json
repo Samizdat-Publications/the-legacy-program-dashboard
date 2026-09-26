@@ -41,6 +41,7 @@
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "A Sources Sought Notice for a JWICS-hosted case management system establishes that AARO had no purpose-built case system three years after standing up.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 3,
@@ -67,6 +68,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Hosting the consolidated UAP case record on JWICS places it at Top Secret/SCI by default, which is a structural obstacle to transfer that neither the FY2024 NDAA nor the 2026 directives address.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,7 +84,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -98,6 +100,7 @@
 "label": "Navy UAP event off the Virginia coast (reported July 2026)",
 "note": "Roughly 100 objects and two uncrewed surface systems reported by Navy assets, in an office whose purpose-built case management system was still at the sources-sought stage in mid-2025.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -113,7 +116,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

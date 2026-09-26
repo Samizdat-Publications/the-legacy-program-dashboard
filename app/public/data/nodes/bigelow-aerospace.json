@@ -71,6 +71,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -102,6 +103,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -117,7 +119,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -133,6 +135,7 @@
 "label": "KONA BLUE",
 "note": "AARO records that when DIA cancelled AAWSAP/AATIP its supporters proposed a new version to DHS under a special access program, with lines of effort closely mirroring those the private sector organisation had conducted.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -148,7 +151,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "founded"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -164,6 +167,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,7 +183,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to hold material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -195,6 +199,7 @@
 "label": "Luis D. Elizondo",
 "note": "Asked by Rep. Burlison 'That is the Bigelow Aerospace, correct?', Elizondo answered 'Yes, sir.' He described later conversations with contract personnel who told him the account was accurate.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -205,7 +210,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

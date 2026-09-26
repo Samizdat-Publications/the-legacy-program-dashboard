@@ -41,6 +41,7 @@
 "label": "Gary Voorhis",
 "note": "The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -67,6 +68,7 @@
 "label": "Gary Voorhis",
 "note": "Voorhis's technical billet placed him at the node where the encounter's recorded machine data physically lived.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Jason Turner",
 "note": "Turner is one of several Princeton enlisted crew who have publicly described the post-encounter arrival of outside personnel; his rate and division are not established from primary records.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -119,6 +122,7 @@
 "label": "Kevin Day",
 "note": "Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -145,6 +149,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Fravor testified Princeton tracked the objects on Aegis for two weeks. No Princeton radar or CEC data for 14 Nov 2004 has appeared in any release, and the range fouler report says reporting 'terminated at 3rd Fleet.'",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -176,6 +181,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Princeton had been observing the objects on Aegis for approximately two weeks, descending from above 80,000 ft to 20,000 ft, before vectoring the VFA-41 section.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

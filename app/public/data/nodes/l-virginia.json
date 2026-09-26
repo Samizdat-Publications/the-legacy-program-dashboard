@@ -22,6 +22,7 @@
 "label": "National Reconnaissance Office",
 "note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

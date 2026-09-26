@@ -47,6 +47,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO states it cannot declassify independently, must request review from originating offices, and is bound by DOPSR - a description falsified within eight months by its own department.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
 "predicate": "contradicts",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

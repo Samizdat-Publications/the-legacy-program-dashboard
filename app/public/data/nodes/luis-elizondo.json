@@ -381,6 +381,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The report does not engage Elizondo's specific claims by name in its programme history; the omission is itself the Department's position — his account is treated as outside the record rather than rebutted within it.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -407,6 +408,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -422,7 +424,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -438,6 +440,7 @@
 "label": "Bigelow Aerospace",
 "note": "Asked by Rep. Burlison 'That is the Bigelow Aerospace, correct?', Elizondo answered 'Yes, sir.' He described later conversations with contract personnel who told him the account was accurate.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -448,7 +451,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -464,6 +467,7 @@
 "label": "Bryce Zabel",
 "note": "Elizondo appeared with Coulthart and Zabel on the Need To Know episode 'Elizondo Unplugged' (13 September 2024), discussing his book Imminent, crash retrievals and non-human intelligence.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -490,6 +494,7 @@
 "label": "Christopher Sherwood",
 "note": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -516,6 +521,7 @@
 "label": "Daniel P. Sheehan",
 "note": "The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -526,7 +532,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -542,6 +548,7 @@
 "label": "David Charles Grusch",
 "note": "At the 13 November 2024 hearing Elizondo told Rep. Burchett he had worked with Grusch at US Space Force and answered 'Yes, sir' when asked whether he agreed with Grusch's multi-decade crash-retrieval testimony - a second former senior DoD official affirming the core claim under oath.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -557,7 +564,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -573,6 +580,7 @@
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "The form bears his name and OUSD(I) title. It is the documentary link between him and the AATIP-associated imagery, and it was approved 24 August 2017.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -599,6 +607,7 @@
 "label": "Department of Defense Office of Inspector General",
 "note": "Elizondo submitted a complaint to the DoD OIG alleging reprisal and improper handling; the OIG is the same body whose UAP evaluation remains classified.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -625,6 +634,7 @@
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "note": "Alleged 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats'. No public adjudication has been released.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -651,6 +661,7 @@
 "label": "Elizondo Resignation Letter #1, 3 October 2017",
 "note": "Establishes his exact title and departure date in his own words on Departmental paper.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -677,6 +688,7 @@
 "label": "Elizondo Resignation Memorandum for Record, 4 October 2017",
 "note": "The protest letter naming Departmental opposition to further UAP research as his reason for leaving.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -703,6 +715,7 @@
 "label": "Eric Burlison",
 "note": "Burlison named the journalist, described the transfer, asked the witness to confirm, and then asked who possesses the material today - to which Elizondo said he could only answer in closed session.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -729,6 +742,7 @@
 "label": "The five observables (UAP performance taxonomy)",
 "note": "Attributed to Elizondo from his AATIP work. No government document stating the set has been located, so this rests on reporting and on his own organisation's publication of it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -755,6 +769,7 @@
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "note": "The first written denial of Elizondo's program role, produced inside OUSD(I) within a week of the NYT story and routed to the Secretary of Defense. Every later public denial restates it.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -786,6 +801,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "His confirmation that the transfer 'was blocked' is the single most load-bearing on-record statement in this domain.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -812,6 +828,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -863,6 +880,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Asked by Mace whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph - which is not a denial.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -889,6 +907,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Asked directly by Mace; his answer is a non-denial from a former DoD official under oath.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -915,6 +934,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Asked directly whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -925,7 +945,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -941,6 +961,7 @@
 "label": "Imminent: Inside the Pentagon's Hunt for UFOs",
 "note": "'What is in the book is what I was told I am allowed to talk about' — sworn testimony, 13 November 2024.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -967,6 +988,7 @@
 "label": "Keith Kloor",
 "note": "Kloor's two 2019 pieces cut in opposite directions, which is why both are load-bearing.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -998,6 +1020,7 @@
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
 "note": "Kirkpatrick names AATIP and Robert Bigelow as the origin of what he calls circular reporting, an attack that lands on Elizondo without engaging his account as testimony.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1008,7 +1031,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -1024,6 +1047,7 @@
 "label": "Naval Air Station Patuxent River, Maryland",
 "note": "Reported from his written congressional testimony: a hangar at the base was allegedly designed to facilitate movement of material by air and by river.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1034,7 +1058,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -1050,6 +1074,7 @@
 "label": "The Pentagon, Arlington, Virginia",
 "note": "The New York Times placed AATIP on the Pentagon's fifth floor; the Pentagon parking lot is where Mellon says he received the video files.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1076,6 +1101,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Elizondo told the House that 'there was an aerospace contract company that requested to divest itself of the material... that was collected in the 1950s' and confirmed the reported Lockheed-Bigelow transfer 'was blocked,' adding that a required Secretary of the Air Force memorandum never issued.",
 "predicate": "acknowledged",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1086,7 +1112,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "acknowledged"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -1102,6 +1128,7 @@
 "label": "Nancy Ruth Mace",
 "note": "The exchange converts the allegation from a claim about one company into a described system of allocation by technical domain across multiple primes.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1128,6 +1155,7 @@
 "label": "Neill Tipton",
 "note": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1154,6 +1182,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The article identified him, quoted his resignation letter and reported his move to TTSA — the act that made him the Department's problem.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1164,7 +1193,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -1180,6 +1209,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1190,7 +1220,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -1206,6 +1236,7 @@
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1237,6 +1268,7 @@
 "label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
 "note": "DIA proposed a transition in December 2010; Elizondo says he picked up the residual effort in OUSD(I) at that time. No charter has ever been released either way.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1247,7 +1279,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is corroborated by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -1263,6 +1295,7 @@
 "label": "Reckoning: The Unspoken Truth about UFOs and the Urgency of Now",
 "note": "HarperCollins promises 'previously undisclosed evidence'. Whether it went through DOPSR, and what was struck, is not yet public.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1289,6 +1322,7 @@
 "label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "note": "Elizondo's account of AATIP-era handling turns on material moving in special access channels; DoDM 5205.07-V1 documents HVSACO as the caveat used for unacknowledged SAP nicknames and expressly not a classification.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1299,7 +1333,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -1315,6 +1349,7 @@
 "label": "Susan Gough",
 "note": "Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1351,6 +1386,7 @@
 "label": "Susan Gough",
 "note": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1382,6 +1418,7 @@
 "label": "The Intercept",
 "note": "Kloor's finding: 'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.' He obtained a statement from Pentagon spokesperson Christopher Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' The piece is the origin of the documented dispute over Elizondo's role, and the Pentagon's position in it has been restated since.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1413,6 +1450,7 @@
 "label": "Thomas Matthew DeLonge",
 "note": "DeLonge courted serving and retired officials from 2015-2017; the launch roster of 11 October 2017 is the product. The recruitment overlapped Elizondo's final year in government.",
 "predicate": "appointed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1428,7 +1466,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "was appointed by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -1444,6 +1482,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1480,6 +1519,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1506,6 +1546,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Multiple third-party channels covered a Gerb-Elizondo dispute in early August 2026. No primary statement from either party was retrieved; recorded as an unresolved schism, which Coulthart also referenced as 'Schism in the UAP community' at 11:22 of the 4 August 2026 episode.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1516,7 +1557,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 3,
@@ -1532,6 +1573,7 @@
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "Elizondo is the archetype of a former official constrained by prepublication review and secrecy obligations; the ODNI memorandum waives 'agreements, oaths, or commitments' for disclosure to government investigators, not to publishers.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1547,7 +1589,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 }
 ],
 "date": "2017-10-04",

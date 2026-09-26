@@ -42,6 +42,7 @@
 "label": "Nuclear Weapons Complex Nexus",
 "note": "Bruehl and Villarroel's Scientific Reports paper links POSS-I transients to nuclear testing and to UAP reports, connecting the astronomical and nuclear-nexus domains.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -68,6 +69,7 @@
 "label": "Scientific Research",
 "note": "The Galileo Project instrumentation papers and the VASCO archival work are the two productive observational programmes outside government.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -78,7 +80,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -94,6 +96,7 @@
 "label": "Stockholm, Sweden",
 "note": "Villarroel's Stockholm-based VASCO project produced the October 2025 Scientific Reports correlation between POSS-I transients, nuclear testing and UAP reports.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +107,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is located at"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

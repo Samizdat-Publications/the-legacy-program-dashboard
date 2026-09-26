@@ -41,6 +41,7 @@
 "label": "Christopher K. Mellon",
 "note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
 "predicate": "transferred",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "received records or material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "DoD Statement on the Release of Historical Navy Videos, 27 April 2020",
 "note": "The Department also characterised the 2007 and 2017 public appearances as 'unauthorized releases' — a formal acknowledgement that material left the building improperly.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "Joseph Gradisher",
 "note": "The single most consequential official concession of the period, made by a named service spokesman.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -145,6 +149,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

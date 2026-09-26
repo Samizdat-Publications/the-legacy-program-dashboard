@@ -64,6 +64,7 @@
 "label": "Robert L. Hastings",
 "note": "Dolan argues concealment from the documented secrecy architecture; Hastings supplies the best-documented category of incident occurring inside the most heavily compartmented part of that architecture. Reasoning: the nuclear weapons complex is where SAP density and incident documentation coincide.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -90,6 +91,7 @@
 "label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
 "note": "Dolan wrote 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009).",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

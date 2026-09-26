@@ -79,6 +79,7 @@
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -115,6 +116,7 @@
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,7 +127,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -141,6 +143,7 @@
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "The CRADA lists mechanical/structural metamaterials and electromagnetic metamaterial waveguides — the exact subject matter ADAM claimed to hold.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -151,7 +154,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -167,6 +170,7 @@
 "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
 "note": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,6 +197,7 @@
 "label": "Federal Contracting Mechanics",
 "note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party's proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner's own contemporaneous FAQ.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -224,6 +229,7 @@
 "label": "Chain of custody",
 "note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -250,6 +256,7 @@
 "label": "Jeffery Langhout",
 "note": "The federal signature block is what makes the agreement citable as a government act.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -276,6 +283,7 @@
 "label": "Dr. Joseph Cannon",
 "note": "Named in the agreement alongside Bean Soave and quoted in the announcement calling TTSA 'an exciting, non-traditional source for novel materials'.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -302,6 +310,7 @@
 "label": "Kari DeLonge",
 "note": "The corporate signatory on a materials-science agreement with an Army laboratory was TTSA's Chief Content Officer — the entertainment company was the legal spine.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -328,6 +337,7 @@
 "label": "Detroit Arsenal, Warren, Michigan",
 "note": "GVSC Director Jeffery Langhout signed the agreement on 10 October 2019; the Army released the text on 18 October 2019.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -359,6 +369,7 @@
 "label": "Luis D. Elizondo",
 "note": "Two years after resigning from OUSD(I), Elizondo is the named private-sector counterpart to an Army laboratory on an exotic-materials instrument.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -385,6 +396,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "CRADA 19-15 'Novel & Emerging Technology Exploitation' with the US Army CCDC Ground Vehicle Systems Center was filed as Exhibit 6.28 to TTSA's Form 1-A, naming Army principal investigators and TACOM intellectual property counsel.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -416,6 +428,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

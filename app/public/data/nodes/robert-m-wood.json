@@ -96,6 +96,7 @@
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,6 +123,7 @@
 "label": "McDonnell Douglas Corporation",
 "note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -132,7 +134,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 }
 ],
 "date": "2026-01-01",

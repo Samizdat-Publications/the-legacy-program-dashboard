@@ -35,6 +35,7 @@
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

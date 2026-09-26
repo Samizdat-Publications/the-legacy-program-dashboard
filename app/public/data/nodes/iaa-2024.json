@@ -35,6 +35,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Division G carries two UAP sections. Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office', amends section 1683(k)(1) of the FY2022 NDAA (50 U.S.C. 3373(k)(1)) as it had already been amended by sec. 6802(a) of the IAA for FY2023. Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena', bars division funds from any UAP activity 'protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership' - the DNI is the discloser, not AARO, which the section names only in its trailing reference to 'activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024'. Subsection (c) goes further and at contractors: independent research and development funding relating to UAP 'shall not be allowable as indirect expenses' unless the material is made available to the same committees and leadership.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -66,6 +67,7 @@
 "label": "Funding Channels",
 "note": "Division G of P.L. 118-31 contains Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena.' The Joint Explanatory Statement records that it imposes a funding limitation for perceived insufficient transparency and a limitation on independent research and development indirect expenses, to be read consistently with DoDI 3204.01. This is a funding-channel provision, distinct from this act's membership of the enacted-statute domain.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -102,6 +104,7 @@
 "label": "Enacted Statute",
 "note": "Division G carries Sec. 7341, modifying the AARO reporting requirement, and Sec. 7343, the funding limitation. The section list published by the Senate Select Committee on Intelligence confirms both as part of the enacted division. Its separate membership of the funding domain rests on 7343's substance, not on its status as law.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -138,6 +141,7 @@
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "The board's section node is filed under this act, and the filing carries a caution that is now confirmed rather than merely flagged. Searching the enacted 2.8-million-character text finds 'non-earth origin' zero times and 'exotic' zero times: the contractor turn-in mandate did not survive conference. What did survive is Division A, Title XVIII, Subtitle C - secs. 1841 to 1843, the unidentified anomalous phenomena records collection at the National Archives. The turn-in language belongs to the Senate-passed text, and the node's '1102' section number is still not confirmed against either version. Tier 2 because the edge records a filing relationship whose section number remains unverified.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -163,7 +167,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -179,6 +183,7 @@
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "The enacted law carries the heading 'DIVISION G--INTELLIGENCE AUTHORIZATION ACT FOR FISCAL YEAR 2024' inside the National Defense Authorization Act for Fiscal Year 2024, Public Law 118-31, enacted 22 December 2023. The intelligence authorisation is not a separate statute that year; it rides the defence bill, which is why its UAP sections are numbered in the 7000s while the NDAA's own UAP records sections are 1841 to 1843.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

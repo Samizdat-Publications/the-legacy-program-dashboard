@@ -47,6 +47,7 @@
 "label": "United States Air Force",
 "note": "The 22 November 1955 article photographs Lawrence D. Bell with three named Air Force test pilots during the Bell X-2 programme.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 }
 ],
 "coords": null,

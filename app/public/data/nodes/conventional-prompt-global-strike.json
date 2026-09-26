@@ -59,6 +59,7 @@
 "label": "Aerospace Engineering & Advanced Projects",
 "note": "Hypersonic boost-glide development across three services, with named prime contractors and appropriated funding.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Propulsion & Field Physics",
 "note": "The report documents the propulsion lineage in full: existing Trident II, Peacekeeper and Polaris derived stages, with the payload a passive glide body.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Daniel P. Sheehan",
 "note": "Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "Defense Advanced Research Projects Agency",
 "note": "DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -163,6 +167,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Air Force, Navy and Army each run a component of the effort, and the Pentagon renamed it from prompt global strike to prompt strike in 2012.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,7 +178,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

@@ -41,6 +41,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "concerns"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

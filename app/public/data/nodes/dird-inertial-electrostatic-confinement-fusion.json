@@ -71,6 +71,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -112,6 +113,7 @@
 "label": "Plasma Physics & Atmospheric Electricity",
 "note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -153,6 +155,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,6 +182,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 10 March 2010 on the cover. 73 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -210,6 +214,7 @@
 "label": "George H. Miley",
 "note": "Entry 1 on both the KLAS list of July 2018 and the DIA letter of 9 January 2018: 'Inertial Electrostatics Confinement Fusion, Dr George Miley, Univ. of Illinois.' The released PDF's author block is redacted under (b)(5). Miley is co-author of the Springer monograph on IEC fusion, making him a documented subject-matter authority rather than a fringe recruit.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

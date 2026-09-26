@@ -46,6 +46,7 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Attested by his son and by researchers, and not disputed by anyone, but not documented in any opened record.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -77,6 +78,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

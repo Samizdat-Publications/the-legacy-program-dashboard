@@ -155,6 +155,7 @@
 "label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as indirect expense under DoDI 3204.01 unless the material is made available to the committees and leadership.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,7 +166,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "governs"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -181,6 +182,7 @@
 "label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -212,6 +214,7 @@
 "label": "House Armed Services Committee",
 "note": "Sec. 1687 does not open anything to the public; it compels description to the defence and intelligence committees and congressional leadership.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -222,7 +225,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "requires"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -238,6 +241,7 @@
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Sec. 7343 applies the same bar to intelligence funds through the DNI that Sec. 1687 applies to DoD funds through the Secretary of Defense.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -264,6 +268,7 @@
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Sections 1687 and 7343 of P.L. 118-31 impose parallel funding limitations, the first running through the Secretary of Defense, the second through the Director of National Intelligence. Attested by the enacted text of both.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -290,6 +295,7 @@
 "label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
 "note": "Sec. 1687 and Sec. 7343 of Public Law 118-31 carry forward the funding cutoff and the IR&D clause from the Senate provision; the contractor disclosure, inventory and immunity subsections were removed.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -305,7 +311,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "succeeded"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -321,6 +327,7 @@
 "label": "Independent Research and Development (IR&D) as a funding channel",
 "note": "Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -347,6 +354,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "DoDI 3204.01 covers major contractors allocating over $11 million in IR&D and bid-and-proposal costs; the primes on this board are all covered contractors, and none has publicly reported a disclosure under Sec. 1687(b).",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -383,6 +391,7 @@
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "The only enacted provision that conditions money on disclosure of special access UAP activity, including the independent research and development indirect-cost bar.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -393,7 +402,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -409,6 +418,7 @@
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "Sec. 1687 restricts only funds authorised by the FY2024 Act; neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -429,7 +439,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -445,6 +455,7 @@
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "Section 1687(a) applied only to funds authorised by the FY2024 Act; a full-text search of the FY2025 and FY2026 NDAAs returns no equivalent provision. Section 1687(b), codified as a 50 U.S.C. 3373 note, has no fiscal-year limit. Attested by the enacted texts of all three Acts.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -455,7 +466,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -471,6 +482,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Where Sec. 119(e) permits reporting to only the chairman and ranking member of each defense committee, Sec. 1687 conditions the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.",
 "predicate": "amended",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -502,6 +514,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -528,6 +541,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "FY2024 NDAA sec. 1687(a) conditions obligation of funds on the Secretary of Defense providing details to the defense and intelligence committees and congressional leadership.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -554,6 +568,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The section acts on the mechanism without touching it. Sec. 1687(a) conditions obligation of funds on the Secretary reporting the activity to the defense and intelligence committees and congressional leadership; it does not repeal or amend 10 U.S.C. 119(e). The waiver stays lawful and the money stops instead.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

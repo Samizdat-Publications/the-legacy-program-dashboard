@@ -65,6 +65,7 @@
 "label": "Defense Investigative Service",
 "note": "'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -91,6 +92,7 @@
 "label": "Government Accountability Office",
 "note": "The statement was delivered by Martin M. Ferber, Associate Director, National Security and International Affairs Division, and released on delivery at 10:00 a.m. on 24 July 1986.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -117,6 +119,7 @@
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The same GAO division, two years after the Lockheed document-control testimony the board already holds, reporting on the establishment criteria rather than on document accountability.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,6 +146,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "GAO reported 1,460 discrepancies in an inventory of about 40,000 secret and top-secret items across 53 document control substations, with 11 documents unresolved as of 19 July 1986.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,6 +173,7 @@
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

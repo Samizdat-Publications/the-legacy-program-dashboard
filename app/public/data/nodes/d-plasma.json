@@ -42,6 +42,7 @@
 "label": "Medical & Injury Effects",
 "note": "Dermal burn and neurological presentations attributed to anomalous encounters are also produced by directed-energy and radiofrequency exposure, which the board records rather than resolves.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -68,6 +69,7 @@
 "label": "Inertial Electrostatic Confinement Fusion",
 "note": "IEC is one of the few AAWSAP topics with a plausible conventional aerospace reading: a compact fusion device is what a small craft would need if it were producing the observed energy budget. The DIRD set contains four fusion-adjacent deliverables in total - Miley's IEC paper, Winterberg's advanced nuclear propulsion, Teofilo's aneutronic fusion propulsion for Lockheed Martin, and Culbreth's aneutronic fusion propulsion II.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

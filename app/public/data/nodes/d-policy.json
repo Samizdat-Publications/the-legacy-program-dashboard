@@ -42,6 +42,7 @@
 "label": "Secrecy Law & Classification",
 "note": "DoDD 5205.07 is the directive-layer implementation of authority that derives from executive order rather than statute.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -54,6 +54,7 @@
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "Minority-side confirmation that the briefing produced no substance.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -64,7 +65,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 }
 ],
 "date": "2024-01-12",

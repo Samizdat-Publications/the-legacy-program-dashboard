@@ -63,6 +63,7 @@
 "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
 "note": "Girão, who led a 2022 Brazilian Senate UAP hearing, met Rep. Eric Burlison for the first time at the National Press Club event.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,7 +74,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "testified at"
+"verb": "linked through testimony"
 }
 ],
 "date": "2026-01-20",

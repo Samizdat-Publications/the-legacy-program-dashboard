@@ -59,6 +59,7 @@
 "label": "Joe Spielberger",
 "note": "The policy bridge from UAP allegations to H.R. 5060.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Printed as Ranking Member in the roster of CHRG-119hhrg61718.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

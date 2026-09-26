@@ -84,6 +84,7 @@
 "label": "Central Intelligence Agency",
 "note": "Chadwell's OSI memoranda are the internal record of CIA's decision to treat the subject as a security and public-opinion problem.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +111,7 @@
 "label": "Robertson Panel",
 "note": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -136,6 +138,7 @@
 "label": "Walter Bedell Smith",
 "note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -167,6 +170,7 @@
 "label": "1952 Washington DC Sightings",
 "note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

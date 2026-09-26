@@ -69,6 +69,7 @@
 "label": "Plains of San Agustin claim, July 1947",
 "note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -79,7 +80,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 }
 ],
 "date": "1969",

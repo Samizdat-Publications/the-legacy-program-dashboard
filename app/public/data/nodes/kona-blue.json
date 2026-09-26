@@ -131,6 +131,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO disclosed the DHS prospective SAP and used it to argue that witnesses mistook a rejected proposal for an operating programme.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -162,6 +163,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO identifies KONA BLUE as a prospective SAP proposed to DHS, never approved, whose advocates only assumed material existed. The proposal's own premise - consolidating alleged concealed holdings under DHS for proper oversight - presupposes the thing AARO says does not exist.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -188,6 +190,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "AARO describes KONA BLUE as a proposed UAP recovery and reverse-engineering SAP at DHS, rejected by DHS leadership; the same personnel and subject matter as AAWSAP.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -214,6 +217,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "AARO records that when DIA cancelled AAWSAP/AATIP in 2012, 'its supporters proposed to DHS that they create and fund a new version' to restart UAP investigations and 'reverse-engineer any recovered off-world spacecraft'.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -224,7 +228,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "succeeded"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -240,6 +244,7 @@
 "label": "Bigelow Aerospace",
 "note": "AARO records that when DIA cancelled AAWSAP/AATIP its supporters proposed a new version to DHS under a special access program, with lines of effort closely mirroring those the private sector organisation had conducted.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -255,7 +260,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was founded by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -271,6 +276,7 @@
 "label": "Central Intelligence Agency",
 "note": "Gerb's account has the CIA shutting Kona Blue down. Recorded here as an alleged act of the concealment apparatus rather than as an adjudicated fact.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -281,7 +287,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -297,6 +303,7 @@
 "label": "United States Department of Homeland Security",
 "note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -323,6 +330,7 @@
 "label": "United States Department of Homeland Security",
 "note": "DHS Acting Deputy Secretary Kristie Canegallo transmitted the declassified Kona Blue records to the Deputy Secretary of Defense on 5 February 2024.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -349,6 +357,7 @@
 "label": "DHS Science and Technology Directorate",
 "note": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP' - the government's own words in the joint AARO/DHS paper.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -375,6 +384,7 @@
 "label": "Harry M. Reid",
 "note": "AARO states 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding' - the same senator who created the DIA appropriation now seeking a DHS compartment.",
 "predicate": "funded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -385,7 +395,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was funded by"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -401,6 +411,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "AARO records the proponents' belief that creating the program under DHS 'would allow all of the technology and knowledge of these alleged programs to be moved under the KONA BLUE program' where it could be properly monitored by oversight committees.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -411,7 +422,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -427,6 +438,7 @@
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -437,7 +449,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is alleged to have material held by"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -453,6 +465,7 @@
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "Gerb described Kona Blue to Coulthart as a DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -479,6 +492,7 @@
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "Reid asked DoD for a restricted SAP over engineering of advanced technologies in 2009 and was refused; two years later the same circle proposed a recovery-and-exploitation SAP at DHS instead.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -494,7 +508,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -510,6 +524,7 @@
 "label": "Robert T. Bigelow",
 "note": "AARO notes the material 'was only assumed to exist by KONA BLUE advocates and its anticipated contract performers,' and that the proposed lines of effort mirrored the private sector organisation's AAWSAP work.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -520,7 +535,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -536,6 +551,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "AARO: 'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.' The government states the gap in its own defence.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

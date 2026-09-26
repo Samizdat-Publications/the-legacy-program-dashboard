@@ -36,6 +36,7 @@
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -62,6 +63,7 @@
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

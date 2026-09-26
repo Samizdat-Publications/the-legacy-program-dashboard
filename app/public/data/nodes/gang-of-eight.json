@@ -65,6 +65,7 @@
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The ICIG PPD-19 route reaches the intelligence committees, but access to waived DoD programs is restricted by DoDD 5205.07 (2010) para 4.f to chairs, ranking members and staff directors.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -101,7 +103,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -117,6 +119,7 @@
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(2) reaches chairs and ranking members of the defense committees with no 180-day widening requirement; 50 U.S.C. 3093(c)(5)(B) requires reconsideration of limited access within 180 days.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -148,6 +151,7 @@
 "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "50 U.S.C. 3093(c)(2) names the four committee leaders and four chamber leaders to whom a finding may be limited; no SAP statute uses that group.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

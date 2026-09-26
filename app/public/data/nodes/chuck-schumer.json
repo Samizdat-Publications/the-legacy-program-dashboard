@@ -87,6 +87,7 @@
 "label": "Harry M. Reid",
 "note": "Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process.",
 "predicate": "acknowledged",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -97,7 +98,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "acknowledged"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -113,6 +114,7 @@
 "label": "Jared Evan Moskowitz",
 "note": "'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.'",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -123,7 +125,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -139,6 +141,7 @@
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,6 +168,7 @@
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -196,6 +200,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

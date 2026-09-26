@@ -74,6 +74,7 @@
 "label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
 "note": "Sent on establishment of the Task Force in February 2025.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,6 +101,7 @@
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "note": "Comer and Burlison opened the investigation on 21 April 2026.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,6 +128,7 @@
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Comer announced the establishment of the Task Force on 11 February 2025.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -152,6 +155,7 @@
 "label": "Proposed House Select Committee on UAP",
 "note": "Burlison named Comer's support publicly on 12 March 2024.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -162,7 +166,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "supported"
+"verb": "linked through conduct"
 }
 ],
 "date": "2025-02-11",

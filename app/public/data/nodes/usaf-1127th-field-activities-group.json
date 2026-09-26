@@ -59,6 +59,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "'coordinated requirements necessary to deploy the FTD exploitation personnel and to airlift personnel and parts from site of acquisition to Wright-Patterson AFB. The take consisted of approximately three tons of aircraft parts and armament.'",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Operation BLUE FLY",
 "note": "Listed at p.29 of the unit's own semiannual history, alongside MIG-17 Exploitation and Project MOON DUST. In February 1967 the Joint Chiefs extended F/AD-I priority for short-notice BLUE FLY airlift contingencies.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Project MOON DUST",
 "note": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "United States Air Force",
 "note": "The ACS/I's own semiannual history for July-December 1967 covers the 1127th as a subordinate and records Colonel Rudolph C. Koller, Jr. as its commander throughout, with authorised strength rising from 220 to 249.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -47,6 +47,7 @@
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Posted 18 August 2008, awarded 22 September 2008 — a five-week competition on an eleven-topic statement of work reaching to 2050.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

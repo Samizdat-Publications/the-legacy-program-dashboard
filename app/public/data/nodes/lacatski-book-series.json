@@ -47,6 +47,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "If accurate, the released deliverable set is a small fraction of what the appropriation produced, and the rest has no public custody trail.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "James T. Lacatski",
 "note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

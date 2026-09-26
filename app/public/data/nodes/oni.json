@@ -59,6 +59,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "THE EDGE CARRIES A DISCREPANCY AND NOTHING MORE. There is no 'Department of Naval Intelligence'; the Office of Naval Intelligence sits inside the Department of the Navy. THE W-2 WAS NOT OPENED BY THIS BOARD and no employer identification number, zip code or box content is asserted anywhere.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -90,6 +91,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -100,7 +102,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -116,6 +118,7 @@
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names Navy/ONI among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,7 +129,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "reports to"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -142,6 +145,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -162,7 +166,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the location of"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

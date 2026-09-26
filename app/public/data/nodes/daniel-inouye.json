@@ -64,6 +64,7 @@
 "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "Inouye's control of the Senate Appropriations process allowed the $22M to be routed through the classified annex without floor debate on the allocation.",
 "predicate": "sponsored_law",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "sponsored"
+"verb": "linked through law"
 }
 ],
 "date": "2007-01-01",

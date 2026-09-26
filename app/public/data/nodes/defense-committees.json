@@ -59,6 +59,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "119(g) enumerates SASC, Senate Appropriations and its Defense Subcommittee, HASC, House Appropriations and its Subcommittee on Defense.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -90,6 +91,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "10 U.S.C. 119(g) defines 'defense committees' for this section as six bodies: '(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' Six bodies, chairman and ranking minority member of each, is where the board's twelve seats come from. Read directly from the OLRC text on 22 August 2026, which confirms the count independently of the earlier reading recorded in the L0 notes.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(2) directs the waived information and its justification 'jointly to the chairman and ranking minority member of each of the defense committees'.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

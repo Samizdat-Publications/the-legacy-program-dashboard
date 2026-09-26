@@ -53,6 +53,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The report treats the US, France and Chile as the only coordinated, transparent, scientifically driven approaches it found.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +112,7 @@
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,6 +144,7 @@
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -172,6 +176,7 @@
 "label": "The three-office model: GEIPAN, SEFAA, AARO",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -182,7 +187,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -198,6 +203,7 @@
 "label": "Ottawa, Ontario, Canada",
 "note": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -234,6 +240,7 @@
 "label": "Library and Archives Canada - UFO records collection",
 "note": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -260,6 +267,7 @@
 "label": "Dr Mona Nemer",
 "note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -270,7 +278,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

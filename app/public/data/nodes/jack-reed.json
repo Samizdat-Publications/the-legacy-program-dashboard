@@ -75,6 +75,7 @@
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "Reed introduced the vehicle on 11 July 2023 and signed the conference product that removed his own chamber's passed division.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -106,6 +107,7 @@
 "label": "Senate Armed Services Committee",
 "note": "Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -132,6 +134,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -77,6 +77,7 @@
 "label": "Legislative Process (proposed and pending)",
 "note": "Adopted by the House on 22 July 2026 as an amendment to the FY2027 NDAA, after a similar proposal failed to advance in the previous defence-bill cycle. As of this pass it is an adopted House amendment, not law, which is precisely the status distinction this domain is for.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,6 +104,7 @@
 "label": "Eric Burlison",
 "note": "The House adopted his Unidentified Anomalous Phenomena Disclosure Act amendment on 23 July 2026, creating a subpoena-empowered review board and contractor disclosure obligations.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -134,6 +136,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The Task Force found UAP spending flows to entities outside FOIA reach; the amendment adopted 23 July 2026 extends disclosure obligations to government contractors. Reasoning: direct correspondence between the finding and the remedy.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -144,7 +147,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -160,6 +163,7 @@
 "label": "The MITRE Corporation",
 "note": "The amendment extends disclosure requirements to covered government contractors - the only instrument that would reach the holdings Burlison sought from MITRE by letter in May 2026.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -175,7 +179,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "governs"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -191,6 +195,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The amendment requires agencies to identify, organise, preserve and transmit UAP records to the National Archives on a statutory timeline and creates a Senate-confirmed Records Review Board with subpoena authority.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -227,6 +232,7 @@
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "Sections 1841-1843 created a records collection without a review board, subpoena power or contractor reach; the 2026 amendment reintroduces all three.",
 "predicate": "amended",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,7 +248,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "amended"
+"verb": "linked through law"
 },
 {
 "claimTier": 3,
@@ -258,6 +264,7 @@
 "label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
 "note": "The House framework must survive conference against a Senate reported bill (S. 4784, S. Rept. 119-127) containing zero UAP provisions - the second consecutive cycle in which the subject is absent from the Senate base text. The 2023 precedent is that the eminent-domain and review-board provisions were stripped in conference.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -289,6 +296,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Burlison's own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE's defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -304,7 +312,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -320,6 +328,7 @@
 "label": "PURSUE Task Force",
 "note": "The amendment's Senate-confirmed Records Review Board is the constitutional answer to a task force exercising declassification authority with no published charter.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -335,7 +344,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

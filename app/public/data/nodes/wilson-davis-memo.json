@@ -65,6 +65,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -96,6 +97,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO records a senior military officer describing a craft floating in a building with roughly 150 people working on it, in a program kept 'outside of government so the technology could remain proprietary' - the memo's central claim, restated in a DoD publication.",
 "predicate": "corroborated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "David Charles Grusch",
 "note": "Both describe an appropriately cleared official being refused a read-on by programme security officers and contractor gatekeepers on need-to-know grounds. Twenty-one years apart, two officials describe the same wall.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -137,7 +140,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -153,6 +156,7 @@
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,7 +167,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -179,6 +183,7 @@
 "label": "Eric W. Davis",
 "note": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -205,6 +210,7 @@
 "label": "Eric W. Davis",
 "note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -246,6 +252,7 @@
 "label": "Jesse Michels",
 "note": "Chapter at 37:56 of the 8 March 2026 episode, with the memo's named author-participant in the room - the closest to a primary-source interrogation of that document yet conducted in public.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -272,6 +279,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -287,7 +295,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is held by"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -303,6 +311,7 @@
 "label": "Thomas R. Wilson",
 "note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -329,6 +338,7 @@
 "label": "Will Miller",
 "note": "Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

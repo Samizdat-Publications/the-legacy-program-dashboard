@@ -59,6 +59,7 @@
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on 'special access program' or 'controlled access program'. A measure that is neither falls outside all four.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -113,6 +113,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -123,7 +124,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -139,6 +140,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,6 +167,7 @@
 "label": "Colm A. Kelleher",
 "note": "DIA official James Lacatski read 'Hunt for the Skinwalker' by Kelleher and George Knapp, contacted Bigelow, visited the ranch, and relayed the experience to Sen. Harry Reid; the two later co-authored 'Skinwalkers at the Pentagon' (2021).",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -196,6 +199,7 @@
 "label": "Defense Intelligence Agency",
 "note": "Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release — a records posture aimed at breaking the link between office and person.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -211,7 +215,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is left out of"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -227,6 +231,7 @@
 "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
 "note": "The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -253,6 +258,7 @@
 "label": "Jesse Michels",
 "note": "The episode description states Davis held security clearances through AAWSAP and was formally deputised by DIA under program manager James Lacatski, 'who himself claims he has stepped inside a UFO and breached the hull.'",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -263,7 +269,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -279,6 +285,7 @@
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -294,7 +301,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -310,6 +317,7 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -336,6 +344,7 @@
 "label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
 "note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -362,6 +371,7 @@
 "label": "Robert T. Bigelow",
 "note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
 "predicate": "requested",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -372,7 +382,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "made a request of"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 2,
@@ -388,6 +398,7 @@
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "note": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

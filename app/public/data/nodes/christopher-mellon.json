@@ -167,6 +167,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and SSCI staff director, attacked the AARO report's quality at the September 2025 Task Force hearing - an oversight professional's judgment on the rebuttal's workmanship rather than on the phenomenon.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,6 +194,7 @@
 "label": "Anna Paulina Luna",
 "note": "Mellon called it 'the most error-ridden and unsatisfactory government report I can recall reading after decades of government service.'",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -219,6 +221,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch referred roughly 40 witnesses to the ICIG; Mellon independently states well-placed officials shared detailed information with him and has facilitated classified congressional briefings. Reasoning: the two streams are described separately in the same article, and no document establishes overlap - but they converge on the same committees.",
 "predicate": "corroborated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -245,6 +248,7 @@
 "label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
 "note": "Gerb proposes that SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure are the likely referents of the Air Force SES-2 gatekeeper Christopher Mellon has described publicly. This is Gerb's method in miniature: take a witness's unnamed role and resolve it against the published org chart.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -271,6 +275,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Index of Documents: 'Mellon Hearing Letter; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -281,7 +286,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -297,6 +302,7 @@
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "Mellon's own on-record account in The Phenomenon: 'I received the videos, the now famous videos in the Pentagon parking lot from a Defense Department official.' The handing official has never been identified.",
 "predicate": "transferred",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -307,7 +313,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "passed records or material to"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -323,6 +329,7 @@
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "The FY2026 NDAA's three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -333,7 +340,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "supported"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -349,6 +356,7 @@
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "Per Disclosure Foundation executive director Jordan Flowers.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -359,7 +367,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "supported"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -375,6 +383,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Mellon says he provided the files to the Times; the Times separately stated the Department of Defense was its on-the-record source for them.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -401,6 +410,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Mellon's judgement six days after Release 01 became the framing for the entire research community's response.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -411,7 +421,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -427,6 +437,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Mellon conceded the scale of the retained holdings is itself a revelation while rejecting the sufficiency of context-free files.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -437,7 +448,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -453,6 +464,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -484,6 +496,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Mellon's March 2018 Washington Post op-ed and his subsequent Hill work are the bridge between the TTSA period and the formal government structures. The causal link is reasoned from sequence and his documented access, not from a single primary record.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -499,7 +512,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "led to"
+"verb": "linked in place or time"
 }
 ],
 "date": "2017-12-16",

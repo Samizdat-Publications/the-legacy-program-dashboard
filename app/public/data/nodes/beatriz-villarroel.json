@@ -100,6 +100,7 @@
 "label": "Stephen Bruehl",
 "note": "An astronomer and a Vanderbilt anesthesiology professor with statistical training - an indication of how far outside conventional aerospace research the productive work has migrated.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -126,6 +127,7 @@
 "label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

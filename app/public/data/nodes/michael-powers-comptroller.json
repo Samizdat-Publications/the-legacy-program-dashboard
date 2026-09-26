@@ -58,6 +58,7 @@
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "The Under Secretary (Comptroller)/CFO is the official responsible for execution of appropriated funds including those directed by the classified annex tables under section 8006(a). Reasoned inference from the office's statutory functions; no document names the incumbent in connection with the annex.",
 "predicate": "implements",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -68,7 +69,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "implements"
+"verb": "linked through law"
 }
 ],
 "date": "2026-05-20",

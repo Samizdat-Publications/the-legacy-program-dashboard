@@ -70,6 +70,7 @@
 "label": "David Fravor",
 "note": "Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,7 +86,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is contradicted by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -101,6 +102,7 @@
 "label": "Gary Voorhis",
 "note": "Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,7 +113,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "corroborates"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -127,6 +129,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -153,6 +156,7 @@
 "label": "USS Princeton (CG-59)",
 "note": "Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

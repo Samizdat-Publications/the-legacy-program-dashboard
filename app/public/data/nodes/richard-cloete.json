@@ -52,6 +52,7 @@
 "label": "The Galileo Project",
 "note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "wrote"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -78,6 +79,7 @@
 "label": "UAP Science Advisory Council",
 "note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 }
 ],
 "date": "2026-06-15",

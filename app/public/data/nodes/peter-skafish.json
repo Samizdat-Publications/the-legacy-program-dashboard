@@ -127,6 +127,7 @@
 "label": "The Sol Foundation",
 "note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,7 +148,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "founded"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -163,6 +164,7 @@
 "label": "UAP Science Advisory Council",
 "note": "Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -178,7 +180,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 }
 ],
 "date": "2026-06-22",

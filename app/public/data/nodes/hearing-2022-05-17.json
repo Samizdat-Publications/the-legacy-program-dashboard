@@ -41,6 +41,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Ronald S. Moultrie",
 "note": "A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Scott W. Bray",
 "note": "A genuine witness appearance in an official capacity.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

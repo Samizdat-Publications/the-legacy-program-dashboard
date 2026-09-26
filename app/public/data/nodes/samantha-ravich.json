@@ -72,6 +72,7 @@
 "label": "The MITRE Corporation",
 "note": "Elected three days before the Burlison production request was sent; former vice chair of the President's Intelligence Advisory Board.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,6 +99,7 @@
 "label": "RAND Corporation",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {

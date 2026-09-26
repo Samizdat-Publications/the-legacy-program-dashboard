@@ -35,6 +35,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Liberation Times reported in January 2026 that an exotic vehicle has been stored at Pax River for decades and that the supporting contractor ecosystem has included Lockheed Martin and MITRE.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -45,7 +46,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is the location of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -61,6 +62,7 @@
 "label": "Luis D. Elizondo",
 "note": "Reported from his written congressional testimony: a hangar at the base was allegedly designed to facilitate movement of material by air and by river.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -71,7 +73,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -87,6 +89,7 @@
 "label": "The MITRE Corporation",
 "note": "The FFRDC form grants privileged long-term access to classified holdings while barring manufacturing and competition; no allegation of custody attaches to MITRE.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,7 +100,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the location of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -113,6 +116,7 @@
 "label": "Salvatore Cezar Pais",
 "note": "The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

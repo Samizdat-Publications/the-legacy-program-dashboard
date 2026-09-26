@@ -77,6 +77,7 @@
 "label": "Propulsion & Field Physics",
 "note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,6 +104,7 @@
 "label": "George S. Trimble",
 "note": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -129,6 +131,7 @@
 "label": "Joseph Weber",
 "note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
 "predicate": "in_contact_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -139,7 +142,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was in contact with"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -155,6 +158,7 @@
 "label": "Louis Witten",
 "note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -165,7 +169,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -181,6 +185,7 @@
 "label": "Peter G. Bergmann",
 "note": "The conference was, in the report's own words, an activity of the North Carolina Project of the Institute of Field Physics, and Bergmann sat on its steering committee.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -207,6 +212,7 @@
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "The same source describes the Martin company standing up what 'would become RIAS' at the same moment, and says the Institute of Field Physics was placed inside a university 'so as to avoid the conflict that physicists felt working in an industrial setting'.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -217,7 +223,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -233,6 +239,7 @@
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics, names Bahnson as fundraiser and records the directorship offered to Bryce S. DeWitt.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

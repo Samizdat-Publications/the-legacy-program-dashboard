@@ -53,6 +53,7 @@
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF administrative records March 1945-December 1949 and outgoing messages October 1946-December 1949 were destroyed; the disposition form records neither who destroyed them nor under what authority.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "White Sands Missile Range, New Mexico",
 "note": "The Foster Ranch debris field, White Sands Proving Ground, the Alamogordo Mogul launch site, Los Alamos, Sandia and Kirtland all lie within a few hundred miles. Reasoning: geographic proximity is the reason a materiel recovery there fell inside multiple classified security envelopes at once.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -89,7 +91,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -105,6 +107,7 @@
 "label": "Roswell Incident",
 "note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force's own reports.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "Roswell Incident",
 "note": "The recovery, the announcement and the destroyed records all belong to a single installation with the most restrictive information discipline in the US military.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

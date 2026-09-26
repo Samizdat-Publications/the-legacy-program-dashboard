@@ -59,6 +59,7 @@
 "label": "Central Intelligence Agency",
 "note": "A board of the Agency, described in the Agency's own released guidance.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Chain of custody",
 "note": "The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Official Denial",
 "note": "The mandatory disclaimer required on every approved writing states that nothing in it implies US Government authentication of the information, which is a formal, self-documented denial attached in advance to every cleared account.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

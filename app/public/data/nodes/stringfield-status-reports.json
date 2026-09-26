@@ -53,6 +53,7 @@
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
 "note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -110,6 +112,7 @@
 "label": "Del Rio / Mexican border claim, 1948 or 1950",
 "note": "The consolidated chronology in Status Report III lists Item B-7 of Status Report II as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -136,6 +139,7 @@
 "label": "Kingman, Arizona claim, 1953",
 "note": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -146,7 +150,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -162,6 +166,7 @@
 "label": "Leonard H. Stringfield",
 "note": "Stringfield wrote and self-published or placed all seven Status Reports between July 1978 and February 1994. Title and copyright pages of the original printings attest authorship, dates and, for Report VI, the Cincinnati imprint.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -188,6 +193,7 @@
 "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
 "note": "A substantial share of 'Majic Eyes Only' entries trace back through Stringfield's anonymised Status Report cases, so the catalogue inherits their provenance limits. Reasoning: an index cannot be graded above its sources.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

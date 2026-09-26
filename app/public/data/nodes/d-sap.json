@@ -42,6 +42,7 @@
 "label": "Congressional Oversight",
 "note": "The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -68,6 +69,7 @@
 "label": "Program Structure & Management",
 "note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,7 +80,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -94,6 +96,7 @@
 "label": "Secrecy Law & Classification",
 "note": "10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -125,6 +128,7 @@
 "label": "Secrecy Architecture",
 "note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -151,6 +155,7 @@
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "The report is a primary statement of how special access programmes are established and by whom.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -177,6 +182,7 @@
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
 "note": "The directive tells the national security adviser to 'establish a separate, specially compartmented control and access system at the Top Secret classification level for all policy matters concerning covert action', with one designated focal point per agency. This is special access architecture applied to policy rather than to a programme, and it is 1985.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

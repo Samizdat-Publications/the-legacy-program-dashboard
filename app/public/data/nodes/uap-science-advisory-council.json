@@ -161,6 +161,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -196,7 +197,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 3,
@@ -212,6 +213,7 @@
 "label": "AARO invite-only UAP research workshop (early August 2025)",
 "note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -227,7 +229,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -243,6 +245,7 @@
 "label": "Abraham 'Avi' Loeb",
 "note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -289,6 +292,7 @@
 "label": "Chain of custody",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -320,6 +324,7 @@
 "label": "Garry Nolan",
 "note": "The scientist who published the first peer-reviewed UAP materials analysis is seated on a body with no access to the government's own materials.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -351,6 +356,7 @@
 "label": "Jacob Haqq-Misra",
 "note": "One of five Sol-affiliated appointments announced by the foundation in June 2026.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -361,7 +367,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -377,6 +383,7 @@
 "label": "Matthew Szydagis",
 "note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -408,6 +415,7 @@
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI announced the council following the PURSUE records releases; the FBI is named as supporting.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -434,6 +442,7 @@
 "label": "Peter Skafish",
 "note": "Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -449,7 +458,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -465,6 +474,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -506,6 +516,7 @@
 "label": "Richard Cloete",
 "note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -521,7 +532,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 3,
@@ -537,6 +548,7 @@
 "label": "Robertson Panel",
 "note": "Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -547,7 +559,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -563,6 +575,7 @@
 "label": "The Sol Foundation",
 "note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -573,7 +586,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "governs"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -589,6 +602,7 @@
 "label": "The Sol Foundation",
 "note": "Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -609,7 +623,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "linked through a role"
 },
 {
 "claimTier": 3,
@@ -625,6 +639,7 @@
 "label": "3I/ATLAS interstellar object and the US government response (November 2025)",
 "note": "An anomalous object in the public eye during a shutdown, with no standing government scientific body chartered to speak to it; the same scientist convened the council seven months later.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -640,7 +655,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -656,6 +671,7 @@
 "label": "Timothy Gallaudet",
 "note": "A retired rear admiral and former acting NOAA administrator, and a Sol Foundation senior adviser, seated on the government's outside science body.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -697,6 +713,7 @@
 "label": "UAP Governance Board",
 "note": "The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

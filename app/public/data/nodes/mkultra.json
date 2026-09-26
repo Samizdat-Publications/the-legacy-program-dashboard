@@ -59,6 +59,7 @@
 "label": "Allen W. Dulles",
 "note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Central Intelligence Agency",
 "note": "The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "Records & Archives",
 "note": "The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,6 +167,7 @@
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -189,6 +194,7 @@
 "label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026",
 "note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -215,6 +221,7 @@
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -241,6 +248,7 @@
 "label": "Project BLUEBIRD",
 "note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -267,6 +275,7 @@
 "label": "Sidney Gottlieb",
 "note": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -70,6 +70,7 @@
 "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
 "note": "THIS EDGE IS THE INVERSE OF THE TWO ABOVE AND IS BUILT SEPARATELY ON PURPOSE. The same historian whose analysis demolishes most of Fouche's account is the reference source that makes Fouche's single best document mean something: 'Since the late 1970s, the Groom Lake facility has been operated by Detachment 3 of the Air Force Flight Test Center.' He is on both sides of this file and the graph should show it.",
 "predicate": "studied",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -80,7 +81,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "studied"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -96,6 +97,7 @@
 "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
 "note": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,6 +129,7 @@
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

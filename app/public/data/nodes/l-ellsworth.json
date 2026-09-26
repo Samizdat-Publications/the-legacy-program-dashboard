@@ -41,6 +41,7 @@
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "note": "Tier 2 because the location is as claimed on a dated broadcast, not as established by any Air Force record.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Mario Woods",
 "note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -77,7 +79,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -93,6 +95,7 @@
 "label": "Michael Johnson",
 "note": "The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -119,6 +122,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,7 +133,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

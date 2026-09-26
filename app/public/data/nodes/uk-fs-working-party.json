@@ -29,6 +29,7 @@
 "label": "United Kingdom Ministry of Defence",
 "note": "The Flying Saucer Working Party precedes the UFO desk and reached the same self-terminating conclusion Condign would reach fifty years later.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -39,7 +40,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

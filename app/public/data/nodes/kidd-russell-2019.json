@@ -47,6 +47,7 @@
 "label": "Southern California Operating Areas (W-291 and Baja approaches)",
 "note": "Deck logs from USS Kidd, Rafael Peralta, Russell and John Finn, obtained under FOIA and cross-checked against AIS tracking, document the July 2019 events.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Both events occurred in the instrumented Southern California naval training space, both were documented in Navy records, and neither produced an attribution.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The ODNI preliminary assessment covers 144 reports from USG sources spanning November 2004 to March 2021, the window containing both the Nimitz and the 2019 swarm events.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -135,6 +138,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The July 2019 events were investigated by the Navy, Coast Guard and FBI and reached the Chief of Naval Operations in the period immediately preceding the Task Force's establishment; the linkage is reasoned from timing and subject matter, not from a released tasking document.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +149,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "led to"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

@@ -70,6 +70,7 @@
 "label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
 "note": "As Chief of the Air Intelligence Requirements Division he signed 'Intelligence Requirements on Flying Saucer Type Aircraft' on 28 October 1947, distributed 30 October.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,6 +97,7 @@
 "label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
 "note": "Schulgen was the named addressee. Five weeks later he issued the worldwide collection memorandum, making the causal chain from assessment to collection tasking explicit in the documentary record.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -53,6 +53,7 @@
 "label": "Secrecy Law & Classification",
 "note": "The board's suppression argument usually runs through classification; PRP is the administrative alternative, a published rule that can remove a person from his job without any classification decision at all.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The directive is issued under the authority of the Assistant Secretary of Defense (C3I) and binds every DoD component.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "Capt. Robert L. Salas",
 "note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +145,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "governs"
+"verb": "linked through law"
 }
 ],
 "coords": null,

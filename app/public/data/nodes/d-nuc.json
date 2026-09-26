@@ -66,6 +66,7 @@
 "label": "Astronomy & Astrophysics",
 "note": "Bruehl and Villarroel's Scientific Reports paper links POSS-I transients to nuclear testing and to UAP reports, connecting the astronomical and nuclear-nexus domains.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -76,7 +77,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -92,6 +93,7 @@
 "label": "Intelligence Tradecraft & Analysis",
 "note": "Hancock, Porritt and Grosvenor applied formal intelligence indications methodology to UAP reporting against the US atomic warfare complex.",
 "predicate": "studied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -102,7 +104,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was studied by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 3,
@@ -118,6 +120,7 @@
 "label": "Nuclear Security & Restricted Data",
 "note": "The sites where the correlation is strongest are governed by the Restricted Data regime rather than by DoD classification, which routes any resulting analysis outside the SAP framework.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -128,7 +131,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is governed by"
+"verb": "linked through law"
 }
 ],
 "coords": null,

@@ -35,6 +35,7 @@
 "label": "Glenn S. Grothman",
 "note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "Robert Garcia",
 "note": "Introduced 11 January 2024, the day before the ICIG briefing.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -92,6 +94,7 @@
 "label": "Ryan Graves",
 "note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -107,7 +110,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "followed from"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

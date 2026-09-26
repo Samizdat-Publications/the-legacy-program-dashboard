@@ -59,6 +59,7 @@
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "note": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +97,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -111,6 +113,7 @@
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Condign Volume 3 chapter 4 states that Soviet study of UAP 'may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas'.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
 "note": "This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening 'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.' The same chapter runs on to Popovich's 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev's 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov's account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,6 +167,7 @@
 "label": "Spanish Ministry of Defence UFO file declassification",
 "note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -189,6 +194,7 @@
 "label": "United Kingdom Ministry of Defence",
 "note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -199,7 +205,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -215,6 +221,7 @@
 "label": "Vladimir Georgievich Azhazha",
 "note": "Condign identifies 'V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner' as head of the 1990 inter-industry ufology research centre.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -225,7 +232,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "concerns"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

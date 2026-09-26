@@ -56,6 +56,7 @@
 "label": "Harold E. Puthoff",
 "note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -87,6 +88,7 @@
 "label": "SRI International (Stanford Research Institute)",
 "note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -118,6 +120,7 @@
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -128,7 +131,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was a member of"
+"verb": "linked through a role"
 }
 ],
 "date": "1974-10-18",

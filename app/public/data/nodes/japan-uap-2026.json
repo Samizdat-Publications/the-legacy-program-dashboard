@@ -41,6 +41,7 @@
 "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
 "note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

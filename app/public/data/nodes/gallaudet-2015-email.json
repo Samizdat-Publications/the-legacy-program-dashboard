@@ -47,6 +47,7 @@
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "note": "Gallaudet's written testimony states the January 2015 'URGENT SAFETY OF FLIGHT ISSUE' email attached the GO FAST video and cited 'multiple near-midair collisions.'",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Gallaudet concluded the recalled information 'must have been classified within a special access program managed by an intelligence agency'; at the same hearing Shellenberger described an alleged parent USAP consolidating UAP imagery collection.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -88,7 +90,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -104,6 +106,7 @@
 "label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
 "note": "The range fouler set records reporting terminating at Third Fleet with no dissemination process; Gallaudet records a Fleet Forces Command safety message deleted within a day.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -119,7 +122,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -135,6 +138,7 @@
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "The message describes exactly the problem Graves's squadron reported - repeated near-midairs with unidentified objects in working airspace - and was withdrawn within 24 hours.",
 "predicate": "responded_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -166,6 +170,7 @@
 "label": "Timothy Gallaudet",
 "note": "Gallaudet, then Commander of Naval Meteorology and Oceanography Command, testified the email vanished from his and other recipients' accounts the next day.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -35,6 +35,7 @@
 "label": "UAP Science Advisory Council",
 "note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "came before"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

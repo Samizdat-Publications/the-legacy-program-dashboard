@@ -137,6 +137,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Congress required AARO to brief on NORAD/USNORTHCOM UAP intercepts since 2004 and to account for the security classification guides it uses - a legislative finding that the office has been withholding and overclassifying.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,6 +164,7 @@
 "label": "Christopher K. Mellon",
 "note": "The FY2026 NDAA's three UAP provisions reflect recommendations from Mellon and the Disclosure Foundation.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -173,7 +175,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was supported by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -189,6 +191,7 @@
 "label": "Christopher K. Mellon",
 "note": "Per Disclosure Foundation executive director Jordan Flowers.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -199,7 +202,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was supported by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 3,
@@ -215,6 +218,7 @@
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The IG found components were not required to report to AARO; two years later Congress legislated to streamline agency data sharing into AARO investigations.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -230,7 +234,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "responded to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -246,6 +250,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Section 1687(a) applied only to funds authorised by the FY2024 Act; a full-text search of the FY2025 and FY2026 NDAAs returns no equivalent provision. Section 1687(b), codified as a 50 U.S.C. 3373 note, has no fiscal-year limit. Attested by the enacted texts of all three Acts.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -256,7 +261,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -272,6 +277,7 @@
 "label": "NORAD and US Northern Command",
 "note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -282,7 +288,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "concerns"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

@@ -42,6 +42,7 @@
 "label": "Counterintelligence",
 "note": "Administrative revocation of access is effectively unreviewable and can end a career without any finding; this is the inferred mechanism suppressing first-hand testimony.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -68,6 +69,7 @@
 "label": "Legal Doctrine & Liability",
 "note": "DODIG-2023-109 exists because personnel used the Inspector General channel; the legal domain determines which disclosures are protected and which are prosecutable.",
 "predicate": "affects",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -94,6 +96,7 @@
 "label": "Congressional Oversight",
 "note": "The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +107,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -120,6 +123,7 @@
 "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "note": "Every member of the set is on the board only as someone who asserted something, which under CLAUDE.md section 6 is exactly the situation in which degree must never be read as truth.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

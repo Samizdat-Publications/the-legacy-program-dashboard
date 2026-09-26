@@ -59,6 +59,7 @@
 "label": "Cecilia Levy",
 "note": "Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -90,6 +91,7 @@
 "label": "Kevin H. Knuth",
 "note": "The UAlbany Department of Physics faculty page lists Knuth's appointments as Assistant Professor 2005-2009, Associate Professor 2009-2023, Professor 2023-present, immediately following four years as a GS-14 Research Scientist in the Intelligent Systems Division at NASA Ames (2001-2005). The same page records him as Editor-in-Chief of Entropy (MDPI) since 2012, which is the journal that published the 2019 Nimitz kinematics paper. This is the primary reason the institution is on the board: it is the salaried academic post from which the peer-reviewed UAP kinematics and field-instrumentation literature was produced.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "Matthew Szydagis",
 "note": "The department's own faculty page for Szydagis lists his research interests as 'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -142,6 +145,7 @@
 "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,7 +161,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "produced"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -173,6 +177,7 @@
 "label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
 "note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -204,6 +209,7 @@
 "label": "UAPx",
 "note": "The distinction matters and is drawn by the University itself. UAlbany's release separates 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy' from 'Ben Kugielsky of UAPx, a non-profit scientific research organization'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from UAlbany.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -219,7 +225,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "worked with"
+"verb": "linked through a role"
 }
 ],
 "coords": null,

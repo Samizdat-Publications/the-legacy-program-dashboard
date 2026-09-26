@@ -77,6 +77,7 @@
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "note": "LOCATED BY THE PUBLISHING PARTY ON 26 JUNE 2026 FROM A VIEWER'S FACEBOOK TIP, VIA AN UNNAMED RECRUITER. NO DATED PUBLIC STATEMENT BY HIM ABOUT THIS EVENT EXISTS PRIOR TO THAT CONTACT. ON THE RECORDED CALL HE ANSWERED 'NO' BEFORE THE ORIGINAL WITNESS NAMED THE UFO, TWICE, AND HE THEN ASSENTED. THE EPISODE'S OWN LATER RETELLING OF THAT MOMENT CONTRADICTS ITS OWN RECORDING OF IT. The accounts agree on substance and diverge on posture and agency, which reads very differently from verbatim agreement.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,7 +88,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -103,6 +104,7 @@
 "label": "Ellsworth AFB, South Dakota",
 "note": "The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -113,7 +115,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -129,6 +131,7 @@
 "label": "Mario Woods",
 "note": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
 "predicate": "in_contact_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -139,7 +142,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "was in contact with"
+"verb": "linked through conduct"
 }
 ],
 "date": "2026-06-26",

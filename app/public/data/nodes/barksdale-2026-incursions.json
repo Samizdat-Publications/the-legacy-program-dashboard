@@ -53,6 +53,7 @@
 "label": "Gregory M. Guillot",
 "note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Joint Interagency Task Force 401 (JIATF-401)",
 "note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "drew a response from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -110,6 +112,7 @@
 "label": "Barksdale Air Force Base, Louisiana",
 "note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

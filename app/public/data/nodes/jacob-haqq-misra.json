@@ -48,6 +48,7 @@
 "label": "UAP Science Advisory Council",
 "note": "One of five Sol-affiliated appointments announced by the foundation in June 2026.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -58,7 +59,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "linked through a role"
 }
 ],
 "date": "2026-06-15",

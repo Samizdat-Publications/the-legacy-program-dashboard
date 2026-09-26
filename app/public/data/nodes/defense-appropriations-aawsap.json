@@ -41,6 +41,7 @@
 "label": "Daniel K. Inouye",
 "note": "Inouye's control of the Senate Appropriations process allowed the $22M to be routed through the classified annex without floor debate on the allocation.",
 "predicate": "sponsored_law",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "was sponsored by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Defense Intelligence Agency",
 "note": "The appropriation named DIA as the recipient agency to assess long-term and over-the-horizon foreign advanced aerospace threats.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "note": "That DIA had to introduce the program to SASC by letter in 2018 establishes the committee had no visibility during its life — the direct consequence of funding it through the classified appropriation.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -119,6 +122,7 @@
 "label": "Harry M. Reid",
 "note": "AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -145,6 +149,7 @@
 "label": "Theodore F. Stevens",
 "note": "Stevens, the senior Republican appropriator and former committee chairman, is consistently named with Reid and Inouye as one of the three senators behind the appropriation.",
 "predicate": "supported",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

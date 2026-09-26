@@ -71,6 +71,7 @@
 "label": "United States Department of Energy",
 "note": "50 U.S.C. 2426 imposes SAP reporting on the Administrator of the National Nuclear Security Administration, a semi-autonomous DOE agency.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -97,6 +98,7 @@
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "50 U.S.C. 2426(e)(1) expressly permits the Administrator to waive the report-and-wait requirement of subsection (f); 10 U.S.C. 119(e) does not.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -128,6 +130,7 @@
 "label": "National Nuclear Security Administration",
 "note": "50 U.S.C. 2426(e)(1) permits waiver of subsections (a), (b) and (c) and, uniquely, of the report-and-wait requirement in subsection (f).",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -154,6 +157,7 @@
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -180,6 +184,7 @@
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "The second exclusion in 50 U.S.C. 3348(g)(2)(B): '(ii) the National Nuclear Security Administration (which is required to submit reports on special access programs under section 2426 of this title)'. The third, (iii), excludes 'an agency in the Intelligence Community (as defined in section 3003(4) of this title)'. Read directly from the OLRC text on 22 August 2026.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -190,7 +195,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is cited by"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

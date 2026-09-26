@@ -131,6 +131,7 @@
 "label": "Anna Paulina Luna",
 "note": "Luna wrote to the Secretary of War seeking AARO's UAP video after the September 2025 testimony; the first PURSUE tranche with 29 sensor videos followed five weeks later.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -162,6 +163,7 @@
 "label": "Anna Paulina Luna",
 "note": "Luna wrote to the Secretary of War for video files held by AARO after September 2025 witnesses told the Task Force AARO held additional records; the PURSUE releases followed within five weeks.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -198,6 +200,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
 "predicate": "led",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -213,7 +216,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "led"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -229,6 +232,7 @@
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -67,6 +67,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,6 +99,7 @@
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

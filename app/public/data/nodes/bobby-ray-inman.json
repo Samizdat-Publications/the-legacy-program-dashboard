@@ -74,6 +74,7 @@
 "label": "Central Intelligence Agency",
 "note": "Nominated and heard on 3 February 1981 to be Deputy Director of Central Intelligence, the post SAIC's own proxy later lists among his government service.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +106,7 @@
 "label": "Defense Intelligence Agency",
 "note": "Vice Director for Plans, Operations and Support of the Defense Intelligence Agency before the NSA directorship, in his own testimony.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -131,6 +133,7 @@
 "label": "National Security Agency",
 "note": "Director of the National Security Agency from 5 July 1977, stated by him under oath at his 1981 confirmation hearing.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,6 +160,7 @@
 "label": "Science Applications International Corporation",
 "note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -172,7 +176,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "linked through a role"
 }
 ],
 "date": "1981-02-03",

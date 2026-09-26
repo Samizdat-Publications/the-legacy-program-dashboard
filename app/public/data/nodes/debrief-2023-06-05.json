@@ -41,6 +41,7 @@
 "label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
 "note": "DOPSR approvals of 4 and 6 April 2023 preceded the 5 June 2023 Debrief publication. Kean and Blumenthal confirmed the clearance before publishing, which is why the Pentagon's response contested substantiation rather than authorization.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "The Debrief published 5 June 2023; the House Oversight subcommittee took sworn testimony 26 July 2023. The speed is itself a data point about congressional appetite in that window.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Leslie Kean",
 "note": "Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "Ralph Blumenthal",
 "note": "Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

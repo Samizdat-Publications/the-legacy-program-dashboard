@@ -41,6 +41,7 @@
 "label": "Air Force Office of Special Investigations",
 "note": "Gerb identifies AFOSI/PJ and its former director Terry Phillips - now Northrop Grumman VP for Security - as a bridge between Air Force counterintelligence and contractor security.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Christopher K. Mellon",
 "note": "Gerb proposes that SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure are the likely referents of the Air Force SES-2 gatekeeper Christopher Mellon has described publicly. This is Gerb's method in miniature: take a witness's unnamed role and resolve it against the published org chart.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 30 January 2026; maps SAF/AQ, SAF/AQX, SAF/AQL, SAF/AQR, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -75,6 +75,7 @@
 "label": "Luis D. Elizondo",
 "note": "DeLonge courted serving and retired officials from 2015-2017; the launch roster of 11 October 2017 is the product. The recruitment overlapped Elizondo's final year in government.",
 "predicate": "appointed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -90,7 +91,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "appointed"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -106,6 +107,7 @@
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "Thirteen emails in the Podesta release were sent from t.delonge@me.com, including this one, signed Tom DeLonge, Founder, To The Stars Media.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -132,6 +134,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "TTSA was a Regulation A public reporting issuer, which is why its holdings and agreements had to be filed with the SEC rather than remaining private.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

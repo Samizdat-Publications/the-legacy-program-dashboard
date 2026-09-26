@@ -53,6 +53,7 @@
 "label": "Central Intelligence Agency",
 "note": "The copy of The UFO Evidence read for this record is the Agency's, released as CIA-RDP81R00560R000100010001-0 and marked 'Approved For Release 2001/04/02'.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "An Air Force headquarters letter of 20 September 1957 addresses him as Director NICAP at 1536 Connecticut Avenue NW, and the organisation's May 1964 volume carries him on its masthead as director. No opened record gives an end date.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "National UFO Historical Records Center",
 "note": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -115,7 +118,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is held by"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -131,6 +134,7 @@
 "label": "Project Blue Book",
 "note": "The 1964 board list describes Dewey Fournet Jr. as the former Air Force Headquarters monitor of Project Blue Book and liaison officer between the Dayton project and the Pentagon.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "Roscoe H. Hillenkoetter",
 "note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -183,6 +188,7 @@
 "label": "Thomas Townsend Brown",
 "note": "A Washington Daily News report of 23 October 1956, in the FBI's own NICAP file, names T. Townsend Brown of Leesburg, Virginia as the man who runs it and gives his title, with the board of governors still to be elected on 1 November.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -209,6 +215,7 @@
 "label": "United States Air Force",
 "note": "The 1964 volume states that the Air Force 'has practiced an intolerable degree of secrecy keeping the public in the dark about the amount and possible significance of UFO evidence', and that copies of the report were sent to all Members of Congress.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

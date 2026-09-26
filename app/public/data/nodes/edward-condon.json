@@ -117,6 +117,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Condon authored the summary, conclusions and recommendations placed at the front of the report — the only section most readers and reporters ever saw.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,6 +144,7 @@
 "label": "Donald H. Menzel",
 "note": "The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -153,7 +155,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "supported"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -169,6 +171,7 @@
 "label": "Robert J. Low",
 "note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
 "predicate": "acted_against",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,7 +182,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "took action against"
+"verb": "linked through conduct"
 }
 ],
 "date": "1969-01-08",

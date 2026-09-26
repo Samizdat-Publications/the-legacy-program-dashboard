@@ -53,6 +53,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Kirkpatrick's 19 January 2024 circular-reporting framing appears as the analytic spine of the 8 March 2024 report - the departing director publishing the conclusion before the agency published the study.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -68,7 +69,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -84,6 +85,7 @@
 "label": "Luis D. Elizondo",
 "note": "Kirkpatrick names AATIP and Robert Bigelow as the origin of what he calls circular reporting, an attack that lands on Elizondo without engaging his account as testimony.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -110,6 +112,7 @@
 "label": "Robert T. Bigelow",
 "note": "The op-ed's causal account routes the entire disclosure record back through Bigelow's funding of the AAWSAP/AATIP orbit.",
 "predicate": "explained_away",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -120,7 +123,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "gave a conventional explanation for"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -136,6 +139,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "Published 19 January 2024, between his 1 December 2023 departure and the 8 March 2024 release of the report he had written.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -162,6 +166,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "Published 19 January 2024 under Kirkpatrick's own name, seven weeks before AARO's Historical Record Report advanced the same circular-reporting frame. The outgoing director pre-litigated his agency's conclusions in the press.",
 "predicate": "explained_away",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -172,7 +177,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was given a conventional explanation by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 3,
@@ -188,6 +193,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Kirkpatrick's mechanism was correct in form and wrong in agent: belief was seeded and repeated from a small source, but the documented source is a US Air Force indoctrination practice, not a civilian believer network. Whether AARO knew this when the op-ed ran is unresolved, given that AARO discovered Yankee Blue during his tenure.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

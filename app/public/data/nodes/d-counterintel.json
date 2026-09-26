@@ -42,6 +42,7 @@
 "label": "Psychological Operations & Perception Management",
 "note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 3,
@@ -68,6 +69,7 @@
 "label": "Witness Chain",
 "note": "Administrative revocation of access is effectively unreviewable and can end a career without any finding; this is the inferred mechanism suppressing first-hand testimony.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -78,7 +80,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

@@ -35,6 +35,7 @@
 "label": "UAP Science Advisory Council",
 "note": "The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

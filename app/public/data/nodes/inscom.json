@@ -53,6 +53,7 @@
 "label": "902d Military Intelligence Group, USAINSCOM",
 "note": "The group's own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "CENTER LANE",
 "note": "The project's own paperwork is INSCOM paperwork: the July 1984 memorandum recommending discontinuance, the July 1984 cancellation information paper, and the 2 March 1985 deactivation letter are all signed inside INSCOM.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Defense Intelligence Agency",
 "note": "INSCOM's letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "GRILL FLAME",
 "note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "SRI International (Stanford Research Institute)",
 "note": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -183,6 +188,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,7 +199,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

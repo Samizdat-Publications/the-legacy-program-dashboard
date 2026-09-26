@@ -53,6 +53,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Officials escalated the finding to the Director of National Intelligence, establishing that the deception was known at the top of the IC before any public account existed.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -53,6 +53,7 @@
 "label": "Charles A. Richard",
 "note": "His STRATCOM tenure, 2019-2022, coincides exactly with the UAP Task Force period and the establishment of AARO.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "The FFRDC Seam",
 "note": "IDA's Center for Communications and Computing is sponsored by NSA/CSS - the least publicly visible FFRDC in the country and the hardest for a committee to reach.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Harald B. Malmgren",
 "note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -115,7 +118,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -131,6 +134,7 @@
 "label": "JASON",
 "note": "JASON has never been housed inside the government: IDA, then SRI International, then MITRE. Continuity of the panel has always depended on an FFRDC operator's contract.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

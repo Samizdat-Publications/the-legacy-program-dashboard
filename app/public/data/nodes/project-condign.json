@@ -41,6 +41,7 @@
 "label": "Cosford incident, 30-31 March 1993",
 "note": "Reasoning: `project-condign`'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Project Condign's output is 'Unidentified Aerial Phenomena in the UK Air Defence Region'.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
 "note": "The product was issued as DIS Scientific & Technical Memorandum 55/2/00 and its key recommendation was addressed to DI55's own tasking.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

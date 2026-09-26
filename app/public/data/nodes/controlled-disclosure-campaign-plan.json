@@ -47,6 +47,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Sec. 9009(b)(6) required the Board to brief AARO on the Plan before terminating, and Sec. 9013(b)(2) required AARO to carry its requirements into standing guidance.",
 "predicate": "implements",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is implemented by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "The Controlled Disclosure Campaign Plan exists only as a Review Board product; removing the Board removed the Plan.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

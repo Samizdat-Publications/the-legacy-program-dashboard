@@ -47,6 +47,7 @@
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 4001(c) of the FY2026 NDAA states transfers or reprogrammings of funding-table amounts shall not count against the section 1001 ceiling unless funds move between appropriation accounts; section 4001(d) applies the section to any classified annex. Attested by the enacted text.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

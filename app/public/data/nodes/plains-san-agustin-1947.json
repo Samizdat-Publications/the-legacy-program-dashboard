@@ -47,6 +47,7 @@
 "label": "Grady L. 'Barney' Barnett",
 "note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -73,6 +74,7 @@
 "label": "Gerald Anderson",
 "note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

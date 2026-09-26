@@ -81,6 +81,7 @@
 "label": "Los Alamos Green Fireballs Conference",
 "note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,7 +92,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -107,6 +108,7 @@
 "label": "Albuquerque, New Mexico",
 "note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

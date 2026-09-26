@@ -47,6 +47,7 @@
 "label": "National Security Council",
 "note": "McGeorge Bundy signs, addressed to the Secretaries of State and Defense and the DCI. Worth recording because the memo is often cited as a presidential instrument.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was written by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

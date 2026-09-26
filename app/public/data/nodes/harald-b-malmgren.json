@@ -56,6 +56,7 @@
 "label": "Institute for Defense Analyses",
 "note": "The only source is the biography his daughter published after his death; no IDA or Defense Department personnel record was opened, so this edge must not render as documented.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -66,7 +67,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -82,6 +83,7 @@
 "label": "Los Alamos, New Mexico",
 "note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -97,7 +99,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "made claims about"
+"verb": "linked through testimony"
 }
 ],
 "date": "2025-02-13",

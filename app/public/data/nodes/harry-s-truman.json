@@ -56,6 +56,7 @@
 "label": "Central Intelligence Agency",
 "note": "Section 102(a) of the National Security Act of 1947, approved 26 July 1947, establishes the Central Intelligence Agency under the National Security Council.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,6 +83,7 @@
 "label": "CIA Office of Policy Coordination",
 "note": "The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +110,7 @@
 "label": "Defense Advanced Research Projects Agency",
 "note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -134,6 +137,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -160,6 +164,7 @@
 "label": "Roscoe H. Hillenkoetter",
 "note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
 "predicate": "appointed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -186,6 +191,7 @@
 "label": "Rear Adm. Sidney W. Souers",
 "note": "The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates.",
 "predicate": "appointed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -212,6 +218,7 @@
 "label": "United States Air Force",
 "note": "Section 2's declaration of policy provides three military departments including the Air Force, and section 101(a) names a Secretary of the Air Force appointed under section 207.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -107,6 +107,7 @@
 "label": "David Charles Grusch",
 "note": "Listed as his current position in the biography the House Oversight Committee published on the day of his testimony.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -133,6 +134,7 @@
 "label": "Dylan Borland",
 "note": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -164,6 +166,7 @@
 "label": "Eric W. Davis",
 "note": "Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -190,6 +193,7 @@
 "label": "Garry Nolan",
 "note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -226,6 +230,7 @@
 "label": "Jacques F. Vallee",
 "note": "Named on the Sol Foundation People page.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -252,6 +257,7 @@
 "label": "Jake Barber",
 "note": "A whistleblower first platformed by an independent YouTube channel in January 2025 appears on a symposium programme alongside Karl Nell, Jacques Vallee and a retired French general nine months later. The pipeline from independent media to institutional legitimation is short and documented.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -262,7 +268,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "featured"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -278,6 +284,7 @@
 "label": "James 'Jim' Semivan",
 "note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -293,7 +300,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -309,6 +316,7 @@
 "label": "Karl E. Nell",
 "note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -319,7 +327,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -335,6 +343,7 @@
 "label": "Kirk McConnell",
 "note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -371,6 +380,7 @@
 "label": "Stanford, California",
 "note": "Garry Nolan of the Stanford School of Medicine co-founded the Sol Foundation with Peter Skafish; its symposia are the current academic venue for the subject.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -397,6 +407,7 @@
 "label": "Leslie Kean",
 "note": "Kean was a named speaker at the 17-18 November 2023 inaugural conference, linking the journalistic and institutional wings.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -407,7 +418,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "featured"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -423,6 +434,7 @@
 "label": "Marik von Rennenkampff",
 "note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -443,7 +455,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -459,6 +471,7 @@
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -469,7 +482,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "cites"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -485,6 +498,7 @@
 "label": "Peter Skafish",
 "note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -505,7 +519,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was founded by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -521,6 +535,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the PURSUE releases, positioning itself as the interpretive authority on the released record.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -531,7 +546,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "reported on"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -547,6 +562,7 @@
 "label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
 "note": "The briefing is issued in The Sol Foundation Science and Policy Briefings series (No. 3, April 2026, published online 30 April 2026) and carries the foundation's imprint and cofounders Garry Nolan and Peter Skafish on the colophon.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -578,6 +594,7 @@
 "label": "Timothy Gallaudet",
 "note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -614,6 +631,7 @@
 "label": "UAP Science Advisory Council",
 "note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -624,7 +642,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -640,6 +658,7 @@
 "label": "UAP Science Advisory Council",
 "note": "Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -660,7 +679,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -676,6 +695,7 @@
 "label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

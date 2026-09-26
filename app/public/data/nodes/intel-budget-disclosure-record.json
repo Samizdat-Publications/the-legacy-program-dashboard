@@ -59,6 +59,7 @@
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -85,6 +86,7 @@
 "label": "Steven Aftergood",
 "note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
 "note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

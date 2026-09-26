@@ -47,6 +47,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The FBI appears as an RG 615 contributor (catalog ID 580705010) and was the largest single contributor to PURSUE Release 03, while its public Vault UFO collection remained last-modified 25 July 2013.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "was succeeded by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -73,6 +74,7 @@
 "label": "PURSUE Release 01",
 "note": "The Bureau's master flying disc file covering 1947 to 1968 was released as a single 101MB PDF through war.gov rather than through the FBI's own reading room.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "PURSUE Release 03",
 "note": "The tranche established the FBI as an active modern UAP collector, a posture invisible in its own Vault collection last modified in 2013.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,7 +122,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

@@ -47,6 +47,7 @@
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "note": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -73,6 +74,7 @@
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 }
 ],
 "coords": null,

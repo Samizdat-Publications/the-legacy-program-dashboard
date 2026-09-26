@@ -59,6 +59,7 @@
 "label": "CIA FOIA Reading Room - UFO collection",
 "note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is left out of"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -90,6 +91,7 @@
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "Six videos and an intelligence report documenting approximately 25 UAP instances over the Gulf of Oman on 8 September 2021, with objects reportedly reacting to cannon fire.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,6 +123,7 @@
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "note": "The Navy Photographic Interpretation Center's assessment that the Tremonton objects were self-luminous and intelligently controlled surfaced publicly for the first time in this tranche.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -152,6 +155,7 @@
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "note": "41 files - 16 videos, 22 documents, 3 images - with identifiers spanning DOW, FBI, DOS and EOP originators.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -178,6 +182,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 case.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

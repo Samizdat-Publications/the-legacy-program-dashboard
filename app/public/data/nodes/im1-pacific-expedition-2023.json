@@ -53,6 +53,7 @@
 "label": "Amir Siraj",
 "note": "The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the Signals paper of September 2023 localised it seismically. Fernando et al. later attributed that signal to truck traffic.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -79,6 +80,7 @@
 "label": "Materials and custody analysis",
 "note": "Claim, rebuttal and re-analysis all appeared in the peer-reviewed literature within eighteen months. That is the benchmark against which seventy years of unpublished government custody should be judged.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,7 +101,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -115,6 +117,7 @@
 "label": "The Galileo Project",
 "note": "A magnetic sled dragged across the seabed off Papua New Guinea at a location determined from seismometer data; several hundred sub-millimetre spherules recovered.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

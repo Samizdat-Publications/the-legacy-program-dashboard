@@ -136,6 +136,7 @@
 "label": "David Charles Grusch",
 "note": "The two most consequential exchanges of the 2023 hearing.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -162,6 +163,7 @@
 "label": "David Charles Grusch",
 "note": "Mace drew the biologics testimony and Grusch's offer of 'a specific cooperative and hostile witness list of specific individuals' to be provided after the hearing. The list has never surfaced publicly.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -188,6 +190,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -218,7 +221,8 @@
 "l0": false,
 "label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
 "note": "Mace chaired the joint hearing and moved the Immaculate Constellation document into the record.",
-"predicate": "member_of",
+"predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -229,7 +233,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -245,6 +249,7 @@
 "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -271,6 +276,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Mace announced from the dais that committee staff had asked her to enter the document; it appears in the hearing's Index of Documents as 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -297,6 +303,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Index of Documents: 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -323,6 +330,7 @@
 "label": "Ken Klippenstein",
 "note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -333,7 +341,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -349,6 +357,7 @@
 "label": "Luis D. Elizondo",
 "note": "The exchange converts the allegation from a claim about one company into a described system of allocation by technical domain across multiple primes.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -375,6 +384,7 @@
 "label": "Public",
 "note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -395,7 +405,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -411,6 +421,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -452,6 +463,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "'only certain people know the name of the program, and if you do not know it, you cannot get the information.' This is the operational definition of an unacknowledged program from the oversight side.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -462,7 +474,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "made claims about"
+"verb": "linked through testimony"
 }
 ],
 "date": "2024-11-13",

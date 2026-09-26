@@ -41,6 +41,7 @@
 "label": "Cosford incident, 30-31 March 1993",
 "note": "The National Archives' guide says the MoD's UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "France put the file in a civil science agency with a public archive and it is still running; Britain kept it in a defence secretariat with no project name and closed it. Reasoning: contrasting institutional siting and survival of the two arrangements over the same period.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "Nick Pope",
 "note": "Sky HISTORY, the broadcaster he worked for, records that he joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying three years.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -124,6 +127,7 @@
 "label": "DI55 - Defence Intelligence Staff, Directorate of Scientific and Technical Intelligence",
 "note": "Condign's database was built from approximately 10,000 reports accumulated by DI55 from the reporting stream the desk handled.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

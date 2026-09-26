@@ -87,6 +87,7 @@
 "label": "John D. Podesta",
 "note": "Podesta held senior White House staff positions throughout the initiative's life and has since publicly and repeatedly demanded UFO declassification, including at the National Press Club on 22 October 2002.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -102,7 +103,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -118,6 +119,7 @@
 "label": "The Rockefeller UFO Disclosure Initiative",
 "note": "Rockefeller Family & Associates funded the effort, its briefing document and its distribution to officials and heads of state.",
 "predicate": "funded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -133,7 +135,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "funded"
+"verb": "linked through money"
 }
 ],
 "date": "1995-08-21",

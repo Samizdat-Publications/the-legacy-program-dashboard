@@ -41,6 +41,7 @@
 "label": "Federal Aviation Administration",
 "note": "NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The Archivist must preserve, index and publish, but Secs. 1842 and 1843 put identification, transmission and postponement in the hands of the agencies and their original classification authorities.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -124,6 +127,7 @@
 "label": "Research and Development Board",
 "note": "NARA's finding aid lists, at 330.11.3, 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

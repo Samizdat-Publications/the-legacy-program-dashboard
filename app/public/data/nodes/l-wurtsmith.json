@@ -53,6 +53,7 @@
 "label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
 "note": "The wing and the base are named in the documents themselves.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian's 1979 file is the wing's own record of the omission.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +112,7 @@
 "label": "Wurtsmith AFB incursion, 30 October 1975",
 "note": "The NORAD Senior Director's Log names Wurtsmith AFB weapons storage area.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

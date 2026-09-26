@@ -162,6 +162,7 @@
 "label": "AARO / Oak Ridge National Laboratory materials analyses",
 "note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -177,7 +178,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -193,6 +194,7 @@
 "label": "Abraham 'Avi' Loeb",
 "note": "The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -224,6 +226,7 @@
 "label": "Chain of custody",
 "note": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -250,6 +253,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch's House Oversight biography lists him as COO of The Sol Foundation from May 2023 - the academic-adjacent institution co-founded by Nolan that became his landing place immediately on leaving government.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -260,7 +264,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -276,6 +280,7 @@
 "label": "David Charles Grusch",
 "note": "Leslie Kean told Ezra Klein in June 2023 that Nolan 'knows David Grusch very well and vouches for him' - the technical layer's credibility being lent to the whistleblower strand.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -286,7 +291,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "corroborates"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -302,6 +307,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -317,7 +323,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -333,6 +339,7 @@
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -359,6 +366,7 @@
 "label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
 "note": "The briefing's subject is the SIMS and MIBI analysis led by Stanford professor Garry P. Nolan with Jacques Vallee, Sizun Jiang and Larry Lemke of the 1977 Council Bluffs, Iowa molten-metal sample, published in Progress in Aerospace Sciences 128 (2022).",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -390,6 +398,7 @@
 "label": "The Sol Foundation",
 "note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -426,6 +435,7 @@
 "label": "UAP Science Advisory Council",
 "note": "The scientist who published the first peer-reviewed UAP materials analysis is seated on a body with no access to the government's own materials.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

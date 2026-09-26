@@ -65,6 +65,7 @@
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
 "predicate": "explained_away",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was given a conventional explanation by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -91,6 +92,7 @@
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,7 +113,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "ran"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -127,6 +129,7 @@
 "label": "Christopher K. Mellon",
 "note": "A former Deputy Assistant Secretary of Defense for Intelligence and SSCI minority staff director lending his name to the vehicle.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -158,6 +161,7 @@
 "label": "General Atomics",
 "note": "TTSA's Reg A reporting obligations forced the CRADA into the public record. A privately held prime such as General Atomics has no equivalent obligation, which is the structural reason the documented case is a small company rather than a large one.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -173,7 +177,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -189,6 +193,7 @@
 "label": "Harold E. Puthoff",
 "note": "Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -220,6 +225,7 @@
 "label": "James 'Jim' Semivan",
 "note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -246,6 +252,7 @@
 "label": "Kari DeLonge",
 "note": "$100,000 cash and options on 5 million shares at $0.003 valued at about $18.96m — the entertainment side held the equity.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -272,6 +279,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's association with the company is publicly acknowledged; the board has located no filing specifying his role or duties, and records the connection as an inference from public association rather than a documented officership.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -282,7 +290,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -298,6 +306,7 @@
 "label": "Encinitas, California",
 "note": "Stated in the company's Form 1-K.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -324,6 +333,7 @@
 "label": "Luis D. Elizondo",
 "note": "The move placed the former AATIP director inside the private company then acquiring claimed exotic material and negotiating a federal research agreement over it.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -360,6 +370,7 @@
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "TTSA published the footage on its own platform, framing it as officially cleared — a framing the Navy contested in September 2019.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -386,6 +397,7 @@
 "label": "Steve Justice",
 "note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -412,6 +424,7 @@
 "label": "The Intercept",
 "note": "The piece documents what To The Stars Academy's own regulatory filings say it is: a 'Motion Picture & Video Tape Production' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -443,6 +456,7 @@
 "label": "Thomas Matthew DeLonge",
 "note": "TTSA was a Regulation A public reporting issuer, which is why its holdings and agreements had to be filed with the SEC rather than remaining private.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -479,6 +493,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "CRADA 19-15 'Novel & Emerging Technology Exploitation' with the US Army CCDC Ground Vehicle Systems Center was filed as Exhibit 6.28 to TTSA's Form 1-A, naming Army principal investigators and TACOM intellectual property counsel.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -510,6 +525,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "A real federal instrument, not a press release: signed by the GVSC Director and TTSA's Chief Content Officer, with TTSA's participation valued at an estimated $1 million in in-kind contributions.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -541,6 +557,7 @@
 "label": "To The Stars Academy public launch, 11 October 2017",
 "note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -551,7 +568,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "was the scene of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -567,6 +584,7 @@
 "label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
 "note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

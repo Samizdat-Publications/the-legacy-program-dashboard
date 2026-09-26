@@ -53,6 +53,7 @@
 "label": "George F. Schulgen",
 "note": "As Chief of the Air Intelligence Requirements Division he signed 'Intelligence Requirements on Flying Saucer Type Aircraft' on 28 October 1947, distributed 30 October.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Project SIGN",
 "note": "The 30 October 1947 collection tasking and the 30 December 1947 direction of Project SIGN are two steps of a single sequence initiated by the Twining memo.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

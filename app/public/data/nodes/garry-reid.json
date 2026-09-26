@@ -69,6 +69,7 @@
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "note": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,7 +80,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -95,6 +96,7 @@
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "note": "Reid wrote the memorandum for record and the memorandum for the Secretary asserting Elizondo 'aggrandized his role'.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,6 +123,7 @@
 "label": "James N. Mattis",
 "note": "Rather than engaging Elizondo, the Secretary's office tasked the Director for Defense Intelligence to explain him. Reid's answer is the origin of the Department's counter-narrative.",
 "predicate": "questioned",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -131,7 +134,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was questioned by"
+"verb": "linked through oversight"
 }
 ],
 "date": "2017-12-23",

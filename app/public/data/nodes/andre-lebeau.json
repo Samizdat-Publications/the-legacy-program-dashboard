@@ -59,6 +59,7 @@
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty states that without Norlain and Lebeau 'COMETA would not have been born'.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "founded"
+"verb": "linked through a role"
 }
 ],
 "date": "1999-07-01",

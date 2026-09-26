@@ -41,6 +41,7 @@
 "label": "Capt. James McAndrew",
 "note": "The DTIC abstract identifies Attachment 32 as McAndrew's synopsis describing Project Mogul as the explanation for the Roswell Incident.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Col. Richard L. Weaver",
 "note": "Written by Col. Weaver, Director of Security and Special Program Oversight, Office of the Secretary of the Air Force, with 1st Lt. James McAndrew.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "The 1994 report addressed the debris and did not address the bodies claims; the 1997 report was produced to close that gap.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "was succeeded by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

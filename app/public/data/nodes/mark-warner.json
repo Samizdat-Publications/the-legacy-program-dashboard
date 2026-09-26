@@ -69,6 +69,7 @@
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Warner submitted S.Amdt. 666 on 13 July 2023, which became Division M of the engrossed bill containing Sec. 1102.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,7 +80,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "wrote"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -95,6 +96,7 @@
 "label": "Senate Select Committee on Intelligence",
 "note": "Warner chaired SSCI when it produced the contractor turn-in and the Historical Record Report requirement.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

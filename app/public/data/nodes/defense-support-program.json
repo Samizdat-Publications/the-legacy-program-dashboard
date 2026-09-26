@@ -53,6 +53,7 @@
 "label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
 "note": "The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "Bob Fish",
 "note": "Fish's DSP claim is the source of the popular equation of DSP with UFO tracking, and the same email undercuts it by saying he was never fully briefed into the programme.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -136,6 +139,7 @@
 "label": "NORAD and US Northern Command",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -162,6 +166,7 @@
 "label": "The Black Vault",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -193,6 +198,7 @@
 "label": "United States Air Force",
 "note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

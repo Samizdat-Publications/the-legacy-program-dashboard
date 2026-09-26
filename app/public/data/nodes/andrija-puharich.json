@@ -56,6 +56,7 @@
 "label": "Consciousness & Observer Effects",
 "note": "The FBI file that carries him is a release of cross references to extra-sensory perception, and his own patents are about routing sound into the nervous system without the ear.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,6 +88,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The FBI memorandum of 6 September 1957 attributes the interest to Lieutenant Colonel John Downie of the Special Operations Branch, Assistant Chief of Staff, Intelligence, Department of the Army; the enclosure Downie furnished is not in the release.",
 "predicate": "studied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,7 +99,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was studied by"
+"verb": "linked through a document"
 }
 ],
 "date": "1957-09-06",

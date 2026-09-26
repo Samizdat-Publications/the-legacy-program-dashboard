@@ -65,6 +65,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,6 +102,7 @@
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +139,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,6 +166,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 28 January 2010 on the cover. 38 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -194,6 +198,7 @@
 "label": "James Wells",
 "note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

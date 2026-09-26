@@ -69,6 +69,7 @@
 "label": "Kecksburg incident, 9 December 1965",
 "note": "Gordon collected local first-hand accounts over four decades, supplying the witnesses used by Unsolved Mysteries (1990) and the Sci Fi Channel documentary (2003).",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,6 +96,7 @@
 "label": "Kecksburg, Westmoreland County, Pennsylvania",
 "note": "Gordon, a Greensburg-area researcher, assembled the local witness pool at Kecksburg that supplied the 1990 and 2003 broadcasts and the factual premise of the Kean litigation.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,6 +123,7 @@
 "label": "Leslie Kean",
 "note": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -131,7 +134,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is cited by"
+"verb": "linked through a document"
 }
 ],
 "date": "2014-01-01",

@@ -65,6 +65,7 @@
 "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "note": "Section 14 is headed 'Revocation of Executive Order No. 10501' but operatively SUPERSEDES it, together with EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382. NARA's disposition table records the relationship as 'Revokes: EO 10501'; the order's own verb is supersedes.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,6 +97,7 @@
 "label": "Executive Order 12065 - National Security Information (28 June 1978)",
 "note": "Section 6-203. EO 12356 is commonly said to have revoked EO 11652; it did not, because 12065 had already done so four years earlier.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "National Security Council",
 "note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

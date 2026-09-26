@@ -41,6 +41,7 @@
 "label": "Aerojet Rocketdyne",
 "note": "Sec. 1104(c) targets propulsion 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 and Sec. 7343 of Public Law 118-31 carry forward the funding cutoff and the IR&D clause from the Senate provision; the contractor disclosure, inventory and immunity subsections were removed.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -113,7 +116,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was succeeded by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

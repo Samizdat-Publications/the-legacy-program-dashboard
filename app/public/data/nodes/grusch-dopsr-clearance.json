@@ -41,6 +41,7 @@
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "note": "DOPSR approvals of 4 and 6 April 2023 preceded the 5 June 2023 Debrief publication. Kean and Blumenthal confirmed the clearance before publishing, which is why the Pentagon's response contested substantiation rather than authorization.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Defense Office of Prepublication and Security Review",
 "note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

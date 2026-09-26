@@ -47,6 +47,7 @@
 "label": "Project Magnet (Canada)",
 "note": "LAC cites the Project Magnet and Second Story files as RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

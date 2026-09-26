@@ -89,6 +89,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO inherited the reporting line this assessment opened. The June 2021 preliminary assessment predates AARO and was built from UAP Task Force holdings; the ODNI 2022 annual report then carries a section headed 'Establishment of the All-Domain Anomaly Resolution Office (AARO)' recording that the Deputy Secretary directed USD(I&S) to stand it up. The institutional relation is succession, not authorship.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -120,6 +121,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Every AARO annual report reproduces the Preliminary Assessment's move of attributing non-resolution to limited and inconsistent data rather than to any property of the objects.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -135,7 +137,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -151,6 +153,7 @@
 "label": "Alex Dietrich",
 "note": "Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.'",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -166,7 +169,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -182,6 +185,7 @@
 "label": "Americans for Safe Aerospace",
 "note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -213,6 +217,7 @@
 "label": "Avril D. Haines",
 "note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -239,6 +244,7 @@
 "label": "The Galileo Project",
 "note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -265,6 +271,7 @@
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "note": "'In 18 incidents, described in 21 reports, observers reported unusual UAP movement patterns or flight characteristics,' and military sensors 'are not generally suited for identifying UAP.'",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -275,7 +282,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -291,6 +298,7 @@
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "note": "The ODNI preliminary assessment covers 144 reports from USG sources spanning November 2004 to March 2021, the window containing both the Nimitz and the 2019 swarm events.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -322,6 +330,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -353,6 +362,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The assessment's date range begins November 2004 - the month of the Nimitz intercept - and it resolved only one of 144 reports with high confidence.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -363,7 +373,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -379,6 +389,7 @@
 "label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena",
 "note": "The 2022 report extends the 2021 baseline rather than replacing it: it reports new cases 'in addition to the 144 UAP reports covered during the 17 years of UAP reporting included in' the preliminary assessment. The 144-incident figure is the anchor both documents are measured against.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -410,6 +421,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "PURSUE falsified the claim that the imagery does not exist while preserving the claim that the data are insufficient, by publishing video without coordinates, sensor parameters or altitude.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -425,7 +437,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -441,6 +453,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -456,7 +469,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -472,6 +485,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The assessment's 144 incidents came from the Task Force's holdings; ODNI transmitted the product but the Task Force built the data.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

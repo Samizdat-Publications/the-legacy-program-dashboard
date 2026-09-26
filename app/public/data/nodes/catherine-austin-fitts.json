@@ -60,6 +60,7 @@
 "label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "note": "Fitts co-authored the summary report and the Missing Money archive that hosts it and its supporting documentation. Attested by the report and the Solari archive.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,6 +87,7 @@
 "label": "Solari, Inc. / The Solari Report",
 "note": "Fitts is founder and president of Solari, Inc., publisher of the Solari Report and the Missing Money archive. Attested by Solari's own biography page.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

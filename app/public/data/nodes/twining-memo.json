@@ -53,6 +53,7 @@
 "label": "George F. Schulgen",
 "note": "Schulgen was the named addressee. Five weeks later he issued the worldwide collection memorandum, making the causal chain from assessment to collection tasking explicit in the documentary record.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "Howard M. McCoy",
 "note": "The AMC intelligence organisation under McCoy did the staff work behind the 23 September 1947 assessment; McCoy signed related AMC correspondence to the Chief of Staff two months later.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,7 +101,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -115,6 +117,7 @@
 "label": "Nathan F. Twining",
 "note": "Lt. Gen. Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command. The document survives in scanned form and is quoted in the Condon Report.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -146,6 +149,7 @@
 "label": "Project SIGN",
 "note": "The Condon Report states Twining's 23 September 1947 letter directed establishment of a study of UFOs, which received priority designation in December 1947 and began as Project SIGN.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

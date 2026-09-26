@@ -68,6 +68,7 @@
 "label": "Central Intelligence Agency",
 "note": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,6 +95,7 @@
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
 "predicate": "appointed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,7 +106,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was appointed by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -120,6 +122,7 @@
 "label": "Harry S. Truman",
 "note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
 "predicate": "appointed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -146,6 +149,7 @@
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -172,6 +176,7 @@
 "label": "Project BLUEBIRD",
 "note": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -198,6 +203,7 @@
 "label": "Rear Adm. Sidney W. Souers",
 "note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

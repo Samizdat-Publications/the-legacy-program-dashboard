@@ -79,6 +79,7 @@
 "label": "Military Aviators & Operators",
 "note": "The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +106,7 @@
 "label": "Federal Aviation Administration",
 "note": "FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -136,6 +138,7 @@
 "label": "John Callahan",
 "note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -156,7 +159,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -172,6 +175,7 @@
 "label": "John Greenewald Jr.",
 "note": "In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!'",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -198,6 +202,7 @@
 "label": "The Black Vault",
 "note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

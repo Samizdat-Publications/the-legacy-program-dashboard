@@ -2931,6 +2931,12 @@ def _pred_vocab():
     return {p["id"]: p for p in v.get("predicates") or []}
 
 
+def _family_phrases():
+    with open(os.path.join(ROOT, "schema", "vocab.json"), encoding="utf-8") as fh:
+        v = json.load(fh)
+    return {f["id"]: f.get("phrase") for f in v.get("predicateFamilies") or []}
+
+
 def _app_nodes():
     """Every shipped node file, {id: record}, read once per run."""
     global _APP_NODES_CACHE
@@ -2957,7 +2963,10 @@ def _predicates_cover(b):
     and provenance are recorded; the app's edges.json ships that predicate and
     subject; and every node's connection row carries it, with the label read from
     that node's own side: the forward label where the node is the subject, the
-    inverse where it is the object, the one label of a symmetric predicate."""
+    inverse where it is the object, the one label of a symmetric predicate. Since
+    26 September 2026 only a high-confidence predicate shows its own label; any
+    other row reads its family's neutral phrase (schema/vocab.json
+    predicateRules.display), and says so in `predicateShown`."""
     doc = _preds_doc()
     if doc is None:
         return ["research/_predicates.json is missing"]
@@ -2995,6 +3004,14 @@ def _predicates_cover(b):
                 want = (p["forward"], "subject")
             else:
                 want = (p["inverse"], "object")
+            # the display rule: only a high-confidence predicate shows its own
+            # label; any other row reads its family's neutral phrase
+            shown = r.get("confidence") == "high"
+            if not shown:
+                want = (_family_phrases()[p["family"]], want[1])
+            if c.get("predicateShown") is not shown:
+                bad.append(f"node {nid}, edge {e['id']}: predicateShown is "
+                           f"{c.get('predicateShown')!r}, confidence is {r.get('confidence')!r}")
             got = (c.get("verb"), c.get("predicateSide"))
             if c.get("predicate") != p["id"] or c.get("family") != p["family"] or got != want:
                 bad.append(f"node {nid}, edge {e['id']}: connection reads {c.get('predicate')!r} "
@@ -3727,8 +3744,18 @@ def self_test():
 
     def conn_reads_wrong_side(nodes, rb):
         # the page prints the forward label from the object's end
-        rec, c = _first_conn(nodes, lambda c: c.get("predicateSide") == "object")
+        rec, c = _first_conn(nodes, lambda c: c.get("predicateSide") == "object"
+                             and c.get("predicateShown"))
         c["verb"] = _pred_vocab()[c["predicate"]]["forward"]
+
+    def conn_shows_unsure_label(nodes, rb):
+        # a row the display rule hides: its predicate's own label is printed anyway
+        doc = _preds_doc() or {}
+        rec, c = _first_conn(nodes, lambda c: c.get("predicate") and not c.get("predicateShown")
+                             and (doc.get(c.get("edgeId")) or {}).get("confidence") != "high")
+        p = _pred_vocab()[c["predicate"]]
+        c["verb"] = p["forward"] if c.get("predicateSide") != "object" else p["inverse"]
+        c["predicateShown"] = True
 
     def conn_drops_family(nodes, rb):
         rec, c = _first_conn(nodes, lambda c: c.get("family"))
@@ -3768,6 +3795,7 @@ def self_test():
         "every edge carries a predicate from the vocabulary, and the app ships it":
             [_preds_poison(f) for f in (pred_row_missing, pred_unknown, pred_no_provenance)]
             + [_app_node_poison(conn_reads_wrong_side), _app_node_poison(conn_drops_family),
+               _app_node_poison(conn_shows_unsure_label),
                _app_edges_poison(app_edge_stale_predicate)],
         "connected_to is at most 3% of edges": [_preds_poison(pred_fallback_flood)],
         "every predicate's classes hold at both ends":

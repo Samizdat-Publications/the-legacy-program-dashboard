@@ -127,6 +127,7 @@
 "label": "Government Accountability Office",
 "note": "Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -153,6 +154,7 @@
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -189,6 +191,7 @@
 "label": "Albuquerque, New Mexico",
 "note": "Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -199,7 +202,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -215,6 +218,7 @@
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "note": "Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

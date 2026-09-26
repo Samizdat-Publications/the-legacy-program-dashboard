@@ -74,6 +74,7 @@
 "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
 "note": "Genuine custody. The site holds both the HTML original and the printed PDF, which is how the compilation's provenance was established.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -100,6 +101,7 @@
 "label": "Edgar Fouche",
 "note": "INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -126,6 +128,7 @@
 "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
 "note": "INTENT: CONTAINMENT. The board has no contains edge type, so this is built as custody, document to document, which is genuine containment custody and does not inflate any person.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -152,6 +155,7 @@
 "label": "Peter W. Merlin",
 "note": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

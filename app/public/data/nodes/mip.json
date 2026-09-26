@@ -41,6 +41,7 @@
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "The FY2026 funding tables carry roughly $95.9 billion in rows titled only 'CLASSIFIED PROGRAMS'; the published MIP request for FY2026 is $33.6 billion and the NIP request $81.9 billion, neither of which appears as a named line anywhere. The inference is that the classified rows are the appropriation vehicle. No document states the mapping.",
 "predicate": "funded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was funded by"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Funding Channels",
 "note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,6 +105,7 @@
 "label": "National Intelligence Program (NIP)",
 "note": "The NIP is controlled by the Director of National Intelligence and the MIP by the Secretary of Defense; both are published only as annual aggregates. Attested by ODNI's own budget page and the FAS compilation.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -113,7 +116,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

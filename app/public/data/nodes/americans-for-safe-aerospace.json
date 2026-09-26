@@ -41,6 +41,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The assessment concedes 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues' - the condition that made a civilian aircrew nonprofit necessary.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -129,6 +132,7 @@
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -155,6 +159,7 @@
 "label": "Ryan Graves",
 "note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -186,6 +191,7 @@
 "label": "Timothy Gallaudet",
 "note": "Gallaudet's recalled-email account and Graves's unacknowledged squadron safety report describe the same broken machinery from opposite ends of the chain of command.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -201,7 +207,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is corroborated by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

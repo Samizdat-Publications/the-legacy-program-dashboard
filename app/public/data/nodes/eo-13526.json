@@ -137,6 +137,7 @@
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -147,7 +148,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "does not include"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -163,6 +164,7 @@
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -194,6 +196,7 @@
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section B.1 establishes oversight of IC special access programs 'pursuant to EO 13526, Section 4.3', which assigns intelligence SAPs to the DNI.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -225,6 +228,7 @@
 "label": "Information Security Oversight Office",
 "note": "Section 4.3(b) affords the ISOO Director access to special access programs 'consistent with the policies and procedures directed by the President' - a defeasible right.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -251,6 +255,7 @@
 "label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -261,7 +266,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is required by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -277,6 +282,7 @@
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "Section 4.3(a) names the six officials who may create a SAP; the DoD taxonomy of acknowledged, unacknowledged and waived operates entirely below that grant.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -308,6 +314,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -318,7 +325,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -334,6 +341,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "E.O. 13526 sec. 4.3 is the source of authority to create a SAP; 10 U.S.C. 119 only prescribes what must be told to Congress afterwards.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -349,7 +357,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -365,6 +373,7 @@
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -380,7 +389,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

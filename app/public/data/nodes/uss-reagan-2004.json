@@ -41,6 +41,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is left out of"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -67,6 +68,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

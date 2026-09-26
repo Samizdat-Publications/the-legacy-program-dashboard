@@ -41,6 +41,7 @@
 "label": "Project Beacon Hill",
 "note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "reports to"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Edward J. Ruppelt",
 "note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "MIT Lincoln Laboratory",
 "note": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

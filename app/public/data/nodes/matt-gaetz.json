@@ -74,6 +74,7 @@
 "label": "Eglin Air Force Base, Florida",
 "note": "Initially refused images, radar and full crew access; obtained a photograph and one crew member after a discussion 'about how authorities flow in the United States of America.'",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,7 +85,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 }
 ],
 "date": "2023-07-26",

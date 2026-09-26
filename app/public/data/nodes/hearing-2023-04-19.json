@@ -47,6 +47,7 @@
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "The only open Senate hearing on AARO under its first director, published as S.Hrg. 118-648.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "S. Hrg. 118-648 lists Kirkpatrick as the only witness.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -41,6 +41,7 @@
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -67,6 +68,7 @@
 "label": "Frank Scully",
 "note": "Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

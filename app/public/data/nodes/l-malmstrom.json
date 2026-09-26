@@ -47,6 +47,7 @@
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "The whole release concerns Malmstrom AFB, Montana.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "Its own heading reads '24th NORAD Region Senior Directors Log (Malmstrom AFB, Montana)'.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Lt Col Dwynne Arneson",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "Capt. Eric D. Carlson",
 "note": "Attested by his son and by researchers, and not disputed by anyone, but not documented in any opened record.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -156,6 +160,7 @@
 "label": "Col. Frederick Meiwald",
 "note": "As claimed; no service record has been opened.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -166,7 +171,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -182,6 +187,7 @@
 "label": "Malmstrom missile-field overflights, 7 to 19 November 1975",
 "note": "The 24th NORAD Region Senior Director's Log is kept at Malmstrom and names its missile sites throughout.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -208,6 +214,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The 341st Strategic Missile Wing history records the shutdown at Malmstrom AFB by name.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -234,6 +241,7 @@
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "Tier 2: the claim places it here, and the released unit history for this wing does not mention Oscar Flight at all.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -249,7 +257,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "was the scene of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -265,6 +273,7 @@
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "A nuclear weapons installation whose crews fall inside the directive's stated scope of personnel assigned to PRP positions.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -291,6 +300,7 @@
 "label": "Capt. Robert Jamison",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -317,6 +327,7 @@
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -343,6 +354,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "SAC Headquarters called in OOAMA support for the Echo Flight engineering analysis within hours on 16 March 1967; the 1975 NORAD log is largely a record of calls from the 341st Strategic Air Command Post.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -374,6 +386,7 @@
 "label": "Col. Walter Figel Jr.",
 "note": "Attested by parties on both sides of the dispute; the released unit history names no launch officer.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

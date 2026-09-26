@@ -138,6 +138,7 @@
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
 "note": "Gerb explicitly credits Vallee as the source of the supporting documentary trail for the Battelle materials claim.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -164,6 +165,7 @@
 "label": "Harold E. Puthoff",
 "note": "Vallee joined Engelbart's Augmentation Research Center at SRI in 1971, in the same institution and period as Puthoff's psychoenergetics programme; Vallee was also consulted on classified remote-viewing research.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -174,7 +176,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -190,6 +192,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -221,6 +224,7 @@
 "label": "Operação Prato (Operation Saucer)",
 "note": "From Vallee's Forbidden Science Volume Three, as quoted by Basterfield: travelling to Belém in July 1988, 'They met with Colonel Hollanda Lima, in the headquarters of the First Air Force region. He led the team sent to the Colares region during Operation Prato. Vallee was shown a military file which: \"...held the military photographs, detailed aerial maps, trajectory analyses by the staff of Project Prato.\"' Tier 2 — diary testimony quoted at one remove, with no FAB document confirming the meeting.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -241,7 +245,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -257,6 +261,7 @@
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -288,6 +293,7 @@
 "label": "The Pentacle Memorandum",
 "note": "Journal entry 18 June 1967; published in Forbidden Science (1992). H. C. Cross was later identified as the author.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -314,6 +320,7 @@
 "label": "Robert T. Bigelow",
 "note": "Vallee's advisory position places the keeper of the largest private materials collection inside the Bigelow ecosystem that produced BAASS and the AAWSAP contract.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -324,7 +331,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -340,6 +347,7 @@
 "label": "The Sol Foundation",
 "note": "Named on the Sol Foundation People page.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -366,6 +374,7 @@
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
 "note": "The 1988 Belém meeting places Hollanda, nine years before his 1997 public account and his death, giving a serving officer's access to the Prato file to the researcher who would later design the CAPELLA data warehouse for a DIA-funded programme. Tier 2 on the same diary sourcing. Flag for the audit: this pass found no support for any claim that the 2009 BAASS teams met Hollanda, and his 1997 death makes it impossible — Basterfield's account names only Ademar Gevaerd and Helio Loyola as the BAASS teams' Brazilian contacts.",
 "predicate": "told",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -386,7 +395,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "linked through testimony"
 }
 ],
 "date": "1995-01-01",

@@ -41,6 +41,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "McCandlish and Lt Col John Williams name Norton AFB in separate testimonies inside the same document, and the compiler then cross-references them to each other. The corroboration is the compiler's assertion, made inside the compilation.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "Both primary documents place the account at Norton AFB, and the air show itself is dated at the base independently by a Blackbird photographic collection.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

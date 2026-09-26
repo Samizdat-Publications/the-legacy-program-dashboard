@@ -41,6 +41,7 @@
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -92,7 +94,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

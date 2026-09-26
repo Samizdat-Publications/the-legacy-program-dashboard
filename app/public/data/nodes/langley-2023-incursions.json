@@ -53,6 +53,7 @@
 "label": "Gregory M. Guillot",
 "note": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed.",
 "predicate": "acknowledged",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was acknowledged by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -79,6 +80,7 @@
 "label": "Jon T. Kosloski",
 "note": "Neither the published case slides nor the FY2025 report present an assessment of the Langley, New Jersey or Barksdale incursions, which are handled as a counter-UAS force-protection matter by NORTHCOM and JIATF-401 instead. Reasoning: absence across all published AARO products, not a stated jurisdictional ruling.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,7 +101,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is left out of"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -115,6 +117,7 @@
 "label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
 "note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -146,6 +149,7 @@
 "label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
 "note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -172,6 +176,7 @@
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "note": "Langley produced no attribution and no public explanation; New Jersey produced a four-agency statement attributing 5,000 reports to hobbyists and misidentifications on the basis of about 100 leads.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -203,6 +208,7 @@
 "label": "NORAD and US Northern Command",
 "note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -218,7 +224,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 }
 ],
 "coords": null,

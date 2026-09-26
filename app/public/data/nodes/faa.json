@@ -77,6 +77,7 @@
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "FAA Alaskan Region press release of 5 March 1987; the agency's own forms and crew interviews; and the 1,500-page file in Record Group 237.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +109,7 @@
 "label": "John Callahan",
 "note": "Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -123,7 +125,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -139,6 +141,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The FAA's transferred UAP records sit in Record Group 615 as series NAID 493468575, one of eight agency series NARA lists in the collection.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -170,6 +173,7 @@
 "label": "National Archives and Records Administration",
 "note": "NARA holds and describes the FAA series at the National Archives at College Park, Electronic Records, and publishes its metadata export.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -62,6 +62,7 @@
 "label": "Central Intelligence Agency",
 "note": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -72,7 +73,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -88,6 +89,7 @@
 "label": "Psychological Operations & Perception Management",
 "note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -114,6 +116,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Office of the Historian's persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,6 +143,7 @@
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series records that the UNC gravity institute was approved with Gray's approval and that he had by then retired as president of the university.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -59,6 +59,7 @@
 "label": "Eric Burlison",
 "note": "Burlison's staff had been trying to reach McCasland about a separate congressional investigation before he vanished.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The convergence of the two inquiries in one subcommittee chair is the structural link between this board and The Vanishing.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "James Comer Jr.",
 "note": "Comer and Burlison opened the investigation on 21 April 2026.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "William Neil McCasland",
 "note": "One of eleven people in nuclear or rocket technology who have died or vanished since 2022, per the committee.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

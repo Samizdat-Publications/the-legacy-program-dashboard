@@ -99,6 +99,7 @@
 "label": "Closure of the MoD UFO Desk, 1 December 2009",
 "note": "The National Archives records that the closure sparked a disclosure campaign; Pope was its most prominent voice and the only former desk officer speaking publicly.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -130,6 +131,7 @@
 "label": "Dr Mona Nemer",
 "note": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -145,7 +147,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -161,6 +163,7 @@
 "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
 "note": "The MoD approached Pope to help with the publicity drive when it decided to declassify and release the files; he became, in the broadcaster's phrase, the face of the Ministry's new-found transparency.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -171,7 +174,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -187,6 +190,7 @@
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "Sky HISTORY, the broadcaster he worked for, records that he joined the MoD in 1985 and 'boarded its UFO programme in 1991', staying three years.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

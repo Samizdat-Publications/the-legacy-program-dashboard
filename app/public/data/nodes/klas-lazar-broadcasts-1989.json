@@ -47,6 +47,7 @@
 "label": "George Knapp",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "KLAS-TV (Las Vegas)",
 "note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

@@ -56,6 +56,7 @@
 "label": "Allen W. Dulles",
 "note": "Cabell's DDCI service from 1953 runs alongside the board's Dulles node; the deputy relationship is the office, and no shared action is asserted here.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,6 +83,7 @@
 "label": "Central Intelligence Agency",
 "note": "FRUS gives 1953 to 1962; the CIA's own chronology gives the resignation as 27 December 1961, effective 31 January 1962.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +110,7 @@
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "The reading room's catalogue entry names him as the sender and Keyhoe as the addressee. The scan's body text is illegible, so the edge records the correspondence and not its content.",
 "predicate": "in_contact_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -134,6 +137,7 @@
 "label": "Project Blue Book",
 "note": "The edge exists to carry the correction: the office he held in March 1952 was USAF Director of Intelligence, not a CIA post, and the transcript that surfaced him has it the other way round.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -144,7 +148,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -160,6 +164,7 @@
 "label": "United States Air Force",
 "note": "Both FRUS persons lists give the office; the later volume dates it to 1953 within its own coverage. This is the office he held while Project Blue Book was created.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

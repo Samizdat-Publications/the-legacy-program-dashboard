@@ -48,6 +48,7 @@
 "label": "The Cover-Up",
 "note": "The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -58,7 +59,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -74,6 +75,7 @@
 "label": "Intelligence Tradecraft & Analysis",
 "note": "The federated IC structure determines which element collects and analyses, and the seams between elements are where an activity can be nobody's to report.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,7 +86,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

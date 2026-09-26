@@ -62,6 +62,7 @@
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Condign identifies 'V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner' as head of the 1990 inter-industry ufology research centre.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -72,7 +73,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -88,6 +89,7 @@
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "SOYUZUFOTSENTR was created in 1990 with Academy of Sciences institute rights, after the removal of censorship on the subject in 1989.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -103,7 +105,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -119,6 +121,7 @@
 "label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
 "note": "Project Condign Volume 3, Chapter 4 ('UAP Work in Other Countries'), para 1, verified against the released MoD OCR text: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign's own, and differs from the board's node label. Para 4 adds that under Azhazha 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic', and that claimed imagery of 'peculiar spheres, humanoid figures' has, 'if the imagery exists ... never been published'. This edge closes a gap that was already implicit in the board's own data: the vladimir-azhazha node has carried instId 'soyuzufotsentr' and affiliations ['soyuzufotsentr'] all along, with no edge written.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

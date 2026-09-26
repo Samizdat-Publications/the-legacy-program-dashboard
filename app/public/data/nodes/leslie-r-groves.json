@@ -50,6 +50,7 @@
 "label": "Armed Forces Special Weapons Project",
 "note": "The agency's own chronology dates the appointment and the retirement to the day, and gives the promotion to Lieutenant General on 24 January 1948 while in post.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -76,6 +77,7 @@
 "label": "Atomic Energy Commission",
 "note": "He joined the Military Liaison Committee on 31 January 1947, four weeks before taking AFSWP, so the same officer sat on both sides of the military-civil split of the atomic programme.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -102,6 +104,7 @@
 "label": "United States Navy",
 "note": "Rear Admiral W.S. Parsons was appointed Deputy Chief AFSWP on 31 March 1947, the deputy coming from the opposite service by the terms of the activating directive.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

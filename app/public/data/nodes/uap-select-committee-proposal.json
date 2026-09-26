@@ -41,6 +41,7 @@
 "label": "Eric Burlison",
 "note": "Burlison said he had the support of Comer, Burchett and Moskowitz but had not raised it with Speaker Johnson.",
 "predicate": "supported",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "James Comer Jr.",
 "note": "Burlison named Comer's support publicly on 12 March 2024.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -77,7 +79,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was supported by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 3,
@@ -93,6 +95,7 @@
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Reasoning: a select committee carries its own clearance posture and subpoena authority and is not subject to another committee's read-in approval. Burlison's stated rationale was that DoD 'weren't transparent to us in a SCIF setting.'",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -124,6 +127,7 @@
 "label": "Timothy Floyd Burchett",
 "note": "The effort was lost when McCarthy lost the speakership.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

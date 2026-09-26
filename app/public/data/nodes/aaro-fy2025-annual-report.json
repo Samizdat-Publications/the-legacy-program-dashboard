@@ -275,6 +275,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The report also notes cases near sensitive installations with 'performance characteristics exceed the known state-of-the-art' while adding 'No technical data accompanied these reports.'",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -311,6 +312,7 @@
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -321,7 +323,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "contradicts"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -337,6 +339,7 @@
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "Consecutive reports in the same statutory series. Sec. 6802's new 50 U.S.C. 3373(k)(1)(A) requires a joint DNI/SecDef report 180 days after enactment of the IAA FY2023 'and annually thereafter for four years', so these are the second and third of five, and the series has a written end rather than running indefinitely.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -368,6 +371,7 @@
 "label": "Alexandro Wiggins",
 "note": "Wiggins described a multi-radar transmedium contact from USS Jackson to a House task force in September 2025; AARO's FY2025 report carries one unresolved maritime event and does not indicate whether the USS Jackson account is in its holdings.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -383,7 +387,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -399,6 +403,7 @@
 "label": "Americans for Safe Aerospace",
 "note": "The same report records two cases of electronic or avionic interference attributed to UAP in proximity to an operational aircraft. The no-safety-concerns finding is a statement about AARO's intake, not about the sky.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -425,6 +430,7 @@
 "label": "Anna Paulina Luna",
 "note": "She wrote to the Secretary of War on 31 March 2026 demanding more than 46 UAP videos by 14 April; the deadline passed with an offer of a future briefing, and the FY2025 report appeared in July.",
 "predicate": "concurrent_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -456,6 +462,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "A categorical negative issued by the office whose access to waived and unacknowledged programs has never been established. Recorded as a denial artefact with its author and date.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -482,6 +489,7 @@
 "label": "United States Department of Energy",
 "note": "AARO's own FY2025 figures show unmanned system activity over nuclear infrastructure rising from 18 to 50 notifications, unresolved in the report.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -508,6 +516,7 @@
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "COMPARISON EDGE, and a sourced negative. Section V.A of AARO's FY2025 Consolidated Annual Report is two sentences in full: 'During the reporting period, AARO continued to engage with international partners to exchange information and best practices for UAP reporting, analysis, and response. AARO's deputy director presented a mission briefing to the Defense Geospatial Intelligence conference in London, United Kingdom.' No foreign office, no foreign air force and no foreign archive is named anywhere in the document except that one London conference. Brazil, the FAB and the Arquivo Nacional — the largest declassified military UAP holding in the Americas — do not appear. The task asked what the section actually names: it names one conference in London and nothing else.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -539,6 +548,7 @@
 "label": "GREMLIN",
 "note": "AARO's stated remedy for its permanent excuse has produced no published result; the excuse is unchanged in the July 2026 report.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -549,7 +559,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -565,6 +575,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, addresses a purported USAP name entered into the Congressional Record in November 2024.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -601,6 +612,7 @@
 "label": "John Greenewald Jr.",
 "note": "The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -632,6 +644,7 @@
 "label": "Jon T. Kosloski",
 "note": "The FY2025 report denies possession of recovered UAP material while stating AARO is developing procedures for handling such material should any ever come into US government possession.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -657,7 +670,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was denied by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -673,6 +686,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "No AARO report describes an inspection, audit or subpoena of any contractor facility or holding; the denials rest on voluntary corporate statements taken at meetings with the Director.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -704,6 +718,7 @@
 "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
 "note": "The third of the five reports required by subsection (k)(1)(A). Worth reading against the statute: the requirement is for a report submitted jointly by the Director of National Intelligence and the Secretary of Defense to the appropriate congressional committees, and it expires after five, so the series has an end date written into it from the start.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -730,6 +745,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "Every AARO annual report reproduces the Preliminary Assessment's move of attributing non-resolution to limited and inconsistent data rather than to any property of the objects.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -745,7 +761,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -761,6 +777,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Publishing a statutory UAP report three tranches into the largest official UAP release in US history without acknowledging it places the office outside the authorship of the disclosure.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -792,6 +809,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The FY2025 report appeared months late and after three PURSUE tranches, so the Department's analytic product followed rather than accompanied its own releases.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -807,7 +825,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -823,6 +841,7 @@
 "label": "Navy UAP event off the Virginia coast (reported July 2026)",
 "note": "AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -41,6 +41,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "AARO disclosed the Virginia event on the same day it published the FY2025 report that contains it, and said a lack of timely and actionable sensor data continues to constrain resolution.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "AARO JWICS case management system (sources sought, May 2025)",
 "note": "Roughly 100 objects and two uncrewed surface systems reported by Navy assets, in an office whose purpose-built case management system was still at the sources-sought stage in mid-2025.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -82,7 +84,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -98,6 +100,7 @@
 "label": "Alexandro Wiggins",
 "note": "The USS Jackson transmedium event of February 2023 and the roughly 100 objects with two uncrewed surface systems off Virginia are the two maritime anchors of the current record; neither has a public case number.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -113,7 +116,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

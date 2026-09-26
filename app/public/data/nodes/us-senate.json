@@ -41,6 +41,7 @@
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The report states the resolution, the date and the mandate in its own opening section.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The collection is the surviving remnant of the Schumer-Rounds UAP Disclosure Act after the review board and eminent domain provisions were removed in conference.",
 "predicate": "created",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -77,7 +79,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "created"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -93,6 +95,7 @@
 "label": "Senate Armed Services Committee",
 "note": "SASC is one of the four defense committees to which 10 U.S.C. 119 reporting runs, and one of the two whose chairman and ranking member receive waived-SAP notification.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "Senate Select Committee on Intelligence",
 "note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

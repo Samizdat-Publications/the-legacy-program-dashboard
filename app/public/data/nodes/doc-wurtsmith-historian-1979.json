@@ -41,6 +41,7 @@
 "label": "Wurtsmith AFB, Michigan",
 "note": "The wing and the base are named in the documents themselves.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Wurtsmith AFB incursion, 30 October 1975",
 "note": "Cahill's Research Record of Events of 17 January 1979 and Taylor's Memo for the Record of 18 January 1979.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

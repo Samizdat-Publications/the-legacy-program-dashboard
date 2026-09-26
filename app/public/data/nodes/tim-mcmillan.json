@@ -46,6 +46,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "The documentary correction to the claim that the July 2017 search was about recovering element 115.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "The Debrief",
 "note": "Named on The Debrief's About page as Co-Founder and Executive Director.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

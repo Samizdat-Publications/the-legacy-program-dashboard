@@ -41,6 +41,7 @@
 "label": "Jesse A. Marcel Sr.",
 "note": "Berlitz and Moore built 'The Roswell Incident' on Friedman's Marcel material together with the second-hand Barney Barnett account.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "William L. Moore",
 "note": "Charles Berlitz and William L. Moore, Grosset & Dunlap, 1980, ISBN 978-0448211992.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

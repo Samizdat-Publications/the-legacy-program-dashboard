@@ -42,6 +42,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Independent media as the disclosure substrate",
 "note": "The Intercept's contribution to this record is subtractive rather than additive: its June 2019 investigation found no discernible evidence that Luis Elizondo led AATIP and obtained a Pentagon statement in tension with the earlier one given to Politico, and in August 2023 it published FOIA'd records on David Grusch weeks after his testimony. A domain about the disclosure substrate that contains only friendly outlets is not a domain, it is a reading list.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "David Charles Grusch",
 "note": "Klippenstein obtained Loudoun County Sheriff's Office incident reports under the Virginia Freedom of Information Act showing Grusch was detained under an emergency custody order on 1 October 2018 and transferred to Loudoun Adult Medical Psychiatric Services. The piece is explicit about provenance: 'The records were not confidential, medical, or leaked. They are publicly available law enforcement records obtained under a routine Virginia FOIA request to the Loudoun County Sheriff's Office.' Its argument is about the clearance process rather than about the witness - that clearances of the kind Grusch held carry strict requirements regarding psychological episodes and substance issues, and his was retained.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -135,6 +138,7 @@
 "label": "Luis D. Elizondo",
 "note": "Kloor's finding: 'There is no discernible evidence that Luis Elizondo ever worked for a government UFO program, much less led one.' He obtained a statement from Pentagon spokesperson Christopher Sherwood: 'Mr. Elizondo had no responsibilities with regard to the AATIP program while he worked in OUSDI... up until the time he resigned effective 10/4/2017.' The piece is the origin of the documented dispute over Elizondo's role, and the Pentagon's position in it has been restated since.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -166,6 +170,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "The piece documents what To The Stars Academy's own regulatory filings say it is: a 'Motion Picture & Video Tape Production' concern. It also reports the undisclosed relationship between the company and the programme promoting it - TTSA co-founder Tom DeLonge was executive producer of the History Channel's 'Unidentified', which featured Elizondo and fellow TTSA employee Chris Mellon without the ties being disclosed on screen.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

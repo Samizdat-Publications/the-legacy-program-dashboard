@@ -53,6 +53,7 @@
 "label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
 "note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
 "predicate": "funded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "was funded by"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "Funding Channels",
 "note": "The National Intelligence Program is the DNI-controlled channel. Since FY2007, sec. 601 of the Implementing Recommendations of the 9/11 Commission Act (P.L. 110-53) has required disclosure of the aggregate appropriated amount, and ODNI publishes request and appropriated toplines annually. Aggregate-only disclosure is precisely what makes it a channel this board can name but not itemise.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -115,6 +117,7 @@
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Section 7343(b) bars use of funds authorised by Division F for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and congressional leadership. Attested by the statute.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -141,6 +144,7 @@
 "label": "Military Intelligence Program (MIP)",
 "note": "The NIP is controlled by the Director of National Intelligence and the MIP by the Secretary of Defense; both are published only as annual aggregates. Attested by ODNI's own budget page and the FAS compilation.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -151,7 +155,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -167,6 +171,7 @@
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "note": "The FY2013 NIP Summary excerpts, classified TS/SI/TK/NOFORN, were released via the Washington Post in August 2013 and are hosted by FAS; the officially disclosed figure for the same year was a single aggregate. Attested by the FAS document index.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -193,6 +198,7 @@
 "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "note": "50 U.S.C. 3510(b) permits Agency sums to be expended without regard to laws and regulations governing expenditure of government funds, accounted for solely on the Director's certificate. The CIA is funded within the National Intelligence Program. Attested by the statute.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

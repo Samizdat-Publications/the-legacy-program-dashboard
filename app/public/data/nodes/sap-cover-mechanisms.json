@@ -78,6 +78,7 @@
 "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07-V1 Enclosure 5 applies HVSACO 'When using a SAP nickname for an unacknowledged SAP' and states 'HVSACO is not a classification'; Enclosure 10 bars federal ID cards for identification at unacknowledged locations.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +105,7 @@
 "label": "Luis D. Elizondo",
 "note": "Elizondo's account of AATIP-era handling turns on material moving in special access channels; DoDM 5205.07-V1 documents HVSACO as the caveat used for unacknowledged SAP nicknames and expressly not a classification.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +116,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -130,6 +132,7 @@
 "label": "The annual DoD special access program report to Congress",
 "note": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

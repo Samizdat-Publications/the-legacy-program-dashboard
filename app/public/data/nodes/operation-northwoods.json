@@ -53,6 +53,7 @@
 "label": "Central Intelligence Agency",
 "note": "The airliner pretext turns on substituting a duplicate for 'a civil registered aircraft belonging to a CIA proprietary organization in the Miami area'.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "The Cover-Up",
 "note": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Disinformation & Fabricated Documents",
 "note": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "Psychological Operations & Perception Management",
 "note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -183,6 +188,7 @@
 "label": "Eglin Air Force Base, Florida",
 "note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -209,6 +215,7 @@
 "label": "National Archives and Records Administration",
 "note": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -219,7 +226,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is held by"
+"verb": "linked through custody of records or material"
 }
 ],
 "coords": null,

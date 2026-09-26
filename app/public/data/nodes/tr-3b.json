@@ -80,6 +80,7 @@
 "label": "Alien Rapture: The Chosen, Galde Press, 1998",
 "note": "CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -106,6 +107,7 @@
 "label": "ARVP (arvp.co.uk), the Flux Liner project site",
 "note": "Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -116,7 +118,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -132,6 +134,7 @@
 "label": "Central Intelligence Agency",
 "note": "A claim about what Fouche said, from the same sentence as the NRO and NSA edges. No record connecting the CIA to this designation was opened.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -142,7 +145,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -158,6 +161,7 @@
 "label": "Defense Advanced Research Projects Agency",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -173,7 +177,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -189,6 +193,7 @@
 "label": "Edgar Fouche",
 "note": "The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -215,6 +220,7 @@
 "label": "Fouche's presentation transcript, August 1998",
 "note": "The dossier proposed this as a custody edge. Built as investigative to match the board's existing precedent for a document carrying a claim about a craft, scott-sorensen-notes-1990 to arv-fluxliner, which is investigative and not custody. A transcript has custody of the record of the claim, not of the craft, and the distinction is worth keeping since custody carries the x3.0 program weighting.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -241,6 +247,7 @@
 "label": "Northrop TACIT BLUE",
 "note": "THIS EDGE EXISTS SPECIFICALLY TO STOP A LATER SESSION DRAWING THE SUPPORTIVE VERSION OF IT. The brief that produced this build asked for the reported analysis that the TR-3B derives from or is confused with TACIT BLUE. That analysis was searched for and NOT FOUND, and the USAF's own fact sheet argues against it: curved surfaces rather than a triangle, 48 ft 2 in span, programme concluded 1985, on public display since 1996.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -251,7 +258,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -267,6 +274,7 @@
 "label": "National Reconnaissance Office",
 "note": "A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened.",
 "predicate": "alleged_tie",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -293,6 +301,7 @@
 "label": "National Security Agency",
 "note": "A claim about what Fouche said, from the same sentence as the NRO and CIA edges. No record connecting the NSA to this designation was opened.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -303,7 +312,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -319,6 +328,7 @@
 "label": "Peter W. Merlin",
 "note": "'I have always been extremely skeptical of Fouche. Many of his claims were questionable or misleading.' The four specifics are on the peter-merlin node in full: the letter is unclassified; the 'Have Blue' photo is the first YF-117A SENIOR TREND prototype; 'No such person as Steve Stenson was ever commander of AFFTC'; the KGB props are surplus-store fakes. Each is falsifiable and outside the claimant's own testimony, and none has been checked and found wrong in any opened record.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -345,6 +355,7 @@
 "label": "Sandia National Laboratories",
 "note": "A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid.",
 "predicate": "alleged_tie",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -371,6 +382,7 @@
 "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
 "note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

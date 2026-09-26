@@ -53,6 +53,7 @@
 "label": "Congressional Oversight",
 "note": "Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Special Access Programs",
 "note": "The report is a primary statement of how special access programmes are established and by whom.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "DoD special access programme governance change, 5 January 1994",
 "note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "Government Accountability Office",
 "note": "The report is GAO's own, signed out of the National Security and International Affairs Division under B-230522.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "note": "The same GAO division, two years after the Lockheed document-control testimony the board already holds, reporting on the establishment criteria rather than on document accountability.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -183,6 +188,7 @@
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "The report records that no OSD office held a list of all special access programmes in 1988, which is the condition the SAPOC was later created to fix.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

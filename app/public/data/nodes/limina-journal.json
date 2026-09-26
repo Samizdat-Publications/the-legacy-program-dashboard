@@ -29,6 +29,7 @@
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Grosvenor, Hancock and Porritt's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' appeared in Limina in March 2025 with a DOI.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -39,7 +40,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "cites"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

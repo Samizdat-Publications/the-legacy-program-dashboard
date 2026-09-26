@@ -83,6 +83,7 @@
 "label": "David Charles Grusch",
 "note": "Garcia's questioning established that Grusch had the firsthand-knowledge individuals file their own protected disclosures with the Inspector General - the fact that makes the witness chain more than hearsay.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,6 +110,7 @@
 "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
 "note": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -135,6 +137,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -161,6 +164,7 @@
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "note": "Introduced 11 January 2024, the day before the ICIG briefing.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

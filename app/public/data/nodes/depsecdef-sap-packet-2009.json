@@ -41,6 +41,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "James R. Clapper Jr.",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "William J. Lynn III",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "reports to"
+"verb": "linked through oversight"
 }
 ],
 "coords": null,

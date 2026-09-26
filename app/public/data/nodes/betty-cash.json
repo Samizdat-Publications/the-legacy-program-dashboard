@@ -83,6 +83,7 @@
 "label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
 "note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,7 +94,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -109,6 +110,7 @@
 "label": "Cash v. United States, Civil Action No. H-84-348 (S.D. Tex.)",
 "note": "Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, No. H-84-348, S.D. Tex., Houston Division, dismissed 21 August 1986 by Judge Ross N. Sterling.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +121,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -135,6 +137,7 @@
 "label": "John F. Schuessler",
 "note": "Schuessler and Project VISIT taped the hospital interview in early February 1981, conducted the on-site investigation on 28 February 1981 and filed a 35-page report with MUFON on 4 March 1981; he published the case file in 1998.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

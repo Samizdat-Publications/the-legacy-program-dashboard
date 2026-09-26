@@ -35,6 +35,7 @@
 "label": "David Charles Grusch",
 "note": "Asked whether corporations overcharge government with the excess flowing to programs, Grusch answered 'Correct, through something called IR&D,' adding that 'IR&D is literally internal to the contractors... they do whatever they want.'",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 3,
@@ -66,6 +67,7 @@
 "label": "McDonnell Douglas Corporation",
 "note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -92,6 +94,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as indirect expense under DoDI 3204.01 unless the material is made available to the committees and leadership.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -102,7 +105,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -118,6 +121,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

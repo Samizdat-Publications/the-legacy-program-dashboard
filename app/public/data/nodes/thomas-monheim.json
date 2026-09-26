@@ -91,6 +91,7 @@
 "label": "David Charles Grusch",
 "note": "This finding is the legal predicate for the entire House inquiry, and it routed to the intelligence committees rather than to Oversight.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,6 +118,7 @@
 "label": "Inspector General of the Intelligence Community",
 "note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,6 +145,7 @@
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -41,6 +41,7 @@
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "note": "'In 1965, DOD decided that special access programs, because of their especially sensitive nature and small number, would be excluded from supervision by the Defense Investigative Service.'",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "GAO to the Secretary of Defense: the failure 'may not have occurred if the Defense Investigative Service had been permitted to conduct semiannual inspections of the contract, as it does with other contracts at Lockheed.'",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -77,7 +79,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

@@ -117,6 +117,7 @@
 "label": "Capitol UAP disclosure event, 9 June 2026",
 "note": "Keeps the 2026 push bipartisan.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,7 +128,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "supported"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -143,6 +144,7 @@
 "label": "Charles E. Schumer",
 "note": "'The American public has a right to learn about technologies of unknown origins, nonhuman intelligence, and unexplainable phenomena.'",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -153,7 +155,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -169,6 +171,7 @@
 "label": "Congressional UAP Caucus",
 "note": "Described by The Hill as 'a member of the UAP Caucus.'",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -195,6 +198,7 @@
 "label": "David Charles Grusch",
 "note": "Moskowitz's questioning produced the only sworn statement on how an unacknowledged program is paid for: misappropriation plus contractor internal research and development money that carries no congressional notification duty.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -226,6 +230,7 @@
 "label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -47,6 +47,7 @@
 "label": "Defense Intelligence Agency",
 "note": "DIA tells USD(AT&L) the reports were of limited value to DIA but could merit other organisations and the project could move to a better-suited component.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Luis D. Elizondo",
 "note": "DIA proposed a transition in December 2010; Elizondo says he picked up the residual effort in OUSD(I) at that time. No charter has ever been released either way.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "corroborates"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

@@ -59,6 +59,7 @@
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "note": "PUBLIC SINCE 1996 UNDER HIS OWN NAME, WITH MORE THAN FORTY CLAIMED MEDIA APPEARANCES IN WHICH HE NAMED MICHAEL JOHNSON ON AIR AND ASKED AUDIENCES TO FIND HIM. That is both why the 2026 reunion was possible and why the two accounts cannot be treated as independent. NO SERVICE RECORD HAS BEEN PRODUCED.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -90,6 +91,7 @@
 "label": "Ellsworth AFB, South Dakota",
 "note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,7 +102,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -116,6 +118,7 @@
 "label": "Michael Johnson",
 "note": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
 "predicate": "in_contact_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -126,7 +129,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "was in contact with"
+"verb": "linked through conduct"
 }
 ],
 "date": "1977-11-18",

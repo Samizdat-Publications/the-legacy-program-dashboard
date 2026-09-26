@@ -50,6 +50,7 @@
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling. This is the edge that makes Huff structurally important rather than merely a witness: he is the publisher of the cluster's primary artefact.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -76,6 +77,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "THE LABEL MUST STAY PRECISE. Huff's first-hand claim is about lights seen from Tikaboo Valley on three Wednesdays in 1989, on 22 March, 29 March and 5 April, the last ending in the group's detention by the Lincoln County Sheriff. He never claims to have been inside anything.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,7 +88,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 }
 ],
 "date": null,

@@ -77,6 +77,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "Timestamped in the 1991 tape: the reactor account, the 223 grams, the 1740 degrees Celsius melting point and the machining into triangles.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,6 +104,7 @@
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "note": "GENUINE CUSTODY: a document containing the claim, in the same sense the ruling allows for a document containing another document. Neither endpoint is a claimant, so the x3.0 weighting falls on two artefact nodes and not on a person.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -129,6 +131,7 @@
 "label": "National Nuclear Security Administration",
 "note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -149,7 +152,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is contradicted by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -165,6 +168,7 @@
 "label": "Tom Mahood",
 "note": "This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

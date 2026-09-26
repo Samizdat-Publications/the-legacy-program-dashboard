@@ -70,6 +70,7 @@
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -101,6 +102,7 @@
 "label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
 "note": "S. 4784 as reported returns zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373.",
 "predicate": "sponsored_law",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,7 +113,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "sponsored"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -127,6 +129,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

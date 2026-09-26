@@ -77,6 +77,7 @@
 "label": "Air Technical Intelligence Center",
 "note": "The regulation routes reports from base level through Air Defense Command and the 4602d Air Intelligence Service Squadron to ATIC at Wright-Patterson for final analysis.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,7 +88,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "governs"
+"verb": "linked through law"
 },
 {
 "claimTier": 2,
@@ -103,6 +104,7 @@
 "label": "Nathan F. Twining",
 "note": "The officer who wrote in 1947 that the phenomenon was real was Air Force Chief of Staff when the regulation restricting public discussion of unexplained cases was promulgated.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -118,7 +120,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was written by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -134,6 +136,7 @@
 "label": "Project Blue Book",
 "note": "For unexplainable objects, 'only the fact that ATIC will analyze the data is worthy of release'. Every Air Force public statement that unknowns were unimportant was made under a regulation forbidding discussion of them.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -160,6 +163,7 @@
 "label": "Robertson Panel",
 "note": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -175,7 +179,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "followed from"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

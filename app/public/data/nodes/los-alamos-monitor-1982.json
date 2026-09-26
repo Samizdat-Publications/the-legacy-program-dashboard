@@ -41,6 +41,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', which was wrong: he is the subject of the article, not its author or its holder. Journalism about a person is typed investigative here. The article's description of him as a physicist is what he told the reporter, and the qualification travels with the edge.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Los Alamos, New Mexico",
 "note": "A local daily, naming the Los Alamos Meson Physics Facility.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Tom Mahood",
 "note": "GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

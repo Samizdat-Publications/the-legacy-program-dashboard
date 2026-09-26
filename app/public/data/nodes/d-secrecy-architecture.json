@@ -42,6 +42,7 @@
 "label": "Congressional Oversight",
 "note": "10 U.S.C. 119's waiver provision reduces notification to eight members without staff, which is the specific point at which the secrecy architecture and congressional oversight collide.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -68,6 +69,7 @@
 "label": "Special Access Programs",
 "note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -94,6 +96,7 @@
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -47,6 +47,7 @@
 "label": "Groom Lake, Nevada",
 "note": "HAVE IDEA moved to Tonopah in May 1973; the 4450th Tactical Group moved from Groom Lake to Tonopah beginning 17 May 1982 to operate the F-117A.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
 "predicate": "contradicts",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

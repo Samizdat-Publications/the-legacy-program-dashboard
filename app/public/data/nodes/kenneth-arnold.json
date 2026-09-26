@@ -69,6 +69,7 @@
 "label": "Project Blue Book",
 "note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,6 +101,7 @@
 "label": "Roswell Incident",
 "note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

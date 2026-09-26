@@ -41,6 +41,7 @@
 "label": "Central Intelligence Agency",
 "note": "The Office of Global Access, an element associated with CIA's Directorate of Science and Technology, is given a named chapter; Gerb separately links CIA OGA to NRO, MITRE and the Executive branch in his NRO investigation.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "Independent media as the disclosure substrate",
 "note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,6 +105,7 @@
 "label": "United States Department of Energy",
 "note": "The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,6 +132,7 @@
 "label": "Jesse Michels",
 "note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -155,6 +159,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -191,6 +196,7 @@
 "label": "The MITRE Corporation",
 "note": "MITRE is given a named chapter inside the structural episode, seven months before Gerb published his full MITRE investigation - establishing that MITRE was already central to the model in January 2026.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -217,6 +223,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "The episode is a single-guest exposition in which Gerb lays out the contractor pyramid, the alleged modern control group, the Office of Global Access, MITRE's role, the DOE NEST and the 1954 Atomic Energy Agreement as the architecture of the effort.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

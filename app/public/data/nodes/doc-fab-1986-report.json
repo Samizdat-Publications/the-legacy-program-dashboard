@@ -41,6 +41,7 @@
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "Released 23 years after the minister promised a dossier in 30 days.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "note": "Its Considerações Finais record solid radar-and-visual objects that outran supersonic interceptors and 'reflect in a certain manner intelligence'.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Brasilia, Federal District, Brazil",
 "note": "The document's own dateline places it in the federal capital, and its item reference sits inside the Brasília-held BR DFANBSB ARX fund.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,6 +132,7 @@
 "label": "Brigadeiro Octávio Júlio Moreira Lima",
 "note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -154,7 +158,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is contradicted by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -170,6 +174,7 @@
 "label": "Brigadeiro do Ar José Pessoa Cavalcanti de Albuquerque",
 "note": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

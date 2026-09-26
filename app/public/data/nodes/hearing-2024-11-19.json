@@ -41,6 +41,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The alleged programme had been entered into the congressional record weeks earlier and described in an ODNI unclassified press item of 22 October 2024; AARO's director addressed the Senate six days after the House hearing without naming it.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "Jon T. Kosloski",
 "note": "Kosloski's statement for the record puts holdings at over 1,600 reports and delivers the standard no-verifiable-evidence formula.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

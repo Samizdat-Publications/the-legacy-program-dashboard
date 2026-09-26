@@ -102,6 +102,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "He publicly criticised the report on release, was ridiculed over his UFO work during 1971 congressional SST hearings on an unrelated technical subject, and died by suicide in June 1971.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -112,7 +113,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -128,6 +129,7 @@
 "label": "J. Allen Hynek",
 "note": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -138,7 +140,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is corroborated by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -154,6 +156,7 @@
 "label": "Low Memorandum (\"the trick would be...\")",
 "note": "McDonald received the memo from project staff and it reached John Fuller, who published it in Look in May 1968 as 'Flying Saucer Fiasco'.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -180,6 +183,7 @@
 "label": "Project Blue Book",
 "note": "Testifying on 29 July 1968 he told the House Science and Astronautics Committee that 'credible observers are observing relatively incredible objects' and that the subject deserved science rather than ridicule.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

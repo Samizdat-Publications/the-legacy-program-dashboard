@@ -161,6 +161,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Department of War states it 'will continue to conduct separate reporting on resolved UAP cases, as mandated by statute' - meaning the historical-records release and the contemporary programme reporting line remain separate. This structure allows maximal apparent transparency about the past while the present reporting is unchanged.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -192,6 +193,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Department of War's PURSUE site publishes on a rolling basis - releases 01 through 05 between 8 May and 7 August 2026 - with AARO identifying material and ODNI coordinating across agencies.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -202,7 +204,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 3,
@@ -218,6 +220,7 @@
 "label": "AARO 2025 UAP workshop white paper (February 2026)",
 "note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -233,7 +236,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 3,
@@ -249,6 +252,7 @@
 "label": "AARO Declassification Information Paper (September 2025)",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
 "predicate": "contradicts",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -280,6 +284,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Publishing a statutory UAP report three tranches into the largest official UAP release in US history without acknowledging it places the office outside the authorship of the disclosure.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -311,6 +316,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The FY2025 report appeared months late and after three PURSUE tranches, so the Department's analytic product followed rather than accompanied its own releases.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -326,7 +332,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -342,6 +348,7 @@
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "The contrast maps where the sensitivity sits: imagery can be published on a cabinet order, analytic conclusions about the department's own history cannot.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -357,7 +364,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -373,6 +380,7 @@
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -388,7 +396,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -404,6 +412,7 @@
 "label": "AARO Official UAP Imagery releases (PR series)",
 "note": "AARO's last imagery release is 6 January 2026; the Department's first tranche is 8 May 2026 with 29 videos, and AARO published nothing further.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -419,7 +428,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "succeeded"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -435,6 +444,7 @@
 "label": "Alejandro Rojas",
 "note": "Rojas identified absent coordinates, sensor parameters and altitude data as the specific omissions that block independent kinematic analysis.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -461,6 +471,7 @@
 "label": "White House registration of alien.gov and aliens.gov (17-18 March 2026)",
 "note": "The White House registered alien.gov and aliens.gov on 17 March 2026; the programme shipped seven weeks later on the Secretary of War's estate instead.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -476,7 +487,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -492,6 +503,7 @@
 "label": "The Black Vault searchable PURSUE files archive",
 "note": "Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -502,7 +514,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -518,6 +530,7 @@
 "label": "Project Blue Book Special Report No. 14",
 "note": "The same 1955 Battelle report has now been published by the government three times across seventy years without the underlying case data ever being independently reanalysed.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -544,6 +557,7 @@
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -554,7 +568,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -570,6 +584,7 @@
 "label": "Christopher K. Mellon",
 "note": "Mellon's judgement six days after Release 01 became the framing for the entire research community's response.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -580,7 +595,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -596,6 +611,7 @@
 "label": "Christopher K. Mellon",
 "note": "Mellon conceded the scale of the retained holdings is itself a revelation while rejecting the sufficiency of context-free files.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -606,7 +622,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -622,6 +638,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -632,7 +649,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -648,6 +665,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Created by presidential directive of 19 February 2026; five releases published between 8 May and 7 August 2026.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -674,6 +692,7 @@
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -689,7 +708,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -705,6 +724,7 @@
 "label": "Enigma Labs",
 "note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
 "predicate": "studied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -720,7 +740,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was studied by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 3,
@@ -736,6 +756,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The sequence runs from sworn testimony that video was being withheld, through a subcommittee chair's letter to the Secretary, to a release channel that bypassed the office entirely.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -756,7 +777,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -772,6 +793,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The House caucus response has been to keep issuing letters on the premise that a curated release cannot substitute for compelled production.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -803,6 +825,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "PURSUE publishes at will through the Secretary's website with no FOIA case numbers or exemption citations, while the statutory NARA collection publishes no compliance accounting - neither channel can be audited.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -834,6 +857,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -849,7 +873,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -865,6 +889,7 @@
 "label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
 "note": "The 2023 range fouler release came via FOIA; the 2026 PURSUE releases came via presidential directive. Neither came from the reporting system that was supposed to surface them.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -880,7 +905,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -896,6 +921,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "PURSUE falsified the claim that the imagery does not exist while preserving the claim that the data are insufficient, by publishing video without coordinates, sensor parameters or altitude.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -911,7 +937,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -927,6 +953,7 @@
 "label": "Pete Hegseth",
 "note": "Hegseth, Louisville, 23 February 2026: 'We're going to be in full compliance with that executive order... there'll be more coming on that.' He set no timeline.",
 "predicate": "led",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -942,7 +969,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was led by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -958,6 +985,7 @@
 "label": "PURSUE release bundle URLs (five tranches, documents and video)",
 "note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
 "predicate": "released",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -968,7 +996,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "released"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -984,6 +1012,7 @@
 "label": "PURSUE Release 01",
 "note": "160 files - 117 PDFs, 29 sensor videos, 14 photographs - spanning 1944 to 2026, at least 100 carrying redactions.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1020,6 +1049,7 @@
 "label": "PURSUE Release 02",
 "note": "64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series; the 5.6GB video bundle is the largest of the five.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1051,6 +1081,7 @@
 "label": "PURSUE Release 03",
 "note": "72 files with the FBI the largest contributor at 29 files, including a less-redacted CIA Robertson Panel record.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1082,6 +1113,7 @@
 "label": "PURSUE Release 04",
 "note": "227MB of documents and 1.4GB of video spanning the 1940s to 2026, published without any stated file count.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1113,6 +1145,7 @@
 "label": "PURSUE Release 05",
 "note": "41 files - 16 videos, 22 documents, 3 images - spanning 1953 to 2026 per the portal, with content reaching back to a 1950 case.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1144,6 +1177,7 @@
 "label": "Ryan Graves",
 "note": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1170,6 +1204,7 @@
 "label": "Ryan Graves",
 "note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1180,7 +1215,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -1196,6 +1231,7 @@
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "Infrared footage of the 12 February 2023 shootdown was released on 22 May 2026 via PURSUE, with the entry noting an unusual lack of substantiated chain of custody.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1227,6 +1263,7 @@
 "label": "The Sol Foundation",
 "note": "Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the PURSUE releases, positioning itself as the interpretive authority on the released record.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1237,7 +1274,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "was reported on by"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 2,
@@ -1253,6 +1290,7 @@
 "label": "Timothy Gallaudet",
 "note": "A 2024 House witness assessing the 2026 executive release.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1263,7 +1301,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -1279,6 +1317,7 @@
 "label": "Timothy Gallaudet",
 "note": "Gallaudet welcomed the first open admission that UAP files had been shielded and said the absence of metadata made it impossible to conclude any object was truly anomalous.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1294,7 +1333,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -1310,6 +1349,7 @@
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1351,6 +1391,7 @@
 "label": "Tulsi Gabbard",
 "note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1366,7 +1407,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -1382,6 +1423,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb ran a livestream on 'UFO File Drop 1' on 12 May 2026 and discussed the release programme in his 2 March 2026 livestream on Trump's announcement, making him one of the first analysts working the released record.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1413,6 +1455,7 @@
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1423,7 +1466,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is required by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -1439,6 +1482,7 @@
 "label": "UAP Science Advisory Council",
 "note": "Loeb's Medium account references a government disclosure release date of 12 June 2026 immediately before describing his tasking; the council's formation follows the release programme rather than preceding it.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1480,6 +1524,7 @@
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "Burlison's own release frames the amendment as supporting PURSUE; structurally it cures each of PURSUE's defects - no timeline, no subpoena power, no reach to contractors, no Senate-confirmed decision-maker.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1495,7 +1540,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -1511,6 +1556,7 @@
 "label": "war.gov/UFO release portal",
 "note": "All five tranches are published on the Secretary of War's web estate at war.gov/UFO, with video served from a CloudFront distribution and no FOIA case numbers or exemption citations.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

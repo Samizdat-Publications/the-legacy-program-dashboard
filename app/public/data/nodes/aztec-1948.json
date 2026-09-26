@@ -131,6 +131,7 @@
 "label": "Behind the Flying Saucers (Scully, 1950)",
 "note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -141,7 +142,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -157,6 +158,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -198,6 +200,7 @@
 "label": "Guy Hottel memorandum, 22 March 1950",
 "note": "Hottel's memo of 22 March 1950 describes three fifty-foot discs with three-foot occupants two months before Scully's book described one ninety-nine-foot disc with sixteen. The narratives are related but not identical, so the memo is better read as evidence that the recovery rumour was already in official circulation than as independent confirmation of Aztec.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -208,7 +211,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -224,6 +227,7 @@
 "label": "Aztec, New Mexico",
 "note": "The location is the only fixed and checkable element of the story, and it is the one the town later built a symposium and a plaque around. Silas Newton, lecturing at Denver University on 8 March 1950 as 'Mr. X', claimed to have seen two saucers held by the government, one of which 'crashed near Aztec, New Mexico'; Frank Scully's 'Behind the Flying Saucers' (1950) carried the account, and Newton took Scully touring 'the area where the Aztec saucer ostensibly crashed'. The story ends in court: Newton and Leonard GeBauer were convicted of fraud in 1953 for swindling Herman Flader out of $50,000 with a 'magnetic doodlebug' that cost roughly $3.50 to build, and the 'indestructible' metal was ordinary aluminium.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -255,6 +259,7 @@
 "label": "Roswell Incident",
 "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -286,6 +291,7 @@
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

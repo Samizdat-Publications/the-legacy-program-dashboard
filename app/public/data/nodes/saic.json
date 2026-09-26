@@ -41,6 +41,7 @@
 "label": "Adm. Bobby Ray Inman",
 "note": "Director of SAIC since 1982 and a paid part-time employee advising on strategic planning since 1990, per the company's 2003 proxy statement, which also names J. R. Beyster and not Inman as Chairman, Chief Executive Officer and President.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -72,6 +73,7 @@
 "label": "Central Intelligence Agency",
 "note": "A documented instance of a deniable government research program in an anomalous subject moving wholesale into corporate custody, terminated after an external assessment.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +84,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was contracted by"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -98,6 +100,7 @@
 "label": "Leidos Holdings, Inc.",
 "note": "The split moved the classified services portfolio, and whatever records attach to it, into a separate corporate entity.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was succeeded by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -124,6 +127,7 @@
 "label": "Off-World Technologies Division",
 "note": "Gerb links the alleged division to SAIC and Sandia National Laboratories; the escorting weapons instructor is described as a private contractor employee.",
 "predicate": "alleged_tie",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

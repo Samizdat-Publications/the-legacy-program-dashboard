@@ -64,6 +64,7 @@
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "note": "Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -90,6 +91,7 @@
 "label": "Leslie Kean",
 "note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Blumenthal shares the byline that broke AATIP and published two of the three videos.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

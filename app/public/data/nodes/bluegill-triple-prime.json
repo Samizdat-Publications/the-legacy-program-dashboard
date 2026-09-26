@@ -59,6 +59,7 @@
 "label": "Nuclear Security & Restricted Data",
 "note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "United States Department of Energy",
 "note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "United States Air Force",
 "note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -121,7 +124,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

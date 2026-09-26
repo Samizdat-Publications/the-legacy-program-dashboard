@@ -53,6 +53,7 @@
 "label": "Secrecy Architecture",
 "note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Vandenberg Space Force Base, California",
 "note": "Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record.",
 "predicate": "transferred",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -115,7 +118,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "passed records or material to"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -131,6 +134,7 @@
 "label": "National Reconnaissance Office",
 "note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "United States Air Force",
 "note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

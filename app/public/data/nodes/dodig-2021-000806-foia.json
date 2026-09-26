@@ -47,6 +47,7 @@
 "label": "John Greenewald Jr.",
 "note": "The fourth interim release of five pages, with approximately 245 pages still pending, shows the Department withholding its own UAP evaluation methodology.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -88,7 +90,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 }
 ],
 "coords": null,

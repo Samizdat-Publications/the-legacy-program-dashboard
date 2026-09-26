@@ -72,6 +72,7 @@
 "label": "National Security Agency",
 "note": "The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,6 +99,7 @@
 "label": "Yeates Affidavit (NSA, 1980)",
 "note": "The affidavit was submitted for in camera review only; the plaintiffs never saw it and the judge ruled for NSA on its basis.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

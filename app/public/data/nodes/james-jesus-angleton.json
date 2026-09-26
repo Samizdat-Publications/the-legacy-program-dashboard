@@ -56,6 +56,7 @@
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,6 +83,7 @@
 "label": "Central Intelligence Agency",
 "note": "The Church Committee's Book III states the office and its dates in its own narrative text and cites his testimony of 17 and 24 September 1975 throughout.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +110,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Reasoning: the board's structural claim is that a programme can be held outside the machinery meant to review it. Book III documents exactly that for a different subject, in an agency's own words, and the analogy is the board's, not the Committee's. No opened record connects Angleton to any DoD special access programme.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -118,7 +121,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "date": "1955-12-07",

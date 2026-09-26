@@ -83,6 +83,7 @@
 "label": "Los Alamos National Laboratory",
 "note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,6 +110,7 @@
 "label": "The MITRE Corporation",
 "note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -41,6 +41,7 @@
 "label": "Groom Lake, Nevada",
 "note": "Until the 1995 presidential determination, the official position was that Groom Lake was simply another part of the Nellis Air Force Base complex.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -77,7 +79,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "linked in place or time"
 }
 ],
 "coords": [

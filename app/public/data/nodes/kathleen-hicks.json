@@ -69,6 +69,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Weeks after Grusch testified, Hicks pulled AARO out of the USD(I&S) chain and made its director report directly to the Deputy Secretary of Defense.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,6 +96,7 @@
 "label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
 "note": "Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,6 +123,7 @@
 "label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
 "note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

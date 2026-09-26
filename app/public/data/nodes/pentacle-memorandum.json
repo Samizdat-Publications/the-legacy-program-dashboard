@@ -47,6 +47,7 @@
 "label": "Howard C. Cross",
 "note": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Jacques F. Vallee",
 "note": "Journal entry 18 June 1967; published in Forbidden Science (1992). H. C. Cross was later identified as the author.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "No signed original has ever been produced by the Air Force or by Battelle.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -125,6 +128,7 @@
 "label": "Robertson Panel",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,7 +144,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

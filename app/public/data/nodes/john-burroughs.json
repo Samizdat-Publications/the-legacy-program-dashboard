@@ -70,6 +70,7 @@
 "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "note": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,7 +86,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -101,6 +102,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

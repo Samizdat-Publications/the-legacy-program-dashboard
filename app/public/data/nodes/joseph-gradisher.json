@@ -53,6 +53,7 @@
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "The single most consequential official concession of the period, made by a named service spokesman.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

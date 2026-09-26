@@ -41,6 +41,7 @@
 "label": "Defense Office of Prepublication and Security Review",
 "note": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental determination that the assertions are not classified.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 2,
@@ -67,6 +68,7 @@
 "label": "Luis D. Elizondo",
 "note": "'What is in the book is what I was told I am allowed to talk about' — sworn testimony, 13 November 2024.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

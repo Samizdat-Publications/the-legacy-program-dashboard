@@ -41,6 +41,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Science magazine reported in June 2022 that Travis S. Taylor, a principal research scientist at Huntsville-based Radiance Technologies, was chief scientist of the UAP Task Force.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {

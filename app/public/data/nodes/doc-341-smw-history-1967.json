@@ -71,6 +71,7 @@
 "label": "John Greenewald Jr.",
 "note": "Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,6 +98,7 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "The whole release concerns Malmstrom AFB, Montana.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -123,6 +125,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The unit history is the document the event node names as decisive, and it records the shutdown while stating that the UFO reports around it were disproven.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -149,6 +152,7 @@
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -175,6 +179,7 @@
 "label": "The Black Vault",
 "note": "The Black Vault is the host of the released scan.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -201,6 +206,7 @@
 "label": "United States Air Force",
 "note": "The history is an Air Force wing history and the release is an Air Force FOIA response.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -48,6 +48,7 @@
 "label": "Mark McInerney",
 "note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,6 +75,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "In the report foreword Fox, Associate Administrator for the Science Mission Directorate, wrote that 'NASA is appointing a Director of UAP Research to centralize communications'.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,7 +86,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -100,6 +102,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,7 +113,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 }
 ],
 "date": "2023-09-14",

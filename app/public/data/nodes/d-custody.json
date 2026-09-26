@@ -36,6 +36,7 @@
 "label": "AAWSAP Defense Intelligence Reference Document series",
 "note": "The released AAWSAP corpus documents control numbers, fiscal years, contract status, statements of work and named programme managers - and contains no record of the receipt, transfer or storage of any physical sample. The asymmetry is the finding.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "CIA Prepublication Classification Review Board",
 "note": "The guidance's own destruction and hard-drive removal provision is a documented custody mechanism operating on an author's text.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Retrieval & Recovery Operations",
 "note": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -119,6 +122,7 @@
 "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
 "note": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -150,6 +154,7 @@
 "label": "Eric W. Davis",
 "note": "Davis's on-record statement about analysed material has never been accompanied by any public documentation of where the material came from, who held it, or where it is now.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -176,6 +181,7 @@
 "label": "Garry Nolan",
 "note": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -202,6 +208,7 @@
 "label": "Harold E. Puthoff",
 "note": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -222,7 +229,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -238,6 +245,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -253,7 +261,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -269,6 +277,7 @@
 "label": "Project AZORIAN and the Hughes Glomar Explorer",
 "note": "Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -295,6 +304,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -321,6 +331,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "A CRADA is a records-generating instrument. Seven years after signature, no characterisation of the samples, no technical output and no Army statement of findings has been published. That silence is the darkest segment of the only documented private-to-federal materials transfer.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -347,6 +358,7 @@
 "label": "UAP Science Advisory Council",
 "note": "The Associated Press reported the council has no budget and no access to classified material, and the Sol Foundation confirmed all shared data is unclassified. An advisory body denied money and clearances cannot audit a special access programme.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -35,6 +35,7 @@
 "label": "Charles I. Halt",
 "note": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "John Greenewald Jr.",
 "note": "The Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office released the memo in September 1997 under case 97-F-1677.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,6 +89,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

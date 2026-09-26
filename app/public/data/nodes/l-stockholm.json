@@ -30,6 +30,7 @@
 "label": "Astronomy & Astrophysics",
 "note": "Villarroel's Stockholm-based VASCO project produced the October 2025 Scientific Reports correlation between POSS-I transients, nuclear testing and UAP reports.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -40,7 +41,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "linked in place or time"
 }
 ],
 "coords": [

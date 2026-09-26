@@ -41,6 +41,7 @@
 "label": "The five observables (UAP performance taxonomy)",
 "note": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Salvatore Cezar Pais",
 "note": "The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

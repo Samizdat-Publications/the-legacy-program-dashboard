@@ -69,6 +69,7 @@
 "label": "Cecilia Levy",
 "note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -100,6 +101,7 @@
 "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,6 +128,7 @@
 "label": "UAP Science Advisory Council",
 "note": "The government's outside science body took its detector expertise from a self-funded civil expedition group, UAPx, rather than from a national laboratory.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,6 +160,7 @@
 "label": "UAPx",
 "note": "A liquid-xenon dark-matter physicist applying direct-detection discipline - background rates, instrumental artefacts, false positives - to open-air field observation.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -183,6 +187,7 @@
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "The department's own faculty page for Szydagis lists his research interests as 'Experimental astroparticle physics, in particular direct detection of dark matter WIMPs (Weakly Interacting Massive Particles) and general detector development for rare event searches, neutron activation, and Unidentified Anomalous Phenomena'. That the phrase appears on a university department page, not a personal site, is the load-bearing fact: UAP is here a declared institutional research interest rather than a private hobby. Szydagis created the Noble Element Simulation Technique (NEST) in 2011 and works on LZ at the Sanford Underground Research Facility.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

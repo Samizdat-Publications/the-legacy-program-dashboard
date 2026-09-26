@@ -73,6 +73,7 @@
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +105,7 @@
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

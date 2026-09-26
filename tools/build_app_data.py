@@ -242,6 +242,7 @@ class Src(object):
 # ------------------------------------------------------------ the predicates
 
 PREDICATE_VOCAB = {p["id"]: p for p in _V.get("predicates") or []}
+FAMILY_PHRASE = {f["id"]: f["phrase"] for f in _V.get("predicateFamilies") or []}
 
 
 def load_predicates(board):
@@ -271,7 +272,8 @@ def predicate_view(s, e, here):
     predicate reads one label from either end."""
     r = s.preds.get(e.get("id"))
     if not r:
-        return {"predicate": None, "family": None, "verb": None, "predicateSide": None}
+        return {"predicate": None, "family": None, "verb": None, "predicateSide": None,
+                "predicateShown": False}
     p = PREDICATE_VOCAB[r["predicate"]]
     if p.get("symmetric"):
         verb, side = p["forward"], "either"
@@ -279,7 +281,15 @@ def predicate_view(s, e, here):
         verb, side = p["forward"], "subject"
     else:
         verb, side = p["inverse"], "object"
-    return {"predicate": p["id"], "family": p["family"], "verb": verb, "predicateSide": side}
+    # The display rule (schema/vocab.json predicateRules.display, decided 26
+    # September 2026): the family is the reliable unit; a predicate's own label
+    # and direction show only where its confidence is high, otherwise the row
+    # reads the family's neutral phrase. `predicateSide` is recorded either way.
+    shown = r.get("confidence") == "high"
+    if not shown:
+        verb = FAMILY_PHRASE[p["family"]]
+    return {"predicate": p["id"], "family": p["family"], "verb": verb, "predicateSide": side,
+            "predicateShown": shown}
 
 
 def check_era_table(layout):
@@ -463,6 +473,7 @@ def edges_json(s):
              "id": e.get("id"),
              "label": e.get("label") or "",
              "predicate": (s.preds.get(e.get("id")) or {}).get("predicate"),
+             "shown": (s.preds.get(e.get("id")) or {}).get("confidence") == "high",
              "subject": (s.preds.get(e.get("id")) or {}).get("subject"),
              "t": e["type"],
              "tier": e.get("claimTier")}

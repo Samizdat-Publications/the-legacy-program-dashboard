@@ -48,6 +48,7 @@
 "label": "CIA Office of Policy Coordination",
 "note": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -74,6 +75,7 @@
 "label": "Counterintelligence",
 "note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -84,7 +86,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -100,6 +102,7 @@
 "label": "The Cover-Up",
 "note": "The Robertson Panel's January 1953 recommendation for a mass-media debunking programme is the documented point where concealment becomes an influence operation.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -110,7 +113,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -126,6 +129,7 @@
 "label": "Disinformation & Fabricated Documents",
 "note": "The Bennewitz episode, in which AFOSI personnel supplied fabricated documents, is the documented case linking perception management to forged records; Doty's own personnel file is public.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -136,7 +140,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -152,6 +156,7 @@
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -183,6 +188,7 @@
 "label": "Gordon Gray",
 "note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -209,6 +215,7 @@
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

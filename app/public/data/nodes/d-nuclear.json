@@ -60,6 +60,7 @@
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "note": "42 U.S.C. 2014(y), enacted as section 11 r.: all data concerning design, manufacture or utilization of atomic weapons, the production of special nuclear material, or the use of special nuclear material in the production of energy, less whatever has been declassified under the statutory procedure.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -86,6 +87,7 @@
 "label": "Bluegill Triple Prime",
 "note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -112,6 +114,7 @@
 "label": "Nuclear Weapons Complex Nexus",
 "note": "The sites where the correlation is strongest are governed by the Restricted Data regime rather than by DoD classification, which routes any resulting analysis outside the SAP framework.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,7 +125,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "governs"
+"verb": "linked through law"
 }
 ],
 "coords": null,

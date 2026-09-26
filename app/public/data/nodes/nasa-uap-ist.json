@@ -65,6 +65,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings.",
 "predicate": "concurrent_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Americans for Safe Aerospace",
 "note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "Chain of custody",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -137,7 +140,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -153,6 +156,7 @@
 "label": "David N. Spergel",
 "note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -163,7 +167,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "had as a member"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -179,6 +183,7 @@
 "label": "David N. Spergel",
 "note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -210,6 +215,7 @@
 "label": "Michael Gold",
 "note": "Gold is listed among the team's members and later testified to Congress on its findings.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -241,6 +247,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -267,6 +274,7 @@
 "label": "Nicola J. Fox",
 "note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -277,7 +285,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -293,6 +301,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -324,6 +333,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -339,7 +349,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

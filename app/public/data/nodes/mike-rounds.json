@@ -82,6 +82,7 @@
 "label": "2026 Disclosure Symposium",
 "note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -97,7 +98,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "appeared on"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -113,6 +114,7 @@
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Rounds is listed as an original cosponsor with sponsorship date 13 July 2023.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -139,6 +141,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "First-listed cosponsor in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,6 +168,7 @@
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

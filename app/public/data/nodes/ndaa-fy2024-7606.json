@@ -59,6 +59,7 @@
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "FY2024 IAA sec. 7606(c) addresses 'each head of an agency who is authorized to establish a special access program by Executive Order 13526', due within one year.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "requires"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -85,6 +86,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Sec. 7606(c)(2) names the Committee on Oversight and Accountability of the House of Representatives among the recipients.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -71,6 +71,7 @@
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -81,7 +82,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -97,6 +98,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Statement records that the Department of Defense identified the need in August 2016, citing conflict between GAAP and classification obligations under Executive Order 13526. Attested by SFFAS 56's own basis for conclusions.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -107,7 +109,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -123,6 +125,7 @@
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "SFFAS 56 became effective for periods beginning after 30 September 2018 - the first period after the Department's first full-scope audit - and permits amounts to be presented in a different line item without narrative explanation. Attested by the Statement and by the FY2018 Agency Financial Report.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -149,6 +152,7 @@
 "label": "Federal Accounting Standards Advisory Board (FASAB)",
 "note": "The standard is a FASAB pronouncement, effective for periods beginning after 30 September 2018. Attested by the Statement itself.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

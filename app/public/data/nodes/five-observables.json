@@ -65,6 +65,7 @@
 "label": "Luis D. Elizondo",
 "note": "Attributed to Elizondo from his AATIP work. No government document stating the set has been located, so this rests on reporting and on his own organisation's publication of it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +103,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -117,6 +119,7 @@
 "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
 "note": "Trans-medium travel, hypersonic velocity without signatures, low observability and lift without flight surfaces all appear as goals in the Navy briefing. Sudden acceleration does not. The edge is Tier 2 because the taxonomy half rests on reporting, even though the briefing half is Tier 1.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -127,7 +130,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

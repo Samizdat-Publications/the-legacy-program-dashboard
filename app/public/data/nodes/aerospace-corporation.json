@@ -77,6 +77,7 @@
 "label": "The FFRDC Seam",
 "note": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +109,7 @@
 "label": "Eric Burlison",
 "note": "Aerospace holds the technical judgement on national security space sensing; no letter to Aerospace has been made public as of 12 August 2026.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -144,6 +146,7 @@
 "label": "Eric W. Davis",
 "note": "The New York Times identified Davis as working for Aerospace Corp. when reporting his classified briefings on retrievals. The corporation has never publicly addressed whether it had any institutional role.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -170,6 +173,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's FFRDC thesis treats MITRE and the Aerospace Corporation as parallel instances of the same mechanism; the Aerospace link is reinforced by Stephanie O'Sullivan's board membership there after ODNI. The specific allegation against Aerospace is inference from the model rather than a separately documented claim.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -185,7 +189,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -201,6 +205,7 @@
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -211,7 +216,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

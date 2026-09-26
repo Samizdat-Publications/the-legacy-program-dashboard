@@ -71,6 +71,7 @@
 "label": "Alfred 'Al' O'Donnell",
 "note": "His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -102,6 +103,7 @@
 "label": "Federal Contracting Mechanics",
 "note": "EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -128,6 +130,7 @@
 "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
 "note": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -159,6 +162,7 @@
 "label": "Groom Lake, Nevada",
 "note": "The relationship is documented indirectly through the Groom Lake worker litigation and the annual presidential environmental exemptions rather than through any acknowledgment of the facility.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -174,7 +178,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "ran"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -190,6 +194,7 @@
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "Its instrumentation and site services role is documented through DOE technical history and through the Groom Lake litigation rather than through any acknowledgment of the adjacent operating location.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -205,7 +210,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "ran"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -221,6 +226,7 @@
 "label": "Richard D'Amato",
 "note": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -247,6 +253,7 @@
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -257,7 +264,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is the location of"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

@@ -47,6 +47,7 @@
 "label": "Varginha incident, Minas Gerais, January 1996",
 "note": "The Brazilian Army's 2010 inquiry explained the Varginha vehicle movements as routine maintenance and school transport; the USAF's 1997 report explained the New Mexico recovery teams as dummy-recovery operations. Both are plausible and neither published the underlying unit movement records. Reasoning: an explanation of activity is not the same artifact as the activity log.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "W. Glenn Dennis",
 "note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Capt. James McAndrew",
 "note": "Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "James Ragsdale",
 "note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -151,6 +155,7 @@
 "label": "Plains of San Agustin claim, July 1947",
 "note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -177,6 +182,7 @@
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "note": "The 1994 report addressed the debris and did not address the bodies claims; the 1997 report was produced to close that gap.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -187,7 +193,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "succeeded"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

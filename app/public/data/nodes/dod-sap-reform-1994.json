@@ -59,6 +59,7 @@
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO 'serves as the primary point of contact with Congress, the National Security Council, and other government agencies'.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -85,6 +86,7 @@
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "note": "The 1994 bulletin and the 1994 commission report both describe a SAPOC chaired by the Deputy Secretary of Defense with an annual validation function, which is the function the later directive and instruction assign.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "The November 1994 bulletin has the SAPOC chaired by the Deputy Secretary of Defense, reviewing and validating every SAP annually, sixteen years before the DoD Directive 5205.07 issuance the sapoc node cites as its establishment.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,7 +151,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -163,6 +167,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The Joint Security Commission's chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,7 +178,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "concerns"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

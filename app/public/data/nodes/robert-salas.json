@@ -146,6 +146,7 @@
 "label": "James Carlson",
 "note": "Carlson is the son of Echo Flight's crew commander. His two works were NOT OPENED by this board and his position is reported at one remove.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -172,6 +173,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -198,6 +200,7 @@
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -234,6 +237,7 @@
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -249,7 +253,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -265,6 +269,7 @@
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "Salas was a missile combat crew commander at a PRP site; the programme is the administrative regime his testimony was given against, which is an inference from the directive's scope and not a statement about him.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -275,7 +280,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is governed by"
+"verb": "linked through law"
 }
 ],
 "date": "2025-01-01",

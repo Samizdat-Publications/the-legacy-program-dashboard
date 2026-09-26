@@ -41,6 +41,7 @@
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "The author block on the released DIRD gives EarthTech's full street address, which makes the corporate performer identifiable and locatable rather than a generic 'contractor'.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Eric W. Davis",
 "note": "The cover of the released document names Eric W. Davis, Ph.D., of EarthTech International Inc. as author, with a DIA control number, a Defense Warning Office preparing office and an FY2009 production year.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "James T. Lacatski",
 "note": "The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

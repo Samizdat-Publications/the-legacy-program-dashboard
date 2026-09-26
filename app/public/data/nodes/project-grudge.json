@@ -47,6 +47,7 @@
 "label": "Estimate of the Situation (1948)",
 "note": "SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Project Blue Book",
 "note": "Ruppelt was placed in charge of the reconstituted GRUDGE in late 1951 and the project was renamed Project Blue Book in March 1952.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

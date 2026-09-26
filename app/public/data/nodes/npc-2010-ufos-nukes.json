@@ -65,6 +65,7 @@
 "label": "Capt. Bruce Fenstermacher",
 "note": "No dated public statement by him before this event has been identified.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -91,6 +92,7 @@
 "label": "Charles I. Halt",
 "note": "His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +103,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -117,6 +119,7 @@
 "label": "Lt Col Dwynne Arneson",
 "note": "No dated public statement by him before this event has been identified.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -143,6 +146,7 @@
 "label": "Jerry (Jerome) Nelson",
 "note": "Whether he executed an affidavit is not established: the page names six affiants and he is not among them, which may be an omission on the page rather than a fact about him.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -169,6 +173,7 @@
 "label": "Patrick McDonough",
 "note": "No dated public statement by him before this event has been identified.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -179,7 +184,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -195,6 +200,7 @@
 "label": "Robert L. Hastings",
 "note": "Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -226,6 +232,7 @@
 "label": "Capt. Robert Jamison",
 "note": "Named on Hastings's own page among the six men said to have executed affidavits.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -236,7 +243,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -252,6 +259,7 @@
 "label": "Capt. Robert L. Salas",
 "note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -267,7 +275,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

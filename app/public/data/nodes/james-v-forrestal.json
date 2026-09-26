@@ -56,6 +56,7 @@
 "label": "Majestic-12 Corpus",
 "note": "Read aloud on AREA52 - DEBRIEFED episode 20, 3 January 2025, the document twice calls him 'General James V. Forestall'. Section 202(a) of the National Security Act of 1947 requires the Secretary of Defense to be appointed from civilian life and disqualifies anyone who has been on active duty as a commissioned officer within ten years. The edge records the error, not the attribution.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,6 +83,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The National Security Act of 1947 created the office at section 202(a) and required its holder to be appointed from civilian life; the Office of the Historian's persons list dates his tenure to the day.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +110,7 @@
 "label": "United States Navy",
 "note": "The Office of the Historian's persons list gives 'Secretary of the Navy until September 1947' immediately before the Defense appointment.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

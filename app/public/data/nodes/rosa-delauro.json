@@ -38,6 +38,7 @@
 "label": "Waived SAP Notification Group",
 "note": "In the group continuously across the 118th and 119th Congresses.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

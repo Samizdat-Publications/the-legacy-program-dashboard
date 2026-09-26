@@ -131,6 +131,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,6 +158,7 @@
 "label": "Department of War release of UAP files",
 "note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -188,6 +190,7 @@
 "label": "Senate Armed Services Emerging Threats subcommittee hearing, 19 April 2023 - 'The Mission, Activities, Oversight, and Budget of the All-Domain Anomaly Resolution Office'",
 "note": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -214,6 +217,7 @@
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -240,6 +244,7 @@
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate.",
 "predicate": "sponsored_law",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -255,7 +260,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "sponsored"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -271,6 +276,7 @@
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -297,6 +303,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Named in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

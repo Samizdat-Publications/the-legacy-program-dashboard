@@ -65,6 +65,7 @@
 "label": "Information Security Oversight Office",
 "note": "The CAPCO Register v5.1 lists NARA/Information Security Oversight Office among the IC Classification Markings Implementation Working Group advisors.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -91,6 +92,7 @@
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "The IC Authorized Classification and Control Markings Register and Manual v5.1 is issued by the Controlled Access Program Coordination Office, Washington DC 20511.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -106,7 +108,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is held by"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -122,6 +124,7 @@
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "The register exists because the directive orders this office to keep it. ICD 906 D.9.b requires CAPCO to 'Manage a CAP Registry that maintains a list of all control systems', and E.4 restates the duty to 'Maintain the CAP Registry, a list of all control systems'. The office is the custodian, not merely the publisher.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -153,6 +156,7 @@
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "CAPCO Register v5.1 moved the Special Access Required marking into a new Special Access Program Markings category following the SCI control markings, with the indicator 'SPECIAL ACCESS REQUIRED-' or 'SAR-'.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,7 +167,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "governs"
+"verb": "linked through law"
 }
 ],
 "coords": null,

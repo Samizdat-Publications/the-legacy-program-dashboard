@@ -35,6 +35,7 @@
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
 "predicate": "same_as",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the same as"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

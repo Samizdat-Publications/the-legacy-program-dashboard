@@ -53,6 +53,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Sec. 6802 terminates quarterly audit information-sharing 90 days after the final volume and semiannual congressional briefings 180 days after.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 6801 of P.L. 118-159 commissions a Comptroller General review with a report due on a mutually agreed timeframe rather than a date.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -110,6 +112,7 @@
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,7 +128,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "does not include"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

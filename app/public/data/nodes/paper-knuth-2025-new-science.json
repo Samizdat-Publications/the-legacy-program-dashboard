@@ -35,6 +35,7 @@
 "label": "Kevin H. Knuth",
 "note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "Matthew Szydagis",
 "note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -87,6 +89,7 @@
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -102,7 +105,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

@@ -135,6 +135,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Wiggins described a multi-radar transmedium contact from USS Jackson to a House task force in September 2025; AARO's FY2025 report carries one unresolved maritime event and does not indicate whether the USS Jackson account is in its holdings.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -150,7 +151,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -166,6 +167,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -212,6 +214,7 @@
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "Wiggins testified as an active-duty Senior Chief Operations Specialist that CIC recorded four objects on Star SAFIRE with intact position and time metadata.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -238,6 +241,7 @@
 "label": "Navy UAP event off the Virginia coast (reported July 2026)",
 "note": "The USS Jackson transmedium event of February 2023 and the roughly 100 objects with two uncrewed surface systems off Virginia are the two maritime anchors of the current record; neither has a public case number.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -253,7 +257,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "date": "2025-09-09",

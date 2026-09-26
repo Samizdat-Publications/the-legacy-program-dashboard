@@ -120,6 +120,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The James M. Inhofe NDAA for FY2023, signed 23 December 2022, gave AARO statutory authority and the annual reporting requirement now at 50 U.S.C. 3373(k).",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -146,6 +147,7 @@
 "label": "David Charles Grusch",
 "note": "The Debrief reports Grusch helped draft the UAP language in the FY2023 NDAA, signed December 2022, which permits authorized UAP disclosures without retaliation regardless of prior nondisclosure agreements - written by the person who would then need it.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -156,7 +158,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was written by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -172,6 +174,7 @@
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "IAA FY2023 sec. 6802(a) rewrites sec. 1683 in full.",
 "predicate": "amended",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

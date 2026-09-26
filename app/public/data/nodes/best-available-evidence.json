@@ -29,6 +29,7 @@
 "label": "Marie 'Bootsie' Galbraith",
 "note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -55,6 +56,7 @@
 "label": "The Rockefeller UFO Disclosure Initiative",
 "note": "The document was deliberately written as a government-style assessment rather than a popular book.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -70,7 +72,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

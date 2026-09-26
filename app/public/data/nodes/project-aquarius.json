@@ -47,6 +47,7 @@
 "label": "Linda Moulton Howe",
 "note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -78,6 +79,7 @@
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "The AQUARIUS paper was shown at Kirtland in April 1983; the MJ-12 film arrived postmarked Albuquerque in December 1984. Both channels ran through people in contact with AFOSI.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -109,6 +111,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "Cooper's 1989 paper independently records Howe telling him that Doty showed her documents at Kirtland. That corroborates the telling by 1989 and nothing about the documents. No copy of any document given to Bennewitz was opened by this session, and no aquarius-document node should be created.",
 "predicate": "alleged_to_hold",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

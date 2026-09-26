@@ -64,6 +64,7 @@
 "label": "Congressional UAP Caucus",
 "note": "Described by The Hill as 'part of the UAP Caucus but not the Oversight Committee.'",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -90,6 +91,7 @@
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "The only statutory enforcement mechanism any member has named on the record; never used on this subject.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,7 +129,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "made claims about"
+"verb": "linked through testimony"
 }
 ],
 "date": "2023-07-26",

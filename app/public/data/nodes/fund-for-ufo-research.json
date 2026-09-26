@@ -41,6 +41,7 @@
 "label": "Gerald Anderson",
 "note": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Leonard H. Stringfield",
 "note": "Stringfield names the Fund for UFO Research first in the Status Report VII acknowledgements, thanking it for past funding.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

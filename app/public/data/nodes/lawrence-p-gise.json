@@ -56,6 +56,7 @@
 "label": "Defense Advanced Research Projects Agency",
 "note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -82,6 +83,7 @@
 "label": "United States Department of Energy",
 "note": "The Register documents the AEC Division of Military Application post at Tier 1; the succession from AEC to DOE is the board's own doe node, so the edge itself is an inference and is graded accordingly.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -92,7 +94,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 }
 ],
 "date": "1957-05-01",

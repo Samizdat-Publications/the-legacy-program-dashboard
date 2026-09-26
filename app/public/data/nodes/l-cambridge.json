@@ -35,6 +35,7 @@
 "label": "Abraham 'Avi' Loeb",
 "note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -71,6 +72,7 @@
 "label": "The Galileo Project",
 "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -107,6 +109,7 @@
 "label": "The Galileo Project",
 "note": "Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

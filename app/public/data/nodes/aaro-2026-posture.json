@@ -47,6 +47,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "AARO JWICS case management system (sources sought, May 2025)",
 "note": "A Sources Sought Notice for a JWICS-hosted case management system establishes that AARO had no purpose-built case system three years after standing up.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "ran"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -99,6 +101,7 @@
 "label": "Jon T. Kosloski",
 "note": "Kosloski has led AARO since 26 August 2024; the Leaders page names no other official.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -130,6 +133,7 @@
 "label": "war.gov/UFO release portal",
 "note": "AARO's homepage carries a PURSUE banner linking to war.gov/UFO and a NARA banner linking to archives.gov, directing the public away from its own EFOIA reading room.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -140,7 +144,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "does not include"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

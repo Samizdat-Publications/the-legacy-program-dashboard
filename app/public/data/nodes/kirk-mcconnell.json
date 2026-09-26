@@ -99,6 +99,7 @@
 "label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
 "note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +115,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -130,6 +131,7 @@
 "label": "The Sol Foundation",
 "note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

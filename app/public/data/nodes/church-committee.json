@@ -59,6 +59,7 @@
 "label": "Central Intelligence Agency",
 "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +97,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -111,6 +113,7 @@
 "label": "James Jesus Angleton",
 "note": "Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "Project MKULTRA",
 "note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,6 +167,7 @@
 "label": "Congressional oversight of special access programs",
 "note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,7 +178,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -189,6 +194,7 @@
 "label": "Senate Select Committee on Intelligence",
 "note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -215,6 +221,7 @@
 "label": "United States Senate",
 "note": "The report states the resolution, the date and the mandate in its own opening section.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

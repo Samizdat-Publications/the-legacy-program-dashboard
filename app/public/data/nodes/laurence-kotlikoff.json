@@ -50,6 +50,7 @@
 "label": "Boston University",
 "note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -76,6 +77,7 @@
 "label": "Mark Skidmore",
 "note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

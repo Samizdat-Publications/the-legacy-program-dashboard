@@ -62,6 +62,7 @@
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -88,6 +89,7 @@
 "label": "Mark McCandlish",
 "note": "The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -114,6 +116,7 @@
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,6 +143,7 @@
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

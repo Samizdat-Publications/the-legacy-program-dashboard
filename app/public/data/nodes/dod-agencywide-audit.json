@@ -65,6 +65,7 @@
 "label": "Brett A. Mansfield",
 "note": "Deputy Inspector General Mansfield told the House Committee on Oversight and Government Reform on 13 May 2026 that unsupported adjustments exceeded $859 billion in the last two quarters of FY2025. Attested by his published oral statement.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -91,6 +92,7 @@
 "label": "Funding Channels",
 "note": "The Department has undergone full-scope financial statement audits since FY2018 and has received a disclaimer of opinion every year through FY2025 - eight in a row. A disclaimer means the auditors could not obtain sufficient appropriate evidence to form an opinion, which is the auditable fact that defines the boundary of what can be traced from appropriation to expenditure. This is the single hardest, least deniable member of this domain.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "David L. Norquist",
 "note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -132,7 +135,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -148,6 +151,7 @@
 "label": "Department of Defense Office of Inspector General",
 "note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -158,7 +162,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -174,6 +178,7 @@
 "label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
 "note": "DOWIG-2026-081 records the eighth consecutive disclaimer, 26 material weaknesses, and more than $859 billion of unsupported adjustments in two quarters of FY2025. Attested by the report.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -200,6 +205,7 @@
 "label": "GAO High-Risk List: DOD Financial Management",
 "note": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained, alongside four other DoD entries. Attested by GAO's own list.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -226,6 +232,7 @@
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "The Department's standing 'Universe of Transactions' material weakness means the complete population of its transactions is not established; no search of that population can therefore establish that funds did not flow to an undisclosed activity. Reasoned inference from the auditor's own definition of the weakness.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -236,7 +243,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -252,6 +259,7 @@
 "label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
 "note": "The FMR permits internal reprogramming on DD 1415-3 with no congressional action and below-threshold realignment with none at all; the FY2025 audit found more than $859 billion of adjustments in two quarters that could not be supported. The inference is that the undocumented volume is concentrated in the layer that generates no external record.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -262,7 +270,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -278,6 +286,7 @@
 "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
 "note": "SFFAS 56 became effective for periods beginning after 30 September 2018 - the first period after the Department's first full-scope audit - and permits amounts to be presented in a different line item without narrative explanation. Attested by the Statement and by the FY2018 Agency Financial Report.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

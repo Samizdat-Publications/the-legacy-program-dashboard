@@ -179,6 +179,7 @@
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The hearing was 13 November 2024; the FY2024 report and Kosloski's media roundtable were 14 November 2024, and his Senate testimony 19 November.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -205,6 +206,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I states AARO found no NDAs containing UAP-related information; eight months later Elizondo testified under oath to signing a SCIF instrument barring discussion of crash retrieval.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -220,7 +222,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was denied by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -236,6 +238,7 @@
 "label": "Christopher K. Mellon",
 "note": "Index of Documents: 'Mellon Hearing Letter; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -246,7 +249,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -262,6 +265,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Grusch testified in 2023 to being informed of a retrieval programme; in 2024 Elizondo answered Mace's direct question with 'Yes'.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -277,7 +281,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -293,6 +297,7 @@
 "label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
 "note": "Joint with the National Security subcommittee; Serial No. 118-135.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -324,6 +329,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The report was delivered, described under oath and entered into the record at this hearing.",
 "predicate": "same_as",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -339,7 +345,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is the same as"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -355,6 +361,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -381,6 +388,7 @@
 "label": "Karl E. Nell",
 "note": "Nell did not testify; his May 2024 conference statement was quoted from the chair.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -391,7 +399,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -407,6 +415,7 @@
 "label": "Luis D. Elizondo",
 "note": "His confirmation that the transfer 'was blocked' is the single most load-bearing on-record statement in this domain.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -433,6 +442,7 @@
 "label": "Luis D. Elizondo",
 "note": "Elizondo's affirmation is printed in the same official record in which the majority notes that agencies had not substantiated Grusch's claims - both statements stand in the hearing volume.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -484,6 +494,7 @@
 "label": "Michael Gold",
 "note": "Gold testified as the fourth witness and answered Boebert's genetics question in the negative.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -525,6 +536,7 @@
 "label": "Michael Shellenberger",
 "note": "The hearing is the fixed, dateable event at which the Immaculate Constellation document entered the record.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -551,6 +563,7 @@
 "label": "Michael Shellenberger",
 "note": "Mace announced from the dais that Shellenberger had delivered the 12-page document that morning and moved it into the record.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -592,6 +605,7 @@
 "label": "Nancy Ruth Mace",
 "note": "Joint hearing of the Cybersecurity/IT/Government Innovation and National Security/Border/Foreign Affairs subcommittees, with Rep. Glenn Grothman co-chairing.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -623,6 +637,7 @@
 "label": "Public",
 "note": "The transcript lists 'Mr. Michael Shellenberger, Founder of Public' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens 'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees' - a joint sitting of two subcommittees.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -659,6 +674,7 @@
 "label": "The Hill",
 "note": "The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline 'House panel hears of hidden UAP trove, secretive arms race', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR's same-day report.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -695,6 +711,7 @@
 "label": "Timothy Floyd Burchett",
 "note": "Burchett asked the direct question that produced the only sworn second-source affirmation of Grusch's central allegation in the congressional record.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -705,7 +722,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -721,6 +738,7 @@
 "label": "Timothy Gallaudet",
 "note": "Gallaudet's statement urged members to 'wield their subpoena power against hostile witnesses and prevent additional government funding to those UAP efforts that remain hidden from congressional oversight.'",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

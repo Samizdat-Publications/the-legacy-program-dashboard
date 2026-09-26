@@ -41,6 +41,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The memorandum establishes AARO as the Department's authoritative UAP office covering space, airborne, submerged and transmedium anomalous objects.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Kathleen H. Hicks",
 "note": "Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

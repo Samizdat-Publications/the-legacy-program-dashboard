@@ -23,6 +23,7 @@
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -54,6 +55,7 @@
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -35,6 +35,7 @@
 "label": "Kevin H. Knuth",
 "note": "Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
 "predicate": "studied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,6 +89,7 @@
 "label": "Robert M. Powell",
 "note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

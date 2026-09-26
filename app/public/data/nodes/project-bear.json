@@ -29,6 +29,7 @@
 "label": "Battelle Memorial Institute",
 "note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -39,7 +40,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -55,6 +56,7 @@
 "label": "Battelle Memorial Institute",
 "note": "AARO's own history records the contract, the questionnaire and punch-card work, and the resulting Special Report No. 14.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -47,6 +47,7 @@
 "label": "Carroll H. Bolender",
 "note": "Brig. Gen. Bolender, USAF Deputy Director of Development, signed the 20 October 1969 memorandum recommending Blue Book's closure and explaining why closure cost the Air Force nothing operationally.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "JANAP 146 (CIRVIS/MERINT reporting)",
 "note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Brig. Gen. Carroll Bolender's 1969 memorandum recommended Blue Book's termination and stated that reports which could affect national security were never part of the Blue Book system - a statement about this base's own reporting architecture.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 3,
@@ -130,6 +133,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Blue Book's files went to NARA; whatever accumulated on the JANAP 146 side has never been named as a series, accessioned, or searched under any disclosure statute including the FY2024 NDAA.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +149,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -161,6 +165,7 @@
 "label": "Project Blue Book",
 "note": "Secretary of the Air Force Robert C. Seamans Jr. announced the termination on 17 December 1969, citing the Condon Report.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

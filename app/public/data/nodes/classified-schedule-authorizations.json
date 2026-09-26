@@ -53,6 +53,7 @@
 "label": "National Intelligence Program (NIP)",
 "note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
 "predicate": "funded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "funded"
+"verb": "linked through money"
 },
 {
 "claimTier": 3,
@@ -79,6 +80,7 @@
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -89,7 +91,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -105,6 +107,7 @@
 "label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
 "note": "Section 6102(b)(3)(A) names 50 U.S.C. 3306(a) as the one statutory route by which any portion of the classified Schedule may be publicly disclosed. Attested by the enacted text.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

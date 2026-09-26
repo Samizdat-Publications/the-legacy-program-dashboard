@@ -71,6 +71,7 @@
 "label": "Charles E. Schumer",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,6 +98,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -128,6 +130,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -154,6 +157,7 @@
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,7 +173,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "governs"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -185,6 +189,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Secs. 9001-9015 as passed by the Senate became Secs. 1841-1843 as enacted; the Review Board, Board personnel, record review, eminent domain, court-sealed materials and the $20,000,000 authorization have no enacted counterpart.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

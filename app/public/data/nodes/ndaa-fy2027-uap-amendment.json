@@ -41,6 +41,7 @@
 "label": "The FFRDC Seam",
 "note": "The only proposed mechanism that would convert FFRDC holdings into records reachable by an independent review board with subpoena power, without sponsoring-agency consent.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Eric Burlison",
 "note": "Revised text designated Version 2 on 15 July 2026 and adopted as part of the FY2027 NDAA later that month.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The FY2027 amendment restores the Senate-confirmed UAP Records Review Board with subpoena authority and a statutory transfer timeline to NARA.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

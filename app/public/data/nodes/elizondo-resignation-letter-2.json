@@ -41,6 +41,7 @@
 "label": "James N. Mattis",
 "note": "The letter asks the Secretary to 'ask the hard questions'. Garry Reid's memo later questioned its 'uncertain provenance' — while the letter itself sits in the Department's own FOIA release.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "Luis D. Elizondo",
 "note": "The protest letter naming Departmental opposition to further UAP research as his reason for leaving.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

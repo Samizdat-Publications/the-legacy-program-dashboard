@@ -41,6 +41,7 @@
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "note": "STATED INFERENCE. NO DOCUMENT JOINS THESE TWO and neither cites the other. The edge records that the propulsion mechanism US 3,322,374 claims was demonstrated at sea by a civil maritime foundation in public in 1992, which is the strand's control case: the mechanism does not require a secret to exist.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

@@ -118,6 +118,7 @@
 "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
 "note": "Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -133,7 +134,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -149,6 +150,7 @@
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says.",
 "predicate": "published",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -164,7 +166,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "published"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -180,6 +182,7 @@
 "label": "Col. Frederick Meiwald",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Meiwald was found by Salas, the claimant, and published by Salas and Hastings.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -206,6 +209,7 @@
 "label": "F. E. Warren AFB, Wyoming",
 "note": "Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -216,7 +220,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "reported on"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -232,6 +236,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -258,6 +263,7 @@
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "It is Hastings, not a sceptic, who made the separation that both improves the board's honesty and removes Echo Flight's documentation from the Oscar Flight claim.",
 "predicate": "studied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -284,6 +290,7 @@
 "label": "Minot AFB incursions, 1966",
 "note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -310,6 +317,7 @@
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -341,6 +349,7 @@
 "label": "Richard M. Dolan",
 "note": "Dolan argues concealment from the documented secrecy architecture; Hastings supplies the best-documented category of incident occurring inside the most heavily compartmented part of that architecture. Reasoning: the nuclear weapons complex is where SAP density and incident documentation coincide.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -351,7 +360,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -367,6 +376,7 @@
 "label": "Capt. Robert Jamison",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -398,6 +408,7 @@
 "label": "Robert J. Kaminski",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. The letter itself was addressed to Klotz, not to Hastings, and has not been opened by this board.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -413,7 +424,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -429,6 +440,7 @@
 "label": "Col. Walter Figel Jr.",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Three telephone conversations in 2008, 2009 and 2010, recorded by and held by the interviewer. The recordings have not been published in full at any URL this board has opened.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

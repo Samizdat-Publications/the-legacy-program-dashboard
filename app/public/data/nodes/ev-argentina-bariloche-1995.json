@@ -47,6 +47,7 @@
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "note": "The Buenos Aires Times reports that the released file sits in a section on investigations conducted outside the United States and 'references a report produced by COMETA'.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -73,6 +74,7 @@
 "label": "Japan's review of the 2026 US UAP file releases",
 "note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -88,7 +90,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

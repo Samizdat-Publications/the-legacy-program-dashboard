@@ -65,6 +65,7 @@
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -106,7 +108,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 }
 ],
 "date": "1993-01-01",

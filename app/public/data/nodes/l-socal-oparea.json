@@ -41,6 +41,7 @@
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "note": "Deck logs from USS Kidd, Rafael Peralta, Russell and John Finn, obtained under FOIA and cross-checked against AIS tracking, document the July 2019 events.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -98,6 +100,7 @@
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "Wiggins's statement places the event in Warning Area W-291 off Southern California.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

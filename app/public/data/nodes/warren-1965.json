@@ -41,6 +41,7 @@
 "label": "F. E. Warren AFB, Wyoming",
 "note": "The Blue Book telephone log names the base commander of F. E. Warren among its callers and names Warren missile sites.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

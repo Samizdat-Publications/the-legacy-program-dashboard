@@ -38,6 +38,7 @@
 "label": "Waived SAP Notification Group",
 "note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

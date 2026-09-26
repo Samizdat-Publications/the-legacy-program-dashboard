@@ -225,6 +225,7 @@
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Knapp's KLAS I-Team established publicly that the DIA-funded study was executed in Nevada, ahead of DIA's own release of the contract in 2022.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -251,6 +252,7 @@
 "label": "Alfred 'Al' O'Donnell",
 "note": "Knapp reported the account publicly in February 2023 and named O'Donnell to Congress under oath in September 2025. The promised deathbed recording has never surfaced.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -282,6 +284,7 @@
 "label": "Colm A. Kelleher",
 "note": "Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -308,6 +311,7 @@
 "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
 "note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -334,6 +338,7 @@
 "label": "David Charles Grusch",
 "note": "From the witness table Knapp told the Task Force that such acts are carried out by persons unknown, 'as Mr. Dave Grusch, sitting up at the top of the room, knows all too well, including events in recent days to - that have happened to him.' No member asked what he meant and the record contains no follow-up.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -360,6 +365,7 @@
 "label": "Glenn Gaffney",
 "note": "Immediately after naming Ryder, Knapp told Rep. Begich 'I have a name for you... Glenn Gaffney, CIA.' No documentary corroboration has been published.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -386,6 +392,7 @@
 "label": "Harry M. Reid",
 "note": "Recorded separately because the Reid end of the introduction is what converted private interest into federal appropriation.",
 "predicate": "in_contact_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -396,7 +403,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "was in contact with"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -412,6 +419,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Listed in the 2023 Index of Documents; Knapp testified live on 9 September 2025.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -443,6 +451,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -469,6 +478,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -520,6 +530,7 @@
 "label": "Dr. James Ryder",
 "note": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -546,6 +557,7 @@
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Pairs Knapp's four decades of sourcing with Corbell's leak pipeline.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -572,6 +584,7 @@
 "label": "The KLAS-TV Lazar broadcasts, 1989",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -598,6 +611,7 @@
 "label": "Las Vegas, Nevada",
 "note": "The May 1989 KLAS-TV interviews created the public reverse-engineering narrative attached to Area 51 and S-4.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -624,6 +638,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Asked by Rep. Burchett which corporations hold the material, Knapp answered 'Well, one of them is Lockheed... There is a list I can give you, Congressman.' He declined to characterise the company as culpable, attributing the tasking to the intelligence agencies.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -650,6 +665,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Knapp's NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -660,7 +676,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -676,6 +692,7 @@
 "label": "Robert T. Bigelow",
 "note": "The single most causally consequential act by any journalist in this domain: the introduction that produced NIDS, then AAWSAP and BAASS, and therefore the entire modern Pentagon lineage.",
 "predicate": "in_contact_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -686,7 +703,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "was in contact with"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -702,6 +719,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -728,6 +746,7 @@
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "note": "Knapp moves from reporter to co-author of the DOPSR-cleared insider account — and his earlier book is the proximate cause of the contract.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -754,6 +773,7 @@
 "label": "Timothy Floyd Burchett",
 "note": "No list has been published and no committee has reported receiving one, which is itself a documented gap in the record.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

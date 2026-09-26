@@ -69,6 +69,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,7 +80,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -95,6 +96,7 @@
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -121,6 +123,7 @@
 "label": "Luis D. Elizondo",
 "note": "Tipton, Elizondo's superior from about 2010 to 2012, originated the formula two weeks before it went public. Colleagues in the same chain warned the Department risked 'contradicting previous statements'.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,6 +150,7 @@
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

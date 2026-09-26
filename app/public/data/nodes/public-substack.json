@@ -29,6 +29,7 @@
 "label": "Independent media as the disclosure substrate",
 "note": "Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -60,6 +61,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The transcript lists 'Mr. Michael Shellenberger, Founder of Public' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens 'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees' - a joint sitting of two subcommittees.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,6 +98,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -132,6 +135,7 @@
 "label": "Nancy Ruth Mace",
 "note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -152,7 +156,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "reported on"
+"verb": "linked through media coverage"
 }
 ],
 "coords": null,

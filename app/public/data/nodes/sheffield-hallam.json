@@ -48,6 +48,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -78,7 +79,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

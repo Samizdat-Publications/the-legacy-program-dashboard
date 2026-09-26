@@ -59,6 +59,7 @@
 "label": "Kevin D. Randle",
 "note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Walter Haut",
 "note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
 "predicate": "told",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -95,7 +97,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "linked through testimony"
 }
 ],
 "date": "2007-01-01",

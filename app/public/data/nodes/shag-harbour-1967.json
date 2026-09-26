@@ -47,6 +47,7 @@
 "label": "Kecksburg incident, 9 December 1965",
 "note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

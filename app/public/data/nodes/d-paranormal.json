@@ -42,6 +42,7 @@
 "label": "Program Structure & Management",
 "note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -68,6 +69,7 @@
 "label": "Remote Viewing & Anomalous Cognition",
 "note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

@@ -65,6 +65,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The AARO Historical Record Report Volume I (March 2024) and the FY2025 Consolidated Annual Report contain no discussion of misappropriated funds, illegal contracting, IR&D or contractor financial arrangements. The absence is attested by the reports themselves.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Irvin Charles McCullough III",
 "note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +103,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -117,6 +119,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch filed the ICIG urgent-concern complaint in May 2022 through counsel, was found credible and urgent in July 2022, went on the record in June 2023 and testified under oath on 26 July 2023. Attested by The Debrief reporting and the House Oversight hearing record.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -127,7 +130,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -143,6 +146,7 @@
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "The Department's standing 'Universe of Transactions' material weakness means the complete population of its transactions is not established; no search of that population can therefore establish that funds did not flow to an undisclosed activity. Reasoned inference from the auditor's own definition of the weakness.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -153,7 +157,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -169,6 +173,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Grusch testified with Ryan Graves and David Fravor at 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'. Attested by the committee's own hearing page.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -195,6 +200,7 @@
 "label": "Independent Research and Development (IR&D) as a funding channel",
 "note": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -205,7 +211,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "made claims about"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

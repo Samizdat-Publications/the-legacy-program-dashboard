@@ -221,6 +221,7 @@
 "label": "Armed Forces Institute of Pathology",
 "note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -231,7 +232,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -247,6 +248,7 @@
 "label": "Central Intelligence Agency",
 "note": "Green was the agency analyst to whom biological anomalies were routed, including oversight of the SRI remote-viewing work, before writing the AAWSAP injury study two decades later.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -278,6 +280,7 @@
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "DIA list item 12 names \"Dr Kit Green, Wayne State Univ\", under the shorter title \"Field Effects on Biological Tissues\". The released document's printed title is longer and more specific.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -319,6 +322,7 @@
 "label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
 "note": "Green, a physician-neuroscientist and former CIA life-sciences analyst, wrote the study of injuries attributed to proximity to anomalous craft; released publicly by Popular Mechanics on 14 February 2020.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -350,6 +354,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Item 12, 'Field Effects on Biological Tissues', released as 'Anomalous Acute and Subacute Field Effects on Human Biological Tissues' — a government document about injuries.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -376,6 +381,7 @@
 "label": "Garry Nolan",
 "note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -391,7 +397,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -407,6 +413,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Green's human-effects interest predates the federal contract by more than a decade, through Bigelow's private institute.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -433,6 +440,7 @@
 "label": "Richard J. Genik II",
 "note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -453,7 +461,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -469,6 +477,7 @@
 "label": "SRI International (Stanford Research Institute)",
 "note": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -484,7 +493,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "oversaw"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 3,
@@ -500,6 +509,7 @@
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Green's CIA Life Sciences work on anomalous phenomena is the analytic counterpart to the SRI research, and his later Wayne State position carried the biomedical line into NIDS/BAASS and the modern Stanford circle. Reasoning: continuity of documented affiliations, not of a single programme.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -510,7 +520,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "ran"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 3,
@@ -526,6 +536,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Green's association with the company is publicly acknowledged; the board has located no filing specifying his role or duties, and records the connection as an inference from public association rather than a documented officership.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -536,7 +547,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -552,6 +563,7 @@
 "label": "Wayne State University",
 "note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -593,6 +605,7 @@
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -608,7 +621,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 }
 ],
 "date": "2010-01-01",

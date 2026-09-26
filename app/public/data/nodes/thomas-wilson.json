@@ -82,6 +82,7 @@
 "label": "The Disclosure Project",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,7 +98,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -113,6 +114,7 @@
 "label": "Will Miller",
 "note": "The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it.",
 "predicate": "in_contact_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -139,6 +141,7 @@
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

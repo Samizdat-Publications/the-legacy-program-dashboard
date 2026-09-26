@@ -47,6 +47,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Seven numbered PR items released across five weeks, all short European clips, one resolved as birds - the office's entire video output before PURSUE.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The timing and the scale together read as minimum compliance: seven short clips in response to sworn testimony that the office holds an unreleased video archive.",
 "predicate": "responded_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "AARO's last imagery release is 6 January 2026; the Department's first tranche is 8 May 2026 with 29 videos, and AARO published nothing further.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,7 +122,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "was succeeded by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

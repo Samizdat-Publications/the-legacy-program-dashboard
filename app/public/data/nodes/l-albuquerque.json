@@ -41,6 +41,7 @@
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Lincoln LaPaz",
 "note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Steven H. Schiff",
 "note": "Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "had in a post"
+"verb": "linked through a role"
 }
 ],
 "coords": [

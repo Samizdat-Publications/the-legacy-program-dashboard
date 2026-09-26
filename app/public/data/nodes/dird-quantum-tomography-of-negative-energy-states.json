@@ -59,6 +59,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -95,6 +96,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,6 +123,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1102-007. Publication date 11 January 2011 on the cover. 52 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -152,6 +155,7 @@
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech International, Austin, Texas — the affiliation recorded against this title on the DIA congressional list.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -177,7 +181,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was written by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -193,6 +197,7 @@
 "label": "Eric W. Davis",
 "note": "The DIA congressional list credits 'Quantum Tomography of Negative Energy States in the Vacuum' to 'Dr Eric Davis, EarthTech'. This is one of a coherent negative-energy sub-series by the same author within the DIRD set, alongside 'Traversable Wormholes, Stargates and Negative Energy' and the quantum-vacuum energy extraction paper.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

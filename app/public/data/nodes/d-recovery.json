@@ -48,6 +48,7 @@
 "label": "Chain of custody",
 "note": "The custody chain begins at the recovery site; every documented handoff is a scoring opportunity on the C axis.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -58,7 +59,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -74,6 +75,7 @@
 "label": "Legacy Program",
 "note": "Grusch's sworn July 2023 account describes retrieval feeding a multi-decade exploitation effort; AARO's Volume I rejects the claim. Both are on the record.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,7 +86,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -100,6 +102,7 @@
 "label": "Roswell",
 "note": "Roswell is the origin of the crash-retrieval literature and the case against which every later retrieval claim is measured.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

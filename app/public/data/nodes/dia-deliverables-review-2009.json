@@ -47,6 +47,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "DIA in 2009: reviews 'positive, some exceptionally so'. AARO in 2024: terminated due to concerns about the project. Same department, opposite assessments, fifteen years apart.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "is contradicted by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -78,6 +79,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Thirteen reviews: eight by other report authors, five external. Conclusion: the quality hoped for was achieved.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "Sandia National Laboratories",
 "note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

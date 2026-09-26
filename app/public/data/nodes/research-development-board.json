@@ -47,6 +47,7 @@
 "label": "National Archives and Records Administration",
 "note": "NARA's finding aid lists, at 330.11.3, 'Minutes of meetings of the Executive Council, 1946-50' and 'Records of the Committee on Technical Information, 1946-53'.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

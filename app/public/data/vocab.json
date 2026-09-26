@@ -296,78 +296,93 @@
   {
    "blurb": "posts, leadership, membership, founding and working ties",
    "id": "role",
-   "label": "Roles"
+   "label": "Roles",
+   "phrase": "linked through a role"
   },
   {
    "blurb": "what is part of, runs, produces or succeeds what",
    "id": "organisation",
-   "label": "Organisation"
+   "label": "Organisation",
+   "phrase": "linked in how it is organised"
   },
   {
    "blurb": "who paid or contracted whom",
    "id": "money",
-   "label": "Money"
+   "label": "Money",
+   "phrase": "linked through money"
   },
   {
    "blurb": "who holds records or is said to hold material, and where it went",
    "id": "custody",
-   "label": "Custody"
+   "label": "Custody",
+   "phrase": "linked through custody of records or material"
   },
   {
    "blurb": "what created, governs, amended, implements or requires what",
    "id": "law",
-   "label": "Law"
+   "label": "Law",
+   "phrase": "linked through law"
   },
   {
    "blurb": "who oversaw, investigated, questioned or asked whom, and who must report to whom",
    "id": "oversight",
-   "label": "Oversight"
+   "label": "Oversight",
+   "phrase": "linked through oversight"
   },
   {
    "blurb": "who says what, and how an account reached the record",
    "id": "testimony",
-   "label": "Testimony"
+   "label": "Testimony",
+   "phrase": "linked through testimony"
   },
   {
    "blurb": "who denied, refused, disputed, explained away or left out what",
    "id": "denial",
-   "label": "Denials"
+   "label": "Denials",
+   "phrase": "linked through a denial"
   },
   {
    "blurb": "who wrote, published, released, cites or studied what",
    "id": "documents",
-   "label": "Documents"
+   "label": "Documents",
+   "phrase": "linked through a document"
   },
   {
    "blurb": "who reported on, interviewed or appeared where",
    "id": "media",
-   "label": "Media"
+   "label": "Media",
+   "phrase": "linked through media coverage"
   },
   {
    "blurb": "where things are or happened, and what came before, led to or answered what",
    "id": "place-time",
-   "label": "Place and time"
+   "label": "Place and time",
+   "phrase": "linked in place or time"
   },
   {
    "blurb": "action taken against someone, and contact between parties",
    "id": "conduct",
-   "label": "Conduct"
+   "label": "Conduct",
+   "phrase": "linked through conduct"
   },
   {
    "blurb": "a link the board draws itself: an instance of a pattern, a parallel, a consequence",
    "id": "analysis",
-   "label": "The board's reading"
+   "label": "The board's reading",
+   "phrase": "linked in the board's own reading"
   },
   {
    "blurb": "links no predicate here describes",
    "id": "other",
-   "label": "Other links"
+   "label": "Other links",
+   "phrase": "is connected to"
   }
  ],
  "predicateRules": {
   "_what": "Redesign phase 7 (notes/plans/P7-relationship-vocabulary.md). A predicate refines an edge: it says in a controlled verb what the edge's sentence says, and which end it reads from. research/_predicates.json carries one per edge id; build_app_data.py joins it onto each node's connections and onto edges.json. Predicates are presentation and navigation only: they never change a type, a tier or a source.",
   "classes": "`subject` and `object` list the node classes a predicate allows at each end; \"any\" allows all eight. A domain node (class `domain`) is allowed at either end of every predicate: the 58 domain nodes are topic nodes, absorbed by topics in phase 5, and stand for whatever their topic is about.",
   "denial": "Where data/denial-adjudication.json names a denier for an edge, a predicate of the `denial` family on that edge must have the denier as its subject.",
+  "display": "The page groups connections by FAMILY, the reliable unit (random-sample disagreement 14.9% at family level against 21.2% at predicate level; notes/plans/P7-classification-record.md). A predicate's own label, and its direction, are shown only where its confidence is high; otherwise the row reads the family's `phrase`, which has no direction. The edge's authored sentence is shown on every row either way.",
   "fallback": "connected_to is for an edge whose sentence supports no predicate here. It refines no type, and verify.py holds it to at most 3% of edges.",
   "refines": "Every predicate names the one edge type it refines. An edge may carry a predicate that refines another type when its sentence plainly says so; the edge's own type is never changed by that, and the crossings are listed in notes/plans/P7-classification-record.md for phase R.",
   "subject": "`subject` in research/_predicates.json is `a` or `b`: the end the forward label reads from. Read from the other end, the inverse label applies.",
@@ -1449,7 +1464,7 @@
    "use": "ONLY when no predicate above fits the sentence"
   }
  ],
- "source": "83f171851b83",
+ "source": "796a99b2412b",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

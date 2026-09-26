@@ -65,6 +65,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -96,6 +97,7 @@
 "label": "Charles I. Halt",
 "note": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -106,7 +108,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -122,6 +124,7 @@
 "label": "Clifford E. Stone",
 "note": "TIER 3. His own FOIA request of 23 December 1983 to the USAF, from his home address and not identifying him as a serving Army sergeant, cuts against the claim, and no record places him in England. Klass also notes the incident was not reported upward until about two weeks after Stone says his team arrived.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -153,6 +156,7 @@
 "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
 "note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -184,6 +188,7 @@
 "label": "James W. Penniston",
 "note": "Penniston was the senior security police NCO who entered the forest; his notebook records 'craft of unknown origin' and he signed a USAF witness statement.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -215,6 +220,7 @@
 "label": "John Burroughs",
 "note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -246,6 +252,7 @@
 "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "note": "RAF Woodbridge and RAF Bentwaters were operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -277,6 +284,7 @@
 "label": "United Kingdom",
 "note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -313,6 +321,7 @@
 "label": "Ministry of Defence Main Building, Whitehall, London",
 "note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -333,7 +342,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is held by"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -349,6 +358,7 @@
 "label": "Larry Warren",
 "note": "TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -369,7 +379,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -385,6 +395,7 @@
 "label": "Peter Robbins",
 "note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -400,7 +411,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -416,6 +427,7 @@
 "label": "Sheffield Hallam University",
 "note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -446,7 +458,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

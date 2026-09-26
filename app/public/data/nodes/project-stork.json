@@ -71,6 +71,7 @@
 "label": "Battelle Memorial Institute",
 "note": "Under Stork, Battelle performed the statistical analysis of Project Blue Book's case files that became Special Report No. 14.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -81,7 +82,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -97,6 +98,7 @@
 "label": "Project Blue Book Special Report No. 14",
 "note": "A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,7 +119,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "produced"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -133,6 +135,7 @@
 "label": "Project Blue Book",
 "note": "The Air Force's public UFO project outsourced its own analytical methodology to a private nonprofit, whose records were never federal records.",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

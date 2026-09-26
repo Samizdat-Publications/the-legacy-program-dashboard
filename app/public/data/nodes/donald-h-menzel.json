@@ -56,6 +56,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Section V chapter 2 of the report, written by Condon, calls Menzel's 1953 Flying Saucers 'an excellent book' and notes it is 'generally regarded as \"debunking\" and \"negative.\"' Menzel wrote no chapter of the report; he appears in its text and its bibliographies.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -66,7 +67,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was supported by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -82,6 +83,7 @@
 "label": "Official Denial",
 "note": "The Condon Report records the 1953 Harvard University Press book and the 1964 Flying Saucer Review paper; the Internet Archive catalogue record carries the 1977 Doubleday book, published a year after his death.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +110,7 @@
 "label": "Edward U. Condon",
 "note": "The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -118,7 +121,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "was supported by"
+"verb": "linked through conduct"
 }
 ],
 "date": "1976",

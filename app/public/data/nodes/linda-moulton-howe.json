@@ -65,6 +65,7 @@
 "label": "Project AQUARIUS (alleged)",
 "note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -80,7 +81,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -96,6 +97,7 @@
 "label": "Richard C. Doty",
 "note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

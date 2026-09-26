@@ -52,6 +52,7 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -109,6 +111,7 @@
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Named on Hastings's own page among the six men said to have executed affidavits.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,7 +122,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -135,6 +138,7 @@
 "label": "Robert L. Hastings",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

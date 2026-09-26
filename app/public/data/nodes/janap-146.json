@@ -71,6 +71,7 @@
 "label": "Bolender Memorandum",
 "note": "The memorandum states national-security UFO reports are made under JANAP 146 or AFM 55-11 and are not part of the Blue Book system — an official concession that the public program was never the collection channel.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -102,6 +103,7 @@
 "label": "Project Blue Book",
 "note": "If national-security reports went up the JANAP channel as Bolender states, then the 12,618 sightings and 701 unknowns describe only what the filtered public program retained.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,7 +119,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -133,6 +135,7 @@
 "label": "Project Blue Book",
 "note": "JANAP 146(C) made UFO sightings a mandatory CIRVIS report under espionage-statute penalties while Blue Book handled the public-facing residue. Bolender confirmed the split in 1969.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

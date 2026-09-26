@@ -48,6 +48,7 @@
 "label": "Retrieval & Recovery Operations",
 "note": "Grusch's sworn July 2023 account describes retrieval feeding a multi-decade exploitation effort; AARO's Volume I rejects the claim. Both are on the record.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -58,7 +59,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -74,6 +75,7 @@
 "label": "Reverse Engineering",
 "note": "The legacy claim and the reverse-engineering claim are the same claim stated at different stages; AARO addresses and rejects both in Volume I.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,7 +86,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -100,6 +102,7 @@
 "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
 "note": "Stated inference and a domain-to-domain link, correctly capped at Tier 3: the legacy character of the ground holds whatever is or is not true about the mesa.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -110,7 +113,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -126,6 +129,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Tier 3 because it is what is claimed, not what is shown.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -136,7 +140,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is alleged to have material held by"
+"verb": "linked through custody of records or material"
 }
 ],
 "coords": null,

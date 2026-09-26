@@ -59,6 +59,7 @@
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "The reconstruction is the site operator's own work and is built from secondary material: 'I rebuilt it from the ground up, using measurements from the original sketches and information provided by Mark in his talks and videos'. The page states the original drawing could not be obtained. Prints are sold at 30.00 each with no licence terms stated.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -90,6 +91,7 @@
 "label": "Mark McCandlish",
 "note": "The FLUX 1988 page links the coroner's file under the text 'Coroner's report on Mark MaCandlish's death', pointing at a Google Drive item named 'C21-0324 McCandlish.pdf', and hosts the Scott 1990 notes. The site names no owner and carries no licence statement.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,7 +107,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -121,6 +123,7 @@
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -152,6 +155,7 @@
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "Mirrors the board's existing arvp-fluxliner-project to arv-fluxliner research edge. The site is evidence of what the site says and of nothing else: its own characterisations are the anonymous owner's opinion, most of the page is its owner's visual-effects assessment of a video, and it mis-assigns the 'he lied' finding to Jeremy Rys when the only opened account attributes that video to David Hilton and says its screen could not be read.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -162,7 +166,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "made claims about"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

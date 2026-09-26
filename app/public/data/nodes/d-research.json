@@ -42,6 +42,7 @@
 "label": "Astronomy & Astrophysics",
 "note": "The Galileo Project instrumentation papers and the VASCO archival work are the two productive observational programmes outside government.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "includes"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

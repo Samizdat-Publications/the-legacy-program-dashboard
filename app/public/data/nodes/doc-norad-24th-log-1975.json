@@ -47,6 +47,7 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Its own heading reads '24th NORAD Region Senior Directors Log (Malmstrom AFB, Montana)'.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Minot AFB, North Dakota",
 "note": "The entry's own next clause says the object 'passed over the radar station'. This edge exists so the ambiguity is visible on the hub rather than assumed away.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Malmstrom missile-field overflights, 7 to 19 November 1975",
 "note": "A continuous operational log kept by air defence controllers, released over a USAF colonel's signature.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "NORAD and US Northern Command",
 "note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -151,6 +155,7 @@
 "label": "Robert L. Hastings",
 "note": "THE COUNTERWEIGHT EDGE. Type research rather than custody: he republishes it, he does not hold it. This board opened the log independently and it says what he says it says.",
 "predicate": "published",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -166,7 +171,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was published by"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

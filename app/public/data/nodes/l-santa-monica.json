@@ -29,6 +29,7 @@
 "label": "RAND Corporation",
 "note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

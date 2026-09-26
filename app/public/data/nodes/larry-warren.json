@@ -77,6 +77,7 @@
 "label": "Charles I. Halt",
 "note": "TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -87,7 +88,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was denied by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -103,6 +104,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -113,7 +115,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -129,6 +131,7 @@
 "label": "Peter Robbins",
 "note": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -144,7 +147,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -160,6 +163,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -180,7 +184,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 }
 ],
 "date": null,

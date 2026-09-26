@@ -68,6 +68,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "The originating claim of the whole cluster, in his own narration: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. The edge records that he says this and nothing more.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -94,6 +95,7 @@
 "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
 "note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,7 +106,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 3,
@@ -120,6 +122,7 @@
 "label": "Chain of custody",
 "note": "Tier 3, same caveat. The claim is that nine discs were held there; nothing documented supports it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -146,6 +149,7 @@
 "label": "Legacy Program",
 "note": "Tier 3 because it is what is claimed, not what is shown.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -156,7 +160,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is alleged to hold material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -172,6 +176,7 @@
 "label": "Gene Huff",
 "note": "THE LABEL MUST STAY PRECISE. Huff's first-hand claim is about lights seen from Tikaboo Valley on three Wednesdays in 1989, on 22 March, 29 March and 5 April, the last ending in the group's detention by the Lincoln County Sheriff. He never claims to have been inside anything.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -182,7 +187,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -198,6 +203,7 @@
 "label": "George Knapp",
 "note": "Confirmed contemporaneously in print: 'Lazar was the focal point for much of KLAS-TV, Channel 8 reporter George Knapp's award winning series'. Mahood's timeline puts his first interviews with Lazar in March 1989.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -224,6 +230,7 @@
 "label": "John Olsen Lear",
 "note": "CARRIER, NOT EYEWITNESS TO THE SITE. Lear promoted the account and was present at two of the three 1989 desert viewings, on 22 March and 5 April. No opened record has him claiming to have seen the facility itself. Tier 3 accordingly.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -234,7 +241,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -250,6 +257,7 @@
 "label": "The KLAS-TV Lazar broadcasts, 1989",
 "note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -260,7 +268,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -276,6 +284,7 @@
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "note": "Uses the board's existing l-area51 id. No node called area-51 was created.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -286,7 +295,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -302,6 +311,7 @@
 "label": "Groom Lake, Nevada",
 "note": "The claim anchors itself to a documented facility. That anchoring does not transfer the facility's documentation to the claim.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -312,7 +322,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -328,6 +338,7 @@
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "note": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -338,7 +349,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -354,6 +365,7 @@
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "Tier 1 for what the newspaper shows. In August 1990 Lazar's claim was reported as being about 'the Nevada Test Site, 65 miles northwest of Las Vegas', a Department of Energy site, not the Air Force range. The claim's geography moved and the edge records that.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -364,7 +376,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -380,6 +392,7 @@
 "label": "Tonopah Test Range, Nevada",
 "note": "THIS EDGE IS A DISAGREEMENT AND MUST NOT RENDER AS A LINK BETWEEN THE CLAIMED SITE AND TONOPAH. Mahood and T.D. Barnes, by unrelated routes, both say the designator S-4 attaches to a radar facility on the Tonopah side of the range rather than to anything at Papoose Lake.",
 "predicate": "contradicts",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -406,6 +419,7 @@
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "note": "The strongest artefact in the cluster and the one actually opened. A videotape of a claimant narrating his own claim is evidence of the claim and never of its content.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -416,7 +430,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -432,6 +446,7 @@
 "label": "Stanton T. Friedman",
 "note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -458,6 +473,7 @@
 "label": "Tom Mahood",
 "note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

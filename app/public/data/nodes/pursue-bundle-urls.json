@@ -41,6 +41,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
 "predicate": "released",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "was released by"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

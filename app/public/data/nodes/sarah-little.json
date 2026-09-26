@@ -53,6 +53,7 @@
 "label": "The Galileo Project",
 "note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

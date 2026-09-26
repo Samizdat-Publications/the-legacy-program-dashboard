@@ -83,6 +83,7 @@
 "label": "The FFRDC Seam",
 "note": "Incorporated 1948 out of Project RAND inside Douglas Aircraft; now operates four FFRDCs for the Air Force, Army, OSD and DHS.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,6 +110,7 @@
 "label": "Eric Burlison",
 "note": "Burlison: 'my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.' No letter to RAND has been made public.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -140,6 +142,7 @@
 "label": "George Kocher",
 "note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -150,7 +153,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "supported"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -166,6 +169,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -192,6 +196,7 @@
 "label": "Jason Matheny",
 "note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -218,6 +223,7 @@
 "label": "Santa Monica, California",
 "note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -254,6 +260,7 @@
 "label": "The MITRE Corporation",
 "note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -285,6 +292,7 @@
 "label": "Samantha F. Ravich",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {

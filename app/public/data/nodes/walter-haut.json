@@ -147,6 +147,7 @@
 "label": "Donald R. Schmitt",
 "note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
 "predicate": "told",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,7 +158,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "passed an account to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -173,6 +174,7 @@
 "label": "Jesse A. Marcel Sr.",
 "note": "The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -183,7 +185,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -199,6 +201,7 @@
 "label": "RAAF Press Release, 8 July 1947",
 "note": "As RAAF public information officer Haut issued the announcement that the 509th Bomb Group had gained possession of a disc; the release is reproduced in the Air Force's own 1995 report.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -225,6 +228,7 @@
 "label": "Roswell Incident",
 "note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence office had gained possession of a disc.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -59,6 +59,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "ran"
+"verb": "linked in how it is organised"
 }
 ],
 "date": "2026-05-08",

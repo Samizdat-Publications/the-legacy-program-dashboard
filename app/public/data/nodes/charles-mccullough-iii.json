@@ -57,6 +57,7 @@
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,6 +84,7 @@
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 }
 ],
 "date": "2022-05-25",

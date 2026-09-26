@@ -65,6 +65,7 @@
 "label": "Capt. Bradford Runyon",
 "note": "Tier 1 for his presence, which is in the Air Force's own 1968 file, not in any later interview. HE APPROACHED THE CENTER FOR UFO STUDIES HIMSELF IN 2000. The direction of contact is the opposite of the Malmstrom pattern and is the control case for this cluster.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Project Blue Book case file, Minot AFB, 24 October 1968",
 "note": "Werlich's Basic Reporting Data, the FTD final report, seven AF Form 117 questionnaires, thirteen radarscope photographs and the overlay map.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +103,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -117,6 +119,7 @@
 "label": "Minot AFB, North Dakota",
 "note": "The Blue Book file is built on 91st SMW, 862nd Combat Support Group and 5th Bomb Wing records at Minot AFB.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,6 +146,7 @@
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Where Malmstrom 1967 is a documented shutdown with contested causation, Minot 1968 adds ground radar, airborne radar, weather radar, visual observation, a four-minute radio failure and physical security alarms at Minuteman silos.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -169,6 +173,7 @@
 "label": "Project Blue Book",
 "note": "The RADCAT directory records that Project Blue Book personnel did not send field investigators and the incident was written off despite interest from SAC generals including 15th Air Force's Maj. Gen. Nichols.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

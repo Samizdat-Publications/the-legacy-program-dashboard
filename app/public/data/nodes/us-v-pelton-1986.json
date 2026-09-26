@@ -47,6 +47,7 @@
 "label": "Official Denial",
 "note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "National Security Agency",
 "note": "Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

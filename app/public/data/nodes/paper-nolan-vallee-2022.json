@@ -41,6 +41,7 @@
 "label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
 "note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "Materials and custody analysis",
 "note": "A published sample, a published method, a published elimination of alternatives, and a stated residual. No government-held UAP material has ever been subjected to anything comparable in public.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,6 +105,7 @@
 "label": "Garry Nolan",
 "note": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -129,6 +132,7 @@
 "label": "Jacques F. Vallee",
 "note": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -160,6 +164,7 @@
 "label": "Larry G. Lemke",
 "note": "Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -191,6 +196,7 @@
 "label": "Sizun Jiang",
 "note": "Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -217,6 +223,7 @@
 "label": "The Sol Foundation",
 "note": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -227,7 +234,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -243,6 +250,7 @@
 "label": "Nolan Laboratory, Stanford University School of Medicine",
 "note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
 "predicate": "analysed_material",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -258,7 +266,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "analysed material from"
+"verb": "linked through custody of records or material"
 }
 ],
 "coords": null,

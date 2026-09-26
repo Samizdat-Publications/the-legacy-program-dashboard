@@ -47,6 +47,7 @@
 "label": "Beatriz Villarroel",
 "note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "The Sol Foundation",
 "note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

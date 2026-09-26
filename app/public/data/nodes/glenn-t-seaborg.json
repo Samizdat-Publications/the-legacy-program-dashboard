@@ -56,6 +56,7 @@
 "label": "Allen W. Dulles",
 "note": "Dulles thanks him for a report on a Vienna conference and says he is circulating it inside the Agency. The edge records a documented channel between the AEC chair and the DCI, which is the board's own structural claim in miniature.",
 "predicate": "in_contact_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -82,6 +83,7 @@
 "label": "Atomic Energy Commission",
 "note": "Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +110,7 @@
 "label": "Central Intelligence Agency",
 "note": "The 20 March 1963 letter forwards the Annual Report to Congress for 1962 to DCI John A. McCone and directs his attention to the appendix on environmental contamination from nuclear explosives.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

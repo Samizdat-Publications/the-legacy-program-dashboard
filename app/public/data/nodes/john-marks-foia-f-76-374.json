@@ -53,6 +53,7 @@
 "label": "Freedom of Information Practice",
 "note": "The Senate's own framing is that one individual, through a Freedom of Information request, accomplished what two Senate committees could not.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Project MKULTRA",
 "note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Senate Select Committee on Intelligence",
 "note": "The 22 June 1977 memorandum's second recommended action is to inform the Senate Select Committee of the recently located records prior to informing Mr. Marks' attorneys; the joint hearing followed on 3 August.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -115,7 +118,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "reports to"
+"verb": "linked through oversight"
 }
 ],
 "coords": null,

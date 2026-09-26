@@ -47,6 +47,7 @@
 "label": "Colm A. Kelleher",
 "note": "Kelleher supplies the field-operations and human-effects record from the BAASS side.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Defense Intelligence Agency",
 "note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "George Knapp",
 "note": "Knapp moves from reporter to co-author of the DOPSR-cleared insider account — and his earlier book is the proximate cause of the contract.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -130,6 +133,7 @@
 "label": "James T. Lacatski",
 "note": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

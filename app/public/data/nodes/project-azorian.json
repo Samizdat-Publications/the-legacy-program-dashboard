@@ -65,6 +65,7 @@
 "label": "Central Intelligence Agency",
 "note": "The released history is the Agency's own account and states CIA sponsorship of the project for intelligence collection purposes.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Chain of custody",
 "note": "Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,6 +119,7 @@
 "label": "Freedom of Information Practice",
 "note": "The history names Freedom of Information Act matters among the litigation that forced the first official acknowledgements, which is the doctrine the board already carries in d-foia prose.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,6 +146,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "The released history's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell, was readying the Hughes Glomar Explorer for deep-ocean mining operations to begin late in the fall of 1978. The document names Lockheed and not Lockheed Martin, and the transcript's twenty-year lease to Lockheed Martin is not what the record says. Tier 2 because identifying the 1978 firm with this node is an identification across the 1995 merger that the document does not make.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -153,7 +157,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 }
 ],
 "coords": null,

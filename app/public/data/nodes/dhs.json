@@ -53,6 +53,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO names DHS as the third SAP control office enterprise with which it partnered - the only public confirmation that DHS operates a SAP control office at all.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "AARO/DHS release: History and Origin of KONA BLUE",
 "note": "The paper 'History and Origin of KONA BLUE' is published on AARO's UAP Records page as a joint AARO/DHS product.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "DHS Science and Technology Directorate",
 "note": "The Under Secretary for Science and Technology is a DHS component head; the KONA BLUE paper identifies that office as the one that established the prospective program.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "KONA BLUE",
 "note": "The AARO/DHS paper states the Deputy Secretary disapproved and terminated the PSAP roughly six months after it was established, and that KONA BLUE was 'never approved or formally established'. Neither official is named in the released text.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "KONA BLUE",
 "note": "DHS Acting Deputy Secretary Kristie Canegallo transmitted the declassified Kona Blue records to the Deputy Secretary of Defense on 5 February 2024.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -183,6 +188,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DHS, which holds documented UAP equity, transferred nothing.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

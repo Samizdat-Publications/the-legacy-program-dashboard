@@ -35,6 +35,7 @@
 "label": "Eric Burlison",
 "note": "Burlison played the MQ-9 Hellfire-versus-orb video at the 9 September 2025 hearing; the Department has not confirmed its provenance.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "Yemen October 2024 (MQ-9, Hellfire) and the Gulf of Oman September 2021 (AC-130J, cannon fire, objects reportedly reacting) establish a pattern of engagement absent from every AARO annual report.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -76,7 +78,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

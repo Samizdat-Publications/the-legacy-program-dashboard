@@ -35,6 +35,7 @@
 "label": "Dr. Joseph Cannon",
 "note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -70,6 +70,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "POGO's senior policy counsel was the minority's chosen witness, arguing for stronger disclosure channels rather than contesting the phenomenology.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,6 +97,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -132,6 +134,7 @@
 "label": "Jasmine Felicia Crockett",
 "note": "The policy bridge from UAP allegations to H.R. 5060.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

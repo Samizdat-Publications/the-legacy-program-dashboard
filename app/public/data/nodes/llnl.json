@@ -41,6 +41,7 @@
 "label": "United States Department of Energy",
 "note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "United States Department of Energy",
 "note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Edward Teller",
 "note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -29,6 +29,7 @@
 "label": "Glenn S. Grothman",
 "note": "Grothman gavelled the 26 July 2023 hearing to order and waived six non-members onto the subcommittee.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -55,6 +56,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Serial No. 118-53, 2154 Rayburn.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -86,6 +88,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The Subcommittee on National Security, the Border, and Foreign Affairs is a standing subcommittee of the Committee on Oversight and Accountability; the printed hearing record carries both rosters.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -112,6 +115,7 @@
 "label": "Robert Garcia",
 "note": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

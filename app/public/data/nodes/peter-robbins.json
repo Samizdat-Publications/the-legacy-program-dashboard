@@ -50,6 +50,7 @@
 "label": "Larry Warren",
 "note": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -65,7 +66,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -81,6 +82,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,7 +98,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "investigated"
+"verb": "linked through oversight"
 }
 ],
 "date": null,

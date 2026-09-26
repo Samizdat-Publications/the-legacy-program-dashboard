@@ -59,6 +59,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Battelle Memorial Institute",
 "note": "AARO contracted ORNL in 2022; the laboratory assessed the specimen terrestrial in origin and incapable of functioning as a terahertz waveguide. Battelle thus appears at both ends of the file, in 1951 and in 2024.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -100,7 +102,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "was produced by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -116,6 +118,7 @@
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "Released publicly July 2024; concluded the material is a terrestrial magnesium alloy, while stating that neither AARO nor ORNL could verify the specimen's historical origin.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -147,6 +150,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "The finding does not resolve the custody question it arose from: AARO notes the specimen's 'undocumented chain of custody and conflicting personal accounts' leave its historical origin unclear.",
 "predicate": "explained_away",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,7 +161,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "gave a conventional explanation for"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -173,6 +177,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "AARO confirms the organisation 'negotiated an agreement in 2019 with the U.S. Army to analyze the samples' and that AARO subsequently acquired the sample with stakeholder permission. This is the only fully documented custody chain in the entire domain.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

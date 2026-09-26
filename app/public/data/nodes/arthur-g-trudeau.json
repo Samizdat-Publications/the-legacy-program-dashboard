@@ -56,6 +56,7 @@
 "label": "Central Intelligence Agency",
 "note": "Two Directors of Central Intelligence corresponded with him in office, Dulles in January 1958 on avoiding duplication between CIA and Army research programmes and McCone in March 1962 on the Limited-War Mission symposium.",
 "predicate": "in_contact_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -87,6 +88,7 @@
 "label": "Washington, D.C.",
 "note": "Both letters address him at the Department of the Army, Washington 25, D. C.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -118,6 +120,7 @@
 "label": "Philip J. Corso",
 "note": "Corso's DA Form 66 places his Foreign Technology Division chieftaincy, 18 April to 18 July 1962, inside Trudeau's documented tenure as Chief of Research and Development.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -128,7 +131,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 }
 ],
 "date": "1958-01-18",

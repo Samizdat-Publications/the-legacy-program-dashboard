@@ -41,6 +41,7 @@
 "label": "Enacted Statute",
 "note": "Approved 23 December 2024. Sec. 6801 directs a GAO review of AARO's implementation of 50 U.S.C. 3373; sec. 6802 sunsets the GAO audit requirements attached to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records the first enacted step in winding oversight machinery back down rather than up.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803",
 "note": "PL 118-159 sec. 6802 amends IAA FY2023 sec. 6803.",
 "predicate": "amended",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

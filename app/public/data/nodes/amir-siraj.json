@@ -70,6 +70,7 @@
 "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
 "note": "The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the Signals paper of September 2023 localised it seismically. Fernando et al. later attributed that signal to truck traffic.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -80,7 +81,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "led to"
+"verb": "linked in place or time"
 }
 ],
 "date": "2023-06-01",

@@ -71,6 +71,7 @@
 "label": "David Charles Grusch",
 "note": "In the Need To Know episode 'David Grusch: He's Still Here' (24 June 2023), hosted by Zabel with Ross Coulthart, the episode note states: 'And Bryce adds: there's a second interview - actually the pre-interview - that Need to Know controls.'",
 "predicate": "interviewed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -81,7 +82,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "interviewed"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 2,
@@ -97,6 +98,7 @@
 "label": "Luis D. Elizondo",
 "note": "Elizondo appeared with Coulthart and Zabel on the Need To Know episode 'Elizondo Unplugged' (13 September 2024), discussing his book Imminent, crash retrievals and non-human intelligence.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

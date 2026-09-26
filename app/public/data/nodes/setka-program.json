@@ -149,6 +149,7 @@
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "TIER 3, INFERENTIAL. COMETA records that 'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide.' The report does not name the Setka programme, or any Soviet programme, anywhere in that passage. That the studies it refers to are Setka's is inference from the period and the scale, not citation, and this edge should not be read as COMETA citing Setka.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -159,7 +160,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -175,6 +176,7 @@
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "Condign Volume 3 chapter 4 states that Soviet study of UAP 'may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas'.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -201,6 +203,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -237,6 +240,7 @@
 "label": "Petrozavodsk phenomenon, 20 September 1977",
 "note": "Stonehill and Mantle: the sharp increase in activity in 1977-78, 'especially, the Petrozavodsk Case', forced the Academy of Sciences to agree to the research programme.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -263,6 +267,7 @@
 "label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
 "note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
 "predicate": "same_as",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -278,7 +283,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is the same as"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -294,6 +299,7 @@
 "label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "note": "Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme's published account.",
 "predicate": "led",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -304,7 +310,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was led by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -320,6 +326,7 @@
 "label": "Moscow, Russia",
 "note": "The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was 'one of the central military research institutes in the Moscow region'; and the academic branch was run from IZMIRAN, also in the Moscow region.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -346,6 +353,7 @@
 "label": "Operação Prato (Operation Saucer)",
 "note": "COMPARISON EDGE — no contact between the Brazilian and Soviet programmes is claimed or evidenced, and none is likely. The pairing is structural: Operação Prato was a small dedicated Air Force and SNI field detachment run under a military dictatorship that closed with an official negative finding and whose files later went to a civil national archive; SETKA was a thirteen-year standing collection tasking laid on the whole Soviet armed forces, written up afterwards by the men who ran it and published in the Academy of Sciences' own journal. Both are counter-examples to the US pattern in the same way and by opposite routes — one through an archive law, one through its own operators publishing. [CORRECTED 14 Aug 2026: RQS 193/2022 is a request for a COMMEMORATIVE SPECIAL SESSION under Art. 199 RISF, approved 16 Mar 2022, held 24 Jun 2022 - not a records-seeking or compelling instrument. Its durable value is the content of its justificacao, which names Operacao Prato, the 1986 night, SIOANI and the archive reference BR DFANBSB ARX. These edges assert what the document NAMES, which is verifiable in its text and unaffected by its procedural nature, so the tier is unchanged. Any claim that the instrument COMPELLED disclosure would be false.]",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -392,6 +400,7 @@
 "label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
 "note": "READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled 'ran the parallel public ufology centre after censorship lifted'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -407,7 +416,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -423,6 +432,7 @@
 "label": "Vladimir Georgievich Azhazha",
 "note": "SOYUZUFOTSENTR was created in 1990 with Academy of Sciences institute rights, after the removal of censorship on the subject in 1989.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -438,7 +448,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -454,6 +464,7 @@
 "label": "Yury Viktorovich Platov",
 "note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

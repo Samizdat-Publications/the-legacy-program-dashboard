@@ -59,6 +59,7 @@
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "note": "The long title is 'To amend the Atomic Energy Act of 1946, as amended, and for other purposes'. The definition moves from a section-only usage to an Act-wide capitalised category, gains the word 'design', and swaps fissionable material and power for special nuclear material and energy.",
 "predicate": "amended",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -90,6 +91,7 @@
 "label": "Atomic Energy Commission",
 "note": "Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "EO 13526 sec. 6.2(a) provides that nothing in the order supersedes any requirement made by or under the Atomic Energy Act of 1954 and that Restricted Data is handled and declassified only under that Act; the 1954 statute carried the category forward from this one.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,7 +129,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -142,6 +145,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Section 9(a) directs the transfer of all fissionable material, all atomic weapons and parts and all processes and technical information, and section 10(b)(5)(B)(iii) lets anyone the Manhattan Engineer District had already cleared keep access pending the new investigation.",
 "predicate": "created",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -152,7 +156,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "created"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -168,6 +172,7 @@
 "label": "Office of Naval Research",
 "note": "Both statutes are in Statutes at Large volume 60 and both carry the approval date 1 August 1946: the Atomic Energy Act at page 755 and the Office of Naval Research Act at page 779. The triage row that proposed this node dated ONR two days later; the page itself says otherwise.",
 "predicate": "concurrent_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

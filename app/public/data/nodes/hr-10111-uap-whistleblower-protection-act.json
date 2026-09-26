@@ -29,6 +29,7 @@
 "label": "Eric Burlison",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -55,6 +56,7 @@
 "label": "Nancy Ruth Mace",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -81,6 +83,7 @@
 "label": "Timothy Floyd Burchett",
 "note": "Introduced 12 November 2024, the day before the Oversight hearing.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

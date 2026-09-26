@@ -122,6 +122,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "AFRL at Wright-Patterson is the single installation most persistently named in the legacy recovery literature.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -148,6 +149,7 @@
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "note": "One of eleven people in nuclear or rocket technology who have died or vanished since 2022, per the committee.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -174,6 +176,7 @@
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -184,7 +187,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is the subject of"
+"verb": "linked through a document"
 }
 ],
 "date": "2026-02-01",

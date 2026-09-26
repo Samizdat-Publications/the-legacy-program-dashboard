@@ -41,6 +41,7 @@
 "label": "John F. Schuessler",
 "note": "Schuessler investigated Cash-Landrum for MUFON from 1981 and served as its International Director from 2000 to 2006.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Leonard H. Stringfield",
 "note": "Report I was delivered at the ninth annual MUFON Symposium in Dayton on 29 July 1978; Report II was published by MUFON in January 1980. Stringfield served as MUFON's director of public relations.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "William L. Moore",
 "note": "Moore chose the 1989 MUFON symposium in Las Vegas to state that he had cooperated with Air Force Office of Special Investigations personnel and passed disinformation to Paul Bennewitz.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "featured"
+"verb": "linked through media coverage"
 }
 ],
 "coords": null,

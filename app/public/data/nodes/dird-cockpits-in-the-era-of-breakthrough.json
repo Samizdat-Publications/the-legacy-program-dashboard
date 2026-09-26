@@ -71,6 +71,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The cover carries DIA-08-1011-002, 1 November 2010, ICOD 8 July 2010, under the 'Defense Futures' banner. The administrative note confirms the product is one of a series produced in FY 2009 under the DIA Advanced Aerospace Weapon System Applications (AAWSA) Program. The shift from 'Acquisition Threat Support' to 'Defense Futures' across the later 2010 deliverables marks a change in the DIA office of record, from the Acquisition Support Division (DWO-3) to the Technology Warning Division (DWO-4) of the Defense Warning Office.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -107,6 +108,7 @@
 "label": "Aerospace Engineering & Advanced Projects",
 "note": "The paper asks what a cockpit must look like once a vehicle has inertial control, a hover-to-superluminal speed range and no separation between near-ground, orbital and interstellar operating regimes, including the loss of the pilot's own inertia and visual motion cues. It is the only DIRD that reasons from observed flight behaviour back to onboard design constraints rather than to physics.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,6 +145,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,6 +172,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 58 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -200,6 +204,7 @@
 "label": "Marc G. Millis",
 "note": "The DIA list of 9 January 2018 records 'Cockpits in the Era of breakthrough Flight, Dr G Millis, Tau Zero'. The released PDF's author block is redacted under (b)(6). Identification with Marc G. Millis, founder of the Tau Zero Foundation and former head of NASA's Breakthrough Propulsion Physics project, is supported by the Tau Zero affiliation on the DIA list, by the open-source counterpart published as 'M G Millis' in JBIS in 2013, and by The War Zone's identification of Marc Millis among the AATIP authors.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

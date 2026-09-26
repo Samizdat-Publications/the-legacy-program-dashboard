@@ -41,6 +41,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO draws on FAA radar and reporting; the systems engineering authority over that data belongs to MITRE's CAASD. No claim of filtering is made; the dependency is the point.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -72,6 +73,7 @@
 "label": "The MITRE Corporation",
 "note": "CAASD gives MITRE the engineering authority over the civil air surveillance picture, under contracts DTFAWA10C00080 and 693KA822C00001.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

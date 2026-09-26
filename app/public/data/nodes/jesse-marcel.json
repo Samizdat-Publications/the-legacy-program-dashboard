@@ -139,6 +139,7 @@
 "label": "Dr. Jesse A. Marcel Jr.",
 "note": "Marcel Jr. testified by affidavit and repeatedly on the record that his father woke him at night and laid the recovered material out on the kitchen floor.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,6 +166,7 @@
 "label": "Roger M. Ramey",
 "note": "Marcel was photographed in Ramey's office beside balloon debris on 8 July 1947; thirty-one years later he stated the material had been substituted. The photographs are reproduced in the 1995 USAF report.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -191,6 +193,7 @@
 "label": "Roswell Incident",
 "note": "The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -217,6 +220,7 @@
 "label": "Roswell Incident",
 "note": "Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -243,6 +247,7 @@
 "label": "Stanton T. Friedman",
 "note": "Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -269,6 +274,7 @@
 "label": "The Roswell Incident (Berlitz and Moore, 1980)",
 "note": "Berlitz and Moore built 'The Roswell Incident' on Friedman's Marcel material together with the second-hand Barney Barnett account.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -279,7 +285,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -295,6 +301,7 @@
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "note": "Marcel's 1978 recantation restarted the case; the 1994-1997 Air Force volumes exist because of it and conclude against him, attributing the debris to Project MOGUL and reported bodies to test dummies.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -326,6 +333,7 @@
 "label": "Walter Haut",
 "note": "The Roswell Army Air Field release, written by PIO Walter Haut on Col. Blanchard's order, identified the intelligence officer responsible. This is the only same-week official document naming a custodian of the material.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -336,7 +344,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 }
 ],
 "date": "1978-02-20",

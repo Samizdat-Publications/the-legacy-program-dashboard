@@ -86,6 +86,7 @@
 "label": "House Armed Services Committee UFO Hearing",
 "note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -112,6 +113,7 @@
 "label": "James E. McDonald",
 "note": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,7 +124,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "corroborates"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -138,6 +140,7 @@
 "label": "Project Blue Book",
 "note": "Twenty-one continuous years as the Air Force's own astronomer on the problem — longer than any other participant in the legacy system.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,6 +172,7 @@
 "label": "Robertson Panel",
 "note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,7 +183,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 }
 ],
 "date": "1968-07-29",

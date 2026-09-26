@@ -54,6 +54,7 @@
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "Same copyright notice and About page attribution.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -80,6 +81,7 @@
 "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
 "note": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

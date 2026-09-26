@@ -38,6 +38,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

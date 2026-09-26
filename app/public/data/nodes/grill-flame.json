@@ -41,6 +41,7 @@
 "label": "CENTER LANE",
 "note": "Codeword churn on compromise is standard practice; the effort was continuous across the renaming.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "SRI International (Stanford Research Institute)",
 "note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
 "predicate": "transferred",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "received records or material from"
+"verb": "linked through custody of records or material"
 }
 ],
 "coords": null,

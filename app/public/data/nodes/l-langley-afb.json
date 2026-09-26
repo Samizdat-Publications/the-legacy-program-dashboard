@@ -41,6 +41,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -72,6 +73,7 @@
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,6 +105,7 @@
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

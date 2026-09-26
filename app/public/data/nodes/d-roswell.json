@@ -42,6 +42,7 @@
 "label": "Official Denial",
 "note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -68,6 +69,7 @@
 "label": "Retrieval & Recovery Operations",
 "note": "Roswell is the origin of the crash-retrieval literature and the case against which every later retrieval claim is measured.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,6 +96,7 @@
 "label": "Fort Worth, Texas",
 "note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +107,7 @@
 ],
 "tier": "C",
 "type": "custody",
-"verb": "happened at"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

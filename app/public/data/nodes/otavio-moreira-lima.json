@@ -73,6 +73,7 @@
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "note": "Moreira Lima told the press on 23 May 1986 that the armed forces had no technical explanation; the Air Defence Command's CONFIDENCIAL Relatório de Ocorrências, dated 10 days later on 2 June 1986, recorded internally that the phenomena were solid and reflected a form of intelligence, and was not released until 25 September 2009. Tier 2 because the two facts are separately sourced and the report is addressed to the Comandante-Geral do Ar rather than to the minister personally; no document obtained in this pass shows the report reaching his desk. What the pairing establishes is the gap between the public formulation and the contemporaneous classified one, inside the same ministry.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,7 +99,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "contradicts"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -114,6 +115,7 @@
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "note": "The minister produced the five pilots and the controllers in person and promised a full dossier within 30 days that never appeared.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,6 +142,7 @@
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "Octávio Júlio Moreira Lima held the Ministério da Aeronáutica, the ministry of which the Força Aérea Brasileira was the service arm, at the time of the 19 May 1986 engagement and of the 23 May 1986 press conference at which he produced the intercept pilots and the controllers and said the armed forces had no technical explanation.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -176,6 +179,7 @@
 "label": "Brasilia, Federal District, Brazil",
 "note": "Moreira Lima convened the 23 May 1986 press conference as Minister of Aeronautics with the pilots and controllers present. Tier 2 on the location specifically: the sourcing confirms the press conference, the minister and the date, and the ministry sat in Brasília, but no source obtained in this pass names the room.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

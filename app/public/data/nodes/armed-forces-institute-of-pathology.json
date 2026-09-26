@@ -59,6 +59,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "10 U.S.C. 176 places the Institute in the Department of Defense as a joint entity of the three military departments under the Secretary's authority, direction and control.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -95,7 +97,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

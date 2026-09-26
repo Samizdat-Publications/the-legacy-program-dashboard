@@ -29,6 +29,7 @@
 "label": "Anna Paulina Luna",
 "note": "Requesting a briefing on all UAP-related records in the recipients' possession.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -55,6 +56,7 @@
 "label": "Central Intelligence Agency",
 "note": "Ratcliffe had said as DNI that UAP exhibit technologies the United States does not have.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -81,6 +83,7 @@
 "label": "James Comer Jr.",
 "note": "Sent on establishment of the Task Force in February 2025.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -107,6 +110,7 @@
 "label": "Marco Rubio",
 "note": "Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

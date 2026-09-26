@@ -44,6 +44,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

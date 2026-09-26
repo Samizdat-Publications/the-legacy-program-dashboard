@@ -49,6 +49,7 @@
 "label": "Capt. Bradford Runyon",
 "note": "His presence is in the Air Force's own 1968 debriefing record.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -59,7 +60,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -75,6 +76,7 @@
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "The entry's own next clause says the object 'passed over the radar station'. This edge exists so the ambiguity is visible on the hub rather than assumed away.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,6 +103,7 @@
 "label": "Minot AFB incursions, 1966",
 "note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -127,6 +130,7 @@
 "label": "Minot AFB B-52 incident, 24 October 1968",
 "note": "The Blue Book file is built on 91st SMW, 862nd Combat Support Group and 5th Bomb Wing records at Minot AFB.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -153,6 +157,7 @@
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "THE DISCREPANCY IS THE POINT OF THIS EDGE. The 24th NORAD Region log of 10 November 1975 says 'Minot Air Force Station' and 'the radar station'; CINCNORAD's message of 11 November says 'Minot AFB, ND'. Unresolved. Do not let a degree count on l-minot silently absorb a radar-station entry.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -168,7 +173,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "was the scene of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -184,6 +189,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

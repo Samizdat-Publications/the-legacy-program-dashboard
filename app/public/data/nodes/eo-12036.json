@@ -53,6 +53,7 @@
 "label": "National Security Council",
 "note": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Congressional oversight of special access programs",
 "note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

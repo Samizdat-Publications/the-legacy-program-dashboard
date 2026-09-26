@@ -73,6 +73,7 @@
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +105,7 @@
 "label": "George Knapp",
 "note": "Knapp reported the account publicly in February 2023 and named O'Donnell to Congress under oath in September 2025. The promised deathbed recording has never surfaced.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

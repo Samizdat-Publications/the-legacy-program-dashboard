@@ -41,6 +41,7 @@
 "label": "Capt. Bruce Fenstermacher",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Patrick McDonough",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Robert L. Hastings",
 "note": "Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "was reported on by"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -119,6 +122,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -150,6 +154,7 @@
 "label": "F. E. Warren AFB sightings, 1 August 1965",
 "note": "The Blue Book telephone log names the base commander of F. E. Warren among its callers and names Warren missile sites.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

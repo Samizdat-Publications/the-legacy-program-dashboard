@@ -91,6 +91,7 @@
 "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
 "note": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,6 +118,7 @@
 "label": "Larry Warren",
 "note": "TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,7 +129,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "denied"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -143,6 +145,7 @@
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -153,7 +156,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -169,6 +172,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,7 +183,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 }
 ],
 "date": "1981-01-13",

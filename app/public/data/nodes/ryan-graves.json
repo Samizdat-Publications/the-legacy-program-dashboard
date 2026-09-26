@@ -138,6 +138,7 @@
 "label": "Americans for Safe Aerospace",
 "note": "Graves founded the organisation in 2022 to build the aircrew reporting channel the Navy did not provide, and appeared before Congress in that capacity in July 2023.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,6 +170,7 @@
 "label": "David Charles Grusch",
 "note": "Graves testified on the reporting gap for military and commercial aircrew; his Vandenberg account, sourced to a witness through Americans for Safe Aerospace, put contractor personnel into the same hearing record as Grusch's contractor allegations.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -179,7 +181,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -195,6 +197,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Graves testified alongside David Fravor and David Grusch; his written statement is in the committee record.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -236,6 +239,7 @@
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -251,7 +255,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -267,6 +271,7 @@
 "label": "Maxwell Alejandro Frost",
 "note": "Frost asked Graves two questions: 'can you discuss the importance of seeking scientists to sit on your advisory board?' and 'how might Congress help to facilitate partnerships between the scientific community and the UAP focus groups within government?' Graves answered that this 'is going to be a scientific problem, and not only that, it is also an engineering problem', and pointed to his work with the American Institute of Aeronautics and Astronautics to stand up a UAP integration committee.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -293,6 +298,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "'Ambiguous imagery without that surrounding data is hard for pilots, researchers, or the public to evaluate responsibly.'",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -319,6 +325,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Graves specified what a useful release contains; the Department's stated refusal to comment on or assess any file means PURSUE meets none of the four.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -329,7 +336,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -345,6 +352,7 @@
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -371,6 +379,7 @@
 "label": "United States Navy",
 "note": "In his own words: 'My name is Ryan \"FOBS\" Graves and I am a former F-18 pilot with over a decade of service in the U.S. Navy, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.' He joined the Navy in 2009, describes the encounters in the W-72 warning area, and states 'I founded Americans for Safe Aerospace to create a center of support, research, and public education for aircrew impacted by UAP encounters', reporting nearly 5,000 members and more than 30 witnesses working with the organisation.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -68,6 +68,7 @@
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,6 +95,7 @@
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +111,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -125,6 +127,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

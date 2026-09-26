@@ -65,6 +65,7 @@
 "label": "Kevin D. Randle",
 "note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -91,6 +92,7 @@
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "note": "Written by Col. Weaver, Director of Security and Special Program Oversight, Office of the Secretary of the Air Force, with 1st Lt. James McAndrew.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

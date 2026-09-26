@@ -55,6 +55,7 @@
 "label": "Elizondo Resignation Memorandum for Record, 4 October 2017",
 "note": "The letter asks the Secretary to 'ask the hard questions'. Garry Reid's memo later questioned its 'uncertain provenance' — while the letter itself sits in the Department's own FOIA release.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -86,6 +87,7 @@
 "label": "Garry P. Reid",
 "note": "Rather than engaging Elizondo, the Secretary's office tasked the Director for Defense Intelligence to explain him. Reid's answer is the origin of the Department's counter-narrative.",
 "predicate": "questioned",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,7 +98,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "questioned"
+"verb": "linked through oversight"
 }
 ],
 "date": "2017-12-23",

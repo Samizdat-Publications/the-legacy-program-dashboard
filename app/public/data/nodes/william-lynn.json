@@ -70,6 +70,7 @@
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -80,7 +81,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -96,6 +97,7 @@
 "label": "Harry M. Reid",
 "note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "Lynn was the decision authority; he received the request in June and delivered the refusal in person in November.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

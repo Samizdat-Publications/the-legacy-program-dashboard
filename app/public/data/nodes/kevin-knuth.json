@@ -84,6 +84,7 @@
 "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +111,7 @@
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "note": "Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -136,6 +138,7 @@
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -146,7 +149,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was supported by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -162,6 +165,7 @@
 "label": "UAPx",
 "note": "Knuth links UAPx to the Galileo Project, where he is a research affiliate, and to SCU through the Entropy collaboration with Powell.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,6 +197,7 @@
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "The UAlbany Department of Physics faculty page lists Knuth's appointments as Assistant Professor 2005-2009, Associate Professor 2009-2023, Professor 2023-present, immediately following four years as a GS-14 Research Scientist in the Intelligent Systems Division at NASA Ames (2001-2005). The same page records him as Editor-in-Chief of Entropy (MDPI) since 2012, which is the journal that published the 2019 Nimitz kinematics paper. This is the primary reason the institution is on the board: it is the salaried academic post from which the peer-reviewed UAP kinematics and field-instrumentation literature was produced.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

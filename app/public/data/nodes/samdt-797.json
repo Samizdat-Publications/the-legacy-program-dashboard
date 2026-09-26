@@ -47,6 +47,7 @@
 "label": "Charles E. Schumer",
 "note": "Congress.gov lists Schumer as the sole sponsor of S.Amdt. 797, submitted 13 July 2023, with the text printed at 169 Cong. Rec. S2953.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "Legislative Process (proposed and pending)",
 "note": "Submitted 13 July 2023 by Senator Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich, ordered to lie on the table, text printed in the Congressional Record at pages S2953-S2959. The amendment, not the bill, is the object that carries the disclosure text, which is the process fact this domain exists to record.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,6 +111,7 @@
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand cosponsored Schumer's amendment while her own Sec. 1683 architecture was the statutory baseline it cross-referenced.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -135,6 +138,7 @@
 "label": "Marco Rubio",
 "note": "Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -161,6 +165,7 @@
 "label": "Martin T. Heinrich",
 "note": "Heinrich cosponsored while sitting on SSCI and representing the state containing Kirtland, Sandia, Los Alamos and Roswell.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -187,6 +192,7 @@
 "label": "Mike Rounds",
 "note": "Rounds is listed as an original cosponsor with sponsorship date 13 July 2023.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -213,6 +219,7 @@
 "label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
 "note": "congress.gov: 'Amends Bill: S.2226 - National Defense Authorization Act for Fiscal Year 2024'.",
 "predicate": "amended",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -239,6 +246,7 @@
 "label": "Todd Young",
 "note": "Young's signature gave the amendment a three-to-three partisan balance that let it travel in the bipartisan package.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -265,6 +273,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The text filed as S.Amdt. 797 travelled into S. 2226 as Division G, Secs. 9001-9015, which the Senate passed on 27 July 2023.",
 "predicate": "same_as",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

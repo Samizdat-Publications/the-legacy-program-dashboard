@@ -43,6 +43,7 @@
 "label": "NORAD and US Northern Command",
 "note": "Type research: originator of the message, not custodian of anything.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -69,6 +70,7 @@
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "Only excerpts have been opened; the four parts have not been seen in full.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

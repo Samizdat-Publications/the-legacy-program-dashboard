@@ -56,6 +56,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -66,7 +67,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -82,6 +83,7 @@
 "label": "RAND Corporation",
 "note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -92,7 +94,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was supported by"
+"verb": "linked through conduct"
 }
 ],
 "date": "1968-11-01",

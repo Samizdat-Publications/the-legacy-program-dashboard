@@ -59,6 +59,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "This is the structural pivot of the era: capability was privatised in 1995 and re-acquired by contract in 2008, meaning the government never had to stand up an acknowledged office.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,7 +80,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "was succeeded by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -95,6 +96,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Kelleher, Davis, Green and the Utah ranch operation all pass from Bigelow's private institute into the DIA-funded contractor.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -126,6 +128,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +144,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -157,6 +160,7 @@
 "label": "Colm A. Kelleher",
 "note": "Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -188,6 +192,7 @@
 "label": "Eric W. Davis",
 "note": "Davis carried the NIDS methodology forward into BAASS work under the DIA-funded AAWSAP contract after 2008.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -224,6 +229,7 @@
 "label": "George Knapp",
 "note": "Knapp's NIDS work with Kelleher produced the Skinwalker Ranch material that later carried into AAWSAP.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -234,7 +240,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -250,6 +256,7 @@
 "label": "Harold E. Puthoff",
 "note": "The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -281,6 +288,7 @@
 "label": "Jacques F. Vallee",
 "note": "Vallee had been at SRI in the 1970s and had documented deliberate human disinformation in UFO cases from 1979 - the phenomenon later confirmed in the Bennewitz affair.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -312,6 +320,7 @@
 "label": "John B. Alexander",
 "note": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -343,6 +352,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's human-effects interest predates the federal contract by more than a decade, through Bigelow's private institute.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -369,6 +379,7 @@
 "label": "Las Vegas, Nevada",
 "note": "The National Institute for Discovery Science was established in 1995 by Robert T. Bigelow, described in contemporary reporting as a Las Vegas-based millionaire philanthropist and real estate developer, and it investigated both aerial phenomena and the survival of consciousness after death, running a reporting hotline and commissioning veterinary necropsies on animal-mutilation reports. It is the direct institutional predecessor of the BAASS staffing that later executed AAWSAP. Tier 2: the source places Bigelow in Las Vegas rather than stating NIDS's own registered address.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -405,6 +416,7 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "Bigelow moved in a research team, surveillance equipment and full-time caretakers immediately after the purchase.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -436,6 +448,7 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents while conceding they could not obtain publishable evidence.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -462,6 +475,7 @@
 "label": "Robert T. Bigelow",
 "note": "NIDS described itself as a privately funded science institute studying aerial phenomena and animal mutilations; Bigelow shut it down in 2004.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

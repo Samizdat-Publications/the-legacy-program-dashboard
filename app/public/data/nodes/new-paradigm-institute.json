@@ -35,6 +35,7 @@
 "label": "Daniel P. Sheehan",
 "note": "NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "NPI's front page as of August 2026 reads 'The House Acted. Now Tell the Senate to Pass the UAPDA', indicating House passage of a version and Senate inaction.",
 "predicate": "supported",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -47,6 +47,7 @@
 "label": "David Charles Grusch",
 "note": "Gerb frames the NRO's entry into the discussion through Grusch, who served in both the NRO and NGA and acted as liaison from those agencies to the UAP Task Force.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -73,6 +74,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The most consequential single claim in the NRO investigation: that the NRO's Sentient program supplied tasked and untasked overhead collection to the USAP Immaculate Constellation, established 2017. This supplies a concrete collection pipeline for the programme Shellenberger entered into the congressional record in November 2024.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "National Reconnaissance Office",
 "note": "Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 13 December 2025; 141,122 views; nearly three hours.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

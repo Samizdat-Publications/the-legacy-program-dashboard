@@ -29,6 +29,7 @@
 "label": "John Garrity",
 "note": "Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels; The Black Vault identifies the recipient as John Garrity.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -55,6 +56,7 @@
 "label": "Luis D. Elizondo",
 "note": "Establishes his exact title and departure date in his own words on Departmental paper.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -81,6 +83,7 @@
 "label": "To The Stars Academy public launch, 11 October 2017",
 "note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

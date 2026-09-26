@@ -119,6 +119,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, addresses a purported USAP name entered into the Congressional Record in November 2024.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -155,6 +156,7 @@
 "label": "Glen Clay Higgins",
 "note": "Higgins established that the withholding of source identities was a choice, not an absence.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -181,6 +183,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -207,6 +210,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The hearing's Index of Documents records 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -233,6 +237,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The twelve-page report is the physical artefact of the disclosure; it has never been located as a retrievable primary file at a stable public URL.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -259,6 +264,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Shellenberger described the program in the document as 'a central or parent USAP that consolidates observations of UAPs by both tasked and untasked collection platforms.'",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -290,6 +296,7 @@
 "label": "Lauren Opal Boebert",
 "note": "Also established that the program covers oceanic as well as terrestrial cases.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -300,7 +307,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -316,6 +323,7 @@
 "label": "Luis D. Elizondo",
 "note": "Asked directly by Mace; his answer is a non-denial from a former DoD official under oath.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -342,6 +350,7 @@
 "label": "Luis D. Elizondo",
 "note": "Asked directly whether he had been read in, Elizondo said he would not be authorised to confirm nor deny the existence of any special access program by name or trigraph.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -352,7 +361,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "was refused by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -368,6 +377,7 @@
 "label": "Michael Shellenberger",
 "note": "Shellenberger supplied the 12-page report that Chairwoman Mace moved into the Congressional Record, and testified to its contents under oath.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -399,6 +409,7 @@
 "label": "Nancy Ruth Mace",
 "note": "Index of Documents: 'Report, Pentagon, Immaculate Constellation; submitted by Rep. Mace.'",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -425,6 +436,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "Kirkpatrick, who authored Volume I's methodology, publicly denied that Immaculate Constellation exists.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -456,6 +468,7 @@
 "label": "Susan Gough",
 "note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -487,6 +500,7 @@
 "label": "Timothy Floyd Burchett",
 "note": "Mace announced that Burchett held the document and would enter it into the record.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

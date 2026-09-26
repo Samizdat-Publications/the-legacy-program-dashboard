@@ -104,6 +104,7 @@
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -130,6 +131,7 @@
 "label": "Maj. Florenz J. Mansmann",
 "note": "Tier 1 for his presence, which is established by the project engineer's own published photograph caption, and Tier 2 for what he later wrote to researchers. THE BOARD HAS BEEN ATTRIBUTING HIS LETTERS TO THE WRONG MAN AND THE WRONG EVENT; see research/leads/nuclear-corrections-2026-09-19.json.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -161,6 +163,7 @@
 "label": "Kingston A. George",
 "note": "His own opening line: 'I was the project engineer for these experiments.' He supplies the dates, the instrument, the launch name, the photographs and a contemporaneous 13 October 1964 staff study cited by title.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -187,6 +190,7 @@
 "label": "Vandenberg Space Force Base, California",
 "note": "The Big Sur site gave a side-look at launches into the Western Test Range that local telephoto coverage at Vandenberg could not, because of prevailing fog.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -197,7 +201,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -213,6 +217,7 @@
 "label": "Robert M. Jacobs",
 "note": "THE ONLY TIER 1 WITNESS-TO-CASE EDGE IN THIS CLUSTER. Jacobs published his own account in January 1989; Kingston George, the project engineer, wrote in 1993 that 'Bob was named the on-site commander by the 1369th Photo Squadron and managed the logistics of the operation at the Big Sur location', and published team photographs captioning Jacobs into and out of them. The edge carries his PRESENCE, not his interpretation.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -244,6 +249,7 @@
 "label": "United States Air Force",
 "note": "Instrument owned by the Range Measurements Laboratory of the Air Force Eastern Test Range; nine of eleven Vandenberg launches covered; the resulting film classified Top Secret on a weapons-vulnerability rationale and later destroyed.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

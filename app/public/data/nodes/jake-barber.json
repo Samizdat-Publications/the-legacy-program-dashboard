@@ -81,6 +81,7 @@
 "label": "Jesse Michels",
 "note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -96,7 +97,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -112,6 +113,7 @@
 "label": "The Sol Foundation",
 "note": "A whistleblower first platformed by an independent YouTube channel in January 2025 appears on a symposium programme alongside Karl Nell, Jacques Vallee and a retired French general nine months later. The pipeline from independent media to institutional legitimation is short and documented.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,7 +124,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "appeared on"
+"verb": "linked through media coverage"
 }
 ],
 "date": "2025-01-30",

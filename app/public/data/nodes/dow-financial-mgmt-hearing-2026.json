@@ -47,6 +47,7 @@
 "label": "Brett A. Mansfield",
 "note": "Mansfield was the Office of Inspector General witness at 'DoW Financial Management: Examining Progress and New Audit Approaches'. Attested by the OIG's publication of his statement.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The House Committee on Oversight and Government Reform held the DoW financial management hearing at which Deputy IG Mansfield testified. Attested by the OIG's publication of his statement.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

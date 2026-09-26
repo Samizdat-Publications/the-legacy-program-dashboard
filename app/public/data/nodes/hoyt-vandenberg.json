@@ -81,6 +81,7 @@
 "label": "Central Intelligence Agency",
 "note": "He directed Central Intelligence in 1946-1947 and then held the top Air Force post from 1948, arriving at the destruction decision already fluent in compartmentation.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -107,6 +108,7 @@
 "label": "Estimate of the Situation (1948)",
 "note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

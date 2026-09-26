@@ -42,6 +42,7 @@
 "label": "Medical & Injury Effects",
 "note": "The bio claim has no released material; the medical domain has DIRD 26 and the Cash-Landrum clinical record, which is the auditable end of the same question.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -68,6 +69,7 @@
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "The commissioned question is how many unmanned vehicles a single human operator can control simultaneously - the human-factors constraint that would bound any swarming or multi-object control architecture. It forms a set with Genik's other two deliverables on limb-free control of external devices and on organic-molecule automation.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -122,6 +122,7 @@
 "label": "Project Magnet (Canada)",
 "note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -148,6 +149,7 @@
 "label": "Project Second Storey (Canada)",
 "note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -174,6 +176,7 @@
 "label": "Robert I. Sarbacher",
 "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
 "predicate": "told",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -184,7 +187,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "received an account from"
+"verb": "linked through testimony"
 }
 ],
 "date": "1962-12-27",

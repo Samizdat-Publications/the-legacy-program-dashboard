@@ -29,6 +29,7 @@
 "label": "AAWSAP Defense Intelligence Reference Document series",
 "note": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -60,6 +61,7 @@
 "label": "Chain of custody",
 "note": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

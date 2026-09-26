@@ -98,6 +98,7 @@
 "label": "David Fravor",
 "note": "Both are named as aircrew in the same Navy range fouler report and both gave first-person accounts on 60 Minutes in 2021.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -113,7 +114,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -129,6 +130,7 @@
 "label": "Michael Gold",
 "note": "Gold testified she 'was mocked by her colleagues' and that her incident 'went years without any investigation.'",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -155,6 +157,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Dietrich and her WSO observed the object from roughly 8,000 feet above for about five minutes. She is named in the Navy range fouler report released 12 January 2023.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -186,6 +189,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "Dietrich gave her first public account in May 2021, weeks before ODNI conceded that aviators face 'disparagement associated with observing UAP, reporting it, or attempting to discuss it with colleagues.'",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -201,7 +205,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 }
 ],
 "date": "2021-05-16",

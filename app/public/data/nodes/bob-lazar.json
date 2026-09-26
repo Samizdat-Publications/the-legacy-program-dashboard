@@ -120,6 +120,7 @@
 "label": "Edward Teller",
 "note": "Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -146,6 +147,7 @@
 "label": "Element 115: the Lazar claim and moscovium",
 "note": "Timestamped in the 1991 tape: the reactor account, the 223 grams, the 1740 degrees Celsius melting point and the machining into triangles.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -172,6 +174,7 @@
 "label": "John Olsen Lear",
 "note": "THIS EDGE DOES NOT SAY LEAR INTRODUCED LAZAR TO KNAPP. That is universally repeated and it is in nothing this board opened.",
 "predicate": "in_contact_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -198,6 +201,7 @@
 "label": "Kirk-Mayer, Inc.",
 "note": "Supported from three directions that do not share a source: the directory page's own scope statement, the 1996 taped colleague interview, and Gene Huff writing in Lazar's defence.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -229,6 +233,7 @@
 "label": "Los Alamos National Laboratory",
 "note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -239,7 +244,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -255,6 +260,7 @@
 "label": "Clark County, Nevada felony pandering file, 1990 and 1996",
 "note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
 "predicate": "contradicts",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -281,6 +287,7 @@
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. The relation is authorship of a document, which the board's ruling of 18 September 2026 types as research, because custody is weighted x3.0 as a programme edge and giving a claimant a triple-weighted edge to his own artefact would inflate him.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -307,6 +314,7 @@
 "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', which was wrong: he is the subject of the article, not its author or its holder. Journalism about a person is typed investigative here. The article's description of him as a physicist is what he told the reporter, and the qualification travels with the edge.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -333,6 +341,7 @@
 "label": "Office of Naval Intelligence",
 "note": "THE EDGE CARRIES A DISCREPANCY AND NOTHING MORE. There is no 'Department of Naval Intelligence'; the Office of Naval Intelligence sits inside the Department of the Navy. THE W-2 WAS NOT OPENED BY THIS BOARD and no employer identification number, zip code or box content is asserted anywhere.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -348,7 +357,7 @@
 ],
 "tier": "B",
 "type": "funding",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -364,6 +373,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "The originating claim of the whole cluster, in his own narration: 'between December of 88 and April of 89' he worked at 'a facility at an area known as S4 on the Nellis Air Force range in central Nevada'. The edge records that he says this and nothing more.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -390,6 +400,7 @@
 "label": "Stanton T. Friedman",
 "note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -416,6 +427,7 @@
 "label": "The Black Vault",
 "note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -442,6 +454,7 @@
 "label": "Tim McMillan",
 "note": "The documentary correction to the claim that the July 2017 search was about recovering element 115.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -468,6 +481,7 @@
 "label": "Tom Mahood",
 "note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

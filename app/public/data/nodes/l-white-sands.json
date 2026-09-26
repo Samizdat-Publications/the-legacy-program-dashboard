@@ -41,6 +41,7 @@
 "label": "Los Alamos, New Mexico",
 "note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.",
 "predicate": "concurrent_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "note": "The Foster Ranch debris field, White Sands Proving Ground, the Alamogordo Mogul launch site, Los Alamos, Sandia and Kirtland all lie within a few hundred miles. Reasoning: geographic proximity is the reason a materiel recovery there fell inside multiple classified security envelopes at once.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -77,7 +79,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 }
 ],
 "coords": [

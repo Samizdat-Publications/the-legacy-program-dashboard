@@ -166,6 +166,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Kelleher ran the operational science side of the contract that produced the DIRD series, having previously managed NIDS field investigations for the same principal, Robert Bigelow.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -197,6 +198,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Kelleher carried the NIDS field methodology into the federally funded effort and directed the biological-effects line.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -223,6 +225,7 @@
 "label": "George Knapp",
 "note": "Lacatski read it and wrote to Bigelow in June 2007; a trade paperback is the documented first cause of a $22 million federal program.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -249,6 +252,7 @@
 "label": "James T. Lacatski",
 "note": "DIA official James Lacatski read 'Hunt for the Skinwalker' by Kelleher and George Knapp, contacted Bigelow, visited the ranch, and relayed the experience to Sen. Harry Reid; the two later co-authored 'Skinwalkers at the Pentagon' (2021).",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -280,6 +284,7 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "Sixteen years of continuous field presence across a private and then a federally funded program.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -306,6 +311,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Kelleher managed the ranch instrumentation, the necropsy response programme and the hotline casework for the institute's whole life.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -337,6 +343,7 @@
 "label": "Robert T. Bigelow",
 "note": "Kelleher's move from NIDS project manager to BAASS deputy administrator meant the DIA-funded programme inherited a pre-existing private case and sample archive rather than building one.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -347,7 +354,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -363,6 +370,7 @@
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "note": "Kelleher supplies the field-operations and human-effects record from the BAASS side.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

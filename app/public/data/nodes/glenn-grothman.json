@@ -76,6 +76,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "The waiver list is a map of the disclosure caucus at formation.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,12 +97,13 @@
 "direction": "out",
 "edgeId": "e-8ffb2d99eb",
 "edgeLabel": "Chaired the hearing; elicited 'material acquisition and exploitation activity'",
-"family": "role",
+"family": "oversight",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Grothman's question about what information Grusch believed was hidden produced the only program-category language in the unclassified record.",
-"predicate": "led",
+"predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -112,7 +114,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "led"
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -128,6 +130,7 @@
 "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
 "note": "Grothman gavelled the 26 July 2023 hearing to order and waived six non-members onto the subcommittee.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -154,6 +157,7 @@
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -180,6 +184,7 @@
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Reasoning: Grothman said in Nov 2024 that members questioned agencies inside and outside the SCIF without substantiating Grusch; Luna said in Sept 2025 that Oversight members were not eligible for the relevant read-ins at all. Both are on the same committee's record.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -195,7 +200,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "contradicts"
+"verb": "linked through testimony"
 }
 ],
 "date": "2023-07-26",

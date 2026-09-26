@@ -41,6 +41,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Disclosed at the Volume I rollout in March 2024; a 90-day collection at a classified site was reported in November 2024.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "was run by"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "AARO's stated remedy for its permanent excuse has produced no published result; the excuse is unchanged in the July 2026 report.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -77,7 +79,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

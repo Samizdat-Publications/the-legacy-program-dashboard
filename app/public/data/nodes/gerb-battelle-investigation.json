@@ -47,6 +47,7 @@
 "label": "Battelle Memorial Institute",
 "note": "Gerb argues, following Jacques Vallee's paper trail, that Battelle studied a shape-memory metallic alloy recovered at Roswell now referred to as nitinol, while also building the USAF's machine index of UFO reports and helping quell public interest.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Jacques F. Vallee",
 "note": "Gerb explicitly credits Vallee as the source of the supporting documentary trail for the Battelle materials claim.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Project Blue Book",
 "note": "Project Stork was Battelle's contract supporting the Air Force UFO effort; it produced the statistical study issued as Special Report No. 14, a document available in the CIA reading room.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 3,
@@ -125,6 +128,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "Gerb's stated aim is to 'connect the dots from Roswell to shadowy modern-day players pulling the strings of Sean Kirkpatrick to drive the UAP narrative.' This is an inference about influence, not a documented relationship.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -135,7 +139,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -151,6 +155,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 18 February 2024 with a published citation list including CUFON's Project Stork reports, the CIA reading room copy of Special Report No. 14, a Black Vault titanium alloys release and the Defense.gov Moultrie roundtable transcript.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

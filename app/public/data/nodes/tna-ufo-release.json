@@ -41,6 +41,7 @@
 "label": "Dr David Clarke",
 "note": "Each National Archives UFO release page credits Dr David Clarke's guide and carries his videocast or podcast.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
 "note": "The National Archives itself billed the tranche as containing 'Britain's very own Roswell - Rendlesham Forest in Suffolk'.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Nick Pope",
 "note": "The MoD approached Pope to help with the publicity drive when it decided to declassify and release the files; he became, in the broadcaster's phrase, the face of the Ministry's new-found transparency.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -119,6 +122,7 @@
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "Every tranche page lists the piece numbers transferred; the final June 2013 tranche is DEFE 24/2448-2465 and 2623-2629.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

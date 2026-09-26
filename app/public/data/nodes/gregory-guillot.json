@@ -77,6 +77,7 @@
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,6 +104,7 @@
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed.",
 "predicate": "acknowledged",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -113,7 +115,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "acknowledged"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -129,6 +131,7 @@
 "label": "NORAD and US Northern Command",
 "note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

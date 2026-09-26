@@ -75,6 +75,7 @@
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "A sitting Secretary of State appearing in a film premised on an 80-year cover-up is a first-order fact about the coherence of the official denial posture.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -101,6 +102,7 @@
 "label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
 "note": "Rubio was one of five Senate cosponsors of the UAP Disclosure Act before joining the executive branch.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -127,6 +129,7 @@
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Rubio cosponsored the eminent domain text while holding one of the eight most senior intelligence-access positions in Congress.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -152,7 +155,8 @@
 "l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant.",
-"predicate": "held_post",
+"predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,7 +167,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -179,6 +183,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Named in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -205,6 +210,7 @@
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

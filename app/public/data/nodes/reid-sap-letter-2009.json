@@ -83,6 +83,7 @@
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "note": "DIA's 13 November 2009 answer evaluates only the written deliverables and never addresses the field investigation, database or human-effects work the same contract funded.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -109,6 +110,7 @@
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "note": "The request and the refusal. Reid's 24 June 2009 letter asked for a restricted SAP; DIA Info Memo U-09-2660 of 13 November 2009 is the answer - 'DIA cannot find adequate justification to establish' it. DIA Info Memo U-10-2552 then records that Deputy Secretary Lynn and the Director met Senator Reid in November 2009 to discuss it. A documented request, a documented denial, and a documented meeting between them.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -140,6 +142,7 @@
 "label": "DIA Memorandum: Review of Special Access Program Request (U-09-2660CE-IM)",
 "note": "",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -166,6 +169,7 @@
 "label": "Harry M. Reid",
 "note": "The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -192,6 +196,7 @@
 "label": "Harry M. Reid",
 "note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -223,6 +228,7 @@
 "label": "Harry M. Reid",
 "note": "",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -249,6 +255,7 @@
 "label": "KONA BLUE",
 "note": "Reid asked DoD for a restricted SAP over engineering of advanced technologies in 2009 and was refused; two years later the same circle proposed a recovery-and-exploitation SAP at DHS instead.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -264,7 +271,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -280,6 +287,7 @@
 "label": "Susan Gough",
 "note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -306,6 +314,7 @@
 "label": "William J. Lynn III",
 "note": "Lynn was the decision authority; he received the request in June and delivered the refusal in person in November.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

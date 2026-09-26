@@ -65,6 +65,7 @@
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list reads 'President, Sandia Corporation, ATTN: Document Control Division, Sandia Base, NMex'; the board's sandia node is the same site under its later name.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Armed Forces Special Weapons Project",
 "note": "The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +103,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -117,6 +119,7 @@
 "label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
 "note": "A DOE weapons laboratory peer-reviewed the AAWSAP physics portfolio and DIA recorded the reviews as positive, some exceptionally so.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,7 +130,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "produced"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -143,6 +146,7 @@
 "label": "United States Department of Energy",
 "note": "Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI.",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -169,6 +173,7 @@
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -195,6 +200,7 @@
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -226,6 +232,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -236,7 +243,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to hold material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -252,6 +259,7 @@
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A claim about what Fouche said. 'Sandia and Livermore laboratories developed the reverse engineered MFD technology.' No lawrence-livermore node exists on the board and none is proposed here, so only the Sandia half of the sentence is wired. No record connecting either laboratory to this claim was opened, and the propulsion specification the sentence introduces is refuted by the melting point of its own working fluid.",
 "predicate": "alleged_tie",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

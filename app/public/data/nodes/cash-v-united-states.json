@@ -47,6 +47,7 @@
 "label": "Betty Cash",
 "note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "Betty Cash",
 "note": "Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, No. H-84-348, S.D. Tex., Houston Division, dismissed 21 August 1986 by Judge Ross N. Sterling.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -99,6 +101,7 @@
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "Cash (1984-1986) sought damages and was dismissed on the pleadings and summary judgment; Kean (2003-2009) sought records and obtained a finding of inadequate search plus a supervised re-search. The record case succeeded where the injury case did not.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

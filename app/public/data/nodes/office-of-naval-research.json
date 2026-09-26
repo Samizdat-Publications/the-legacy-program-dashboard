@@ -53,6 +53,7 @@
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "Both statutes are in Statutes at Large volume 60 and both carry the approval date 1 August 1946: the Atomic Energy Act at page 755 and the Office of Naval Research Act at page 779. The triage row that proposed this node dated ONR two days later; the page itself says otherwise.",
 "predicate": "concurrent_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "United States Navy",
 "note": "Section 1 places ONR in the Office of the Secretary of the Navy and provides that its orders are to be considered as emanating from the Secretary and to have full force and effect as such.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

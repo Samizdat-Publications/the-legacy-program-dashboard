@@ -83,6 +83,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,6 +110,7 @@
 "label": "Kevin D. Randle",
 "note": "A SECOND METHOD, NOT A SECOND AGENT SHARING ONE. Randle met Stone in February 1989 and visited his home many times; he is a retired Air Force officer who argues for the reality of other cases. Four claimed Vietnam tours against a record of thirty-seven months overseas, and nothing supporting the account of hunting the enemy at night.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,7 +121,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -135,6 +137,7 @@
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +148,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -161,6 +164,7 @@
 "label": "Philip J. Klass",
 "note": "TIER 1 DESPITE BOTH ENDS BEING INTERESTED PARTIES, because the claim carried by this edge is that Klass requested and published a federal service record, which is a fact about an act of research and not a domain-to-domain inference. The record shows clerk/typist, administration specialist, detachment sergeant and chief administrative clerk; Klass also records Stone's 23 December 1983 FOIA request to the USAF about Bentwaters, sent from his home address without identifying him as a serving sergeant.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -187,6 +191,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "TIER 3. His own FOIA request of 23 December 1983 to the USAF, from his home address and not identifying him as a serving Army sergeant, cuts against the claim, and no record places him in England. Klass also notes the incident was not reported upward until about two weeks after Stone says his team arrived.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

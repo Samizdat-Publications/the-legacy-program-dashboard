@@ -59,6 +59,7 @@
 "label": "David Charles Grusch",
 "note": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -90,6 +91,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch swore in 2023 that witnesses would come forward only behind closed doors and with assurances that breaking NDAs would not be prosecuted. The July 2026 directive waives UAP-related NDAs for disclosures to cleared AARO or PURSUE officials. Reasoning: the directive's mechanism maps directly onto the barrier Grusch described under oath, though no document ties the two.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,7 +107,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -121,6 +123,7 @@
 "label": "Donald J. Trump",
 "note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -147,6 +150,7 @@
 "label": "Eric Burlison",
 "note": "Burlison - whose Special Advisor is Grusch - recommends that anyone using the NDA waiver request congressional presence alongside legal counsel. That recommendation is a direct read-through of what happened to the last person who used executive channels alone.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -157,7 +161,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "drew a response from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -173,6 +177,7 @@
 "label": "Luis D. Elizondo",
 "note": "Elizondo is the archetype of a former official constrained by prepublication review and secrecy obligations; the ODNI memorandum waives 'agreements, oaths, or commitments' for disclosure to government investigators, not to publishers.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -188,7 +193,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -204,6 +209,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -214,7 +220,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "requires"
+"verb": "linked through law"
 }
 ],
 "coords": null,

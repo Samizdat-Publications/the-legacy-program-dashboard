@@ -41,6 +41,7 @@
 "label": "Defense Office of Prepublication and Security Review",
 "note": "The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017 — consistent with the form's 'not for publication' framing.",
 "predicate": "requested",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "made a request of"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "Joseph Gradisher",
 "note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Luis D. Elizondo",
 "note": "The form bears his name and OUSD(I) title. It is the documentary link between him and the AATIP-associated imagery, and it was approved 24 August 2017.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

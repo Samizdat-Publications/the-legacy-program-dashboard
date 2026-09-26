@@ -41,6 +41,7 @@
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -72,6 +73,7 @@
 "label": "Peter A. Gersten",
 "note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

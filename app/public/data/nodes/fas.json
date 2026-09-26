@@ -35,6 +35,7 @@
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -45,7 +46,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "reported on"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -61,6 +62,7 @@
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "note": "The FAS Intelligence Resource Program budget page indexes the FY2013 NIP Summary excerpts alongside redacted Congressional Budget Justifications for ODNI, NRO, NGA and the MIP. Attested by the page itself.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,6 +89,7 @@
 "label": "National Reconnaissance Office",
 "note": "Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -113,6 +116,7 @@
 "label": "Steven Aftergood",
 "note": "Aftergood joined FAS in 1989 and directed the Project on Government Secrecy from 1991 to 2021. Attested by the FAS expert page.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

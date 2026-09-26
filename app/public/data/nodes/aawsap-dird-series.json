@@ -47,6 +47,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Each released DIRD states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program'.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "Chain of custody",
 "note": "The released AAWSAP corpus documents control numbers, fiscal years, contract status, statements of work and named programme managers - and contains no record of the receipt, transfer or storage of any physical sample. The asymmetry is the finding.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -109,6 +111,7 @@
 "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
 "note": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

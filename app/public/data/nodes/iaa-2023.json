@@ -35,6 +35,7 @@
 "label": "Enacted Statute",
 "note": "Sec. 6802 rewrote 50 U.S.C. 3373 to create AARO and inserted the 'unidentified anomalous phenomena' and 'transmedium' definitions; sec. 6803 attached a Comptroller General audit and briefing requirement to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records that the statutory definitions the whole board uses were enacted in an intelligence authorization, not a defence one.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -66,6 +67,7 @@
 "label": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "note": "PL 118-159 sec. 6802 amends IAA FY2023 sec. 6803.",
 "predicate": "amended",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

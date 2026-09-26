@@ -53,6 +53,7 @@
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "note": "The same shape fourteen years later: a foreign air force intercept documented inside a US or allied intelligence file rather than by the flying service.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Defense Intelligence Agency",
 "note": "DIA is the addressee of the report and the agency whose 1996 records search located it as the single responsive document.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "John Greenewald Jr.",
 "note": "Greenewald's FOIA request of 11 August 1996 produced the release, and DIA's response to him is the record of how much DIA holds.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "National Security Agency",
 "note": "NSA Washington is an information addressee on the report's own distribution list.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,7 +145,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "reports to"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -157,6 +161,7 @@
 "label": "The Black Vault",
 "note": "The Black Vault hosts the released document and its covering letter.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

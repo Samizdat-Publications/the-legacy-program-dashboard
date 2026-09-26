@@ -52,6 +52,7 @@
 "label": "Detroit Arsenal, Warren, Michigan",
 "note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,6 +84,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "The federal signature block is what makes the agreement citable as a government act.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

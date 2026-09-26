@@ -310,6 +310,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Puthoff's name appears in the memorandum requesting Special Access Program status, originally redacted, later released — placing him inside the program's founding paperwork.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -320,7 +321,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -336,6 +337,7 @@
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "TTSA partnered with Puthoff-founded laboratories to study the ADAM materials; Puthoff had already tested the same Howe samples privately, reporting in a 2012 letter that no anomalous outcome had been obtained.",
 "predicate": "transferred",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -351,7 +353,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "received records or material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -367,6 +369,7 @@
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "The AAWSAP propulsion author sat for the same documentary as the AAWSAP wormhole author, the UAP Task Force chief scientist and the Stanford materials analyst.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -393,6 +396,7 @@
 "label": "Chain of custody",
 "note": "EarthTech has published no analytical results on the samples it has held, and as a private corporation is outside FOIA. Every documented chain that reaches it stops there.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -413,7 +417,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -429,6 +433,7 @@
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "Listed by DIA among the 38 AAWSAP reference products and hosted in the DIA FOIA reading room; the propulsion theory commissioned alongside the injury pathology.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -460,6 +465,7 @@
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "Authorship, corroborated internally rather than only by the DIA list. References 3, 16 and 19 of the paper are Puthoff's own prior work, and DIA singled the report out as its showcase deliverable in Info Memo U-10-2552 to USD(AT&L).",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -501,6 +507,7 @@
 "label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
 "note": "This is the earliest dated documentary link between Puthoff and a US-sponsored effort to characterise fields associated with 'exotic propulsion' - nine months before the AAWSAP contract was awarded to BAASS.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -511,7 +518,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -527,6 +534,7 @@
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Item 5 on DIA's transmittal list; the closest thing in the released set to a theory of how the reported craft operate.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -553,6 +561,7 @@
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "EarthTech is the vehicle through which Puthoff's four-decade federally funded research line continued into AAWSAP.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -584,6 +593,7 @@
 "label": "Eric W. Davis",
 "note": "Davis is repeatedly identified in the record as a former employee of Puthoff's EarthTech International; both authored DIRDs in the same series.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -599,7 +609,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -615,6 +625,7 @@
 "label": "Jacques F. Vallee",
 "note": "Vallee joined Engelbart's Augmentation Research Center at SRI in 1971, in the same institution and period as Puthoff's psychoenergetics programme; Vallee was also consulted on classified remote-viewing research.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -625,7 +636,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -641,6 +652,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "The New Yorker records that among the consultants Bigelow hired was Hal Puthoff, 'whose work in paranormal studies dated back decades, to Project Stargate.'",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -672,6 +684,7 @@
 "label": "Russell Targ",
 "note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -703,6 +716,7 @@
 "label": "Salvatore Cezar Pais",
 "note": "A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -729,6 +743,7 @@
 "label": "SRI International (Stanford Research Institute)",
 "note": "CIA's Office of Technical Service funded the work from 1972; it was later sponsored by Army INSCOM and DIA under successive codenames.",
 "predicate": "led",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -744,7 +759,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -760,6 +775,7 @@
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "The same principal investigator ran the SRI remote viewing science, produced Defense Intelligence Reference Documents under AAWSAP, and co-founded To The Stars Academy, which signed the CRADA with the Army in 2019. Reasoning: continuity of a single documented career, not of a single programme.",
 "predicate": "ran",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -785,7 +801,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "ran"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -801,6 +817,7 @@
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Puthoff co-founded the SRI programme with Targ and directed the research phase before leaving in the mid-1980s.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -827,6 +844,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Puthoff co-founded TTSA with Tom DeLonge and Jim Semivan in 2017; the company's materials work was routed to laboratories he founded.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -59,6 +59,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated extraterrestrial origin; the Varginha witnesses were briefing Congress against that finding.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Senador Eduardo Girão",
 "note": "Girão, who led a 2022 Brazilian Senate UAP hearing, met Rep. Eric Burlison for the first time at the National Press Club event.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -95,7 +97,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -111,6 +113,7 @@
 "label": "Varginha incident, Minas Gerais, January 1996",
 "note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,7 +124,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -137,6 +140,7 @@
 "label": "Dr Ítalo Venturelli",
 "note": "Kean and Blumenthal had sole media access to the closed-door session and reported his testimony verbatim.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -147,7 +151,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "heard testimony from"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

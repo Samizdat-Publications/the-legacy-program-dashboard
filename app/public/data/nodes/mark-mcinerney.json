@@ -42,6 +42,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "Appointment announced 14 September 2023; no public outputs from the role have been identified since.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -68,6 +69,7 @@
 "label": "Nicola J. Fox",
 "note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

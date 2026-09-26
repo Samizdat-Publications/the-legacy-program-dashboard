@@ -63,6 +63,7 @@
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "Consistently reported since 2019 and never disputed by the Navy or Fravor, but not anchored to a primary record in this pass.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,7 +74,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "produced"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 3,
@@ -89,6 +90,7 @@
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +106,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "produced"
+"verb": "linked in how it is organised"
 }
 ],
 "date": "2004-11-14",

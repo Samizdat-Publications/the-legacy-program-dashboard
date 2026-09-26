@@ -64,6 +64,7 @@
 "label": "Relatório de Ocorrências, Comando Aéreo de Defesa Aérea, 2 June 1986 (Arquivo Nacional BR_DFANBSB_ARX_0_0_0249)",
 "note": "Signed at Brasília on 2 June 1986 as acting commander COMDA/NuCOMDABRA; the document is served by the Arquivo Nacional as BR_DFANBSB_ARX_0_0_0249.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -90,6 +91,7 @@
 "label": "Noite Oficial dos OVNIs - the Brazilian 'Night of the UFOs', 19 May 1986",
 "note": "The 19 May 1986 intercepts were run through the Air Defence Command; Pessoa Cavalcanti, as its acting commander, signed the command's own occurrence report on them fourteen days later. He is the officer who converted the night into a document.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,6 +128,7 @@
 "label": "Força Aérea Brasileira / Ministério da Aeronáutica",
 "note": "José Pessoa Cavalcanti de Albuquerque signed the Relatório de Ocorrências of 2 June 1986 as acting commander of COMDA/NuCOMDABRA, a command of the Brazilian Air Force. The finding that the objects were solid and behaved intelligently is therefore a FAB internal finding rendered up its own chain of command under classification, not an outside assessment.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

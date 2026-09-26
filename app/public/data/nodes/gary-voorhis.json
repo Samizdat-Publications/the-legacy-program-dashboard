@@ -59,6 +59,7 @@
 "label": "Kevin Day",
 "note": "Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof.",
 "predicate": "corroborated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is corroborated by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -85,6 +86,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Voorhis, a CEC/Aegis technician, has said in public interviews since 2018 that he was directed to hand over or wipe recording media and that unrecognised personnel were aboard collecting. Reasoning: no primary record naming those personnel has been located.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,7 +97,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -111,6 +113,7 @@
 "label": "USS Princeton (CG-59)",
 "note": "The confiscation account rests on Voorhis and Day, in different billets, describing the same 48-hour window. No document, log entry or chain-of-custody form corroborating it has been located.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,7 +124,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -137,6 +140,7 @@
 "label": "USS Princeton (CG-59)",
 "note": "Voorhis's technical billet placed him at the node where the encounter's recorded machine data physically lived.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

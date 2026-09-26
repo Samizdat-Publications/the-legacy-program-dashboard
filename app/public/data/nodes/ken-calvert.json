@@ -44,6 +44,7 @@
 "label": "Waived SAP Notification Group",
 "note": "In the group in 2020 as ranking member and from 2023 as chair.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

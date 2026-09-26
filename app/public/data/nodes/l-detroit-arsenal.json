@@ -47,6 +47,7 @@
 "label": "Jeffery Langhout",
 "note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "Dr. Joseph Cannon",
 "note": "The Army located twenty-nine emails totalling a hundred pages of Cannon's TTSA correspondence and withheld all of them under FOIA exemptions (b)(4) and (b)(5).",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -109,6 +111,7 @@
 "label": "Detroit, Michigan",
 "note": "The installation sits in Warren, Michigan, within the Detroit metropolitan area that also holds Kit Green's post-agency academic base at Wayne State.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,6 +143,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "GVSC Director Jeffery Langhout signed the agreement on 10 October 2019; the Army released the text on 18 October 2019.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

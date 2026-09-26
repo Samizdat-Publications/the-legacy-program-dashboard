@@ -75,6 +75,7 @@
 "label": "Laurence J. Kotlikoff",
 "note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -101,6 +102,7 @@
 "label": "Michigan State University",
 "note": "Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,6 +129,7 @@
 "label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "note": "Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -47,6 +47,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Department did not produce by the deadline.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Anna Paulina Luna",
 "note": "Predicated on whistleblower information given to the Task Force that AARO holds additional video records.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

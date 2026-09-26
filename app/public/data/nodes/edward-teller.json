@@ -59,6 +59,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Los Alamos Green Fireballs Conference",
 "note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Lawrence Livermore National Laboratory",
 "note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

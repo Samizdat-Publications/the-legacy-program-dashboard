@@ -58,6 +58,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "The Department's first unambiguous acknowledgement that its aerospace-threat program looked at UAP. Repudiated by its own spokesperson six months later.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "Luis D. Elizondo",
 "note": "Obtained by Keith Kloor for The Intercept in response to the History Channel series. This sentence has anchored every subsequent Departmental statement about Elizondo.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +112,7 @@
 "label": "Susan Gough",
 "note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -136,6 +139,7 @@
 "label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
 "note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

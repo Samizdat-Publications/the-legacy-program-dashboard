@@ -35,6 +35,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "contradicts"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -66,6 +67,7 @@
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -97,6 +99,7 @@
 "label": "Thomas A. Monheim",
 "note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -53,6 +53,7 @@
 "label": "CIA FOIA Reading Room - UFO collection",
 "note": "A version of the Agency's own foundational UAP document less redacted than the one in its public reading room appeared seventy-three years later, by executive direction.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "FBI Records: The Vault - UFO collection",
 "note": "The tranche established the FBI as an active modern UAP collector, a posture invisible in its own Vault collection last modified in 2013.",
 "predicate": "produced",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,7 +101,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "produced"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -115,6 +117,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "Gemini crew debriefings and 1962 Cronkite-Cooper interview audio were published in the third tranche.",
 "predicate": "released",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -125,7 +128,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "released"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -141,6 +144,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "72 files with the FBI the largest contributor at 29 files, including a less-redacted CIA Robertson Panel record.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -143,6 +143,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Section 9010 asserts federal eminent domain over recovered technologies 'controlled by private persons or entities.' Reasoning: the legislative remedy matches the mechanism AARO records interviewees describing; no drafting record ties the two documents.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -158,7 +159,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -174,6 +175,7 @@
 "label": "Charles E. Schumer",
 "note": "congress.gov lists Sen. Schumer as sponsor of S.Amdt.797, submitted 07/13/2023; the Congressional Record entry names him as the submitting senator.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -205,6 +207,7 @@
 "label": "Legislative Process (proposed and pending)",
 "note": "The only text ever passed by a chamber of Congress legislating on the assumption that recovered non-human technology exists and is held in part by private entities. It rode to the Senate floor as an amendment, cleared the Senate as a division of S. 2226, and did not survive conference into P.L. 118-31 in that form. The mechanism of the defeat is the lesson, which is why it belongs to process rather than to statute.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -241,6 +244,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch's allegations were published 5 June 2023; S.Amdt. 797 was filed 38 days later containing bespoke definitions of 'legacy program' and 'controlling authority' reaching private and academic holders.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -256,7 +260,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -272,6 +276,7 @@
 "label": "Eric Burlison",
 "note": "'It was stripped out by the House last year, and I cannot get it onto the bill leaving the House this year.'",
 "predicate": "supported",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -282,7 +287,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was supported by"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -298,6 +303,7 @@
 "label": "Kirsten E. Gillibrand",
 "note": "Named in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -324,6 +330,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "The Senate passed Division I of the NDAA on 27 July 2023 including Sec. 9010, and defined 'legacy program' to include 'commercial industry... and private sector endeavors to collect, exploit, or reverse engineer technologies of unknown origin.' No named company is in the text; the provision only has meaning if some entity holds something.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -334,7 +341,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -350,6 +357,7 @@
 "label": "Marco Rubio",
 "note": "Named in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -376,6 +384,7 @@
 "label": "Martin T. Heinrich",
 "note": "Named in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -402,6 +411,7 @@
 "label": "Mike Rogers (Alabama)",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -412,7 +422,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -428,6 +438,7 @@
 "label": "Mike Rounds",
 "note": "First-listed cosponsor in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -454,6 +465,7 @@
 "label": "Mitch McConnell",
 "note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -464,7 +476,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -480,6 +492,7 @@
 "label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
 "note": "Sec. 1673(b)(1)(A) had already established that an authorized disclosure 'shall not be subject to a nondisclosure agreement'; the UAPDA extends that logic to records and material.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -495,7 +508,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -511,6 +524,7 @@
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "Public Law 118-31 contains no eminent domain clause, no Review Board and no contractor inspection authority. Congress asserted jurisdiction over the paper and left the objects where they are.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -547,6 +561,7 @@
 "label": "P.L. 118-31 Subtitle C - Secs. 1841-1843 (what survived)",
 "note": "Secs. 9001-9015 as passed by the Senate became Secs. 1841-1843 as enacted; the Review Board, Board personnel, record review, eminent domain, court-sealed materials and the $20,000,000 authorization have no enacted counterpart.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -578,6 +593,7 @@
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "P.L. 119-60 contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -593,7 +609,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is contradicted by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -609,6 +625,7 @@
 "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
 "note": "The FY2027 amendment restores the Senate-confirmed UAP Records Review Board with subpoena authority and a statutory transfer timeline to NARA.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -635,6 +652,7 @@
 "label": "New Paradigm Institute",
 "note": "NPI's front page as of August 2026 reads 'The House Acted. Now Tell the Senate to Pass the UAPDA', indicating House passage of a version and Senate inaction.",
 "predicate": "supported",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -661,6 +679,7 @@
 "label": "S. 2226 (118th Congress) - Senate FY2024 NDAA vehicle for the UAP Disclosure Act",
 "note": "S. 2226 as engrossed in the Senate contains Division G in full.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -687,6 +706,7 @@
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "The text filed as S.Amdt. 797 travelled into S. 2226 as Division G, Secs. 9001-9015, which the Senate passed on 27 July 2023.",
 "predicate": "same_as",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -718,6 +738,7 @@
 "label": "Senate Armed Services Committee",
 "note": "No standalone UAP disclosure bill exists in the Senate in the 118th or 119th Congress, and no committee has ever marked the text up.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -749,6 +770,7 @@
 "label": "The Hill",
 "note": "The Hill covered House members demanding transparency from leadership over whether the UAP Disclosure Act amendment would be retained in the FY2024 National Defense Authorization Act. The article page could not be retrieved directly (the site blocked automated fetch), so this edge rests on the indexed headline and URL rather than a verified full text; date left null for that reason.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -759,7 +781,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -775,6 +797,7 @@
 "label": "Todd Young",
 "note": "Named in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -801,6 +824,7 @@
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "The Act's enforcement rests entirely on the Review Board: it orders disclosure absent clear and convincing evidence and examines recovered material under Sec. 9010(b).",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -827,6 +851,7 @@
 "label": "UAP Disclosure Act of 2024 (S.Amdt. 2610 to S. 4638)",
 "note": "The 2024 amendment reproduces the findings, definitions, Review Board, Controlled Disclosure Campaign Plan and eminent domain command without softening.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -858,6 +883,7 @@
 "label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Sec. 9010 of Division G, S. 2226 engrossed in the Senate.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -884,6 +910,7 @@
 "label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Section 9010(a) of Division G is the eminent domain command; it is the only provision in the Act that reaches physical material rather than records.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

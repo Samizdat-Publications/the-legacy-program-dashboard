@@ -29,6 +29,7 @@
 "label": "Cecilia Levy",
 "note": "Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -55,6 +56,7 @@
 "label": "UAPx",
 "note": "Progress in Aerospace Sciences 156:101099, June 2025 - a published field protocol against which any future government sensor release can be compared.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -81,6 +83,7 @@
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "The UAlbany News Center release of 4 June 2025 states: 'Utilizing a diverse set of devices to capture different types of data on many channels, UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy, along with Ben Kugielsky of UAPx, a non-profit scientific research organization, collected observable-light and infrared images during a field expedition in 2021 to Laguna Beach, California.' The release also records the outcome honestly - 'the UAlbany research team succeeded in plausibly explaining all but one of the potential anomalies detected' - and quotes Szydagis on the single unresolved ambiguity. A state university issuing a press release claiming a UAP field-instrumentation result as institutional output is the substantive reason this node belongs on the board.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

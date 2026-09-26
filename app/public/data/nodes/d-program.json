@@ -42,6 +42,7 @@
 "label": "Exotic Technology & Physics",
 "note": "The AAWSAP statement of work and the thirty-eight DIRDs are the tier-1 evidence that a government agency paid for study of the physics a recovered craft would require.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -52,7 +53,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -68,6 +69,7 @@
 "label": "Anomalous Phenomena Adjacent to UAP",
 "note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,7 +80,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -94,6 +96,7 @@
 "label": "Special Access Programs",
 "note": "The November 2009 OUSD(I) memorandum reviewing a special access programme request for AATIP is the documented moment where a FOIA-visible programme was considered for conversion.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +107,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

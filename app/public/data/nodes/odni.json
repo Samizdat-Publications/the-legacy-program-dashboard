@@ -47,6 +47,7 @@
 "label": "Betty J. Sapp",
 "note": "The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense's recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table.",
 "predicate": "appointed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "appointed"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "Compass Rose Legal Group",
 "note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -109,6 +111,7 @@
 "label": "Defense Advanced Research Projects Agency",
 "note": "ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,7 +122,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -135,6 +138,7 @@
 "label": "Defense Intelligence Agency",
 "note": "ODNI's 25 June 2021 assessment names DIA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -145,7 +149,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -161,6 +165,7 @@
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "FY2024 IAA sec. 7343(b) bars obligation of division funds for UAP activity under special or restricted access limitation absent DNI disclosure to six committees and four leaders.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -187,6 +192,7 @@
 "label": "Intelligence Community special access program control office enterprise",
 "note": "AARO names three distinct SAP control office enterprises - DoD, IC and DHS. The IC enterprise operates under the DNI's compartmentation authority and is not reported under 10 U.S.C. 119 to the defense committees.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -218,6 +224,7 @@
 "label": "McLean, Virginia",
 "note": "The Liberty Crossing intelligence campus, which houses ODNI alongside the National Counterterrorism Center, is in McLean, Virginia: an official federal record titles the President's 27 July 2021 remarks there 'Remarks at the Liberty Crossing Intelligence Campus and an Exchange With Reporters in McClean, Virginia' - the misspelling is the record's own. That record fixes where the campus is; it does not itself designate ODNI's headquarters, which is why this is tier 2.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -249,6 +256,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's press release nr25-07 names ODNI as one of four transferring agencies, alongside OSD, the FAA and the Nuclear Regulatory Commission.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -285,6 +293,7 @@
 "label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "note": "The FY2022 NDAA 'was enacted with a provision that requires the Secretary of Defense to establish an office, in coordination with the Director of National Intelligence (DNI), with responsibilities that include those that were to be assigned to the AOIMSG'; the Deputy Secretary acted 'following coordination with the DNI', and copied the memorandum to the Director of National Intelligence. The coordination requirement is statutory, not discretionary.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -295,7 +304,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "is required by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -311,6 +320,7 @@
 "label": "National Geospatial-Intelligence Agency",
 "note": "ODNI's 25 June 2021 assessment names NGA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -321,7 +331,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -337,6 +347,7 @@
 "label": "National Reconnaissance Office",
 "note": "ODNI's 25 June 2021 assessment names NRO among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -347,7 +358,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -363,6 +374,7 @@
 "label": "National Security Agency",
 "note": "ODNI's 25 June 2021 assessment names NSA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -373,7 +385,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 2,
@@ -389,6 +401,7 @@
 "label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
 "note": "The ODNI document numbering inside a war.gov tranche is the structural evidence that PURSUE is genuinely interagency rather than departmental.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -404,7 +417,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "wrote"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -420,6 +433,7 @@
 "label": "Office of Naval Intelligence",
 "note": "ODNI's 25 June 2021 assessment names Navy/ONI among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -430,7 +444,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "receives reports from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -446,6 +460,7 @@
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -456,7 +471,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -472,6 +487,7 @@
 "label": "Senado Federal do Brasil",
 "note": "Requerimento RQS 193/2022 (Sen. Eduardo Girao and seven co-signers) requested the Brazilian Senate special session on ufology, and its justification expressly cites the 2021 'Pentagon' UAP report covering 144 sightings of which only one was explained, plus FY2022 NDAA UAP research funding. The report described is the June 2021 Preliminary Assessment authored by the UAP Task Force and released by ODNI. The session was held in the Senate plenary on 24 June 2022 and ended with ufologists handing Girao the 'Carta de Brasilia' urging a permanent joint civil-military commission.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -513,6 +529,7 @@
 "label": "UAP Science Advisory Council",
 "note": "ODNI announced the council following the PURSUE records releases; the FBI is named as supporting.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

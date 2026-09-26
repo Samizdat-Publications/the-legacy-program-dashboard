@@ -73,6 +73,7 @@
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +84,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "linked through testimony"
 }
 ],
 "date": "2004-01-01",

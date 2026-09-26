@@ -72,6 +72,7 @@
 "label": "Daniel P. Sheehan",
 "note": "Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +83,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -98,6 +99,7 @@
 "label": "House Permanent Select Committee on Intelligence",
 "note": "Turner chaired HPSCI from January 2023 to January 2025, spanning the conference in which the disclosure division was reduced.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -124,6 +126,7 @@
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "The Board survives in no form in enacted law; Sheehan attributes the demand to Turner, and the conference produced no document naming who struck what.",
 "predicate": "acted_against",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -139,7 +142,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "took action against"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 2,
@@ -155,6 +158,7 @@
 "label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Daniel Sheehan, who lobbied the conference, states Turner attacked the eminent domain clause and the subpoena power first and demanded both be struck; the enacted text lacks exactly those two things.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

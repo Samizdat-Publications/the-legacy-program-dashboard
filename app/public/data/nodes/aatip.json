@@ -119,6 +119,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -150,6 +151,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The report is where the Department's own account of AATIP sits. Volume I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme's lifecycle. The denial edge on this pair is separate and records the report's rejection of the reverse-engineering account.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -181,6 +183,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "",
 "predicate": "same_as",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -207,6 +210,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Elizondo's account is that AATIP grew out of AAWSAP; AARO's 2024 historical report treats 2009 as the standup year for both. The Department has treated them as one contract and two labels, alternately.",
 "predicate": "same_as",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -222,7 +226,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is the same as"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -238,6 +242,7 @@
 "label": "Christopher Sherwood",
 "note": "The Department's first unambiguous acknowledgement that its aerospace-threat program looked at UAP. Repudiated by its own spokesperson six months later.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -264,6 +269,7 @@
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "note": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -290,6 +296,7 @@
 "label": "Harold E. Puthoff",
 "note": "Puthoff's name appears in the memorandum requesting Special Access Program status, originally redacted, later released — placing him inside the program's founding paperwork.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -300,7 +307,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -316,6 +323,7 @@
 "label": "Harry M. Reid",
 "note": "Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released.",
 "predicate": "requested",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -326,7 +334,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "received a request from"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 2,
@@ -342,6 +350,7 @@
 "label": "Luis D. Elizondo",
 "note": "Elizondo states he ran AATIP; TTSA said he took it over as Director in 2010. The Department has denied he had assigned responsibilities since June 2019 without ever addressing why he processed the program's imagery in 2017.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -357,7 +366,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -373,6 +382,7 @@
 "label": "Neill Tipton",
 "note": "Five years after the Department says the program ended, and by the account of the man who says Elizondo had nothing to do with it. This is the sharpest internal contradiction in the record.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -383,7 +393,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -399,6 +409,7 @@
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -430,6 +441,7 @@
 "label": "Robert T. Bigelow",
 "note": "Reported by the New York Times with Bigelow on record describing modified Las Vegas buildings for storing recovered metal alloys.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -456,6 +468,7 @@
 "label": "Susan Gough",
 "note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -482,6 +495,7 @@
 "label": "Susan Gough",
 "note": "Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -508,6 +522,7 @@
 "label": "The Intercept",
 "note": "In the same piece the Pentagon confirmed to The Intercept that AATIP existed and 'did pursue research and investigation into unidentified aerial phenomena,' while declining to confirm the earlier Dana White statement that Elizondo ran it. The article is a primary source for the contradiction between DoD's public position and the TTSA account of AATIP's chain of command.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -539,6 +554,7 @@
 "label": "Thomas Crosson",
 "note": "The Department's original December 2017 position was acknowledgement with a budgetary rationale — 'other, higher priority issues that merit' the funding — not denial.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -565,6 +581,7 @@
 "label": "Vanderbilt University",
 "note": "Bruehl, a professor of Anesthesiology at Vanderbilt whose primary field is pain research, told his own institution that the December 2017 New York Times report revealing AATIP is what restarted his interest: 'My interest, honestly, has gone up and gone down over the years, and prior to 2017, I had kind of gotten bored with it and didn't really pay much attention to it. But the report in The New York Times got me thinking again.' What followed was a methodological judgement rather than a belief: 'That's when I realized that nobody's really studying this scientifically.'",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -585,7 +602,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "led to"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

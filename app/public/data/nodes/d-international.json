@@ -42,6 +42,7 @@
 "label": "Disclosure Movement",
 "note": "GEIPAN's published classification scheme and open case archive establish that an acknowledged state programme is possible, shifting the burden onto the concealment argument.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -68,6 +69,7 @@
 "label": "Toulouse, France",
 "note": "GEIPAN has operated within CNES at Toulouse since 1977, publishing classifications and statistics openly.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -94,6 +96,7 @@
 "label": "Varginha, Minas Gerais, Brazil",
 "note": "In July 2026 a US lawmaker formally requested FBI and CIA holdings on the 1996 Varginha incident.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

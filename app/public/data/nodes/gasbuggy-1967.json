@@ -53,6 +53,7 @@
 "label": "United States Department of Energy",
 "note": "Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
 "note": "From the DOE fact sheet: Rio Arriba County, approximately 55 miles east of Farmington, just west of the Jicarilla Apache Reservation.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

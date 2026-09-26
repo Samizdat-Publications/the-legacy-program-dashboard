@@ -53,6 +53,7 @@
 "label": "Air Technical Intelligence Center",
 "note": "The lineage record says ATIC was redesignated Aerospace Technical Intelligence Center in 1959 and discontinued on 1 July 1961, with the mission and resources absorbed by the newly constituted Foreign Technology Division, so this is a succession rather than the renaming the board's prose describes.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "AFR 80-17 names the station in the assignment itself: 'the Foreign Technology Division (FTD) at Wright-Patterson Air Force Base, Ohio'.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "National Air and Space Intelligence Center",
 "note": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "Project Blue Book",
 "note": "AFR 80-17 assigns the Blue Book effort to FTD at Wright-Patterson, requires FTD to analyse every report not identified at base level, and requires FTD to write the final case report on each sighting.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "United States Air Force",
 "note": "AFR 80-17 makes the Deputy Chief of Staff, Research and Development responsible for the overall programme and Air Force Systems Command responsible for supporting it through FTD.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

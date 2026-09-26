@@ -23,6 +23,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {

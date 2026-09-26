@@ -56,6 +56,7 @@
 "label": "Armed Forces Special Weapons Project",
 "note": "The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -66,7 +67,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "cites"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -82,6 +83,7 @@
 "label": "Defense Advanced Research Projects Agency",
 "note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -108,6 +110,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

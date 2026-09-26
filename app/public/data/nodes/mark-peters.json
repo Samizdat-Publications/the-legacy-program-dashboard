@@ -76,6 +76,7 @@
 "label": "Battelle Memorial Institute",
 "note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -107,6 +108,7 @@
 "label": "The MITRE Corporation",
 "note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

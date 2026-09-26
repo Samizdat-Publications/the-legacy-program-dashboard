@@ -149,6 +149,7 @@
 "label": "Funding Channels",
 "note": "Unacknowledged existence (DoDI 5205.11 glossary), waived congressional reporting under 10 U.S.C. 119(e), and carve-out relief from industrial security oversight combine to produce an activity that is funded but not reconcilable from any public document. Every element is sourced to a statute or a DoD issuance rather than to an allegation; the inference that a legacy programme uses this stack is not.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -185,6 +186,7 @@
 "label": "Defense Advanced Research Projects Agency",
 "note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -211,6 +213,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch's sworn testimony of 26 July 2023 concerned a multi-decade recovery and reverse-engineering effort concealed from Congress; the waived unacknowledged SAP is the only lawful configuration in which DoD reporting is removed from the committees by design.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -226,7 +229,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -242,6 +245,7 @@
 "label": "DoD special access programme governance change, 5 January 1994",
 "note": "The Joint Security Commission's chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -252,7 +256,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -268,6 +272,7 @@
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDI 5205.11 para. 1.2.f, effective the same day as the reissued DoDD 5205.07: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' The glossary retains definitions of acknowledged SAP, unacknowledged SAP, SAP type and waived SAP, the last defined as 'A SAP for which the Secretary of Defense has waived applicable ... An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' The taxonomy was therefore not retired in September 2024; it was moved down one level from the directive into the instruction. Para. 3 further requires the SAP Oversight Committee's annual review to assess 'All waived DoD SAPs to determine the need for continued waived status' - an internal executive-branch review with no congressional trigger and no analogue in section 119.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -299,6 +304,7 @@
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "The office is where the designation is administered. DoDD 5205.07 establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', and DoDI 5205.11 para. 1.2.f gives the Secretary the power to designate select unacknowledged SAPs as waived. The waiver is a statutory power exercised through this structure.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -319,7 +325,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -335,6 +341,7 @@
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -361,6 +368,7 @@
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "The statute permits the waiver; this Instruction is where the Department operates it. Para 1.2.f. is DoD's own designation authority - the Secretary 'may designate select unacknowledged SAPs as \"waived\"' - and Enclosure 3 tasks the Senior Review Group with reviewing 'all waived DoD SAPs' annually and advising the SAPOC. Para 7.2.a.(3) then sets who is told, and it is wider than the statute's twelve: the chair, the ranking member, the staff directors and one designated security manager of the defense AND intelligence committees. Quotations are the verbatim ones already recorded on this node from the Instruction itself.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -387,6 +395,7 @@
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -397,7 +406,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -413,6 +422,7 @@
 "label": "Information Security Oversight Office",
 "note": "ISOO is 'responsible to the President for policy and oversight of the Government-wide security classification system and the National Industrial Security Program'. A contractor-held program with no government sponsor of record would be visible, if anywhere, through NISP - and ISOO has never been directed at the UAP question.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -423,7 +433,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -439,6 +449,7 @@
 "label": "Information Security Oversight Office",
 "note": "E.O. 13526 sec. 4.3(b) affords the ISOO Director access to SAPs 'consistent with the policies and procedures directed by the President'.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -449,7 +460,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was overseen by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -465,6 +476,7 @@
 "label": "James R. Clapper Jr.",
 "note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -491,6 +503,7 @@
 "label": "James Jesus Angleton",
 "note": "Reasoning: the board's structural claim is that a programme can be held outside the machinery meant to review it. Book III documents exactly that for a different subject, in an agency's own words, and the analogy is the board's, not the Committee's. No opened record connects Angleton to any DoD special access programme.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -501,7 +514,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -517,6 +530,7 @@
 "label": "Nancy Ruth Mace",
 "note": "'only certain people know the name of the program, and if you do not know it, you cannot get the information.' This is the operational definition of an unacknowledged program from the oversight side.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -527,7 +541,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -543,6 +557,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -569,6 +584,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "FY2024 NDAA sec. 1687(a) conditions obligation of funds on the Secretary of Defense providing details to the defense and intelligence committees and congressional leadership.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -595,6 +611,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "The section acts on the mechanism without touching it. Sec. 1687(a) conditions obligation of funds on the Secretary reporting the activity to the defense and intelligence committees and congressional leadership; it does not repeal or amend 10 U.S.C. 119(e). The waiver stays lawful and the money stops instead.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -626,6 +643,7 @@
 "label": "Congressional oversight of special access programs",
 "note": "Where the Secretary waives reporting, the statute directs that the information and the justification go 'jointly to the chairman and ranking minority member of each of the defense committees'. This is the lawful mechanism by which a program can be hidden from the rest of Congress.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -652,6 +670,7 @@
 "label": "The annual DoD special access program report to Congress",
 "note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -683,6 +702,7 @@
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "DoDD 5205.07 (2010) para 4.f is the written rule that members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs'.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -709,6 +729,7 @@
 "label": "Acknowledged, unacknowledged and waived - the three states of a DoD SAP",
 "note": "DoDI 5205.11 defines a waived SAP as 'An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -735,6 +756,7 @@
 "label": "Senior Review Group (DoD SAP governance)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4) assigns the SRG the annual review of all waived DoD SAPs and recommendations on continued waived status.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -761,6 +783,7 @@
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "DoDD 5205.07 (2010) Enclosure 2 para 5 permits the Secretary to 'designate select unacknowledged SAPs as waived in accordance with Reference (c)' - Reference (c) being 10 U.S.C. 119.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -797,6 +820,7 @@
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "10 U.S.C. 119(e) is the waiver: 'The Secretary of Defense may waive any requirement under subsection (a), (b), or (c) that certain information be included in a report under that subsection if the Secretary determines that inclusion of that information in the report would adversely affect the national security.' Where it is exercised, 'the Secretary shall provide the information described in that subsection with respect to the special access program concerned, and the justification for the waiver, jointly to the chairman and ranking minority member of each of the defense committees.' Read directly from the OLRC text on 22 August 2026.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -823,6 +847,7 @@
 "label": "Waived SAP Notification Group",
 "note": "The waiver mechanism at 10 U.S.C. 119(e)(1) does not eliminate reporting; it redirects it. Whatever the Secretary withholds from the report goes instead to these twelve members under 119(e)(2), together with the justification for withholding.",
 "predicate": "reports_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -854,6 +879,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Entitlement is bounded by characterisation: section 119 reaches only activity the Department treats as a DoD special access program. Activity held outside that characterisation is outside the group's statutory sight line entirely.",
 "predicate": "oversaw",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

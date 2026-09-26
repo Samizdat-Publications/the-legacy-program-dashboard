@@ -48,6 +48,7 @@
 "label": "Litigation",
 "note": "The dismissal in Cash v. United States and the withholding sustained in CAUS v. NSA together define the practical ceiling on judicial remedies in this field.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -58,7 +59,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -74,6 +75,7 @@
 "label": "Witness Chain",
 "note": "DODIG-2023-109 exists because personnel used the Inspector General channel; the legal domain determines which disclosures are protected and which are prosecutable.",
 "predicate": "affects",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

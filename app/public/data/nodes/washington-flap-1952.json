@@ -47,6 +47,7 @@
 "label": "H. Marshall Chadwell",
 "note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Haines records the escalation from the summer 1952 sightings through Chadwell's memoranda to the January 1953 panel.",
 "predicate": "acknowledged",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was acknowledged by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -99,6 +101,7 @@
 "label": "Project Blue Book",
 "note": "Blue Book case documentation for the 19 July 1952 Washington radar events survives; 1952 produced the largest single-year report volume of the program's history.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "A",
 "type": "temporal",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -130,6 +133,7 @@
 "label": "Walter Bedell Smith",
 "note": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer.",
 "predicate": "responded_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

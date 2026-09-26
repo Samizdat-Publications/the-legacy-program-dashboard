@@ -47,6 +47,7 @@
 "label": "Air Force Office of Special Investigations",
 "note": "The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "Confirmed independently this session from the NICAP reproduction. The record establishes that uniformed personnel guarding a nuclear weapons storage area reported objects they could not identify and that a file was opened. It establishes nothing about what the objects were.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -130,6 +133,7 @@
 "label": "Richard C. Doty",
 "note": "Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -156,6 +160,7 @@
 "label": "Sandia National Laboratories",
 "note": "A Sandia guard reported a round disc-shaped object near an alarmed structure at approximately 00:20 on 9 August 1980, with radio malfunction.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

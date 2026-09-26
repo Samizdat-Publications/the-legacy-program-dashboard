@@ -53,6 +53,7 @@
 "label": "Official Denial",
 "note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "United States Air Force",
 "note": "The statement is an Air National Guard one, made by a named unit spokesman about his own unit's sorties.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -89,7 +91,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "concerns"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

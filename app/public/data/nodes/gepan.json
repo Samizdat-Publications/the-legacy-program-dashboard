@@ -47,6 +47,7 @@
 "label": "Dr Claude Poher",
 "note": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Institut des Hautes Études de Défense Nationale (IHEDN)",
 "note": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "National Security Agency",
 "note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

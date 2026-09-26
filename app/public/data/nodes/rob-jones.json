@@ -51,6 +51,7 @@
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "Named in the on-screen credits of the 4 August 2026 episode.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -77,6 +78,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

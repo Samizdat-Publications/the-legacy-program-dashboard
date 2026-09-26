@@ -62,6 +62,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Credited with two of the 38 AAWSAP deliverables: 'Advanced Nuclear Propulsion for Manned Deep Space Missions' (11 March 2010) and 'Negative Mass Propulsion' (3 January 2011, DIA-08-1101-023). Both released texts name AAWSAP. The work was contracted through the DIA/BAASS chain, not performed as a DIA employee. Tier 2: both documents have their 'Author' field redacted under FOIA exemption (b)(6), so the attribution rests on DIA's separate list of deliverables.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -98,6 +99,7 @@
 "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
 "note": "Named as author on the DIA list of 38 AAWSAP products transmitted to the Senate Armed Services Committee, 9 January 2018, item 2. The released PDF redacts the author under (b)(6); the DIA list is the controlling source.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -139,6 +141,7 @@
 "label": "Negative Mass Propulsion",
 "note": "The DIA congressional list credits 'Negative Mass Propulsion' to 'Dr F Winterberg, Univ of Nevada-Reno'. Winterberg is also credited on the same list with 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and published related negative-mass propulsion work in the Journal of the British Interplanetary Society in 2011.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

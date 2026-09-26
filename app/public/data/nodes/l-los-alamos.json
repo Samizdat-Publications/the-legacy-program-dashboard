@@ -47,6 +47,7 @@
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list names the Director, Los Alamos Scientific Laboratory, with two attention lines including 'Helen Redman, Report Library'.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Los Alamos Green Fireballs Conference",
 "note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Harald B. Malmgren",
 "note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -130,6 +133,7 @@
 "label": "White Sands Missile Range, New Mexico",
 "note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.",
 "predicate": "concurrent_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -156,6 +160,7 @@
 "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
 "note": "A local daily, naming the Los Alamos Meson Physics Facility.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -84,6 +84,7 @@
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
 "note": "CAPCO Register v5.1 moved the Special Access Required marking into a new Special Access Program Markings category following the SCI control markings, with the indicator 'SPECIAL ACCESS REQUIRED-' or 'SAR-'.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -94,7 +95,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -110,6 +111,7 @@
 "label": "32 CFR Part 117 - NISPOM Rule",
 "note": "32 CFR 117.3(b) defines SAP as a program controlling access and distribution 'beyond that normally required for TOP SECRET, SECRET, or CONFIDENTIAL information'.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -136,6 +138,7 @@
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "note": "The glossary of the 12 September 2024 directive substitutes 'Joint Force Integration SAP' and 'Strategic Enabler SAP' and contains none of the four prior terms.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -162,6 +165,7 @@
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "Section 4.3(a) names the six officials who may create a SAP; the DoD taxonomy of acknowledged, unacknowledged and waived operates entirely below that grant.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -193,6 +197,7 @@
 "label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "note": "",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -219,6 +224,7 @@
 "label": "Pub. L. 118-159 secs. 6602 & 6603 - CAP funding cutoff and the CAP-to-SAP transfer bar",
 "note": "Tier 3 because this is a reading of what the amendment does to the taxonomy, not a quotation about it. Sec. 6603's new 50 U.S.C. 3091a(b)(2)(A) bars the head of an IC element from transferring a capability out of a controlled access program, subject to the two exits at (B). The categories on this board are not merely descriptive after December 2024: Congress attached a statutory consequence to which box a capability sits in, which is what makes the CAP/SAP distinction load-bearing rather than nomenclature. The verbatim text of both subparagraphs is on the amendment node.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -229,7 +235,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -245,6 +251,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDI 5205.11 defines a waived SAP as 'An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.'",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

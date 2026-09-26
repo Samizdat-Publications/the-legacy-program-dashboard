@@ -53,6 +53,7 @@
 "label": "Battelle Memorial Institute",
 "note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "National Aeronautics and Space Administration",
 "note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -89,7 +91,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "was contracted by"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -105,6 +107,7 @@
 "label": "United States Navy",
 "note": "The Naval Ordnance Laboratory was a Navy laboratory; the 55-Nitinol patent is assigned to the United States as represented by the Secretary of the Navy.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

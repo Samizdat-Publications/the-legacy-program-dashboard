@@ -47,6 +47,7 @@
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "note": "NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Ellsworth AFB, South Dakota",
 "note": "The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 2,
@@ -99,6 +101,7 @@
 "label": "Grand Forks AFB, North Dakota",
 "note": "The alert-ramp incident is cited from message traffic this board has not opened in its own text, so the edge is Tier 2.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -125,6 +128,7 @@
 "label": "Loring AFB, Maine",
 "note": "The NMCC memorandum records SAC informing NORAD of the penetration and the SAC Command Center reporting back on the failed National Guard search, citing SAC CP OPS CONTROL 291954Z OCT 75.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -156,6 +160,7 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "SAC Headquarters called in OOAMA support for the Echo Flight engineering analysis within hours on 16 March 1967; the 1975 NORAD log is largely a record of calls from the 341st Strategic Air Command Post.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -187,6 +192,7 @@
 "label": "Minot AFB, North Dakota",
 "note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -218,6 +224,7 @@
 "label": "F. E. Warren AFB, Wyoming",
 "note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -249,6 +256,7 @@
 "label": "Wurtsmith AFB, Michigan",
 "note": "The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian's 1979 file is the wing's own record of the omission.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -280,6 +288,7 @@
 "label": "United States Air Force",
 "note": "Asserted from the primary records themselves, which route SAC reporting through Air Force channels: the NMCC memorandum's distribution includes CSAF, and the 341st SMW history records SAC Headquarters tasking Ogden Air Materiel Area.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

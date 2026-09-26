@@ -53,6 +53,7 @@
 "label": "Secrecy Law & Classification",
 "note": "The domain description already names this Act as one of the three statutory layers of the secrecy architecture and the board carried no node for it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "Federation of American Scientists",
 "note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was reported on by"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 2,
@@ -110,6 +112,7 @@
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -136,6 +139,7 @@
 "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "note": "Two statutory instruments of the same architecture, one hiding an invention and the other hiding an expenditure; the pairing is the board's argument, not either statute's text.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

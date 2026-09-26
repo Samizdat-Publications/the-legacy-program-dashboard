@@ -68,6 +68,7 @@
 "label": "Executive Office of the President",
 "note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +105,7 @@
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -135,6 +137,7 @@
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

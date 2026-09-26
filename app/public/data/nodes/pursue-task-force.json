@@ -47,6 +47,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Burlison warned that it is uncertain whether the NDA abrogation applies to testimony given to Congress before referral to the executive branch - a witness routed to PURSUE may be routed away from a hearing room.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -78,6 +79,7 @@
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The memorandum directs release of all IC UAP information to the 'PURSUE Task Force for review and declassification' - the first paper instrument naming PURSUE as a body rather than a website.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The amendment's Senate-confirmed Records Review Board is the constitutional answer to a task force exercising declassification authority with no published charter.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -119,7 +122,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

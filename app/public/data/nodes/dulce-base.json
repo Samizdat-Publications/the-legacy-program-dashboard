@@ -67,6 +67,7 @@
 "label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
 "note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +94,7 @@
 "label": "Milton William Cooper",
 "note": "Cooper carried the frame of alien bases built under Indian reservations in the Four Corners area to a mass audience from 1989. The string 'Dulce' occurs zero times in the forty-nine pages, which were extracted and searched in full. Tier 3 because attaching his frame to this specific site is inference and not text, and an edge worded any more strongly would contradict its own source.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -103,7 +105,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -119,6 +121,7 @@
 "label": "Disinformation & Fabricated Documents",
 "note": "It belongs in this domain on its own evidence rather than by association with the Bennewitz operation, because the confession describes the deliberate manufacture of apparent independent corroboration.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,6 +148,7 @@
 "label": "Psychological Operations & Perception Management",
 "note": "The board already places the Bennewitz operation here. The Dulce hub is where that operation's output, and a great deal of material that has nothing to do with it, converged.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -176,6 +180,7 @@
 "label": "Project Gasbuggy, 10 December 1967",
 "note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -202,6 +207,7 @@
 "label": "John Greenewald Jr.",
 "note": "The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -228,6 +234,7 @@
 "label": "John Olsen Lear",
 "note": "Hayakawa's chronology dates Lear's hypothesis to 1988 and names his source as Ann West, the same name Levesque gives as the raw material of the original articles. Two entry points into the literature appear to run back through one person.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -254,6 +261,7 @@
 "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
 "note": "Tier 3 because the siting is the claim's own assertion and nothing else. The place node is kept separate from the claim node deliberately, and no archuleta-mesa node should be created: the mesa is carried in the location node's label.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -264,7 +272,7 @@
 ],
 "tier": "C",
 "type": "geographic",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -280,6 +288,7 @@
 "label": "Norio Hayakawa",
 "note": "Typed investigative rather than denial because it is a researcher's negative finding rather than an interested party's rebuttal. Hayakawa is a proponent of investigating the subject, not a professional debunker of it, which is what makes the negative worth more than a debunker's. Self-published, so Tier 2.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -306,6 +315,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "Bennewitz is the first person to attach a facility claim to Dulce, from about 1979, in the dated chronology of the cluster's originators, and he connected Myrna Hansen's 1980 account to it after he had begun to suspect a site there. The edge records that he asserted it and nothing more.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -332,6 +342,7 @@
 "label": "Philip Schneider",
 "note": "Seven levels, over 2.5 miles deep, a firefight in which he says he shot two aliens and roughly seventy people died. He was not part of the initial rumours and arrived about fifteen years after they began. Transcript hosted without a named transcriber; the lecture recording carries no captions.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -363,6 +374,7 @@
 "label": "Richard C. Doty",
 "note": "A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -389,6 +401,7 @@
 "label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
 "note": "A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -420,6 +433,7 @@
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -446,6 +460,7 @@
 "label": "Thomas Edwin Castello (fabricated)",
 "note": "The edge records that the claim was made and circulated under this name. The node it runs from records that the man who wrote the original articles says he invented the name. Both halves are needed: deleting the edge would leave the downstream literature unexplained, and leaving it untyped would let a fabricated witness read as a witness.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -461,7 +476,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

@@ -47,6 +47,7 @@
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "The underlying FOIA request of 31 January 2003 sought records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Kecksburg, Westmoreland County, Pennsylvania",
 "note": "The claimed recovery occurred in woodland at Kecksburg, Westmoreland County, Pennsylvania, on the evening of 9 December 1965.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Shag Harbour incident, 4 October 1967",
 "note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 2,
@@ -125,6 +128,7 @@
 "label": "Stan Gordon",
 "note": "Gordon collected local first-hand accounts over four decades, supplying the witnesses used by Unsolved Mysteries (1990) and the Sci Fi Channel documentary (2003).",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

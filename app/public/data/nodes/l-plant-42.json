@@ -35,6 +35,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Reasoning: Knapp specified California and Lockheed; Lockheed's California SAP-accredited aeronautics footprint is concentrated at Palmdale. No witness has named a site and the board does not assert one.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -45,7 +46,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is the location of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -61,6 +62,7 @@
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -87,6 +89,7 @@
 "label": "Mark McCandlish",
 "note": "His testimony relays a further unnamed informant who says 'I work at the B-2 bomber facility out at Plant 42 in Palmdale and Lancaster'. Relayed, unnamed and uncorroborated; no record was opened.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,7 +100,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

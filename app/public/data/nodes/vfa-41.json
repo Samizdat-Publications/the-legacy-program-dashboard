@@ -35,6 +35,7 @@
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

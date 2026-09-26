@@ -69,6 +69,7 @@
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -95,6 +96,7 @@
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,6 +123,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

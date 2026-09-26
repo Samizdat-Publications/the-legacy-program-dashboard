@@ -35,6 +35,7 @@
 "label": "Greg Bishop",
 "note": "Authorship, typed research by rule. Bibliographic record is Tier 1: Paraview Pocket Books, 8 February 2005, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop's undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore's conduct, it does not degrade the record of the book's existence.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

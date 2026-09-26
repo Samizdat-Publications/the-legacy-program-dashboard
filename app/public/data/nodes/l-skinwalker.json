@@ -83,6 +83,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Reid and Sen. Ted Stevens secured roughly $22 million in Defense appropriations after Bigelow relayed Lacatski's ranch experience. BAASS, headquartered in Las Vegas, won the contract.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,7 +99,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -114,6 +115,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "AARO confirms the investigation; DIA says it cannot locate the resulting 'Utah Ranch Investigation: August 2009-February 2010' report.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -145,6 +147,7 @@
 "label": "Colm A. Kelleher",
 "note": "Sixteen years of continuous field presence across a private and then a federally funded program.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -171,6 +174,7 @@
 "label": "James T. Lacatski",
 "note": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -197,6 +201,7 @@
 "label": "Uintah Basin, Utah",
 "note": "The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, inside a region with a folk reporting record dating to the 1970s.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -223,6 +228,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Bigelow moved in a research team, surveillance equipment and full-time caretakers immediately after the purchase.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -254,6 +260,7 @@
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "NIDS investigators including retired Army Col. John B. Alexander examined close to 100 incidents while conceding they could not obtain publishable evidence.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -280,6 +287,7 @@
 "label": "Robert T. Bigelow",
 "note": "The Deseret News reported the sale in June 1996 and Bigelow confirmed in August 1998 that the Shermans had agreed as a condition of purchase to keep quiet about what they had witnessed.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -321,6 +329,7 @@
 "label": "Travis S. Taylor",
 "note": "The same person applied near-identical sensing methodology inside the classified task force and on a television production at the property NIDS and BAASS had studied, with no public account of any relationship between the two efforts.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -331,7 +340,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 }
 ],
 "coords": [

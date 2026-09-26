@@ -53,6 +53,7 @@
 "label": "CIA Office of Policy Coordination",
 "note": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "note": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "National Security Council",
 "note": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
 "note": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

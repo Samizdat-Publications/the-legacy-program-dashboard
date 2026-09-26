@@ -41,6 +41,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "'Official Air Force records documenting it are now held by AARO and the FBI.' A specific, FOIA-targetable custody claim that neither agency has confirmed or denied.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to have material held by"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -67,6 +68,7 @@
 "label": "Jeffrey Nuccetelli",
 "note": "Nuccetelli testified to reports of a glowing red square over two missile defense sites on 14 October 2003 and a triangular craft over the main base in 2005.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

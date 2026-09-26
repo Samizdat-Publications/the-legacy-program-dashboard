@@ -92,6 +92,7 @@
 "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
 "note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -118,6 +119,7 @@
 "label": "Estimate of the Situation (1948)",
 "note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -149,6 +151,7 @@
 "label": "Project Blue Book",
 "note": "Ruppelt directed the project from March 1952 to August 1953, covering the Washington flap and the Robertson Panel, and later published the only insider account of the period.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -180,6 +183,7 @@
 "label": "Robertson Panel",
 "note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

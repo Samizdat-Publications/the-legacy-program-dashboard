@@ -104,6 +104,7 @@
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -155,6 +156,7 @@
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "note": "The DIA congressional list credits 'Quantum Computing and Utilizing Organic Molecules in Automation Technology' to 'Dr R Genik, Wayne State Univ'. Genik is credited elsewhere on the same list with the brain-machine interface deliverable on controlling external devices without limb-operated interfaces, making him a multi-product AAWSAP contributor.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -201,6 +203,7 @@
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
 "note": "DIA list item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\" The KLAS-TV list of July 2018 gives the same document the plainer title \"Brain-Machine Interfaces.\"",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -247,6 +250,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "The DIA congressional list records Wayne State University as the affiliation for both Genik's deliverables and for Kit Green's human biological tissue field-effects deliverable. This establishes a documented shared institutional affiliation on the same contract, not a documented working relationship — no primary source describing collaboration between them has been located, and the edge should not be read as one.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -267,7 +271,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -283,6 +287,7 @@
 "label": "Wayne State University",
 "note": "Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

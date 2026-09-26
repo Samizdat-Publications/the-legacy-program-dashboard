@@ -142,6 +142,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "'I located Dr. Duxler. He's a Pierce Junior College physics prof, and never taught at Caltech.' Duxler checked his own records and told Friedman Lazar had taken at least one of his Pierce classes in the late 1970s.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -168,6 +169,7 @@
 "label": "Jesse A. Marcel Sr.",
 "note": "Friedman was put in touch with the retired Lt. Col. Marcel in Baton Rouge and obtained his statement that the weather balloon account was a cover. Attested by Friedman on the record and repeated by Marcel in filmed interviews.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -194,6 +196,7 @@
 "label": "Kevin D. Randle",
 "note": "Friedman held there were no substantive grounds for dismissing the core documents while himself proving parts of the corpus faked; Randle concluded the whole was not authentic. Neither position has been settled by any released record.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -204,7 +207,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "contradicts"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -220,6 +223,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "The sceptic edge that matters most, because Friedman spent his career arguing that UFOs are real craft. He is an interested party FOR the subject, arguing against this witness, which is why his finding carries the weight it does.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -246,6 +250,7 @@
 "label": "William L. Moore",
 "note": "Friedman became aware of the MJ-12 documents through Moore and Jaime Shandera in 1984 and defended their core authenticity through 'Top Secret/Majic' (1996).",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

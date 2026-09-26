@@ -42,6 +42,7 @@
 "label": "Executive Policy & Directives",
 "note": "DoDD 5205.07 is the directive-layer implementation of authority that derives from executive order rather than statute.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -68,6 +69,7 @@
 "label": "Special Access Programs",
 "note": "10 U.S.C. 119 and DoDD 5205.07 are the legal and policy instruments that create the special access programme category; the SAP domain is the applied form of the secrecy-law domain.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -99,6 +101,7 @@
 "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "note": "Section 1 bars any designation other than Top Secret, Secret and Confidential 'except as expressly provided by statute'. Section 2 provides that agencies without direct national-defense responsibility have no original classification authority at all, and the attached memorandum names 28 of them.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "Executive Order 12356 - National Security Information (2 April 1982)",
 "note": "Section 1.6(c) permits reclassifying information 'previously declassified and disclosed' where it is determined in writing that it needs protection and 'may reasonably be recovered'; 1.6(d) permits classification or reclassification after a FOIA, Privacy Act or mandatory-review request has been received.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -151,6 +155,7 @@
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "note": "The domain description already names this Act as one of the three statutory layers of the secrecy architecture and the board carried no node for it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -182,6 +187,7 @@
 "label": "Project BLUEBIRD",
 "note": "The proposal states on its face that it goes directly to the Director rather than through the Projects Review Committee because of the project's sensitivity, and asks that knowledge be held to the absolute minimum number of persons.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -208,6 +214,7 @@
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "The board's suppression argument usually runs through classification; PRP is the administrative alternative, a published rule that can remove a person from his job without any classification decision at all.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -218,7 +225,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

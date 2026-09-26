@@ -65,6 +65,7 @@
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "ARVP (arvp.co.uk), the Flux Liner project site",
 "note": "The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "'Brad' Sorensen",
 "note": "The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -148,6 +151,7 @@
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

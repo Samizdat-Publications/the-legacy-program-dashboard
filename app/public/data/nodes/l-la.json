@@ -41,6 +41,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Knapp testified that Bigelow negotiated with a senior Lockheed executive for unusual material safeguarded in California; analysis found no unknown elements but a composition suggesting fabrication in zero gravity. The agreement was never completed.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "The Black Vault",
 "note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

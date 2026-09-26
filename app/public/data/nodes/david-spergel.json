@@ -110,7 +110,8 @@
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "Spergel of the Simons Foundation chaired the 16-member panel.",
-"predicate": "led",
+"predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -121,7 +122,7 @@
 ],
 "tier": "A",
 "type": "research",
-"verb": "led"
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -137,6 +138,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -147,7 +149,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "was a member of"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -163,6 +165,7 @@
 "label": "NASA UAP Independent Study Team",
 "note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

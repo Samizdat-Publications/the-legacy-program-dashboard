@@ -91,6 +91,7 @@
 "label": "Anna Paulina Luna",
 "note": "'Thank you POTUS! As the Chairwoman of the Task Force that investigates these subjects, we are incredibly grateful.' The legislative and executive disclosure tracks converge here for the first time.",
 "predicate": "acknowledged",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -101,7 +102,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "was acknowledged by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -117,6 +118,7 @@
 "label": "Donald J. Trump",
 "note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -148,6 +150,7 @@
 "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -163,7 +166,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -179,6 +182,7 @@
 "label": "Pete Hegseth",
 "note": "Hegseth told reporters on 25 February 2026 the department would be in full compliance with 'that executive order' and would coordinate with ODNI, while declining to give a schedule.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -210,6 +214,7 @@
 "label": "Capitol UAP Disclosure Press Conference",
 "note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -241,6 +246,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "PURSUE stands entirely on the 20 February 2026 Truth Social post; no executive order has been published. ODNI ES 2026-00818 cites only 'Presidential Direction'.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -282,6 +288,7 @@
 "label": "Sean Parnell",
 "note": "Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive', framing PURSUE as interagency implementation rather than an AARO or congressional product.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

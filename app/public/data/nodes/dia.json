@@ -59,6 +59,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "DIA's Defense Warning Office housed the program office and its Virginia Contracting Activity issued the solicitation and award.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Adm. Bobby Ray Inman",
 "note": "Vice Director for Plans, Operations and Support of the Defense Intelligence Agency before the NSA directorship, in his own testimony.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "David Charles Grusch",
 "note": "Made at the 9 June 2026 Capitol press conference. DIA is the agency that housed AAWSAP and the historical thread most directly implicated in the legacy record; the allegation is specific to document production, not to phenomenon.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,6 +167,7 @@
 "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "The appropriation named DIA as the recipient agency to assess long-term and over-the-horizon foreign advanced aerospace threats.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -189,6 +194,7 @@
 "label": "Advanced Nuclear Propulsion for Manned Deep Space Missions",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -220,6 +226,7 @@
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -251,6 +258,7 @@
 "label": "Aerospace Applications of Programmable Matter",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -282,6 +290,7 @@
 "label": "An Introduction to the Statistical Drake Equation",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -313,6 +322,7 @@
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-003)",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -344,6 +354,7 @@
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -375,6 +386,7 @@
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -406,6 +418,7 @@
 "label": "Antigravity for Aerospace Applications",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -437,6 +450,7 @@
 "label": "Laser Lightcraft Nanosatellites",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -468,6 +482,7 @@
 "label": "Negative Mass Propulsion",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -499,6 +514,7 @@
 "label": "Pulsed High-Power Microwave Source Technology",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -535,6 +551,7 @@
 "label": "Space Access: Where We've Been and Where We Could Go",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -566,6 +583,7 @@
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -597,6 +615,7 @@
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -628,6 +647,7 @@
 "label": "The Role of Superconductors in Gravity Research",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -659,6 +679,7 @@
 "label": "The Space-Communication Implications of Quantum Entanglement and Nonlocality",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -690,6 +711,7 @@
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -726,6 +748,7 @@
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -762,6 +785,7 @@
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "INSCOM's letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.",
 "predicate": "transferred",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -788,6 +812,7 @@
 "label": "James T. Lacatski",
 "note": "Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release — a records posture aimed at breaking the link between office and person.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -803,7 +828,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "leaves out"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -819,6 +844,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. DIA, which holds documented UAP equity, transferred nothing.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -845,6 +871,7 @@
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names DIA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -855,7 +882,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "reports to"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 3,
@@ -871,6 +898,7 @@
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The Director of the Defense Intelligence Agency is an addressee of ES 2026-00818; DIA has no RG 615 series as of 12 August 2026.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -886,7 +914,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -902,6 +930,7 @@
 "label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
 "note": "DIA tells USD(AT&L) the reports were of limited value to DIA but could merit other organisations and the project could move to a better-suited component.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -928,6 +957,7 @@
 "label": "Radiance Technologies, Inc.",
 "note": "Reasoning: roughly $2.6 billion in prime obligations since FY2008 across intelligence, sensors and advanced concepts. Radiance recurs in UAP-adjacent reporting as an employer of personnel who moved between government UAP work and industry, but no primary personnel record has been located and none is asserted.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -938,7 +968,7 @@
 ],
 "tier": "C",
 "type": "funding",
-"verb": "contracted"
+"verb": "linked through money"
 },
 {
 "claimTier": 1,
@@ -954,6 +984,7 @@
 "label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
 "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States. In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009... The contract for this DIA-managed program was awarded to a private sector organization.' AARO is an interested party in its own institutional history, which is why this is tier 2.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -985,6 +1016,7 @@
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "note": "DIA could locate neither the 19 June 2007 Lacatski letter nor the 'Utah Ranch Investigation: August 2009-February 2010' report, in a program contractually required to file monthly status reports.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1016,6 +1048,7 @@
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "The effort moved to DIA's Scientific and Technical Intelligence Directorate as SUN STREAK in late 1985 and was consolidated as STAR GATE in 1991.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1042,6 +1075,7 @@
 "label": "SUN STREAK",
 "note": "DIA's prior experience running an unacknowledged programme in a ridiculed domain is the institutional precedent for its 2008 AAWSAP contract.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1073,6 +1107,7 @@
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "note": "DIA is the addressee of the report and the agency whose 1996 records search located it as the single responsive document.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

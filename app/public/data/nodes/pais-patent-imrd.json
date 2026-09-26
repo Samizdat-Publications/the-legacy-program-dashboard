@@ -125,6 +125,7 @@
 "label": "The five observables (UAP performance taxonomy)",
 "note": "US 10,144,532 is the patent application arising from PAX 205 and claims the mechanism the briefing offers for the four mapped observables.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -135,7 +136,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -151,6 +152,7 @@
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "note": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -177,6 +179,7 @@
 "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "note": "PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -187,7 +190,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -203,6 +206,7 @@
 "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
 "note": "Both are the inertial mass reduction device; the briefing carries the Navy case number PAX 205 and the patent is the filing that resulted.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -229,6 +233,7 @@
 "label": "Salvatore Cezar Pais",
 "note": "Application 15/141270, assigned to the Secretary of the Navy.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -255,6 +260,7 @@
 "label": "United States Navy",
 "note": "THE SPONSORSHIP IS PRINTED, NOT INFERRED, AND IT IS THE TEST THAT KEEPS KING OUT OF THE PATENTS VIEW. The front page carries '(73) Assignee: The United States of America as represented by the Secretary of the Navy, Washington, DC (US)', '(74) Attorney, Agent, or Firm - Mark O Glut; NAWCAD' and 'Primary Examiner - Philip J Bonzell'. US 3,322,374 by contrast carries no assignee line at all.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

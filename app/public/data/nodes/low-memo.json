@@ -47,6 +47,7 @@
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "'The trick would be, I think, to describe the project so that, to the public, it would appear a totally objective study but, to the scientific community, would present the image of a group of nonbelievers.'",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -73,6 +74,7 @@
 "label": "James E. McDonald",
 "note": "McDonald received the memo from project staff and it reached John Fuller, who published it in Look in May 1968 as 'Flying Saucer Fiasco'.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Boulder, Colorado",
 "note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "denied"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -125,6 +128,7 @@
 "label": "Robert J. Low",
 "note": "Written 9 August 1966 to University of Colorado administrators, before the 6 October 1966 project formation — the design predates the data.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

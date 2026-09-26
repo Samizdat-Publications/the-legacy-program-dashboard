@@ -59,6 +59,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "GENUINE CUSTODY: a hosting archive holding files. Includes the negative finding that the FBI denies holding records of the 2017 raid within its United Nuclear file.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "The Black Vault is the host of the released scan.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -142,6 +145,7 @@
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "The FAA said in 2001 the records would be destroyed in thirty days and in 2009 that they had been; over 1,500 pages were then found at the National Archives in RG 237, archival identifier 733667.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,6 +177,7 @@
 "label": "John Greenewald Jr.",
 "note": "Nearly every document in this domain arrived through his requests.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -199,6 +204,7 @@
 "label": "Los Angeles and Burbank, California",
 "note": "John Greenewald Jr.'s requests produced the GVSC/TTSA correspondence denial and much of the released AARO record.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -230,6 +236,7 @@
 "label": "Operação Prato (Operation Saucer)",
 "note": "A file titled 'Operação Prato', written by the US journalist Bob Pratt, is served publicly in the MUFON/Pratt document set at documents.theblackvault.com. It opens: 'Operação Prato, a Brazilian Air Force investigation of a prolonged UFO flap in 1977-78'. It names Captain Uyrangê Hollanda and his six sergeants, names Brigadier Protázio Lopes de Oliveira as the Belém base commander who shut the operation down after four months, and describes the interviews of hundreds of witnesses in Colares and about thirty other villages. This is the concrete answer to whether Prato material reached US hands: it did, through a working reporter, and it is now in the same FOIA archive that carries the Elizondo and Grusch-era US paper.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -261,6 +268,7 @@
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "note": "The Black Vault hosts the released document and its covering letter.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -287,6 +295,7 @@
 "label": "Capitão Uyrangê Bolívar Soares Nogueira de Hollanda Lima",
 "note": "Basterfield records that Pratt 'visited Colares for the first time in February 1979, then twice after that. He interviewed Captain Uyrange Hollanda, who had led the official investigation in the Colares region. Pratt was later able to secure brief summaries of 281 incidents in Colares and surrounding areas, plus maps, and twenty photographs.' Hollanda told him his team 'took about three hundred photos and we photographed eight different types of UFOs.' Tier 2: the interview and the 281 summaries are reported by a named researcher quoting Pratt's 1996 book, and the Pratt file at The Black Vault is the surviving public artefact of that chain.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -307,7 +316,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 }
 ],
 "coords": null,

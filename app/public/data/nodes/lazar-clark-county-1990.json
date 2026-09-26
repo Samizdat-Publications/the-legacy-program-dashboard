@@ -55,6 +55,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "THE SPINE. The Pre-Sentence Report lists a 1978 Pacifica University BS, a 1982 MIT MS and a 1985 Caltech MS, none of which any institution confirms. Tier 1 for what the document shows, which is what he reported about himself to a court, and this is why the credential question is evidence rather than rumour.",
 "predicate": "contradicts",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -81,6 +82,7 @@
 "label": "Tom Mahood",
 "note": "GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

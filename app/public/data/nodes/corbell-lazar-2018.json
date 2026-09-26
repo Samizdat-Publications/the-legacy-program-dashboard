@@ -41,6 +41,7 @@
 "label": "George Knapp",
 "note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect.",
 "predicate": "reported_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "reported on"
+"verb": "linked through media coverage"
 }
 ],
 "coords": null,

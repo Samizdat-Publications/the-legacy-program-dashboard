@@ -65,6 +65,7 @@
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "50 U.S.C. 3091(e) bars withholding from the intelligence committees on classification grounds, but binds only as to 'intelligence activities' and only for those committees, leaving DoD acquisition and operations and support SAPs outside it.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -75,7 +76,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -91,6 +92,7 @@
 "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -106,7 +108,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "linked through law"
 }
 ],
 "coords": null,

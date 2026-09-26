@@ -53,6 +53,7 @@
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Harold E. Puthoff",
 "note": "This is the earliest dated documentary link between Puthoff and a US-sponsored effort to characterise fields associated with 'exotic propulsion' - nine months before the AAWSAP contract was awarded to BAASS.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -89,7 +91,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -105,6 +107,7 @@
 "label": "Christopher C. 'Kit' Green",
 "note": "Green, a physician-neuroscientist and former CIA life-sciences analyst, wrote the study of injuries attributed to proximity to anomalous craft; released publicly by Popular Mechanics on 14 February 2020.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

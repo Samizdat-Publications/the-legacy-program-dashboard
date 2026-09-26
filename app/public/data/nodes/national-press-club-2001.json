@@ -59,6 +59,7 @@
 "label": "Clifford E. Stone",
 "note": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -85,6 +86,7 @@
 "label": "Independent media as the disclosure substrate",
 "note": "ABC News reported it on 9 May 2001 with a sceptical comment from its own space consultant. The far larger audience figures that circulate come from the Project's own publicity and are not carried.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Daniel P. Sheehan",
 "note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -126,7 +129,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "featured"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -142,6 +145,7 @@
 "label": "The Disclosure Project",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -173,6 +177,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -204,6 +209,7 @@
 "label": "John Callahan",
 "note": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -214,7 +220,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "featured"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -230,6 +236,7 @@
 "label": "Steven M. Greer",
 "note": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

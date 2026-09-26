@@ -62,6 +62,7 @@
 "label": "Central Intelligence Agency",
 "note": "Three offices, each taken from a separate opened document rather than from a biography.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -88,6 +89,7 @@
 "label": "Records & Archives",
 "note": "The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -114,6 +116,7 @@
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "The Church Committee text reprinted in the 1977 hearing print states the drug was placed in the bottle by Robert Lashbrook as part of an experiment he and Sidney Gottlieb performed at a meeting of Army and CIA scientists.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,6 +143,7 @@
 "label": "Project MKULTRA",
 "note": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

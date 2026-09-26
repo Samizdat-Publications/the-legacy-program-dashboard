@@ -59,6 +59,7 @@
 "label": "General Dynamics Corporation",
 "note": "The series names Convair of San Diego among the aircraft industry firms participating or actively interested in gravity, and photographs a Convair division senior research engineer conducting a gravity-control experiment. Tier 2 because the articles name Convair and not General Dynamics, and the identification of the two in November 1955 is not something the document states.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -85,6 +86,7 @@
 "label": "George S. Trimble",
 "note": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,6 +113,7 @@
 "label": "Gordon Gray",
 "note": "The series records that the UNC gravity institute was approved with Gray's approval and that he had by then retired as president of the university.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -137,6 +140,7 @@
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The series reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics, names Bahnson as fundraiser and records the directorship offered to Bryce S. DeWitt.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,6 +167,7 @@
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -189,6 +194,7 @@
 "label": "Sperry Rand Corporation",
 "note": "The series names the Sperry Gyroscope Division of Sperry-Rand Corp. among the firms with scientists investigating the gravity problem, which is a documented attachment for a node the 30 August pass left deliberately unattached.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -103,6 +103,7 @@
 "label": "Conventional Prompt Global Strike",
 "note": "Sheehan named this programme on episode 224 as the destination of reverse-engineered propulsion; the CRS report on it contradicts the claim and this edge exists to carry the contradiction rather than the claim.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,6 +130,7 @@
 "label": "Luis D. Elizondo",
 "note": "The legal channel through which prepublication review and non-disclosure constraints on a former programme director are being contested.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -139,7 +141,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -155,6 +157,7 @@
 "label": "Michael R. Turner",
 "note": "Sheehan is the only named participant to describe the conference demands; his account is corroborated by the statutory text but not by any released conference record.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,7 +168,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -181,6 +184,7 @@
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -196,7 +200,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "appeared on"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 1,
@@ -212,6 +216,7 @@
 "label": "New Paradigm Institute",
 "note": "NPI is Sheehan's vehicle for the UAPDA campaign and the UAP Transparency Pledge.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -238,6 +243,7 @@
 "label": "Steven M. Greer",
 "note": "Recorded because it links the movement's current legal strategist to its most contested figure, a connection hostile reviewers will use.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -248,7 +254,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 }
 ],
 "date": "2023-11-27",

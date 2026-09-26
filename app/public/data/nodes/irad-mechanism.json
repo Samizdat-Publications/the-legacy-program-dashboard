@@ -41,6 +41,7 @@
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -67,6 +68,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "note": "Section 8009 attaches to funds appropriated by the Act; contractor IR&D is reimbursed as an allowable indirect cost across a contract portfolio rather than appropriated to a programme. Reasoned inference from the structure of both instruments.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -103,7 +106,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

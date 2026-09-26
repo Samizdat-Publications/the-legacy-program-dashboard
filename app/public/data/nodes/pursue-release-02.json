@@ -53,6 +53,7 @@
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The FY2024 report attributes AARO's analytic constraint to sensor-data scarcity nineteen months before the same department published 51 sensor videos in a single tranche, all of incidents predating the report.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -68,7 +69,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was denied by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 3,
@@ -84,6 +85,7 @@
 "label": "Anna Paulina Luna",
 "note": "Release 02 is the only tranche with an identified congressional trigger - Luna's April 2026 letter - and the letter itself has not been published.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "responded to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -110,6 +112,7 @@
 "label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
 "note": "A serving senior intelligence officer's first-person narrative of a one-hour, multi-witness encounter, published under an ODNI document number five months after the event.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -136,6 +139,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "64 files including 51 sensor videos in a DOW-UAP-PR050 to PR099 series; the 5.6GB video bundle is the largest of the five.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

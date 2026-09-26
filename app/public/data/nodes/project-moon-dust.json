@@ -47,6 +47,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "A review commissioned to establish the historical record of USG involvement with UAP omits the named USG programmes whose charter was the recovery of unidentified fallen objects.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "Moon Dust - the programme for recovery of foreign space and aerospace debris - is named in the request as reproduced in the court's Background section.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "Operation BLUE FLY",
 "note": "The two codewords appear together in Air Force intelligence correspondence; MOON DUST was the collection authority and BLUE FLY the transport and custody leg.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -119,7 +122,7 @@
 ],
 "tier": "B",
 "type": "programmatic",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 3,
@@ -135,6 +138,7 @@
 "label": "Project Blue Book",
 "note": "Blue Book was the acknowledged investigative programme; MOON DUST was a separate, quieter recovery and exploitation tasking that was never advertised to the public that Blue Book served.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -150,7 +154,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -166,6 +170,7 @@
 "label": "1127th USAF Field Activities Group",
 "note": "The unit's own contents page lists Project MOON DUST at p.30 under FOREIGN MATERIEL PROGRAM. The page records SPADATS notifying the unit of the deorbit of 37 Soviet space objects -- notifications, not recoveries.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

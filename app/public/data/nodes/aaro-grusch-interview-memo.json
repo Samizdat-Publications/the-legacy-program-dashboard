@@ -67,6 +67,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Released under DoD FOIA case 24-F-0266. It documents both the refusals AARO cites and the fact that AARO worked through intermediaries and Senate staff for five months before making direct contact.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +94,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The memorandum for record of 8 January 2024 logs eight approaches between June 2023 and November 2023 and a missed 14 November interview.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +121,7 @@
 "label": "David W. Abba",
 "note": "Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, signed the memorandum AARO invoked in its invitations. SAPCO is the one office that could resolve the read-on denial and has never publicly addressed it.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,7 +132,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "cites"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -145,6 +148,7 @@
 "label": "David Charles Grusch",
 "note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

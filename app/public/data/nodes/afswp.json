@@ -65,6 +65,7 @@
 "label": "Atomic Energy Commission",
 "note": "The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The NARA record group description records AFSWP as an interservice agency from January to July 1947, under the National Military Establishment from July 1947 to August 1949, and under the Department of Defense from 1949 to 1959.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,6 +119,7 @@
 "label": "Lt. Gen. Leslie R. Groves",
 "note": "The agency's own chronology dates the appointment and the retirement to the day, and gives the promotion to Lieutenant General on 24 January 1948 while in post.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -143,6 +146,7 @@
 "label": "Neil H. McElroy",
 "note": "The ARPA history's footnote records that Rep. Scrivner objected to 'Special Projects Agency' as confusable with the OSD Office of Special Operations and the Armed Forces Special Weapons Project, and that McElroy promised a better name. This is the documented reason ARPA is called ARPA.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -153,7 +157,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "is cited by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -169,6 +173,7 @@
 "label": "Sandia National Laboratories",
 "note": "The agency history places AFSWP's training and assembly work at Sandia Base alongside AEC-controlled Z Division, and records that in March 1947 the AEC Santa Fe Office and AFSWP at Sandia Base divided security and intelligence responsibilities.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -179,7 +184,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is located at"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

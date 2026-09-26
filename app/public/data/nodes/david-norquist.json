@@ -60,6 +60,7 @@
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "Norquist, as USD(Comptroller)/CFO, wrote that 'In FY 2018, the Department underwent its first full-scope financial statement audit' and that the OIG 'issued a Disclaimer of Opinion'. Attested by his own signed message in the FY2018 Agency Financial Report.",
 "predicate": "oversaw",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -70,7 +71,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "oversaw"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -86,6 +87,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Norquist, as Deputy Secretary of Defense, formally approved the UAPTF on 4 August 2020; the Navy announced it on 14 August.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

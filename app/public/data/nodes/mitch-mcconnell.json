@@ -59,6 +59,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -85,6 +86,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

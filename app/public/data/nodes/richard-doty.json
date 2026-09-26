@@ -133,6 +133,7 @@
 "label": "Air Force Office of Special Investigations",
 "note": "Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -164,6 +165,7 @@
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -174,7 +176,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -190,6 +192,7 @@
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -216,6 +219,7 @@
 "label": "Richard Doty New Mexico State Police Personnel File [321 pages]",
 "note": "Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -242,6 +246,7 @@
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "A denial edge into the hub from the man usually cited as the hub's origin. In his own captured words: 'none of it's true every every aspect of that is false Paul was just was so infatuated with the subject of UFOs that he did this to himself'. Auto-captions, so the wording is approximate and marked as such.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -268,6 +273,7 @@
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "Complaint form dated 9 September 1980, District File No. 8017D93-0/29, 'alleged sighting of unidentified aerial lights in restricted test range'.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -294,6 +300,7 @@
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -304,7 +311,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -320,6 +327,7 @@
 "label": "Linda Moulton Howe",
 "note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -351,6 +359,7 @@
 "label": "Naval Criminal Investigative Service",
 "note": "Doty, a former AFOSI special agent, is the sole source for both NIS episodes recorded here, the Shandera handling and an NCIS role in the Kirtland contractor confrontation.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -377,6 +386,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "The board already carries the admission side, reported by Alejandro Rojas on 13 May 2014 in a piece that paraphrases throughout and quotes him nowhere. This edge adds the half that was missing: on camera to George Knapp he calls the harm narrative false 'in every aspect' and says Bennewitz 'did this to himself'. Both are his. Neither can be graded above Tier 2 and the board should carry both rather than choosing.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -423,6 +433,7 @@
 "label": "William L. Moore",
 "note": "Moore told the 1989 MUFON symposium that he had worked with Air Force counterintelligence in exchange for access, and had knowingly fed Bennewitz false material.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -438,7 +449,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 3,
@@ -454,6 +465,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Doty's documented AFOSI activity - feeding fabricated alien-technology material to a target to protect classified programmes - is the same technique Yankee Blue applied internally to cleared personnel. The inference is about method, not about Doty's involvement in Yankee Blue.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -479,7 +491,7 @@
 ],
 "tier": "B",
 "type": "behavioral",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "date": "1983-04-01",

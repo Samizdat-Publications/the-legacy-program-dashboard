@@ -41,6 +41,7 @@
 "label": "Garry P. Reid",
 "note": "Separate DoD IG investigations substantiated ethics and information-handling findings against Reid. Defense officials told The Debrief he 'played a central role in obfuscating information' about UAP.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "investigated"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 2,
@@ -67,6 +68,7 @@
 "label": "Luis D. Elizondo",
 "note": "Alleged 'malicious activities, coordinated disinformation, professional misconduct, whistleblower reprisal and explicit threats'. No public adjudication has been released.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Neill Tipton",
 "note": "Tipton originated the 'no assigned responsibilities' formulation in May 2019.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "Susan Gough",
 "note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

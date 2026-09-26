@@ -41,6 +41,7 @@
 "label": "2026 Disclosure Symposium",
 "note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -56,7 +57,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "is the subject of"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -72,6 +73,7 @@
 "label": "Roger F. Wicker",
 "note": "S. 4784 as reported returns zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373.",
 "predicate": "sponsored_law",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +84,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was sponsored by"
+"verb": "linked through law"
 },
 {
 "claimTier": 3,
@@ -98,6 +100,7 @@
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The House framework must survive conference against a Senate reported bill (S. 4784, S. Rept. 119-127) containing zero UAP provisions - the second consecutive cycle in which the subject is absent from the Senate base text. The 2023 precedent is that the eminent-domain and review-board provisions were stripped in conference.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

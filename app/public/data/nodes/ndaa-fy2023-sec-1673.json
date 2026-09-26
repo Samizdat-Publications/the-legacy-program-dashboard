@@ -71,6 +71,7 @@
 "label": "David Charles Grusch",
 "note": "Sec. 1673(a)(1)(B) creates a reporting channel for programmes involving 'material retrieval, material analysis, reverse engineering' — Congress legislating for a category of activity it does not officially acknowledge.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -81,7 +82,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -97,6 +98,7 @@
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1673(b)(3) requires agencies and contractors to deliver copies of all UAP nondisclosure orders to AARO; Sec. 1102(d) would have required the same parties to deliver the material itself.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -112,7 +114,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -128,6 +130,7 @@
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 1673 of P.L. 117-263 defines 'Office' by reference to Sec. 1683(a) and creates the authorized reporting mechanism administered by it.",
 "predicate": "implements",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -138,7 +141,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "implements"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -154,6 +157,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Sec. 1673(b)(1)(A) had already established that an authorized disclosure 'shall not be subject to a nondisclosure agreement'; the UAPDA extends that logic to records and material.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -169,7 +173,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "led to"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

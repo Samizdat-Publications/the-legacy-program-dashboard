@@ -53,6 +53,7 @@
 "label": "Loring AFB, Maine",
 "note": "Subject line 'AFB Penetration'; Loring AFB Maine named in paragraph 1.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "note": "Five numbered paragraphs plus four DDO updates, each citing its source message.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

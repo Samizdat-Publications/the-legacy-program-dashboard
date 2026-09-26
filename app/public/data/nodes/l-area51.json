@@ -47,6 +47,7 @@
 "label": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954-1974",
 "note": "It is the Agency's own account of the establishment and use of the Groom Lake site, and the 2013 release is the version in which the Area 51 references were left intact.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Groom Lake, Nevada",
 "note": "The operating location is carried on charts as Homey Airport and sits on the southwest shore of the Groom Lake salt flat inside R-4808N.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +101,7 @@
 "label": "Richard M. Bissell Jr.",
 "note": "On finding the site lay outside the proving ground he and Miller asked the Commission to add it to its Nevada holdings; Strauss agreed and Eisenhower approved the addition of the strip known by its map designation as Area 51.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Uses the board's existing l-area51 id. No node called area-51 was created.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -135,7 +139,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "linked in place or time"
 }
 ],
 "coords": [

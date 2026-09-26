@@ -86,6 +86,7 @@
 "label": "Lt. Gen. Arthur G. Trudeau",
 "note": "Corso's DA Form 66 places his Foreign Technology Division chieftaincy, 18 April to 18 July 1962, inside Trudeau's documented tenure as Chief of Research and Development.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -96,7 +97,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "reports to"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -112,6 +113,7 @@
 "label": "Washington, D.C.",
 "note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -48,6 +48,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Gerb's central structural claim: FFRDCs let the government vest programs outside the USG while retaining control of materials and data, and arbitrate what defense contractors are told about UFO programs.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -74,6 +75,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Gerb argues the 1994 restructuring of the SAP enterprise permanently vested the portfolio in a quasi-government and industry control group - the point at which the FFRDC and contractor layer becomes the locus of control rather than the government.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "The MITRE Corporation",
 "note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -136,6 +139,7 @@
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -146,7 +150,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": null,

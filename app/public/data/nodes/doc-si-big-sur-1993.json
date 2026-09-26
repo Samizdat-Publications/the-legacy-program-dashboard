@@ -55,6 +55,7 @@
 "label": "Big Sur missile-test filming, September 1964",
 "note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -81,6 +82,7 @@
 "label": "Kingston A. George",
 "note": "He identifies himself as the project engineer in the article's opening line. Type research, not custody: he wrote it, he does not hold custody of anything.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

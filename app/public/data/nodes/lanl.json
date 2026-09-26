@@ -59,6 +59,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "THE LABEL IS THE WHOLE POINT OF THIS EDGE AND MUST NOT BE SHORTENED TO 'employed by'. The directory page states on its face that it covers Department of Energy employees and the outside contractor Kirk-Mayer, and the laboratory later said it held no records for him.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -69,7 +70,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "does not include"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -85,6 +86,7 @@
 "label": "United States Department of Energy",
 "note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
 "predicate": "contracted",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -100,7 +102,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was contracted by"
+"verb": "linked through money"
 },
 {
 "claimTier": 2,
@@ -116,6 +118,7 @@
 "label": "Donald M. Kerr",
 "note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -142,6 +145,7 @@
 "label": "Los Alamos Green Fireballs Conference",
 "note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -168,6 +172,7 @@
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -178,7 +183,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "is alleged to have material held by"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -194,6 +199,7 @@
 "label": "Kirk-Mayer, Inc.",
 "note": "The whole purpose of the kirk-mayer node. Nothing was opened about the company itself beyond this relationship.",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

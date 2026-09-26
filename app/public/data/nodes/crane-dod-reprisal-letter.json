@@ -47,6 +47,7 @@
 "label": "David Charles Grusch",
 "note": "The only document in the public record that itemizes the adverse actions against Grusch. Each of the three actions generates its own internal DoD paper trail that has never been produced.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -78,6 +79,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "A sitting member formally notified the Department that a whistleblower lost his clearance, promotion and medical retirement for a protected disclosure. Crane stated he was still waiting for a reply; Chairwoman Luna committed to follow up. Non-response is itself an artifact.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -88,7 +90,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -104,6 +106,7 @@
 "label": "Elijah Crane",
 "note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -130,6 +133,7 @@
 "label": "Elijah Crane",
 "note": "Crane enumerated three specific adverse actions - clearance removal, denial of promotion, loss of medical retirement - and entered the letter into the hearing record on 9 September 2025 reporting no reply.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

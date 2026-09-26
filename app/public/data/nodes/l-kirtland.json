@@ -65,6 +65,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Volume I page 30 records interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977 and defers the unresolved allegations to Volume II.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -96,6 +97,7 @@
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -122,6 +124,7 @@
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -148,6 +151,7 @@
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "Headquarters Air Force Special Weapons Center is named on the title page with Kirtland as its station.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -174,6 +178,7 @@
 "label": "Eric H. Wang",
 "note": "A 1960 DTIC report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -200,6 +205,7 @@
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "Manzano is a nuclear weapons storage area on the Kirtland footprint shared with Sandia National Laboratories.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -226,6 +232,7 @@
 "label": "Albuquerque, New Mexico",
 "note": "The base occupies 51,558 acres in the southeast quadrant of Albuquerque and shares runways with the Albuquerque International Sunport.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -252,6 +259,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "Bennewitz dated his personally funded study to July 1979, filmed lights and recorded signals over the base, contacted Kirtland on 24 October 1980 and briefed base officials on 10 November 1980. Attested by his own correspondence and contemporary press.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -278,6 +286,7 @@
 "label": "Richard C. Doty",
 "note": "Richard C. Doty, an AFOSI special agent at Kirtland, has said publicly he was tasked in the 1980s with hoaxing documents and feeding false information to UFO researchers including Bennewitz. A 1992 article held in the CIA library names Doty and William Moore.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -288,7 +297,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "had in a post"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -304,6 +313,7 @@
 "label": "Sandia National Laboratories",
 "note": "Sandia, descended from the Manhattan Project's Z Division, sits adjacent to Kirtland; Bennewitz licensed his humidity sensor technology from Sandia in 1966.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -335,6 +345,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Yankee Blue sits in the same documented Air Force practice of manufacturing UFO belief for security purposes as the Kirtland AFB/AFOSI operations against Paul Bennewitz. The connection is thematic and institutional; no released document ties Yankee Blue administratively to Kirtland.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -345,7 +356,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 }
 ],
 "coords": [

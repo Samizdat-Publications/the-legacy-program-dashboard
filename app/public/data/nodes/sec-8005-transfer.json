@@ -53,6 +53,7 @@
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -79,6 +80,7 @@
 "label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
 "note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
 "predicate": "implements",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -53,6 +53,7 @@
 "label": "Air Force Office of Special Investigations",
 "note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -110,6 +112,7 @@
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -136,6 +139,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -151,7 +155,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -167,6 +171,7 @@
 "label": "Richard C. Doty",
 "note": "Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -177,7 +182,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -193,6 +198,7 @@
 "label": "Richard C. Doty",
 "note": "The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

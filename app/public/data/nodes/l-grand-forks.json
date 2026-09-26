@@ -35,6 +35,7 @@
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CINCNORAD's four-part message names Loring, Wurtsmith, Malmstrom, Minot and Falconbridge and does NOT name Grand Forks. Its inclusion rests on the 4 and 5 November command post messages, which this board has not opened.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "was the scene of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -66,6 +67,7 @@
 "label": "Strategic Air Command (SAC)",
 "note": "The alert-ramp incident is cited from message traffic this board has not opened in its own text, so the edge is Tier 2.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -76,7 +78,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

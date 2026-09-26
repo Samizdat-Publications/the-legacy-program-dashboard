@@ -62,6 +62,7 @@
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
 "predicate": "funded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -88,6 +89,7 @@
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,7 +100,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "founded"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -114,6 +116,7 @@
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series quotes Trimble by name as Martin's vice-president for advanced design planning and reports him organizing the Research Institute for Advanced Study.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

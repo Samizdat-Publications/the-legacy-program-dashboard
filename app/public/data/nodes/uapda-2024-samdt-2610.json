@@ -47,6 +47,7 @@
 "label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
 "predicate": "outside_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "falls outside"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -78,6 +79,7 @@
 "label": "Marco Rubio",
 "note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "Mike Rounds",
 "note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -135,6 +138,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The 2024 amendment reproduces the findings, definitions, Review Board, Controlled Disclosure Campaign Plan and eminent domain command without softening.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

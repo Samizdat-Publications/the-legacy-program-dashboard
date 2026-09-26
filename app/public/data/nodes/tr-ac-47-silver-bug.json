@@ -65,6 +65,7 @@
 "label": "Air Technical Intelligence Center",
 "note": "The title page carries the Air Technical Intelligence Center imprint and the report's own conclusion asks for 'direct liaison between WADC and ATIC personnel'.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Official Denial",
 "note": "The Summary states that the project 'should in no way be associated with any science fiction or \"Flying Saucer\" stories because of its external appearance', which is a denial with an author, a date and a subject, and is what this board's denial domain exists to hold.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,6 +119,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Both issuing bodies, ATIC and the Wright Air Development Center, are named on the report with that station.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -143,6 +146,7 @@
 "label": "United States Air Force",
 "note": "Section II names Technical Requirement No. 3 of 13 August 1954 and the order to proceed of 29 December 1954, so the Air Force interest is dated by the document rather than inferred.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

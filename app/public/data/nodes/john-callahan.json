@@ -83,6 +83,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -109,6 +110,7 @@
 "label": "Federal Aviation Administration",
 "note": "Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -124,7 +126,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "held a post at"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -140,6 +142,7 @@
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -160,7 +163,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -176,6 +179,7 @@
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
 "predicate": "appeared_on",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -186,7 +190,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "appeared on"
+"verb": "linked through media coverage"
 }
 ],
 "date": null,

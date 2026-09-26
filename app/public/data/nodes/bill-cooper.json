@@ -58,6 +58,7 @@
 "label": "Milton William Cooper, 'The Secret Government', 23 May 1989, updated 21 November 1990",
 "note": "Authorship, typed research by rule. The document is dated on its own first page and states its own delivery at the MUFON symposium of 2 July 1989.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -84,6 +85,7 @@
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Cooper carried the frame of alien bases built under Indian reservations in the Four Corners area to a mass audience from 1989. The string 'Dulce' occurs zero times in the forty-nine pages, which were extracted and searched in full. Tier 3 because attaching his frame to this specific site is inference and not text, and an edge worded any more strongly would contradict its own source.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -94,7 +96,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 }
 ],
 "date": "2001-11-06",

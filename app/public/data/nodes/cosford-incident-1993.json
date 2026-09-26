@@ -53,6 +53,7 @@
 "label": "Project Condign",
 "note": "Reasoning: `project-condign`'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "The National Archives' guide says the MoD's UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

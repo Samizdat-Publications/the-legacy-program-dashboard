@@ -173,6 +173,7 @@
 "label": "Eric Burlison",
 "note": "Ties the 2025 witness layer back to the AAWSAP/BAASS contracting layer.",
 "predicate": "questioned",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -199,6 +200,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -250,6 +252,7 @@
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -265,7 +268,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -281,6 +284,7 @@
 "label": "Jesse Michels",
 "note": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -307,6 +311,7 @@
 "label": "The Sol Foundation",
 "note": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.",
 "predicate": "appeared_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

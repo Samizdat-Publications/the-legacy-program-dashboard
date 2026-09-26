@@ -44,6 +44,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either.",
 "predicate": "contracted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -80,6 +81,7 @@
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "TIER 2 AND DELIBERATELY SO. Cover author field is redacted under (b)(6) and reads \"Authors\" plural, so there may have been co-authors. Assigned to Teofilo because endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\" - the only occurrence of either candidate author's surname in either aneutronic document - immediately adjacent to a citation of AeroJet/Lockheed Martin Space Systems Hall thruster hardware that also appears in the body text. Paired with the Culbreth edge; if reversed, swap both.",
 "predicate": "wrote",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -100,7 +102,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "wrote"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -116,6 +118,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

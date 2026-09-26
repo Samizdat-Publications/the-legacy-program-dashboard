@@ -70,6 +70,7 @@
 "label": "David Charles Grusch",
 "note": "A named retired Army colonel who served as the Army's UAP Task Force liaison affirmed both Grusch's character and the substance of the eighty-year reverse-engineering allegation, in print, on the record, on 5 June 2023. AARO has never addressed this statement by name.",
 "predicate": "corroborated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -101,6 +102,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Nell did not testify; his May 2024 conference statement was quoted from the chair.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -111,7 +113,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -127,6 +129,7 @@
 "label": "The Sol Foundation",
 "note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,7 +140,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -153,6 +156,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Nell's Task Force role is what converts his corroboration from opinion into positional testimony: he sat inside the same organization Grusch reported to.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -163,7 +167,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "linked through a role"
 }
 ],
 "date": "2023-06-05",

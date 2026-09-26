@@ -54,6 +54,7 @@
 "label": "The Aerospace Corporation",
 "note": "Founded 1960 at Air Force insistence after the Ramo-Wooldridge conflict-of-interest problem; FY2024 funding approximately $1,309.8 million.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -85,6 +86,7 @@
 "label": "Federal Contracting Mechanics",
 "note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -116,6 +118,7 @@
 "label": "Prime Contractor Custody",
 "note": "FAR 35.017 gives the FFRDC access to both government classified holdings and contractor proprietary data - the only entity type that can see both sides of the compartment.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -126,7 +129,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -142,6 +145,7 @@
 "label": "FAR 35.017 - Federally Funded Research and Development Centers",
 "note": "The subpart grants FFRDCs access to government and supplier data beyond a normal contractual relationship while requiring disclosure only to the sponsoring agency.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -168,6 +172,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The structural argument is independently supported by FAR 35.017's dual-access provision, whatever the status of the specific allegations.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -199,6 +204,7 @@
 "label": "Institute for Defense Analyses",
 "note": "IDA's Center for Communications and Computing is sponsored by NSA/CSS - the least publicly visible FFRDC in the country and the hardest for a committee to reach.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -225,6 +231,7 @@
 "label": "Johns Hopkins University Applied Physics Laboratory",
 "note": "University Affiliated Research Centers carry FFRDC-like access without the FAR 35.017 sponsoring-agreement regime or NSF master-list registration; no congressional UAP letter has gone to one.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -251,6 +258,7 @@
 "label": "The MITRE Corporation",
 "note": "MITRE operates six of the 41 FFRDCs recorded by NSF, spanning defence/intelligence, aviation, tax, health, homeland security and cybersecurity sponsors - the widest sponsor spread of any operator.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -277,6 +285,7 @@
 "label": "Burlison UAP Records Disclosure Amendment, FY2027 NDAA",
 "note": "The only proposed mechanism that would convert FFRDC holdings into records reachable by an independent review board with subpoena power, without sponsoring-agency consent.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -303,6 +312,7 @@
 "label": "RAND Corporation",
 "note": "Incorporated 1948 out of Project RAND inside Douglas Aircraft; now operates four FFRDCs for the Air Force, Army, OSD and DHS.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

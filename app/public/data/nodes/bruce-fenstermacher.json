@@ -38,6 +38,7 @@
 "label": "F. E. Warren AFB, Wyoming",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -64,6 +65,7 @@
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "No dated public statement by him before this event has been identified.",
 "predicate": "testified_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,7 +76,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "testified at"
+"verb": "linked through testimony"
 }
 ],
 "date": "2010-09-27",

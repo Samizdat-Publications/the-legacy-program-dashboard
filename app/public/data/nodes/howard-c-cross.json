@@ -73,6 +73,7 @@
 "label": "Battelle Memorial Institute",
 "note": "Cross was the named point of contact between Battelle's Stork analysts and Wright-Patterson.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -99,6 +100,7 @@
 "label": "The Pentacle Memorandum",
 "note": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

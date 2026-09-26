@@ -41,6 +41,7 @@
 "label": "Ben R. Rich",
 "note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Dana (Keoki) Jackson",
 "note": "The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "GAO accession 130581 - Controls Over Classified Documents for a Special Access Program at Lockheed Corporation",
 "note": "GAO/NSIAD-86-191 names 'the Lockheed/Burbank plant'. The testimony itself carries a footnote recording that GAO 'agreed not to identify the nature of the program or the specific DOD component or military service involved'.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "KONA BLUE",
 "note": "The Kona Blue allegation concerns a proposed change of custodial agency for physical material held on the Lockheed side - a bureaucratic transaction that would leave programme proposals and declination correspondence.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -129,7 +133,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "is alleged to hold material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -145,6 +149,7 @@
 "label": "Groom Lake, Nevada",
 "note": "The CIA's own history records that U-2 flight test and pilot training could not be conducted at Edwards or Palmdale given the secrecy of the project. The U-2, A-12, HAVE BLUE and F-117 all flew first at Groom.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -155,7 +160,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -171,6 +176,7 @@
 "label": "Air Force Plant 42, Palmdale, California",
 "note": "Plant 42 is compartmented program by program inside a single fence line, which is the physical form of the concealment architecture at issue.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -197,6 +203,7 @@
 "label": "Mark McCandlish",
 "note": "Same passage, same caveat: relayed, unnamed and uncorroborated, and no record was opened.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -223,6 +230,7 @@
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -233,7 +241,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -249,6 +257,7 @@
 "label": "Richard M. Bissell Jr.",
 "note": "Kelly Johnson was on the 12 April 1955 site flight with Lockheed's chief test pilot, and named the resulting base the Paradise Ranch to make it sound better to his workers.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

@@ -65,6 +65,7 @@
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
 "note": "The IC Authorized Classification and Control Markings Register and Manual v5.1 is issued by the Controlled Access Program Coordination Office, Washington DC 20511.",
 "predicate": "holds",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -80,7 +81,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "holds"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -96,6 +97,7 @@
 "label": "CAP Registry / CAPCO Register of control systems, compartments and sub-compartments",
 "note": "The register exists because the directive orders this office to keep it. ICD 906 D.9.b requires CAPCO to 'Manage a CAP Registry that maintains a list of all control systems', and E.4 restates the duty to 'Maintain the CAP Registry, a list of all control systems'. The office is the custodian, not merely the publisher.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -127,6 +129,7 @@
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "ICD 906 section D.9 designates the Director of ODNI CAPCO as accountable for implementation and requires management of the CAP Registry of all control systems, compartments and sub-compartments.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -137,7 +140,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is required by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -153,6 +156,7 @@
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -179,6 +183,7 @@
 "label": "ICD 906 - Controlled Access Programs (ODNI)",
 "note": "The directive creates the office's duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -210,6 +215,7 @@
 "label": "Information Security Oversight Office",
 "note": "ICD 906 section D.9.c makes CAPCO responsible for coordinating 'requests from the Information Security Oversight Office' about CAPs.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -220,7 +226,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "governs"
+"verb": "linked through law"
 }
 ],
 "coords": null,

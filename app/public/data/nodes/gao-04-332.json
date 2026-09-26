@@ -59,6 +59,7 @@
 "label": "DCSA as DoD Cognizant Security Office under the NISP",
 "note": "GAO-04-332 title states the finding; its footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities'.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

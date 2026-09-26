@@ -72,6 +72,7 @@
 "label": "Bob Lazar: Area 51 and Flying Saucers (2018)",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -98,6 +99,7 @@
 "label": "George Knapp",
 "note": "Pairs Knapp's four decades of sourcing with Corbell's leak pipeline.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -124,6 +126,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Listed in the hearing's Index of Documents.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -134,7 +137,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "brought to the record"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -150,6 +153,7 @@
 "label": "Los Alamos National Laboratory",
 "note": "Corbell states the materials came from the son of the laboratory's late former cybersecurity chief and include material on a claimed 1991 meeting at Los Alamos; the laboratory has not authenticated them.",
 "predicate": "alleged_to_hold",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -160,7 +164,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "is alleged to hold material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 2,
@@ -176,6 +180,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Speaking alongside Rep. Burchett in March 2023, Corbell named Senators Murray and Collins and the Committee's jurisdiction over spending. Elizondo responded that the inquiry should not be limited to one aerospace company 'but to several others that have likely played a key historical role.'",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -186,7 +191,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -202,6 +207,7 @@
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "Wiggins's statement records that the stabilized footage and screenshots were published by journalists Jeremy Corbell and George Knapp.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -228,6 +234,7 @@
 "label": "Weaponized (Knapp & Corbell)",
 "note": "The primary channel through which leaked Navy imagery has entered the public record.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

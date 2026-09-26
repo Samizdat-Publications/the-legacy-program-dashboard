@@ -41,6 +41,7 @@
 "label": "Andrew Ogles",
 "note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Congressional UAP Caucus",
 "note": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -82,7 +84,7 @@
 ],
 "tier": "C",
 "type": "programmatic",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -98,6 +100,7 @@
 "label": "Subramanian Raja Krishnamoorthi",
 "note": "Minority-side confirmation that the briefing produced no substance.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -108,7 +111,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -124,6 +127,7 @@
 "label": "Thomas A. Monheim",
 "note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
 "predicate": "testified_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

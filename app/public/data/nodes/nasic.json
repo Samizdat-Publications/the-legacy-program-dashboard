@@ -29,6 +29,7 @@
 "label": "Air Force Research Laboratory",
 "note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
 "predicate": "concurrent_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -39,7 +40,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "happened alongside"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -55,6 +56,7 @@
 "label": "Foreign Technology Division, Wright-Patterson AFB",
 "note": "The organizational-history compilation carries the FTD to NASIC lineage at the same station; no official Air Force page could be opened from here to raise this above Tier 2.",
 "predicate": "succeeded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -81,6 +83,7 @@
 "label": "\"Jonathan Grey\" (pseudonym)",
 "note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -107,6 +110,7 @@
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "The National Air and Space Intelligence Center is a Wright-Patterson tenant and the direct institutional heir to ATIC/FTD's foreign materiel exploitation mission.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

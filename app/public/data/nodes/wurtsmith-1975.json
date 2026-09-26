@@ -47,6 +47,7 @@
 "label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
 "note": "Cahill's Research Record of Events of 17 January 1979 and Taylor's Memo for the Record of 18 January 1979.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Wurtsmith AFB, Michigan",
 "note": "The NORAD Senior Director's Log names Wurtsmith AFB weapons storage area.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CINCNORAD's message names Wurtsmith AFB, Michigan among the five installations.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

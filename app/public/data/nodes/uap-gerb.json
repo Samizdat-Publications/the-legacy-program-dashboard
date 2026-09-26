@@ -214,6 +214,7 @@
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
 "note": "Published 18 February 2024 with a published citation list including CUFON's Project Stork reports, the CIA reading room copy of Special Report No. 14, a Black Vault titanium alloys release and the Defense.gov Moultrie roundtable transcript.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -240,6 +241,7 @@
 "label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
 "note": "Published 30 January 2026; maps SAF/AQ, SAF/AQX, SAF/AQL, SAF/AQR, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -266,6 +268,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Published 7 August 2026; the named priority document for this board. Two hours, seven chapters, building explicitly on eight prior Gerb investigations.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -292,6 +295,7 @@
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "Published 20 March 2026, following a Vol.1 Northrop investigation in 2025.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -318,6 +322,7 @@
 "label": "UAP Gerb - National Reconnaissance Office investigation",
 "note": "Published 13 December 2025; 141,122 views; nearly three hours.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -344,6 +349,7 @@
 "label": "Jesse Michels",
 "note": "Michels published 'UAPGerb: The New Area51 Is HERE in Utah!' on 21 February 2025 (450,091 views) and the three-hour structural episode 'The Pentagon's UFO Program Is Real [Here's How It Works!]' on 11 January 2026 (514,729 views). These two episodes are the primary public exposition of Gerb's structural model.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -375,6 +381,7 @@
 "label": "Luis D. Elizondo",
 "note": "Multiple third-party channels covered a Gerb-Elizondo dispute in early August 2026. No primary statement from either party was retrieved; recorded as an unresolved schism, which Coulthart also referenced as 'Schism in the UAP community' at 11:22 of the 4 August 2026 episode.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -385,7 +392,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "disputes"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -401,6 +408,7 @@
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Set out across two investigations, 1 May and 19 June 2026, covering the 1947 founding, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, the 1980s fracture, the 1994 SAP restructuring and modern Non-Covert Action Programs.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -432,6 +440,7 @@
 "label": "Mark McCandlish",
 "note": "Video id wF07QMm6joE, 'Alien Reproduction Vehicle - the Testimony of Mark McCandlish', channel 'UAP Gerb', published 21 October 2024, runtime 01:09:12. Gerb is the investigator who brings this account to the board's corpus and who located the 1990 notes. Several assertions attributed to him in the corpus files are recorded on these nodes as unverified rather than as claims.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -458,6 +467,7 @@
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "note": "The episode is a single-guest exposition in which Gerb lays out the contractor pyramid, the alleged modern control group, the Office of Global Access, MITRE's role, the DOE NEST and the 1954 Atomic Energy Agreement as the architecture of the effort.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -484,6 +494,7 @@
 "label": "Off-World Technologies Division",
 "note": "Published 17 July 2024 based on witness 'RA', a US Army Green Beret describing an underground division near Crane, Indiana holding two non-human artifacts, 2013-2015.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -510,6 +521,7 @@
 "label": "Operation Laser Strike",
 "note": "Gerb is the investigator who brings Laser Strike to this corpus as the deployment framing for the Weygandt Peru account; the operation's own record says nothing about it.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -520,7 +532,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "made claims about"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -536,6 +548,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Gerb ran a livestream on 'UFO File Drop 1' on 12 May 2026 and discussed the release programme in his 2 March 2026 livestream on Trump's announcement, making him one of the first analysts working the released record.",
 "predicate": "reported_on",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -567,6 +580,7 @@
 "label": "Rob Jones",
 "note": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -593,6 +607,7 @@
 "label": "Ross Coulthart",
 "note": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
 "predicate": "interviewed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -608,7 +623,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was interviewed by"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 2,
@@ -624,6 +639,7 @@
 "label": "Ross Coulthart",
 "note": "Coulthart carried the Gerb material into mainstream broadcast, including discussion of Immaculate Constellation and of Aerospace Corporation and MITRE in connection with the 2026 UAP Governance Board.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -650,6 +666,7 @@
 "label": "Steven M. Greer",
 "note": "Gerb's 12 May 2026 livestream discussed the 'Greer NPC' event critically. The structural investigators define themselves against Greer's model, and the split is itself a feature of the field.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

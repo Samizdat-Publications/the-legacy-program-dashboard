@@ -311,6 +311,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Volume I remains the last full narrative account the US Government has published on this subject; everything since is raw files with no assessment.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -342,6 +343,7 @@
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "Volume I's scope statement commits Volume II to covering research from 1 November 2023 to 15 April 2024 plus the allegations left open.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -352,7 +354,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "cites"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -368,6 +370,7 @@
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "Volume I is the predecessor and it defines what Volume II must contain: page 11 states 'Volume II will include any findings resulting from interviews and research' conducted after Volume I's cutoff. The sequence is fixed by the document itself rather than inferred.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -399,6 +402,7 @@
 "label": "AARO / Oak Ridge National Laboratory materials analyses",
 "note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -435,6 +439,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "AARO's report treats 2009 as the standup year for AAWSAP and AATIP and rejects the reverse-engineering account. It is itself a DOPSR-reviewed document, DOPSR-2024-0263.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -466,6 +471,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "The report is where the Department's own account of AATIP sits. Volume I records that AAWSAP 'was also known [as] AATIP' and that DIA cancelled the programme in 2012, then that supporters proposed KONA BLUE to DHS as a follow-on. That is the programmatic relation: the report covers the programme's lifecycle. The denial edge on this pair is separate and records the report's rejection of the reverse-engineering account.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -497,6 +503,7 @@
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Confirms the $22M, the Reid direction, the contractor's UFO work and the ranch — then terminates the story with 'concerns about the project' and names no one.",
 "predicate": "omitted",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -507,7 +514,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "leaves out"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -523,6 +530,7 @@
 "label": "Christopher K. Mellon",
 "note": "Mellon, a former Deputy Assistant Secretary of Defense for Intelligence and SSCI staff director, attacked the AARO report's quality at the September 2025 Task Force hearing - an oversight professional's judgment on the rebuttal's workmanship rather than on the phenomenon.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -549,6 +557,7 @@
 "label": "David Charles Grusch",
 "note": "Released 8 March 2024, presented by Pentagon Press Secretary Maj. Gen. Pat Ryder. It asserts that none of AARO's interviewees had firsthand knowledge - a claim that does not engage Grusch's sworn statement that firsthand witnesses filed their own protected disclosures with the ICIG, nor Karl Nell's named corroboration.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -595,6 +604,7 @@
 "label": "DIA Memorandum: Review of Advanced Aerospace Contract Deliverables (U-429-09-DWO-IM)",
 "note": "DIA in 2009: reviews 'positive, some exceptionally so'. AARO in 2024: terminated due to concerns about the project. Same department, opposite assessments, fifteen years apart.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -610,7 +620,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "contradicts"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -626,6 +636,7 @@
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -657,6 +668,7 @@
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "Volume I states AARO found no NDAs containing UAP-related information; eight months later Elizondo testified under oath to signing a SCIF instrument barring discussion of crash retrieval.",
 "predicate": "denied",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -672,7 +684,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "denied"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -688,6 +700,7 @@
 "label": "John Greenewald Jr.",
 "note": "The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original.",
 "predicate": "published",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -703,7 +716,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "was published by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 2,
@@ -719,6 +732,7 @@
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
 "note": "Kirkpatrick's 19 January 2024 circular-reporting framing appears as the analytic spine of the 8 March 2024 report - the departing director publishing the conclusion before the agency published the study.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -734,7 +748,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "came after"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -750,6 +764,7 @@
 "label": "KONA BLUE",
 "note": "AARO disclosed the DHS prospective SAP and used it to argue that witnesses mistook a rejected proposal for an operating programme.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -781,6 +796,7 @@
 "label": "KONA BLUE",
 "note": "AARO identifies KONA BLUE as a prospective SAP proposed to DHS, never approved, whose advocates only assumed material existed. The proposal's own premise - consolidating alleged concealed holdings under DHS for proper oversight - presupposes the thing AARO says does not exist.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -807,6 +823,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "AARO states it met high-ranking officials of the companies named by interviewees and that all denied the existence of the programs and attested to the truthfulness of their statements. AARO does not name a single company, and describes no inspection of any facility or holding.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -833,6 +850,7 @@
 "label": "Luis D. Elizondo",
 "note": "The report does not engage Elizondo's specific claims by name in its programme history; the omission is itself the Department's position — his account is treated as outside the record rather than rebutted within it.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -859,6 +877,7 @@
 "label": "Michael Herrera",
 "note": "THE IDENTIFICATION IS AN INFERENCE AND THIS EDGE CARRIES IT AS ONE. The page 29 interviewee account matches his public account on year, mission type and scene. AARO names nobody and holds the anonymisation key itself. No opened record makes the link.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -869,7 +888,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -885,6 +904,7 @@
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Two of the most persistent alleged programme names in the historical record are absent from the report tasked with resolving the historical record.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -916,6 +936,7 @@
 "label": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
 "note": "AARO's own report counts this study among the official record. HRR Volume I lists the 'UAP Independent Study Team (UAPIST) (June 2022-September 2023)' as one of the USG UAP investigatory efforts it catalogues, which is what puts a NASA civilian panel inside a Department historical record.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -947,6 +968,7 @@
 "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
 "note": "Subsection (j) as enacted by sec. 6802 is where this report comes from. 'Not later than 540 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023, the Director of the Office shall submit to the congressional defense committees, the congressional intelligence committees, and congressional leadership a written report detailing the historical record of the United States Government relating to unidentified anomalous phenomena'. The statute fixes its scope: it must 'focus on the period beginning on January 1, 1945, and ending on the date on which the Director of the Office completes activities under this subsection'.",
 "predicate": "mandated",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -973,6 +995,7 @@
 "label": "Patrick S. Ryder",
 "note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -999,6 +1022,7 @@
 "label": "Paul Frederick Bennewitz",
 "note": "The best-documented instance of US government disinformation about UFOs directed at an American citizen is entirely absent from the government's own historical review of the subject.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1030,6 +1054,7 @@
 "label": "Project MOON DUST",
 "note": "A review commissioned to establish the historical record of USG involvement with UAP omits the named USG programmes whose charter was the recovery of unidentified fallen objects.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1061,6 +1086,7 @@
 "label": "Project SIGN",
 "note": "The 2024 report concludes most sightings across all the legacy programs were ordinary objects and misidentification, and that no official review has ever confirmed extraterrestrial technology.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1087,6 +1113,7 @@
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1118,6 +1145,7 @@
 "label": "Roswell Incident",
 "note": "The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1144,6 +1172,7 @@
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1175,6 +1204,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "The Volume I historical review was drafted under Kirkpatrick's directorship of AARO and released in early 2024 after his departure; he has publicly identified himself with its findings.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1221,6 +1251,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "Volume I is dated February 2024 and was prepared under Kirkpatrick's direction; Acting Director Phillips fronted the 8 March 2024 release.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -1252,6 +1283,7 @@
 "label": "Timothy A. Phillips",
 "note": "Phillips conducted a private press briefing on 6 March 2024 and an on-record media engagement published by DoD on 8 March 2024.",
 "predicate": "released",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -1262,7 +1294,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "was released by"
+"verb": "linked through a document"
 },
 {
 "claimTier": 3,
@@ -1278,6 +1310,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Section 9010 asserts federal eminent domain over recovered technologies 'controlled by private persons or entities.' Reasoning: the legislative remedy matches the mechanism AARO records interviewees describing; no drafting record ties the two documents.",
 "predicate": "parallels",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -1293,7 +1326,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "parallels"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -1309,6 +1342,7 @@
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "note": "Twenty-seven years later the successor office reaffirmed the MOGUL attribution without new primary records, because the primary records GAO identified as destroyed have not been recovered.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1324,7 +1358,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "cites"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -1340,6 +1374,7 @@
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1371,6 +1406,7 @@
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "AARO records a senior military officer describing a craft floating in a building with roughly 150 people working on it, in a program kept 'outside of government so the technology could remain proprietary' - the memo's central claim, restated in a DoD publication.",
 "predicate": "corroborated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1397,6 +1433,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Volume I page 30 states AARO found no UAP-related NDAs. The Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme. The two statements cannot both stand as written.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -1433,6 +1470,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "The report is the object of the search, which is what makes this investigative rather than a denial. A full-text pass of Volume I returns no occurrence of 'Yankee Blue' across all 63 pages including endnotes 1-200. That negative finding is what refuted the widely repeated claim - asserted on this board until 12 August 2026 - that AARO conceded the programme in Volume I.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

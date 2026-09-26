@@ -65,6 +65,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -91,6 +92,7 @@
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -117,6 +119,7 @@
 "label": "John D. Podesta",
 "note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -127,7 +130,7 @@
 ],
 "tier": "C",
 "type": "behavioral",
-"verb": "drew a response from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -143,6 +146,7 @@
 "label": "Mark McCandlish",
 "note": "His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -169,6 +173,7 @@
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -200,6 +205,7 @@
 "label": "Philip J. Klass",
 "note": "Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -226,6 +232,7 @@
 "label": "Steven M. Greer",
 "note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -252,6 +259,7 @@
 "label": "Thomas R. Wilson",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
 "predicate": "preceded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -267,7 +275,7 @@
 ],
 "tier": "C",
 "type": "temporal",
-"verb": "came before"
+"verb": "linked in place or time"
 }
 ],
 "coords": null,

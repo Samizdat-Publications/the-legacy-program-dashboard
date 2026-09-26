@@ -56,6 +56,7 @@
 "label": "Robert \"Bob\" Lazar",
 "note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,6 +88,7 @@
 "label": "Element 115: the Lazar claim and moscovium",
 "note": "This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened.",
 "predicate": "explained_away",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -113,6 +115,7 @@
 "label": "Clark County, Nevada felony pandering file, 1990 and 1996",
 "note": "GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -139,6 +142,7 @@
 "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
 "note": "GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,6 +169,7 @@
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -42,6 +42,7 @@
 "label": "Disclosure Movement",
 "note": "Every enacted transparency provision came through committee process; the disclosure movement's instruments are procedural because the substantive question cannot be reached.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "legislative",
-"verb": "affects"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -73,6 +74,7 @@
 "label": "Records & Archives",
 "note": "Subtitle C of P.L. 118-31 is the only binding UAP transparency outcome Congress has produced, and it operates through records custody rather than through programme access.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "has as an instance"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -99,6 +101,7 @@
 "label": "Special Access Programs",
 "note": "The waiver authority in 10 U.S.C. 119(e) is the statutory provision congressional witnesses cite when describing why members cannot confirm a programme's existence.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -109,7 +112,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -125,6 +128,7 @@
 "label": "Secrecy Architecture",
 "note": "10 U.S.C. 119's waiver provision reduces notification to eight members without staff, which is the specific point at which the secrecy architecture and congressional oversight collide.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -135,7 +139,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -151,6 +155,7 @@
 "label": "Witness Chain",
 "note": "The 26 July 2023 and 9 September 2025 House Oversight hearings converted witness accounts into sworn congressional record.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -161,7 +166,7 @@
 ],
 "tier": "B",
 "type": "witness-chain",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -177,6 +182,7 @@
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "Congress commissioned it by statute, section 1133 of Public Law 100-180, and GAO reported to the four defence committees.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -203,6 +209,7 @@
 "label": "Washington, D.C.",
 "note": "The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

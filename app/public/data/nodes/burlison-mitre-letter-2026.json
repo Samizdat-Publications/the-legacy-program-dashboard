@@ -107,6 +107,7 @@
 "label": "David Charles Grusch",
 "note": "Reasoning: Burlison paraphrases Grusch's testimony directly - 'If you really want to hide something from Congress, you don't put it in a government file cabinet. You hand it to a private contractor' - and then names the FFRDCs he is writing to.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -122,7 +123,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "cites"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -138,6 +139,7 @@
 "label": "David Charles Grusch",
 "note": "DefenseScoop reports the correspondence reflects whistleblower concerns; Grusch's central allegation is that programmes were compartmented inside private entities beyond congressional oversight.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -148,7 +150,7 @@
 ],
 "tier": "A",
 "type": "witness-chain",
-"verb": "cites"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -164,6 +166,7 @@
 "label": "Eric Burlison",
 "note": "Ten pages, more than forty requests, records back to 1930, 45-day deadline, native electronic format with complete metadata.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -190,6 +193,7 @@
 "label": "Eric Burlison",
 "note": "Burlison, a member of the House Oversight Task Force on the Declassification of Federal Secrets, issued the first congressional records demand ever addressed to an FFRDC operator on UAP.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -216,6 +220,7 @@
 "label": "FAR 35.017 - Federally Funded Research and Development Centers",
 "note": "Burlison argues FFRDCs 'often receive special access to government facilities, data, sponsor requirements, and sensitive technical information that ordinary private contractors may not receive' and therefore cannot be private vaults for federal records.",
 "predicate": "cites",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,6 +247,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Burlison's letter is dated 22 May 2026; the investigation was published 7 August 2026 and states it seeks to directly aid that inquiry.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -252,7 +258,7 @@
 ],
 "tier": "B",
 "type": "temporal",
-"verb": "drew a response from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -268,6 +274,7 @@
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The September 2025 Oversight wrap-up recorded that UAP materials had been moved to private contractors, complicating oversight and FOIA access; the MITRE demand is the first instrument aimed at that finding.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -283,7 +290,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "responded to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -299,6 +306,7 @@
 "label": "The MITRE Corporation",
 "note": "A MITRE spokesperson said that if any relevant material is found, 'we will coordinate with the federal agencies responsible for the work' - restating the FAR structure under which disclosure runs to the sponsor, not to Congress.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -309,7 +317,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "was refused by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -325,6 +333,7 @@
 "label": "The MITRE Corporation",
 "note": "MITRE confirmed it was reviewing its archives and said it would 'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -356,6 +365,7 @@
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Burlison ties the demand to records 'Congress has directed to be identified, preserved, reviewed, and transferred for public release', naming NARA and Record Group 615.",
 "predicate": "cites",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -366,7 +376,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "cites"
+"verb": "linked through a document"
 }
 ],
 "coords": null,

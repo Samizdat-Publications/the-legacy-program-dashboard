@@ -56,6 +56,7 @@
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -82,6 +83,7 @@
 "label": "Col. Frederick Meiwald",
 "note": "HE WAS FOUND BY THE CLAIMANT IN SUMMER 1996 AND HIS LETTER IS PUBLISHED BY THE CLAIMANT. NO PRE-CONTACT STATEMENT EXISTS. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD AND TWO INCOMPATIBLE CHARACTERISATIONS OF IT ARE IN CIRCULATION.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -102,7 +104,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -118,6 +120,7 @@
 "label": "James Carlson",
 "note": "He cites SAC UFO officer Col. Lewis D. Chase as finding no equipment failures or sighting on that date. The released unit history is silent, which supports neither man, though its silence is consistent with him.",
 "predicate": "disputed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -133,7 +136,7 @@
 ],
 "tier": "C",
 "type": "denial",
-"verb": "is disputed by"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -149,6 +152,7 @@
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Tier 2: the claim places it here, and the released unit history for this wing does not mention Oscar Flight at all.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -164,7 +168,7 @@
 ],
 "tier": "B",
 "type": "geographic",
-"verb": "happened at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -180,6 +184,7 @@
 "label": "Robert L. Hastings",
 "note": "It is Hastings, not a sceptic, who made the separation that both improves the board's honesty and removes Echo Flight's documentation from the Oscar Flight claim.",
 "predicate": "studied",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -206,6 +211,7 @@
 "label": "Capt. Robert Jamison",
 "note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -221,7 +227,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -237,6 +243,7 @@
 "label": "Capt. Robert L. Salas",
 "note": "He approached the Great Falls Tribune himself in 1996, which is a different provenance from the four witnesses who reach the public only through an interviewer. He has never claimed to have seen anything himself: his account is of a telephone call taken in a sealed capsule.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

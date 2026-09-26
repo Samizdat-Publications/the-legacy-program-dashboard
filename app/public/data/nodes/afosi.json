@@ -71,6 +71,7 @@
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
 "predicate": "released",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -102,6 +103,7 @@
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "note": "AFOSI examined the video handling and concluded the material was unclassified, closing the matter. Elizondo later alleged the inquiry was orchestrated against him.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -128,6 +130,7 @@
 "label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
 "note": "Gerb identifies AFOSI/PJ and its former director Terry Phillips - now Northrop Grumman VP for Security - as a bridge between Air Force counterintelligence and contractor security.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -154,6 +157,7 @@
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -185,6 +189,7 @@
 "label": "Richard C. Doty",
 "note": "Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -216,6 +221,7 @@
 "label": "United States Air Force",
 "note": "AFOSI is the Air Force's independent investigative agency with units 'located at most Air Force bases worldwide', covering espionage, terrorism and counterintelligence.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -242,6 +248,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

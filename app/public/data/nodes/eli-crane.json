@@ -89,6 +89,7 @@
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "note": "Three enumerated adverse actions against the credible-and-urgent whistleblower.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -115,6 +116,7 @@
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "note": "Crane enumerated three specific adverse actions - clearance removal, denial of promotion, loss of medical retirement - and entered the letter into the hearing record on 9 September 2025 reporting no reply.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -141,6 +143,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -167,6 +170,7 @@
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "Congress.gov cosponsor record; Crane also entered the Grusch reprisal letter into the record of the hearing that followed.",
 "predicate": "sponsored_law",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

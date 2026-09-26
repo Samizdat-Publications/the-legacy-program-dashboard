@@ -47,6 +47,7 @@
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -99,6 +101,7 @@
 "label": "PURSUE Release 05",
 "note": "41 files - 16 videos, 22 documents, 3 images - with identifiers spanning DOW, FBI, DOS and EOP originators.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

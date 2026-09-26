@@ -94,6 +94,7 @@
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "The same person applied near-identical sensing methodology inside the classified task force and on a television production at the property NIDS and BAASS had studied, with no public account of any relationship between the two efforts.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -104,7 +105,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "investigated"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 2,
@@ -120,6 +121,7 @@
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Reported by Science magazine in June 2022. No government organisation chart naming him in the post has been released.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

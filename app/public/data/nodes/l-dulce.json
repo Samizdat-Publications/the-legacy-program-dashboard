@@ -47,6 +47,7 @@
 "label": "Legacy Program",
 "note": "Stated inference and a domain-to-domain link, correctly capped at Tier 3: the legacy character of the ground holds whatever is or is not true about the mesa.",
 "predicate": "exemplifies",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is an instance of"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 3,
@@ -73,6 +74,7 @@
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Tier 3 because the siting is the claim's own assertion and nothing else. The place node is kept separate from the claim node deliberately, and no archuleta-mesa node should be created: the mesa is carried in the location node's label.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is the location of"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -99,6 +101,7 @@
 "label": "Gabriel L. \"Gabe\" Valdez",
 "note": "The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -125,6 +128,7 @@
 "label": "Project Gasbuggy, 10 December 1967",
 "note": "From the DOE fact sheet: Rio Arriba County, approximately 55 miles east of Farmington, just west of the Jicarilla Apache Reservation.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

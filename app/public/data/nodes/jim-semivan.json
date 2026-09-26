@@ -59,6 +59,7 @@
 "label": "The Sol Foundation",
 "note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -74,7 +75,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "was a member of"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -90,6 +91,7 @@
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

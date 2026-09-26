@@ -47,6 +47,7 @@
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Executive Order 14347 authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on permanent statutory renaming.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "governs"
+"verb": "linked through law"
 },
 {
 "claimTier": 3,
@@ -73,6 +74,7 @@
 "label": "United States Department of Energy",
 "note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "Donald J. Trump",
 "note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -140,6 +143,7 @@
 "label": "war.gov/UFO release portal",
 "note": "Following the February 2026 presidential directive to identify and release UAP files, the Department of War established the PURSUE portal at war.gov/UFO and published its first tranche on 8 May 2026.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

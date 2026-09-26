@@ -208,6 +208,7 @@
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Gough's February 2026 figures mean roughly half of AARO's holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -223,7 +224,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -239,6 +240,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "A direct reversal of her own colleague's May 2019 statement, justified on the ground that Sherwood was repeating what an earlier spokesperson had said and that spokesperson 'is no longer with my organization'.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -265,6 +267,7 @@
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Eighteen months after the flat denial, the Department conceded UAP reports were within AATIP's research scope while insisting they were not its purpose. The denial of Elizondo's role did not move.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -291,6 +294,7 @@
 "label": "Christopher Sherwood",
 "note": "The Department conceded Sherwood was accurately reported and then disowned what he said — while keeping his denial of Elizondo's role intact. One spokesman, two statements, one retained.",
 "predicate": "disputed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -317,6 +321,7 @@
 "label": "David Charles Grusch",
 "note": "Issued 7 June 2023, two days after The Debrief, and recycled since. Signatory: Susan Gough, DoD spokesperson. Note the boundary of the sentence: it asserts what one office has discovered, not what exists, and is silent on holdings outside AARO's access.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -348,6 +353,7 @@
 "label": "Elizondo complaint to the DoD Inspector General, May 2021",
 "note": "The Department's UAP spokesperson named in a whistleblower-reprisal complaint by the subject of her statements.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -374,6 +380,7 @@
 "label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "note": "The Department's own reading room hosts the most detailed public rebuttal of the Department's position on Elizondo.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -400,6 +407,7 @@
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Gough stated the Department has no information that any individual has been harmed or killed as a result of providing information to AARO, and warned that unsubstantiated harm claims discourage witnesses. Grusch's sworn claim was about harm in the concealment effort, not about providing information to AARO - the denial answers a question that was not asked.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -426,6 +434,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Pentagon spokesperson Sue Gough has stated the Department has 'no record' of such a programme. The Department has not stated that the programme does not exist.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -436,7 +445,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 2,
@@ -452,6 +461,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Gough's 'no record' statement is the Department's entire published response to a document in the Congressional Record; no documentary rebuttal has been produced.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -483,6 +493,7 @@
 "label": "John Greenewald Jr.",
 "note": "Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -509,6 +520,7 @@
 "label": "Luis D. Elizondo",
 "note": "Released in the Department's own reading room under FOIA 21-F-0938. He also gave her a list of people who could confirm his role. The Department's response, if any, has not been released in full.",
 "predicate": "told",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -545,6 +557,7 @@
 "label": "Luis D. Elizondo",
 "note": "Issued in response to the authenticated Harry Reid memorandum, with the assertion that the memo 'makes no change to previous statements'. She added that DIA administered AATIP and Elizondo was never assigned to DIA.",
 "predicate": "denied",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -576,6 +589,7 @@
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "'It makes no change to previous statements.' DoD confirmed the document's authenticity in the same breath as dismissing it.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -602,6 +616,7 @@
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely.",
 "predicate": "acknowledged",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

@@ -89,6 +89,7 @@
 "label": "Alien Rapture: The Chosen, Galde Press, 1998",
 "note": "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.'",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -115,6 +116,7 @@
 "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
 "note": "Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -141,6 +143,7 @@
 "label": "Fouche's presentation transcript, August 1998",
 "note": "INTENT: AUTHORSHIP. The board has no authorship edge type, and authorship is deliberately NOT built as custody here, because custody is weighted x3.0 as a program edge and giving a claimant a x3 edge to his own document would inflate him. Mapped to research. The document's first four lines are 'Presentation to IUFOR by / Edgar Rothshild Fouche / Copyright Aug. 1998 / Fouche Media Associates'.",
 "predicate": "wrote",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -167,6 +170,7 @@
 "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
 "note": "INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
 "predicate": "published",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -193,6 +197,7 @@
 "label": "Edwards Air Force Base, California",
 "note": "His own statement in the caption layer: 'When I arrived at Edwards AFB - 6515 TSS - AFFTC, I was assigned to the F-15 R&D and FOT&E Program.' No form in the collection carries an Edwards assignment, and Andrew Johnson's account of the FOIA return does not list one. Tier 2 on his word.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -203,7 +208,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "gave a first-hand account of"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -219,6 +224,7 @@
 "label": "Groom Lake, Nevada",
 "note": "The strongest documented connection between any TR-3B claimant and a real classified airfield, and it must be read with its own limit attached: the form does not say what he did there, referring that out to 'a separate report' that is not in the file, and everything else on the form describes F-15 avionics intermediate shop work. The extensive Groom Lake narration in the 1998 presentation, including helicopter flights and a mess hall conversation about an NSA system, is Tier 2 on his word alone.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -234,7 +240,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -250,6 +256,7 @@
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "The claim exists in his copyrighted document and nowhere earlier that was opened. Tier 2 and not 1 because the edge asserts that he is the origin of the claim, which rests on the absence of an earlier source rather than on a positive record. Note that within the artefact itself the sighting is second hand: slide 69 opens 'A friend said, he would never forget the sight of the alien looking TR-3B based at Papoose.' He does not claim to have seen it.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -276,6 +283,7 @@
 "label": "United States Air Force",
 "note": "Tier 1 and entirely ordinary. The citations describe F-15 and F-16 manual test stations, the TEWS-TITE electronic warfare bed-down, and a Strategic Air Command liaison post at Kelly AFB. The second Meritorious Service Medal citation closes 'culminate a distinguished career', which dates the end of active service to 1987.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

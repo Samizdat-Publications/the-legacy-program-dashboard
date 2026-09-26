@@ -83,6 +83,7 @@
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The report reaffirms the MOGUL conclusion without engaging GAO's 1995 finding that the relevant base records were destroyed with no disposition authority — the gap that makes the conclusion untestable.",
 "predicate": "omitted",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,6 +115,7 @@
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "note": "RAAF administrative records March 1945-December 1949 and outgoing messages October 1946-December 1949 were destroyed; the disposition form records neither who destroyed them nor under what authority.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -140,6 +142,7 @@
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "RG 615 was created under PL 118-31 sections 1841-1843 after decades in which the only auditable finding was GAO's: that the relevant legacy records had been destroyed with no recorded authority.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -155,7 +158,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 3,
@@ -171,6 +174,7 @@
 "label": "Project MOGUL",
 "note": "GAO reported the base's message traffic for the relevant years was destroyed without disposition authority, so the Air Force's reconstruction rests on inference rather than on the contemporaneous record.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -181,7 +185,7 @@
 ],
 "tier": "B",
 "type": "investigative",
-"verb": "investigated"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -197,6 +201,7 @@
 "label": "RAAF Press Release, 8 July 1947",
 "note": "RAAF outgoing messages from October 1946 through December 1949 were destroyed with no recorded disposition authority, removing the base's own record of the 8 July 1947 announcement and its retraction.",
 "predicate": "concerns",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -207,7 +212,7 @@
 ],
 "tier": "B",
 "type": "custody",
-"verb": "concerns"
+"verb": "linked through a document"
 },
 {
 "claimTier": 1,
@@ -223,6 +228,7 @@
 "label": "The Rockefeller UFO Disclosure Initiative",
 "note": "The Clinton White House Roswell file (2006-0476-F) contains the July 1995 GAO report; the unclassified records audit is what the White House ended up holding.",
 "predicate": "concurrent_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -254,6 +260,7 @@
 "label": "Roswell Incident",
 "note": "RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -285,6 +292,7 @@
 "label": "Steven H. Schiff",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

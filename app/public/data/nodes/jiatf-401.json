@@ -47,6 +47,7 @@
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
 "predicate": "responded_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -62,7 +63,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "responded to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -78,6 +79,7 @@
 "label": "Matt Ross",
 "note": "Brig. Gen. Matt Ross directs the counter-drone joint interagency task force established in August 2025.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "note": "A standing joint interagency task force under a general officer is the institutional refutation of the hobbyist explanation issued eight months earlier.",
 "predicate": "responded_to",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

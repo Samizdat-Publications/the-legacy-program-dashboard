@@ -81,6 +81,7 @@
 "label": "Central Intelligence Agency",
 "note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -107,6 +108,7 @@
 "label": "Robertson Panel",
 "note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

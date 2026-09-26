@@ -40,6 +40,7 @@
 "label": "George Knapp",
 "note": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -66,6 +67,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
 "predicate": "alleged_tie",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

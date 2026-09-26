@@ -29,6 +29,7 @@
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.",
 "predicate": "brought_to_record",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -60,6 +61,7 @@
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
 "predicate": "investigated",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

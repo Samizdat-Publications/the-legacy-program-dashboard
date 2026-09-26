@@ -35,6 +35,7 @@
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "The same definition at sec. 7343(a)(1) names the House Armed Services Committee among the six bodies constituting 'appropriate committees of Congress' for the section's funding limitation.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "Mike Rogers (Alabama)",
 "note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -87,6 +89,7 @@
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 does not open anything to the public; it compels description to the defence and intelligence committees and congressional leadership.",
 "predicate": "mandated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,7 +100,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is required by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -113,6 +116,7 @@
 "label": "Congressional oversight of special access programs",
 "note": "Under 10 U.S.C. 119(e) the chairman and ranking minority member of each defense committee receive the waived program information and the waiver justification.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -139,6 +143,7 @@
 "label": "United States House of Representatives",
 "note": "HASC leadership approval is required, together with HAC-D leadership, for a non-committee member to view specific program material.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -154,7 +159,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

@@ -53,6 +53,7 @@
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
 "predicate": "transferred",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "A",
 "type": "custody",
-"verb": "received records or material from"
+"verb": "linked through custody of records or material"
 },
 {
 "claimTier": 1,
@@ -79,6 +80,7 @@
 "label": "Conventional Prompt Global Strike",
 "note": "DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -105,6 +107,7 @@
 "label": "Harry S. Truman",
 "note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -131,6 +134,7 @@
 "label": "Lawrence P. Gise",
 "note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -157,6 +161,7 @@
 "label": "Neil H. McElroy",
 "note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -183,6 +188,7 @@
 "label": "Northrop TACIT BLUE",
 "note": "'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file's use of the same four letters.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -209,6 +215,7 @@
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -219,7 +226,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "reports to"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 1,
@@ -235,6 +242,7 @@
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
 "predicate": "alleged_tie",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -250,7 +258,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "is alleged to be tied to"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 3,
@@ -266,6 +274,7 @@
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {

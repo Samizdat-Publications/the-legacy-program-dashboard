@@ -47,6 +47,7 @@
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
 "predicate": "brought_to_record",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -57,7 +58,7 @@
 ],
 "tier": "C",
 "type": "research",
-"verb": "was brought to the record by"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

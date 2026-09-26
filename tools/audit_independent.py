@@ -246,6 +246,9 @@ def predicate_rules(vocab, b):
     ck("every shipped predicate's classes hold, read from the node files", wrong_cls[:5], [])
 
     by_id = {r["id"]: r for r in rows}
+    phrase = {f["id"]: f.get("phrase") for f in vocab.get("predicateFamilies") or []}
+    ck("every family carries a neutral phrase for the rows whose predicate is not shown",
+       sorted(k for k, v in phrase.items() if not v), [])
     wrong_verb = []
     for nid, c in conns:
         r = by_id.get(c.get("edgeId"))
@@ -256,6 +259,10 @@ def predicate_rules(vocab, b):
             want = p["forward"]
         else:
             want = p["forward"] if r[r["subject"]] == nid else p["inverse"]
+        # the display rule, restated: a predicate is shown (label and arrow) only
+        # at high confidence, read from the side-car, not from edges.json's flag
+        if (side.get(r["id"]) or {}).get("confidence") != "high":
+            want = phrase[p["family"]]
         if c.get("verb") != want or c.get("predicate") != r["predicate"]:
             wrong_verb.append(f"{nid}:{r['id']}")
     ck("every connection reads its predicate from its own side", wrong_verb[:5], [])

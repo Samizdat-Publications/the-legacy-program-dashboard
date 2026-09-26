@@ -53,6 +53,7 @@
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Also established that the program covers oceanic as well as terrestrial cases.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -63,7 +64,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "investigated"
+"verb": "linked through oversight"
 }
 ],
 "date": "2024-11-13",

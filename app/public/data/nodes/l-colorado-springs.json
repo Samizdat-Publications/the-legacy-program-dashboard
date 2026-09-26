@@ -41,6 +41,7 @@
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "A self-identified whistleblower said in 2025 he located the material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed the claimant had mistaken wargame documents for UFO revelations. Schriever Space Force Base is at Colorado Springs.",
 "predicate": "occurred_at",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -51,7 +52,7 @@
 ],
 "tier": "A",
 "type": "geographic",
-"verb": "was the scene of"
+"verb": "linked in place or time"
 }
 ],
 "coords": [

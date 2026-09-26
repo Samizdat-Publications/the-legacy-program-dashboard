@@ -47,6 +47,7 @@
 "label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
 "note": "This is the custody event of the domain: everything the Task Force held passed to an office inside OSD. The memorandum's word is 'materials', not merely records.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Andy Biggs",
 "note": "Asked by Biggs whether the 2019 classification guidelines interfere with the government's ability to be transparent, Grusch answered: 'Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.' Biggs: 'Uh-oh. You got a bias then.' Grusch then characterised the practice rather than the guide - 'I will call it a lazy attitude about declassifying videos'. The witness co-authored the instrument he was being asked to criticise, and said so unprompted.",
 "predicate": "investigated",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -83,7 +85,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "was investigated by"
+"verb": "linked through oversight"
 },
 {
 "claimTier": 3,
@@ -99,6 +101,7 @@
 "label": "Christopher K. Mellon",
 "note": "Mellon's March 2018 Washington Post op-ed and his subsequent Hill work are the bridge between the TTSA period and the formal government structures. The causal link is reasoned from sequence and his documented access, not from a single primary record.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -114,7 +117,7 @@
 ],
 "tier": "A",
 "type": "programmatic",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -130,6 +133,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch held the National Reconnaissance Office's billet to the Task Force and testified that its Director tasked him to inventory relevant special access programmes.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -156,6 +160,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch swore he was a member of the UAP Task Force from 2019 to 2021 in his Air Force NRO reservist capacity; his published biography and The Debrief both record the same billet. This is the seat from which he was tasked to inventory SAPs and CAPs.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -182,6 +187,7 @@
 "label": "David L. Norquist",
 "note": "Norquist, as Deputy Secretary of Defense, formally approved the UAPTF on 4 August 2020; the Navy announced it on 14 August.",
 "predicate": "created",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -208,6 +214,7 @@
 "label": "Jay Stratton",
 "note": "Stratton is publicly identified as UAPTF director in its operative period, including in his own public statements and in the 2024 announcement of his memoir.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -234,6 +241,7 @@
 "label": "Jay Stratton",
 "note": "The AAWSAP alumnus who took the subject back inside government after the 2017 disclosure.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -260,6 +268,7 @@
 "label": "Karl E. Nell",
 "note": "Nell's Task Force role is what converts his corroboration from opinion into positional testimony: he sat inside the same organization Grusch reported to.",
 "predicate": "member_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -270,7 +279,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "had as a member"
+"verb": "linked through a role"
 },
 {
 "claimTier": 3,
@@ -286,6 +295,7 @@
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "note": "The July 2019 events were investigated by the Navy, Coast Guard and FBI and reached the Chief of Naval Operations in the period immediately preceding the Task Force's establishment; the linkage is reasoned from timing and subject matter, not from a released tasking document.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -296,7 +306,7 @@
 ],
 "tier": "C",
 "type": "investigative",
-"verb": "followed from"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -312,6 +322,7 @@
 "label": "Huntsville, Alabama",
 "note": "Science magazine reported in June 2022 that Travis S. Taylor, a principal research scientist at Huntsville-based Radiance Technologies, was chief scientist of the UAP Task Force.",
 "predicate": "connected_to",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -338,6 +349,7 @@
 "label": "Navy Range Fouler Reports (72 reports, 2004-2021)",
 "note": "The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent from 2021 alone - the year after the Task Force was stood up.",
 "predicate": "led_to",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -348,7 +360,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "led to"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -364,6 +376,7 @@
 "label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "note": "'Consistent with section 1683 of the NDAA for FY 2022, I also direct the Secretary of the Navy to disestablish the Unidentified Aerial Phenomena Task Force (UAPTF) no later than the date the AARO is established, and to support the orderly transition of the UAPTF, including the transfer of any data, analysis, or other relevant material, to the AARO.' The statute did not abolish the task force directly; it required an office whose establishment the Deputy Secretary made the trigger for disestablishment.",
 "predicate": "led_to",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -390,6 +403,7 @@
 "label": "National Reconnaissance Office",
 "note": "David Grusch's official House Oversight witness title was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -416,6 +430,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The Task Force was the body, the assessment was its output. The UAPTF was approved 4 August 2020 by Deputy Secretary Norquist under the Department of the Navy; the 144 incidents in the June 2021 assessment came from its holdings, with ODNI transmitting the product. The programmatic edge on this pair records the data provenance; this one records the institutional relationship.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -431,7 +446,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "includes"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -447,6 +462,7 @@
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The assessment's 144 incidents came from the Task Force's holdings; ODNI transmitted the product but the Task Force built the data.",
 "predicate": "produced",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -473,6 +489,7 @@
 "label": "Office of Naval Intelligence",
 "note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -493,7 +510,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 2,
@@ -509,6 +526,7 @@
 "label": "Travis S. Taylor",
 "note": "Reported by Science magazine in June 2022. No government organisation chart naming him in the post has been released.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -535,6 +553,7 @@
 "label": "United States Navy",
 "note": "'Deputy Secretary of Defense David L. Norquist approved the establishment of an Unidentified Aerial Phenomena (UAP) Task Force (UAPTF)' on 4 August 2020, with the Department of the Navy leading it under the cognizance of the Office of the Under Secretary of Defense for Intelligence and Security. Its stated mission was 'to detect, analyze and catalog UAPs that could potentially pose a threat to U.S. national security'. The task force was disestablished two years later on the Deputy Secretary's direction when AARO stood up.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

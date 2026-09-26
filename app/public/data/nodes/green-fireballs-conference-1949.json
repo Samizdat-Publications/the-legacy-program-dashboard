@@ -41,6 +41,7 @@
 "label": "United States Department of Energy",
 "note": "The green fireball events centred on the Los Alamos and Sandia complexes and produced a conference and the subsequent Project TWINKLE instrumented observation effort. Attested by the FBI and Air Force file material released through the 2026 PURSUE tranches.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -67,6 +68,7 @@
 "label": "Edward Teller",
 "note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
 "predicate": "witnessed",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -93,6 +95,7 @@
 "label": "Los Alamos, New Mexico",
 "note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -119,6 +122,7 @@
 "label": "Los Alamos National Laboratory",
 "note": "LANL confirms the 16 February 1949 conference and its custody of the minutes in its own published account.",
 "predicate": "holds",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -145,6 +149,7 @@
 "label": "Lincoln LaPaz",
 "note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
 "predicate": "witnessed",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -155,7 +160,7 @@
 ],
 "tier": "C",
 "type": "witness-chain",
-"verb": "has a first-hand account from"
+"verb": "linked through testimony"
 }
 ],
 "coords": null,

@@ -181,6 +181,7 @@
 "label": "The Galileo Project",
 "note": "Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish.",
 "predicate": "founded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -212,6 +213,7 @@
 "label": "Garry Nolan",
 "note": "The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -243,6 +245,7 @@
 "label": "Harvard-Smithsonian Center for Astrophysics",
 "note": "The paper's affiliation block gives Loeb both affiliations at once - 'Abraham Loeb 1,2', where 1 is 'Harvard-Smithsonian Center for Astrophysics, 60 Garden Street, Cambridge, MA 02138' and 2 is the Galileo Project at the same address - and footnotes him 'Head of the Galileo Project'. This is his institutional home stated in a peer-reviewed record, not on a project page.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -279,6 +282,7 @@
 "label": "Cambridge, Massachusetts",
 "note": "The overview paper gives Loeb's affiliation as 'Head of the Galileo Project, Astronomy Department, Harvard University, 60 Garden Street, Cambridge, MA 02138', and dates the project's first year as August 2021 through July 2022.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -315,6 +319,7 @@
 "label": "Sean M. Kirkpatrick",
 "note": "Recorded because the chair of the 2026 external review body previously published jointly with the first AARO director.",
 "predicate": "worked_with",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -341,6 +346,7 @@
 "label": "UAP Science Advisory Council",
 "note": "DefenseScoop reports Loeb formed and leads the council; the Sol Foundation says it was announced by ODNI with FBI support. The two accounts differ on its legal character.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

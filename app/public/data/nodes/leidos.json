@@ -35,6 +35,7 @@
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "Sec. 1841 defines the collection as record copies of all 'Government, Government-provided, or Government-funded records' relating to UAP, technologies of unknown origin and non-human intelligence - a formulation that reaches services primes holding classified records under contract. No accounting of contractor holdings has been made.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -50,7 +51,7 @@
 ],
 "tier": "A",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "linked through law"
 },
 {
 "claimTier": 1,
@@ -66,6 +67,7 @@
 "label": "Science Applications International Corporation",
 "note": "The split moved the classified services portfolio, and whatever records attach to it, into a separate corporate entity.",
 "predicate": "succeeded",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -76,7 +78,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "succeeded"
+"verb": "linked in how it is organised"
 }
 ],
 "coords": null,

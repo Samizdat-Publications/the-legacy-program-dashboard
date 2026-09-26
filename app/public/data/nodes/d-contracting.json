@@ -42,6 +42,7 @@
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -104,6 +106,7 @@
 "label": "The FFRDC Seam",
 "note": "FAR 35.017 is a procurement regulation. The records status, disclosure direction and sole-source features that make the FFRDC form load-bearing on this board are all properties of the contracting instrument, which is why the seam domain should hang off contracting mechanics rather than float beside it.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -135,6 +138,7 @@
 "label": "Funding Channels",
 "note": "The contract vehicle is the visible end of the money; the appropriation and transfer authorities are the invisible end.",
 "predicate": "part_of",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -145,7 +149,7 @@
 ],
 "tier": "A",
 "type": "funding",
-"verb": "is part of"
+"verb": "linked in how it is organised"
 },
 {
 "claimTier": 1,
@@ -161,6 +165,7 @@
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -192,6 +197,7 @@
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "EG&G instrumented and fired US nuclear tests from the Manhattan Project onward and became the classified services contractor for the Nevada complex, including the Air Force operating location near Groom Lake - a facility whose existence required a Presidential Determination published at 60 FR 52823 to exempt it from disclosure. It is the historical template for how contracting works where the place of performance cannot be named.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -218,6 +224,7 @@
 "label": "Lockheed Martin Corporation",
 "note": "Lockheed Martin's prime contract obligations run to the hundreds of billions of dollars in USAspending records, a portion carried as classified line items visible in financial systems only as a number. It is also the only company named on the floor of a congressional hearing by a sworn witness in connection with the custody allegation, which makes it the test case for whether contracting records can be made to answer the question.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -254,6 +261,7 @@
 "label": "The MITRE Corporation",
 "note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -290,6 +298,7 @@
 "label": "Raytheon (RTX Corporation)",
 "note": "Raytheon builds the AN/APG-79 and ATFLIR families through which the military detects and images the objects at issue, which makes it the corporate custodian of a withheld category of contractor-generated sensor data distinct from the custody allegation. Graded Tier 2: no source places Raytheon in any UAP-specific contract vehicle, and the edge rests on documented prime-contractor role plus hearing-record discussion of sensor data.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -321,6 +330,7 @@
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "Signed 10 October 2019 by the Director of the Army Ground Vehicle Systems Center and announced 17 October 2019. A Cooperative Research and Development Agreement sits outside ordinary procurement, involves no exchange of appropriated funds to the partner, and protects the private party's proprietary data - which is exactly the class of vehicle this domain is about. The executed document is not public; sourcing is the partner's own contemporaneous FAQ.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

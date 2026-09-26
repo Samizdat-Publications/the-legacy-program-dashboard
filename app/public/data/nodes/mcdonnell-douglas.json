@@ -35,6 +35,7 @@
 "label": "The Boeing Company",
 "note": "Any corporate record of the Wood study, and of anything else the astronautics organisation held, passed to Boeing. No committee has requested it.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -61,6 +62,7 @@
 "label": "DoD Instruction 3204.01 - Oversight of Independent Research and Development",
 "note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
 "predicate": "preceded",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -87,6 +89,7 @@
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
 "predicate": "made_claims_about",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -97,7 +100,7 @@
 ],
 "tier": "A",
 "type": "institutional",
-"verb": "is the subject of claims by"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 2,
@@ -113,6 +116,7 @@
 "label": "Dr. Robert M. Wood",
 "note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
 "predicate": "held_post",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -123,7 +127,7 @@
 ],
 "tier": "C",
 "type": "institutional",
-"verb": "had in a post"
+"verb": "linked through a role"
 }
 ],
 "coords": null,

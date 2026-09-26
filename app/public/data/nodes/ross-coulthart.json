@@ -94,6 +94,7 @@
 "label": "David Charles Grusch",
 "note": "Grusch's NewsNation interview with Coulthart produced the dead pilots statement and the biologics claim that he then ratified under oath five weeks later when Rep. Mace asked about bodies.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -130,6 +131,7 @@
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "Coulthart is host and NewsNation's senior special investigations correspondent; Reality Check is the vehicle through which the structural model reached broadcast.",
 "predicate": "held_post",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -156,6 +158,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "NewsNation published 'Ross Coulthart on UAP Gerb's claims: I think he's on the money' in early 2026 and ran a multi-part Reality Check series with Gerb culminating in the 4 August 2026 Kona Blue episode, 176,430 views.",
 "predicate": "interviewed",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -171,7 +174,7 @@
 ],
 "tier": "A",
 "type": "investigative",
-"verb": "interviewed"
+"verb": "linked through media coverage"
 },
 {
 "claimTier": 2,
@@ -187,6 +190,7 @@
 "label": "'UAP Gerb' (Sam)",
 "note": "Coulthart carried the Gerb material into mainstream broadcast, including discussion of Immaculate Constellation and of Aerospace Corporation and MITRE in connection with the 2026 UAP Governance Board.",
 "predicate": "interviewed",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

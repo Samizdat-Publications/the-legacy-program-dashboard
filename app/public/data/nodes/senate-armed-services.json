@@ -41,6 +41,7 @@
 "label": "Legislative Process (proposed and pending)",
 "note": "Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -77,6 +78,7 @@
 "label": "Harry M. Reid",
 "note": "The legacy effort was funded by leadership discretion outside the ordinary committee record, and every attempt to reach it since has likewise been a leadership floor amendment rather than a committee product.",
 "predicate": "affects",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -87,7 +89,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "is affected by"
+"verb": "linked in the board's own reading"
 },
 {
 "claimTier": 1,
@@ -103,6 +105,7 @@
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Sec. 7343(a)(1) defines 'appropriate committees of Congress' for this section as the Senate Select Committee on Intelligence, the Senate Armed Services Committee and Senate Appropriations, together with HPSCI, HASC and House Appropriations. SASC is therefore one of the six bodies to which a UAP-related programme must be reported before intelligence funds may be spent on it.",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -129,6 +132,7 @@
 "label": "John F. Reed",
 "note": "Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -155,6 +159,7 @@
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -165,7 +170,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -181,6 +186,7 @@
 "label": "Congressional oversight of special access programs",
 "note": "Same statutory provision; four committees, eight members.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -207,6 +213,7 @@
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "No standalone UAP disclosure bill exists in the Senate in the 118th or 119th Congress, and no committee has ever marked the text up.",
 "predicate": "outside_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -238,6 +245,7 @@
 "label": "United States Senate",
 "note": "SASC is one of the four defense committees to which 10 U.S.C. 119 reporting runs, and one of the two whose chairman and ranking member receive waived-SAP notification.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -264,6 +272,7 @@
 "label": "Waived SAP Notification Group",
 "note": "Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {

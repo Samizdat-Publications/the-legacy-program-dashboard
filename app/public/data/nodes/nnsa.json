@@ -47,6 +47,7 @@
 "label": "United States Department of Energy",
 "note": "NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
 "predicate": "part_of",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -73,6 +74,7 @@
 "label": "Element 115: the Lazar claim and moscovium",
 "note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not.",
 "predicate": "contradicts",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -93,7 +95,7 @@
 ],
 "tier": "B",
 "type": "research",
-"verb": "contradicts"
+"verb": "linked through testimony"
 },
 {
 "claimTier": 1,
@@ -109,6 +111,7 @@
 "label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "50 U.S.C. 2426(e)(1) permits waiver of subsections (a), (b) and (c) and, uniquely, of the report-and-wait requirement in subsection (f).",
 "predicate": "governs",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {

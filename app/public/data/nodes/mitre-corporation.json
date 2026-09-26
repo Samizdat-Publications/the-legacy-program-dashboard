@@ -83,6 +83,7 @@
 "label": "Battelle Memorial Institute",
 "note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
 "predicate": "in_contact_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -98,7 +99,7 @@
 ],
 "tier": "A",
 "type": "behavioral",
-"verb": "was in contact with"
+"verb": "linked through conduct"
 },
 {
 "claimTier": 1,
@@ -114,6 +115,7 @@
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "A MITRE spokesperson said that if any relevant material is found, 'we will coordinate with the federal agencies responsible for the work' - restating the FAR structure under which disclosure runs to the sponsor, not to Congress.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -124,7 +126,7 @@
 ],
 "tier": "A",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -140,6 +142,7 @@
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "MITRE confirmed it was reviewing its archives and said it would 'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
 "predicate": "requested",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -171,6 +174,7 @@
 "label": "Federal Contracting Mechanics",
 "note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -207,6 +211,7 @@
 "label": "The FFRDC Seam",
 "note": "MITRE operates six of the 41 FFRDCs recorded by NSF, spanning defence/intelligence, aviation, tax, health, homeland security and cybersecurity sponsors - the widest sponsor spread of any operator.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -233,6 +238,7 @@
 "label": "Donald M. Kerr",
 "note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -259,6 +265,7 @@
 "label": "The FFRDC / UARC / GOCO mechanism",
 "note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.",
 "predicate": "exemplifies",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -290,6 +297,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
 "predicate": "refused",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -316,6 +324,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -342,6 +351,7 @@
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Allegations include exploitation of non-human technologies from late-1940s recoveries and all-source processing of data on a very large Atlantic USO; no primary document has been produced.",
 "predicate": "made_claims_about",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -368,6 +378,7 @@
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "MITRE: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets' - a compliance posture with an executive-branch veto inside it.",
 "predicate": "refused",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -378,7 +389,7 @@
 ],
 "tier": "B",
 "type": "denial",
-"verb": "refused"
+"verb": "linked through a denial"
 },
 {
 "claimTier": 1,
@@ -394,6 +405,7 @@
 "label": "JASON",
 "note": "MITRE provides management and logistics for the government's most sensitive standing scientific advisory panel; the contract was saved by an NNSA sole-source award in April 2019 after DoD declined renewal.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -425,6 +437,7 @@
 "label": "Jason Providakes",
 "note": "His tenure spans the December 2017 AATIP revelation, the UAP Task Force, the 2021 ODNI assessment, AARO's creation, and the Grusch testimony - the period Burlison's request covers.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -451,6 +464,7 @@
 "label": "Bedford, Massachusetts",
 "note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -492,6 +506,7 @@
 "label": "McLean, Virginia",
 "note": "MITRE names McLean, Virginia as one of its two principal locations, with four buildings on Colshire Drive. McLean is where the defence and intelligence FFRDC work sits: the NSF master list registers the National Security Engineering Center, the Center for Advanced Aviation System Development, the Center for Enterprise Modernization and HSSEDI at McLean.",
 "predicate": "located_at",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -528,6 +543,7 @@
 "label": "Naval Air Station Patuxent River, Maryland",
 "note": "The FFRDC form grants privileged long-term access to classified holdings while barring manufacturing and competition; no allegation of custody attaches to MITRE.",
 "predicate": "located_at",
+"predicateShown": false,
 "predicateSide": "subject",
 "sources": [
 {
@@ -538,7 +554,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "is located at"
+"verb": "linked in place or time"
 },
 {
 "claimTier": 1,
@@ -554,6 +570,7 @@
 "label": "Mark Todd Peters",
 "note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -580,6 +597,7 @@
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "note": "MITRE is given a named chapter inside the structural episode, seven months before Gerb published his full MITRE investigation - establishing that MITRE was already central to the model in January 2026.",
 "predicate": "concerns",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -606,6 +624,7 @@
 "label": "MIT Lincoln Laboratory",
 "note": "485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship.",
 "predicate": "founded",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -621,7 +640,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "was founded by"
+"verb": "linked through a role"
 },
 {
 "claimTier": 1,
@@ -637,6 +656,7 @@
 "label": "Center for Advanced Aviation System Development (CAASD)",
 "note": "CAASD gives MITRE the engineering authority over the civil air surveillance picture, under contracts DTFAWA10C00080 and 693KA822C00001.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -663,6 +683,7 @@
 "label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
 "note": "Created 5 March 2009; the DHS engineering franchise sits with the same operator now under congressional UAP records demand.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -689,6 +710,7 @@
 "label": "National Security Engineering Center (NSEC)",
 "note": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
 "predicate": "ran",
+"predicateShown": true,
 "predicateSide": "subject",
 "sources": [
 {
@@ -720,6 +742,7 @@
 "label": "Northrop Grumman Corporation",
 "note": "Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
 "predicate": "worked_with",
+"predicateShown": false,
 "predicateSide": "either",
 "sources": [
 {
@@ -730,7 +753,7 @@
 ],
 "tier": "B",
 "type": "institutional",
-"verb": "worked with"
+"verb": "linked through a role"
 },
 {
 "claimTier": 2,
@@ -746,6 +769,7 @@
 "label": "RAND Corporation",
 "note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
 "predicate": "parallels",
+"predicateShown": true,
 "predicateSide": "either",
 "sources": [
 {
@@ -777,6 +801,7 @@
 "label": "Robert R. Everett",
 "note": "Everett joined MITRE at incorporation as first technical director and later became its president.",
 "predicate": "led",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -803,6 +828,7 @@
 "label": "Samantha F. Ravich",
 "note": "Elected three days before the Burlison production request was sent; former vice chair of the President's Intelligence Advisory Board.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -829,6 +855,7 @@
 "label": "Susan M. Gordon",
 "note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
 "predicate": "member_of",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
@@ -855,6 +882,7 @@
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The amendment extends disclosure requirements to covered government contractors - the only instrument that would reach the holdings Burlison sought from MITRE by letter in May 2026.",
 "predicate": "governs",
+"predicateShown": false,
 "predicateSide": "object",
 "sources": [
 {
@@ -870,7 +898,7 @@
 ],
 "tier": "B",
 "type": "legislative",
-"verb": "is governed by"
+"verb": "linked through law"
 }
 ],
 "coords": null,

@@ -35,6 +35,7 @@
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
 "predicate": "occurred_at",
+"predicateShown": true,
 "predicateSide": "object",
 "sources": [
 {
