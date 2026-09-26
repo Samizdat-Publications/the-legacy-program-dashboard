@@ -15,7 +15,10 @@
  * by section, every event named) and added C50 to C53: the directories, their
  * person facets against research/_person_facets.json, search over everything
  * with its keys, and the timeline's panel, counts, repeats, scopes and strand
- * filter. All against the built app served by `npm run preview`.
+ * filter. Redesign phase 11 retired C10 with the neighbourhood's ring and added
+ * C70: the grouped neighbourhood (every neighbour named once, in its family's
+ * column, two steps out one family at a time, each via named). All against
+ * the built app served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -203,8 +206,15 @@ const IN_PAGE = {
       const r = el.getBoundingClientRect();
       const box = boxSel ? el.closest(boxSel) : null;
       const br = box ? box.getBoundingClientRect() : null;
+      /* a label that wraps (the grouped neighbourhood lets a long name take a
+         second line rather than cutting it) is whole when its line boxes add up
+         to its natural width, less the space swallowed at each break */
+      const rg = document.createRange();
+      rg.selectNodeContents(el);
+      const lb = Array.prototype.filter.call(rg.getClientRects(), (q) => q.width > 0);
       out.push({
         text: el.textContent || '',
+        lines: lb.length, sumW: lb.reduce((s, q) => s + q.width, 0),
         fs: cs.fontSize, to: cs.textOverflow, nat,
         x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
         bid: box ? (box.getAttribute('data-id') || box.getAttribute('href') || '') : '',
@@ -418,21 +428,45 @@ const IN_PAGE = {
     }));
   },
 
-  /* Neighbourhood ring entries, from the DOM. */
-  hood() {
-    return Array.prototype.map.call(document.querySelectorAll('a.hood-n'), (a) => {
-      const r = a.getBoundingClientRect();
-      const m = a.querySelector('.mark');
-      const mr = m ? m.getBoundingClientRect() : null;
-      const lab = a.querySelector('.hood-label');
+  /* The grouped neighbourhood (phase 11), from the DOM: every neighbour row as
+     drawn, the column each sits in and that column's printed head, the lines,
+     and whatever "two steps out" list is open, with the via each group names. */
+  gn() {
+    const txt = (el) => ((el && el.textContent) || '').trim();
+    const idOf = (a) => ((a && a.getAttribute('href')) || '').replace(/^#\/n\//, '').replace(/\/hood$/, '');
+    const box = (el) => { const r = el.getBoundingClientRect(); return { x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height }; };
+    const rows = Array.prototype.map.call(document.querySelectorAll('.gn li.gn-row'), (li) => {
+      const fam = li.closest('.gn-fam');
+      const a = li.querySelector('a.gn-name');
+      const m = a ? a.querySelector('.mark') : null;
+      const say = li.querySelector('.gn-say');
       return {
-        id: (a.getAttribute('href') || '').slice(4),
-        hop: (a.className.match(/hop(\d)/) || [0, '?'])[1],
-        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
-        mw: mr ? Math.round(mr.width) : 0, mh: mr ? Math.round(mr.height) : 0,
-        label: lab ? lab.textContent : null,
+        id: idOf(a), family: fam ? fam.getAttribute('data-family') : null,
+        head: fam ? txt(fam.querySelector('.gn-flabel')) : '',
+        name: txt(a && a.querySelector('.gn-label')), say: txt(say),
+        title: (say && say.getAttribute('title')) || '',
+        mw: m ? Math.round(m.getBoundingClientRect().width) : 0, mh: m ? Math.round(m.getBoundingClientRect().height) : 0,
+        ...(a ? box(a) : { x: 0, y: 0, w: 0, h: 0 }),
       };
     });
+    const fams = Array.prototype.map.call(document.querySelectorAll('.gn .gn-fam'), (f) => f.getAttribute('data-family'));
+    const lines = Array.prototype.map.call(document.querySelectorAll('.gn .gn-lines path'), (p) => ({
+      family: p.getAttribute('data-family'), d: p.getAttribute('d') || '',
+    }));
+    const open = Array.prototype.filter.call(document.querySelectorAll('.gn .gn-fam'), (f) => !!f.querySelector('.gn-two .gn-two-head'))
+      .map((f) => ({
+        family: f.getAttribute('data-family'),
+        groups: Array.prototype.map.call(f.querySelectorAll('.gn-two .gn-via'), (v) => {
+          const va = v.querySelector('.gn-via-head a.gn-via-name');
+          return {
+            via: idOf(va), viaText: txt(va), head: txt(v.querySelector('.gn-via-head')),
+            ids: Array.prototype.map.call(v.querySelectorAll('li.gn-row2 a.gn-name'), (a) => idOf(a)),
+            names: Array.prototype.map.call(v.querySelectorAll('li.gn-row2 .gn-label'), (e) => txt(e)),
+          };
+        }),
+      }));
+    const c = document.querySelector('.gn .gn-centre');
+    return { centre: c ? c.getAttribute('data-id') : null, centreName: txt(c && c.querySelector('.gn-who')), rows, fams, lines, open };
   },
 
   /* Timeline, from the rendered items and the rendered lane boxes (phase 9:
@@ -622,8 +656,10 @@ const IN_PAGE = {
       out.chips = chips.length;
       out.what = 'map chips named and inside the screen';
     } else if (kind === 'hood') {
-      out.have = all('.conn-head .row-label').filter((e) => seen(e) && txt(e)).length;
-      out.what = 'neighbours named';
+      const rows = all('.gn li.gn-row .gn-label');
+      out.want = Math.max(1, rows.length);
+      out.have = rows.filter((e) => seen(e) && txt(e)).length;
+      out.what = 'neighbours named and inside the screen';
     } else if (kind === 'node') {
       out.have = all('.claim .ctext').filter((e) => seen(e, 150) && txt(e)).length;
       out.what = 'claim rows readable';
@@ -1114,15 +1150,35 @@ const POISONS = {
       document.querySelector('#view').appendChild(a);
     }),
   },
-  c10: {
-    stops: ['hood0'],
-    what: 'draws a node on the start-here ring that the owner did not flag',
+  /* C10 (the start-here ring and the 3-hop ring) retired with the ring in
+     phase 11; C70 is the grouped neighbourhood that replaced it. */
+  c70: {
+    stops: ['hood'],
+    what: 'names one neighbour twice: a copy of its row under its own column',
     fn: async (page) => page.evaluate(() => {
-      const one = document.querySelector('a.hood-n');
-      if (!one) return;
-      const c = one.cloneNode(true);
-      c.setAttribute('href', '#/n/lockheed-martin');
-      one.parentElement.appendChild(c);
+      const r = document.querySelector('.gn li.gn-row');
+      if (r) r.parentElement.appendChild(r.cloneNode(true));
+    }),
+  },
+  c70b: {
+    check: 'c70',
+    stops: ['hood'],
+    what: 'moves one neighbour into the column of a family it does not sit in',
+    fn: async (page) => page.evaluate(() => {
+      const fams = Array.from(document.querySelectorAll('.gn .gn-fam'));
+      if (fams.length < 2) return;
+      const r = fams[0].querySelector('li.gn-row');
+      const to = fams[1].querySelector('ul.gn-rows');
+      if (r && to) to.appendChild(r);
+    }),
+  },
+  c70c: {
+    check: 'c70',
+    stops: ['hood2'],
+    what: 'strips the name from one "via" line of the open two-steps list',
+    fn: async (page) => page.evaluate(() => {
+      const v = document.querySelector('.gn .gn-two .gn-via .gn-via-name');
+      if (v) v.remove();
     }),
   },
   c11: {
@@ -1753,6 +1809,44 @@ async function main() {
   const sourceIds = new Set(libFile.sources.map((r) => r.id));
   const topicMembers = Object.fromEntries(topicsFile.topics.map((t) => [t.id, (topicRecs[t.id].members || []).length]));
 
+  /* ---- C70's rule, restated ---------------------------------------------- */
+  /* The grouped neighbourhood (phase 11) names each neighbour of the node ONCE,
+     in the column of one relationship family: denials if any of its links is a
+     denial, otherwise the first family, in vocab.json's order, among its links.
+     Two steps out through a family are the nodes linked (edges.json) to one of
+     that family's neighbours that are neither the node nor a neighbour. This is
+     written again here from the record, not imported from the app. */
+  const FAM_ORDER = (vocabFile.predicateFamilies || []).map((f) => f.id);
+  const FAM_LABEL = Object.fromEntries((vocabFile.predicateFamilies || []).map((f) => [f.id, f.label]));
+  const famRank = (f) => { const i = FAM_ORDER.indexOf(f); return i < 0 ? 99 : i; };
+  const GN = (() => {
+    const links = new Map();
+    for (const c of focusRec.connections || []) {
+      if (!ids.has(c.id)) continue;
+      if (!links.has(c.id)) links.set(c.id, []);
+      links.get(c.id).push(c.family || 'other');
+    }
+    const famOf = new Map();
+    for (const [nid, fs] of links) {
+      famOf.set(nid, fs.includes('denial') ? 'denial'
+        : fs.slice().sort((a, b) => famRank(a) - famRank(b) || (a < b ? -1 : 1))[0]);
+    }
+    const byFam = new Map();
+    for (const [nid, f] of famOf) { if (!byFam.has(f)) byFam.set(f, []); byFam.get(f).push(nid); }
+    const two = (f) => {
+      const out = new Set();
+      for (const n of byFam.get(f) || []) for (const m of adj.get(n) || []) {
+        if (m !== NODE_FOCUS && !famOf.has(m)) out.add(m);
+      }
+      return out;
+    };
+    /* the two families the drive opens: the largest columns that reach further */
+    const twoFams = [...byFam.keys()].filter((f) => two(f).size > 0)
+      .sort((a, b) => byFam.get(b).length - byFam.get(a).length || famRank(a) - famRank(b)).slice(0, 2);
+    return { famOf, byFam, two, twoFams };
+  })();
+  const labelOf = new Map(index.nodes.map((n) => [n.id, n.label]));
+
   const ctx = { deg, unjoined, topicMembers };
 
   /* ---- browser ---------------------------------------------------------- */
@@ -1829,14 +1923,20 @@ async function main() {
     mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
 
   await stop('hood0', '#/hood', 2000);
-  S.hood0.hood = await ev(IN_PAGE.hood);
 
-  await stop('hood3', '#/hood/' + NODE_FOCUS, 2200, async (p) => {
-    const b = p.locator('button.hood-b', { hasText: '3 HOPS' }).first();
-    if (await b.count()) { await b.click(); await p.waitForTimeout(2200); }
-  });
-  S.hood3.hood = await ev(IN_PAGE.hood);
-  S.hood3.labels = await ev(IN_PAGE.labels, '.hood-label', 'a.hood-n');
+  /* phase 11: the grouped neighbourhood at rest, then two steps out through
+     one family, then through another (only one may be open at a time) */
+  await stop('hood', '#/hood/' + NODE_FOCUS, 2200);
+  S.hood.gn = await ev(IN_PAGE.gn);
+  S.hood.labels = await ev(IN_PAGE.labels, '.gn li.gn-row .gn-label', 'li.gn-row');
+  const openTwo = (fam) => async (p) => {
+    const b = p.locator('.gn .gn-fam[data-family="' + fam + '"] button.gn-two-b').first();
+    if (await b.count()) { await b.click(); await p.waitForTimeout(700); }
+  };
+  await stop('hood2', '#/hood/' + NODE_FOCUS, 200, openTwo(GN.twoFams[0]));
+  S.hood2.gn = await ev(IN_PAGE.gn);
+  await stop('hood2b', '#/hood/' + NODE_FOCUS, 200, openTwo(GN.twoFams[1]));
+  S.hood2b.gn = await ev(IN_PAGE.gn);
 
   /* A poison run only has to prove its own check fails, so it walks the shortest
      itinerary that still reaches that check. C7 needs all eight threads, and C17
@@ -2549,14 +2649,17 @@ async function main() {
   /* ---- C2 --------------------------------------------------------------- */
   {
     const all = [...S.map.labels.map((l) => ({ ...l, where: 'map' })),
-                 ...S.hood3.labels.map((l) => ({ ...l, where: 'hood' }))];
+                 ...S.hood.labels.map((l) => ({ ...l, where: 'hood' }))];
     const sizes = [...new Set(all.map((l) => l.fs))];
     check('c2', sizes.length === 1, 'C2  one label size on the map and the neighbourhood',
       `${all.length} labels at ${sizes.join(', ')}`);
     const ell = all.filter((l) => l.to === 'ellipsis' || /[…]|\.\.\.$/.test(l.text));
     check('c2', ell.length === 0, 'C2  no text-overflow and no ellipsis character in any label',
       ell.length ? clip(ell.map((l) => l.where + ':' + l.text)) : `${all.length} labels clean`);
-    const narrow = all.filter((l) => l.w + 0.5 < l.nat);
+    /* one line: its box is its text. Wrapped (the neighbourhood's long names):
+       its line boxes add up to its text, less up to one space per break */
+    const narrow = all.filter((l) => ((l.lines || 1) > 1
+      ? l.sumW + 0.5 + 8 * (l.lines - 1) < l.nat : l.w + 0.5 < l.nat));
     check('c2', narrow.length === 0, 'C2  no label box narrower than its own text at its own font',
       narrow.length ? clip(narrow.map((l) => `${l.text} ${l.w.toFixed(0)}<${l.nat.toFixed(0)}`))
         : `${all.length} labels measured against their natural width`);
@@ -2574,9 +2677,6 @@ async function main() {
     const wrong = S.map.map.chips.filter((c) => c.label && short.has(c.id) && c.label !== short.get(c.id));
     check('c3', wrong.length === 0, 'C3  every chip label is the board\'s own short label for that node',
       wrong.length ? clip(wrong.map((c) => c.id)) : 'matched against map.json');
-    const ringAnon = S.hood3.hood.filter((e) => !e.label || !e.label.trim());
-    check('c3', ringAnon.length === 0, 'C3  no ring entry is drawn without a rendered label',
-      ringAnon.length ? clip(ringAnon.map((e) => e.id)) : `${S.hood3.hood.length} ring entries, all named`);
   }
 
   /* ---- C4 --------------------------------------------------------------- */
@@ -2584,7 +2684,7 @@ async function main() {
     const cases = [
       ['map, label mode 1920', S.map.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
       ['map, cell mode 1366', S.map1366.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
-      ['neighbourhood ring', S.hood3.hood],
+      ['neighbourhood names', S.hood.gn.rows.map((r) => ({ id: r.id, x: r.x, y: r.y, w: r.w, h: r.h }))],
       ['timeline chips and counts', [...S.timeline.timeline.items, ...S.timeline.timeline.mores]],
       ['thread small map', S['thread:custody'].thread.chips],
     ];
@@ -2731,33 +2831,69 @@ async function main() {
       deadIds.length ? `${deadIds.length} dead: ` + clip(deadIds, 5) : 'all resolve to a thread, a patent or a topic');
   }
 
-  /* ---- C10 -------------------------------------------------------------- */
+  /* ---- C70 -------------------------------------------------------------- */
+  /* The grouped neighbourhood (phase 11) against C70's rule restated above:
+     every neighbour named once, in its family's column under that family's own
+     label, with a reading and a sentence; one orthogonal line per column; two
+     steps out one family at a time, every node reached listed once under a
+     named neighbour it is really linked to. C10 retired with the ring. */
   {
-    const drawn = S.hood0.hood.map((e) => e.id);
-    const want = flags.map((f) => f.id);
-    const extra = drawn.filter((d) => !want.includes(d));
-    const missing = want.filter((w) => !drawn.includes(w));
-    check('c10', extra.length === 0 && missing.length === 0 && drawn.length === want.length,
-      'C10 #/hood draws exactly the ' + want.length + ' start-here nodes and nothing else',
-      extra.length || missing.length ? `extra ${clip(extra, 3)} · missing ${clip(missing, 3)}`
-        : `${drawn.length} entries, set-equal to highlights.json`);
-
-    let f = new Set([NODE_FOCUS]);
-    const allowed = new Set([NODE_FOCUS]);
-    for (let hop = 1; hop <= 3; hop++) {
-      const next = new Set();
-      for (const a of f) for (const b of adj.get(a) || []) if (!allowed.has(b)) { allowed.add(b); next.add(b); }
-      f = next;
+    const g = S.hood.gn;
+    const want = [...GN.famOf.keys()];
+    const count = new Map();
+    for (const r of g.rows) count.set(r.id, (count.get(r.id) || 0) + 1);
+    const twice = [...count].filter(([, n]) => n > 1).map(([id, n]) => id + ' x' + n);
+    const missing = want.filter((id) => !count.has(id));
+    const extra = [...count.keys()].filter((id) => !GN.famOf.has(id));
+    check('c70', g.centre === NODE_FOCUS && twice.length === 0 && missing.length === 0 && extra.length === 0 && want.length > 0,
+      `C70 #/hood/${NODE_FOCUS} names every neighbour exactly once`,
+      twice.length || missing.length || extra.length
+        ? `named twice ${clip(twice, 3)} · missing ${clip(missing, 3)} · not a neighbour ${clip(extra, 3)}`
+        : `${g.rows.length} rows, ${want.length} neighbours in the record`);
+    const wrongFam = g.rows.filter((r) => GN.famOf.has(r.id) && (r.family !== GN.famOf.get(r.id) || r.head !== FAM_LABEL[r.family]))
+      .map((r) => r.id + ' under ' + (r.head || r.family) + ', sits in ' + GN.famOf.get(r.id));
+    check('c70', wrongFam.length === 0,
+      'C70 each neighbour is in the column of its family, and the column is headed with that family\'s label',
+      wrongFam.length ? clip(wrongFam, 3) : `${g.fams.length} columns: ${g.fams.join(', ')}`);
+    const unsaid = g.rows.filter((r) => r.name !== labelOf.get(r.id) || !r.say || !r.title)
+      .map((r) => r.id + (r.name !== labelOf.get(r.id) ? ' named "' + r.name + '"' : '') + (!r.say ? ' no reading' : '') + (!r.title ? ' no sentence' : ''));
+    check('c70', unsaid.length === 0, 'C70 every row carries the node\'s whole name, the link\'s reading and its sentence',
+      unsaid.length ? clip(unsaid, 3) : `${g.rows.length} rows read`);
+    const ortho = /^M[\d.-]+ [\d.-]+( [HV][\d.-]+)+$/;
+    const badLine = g.lines.filter((l) => !ortho.test(l.d)).map((l) => l.family);
+    const lineFams = g.lines.map((l) => l.family).sort().join('|');
+    check('c70', badLine.length === 0 && lineFams === g.fams.slice().sort().join('|') && g.lines.length > 0,
+      'C70 one orthogonal line from the centre to each family column',
+      `${g.lines.length} lines for ${g.fams.length} columns` + (badLine.length ? ', not orthogonal: ' + clip(badLine, 3) : ''));
+    /* two steps out, through the drive's two families in turn */
+    for (const [key, fam] of [['hood2', GN.twoFams[0]], ['hood2b', GN.twoFams[1]]]) {
+      if (!fam) { check('c70', false, 'C70 two steps out', 'the record offers no family that reaches further'); continue; }
+      const s = S[key].gn;
+      const open = s.open.map((o) => o.family);
+      check('c70', open.length === 1 && open[0] === fam, `C70 two steps out opens one family at a time (${fam})`,
+        'open: ' + (open.join(', ') || 'none'));
+      const o = s.open.find((x) => x.family === fam);
+      if (!o) continue;
+      const wantTwo = GN.two(fam);
+      const got = o.groups.flatMap((v) => v.ids);
+      const n2 = new Map();
+      for (const id of got) n2.set(id, (n2.get(id) || 0) + 1);
+      const dup = [...n2].filter(([, n]) => n > 1).map(([id]) => id);
+      const miss = [...wantTwo].filter((id) => !n2.has(id));
+      const stray = got.filter((id) => !wantTwo.has(id));
+      check('c70', dup.length === 0 && miss.length === 0 && stray.length === 0 && got.length > 0,
+        `C70 two steps out through ${fam} lists every node it reaches, once`,
+        dup.length || miss.length || stray.length
+          ? `twice ${clip(dup, 3)} · missing ${clip(miss, 3)} · not two steps out ${clip(stray, 3)}`
+          : `${got.length} nodes under ${o.groups.length} vias`);
+      const colIds = new Set(GN.byFam.get(fam) || []);
+      const badVia = o.groups.filter((v) => !v.via || !colIds.has(v.via) || v.viaText !== labelOf.get(v.via) ||
+          !/^via /.test(v.head) || v.ids.some((m) => !(adj.get(v.via) || new Set()).has(m)))
+        .map((v) => (v.via || '(no via named)') + (v.viaText ? '' : ' unnamed'));
+      check('c70', badVia.length === 0,
+        `C70 every two-step group says "via" and names a ${fam} neighbour each of its nodes is linked to`,
+        badVia.length ? clip(badVia, 3) : `${o.groups.length} vias named`);
     }
-    for (const s of mapData.summarised || []) {
-      if (s.a === NODE_FOCUS) allowed.add(s.b);
-      if (s.b === NODE_FOCUS) allowed.add(s.a);
-    }
-    const over = S.hood3.hood.map((e) => e.id).filter((id) => !allowed.has(id));
-    check('c10', over.length === 0,
-      'C10 the 3-hop neighbourhood never leaves the hop 1∪2∪3 sets of edges.json',
-      over.length ? `${over.length} outside: ` + clip(over, 4)
-        : `${S.hood3.hood.length} drawn, all inside a set of ${allowed.size}`);
   }
 
   /* ---- C11 -------------------------------------------------------------- */
@@ -2809,9 +2945,9 @@ async function main() {
     check('c12', resid.length === 0, 'C12 chip width is its text plus one constant, nothing else',
       resid.length ? `${resid.length} chips off the constant: ` + clip(resid.map((x) => x.id + ' ' + x.r.toFixed(1)), 3)
         : `${chips.length} chips within [0,1.5]px of text+${'30/46'}`);
-    const marks = [...new Set(S.hood3.hood.map((e) => e.mw + '×' + e.mh))];
-    check('c12', marks.length === 1, 'C12 every ring mark is the same size',
-      `${S.hood3.hood.length} marks at ${marks.join(', ')}`);
+    const marks = [...new Set(S.hood.gn.rows.map((e) => e.mw + '×' + e.mh))];
+    check('c12', marks.length === 1, 'C12 every neighbourhood mark is the same size',
+      `${S.hood.gn.rows.length} marks at ${marks.join(', ')}`);
     const tmw = [...new Set(S['thread:custody'].thread.chips.map((c) => Math.round(c.w) + '×' + Math.round(c.h)))];
     check('c12', tmw.length === 1, 'C12 every thread small-map chip is the same size',
       `${S['thread:custody'].thread.chips.length} chips at ${tmw.join(', ')}`);

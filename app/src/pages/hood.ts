@@ -1,414 +1,239 @@
-/* The neighbourhood: Design response 1.5, 2.2 and 2.4.
+/* The neighbourhood, grouped: redesign phase 11.
  *
- * The selected node in the centre, hop 1 on a ring whose positions are assigned
- * by y in 15px label slots on each side, hop 2 (and 3) in two outer columns.
- * Every name is DOM text at the one label size; the canvas draws only lines.
+ * The entity in the centre; its neighbours in labelled columns, one column per
+ * relationship family; every neighbour named once, with the link read from the
+ * neighbour's side (the predicate's own words where the generator shows it, the
+ * family's word otherwise) and the authored sentence on hover and on tap. One
+ * orthogonal line runs from the centre to each column. Two steps out opens one
+ * family at a time and names, for every node it reaches, the neighbour it is
+ * reached through ("via <name>").
+ *
+ * It replaced a ring whose names were clipped to what fitted, whose far names
+ * gave no "via whom", and whose reason for a link was often a family word
+ * alone (blind critic, phases 6 and 7). A phone reads the same page stacked.
  *
  * Nothing on this page is written here except the frame's own words. Every node
- * name, edge type and tier comes from the board's own record.
+ * name, predicate, sentence and tier comes from the board's own record.
  */
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
-import { loadHighlights, loadNode, loadIndex, clsColour, type IndexNode } from '../data';
-import { familyOf, groupConnections, renderConnGroups } from './connections';
-import { FAMILIES, familyName } from '../vocab';
-import { buildHood, startHereHood, edgeColour, type Entry, type Hood } from '../hood/model';
-import { layout, type Layout, type Placed } from '../hood/layout';
-import { animate, resolve, type Line, type Scene } from '../hood/canvas';
+import { loadHighlights, loadNode, loadIndex, clsColour, dateRange, type Connection, type IndexNode } from '../data';
+import { NO_SENTENCE, familyName } from '../vocab';
+import { adjacency, groupNeighbours, twoSteps, familyLabel, type FamilyGroup, type Neighbour } from '../hood/model';
+import { drawLines } from '../hood/lines';
 import { notFound } from './notfound';
 import '../styles/hood.css';
 
-/* ---- state that survives a change of centre (Design 2.4) ----------------- */
-let chosenHops: 1 | 2 | 3 | null = null;
-let derivedOn = true;
-let expanded = false;
-/* the family filter (phase 7): null is every family. It survives a change of
-   centre like the hop count, and falls back to every family where the new
-   centre has no link of the chosen one. */
-let familyFilter: string | null = null;
+/* the family whose two steps are open. It survives a redraw of the same centre
+   and resets when the centre changes. */
+let openFamily: string | null = null;
+let openFor: string | null = null;
 
-/* One control, a select, so the strip keeps its one-line height: nothing may
-   take height from the stage. `offered` is the centre's own families. */
-function familySelect(offered: { id: string; n: number }[], onPick: (f: string | null) => void): HTMLElement {
-  const sel = h('select', {
-    class: 'hood-fam', 'aria-label': 'Show links of one relationship family',
-    onchange: (e: Event) => { const v = (e.target as HTMLSelectElement).value; onPick(v || null); },
-  });
-  const total = offered.reduce((n, f) => n + f.n, 0);
-  sel.append(h('option', { value: '' }, 'ALL FAMILIES'));
-  for (const f of FAMILIES) {
-    const o = offered.find((x) => x.id === f.id);
-    if (!o) continue;
-    sel.append(h('option', { value: f.id, selected: familyFilter === f.id }, f.label.toUpperCase() + ' · ' + o.n));
-  }
-  sel.title = total + ' neighbour links across ' + offered.length + ' families';
-  return sel;
-}
-
-function defaultHops(): 1 | 2 | 3 {
-  /* one hop by default below 1600px, two at and above */
-  return window.innerWidth >= 1600 ? 2 : 1;
-}
-function hops(): 1 | 2 | 3 {
-  return chosenHops || defaultHops();
-}
-
-/* ---- what the checks read (spec section 6) ------------------------------- */
-export interface RingEntry { id: string; hop: number; x: number; y: number; labelled: boolean }
-interface HoodApi {
-  ring(): RingEntry[];
-  centre(): { id: string | null; label: string; x: number; y: number };
-}
-interface AppWindow extends Window { __app?: Record<string, unknown> }
-
-let ring: RingEntry[] = [];
-let centreOut = { id: null as string | null, label: '', x: 0, y: 0 };
-let installed = false;
-function publish(): void {
-  if (installed) return;
-  installed = true;
-  const w = window as AppWindow;
-  const app = (w.__app = w.__app || {});
-  const api: HoodApi = { ring: () => ring.slice(), centre: () => ({ ...centreOut }) };
-  app.hood = api;
-}
-
-/* ---- one live page at a time -------------------------------------------- */
 let generation = 0;
-let stopPaint: (() => void) | null = null;
-let relayout: (() => void) | null = null;
-let resizeTimer = 0;
-
-window.addEventListener('resize', () => {
-  if (!relayout) return;
-  window.clearTimeout(resizeTimer);
-  resizeTimer = window.setTimeout(() => { if (relayout) relayout(); }, 120);
-});
+let observer: ResizeObserver | null = null;
 
 export async function renderHood(view: HTMLElement, id: string | null): Promise<void> {
   const gen = ++generation;
-  if (stopPaint) { stopPaint(); stopPaint = null; }
-  relayout = null;
-  publish();
-  if (window.innerWidth <= 760) { await renderHoodPhone(view, id, gen); return; }
+  if (observer) { observer.disconnect(); observer = null; }
+  if (!id) { await renderPick(view, gen); return; }
+  if (openFor !== id) { openFamily = null; openFor = id; }
 
-  let hood: Hood;
+  let rec, idx, adj;
   try {
-    if (id) {
-      hood = await buildHood(id, hops(), derivedOn, familyFilter);
-      if (familyFilter && !hood.families.some((f) => f.id === familyFilter)) {
-        familyFilter = null;
-        hood = await buildHood(id, hops(), derivedOn, null);
-      }
-    }
-    else hood = await startHereHood((await loadHighlights()).flags);
+    [rec, idx, adj] = await Promise.all([loadNode(id), loadIndex(), adjacency()]);
   } catch (e) {
     if (gen !== generation) return;
-    notFound(view, id ? '#/hood/' + id : '#/hood',
-      'The neighbourhood needs this node\'s record and the edge list: ' + (e as Error).message);
+    notFound(view, '#/n/' + id + '/hood',
+      "The neighbourhood needs this node's record and the edge list: " + (e as Error).message);
     return;
   }
   if (gen !== generation) return;
+  const byId = new Map<string, IndexNode>(idx.nodes.map((n) => [n.id, n]));
+  const labelOf = (x: string) => (byId.get(x) || { label: x }).label;
+  const groups = groupNeighbours(rec.connections.filter((c) => byId.has(c.id)));
+  const hop1 = new Set(groups.flatMap((g) => g.rows.map((r) => r.id)));
+  const nNeighbours = hop1.size;
 
-  setTitle(hood.centre ? hood.centre.label : 'Neighbourhood', 'Neighbourhood');
-
+  setTitle(rec.label, 'Neighbourhood');
   clear(view);
-  const wrap = h('div', { class: 'hood' });
-  const strip = h('div', { class: 'hood-strip' });
-  const stage = h('div', { class: 'hood-stage' });
-  const legend = h('div', { class: 'hood-legend' });
-  wrap.append(strip, stage, legend);
-  view.append(wrap);
 
-  buildLegend(legend);
+  const page = h('div', { class: 'gn', 'data-centre': rec.id });
+  page.append(h('div', { class: 'gn-head' },
+    h('span', { class: 'eyebrow' }, 'Neighbourhood'),
+    h('span', { class: 'dim' }, nNeighbours + ' neighbours in ' + groups.length +
+      (groups.length === 1 ? ' family' : ' families') +
+      ', each named once. Tap a link\'s words for the sentence behind it. "Two steps out" opens one family at a time.')));
 
-  const canvas = h('canvas', { class: 'hood-canvas', 'aria-hidden': 'true' });
-  stage.append(canvas);
+  const stage = h('div', { class: 'gn-stage' });
+  const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+  svg.setAttribute('class', 'gn-lines');
+  svg.setAttribute('aria-hidden', 'true');
+  const grid = h('div', { class: 'gn-grid' });
+  const sideL = h('div', { class: 'gn-side gn-l' });
+  const sideR = h('div', { class: 'gn-side gn-r' });
+  grid.append(sideL, centreCard(rec.id, rec.label, rec.cls, nNeighbours, groups.length), sideR);
+  stage.append(svg, grid);
+  page.append(stage);
+  view.append(page);
 
-  const draw = () => {
-    if (gen !== generation) return;
-    if (stopPaint) { stopPaint(); stopPaint = null; }
-    paintStage(stage, canvas, hood, id);
-    buildStrip(strip, hood, id);
-  };
-  relayout = draw;
-  draw();
-
-  /* the hop and derived controls rebuild the data, keeping the centre */
-  strip.addEventListener('hood:reload', () => { void renderHood(view, id); });
-}
-
-/* ------------------------------------------------------------------------- */
-
-function buildStrip(strip: HTMLElement, hood: Hood, id: string | null): void {
-  clear(strip);
-  const l = lastLayout;
-  const line = h('div', { class: 'hood-say' });
-  line.append(h('span', { class: 'eyebrow' }, 'Neighbourhood'));
-  /* the board's own short label, as Design's capture has it: the full name goes
-     in the title attribute and on the node page, and the strip must not clip */
-  line.append(h('span', {
-    class: 'hood-who',
-    title: hood.centre ? hood.centre.label : '',
-  }, hood.centre ? hood.centreLabel : 'nothing selected'));
-
-  const bits: string[] = [];
-  if (l) {
-    if (id) {
-      bits.push(l.total.one + ' linked, ' + l.named.one + ' named');
-      bits.push(hops() >= 2
-        ? l.total.two + ' two steps away, ' + l.named.two + ' named'
-        : 'two steps away: off at this width');
-      if (hops() >= 3) bits.push(l.total.three + ' three steps away, ' + l.named.three + ' named');
-      /* the shared-member state is on its own button; the strip keeps to one
-         line at 1366, so it says only what no control shows */
-      if (familyFilter) bits.push(familyName(familyFilter).label.toLowerCase() + ' links only');
-    } else {
-      bits.push(l.total.one + ' start-here nodes, ' + l.named.one + ' named');
-      bits.push('pick one to open its neighbourhood');
-    }
-  }
-  for (const b of bits) {
-    line.append(h('span', { class: 'sep' }, '·'));
-    line.append(h('span', { class: 'dim' }, b));
-  }
-  strip.append(line);
-
-  const ctl = h('div', { class: 'hood-ctl' });
-  const hopBtn = (n: 1 | 2 | 3, label: string) => h('button', {
-    class: 'hood-b' + (hops() === n ? ' on' : ''),
-    type: 'button',
-    'aria-pressed': hops() === n ? 'true' : 'false',
-    onclick: () => { chosenHops = n; expanded = false; strip.dispatchEvent(new CustomEvent('hood:reload')); },
-  }, label);
-  if (id && hood.families.length > 1) {
-    ctl.append(familySelect(hood.families, (f) => {
-      familyFilter = f; expanded = false; strip.dispatchEvent(new CustomEvent('hood:reload'));
-    }));
-  }
-  ctl.append(hopBtn(1, '1 HOP'), hopBtn(2, '2 HOPS'), hopBtn(3, '3 HOPS'));
-  ctl.append(h('button', {
-    class: 'hood-b' + (derivedOn ? ' on' : ''),
-    type: 'button',
-    'aria-pressed': derivedOn ? 'true' : 'false',
-    title: 'Links between two map nodes that share a member too minor for the map.',
-    onclick: () => { derivedOn = !derivedOn; strip.dispatchEvent(new CustomEvent('hood:reload')); },
-  }, 'SHARED MEMBERS'));
-  ctl.append(id
-    ? h('a', { class: 'hood-b', href: '#/n/' + id + '/map' }, 'SHOW ON MAP')
-    : h('a', { class: 'hood-b', href: '#/map' }, 'SHOW THE MAP'));
-  strip.append(ctl);
-}
-
-let lastLayout: Layout | null = null;
-
-function paintStage(stage: HTMLElement, canvas: HTMLCanvasElement, hood: Hood, id: string | null): void {
-  for (const el of Array.from(stage.querySelectorAll('.hood-el'))) el.remove();
-
-  const rect = stage.getBoundingClientRect();
-  const w = Math.max(320, Math.round(rect.width));
-  const hgt = Math.max(240, Math.round(rect.height));
-
-  const outer = hops() >= 2 ? [...hood.hop2, ...(hops() >= 3 ? hood.hop3 : [])] : [];
-  const lay = layout(hood.hop1, outer, w, hgt, hops());
-  lastLayout = lay;
-  const g = lay.geom;
-
-  /* ---- the centre ------------------------------------------------------- */
-  const cwrap = h('div', {
-    class: 'hood-el hood-centre' + (hood.centre ? '' : ' empty'),
-    style: 'left:' + g.cx + 'px;top:' + g.cy + 'px',
+  /* the columns go to the side that is shorter so far, in the vocabulary's
+     order, so the two sides stay close in height */
+  let hl = 0, hr = 0;
+  groups.forEach((g, i) => {
+    const block = familyBlock(g, i, rec.id, hop1, adj, labelOf, byId, () => redraw());
+    const weight = g.rows.length + 3;
+    if (hl <= hr) { sideL.append(block); hl += weight; } else { sideR.append(block); hr += weight; }
   });
-  cwrap.append(mark(hood.centre ? clsColour(hood.centre.cls) : 'var(--faint)'));
-  stage.append(cwrap);
-  stage.append(h('div', {
-    class: 'hood-el hood-centre-name' + (hood.centre ? '' : ' empty'),
-    style: 'left:' + g.cx + 'px;top:' + (g.cy + 14) + 'px',
-  }, hood.centreLabel));
 
-  /* ---- the names -------------------------------------------------------- */
-  for (const p of lay.placed) stage.append(nodeEl(p, hood));
-
-  /* ---- the +N chip and its expansion ------------------------------------ */
-  const missOne = lay.total.one - lay.named.one;
-  const missTwo = lay.total.two - lay.named.two;
-  const missThree = lay.total.three - lay.named.three;
-  if (missOne + missTwo + missThree > 0) {
-    let text = missOne + ' more linked directly';
-    if (hops() >= 2) text += ', ' + missTwo + ' more two steps away';
-    if (hops() >= 3) text += ', ' + missThree + ' more three steps away';
-    text += ': no room on the ring for their full names';
-    const chip = h('div', {
-      class: 'hood-el hood-chip',
-      style: 'left:' + g.cx + 'px;top:' + (g.cy + g.R + 34) + 'px',
-    },
-      h('span', { class: 'dim' }, text),
-      h('span', { class: 'sep' }, '·'),
-      h('button', {
-        class: 'hood-expand-b', type: 'button',
-        onclick: () => { expanded = !expanded; if (relayout) relayout(); },
-      }, expanded ? 'close' : 'expand ›'),
-    );
-    stage.append(chip);
-
-    if (expanded) {
-      const panel = h('div', {
-        class: 'hood-el hood-expanded',
-        style: 'left:' + g.cx + 'px;top:' + g.cy + 'px',
-      });
-      panel.append(h('div', { class: 'eyebrow hood-exp-head' },
-        'Not drawn on the ring, because the whole name does not fit there'));
-      const list = h('div', { class: 'hood-exp-list' });
-      for (const e of lay.unnamed) {
-        list.append(h('a', { class: 'hood-exp-row', href: '#/n/' + e.id },
-          mark(clsColour(e.cls)),
-          h('span', { class: 'hood-exp-label' }, e.full),
-          h('span', { class: 'hood-exp-meta' }, e.suffix),
-        ));
-      }
-      panel.append(list);
-      stage.append(panel);
-    }
-  }
-
-  /* ---- the lines -------------------------------------------------------- */
-  const lines: Line[] = [];
-  const grey = resolve('var(--faint)');
-  for (const p of lay.placed) {
-    if (p.e.hop === 1) {
-      if (!id) continue;            /* nothing selected: no line asserts anything */
-      const isMember = p.e.kind === 'member';
-      lines.push({
-        x1: g.cx, y1: g.cy, x2: p.x, y2: p.y,
-        style: isMember ? 'solid' : 'dash',
-        colour: resolve(isMember ? 'var(--cyan)' : edgeColour(p.e.family)),
-        animate: !isMember,
-      });
-    } else {
-      /* stops at the ring: a hop-2 line is not a claim of a direct edge */
-      const dx = p.x - g.cx, dy = p.y - g.cy;
-      const d = Math.hypot(dx, dy) || 1;
-      lines.push({
-        x1: p.x, y1: p.y,
-        x2: g.cx + (dx / d) * g.R, y2: g.cy + (dy / d) * g.R,
-        style: 'dot', colour: grey, animate: false,
-      });
-    }
-  }
-  const scene: Scene = { w, h: hgt, cx: g.cx, cy: g.cy, r: g.R, lines };
-  stopPaint = animate(canvas, scene);
-
-  /* ---- what the checks read --------------------------------------------- */
-  ring = lay.placed.map((p) => ({
-    id: p.e.id, hop: p.e.hop,
-    x: Math.round(rect.left + p.x), y: Math.round(rect.top + p.y),
-    labelled: true,
-  }));
-  centreOut = {
-    id: hood.centre ? hood.centre.id : null,
-    label: hood.centreLabel,
-    x: Math.round(rect.left + g.cx),
-    y: Math.round(rect.top + g.cy),
-  };
+  const redraw = () => { if (gen === generation) drawLines(stage, svg); };
+  redraw();
+  observer = new ResizeObserver(() => redraw());
+  observer.observe(stage);
+  if (document.fonts && document.fonts.ready) void document.fonts.ready.then(redraw);
 }
 
-function nodeEl(p: Placed, hood: Hood): HTMLElement {
-  const e: Entry = p.e;
-  const left = p.side < 0;
-  const el = h('a', {
-    class: 'hood-el hood-n hop' + e.hop + (left ? ' l' : ' r') +
-      (e.derived ? ' derived' : '') + (e.family === 'denial' ? ' denial' : ''),
-    href: '#/n/' + e.id,
-    style: 'left:' + p.x + 'px;top:' + p.y + 'px',
-    title: e.full + ': ' + (e.say && hood.centre ? hood.centreLabel + ' ' + e.say + ' ' + e.full + ' · ' : '') + e.suffix,
-  });
-  const m = mark(clsColour(e.cls));
-  const name = h('span', { class: 'hood-label' }, e.label);
-  const suf = h('span', { class: suffixClass(e, hood) }, e.suffix);
-  if (left) el.append(name, suf, m);
-  else el.append(m, name, suf);
-  return el;
-}
-
-function suffixClass(e: Entry, hood: Hood): string {
-  if (e.hop !== 1) return 'hood-suffix faint';
-  if (!hood.centre) return 'hood-suffix amber';
-  if (e.family === 'denial') return 'hood-suffix red';
-  if (e.family === 'custody' || e.family === 'money') return 'hood-suffix amber';
-  return 'hood-suffix faint';
-}
-
-function buildLegend(el: HTMLElement): void {
-  const item = (cls: string, text: string) =>
-    h('span', { class: 'hood-leg' }, h('i', { class: 'sw ' + cls }), h('span', { class: 'dim' }, text));
-  el.append(
-    item('solid cyan', 'part of this node, not on the map itself'),
-    item('dash cyan', 'a sourced link, coloured by its relationship family'),
-    item('dash red', 'a denial'),
-    item('dash amber', 'custody or money'),
-    item('dot grey', 'two steps away, via a shared member'),
+function centreCard(id: string, label: string, cls: string, n: number, fams: number): HTMLElement {
+  return h('div', { class: 'gn-centre', 'data-id': id },
+    h('div', { class: 'gn-anchor' }, mark(clsColour(cls)), h('span', { class: 'eyebrow' }, cls)),
+    h('h1', { class: 'gn-who' }, label),
+    h('div', { class: 'dim' }, n + ' neighbours · ' + fams + (fams === 1 ? ' family' : ' families')),
+    h('div', { class: 'gn-acts' },
+      h('a', { class: 'act key', href: '#/n/' + id }, 'NODE PAGE'),
+      h('a', { class: 'act', href: '#/report/n/' + id }, 'REPORT')),
+    h('div', { class: 'gn-legend' },
+      legend('var(--cyan)', 'a sourced link, one line per family'),
+      legend('var(--red)', 'a denial'),
+      legend('var(--amber)', 'custody or money')),
   );
 }
 
-/* IndexNode is used through Hood; naming it keeps the import honest. */
-export type HoodCentre = IndexNode | null;
+function legend(colour: string, text: string): HTMLElement {
+  return h('div', { class: 'gn-leg' },
+    h('i', { class: 'gn-sw', style: 'border-top-color:' + colour, 'aria-hidden': 'true' }),
+    h('span', { class: 'faint' }, text));
+}
 
-/* ---- the phone ------------------------------------------------------------ */
-/* A ring of names needs room a phone does not have; what it would show is the
-   node's neighbours and why each is there. So on a phone the neighbourhood is
-   that list: every neighbour by name, grouped by relationship, each link with
-   its own sentence where the record carries one. */
-async function renderHoodPhone(view: HTMLElement, id: string | null, gen: number): Promise<void> {
-  ring = [];
-  if (!id) {
-    const [flags, idx] = await Promise.all([loadHighlights().then((x) => x.flags), loadIndex()]);
-    if (gen !== generation) return;
-    setTitle('Neighbourhood');
-    clear(view);
-    const byId = new Map(idx.nodes.map((n) => [n.id, n]));
-    const wrap = h('div', { class: 'hood-phone' });
-    wrap.append(h('div', { class: 'hp-head' },
-      h('span', { class: 'eyebrow' }, 'Neighbourhood'), ' ',
-      h('span', { class: 'dim' }, '· nothing selected · pick a start-here node to open its neighbourhood')));
-    const list = h('div', { class: 'hp-list' });
-    for (const f of flags.slice().sort((a, b) => a.rank - b.rank)) {
-      const n = byId.get(f.id);
-      list.append(h('a', { class: 'hp-row', href: '#/n/' + f.id + '/hood' },
-        mark(clsColour(n ? n.cls : '')), h('span', { class: 'hp-name' }, n ? n.label : f.id),
-        h('span', { class: 'amber' }, 'start here ' + f.rank)));
+function sentences(links: Connection[]): string {
+  return links.map((l) => (l.edgeLabel || l.note || NO_SENTENCE) + ' (' +
+    dateRange(l.dateStart, l.dateEnd) + ', Tier ' + (l.claimTier ?? '?') + ')').join('\n');
+}
+
+function familyBlock(
+  g: FamilyGroup, order: number, centre: string, hop1: Set<string>, adj: Map<string, Set<string>>,
+  labelOf: (id: string) => string, byId: Map<string, IndexNode>, redraw: () => void,
+): HTMLElement {
+  const f = familyName(g.family);
+  const block = h('section', {
+    class: 'gn-fam' + (g.family === 'denial' ? ' denial' : ''),
+    'data-family': g.family, style: 'order:' + order,
+  });
+  const two = h('div', { class: 'gn-two' });
+  const btn = h('button', {
+    type: 'button', class: 'gn-two-b', 'aria-expanded': 'false',
+    onclick: () => {
+      const opening = openFamily !== g.family;
+      /* one family at a time: close whichever is open, anywhere on the page */
+      for (const b of Array.from(document.querySelectorAll('.gn-fam .gn-two-b'))) {
+        b.setAttribute('aria-expanded', 'false');
+        b.textContent = 'two steps out ›';
+      }
+      for (const t of Array.from(document.querySelectorAll('.gn-fam .gn-two'))) clear(t as HTMLElement);
+      openFamily = opening ? g.family : null;
+      if (opening) fillTwo(two, btn, g, centre, hop1, adj, labelOf, byId);
+      redraw();
+    },
+  }, 'two steps out ›');
+  block.append(h('div', { class: 'gn-fhead' },
+    h('span', { class: 'eyebrow gn-flabel' + (g.family === 'denial' ? ' red' : '') }, f.label),
+    h('span', { class: 'dim' }, ' · ' + g.rows.length),
+    btn));
+  if (f.blurb) block.append(h('div', { class: 'faint gn-fblurb' }, f.blurb));
+  const list = h('ul', { class: 'gn-rows' });
+  for (const r of g.rows) list.append(rowEl(r));
+  block.append(list, two);
+  if (openFamily === g.family) fillTwo(two, btn, g, centre, hop1, adj, labelOf, byId);
+  return block;
+}
+
+function rowEl(r: Neighbour): HTMLElement {
+  const said = sentences(r.links);
+  const sent = h('div', { class: 'gn-sent', hidden: true });
+  for (const l of r.links) {
+    sent.append(h('div', { class: 'gn-sline' },
+      h('span', null, l.edgeLabel || l.note || NO_SENTENCE),
+      h('span', { class: 'faint' }, ' · ' + dateRange(l.dateStart, l.dateEnd) + ' · T' + (l.claimTier ?? '?'))));
+  }
+  const say = h('button', {
+    type: 'button', class: 'gn-say', 'aria-expanded': 'false', title: said,
+    onclick: () => {
+      const open = say.getAttribute('aria-expanded') !== 'true';
+      say.setAttribute('aria-expanded', open ? 'true' : 'false');
+      sent.hidden = !open;
+    },
+  });
+  r.readings.forEach((x, i) => {
+    if (i) say.append(h('span', { class: 'faint' }, ', '));
+    say.append(h('span', { class: x.shown ? 'gn-pred' : 'gn-pred dim' }, x.text));
+  });
+  if (r.also.length) say.append(h('span', { class: 'faint' }, ' · also ' + r.also.map((f) => familyLabel(f).toLowerCase()).join(', ')));
+  return h('li', { class: 'gn-row', 'data-id': r.id, 'data-family': r.family },
+    h('a', { class: 'gn-name', href: '#/n/' + r.id, title: said },
+      mark(clsColour(r.cls)), h('span', { class: 'gn-label' }, r.label)),
+    say, sent);
+}
+
+function fillTwo(
+  host: HTMLElement, btn: HTMLElement, g: FamilyGroup, centre: string, hop1: Set<string>,
+  adj: Map<string, Set<string>>, labelOf: (id: string) => string, byId: Map<string, IndexNode>,
+): void {
+  clear(host);
+  btn.setAttribute('aria-expanded', 'true');
+  btn.textContent = 'close two steps';
+  const vias = twoSteps(centre, g, hop1, adj, labelOf);
+  const n = vias.reduce((s, v) => s + v.ids.length, 0);
+  host.append(h('div', { class: 'gn-two-head eyebrow' },
+    n ? 'Two steps out through ' + familyName(g.family).label.toLowerCase() + ': ' + n + ', each under the neighbour it is reached through'
+      : 'Nothing further: every link of these neighbours comes back to this page'));
+  for (const v of vias) {
+    const box = h('div', { class: 'gn-via', 'data-via': v.via.id });
+    box.append(h('div', { class: 'gn-via-head' },
+      h('span', { class: 'faint' }, 'via '),
+      h('a', { class: 'gn-via-name', href: '#/n/' + v.via.id }, v.via.label),
+      h('span', { class: 'faint' }, ' · ' + v.ids.length)));
+    const ul = h('ul', { class: 'gn-rows2' });
+    for (const m of v.ids) {
+      const meta = byId.get(m);
+      ul.append(h('li', { class: 'gn-row2', 'data-id': m, 'data-via': v.via.id },
+        h('a', { class: 'gn-name', href: '#/n/' + m + '/hood', title: labelOf(m) + ', reached via ' + v.via.label },
+          mark(clsColour(meta ? meta.cls : '')), h('span', { class: 'gn-label' }, labelOf(m)))));
     }
-    wrap.append(list);
-    view.append(wrap);
-    return;
+    box.append(ul);
+    host.append(box);
   }
-  let rec;
-  try { rec = await loadNode(id); } catch (e) {
-    if (gen !== generation) return;
-    notFound(view, '#/hood/' + id, "The neighbourhood needs this node's record: " + (e as Error).message);
-    return;
-  }
+}
+
+/* Nothing selected: the neighbourhood is about one entity, so this asks for
+   one. The start-here ring that used to stand here is the Home tour now. */
+async function renderPick(view: HTMLElement, gen: number): Promise<void> {
+  const [flags, idx] = await Promise.all([loadHighlights().then((x) => x.flags), loadIndex()]);
   if (gen !== generation) return;
-  setTitle(rec.label, 'Neighbourhood');
+  setTitle('Neighbourhood');
   clear(view);
-  const offered = FAMILIES.map((f) => ({
-    id: f.id, n: new Set(rec.connections.filter((c) => familyOf(c) === f.id).map((c) => c.id)).size,
-  })).filter((f) => f.n > 0);
-  if (familyFilter && !offered.some((f) => f.id === familyFilter)) familyFilter = null;
-  const shown = familyFilter ? rec.connections.filter((c) => familyOf(c) === familyFilter) : rec.connections;
-  const groups = groupConnections(shown);
-  const counterparts = new Set(rec.connections.map((c) => c.id)).size;
-  const wrap = h('div', { class: 'hood-phone' });
-  wrap.append(h('div', { class: 'hp-head' },
-    h('span', { class: 'eyebrow' }, 'Neighbourhood'), ' ',
-    h('a', { class: 'hp-who', href: '#/n/' + rec.id }, rec.label)));
-  wrap.append(h('div', { class: 'dim' },
-    counterparts + ' neighbours, linked ' + rec.connections.length + ' times, grouped by relationship family. ' +
-    (familyFilter ? 'Showing ' + familyName(familyFilter).label.toLowerCase() + ' only. ' : '') +
-    'A wider screen draws them as a ring.'));
-  wrap.append(h('div', { class: 'hp-ctl' },
-    h('a', { class: 'hood-b', href: '#/n/' + rec.id }, 'NODE PAGE'),
-    h('a', { class: 'hood-b', href: '#/n/' + rec.id + '/map' }, 'SHOW ON MAP'),
-    offered.length > 1 ? familySelect(offered, (f) => { familyFilter = f; void renderHood(view, id); }) : null));
-  wrap.append(renderConnGroups(groups));
+  const byId = new Map(idx.nodes.map((n) => [n.id, n]));
+  const wrap = h('div', { class: 'gn-pick' });
+  wrap.append(h('div', { class: 'gn-head' },
+    h('span', { class: 'eyebrow' }, 'Neighbourhood'),
+    h('span', { class: 'dim' }, 'shows one entity and everything linked to it, grouped by relationship. ' +
+      'Search for an entity above, or open one of the owner\'s start-here entries:')));
+  const list = h('ol', { class: 'gn-pick-list' });
+  for (const f of flags.slice().sort((a, b) => a.rank - b.rank)) {
+    const n = byId.get(f.id);
+    if (!n) continue;
+    list.append(h('li', null,
+      h('a', { class: 'gn-name', href: '#/n/' + f.id + '/hood' },
+        mark(clsColour(n.cls)), h('span', { class: 'gn-label' }, n.label)),
+      h('span', { class: 'amber' }, ' start here ' + f.rank)));
+  }
+  wrap.append(list);
   view.append(wrap);
 }
