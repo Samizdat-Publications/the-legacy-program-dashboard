@@ -59,10 +59,14 @@
 "direction": "in",
 "edgeId": "e-9ad75028ae",
 "edgeLabel": "FY2009 AAWSAP deliverable",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-03-23",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -86,10 +91,14 @@
 "direction": "in",
 "edgeId": "e-7e720fc9dd",
 "edgeLabel": "published by DIA as DIA-08-1003-012, Acquisition Threat Support series",
+"family": "documents",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-03-23",
@@ -103,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -113,10 +123,14 @@
 "direction": "in",
 "edgeId": "e-1cbe65aa27",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -125,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -135,10 +150,14 @@
 "direction": "in",
 "edgeId": "e-7d42073188",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1003-012. Publication date 23 March 2010 on the cover. 37 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -152,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -162,10 +182,14 @@
 "direction": "in",
 "edgeId": "e-2b0f8cc752",
 "edgeLabel": "author of record on the DIA list",
+"family": "documents",
 "id": "richard-genik",
 "l0": false,
 "label": "Richard J. Genik II",
 "note": "DIA list item 20: \"Technological Applications to Controlling External Devices in the Absence of Limb-Operated Interfaces, Dr R Genik, Wayne State Univ.\" The KLAS-TV list of July 2018 gives the same document the plainer title \"Brain-Machine Interfaces.\"",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -194,7 +218,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -204,10 +229,14 @@
 "direction": "out",
 "edgeId": "e-0ac4b924d5",
 "edgeLabel": "author's affiliation of record",
+"family": "documents",
 "id": "wayne-state-university",
 "l0": true,
 "label": "Wayne State University",
 "note": "Wayne State is the DIA-listed affiliation for four DIRDs: Genik's three human-factors papers and Kit Green's \"Field Effects on Biological Tissues.\" That makes it the single most productive institution in the DIRD set after EarthTech International, and the locus of the programme's human-effects line of inquiry.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -236,7 +265,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-8bfa7f8480",
 "edgeLabel": "The Hottel memo predates and partly parallels the Aztec narrative",
+"family": "analysis",
 "id": "aztec-1948",
 "l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "Hottel's memo of 22 March 1950 describes three fifty-foot discs with three-foot occupants two months before Scully's book described one ninety-nine-foot disc with sixteen. The narratives are related but not identical, so the memo is better read as evidence that the recovery rumour was already in official circulation than as independent confirmation of Aztec.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -89,7 +94,7 @@
 ],
 "sub": "FBI Washington Field Office memo on three recovered circular craft",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 870 of 1138, score 19). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 867 of 1138, score 19). 1 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -3,6 +3,7 @@
 "C": 0,
 "D": 2,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-6e71efdc4a",
@@ -27,12 +28,6 @@
 "source": "Gene Sticco, Blackgrove's Field Notes, 9 February 2026, citing Huneeus and Kehoe — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "text": "Knapp's 1993 documents came from the Ministry of Defence via Colonel Boris Sokolov, not from the KGB 'Blue Folder' declassified 24 October 1991 and handed to Popovich. The two collections are distinct.",
 "tier": 2
-},
-{
-"id": "c-da626fea00",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "institution",
@@ -47,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-ee250d54a1",
 "edgeLabel": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
+"family": "documents",
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening 'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.' The same chapter runs on to Popovich's 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev's 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov's account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2006-05-15",
@@ -59,7 +58,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 3,
@@ -69,10 +69,14 @@
 "direction": "out",
 "edgeId": "e-9ca895cd06",
 "edgeLabel": "INFERENCE: the 1990 public centre stands up as the 1978-1990/91 state programme winds down, with Azhazha the common figure",
+"family": "place-time",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "READ THE LIMIT BEFORE USING THIS EDGE. No document located in this pass states any transfer of function, records, personnel or authority from SETKA-AN/SETKA-MO to SOYUZUFOTSENTR, and Project Condign - which describes both the Soviet state exploitation programme and SOYUZUFOTSENTR in the same chapter - does not name SETKA at all. What is documented is date adjacency and a shared principal: Condign dates SOYUZUFOTSENTR to 1990; the board dates the SETKA programmes 1978-1990/91; and the board already carries an edge vladimir-azhazha -> setka-program labelled 'ran the parallel public ufology centre after censorship lifted'. This edge makes that existing person-level assertion visible at institution level and nothing more. Reasoning, not evidence. If a later pass finds a document showing a formal succession, re-tier it; if a later pass finds the two were unconnected, delete it without loss.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2006-05-15",
@@ -86,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -96,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-6eca0372da",
 "edgeLabel": "Azhazha headed SOYUZUFOTSENTR; named as its head in the UK Defence Intelligence Staff's own report",
+"family": "role",
 "id": "vladimir-azhazha",
 "l0": false,
 "label": "Vladimir Georgievich Azhazha",
 "note": "Project Condign Volume 3, Chapter 4 ('UAP Work in Other Countries'), para 1, verified against the released MoD OCR text: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan; the transliteration SOYUZUFOSENTR is Condign's own, and differs from the board's node label. Para 4 adds that under Azhazha 'The Institute have reportedly developed light fi[l]ters, instrumentation, IR and UV photography to pursu[e] the topic', and that claimed imagery of 'peculiar spheres, humanoid figures' has, 'if the imagery exists ... never been published'. This edge closes a gap that was already implicit in the board's own data: the vladimir-azhazha node has carried instId 'soyuzufotsentr' and affiliations ['soyuzufotsentr'] all along, with no edge written.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2006-05-15",
@@ -113,7 +122,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 }
 ],
 "coords": null,
@@ -161,7 +171,7 @@
 ],
 "sub": "1990 Soviet ufology centre with USSR Academy of Sciences institute rights, headed by V. G. Azhazha; named in UK Project Condign",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 868 of 1138, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 896 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unverified": []
 }

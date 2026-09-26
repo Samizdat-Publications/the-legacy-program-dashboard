@@ -64,10 +64,14 @@
 "direction": "out",
 "edgeId": "e-5dbd78ac8d",
 "edgeLabel": "Service medical records for the incident window could not be produced",
+"family": "testimony",
 "id": "l-raf-woodbridge",
 "l0": false,
 "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "note": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-12-26",
@@ -81,7 +85,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -91,10 +96,14 @@
 "direction": "out",
 "edgeId": "e-17bb4393bb",
 "edgeLabel": "First responder, 26 December 1980",
+"family": "testimony",
 "id": "rendlesham-1980",
 "l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-12-26",
@@ -108,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2015-01-01",

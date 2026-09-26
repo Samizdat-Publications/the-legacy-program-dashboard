@@ -38,10 +38,14 @@
 "direction": "out",
 "edgeId": "e-b3d5fb0f1d",
 "edgeLabel": "House Armed Services leadership, 2009-2015",
+"family": "role",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -55,7 +59,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -65,10 +70,14 @@
 "direction": "out",
 "edgeId": "e-623e2bf31b",
 "edgeLabel": "Ranking Member then Chairman, House Armed Services Committee",
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2009-06-16",

@@ -53,10 +53,14 @@
 "direction": "in",
 "edgeId": "e-d6616a4b82",
 "edgeLabel": "Claimed payment: 'the United States Navy' in his narration, 'Department of Naval Intelligence' on the W-2 as others describe it",
+"family": "testimony",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "THE EDGE CARRIES A DISCREPANCY AND NOTHING MORE. There is no 'Department of Naval Intelligence'; the Office of Naval Intelligence sits inside the Department of the Navy. THE W-2 WAS NOT OPENED BY THIS BOARD and no employer identification number, zip code or box content is asserted anywhere.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-12",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -80,10 +85,14 @@
 "direction": "in",
 "edgeId": "e-b82f635ae3",
 "edgeLabel": "Alleges MITRE support to two Navy-spearheaded legacy programs",
+"family": "testimony",
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The two alleged programs: reverse engineering and maturation of technologies from late-1940s recoveries, and tracking of a large USO with semi-permanent Atlantic station, with all-source data processed by MITRE. Gerb notes the oddity that MITRE was founded by and modelled on USAF structures yet is intimately involved in Navy secret programs.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -102,10 +112,14 @@
 "direction": "out",
 "edgeId": "e-1582c71733",
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
+"family": "oversight",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names Navy/ONI among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
+"predicate": "reports_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -114,7 +128,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -124,10 +139,14 @@
 "direction": "in",
 "edgeId": "e-e733340a1e",
 "edgeLabel": "sited in the Department of the Navy with ONI involvement",
+"family": "place-time",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The Deputy Secretary of Defense established the UAPTF under USD(I&S) cognisance with the Department of the Navy leading, placing it in ONI's institutional orbit.",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-08-14",
@@ -146,7 +165,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

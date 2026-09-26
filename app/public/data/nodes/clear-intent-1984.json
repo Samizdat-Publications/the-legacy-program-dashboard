@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-4752400e3d",
 "edgeLabel": "Hastings extended the Fawcett-Greenwood documentary method with named witnesses",
+"family": "analysis",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -62,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-0e72dd782f",
 "edgeLabel": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
+"family": "oversight",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1984-01-01",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "investigated"
 },
 {
 "claimTier": 3,
@@ -84,10 +94,14 @@
 "direction": "out",
 "edgeId": "e-961ad70ed1",
 "edgeLabel": "Documentary method versus anonymous-testimony method",
+"family": "analysis",
 "id": "stringfield-status-reports",
 "l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1984-01-01",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -143,7 +158,7 @@
 ],
 "sub": "Lawrence Fawcett and Barry J. Greenwood; Prentice-Hall Spectrum, 1984",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 903 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 900 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

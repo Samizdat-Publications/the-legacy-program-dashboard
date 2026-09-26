@@ -67,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-a23e414d4f",
 "edgeLabel": "Co-author; brought the SCU case reconstructions",
+"family": "documents",
 "id": "paper-knuth-powell-reali-2019",
 "l0": false,
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-09-25",
@@ -84,7 +88,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -94,10 +99,14 @@
 "direction": "out",
 "edgeId": "e-39c5dc1d26",
 "edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
+"family": "role",
 "id": "scu-uap-studies",
 "l0": false,
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -111,7 +120,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2019-09-25",
@@ -170,7 +180,7 @@
 "status": "active",
 "sub": "Chemist and semiconductor engineer; founding board member, Scientific Coalition for UAP Studies; co-author of the Entropy 2019 kinematics paper and the Aguadilla and Stephenville radar studies",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 969 of 1138, score 15). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 966 of 1138, score 15). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -60,10 +60,14 @@
 "direction": "in",
 "edgeId": "e-a0b2f4964f",
 "edgeLabel": "Sky-survey transients correlate with nuclear testing",
+"family": "analysis",
 "id": "d-astro",
 "l0": false,
 "label": "Astronomy & Astrophysics",
 "note": "Bruehl and Villarroel's Scientific Reports paper links POSS-I transients to nuclear testing and to UAP reports, connecting the astronomical and nuclear-nexus domains.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -72,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -82,10 +87,14 @@
 "direction": "out",
 "edgeId": "e-d12809f825",
 "edgeLabel": "Indications analysis on the atomic complex",
+"family": "documents",
 "id": "d-intel",
 "l0": false,
 "label": "Intelligence Tradecraft & Analysis",
 "note": "Hancock, Porritt and Grosvenor applied formal intelligence indications methodology to UAP reporting against the US atomic warfare complex.",
+"predicate": "studied",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-03-07",
@@ -94,7 +103,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 3,
@@ -104,10 +114,14 @@
 "direction": "out",
 "edgeId": "e-64eb3dfb37",
 "edgeLabel": "Phenomenon and the security regime around it",
+"family": "law",
 "id": "d-nuclear",
 "l0": false,
 "label": "Nuclear Security & Restricted Data",
 "note": "The sites where the correlation is strongest are governed by the Restricted Data regime rather than by DoD classification, which routes any resulting analysis outside the SAP framework.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-03-07",
@@ -116,7 +130,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 }
 ],
 "coords": null,

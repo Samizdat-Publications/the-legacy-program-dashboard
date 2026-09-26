@@ -42,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-c3bf086871",
 "edgeLabel": "Custody chain: anonymous source to Art Bell, to Linda Moulton Howe, to Carnegie DTM (1996), to Puthoff, to TTSA (2019), to the US Army",
+"family": "analysis",
 "id": "adam-research-project",
 "l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and by Puthoff on several later occasions before TTSA bought them for $35,000 in 2019.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-11-14",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-8b0c15185b",
 "edgeLabel": "Isotopics is the falsifiable test",
+"family": "analysis",
 "id": "d-chem",
 "l0": false,
 "label": "Chemistry & Isotopics",
 "note": "The Nolan-Vallee methodology paper specifies isotope ratio measurement as the discriminating test; the chemistry domain is where that test is run.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-01-01",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-bb0911a8d7",
 "edgeLabel": "Analysis follows possession",
+"family": "analysis",
 "id": "d-contractor",
 "l0": false,
 "label": "Prime Contractor Custody",
 "note": "Material alleged to be held by primes cannot be independently analysed, which is why the custody question and the materials question cannot be separated.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2004-03-03",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -113,10 +128,14 @@
 "direction": "in",
 "edgeId": "e-93f13856ef",
 "edgeLabel": "Exploitation begins with characterisation",
+"family": "organisation",
 "id": "d-reverse-engineering",
 "l0": false,
 "label": "Reverse Engineering",
 "note": "Materials characterisation is the first step of any exploitation workflow and the only step whose outputs have been released - so far all conventional.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-01-01",
@@ -130,7 +149,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -140,10 +160,14 @@
 "direction": "in",
 "edgeId": "e-2820fe4a56",
 "edgeLabel": "subject domain: exotic and reconfigurable materials",
+"family": "analysis",
 "id": "dird-aerospace-applications-of-programmable-matter",
 "l0": false,
 "label": "Aerospace Applications of Programmable Matter",
 "note": "The document surveys programmable material whose effective atoms can be changed on demand to summon or dismiss material properties at will. It sits in the same AAWSAP materials line as the metamaterials, metallic glasses and metallic spintronics DIRDs.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -157,7 +181,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -167,10 +192,14 @@
 "direction": "in",
 "edgeId": "e-20a5e5c39e",
 "edgeLabel": "subject domain: transformation optics, metamaterials and signature reduction",
+"family": "documents",
 "id": "dird-invisibility-cloaking-theory-and-experiments",
 "l0": false,
 "label": "Invisibility Cloaking: Theory and Experiments",
 "note": "Contents run Camouflage, Transparency, Cloaking. The paper is the signature-reduction leg of the survey, sitting alongside Shvets's 'Metamaterials for Aerospace Applications' and against Culbreth's hypersonic detection paper. Puthoff listed signature reduction among the twelve threat areas DIA specified in the Broad Area Announcement.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -189,7 +218,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -199,10 +229,14 @@
 "direction": "in",
 "edgeId": "e-60abb7e447",
 "edgeLabel": "subject domain: superconducting materials and claimed gravitational coupling",
+"family": "analysis",
 "id": "dird-the-role-of-superconductors-in-gravity",
 "l0": false,
 "label": "The Role of Superconductors in Gravity Research",
 "note": "The paper's subject is a materials question posed as a physics question: whether a rotating high-temperature superconductor can produce a measurable gravitational anomaly. It sits with the materials strand of the DIRD set rather than with the metric-engineering strand.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -216,7 +250,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -226,10 +261,14 @@
 "direction": "in",
 "edgeId": "e-be6b80da0f",
 "edgeLabel": "subject domain: energy-storage materials for commercial and military applications",
+"family": "analysis",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -243,7 +282,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -253,10 +293,14 @@
 "direction": "in",
 "edgeId": "e-f9175cdfd1",
 "edgeLabel": "The control case: what a public physical-recovery attempt looks like, failures included",
+"family": "analysis",
 "id": "im1-pacific-expedition-2023",
 "l0": false,
 "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
 "note": "Claim, rebuttal and re-analysis all appeared in the peer-reviewed literature within eighteen months. That is the benchmark against which seventy years of unpublished government custody should be judged.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-31",
@@ -275,7 +319,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -285,10 +330,14 @@
 "direction": "in",
 "edgeId": "e-1fba9d3ab7",
 "edgeLabel": "Establishes the standard the government's own holdings have never met",
+"family": "analysis",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "A published sample, a published method, a published elimination of alternatives, and a stated residual. No government-held UAP material has ever been subjected to anything comparable in public.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-01-01",
@@ -302,7 +351,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -312,10 +362,14 @@
 "direction": "in",
 "edgeId": "e-c1a43e54da",
 "edgeLabel": "Physical-archive evidence for the programme's origin period that no agency can classify",
+"family": "analysis",
 "id": "paper-villarroel-bruehl-2025",
 "l0": false,
 "label": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
 "note": "Glass plates in civil astronomical custody, exposed before Sputnik, are structurally immune to classification and to the archival destruction that affected the government's own 1940s-1950s records.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-10-20",
@@ -324,7 +378,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -334,10 +389,14 @@
 "direction": "in",
 "edgeId": "e-ba554f18c9",
 "edgeLabel": "Builds the documentary counterpart to the physical-sample record",
+"family": "analysis",
 "id": "scu-uap-studies",
 "l0": false,
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "SCU's Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex runs in parallel to the VASCO plate work on the same period.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -346,7 +405,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "has as an instance"
 }
 ],
 "coords": null,

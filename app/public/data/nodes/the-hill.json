@@ -23,10 +23,14 @@
 "direction": "out",
 "edgeId": "e-f1a404a306",
 "edgeLabel": "placement aimed at the congressional audience rather than original investigation",
+"family": "analysis",
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "The Hill is read by congressional staff and has carried sustained UAP coverage and opinion aimed at that readership - the January 2024 classified briefing, the fight over the UAP amendment's inclusion in the FY2024 defence bill, and continuing coverage of Grusch. Graded Tier 2 because the sourced record shows placement and coverage, not original documentary investigation.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-12",
@@ -40,7 +44,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -50,10 +55,14 @@
 "direction": "out",
 "edgeId": "e-04e011f37a",
 "edgeLabel": "Continuing coverage of Grusch and congressional UAP transparency push",
+"family": "media",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The Hill has carried repeated reporting on Grusch's claims and on lawmakers' efforts to get him into a classified setting, including 'Congress continues to seek answers on UFOs' (Grusch/Burlison) and later coverage of Grusch joining lawmakers demanding release of UAP files. Article pages could not be fetched directly (site blocked automated fetch); edge rests on indexed headlines and URLs.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -67,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 },
 {
 "claimTier": 1,
@@ -77,10 +87,14 @@
 "direction": "out",
 "edgeId": "e-1e1d0008c9",
 "edgeLabel": "Covered the November 2024 House UAP secrecy hearing",
+"family": "media",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The Hill reported the joint House Oversight subcommittee hearing of 13 November 2024 under the headline 'House panel hears of hidden UAP trove, secretive arms race', and also carried the live video of the proceeding. Hearing date independently confirmed by NPR's same-day report.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -99,7 +113,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 },
 {
 "claimTier": 2,
@@ -109,10 +124,14 @@
 "direction": "out",
 "edgeId": "e-89459c7a77",
 "edgeLabel": "Reported the fight over the UAP amendment in the FY2024 defence bill",
+"family": "media",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The Hill covered House members demanding transparency from leadership over whether the UAP Disclosure Act amendment would be retained in the FY2024 National Defense Authorization Act. The article page could not be retrieved directly (the site blocked automated fetch), so this edge rests on the indexed headline and URL rather than a verified full text; date left null for that reason.",
+"predicate": "reported_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -121,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through media to"
 }
 ],
 "coords": null,
@@ -158,7 +178,7 @@
 ],
 "sub": "Congressional trade publication",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1074 of 1138, score 11). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1071 of 1138, score 11). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

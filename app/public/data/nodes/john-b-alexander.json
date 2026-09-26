@@ -55,10 +55,14 @@
 "direction": "out",
 "edgeId": "e-d891e06070",
 "edgeLabel": "Alexander sat on the NIDS board from its founding",
+"family": "role",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Alexander brought Los Alamos and Army INSCOM programme experience and had previously convened a cleared interagency canvass for a compartmented UFO effort.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1998-08-10",
@@ -72,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "1995-01-01",
@@ -126,7 +131,7 @@
 "status": "active",
 "sub": "US Army Colonel (ret.); Los Alamos non-lethal weapons programme; NIDS board and 1980s-90s DoD/IC 'Advanced Theoretical Physics' group",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 790 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 787 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

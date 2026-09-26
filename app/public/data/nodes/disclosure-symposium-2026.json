@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-bbca18d026",
 "edgeLabel": "Announces a fourth filing at an outside conference",
+"family": "media",
 "id": "mike-rounds",
 "l0": false,
 "label": "Mike Rounds",
 "note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-28",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -56,10 +61,14 @@
 "direction": "out",
 "edgeId": "e-9c7f1a3fe7",
 "edgeLabel": "Target vehicle contains no UAP provisions to amend",
+"family": "documents",
 "id": "ndaa-fy2027-s4784",
 "l0": false,
 "label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
 "note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-15",
@@ -73,7 +82,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,
@@ -115,7 +125,7 @@
 ],
 "sub": "Late June 2026; Rounds announces a new UAPDA amendment",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1066 of 1138, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1063 of 1138, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

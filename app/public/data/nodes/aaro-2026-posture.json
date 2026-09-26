@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-d11af2add4",
 "edgeLabel": "no evidence of captured or exploited UAP materials, while writing custody procedures for them",
+"family": "testimony",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The report rejects claims that the USG possesses recovered UAP material while stating AARO is developing procedures for handling such material should it come into USG possession.",
+"predicate": "contradicts",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-21",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-4e88156cdd",
 "edgeLabel": "first purpose-built case system, solicited May 2025",
+"family": "organisation",
 "id": "aaro-jwics-case-management-2025",
 "l0": false,
 "label": "AARO JWICS case management system (sources sought, May 2025)",
 "note": "A Sources Sought Notice for a JWICS-hosted case management system establishes that AARO had no purpose-built case system three years after standing up.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-05-21",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-6d09f96322",
 "edgeLabel": "directs",
+"family": "role",
 "id": "jon-kosloski",
 "l0": false,
 "label": "Jon T. Kosloski",
 "note": "Kosloski has led AARO since 26 August 2024; the Leaders page names no other official.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -102,7 +116,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -112,10 +127,14 @@
 "direction": "out",
 "edgeId": "e-334bde0bd4",
 "edgeLabel": "signposts users to a channel it does not run",
+"family": "organisation",
 "id": "war-gov-ufo-portal",
 "l0": false,
 "label": "war.gov/UFO release portal",
 "note": "AARO's homepage carries a PURSUE banner linking to war.gov/UFO and a NARA banner linking to archives.gov, directing the public away from its own EFOIA reading room.",
+"predicate": "outside_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -124,7 +143,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 }
 ],
 "coords": null,

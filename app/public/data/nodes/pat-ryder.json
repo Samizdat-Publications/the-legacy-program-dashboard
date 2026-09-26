@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-5982cb4adb",
 "edgeLabel": "Released and framed the report as 'the widest possible aperture'",
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Ryder is the named officer who put the Department's presentation on the record. The framing claim is unfalsifiable without publication of the underlying interview list, which AARO has not released.",
+"predicate": "released",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "released"
 }
 ],
 "date": "2024-03-08",
@@ -126,7 +131,7 @@
 "status": "active",
 "sub": "Maj Gen, USAF; Pentagon Press Secretary",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1007 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1005 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

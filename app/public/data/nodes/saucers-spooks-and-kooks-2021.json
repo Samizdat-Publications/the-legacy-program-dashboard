@@ -23,10 +23,14 @@
 "direction": "out",
 "edgeId": "e-208c75416e",
 "edgeLabel": "The publication that obtained and printed the confession",
+"family": "testimony",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-04-23",
@@ -40,7 +44,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -50,10 +55,14 @@
 "direction": "out",
 "edgeId": "e-716c382b71",
 "edgeLabel": "Obtained Levesque's confession across a multi-year correspondence",
+"family": "oversight",
 "id": "tal-levesque",
 "l0": false,
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-04-23",
@@ -67,7 +76,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 }
 ],
 "coords": null,
@@ -109,7 +119,7 @@
 ],
 "sub": "The publication of record for Tal Levesque's confession that Thomas Edwin Castello was an invention",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1123 of 1138, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1122 of 1138, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

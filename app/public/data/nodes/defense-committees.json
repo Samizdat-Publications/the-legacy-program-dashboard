@@ -53,10 +53,14 @@
 "direction": "in",
 "edgeId": "e-bcb85c4f6d",
 "edgeLabel": "119(g) defines who must be told",
+"family": "law",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "119(g) enumerates SASC, Senate Appropriations and its Defense Subcommittee, HASC, House Appropriations and its Subcommittee on Defense.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -80,10 +85,14 @@
 "direction": "in",
 "edgeId": "e-d71e487dd6",
 "edgeLabel": "defines the term for this section",
+"family": "law",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "10 U.S.C. 119(g) defines 'defense committees' for this section as six bodies: '(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' Six bodies, chairman and ranking minority member of each, is where the board's twelve seats come from. Read directly from the OLRC text on 22 August 2026, which confirms the count independently of the earlier reading recorded in the L0 notes.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -102,10 +112,14 @@
 "direction": "in",
 "edgeId": "e-3083fd0ed0",
 "edgeLabel": "Waiver narrows the audience to chairman and ranking minority member of each defense committee",
+"family": "law",
 "id": "usc-10-119e",
 "l0": false,
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(2) directs the waived information and its justification 'jointly to the chairman and ranking minority member of each of the defense committees'.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -114,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "is governed by"
 }
 ],
 "coords": null,
@@ -157,7 +172,7 @@
 ],
 "sub": "congressional",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 409 of 1138, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 408 of 1138, score 34). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unverified": []
 }

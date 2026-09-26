@@ -59,10 +59,14 @@
 "direction": "in",
 "edgeId": "e-be80da3782",
 "edgeLabel": "AAWSAP deliverable, late tranche",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-11-01",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -86,10 +91,14 @@
 "direction": "out",
 "edgeId": "e-be6b80da0f",
 "edgeLabel": "subject domain: energy-storage materials for commercial and military applications",
+"family": "analysis",
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "Electrode and electrolyte materials science applied to high-power energy storage. One of the DIRDs with immediate conventional military application and no anomalous content.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -103,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -113,10 +123,14 @@
 "direction": "in",
 "edgeId": "e-11337c9f51",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -125,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -135,10 +150,14 @@
 "direction": "in",
 "edgeId": "e-fc03a3be90",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 35 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -152,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -162,10 +182,14 @@
 "direction": "in",
 "edgeId": "e-b3980ce5de",
 "edgeLabel": "author of record on the DIA list",
+"family": "documents",
 "id": "j-golightly",
 "l0": false,
 "label": "J. Golightly",
 "note": "DIA list item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -194,7 +218,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -204,10 +229,14 @@
 "direction": "out",
 "edgeId": "e-0bd57a7667",
 "edgeLabel": "author's affiliation of record; one of three Lockheed Martin DIRDs",
+"family": "organisation",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Lockheed Martin appears three times on the DIA list: this paper, Dr V Teofilo's \"Aneutronic Fusion Propulsion,\" and Dr S Macheret's MHD air-breathing propulsion paper. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was done by colleagues at Lockheed Martin, which matches the list. This is a direct, documented thread from the DIRD series into the prime-contractor cluster.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -236,7 +265,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 }
 ],
 "coords": null,

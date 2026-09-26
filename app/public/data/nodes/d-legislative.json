@@ -42,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-428894ad19",
 "edgeLabel": "the member bloc that forces briefings and carries amendments outside committee jurisdiction",
+"family": "analysis",
 "id": "congressional-uap-caucus",
 "l0": true,
 "label": "Congressional UAP Caucus",
 "note": "Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-22",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-c89c1d3bd4",
 "edgeLabel": "Proposal versus enactment",
+"family": "place-time",
 "id": "d-legislation",
 "l0": false,
 "label": "Enacted Statute",
 "note": "Division I of the Senate-passed H.R. 2670 contained a Review Board and eminent domain; P.L. 118-31 as enacted did not. The gap between these two documents is the domain boundary.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -96,10 +106,14 @@
 "direction": "in",
 "edgeId": "e-5e79eb3ee8",
 "edgeLabel": "the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands",
+"family": "analysis",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -118,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -128,10 +143,14 @@
 "direction": "in",
 "edgeId": "e-d6879916dc",
 "edgeLabel": "a committee-reported provision that did not survive conference in the form reported",
+"family": "analysis",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "The Senate Select Committee on Intelligence's UAP provision in the reported IAA FY2024 would have compelled contractor turn-in of UAP material within 180 days. The enacted counterpart in Division G of P.L. 118-31 differed substantially from the text approved by Senate committees and by the full Senate. Its home is the process domain because what is interesting about it is the gap between what was reported and what was enacted.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-22",
@@ -150,7 +169,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -160,10 +180,14 @@
 "direction": "in",
 "edgeId": "e-4608876a2d",
 "edgeLabel": "the filing instrument - where the process starts and where its text is fixed",
+"family": "analysis",
 "id": "samdt-797",
 "l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Submitted 13 July 2023 by Senator Schumer for himself and Senators Rounds, Rubio, Gillibrand, Young and Heinrich, ordered to lie on the table, text printed in the Congressional Record at pages S2953-S2959. The amendment, not the bill, is the object that carries the disclosure text, which is the process fact this domain exists to record.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-13",
@@ -177,7 +201,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -187,10 +212,14 @@
 "direction": "in",
 "edgeId": "e-2e7774664d",
 "edgeLabel": "owns the only vehicle the disclosure text has ever ridden, and has never reported it",
+"family": "analysis",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Every version of the Act - 2023, 2024 and the announced later attempts - has reached the floor as an amendment to a SASC bill rather than as a committee product, which means no committee report, no markup record and no members professionally invested in defending it in conference. A committee's non-action is a process fact and belongs in this domain.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -209,7 +238,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -219,10 +249,14 @@
 "direction": "in",
 "edgeId": "e-c2150492ae",
 "edgeLabel": "passed one chamber, stripped in conference - the domain's instructive defeat",
+"family": "analysis",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The only text ever passed by a chamber of Congress legislating on the assumption that recovered non-human technology exists and is held in part by private entities. It rode to the Senate floor as an amendment, cleared the Senate as a division of S. 2226, and did not survive conference into P.L. 118-31 in that form. The mechanism of the defeat is the lesson, which is why it belongs to process rather than to statute.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -241,7 +275,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -251,10 +286,14 @@
 "direction": "in",
 "edgeId": "e-48f7aa00f7",
 "edgeLabel": "the successor framework, and the first time such a text has cleared the House floor",
+"family": "analysis",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "Adopted by the House on 22 July 2026 as an amendment to the FY2027 NDAA, after a similar proposal failed to advance in the previous defence-bill cycle. As of this pass it is an adopted House amendment, not law, which is precisely the status distinction this domain is for.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-22",
@@ -263,7 +302,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -273,10 +313,14 @@
 "direction": "in",
 "edgeId": "e-02fa2f1796",
 "edgeLabel": "the chamber where the text was stripped in 2023 and where a successor passed in 2026",
+"family": "analysis",
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -295,7 +339,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 }
 ],
 "coords": null,

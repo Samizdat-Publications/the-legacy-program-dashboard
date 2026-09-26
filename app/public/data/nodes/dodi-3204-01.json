@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-91f862baf1",
 "edgeLabel": "Grusch named contractor IR&D under oath as the funding channel for concealed UAP work",
+"family": "documents",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Asked whether corporations overcharge government with the excess flowing to programs, Grusch answered 'Correct, through something called IR&D,' adding that 'IR&D is literally internal to the contractors... they do whatever they want.'",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 3,
@@ -56,10 +61,14 @@
 "direction": "in",
 "edgeId": "e-9e18b58924",
 "edgeLabel": "Corporate self-funded UAP research is the historical precedent for the IR&D channel",
+"family": "place-time",
 "id": "mcdonnell-douglas",
 "l0": false,
 "label": "McDonnell Douglas Corporation",
 "note": "Robert Wood's late-1960s company-funded study at Huntington Beach is the earliest described instance of a prime studying the phenomenon on internal money with no reporting obligation - the pattern later formalised in IR&D policy. No company record of the study has been released.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-07-09",
@@ -68,7 +77,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": "came after"
 },
 {
 "claimTier": 1,
@@ -78,10 +88,14 @@
 "direction": "in",
 "edgeId": "e-9dad12c718",
 "edgeLabel": "Targets contractor independent research and development as a concealment route",
+"family": "law",
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as indirect expense under DoDI 3204.01 unless the material is made available to the committees and leadership.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -90,7 +104,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -100,10 +115,14 @@
 "direction": "out",
 "edgeId": "e-0e54c58a32",
 "edgeLabel": "Congress legislated directly against the IR&D mechanism, citing the instruction by number and change date",
+"family": "documents",
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687(b) makes UAP-related IR&D unallowable as an indirect expense unless disclosed to the defense and intelligence committees and congressional leadership. A statute does not cite an accounting instruction that precisely unless someone has explained how it is being used.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -117,7 +136,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "is cited by"
 }
 ],
 "coords": null,
@@ -170,7 +190,7 @@
 ],
 "sub": "The IR&D cost-allowability policy named in statute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 550 of 1138, score 29). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 549 of 1138, score 29). 4 connections, 3 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-c1a43e54da",
 "edgeLabel": "Physical-archive evidence for the programme's origin period that no agency can classify",
+"family": "analysis",
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "Glass plates in civil astronomical custody, exposed before Sputnik, are structurally immune to classification and to the archival destruction that affected the government's own 1940s-1950s records.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-10-20",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -51,10 +56,14 @@
 "direction": "in",
 "edgeId": "e-b73290e58d",
 "edgeLabel": "Lead author of the POSS-I / nuclear testing association",
+"family": "documents",
 "id": "stephen-bruehl",
 "l0": false,
 "label": "Stephen Bruehl",
 "note": "Scientific Reports, 20 October 2025 - a Nature-portfolio paper linking above-ground nuclear testing, contemporaneous UAP reports and anomalous optical transients.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-10-20",
@@ -63,7 +72,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was written by"
 }
 ],
 "coords": null,
@@ -105,7 +115,7 @@
 ],
 "sub": "DOI 10.1038/s41598-025-21620-3, published 20 October 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1047 of 1138, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1045 of 1138, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -47,10 +47,14 @@
 "direction": "in",
 "edgeId": "e-924a3f0aaa",
 "edgeLabel": "Chairs the deconfliction forum at the DoD SAPCO director level",
+"family": "law",
 "id": "dodi-5205-11",
 "l0": true,
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-08-31",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is governed by"
 }
 ],
 "coords": null,

@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-812ec48af1",
 "edgeLabel": "AARO's SAP review extended to the IC control office enterprise",
+"family": "oversight",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Same AARO sentence, p. 34 of the Historical Record Report Volume I. The scope of what counted as 'pertinent' was set by the offices being reviewed.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -51,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-e4d7505ccd",
 "edgeLabel": "the parallel control-office enterprise on the intelligence-community side of the same architecture",
+"family": "analysis",
 "id": "d-structure",
 "l0": false,
 "label": "Program structure and organisational mapping",
 "note": "The IC maintains its own special access and controlled access program control architecture under DNI authority, separate from the DoD SAP enterprise administered by DoD SAPCO. AARO's Historical Record Report Volume I confirms its existence in the government's own UAP record. The two-sided structure matters because a programme can be lodged on either side, and the oversight statutes differ.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -68,7 +77,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -78,10 +88,14 @@
 "direction": "out",
 "edgeId": "e-ef0f35510b",
 "edgeLabel": "IC-side SAP control office enterprise under DNI authority",
+"family": "organisation",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "AARO names three distinct SAP control office enterprises - DoD, IC and DHS. The IC enterprise operates under the DNI's compartmentation authority and is not reported under 10 U.S.C. 119 to the defense committees.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -95,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,

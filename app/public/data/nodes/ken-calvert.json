@@ -38,10 +38,14 @@
 "direction": "out",
 "edgeId": "e-f0ff699d82",
 "edgeLabel": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "In the group in 2020 as ranking member and from 2023 as chair.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2023-01-03",

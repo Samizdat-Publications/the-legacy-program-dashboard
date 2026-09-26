@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-2fcf8ea704",
 "edgeLabel": "Recommended the permanent oversight committee that followed it",
+"family": "organisation",
 "id": "church-committee",
 "l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1976-04-26",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-ecf3737b13",
 "edgeLabel": "SSCI produced the contractor turn-in language",
+"family": "documents",
 "id": "iaa-fy2024-sec-1102",
 "l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "note": "Sec. 1102 rode in the Intelligence Authorization Act for FY2024, Division M of the engrossed Senate bill.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-08b8a6f2de",
 "edgeLabel": "CIA advised to notify the Senate Select Committee before the requester's attorneys",
+"family": "oversight",
 "id": "john-marks-foia-f-76-374",
 "l0": false,
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "note": "The 22 June 1977 memorandum's second recommended action is to inform the Senate Select Committee of the recently located records prior to informing Mr. Marks' attorneys; the joint hearing followed on 3 August.",
+"predicate": "reports_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1977-06-22",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -101,10 +116,14 @@
 "direction": "in",
 "edgeId": "e-3abfb450e2",
 "edgeLabel": "Vice Chairman 2021-2025",
+"family": "role",
 "id": "marco-rubio",
 "l0": false,
 "label": "Marco Rubio",
 "note": "Rubio's Gang of Eight access is what makes his cosponsorship of the eminent domain text evidentially significant.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-13",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -123,10 +143,14 @@
 "direction": "in",
 "edgeId": "e-2297da6a1c",
 "edgeLabel": "Chairman 2021-2025",
+"family": "role",
 "id": "mark-warner",
 "l0": false,
 "label": "Mark R. Warner",
 "note": "Warner chaired SSCI when it produced the contractor turn-in and the Historical Record Report requirement.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-12-23",
@@ -135,7 +159,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -145,10 +170,14 @@
 "direction": "in",
 "edgeId": "e-316903ec94",
 "edgeLabel": "Committee of jurisdiction for intelligence community programs",
+"family": "organisation",
 "id": "us-senate",
 "l0": false,
 "label": "United States Senate",
 "note": "SSCI's report language accompanying the FY2021 Intelligence Authorization Act produced the June 2021 ODNI Preliminary Assessment.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -157,7 +186,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,

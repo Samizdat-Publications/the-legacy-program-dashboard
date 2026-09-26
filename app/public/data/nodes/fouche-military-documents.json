@@ -68,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-b4bc7dc247",
 "edgeLabel": "Military documents compilation hosted by Check The Evidence",
+"family": "custody",
 "id": "checktheevidence",
 "l0": false,
 "label": "Check The Evidence (checktheevidence.com), Andrew Johnson",
 "note": "Genuine custody. The site holds both the HTML original and the printed PDF, which is how the compilation's provenance was established.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-06-15",
@@ -80,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -90,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-7e73c6e3c7",
 "edgeLabel": "Self-published compilation about and by its own subject",
+"family": "documents",
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "INTENT: AUTHORSHIP AND SELF-PUBLICATION, mapped to research rather than custody so that the subject of a file is not given a x3.0 program edge to his own compilation. The compilation is about him, published by him, redacted by him on its own caption's admission, and one passage in it is signed 'My guess is he was a Staff Sergeant judging by his skills. - Ed Fouche'.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-06-15",
@@ -102,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -112,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-8271ddbd37",
 "edgeLabel": "The AF Form 77a is page 3 of the compilation",
+"family": "organisation",
 "id": "fouche-afftc-det3-1979",
 "l0": false,
 "label": "AF Form 77a, Letter of Evaluation, 24 August 1979",
 "note": "INTENT: CONTAINMENT. The board has no contains edge type, so this is built as custody, document to document, which is genuine containment custody and does not inflate any person.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-06-15",
@@ -124,7 +138,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "includes"
 },
 {
 "claimTier": 2,
@@ -134,10 +149,14 @@
 "direction": "in",
 "edgeId": "e-921a06bda3",
 "edgeLabel": "Reads the 'SAC/DARPA Classified Document' as an unclassified personnel letter from a personnel office",
+"family": "denial",
 "id": "peter-merlin",
 "l0": false,
 "label": "Peter W. Merlin",
 "note": "Two parts of Merlin's reading were checked independently against the page image and hold: there is no classification marking of any kind on the letter, and the signature block does place the originating office inside the Directorate of Assignments, Deputy Chief of Staff for Personnel, which is what his five-letter-office-code reading of 'REPLY TO: DARPA' predicts. His gloss of AAR as After Action Review was not verified against any Air Force instruction.",
+"predicate": "explained_away",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-03-19",
@@ -151,7 +170,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "was given a conventional explanation by"
 }
 ],
 "coords": null,

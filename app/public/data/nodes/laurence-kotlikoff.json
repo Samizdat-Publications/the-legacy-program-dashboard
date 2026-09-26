@@ -44,10 +44,14 @@
 "direction": "out",
 "edgeId": "e-6d6899acfb",
 "edgeLabel": "Professor of Economics",
+"family": "role",
 "id": "boston-university",
 "l0": false,
 "label": "Boston University",
 "note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -56,7 +60,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -66,10 +71,14 @@
 "direction": "out",
 "edgeId": "e-66034eeda4",
 "edgeLabel": "Co-authored three Forbes columns carrying the figure into the financial press",
+"family": "role",
 "id": "mark-skidmore",
 "l0": false,
 "label": "Mark Skidmore",
 "note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -78,7 +87,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "worked with"
 }
 ],
 "date": "2019-01-09",
@@ -126,7 +136,7 @@
 "status": "active",
 "sub": "Professor of Economics, Boston University; co-author of the Forbes $21 trillion columns",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1118 of 1138, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1117 of 1138, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-d4fa337aaf",
 "edgeLabel": "Lodges classification oversight in the Council",
+"family": "law",
 "id": "eo-11652",
 "l0": false,
 "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-b3dd3dbc45",
 "edgeLabel": "Routes every special activity to the President through an NSC committee",
+"family": "law",
 "id": "eo-12036",
 "l0": false,
 "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "note": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-4a1c824bec",
 "edgeLabel": "Section 101 creates the Council",
+"family": "law",
 "id": "national-security-act-1947",
 "l0": false,
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "note": "The Council is a creature of statute, not of executive practice. 50 U.S.C. 3021's source credit traces it to title I, section 101 of the Act at 61 Stat. 496.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-f0f41b78f3",
 "edgeLabel": "Signed by the President's national security adviser, not by the President",
+"family": "documents",
 "id": "nsam-303",
 "l0": false,
 "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
 "note": "McGeorge Bundy signs, addressed to the Secretaries of State and Defense and the DCI. Worth recording because the memo is often cited as a presidential instrument.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -129,10 +149,14 @@
 "direction": "in",
 "edgeId": "e-e667505860",
 "edgeLabel": "Issued by the Council and approved by the President the same day",
+"family": "documents",
 "id": "nsc-5412",
 "l0": false,
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -141,7 +165,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -151,10 +176,14 @@
 "direction": "in",
 "edgeId": "e-2234ce41b1",
 "edgeLabel": "Puts the only record copies in one NSC officer's hands",
+"family": "law",
 "id": "nsdd-159",
 "l0": false,
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
 "note": "The NSC Senior Director for Intelligence Programs holds the sole record copies of approved Findings and Memoranda of Notification, and administers the special access compartment protecting covert action policy. 'No other copies of approved Findings or MONs are authorized.'",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -163,7 +192,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is governed by"
 }
 ],
 "coords": null,

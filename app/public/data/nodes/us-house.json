@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-8f83587840",
 "edgeLabel": "Congressionally requested GAO search of 509th and RAAF records",
+"family": "oversight",
 "id": "509th-bomb-group",
 "l0": false,
 "label": "509th Bomb Group",
 "note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-07-28",
@@ -63,7 +67,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "made a request of"
 },
 {
 "claimTier": 1,
@@ -73,10 +78,14 @@
 "direction": "out",
 "edgeId": "e-02fa2f1796",
 "edgeLabel": "the chamber where the text was stripped in 2023 and where a successor passed in 2026",
+"family": "analysis",
 "id": "d-legislative",
 "l0": false,
 "label": "Legislative Process (proposed and pending)",
 "note": "The House is where UAP oversight became public through the July 2023 Oversight hearing, where House leadership's role in the conference removal of the disclosure title became a contested question, and where the Burlison amendment was adopted on 22 July 2026. Both the defeat and the advance ran through the same chamber.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -95,7 +104,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -105,10 +115,14 @@
 "direction": "out",
 "edgeId": "e-a86e9ebd7b",
 "edgeLabel": "Committee finding of non-cooperation by DoD and the IC",
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -117,7 +131,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -127,10 +142,14 @@
 "direction": "in",
 "edgeId": "e-0ac0889b58",
 "edgeLabel": "Single point of congressional liaison for every DoD special access program",
+"family": "oversight",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval. The office being overseen is notified before the overseer is briefed.",
+"predicate": "reports_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-02-12",
@@ -144,7 +163,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -154,10 +174,14 @@
 "direction": "out",
 "edgeId": "e-4ab348a1d3",
 "edgeLabel": "One half of the read-in gate described by Chairwoman Luna",
+"family": "organisation",
 "id": "house-armed-services",
 "l0": false,
 "label": "House Armed Services Committee",
 "note": "HASC leadership approval is required, together with HAC-D leadership, for a non-committee member to view specific program material.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -171,7 +195,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -181,10 +206,14 @@
 "direction": "out",
 "edgeId": "e-3a7e87b1cf",
 "edgeLabel": "Committee of jurisdiction for IC controlled access programs",
+"family": "organisation",
 "id": "house-intelligence",
 "l0": false,
 "label": "House Permanent Select Committee on Intelligence",
 "note": "Programs carried in the IC SAP control enterprise are reported, if at all, to the intelligence committees rather than to the defense committees.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-01",
@@ -193,7 +222,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -203,10 +233,14 @@
 "direction": "out",
 "edgeId": "e-ad05135314",
 "edgeLabel": "Committee that took the 2023 and 2024 public UAP testimony",
+"family": "organisation",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "House Oversight held the 26 July 2023 hearing and the 13 November 2024 hearing, and its Task Force on the Declassification of Federal Secrets held the 9 September 2025 hearing.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -220,7 +254,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 2,
@@ -230,10 +265,14 @@
 "direction": "in",
 "edgeId": "e-eb791960aa",
 "edgeLabel": "Representative, New York 23rd district, until 21 September 2009",
+"family": "role",
 "id": "john-mchugh",
 "l0": false,
 "label": "John M. McHugh",
 "note": "McHugh remained a member of the House for three months after leaving the ranking seat, which is why the resignation date and the 119(e)(2) succession date are not the same. Conflating them would attribute mid-2009 waived-SAP notifications to the wrong member.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -252,7 +291,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -262,10 +302,14 @@
 "direction": "in",
 "edgeId": "e-40a47828ba",
 "edgeLabel": "Air Force SAP directive bars congressional briefings without SAPCO approval",
+"family": "law",
 "id": "saf-aaz",
 "l0": false,
 "label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-02-18",
@@ -284,7 +328,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -294,10 +339,14 @@
 "direction": "out",
 "edgeId": "e-f28b40de8f",
 "edgeLabel": "HASC and HAC-D leadership control member access to program material",
+"family": "analysis",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "The gate is described on the record by the chair of the investigating task force; the two committees controlling it are not the committee conducting the inquiry.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -306,7 +355,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -316,10 +366,14 @@
 "direction": "in",
 "edgeId": "e-2d84da5d4e",
 "edgeLabel": "Representative, Oklahoma 4th district; Chairman of Appropriations from April 2024",
+"family": "role",
 "id": "tom-cole",
 "l0": false,
 "label": "Tom Cole",
 "note": "The House Appropriations chairmanship is one of only two House seats in the section 119 group that sit on the money side; the other is the Defense Subcommittee chair held by Ken Calvert.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -338,7 +392,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -348,10 +403,14 @@
 "direction": "in",
 "edgeId": "e-eacf29aa11",
 "edgeLabel": "House Appropriations Defense subcommittee staff overseeing NRO/NSA/NGA",
+"family": "role",
 "id": "william-b-adkins",
 "l0": false,
 "label": "William B. Adkins",
 "note": "Before becoming PDDNRO he 'served on the professional staff of the House Appropriations Committee, Subcommittee on Defense, where he led the subcommittee's oversight and legislative responsibility for the NRO, U.S. Space Force, U.S. Space Command, National Geospatial-Intelligence Agency, National Security Agency, and U.S. Cyber Command' - the panel that writes the classified defense appropriations annex.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-11",
@@ -370,7 +429,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 }
 ],
 "coords": null,

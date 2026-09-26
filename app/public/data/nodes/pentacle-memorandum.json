@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-cdf7e07908",
 "edgeLabel": "Author of the 9 January 1953 memorandum",
+"family": "documents",
 "id": "howard-c-cross",
 "l0": false,
 "label": "Howard C. Cross",
 "note": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-c9adcb5430",
 "edgeLabel": "Discovered the memorandum in 1967 among Hynek's papers and named its author 'Pentacle'",
+"family": "testimony",
 "id": "jacques-vallee",
 "l0": false,
 "label": "Jacques F. Vallee",
 "note": "Journal entry 18 June 1967; published in Forbidden Science (1992). H. C. Cross was later identified as the author.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-d9eca79c62",
 "edgeLabel": "Addressed to Miles E. Goll at Wright-Patterson Air Force Base",
+"family": "place-time",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "No signed original has ever been produced by the Air Force or by Battelle.",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -107,10 +122,14 @@
 "direction": "out",
 "edgeId": "e-748a157dea",
 "edgeLabel": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+"family": "analysis",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -124,7 +143,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

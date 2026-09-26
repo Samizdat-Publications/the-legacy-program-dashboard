@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-0816307ced",
 "edgeLabel": "Obtained both the Pentagon denial and the 'exemplary' evaluation language",
+"family": "media",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Kloor's two 2019 pieces cut in opposite directions, which is why both are load-bearing.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-06-01",
@@ -64,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 }
 ],
 "date": "2019-06-01",
@@ -113,7 +118,7 @@
 "status": "active",
 "sub": "Journalist; The Intercept and Issues in Science and Technology",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1085 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1081 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

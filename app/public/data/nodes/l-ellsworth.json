@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-48b4e23727",
 "edgeLabel": "The claim places Launch Facility November-5 in this installation's Minuteman field",
+"family": "place-time",
 "id": "ellsworth-1977",
 "l0": false,
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "note": "Tier 2 because the location is as claimed on a dated broadcast, not as established by any Air Force record.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-07",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-a50f06bfae",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"family": "testimony",
 "id": "mario-woods",
 "l0": false,
 "label": "Mario Woods",
 "note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-07",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-46f8ad1aaa",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"family": "testimony",
 "id": "michael-johnson",
 "l0": false,
 "label": "Michael Johnson",
 "note": "The only pre-contact artefact placing him here is an undated Facebook post naming Ellsworth and the years 1975 to 1977, which says nothing about the event. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-07",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -101,10 +116,14 @@
 "direction": "out",
 "edgeId": "e-47b38925c1",
 "edgeLabel": "SAC installation; 44th Strategic Missile Wing Minuteman field",
+"family": "organisation",
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-07",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 }
 ],
 "coords": null,
@@ -160,7 +180,7 @@
 ],
 "sub": "SAC installation near Rapid City; 44th Strategic Missile Wing Minuteman field including Launch Facility November-5; hub of the 1977 security-police claim",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 896 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 892 of 1138, score 18). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unverified": [
 "AARO Historical Record Report Volume I, which the board elsewhere cites at page 30 for interviews with officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977, was NOT OPENED by this pass: media.defense.gov returned HTTP 403 to WebFetch and to curl with browser headers and an aaro.mil referer. That citation stands on an earlier pass and is not re-verified here.",

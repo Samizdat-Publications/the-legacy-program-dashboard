@@ -56,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-e19c9dd63e",
 "edgeLabel": "chief executive for SETKA-AN at IZMIRAN",
+"family": "role",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-11-19",
@@ -68,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 }
 ],
 "date": "1989-01-01",
@@ -112,7 +117,7 @@
 "status": "active",
 "sub": "IZMIRAN physicist; chief executive of SETKA-AN and co-author of the official Soviet programme history",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 972 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 969 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

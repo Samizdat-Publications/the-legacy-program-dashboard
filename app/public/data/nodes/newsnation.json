@@ -23,10 +23,14 @@
 "direction": "out",
 "edgeId": "e-70825040cc",
 "edgeLabel": "the only US broadcaster to make the legacy programme a standing beat rather than an occasional segment",
+"family": "analysis",
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "NewsNation carries Ross Coulthart as special correspondent with a dedicated programme, Reality Check, built around long-form UAP investigation, and in 2026 ran a multi-part series with UAP Gerb covering FFRDCs, gatekeeping and the alleged Kona Blue material transfer. Broadcast participation in this domain reduces, in practice, to one correspondent at one network.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-21",
@@ -40,7 +44,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -50,10 +55,14 @@
 "direction": "out",
 "edgeId": "e-3e8eb6d13a",
 "edgeLabel": "Broke Grusch's first on-camera whistleblower interview",
+"family": "media",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "NewsNation published/aired 'We are not alone: The UFO whistleblower speaks' on 11 June 2023, the first television interview with David Grusch, conducted by Ross Coulthart, NewsNation's senior special investigations correspondent.",
+"predicate": "interviewed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -67,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "interviewed"
 },
 {
 "claimTier": 2,
@@ -77,10 +87,14 @@
 "direction": "out",
 "edgeId": "e-d64818faab",
 "edgeLabel": "Carried and explained the Immaculate Constellation report",
+"family": "media",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "NewsNation ran explainer and news coverage of the alleged unacknowledged special access program named in the whistleblower brief that Michael Shellenberger delivered to Congress in autumn 2024.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -94,7 +108,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 },
 {
 "claimTier": 2,
@@ -104,10 +119,14 @@
 "direction": "out",
 "edgeId": "e-d434732cb5",
 "edgeLabel": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+"family": "media",
 "id": "skywatcher",
 "l0": false,
 "label": "Skywatcher",
 "note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -126,7 +145,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 }
 ],
 "coords": null,
@@ -163,7 +183,7 @@
 ],
 "sub": "US cable news network",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1045 of 1138, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1043 of 1138, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

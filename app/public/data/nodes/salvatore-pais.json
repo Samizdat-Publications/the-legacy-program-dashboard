@@ -398,10 +398,14 @@
 "direction": "out",
 "edgeId": "e-43262f2737",
 "edgeLabel": "US 10,144,532 cites Puthoff's Polarizable-Vacuum paper on its printed front page",
+"family": "documents",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "A DOCUMENTARY JOIN PRINTED ON A GRANTED US NAVY PATENT, which is better evidence of a connection than any later statement about the same relationship. The 'Other Publications' list includes 'Puthoff, H. E., Polarizable-Vacuum (PV) Approach to General Relativity, Foundations of Physics, Jun. 2002, vol. 32, No. 6'. The edge asserts the citation and nothing about any personal or professional contact, for which nothing was opened.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-12-04",
@@ -410,7 +414,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -420,10 +425,14 @@
 "direction": "out",
 "edgeId": "e-16ebae69c7",
 "edgeLabel": "NAWCAD, NAS Patuxent River, at the time of filing",
+"family": "place-time",
 "id": "l-pax-river",
 "l0": false,
 "label": "Naval Air Station Patuxent River, Maryland",
 "note": "The PAX 205 briefing gives his station as NAS Patuxent River Maryland 20670.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -432,7 +441,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -442,10 +452,14 @@
 "direction": "out",
 "edgeId": "e-0ab79628e4",
 "edgeLabel": "Named inventor",
+"family": "documents",
 "id": "pais-app-fusion",
 "l0": false,
 "label": "US Application 2019/0295733 - Plasma Compression Fusion Device",
 "note": "Application 15/928703, assigned to the Secretary of the Navy.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -454,7 +468,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -464,10 +479,14 @@
 "direction": "out",
 "edgeId": "e-0211f9d1dd",
 "edgeLabel": "Named inventor",
+"family": "documents",
 "id": "pais-app-superconductor",
 "l0": false,
 "label": "US Application 2019/0058105 - Piezoelectricity-induced Room Temperature Superconductor",
 "note": "Application 15/678672, assigned to the Secretary of the Navy.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -476,7 +495,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -486,10 +506,14 @@
 "direction": "out",
 "edgeId": "e-d916bdbc20",
 "edgeLabel": "Named inventor",
+"family": "documents",
 "id": "pais-patent-emfg",
 "l0": false,
 "label": "US Patent 10,135,366 - Electromagnetic field generator",
 "note": "Application 14/807943, assigned to the Secretary of the Navy.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -498,7 +522,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -508,10 +533,14 @@
 "direction": "out",
 "edgeId": "e-b9e8ff5af0",
 "edgeLabel": "Named inventor",
+"family": "documents",
 "id": "pais-patent-hfgw",
 "l0": false,
 "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "note": "Application 15/431823, assigned to the Secretary of the Navy.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -520,7 +549,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -530,10 +560,14 @@
 "direction": "out",
 "edgeId": "e-d9cf01901c",
 "edgeLabel": "Named inventor",
+"family": "documents",
 "id": "pais-patent-imrd",
 "l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "Application 15/141270, assigned to the Secretary of the Navy.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -542,7 +576,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -552,10 +587,14 @@
 "direction": "out",
 "edgeId": "e-90d5a4103d",
 "edgeLabel": "Author of the Navy invention disclosure",
+"family": "documents",
 "id": "pax-205-disclosure",
 "l0": false,
 "label": "NAVAIR Invention Disclosure Briefing, Navy Case PAX 205 (Inertial Mass Reduction Device)",
 "note": "The briefing names him as author with his NAWCAD competency code 4.4.5.1 and navy.mil address on its first page.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -564,7 +603,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "wrote"
 }
 ],
 "date": "2015-07-24",

@@ -36,10 +36,14 @@
 "direction": "out",
 "edgeId": "e-dcb4ff5ab5",
 "edgeLabel": "Instrumented search",
+"family": "organisation",
 "id": "d-astro",
 "l0": false,
 "label": "Astronomy & Astrophysics",
 "note": "The Galileo Project instrumentation papers and the VASCO archival work are the two productive observational programmes outside government.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-10-20",
@@ -48,7 +52,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked organisationally to"
 }
 ],
 "coords": null,
@@ -117,7 +122,7 @@
 ],
 "sub": "Methodological domain - peer review, instrumentation and the professional cost of working on this",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 860 of 1138, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 859 of 1138, score 19). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

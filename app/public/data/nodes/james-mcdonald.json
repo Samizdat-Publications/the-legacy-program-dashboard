@@ -96,10 +96,14 @@
 "direction": "out",
 "edgeId": "e-1f6852d2c7",
 "edgeLabel": "McDonald attacked the Condon Report and was professionally destroyed",
+"family": "denial",
 "id": "condon-committee",
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "He publicly criticised the report on release, was ridiculed over his UFO work during 1971 congressional SST hearings on an unrelated technical subject, and died by suicide in June 1971.",
+"predicate": "disputed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-07-29",
@@ -108,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -118,10 +123,14 @@
 "direction": "in",
 "edgeId": "e-b422591362",
 "edgeLabel": "Both testified at the 29 July 1968 congressional symposium",
+"family": "testimony",
 "id": "j-allen-hynek",
 "l0": false,
 "label": "J. Allen Hynek",
 "note": "The Air Force's own long-serving consultant and its most aggressive scientific critic appeared at the same hearing, both concluding the official program was inadequate.",
+"predicate": "corroborated",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-07-29",
@@ -130,7 +139,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -140,10 +150,14 @@
 "direction": "out",
 "edgeId": "e-54a7c495e6",
 "edgeLabel": "McDonald was the conduit that put the memo into public circulation",
+"family": "testimony",
 "id": "low-memo",
 "l0": false,
 "label": "Low Memorandum (\"the trick would be...\")",
 "note": "McDonald received the memo from project staff and it reached John Fuller, who published it in Look in May 1968 as 'Flying Saucer Fiasco'.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -152,7 +166,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -162,10 +177,14 @@
 "direction": "out",
 "edgeId": "e-2cc682d158",
 "edgeLabel": "McDonald reviewed Blue Book files and told Congress it was not an investigation",
+"family": "oversight",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Testifying on 29 July 1968 he told the House Science and Astronautics Committee that 'credible observers are observing relatively incredible objects' and that the subject deserved science rather than ridicule.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-07-29",
@@ -174,7 +193,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 }
 ],
 "date": "1968-07-29",

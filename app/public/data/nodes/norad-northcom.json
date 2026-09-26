@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-add2c009fa",
 "edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+"family": "denial",
 "id": "defense-support-program",
 "l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-12-06",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-909093c02a",
 "edgeLabel": "Originated by the Commander-in-Chief, NORAD",
+"family": "documents",
 "id": "doc-cincnorad-1975-11-11",
 "l0": false,
 "label": "CINCNORAD four-part message, 11 November 1975",
 "note": "Type research: originator of the message, not custodian of anything.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-11",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "out",
 "edgeId": "e-c8394a3a8c",
 "edgeLabel": "Produced by the 24th NORAD Region's own senior directors",
+"family": "organisation",
 "id": "doc-norad-24th-log-1975",
 "l0": false,
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-19",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -101,10 +116,14 @@
 "direction": "in",
 "edgeId": "e-cf1225c914",
 "edgeLabel": "Commander, NORAD and USNORTHCOM from February 2024",
+"family": "role",
 "id": "gregory-guillot",
 "l0": false,
 "label": "Gregory M. Guillot",
 "note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-10-30",
@@ -118,7 +137,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -128,10 +148,14 @@
 "direction": "in",
 "edgeId": "e-ac66f4821c",
 "edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
+"family": "oversight",
 "id": "langley-2023-incursions",
 "l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-15",
@@ -145,7 +169,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,
@@ -155,10 +180,14 @@
 "direction": "in",
 "edgeId": "e-6f55bf24d3",
 "edgeLabel": "demands an intercept history since 2004",
+"family": "documents",
 "id": "ndaa26-uap-provisions",
 "l0": false,
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-10",
@@ -167,7 +196,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -177,10 +207,14 @@
 "direction": "out",
 "edgeId": "e-6044292251",
 "edgeLabel": "NORAD was the detection and identification authority across the sequence",
+"family": "oversight",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-10-29",
@@ -199,7 +233,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -209,10 +244,14 @@
 "direction": "in",
 "edgeId": "e-5096558a18",
 "edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
+"family": "place-time",
 "id": "shootdowns-feb-2023",
 "l0": false,
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
+"predicate": "responded_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-22",
@@ -221,7 +260,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "responded to"
 }
 ],
 "coords": null,

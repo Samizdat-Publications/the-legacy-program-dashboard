@@ -32,10 +32,14 @@
 "direction": "out",
 "edgeId": "e-8fac7a136f",
 "edgeLabel": "Co-author of Alien Rapture: The Chosen",
+"family": "documents",
 "id": "alien-rapture-1998",
 "l0": false,
 "label": "Alien Rapture: The Chosen, Galde Press, 1998",
 "note": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1998-02-04",
@@ -44,7 +48,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 }
 ],
 "date": null,
@@ -90,7 +95,7 @@
 "status": "unknown",
 "sub": "Co-author with Fouche of Alien Rapture: The Chosen, 1998; nothing else about him was researched in this pass",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1117 of 1138, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1116 of 1138, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

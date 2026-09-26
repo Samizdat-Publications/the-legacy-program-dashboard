@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-7fd38f3f7c",
 "edgeLabel": "Released a less-redacted 1953 Robertson Panel record",
+"family": "documents",
 "id": "pursue-release-03",
 "l0": false,
 "label": "PURSUE Release 03",
 "note": "A version of the Agency's own foundational UAP document less redacted than the one in its public reading room appeared seventy-three years later, by executive direction.",
+"predicate": "released",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "was released by"
 },
 {
 "claimTier": 2,
@@ -68,10 +73,14 @@
 "direction": "in",
 "edgeId": "e-4ea7aca143",
 "edgeLabel": "Released the 1963 Brazil sphere report",
+"family": "denial",
 "id": "pursue-release-05",
 "l0": false,
 "label": "PURSUE Release 05",
 "note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
+"predicate": "omitted",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-10",
@@ -85,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked through a denial to"
 }
 ],
 "coords": null,
@@ -132,7 +142,7 @@
 ],
 "sub": "19 documents, 1940s-1990s; plus the 1997 Studies in Intelligence history",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 534 of 1138, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 533 of 1138, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

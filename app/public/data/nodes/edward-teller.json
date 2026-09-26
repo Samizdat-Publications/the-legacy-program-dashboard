@@ -53,10 +53,14 @@
 "direction": "in",
 "edgeId": "e-e601a1b15b",
 "edgeLabel": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
+"family": "testimony",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -75,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-a774f56a07",
 "edgeLabel": "Attended the 16 February 1949 conference",
+"family": "testimony",
 "id": "green-fireballs-conference-1949",
 "l0": false,
 "label": "Los Alamos Green Fireballs Conference",
 "note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-18",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -97,10 +107,14 @@
 "direction": "out",
 "edgeId": "e-c7cf595ca0",
 "edgeLabel": "Co-founder and director of the Livermore laboratory",
+"family": "role",
 "id": "llnl",
 "l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-15",
@@ -109,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 }
 ],
 "date": "1949-02-16",
@@ -164,7 +179,7 @@
 "status": "dead",
 "sub": "Los Alamos physicist; co-founder and later Director of Lawrence Livermore National Laboratory; attendee of the 16 February 1949 Los Alamos green fireballs conference",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 789 of 1138, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 786 of 1138, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

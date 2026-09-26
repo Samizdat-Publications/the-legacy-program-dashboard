@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-4d2a295012",
 "edgeLabel": "IHEDN director who sponsored the project",
+"family": "conduct",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Norlain's own preface records that Letty came to his IHEDN office in March 1995 and that he referred the project to the Auditors Association, which backed it.",
+"predicate": "supported",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1999-07-01",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "supported"
 }
 ],
 "date": "1999-07-01",

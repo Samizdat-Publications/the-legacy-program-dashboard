@@ -23,10 +23,14 @@
 "direction": "in",
 "edgeId": "e-207fe30640",
 "edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
+"family": "testimony",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Rep. Mace proposed that undersea propulsion material would go to a contractor like General Dynamics and aerospace material to Lockheed; Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
+"predicate": "alleged_tie",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-11-13",
@@ -35,7 +39,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -45,10 +50,14 @@
 "direction": "in",
 "edgeId": "e-e5eb570997",
 "edgeLabel": "Named in his own self-stated client list, 2000",
+"family": "testimony",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -57,7 +66,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -67,10 +77,14 @@
 "direction": "in",
 "edgeId": "e-790a739625",
 "edgeLabel": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
+"family": "documents",
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series names Convair of San Diego among the aircraft industry firms participating or actively interested in gravity, and photographs a Convair division senior research engineer conducting a gravity-control experiment. Tier 2 because the articles name Convair and not General Dynamics, and the identification of the two in November 1955 is not something the document states.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -79,7 +93,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,
@@ -116,7 +131,7 @@
 ],
 "sub": "Prime contractor; submarines, undersea systems, Electric Boat",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 807 of 1138, score 21). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 805 of 1138, score 21). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

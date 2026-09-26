@@ -23,10 +23,14 @@
 "direction": "out",
 "edgeId": "e-e29588334e",
 "edgeLabel": "a newsletter, not a newsroom, carried a named alleged programme into the congressional record",
+"family": "analysis",
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "Michael Shellenberger reported the Immaculate Constellation allegations on Public and then entered the twelve-page report into the record as a witness before the House Committee on Oversight and Accountability on 13 November 2024. The chain runs leak to Substack to sworn testimony with no traditional newsroom in it, which is the domain's thesis stated as a single case.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -40,7 +44,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -50,10 +55,14 @@
 "direction": "out",
 "edgeId": "e-c664022655",
 "edgeLabel": "Founder Shellenberger testified as a hearing witness",
+"family": "testimony",
 "id": "hearing-2024-11-13",
 "l0": true,
 "label": "House Oversight joint hearing, 13 November 2024 - 'Unidentified Anomalous Phenomena: Exposing the Truth'",
 "note": "The transcript lists 'Mr. Michael Shellenberger, Founder of Public' as one of four witnesses, alongside Rear Admiral Timothy Gallaudet, Luis Elizondo and Michael Gold. His statement opens 'Chairwoman Mace, Chairman Grothman, Ranking Member Connolly, Ranking Member Garcia, Members of the Subcommittees' - a joint sitting of two subcommittees.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -72,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -82,10 +92,14 @@
 "direction": "out",
 "edgeId": "e-ec7ca4f118",
 "edgeLabel": "Published the whistleblower brief naming the program",
+"family": "documents",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Shellenberger brought the Immaculate Constellation allegation to Congress, arguing 'there is a growing body of evidence that the U.S. Government is not being transparent about what it knows about unidentified anomalous phenomena and that elements within the military and the IC are in violation of their constitutional duty to notify Congress of their operations.' The name appears seventeen times across the printed hearing.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -104,7 +118,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -114,10 +129,14 @@
 "direction": "out",
 "edgeId": "e-c6eb1a14f2",
 "edgeLabel": "Immaculate Constellation document hosted on Mace's House site",
+"family": "media",
 "id": "nancy-mace",
 "l0": false,
 "label": "Nancy Ruth Mace",
 "note": "The hearing's own index of documents records the route the material took into the record: 'Report, Pentagon, ``Immaculate Constellation``; submitted by Rep. Mace.' Mace chaired the sitting - Shellenberger's statement opens by addressing her as Chairwoman - and it was she, not the witness, who entered the document.",
+"predicate": "reported_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -136,7 +155,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through media to"
 }
 ],
 "coords": null,
@@ -173,7 +193,7 @@
 ],
 "sub": "Substack newsletter",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1046 of 1138, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1044 of 1138, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

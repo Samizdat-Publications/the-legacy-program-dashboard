@@ -46,10 +46,14 @@
 "direction": "in",
 "edgeId": "e-de001fedf7",
 "edgeLabel": "Succeeded him as DCI and attributed the panel to him in writing",
+"family": "testimony",
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "Dulles's own letters name General Smith as the officer at whose direction the panel was convened, which is the Agency's contemporaneous account of the handover of the file.",
+"predicate": "acknowledged",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1953-03-13",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -68,10 +73,14 @@
 "direction": "out",
 "edgeId": "e-55f06b164c",
 "edgeLabel": "Director of Central Intelligence",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "He signs as 'Director' on CIA Office of the Director paper and is addressed as Director of Central Intelligence in the Office of Scientific Intelligence memoranda of October and December 1952.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1952-12-02",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -90,10 +100,14 @@
 "direction": "in",
 "edgeId": "e-fff68adc9a",
 "edgeLabel": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+"family": "oversight",
 "id": "h-marshall-chadwell",
 "l0": false,
 "label": "H. Marshall Chadwell",
 "note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1952-10-02",
@@ -107,7 +121,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "receives reports from"
 },
 {
 "claimTier": 1,
@@ -117,10 +132,14 @@
 "direction": "out",
 "edgeId": "e-895ded2e05",
 "edgeLabel": "Convened at his direction",
+"family": "law",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1953-03-13",
@@ -129,7 +148,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -139,10 +159,14 @@
 "direction": "out",
 "edgeId": "e-cc7cf2ed28",
 "edgeLabel": "His 20 August 1952 instruction follows the summer 1952 reporting wave",
+"family": "place-time",
 "id": "washington-flap-1952",
 "l0": false,
 "label": "1952 Washington DC Sightings",
 "note": "The DCI's direction to prepare an NSC intelligence directive is dated 20 August 1952 in Chadwell's own account, weeks after the Washington sightings, and Chadwell's October study rests on the reporting volume of that summer.",
+"predicate": "responded_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1952-12-02",
@@ -151,7 +175,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "responded to"
 }
 ],
 "date": "1952-12-02",

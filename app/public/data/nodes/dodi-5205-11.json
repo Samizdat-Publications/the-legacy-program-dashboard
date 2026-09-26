@@ -149,10 +149,14 @@
 "direction": "out",
 "edgeId": "e-9b7f1fe3a0",
 "edgeLabel": "DoDI 5205.11 glossary definition of 'carve out'",
+"family": "law",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -161,7 +165,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -171,10 +176,14 @@
 "direction": "in",
 "edgeId": "e-136ae96711",
 "edgeLabel": "Requested on the SAP approval checklist and recorded in the program file",
+"family": "law",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "DoDI 5205.11 Appendix 2 to Enclosure 6 item 11.d requires a 'Contract strategy (carve-out justification if applicable)'; Enclosure 7 requires the signed carve-out approval and the list of carved-out facilities in the program record file.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -183,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -193,10 +203,14 @@
 "direction": "out",
 "edgeId": "e-baff3ef5cb",
 "edgeLabel": "the issuance that documents the approval and oversight chain this domain is trying to map",
+"family": "documents",
 "id": "d-structure",
 "l0": false,
 "label": "Program structure and organisational mapping",
 "note": "DoDI 5205.11 (effective 12 September 2024) sets out the prospective SAP approval sequence in days from establishment, the review bodies (SSWG, Senior Review Group, SAPOC) and the oversight roles. It is the only public document that walks the whole chain end to end, which makes it the domain's primary methodological source rather than merely one of its members.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-08-09",
@@ -205,7 +219,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -215,10 +230,14 @@
 "direction": "in",
 "edgeId": "e-fb25dff7e3",
 "edgeLabel": "The manual implements the instruction's policy",
+"family": "law",
 "id": "dodm-5205-07-v1",
 "l0": false,
 "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07 Volume 1 para 1.a(1) states that it 'implements policy established in DoD Instruction (DoDI) 5205.11'.",
+"predicate": "implements",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-02-12",
@@ -227,7 +246,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is implemented by"
 },
 {
 "claimTier": 1,
@@ -237,10 +257,14 @@
 "direction": "out",
 "edgeId": "e-bd900046fa",
 "edgeLabel": "Sets SAPOC membership and its annual validation of the congressional report",
+"family": "law",
 "id": "sapoc",
 "l0": false,
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "DoDI 5205.11 Enclosure 3 para 2 lists the eighteen SAPOC positions and assigns it 'an annual review and validation of SAP reports sent to the Congressional defense and intelligence committees'.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -249,7 +273,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -259,10 +284,14 @@
 "direction": "out",
 "edgeId": "e-4621acfb67",
 "edgeLabel": "Makes the SRG the working-level body that reviews every waived program annually",
+"family": "law",
 "id": "srg-dod",
 "l0": false,
 "label": "Senior Review Group (DoD SAP governance)",
 "note": "DoDI 5205.11 Enclosure 3 para 3.b(4)-(5): the SRG 'Reviews all waived DoD SAPs annually' and 'Ensures the accuracy of the SAP list submitted to Congress'.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -271,7 +300,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -281,10 +311,14 @@
 "direction": "out",
 "edgeId": "e-924a3f0aaa",
 "edgeLabel": "Chairs the deconfliction forum at the DoD SAPCO director level",
+"family": "law",
 "id": "sswg",
 "l0": false,
 "label": "SAP Senior Working Group (SSWG)",
 "note": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -293,7 +327,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -303,10 +338,14 @@
 "direction": "out",
 "edgeId": "e-672f106657",
 "edgeLabel": "para 1.2.f designates select unacknowledged SAPs as waived",
+"family": "law",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "",
+"predicate": "implements",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -315,7 +354,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "implements"
 },
 {
 "claimTier": 1,
@@ -325,10 +365,14 @@
 "direction": "out",
 "edgeId": "e-6891d31193",
 "edgeLabel": "the DoD-side implementation",
+"family": "law",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The statute permits the waiver; this Instruction is where the Department operates it. Para 1.2.f. is DoD's own designation authority - the Secretary 'may designate select unacknowledged SAPs as \"waived\"' - and Enclosure 3 tasks the Senior Review Group with reviewing 'all waived DoD SAPs' annually and advising the SAPOC. Para 7.2.a.(3) then sets who is told, and it is wider than the statute's twelve: the chair, the ranking member, the staff directors and one designated security manager of the defense AND intelligence committees. Quotations are the verbatim ones already recorded on this node from the Instruction itself.",
+"predicate": "implements",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-09-12",
@@ -337,7 +381,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "implements"
 }
 ],
 "coords": null,

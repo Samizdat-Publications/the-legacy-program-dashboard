@@ -2,7 +2,7 @@
  "byRoute": {
   "evidence": [
    "Show me every entity the government has formally denied",
-   "Filter to Tier 3 and tell me which of those 619 claims is load bearing anywhere.",
+   "Filter to Tier 3 and tell me which of those 580 claims is load bearing anywhere.",
    "Show me claims that are open questions on nodes with a drafted FOIA request.",
    "Which source domain carries the most claims, and how many of those are Tier 1?"
   ],
@@ -59,7 +59,7 @@
  },
  "generated": "2026-09-26",
  "shape": "per-route",
- "source": "8881f54ee80b",
+ "source": "f38a9d3ce56d",
  "suggestions": [
   "Where should I start?",
   "Follow the money: who paid, and where does the trail stop?",

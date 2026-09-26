@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-93873f5cbd",
 "edgeLabel": "The built vessel and the government survey describe the same physics",
+"family": "analysis",
 "id": "dird-mhd-air-breathing-propulsion-and-power",
 "l0": true,
 "label": "MHD Air Breathing Propulsion and Power for Aerospace Applications",
 "note": "STATED INFERENCE OF SUBJECT SIMILARITY. The DIRD does not mention Yamato-1 and nothing joins them. Both concern a magnetic field acting on a conducting fluid with the fluid as the reaction mass, one in seawater and one in ionised air.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1995-04",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -62,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-08b7e5fa8d",
 "edgeLabel": "The same mechanism, independently built and taken to sea in June 1992",
+"family": "analysis",
 "id": "king-patent-mhd",
 "l0": false,
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "note": "STATED INFERENCE. NO DOCUMENT JOINS THESE TWO and neither cites the other. The edge records that the propulsion mechanism US 3,322,374 claims was demonstrated at sea by a civil maritime foundation in public in 1992, which is the strand's control case: the mechanism does not require a secret to exist.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1995-04",
@@ -79,7 +88,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "parallels"
 }
 ],
 "coords": null,
@@ -116,7 +126,7 @@
 ],
 "sub": "The Ship and Ocean Foundation's experimental vessel, which on her trial runs in Kobe in June 1992 became the first ship propelled by superconducting magnetohydrodynamic thrusters",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1113 of 1138, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1111 of 1138, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
 "claimTier": null,

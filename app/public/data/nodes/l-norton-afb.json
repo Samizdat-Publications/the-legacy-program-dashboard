@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-2fd404135e",
 "edgeLabel": "Two of the document's witnesses name the base",
+"family": "documents",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "McCandlish and Lt Col John Williams name Norton AFB in separate testimonies inside the same document, and the compiler then cross-references them to each other. The corroboration is the compiler's assertion, made inside the compilation.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-dcac53bb5e",
 "edgeLabel": "The event is at the base",
+"family": "place-time",
 "id": "norton-afb-airshow-1988",
 "l0": false,
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "Both primary documents place the account at Norton AFB, and the air show itself is dated at the base independently by a Blackbird photographic collection.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 }
 ],
 "coords": null,
@@ -116,7 +126,7 @@
 ],
 "sub": "Former USAF base on the eastern fringe of San Bernardino; named by two witnesses in one 2001 document as holding a compartmented facility",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 890 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 886 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unverified": []
 }

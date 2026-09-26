@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-1c4c6121ad",
 "edgeLabel": "Ranking Member of the full committee at the time of the founding hearing",
+"family": "role",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Raskin took two full rounds of questioning at the 26 July 2023 subcommittee hearing.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2023-07-26",
@@ -90,7 +95,7 @@
 "status": "active",
 "sub": "U.S. Rep. (D-MD-8); Oversight Ranking Member 2023-2024; took two full rounds at the 2023 hearing",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1108 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1105 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -80,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-409e908da2",
 "edgeLabel": "Project engineer for the deployment",
+"family": "role",
 "id": "big-sur-1964",
 "l0": false,
 "label": "Big Sur missile-test filming, September 1964",
 "note": "His own opening line: 'I was the project engineer for these experiments.' He supplies the dates, the instrument, the launch name, the photographs and a contemporaneous 13 October 1964 staff study cited by title.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1993",
@@ -92,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -102,10 +107,14 @@
 "direction": "out",
 "edgeId": "e-6810ea49bb",
 "edgeLabel": "Author",
+"family": "documents",
 "id": "doc-si-big-sur-1993",
 "l0": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "note": "He identifies himself as the project engineer in the article's opening line. Type research, not custody: he wrote it, he does not hold custody of anything.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1993",
@@ -114,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -124,10 +134,14 @@
 "direction": "out",
 "edgeId": "e-39a9a7ae21",
 "edgeLabel": "Published point-by-point rebuttal by the project engineer, Skeptical Inquirer, Winter 1993",
+"family": "denial",
 "id": "robert-jacobs",
 "l0": false,
 "label": "Robert M. Jacobs",
 "note": "TIER 1 DESPITE BEING A DENIAL, because it is a signed article in a named journal by a participant who cites his own dated 1964 staff study, publishes photographs of the team, and concedes a point to Jacobs on lasers. He answers six numbered conclusions and states that Jacobs 'was technically not authorized to view the pictures we were collecting'.",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1993",
@@ -136,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "disputes"
 }
 ],
 "date": null,

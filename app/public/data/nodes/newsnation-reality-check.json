@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-fa12bdfb8c",
 "edgeLabel": "Dedicated segment 'FFRDCs, U-Arcs, and GOCOs' at 17:00",
+"family": "analysis",
 "id": "ffrdc-mechanism",
 "l0": false,
 "label": "The FFRDC / UARC / GOCO mechanism",
 "note": "The 4 August 2026 episode gave the FFRDC/UARC/GOCO mechanism its own broadcast segment - the first time the corporate-containment thesis was treated as a discrete topic on US cable news.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-04",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-f7c7900a76",
 "edgeLabel": "Episode centred on the alleged Lockheed-to-DHS transfer",
+"family": "media",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "Gerb described Kona Blue to Coulthart as a DHS-brokered program in which Lockheed Martin material was reportedly diverted before the CIA shut it down.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-04",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 },
 {
 "claimTier": 2,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-58e2bc4ee8",
 "edgeLabel": "Credited research producer",
+"family": "role",
 "id": "rob-jones",
 "l0": false,
 "label": "Rob Jones",
 "note": "Named in the on-screen credits of the 4 August 2026 episode.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-04",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -101,10 +116,14 @@
 "direction": "in",
 "edgeId": "e-30cca1515c",
 "edgeLabel": "Coulthart hosts Reality Check",
+"family": "role",
 "id": "ross-coulthart",
 "l0": false,
 "label": "Ross Coulthart",
 "note": "Coulthart is host and NewsNation's senior special investigations correspondent; Reality Check is the vehicle through which the structural model reached broadcast.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-04",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 }
 ],
 "coords": null,
@@ -169,7 +189,7 @@
 ],
 "sub": "Cable network investigative programme",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 957 of 1138, score 16). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 955 of 1138, score 16). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-d684acecdc",
 "edgeLabel": "TRW acquired BDM by cash tender offer, 1997",
+"family": "organisation",
 "id": "bdm-international",
 "l0": false,
 "label": "BDM International, Inc.",
 "note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-11-26",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 2,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-bec9bfa851",
 "edgeLabel": "The subject of the 20 March 2026 corporate-breakaway argument",
+"family": "documents",
 "id": "gerb-northrop-trw-investigation",
 "l0": false,
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2002-12-20",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-e21cd21c0e",
 "edgeLabel": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
+"family": "organisation",
 "id": "northrop-grumman",
 "l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2002-12-20",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,
@@ -160,7 +175,7 @@
 ],
 "sub": "Cleveland-based aerospace, defence and automotive prime; acquired BDM 1997, acquired by Northrop Grumman 11 December 2002",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 532 of 1138, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 531 of 1138, score 30). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

@@ -3,14 +3,8 @@
 "C": 1,
 "D": 3,
 "band": null,
-"claims": [
-{
-"id": "c-3a8535b62c",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-}
-],
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"claims": [],
 "cls": "location",
 "cluster": "other",
 "conflicts": [],
@@ -23,10 +17,14 @@
 "direction": "in",
 "edgeId": "e-607501aa64",
 "edgeLabel": "French private defence committee",
+"family": "place-time",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -40,7 +38,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -50,10 +49,14 @@
 "direction": "in",
 "edgeId": "e-fd1c239a20",
 "edgeLabel": "French national UAP office, CNES Toulouse",
+"family": "place-time",
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -72,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 }
 ],
 "coords": [
@@ -123,7 +127,7 @@
 ],
 "sub": "Sovereign state; host of the only permanently funded state UAP investigation unit",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 872 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 902 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unverified": []
 }

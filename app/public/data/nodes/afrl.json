@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-d1e2d616b4",
 "edgeLabel": "Co-located at Wright-Patterson with the successor to the Foreign Technology Division",
+"family": "place-time",
 "id": "nasic",
 "l0": false,
 "label": "National Air and Space Intelligence Center",
 "note": "NASIC is the lineal successor to ATIC and FTD, the organisations that ran SIGN, GRUDGE and BLUE BOOK and exploited foreign aerospace materiel. AFRL and NASIC share the installation.",
+"predicate": "concurrent_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-9a105ef1f4",
 "edgeLabel": "Single Air Force science and technology laboratory, Wright-Patterson AFB",
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "AFRL consolidated the Wright, Phillips, Rome and Armstrong laboratories and AFOSR at Wright-Patterson - the installation named in every retrieval account since 1947.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,
@@ -117,7 +127,7 @@
 ],
 "sub": "Single Air Force science and technology laboratory, headquartered at Wright-Patterson AFB, Ohio",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 553 of 1138, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 552 of 1138, score 29). 2 connections, 0 of them custody/funding/programmatic. Axes C3/A3/D0.",
 "timeline": [],
 "unverified": []
 }

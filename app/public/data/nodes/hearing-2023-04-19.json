@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-b5bd699648",
 "edgeLabel": "chaired the hearing",
+"family": "oversight",
 "id": "kirsten-gillibrand",
 "l0": false,
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand chaired the Senate Armed Services Emerging Threats and Capabilities Subcommittee for both AARO oversight hearings.",
+"predicate": "oversaw",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-04-19",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-89405ee526",
 "edgeLabel": "sole DoD witness; testified AARO held 650+ cases",
+"family": "testimony",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "The only open Senate hearing on AARO under its first director, published as S.Hrg. 118-648.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-04-19",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "heard testimony from"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-f145bbac09",
 "edgeLabel": "sole witness",
+"family": "testimony",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "S. Hrg. 118-648 lists Kirkpatrick as the only witness.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-04-19",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "heard testimony from"
 }
 ],
 "coords": null,

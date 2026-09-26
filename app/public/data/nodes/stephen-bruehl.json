@@ -52,10 +52,14 @@
 "direction": "in",
 "edgeId": "e-c4c31c91c2",
 "edgeLabel": "Co-authors on the 2025 Scientific Reports result",
+"family": "role",
 "id": "beatriz-villarroel",
 "l0": false,
 "label": "Beatriz Villarroel",
 "note": "An astronomer and a Vanderbilt anesthesiology professor with statistical training - an indication of how far outside conventional aerospace research the productive work has migrated.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -64,7 +68,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -74,10 +79,14 @@
 "direction": "out",
 "edgeId": "e-b73290e58d",
 "edgeLabel": "Lead author of the POSS-I / nuclear testing association",
+"family": "documents",
 "id": "paper-villarroel-bruehl-2025",
 "l0": false,
 "label": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
 "note": "Scientific Reports, 20 October 2025 - a Nature-portfolio paper linking above-ground nuclear testing, contemporaneous UAP reports and anomalous optical transients.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-10-20",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 }
 ],
 "date": "2025-10-20",
@@ -136,7 +146,7 @@
 "status": "active",
 "sub": "Professor of Anesthesiology, Vanderbilt University Medical Center; lead author of the 2025 Scientific Reports POSS-I transients and nuclear testing paper; SCU cluster-analysis author",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1089 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1085 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

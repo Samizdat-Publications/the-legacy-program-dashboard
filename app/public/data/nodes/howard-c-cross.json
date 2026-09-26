@@ -67,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-e76a7e3c83",
 "edgeLabel": "Battelle's Air Force liaison for Blue Book-related work",
+"family": "role",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Cross was the named point of contact between Battelle's Stork analysts and Wright-Patterson.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -79,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -89,10 +94,14 @@
 "direction": "out",
 "edgeId": "e-cdf7e07908",
 "edgeLabel": "Author of the 9 January 1953 memorandum",
+"family": "documents",
 "id": "pentacle-memorandum",
 "l0": false,
 "label": "The Pentacle Memorandum",
 "note": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -101,7 +110,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "wrote"
 }
 ],
 "date": "1953-01-09",

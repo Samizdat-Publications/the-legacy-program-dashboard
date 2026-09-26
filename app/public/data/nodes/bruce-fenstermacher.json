@@ -32,10 +32,14 @@
 "direction": "out",
 "edgeId": "e-f825ea2399",
 "edgeLabel": "Missile combat crew commander at F. E. Warren, 1974 to 1977",
+"family": "role",
 "id": "l-warren",
 "l0": false,
 "label": "F. E. Warren AFB, Wyoming",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -44,7 +48,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -54,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-50bc674b0b",
 "edgeLabel": "Spoke on the record with a signed affidavit",
+"family": "testimony",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "No dated public statement by him before this event has been identified.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -66,7 +75,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": "2010-09-27",
@@ -116,7 +126,7 @@
 "status": "unknown",
 "sub": "USAF Captain, Minuteman missile combat crew commander, F. E. Warren AFB, Wyoming, 1974 to 1977",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1037 of 1138, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1034 of 1138, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-8b13112369",
 "edgeLabel": "operational precursor",
+"family": "place-time",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-16",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,
@@ -88,7 +93,7 @@
 ],
 "sub": "Hosted by Associated Universities, Inc.; ~40 participants; unannounced",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 999 of 1138, score 14). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 998 of 1138, score 14). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": 2,

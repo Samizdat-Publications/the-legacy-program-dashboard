@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-c0814acf71",
 "edgeLabel": "The SAPCO staffed the committee from the start",
+"family": "place-time",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO 'serves as the primary point of contact with Congress, the National Security Council, and other government agencies'.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-11-01",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -75,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-f7e46d3eb7",
 "edgeLabel": "The later directive re-established a body of the same name",
+"family": "organisation",
 "id": "dodd-5205-07-2024",
 "l0": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "note": "The 1994 bulletin and the 1994 commission report both describe a SAPOC chaired by the Deputy Secretary of Defense with an annual validation function, which is the function the later directive and instruction assign.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1994-11-01",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -97,10 +107,14 @@
 "direction": "in",
 "edgeId": "e-97bccd3bf3",
 "edgeLabel": "Dates an Army central SAP oversight office to September 1984, ten years earlier",
+"family": "place-time",
 "id": "gao-nsiad-88-152",
 "l0": true,
 "label": "GAO/NSIAD-88-152 - Special Access Programs: DOD Criteria and Procedures for Creating Them Need Improvement",
 "note": "GAO dates a central Army special-access oversight office to September 1984, following a 1983 DoD review, which places a documented predecessor ten years before the January 1994 change this node carries.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1988-05-24",
@@ -109,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": "came after"
 },
 {
 "claimTier": 2,
@@ -119,10 +134,14 @@
 "direction": "out",
 "edgeId": "e-e24604d954",
 "edgeLabel": "The committee the board dates to 2010 was running from January 1994",
+"family": "place-time",
 "id": "sapoc",
 "l0": false,
 "label": "Special Access Program Oversight Committee (SAPOC)",
 "note": "The November 1994 bulletin has the SAPOC chaired by the Deputy Secretary of Defense, reviewing and validating every SAP annually, sixteen years before the DoD Directive 5205.07 issuance the sapoc node cites as its establishment.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-11-01",
@@ -131,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -141,10 +161,14 @@
 "direction": "out",
 "edgeId": "e-2f60ed6ae3",
 "edgeLabel": "Waived and carved-out programmes named in a chartered commission's report",
+"family": "documents",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The Joint Security Commission's chapter 2 states that some of the most sensitive DoD programmes are waived or carved out from certain oversight and administrative requirements, and that there are over one hundred DoD SAPs with numerous compartments.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-02-28",
@@ -153,7 +177,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

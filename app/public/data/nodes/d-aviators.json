@@ -42,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-a4192a7426",
 "edgeLabel": "Reported kinematics set the physics requirement",
+"family": "analysis",
 "id": "d-prop",
 "l0": false,
 "label": "Propulsion & Field Physics",
 "note": "Aviator accounts with sensor corroboration generate the acceleration and power figures that any propulsion hypothesis must satisfy.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -54,7 +58,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -64,10 +69,14 @@
 "direction": "in",
 "edgeId": "e-5e0b2cee2f",
 "edgeLabel": "Sensor corroboration is what makes the accounts arguable",
+"family": "testimony",
 "id": "d-signals",
 "l0": false,
 "label": "Signals & Sensor Intelligence",
 "note": "Radar tracks and targeting-pod video convert a pilot's account into a multi-sensor event; DoD authenticated the imagery in April 2020 while declining to explain it.",
+"predicate": "corroborated",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -76,7 +85,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -86,10 +96,14 @@
 "direction": "in",
 "edgeId": "e-8aec7286c7",
 "edgeLabel": "A civil-aviation case with a crew, an ATC transcript and a radar record",
+"family": "analysis",
 "id": "jal-1628-1986",
 "l0": false,
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "The file contains crew statements, air traffic control transcripts with flight-path charts, and radar data and computer plots.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -98,7 +112,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 2,
@@ -108,10 +123,14 @@
 "direction": "out",
 "edgeId": "e-a50e2ce471",
 "edgeLabel": "Homeport of the Nimitz strike group",
+"family": "place-time",
 "id": "l-san-diego",
 "l0": false,
 "label": "San Diego, California",
 "note": "The 2004 encounters occurred in the Southern California Operating Area worked by San Diego-based fleet units.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -120,7 +139,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 }
 ],
 "coords": null,

@@ -59,10 +59,14 @@
 "direction": "in",
 "edgeId": "e-b8d7d680d4",
 "edgeLabel": "FY2009 AAWSAP deliverable",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-03",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -86,10 +91,14 @@
 "direction": "in",
 "edgeId": "e-353e15ee6a",
 "edgeLabel": "published by DIA as DIA-08-1001-006, Acquisition Threat Support series",
+"family": "documents",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-03",
@@ -103,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -113,10 +123,14 @@
 "direction": "in",
 "edgeId": "e-7e5bedd578",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -125,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -135,10 +150,14 @@
 "direction": "in",
 "edgeId": "e-cd07471ac9",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 1 December 2009 on the cover. 57 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -152,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -162,10 +182,14 @@
 "direction": "in",
 "edgeId": "e-a4d473a7b9",
 "edgeLabel": "author of record on the DIA list",
+"family": "documents",
 "id": "paul-czysz",
 "l0": false,
 "label": "Paul A. Czysz",
 "note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -194,7 +218,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,

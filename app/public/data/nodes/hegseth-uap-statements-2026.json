@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-2795b20cb0",
 "edgeLabel": "characterises a social-media post as an executive order",
+"family": "testimony",
 "id": "trump-uap-release-directive-2026",
 "l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-02-25",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,
@@ -130,7 +135,7 @@
 ],
 "sub": "'Arsenal of Freedom' tour; 'full compliance with that executive order'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 714 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 713 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": 2,

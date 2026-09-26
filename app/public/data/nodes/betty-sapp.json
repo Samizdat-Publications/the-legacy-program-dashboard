@@ -38,10 +38,14 @@
 "direction": "out",
 "edgeId": "e-07adfdd770",
 "edgeLabel": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
+"family": "role",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-03-19",
@@ -50,7 +54,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -60,10 +65,14 @@
 "direction": "out",
 "edgeId": "e-7edc019ab1",
 "edgeLabel": "The DNI must concur in the appointment to the office she held",
+"family": "role",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "The statutory route to the office she held requires the Director of National Intelligence to concur in the Secretary of Defense's recommendation to the President, per 50 U.S.C. 3041(b)(2)(B) as cited in the same CRS table.",
+"predicate": "appointed",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-03-19",
@@ -72,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 }
 ],
 "date": "2012-07-06",
@@ -118,7 +128,7 @@
 "status": "former",
 "sub": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 692 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 691 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

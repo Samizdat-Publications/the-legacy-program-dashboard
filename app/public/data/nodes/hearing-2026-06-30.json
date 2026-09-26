@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-5a9f3a9fc1",
 "edgeLabel": "No UAP hearing was held in the eleven months between them",
+"family": "place-time",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The period covers the February 2026 release directive, five PURSUE tranches, the late FY2025 annual report, the NDA waiver and the Burlison amendment - all executive or floor action without contemporaneous testimony. Reasoning: House Oversight published hearing index.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -51,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-6f72b68362",
 "edgeLabel": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
+"family": "documents",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-08-03",
@@ -63,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -73,10 +83,14 @@
 "direction": "out",
 "edgeId": "e-b2a0cf8710",
 "edgeLabel": "The Task Force's 2026 hearing addressed MKULTRA, not UAP",
+"family": "oversight",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Witnesses were Stephen Kinzer, Tom O'Neill and minority witness Dr. Elizabeth Ginexi. No UAP witness appeared.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-30",
@@ -85,7 +99,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 }
 ],
 "coords": null,
@@ -127,7 +142,7 @@
 ],
 "sub": "Task Force on the Declassification of Federal Secrets, 2154 Rayburn, 10:00 am; Kinzer, O'Neill, Ginexi",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1077 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1074 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

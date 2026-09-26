@@ -64,10 +64,14 @@
 "direction": "out",
 "edgeId": "e-f1ca115ef0",
 "edgeLabel": "Schulgen signed the flying saucer collection requirement",
+"family": "documents",
 "id": "schulgen-memo",
 "l0": false,
 "label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
 "note": "As Chief of the Air Intelligence Requirements Division he signed 'Intelligence Requirements on Flying Saucer Type Aircraft' on 28 October 1947, distributed 30 October.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1947-10-28",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -86,10 +91,14 @@
 "direction": "in",
 "edgeId": "e-35e75ed88f",
 "edgeLabel": "Addressed to Schulgen at Air Force intelligence requirements",
+"family": "oversight",
 "id": "twining-memo",
 "l0": false,
 "label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
 "note": "Schulgen was the named addressee. Five weeks later he issued the worldwide collection memorandum, making the causal chain from assessment to collection tasking explicit in the documentary record.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-09-23",
@@ -103,7 +112,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "receives reports from"
 }
 ],
 "date": "1947-10-28",

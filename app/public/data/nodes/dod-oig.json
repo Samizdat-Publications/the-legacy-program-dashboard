@@ -53,10 +53,14 @@
 "direction": "in",
 "edgeId": "e-c72cefbd12",
 "edgeLabel": "Statutory internal oversight body within the Department",
+"family": "oversight",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The DoD OIG is the Department's independent inspector general and the author of DODIG-2023-109, the only formal evaluation of the Department's UAP conduct.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-08-15",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -75,10 +80,14 @@
 "direction": "in",
 "edgeId": "e-902d4727c0",
 "edgeLabel": "The OIG is the independent auditor issuing the annual opinion",
+"family": "oversight",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "The DoD/DoW Office of Inspector General has issued the opinion on the agency-wide financial statements every year since FY2018, each time a disclaimer. Attested by the FY2018 AFR and by DOWIG-2026-081.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-11-15",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -97,10 +107,14 @@
 "direction": "in",
 "edgeId": "e-f251553a00",
 "edgeLabel": "OIG audit report of 26 July 2016",
+"family": "organisation",
 "id": "dodig-2016-113",
 "l0": false,
 "label": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported",
 "note": "The report is the OIG's own audit of Army General Fund compilation adjustments for FY2015. Attested by the report.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-07-26",
@@ -109,7 +123,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -119,10 +134,14 @@
 "direction": "out",
 "edgeId": "e-cc2b42a391",
 "edgeLabel": "DoD OIG issued the only formal audit of the Department's UAP conduct",
+"family": "documents",
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The evaluation examined 'how the DoD, military services, defense agencies, and military department counterintelligence organizations took intelligence, counterintelligence, and force protection actions to detect, report, collect, analyze, and identify UAP'. The full report is classified.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-08-15",
@@ -131,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -141,10 +161,14 @@
 "direction": "out",
 "edgeId": "e-46abea4830",
 "edgeLabel": "SAP fraud and abuse complaints must not use collateral reporting channels",
+"family": "law",
 "id": "dodm-5205-07-v1",
 "l0": false,
 "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07-V1 Enclosure 4 para 3.a: SAP FWAC reporting 'will be accomplished through SAP channels. Collateral FWAC reporting channels must not be used for SAP information.'",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-02-12",
@@ -153,7 +177,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "is required by"
 },
 {
 "claimTier": 2,
@@ -163,10 +188,14 @@
 "direction": "in",
 "edgeId": "e-1ebf439cbf",
 "edgeLabel": "Elizondo complaint to the DoD Inspector General, May 2021",
+"family": "oversight",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Elizondo submitted a complaint to the DoD OIG alleging reprisal and improper handling; the OIG is the same body whose UAP evaluation remains classified.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-15",
@@ -175,7 +204,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "received a request from"
 },
 {
 "claimTier": 1,
@@ -185,10 +215,14 @@
 "direction": "in",
 "edgeId": "e-53bd559b22",
 "edgeLabel": "Serving Inspector General",
+"family": "role",
 "id": "platte-moring",
 "l0": false,
 "label": "Platte B. Moring III",
 "note": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War. Attested by the office's own site.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -197,7 +231,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 }
 ],
 "coords": null,

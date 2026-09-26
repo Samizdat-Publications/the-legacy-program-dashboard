@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-5dcf23d494",
 "edgeLabel": "founding director 1977-1978",
+"family": "role",
 "id": "claude-poher",
 "l0": false,
 "label": "Dr Claude Poher",
 "note": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-02-24",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-bef625fd7d",
 "edgeLabel": "1976 IHEDN committee produced GEPAN",
+"family": "organisation",
 "id": "ihedn",
 "l0": false,
 "label": "Institut des Hautes Études de Défense Nationale (IHEDN)",
 "note": "COMETA's own introduction: a 1976 IHEDN committee chaired by General Blanchard of the Gendarmerie Nationale opened the file and its recommendations produced GEPAN.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-7b448401b1",
 "edgeLabel": "US NSA holds a contemporaneous assessment of GEPAN's 1978 report",
+"family": "documents",
 "id": "nsa",
 "l0": true,
 "label": "National Security Agency",
 "note": "A document in the NSA's declassified UFO collection assesses the June 1978 GEPAN report and states that its methods make 'the bulk of the Condon Report seem very poor by comparison'.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-02-24",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is cited by"
 },
 {
 "claimTier": 2,
@@ -107,10 +122,14 @@
 "direction": "out",
 "edgeId": "e-de9cd7c8cd",
 "edgeLabel": "renamed SEPRA in 1988",
+"family": "organisation",
 "id": "sepra",
 "l0": false,
 "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-01",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "was succeeded by"
 }
 ],
 "coords": null,

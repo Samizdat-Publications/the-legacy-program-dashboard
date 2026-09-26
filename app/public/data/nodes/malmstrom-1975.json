@@ -47,10 +47,14 @@
 "direction": "in",
 "edgeId": "e-247362e85a",
 "edgeLabel": "The log IS the event's record; there is no separate report",
+"family": "documents",
 "id": "doc-norad-24th-log-1975",
 "l0": false,
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "A continuous operational log kept by air defence controllers, released over a USAF colonel's signature.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-8417aebd48",
 "edgeLabel": "Thirteen days of reports from this wing's Minuteman launch facilities",
+"family": "place-time",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "The 24th NORAD Region Senior Director's Log is kept at Malmstrom and names its missile sites throughout.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-19",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-ad800305ea",
 "edgeLabel": "Third and longest episode, 7 to 19 November 1975",
+"family": "organisation",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CINCNORAD's message names Malmstrom; the 24th NORAD Region log runs eight days past the message and is marked in the original as ending these incidents.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-19",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "is part of"
 }
 ],
 "coords": null,

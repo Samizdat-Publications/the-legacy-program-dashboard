@@ -54,10 +54,14 @@
 "direction": "out",
 "edgeId": "e-ada7c1a068",
 "edgeLabel": "Co-author; originated the inquiry",
+"family": "documents",
 "id": "skidmore-fitts-report",
 "l0": false,
 "label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "note": "Fitts co-authored the summary report and the Missing Money archive that hosts it and its supporting documentation. Attested by the report and the Solari archive.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-09-01",
@@ -66,7 +70,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -76,10 +81,14 @@
 "direction": "out",
 "edgeId": "e-587347e0ce",
 "edgeLabel": "Founder and president",
+"family": "role",
 "id": "solari",
 "l0": false,
 "label": "Solari, Inc. / The Solari Report",
 "note": "Fitts is founder and president of Solari, Inc., publisher of the Solari Report and the Missing Money archive. Attested by Solari's own biography page.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -88,7 +97,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 }
 ],
 "date": "2017-09-01",
@@ -141,7 +151,7 @@
 "status": "active",
 "sub": "Former Assistant Secretary of Housing and Federal Housing Commissioner, HUD; founder, Solari Inc.",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 917 of 1138, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 916 of 1138, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

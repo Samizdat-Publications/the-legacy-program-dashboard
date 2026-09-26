@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-d434732cb5",
 "edgeLabel": "Aired the Jake Barber / Skywatcher 'psionic retrieval' special",
+"family": "media",
 "id": "newsnation",
 "l0": false,
 "label": "NewsNation",
 "note": "In January 2025 Ross Coulthart interviewed former US intelligence operative Jake Barber on NewsNation's Reality Check; the special introduced Barber's Skywatcher team and its claimed psionic 'summoning' operations and egg-shaped object footage. NewsNation has continued to be the primary outlet for Skywatcher updates. Barber's claims remain unverified by official sources.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -57,7 +61,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was reported on by"
 }
 ],
 "coords": null,
@@ -99,7 +104,7 @@
 ],
 "sub": "Private UAP research venture",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 982 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 978 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D2.",
 "timeline": [],
 "unverified": []
 }

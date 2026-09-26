@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-4e5792c74f",
 "edgeLabel": "Catalogued the missing fields in the case summaries",
+"family": "oversight",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Rojas identified absent coordinates, sensor parameters and altitude data as the specific omissions that block independent kinematic analysis.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-14",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 }
 ],
 "date": "2026-05-14",
@@ -95,7 +100,7 @@
 "status": "active",
 "sub": "Enigma Labs consultant; UAP data analyst",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1128 of 1138, score 7). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1127 of 1138, score 7). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

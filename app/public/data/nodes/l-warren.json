@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-f825ea2399",
 "edgeLabel": "Missile combat crew commander at F. E. Warren, 1974 to 1977",
+"family": "role",
 "id": "bruce-fenstermacher",
 "l0": false,
 "label": "Capt. Bruce Fenstermacher",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-09-27",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-afa32fa24e",
 "edgeLabel": "Geodetic surveyor based at F. E. Warren, 1962 to 1966",
+"family": "place-time",
 "id": "patrick-mcdonough",
 "l0": false,
 "label": "Patrick McDonough",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-09-27",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 },
 {
 "claimTier": 2,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-d24e36eebc",
 "edgeLabel": "Publishes the F. E. Warren 1 August 1965 material",
+"family": "media",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "Type research: he compiles and publishes. The 1965 telephone log itself was first published by J. Allen Hynek in 1972, not by Hastings.",
+"predicate": "reported_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1965-08-01",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -101,10 +116,14 @@
 "direction": "out",
 "edgeId": "e-0ae62d7e61",
 "edgeLabel": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
+"family": "organisation",
 "id": "strategic-air-command",
 "l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-06-14",
@@ -118,7 +137,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -128,10 +148,14 @@
 "direction": "in",
 "edgeId": "e-026e662e22",
 "edgeLabel": "The 1 August 1965 reports were over this installation's Minuteman complex",
+"family": "place-time",
 "id": "warren-1965",
 "l0": false,
 "label": "F. E. Warren AFB sightings, 1 August 1965",
 "note": "The Blue Book telephone log names the base commander of F. E. Warren among its callers and names Warren missile sites.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1965-08-01",
@@ -140,7 +164,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 }
 ],
 "coords": null,
@@ -187,7 +212,7 @@
 ],
 "sub": "SAC installation at Cheyenne; the 1 August 1965 Project Blue Book telephone log; the post-Echo-Flight EMP test programme on Delta Flight; base of two 2010 National Press Club affiants",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 712 of 1138, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 711 of 1138, score 24). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": [
 "The 1 August 1965 Blue Book telephone log was NOT OPENED in facsimile by this board; it is quoted from a mirror of Hastings's material, which in turn traces it to Hynek's 1972 book. Hynek's book was not opened either.",

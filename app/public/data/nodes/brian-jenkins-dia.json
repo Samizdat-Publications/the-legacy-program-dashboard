@@ -46,10 +46,14 @@
 "direction": "out",
 "edgeId": "e-be33e63ad5",
 "edgeLabel": "signed the transmittal to the Senate Armed Services Committee",
+"family": "documents",
 "id": "dia-aatip-letter-2018",
 "l0": false,
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "note": "A records officer's signature is the only formal notification the authorizing committee ever received about a ten-year program.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-01-09",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 }
 ],
 "date": "2018-01-09",
@@ -107,7 +112,7 @@
 "status": "former",
 "sub": "Chief, Records Management and Information Services, Defense Intelligence Agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 967 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 964 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -3,18 +3,13 @@
 "C": 0,
 "D": 3,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-f4b0d4483e",
 "source": "Scientific Reports, doi:10.1038/s41598-025-21620-3",
 "text": "Bruehl and Villarroel published their POSS-I transient analysis in Scientific Reports on 20 October 2025.",
 "tier": 1
-},
-{
-"id": "c-b4363f11e7",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -29,10 +24,14 @@
 "direction": "in",
 "edgeId": "e-c3de75045f",
 "edgeLabel": "VASCO archival transient search",
+"family": "place-time",
 "id": "d-astro",
 "l0": false,
 "label": "Astronomy & Astrophysics",
 "note": "Villarroel's Stockholm-based VASCO project produced the October 2025 Scientific Reports correlation between POSS-I transients, nuclear testing and UAP reports.",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-10-20",
@@ -41,7 +40,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": [
@@ -87,7 +87,7 @@
 ],
 "sub": "Capital of Sweden; base of the VASCO sky-survey transient research",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1079 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1101 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -53,10 +53,14 @@
 "direction": "in",
 "edgeId": "e-b15ff09651",
 "edgeLabel": "produced under the AAWSA/AAWSAP contract, FY 2010",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 2,
@@ -80,10 +85,14 @@
 "direction": "out",
 "edgeId": "e-39bd6c3aa8",
 "edgeLabel": "commissioned via the BAASS prime contract",
+"family": "organisation",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Bigelow Aerospace Advanced Space Studies held the DIA contract under which the DIRDs were produced and subcontracted the individual authors; the DIA cover letter to SASC describes the list as 'all products produced under the AATIP contract'. Tier 2 rather than tier 1 because the contractor name is redacted under (b)(3):10 USC 424 on the DIRD cover page itself, so the subcontracting chain for this specific paper is inferred from the programme structure rather than read off the document.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -102,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -112,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-04caf7a51e",
 "edgeLabel": "published, numbered and released by DIA as DIA-08-1101-023",
+"family": "documents",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"predicate": "released",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -129,7 +143,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "was released by"
 },
 {
 "claimTier": 1,
@@ -139,10 +154,14 @@
 "direction": "in",
 "edgeId": "e-9598d345c0",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -151,7 +170,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -161,10 +181,14 @@
 "direction": "in",
 "edgeId": "e-e7f0907cd8",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Document number DIA-08-1101-023. Publication date 03 January 2011 on the cover. 44 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -178,7 +202,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -188,10 +213,14 @@
 "direction": "out",
 "edgeId": "e-48dcafb07e",
 "edgeLabel": "authored by",
+"family": "documents",
 "id": "friedwardt-winterberg",
 "l0": false,
 "label": "Friedwardt Winterberg",
 "note": "The DIA congressional list credits 'Negative Mass Propulsion' to 'Dr F Winterberg, Univ of Nevada-Reno'. Winterberg is also credited on the same list with 'Advanced Nuclear Propulsion for Manned Deep Space Missions', and published related negative-mass propulsion work in the Journal of the British Interplanetary Society in 2011.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -225,7 +254,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,

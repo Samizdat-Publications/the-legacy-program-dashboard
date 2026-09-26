@@ -53,10 +53,14 @@
 "direction": "in",
 "edgeId": "e-9cd99bcbaf",
 "edgeLabel": "Shown at the podium by Fox News Channel, 9 May 2001",
+"family": "testimony",
 "id": "clifford-stone",
 "l0": false,
 "label": "Clifford E. Stone",
 "note": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -75,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-c67a3fb71e",
 "edgeLabel": "A press event whose purpose was coverage, covered the same day by a national broadcaster",
+"family": "analysis",
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "ABC News reported it on 9 May 2001 with a sceptical comment from its own space consultant. The far larger audience figures that circulate come from the Project's own publicity and are not carried.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-05-09",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -97,10 +107,14 @@
 "direction": "in",
 "edgeId": "e-ce4ab35e03",
 "edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
+"family": "media",
 "id": "daniel-sheehan",
 "l0": false,
 "label": "Daniel P. Sheehan",
 "note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-05-09",
@@ -114,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -124,10 +139,14 @@
 "direction": "out",
 "edgeId": "e-2fde4013a2",
 "edgeLabel": "The Project's press conference, 9 May 2001",
+"family": "organisation",
 "id": "disclosure-project",
 "l0": true,
 "label": "The Disclosure Project",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-05-09",
@@ -141,7 +160,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -151,10 +171,14 @@
 "direction": "out",
 "edgeId": "e-7854589977",
 "edgeLabel": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
+"family": "place-time",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -168,7 +192,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": "came after"
 },
 {
 "claimTier": 2,
@@ -178,10 +203,14 @@
 "direction": "in",
 "edgeId": "e-582c0fbf97",
 "edgeLabel": "Spoke at the podium, 9 May 2001",
+"family": "media",
 "id": "john-callahan",
 "l0": false,
 "label": "John Callahan",
 "note": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001",
@@ -190,7 +219,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -200,10 +230,14 @@
 "direction": "in",
 "edgeId": "e-988cac308a",
 "edgeLabel": "Organiser of the event",
+"family": "organisation",
 "id": "steven-greer",
 "l0": false,
 "label": "Steven M. Greer",
 "note": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-05-09",
@@ -212,7 +246,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was run by"
 }
 ],
 "coords": null,

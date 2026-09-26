@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-dd08efa658",
 "edgeLabel": "Would extend statutory disclosure to contractors holding covered records",
+"family": "analysis",
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "The only proposed mechanism that would convert FFRDC holdings into records reachable by an independent review board with subpoena power, without sponsoring-agency consent.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-23",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-cbd7221922",
 "edgeLabel": "Author of the House-adopted UAP records disclosure amendment",
+"family": "law",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Revised text designated Version 2 on 15 July 2026 and adopted as part of the FY2027 NDAA later that month.",
+"predicate": "sponsored_law",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-23",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "was sponsored by"
 },
 {
 "claimTier": 2,
@@ -79,10 +89,14 @@
 "direction": "out",
 "edgeId": "e-c95bfe8f22",
 "edgeLabel": "Revives the review board and eminent-domain-era disclosure architecture stripped in 2023",
+"family": "organisation",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The FY2027 amendment restores the Senate-confirmed UAP Records Review Board with subpoena authority and a statutory transfer timeline to NARA.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-23",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "succeeded"
 }
 ],
 "coords": null,

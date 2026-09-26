@@ -36,10 +36,14 @@
 "direction": "in",
 "edgeId": "e-7d789ec947",
 "edgeLabel": "Appeal exhausted, suit filed",
+"family": "place-time",
 "id": "d-foia",
 "l0": false,
 "label": "Freedom of Information Practice",
 "note": "CAUS v. NSA is the canonical progression from FOIA request to appellate litigation, and the point at which the courts sustained withholding on a classified affidavit.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1981-11-03",
@@ -48,7 +52,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -58,10 +63,14 @@
 "direction": "out",
 "edgeId": "e-f874ce84b8",
 "edgeLabel": "Courtroom outcomes set the witness's risk calculus",
+"family": "analysis",
 "id": "d-legal",
 "l0": false,
 "label": "Legal Doctrine & Liability",
 "note": "The dismissal in Cash v. United States and the withholding sustained in CAUS v. NSA together define the practical ceiling on judicial remedies in this field.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1981-11-03",
@@ -70,7 +79,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -80,10 +90,14 @@
 "direction": "in",
 "edgeId": "e-96ed08c5d6",
 "edgeLabel": "2012 suit dismissed 2013 on the 1976 waiver, timeliness and sovereign immunity",
+"family": "analysis",
 "id": "frank-olson-death-1953",
 "l0": false,
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "The District of Columbia granted the Government's motion to dismiss without reaching the merits, while recording that the public record supports many of the allegations pleaded.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-07-17",
@@ -92,7 +106,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "has as an instance"
 }
 ],
 "coords": null,
@@ -139,7 +154,7 @@
 ],
 "sub": "Adversarial domain - the courtroom as a discovery instrument, and its documented ceiling",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 871 of 1138, score 19). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 868 of 1138, score 19). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

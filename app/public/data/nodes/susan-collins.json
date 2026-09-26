@@ -32,10 +32,14 @@
 "direction": "out",
 "edgeId": "e-7c1a543371",
 "edgeLabel": "seat 3 of 12 - Chair, Senate Appropriations",
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2023-01-03",
@@ -110,7 +115,7 @@
 "status": "active",
 "sub": "Chair, Senate Appropriations Committee (119th Congress, serving August 2026); Ranking Member of that committee and of its Defense Subcommittee in the 118th Congress including 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 702 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 701 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

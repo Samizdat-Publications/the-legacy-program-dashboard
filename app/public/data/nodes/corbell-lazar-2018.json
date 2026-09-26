@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-a0d33e96a3",
 "edgeLabel": "Appears in and is credited on the 2018 documentary",
+"family": "media",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "He is a participant rather than an author of this film, which is why it is witness-chain and not research.",
+"predicate": "appeared_on",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "featured"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-6ea67adbda",
 "edgeLabel": "Director of the 2018 documentary",
+"family": "documents",
 "id": "jeremy-corbell",
 "l0": false,
 "label": "Jeremy Kenyon Lockyer Corbell",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -79,10 +89,14 @@
 "direction": "out",
 "edgeId": "e-b460e9a8a8",
 "edgeLabel": "2018 documentary that returned the claim to mass circulation",
+"family": "media",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "A downstream carrier, not a source. The film was not viewed by this board; the edge rests on its credits, its subject and its documented downstream effect.",
+"predicate": "reported_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through media to"
 }
 ],
 "coords": null,
@@ -133,7 +148,7 @@
 ],
 "sub": "Jeremy Corbell's 97-minute documentary, narrated by Mickey Rourke, featuring Lazar and George Knapp, released across formats between November and December 2018",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 981 of 1138, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 977 of 1138, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

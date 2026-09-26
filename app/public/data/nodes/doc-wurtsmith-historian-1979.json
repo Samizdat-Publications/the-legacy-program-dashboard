@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-fa33e71b8a",
 "edgeLabel": "Written at Wurtsmith AFB by the 379th Bombardment Wing historian",
+"family": "place-time",
 "id": "l-wurtsmith",
 "l0": false,
 "label": "Wurtsmith AFB, Michigan",
 "note": "The wing and the base are named in the documents themselves.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1979-01-18",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-f9137f2573",
 "edgeLabel": "The wing historian's file recovering an event his own wing history omitted",
+"family": "documents",
 "id": "wurtsmith-1975",
 "l0": false,
 "label": "Wurtsmith AFB incursion, 30 October 1975",
 "note": "Cahill's Research Record of Events of 17 January 1979 and Taylor's Memo for the Record of 18 January 1979.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1979-01-18",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 }
 ],
 "coords": null,
@@ -116,7 +126,7 @@
 ],
 "sub": "SSgt Paul J. Cahill's Research Record of Events and Capt. Myron Taylor's Memo for the Record; a wing historian recording that his own wing history omitted the event",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 865 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 863 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

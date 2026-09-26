@@ -65,10 +65,14 @@
 "direction": "in",
 "edgeId": "e-d5916966be",
 "edgeLabel": "commissioned under AAWSAP; latest document number in the released set",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -87,7 +91,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -97,10 +102,14 @@
 "direction": "out",
 "edgeId": "e-b183a8aa59",
 "edgeLabel": "subject domain: cognitive load limits on multi-vehicle control",
+"family": "analysis",
 "id": "d-bio",
 "l0": false,
 "label": "Biology & Non-Human Biologics",
 "note": "The commissioned question is how many unmanned vehicles a single human operator can control simultaneously - the human-factors constraint that would bound any swarming or multi-object control architecture. It forms a set with Genik's other two deliverables on limb-free control of external devices and on organic-molecule automation.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -119,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -129,10 +139,14 @@
 "direction": "in",
 "edgeId": "e-fb292aace8",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -141,7 +155,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -151,10 +166,14 @@
 "direction": "in",
 "edgeId": "e-f138dd67c0",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 15 December 2010 on the cover. 31 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -168,7 +187,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -178,10 +198,14 @@
 "direction": "out",
 "edgeId": "e-4397e53108",
 "edgeLabel": "authored by Richard J. Genik II",
+"family": "documents",
 "id": "richard-genik",
 "l0": false,
 "label": "Richard J. Genik II",
 "note": "The DIA list of 9 January 2018 records 'Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft, Dr R Genik, Wayne State Univ.' The released PDF's author block is redacted under (b)(6). Genik wrote three of the 38 DIRDs, the largest single-author block after Eric Davis's five.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -215,7 +239,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -225,10 +250,14 @@
 "direction": "out",
 "edgeId": "e-5d1a72c334",
 "edgeLabel": "author's institution at time of writing",
+"family": "documents",
 "id": "wayne-state-university",
 "l0": true,
 "label": "Wayne State University",
 "note": "Genik was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine. Wayne State supplied four of the 38 DIRDs across two authors - Genik's three plus Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International's six.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -257,7 +286,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,
@@ -336,7 +366,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 402 of 1138, score 34). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 401 of 1138, score 34). 6 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

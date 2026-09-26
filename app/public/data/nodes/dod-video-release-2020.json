@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-7608105746",
 "edgeLabel": "DoD authorises release, 27 April 2020; phenomena 'remain characterized as unidentified'",
+"family": "documents",
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "The Department also characterised the 2007 and 2017 public appearances as 'unauthorized releases' — a formal acknowledgement that material left the building improperly.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "concerns"
 }
 ],
 "coords": null,

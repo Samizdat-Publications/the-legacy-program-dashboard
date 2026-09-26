@@ -50,10 +50,14 @@
 "direction": "out",
 "edgeId": "e-5a79eea2e9",
 "edgeLabel": "Testified in September 1975; the mail programme is documented largely through him",
+"family": "testimony",
 "id": "church-committee",
 "l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1976-04-23",
@@ -62,7 +66,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -72,10 +77,14 @@
 "direction": "out",
 "edgeId": "e-b9175da669",
 "edgeLabel": "Chief of the Counterintelligence Staff, 1954 to 1974",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The Church Committee's Book III states the office and its dates in its own narrative text and cites his testimony of 17 and 24 September 1975 throughout.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1976-04-23",
@@ -84,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 3,
@@ -94,10 +104,14 @@
 "direction": "out",
 "edgeId": "e-d8f8b0bca5",
 "edgeLabel": "Documented precedent for an activity exempted from its own department's approval machinery",
+"family": "analysis",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Reasoning: the board's structural claim is that a programme can be held outside the machinery meant to review it. Book III documents exactly that for a different subject, in an agency's own words, and the analogy is the board's, not the Committee's. No opened record connects Angleton to any DoD special access programme.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1976-04-23",
@@ -106,7 +120,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 }
 ],
 "date": "1955-12-07",

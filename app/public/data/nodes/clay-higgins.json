@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-ebf9ab878f",
 "edgeLabel": "Adversarial cross-examination that fixed the document's evidentiary status",
+"family": "oversight",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Higgins established that the withholding of source identities was a choice, not an absence.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 }
 ],
 "date": "2024-11-13",
@@ -90,7 +95,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-LA-3); pressed Shellenberger on his Immaculate Constellation sourcing",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1107 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1104 of 1138, score 9). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

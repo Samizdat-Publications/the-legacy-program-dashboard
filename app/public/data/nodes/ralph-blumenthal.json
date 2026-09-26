@@ -58,10 +58,14 @@
 "direction": "out",
 "edgeId": "e-7da3a4b393",
 "edgeLabel": "Co-author",
+"family": "documents",
 "id": "debrief-2023-06-05",
 "l0": false,
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "note": "Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -80,10 +85,14 @@
 "direction": "in",
 "edgeId": "e-72969b3f34",
 "edgeLabel": "Co-authors of both defining stories, 2017 and 2023",
+"family": "role",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -102,10 +112,14 @@
 "direction": "in",
 "edgeId": "e-5d81f21ac2",
 "edgeLabel": "Co-byline, 16 December 2017",
+"family": "documents",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Blumenthal shares the byline that broke AATIP and published two of the three videos.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -114,7 +128,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "published"
 }
 ],
 "date": "2023-06-05",
@@ -163,7 +178,7 @@
 "status": "active",
 "sub": "Former New York Times reporter; co-author, 5 June 2023 Debrief story",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 939 of 1138, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 938 of 1138, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

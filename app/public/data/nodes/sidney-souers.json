@@ -50,10 +50,14 @@
 "direction": "out",
 "edgeId": "e-604aaaa21a",
 "edgeLabel": "First Director of Central Intelligence, 22 January to 10 June 1946",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "He held the Director of Central Intelligence post created by the Presidential directive of 22 January 1946 at the head of the Central Intelligence Group, the office the National Security Act of 1947 later placed at the head of the Central Intelligence Agency.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1946-02-02",
@@ -62,7 +66,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -72,10 +77,14 @@
 "direction": "in",
 "edgeId": "e-ce38f7546c",
 "edgeLabel": "Designated the first Director of Central Intelligence",
+"family": "role",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "The directive reserves the designation to the President: 'The Director of Central Intelligence shall be designated by me'. The board's Souers node already carries the office and its dates.",
+"predicate": "appointed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-01-22",
@@ -84,7 +93,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was appointed by"
 },
 {
 "claimTier": 3,
@@ -94,10 +104,14 @@
 "direction": "out",
 "edgeId": "e-963555a195",
 "edgeLabel": "Named as a panel member inside the disputed document",
+"family": "testimony",
 "id": "mj-12-documents",
 "l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Souers is named as an MJ-12 panel member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED, corpus map 02 file 02. No record opened for this node connects him to unidentified objects, recovered material or any such panel; the offices are the reason he is on the board.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -106,7 +120,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -116,10 +131,14 @@
 "direction": "out",
 "edgeId": "e-7f55007a7e",
 "edgeLabel": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
+"family": "place-time",
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1947-09-26",
@@ -128,7 +147,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "came before"
 }
 ],
 "date": "1946-01-22",

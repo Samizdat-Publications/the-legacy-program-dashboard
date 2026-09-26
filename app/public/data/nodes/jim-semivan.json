@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-7637de0fa4",
 "edgeLabel": "Continuity from TTSA into the successor policy institution",
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
+"predicate": "member_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -80,10 +85,14 @@
 "direction": "out",
 "edgeId": "e-674d19d1a0",
 "edgeLabel": "Co-founder, VP Operations, director",
+"family": "role",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-04-30",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 }
 ],
 "date": "2017-10-11",
@@ -140,7 +150,7 @@
 "status": "active",
 "sub": "Co-founder and VP Operations, TTSA; 25-year CIA National Clandestine Service officer",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 697 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 696 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

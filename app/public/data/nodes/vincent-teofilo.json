@@ -38,10 +38,14 @@
 "direction": "out",
 "edgeId": "e-2ccc2917d3",
 "edgeLabel": "commissioned subject-matter author",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Credited on DIA's list with 'Aneutronic Fusion Propulsion' (1 November 2010, DIA-08-1011-003), affiliation Lockheed Martin. Two reasons this stays tier 2: the document's 'Author' field is redacted under FOIA exemption (b)(6), and unlike most of the series this particular DIRD's released text does not name AAWSAP anywhere, so the document does not tie itself to the programme either.",
+"predicate": "contracted",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-11-01",
@@ -60,7 +64,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was contracted by"
 },
 {
 "claimTier": 2,
@@ -70,10 +75,14 @@
 "direction": "out",
 "edgeId": "e-63a04c2582",
 "edgeLabel": "authored (attribution by internal self-citation, see note)",
+"family": "documents",
 "id": "dird-aneutronic-fusion-propulsion-2",
 "l0": false,
 "label": "Aneutronic Fusion Propulsion (DIA-08-1011-004)",
 "note": "TIER 2 AND DELIBERATELY SO. Cover author field is redacted under (b)(6) and reads \"Authors\" plural, so there may have been co-authors. Assigned to Teofilo because endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\" - the only occurrence of either candidate author's surname in either aneutronic document - immediately adjacent to a citation of AeroJet/Lockheed Martin Space Systems Hall thruster hardware that also appears in the body text. Paired with the Culbreth edge; if reversed, swap both.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -102,10 +112,14 @@
 "direction": "out",
 "edgeId": "e-e899738000",
 "edgeLabel": "physicist, Lockheed Martin Space Systems, 28 years",
+"family": "role",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Spent 28 years at Lockheed Martin Space Systems, contributing to the Hubble Space Telescope and the Space-Based Infrared System, before and during the period he was commissioned for the DIRD. This is his affiliation of record on the DIA list.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -119,7 +133,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 }
 ],
 "date": "2010-01-01",
@@ -175,7 +190,7 @@
 "status": "active",
 "sub": "Physicist; 28 years at Lockheed Martin Space Systems; DIRD author on aneutronic fusion propulsion. 1944-2026",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 884 of 1138, score 18). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 880 of 1138, score 18). 3 connections, 1 of them custody/funding/programmatic. Axes C1/A0/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

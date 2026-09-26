@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-2478d39226",
 "edgeLabel": "Section 3306(a) is the sole affirmative exception to the bar on disclosing the Schedule",
+"family": "law",
 "id": "classified-schedule-authorizations",
 "l0": false,
 "label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
 "note": "Section 6102(b)(3)(A) names 50 U.S.C. 3306(a) as the one statutory route by which any portion of the classified Schedule may be publicly disclosed. Attested by the enacted text.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-2517b6f864",
 "edgeLabel": "The statute that produced the second segment of the disclosure record",
+"family": "law",
 "id": "intel-budget-disclosure-record",
 "l0": false,
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "requires"
 }
 ],
 "coords": null,
@@ -122,7 +132,7 @@
 ],
 "sub": "The entire statutory transparency regime for the intelligence budget: two numbers a year, waivable",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 744 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 743 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

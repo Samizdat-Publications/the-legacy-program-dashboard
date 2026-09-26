@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-934b118721",
 "edgeLabel": "Underwood produced the FLIR1 tape on a follow-on sortie",
+"family": "organisation",
 "id": "chad-underwood",
 "l0": false,
 "label": "Chad Underwood",
 "note": "Consistently reported since 2019 and never disputed by the Navy or Fravor, but not anchored to a primary record in this pass.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 3,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-841812283a",
 "edgeLabel": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
+"family": "organisation",
 "id": "chad-underwood",
 "l0": false,
 "label": "Chad Underwood",
 "note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -84,10 +94,14 @@
 "direction": "out",
 "edgeId": "e-fb91856787",
 "edgeLabel": "Primary sensor artefact of the 2004 encounter, released by DoD in 2020",
+"family": "documents",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The video leaked in 2007, was published by the New York Times on 16 December 2017, and was formally released by DoD on 27 April 2020 with the objects 'characterized as unidentified'.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -111,10 +126,14 @@
 "direction": "out",
 "edgeId": "e-572ebb3393",
 "edgeLabel": "Published by the New York Times, reopening the subject",
+"family": "testimony",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "The DoD's own 2020 release statement acknowledges the videos circulated publicly after unauthorized disclosures in 2007 and 2017.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -123,7 +142,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,
@@ -176,7 +196,7 @@
 ],
 "sub": "Officially released DoD UAP video",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 405 of 1138, score 34). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 404 of 1138, score 34). 4 connections, 2 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

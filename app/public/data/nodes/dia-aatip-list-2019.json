@@ -23,10 +23,14 @@
 "direction": "in",
 "edgeId": "e-e541b7be8d",
 "edgeLabel": "The 38-title list is the only official enumeration of the series",
+"family": "documents",
 "id": "aawsap-dird-series",
 "l0": false,
 "label": "AAWSAP Defense Intelligence Reference Document series",
 "note": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-01-17",
@@ -40,7 +44,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -50,10 +55,14 @@
 "direction": "out",
 "edgeId": "e-8d79c340a5",
 "edgeLabel": "Converted an oral controversy into an enumerated procurement record",
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-01-17",
@@ -67,7 +76,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 }
 ],
 "coords": null,
@@ -114,7 +124,7 @@
 ],
 "sub": "FOIA release; the first official enumeration of what the programme actually paid for",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 809 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 807 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [
 {
 "claimTier": null,

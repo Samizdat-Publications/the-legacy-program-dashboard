@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-35e75ed88f",
 "edgeLabel": "Addressed to Schulgen at Air Force intelligence requirements",
+"family": "oversight",
 "id": "george-schulgen",
 "l0": false,
 "label": "George F. Schulgen",
 "note": "Schulgen was the named addressee. Five weeks later he issued the worldwide collection memorandum, making the causal chain from assessment to collection tasking explicit in the documentary record.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1947-09-23",
@@ -64,7 +68,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "reports to"
 },
 {
 "claimTier": 3,
@@ -74,10 +79,14 @@
 "direction": "in",
 "edgeId": "e-1d71fcfbf3",
 "edgeLabel": "McCoy's shop produced the analysis Twining signed",
+"family": "organisation",
 "id": "howard-mccoy",
 "l0": false,
 "label": "Howard M. McCoy",
 "note": "The AMC intelligence organisation under McCoy did the staff work behind the 23 September 1947 assessment; McCoy signed related AMC correspondence to the Chief of Staff two months later.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-11-24",
@@ -91,7 +100,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -101,10 +111,14 @@
 "direction": "in",
 "edgeId": "e-cb3abae399",
 "edgeLabel": "Twining authored the founding 1947 assessment",
+"family": "documents",
 "id": "nathan-twining",
 "l0": false,
 "label": "Nathan F. Twining",
 "note": "Lt. Gen. Twining signed 'AMC Opinion Concerning Flying Discs' on 23 September 1947 as commander of Air Materiel Command. The document survives in scanned form and is quoted in the Condon Report.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-09-23",
@@ -118,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -128,10 +143,14 @@
 "direction": "out",
 "edgeId": "e-2e1cfa4760",
 "edgeLabel": "Memo's recommendation produced Project SIGN",
+"family": "organisation",
 "id": "project-sign",
 "l0": false,
 "label": "Project SIGN",
 "note": "The Condon Report states Twining's 23 September 1947 letter directed establishment of a study of UFOs, which received priority designation in December 1947 and began as Project SIGN.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -140,7 +159,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "produced"
 }
 ],
 "coords": null,

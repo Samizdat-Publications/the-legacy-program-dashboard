@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-6e5c6c050e",
 "edgeLabel": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
+"family": "analysis",
 "id": "d-legislation",
 "l0": false,
 "label": "Enacted Statute",
 "note": "Sec. 6802 rewrote 50 U.S.C. 3373 to create AARO and inserted the 'unidentified anomalous phenomena' and 'transmedium' definitions; sec. 6803 attached a Comptroller General audit and briefing requirement to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records that the statutory definitions the whole board uses were enacted in an intelligence authorization, not a defence one.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-12-23",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -56,10 +61,14 @@
 "direction": "in",
 "edgeId": "e-fd98b74efa",
 "edgeLabel": "sunsets the sec. 6803 GAO audit cadence",
+"family": "law",
 "id": "ndaa-fy2025",
 "l0": false,
 "label": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "note": "PL 118-159 sec. 6802 amends IAA FY2023 sec. 6803.",
+"predicate": "amended",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-23",
@@ -68,7 +77,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was amended by"
 }
 ],
 "coords": null,
@@ -110,7 +120,7 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1121 of 1138, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1120 of 1138, score 8). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

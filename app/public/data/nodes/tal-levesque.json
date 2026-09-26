@@ -44,10 +44,14 @@
 "direction": "out",
 "edgeId": "e-66f926d97d",
 "edgeLabel": "Says he wrote the two original Dulce Base articles and manufactured the corroboration",
+"family": "denial",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "In the same message he describes composing the articles from an account by a woman he names as Ann West mixed with his own research, and mailing a hundred large packets of supporting material to authors and lecturers who folded it into their own work. This is the described manufacture of apparent independent corroboration.",
+"predicate": "explained_away",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-04-02",
@@ -56,7 +60,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "gave a conventional explanation for"
 },
 {
 "claimTier": 2,
@@ -66,10 +71,14 @@
 "direction": "in",
 "edgeId": "e-716c382b71",
 "edgeLabel": "Obtained Levesque's confession across a multi-year correspondence",
+"family": "oversight",
 "id": "saucers-spooks-and-kooks-2021",
 "l0": false,
 "label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
 "note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-04-23",
@@ -83,7 +92,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -93,10 +103,14 @@
 "direction": "out",
 "edgeId": "e-aa2d49cc00",
 "edgeLabel": "Confessed authorship: 'TEC ... is a creation. A MYTH'",
+"family": "denial",
 "id": "thomas-castello",
 "l0": false,
 "label": "Thomas Edwin Castello (fabricated)",
 "note": "The only confession of authorship in the cluster, made by email to Adam Gorightly in November 2015 after a long correspondence in which Levesque had maintained the opposite. Read as reproduced on Hayakawa's site quoting Gorightly's book, so Tier 2.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-04-02",
@@ -110,7 +124,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 }
 ],
 "date": null,
@@ -227,7 +242,7 @@
 "status": "deceased",
 "sub": "Author of the two original Dulce Base articles and, by his own account, the inventor of Thomas Edwin Castello",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 695 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 694 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic, 2 official denials recorded against it. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-9cee5b8658",
 "edgeLabel": "The DIRDs are the documentary output of the AAWSAP contract",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Each released DIRD states it is 'one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office's Advanced Aerospace Weapon System Applications (AAWSA) Program'.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-04-06",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 3,
@@ -68,10 +73,14 @@
 "direction": "out",
 "edgeId": "e-828a3f3f88",
 "edgeLabel": "Exhaustive on paper flow, silent on object flow",
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "The released AAWSAP corpus documents control numbers, fiscal years, contract status, statements of work and named programme managers - and contains no record of the receipt, transfer or storage of any physical sample. The asymmetry is the finding.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -85,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -95,10 +105,14 @@
 "direction": "out",
 "edgeId": "e-e541b7be8d",
 "edgeLabel": "The 38-title list is the only official enumeration of the series",
+"family": "documents",
 "id": "dia-aatip-list-2019",
 "l0": false,
 "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
 "note": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-01-17",
@@ -112,7 +126,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 }
 ],
 "coords": null,

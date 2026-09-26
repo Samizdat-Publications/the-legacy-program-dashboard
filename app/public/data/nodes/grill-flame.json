@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-bb8dce4fed",
 "edgeLabel": "CENTER LANE succeeded GRILL FLAME after the codename was compromised",
+"family": "organisation",
 "id": "center-lane",
 "l0": false,
 "label": "CENTER LANE",
 "note": "Codeword churn on compromise is standard practice; the effort was continuous across the renaming.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-12-16",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-291eb35747",
 "edgeLabel": "GRILL FLAME was INSCOM's entry into the field in 1977",
+"family": "organisation",
 "id": "inscom",
 "l0": true,
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1984-04-04",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-b891ab203e",
 "edgeLabel": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
+"family": "custody",
 "id": "sri-international",
 "l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
+"predicate": "transferred",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-12-16",
@@ -96,7 +110,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "linked through custody to"
 }
 ],
 "coords": null,

@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-0021bc25c5",
 "edgeLabel": "The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from",
+"family": "place-time",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-05-17",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-6cbf8a2d12",
 "edgeLabel": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
+"family": "testimony",
 "id": "ronald-moultrie",
 "l0": false,
 "label": "Ronald S. Moultrie",
 "note": "A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-05-17",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "heard testimony from"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-de0bc59df7",
 "edgeLabel": "Witness of record, appearing as Deputy Director of Naval Intelligence",
+"family": "testimony",
 "id": "scott-bray",
 "l0": false,
 "label": "Scott W. Bray",
 "note": "A genuine witness appearance in an official capacity.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-05-17",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "heard testimony from"
 }
 ],
 "coords": null,

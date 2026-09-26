@@ -168,10 +168,14 @@
 "direction": "in",
 "edgeId": "e-5470a9e8e4",
 "edgeLabel": "Podesta forwarded his DSP email to Kean on 6 March 2015",
+"family": "testimony",
 "id": "bob-fish",
 "l0": false,
 "label": "Bob Fish",
 "note": "Podesta forwarded Fish's DSP email to Kean on 6 March 2015 with the single word 'FYI', and Fish says he had emailed Kean ten days earlier without reply.",
+"predicate": "told",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2015-03-06",
@@ -180,7 +184,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -190,10 +195,14 @@
 "direction": "out",
 "edgeId": "e-8d6261fba1",
 "edgeLabel": "Kean and Blumenthal broke Grusch's crash-retrieval claims",
+"family": "media",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "On 5 June 2023 they reported Grusch's claim that the US holds a secret UFO retrieval programme with multiple vehicles of non-human origin and records of dead pilots.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -202,7 +211,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 },
 {
 "claimTier": 1,
@@ -212,10 +222,14 @@
 "direction": "out",
 "edgeId": "e-4826b5f3aa",
 "edgeLabel": "Co-author; vetted Grusch through Nell and the NASIC officer",
+"family": "documents",
 "id": "debrief-2023-06-05",
 "l0": false,
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "note": "Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -224,7 +238,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 3,
@@ -234,10 +249,14 @@
 "direction": "in",
 "edgeId": "e-9876520bd4",
 "edgeLabel": "Two FOIA-first approaches to the same concealment question",
+"family": "analysis",
 "id": "grant-cameron",
 "l0": false,
 "label": "Grant Cameron",
 "note": "Cameron requests presidential and agency paper and publishes null returns; Kean litigated a null return to a judicial finding of inadequate search. Reasoning: both treat the absence of records as the evidentiary object rather than as an obstacle.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2007-03-27",
@@ -246,7 +265,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -256,10 +276,14 @@
 "direction": "out",
 "edgeId": "e-e1a409137f",
 "edgeLabel": "Plaintiff who forced a court-supervised NASA records search",
+"family": "role",
 "id": "kean-v-nasa",
 "l0": false,
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "Kean filed the complaint on 9 December 2003, obtained a 27 March 2007 finding that NASA had not shown its searches adequate, settled in part on 16 October 2007 and litigated status reports until dismissal on 24 August 2009.",
+"predicate": "led",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -273,7 +297,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -283,10 +308,14 @@
 "direction": "in",
 "edgeId": "e-d7b4ab3748",
 "edgeLabel": "Co-byline with Helene Cooper and Ralph Blumenthal",
+"family": "documents",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Kean and Blumenthal had cultivated the sources; Cooper supplied the Pentagon beat. The trio's byline is what moved the story from fringe to record.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -295,7 +324,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -305,10 +335,14 @@
 "direction": "out",
 "edgeId": "e-72969b3f34",
 "edgeLabel": "Co-authors of both defining stories, 2017 and 2023",
+"family": "role",
 "id": "ralph-blumenthal",
 "l0": false,
 "label": "Ralph Blumenthal",
 "note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -317,7 +351,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -327,10 +362,14 @@
 "direction": "out",
 "edgeId": "e-db95472184",
 "edgeLabel": "Spoke at the inaugural Stanford conference, November 2023",
+"family": "media",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Kean was a named speaker at the 17-18 November 2023 inaugural conference, linking the journalistic and institutional wings.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-11-17",
@@ -339,7 +378,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through media to"
 },
 {
 "claimTier": 3,
@@ -349,10 +389,14 @@
 "direction": "out",
 "edgeId": "e-df70881355",
 "edgeLabel": "Gordon's witness pool underwrote the evidentiary premise of the suit",
+"family": "documents",
 "id": "stan-gordon",
 "l0": false,
 "label": "Stan Gordon",
 "note": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2007-03-27",
@@ -361,7 +405,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -371,10 +416,14 @@
 "direction": "out",
 "edgeId": "e-9de889acc5",
 "edgeLabel": "The Debrief published the Grusch story the NYT did not run",
+"family": "role",
 "id": "the-debrief",
 "l0": false,
 "label": "The Debrief",
 "note": "The same authors whose AATIP scoop the New York Times published in 2017 took the 2023 Grusch story to The Debrief. The placement, not the verification, is the notable fact.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -383,7 +432,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked by a role to"
 }
 ],
 "date": "2023-06-05",

@@ -156,10 +156,14 @@
 "direction": "out",
 "edgeId": "e-e399ff9ed0",
 "edgeLabel": "sworn witness",
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -188,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "testified at"
 },
 {
 "claimTier": 2,
@@ -198,10 +203,14 @@
 "direction": "out",
 "edgeId": "e-cb416a4308",
 "edgeLabel": "Nuccetelli served in security forces at Vandenberg 2003-2005",
+"family": "role",
 "id": "l-vandenberg",
 "l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "His sworn written testimony of 9 September 2025 describes the 14 October 2003 red square over two missile defense sites, a rectangular craft larger than a football field, a threatened witness, and a 2005 triangular craft.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -215,7 +224,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -225,10 +235,14 @@
 "direction": "out",
 "edgeId": "e-b4ba0b2fe1",
 "edgeLabel": "Military police witness and report recipient at Vandenberg, 2003-2005",
+"family": "testimony",
 "id": "vandenberg-2003",
 "l0": false,
 "label": "Vandenberg AFB Incidents (2003-2005)",
 "note": "Nuccetelli testified to reports of a glowing red square over two missile defense sites on 14 October 2003 and a triangular craft over the main base in 2005.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -237,7 +251,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2025-09-09",

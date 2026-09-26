@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-cf2ae4991f",
 "edgeLabel": "Howe is the only named witness to the AQUARIUS paper's text",
+"family": "testimony",
 "id": "project-aquarius",
 "l0": false,
 "label": "Project AQUARIUS (alleged)",
 "note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-08-15",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -86,10 +91,14 @@
 "direction": "in",
 "edgeId": "e-da75d605db",
 "edgeLabel": "Doty showed Howe a purported classified briefing paper at Kirtland, April 1983",
+"family": "testimony",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
+"predicate": "told",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -103,7 +112,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "received an account from"
 }
 ],
 "date": "1983-04-09",
@@ -163,7 +173,7 @@
 "status": "active",
 "sub": "Documentary producer (HBO, KMGH-TV Denver); shown the 'Project Aquarius' paper at Kirtland AFB, 1983",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 986 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 984 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

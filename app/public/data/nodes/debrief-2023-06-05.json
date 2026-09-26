@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-b3c6f6cfaf",
 "edgeLabel": "Clearance preceded publication by two months",
+"family": "place-time",
 "id": "grusch-dopsr-clearance",
 "l0": false,
 "label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
 "note": "DOPSR approvals of 4 and 6 April 2023 preceded the 5 June 2023 Debrief publication. Kean and Blumenthal confirmed the clearance before publishing, which is why the Pentagon's response contested substantiation rather than authorization.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "came after"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-16a9578337",
 "edgeLabel": "Publication to sworn testimony in fifty-one days",
+"family": "place-time",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "The Debrief published 5 June 2023; the House Oversight subcommittee took sworn testimony 26 July 2023. The speed is itself a data point about congressional appetite in that window.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-4826b5f3aa",
 "edgeLabel": "Co-author; vetted Grusch through Nell and the NASIC officer",
+"family": "documents",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "Kean built the story on named and verified corroborators rather than on Grusch alone, interviewing Karl Nell to establish standing and securing the pseudonymous NASIC officer on the record.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -101,10 +116,14 @@
 "direction": "in",
 "edgeId": "e-7da3a4b393",
 "edgeLabel": "Co-author",
+"family": "documents",
 "id": "ralph-blumenthal",
 "l0": false,
 "label": "Ralph Blumenthal",
 "note": "Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was written by"
 }
 ],
 "coords": null,

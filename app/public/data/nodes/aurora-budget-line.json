@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-deb4e4f222",
 "edgeLabel": "the Air Force called Aurora classified after its own department published the figures",
+"family": "denial",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1985-02-08",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 }
 ],
 "coords": null,

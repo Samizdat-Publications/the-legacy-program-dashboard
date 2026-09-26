@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-9a05286170",
 "edgeLabel": "A UARC, not an FFRDC - the unexamined branch of the same mechanism",
+"family": "analysis",
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "University Affiliated Research Centers carry FFRDC-like access without the FAR 35.017 sponsoring-agreement regime or NSF master-list registration; no congressional UAP letter has gone to one.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 }
 ],
 "coords": null,
@@ -83,7 +88,7 @@
 ],
 "sub": "University Affiliated Research Center (UARC), not an FFRDC; Laurel, MD; est. 1942; principal Navy technical adviser",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 893 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 889 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unverified": []
 }

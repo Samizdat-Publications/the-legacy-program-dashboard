@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-0640577000",
 "edgeLabel": "Author of the statute publicly states the obligation is unmet",
+"family": "denial",
 "id": "kirsten-gillibrand",
 "l0": false,
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand: 'I will continue to fight to ensure the administration finally meets its legal obligation to the American people.'",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-08",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "is disputed by"
 },
 {
 "claimTier": 3,
@@ -62,10 +67,14 @@
 "direction": "in",
 "edgeId": "e-36dba3239e",
 "edgeLabel": "Agency compliance ran nineteen months past the statutory deadline",
+"family": "place-time",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The Sec. 1842(c)(1) agency review deadline fell on 17 October 2024; NARA's transfer guidance is dated April 2025 and the author of the statute described the May 2026 release as the administration only beginning to meet its legal obligation.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -84,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

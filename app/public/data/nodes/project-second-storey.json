@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-539965ff3e",
 "edgeLabel": "appointed to the Defence Research Board committee in 1952",
+"family": "role",
 "id": "wilbert-smith",
 "l0": false,
 "label": "Wilbert Brockhouse Smith",
 "note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 }
 ],
 "coords": null,
@@ -100,7 +105,7 @@
 ],
 "sub": "Canadian Defence Research Board committee on flying saucer reports, 1952-1954",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 745 of 1138, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 744 of 1138, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": 1,

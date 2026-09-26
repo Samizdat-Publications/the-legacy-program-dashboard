@@ -56,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-8b36f8d849",
 "edgeLabel": "Sat with the Director of Central Intelligence on the Psychological Strategy Board",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The Board was composed of the Under Secretary of State, the Deputy Secretary of Defense and the Director of Central Intelligence, and the minutes of PSB M-2 of 13 August 1951 record Gray present as Director with Lt. General W. Bedell Smith, Director of Central Intelligence, as acting chairman.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1951-08-13",
@@ -68,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -78,10 +83,14 @@
 "direction": "out",
 "edgeId": "e-4784735fe2",
 "edgeLabel": "First Director of the Psychological Strategy Board, appointed 1951",
+"family": "analysis",
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "Truman's directive of 4 April 1951 created the Board to formulate and promulgate 'over-all national psychological objectives, policies and programs' as guidance to the departments responsible for psychological operations, and its own footnote names Gray as the Director appointed to it.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1951-04-04",
@@ -90,7 +99,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -100,10 +110,14 @@
 "direction": "out",
 "edgeId": "e-b8f0074ef5",
 "edgeLabel": "Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57",
+"family": "role",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Office of the Historian's persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -112,7 +126,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -122,10 +137,14 @@
 "direction": "in",
 "edgeId": "e-9c01aefec0",
 "edgeLabel": "Records the UNC gravity institute approved with Gray's approval, he having by then retired as president",
+"family": "documents",
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series records that the UNC gravity institute was approved with Gray's approval and that he had by then retired as president of the university.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -134,7 +153,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is the subject of"
 }
 ],
 "date": "1951-04-04",

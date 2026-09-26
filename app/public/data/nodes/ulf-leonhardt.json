@@ -44,10 +44,14 @@
 "direction": "in",
 "edgeId": "e-56fc4e85e9",
 "edgeLabel": "authored by Ulf Leonhardt, University of St Andrews",
+"family": "documents",
 "id": "dird-invisibility-cloaking-theory-and-experiments",
 "l0": false,
 "label": "Invisibility Cloaking: Theory and Experiments",
 "note": "The DIA list of 9 January 2018 records 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' The released PDF's author block is redacted under (b)(6). Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by the ICOD of 1 December 2009, one of the small number of internationally recognised authorities in the field. George Knapp released a copy of the DIRD in February 2019.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 }
 ],
 "date": "2010-03-02",
@@ -137,7 +142,7 @@
 "status": "active",
 "sub": "Theoretical physicist, University of St Andrews; author, DIRD 'Invisibility Cloaking: Theory and Experiments' (DIA-08-1003-001)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 759 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 757 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

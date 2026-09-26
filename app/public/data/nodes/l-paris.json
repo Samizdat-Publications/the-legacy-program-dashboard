@@ -3,14 +3,8 @@
 "C": 0,
 "D": 2,
 "band": null,
-"claims": [
-{
-"id": "c-ea2c0c4a98",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-}
-],
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"claims": [],
 "cls": "location",
 "cluster": "other",
 "conflicts": [],
@@ -23,10 +17,14 @@
 "direction": "in",
 "edgeId": "e-e810053047",
 "edgeLabel": "IHEDN origin; delivered to the Prime Minister",
+"family": "place-time",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -40,7 +38,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 }
 ],
 "coords": [
@@ -86,7 +85,7 @@
 ],
 "sub": "Capital of France; seat of the ministries and of the COMETA milieu",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1054 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1077 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unverified": []
 }

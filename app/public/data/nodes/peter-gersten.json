@@ -61,10 +61,14 @@
 "direction": "out",
 "edgeId": "e-886b22f9b6",
 "edgeLabel": "Gersten directed CAUS and brought its FOIA litigation",
+"family": "role",
 "id": "caus",
 "l0": false,
 "label": "Citizens Against UFO Secrecy (CAUS)",
 "note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-09-10",
@@ -78,7 +82,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 }
 ],
 "date": "1980-06-01",
@@ -137,7 +142,7 @@
 "status": "active",
 "sub": "Attorney; director, Citizens Against UFO Secrecy; FOIA litigator against NSA, CIA and DoD",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1010 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1008 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

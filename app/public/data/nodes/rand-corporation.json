@@ -77,10 +77,14 @@
 "direction": "out",
 "edgeId": "e-e54fdbc8da",
 "edgeLabel": "RAND invented the institutional form the whole domain rests on",
+"family": "analysis",
 "id": "d-ffrdc",
 "l0": false,
 "label": "The FFRDC Seam",
 "note": "Incorporated 1948 out of Project RAND inside Douglas Aircraft; now operates four FFRDCs for the Air Force, Army, OSD and DHS.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -89,7 +93,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -99,10 +104,14 @@
 "direction": "in",
 "edgeId": "e-9fb485141e",
 "edgeLabel": "Named as a target of his records investigation",
+"family": "oversight",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison: 'my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.' No letter to RAND has been made public.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-16",
@@ -116,7 +125,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -126,10 +136,14 @@
 "direction": "out",
 "edgeId": "e-7956425c5c",
 "edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
+"family": "conduct",
 "id": "george-kocher",
 "l0": false,
 "label": "George Kocher",
 "note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
+"predicate": "supported",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -138,7 +152,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -148,10 +163,14 @@
 "direction": "in",
 "edgeId": "e-96ed43b4ac",
 "edgeLabel": "MITRE founded as the Air Force's successor to RAND",
+"family": "documents",
 "id": "gerb-mitre-investigation",
 "l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -160,7 +179,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -170,10 +190,14 @@
 "direction": "in",
 "edgeId": "e-3ad42119a9",
 "edgeLabel": "President and CEO, arriving from IARPA and the White House OSTP",
+"family": "role",
 "id": "jason-matheny",
 "l0": false,
 "label": "Jason Matheny",
 "note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -182,7 +206,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -192,10 +217,14 @@
 "direction": "in",
 "edgeId": "e-ff6acd3a6b",
 "edgeLabel": "RAND headquarters since its 1948 formation",
+"family": "place-time",
 "id": "l-santa-monica",
 "l0": false,
 "label": "Santa Monica, California",
 "note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -214,7 +243,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -224,10 +254,14 @@
 "direction": "in",
 "edgeId": "e-09edc06a2f",
 "edgeLabel": "MITRE was created on the RAND model as the Air Force's systems engineering counterpart",
+"family": "analysis",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1995-06-01",
@@ -241,7 +275,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -251,10 +286,14 @@
 "direction": "in",
 "edgeId": "e-94d5b0d894",
 "edgeLabel": "Doctorate from the RAND Graduate School",
+"family": "other",
 "id": "samantha-ravich",
 "l0": false,
 "label": "Samantha F. Ravich",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-19",
@@ -263,7 +302,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is connected to"
 }
 ],
 "coords": null,

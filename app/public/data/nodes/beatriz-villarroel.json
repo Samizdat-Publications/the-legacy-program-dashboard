@@ -94,10 +94,14 @@
 "direction": "out",
 "edgeId": "e-c4c31c91c2",
 "edgeLabel": "Co-authors on the 2025 Scientific Reports result",
+"family": "role",
 "id": "stephen-bruehl",
 "l0": false,
 "label": "Stephen Bruehl",
 "note": "An astronomer and a Vanderbilt anesthesiology professor with statistical training - an indication of how far outside conventional aerospace research the productive work has migrated.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -106,7 +110,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -116,10 +121,14 @@
 "direction": "out",
 "edgeId": "e-fae7ad3ff1",
 "edgeLabel": "Principal investigator",
+"family": "role",
 "id": "vasco-project",
 "l0": false,
 "label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-17",
@@ -133,7 +142,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "held a post at"
 }
 ],
 "date": "2025-10-20",

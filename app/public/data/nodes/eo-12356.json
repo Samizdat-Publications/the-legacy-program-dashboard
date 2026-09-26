@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-f0b2587a57",
 "edgeLabel": "Authorises reclassification after a disclosure request",
+"family": "analysis",
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "Section 1.6(c) permits reclassifying information 'previously declassified and disclosed' where it is determined in writing that it needs protection and 'may reasonably be recovered'; 1.6(d) permits classification or reclassification after a FOIA, Privacy Act or mandatory-review request has been received.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-251a952ab4",
 "edgeLabel": "Revokes it, and with it the public-interest balancing test",
+"family": "organisation",
 "id": "eo-12065",
 "l0": false,
 "label": "Executive Order 12065 - National Security Information (28 June 1978)",
 "note": "Section 6.2(d): 'Executive Order No. 12065 of June 28, 1978, as amended, is revoked as of the effective date of this Order.' EO 12065 sec. 3-303 had required an official to determine whether the public interest in disclosure outweighed the damage to national security. The phrase 'public interest' occurs zero times in EO 12356.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -96,10 +106,14 @@
 "direction": "in",
 "edgeId": "e-e578f975a1",
 "edgeLabel": "Its first partial release was made under this order",
+"family": "law",
 "id": "nsdd-159",
 "l0": false,
 "label": "NSDD 159, Covert Action Policy Approval and Coordination Procedures (18 January 1985)",
 "note": "The Federation of American Scientists copy is stamped 'EXTRACT FROM NSDD 159' and partially declassified on 5 June 1987 under the provisions of EO 12356. The order that removed the public-interest test is the order under which the directive was first, partially, let out.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked through law to"
 }
 ],
 "coords": null,

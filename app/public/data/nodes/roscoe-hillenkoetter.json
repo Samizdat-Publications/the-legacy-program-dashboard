@@ -62,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-0090ce15ca",
 "edgeLabel": "first Director of Central Intelligence, May 1947 to October 1950",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The dates are given in a CIA-held newspaper clipping of 1 June 1960, released in 2014: he 'headed the Central Intelligence Agency from May 1947 to October 1950'.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1960-06-01",
@@ -74,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -84,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-1f838db3ba",
 "edgeLabel": "Long-time acquaintance; recruited a former DCI onto NICAP's Board of Governors",
+"family": "role",
 "id": "donald-keyhoe",
 "l0": false,
 "label": "Maj. Donald E. Keyhoe, USMC (Ret.)",
 "note": "NICAP's 1964 volume describes Hillenkoetter as 'a long-time acquaintance of Major Keyhoe' who served five years on the NICAP Board of Governors and in 1961 joined a majority of that Board in urging a Congressional investigation.",
+"predicate": "appointed",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1964-05-01",
@@ -96,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -106,10 +116,14 @@
 "direction": "in",
 "edgeId": "e-0774622dfd",
 "edgeLabel": "Appointed the first Director of Central Intelligence of the CIA",
+"family": "role",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "The board's Hillenkoetter node dates his DCI service from May 1947. The appointment power is in the 1946 directive and in section 102(a) of the 1947 Act; the specific appointment paper was not opened here, so this edge is capped at Tier 2.",
+"predicate": "appointed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-01-22",
@@ -118,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was appointed by"
 },
 {
 "claimTier": 1,
@@ -128,10 +143,14 @@
 "direction": "out",
 "edgeId": "e-29149e99a3",
 "edgeLabel": "Served five years on the Board of Governors",
+"family": "role",
 "id": "nicap",
 "l0": true,
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "NICAP's own 1964 volume states that Hillenkoetter served on its Board of Governors for five years and that in 1961 he joined a majority of the board in urging a Congressional investigation.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1964-05-01",
@@ -140,7 +159,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 },
 {
 "claimTier": 1,
@@ -150,10 +170,14 @@
 "direction": "in",
 "edgeId": "e-ae3e08795c",
 "edgeLabel": "Submitted directly to the DCI, 5 April 1950",
+"family": "oversight",
 "id": "project-bluebird",
 "l0": false,
 "label": "Project BLUEBIRD",
 "note": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1950-04-05",
@@ -162,7 +186,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "receives reports from"
 },
 {
 "claimTier": 1,
@@ -172,10 +197,14 @@
 "direction": "in",
 "edgeId": "e-7f55007a7e",
 "edgeLabel": "Successive holders of the DCI post; in the same room at the NSC's first meeting",
+"family": "place-time",
 "id": "sidney-souers",
 "l0": false,
 "label": "Rear Adm. Sidney W. Souers",
 "note": "Souers held the Director of Central Intelligence post in 1946 and Hillenkoetter from 1 May 1947; the minutes of the National Security Council's first meeting on 26 September 1947 list Souers as Executive Secretary and Hillenkoetter as Director of Central Intelligence among those present.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-09-26",
@@ -184,7 +213,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "came after"
 }
 ],
 "date": "1960-06-01",

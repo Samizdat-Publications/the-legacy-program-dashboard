@@ -71,10 +71,14 @@
 "direction": "out",
 "edgeId": "e-9568535650",
 "edgeLabel": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
+"family": "media",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Burlison attributed the reporting to Sharp by name on 13 November 2024 and Elizondo confirmed the block, making this the rare case of independent journalism validated on the record by the relevant witness.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -88,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 }
 ],
 "date": "2024-11-13",
@@ -158,7 +163,7 @@
 "status": "active",
 "sub": "Journalist and editor, Liberation Times",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1013 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1011 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

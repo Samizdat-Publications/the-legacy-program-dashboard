@@ -64,10 +64,14 @@
 "direction": "in",
 "edgeId": "e-ab211e3da1",
 "edgeLabel": "Direct conflict over whether data was taken",
+"family": "testimony",
 "id": "david-fravor",
 "l0": false,
 "label": "David Fravor",
 "note": "Fravor testified under his own name that 'tapes were never taken'; Day says media were removed from Princeton. The conflict resolves only if collection was platform-specific, and it is recorded here unresolved.",
+"predicate": "contradicts",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -81,7 +85,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -91,10 +96,14 @@
 "direction": "out",
 "edgeId": "e-6cb10296fa",
 "edgeLabel": "Independent shipmate corroboration of the post-encounter data collection",
+"family": "testimony",
 "id": "gary-voorhis",
 "l0": false,
 "label": "Gary Voorhis",
 "note": "Two Princeton crewmen in unrelated divisions give converging accounts of unidentified personnel removing recorded material - evidentiary convergence short of documentary proof.",
+"predicate": "corroborated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-14",
@@ -103,7 +112,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -113,10 +123,14 @@
 "direction": "out",
 "edgeId": "e-f8987b3cf1",
 "edgeLabel": "Ran the Princeton air picture and vectored the intercept",
+"family": "testimony",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "As Senior Chief Operations Specialist Day was the air warfare coordinator holding the tracks. Fravor's sworn statement corroborates the substance of the radar picture Day describes.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -125,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -135,10 +150,14 @@
 "direction": "out",
 "edgeId": "e-435a682964",
 "edgeLabel": "Senior Chief Operations Specialist aboard USS Princeton, Nov 2004",
+"family": "role",
 "id": "uss-princeton",
 "l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "Day's billet is the reason his account of the radar record and its removal carries weight; he is the man who owned the air picture.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 }
 ],
 "date": "2004-11-14",
@@ -196,7 +216,7 @@
 "status": "active",
 "sub": "Senior Chief Operations Specialist / Air Warfare Coordinator, USS Princeton (CG-59), Nov 2004",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 751 of 1138, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 749 of 1138, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

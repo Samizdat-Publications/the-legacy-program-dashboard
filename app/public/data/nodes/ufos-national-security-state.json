@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-da16c3647a",
 "edgeLabel": "Authored the two-volume documentary chronology",
+"family": "documents",
 "id": "richard-dolan",
 "l0": false,
 "label": "Richard M. Dolan",
 "note": "Dolan wrote 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009).",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-10-31",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,
@@ -78,7 +83,7 @@
 ],
 "sub": "Richard M. Dolan; documentary chronology 1941-1973 and 1973-1991",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1105 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1100 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

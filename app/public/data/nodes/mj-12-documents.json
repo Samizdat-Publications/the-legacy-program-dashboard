@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-2009a16f8b",
 "edgeLabel": "AARO's 2024 review does not address MJ-12 or AQUARIUS",
+"family": "denial",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Two of the most persistent alleged programme names in the historical record are absent from the report tasked with resolving the historical record.",
+"predicate": "omitted",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "is left out of"
 },
 {
 "claimTier": 3,
@@ -68,10 +73,14 @@
 "direction": "in",
 "edgeId": "e-ca88b7c301",
 "edgeLabel": "Named as a panel member inside the disputed document",
+"family": "documents",
 "id": "detlev-bronk",
 "l0": false,
 "label": "Detlev W. Bronk",
 "note": "Bronk is named as an MJ-12 member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED and again by the host in a separate episode. No record opened for this node connects him to the subject; his offices are the reason he is on the board.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 2,
@@ -90,10 +100,14 @@
 "direction": "in",
 "edgeId": "e-7a2d61cfb7",
 "edgeLabel": "Received the anonymous 35mm film on 11 December 1984",
+"family": "custody",
 "id": "jaime-shandera",
 "l0": false,
 "label": "Jaime H. Shandera",
 "note": "The film arrived at Shandera's Los Angeles home postmarked Albuquerque, New Mexico - the same city as the AFOSI operation running against Bennewitz.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-04-01",
@@ -107,7 +121,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "is held by"
 },
 {
 "claimTier": 3,
@@ -117,10 +132,14 @@
 "direction": "in",
 "edgeId": "e-2e31afa36a",
 "edgeLabel": "AQUARIUS and MJ-12 emerged from the same Albuquerque channel within 20 months",
+"family": "analysis",
 "id": "project-aquarius",
 "l0": false,
 "label": "Project AQUARIUS (alleged)",
 "note": "The AQUARIUS paper was shown at Kirtland in April 1983; the MJ-12 film arrived postmarked Albuquerque in December 1984. Both channels ran through people in contact with AFOSI.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2016-08-15",
@@ -134,7 +153,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -144,10 +164,14 @@
 "direction": "in",
 "edgeId": "e-963555a195",
 "edgeLabel": "Named as a panel member inside the disputed document",
+"family": "testimony",
 "id": "sidney-souers",
 "l0": false,
 "label": "Rear Adm. Sidney W. Souers",
 "note": "Souers is named as an MJ-12 panel member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED, corpus map 02 file 02. No record opened for this node connects him to unidentified objects, recovered material or any such panel; the offices are the reason he is on the board.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -156,7 +180,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "made claims about"
 },
 {
 "claimTier": 1,
@@ -166,10 +191,14 @@
 "direction": "in",
 "edgeId": "e-d0563484da",
 "edgeLabel": "Moore controlled the MJ-12 material's release with Shandera and Friedman",
+"family": "documents",
 "id": "william-l-moore",
 "l0": false,
 "label": "William L. Moore",
 "note": "Moore and Shandera published 'The MJ-12 Documents: An Analytical Report' as Fair-Witness Project Publication 1500 in 1990, cited in CIA's own 1997 UFO history.",
+"predicate": "released",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -183,7 +212,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

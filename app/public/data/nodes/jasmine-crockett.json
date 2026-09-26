@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-09dd2bdba2",
 "edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
+"family": "oversight",
 "id": "joe-spielberger",
 "l0": false,
 "label": "Joe Spielberger",
 "note": "The policy bridge from UAP allegations to H.R. 5060.",
+"predicate": "questioned",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -75,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-a6e78f6f58",
 "edgeLabel": "Ranking Member",
+"family": "role",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Printed as Ranking Member in the roster of CHRG-119hhrg61718.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2025-09-09",
@@ -141,7 +151,7 @@
 "status": "active",
 "sub": "U.S. Rep. (D-TX-30); Ranking Member, Task Force on the Declassification of Federal Secrets",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 876 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 872 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

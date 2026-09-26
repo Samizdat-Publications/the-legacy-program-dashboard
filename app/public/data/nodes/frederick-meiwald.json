@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-e6285bda4b",
 "edgeLabel": "Oscar Flight crew commander at Malmstrom",
+"family": "role",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "As claimed; no service record has been opened.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-fd44161381",
 "edgeLabel": "Salas's crew commander; the 1 October 1996 letter",
+"family": "testimony",
 "id": "malmstrom-oscar-flight-1967",
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "HE WAS FOUND BY THE CLAIMANT IN SUMMER 1996 AND HIS LETTER IS PUBLISHED BY THE CLAIMANT. NO PRE-CONTACT STATEMENT EXISTS. THE LETTER HAS NOT BEEN OPENED BY THIS BOARD AND TWO INCOMPATIBLE CHARACTERISATIONS OF IT ARE IN CIRCULATION.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -91,7 +100,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -101,10 +111,14 @@
 "direction": "in",
 "edgeId": "e-96b3e80718",
 "edgeLabel": "Recorded him in August 1996 and again on 6 May 2011, and publishes his letter",
+"family": "media",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Meiwald was found by Salas, the claimant, and published by Salas and Hastings.",
+"predicate": "interviewed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -113,7 +127,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was interviewed by"
 }
 ],
 "date": "1996-10-01",
@@ -173,7 +188,7 @@
 "status": "unknown",
 "sub": "USAF missile combat crew commander, Oscar Flight, 341st Strategic Missile Wing, March 1967; Robert Salas's crew commander; later Colonel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 851 of 1138, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 850 of 1138, score 19). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

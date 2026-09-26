@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-ba554f18c9",
 "edgeLabel": "Builds the documentary counterpart to the physical-sample record",
+"family": "analysis",
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "SCU's Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex runs in parallel to the VASCO plate work on the same period.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-c52d85dd3c",
 "edgeLabel": "SCU's inaugural Distinguished Scholar Award, June 2025 - recognition, not an office",
+"family": "conduct",
 "id": "kevin-knuth",
 "l0": false,
 "label": "Kevin H. Knuth",
 "note": "Presented at SCU's Sixth Annual Conference, Von Braun Center, Huntsville, Alabama, 6-8 June 2025, by SCU Executive Board member Rich Hoffman, who said: 'Dr. Knuth's leadership in advancing empirical, interdisciplinary UAP research exemplifies the mission of SCU.' IMPORTANT SCOPE LIMIT: this pass found no evidence that Knuth holds an SCU board seat, officer post or executive role. The board's pre-existing SCU connection to this cluster runs through Robert Powell, an SCU founding board member and Knuth's co-author on the 2019 Entropy paper. The award is a recognition edge, and is labelled as one.",
+"predicate": "supported",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-27",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-a4a3cb084a",
 "edgeLabel": "Publishes the SCU atomic-warfare-complex analyses",
+"family": "documents",
 "id": "limina-journal",
 "l0": false,
 "label": "Limina - The Journal of UAP Studies",
 "note": "Grosvenor, Hancock and Porritt's 'UAP Indications Analysis 1945-1975 United States Atomic Warfare Complex' appeared in Limina in March 2025 with a DOI.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-03-07",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-39c5dc1d26",
 "edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
+"family": "role",
 "id": "robert-powell",
 "l0": false,
 "label": "Robert M. Powell",
 "note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -124,7 +143,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -134,10 +154,14 @@
 "direction": "in",
 "edgeId": "e-b56c0beebf",
 "edgeLabel": "SCU board member and co-author of the 2023 characteristics study",
+"family": "role",
 "id": "sarah-little",
 "l0": false,
 "label": "Sarah Little",
 "note": "Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-07",
@@ -151,7 +175,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 }
 ],
 "coords": null,
@@ -208,7 +233,7 @@
 ],
 "sub": "501(c)(3) research think tank; FOIA-driven sensor-record analysis with DOI-stamped publication",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 742 of 1138, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 741 of 1138, score 23). 5 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": "custody",
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-2d505af5b9",
@@ -21,12 +22,6 @@
 "source": "Inference",
 "text": "Wayne State's board relevance is entirely derivative of Green's post-CIA appointment there: it is the civilian medical-school affiliation under which the intelligence community's biological-effects analyst continued to examine claimed encounter injuries. Reasoning: from Green's documented career path and authorship, not from any institutional contract with Wayne State.",
 "tier": 3
-},
-{
-"id": "c-c5a3e4fa84",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "institution",
@@ -41,10 +36,14 @@
 "direction": "in",
 "edgeId": "e-628aacec41",
 "edgeLabel": "authored at Wayne State University",
+"family": "documents",
 "id": "dird-anomalous-acute-and-subacute-field-effects",
 "l0": false,
 "label": "Anomalous Acute and Subacute Field Effects on Human Biological Tissues",
 "note": "The DIA list gives Green's affiliation of record for this deliverable as Wayne State University. Wayne State is second only to EarthTech on the DIRD author list, supplying Green plus R. Genik's three human-interface papers.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -68,7 +67,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -78,10 +78,14 @@
 "direction": "in",
 "edgeId": "e-5d1a72c334",
 "edgeLabel": "author's institution at time of writing",
+"family": "documents",
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
 "l0": false,
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "Genik was director of the Emergent Technology Research Division and assistant professor in the Department of Psychiatry and Behavioral Neurosciences at the Wayne State University School of Medicine. Wayne State supplied four of the 38 DIRDs across two authors - Genik's three plus Kit Green's 'Field Effects on Biological Tissues' - the second-largest institutional concentration after EarthTech International's six.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -110,7 +114,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -120,10 +125,14 @@
 "direction": "in",
 "edgeId": "e-dc62594a14",
 "edgeLabel": "author's institutional affiliation at time of writing",
+"family": "documents",
 "id": "dird-quantum-computing-and-utilizing-organic-molecules",
 "l0": false,
 "label": "Quantum Computing and Utilizing Organic Molecules in Automation Technology",
 "note": "Wayne State University is the affiliation recorded against this title on the DIA congressional list. Wayne State appears more than once on the list: it is also the affiliation given for Kit Green's human-tissue field-effects deliverable, so both the human-effects and human-interface strands of the AAWSAP deliverable set run through the same medical school.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -157,7 +166,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -167,10 +177,14 @@
 "direction": "out",
 "edgeId": "e-5cc5316eb0",
 "edgeLabel": "Wayne State clinician authored the AAWSAP human-effects reference document",
+"family": "documents",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Green, while a Wayne State professor, wrote the Defense Intelligence Reference Document 'Anomalous Acute and Subacute Field Effects on Human and Biological Tissues' for the DIA-funded AAWSAP contract; DIA released it with the other DIRDs in 2022. Tier 2 because the work was Green's, commissioned through BAASS, not a Wayne State institutional contract.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-03",
@@ -194,7 +208,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -204,10 +219,14 @@
 "direction": "in",
 "edgeId": "e-0ac4b924d5",
 "edgeLabel": "author's affiliation of record",
+"family": "documents",
 "id": "dird-technological-approaches-to-controlling-external-devices",
 "l0": false,
 "label": "Technological Approaches to Controlling External Devices in the Absence of Limb-Operated Interfaces",
 "note": "Wayne State is the DIA-listed affiliation for four DIRDs: Genik's three human-factors papers and Kit Green's \"Field Effects on Biological Tissues.\" That makes it the single most productive institution in the DIRD set after EarthTech International, and the locus of the programme's human-effects line of inquiry.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -236,7 +255,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -246,10 +266,14 @@
 "direction": "out",
 "edgeId": "e-f9230732b3",
 "edgeLabel": "Green's academic base for UAP-injury neuroimaging work",
+"family": "role",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Wayne State describes him as 'Christopher Green, M.D., Ph.D., F.A.A.F.S., assistant dean for China/Asia-Pacific for the Wayne State University School of Medicine', and in the Departments of Psychiatry and Behavioral Neurosciences and of Diagnostic Radiology as 'an adjunct professor and Fellow in Clinical Neuroimaging'. The same item records that he had been executive director of the Emergent Technology Research Division in those departments. He is the former CIA life sciences analyst whose AAWSAP deliverable covered acute and subacute field effects on human tissue, which is the reason the university appears on this board at all.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-04-02",
@@ -273,7 +297,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -283,10 +308,14 @@
 "direction": "in",
 "edgeId": "e-7f5998fc07",
 "edgeLabel": "director, Emergent Technology Research Division; assistant professor of psychiatry and behavioral neurosciences",
+"family": "role",
 "id": "richard-genik",
 "l0": false,
 "label": "Richard J. Genik II",
 "note": "Wayne State University School of Medicine identifies Genik as director of its Emergent Technology Research Division and an assistant professor in the Department of Psychiatry and Behavioral Neurosciences. Wayne State is the affiliation DIA recorded for him on the congressional list. The dateStart is the date of the university announcement establishing the role, not necessarily the start of his tenure.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -300,7 +329,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 }
 ],
 "coords": null,
@@ -484,7 +514,7 @@
 ],
 "sub": "Academic",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 976 of 1138, score 15). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 992 of 1138, score 14). 7 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

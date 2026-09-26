@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-d0784cf6e4",
 "edgeLabel": "The Condon Report is the primary documentary record of the Estimate's destruction",
+"family": "oversight",
 "id": "condon-committee",
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Section V Chapter 2 records the estimate's preparation, Vandenberg's rejection and the destruction of copies — the Air Force paying to put its own suppression on the record.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-c127ed2081",
 "edgeLabel": "Ruppelt is the origin of public knowledge of the Estimate",
+"family": "testimony",
 "id": "edward-ruppelt",
 "l0": false,
 "label": "Edward J. Ruppelt",
 "note": "As a serving Blue Book director with access to the files, Ruppelt published the Estimate's existence and destruction in 1956; the Condon Report corroborated him twelve years later.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1956-01-01",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -90,10 +100,14 @@
 "direction": "in",
 "edgeId": "e-308d3519b3",
 "edgeLabel": "Vandenberg rejected the Estimate and ordered copies destroyed",
+"family": "denial",
 "id": "hoyt-vandenberg",
 "l0": false,
 "label": "Hoyt S. Vandenberg",
 "note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -107,7 +121,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "was denied by"
 },
 {
 "claimTier": 1,
@@ -117,10 +132,14 @@
 "direction": "out",
 "edgeId": "e-11d1e76e40",
 "edgeLabel": "Destruction of the Estimate preceded GRUDGE's dismissive posture by six months",
+"family": "place-time",
 "id": "project-grudge",
 "l0": false,
 "label": "Project GRUDGE",
 "note": "SIGN became GRUDGE on 11 February 1949, months after the Estimate was destroyed, and GRUDGE's founding conclusions ran directly counter to it.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -129,7 +148,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -139,10 +159,14 @@
 "direction": "in",
 "edgeId": "e-31805154ed",
 "edgeLabel": "SIGN staff produced the 1948 Estimate",
+"family": "organisation",
 "id": "project-sign",
 "l0": false,
 "label": "Project SIGN",
 "note": "Project SIGN personnel wrote a Top Secret estimate concluding the objects were interplanetary. The Condon Report, written under Air Force contract, records that it was prepared.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -151,7 +175,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 }
 ],
 "coords": null,

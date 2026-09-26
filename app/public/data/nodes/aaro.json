@@ -137,10 +137,14 @@
 "direction": "out",
 "edgeId": "e-92e45796bd",
 "edgeLabel": "The office's own account of why it cannot declassify",
+"family": "documents",
 "id": "aaro-declassification-info-paper-2025",
 "l0": false,
 "label": "AARO Declassification Information Paper (September 2025)",
 "note": "AARO states it cannot declassify independently, must request review from originating offices, and is bound by DOPSR - a description falsified within eight months by its own department.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-01",
@@ -149,7 +153,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -159,10 +164,14 @@
 "direction": "in",
 "edgeId": "e-a7852bfaa7",
 "edgeLabel": "the charter that created AARO",
+"family": "law",
 "id": "aaro-establishment-memo-2022",
 "l0": false,
 "label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
 "note": "The memorandum establishes AARO as the Department's authoritative UAP office covering space, airborne, submerged and transmedium anomalous objects.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-07-15",
@@ -171,7 +180,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -181,10 +191,14 @@
 "direction": "out",
 "edgeId": "e-77a7e267e0",
 "edgeLabel": "First statutory annual report, 25 October 2023",
+"family": "documents",
 "id": "aaro-fy2023-annual-report",
 "l0": false,
 "label": "AARO FY2023 Consolidated Annual Report on UAP",
 "note": "291 new reports, 801 total holdings, and no finding of any kind on extraterrestrial technology - a formula that appears only from FY2024 onward.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-10-25",
@@ -198,7 +212,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -208,10 +223,14 @@
 "direction": "out",
 "edgeId": "e-ad5e1debf5",
 "edgeLabel": "Second annual report, 14 November 2024",
+"family": "documents",
 "id": "aaro-fy2024-annual-report",
 "l0": true,
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "757 new reports, 1,652 total, 118 cases resolved, and the first appearance of the standing sentence on no evidence of extraterrestrial beings, activity or technology.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-14",
@@ -225,7 +244,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -235,10 +255,14 @@
 "direction": "out",
 "edgeId": "e-87fd0bb7b4",
 "edgeLabel": "Third annual report, 21 July 2026, months late",
+"family": "organisation",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The report also notes cases near sensitive installations with 'performance characteristics exceed the known state-of-the-art' while adding 'No technical data accompanied these reports.'",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -257,7 +281,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -267,10 +292,14 @@
 "direction": "out",
 "edgeId": "e-28c40cd38e",
 "edgeLabel": "AARO's own record of nine interview attempts, June 2023 - January 2024",
+"family": "organisation",
 "id": "aaro-grusch-interview-memo",
 "l0": false,
 "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "note": "Released under DoD FOIA case 24-F-0266. It documents both the refusals AARO cites and the fact that AARO worked through intermediaries and Senate staff for five months before making direct contact.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-08",
@@ -279,7 +308,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -289,10 +319,14 @@
 "direction": "out",
 "edgeId": "e-e75d281aae",
 "edgeLabel": "built a documentary record of its attempts to interview Grusch",
+"family": "documents",
 "id": "aaro-grusch-interview-memo",
 "l0": false,
 "label": "AARO Memorandum for Record: Invitations to Interview Mr. David Grusch (FOIA 24-F-0266)",
 "note": "The memorandum for record of 8 January 2024 logs eight approaches between June 2023 and November 2023 and a missed 14 November interview.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-08",
@@ -301,7 +335,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -311,10 +346,14 @@
 "direction": "out",
 "edgeId": "e-60f25e96ef",
 "edgeLabel": "publishing office",
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I remains the last full narrative account the US Government has published on this subject; everything since is raw files with no assessment.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -328,7 +367,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -338,10 +378,14 @@
 "direction": "in",
 "edgeId": "e-03d06bee05",
 "edgeLabel": "the office has not published the volume it committed to for over two years",
+"family": "denial",
 "id": "aaro-historical-record-vol2",
 "l0": true,
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "Promised in Volume I, deferred by the Pentagon in August 2024, promised 'within months' by Kosloski in November 2024, scheduled for late 2025 in the Department's June 2025 statement, and absent as of August 2026.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-14",
@@ -355,7 +399,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -365,10 +410,14 @@
 "direction": "out",
 "edgeId": "e-950dc750b3",
 "edgeLabel": "",
+"family": "organisation",
 "id": "aaro-historical-record-vol2",
 "l0": true,
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "AARO is the office that OWES this volume, which is a different relationship from having withheld it. Sec. 6802 places the duty on the Director of the Office, and Volume I commits to it twice in its own text: page 6, 'AARO will publish Volume II in accordance with the date established in Section 6802', and page 45, 'This report represents Volume I of AARO's HR2.' The denial edge on this same pair records the non-delivery; this one records whose obligation it is.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -382,7 +431,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -392,10 +442,14 @@
 "direction": "out",
 "edgeId": "e-d58e165218",
 "edgeLabel": "Explanatory output on flaring, parallax, workshops and the NPS CTX issue",
+"family": "documents",
 "id": "aaro-information-papers",
 "l0": false,
 "label": "AARO information papers (satellite flaring, forced perspective, 2025 UAP workshop, NPS CTX issue)",
 "note": "AARO publishes analytic methodology continuously while withholding Volume II and its video holdings.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-04-22",
@@ -414,7 +468,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -424,10 +479,14 @@
 "direction": "out",
 "edgeId": "e-67870031ea",
 "edgeLabel": "A dedicated documentary package for a rejected programme",
+"family": "documents",
 "id": "aaro-kona-blue-release",
 "l0": false,
 "label": "AARO/DHS release: History and Origin of KONA BLUE",
 "note": "AARO assembled and published a full KONA BLUE release while publishing no comparable package for the IC controlled access programme Volume I concedes was expanded in 2021 to a UAP reverse-engineering mission.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-06-01",
@@ -441,7 +500,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -451,10 +511,14 @@
 "direction": "in",
 "edgeId": "e-81bd5375b8",
 "edgeLabel": "The government's only published materials analysis, produced by a Battelle-operated laboratory",
+"family": "documents",
 "id": "aaro-metallic-specimen-analysis",
 "l0": false,
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "note": "Recorded as a denial artifact as well as a technical result: the chain of custody to any 1947 event was never established and the comparison baseline of failed magnesium alloys is admittedly incomplete.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-11",
@@ -463,7 +527,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -473,10 +538,14 @@
 "direction": "out",
 "edgeId": "e-c5959f98cb",
 "edgeLabel": "AARO's own small video release channel, Dec 2025 - Jan 2026",
+"family": "organisation",
 "id": "aaro-official-uap-imagery",
 "l0": false,
 "label": "AARO Official UAP Imagery releases (PR series)",
 "note": "Seven numbered PR items released across five weeks, all short European clips, one resolved as birds - the office's entire video output before PURSUE.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -485,7 +554,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -495,10 +565,14 @@
 "direction": "out",
 "edgeId": "e-9b36957c6a",
 "edgeLabel": "Luna called former AARO director Kirkpatrick 'a documented liar' and AARO's channel a graveyard for testimony",
+"family": "denial",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "From her 9 September 2025 opening statement, which also read Mellon's critique of AARO's historical report into the record.",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -507,7 +581,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "is disputed by"
 },
 {
 "claimTier": 1,
@@ -517,10 +592,14 @@
 "direction": "in",
 "edgeId": "e-e1e19047c5",
 "edgeLabel": "superseded and disestablished by AARO",
+"family": "organisation",
 "id": "aoimsg",
 "l0": false,
 "label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
 "note": "The 15 July 2022 memorandum disestablished AOIMSG eight months after its creation and replaced it with AARO.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-07-15",
@@ -529,7 +608,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -539,10 +619,14 @@
 "direction": "in",
 "edgeId": "e-3d97dcc3d5",
 "edgeLabel": "AARO was to inherit the Plan's declassification logic",
+"family": "law",
 "id": "controlled-disclosure-campaign-plan",
 "l0": false,
 "label": "Controlled Disclosure Campaign Plan",
 "note": "Sec. 9009(b)(6) required the Board to brief AARO on the Plan before terminating, and Sec. 9013(b)(2) required AARO to carry its requirements into standing guidance.",
+"predicate": "implements",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -551,7 +635,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -561,10 +646,14 @@
 "direction": "in",
 "edgeId": "e-59b98114e2",
 "edgeLabel": "Declined nine AARO interview approaches; missed the 14 November 2023 appointment",
+"family": "denial",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "AARO's own memorandum documents the sequence. Grusch has cited legal and security exposure; AARO makes the non-appearance the centerpiece of its impeachment. Both facts are in the same document.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-08",
@@ -578,7 +667,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -588,10 +678,14 @@
 "direction": "out",
 "edgeId": "e-7b6d4f3239",
 "edgeLabel": "AARO's SAP review extended to the DHS control office enterprise",
+"family": "role",
 "id": "dhs",
 "l0": false,
 "label": "United States Department of Homeland Security",
 "note": "AARO names DHS as the third SAP control office enterprise with which it partnered - the only public confirmation that DHS operates a SAP control office at all.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -600,7 +694,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -610,10 +705,14 @@
 "direction": "out",
 "edgeId": "e-1670773b6f",
 "edgeLabel": "AARO's SAP review ran through the DoD SAP control office",
+"family": "role",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -622,7 +721,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -632,10 +732,14 @@
 "direction": "in",
 "edgeId": "e-af4812909f",
 "edgeLabel": "The IG found no department-wide UAP policy and component-level stovepipes",
+"family": "oversight",
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "Eighteen months after AARO was made the Department's authoritative UAP office, the Inspector General found no requirement that components report to it - which makes AARO's holdings a self-selected sample.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-25",
@@ -654,7 +758,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -664,10 +769,14 @@
 "direction": "in",
 "edgeId": "e-3987faacaf",
 "edgeLabel": "Documented AARO contact with Enigma Labs, released heavily redacted",
+"family": "conduct",
 "id": "enigma-labs",
 "l0": false,
 "label": "Enigma Labs",
 "note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with the majority redacted under exemptions (b)(5) and (b)(6). The documents record multiple virtual and in-person meetings including then-Director Sean Kirkpatrick. One unredacted passage, apparently from Enigma Labs, reads: 'We have a team of 20 engineers, data scientists, and ex service vets with clearance who have built this rigorous product.' Set against that, the company's public position is 'We are not part of any country's government or military. We have no signed partnerships or collaborations to date.' Contact is documented; partnership is denied; the two are not in conflict, and the edge records the former.",
+"predicate": "in_contact_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-07-03",
@@ -681,7 +790,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was in contact with"
 },
 {
 "claimTier": 1,
@@ -691,10 +801,14 @@
 "direction": "in",
 "edgeId": "e-40009534c9",
 "edgeLabel": "AARO's 2024 negative finding is the standing counter-position",
+"family": "denial",
 "id": "ev-varginha-capitol-2026",
 "l0": false,
 "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
 "note": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated extraterrestrial origin; the Varginha witnesses were briefing Congress against that finding.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -703,7 +817,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -713,10 +828,14 @@
 "direction": "out",
 "edgeId": "e-4c2551b45a",
 "edgeLabel": "AARO's prototype real-time UAP sensor platform",
+"family": "organisation",
 "id": "gremlin-program",
 "l0": false,
 "label": "GREMLIN",
 "note": "Disclosed at the Volume I rollout in March 2024; a 90-day collection at a classified site was reported in November 2024.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -725,7 +844,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -735,10 +855,14 @@
 "direction": "out",
 "edgeId": "e-bf70a383b6",
 "edgeLabel": "AARO's reports address the retrieval claims and say nothing about the funding claims",
+"family": "denial",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "The AARO Historical Record Report Volume I (March 2024) and the FY2025 Consolidated Annual Report contain no discussion of misappropriated funds, illegal contracting, IR&D or contractor financial arrangements. The absence is attested by the reports themselves.",
+"predicate": "omitted",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -747,7 +871,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "leaves out"
 },
 {
 "claimTier": 2,
@@ -757,10 +882,14 @@
 "direction": "in",
 "edgeId": "e-250dd141f8",
 "edgeLabel": "Witnesses testified AARO holds unreleased UAP video",
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The testimony that AARO possesses additional video records is the specific factual basis for Luna's April 2026 letter and, through it, for the video composition of the PURSUE tranches.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -774,7 +903,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -784,10 +914,14 @@
 "direction": "in",
 "edgeId": "e-03b4dc1205",
 "edgeLabel": "Varginha discussed in a 2024 meeting with AARO staff",
+"family": "testimony",
 "id": "hospital-regional-varginha",
 "l0": false,
 "label": "Hospital Regional de Varginha",
 "note": "Filmmaker James Fox says that in 2024 he met AARO personnel to discuss video his team had obtained and that the Varginha incident was among the cases debated, with AARO director Dr Jon Kosloski entering the room. This rests solely on Fox's account as reported by The Debrief; AARO's own 2024 report states no investigation has concluded that any UAP report indicates extraterrestrial origin, and the Pentagon did not respond to requests for comment.",
+"predicate": "alleged_tie",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -806,7 +940,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -816,10 +951,14 @@
 "direction": "in",
 "edgeId": "e-072010735c",
 "edgeLabel": "a separate statutory channel is needed because AARO's secure reporting mechanism is not a safe destination",
+"family": "place-time",
 "id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "Congress would not build a parallel protection regime if the aaro.mil mechanism functioned; AARO's own FY2025 figures show 255 of 262 contacts declared out of scope.",
+"predicate": "responded_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-21",
@@ -833,7 +972,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -843,10 +983,14 @@
 "direction": "in",
 "edgeId": "e-2d1a1241c6",
 "edgeLabel": "would abolish AARO outright and bar any successor entity",
+"family": "law",
 "id": "hr-8197",
 "l0": false,
 "label": "H.R. 8197 (119th Congress) - bill to abolish AARO",
 "note": "The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of concealment rather than a remedy for it.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-04-10",
@@ -855,7 +999,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -865,10 +1010,14 @@
 "direction": "in",
 "edgeId": "e-9cb06d1530",
 "edgeLabel": "AARO reporting change and UAP funding limitation",
+"family": "law",
 "id": "iaa-2024",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "note": "Division G carries two UAP sections. Sec. 7341, 'Modification of reporting requirement for All-Domain Anomaly Resolution Office', amends section 1683(k)(1) of the FY2022 NDAA (50 U.S.C. 3373(k)(1)) as it had already been amended by sec. 6802(a) of the IAA for FY2023. Sec. 7343, 'Funding limitations relating to unidentified anomalous phenomena', bars division funds from any UAP activity 'protected under any form of special access or restricted access limitation unless the Director of National Intelligence has provided the details of the activity to the appropriate committees of Congress and congressional leadership' - the DNI is the discloser, not AARO, which the section names only in its trailing reference to 'activities described in a report released by the All-domain Anomaly Resolution Office in fiscal year 2024'. Subsection (c) goes further and at contractors: independent research and development funding relating to UAP 'shall not be allowable as indirect expenses' unless the material is made available to the same committees and leadership.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -882,7 +1031,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -892,10 +1042,14 @@
 "direction": "in",
 "edgeId": "e-10218d3890",
 "edgeLabel": "Sunsets GAO audit briefings on the Historical Record Report",
+"family": "law",
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
 "label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "note": "Sec. 6802 terminates quarterly audit information-sharing 90 days after the final volume and semiannual congressional briefings 180 days after.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-23",
@@ -909,7 +1063,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -919,10 +1074,14 @@
 "direction": "out",
 "edgeId": "e-812ec48af1",
 "edgeLabel": "AARO's SAP review extended to the IC control office enterprise",
+"family": "oversight",
 "id": "ic-sapco",
 "l0": false,
 "label": "Intelligence Community special access program control office enterprise",
 "note": "Same AARO sentence, p. 34 of the Historical Record Report Volume I. The scope of what counted as 'pertinent' was set by the offices being reviewed.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -931,7 +1090,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 3,
@@ -941,10 +1101,14 @@
 "direction": "in",
 "edgeId": "e-84c61e5c3d",
 "edgeLabel": "Irreconcilable executive-branch findings on the same allegations",
+"family": "testimony",
 "id": "icig",
 "l0": false,
 "label": "Inspector General of the Intelligence Community",
 "note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
+"predicate": "contradicts",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -958,7 +1122,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -968,10 +1133,14 @@
 "direction": "out",
 "edgeId": "e-765d165a11",
 "edgeLabel": "AARO has never publicly addressed the alleged programme entered into the congressional record",
+"family": "denial",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Neither the FY2024 nor the FY2025 annual report, nor any statement for the record, nor any of the five PURSUE tranches between 8 May and 7 August 2026, addresses a programme name that sits in the Congressional Record. Reasoning: review of the published AARO product set and release indexes.",
+"predicate": "omitted",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-10-22",
@@ -990,7 +1159,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "leaves out"
 },
 {
 "claimTier": 1,
@@ -1000,10 +1170,14 @@
 "direction": "in",
 "edgeId": "e-0031c6245c",
 "edgeLabel": "Director of AARO from August 2024",
+"family": "role",
 "id": "jon-kosloski",
 "l0": false,
 "label": "Jon T. Kosloski",
 "note": "Kosloski was named AARO's full-time director in August 2024 and testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on 19 November 2024.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-19",
@@ -1037,7 +1211,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -1047,10 +1222,14 @@
 "direction": "in",
 "edgeId": "e-c6c919e0c5",
 "edgeLabel": "took direct oversight; AARO director reports to her from summer 2023",
+"family": "oversight",
 "id": "kathleen-hicks",
 "l0": false,
 "label": "Kathleen H. Hicks",
 "note": "Weeks after Grusch testified, Hicks pulled AARO out of the USD(I&S) chain and made its director report directly to the Deputy Secretary of Defense.",
+"predicate": "oversaw",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-30",
@@ -1059,7 +1238,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was overseen by"
 },
 {
 "claimTier": 1,
@@ -1069,10 +1249,14 @@
 "direction": "in",
 "edgeId": "e-040a7e5e0b",
 "edgeLabel": "authored the statutory mandate and reporting regime AARO operates under",
+"family": "law",
 "id": "kirsten-gillibrand",
 "l0": false,
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand's FY2022 NDAA and IAA provisions and the FY2023 NDAA codification at 50 U.S.C. 3373 create AARO's legal identity and its classified quarterly and unclassified annual reporting duties.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-04-19",
@@ -1081,7 +1265,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -1091,10 +1276,14 @@
 "direction": "out",
 "edgeId": "e-90a97a7a4d",
 "edgeLabel": "nuclear-adjacent installations named in AARO's own unresolved allegations",
+"family": "oversight",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Volume I page 30 records interviews with five former Air Force officers who served at Malmstrom, Ellsworth, Vandenberg and Minot between 1966 and 1977 and defers the unresolved allegations to Volume II.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -1108,7 +1297,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -1118,10 +1308,14 @@
 "direction": "in",
 "edgeId": "e-f37c869dcb",
 "edgeLabel": "Targets video records the Task Force was told AARO holds",
+"family": "oversight",
 "id": "luna-hegseth-video-letter-2026",
 "l0": false,
 "label": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
 "note": "The Department did not produce by the deadline.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-04-01",
@@ -1130,7 +1324,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "received a request from"
 },
 {
 "claimTier": 2,
@@ -1140,10 +1335,14 @@
 "direction": "in",
 "edgeId": "e-aaedf67eb7",
 "edgeLabel": "NASA UAP study participant testifying on stigma and data policy alongside AARO's remit",
+"family": "testimony",
 "id": "michael-gold",
 "l0": false,
 "label": "Michael Gold",
 "note": "Gold's testimony argued the problem is stigma and data quality as much as classification.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -1157,7 +1356,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -1167,10 +1367,14 @@
 "direction": "in",
 "edgeId": "e-b70c93f4a0",
 "edgeLabel": "FAA surveillance data - engineered by a MITRE FFRDC - is a named AARO data source",
+"family": "analysis",
 "id": "mitre-caasd",
 "l0": false,
 "label": "Center for Advanced Aviation System Development (CAASD)",
 "note": "AARO draws on FAA radar and reporting; the systems engineering authority over that data belongs to MITRE's CAASD. No claim of filtering is made; the dependency is the point.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -1184,7 +1388,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -1194,10 +1399,14 @@
 "direction": "in",
 "edgeId": "e-68acec5606",
 "edgeLabel": "AARO points the public to NARA and asserts it is transferring records",
+"family": "custody",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "AARO's UAP Records page links first to the National Archives collection, and the Department states AARO has made progress transferring records in accordance with federal law.",
+"predicate": "transferred",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -1211,7 +1420,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "passed records or material to"
 },
 {
 "claimTier": 1,
@@ -1221,10 +1431,14 @@
 "direction": "in",
 "edgeId": "e-e36d846686",
 "edgeLabel": "Civil-agency complement to the DoD-led resolution office",
+"family": "role",
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "The Independent Study Team positioned NASA's expertise as supporting AARO within a 'whole-of-government framework', while acknowledging that much of the relevant military and intelligence data is classified.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-09-14",
@@ -1233,7 +1447,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -1243,10 +1458,14 @@
 "direction": "in",
 "edgeId": "e-d57bd1b10a",
 "edgeLabel": "Ran concurrently with, and separately from, AARO",
+"family": "place-time",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings.",
+"predicate": "concurrent_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -1255,7 +1474,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -1265,10 +1485,14 @@
 "direction": "in",
 "edgeId": "e-704d3319c7",
 "edgeLabel": "statutory basis for standing up AARO",
+"family": "law",
 "id": "ndaa-fy2022",
 "l0": false,
 "label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "note": "The Deputy Secretary of Defense approved amendments to the AOIMSG direction 'to meet the DoD requirements in section 1683 of the NDAA for FY 2022', establishing AARO 'to carry out the duties that were to be fulfilled by the AOIMSG'. The memorandum also renames the AOIMEXEC as the AARO Executive Council and makes AARO 'the authoritative office of the Unidentified Aerial Phenomena (UAP) and UAP-related activities for the DoD'.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-07-15",
@@ -1277,7 +1501,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -1287,10 +1512,14 @@
 "direction": "in",
 "edgeId": "e-e7099a3f96",
 "edgeLabel": "codified AARO in statute with a public reporting mandate",
+"family": "law",
 "id": "ndaa-fy2023",
 "l0": false,
 "label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
 "note": "The James M. Inhofe NDAA for FY2023, signed 23 December 2022, gave AARO statutory authority and the annual reporting requirement now at 50 U.S.C. 3373(k).",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-21",
@@ -1299,7 +1528,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -1309,10 +1539,14 @@
 "direction": "in",
 "edgeId": "e-5e2fa4dbd2",
 "edgeLabel": "establishes the office",
+"family": "law",
 "id": "ndaa-fy2023-sec-6802",
 "l0": true,
 "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
 "note": "Sec. 6802 does not create AARO alongside anything: it amends section 1683 of the FY2022 NDAA (50 U.S.C. 3373) to read as a new section establishing the office. 'Not later than 120 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023, the Secretary of Defense, in coordination with the Director of National Intelligence, shall establish an office ... to carry out the duties of the Unidentified Aerial Phenomena Task Force, as in effect on December 26, 2021', and 'The office established under paragraph (1) shall be known as the \"All-domain Anomaly Resolution Office\"'. The reporting chain is set in the same subsection: the Director reports directly to the Deputy Secretary of Defense and the Principal Deputy Director of National Intelligence, and to USD(I&S) on administrative matters only. Read from the enacted text on govinfo, 22 August 2026.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1321,7 +1555,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -1331,10 +1566,14 @@
 "direction": "in",
 "edgeId": "e-ce74e0a46c",
 "edgeLabel": "Directs AARO to brief on NORAD/NORTHCOM UAP intercepts back to 2004 and account for its classification guides",
+"family": "law",
 "id": "ndaa26-uap-provisions",
 "l0": false,
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "Congress required AARO to brief on NORAD/USNORTHCOM UAP intercepts since 2004 and to account for the security classification guides it uses - a legislative finding that the office has been withholding and overclassifying.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-10",
@@ -1343,7 +1582,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -1353,10 +1593,14 @@
 "direction": "out",
 "edgeId": "e-72e44b85a8",
 "edgeLabel": "AARO contracted ORNL in 2022 to test the magnesium alloy specimen",
+"family": "money",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "AARO's own words: 'In 2022, The All-domain Anomaly Resolution Office (AARO) contracted with Oak Ridge National Laboratory (ORNL) to conduct materials testing on a magnesium (Mg) alloy specimen.'",
+"predicate": "contracted",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-08",
@@ -1365,7 +1609,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "contracted"
 },
 {
 "claimTier": 1,
@@ -1375,10 +1620,14 @@
 "direction": "in",
 "edgeId": "e-a37188a394",
 "edgeLabel": "AARO reviewed as a foreign model and named as a proposed partner",
+"family": "documents",
 "id": "ocsa-canada",
 "l0": false,
 "label": "Office of the Chief Science Advisor of Canada",
 "note": "The Sky Canada report records that 'On June 1, 2024, AARO released its second report on 757 UAP reports from May 1, 2023, to June 1, 2024', of which '174 cases were resolved and found to be objects such as balloons, birds, unmanned aerial systems, satellites and aircraft', and cites AARO's Historical Record Report Volume I in its references. Its recommendation 13 directs the future Canadian lead organization to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).'",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -1392,7 +1641,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -1402,10 +1652,14 @@
 "direction": "in",
 "edgeId": "e-564bde4e2c",
 "edgeLabel": "designates AARO as a receiving channel for waived-NDA testimony",
+"family": "law",
 "id": "odni-memo-es-2026-00818",
 "l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "Witnesses are told that NDAs, agreements, oaths or commitments are waived 'when speaking with authorized government representatives of the All-Domain Anomaly Resolution Office (AARO) or PURSUE'.",
+"predicate": "mandated",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -1414,7 +1668,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -1424,10 +1679,14 @@
 "direction": "out",
 "edgeId": "e-9ad0ad2bc2",
 "edgeLabel": "",
+"family": "organisation",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "AARO inherited the reporting line this assessment opened. The June 2021 preliminary assessment predates AARO and was built from UAP Task Force holdings; the ODNI 2022 annual report then carries a section headed 'Establishment of the All-Domain Anomaly Resolution Office (AARO)' recording that the Deputy Secretary directed USD(I&S) to stand it up. The institutional relation is succession, not authorship.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-25",
@@ -1441,7 +1700,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -1451,10 +1711,14 @@
 "direction": "out",
 "edgeId": "e-5ceeee48f0",
 "edgeLabel": "originally placed under USD(I&S)",
+"family": "organisation",
 "id": "ousdi",
 "l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "The establishment memorandum directed USD(I&S) to establish the office and placed AARO in that chain until summer 2023.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-07-15",
@@ -1463,7 +1727,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 3,
@@ -1473,10 +1738,14 @@
 "direction": "in",
 "edgeId": "e-673eed19d8",
 "edgeLabel": "Assessment language reappears despite the no-comment posture",
+"family": "analysis",
 "id": "pursue-release-04",
 "l0": false,
 "label": "PURSUE Release 04",
 "note": "Release 04 material was characterised as consistent with balloons or sensor artefacts and as not clear evidence of unknown aircraft, reverting to the AARO idiom the release programme had disclaimed.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-01",
@@ -1490,7 +1759,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -1500,10 +1770,14 @@
 "direction": "in",
 "edgeId": "e-528e7e14e9",
 "edgeLabel": "Release programme runs parallel to, not in place of, AARO reporting",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The Department of War states it 'will continue to conduct separate reporting on resolved UAP cases, as mandated by statute' - meaning the historical-records release and the contemporary programme reporting line remain separate. This structure allows maximal apparent transparency about the past while the present reporting is unchanged.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -1517,7 +1791,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -1527,10 +1802,14 @@
 "direction": "in",
 "edgeId": "e-17c4d7d422",
 "edgeLabel": "AARO identifies and stages the material released under PURSUE",
+"family": "organisation",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The Department of War's PURSUE site publishes on a rolling basis - releases 01 through 05 between 8 May and 7 August 2026 - with AARO identifying material and ODNI coordinating across agencies.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -1539,7 +1818,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -1549,10 +1829,14 @@
 "direction": "in",
 "edgeId": "e-780376d816",
 "edgeLabel": "first Director, July 2022 - 1 December 2023",
+"family": "role",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Kirkpatrick led AARO from establishment through his departure on 1 December 2023, announced 7 November 2023.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-11-30",
@@ -1561,7 +1845,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -1571,10 +1856,14 @@
 "direction": "in",
 "edgeId": "e-39d654645f",
 "edgeLabel": "identifies AARO as a model and recommends partnership",
+"family": "documents",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The report treats the US, France and Chile as the only coordinated, transparent, scientifically driven approaches it found.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -1583,7 +1872,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "is cited by"
 },
 {
 "claimTier": 2,
@@ -1593,10 +1883,14 @@
 "direction": "in",
 "edgeId": "e-fe98664395",
 "edgeLabel": "OSD Public Affairs handled AARO press matters; the office had no dedicated spokesperson",
+"family": "role",
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "Gough's February 2026 figures mean roughly half of AARO's holdings sit in an Active Archive without analysis, which bounds every negative finding the office publishes.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-09-01",
@@ -1610,7 +1904,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -1620,10 +1915,14 @@
 "direction": "in",
 "edgeId": "e-e21d7a8876",
 "edgeLabel": "Deputy Director from Oct 2023; Acting Director Dec 2023 - Aug 2024",
+"family": "role",
 "id": "tim-phillips",
 "l0": false,
 "label": "Timothy A. Phillips",
 "note": "Phillips came to AARO on assignment from ODNI and ran the office between Kirkpatrick and Kosloski.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-01",
@@ -1632,7 +1931,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -1642,10 +1942,14 @@
 "direction": "out",
 "edgeId": "e-2dc09b6bdd",
 "edgeLabel": "Council announced 17 June 2026, between Releases 03 and 04",
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The council was announced as formed at the request of the White House and in coordination with AARO, ODNI, the FBI and other agencies, reporting to a higher-level UAP Governance Board.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-01",
@@ -1679,7 +1983,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -1689,10 +1994,14 @@
 "direction": "in",
 "edgeId": "e-60e8d11db2",
 "edgeLabel": "Nuccetelli says the Air Force records are now held by AARO and the FBI",
+"family": "custody",
 "id": "vandenberg-2003",
 "l0": false,
 "label": "Vandenberg AFB Incidents (2003-2005)",
 "note": "'Official Air Force records documenting it are now held by AARO and the FBI.' A specific, FOIA-targetable custody claim that neither agency has confirmed or denied.",
+"predicate": "alleged_to_hold",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -1701,7 +2010,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -1711,10 +2021,14 @@
 "direction": "in",
 "edgeId": "e-30c7342144",
 "edgeLabel": "Pentagon spokesperson could not confirm the existence of the memo",
+"family": "denial",
 "id": "yankee-blue",
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Susan Gough, 1 October 2025: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-16",
@@ -1728,7 +2042,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -1738,10 +2053,14 @@
 "direction": "in",
 "edgeId": "e-dd739bd1b8",
 "edgeLabel": "AARO uncovered the fake programme through internal review under Kirkpatrick",
+"family": "oversight",
 "id": "yankee-blue",
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Per the Wall Street Journal, AARO discovered the practice during Kirkpatrick's tenure; the Office of the Secretary of Defense then issued a spring 2023 memorandum ordering it stopped.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-06",
@@ -1755,7 +2074,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 }
 ],
 "coords": null,

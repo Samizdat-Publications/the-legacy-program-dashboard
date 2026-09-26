@@ -101,10 +101,14 @@
 "direction": "in",
 "edgeId": "e-a1cf984e60",
 "edgeLabel": "Chief Operating Officer from May 2023",
+"family": "role",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Listed as his current position in the biography the House Oversight Committee published on the day of his testimony.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -113,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -123,10 +128,14 @@
 "direction": "out",
 "edgeId": "e-bc1244598a",
 "edgeLabel": "Borland spoke at the 2025 Sol Foundation Symposium",
+"family": "media",
 "id": "dylan-borland",
 "l0": false,
 "label": "Dylan Borland",
 "note": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.",
+"predicate": "appeared_on",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-10-24",
@@ -140,7 +149,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "featured"
 },
 {
 "claimTier": 1,
@@ -150,10 +160,14 @@
 "direction": "out",
 "edgeId": "e-520be31762",
 "edgeLabel": "Eric Davis sits on Sol's Natural Sciences Advisory Board",
+"family": "role",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Named on the Sol Foundation People page - placing a figure central to the AAWSAP and Wilson-Davis memo record inside the movement's institutional apex.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -162,7 +176,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -172,10 +187,14 @@
 "direction": "in",
 "edgeId": "e-3dcb60b4ee",
 "edgeLabel": "Co-founder and Executive Director of the Board",
+"family": "role",
 "id": "garry-nolan",
 "l0": false,
 "label": "Garry Nolan",
 "note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -194,7 +213,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -204,10 +224,14 @@
 "direction": "out",
 "edgeId": "e-72e0cba2e6",
 "edgeLabel": "Vallee is Emeritus Advisor",
+"family": "role",
 "id": "jacques-vallee",
 "l0": false,
 "label": "Jacques F. Vallee",
 "note": "Named on the Sol Foundation People page.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -216,7 +240,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -226,10 +251,14 @@
 "direction": "out",
 "edgeId": "e-9e3a287af3",
 "edgeLabel": "Barber spoke at the 2025 Sol Foundation Symposium",
+"family": "media",
 "id": "jake-barber",
 "l0": false,
 "label": "Jake Barber",
 "note": "A whistleblower first platformed by an independent YouTube channel in January 2025 appears on a symposium programme alongside Karl Nell, Jacques Vallee and a retired French general nine months later. The pipeline from independent media to institutional legitimation is short and documented.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-10-24",
@@ -238,7 +267,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -248,10 +278,14 @@
 "direction": "in",
 "edgeId": "e-7637de0fa4",
 "edgeLabel": "Continuity from TTSA into the successor policy institution",
+"family": "role",
 "id": "jim-semivan",
 "l0": false,
 "label": "James 'Jim' Semivan",
 "note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
+"predicate": "member_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -265,7 +299,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -275,10 +310,14 @@
 "direction": "out",
 "edgeId": "e-fbe842e2a5",
 "edgeLabel": "Nell published 'The UFO Enigma: A Call for US Government Disclosure' through Sol in May 2025",
+"family": "testimony",
 "id": "karl-nell",
 "l0": false,
 "label": "Karl E. Nell",
 "note": "The foundation's white-paper series is the venue through which former programme-adjacent officials put structured disclosure arguments into the public record under their own names.",
+"predicate": "brought_to_record",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -287,7 +326,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -297,10 +337,14 @@
 "direction": "in",
 "edgeId": "e-a8c100cbf3",
 "edgeLabel": "Senior Legislative Affairs Officer after 37 years on SASC",
+"family": "role",
 "id": "kirk-mcconnell",
 "l0": false,
 "label": "Kirk McConnell",
 "note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -319,7 +363,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -329,10 +374,14 @@
 "direction": "out",
 "edgeId": "e-a411033b0f",
 "edgeLabel": "The Sol Foundation operates from the Stanford orbit",
+"family": "place-time",
 "id": "l-stanford",
 "l0": false,
 "label": "Stanford, California",
 "note": "Garry Nolan of the Stanford School of Medicine co-founded the Sol Foundation with Peter Skafish; its symposia are the current academic venue for the subject.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -341,7 +390,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -351,10 +401,14 @@
 "direction": "in",
 "edgeId": "e-db95472184",
 "edgeLabel": "Spoke at the inaugural Stanford conference, November 2023",
+"family": "media",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "Kean was a named speaker at the 17-18 November 2023 inaugural conference, linking the journalistic and institutional wings.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-11-17",
@@ -363,7 +417,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -373,10 +428,14 @@
 "direction": "in",
 "edgeId": "e-46d3e4fa55",
 "edgeLabel": "delivers the monthly Sol Briefing; authors Sol policy briefings",
+"family": "role",
 "id": "marik-von-rennenkampff",
 "l0": false,
 "label": "Marik von Rennenkampff",
 "note": "The Sol Foundation identifies von Rennenkampff as a Sol Foundation Fellow and carries his paper 'The Civilizational Risks of a UAP Technology Arms Race: Nonhuman Technology and Global Security', which argues for international cooperation on UAP technology development. Garry Nolan is listed as Executive Director of the Board. Tier 2: the foundation's public pages read here do not carry the Science and Policy Briefings series, so his role in it is not asserted from this source.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -395,7 +454,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -405,10 +465,14 @@
 "direction": "out",
 "edgeId": "e-9a84fa729f",
 "edgeLabel": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
+"family": "documents",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-01",
@@ -417,7 +481,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -427,10 +492,14 @@
 "direction": "in",
 "edgeId": "e-a42c1b3a90",
 "edgeLabel": "Co-founder, Executive Director and Secretary of the Board",
+"family": "role",
 "id": "peter-skafish",
 "l0": false,
 "label": "Peter Skafish",
 "note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
+"predicate": "founded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -449,7 +518,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -459,10 +529,14 @@
 "direction": "out",
 "edgeId": "e-f29e7147c3",
 "edgeLabel": "Sol issued press statements on each major PURSUE release",
+"family": "media",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Sol published statements dated 9 May, 22 May and 10 July 2026 responding to the PURSUE releases, positioning itself as the interpretive authority on the released record.",
+"predicate": "reported_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -471,7 +545,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -481,10 +556,14 @@
 "direction": "out",
 "edgeId": "e-6ec18da82f",
 "edgeLabel": "publisher of Science and Policy Briefing No. 3",
+"family": "documents",
 "id": "sol-briefing-3-2026",
 "l0": false,
 "label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
 "note": "The briefing is issued in The Sol Foundation Science and Policy Briefings series (No. 3, April 2026, published online 30 April 2026) and carries the foundation's imprint and cofounders Garry Nolan and Peter Skafish on the colophon.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -498,7 +577,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -508,10 +588,14 @@
 "direction": "out",
 "edgeId": "e-44522fc0cf",
 "edgeLabel": "Gallaudet on Sol's Natural Sciences and US Government Advisory Boards",
+"family": "role",
 "id": "tim-gallaudet",
 "l0": false,
 "label": "Timothy Gallaudet",
 "note": "'Beneath the Surface: We May Learn More about UAP by Looking in the Ocean' opened the foundation's numbered series; Gallaudet was subsequently named to the 2026 advisory council.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -530,7 +614,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -540,10 +625,14 @@
 "direction": "in",
 "edgeId": "e-f247c853c8",
 "edgeLabel": "Advisory seat conditioned on unclassified-only access",
+"family": "law",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The council's announced terms guarantee its members will never see classified material. Recorded as a denial-type edge: the access granted is precisely the access that cannot resolve the question the members were appointed for.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-22",
@@ -552,7 +641,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -562,10 +652,14 @@
 "direction": "out",
 "edgeId": "e-15f84f692e",
 "edgeLabel": "Sol leadership named to the ODNI/FBI council, 22 June 2026",
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Nolan, Skafish, senior adviser Tim Gallaudet, advisory board member Jacob Haqq-Misra and production lead Ross Howard were all named; the foundation called it 'a fulfillment of its founding mission'.",
+"predicate": "member_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-22",
@@ -584,7 +678,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -594,10 +689,14 @@
 "direction": "out",
 "edgeId": "e-f020b9a3cd",
 "edgeLabel": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
+"family": "documents",
 "id": "vasco-project",
 "l0": false,
 "label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -611,7 +710,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "cites"
 }
 ],
 "coords": null,

@@ -3,14 +3,8 @@
 "C": 0,
 "D": 2,
 "band": null,
-"claims": [
-{
-"id": "c-73716726a6",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-}
-],
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"claims": [],
 "cls": "location",
 "cluster": "research",
 "conflicts": [],
@@ -23,10 +17,14 @@
 "direction": "out",
 "edgeId": "e-e46d9ab69e",
 "edgeLabel": "site of the DoD unsupported-adjustment study",
+"family": "other",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2017-09-01",
@@ -55,7 +53,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "is connected to"
 }
 ],
 "coords": [
@@ -107,7 +106,7 @@
 ],
 "sub": "Public research university, East Lansing, Michigan",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1134 of 1138, score 6). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1136 of 1138, score 5). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

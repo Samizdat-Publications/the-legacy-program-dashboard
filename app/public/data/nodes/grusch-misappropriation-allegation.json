@@ -59,10 +59,14 @@
 "direction": "in",
 "edgeId": "e-bf70a383b6",
 "edgeLabel": "AARO's reports address the retrieval claims and say nothing about the funding claims",
+"family": "denial",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The AARO Historical Record Report Volume I (March 2024) and the FY2025 Consolidated Annual Report contain no discussion of misappropriated funds, illegal contracting, IR&D or contractor financial arrangements. The absence is attested by the reports themselves.",
+"predicate": "omitted",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "is left out of"
 },
 {
 "claimTier": 2,
@@ -81,10 +86,14 @@
 "direction": "in",
 "edgeId": "e-7497b9f92e",
 "edgeLabel": "Counsel who filed the ICIG disclosure of urgent concern",
+"family": "testimony",
 "id": "charles-mccullough-iii",
 "l0": false,
 "label": "Irvin Charles McCullough III",
 "note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
+"predicate": "brought_to_record",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -93,7 +102,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -103,10 +113,14 @@
 "direction": "in",
 "edgeId": "e-8aa865ce68",
 "edgeLabel": "The named complainant, under oath and under an IG complaint",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch filed the ICIG urgent-concern complaint in May 2022 through counsel, was found credible and urgent in July 2022, went on the record in June 2023 and testified under oath on 26 July 2023. Attested by The Debrief reporting and the House Oversight hearing record.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -115,7 +129,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -125,10 +140,14 @@
 "direction": "in",
 "edgeId": "e-588b33de6e",
 "edgeLabel": "An unauditable ledger cannot disprove the allegation",
+"family": "analysis",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "The Department's standing 'Universe of Transactions' material weakness means the complete population of its transactions is not established; no search of that population can therefore establish that funds did not flow to an undisclosed activity. Reasoned inference from the auditor's own definition of the weakness.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-12",
@@ -137,7 +156,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -147,10 +167,14 @@
 "direction": "out",
 "edgeId": "e-91b9a55111",
 "edgeLabel": "Sworn testimony before the committee, 26 July 2023",
+"family": "place-time",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Grusch testified with Ryan Graves and David Fravor at 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'. Attested by the committee's own hearing page.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -159,7 +183,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "happened at"
 },
 {
 "claimTier": 3,
@@ -169,10 +194,14 @@
 "direction": "out",
 "edgeId": "e-2c0ac19e10",
 "edgeLabel": "The allegation of illegal contracting and the statute that names IR&D",
+"family": "testimony",
 "id": "irad-mechanism",
 "l0": false,
 "label": "Independent Research and Development (IR&D) as a funding channel",
 "note": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -181,7 +210,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,

@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-62a2ff3408",
 "edgeLabel": "delivered the 494-page report to DIA",
+"family": "organisation",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "The deliverable that shows the program's actual shape: physics, field teams, case database, ranch operations, human effects. Never released by DIA.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-01-01",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 }
 ],
 "coords": null,

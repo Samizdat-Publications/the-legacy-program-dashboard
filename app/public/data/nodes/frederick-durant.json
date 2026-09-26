@@ -58,10 +58,14 @@
 "direction": "out",
 "edgeId": "e-9d8f49cf11",
 "edgeLabel": "Durant was panel secretary and wrote the proceedings record",
+"family": "role",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1953-02-16",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 }
 ],
 "date": "1953-02-16",

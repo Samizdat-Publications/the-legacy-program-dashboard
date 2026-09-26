@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-6553835642",
 "edgeLabel": "MITRE operates HSSEDI for DHS Science and Technology",
+"family": "organisation",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Created 5 March 2009; the DHS engineering franchise sits with the same operator now under congressional UAP records demand.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was run by"
 }
 ],
 "coords": null,
@@ -83,7 +88,7 @@
 ],
 "sub": "MITRE-operated FFRDC; sponsor Department of Homeland Security, Science and Technology Directorate; created 5 March 2009",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 979 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 975 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unverified": []
 }

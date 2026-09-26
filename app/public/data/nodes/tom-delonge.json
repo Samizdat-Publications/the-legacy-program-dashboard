@@ -69,10 +69,14 @@
 "direction": "out",
 "edgeId": "e-bb550eb995",
 "edgeLabel": "Recruitment of a serving OUSD(I) official into a private disclosure vehicle",
+"family": "role",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "DeLonge courted serving and retired officials from 2015-2017; the launch roster of 11 October 2017 is the product. The recruitment overlapped Elizondo's final year in government.",
+"predicate": "appointed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-10-11",
@@ -86,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -96,10 +101,14 @@
 "direction": "in",
 "edgeId": "e-1c18092b07",
 "edgeLabel": "Author of the email and of the surrounding correspondence",
+"family": "documents",
 "id": "podesta-delonge-mccasland-email-2016",
 "l0": true,
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "note": "Thirteen emails in the Podesta release were sent from t.delonge@me.com, including this one, signed Tom DeLonge, Founder, To The Stars Media.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-01-25",
@@ -108,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -118,10 +128,14 @@
 "direction": "out",
 "edgeId": "e-294b61f23d",
 "edgeLabel": "Co-founder, President, interim CEO and controlling shareholder",
+"family": "role",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "TTSA was a Regulation A public reporting issuer, which is why its holdings and agreements had to be filed with the SEC rather than remaining private.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-04-30",
@@ -140,7 +154,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 }
 ],
 "date": "2017-10-11",
@@ -194,7 +209,7 @@
 "status": "active",
 "sub": "Co-founder, President and Chairman, To The Stars Academy of Arts & Science",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 696 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 695 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

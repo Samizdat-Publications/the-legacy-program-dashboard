@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-2c0ac19e10",
 "edgeLabel": "The allegation of illegal contracting and the statute that names IR&D",
+"family": "testimony",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "Grusch's on-the-record formulation was 'illegal contracting against the Federal Acquisition Regulations'; six months later Congress barred UAP-related IR&D from being an allowable indirect cost. The inference that the two describe the same mechanism is reasoned, not documented: no source states that section 1687(b) was drafted in response to Grusch.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-0db52c74ac",
 "edgeLabel": "Statutory bar on UAP-related IR&D as an allowable indirect cost",
+"family": "law",
 "id": "ndaa-fy2024-1687",
 "l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Section 1687(b) provides that IR&D funding relating to UAP shall not be allowable as an indirect expense for contracts covered by DoD Instruction 3204.01 unless disclosed to the appropriate committees and leadership. Attested by the enacted statute.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "is governed by"
 },
 {
 "claimTier": 3,
@@ -79,10 +89,14 @@
 "direction": "out",
 "edgeId": "e-c103bc5c27",
 "edgeLabel": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
+"family": "organisation",
 "id": "sec-8009-sap-notice",
 "l0": false,
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "note": "Section 8009 attaches to funds appropriated by the Act; contractor IR&D is reimbursed as an allowable indirect cost across a contract portfolio rather than appropriated to a programme. Reasoned inference from the structure of both instruments.",
+"predicate": "outside_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-02-03",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked organisationally to"
 }
 ],
 "coords": null,

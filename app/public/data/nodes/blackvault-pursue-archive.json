@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-cb85fb5d52",
 "edgeLabel": "supplies the index the releasing authority did not",
+"family": "documents",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-11",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,
@@ -95,7 +100,7 @@
 ],
 "sub": "Launched 11 May 2026, three days after Release 01; the de facto public index",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1040 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1037 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": 2,

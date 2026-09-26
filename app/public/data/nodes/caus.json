@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-0c229c96b4",
 "edgeLabel": "CAUS was the plaintiff in Civil Action No. 80-1562",
+"family": "place-time",
 "id": "caus-v-nsa",
 "l0": false,
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-09-10",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -62,10 +67,14 @@
 "direction": "in",
 "edgeId": "e-886b22f9b6",
 "edgeLabel": "Gersten directed CAUS and brought its FOIA litigation",
+"family": "role",
 "id": "peter-gersten",
 "l0": false,
 "label": "Peter A. Gersten",
 "note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-09-10",
@@ -79,7 +88,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 }
 ],
 "coords": null,

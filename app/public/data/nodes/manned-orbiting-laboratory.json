@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-7797230b88",
 "edgeLabel": "A worked example of compartmentation: one workforce, two programmes",
+"family": "analysis",
 "id": "d-secrecy-architecture",
 "l0": false,
 "label": "Secrecy Architecture",
 "note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-05-01",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-cfa47aec3b",
 "edgeLabel": "Polar launches were to fly from Vandenberg on the Titan-IIIM",
+"family": "place-time",
 "id": "l-vandenberg",
 "l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "Polar launches were to fly from Vandenberg on the Titan-IIIM, per the NASA history article.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-06-11",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-b984258a9e",
 "edgeLabel": "After cancellation the younger MOL astronauts transferred to NASA",
+"family": "custody",
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record.",
+"predicate": "transferred",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-06-11",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -113,10 +128,14 @@
 "direction": "out",
 "edgeId": "e-a93fbccb81",
 "edgeLabel": "The NRO ran the DORIAN payload inside the Air Force programme",
+"family": "organisation",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-05-01",
@@ -125,7 +144,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -135,10 +155,14 @@
 "direction": "out",
 "edgeId": "e-79bbe50f32",
 "edgeLabel": "MOL was the Air Force's public programme",
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "MOL was the Air Force's public programme and the service that selected and trained the seventeen officers.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-05-01",
@@ -147,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was run by"
 }
 ],
 "coords": null,

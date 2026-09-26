@@ -186,6 +186,108 @@ def topic_rules(vocab, nodes):
        wrong[:5], [])
 
 
+def predicate_rules(vocab, b):
+    """The relationship vocabulary (redesign phase 7), the six rules verify.py holds,
+    restated by another route: the families and the fallback are restated here, not
+    imported; ids, ends and tiers come from the SHIPPED edges.json rather than the
+    board; classes from the shipped node files; the denier from
+    data/denial-adjudication.json itself, through research/_removed.json's aliases,
+    rather than from the `denier` merge.py stamps on the board; and every shipped
+    connection's label is re-derived from edges.json's `subject`."""
+    FAMILIES = ["role", "organisation", "money", "custody", "law", "oversight", "testimony",
+                "denial", "documents", "media", "place-time", "conduct", "analysis", "other"]
+    DENIAL = {"denied", "refused", "disputed", "explained_away", "omitted"}
+    SYMMETRIC = {"worked_with", "same_as", "in_contact_with", "parallels", "alleged_tie",
+                 "concurrent_with", "connected_to"}
+    preds = {p["id"]: p for p in vocab.get("predicates") or []}
+    ck("schema/vocab.json names the fourteen predicate families",
+       [f["id"] for f in vocab.get("predicateFamilies") or []], FAMILIES)
+    ck("the Denials family is exactly the five denial predicates",
+       sorted(k for k, p in preds.items() if p["family"] == "denial"), sorted(DENIAL))
+    ck("the symmetric predicates are exactly the seven",
+       sorted(k for k, p in preds.items() if p.get("symmetric")), sorted(SYMMETRIC))
+    ck("connected_to is the one predicate in the other family and refines no type",
+       [(k, p["refines"]) for k, p in preds.items() if p["family"] == "other"],
+       [("connected_to", None)])
+
+    app = os.path.join(ROOT, "app", "public", "data")
+    rows = json.load(open(os.path.join(app, "edges.json"), encoding="utf-8"))
+    side = json.load(open(os.path.join(ROOT, "research", "_predicates.json"), encoding="utf-8"))
+    side = side.get("predicates") or {}
+    ids = {r["id"] for r in rows}
+    ck("every shipped edge has a side-car row", sorted(ids - set(side))[:5], [])
+    ck("no side-car row names an edge the app does not ship", sorted(set(side) - ids)[:5], [])
+    ck("every shipped edge carries the side-car's predicate and subject",
+       sum(1 for r in rows if (r.get("predicate"), r.get("subject"))
+           != ((side.get(r["id"]) or {}).get("predicate"), (side.get(r["id"]) or {}).get("subject"))), 0)
+    k = sum(1 for r in rows if r.get("predicate") == "connected_to")
+    ck("connected_to is at most 3% of shipped edges", k * 100 <= 3 * len(rows), True,
+       f"{k} of {len(rows)}")
+    board_tier = {e["id"]: e.get("claimTier") for e in b["edges"]}
+    ck("the shipped edge tiers are the board's", sum(1 for r in rows if r.get("tier") != board_tier.get(r["id"])), 0)
+
+    ndir = os.path.join(app, "nodes")
+    cls, conns = {}, []
+    for f in os.listdir(ndir):
+        rec = json.load(open(os.path.join(ndir, f), encoding="utf-8"))
+        cls[rec["id"]] = rec["cls"]
+        conns.extend((rec["id"], c) for c in rec.get("connections") or [])
+    ok = lambda spec, c: c == "domain" or spec == "any" or c in spec
+    wrong_cls = []
+    for r in rows:
+        p = preds.get(r.get("predicate"))
+        if not p or r.get("subject") not in ("a", "b"):
+            continue
+        s, o = (r["a"], r["b"]) if r["subject"] == "a" else (r["b"], r["a"])
+        if not (ok(p["subject"], cls.get(s)) and ok(p["object"], cls.get(o))):
+            wrong_cls.append(r["id"])
+        if r["predicate"] in SYMMETRIC and r["subject"] != "a":
+            wrong_cls.append(r["id"])
+    ck("every shipped predicate's classes hold, read from the node files", wrong_cls[:5], [])
+
+    by_id = {r["id"]: r for r in rows}
+    phrase = {f["id"]: f.get("phrase") for f in vocab.get("predicateFamilies") or []}
+    ck("every family carries a neutral phrase for the rows whose predicate is not shown",
+       sorted(k for k, v in phrase.items() if not v), [])
+    wrong_verb = []
+    for nid, c in conns:
+        r = by_id.get(c.get("edgeId"))
+        p = preds.get((r or {}).get("predicate"))
+        if not p:
+            continue
+        if r["predicate"] in SYMMETRIC:
+            want = p["forward"]
+        else:
+            want = p["forward"] if r[r["subject"]] == nid else p["inverse"]
+        # the display rule, restated: a predicate is shown (label and arrow) only
+        # at high confidence, read from the side-car, not from edges.json's flag
+        if (side.get(r["id"]) or {}).get("confidence") != "high":
+            want = phrase[p["family"]]
+        if c.get("verb") != want or c.get("predicate") != r["predicate"]:
+            wrong_verb.append(f"{nid}:{r['id']}")
+    ck("every connection reads its predicate from its own side", wrong_verb[:5], [])
+
+    adj = json.load(open(os.path.join(ROOT, "data", "denial-adjudication.json"), encoding="utf-8"))
+    alias = json.load(open(os.path.join(ROOT, "research", "_removed.json"), encoding="utf-8")).get("alias") or {}
+    res = lambda i: alias.get(i, i)
+    denier_of = {}
+    for key, v in (adj.get("edges") or {}).items():
+        if v.get("denier"):
+            x, y = (res(i) for i in key.split("|"))
+            denier_of[frozenset((x, y))] = res(v["denier"])
+    wrong_den = []
+    for r in rows:
+        d = denier_of.get(frozenset((r["a"], r["b"])))
+        # a denier that is neither end (one verdict names the author of the document
+        # at one end) cannot be a subject; that edge is outside the rule
+        if (r.get("t") != "denial" or not d or r.get("predicate") not in DENIAL
+                or r["a"] == r["b"] or d not in (r["a"], r["b"])):
+            continue
+        if r[r["subject"]] != d:
+            wrong_den.append(r["id"])
+    ck("a denial predicate reads from the denier the adjudication names", wrong_den[:5], [])
+
+
 def main():
     b = json.load(open(BOARD, encoding="utf-8"))
     people, ents, edges = b["people"], b["entities"], b["edges"]
@@ -440,7 +542,7 @@ def main():
     verbs = {k: v for k, v in vocab["authoredVerbs"].items() if not k.startswith("_")}
     unmapped = set()
     for path in sorted(glob.glob(os.path.join(ROOT, "research", "*.json"))):
-        if os.path.basename(path) == "_edge_tiers.json":
+        if os.path.basename(path) in ("_edge_tiers.json", "_predicates.json"):
             continue
         for x in json.load(open(path, encoding="utf-8")).get("edges") or []:
             t = x.get("type") or x.get("rel")
@@ -453,6 +555,7 @@ def main():
        sum(1 for t in b.get("timeline", []) if "tier" in t), 0)
 
     topic_rules(vocab, nodes)
+    predicate_rules(vocab, b)
 
     # ---- report ---------------------------------------------------------------
     print("=" * 66)

@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-dc49dcfec5",
 "edgeLabel": "FAS publishes the only public series on how often the Act is used",
+"family": "media",
 "id": "invention-secrecy-act",
 "l0": false,
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used.",
+"predicate": "reported_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through media to"
 },
 {
 "claimTier": 1,
@@ -51,10 +56,14 @@
 "direction": "in",
 "edgeId": "e-19b9f88d5b",
 "edgeLabel": "FAS hosts the excerpts and the redacted FOIA budget justifications",
+"family": "custody",
 "id": "nip-fy2013-summary-disclosure",
 "l0": false,
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "note": "The FAS Intelligence Resource Program budget page indexes the FY2013 NIP Summary excerpts alongside redacted Congressional Budget Justifications for ODNI, NRO, NGA and the MIP. Attested by the page itself.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -63,7 +72,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -73,10 +83,14 @@
 "direction": "out",
 "edgeId": "e-425505c7ad",
 "edgeLabel": "2006 FOIA suit forced release of unclassified NRO budget records",
+"family": "oversight",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -85,7 +99,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "made a request of"
 },
 {
 "claimTier": 1,
@@ -95,10 +110,14 @@
 "direction": "in",
 "edgeId": "e-65ab0e5681",
 "edgeLabel": "Directed the Project on Government Secrecy 1991-2021",
+"family": "role",
 "id": "steven-aftergood",
 "l0": false,
 "label": "Steven Aftergood",
 "note": "Aftergood joined FAS in 1989 and directed the Project on Government Secrecy from 1991 to 2021. Attested by the FAS expert page.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -107,7 +126,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 }
 ],
 "coords": null,
@@ -149,7 +169,7 @@
 ],
 "sub": "Non-governmental organisation; litigant that forced the first intelligence budget disclosures",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 869 of 1138, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 866 of 1138, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

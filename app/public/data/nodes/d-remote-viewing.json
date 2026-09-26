@@ -36,10 +36,14 @@
 "direction": "out",
 "edgeId": "e-a0db407fb2",
 "edgeLabel": "Twenty-three years of federal funding",
+"family": "analysis",
 "id": "d-consciousness",
 "l0": false,
 "label": "Consciousness & Observer Effects",
 "note": "Star Gate is the documented precedent that the US government funds anomalous-cognition research; the consciousness domain inherits its personnel and its framing.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -48,7 +52,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -58,10 +63,14 @@
 "direction": "out",
 "edgeId": "e-77bd94a8fa",
 "edgeLabel": "Same investigators, later contract",
+"family": "analysis",
 "id": "d-paranormal",
 "l0": false,
 "label": "Anomalous Phenomena Adjacent to UAP",
 "note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2008-08-22",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

@@ -3,6 +3,7 @@
 "C": 1,
 "D": 1,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-a998f65146",
@@ -15,12 +16,6 @@
 "source": "DefenseScoop, 26 August 2024",
 "text": "Jon Kosloski, a senior NSA researcher, was named to lead AARO in August 2024.",
 "tier": 1
-},
-{
-"id": "c-bbb081c037",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -35,10 +30,14 @@
 "direction": "in",
 "edgeId": "e-209823571b",
 "edgeLabel": "NSA holdings and the FOIA wall",
+"family": "place-time",
 "id": "d-signals",
 "l0": false,
 "label": "Signals & Sensor Intelligence",
 "note": "The records at issue in CAUS v. NSA are held at Fort Meade, and AARO's current director came from the NSA research organisation based there.",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1981-11-03",
@@ -47,7 +46,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": [
@@ -104,7 +104,7 @@
 ],
 "sub": "Army installation; headquarters of NSA and US Cyber Command",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 731 of 1138, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 763 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D1.",
 "timeline": [],
 "unverified": []
 }

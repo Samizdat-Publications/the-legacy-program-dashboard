@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-56b8be0a95",
 "edgeLabel": "Front-page newspaper story about him, seven years before the claim",
+"family": "media",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', which was wrong: he is the subject of the article, not its author or its holder. Journalism about a person is typed investigative here. The article's description of him as a physicist is what he told the reporter, and the qualification travels with the edge.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1982-06-27",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-74247f9f9d",
 "edgeLabel": "The newspaper, the facility and the event are all in Los Alamos",
+"family": "place-time",
 "id": "l-los-alamos",
 "l0": false,
 "label": "Los Alamos, New Mexico",
 "note": "A local daily, naming the Los Alamos Meson Physics Facility.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1982-06-27",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-cb88b8efb2",
 "edgeLabel": "Holds the only openable copy of the article's text",
+"family": "custody",
 "id": "tom-mahood",
 "l0": false,
 "label": "Tom Mahood",
 "note": "GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1982-06-27",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "is held by"
 }
 ],
 "coords": null,
@@ -143,7 +158,7 @@
 ],
 "sub": "Terry England's front-page story on Lazar's jet-powered Honda, which describes him in the newspaper's own voice as a physicist at the Los Alamos Meson Physics Facility",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 980 of 1138, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 976 of 1138, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [
 {
 "claimTier": null,

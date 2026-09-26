@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-9197ec8041",
 "edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
+"family": "testimony",
 "id": "jaime-shandera",
 "l0": false,
 "label": "Jaime H. Shandera",
 "note": "Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.",
+"predicate": "alleged_tie",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-21",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-60090361d5",
 "edgeLabel": "Doty is the sole source for both NIS episodes recorded on this node",
+"family": "testimony",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Doty, a former AFOSI special agent, is the sole source for both NIS episodes recorded here, the Shandera handling and an NCIS role in the Kirtland contractor confrontation.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-21",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-7782380992",
 "edgeLabel": "Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5",
+"family": "organisation",
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "NCIS is a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1994-06-09",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,
@@ -149,7 +164,7 @@
 ],
 "sub": "Department of the Navy criminal investigative and counterintelligence organisation; title fixed in 32 CFR 701.5 on 9 June 1994",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 708 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 707 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

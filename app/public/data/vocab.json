@@ -292,7 +292,1179 @@
   "year",
   "ranged"
  ],
- "source": "8881f54ee80b",
+ "predicateFamilies": [
+  {
+   "blurb": "posts, leadership, membership, founding and working ties",
+   "id": "role",
+   "label": "Roles",
+   "phrase": "linked by a role to"
+  },
+  {
+   "blurb": "what is part of, runs, produces or succeeds what",
+   "id": "organisation",
+   "label": "Organisation",
+   "phrase": "linked organisationally to"
+  },
+  {
+   "blurb": "who paid or contracted whom",
+   "id": "money",
+   "label": "Money",
+   "phrase": "linked by money to"
+  },
+  {
+   "blurb": "who holds records or is said to hold material, and where it went",
+   "id": "custody",
+   "label": "Custody",
+   "phrase": "linked through custody to"
+  },
+  {
+   "blurb": "what created, governs, amended, implements or requires what",
+   "id": "law",
+   "label": "Law",
+   "phrase": "linked through law to"
+  },
+  {
+   "blurb": "who oversaw, investigated, questioned or asked whom, and who must report to whom",
+   "id": "oversight",
+   "label": "Oversight",
+   "phrase": "linked through oversight to"
+  },
+  {
+   "blurb": "who says what, and how an account reached the record",
+   "id": "testimony",
+   "label": "Testimony",
+   "phrase": "linked through testimony to"
+  },
+  {
+   "blurb": "who denied, refused, disputed, explained away or left out what",
+   "id": "denial",
+   "label": "Denials",
+   "phrase": "linked through a denial to"
+  },
+  {
+   "blurb": "who wrote, published, released, cites or studied what",
+   "id": "documents",
+   "label": "Documents",
+   "phrase": "linked through a document to"
+  },
+  {
+   "blurb": "who reported on, interviewed or appeared where",
+   "id": "media",
+   "label": "Media",
+   "phrase": "linked through media to"
+  },
+  {
+   "blurb": "where things are or happened, and what came before, led to or answered what",
+   "id": "place-time",
+   "label": "Place and time",
+   "phrase": "linked in place or time to"
+  },
+  {
+   "blurb": "action taken against someone, and contact between parties",
+   "id": "conduct",
+   "label": "Conduct",
+   "phrase": "linked through conduct to"
+  },
+  {
+   "blurb": "a link the board draws itself: an instance of a pattern, a parallel, a consequence",
+   "id": "analysis",
+   "label": "The board's reading",
+   "phrase": "linked in the board's reading to"
+  },
+  {
+   "blurb": "links no predicate here describes",
+   "id": "other",
+   "label": "Other links",
+   "phrase": "is connected to"
+  }
+ ],
+ "predicateRules": {
+  "_what": "Redesign phase 7 (notes/plans/P7-relationship-vocabulary.md). A predicate refines an edge: it says in a controlled verb what the edge's sentence says, and which end it reads from. research/_predicates.json carries one per edge id; build_app_data.py joins it onto each node's connections and onto edges.json. Predicates are presentation and navigation only: they never change a type, a tier or a source.",
+  "classes": "`subject` and `object` list the node classes a predicate allows at each end; \"any\" allows all eight. A domain node (class `domain`) is allowed at either end of every predicate: the 58 domain nodes are topic nodes, absorbed by topics in phase 5, and stand for whatever their topic is about.",
+  "denial": "Where data/denial-adjudication.json names a denier for an edge, a predicate of the `denial` family on that edge must have the denier as its subject.",
+  "display": "The page groups connections by FAMILY, the reliable unit (random-sample disagreement 14.9% at family level against 21.2% at predicate level; notes/plans/P7-classification-record.md). A predicate's own label, and its direction, are shown only where its confidence is high; otherwise the row reads the family's `phrase`, which has no direction. The edge's authored sentence is shown on every row either way.",
+  "fallback": "connected_to is for an edge whose sentence supports no predicate here. It refines no type, and verify.py holds it to at most 3% of edges.",
+  "refines": "Every predicate names the one edge type it refines. An edge may carry a predicate that refines another type when its sentence plainly says so; the edge's own type is never changed by that, and the crossings are listed in notes/plans/P7-classification-record.md for phase R.",
+  "subject": "`subject` in research/_predicates.json is `a` or `b`: the end the forward label reads from. Read from the other end, the inverse label applies.",
+  "symmetric": "A symmetric predicate reads the same from either end (forward equals inverse); its subject is recorded as `a`."
+ },
+ "predicates": [
+  {
+   "family": "role",
+   "forward": "held a post at",
+   "id": "held_post",
+   "inverse": "had in a post",
+   "object": [
+    "institution",
+    "program",
+    "location",
+    "document",
+    "event"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "person"
+   ],
+   "use": "employment, office, rank, command, a named role (director, principal investigator, co-host, officer), at any date"
+  },
+  {
+   "family": "role",
+   "forward": "led",
+   "id": "led",
+   "inverse": "was led by",
+   "object": [
+    "institution",
+    "program",
+    "event",
+    "location",
+    "document"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "headed, directed, chaired, commanded, managed as the one in charge"
+  },
+  {
+   "family": "role",
+   "forward": "appointed",
+   "id": "appointed",
+   "inverse": "was appointed by",
+   "object": [
+    "person"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "person",
+    "institution",
+    "legislation",
+    "document"
+   ],
+   "use": "named, appointed, nominated or confirmed someone to a post"
+  },
+  {
+   "family": "role",
+   "forward": "was a member of",
+   "id": "member_of",
+   "inverse": "had as a member",
+   "object": [
+    "institution",
+    "program",
+    "event"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "use": "a seat, a membership, a place on a board, panel, caucus, task force or committee"
+  },
+  {
+   "family": "role",
+   "forward": "founded",
+   "id": "founded",
+   "inverse": "was founded by",
+   "object": [
+    "institution",
+    "program",
+    "document"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "use": "founded, co-founded, stood up, formed (not by statute: that is created)"
+  },
+  {
+   "family": "role",
+   "forward": "worked with",
+   "id": "worked_with",
+   "inverse": "worked with",
+   "object": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "symmetric": true,
+   "use": "collaborators, partners, co-investigators, joint venturers, neither under the other"
+  },
+  {
+   "family": "organisation",
+   "forward": "is part of",
+   "id": "part_of",
+   "inverse": "includes",
+   "object": [
+    "institution",
+    "program",
+    "location",
+    "document",
+    "legislation",
+    "event"
+   ],
+   "refines": "institutional",
+   "subject": [
+    "institution",
+    "program",
+    "location",
+    "document",
+    "legislation",
+    "event"
+   ],
+   "use": "a unit of a parent body, a section of a statute, a volume or item of a series, a site within a larger site, a body placed under another, a company acquired by another"
+  },
+  {
+   "family": "organisation",
+   "forward": "falls outside",
+   "id": "outside_of",
+   "inverse": "does not include",
+   "object": "any",
+   "refines": "legislative",
+   "subject": "any",
+   "use": "a stated exclusion: the subject is not a member of, not covered by, or outside the reach of the object (a person outside a group, a body outside a statute's reach)"
+  },
+  {
+   "family": "organisation",
+   "forward": "succeeded",
+   "id": "succeeded",
+   "inverse": "was succeeded by",
+   "object": [
+    "institution",
+    "program",
+    "document",
+    "legislation",
+    "event"
+   ],
+   "refines": "programmatic",
+   "subject": [
+    "institution",
+    "program",
+    "document",
+    "legislation",
+    "event"
+   ],
+   "use": "the later body, programme or instrument that replaced, renamed, reissued or continued the earlier; the subject is the LATER one"
+  },
+  {
+   "family": "organisation",
+   "forward": "ran",
+   "id": "ran",
+   "inverse": "was run by",
+   "object": [
+    "institution",
+    "program",
+    "event",
+    "location"
+   ],
+   "refines": "programmatic",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "use": "operated, administered, managed or hosted a programme, facility, series or effort"
+  },
+  {
+   "family": "organisation",
+   "forward": "produced",
+   "id": "produced",
+   "inverse": "was produced by",
+   "object": [
+    "document",
+    "event",
+    "program"
+   ],
+   "refines": "programmatic",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "event",
+    "document"
+   ],
+   "use": "a programme's deliverables, a report a process produced, a tranche of a release programme, an outcome made by the subject"
+  },
+  {
+   "family": "organisation",
+   "forward": "is the same as",
+   "id": "same_as",
+   "inverse": "is the same as",
+   "object": "any",
+   "refines": "institutional",
+   "subject": "any",
+   "symmetric": true,
+   "use": "two names or records for one thing"
+  },
+  {
+   "family": "money",
+   "forward": "funded",
+   "id": "funded",
+   "inverse": "was funded by",
+   "object": [
+    "person",
+    "institution",
+    "program",
+    "event",
+    "document",
+    "location"
+   ],
+   "refines": "funding",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "legislation",
+    "document"
+   ],
+   "use": "paid for, appropriated, sponsored with money, granted"
+  },
+  {
+   "family": "money",
+   "forward": "contracted",
+   "id": "contracted",
+   "inverse": "was contracted by",
+   "object": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "refines": "funding",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "use": "awarded or let a contract, solicitation or agreement to; the subject is the buyer"
+  },
+  {
+   "family": "custody",
+   "forward": "holds",
+   "id": "holds",
+   "inverse": "is held by",
+   "object": [
+    "document",
+    "event",
+    "program",
+    "location",
+    "institution",
+    "person"
+   ],
+   "refines": "custody",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "location",
+    "document"
+   ],
+   "use": "documented custody of records, files, recordings or collections"
+  },
+  {
+   "family": "custody",
+   "forward": "is alleged to hold material from",
+   "id": "alleged_to_hold",
+   "inverse": "is alleged to have material held by",
+   "object": [
+    "program",
+    "event",
+    "document",
+    "location",
+    "institution"
+   ],
+   "refines": "custody",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "location",
+    "document",
+    "event"
+   ],
+   "use": "an allegation that the subject holds or held recovered or exotic material; the subject is the alleged holder"
+  },
+  {
+   "family": "custody",
+   "forward": "passed records or material to",
+   "id": "transferred",
+   "inverse": "received records or material from",
+   "object": [
+    "person",
+    "institution",
+    "location",
+    "program",
+    "document"
+   ],
+   "refines": "custody",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "event",
+    "location",
+    "document"
+   ],
+   "use": "handed on, moved, shipped, transferred holdings; the subject is the giver"
+  },
+  {
+   "family": "custody",
+   "forward": "analysed material from",
+   "id": "analysed_material",
+   "inverse": "had material analysed by",
+   "object": [
+    "event",
+    "program",
+    "document",
+    "location",
+    "institution"
+   ],
+   "refines": "investigative",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "use": "laboratory or technical analysis of physical specimens or sensor data"
+  },
+  {
+   "family": "law",
+   "forward": "created",
+   "id": "created",
+   "inverse": "was created by",
+   "object": [
+    "institution",
+    "program",
+    "legislation",
+    "document"
+   ],
+   "refines": "legislative",
+   "subject": [
+    "legislation",
+    "document",
+    "person",
+    "institution"
+   ],
+   "use": "established by statute, order, directive or decision; enacted"
+  },
+  {
+   "family": "law",
+   "forward": "governs",
+   "id": "governs",
+   "inverse": "is governed by",
+   "object": "any",
+   "refines": "legislative",
+   "subject": [
+    "legislation",
+    "document",
+    "institution",
+    "program"
+   ],
+   "use": "regulates, defines, codifies, restricts, exempts, conditions funding on, sets rules for"
+  },
+  {
+   "family": "law",
+   "forward": "amended",
+   "id": "amended",
+   "inverse": "was amended by",
+   "object": [
+    "legislation",
+    "document"
+   ],
+   "refines": "legislative",
+   "subject": [
+    "legislation",
+    "document"
+   ],
+   "use": "a later text changing an earlier one (a text that replaces another outright is succeeded)"
+  },
+  {
+   "family": "law",
+   "forward": "implements",
+   "id": "implements",
+   "inverse": "is implemented by",
+   "object": [
+    "legislation",
+    "document",
+    "program"
+   ],
+   "refines": "legislative",
+   "subject": [
+    "legislation",
+    "document",
+    "institution",
+    "program",
+    "person"
+   ],
+   "use": "a regulation, manual, instruction or office putting a higher instrument into effect"
+  },
+  {
+   "family": "law",
+   "forward": "requires",
+   "id": "mandated",
+   "inverse": "is required by",
+   "object": "any",
+   "refines": "legislative",
+   "subject": [
+    "legislation",
+    "document",
+    "institution"
+   ],
+   "use": "a statute or order requiring a report, review, briefing or action"
+  },
+  {
+   "family": "law",
+   "forward": "sponsored",
+   "id": "sponsored_law",
+   "inverse": "was sponsored by",
+   "object": [
+    "legislation",
+    "document"
+   ],
+   "refines": "legislative",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "sponsored, cosponsored or introduced a bill or amendment"
+  },
+  {
+   "family": "oversight",
+   "forward": "oversaw",
+   "id": "oversaw",
+   "inverse": "was overseen by",
+   "object": [
+    "institution",
+    "program",
+    "event",
+    "location",
+    "document"
+   ],
+   "refines": "legislative",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "use": "oversight authority over a body or programme; presided over, convened or forced a hearing"
+  },
+  {
+   "family": "oversight",
+   "forward": "investigated",
+   "id": "investigated",
+   "inverse": "was investigated by",
+   "object": "any",
+   "refines": "investigative",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document",
+    "event"
+   ],
+   "use": "examined, reviewed, audited, probed, searched records on"
+  },
+  {
+   "family": "oversight",
+   "forward": "questioned",
+   "id": "questioned",
+   "inverse": "was questioned by",
+   "object": [
+    "person",
+    "institution"
+   ],
+   "refines": "investigative",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "asked questions of a witness or official, typically at a hearing"
+  },
+  {
+   "family": "oversight",
+   "forward": "reports to",
+   "id": "reports_to",
+   "inverse": "receives reports from",
+   "object": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "refines": "legislative",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document",
+    "event"
+   ],
+   "use": "must notify, report to or brief; briefed; a report submitted to"
+  },
+  {
+   "family": "oversight",
+   "forward": "made a request of",
+   "id": "requested",
+   "inverse": "received a request from",
+   "object": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "refines": "investigative",
+   "subject": [
+    "person",
+    "institution",
+    "document"
+   ],
+   "use": "a letter, demand, FOIA request, referral or tasking addressed to the object"
+  },
+  {
+   "family": "testimony",
+   "forward": "testified at",
+   "id": "testified_at",
+   "inverse": "heard testimony from",
+   "object": [
+    "event",
+    "institution",
+    "document"
+   ],
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "a witness appearance, sworn or not, at a hearing or before a body"
+  },
+  {
+   "family": "testimony",
+   "forward": "gave a first-hand account of",
+   "id": "witnessed",
+   "inverse": "has a first-hand account from",
+   "object": [
+    "event",
+    "program",
+    "location",
+    "document"
+   ],
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "the subject says, or a record shows, they were present at, saw, handled or worked on the object"
+  },
+  {
+   "family": "testimony",
+   "forward": "made claims about",
+   "id": "made_claims_about",
+   "inverse": "is the subject of claims by",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document",
+    "event"
+   ],
+   "use": "asserted, alleged or named something about the object without first-hand presence"
+  },
+  {
+   "family": "testimony",
+   "forward": "corroborates",
+   "id": "corroborated",
+   "inverse": "is corroborated by",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution",
+    "document",
+    "event"
+   ],
+   "use": "supports another account or claim independently"
+  },
+  {
+   "family": "testimony",
+   "forward": "contradicts",
+   "id": "contradicts",
+   "inverse": "is contradicted by",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": "any",
+   "use": "an account, record or finding that conflicts with another; not a denial by an interested party"
+  },
+  {
+   "family": "testimony",
+   "forward": "brought to the record",
+   "id": "brought_to_record",
+   "inverse": "was brought to the record by",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution",
+    "document",
+    "event",
+    "program"
+   ],
+   "use": "entered, named, leaked, circulated or first made public an account, document or person"
+  },
+  {
+   "family": "testimony",
+   "forward": "passed an account to",
+   "id": "told",
+   "inverse": "received an account from",
+   "object": [
+    "person",
+    "institution"
+   ],
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "one person telling, showing or briefing another privately; a named source of someone else's account"
+  },
+  {
+   "family": "testimony",
+   "forward": "acknowledged",
+   "id": "acknowledged",
+   "inverse": "was acknowledged by",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution",
+    "document",
+    "program"
+   ],
+   "use": "an official or attributable statement confirming that the object exists, happened or is so (the counterpart of denied)"
+  },
+  {
+   "family": "testimony",
+   "forward": "is alleged to be tied to",
+   "id": "alleged_tie",
+   "inverse": "is alleged to be tied to",
+   "object": "any",
+   "refines": "witness-chain",
+   "subject": "any",
+   "symmetric": true,
+   "use": "an alleged connection between the two that the sentence does not specify further, asserted by someone other than either end"
+  },
+  {
+   "family": "denial",
+   "forward": "denied",
+   "id": "denied",
+   "inverse": "was denied by",
+   "object": "any",
+   "refines": "denial",
+   "subject": [
+    "person",
+    "institution",
+    "document",
+    "program",
+    "event"
+   ],
+   "use": "a dated, attributable statement that the object is not so, did not happen or does not exist; a retraction"
+  },
+  {
+   "family": "denial",
+   "forward": "refused",
+   "id": "refused",
+   "inverse": "was refused by",
+   "object": "any",
+   "refines": "denial",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document",
+    "event"
+   ],
+   "use": "declined, withheld, blocked or did not act on a request, a case or access"
+  },
+  {
+   "family": "denial",
+   "forward": "disputes",
+   "id": "disputed",
+   "inverse": "is disputed by",
+   "object": "any",
+   "refines": "denial",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document",
+    "event"
+   ],
+   "use": "argues against, rejects or finds wrong the object's claim or work"
+  },
+  {
+   "family": "denial",
+   "forward": "gave a conventional explanation for",
+   "id": "explained_away",
+   "inverse": "was given a conventional explanation by",
+   "object": "any",
+   "refines": "denial",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document",
+    "event"
+   ],
+   "use": "an official or skeptical explanation in prosaic terms (a balloon, a misidentification, a test)"
+  },
+  {
+   "family": "denial",
+   "forward": "leaves out",
+   "id": "omitted",
+   "inverse": "is left out of",
+   "object": "any",
+   "refines": "denial",
+   "subject": [
+    "document",
+    "institution",
+    "person",
+    "program",
+    "event"
+   ],
+   "use": "a report, review or response that does not mention or address the object"
+  },
+  {
+   "family": "documents",
+   "forward": "wrote",
+   "id": "wrote",
+   "inverse": "was written by",
+   "object": [
+    "document",
+    "legislation",
+    "program"
+   ],
+   "refines": "research",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "authored, signed, drafted, formulated, named inventor of"
+  },
+  {
+   "family": "documents",
+   "forward": "published",
+   "id": "published",
+   "inverse": "was published by",
+   "object": [
+    "document",
+    "event"
+   ],
+   "refines": "research",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "use": "issued or broadcast as its own publication"
+  },
+  {
+   "family": "documents",
+   "forward": "released",
+   "id": "released",
+   "inverse": "was released by",
+   "object": [
+    "document",
+    "event",
+    "program",
+    "institution",
+    "location"
+   ],
+   "refines": "custody",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "event"
+   ],
+   "use": "declassified, released under FOIA or a release programme, made public from holdings"
+  },
+  {
+   "family": "documents",
+   "forward": "concerns",
+   "id": "concerns",
+   "inverse": "is the subject of",
+   "object": "any",
+   "refines": "research",
+   "subject": [
+    "document",
+    "legislation",
+    "event"
+   ],
+   "use": "a document, record or event that is about, names or records the object, with no stronger relation stated"
+  },
+  {
+   "family": "documents",
+   "forward": "cites",
+   "id": "cites",
+   "inverse": "is cited by",
+   "object": "any",
+   "refines": "research",
+   "subject": [
+    "document",
+    "person",
+    "institution",
+    "legislation",
+    "program"
+   ],
+   "use": "refers to, quotes, relies on or incorporates by reference"
+  },
+  {
+   "family": "documents",
+   "forward": "studied",
+   "id": "studied",
+   "inverse": "was studied by",
+   "object": "any",
+   "refines": "research",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "use": "scientific or scholarly research on the object; a technical interest in it"
+  },
+  {
+   "family": "media",
+   "forward": "reported on",
+   "id": "reported_on",
+   "inverse": "was reported on by",
+   "object": "any",
+   "refines": "investigative",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "use": "journalism, broadcast coverage, an article or episode about the object"
+  },
+  {
+   "family": "media",
+   "forward": "appeared on",
+   "id": "appeared_on",
+   "inverse": "featured",
+   "object": [
+    "program",
+    "institution",
+    "event",
+    "document"
+   ],
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution"
+   ],
+   "use": "a guest or interviewee appearance on a programme, broadcast or channel"
+  },
+  {
+   "family": "media",
+   "forward": "interviewed",
+   "id": "interviewed",
+   "inverse": "was interviewed by",
+   "object": [
+    "person"
+   ],
+   "refines": "witness-chain",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "use": "conducted an interview with the object"
+  },
+  {
+   "family": "place-time",
+   "forward": "is located at",
+   "id": "located_at",
+   "inverse": "is the location of",
+   "object": [
+    "location",
+    "institution"
+   ],
+   "refines": "geographic",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "location",
+    "document"
+   ],
+   "use": "sited at, based at, headquartered at, lies within, was stationed at (a post held there is held_post)"
+  },
+  {
+   "family": "place-time",
+   "forward": "happened at",
+   "id": "occurred_at",
+   "inverse": "was the scene of",
+   "object": [
+    "location",
+    "institution"
+   ],
+   "refines": "geographic",
+   "subject": [
+    "event",
+    "program"
+   ],
+   "use": "where an event or incident took place"
+  },
+  {
+   "family": "place-time",
+   "forward": "came before",
+   "id": "preceded",
+   "inverse": "came after",
+   "object": "any",
+   "refines": "temporal",
+   "subject": "any",
+   "use": "a sequence in time with no causal link stated; the subject is the EARLIER one"
+  },
+  {
+   "family": "place-time",
+   "forward": "happened alongside",
+   "id": "concurrent_with",
+   "inverse": "happened alongside",
+   "object": "any",
+   "refines": "temporal",
+   "subject": "any",
+   "symmetric": true,
+   "use": "at the same time or in the same place, with no order or cause stated (co-occurrence, adjacency)"
+  },
+  {
+   "family": "place-time",
+   "forward": "led to",
+   "id": "led_to",
+   "inverse": "followed from",
+   "object": "any",
+   "refines": "temporal",
+   "subject": "any",
+   "use": "prompted, caused, triggered or resulted in"
+  },
+  {
+   "family": "place-time",
+   "forward": "responded to",
+   "id": "responded_to",
+   "inverse": "drew a response from",
+   "object": "any",
+   "refines": "temporal",
+   "subject": "any",
+   "use": "answered, acted on, rebutted in time (a rebuttal by an interested party is a denial predicate)"
+  },
+  {
+   "family": "conduct",
+   "forward": "supported",
+   "id": "supported",
+   "inverse": "was supported by",
+   "object": "any",
+   "refines": "behavioral",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "use": "backed, endorsed, advocated for or lobbied for something other than a bill it sponsored"
+  },
+  {
+   "family": "conduct",
+   "forward": "took action against",
+   "id": "acted_against",
+   "inverse": "was the target of action by",
+   "object": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "refines": "behavioral",
+   "subject": [
+    "person",
+    "institution",
+    "program",
+    "document"
+   ],
+   "use": "reprisal, removal, surveillance, disinformation or pressure directed at the object"
+  },
+  {
+   "family": "conduct",
+   "forward": "was in contact with",
+   "id": "in_contact_with",
+   "inverse": "was in contact with",
+   "object": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "refines": "behavioral",
+   "subject": [
+    "person",
+    "institution",
+    "program"
+   ],
+   "symmetric": true,
+   "use": "documented meetings, correspondence or dealings between parties"
+  },
+  {
+   "family": "analysis",
+   "forward": "is an instance of",
+   "id": "exemplifies",
+   "inverse": "has as an instance",
+   "object": "any",
+   "refines": "institutional",
+   "subject": "any",
+   "use": "the board places the subject as a case of a mechanism, pattern or domain (most edges to domain nodes)"
+  },
+  {
+   "family": "analysis",
+   "forward": "parallels",
+   "id": "parallels",
+   "inverse": "parallels",
+   "object": "any",
+   "refines": "research",
+   "subject": "any",
+   "symmetric": true,
+   "use": "the board compares two things: a like case, a pattern repeated, or opposite answers to one problem"
+  },
+  {
+   "family": "analysis",
+   "forward": "affects",
+   "id": "affects",
+   "inverse": "is affected by",
+   "object": "any",
+   "refines": "temporal",
+   "subject": "any",
+   "use": "the board's inference that the subject has consequences for, constrains or bears on the object"
+  },
+  {
+   "family": "other",
+   "forward": "is connected to",
+   "id": "connected_to",
+   "inverse": "is connected to",
+   "object": "any",
+   "refines": null,
+   "subject": "any",
+   "symmetric": true,
+   "use": "ONLY when no predicate above fits the sentence"
+  }
+ ],
+ "source": "f38a9d3ce56d",
  "strandAliases": {
   "_what": "Authored timeline strands the timeline does not draw a lane for. Until phase 3 these became `program` in silence; the mapping is now declared, and the event keeps what was written as `authoredStrand`. An authored strand in neither list is a REJECT.",
   "disclosure": "program",

@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-c7d081dc1a",
 "edgeLabel": "DoD policy narrows waived-SAP access to chairs, ranking members and staff directors",
+"family": "law",
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "DoDD 5205.07 (2010) para 4.f limits access to waived SAPs, absent SecDef or DepSecDef approval, to the chair, ranking minority member and staff directors of the defense and intelligence committees.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-08-31",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is governed by"
 },
 {
 "claimTier": 3,
@@ -81,10 +86,14 @@
 "direction": "in",
 "edgeId": "e-a5b0ba5ba9",
 "edgeLabel": "An urgent concern complaint enters a system whose SAP layer is itself compartmented",
+"family": "analysis",
 "id": "grusch-icig-complaint",
 "l0": false,
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The ICIG PPD-19 route reaches the intelligence committees, but access to waived DoD programs is restricted by DoDD 5205.07 (2010) para 4.f to chairs, ranking members and staff directors.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -93,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -103,10 +113,14 @@
 "direction": "out",
 "edgeId": "e-a7c0d8745e",
 "edgeLabel": "The waived-SAP notification convention mirrors, but is weaker than, the covert action rule",
+"family": "analysis",
 "id": "usc-10-119e",
 "l0": false,
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(2) reaches chairs and ranking members of the defense committees with no 180-day widening requirement; 50 U.S.C. 3093(c)(5)(B) requires reconsideration of limited access within 180 days.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -120,7 +134,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -130,10 +145,14 @@
 "direction": "out",
 "edgeId": "e-fb31068dde",
 "edgeLabel": "The statutory Gang of Eight is a covert action construct, not a SAP construct",
+"family": "law",
 "id": "usc-50-3093",
 "l0": false,
 "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "50 U.S.C. 3093(c)(2) names the four committee leaders and four chamber leaders to whom a finding may be limited; no SAP statute uses that group.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -142,7 +161,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 }
 ],
 "coords": null,

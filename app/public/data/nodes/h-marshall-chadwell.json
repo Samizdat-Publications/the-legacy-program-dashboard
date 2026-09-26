@@ -78,10 +78,14 @@
 "direction": "out",
 "edgeId": "e-b71d955bc1",
 "edgeLabel": "Assistant Director for Scientific Intelligence who drove the CIA's 1952-53 UFO effort",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Chadwell's OSI memoranda are the internal record of CIA's decision to treat the subject as a security and public-opinion problem.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -90,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -100,10 +105,14 @@
 "direction": "out",
 "edgeId": "e-a04a01d84a",
 "edgeLabel": "Chadwell assembled the panel with Robertson",
+"family": "role",
 "id": "robertson-panel",
 "l0": true,
 "label": "Robertson Panel",
 "note": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -112,7 +121,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 },
 {
 "claimTier": 1,
@@ -122,10 +132,14 @@
 "direction": "out",
 "edgeId": "e-fff68adc9a",
 "edgeLabel": "Chadwell's UFO memoranda were addressed to him and named him as approving authority",
+"family": "oversight",
 "id": "walter-bedell-smith",
 "l0": false,
 "label": "Walter Bedell Smith",
 "note": "Both the 2 October and 2 December 1952 memoranda are addressed to the Director of Central Intelligence through the Deputy Director for Intelligence, and the October routing page names Walter B. Smith as the approving authority on the Psychological Strategy Board recommendation.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1952-10-02",
@@ -139,7 +153,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -149,10 +164,14 @@
 "direction": "in",
 "edgeId": "e-771646ed71",
 "edgeLabel": "The flap put the CIA's science directorate onto the problem",
+"family": "oversight",
 "id": "washington-flap-1952",
 "l0": false,
 "label": "1952 Washington DC Sightings",
 "note": "Within weeks of the July 1952 sightings Chadwell was writing to the DCI that reports totalled 250 in July alone and that the situation carried national security implications.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1952-09-11",
@@ -161,7 +180,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 }
 ],
 "date": "1952-12-02",
@@ -211,7 +231,7 @@
 "status": "dead",
 "sub": "Assistant Director, CIA Office of Scientific Intelligence",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 544 of 1138, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 543 of 1138, score 29). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

@@ -82,10 +82,14 @@
 "direction": "out",
 "edgeId": "e-526824cfe2",
 "edgeLabel": "gave the hospital custody account to members of Congress",
+"family": "testimony",
 "id": "ev-varginha-capitol-2026",
 "l0": false,
 "label": "Varginha witnesses on Capitol Hill and at the National Press Club, 15 and 20 January 2026",
 "note": "Kean and Blumenthal had sole media access to the closed-door session and reported his testimony verbatim.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -94,7 +98,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": "2026-01-20",
@@ -144,7 +149,7 @@
 "status": "active",
 "sub": "Neurosurgeon, Varginha Regional Hospital; Varginha custody witness",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 545 of 1138, score 29). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 544 of 1138, score 29). 1 connections, 0 of them custody/funding/programmatic. Axes C3/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

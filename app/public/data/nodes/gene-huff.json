@@ -44,10 +44,14 @@
 "direction": "out",
 "edgeId": "e-e024977f25",
 "edgeLabel": "Writer and co-producer of the 1991 videotape for Tri-Dot Productions",
+"family": "documents",
 "id": "lazar-tape-1991",
 "l0": false,
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling. This is the edge that makes Huff structurally important rather than merely a witness: he is the publisher of the cluster's primary artefact.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1991",
@@ -56,7 +60,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -66,10 +71,14 @@
 "direction": "out",
 "edgeId": "e-f5e1399143",
 "edgeLabel": "Witness to the 1989 desert lights, not to the claimed facility",
+"family": "testimony",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "THE LABEL MUST STAY PRECISE. Huff's first-hand claim is about lights seen from Tikaboo Valley on three Wednesdays in 1989, on 22 March, 29 March and 5 April, the last ending in the group's detention by the Lincoln County Sheriff. He never claims to have been inside anything.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-03-12",
@@ -78,7 +87,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": null,
@@ -129,7 +139,7 @@
 "status": "alive",
 "sub": "Las Vegas real-estate appraiser; Lazar's friend from 1985; witness at all three 1989 desert viewings; writer and co-producer of the 1991 videotape",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 940 of 1138, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 939 of 1138, score 16). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

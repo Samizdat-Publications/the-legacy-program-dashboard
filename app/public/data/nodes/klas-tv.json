@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-46b9a6871e",
 "edgeLabel": "Knapp's Russian MoD documents handed to BAASS/DIA for AAWSAP analysis",
+"family": "testimony",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Knapp's custody allegation, made under oath: 'I have confirmed on the record that Robert Bigelow and a trusted colleague from AAWSAP met with and negotiated with senior executives at Lockheed Martin and hammered out a deal wherein Bigelow's company, BAASS, would receive a quantity of unusual material that had been stashed away and protected at a facility in California. That material was not made here.' On the Russia files he testified that he obtained documents and interviews from Soviet defence officials in the early 1990s and has 'now shared with this Task Force' - the printed hearing carries no statement that he shared them with BAASS or the DIA, which is why this is tier 2. It is an allegation by a named witness, not a documented transfer.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -56,10 +61,14 @@
 "direction": "out",
 "edgeId": "e-490189dc86",
 "edgeLabel": "four decades of the record produced from a single local affiliate",
+"family": "analysis",
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "KLAS-TV is where George Knapp has anchored and reported since 1981, where the Bob Lazar interviews aired in 1989, and the institutional capacity in which he testified before the House Oversight Task Force on 9 September 2025. A local CBS affiliate in a desert market holding a national investigative record for forty years is a structural fact about the substrate, not a curiosity.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -73,7 +82,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -83,10 +93,14 @@
 "direction": "out",
 "edgeId": "e-6aefd1a019",
 "edgeLabel": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
+"family": "place-time",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -100,7 +114,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -110,10 +125,14 @@
 "direction": "out",
 "edgeId": "e-3b995b6c32",
 "edgeLabel": "Knapp testified as KLAS-TV chief investigative reporter",
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -127,7 +146,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -137,10 +157,14 @@
 "direction": "out",
 "edgeId": "e-341424584a",
 "edgeLabel": "Knapp co-authored two books with the AAWSAP originator",
+"family": "role",
 "id": "james-lacatski",
 "l0": false,
 "label": "James T. Lacatski",
 "note": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -154,7 +178,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -164,10 +189,14 @@
 "direction": "out",
 "edgeId": "e-203404d18c",
 "edgeLabel": "Its own broadcasts",
+"family": "documents",
 "id": "klas-lazar-broadcasts-1989",
 "l0": false,
 "label": "The KLAS-TV Lazar broadcasts, 1989",
 "note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-06-19",
@@ -176,7 +205,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 }
 ],
 "coords": null,

@@ -32,10 +32,14 @@
 "direction": "out",
 "edgeId": "e-d8c412038c",
 "edgeLabel": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -54,7 +58,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2023-01-03",
@@ -105,7 +110,7 @@
 "status": "active",
 "sub": "Vice Chair, Senate Appropriations Committee (119th Congress, serving August 2026); Chairman of that committee in the 118th Congress including 2023",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 703 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 702 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

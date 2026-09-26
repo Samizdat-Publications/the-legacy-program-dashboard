@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-4877ec3762",
 "edgeLabel": "Multi-night unattributed swarms against destroyers in the SoCal operating areas",
+"family": "place-time",
 "id": "kidd-russell-2019",
 "l0": false,
 "label": "July 2019 Drone Swarms, USS Kidd / USS Russell and CSG ships off California",
 "note": "Deck logs from USS Kidd, Rafael Peralta, Russell and John Finn, obtained under FOIA and cross-checked against AIS tracking, document the July 2019 events.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-23",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-5f8cf9740d",
 "edgeLabel": "The encounters occurred in the Southern California operating areas",
+"family": "place-time",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The Nimitz Carrier Strike Group was working up in the W-291 warning area and Baja approaches when Princeton began holding the tracks.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 },
 {
 "claimTier": 2,
@@ -84,10 +94,14 @@
 "direction": "out",
 "edgeId": "e-9b6ec7ac36",
 "edgeLabel": "W-291 encounter occurred in the same operating-area complex",
+"family": "place-time",
 "id": "uss-jackson-2023",
 "l0": false,
 "label": "USS Jackson (LCS-6) Encounter, 15 February 2023",
 "note": "Wiggins's statement places the event in Warning Area W-291 off Southern California.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -96,7 +110,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was the scene of"
 }
 ],
 "coords": null,
@@ -143,7 +158,7 @@
 ],
 "sub": "US Navy warning areas, Pacific",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 769 of 1138, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 767 of 1138, score 22). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }

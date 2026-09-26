@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-081b48d000",
 "edgeLabel": "A FOIA request that defeated a records-destruction order",
+"family": "analysis",
 "id": "d-foia",
 "l0": false,
 "label": "Freedom of Information Practice",
 "note": "The Senate's own framing is that one individual, through a Freedom of Information request, accomplished what two Senate committees could not.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-08-03",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-ecbd1ca66a",
 "edgeLabel": "The FOIA request that caused the recovery of the surviving MKULTRA file",
+"family": "testimony",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-06-22",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-08b8a6f2de",
 "edgeLabel": "CIA advised to notify the Senate Select Committee before the requester's attorneys",
+"family": "oversight",
 "id": "senate-intelligence",
 "l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "The 22 June 1977 memorandum's second recommended action is to inform the Senate Select Committee of the recently located records prior to informing Mr. Marks' attorneys; the joint hearing followed on 3 August.",
+"predicate": "reports_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1977-06-22",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through oversight to"
 }
 ],
 "coords": null,
@@ -145,7 +160,7 @@
 ],
 "sub": "The FOIA request and litigation that caused CIA to search the Retired Records Center in 1977 and find seven boxes the 1973 destruction order had missed",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 735 of 1138, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 734 of 1138, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

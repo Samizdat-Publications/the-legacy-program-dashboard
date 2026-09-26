@@ -60,10 +60,14 @@
 "direction": "in",
 "edgeId": "e-fe7fe85868",
 "edgeLabel": "ACCM applies 'where SAP controls are not required' and is named in no reporting statute",
+"family": "organisation",
 "id": "accm",
 "l0": false,
 "label": "Alternative Compensatory Control Measures (ACCM)",
 "note": "",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -72,7 +76,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -82,10 +87,14 @@
 "direction": "in",
 "edgeId": "e-02914ce5fc",
 "edgeLabel": "",
+"family": "organisation",
 "id": "accm",
 "l0": false,
 "label": "Alternative Compensatory Control Measures (ACCM)",
 "note": "ACCM is the hole in the map. 32 CFR 117.23 places it in the same regulated set as SAPs, SCI, RD, FRD, TFNI and NNPI, and names it first in the heading - but it is the only member of that set with no reporting statute attached. 10 U.S.C. 119, 50 U.S.C. 2426, 3348 and 3091a each key on 'special access program' or 'controlled access program'. A measure that is neither falls outside all four.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -99,7 +108,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -109,10 +119,14 @@
 "direction": "out",
 "edgeId": "e-238537a140",
 "edgeLabel": "DoD regime: weakest waiver of the four",
+"family": "analysis",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "10 U.S.C. 119(e)(2) narrows waived reporting to the chairman and ranking minority member of each defense committee.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -121,7 +135,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -131,10 +146,14 @@
 "direction": "out",
 "edgeId": "e-6c54f480fa",
 "edgeLabel": "NNSA regime: the only waiver that reaches the 30-day report-and-wait",
+"family": "analysis",
 "id": "usc-50-2426",
 "l0": false,
 "label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "50 U.S.C. 2426(e)(1) expressly permits the Administrator to waive the report-and-wait requirement of subsection (f); 10 U.S.C. 119(e) does not.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -148,7 +167,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -158,10 +178,14 @@
 "direction": "in",
 "edgeId": "e-c5e8524143",
 "edgeLabel": "The anti-withholding rule does not reach DoD special access programs",
+"family": "analysis",
 "id": "usc-50-3091",
 "l0": false,
 "label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "note": "50 U.S.C. 3091(e) bars withholding from the intelligence committees on classification grounds, but binds only as to 'intelligence activities' and only for those committees, leaving DoD acquisition and operations and support SAPs outside it.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -170,7 +194,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -180,10 +205,14 @@
 "direction": "in",
 "edgeId": "e-18672cbcbe",
 "edgeLabel": "The IC regime is the only one with no waiver and a funding cutoff",
+"family": "analysis",
 "id": "usc-50-3091a",
 "l0": false,
 "label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "50 U.S.C. 3091a contains no waiver authority; subsection (c), added 23 December 2024, bars obligation of NIP funds until notification is submitted.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -197,7 +226,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -207,10 +237,14 @@
 "direction": "out",
 "edgeId": "e-6a8657a83c",
 "edgeLabel": "All other agencies: reporting runs to House Oversight and Senate Homeland Security",
+"family": "analysis",
 "id": "usc-50-3348",
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(1) names the House Committee on Oversight and Government Reform and the Senate Committee on Homeland Security and Governmental Affairs among the congressional oversight committees.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -219,7 +253,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "has as an instance"
 }
 ],
 "coords": null,

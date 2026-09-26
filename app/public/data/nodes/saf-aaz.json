@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-9143331ff1",
@@ -39,12 +40,6 @@
 "source": "Inference from AFI 16-701",
 "text": "Placing SAP access approval and SAP declassification authority in the same office means the decision to disclose a programme is made by the official whose institutional interest is in the programme's continued protection. Reasoning: directly from the two responsibilities assigned in AFI 16-701 paras. 2.1.2.4 and 2.1.2.7.",
 "tier": 3
-},
-{
-"id": "c-bec9a7c609",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "institution",
@@ -59,10 +54,14 @@
 "direction": "out",
 "edgeId": "e-c2aa522a6a",
 "edgeLabel": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
+"family": "organisation",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "SAF/AAZ is the Air Force Special Access Program Central Office. Under AFPD 16-7 it administers Air Force SAPs on behalf of the Secretary of the Air Force while release of SAP material outside the department requires DoD SAPCO approval, placing SAF/AAZ inside the OSD-level special access architecture.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2014-02-18",
@@ -81,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -91,10 +91,14 @@
 "direction": "out",
 "edgeId": "e-40a47828ba",
 "edgeLabel": "Air Force SAP directive bars congressional briefings without SAPCO approval",
+"family": "law",
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2014-02-18",
@@ -113,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through law to"
 }
 ],
 "coords": null,
@@ -157,7 +162,7 @@
 ],
 "sub": "USAF secretariat office",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 861 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 885 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

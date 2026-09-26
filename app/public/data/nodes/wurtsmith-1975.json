@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-f9137f2573",
 "edgeLabel": "The wing historian's file recovering an event his own wing history omitted",
+"family": "documents",
 "id": "doc-wurtsmith-historian-1979",
 "l0": false,
 "label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
 "note": "Cahill's Research Record of Events of 17 January 1979 and Taylor's Memo for the Record of 18 January 1979.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1979-01-18",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-5ff4a63b97",
 "edgeLabel": "The incursion was over this installation's weapons storage area",
+"family": "place-time",
 "id": "l-wurtsmith",
 "l0": false,
 "label": "Wurtsmith AFB, Michigan",
 "note": "The NORAD Senior Director's Log names Wurtsmith AFB weapons storage area.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1979-01-18",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -90,10 +100,14 @@
 "direction": "out",
 "edgeId": "e-cc21f9b07d",
 "edgeLabel": "Second episode of the sequence, three days after Loring",
+"family": "organisation",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CINCNORAD's message names Wurtsmith AFB, Michigan among the five installations.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-11",
@@ -102,7 +116,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "is part of"
 }
 ],
 "coords": null,

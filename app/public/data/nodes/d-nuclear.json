@@ -54,10 +54,14 @@
 "direction": "in",
 "edgeId": "e-f57dd7ab57",
 "edgeLabel": "The statutory definition of Restricted Data",
+"family": "analysis",
 "id": "atomic-energy-act-1954",
 "l0": false,
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "note": "42 U.S.C. 2014(y), enacted as section 11 r.: all data concerning design, manufacture or utilization of atomic weapons, the production of special nuclear material, or the use of special nuclear material in the production of energy, less whatever has been declassified under the statutory procedure.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -66,7 +70,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -76,10 +81,14 @@
 "direction": "in",
 "edgeId": "e-2ff0ba4817",
 "edgeLabel": "A dated, documented high-altitude nuclear test",
+"family": "analysis",
 "id": "bluegill-triple-prime",
 "l0": false,
 "label": "Bluegill Triple Prime",
 "note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1983-02-01",
@@ -88,7 +97,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -98,10 +108,14 @@
 "direction": "in",
 "edgeId": "e-64eb3dfb37",
 "edgeLabel": "Phenomenon and the security regime around it",
+"family": "law",
 "id": "d-nuc",
 "l0": false,
 "label": "Nuclear Weapons Complex Nexus",
 "note": "The sites where the correlation is strongest are governed by the Restricted Data regime rather than by DoD classification, which routes any resulting analysis outside the SAP framework.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-03-07",
@@ -110,7 +124,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 }
 ],
 "coords": null,

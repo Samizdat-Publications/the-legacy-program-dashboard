@@ -3,14 +3,8 @@
 "C": 1,
 "D": 1,
 "band": null,
-"claims": [
-{
-"id": "c-e64457051d",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-}
-],
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"claims": [],
 "cls": "location",
 "cluster": "other",
 "conflicts": [],
@@ -23,10 +17,14 @@
 "direction": "in",
 "edgeId": "e-5173ffb477",
 "edgeLabel": "run from Moscow: Kremlin decision, MoD institute, IZMIRAN",
+"family": "place-time",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "The founding Scientific and Technical Council meeting of the Military-Industrial Commission was held in the Kremlin in October 1977; the lead military executor was 'one of the central military research institutes in the Moscow region'; and the academic branch was run from IZMIRAN, also in the Moscow region.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -35,7 +33,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 }
 ],
 "coords": [
@@ -81,7 +80,7 @@
 ],
 "sub": "Capital of Russia; seat of the Soviet-era Setka programme",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1081 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1103 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unverified": []
 }

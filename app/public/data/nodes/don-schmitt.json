@@ -53,10 +53,14 @@
 "direction": "in",
 "edgeId": "e-c3b4efeb70",
 "edgeLabel": "Co-authors of the two Roswell books, later estranged",
+"family": "role",
 "id": "kevin-randle",
 "l0": false,
 "label": "Kevin D. Randle",
 "note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1994-01-01",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -75,10 +80,14 @@
 "direction": "in",
 "edgeId": "e-bd781c8cb0",
 "edgeLabel": "Schmitt drafted and embargoed the 2002 Haut affidavit",
+"family": "testimony",
 "id": "walter-haut",
 "l0": false,
 "label": "Walter Haut",
 "note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
+"predicate": "told",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": "2007-01-01",
@@ -136,7 +146,7 @@
 "status": "active",
 "sub": "Former co-director of special investigations, J. Allen Hynek Center for UFO Studies; Roswell co-author",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1090 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1086 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

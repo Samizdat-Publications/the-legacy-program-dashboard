@@ -43,10 +43,14 @@
 "direction": "out",
 "edgeId": "e-a24b387b7d",
 "edgeLabel": "Held simultaneously the HASC and HPSCI seats that constitute the read-in tier Oversight was excluded from",
+"family": "analysis",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Reasoning: Luna's 2025 statement identifies HASC and HAC-D membership as the read-in gate; Gallagher held HASC and HPSCI through the 118th Congress and chaired a select committee. Whether he was ever read in on UAP SAPs is unresolved and is a live research question.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -55,7 +59,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 }
 ],
 "date": "2024-04-19",
@@ -98,7 +103,7 @@
 "status": "former",
 "sub": "Former U.S. Rep. (R-WI-8); Chair, Select Committee on the CCP; resigned April 2024",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1082 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1078 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

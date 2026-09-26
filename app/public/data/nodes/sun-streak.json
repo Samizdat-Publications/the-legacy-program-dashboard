@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-832f8bc50a",
 "edgeLabel": "DIA sponsored the remote-viewing effort 1986-1995",
+"family": "money",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA's prior experience running an unacknowledged programme in a ridiculed domain is the institutional precedent for its 2008 AAWSAP contract.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-12-16",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was funded by"
 },
 {
 "claimTier": 1,
@@ -56,10 +61,14 @@
 "direction": "out",
 "edgeId": "e-d616860509",
 "edgeLabel": "SUN STREAK became STARGATE, terminated 1995",
+"family": "organisation",
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "CIA compiled and released roughly 12,000 pages of the programme record in 1995 after the American Institutes for Research evaluation.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-12-16",
@@ -68,7 +77,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was succeeded by"
 }
 ],
 "coords": null,
@@ -110,7 +120,7 @@
 ],
 "sub": "DIA remote-viewing program, 1986-1991",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 736 of 1138, score 23). 2 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 735 of 1138, score 23). 2 connections, 2 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
 "claimTier": null,

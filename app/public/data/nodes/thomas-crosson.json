@@ -34,10 +34,14 @@
 "direction": "out",
 "edgeId": "e-c655111201",
 "edgeLabel": "Confirmed the program existed and was shut down in 2012",
+"family": "testimony",
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "The Department's original December 2017 position was acknowledgement with a budgetary rationale — 'other, higher priority issues that merit' the funding — not denial.",
+"predicate": "acknowledged",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "acknowledged"
 }
 ],
 "date": "2017-12-16",

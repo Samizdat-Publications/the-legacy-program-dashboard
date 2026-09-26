@@ -194,10 +194,14 @@
 "direction": "out",
 "edgeId": "e-78ceff23b1",
 "edgeLabel": "Established publicly that the FY2025 report was released months late",
+"family": "media",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The Black Vault, not the Department, documented that the statutory annual report missed its cadence, and hosts the working public copy.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -211,7 +215,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "reported on"
 },
 {
 "claimTier": 1,
@@ -221,10 +226,14 @@
 "direction": "out",
 "edgeId": "e-c5c5c63494",
 "edgeLabel": "Hosts the working public mirror of Volume I",
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The Black Vault copy is the version cited across published UAP research, alongside the defense.gov original.",
+"predicate": "published",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -238,7 +247,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -248,10 +258,14 @@
 "direction": "out",
 "edgeId": "e-94a53da296",
 "edgeLabel": "one private FOIA operation supplies the documentary base the rest of the substrate runs on",
+"family": "analysis",
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "Greenewald has filed FOIA requests since 1996 and published well over two million pages through The Black Vault, including the OSD/JS 18-F-0324 release that anchors much of the AATIP record. The fact that the primary-document layer of this subject is held by a private individual rather than an institution is itself the domain's argument.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-08-17",
@@ -265,7 +279,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -275,10 +290,14 @@
 "direction": "in",
 "edgeId": "e-7680c03d87",
 "edgeLabel": "Requester of the 9 May 2001 FOIA that produced the release",
+"family": "testimony",
 "id": "doc-341-smw-history-1967",
 "l0": false,
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-06-14",
@@ -287,7 +306,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -297,10 +317,14 @@
 "direction": "out",
 "edgeId": "e-e84d8ea2bb",
 "edgeLabel": "FOIA requester of record",
+"family": "oversight",
 "id": "dodig-2021-000806-foia",
 "l0": false,
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
 "note": "The fourth interim release of five pages, with approximately 245 pages still pending, shows the Department withholding its own UAP evaluation methodology.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-16",
@@ -309,7 +333,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "made a request of"
 },
 {
 "claimTier": 2,
@@ -319,10 +344,14 @@
 "direction": "out",
 "edgeId": "e-6bc30259df",
 "edgeLabel": "Traced the cluster's best-known physical 'evidence' to a 2000 feature film",
+"family": "oversight",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "The photograph circulated for years as leaked proof from inside the facility is a frame from The 6th Day. The identification is checkable by anyone against the film; the surrounding negative, that he found no evidence Castello exists, is Tier 2.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-04-01",
@@ -331,7 +360,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -341,10 +371,14 @@
 "direction": "out",
 "edgeId": "e-7cf1a44ac7",
 "edgeLabel": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
+"family": "oversight",
 "id": "enigma-labs",
 "l0": false,
 "label": "Enigma Labs",
 "note": "The Black Vault filed the request in January 2023 and it was finalized on 3 July 2025, which makes Greenewald's FOIA practice the origin point for public knowledge that AARO and Enigma Labs were in contact at all. He is appealing the redactions. The relationship here is that of requester to subject: nothing in the release suggests any other tie.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-07-03",
@@ -358,7 +392,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -368,10 +403,14 @@
 "direction": "out",
 "edgeId": "e-0db20c6da4",
 "edgeLabel": "Requested 17 Dec 2017; final response 17 Aug 2022",
+"family": "oversight",
 "id": "foia-18-f-0324",
 "l0": false,
 "label": "OSD/JS FOIA Case 18-F-0324",
 "note": "Four years and eight months to release eight pages describing an employee's resignation, during which the Department repeatedly characterised that employee in public.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-08-17",
@@ -380,7 +419,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "made a request of"
 },
 {
 "claimTier": 1,
@@ -390,10 +430,14 @@
 "direction": "in",
 "edgeId": "e-46c23b6f8b",
 "edgeLabel": "Released to The Black Vault under DoD FOIA case 97-F-1677",
+"family": "testimony",
 "id": "halt-memo",
 "l0": false,
 "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
 "note": "The Office of the Assistant Secretary of Defense, Freedom of Information and Security Review Office released the memo in September 1997 under case 97-F-1677.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-11-11",
@@ -402,7 +446,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -412,10 +457,14 @@
 "direction": "out",
 "edgeId": "e-1a96f85ad5",
 "edgeLabel": "Requester and locator of the National Archives file",
+"family": "testimony",
 "id": "jal-1628-1986",
 "l0": false,
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "In his own words on the archive: '17 YEARS after being told the documents relating to this event were destroyed, I finally found them!'",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -424,7 +473,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -434,10 +484,14 @@
 "direction": "in",
 "edgeId": "e-2501ad2c53",
 "edgeLabel": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
+"family": "testimony",
 "id": "sac-overflights-1975",
 "l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-11-08",
@@ -451,7 +505,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -461,10 +516,14 @@
 "direction": "out",
 "edgeId": "e-cf5d21dbe0",
 "edgeLabel": "Recipient of the 13 June 2019 and 6 December 2019 statements",
+"family": "testimony",
 "id": "susan-gough",
 "l0": false,
 "label": "Susan Gough",
 "note": "Both of the Department's pivotal statements were issued to a FOIA requester rather than at a podium.",
+"predicate": "told",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-12-06",
@@ -473,7 +532,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "received an account from"
 },
 {
 "claimTier": 1,
@@ -483,10 +543,14 @@
 "direction": "in",
 "edgeId": "e-af45421874",
 "edgeLabel": "Requester of the 1996 FOIA that produced the release",
+"family": "testimony",
 "id": "tehran-f4-intercept-1976",
 "l0": false,
 "label": "Imperial Iranian Air Force F-4 intercepts, Tehran, 19-20 September 1976",
 "note": "Greenewald's FOIA request of 11 August 1996 produced the release, and DIA's response to him is the record of how much DIA holds.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1976-09-23",
@@ -495,7 +559,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -505,10 +570,14 @@
 "direction": "out",
 "edgeId": "e-cbcc74c6a8",
 "edgeLabel": "Founder and operator of the archive that produced the primary record",
+"family": "role",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "Nearly every document in this domain arrived through his requests.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -517,7 +586,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 },
 {
 "claimTier": 2,
@@ -527,10 +597,14 @@
 "direction": "out",
 "edgeId": "e-8e00517764",
 "edgeLabel": "'There is no evidence that I have found, that shows that Thomas Costello even exists'",
+"family": "oversight",
 "id": "thomas-castello",
 "l0": false,
 "label": "Thomas Edwin Castello (fabricated)",
 "note": "A named researcher's published negative, dated, and consistent with the confession obtained independently by Gorightly. Note the Costello spelling, which is how the viral posts carry the name.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-04-01",
@@ -539,7 +613,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -549,10 +624,14 @@
 "direction": "in",
 "edgeId": "e-79738ec3c6",
 "edgeLabel": "Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim",
+"family": "oversight",
 "id": "yankee-blue",
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-16",
@@ -566,7 +645,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -576,10 +656,14 @@
 "direction": "out",
 "edgeId": "e-99f80b90ec",
 "edgeLabel": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
+"family": "oversight",
 "id": "yeates-affidavit",
 "l0": false,
 "label": "Yeates Affidavit (NSA, 1980)",
 "note": "NSA had released the COMINT records with most pages carrying only a few visible words, redacted in white-out; an MDR was required to obtain more.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-09-10",
@@ -588,7 +672,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "made a request of"
 }
 ],
 "date": "2022-08-17",

@@ -44,10 +44,14 @@
 "direction": "out",
 "edgeId": "e-0bb36c2a9b",
 "edgeLabel": "Co-author of twenty-nine years publishes a detailed repudiation, 13 June 2017",
+"family": "denial",
 "id": "larry-warren",
 "l0": false,
 "label": "Larry Warren",
 "note": "TIER 1 FOR THE FACT OF THE REPUDIATION BY THE NAMED CO-AUTHOR AND FOR THE PUBLISHER'S RESPONSE TO IT. The specific allegations, an altered USAF Form 490 with an ophthalmic notation attributed to an orthopaedic surgeon, a fabricated Lennon photograph, mismatched signatures and unsent testimonial letters, are Robbins's findings and the underlying documents were not opened here. He concedes the authenticity of Warren's January 1981 letter home.",
+"predicate": "disputed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-06-13",
@@ -61,7 +65,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -71,10 +76,14 @@
 "direction": "out",
 "edgeId": "e-bea8e112d4",
 "edgeLabel": "Co-author of a book-length treatment of the event, later repudiated by him",
+"family": "oversight",
 "id": "rendlesham-1980",
 "l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-06-13",
@@ -88,7 +97,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked through oversight to"
 }
 ],
 "date": null,
@@ -175,7 +185,7 @@
 "status": "unknown",
 "sub": "Co-author of Left at East Gate with Larry Warren; author of the June 2017 statement repudiating his own co-author's account after twenty-nine years",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 877 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 873 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

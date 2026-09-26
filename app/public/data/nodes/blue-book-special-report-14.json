@@ -77,10 +77,14 @@
 "direction": "out",
 "edgeId": "e-5c6dff3fc3",
 "edgeLabel": "ATIC issued Special Report No. 14",
+"family": "documents",
 "id": "atic",
 "l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "Issued 5 May 1955 under Project 10073, Study No. 102-EL-55/2-79 — the largest statistical study of UFO reports the US government ever produced.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-05-05",
@@ -89,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 },
 {
 "claimTier": 2,
@@ -99,10 +104,14 @@
 "direction": "in",
 "edgeId": "e-5091e6585a",
 "edgeLabel": "Battelle performed the statistical analysis under contract",
+"family": "organisation",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-05-05",
@@ -111,7 +120,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was produced by"
 },
 {
 "claimTier": 3,
@@ -121,10 +131,14 @@
 "direction": "out",
 "edgeId": "e-780a0151a2",
 "edgeLabel": "Both official studies buried an unexplained residue under dismissive conclusions",
+"family": "analysis",
 "id": "condon-committee",
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "SR14 left 19.7 per cent unknown with quality correlating positively with unexplainedness; the Colorado project left roughly a third of its cases unexplained. Both summaries declared the subject unrewarding.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1955-05-05",
@@ -138,7 +152,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -148,10 +163,14 @@
 "direction": "out",
 "edgeId": "e-c46cc80ccf",
 "edgeLabel": "19.7 per cent of analysed objects were unknowns, rising with report quality",
+"family": "organisation",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "434 of 2,199 objects were classified Unknown, and the better the report quality the higher the unknown rate — the inverse of what misidentification predicts.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-05-05",
@@ -160,7 +179,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -170,10 +190,14 @@
 "direction": "in",
 "edgeId": "e-65eba90528",
 "edgeLabel": "Stork produced Special Report No. 14, 5 May 1955",
+"family": "organisation",
 "id": "project-stork",
 "l0": false,
 "label": "Project Stork (Project White Stork)",
 "note": "A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-05-05",
@@ -192,7 +216,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -202,10 +227,14 @@
 "direction": "out",
 "edgeId": "e-54740bc2ba",
 "edgeLabel": "Republished by the Department of War as CIA-UAP-015 in PURSUE Release 03",
+"family": "documents",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The same 1955 Battelle report has now been published by the government three times across seventy years without the underlying case data ever being independently reanalysed.",
+"predicate": "released",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-12",
@@ -214,7 +243,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "was released by"
 }
 ],
 "coords": null,

@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-4895ec2dc8",
 "edgeLabel": "former CNES chairman; wrote the forward",
+"family": "role",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty states that without Norlain and Lebeau 'COMETA would not have been born'.",
+"predicate": "founded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1999-07-01",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 }
 ],
 "date": "1999-07-01",

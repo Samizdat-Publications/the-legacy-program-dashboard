@@ -167,10 +167,14 @@
 "direction": "in",
 "edgeId": "e-7c891cdbc8",
 "edgeLabel": "Asked him on the record whether BAASS was involved in reverse-engineering exploitation of NHI craft",
+"family": "oversight",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Ties the 2025 witness layer back to the AAWSAP/BAASS contracting layer.",
+"predicate": "questioned",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -179,7 +183,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was questioned by"
 },
 {
 "claimTier": 1,
@@ -189,10 +194,14 @@
 "direction": "out",
 "edgeId": "e-aeedb1f378",
 "edgeLabel": "sworn witness",
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -226,7 +235,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "testified at"
 },
 {
 "claimTier": 3,
@@ -236,10 +246,14 @@
 "direction": "out",
 "edgeId": "e-1cca3ef322",
 "edgeLabel": "The reprisal case the bill is designed to cover",
+"family": "place-time",
 "id": "hr-5060-uap-whistleblower-protection-act",
 "l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "Reasoning: Borland testified to a decade of sustained reprisal at the hearing convened to advance whistleblower protections, and Luna closed the hearing urging members to sign a protection letter on his behalf.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -253,7 +267,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -263,10 +278,14 @@
 "direction": "in",
 "edgeId": "e-4f414f3c23",
 "edgeLabel": "Michels ran a three-episode Borland sequence, August 2026",
+"family": "media",
 "id": "jesse-michels",
 "l0": false,
 "label": "Jesse Michels",
 "note": "Published 5, 6 and 7 August 2026. Borland is a former USAF 1N1 geospatial intelligence specialist who describes witnessing a 100-to-150-foot black metallic triangle near the NASA hangar at Langley AFB in 2012; the episode chapters include 'ODNI and the leaked program name'.",
+"predicate": "interviewed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-05",
@@ -275,7 +294,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "was interviewed by"
 },
 {
 "claimTier": 2,
@@ -285,10 +305,14 @@
 "direction": "in",
 "edgeId": "e-bc1244598a",
 "edgeLabel": "Borland spoke at the 2025 Sol Foundation Symposium",
+"family": "media",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Same pipeline: Borland, a former USAF 1N1 geospatial intelligence specialist, appears on the 2025 symposium programme and is subsequently given a three-episode run on American Alchemy in August 2026.",
+"predicate": "appeared_on",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-10-24",
@@ -302,7 +326,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "appeared on"
 }
 ],
 "date": "2025-09-09",

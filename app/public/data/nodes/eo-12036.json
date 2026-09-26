@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-b3dd3dbc45",
 "edgeLabel": "Routes every special activity to the President through an NSC committee",
+"family": "law",
 "id": "national-security-council",
 "l0": false,
 "label": "National Security Council",
 "note": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-dcaebb1439",
 "edgeLabel": "Fully and currently informed, and expressly not a condition precedent",
+"family": "law",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "governs"
 }
 ],
 "coords": null,
@@ -118,7 +128,7 @@
 ],
 "sub": "Executive order; the special-activity approval chain, and NOT a compartmentation instrument",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 777 of 1138, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 775 of 1138, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unverified": []
 }

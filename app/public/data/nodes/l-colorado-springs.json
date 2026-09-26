@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-c8f65d8771",
 "edgeLabel": "The only provenance story ever attached to the report points at Schriever",
+"family": "place-time",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "A self-identified whistleblower said in 2025 he located the material in a folder labelled '2018 Schriever Wargame'; Jason Colavito assessed the claimant had mistaken wargame documents for UFO revelations. Schriever Space Force Base is at Colorado Springs.",
+"predicate": "occurred_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": [
@@ -98,7 +103,7 @@
 ],
 "sub": "El Paso County; Peterson SFB, Cheyenne Mountain SFS, Schriever SFB, NORAD/USNORTHCOM, US Space Command",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 800 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 797 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

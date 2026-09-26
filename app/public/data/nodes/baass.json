@@ -101,10 +101,14 @@
 "direction": "in",
 "edgeId": "e-a11dbf5c90",
 "edgeLabel": "HHM402-08-C-0072, sole bid, signed 22 Sep 2008",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "",
+"predicate": "contracted",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -113,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was contracted by"
 },
 {
 "claimTier": 1,
@@ -123,10 +128,14 @@
 "direction": "in",
 "edgeId": "e-91256df644",
 "edgeLabel": "",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "BAASS was the only bidder and the performer. DIA's own record: 'DIA received only one bid, from Bigelow Aerospace Advanced Space Studies (BAASS), in response to the RFP. DIA determined that the proposal was responsive.' A twelve-technical-area solicitation drawing a single bid is itself a fact about how the work was scoped.",
+"predicate": "contracted",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2008-08-18",
@@ -140,7 +149,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -150,10 +160,14 @@
 "direction": "in",
 "edgeId": "e-ae6fbc8444",
 "edgeLabel": "$10M base firm-fixed-price award to BAASS",
+"family": "money",
 "id": "aawsap-contract",
 "l0": false,
 "label": "DIA Contract HHM402-08-C-0072 (BAASS)",
 "note": "Awarded 22 September 2008 to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7, base year plus four options.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-10-13",
@@ -162,7 +176,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was funded by"
 },
 {
 "claimTier": 3,
@@ -172,10 +187,14 @@
 "direction": "in",
 "edgeId": "e-bda6bc5604",
 "edgeLabel": "requirement written to a capability only BAASS held",
+"family": "analysis",
 "id": "aawsap-solicitation",
 "l0": false,
 "label": "DIA Solicitation HHM402-08-R-0211",
 "note": "An eleven-topic statement of work including spatial/temporal translation, human interface and human effects, competed for five weeks, awarded to the one firm with a decade of exactly that field practice.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2008-08-18",
@@ -184,7 +203,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -194,10 +214,14 @@
 "direction": "out",
 "edgeId": "e-62a2ff3408",
 "edgeLabel": "delivered the 494-page report to DIA",
+"family": "organisation",
 "id": "baass-ten-month-report",
 "l0": false,
 "label": "BAASS Ten Month Report (2009)",
 "note": "The deliverable that shows the program's actual shape: physics, field teams, case database, ranch operations, human effects. Never released by DIA.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-01-01",
@@ -206,7 +230,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -216,10 +241,14 @@
 "direction": "out",
 "edgeId": "e-784bec93a2",
 "edgeLabel": "BAASS LLC, North Las Vegas NV",
+"family": "organisation",
 "id": "bigelow-aerospace",
 "l0": false,
 "label": "Bigelow Aerospace",
 "note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -233,7 +262,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -243,10 +273,14 @@
 "direction": "out",
 "edgeId": "e-f690fa7e3c",
 "edgeLabel": "",
+"family": "organisation",
 "id": "bigelow-aerospace",
 "l0": false,
 "label": "Bigelow Aerospace",
 "note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-09-02",
@@ -260,7 +294,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -270,10 +305,14 @@
 "direction": "in",
 "edgeId": "e-76194a656d",
 "edgeLabel": "Deputy Administrator running day-to-day contract execution",
+"family": "role",
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
 "note": "Kelleher carried the NIDS field methodology into the federally funded effort and directed the biological-effects line.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-05-25",
@@ -282,7 +321,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -292,10 +332,14 @@
 "direction": "out",
 "edgeId": "e-89af8634bf",
 "edgeLabel": "a company stood up to hold a single government contract",
+"family": "analysis",
 "id": "d-contracting",
 "l0": false,
 "label": "Federal Contracting Mechanics",
 "note": "BAASS was registered as a legal entity distinct from Bigelow Aerospace, with its own DUNS and CAGE codes, in order to bid and hold DIA contract HHM402-08-C-0072. Standing up a corporate vehicle for the purpose of receiving one award is a contracting mechanic, and it is the one instance on this board that is fully documented in FOIA-released procurement paper.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-09-02",
@@ -309,7 +353,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -319,10 +364,14 @@
 "direction": "in",
 "edgeId": "e-8c07f96e43",
 "edgeLabel": "commissioned via the BAASS prime contract",
+"family": "money",
 "id": "dird-maverick-inventor-versus-corporate-inventor-where",
 "l0": false,
 "label": "Maverick Inventor Versus Corporate Inventor: Where Will the Next Major Innovations Arise?",
 "note": "Hathaway Consulting was a one-man Toronto engineering consultancy with no independent DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract has not been released. Reporting has separately characterised Hathaway as having ties to Bigelow's fringe and paranormal research interests, but no primary document establishing an employment or advisory relationship has been located.",
+"predicate": "contracted",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -341,7 +390,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "linked by money to"
 },
 {
 "claimTier": 2,
@@ -351,10 +401,14 @@
 "direction": "in",
 "edgeId": "e-39bd6c3aa8",
 "edgeLabel": "commissioned via the BAASS prime contract",
+"family": "organisation",
 "id": "dird-negative-mass-propulsion",
 "l0": false,
 "label": "Negative Mass Propulsion",
 "note": "Bigelow Aerospace Advanced Space Studies held the DIA contract under which the DIRDs were produced and subcontracted the individual authors; the DIA cover letter to SASC describes the list as 'all products produced under the AATIP contract'. Tier 2 rather than tier 1 because the contractor name is redacted under (b)(3):10 USC 424 on the DIRD cover page itself, so the subcontracting chain for this specific paper is inferred from the programme structure rather than read off the document.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -373,7 +427,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -383,10 +438,14 @@
 "direction": "in",
 "edgeId": "e-79c40869ac",
 "edgeLabel": "commissioned via the BAASS prime contract",
+"family": "money",
 "id": "dird-positron-aerospace-propulsion",
 "l0": false,
 "label": "Positron Aerospace Propulsion",
 "note": "Positronics Research LLC was an outside small business with no standing DIA relationship; its deliverable reached DIA through the AAWSAP prime contract held by Bigelow Aerospace Advanced Space Studies. Tier 2 because the contractor name is redacted on the cover page under (b)(3):10 USC 424 and the subcontract itself has not been released.",
+"predicate": "funded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -405,7 +464,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -415,10 +475,14 @@
 "direction": "out",
 "edgeId": "e-300caf5638",
 "edgeLabel": "prime contractor that commissioned and delivered the 38 DIRDs",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "BAASS subcontracted the reports to EarthTech, Lockheed Martin, and a dozen universities and delivered them to DIA as Defense Intelligence Reference Documents.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-01-09",
@@ -427,7 +491,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -437,10 +502,14 @@
 "direction": "in",
 "edgeId": "e-1ad1dabe3d",
 "edgeLabel": "Named BAASS from the dais as a reverse-engineering exploitation question",
+"family": "oversight",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Asked of witness Dylan Borland at the 9 September 2025 hearing.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -449,7 +518,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -459,10 +529,14 @@
 "direction": "in",
 "edgeId": "e-ebecb2784f",
 "edgeLabel": "BAASS base of operations",
+"family": "place-time",
 "id": "l-las-vegas",
 "l0": false,
 "label": "Las Vegas, Nevada",
 "note": "Bigelow Aerospace gives its own address as 1899 W. Brooks Ave., North Las Vegas, Nevada 89032, and Bigelow Aerospace Advanced Space Studies operated from that base. Two caveats keep this at tier 2: the address is North Las Vegas rather than Las Vegas proper, and the company page does not name BAASS, so it fixes the Bigelow location rather than the contracting entity's.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -481,7 +555,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -491,10 +566,14 @@
 "direction": "out",
 "edgeId": "e-a23109893a",
 "edgeLabel": "BAASS ran the AAWSAP field effort from Las Vegas",
+"family": "place-time",
 "id": "l-las-vegas",
 "l0": false,
 "label": "Las Vegas, Nevada",
 "note": "Knapp testified that BAASS recruited about 50 cleared investigators, operated for 27 months and produced over 100 research papers and a 240,000-case data warehouse designed by Jacques Vallee.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -503,7 +582,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -513,10 +593,14 @@
 "direction": "out",
 "edgeId": "e-26348e1284",
 "edgeLabel": "funded MUFON's Star Team Impact Project",
+"family": "money",
 "id": "mufon-sip",
 "l0": false,
 "label": "BAASS–MUFON Star Team Impact Project (SIP)",
 "note": "A DIA-contracted firm bought rapid-response access to the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-03-01",
@@ -525,7 +609,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": "funded"
 },
 {
 "claimTier": 2,
@@ -535,10 +620,14 @@
 "direction": "in",
 "edgeId": "e-868e2afc4f",
 "edgeLabel": "personnel, methodology and site inherited wholesale",
+"family": "organisation",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "Kelleher, Davis, Green and the Utah ranch operation all pass from Bigelow's private institute into the DIA-funded contractor.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-05-25",
@@ -552,7 +641,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "succeeded"
 },
 {
 "claimTier": 2,
@@ -562,10 +652,14 @@
 "direction": "in",
 "edgeId": "e-3334b97519",
 "edgeLabel": "NIDS personnel and methods carried directly into the DIA-funded BAASS contract",
+"family": "place-time",
 "id": "nids",
 "l0": true,
 "label": "National Institute for Discovery Science (NIDS)",
 "note": "NIDS closed in 2004; in 2007 a senior DIA official wrote to Bigelow about Skinwalker Ranch, and BAASS won the AAWSAP contract the following year with substantially the same people.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-10",
@@ -579,7 +673,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -589,10 +684,14 @@
 "direction": "in",
 "edgeId": "e-f709769690",
 "edgeLabel": "BAASS sent teams to Brazil in 2009 and reported on Colares to its DIA sponsor",
+"family": "oversight",
 "id": "operacao-prato",
 "l0": true,
 "label": "Operação Prato (Operation Saucer)",
 "note": "Basterfield and Cecotti's reporting has BAASS sending team members to Brazil in May 2009 and again in October 2009. The AAWSAP product list in 'Skinwalkers at the Pentagon' includes the BAASS March 2009 monthly report 'The UFO Assault on Brazil with its Epicenter at Colares (1977-2003) by John Schuessler', the August 2009 monthly report 'Relations with South American organizations', and a July 2009 report 'Project Colares/Brazil, Outreach to South America'. Brazilian researcher A.J. Gevaerd, who met the team in Curitiba, said 'They wanted artifacts from UFOs, such as metamaterials'; Fortaleza researcher Helio Loyola said 'Here in Brazil they didn't do any research. They took and photographed what the ufologists saw and documented.' Tier 2: book and named-researcher sourcing, no BAASS document obtained. Note the collection direction — the US contractor collected from Brazilian civilians, not from the FAB or the Arquivo Nacional.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -621,7 +720,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -631,10 +731,14 @@
 "direction": "in",
 "edgeId": "e-4c4671ab5b",
 "edgeLabel": "owner and principal",
+"family": "role",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "AARO refers to Bigelow only as 'the head of the private sector organization', confirming the relationship without the name.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -643,7 +747,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 3,
@@ -653,10 +758,14 @@
 "direction": "in",
 "edgeId": "e-aafc2f51af",
 "edgeLabel": "UNLV academic in the prime contractor's home city",
+"family": "place-time",
 "id": "william-culbreth",
 "l0": false,
 "label": "William Culbreth",
 "note": "TIER 3, INFERENTIAL. AAWSAP was executed by BAASS out of southern Nevada, and BAASS subcontracted subject-matter experts to write the DIRDs. Culbreth was the University of Nevada, Las Vegas faculty member credited with two of them. No document in the public record states that BAASS specifically recruited him, and this edge should not be read as one. Both DIRDs cited here have their author field redacted under FOIA exemption (b)(6), so even the crediting rests on DIA's separate list of deliverables rather than on the documents themselves.",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-11-01",
@@ -680,7 +789,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-bc5dfefcba",
 "edgeLabel": "The book is the sole origin of the Aztec claim",
+"family": "place-time",
 "id": "aztec-1948",
 "l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "No account of an Aztec crash predates Scully's 1949 Variety columns and the 1950 book; both derive from Silas Newton and Leo Gebauer, convicted of fraud in 1953.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-6495b00c3d",
 "edgeLabel": "Wrote the first crashed-saucer book",
+"family": "documents",
 "id": "frank-scully",
 "l0": false,
 "label": "Frank Scully",
 "note": "Published by Henry Holt and Company, New York, 1950, out of two 1949 Variety columns.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,
@@ -111,7 +121,7 @@
 ],
 "sub": "Henry Holt and Company, New York, 1950; the first crashed-saucer book",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1078 of 1138, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1075 of 1138, score 11). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

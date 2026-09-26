@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-370d37bdf6",
@@ -27,12 +28,6 @@
 "source": "Inference",
 "text": "Project Magnet's placement inside a civil transport ministry rather than a defence ministry is the significant structural fact: it produced a paper trail that survived into open archives precisely because it was never inside a compartmented defence programme. Reasoning: comparison with the US case, where equivalent-era work is only known through later declassification.",
 "tier": 3
-},
-{
-"id": "c-5aa06fd920",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "institution",
@@ -47,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-c221d0394a",
 "edgeLabel": "Sky Canada Project audited and issued recommendations to Transport Canada",
+"family": "oversight",
 "id": "ocsa-canada",
 "l0": false,
 "label": "Office of the Chief Science Advisor of Canada",
 "note": "The report maps Transport Canada's Civil Aviation Daily Occurrence Reporting System as the federal channel where pilot and public sightings land: 'Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings', collecting reports 'from pilots, air traffic controllers and the public' on incidents 'involving Canadian-registered aircraft at Canadian airports, in Canadian sovereign airspace, and international airspace for which Canada has accepted responsibility'.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -64,7 +63,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 }
 ],
 "coords": null,
@@ -107,7 +107,7 @@
 ],
 "sub": "Foreign government agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1042 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1062 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

@@ -113,7 +113,7 @@
   "claims": {
    "1": 3780,
    "2": 1700,
-   "3": 619
+   "3": 580
   },
   "edges": 2788,
   "entities": 787,
@@ -177,7 +177,7 @@
    "claims": [
     3,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "legacy",
@@ -2481,7 +2481,7 @@
    "claims": [
     2,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "research",
@@ -2985,7 +2985,7 @@
    "claims": [
     3,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "ic",
@@ -6201,7 +6201,7 @@
    "claims": [
     3,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "ic",
@@ -8649,7 +8649,7 @@
    "claims": [
     0,
     2,
-    3
+    2
    ],
    "cls": "institution",
    "cluster": "media",
@@ -11529,7 +11529,7 @@
    "claims": [
     2,
     0,
-    3
+    2
    ],
    "cls": "institution",
    "cluster": "other",
@@ -12513,7 +12513,7 @@
    "claims": [
     1,
     1,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "research",
@@ -14673,7 +14673,7 @@
    "claims": [
     1,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "research",
@@ -14745,7 +14745,7 @@
    "claims": [
     0,
     1,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "legacy",
@@ -14841,7 +14841,7 @@
    "claims": [
     1,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -14865,7 +14865,7 @@
    "claims": [
     0,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -14961,7 +14961,7 @@
    "claims": [
     3,
     0,
-    3
+    2
    ],
    "cls": "location",
    "cluster": "oversight",
@@ -15153,7 +15153,7 @@
    "claims": [
     1,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "legacy",
@@ -15177,7 +15177,7 @@
    "claims": [
     0,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -15201,7 +15201,7 @@
    "claims": [
     2,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "ic",
@@ -15273,7 +15273,7 @@
    "claims": [
     0,
     1,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -15441,7 +15441,7 @@
    "claims": [
     0,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -15561,7 +15561,7 @@
    "claims": [
     0,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "research",
@@ -15609,7 +15609,7 @@
    "claims": [
     0,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -15729,7 +15729,7 @@
    "claims": [
     2,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -15753,7 +15753,7 @@
    "claims": [
     0,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -15897,7 +15897,7 @@
    "claims": [
     0,
     0,
-    2
+    1
    ],
    "cls": "location",
    "cluster": "legacy",
@@ -15969,7 +15969,7 @@
    "claims": [
     0,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -16089,7 +16089,7 @@
    "claims": [
     1,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "research",
@@ -16137,7 +16137,7 @@
    "claims": [
     0,
     1,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -16161,7 +16161,7 @@
    "claims": [
     1,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -16185,7 +16185,7 @@
    "claims": [
     1,
     0,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -16257,7 +16257,7 @@
    "claims": [
     0,
     1,
-    1
+    0
    ],
    "cls": "location",
    "cluster": "other",
@@ -18873,7 +18873,7 @@
    "claims": [
     14,
     0,
-    3
+    2
    ],
    "cls": "legislation",
    "cluster": "oversight",
@@ -19857,7 +19857,7 @@
    "claims": [
     4,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "ic",
@@ -21057,7 +21057,7 @@
    "claims": [
     2,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "media",
@@ -23001,7 +23001,7 @@
    "claims": [
     5,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "ic",
@@ -23553,7 +23553,7 @@
    "claims": [
     4,
     1,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "oversight",
@@ -23769,7 +23769,7 @@
    "claims": [
     3,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "research",
@@ -24057,7 +24057,7 @@
    "claims": [
     0,
     4,
-    1
+    0
    ],
    "cls": "institution",
    "cluster": "research",
@@ -24897,7 +24897,7 @@
    "claims": [
     2,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "media",
@@ -26169,7 +26169,7 @@
    "claims": [
     3,
     1,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "ic",
@@ -26697,7 +26697,7 @@
    "claims": [
     2,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "research",
@@ -27057,7 +27057,7 @@
    "claims": [
     2,
     0,
-    2
+    1
    ],
    "cls": "institution",
    "cluster": "research",
@@ -27482,5 +27482,5 @@
    "tier": "C"
   }
  ],
- "source": "8881f54ee80b"
+ "source": "f38a9d3ce56d"
 }

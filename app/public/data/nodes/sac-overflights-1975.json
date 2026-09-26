@@ -101,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-7ff96d159f",
 "edgeLabel": "AARO's 2024 historical review does not address the 1975 nuclear-base overflights",
+"family": "denial",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "A full-text review of Volume I finds no treatment of the Loring, Wurtsmith, Malmstrom or Minot incursions despite the underlying records being publicly released by DoD's own FOIA office.",
+"predicate": "omitted",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -118,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "is left out of"
 },
 {
 "claimTier": 1,
@@ -128,10 +133,14 @@
 "direction": "in",
 "edgeId": "e-0e72dd782f",
 "edgeLabel": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
+"family": "oversight",
 "id": "clear-intent-1984",
 "l0": false,
 "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
 "note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1984-01-01",
@@ -140,7 +149,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was investigated by"
 },
 {
 "claimTier": 2,
@@ -150,10 +160,14 @@
 "direction": "out",
 "edgeId": "e-07db791118",
 "edgeLabel": "1975 NORAD and command-post message traffic circulated by CUFON",
+"family": "testimony",
 "id": "cufon",
 "l0": false,
 "label": "Computer UFO Network (CUFON)",
 "note": "CUFON published the FOIA-released NORAD and SAC command-post records that transformed the 1975 incidents from anecdote into documents.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-11-08",
@@ -167,7 +181,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -177,10 +192,14 @@
 "direction": "in",
 "edgeId": "e-97e5d34f28",
 "edgeLabel": "The command's own summary of the sequence, naming five installations",
+"family": "documents",
 "id": "doc-cincnorad-1975-11-11",
 "l0": false,
 "label": "CINCNORAD four-part message, 11 November 1975",
 "note": "Only excerpts have been opened; the four parts have not been seen in full.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-11",
@@ -189,7 +208,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -199,10 +219,14 @@
 "direction": "out",
 "edgeId": "e-2501ad2c53",
 "edgeLabel": "Malmstrom records released to The Black Vault under FOIA case 97-F-1677",
+"family": "testimony",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "The same September 1997 OASD release that produced the Halt memo produced the November 1975 Malmstrom overflight records.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-11-08",
@@ -216,7 +240,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 2,
@@ -226,10 +251,14 @@
 "direction": "out",
 "edgeId": "e-6d661f67f5",
 "edgeLabel": "Grand Forks is in the sequence on separate message traffic, not on the CINCNORAD summary",
+"family": "place-time",
 "id": "l-grand-forks",
 "l0": false,
 "label": "Grand Forks AFB, North Dakota",
 "note": "CINCNORAD's four-part message names Loring, Wurtsmith, Malmstrom, Minot and Falconbridge and does NOT name Grand Forks. Its inclusion rests on the 4 and 5 November command post messages, which this board has not opened.",
+"predicate": "occurred_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1979-01-18",
@@ -243,7 +272,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -253,10 +283,14 @@
 "direction": "out",
 "edgeId": "e-ec622db182",
 "edgeLabel": "Malmstrom AFB and its Minuteman fields were among the installations overflown",
+"family": "place-time",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "DoD records released under FOIA case 97-F-1677 describe numerous unidentified craft over Malmstrom in November 1975.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-11-08",
@@ -265,7 +299,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -275,10 +310,14 @@
 "direction": "out",
 "edgeId": "e-3186ae5494",
 "edgeLabel": "Minot is named in the sequence, but two NORAD documents name two different Minot installations",
+"family": "place-time",
 "id": "l-minot",
 "l0": false,
 "label": "Minot AFB, North Dakota",
 "note": "THE DISCREPANCY IS THE POINT OF THIS EDGE. The 24th NORAD Region log of 10 November 1975 says 'Minot Air Force Station' and 'the radar station'; CINCNORAD's message of 11 November says 'Minot AFB, ND'. Unresolved. Do not let a degree count on l-minot silently absorb a radar-station entry.",
+"predicate": "occurred_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-19",
@@ -292,7 +331,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -302,10 +342,14 @@
 "direction": "in",
 "edgeId": "e-7e7b4869be",
 "edgeLabel": "First episode of the October to November 1975 sequence",
+"family": "organisation",
 "id": "loring-1975",
 "l0": false,
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "note": "CINCNORAD's message of 11 November 1975 names Loring first among the five installations.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-11",
@@ -314,7 +358,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -324,10 +369,14 @@
 "direction": "in",
 "edgeId": "e-ad800305ea",
 "edgeLabel": "Third and longest episode, 7 to 19 November 1975",
+"family": "organisation",
 "id": "malmstrom-1975",
 "l0": false,
 "label": "Malmstrom missile-field overflights, 7 to 19 November 1975",
 "note": "CINCNORAD's message names Malmstrom; the 24th NORAD Region log runs eight days past the message and is marked in the original as ending these incidents.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-19",
@@ -341,7 +390,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -351,10 +401,14 @@
 "direction": "out",
 "edgeId": "e-ecfe237207",
 "edgeLabel": "The 1975 wave returned to Malmstrom on documented record",
+"family": "place-time",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The 24th NORAD Region Senior Director's log and the NMCC memorandum of 8 November 1975 place radar-tracked objects over Malmstrom missile sites eight years after the Echo Flight shutdown, this time with F-106 scrambles logged.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1984-01-01",
@@ -363,7 +417,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -373,10 +428,14 @@
 "direction": "in",
 "edgeId": "e-6044292251",
 "edgeLabel": "NORAD was the detection and identification authority across the sequence",
+"family": "oversight",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-10-29",
@@ -395,7 +454,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -405,10 +465,14 @@
 "direction": "out",
 "edgeId": "e-5feec0f487",
 "edgeLabel": "Occurred six years after the Air Force closed Blue Book on a no-threat finding",
+"family": "place-time",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "The USAF fact sheet states Blue Book was terminated on 17 December 1969 on the conclusion that no UFO had ever indicated a threat to national security. The 1975 records document unidentified objects over nuclear weapons installations.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-08-15",
@@ -422,7 +486,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -432,10 +497,14 @@
 "direction": "in",
 "edgeId": "e-cc21f9b07d",
 "edgeLabel": "Second episode of the sequence, three days after Loring",
+"family": "organisation",
 "id": "wurtsmith-1975",
 "l0": false,
 "label": "Wurtsmith AFB incursion, 30 October 1975",
 "note": "CINCNORAD's message names Wurtsmith AFB, Michigan among the five installations.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-11-11",
@@ -444,7 +513,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "includes"
 }
 ],
 "coords": null,

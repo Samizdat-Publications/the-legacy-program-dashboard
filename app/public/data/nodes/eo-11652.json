@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-554fd9e636",
 "edgeLabel": "Supersedes the 1953 order and its six amendments",
+"family": "organisation",
 "id": "eo-10501",
 "l0": false,
 "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "note": "Section 14 is headed 'Revocation of Executive Order No. 10501' but operatively SUPERSEDES it, together with EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382. NARA's disposition table records the relationship as 'Revokes: EO 10501'; the order's own verb is supersedes.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -86,10 +91,14 @@
 "direction": "in",
 "edgeId": "e-f1202ca8fc",
 "edgeLabel": "Revokes it, and this is the link most chains omit",
+"family": "organisation",
 "id": "eo-12065",
 "l0": false,
 "label": "Executive Order 12065 - National Security Information (28 June 1978)",
 "note": "Section 6-203. EO 12356 is commonly said to have revoked EO 11652; it did not, because 12065 had already done so four years earlier.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -98,7 +107,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -108,10 +118,14 @@
 "direction": "out",
 "edgeId": "e-d4fa337aaf",
 "edgeLabel": "Lodges classification oversight in the Council",
+"family": "law",
 "id": "national-security-council",
 "l0": false,
 "label": "National Security Council",
 "note": "Section 7(A) puts monitoring of the classification system in the National Security Council and creates an Interagency Classification Review Committee of State, Defense, Justice, the AEC, CIA and the NSC Staff, which under 7(A)(2) takes complaints 'from persons within or without the government'.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -120,7 +134,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "created"
 }
 ],
 "coords": null,
@@ -162,7 +177,7 @@
 ],
 "sub": "Executive order; the General Declassification Schedule, the thirty-year rule, and the first standing classification oversight committee",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 414 of 1138, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 413 of 1138, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [
 {
 "claimTier": 1,

@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-5e79eb3ee8",
 "edgeLabel": "the venue where the record is made under oath, and the only House committee with unilateral subpoena power in the chair's hands",
+"family": "analysis",
 "id": "d-legislative",
 "l0": false,
 "label": "Legislative Process (proposed and pending)",
 "note": "Oversight held the 26 July 2023 hearing, the 13 November 2024 hearing and, through its declassification task force, the 9 September 2025 hearing. Sworn testimony taken in this committee is the mechanism by which allegations enter the legislative process at all, which is a different function from enacting text.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -57,7 +61,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -67,10 +72,14 @@
 "direction": "in",
 "edgeId": "e-731b16e397",
 "edgeLabel": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -84,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -94,10 +104,14 @@
 "direction": "in",
 "edgeId": "e-d96ba23777",
 "edgeLabel": "Same committee, 13 May 2026",
+"family": "oversight",
 "id": "dow-financial-mgmt-hearing-2026",
 "l0": false,
 "label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
 "note": "The House Committee on Oversight and Government Reform held the DoW financial management hearing at which Deputy IG Mansfield testified. Attested by the OIG's publication of his statement.",
+"predicate": "oversaw",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-13",
@@ -106,7 +120,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -116,10 +131,14 @@
 "direction": "in",
 "edgeId": "e-91b9a55111",
 "edgeLabel": "Sworn testimony before the committee, 26 July 2023",
+"family": "place-time",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "Grusch testified with Ryan Graves and David Fravor at 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'. Attested by the committee's own hearing page.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -128,7 +147,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -138,10 +158,14 @@
 "direction": "out",
 "edgeId": "e-6c9deef013",
 "edgeLabel": "Parent committee of Mace's subcommittee",
+"family": "organisation",
 "id": "hoc-subcommittee-cybersecurity-it",
 "l0": false,
 "label": "Subcommittee on Cybersecurity, Information Technology, and Government Innovation",
 "note": "Mace's Cybersecurity, IT and Government Innovation subcommittee co-chaired the 13 Nov 2024 joint UAP hearing.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -150,7 +174,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -160,10 +185,14 @@
 "direction": "out",
 "edgeId": "e-ec52b4f71b",
 "edgeLabel": "Parent committee of the subcommittee that held the founding UAP hearing",
+"family": "organisation",
 "id": "hoc-subcommittee-national-security",
 "l0": false,
 "label": "Subcommittee on National Security, the Border, and Foreign Affairs",
 "note": "The Subcommittee on National Security, the Border, and Foreign Affairs is a standing subcommittee of the Committee on Oversight and Accountability; the printed hearing record carries both rosters.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -172,7 +201,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -182,10 +212,14 @@
 "direction": "in",
 "edgeId": "e-1c4c6121ad",
 "edgeLabel": "Ranking Member of the full committee at the time of the founding hearing",
+"family": "role",
 "id": "jamie-raskin",
 "l0": false,
 "label": "Jamin Ben Raskin",
 "note": "Raskin took two full rounds of questioning at the 26 July 2023 subcommittee hearing.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -194,7 +228,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 2,
@@ -204,10 +239,14 @@
 "direction": "in",
 "edgeId": "e-42742f35b5",
 "edgeLabel": "Run by the same committee and the same member as the UAP inquiry",
+"family": "organisation",
 "id": "missing-scientists-probe-2026",
 "l0": false,
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "note": "The convergence of the two inquiries in one subcommittee chair is the structural link between this board and The Vanishing.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-21",
@@ -216,7 +255,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "ran"
 },
 {
 "claimTier": 2,
@@ -226,10 +266,14 @@
 "direction": "in",
 "edgeId": "e-f6f1333cae",
 "edgeLabel": "Conditions any production on coordination with the sponsoring federal agencies",
+"family": "denial",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets' - a compliance posture with an executive-branch veto inside it.",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-27",
@@ -238,7 +282,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -248,10 +293,14 @@
 "direction": "in",
 "edgeId": "e-da6e1dd353",
 "edgeLabel": "Reports on SAP access populations are addressed to House Oversight among others",
+"family": "law",
 "id": "ndaa-fy2024-7606",
 "l0": false,
 "label": "FY2024 IAA sec. 7606(c) - Agency Review of Special Access Programs",
 "note": "Sec. 7606(c)(2) names the Committee on Oversight and Accountability of the House of Representatives among the recipients.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -260,7 +309,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -270,10 +320,14 @@
 "direction": "in",
 "edgeId": "e-a62a9a8792",
 "edgeLabel": "Outside watchdog seated as witness before Oversight's declassification task force",
+"family": "testimony",
 "id": "pogo",
 "l0": false,
 "label": "Project On Government Oversight",
 "note": "The hearing's own masthead gives the forum exactly: 'HEARING BEFORE THE TASK FORCE ON THE DECLASSIFICATION OF FEDERAL SECRETS OF THE COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM'. POGO appeared through Joe Spielberger, its senior policy counsel, listed as the minority witness, and used the appearance to argue for statutory whistleblower protection rather than to make claims about the phenomenon.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -287,7 +341,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "heard testimony from"
 },
 {
 "claimTier": 2,
@@ -297,10 +352,14 @@
 "direction": "in",
 "edgeId": "e-c05f0f0dc2",
 "edgeLabel": "Executive-controlled release running in parallel to, and in tension with, the committee's compelled-production track",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The House caucus response has been to keep issuing letters on the premise that a curated release cannot substitute for compelled production.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-14",
@@ -314,7 +373,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -324,10 +384,14 @@
 "direction": "in",
 "edgeId": "e-5eac3debc5",
 "edgeLabel": "Ranking Member of the full committee from 2025",
+"family": "role",
 "id": "robert-garcia",
 "l0": false,
 "label": "Robert Garcia",
 "note": "Garcia moved from subcommittee ranking member to full-committee ranking member in the 119th Congress; printed in the CHRG-119hhrg61718 roster.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -336,7 +400,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -346,10 +411,14 @@
 "direction": "in",
 "edgeId": "e-109c53aa87",
 "edgeLabel": "The jurisdictional routing that keeps the subpoena committee uncleared",
+"family": "analysis",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Documented by Luna on 9 September 2025; corroborated by Burlison's 2024 AARO briefing block and his 2025 non-germane amendment ruling.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -358,7 +427,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -368,10 +438,14 @@
 "direction": "out",
 "edgeId": "e-9b201e2ba4",
 "edgeLabel": "Chairman Comer created the Task Force and gave it the UAP declassification remit",
+"family": "law",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Comer announced the Task Force on 11 February 2025 and named Luna chairwoman; its roster is printed in the 9 Sept 2025 hearing record.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-18",
@@ -385,7 +459,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -395,10 +470,14 @@
 "direction": "in",
 "edgeId": "e-ad05135314",
 "edgeLabel": "Committee that took the 2023 and 2024 public UAP testimony",
+"family": "organisation",
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "House Oversight held the 26 July 2023 hearing and the 13 November 2024 hearing, and its Task Force on the Declassification of Federal Secrets held the 9 September 2025 hearing.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -412,7 +491,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -422,10 +502,14 @@
 "direction": "in",
 "edgeId": "e-3d95991e94",
 "edgeLabel": "Gives House Oversight a statutory entitlement to SAP reports from every covered agency",
+"family": "law",
 "id": "usc-50-3348",
 "l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(1)(C) names the committee; 3348(g)(2)(B) excludes only DoD, NNSA and IC agencies from the reporting obligation.",
+"predicate": "mandated",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -434,7 +518,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -444,10 +529,14 @@
 "direction": "in",
 "edgeId": "e-ae5b455dc0",
 "edgeLabel": "not a defense committee; receives nothing under 10 U.S.C. 119",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -461,7 +550,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "falls outside"
 }
 ],
 "coords": null,

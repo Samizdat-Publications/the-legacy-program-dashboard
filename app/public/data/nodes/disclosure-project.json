@@ -59,10 +59,14 @@
 "direction": "in",
 "edgeId": "e-78168a1d36",
 "edgeLabel": "The project's own publication",
+"family": "documents",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-04",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "published"
 },
 {
 "claimTier": 1,
@@ -81,10 +86,14 @@
 "direction": "in",
 "edgeId": "e-441c880888",
 "edgeLabel": "The Project's own compiled briefing document, April 2001",
+"family": "documents",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-04",
@@ -93,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -103,10 +113,14 @@
 "direction": "in",
 "edgeId": "e-b27b0e0584",
 "edgeLabel": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
+"family": "place-time",
 "id": "john-podesta",
 "l0": false,
 "label": "John D. Podesta",
 "note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
+"predicate": "responded_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-16",
@@ -115,7 +129,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -125,10 +140,14 @@
 "direction": "in",
 "edgeId": "e-3042ddef5b",
 "edgeLabel": "Disclosure Project witness, testimony taken December 2000",
+"family": "testimony",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -137,7 +156,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -147,10 +167,14 @@
 "direction": "in",
 "edgeId": "e-2fde4013a2",
 "edgeLabel": "The Project's press conference, 9 May 2001",
+"family": "organisation",
 "id": "national-press-club-2001",
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-05-09",
@@ -164,7 +188,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -174,10 +199,14 @@
 "direction": "in",
 "edgeId": "e-25eafe7c71",
 "edgeLabel": "Dated published critique of the Project by name, Summer 2001",
+"family": "denial",
 "id": "philip-j-klass",
 "l0": false,
 "label": "Philip J. Klass",
 "note": "Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself.",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001",
@@ -186,7 +215,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "is disputed by"
 },
 {
 "claimTier": 2,
@@ -196,10 +226,14 @@
 "direction": "in",
 "edgeId": "e-43cfdcf1ce",
 "edgeLabel": "Greer founded and led the Disclosure Project",
+"family": "role",
 "id": "steven-greer",
 "l0": false,
 "label": "Steven M. Greer",
 "note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-16",
@@ -208,7 +242,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was founded by"
 },
 {
 "claimTier": 3,
@@ -218,10 +253,14 @@
 "direction": "out",
 "edgeId": "e-dd096990f4",
 "edgeLabel": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
+"family": "place-time",
 "id": "thomas-wilson",
 "l0": false,
 "label": "Thomas R. Wilson",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-08-01",
@@ -235,7 +274,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,
@@ -386,7 +426,7 @@
 ],
 "sub": "Private witness-aggregation and congressional-hearing campaign, 1993-",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 413 of 1138, score 34). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 412 of 1138, score 34). 8 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

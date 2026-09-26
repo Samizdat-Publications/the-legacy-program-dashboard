@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-44b0b9ec96",
 "edgeLabel": "Status Report chronology indexes Del Rio as Item B-7",
+"family": "documents",
 "id": "stringfield-status-reports",
 "l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "The consolidated chronology in Status Report III lists Item B-7 of Status Report II as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "is the subject of"
 }
 ],
 "coords": null,
@@ -78,7 +83,7 @@
 ],
 "sub": "Claimed crashed craft and one body observed by an Air Force officer",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1051 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1049 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D0.",
 "timeline": [],
 "unverified": []
 }

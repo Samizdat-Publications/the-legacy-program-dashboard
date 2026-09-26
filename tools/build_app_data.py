@@ -75,9 +75,10 @@ THREADS = "research/threads.json"
 DRAWINGS = "research/patents/drawings"
 SUGGESTIONS = "data/analyst-suggestions.json"
 VOCAB = "schema/vocab.json"
+PREDICATES = "research/_predicates.json"
 
 INPUTS = [BOARD, L0_MODEL, L0_LAYOUT, L0_HIGHLIGHTS, L0_SHORTS, FOIA_LINKS,
-          PATENTS_VIEW, OBSERVABLES_VIEW, SUGGESTIONS, VOCAB]
+          PATENTS_VIEW, OBSERVABLES_VIEW, SUGGESTIONS, VOCAB, PREDICATES]
 
 # The analyst's chips, one list per route kind.  app/src/analyst/chips.ts maps
 # route kinds onto these nine keys and nothing else, so a key added here that
@@ -230,11 +231,65 @@ class Src(object):
         self.byid = {n["id"]: n for n in self.nodes}
         self.topics = topiclib.load_topics()
         self.sections = topiclib.load_sections()
+        self.preds = load_predicates(self.board)
 
     def generated(self):
         vals = [self.board.get("generated"), self.l0.get("generated"),
                 rd(L0_LAYOUT).get("generated")]
         return max(v for v in vals if v)
+
+
+# ------------------------------------------------------------ the predicates
+
+PREDICATE_VOCAB = {p["id"]: p for p in _V.get("predicates") or []}
+FAMILY_PHRASE = {f["id"]: f["phrase"] for f in _V.get("predicateFamilies") or []}
+
+
+def load_predicates(board):
+    """research/_predicates.json (redesign phase 7): {edge id: row}. A key that is
+    not a live edge id is an ERROR, not a no-op: the edge's ends, type or sentence
+    changed, its id with them, and it must be classified again rather than keep a
+    predicate chosen for a sentence it no longer has. A predicate outside
+    schema/vocab.json is an error too. An edge with no row ships a null predicate,
+    which verify.py rejects."""
+    doc = rd(PREDICATES).get("predicates") or {}
+    live = {e.get("id") for e in board["edges"]}
+    orphans = sorted(k for k in doc if k not in live)
+    if orphans:
+        raise SystemExit("research/_predicates.json names %d edge id(s) not on the board, "
+                         "e.g. %s: re-classify those edges" % (len(orphans), orphans[:5]))
+    unknown = sorted({r.get("predicate") for r in doc.values()} - set(PREDICATE_VOCAB))
+    if unknown:
+        raise SystemExit("research/_predicates.json uses predicate(s) not in "
+                         "schema/vocab.json: %s" % unknown)
+    return doc
+
+
+def predicate_view(s, e, here):
+    """The predicate of edge `e` as read from node `here`: its id, family, the label
+    from this side, and which side this node is on. `subject` names the end the
+    forward label reads from; the other end reads the inverse; a symmetric
+    predicate reads one label from either end."""
+    r = s.preds.get(e.get("id"))
+    if not r:
+        return {"predicate": None, "family": None, "verb": None, "predicateSide": None,
+                "predicateShown": False}
+    p = PREDICATE_VOCAB[r["predicate"]]
+    if p.get("symmetric"):
+        verb, side = p["forward"], "either"
+    elif e[r["subject"]] == here:
+        verb, side = p["forward"], "subject"
+    else:
+        verb, side = p["inverse"], "object"
+    # The display rule (schema/vocab.json predicateRules.display, decided 26
+    # September 2026): the family is the reliable unit; a predicate's own label
+    # and direction show only where its confidence is high, otherwise the row
+    # reads the family's neutral phrase. `predicateSide` is recorded either way.
+    shown = r.get("confidence") == "high"
+    if not shown:
+        verb = FAMILY_PHRASE[p["family"]]
+    return {"predicate": p["id"], "family": p["family"], "verb": verb, "predicateSide": side,
+            "predicateShown": shown}
 
 
 def check_era_table(layout):
@@ -413,9 +468,14 @@ def threads_list(s):
 
 
 def edges_json(s):
+    # phase 7: the predicate and the end its forward label reads from (a or b)
     rows = [{"a": e["a"], "b": e["b"], "dateStart": e.get("dateStart"),
              "id": e.get("id"),
-             "label": e.get("label") or "", "t": e["type"],
+             "label": e.get("label") or "",
+             "predicate": (s.preds.get(e.get("id")) or {}).get("predicate"),
+             "shown": (s.preds.get(e.get("id")) or {}).get("confidence") == "high",
+             "subject": (s.preds.get(e.get("id")) or {}).get("subject"),
+             "t": e["type"],
              "tier": e.get("claimTier")}
             for e in s.board["edges"]]
     rows.sort(key=lambda r: (r["a"], r["b"], r["t"], r["label"]))
@@ -505,6 +565,9 @@ def node_files(s, ix):
             if o is None:
                 continue
             conns.append({
+                # phase 7: predicate, family, the label read from THIS node's side
+                # (`verb`) and which side it is on (`predicateSide`)
+                **predicate_view(s, e, nid),
                 "claimTier": e.get("claimTier"),
                 "cls": o.get("cls"),
                 "dateEnd": e.get("dateEnd"),

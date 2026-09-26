@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-3dff29bc31",
 "edgeLabel": "Sandia investigation is the evidentiary bridge for AEC custody",
+"family": "documents",
 "id": "manhattan-project-2",
 "l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-11-01",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

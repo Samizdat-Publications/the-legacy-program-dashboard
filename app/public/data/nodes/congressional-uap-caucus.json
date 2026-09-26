@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-633aa5a537",
 "edgeLabel": "Caucus member without an Oversight Committee seat",
+"family": "role",
 "id": "andy-ogles",
 "l0": false,
 "label": "Andrew Ogles",
 "note": "Described by The Hill as 'part of the UAP Caucus but not the Oversight Committee.'",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-13fe300760",
 "edgeLabel": "Caucus member; later chairs the Task Force",
+"family": "role",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Described in February 2025 as 'a member of the bipartisan UAP Caucus' when named to chair the Task Force.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-02-18",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "out",
 "edgeId": "e-428894ad19",
 "edgeLabel": "the member bloc that forces briefings and carries amendments outside committee jurisdiction",
+"family": "analysis",
 "id": "d-legislative",
 "l0": false,
 "label": "Legislative Process (proposed and pending)",
 "note": "Launched by Rep. Tim Burchett on 22 August 2023 alongside a caucus letter to the Intelligence Community Inspector General, with documented members including Burchett, Luna, Burlison, Moskowitz and Ogles. Its confirmed operational achievement is the 12 January 2024 closed briefing; Ogles is a member without an Oversight seat, which is how the caucus extends reach beyond the committee.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-08-22",
@@ -96,7 +110,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -106,10 +121,14 @@
 "direction": "in",
 "edgeId": "e-580bcb118e",
 "edgeLabel": "Caucus member",
+"family": "role",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Described as a member of the caucus in March 2024 and again in June 2026.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-12",
@@ -123,7 +142,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 2,
@@ -133,10 +153,14 @@
 "direction": "out",
 "edgeId": "e-ed03cf77b9",
 "edgeLabel": "Caucus members attended the closed ICIG briefing",
+"family": "testimony",
 "id": "icig-briefing-2024-01-12",
 "l0": false,
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "Photograph caption and reporting describe the briefing as involving 'members of the Congressional UAP Caucus'; Burchett said about sixteen members attended.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-13",
@@ -150,7 +174,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -160,10 +185,14 @@
 "direction": "in",
 "edgeId": "e-ca2ea791ce",
 "edgeLabel": "Caucus member; the Democratic anchor",
+"family": "role",
 "id": "jared-moskowitz",
 "l0": false,
 "label": "Jared Evan Moskowitz",
 "note": "Described by The Hill as 'a member of the UAP Caucus.'",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-12",
@@ -172,7 +201,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 2,
@@ -182,10 +212,14 @@
 "direction": "in",
 "edgeId": "e-18f061e431",
 "edgeLabel": "Founded the caucus in August 2023 and led its letter to the ICIG",
+"family": "role",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Burchett press release of 22 August 2023; The Hill records the caucus as bipartisan and formed 'last fall.'",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-12",
@@ -199,7 +233,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -209,10 +244,14 @@
 "direction": "out",
 "edgeId": "e-7d67c2383f",
 "edgeLabel": "caucus membership confers no statutory access",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -226,7 +265,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "falls outside"
 }
 ],
 "coords": null,

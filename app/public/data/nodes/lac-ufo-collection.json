@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-63e8053c9f",
 "edgeLabel": "Project Magnet records held at LAC",
+"family": "custody",
 "id": "project-magnet",
 "l0": false,
 "label": "Project Magnet (Canada)",
 "note": "LAC cites the Project Magnet and Second Story files as RG 24, acc. 83-84/167, box 7523, file DRBS 3800-10-1, pt. 1.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2005-08-11",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-3690351afc",
 "edgeLabel": "2025 report is the first federal review to work the LAC holding",
+"family": "oversight",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was investigated by"
 }
 ],
 "coords": null,
@@ -122,7 +132,7 @@
 ],
 "sub": "15,000+ pages from DND, DOT, NRC and RCMP, 1947-1995",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 746 of 1138, score 23). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 745 of 1138, score 23). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": 1,

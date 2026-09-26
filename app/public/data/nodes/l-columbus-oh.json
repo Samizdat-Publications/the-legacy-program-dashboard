@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-a063120ae0",
 "edgeLabel": "Battelle Memorial Institute headquarters",
+"family": "place-time",
 "id": "battelle",
 "l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -51,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -61,10 +66,14 @@
 "direction": "out",
 "edgeId": "e-a03abd6c70",
 "edgeLabel": "Project Stork / Blue Book Special Report No. 14 produced here",
+"family": "place-time",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "TIER 3, INFERENTIAL, and the reason is worth stating. Project Blue Book Special Report No. 14, the statistical analysis of 1947-1952 sighting reports dated 5 May 1955, is attributed on its own title page to the Air Technical Intelligence Center at Wright-Patterson Air Force Base, Ohio, under Project No. 10073. Its summary says the study 'was prepared by a panel of scientists both in and out of the Air Force'. The released copy names no contractor at all: a full-text scan of all 313 pages finds no occurrence of 'Battelle', 'Columbus' or 'Memorial Institute'. The Columbus tie rests entirely on the secondary literature's Battelle attribution, which the primary record does not make.",
+"predicate": "occurred_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1955-05-05",
@@ -83,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,
@@ -135,7 +145,7 @@
 ],
 "sub": "Battelle Memorial Institute headquarters since 1929; ~65 miles from Wright-Patterson AFB",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 863 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 861 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D0.",
 "timeline": [],
 "unverified": []
 }

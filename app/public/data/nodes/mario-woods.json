@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-3a8e29454f",
 "edgeLabel": "The originating claimant, public since 1996",
+"family": "testimony",
 "id": "ellsworth-1977",
 "l0": false,
 "label": "Ellsworth AFB Launch Facility November-5 claim, 18 November 1977",
 "note": "PUBLIC SINCE 1996 UNDER HIS OWN NAME, WITH MORE THAN FORTY CLAIMED MEDIA APPEARANCES IN WHICH HE NAMED MICHAEL JOHNSON ON AIR AND ASKED AUDIENCES TO FIND HIM. That is both why the 2026 reunion was possible and why the two accounts cannot be treated as independent. NO SERVICE RECORD HAS BEEN PRODUCED.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-07",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -80,10 +85,14 @@
 "direction": "out",
 "edgeId": "e-a50f06bfae",
 "edgeLabel": "Claimed security policeman, 44th Missile Security Squadron",
+"family": "testimony",
 "id": "l-ellsworth",
 "l0": false,
 "label": "Ellsworth AFB, South Dakota",
 "note": "Claimed service 1975 to 1983 on the 2026 broadcast. NO SERVICE RECORD HAS BEEN PRODUCED BY ANY PARTY.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-07",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -102,10 +112,14 @@
 "direction": "in",
 "edgeId": "e-3bdeac722b",
 "edgeLabel": "Reunited on a recorded call on 26 June 2026 after forty-nine years",
+"family": "conduct",
 "id": "michael-johnson",
 "l0": false,
 "label": "Michael Johnson",
 "note": "THIS IS NOT TWO INDEPENDENT WITNESSES MEETING. One man's account had been public for thirty years and named the other; the other was found by the party publishing the result and was given the site, the date and the category within ninety seconds of the call beginning.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-07",
@@ -114,7 +128,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through conduct to"
 }
 ],
 "date": "1977-11-18",
@@ -170,7 +185,7 @@
 "status": "alive",
 "sub": "Claimed USAF security policeman, 44th Missile Security Squadron, Ellsworth AFB; claimant since 1996 of an encounter at Launch Facility November-5 on 18 November 1977",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 913 of 1138, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 912 of 1138, score 17). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

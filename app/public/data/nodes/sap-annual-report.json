@@ -71,10 +71,14 @@
 "direction": "in",
 "edgeId": "e-ed3845d0a8",
 "edgeLabel": "all component submissions route through DoD SAPCO",
+"family": "organisation",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoD SAPCO is the office this report is compiled through. 10 U.S.C. 119(a)(1) puts the obligation on the Secretary of Defense - 'not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs' - and DoDD 5205.07 vests central management of the SAP enterprise in DoD SAPCO under the Deputy Secretary of Defense. The statute names the Secretary; the directive names the office that does the work.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -93,7 +97,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 3,
@@ -103,10 +108,14 @@
 "direction": "in",
 "edgeId": "e-569d9ce250",
 "edgeLabel": "The statutory UAP records collection reaches records the SAP report describes",
+"family": "analysis",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Sections 1841-1843 of Public Law 118-31 require transmission of UAP records regardless of classification; the annual SAP report and waived-program list are agency records that would fall within the definition if UAP-related.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -115,7 +124,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -125,10 +135,14 @@
 "direction": "in",
 "edgeId": "e-7f3091a8d6",
 "edgeLabel": "Congress receives nicknames, not missions",
+"family": "analysis",
 "id": "sap-cover-mechanisms",
 "l0": false,
 "label": "Cover mechanisms - HVSACO, nicknames, unacknowledged locations",
 "note": "DoDI 5205.11 para 5.d: 'Unclassified nicknames will be used in the annual SAP report to Congress.'",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -137,7 +151,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is an instance of"
 },
 {
 "claimTier": 3,
@@ -147,10 +162,14 @@
 "direction": "in",
 "edgeId": "e-42c168569d",
 "edgeLabel": "AARO's search for a concealed program ran against a document AARO did not control",
+"family": "organisation",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "The annual SAP report and the waived-program list are produced by cognizant authorities through DoD SAPCO and validated by the SRG and SAPOC; no AARO authority in statute or directive gives it access to the waived list.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-08-31",
@@ -164,7 +183,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -174,10 +194,14 @@
 "direction": "in",
 "edgeId": "e-d8c61c7b7c",
 "edgeLabel": "A waived program is precisely a program removed from the annual report",
+"family": "denial",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "10 U.S.C. 119(e)(1) permits waiver of the requirement that certain information be included in the report; DoDD 5205.07 (2010) para 4.h keeps the substitute material in DoD custody.",
+"predicate": "omitted",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -191,7 +215,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "leaves out"
 }
 ],
 "coords": null,

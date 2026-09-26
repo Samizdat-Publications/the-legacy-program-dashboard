@@ -59,10 +59,14 @@
 "direction": "in",
 "edgeId": "e-5b7e801cb4",
 "edgeLabel": "DIA finds insufficient grounds to classify",
+"family": "denial",
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "DIA's 13 November 2009 answer evaluates only the written deliverables and never addresses the field investigation, database or human-effects work the same contract funded.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-11-13",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -81,10 +86,14 @@
 "direction": "in",
 "edgeId": "e-48f3c92670",
 "edgeLabel": "",
+"family": "denial",
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "The request and the refusal. Reid's 24 June 2009 letter asked for a restricted SAP; DIA Info Memo U-09-2660 of 13 November 2009 is the answer - 'DIA cannot find adequate justification to establish' it. DIA Info Memo U-10-2552 then records that Deputy Secretary Lynn and the Director met Senator Reid in November 2009 to discuss it. A documented request, a documented denial, and a documented meeting between them.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-11-13",
@@ -98,7 +107,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -108,10 +118,14 @@
 "direction": "in",
 "edgeId": "e-0bab4b414d",
 "edgeLabel": "USD(I) tasked DIA to evaluate; DIA declined",
+"family": "place-time",
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -120,7 +134,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "followed from"
 }
 ],
 "coords": null,

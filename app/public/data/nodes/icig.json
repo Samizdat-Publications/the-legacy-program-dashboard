@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-84c61e5c3d",
 "edgeLabel": "Irreconcilable executive-branch findings on the same allegations",
+"family": "testimony",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The ICIG found the complaint credible and urgent in July 2022; AARO found no verifiable information from June 2023 and no firsthand knowledge in March 2024. Both are executive-branch determinations on the same body of allegations, and neither has been formally reconciled on the public record. Reasoning: no document exists in which either office addresses the other's finding.",
+"predicate": "contradicts",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -56,10 +61,14 @@
 "direction": "out",
 "edgeId": "e-83b775741d",
 "edgeLabel": "Determined the complaint credible and urgent, July 2022",
+"family": "testimony",
 "id": "grusch-icig-complaint",
 "l0": false,
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The statutory urgent-concern finding by the IC's own watchdog, which obliges transmission to the congressional intelligence committees. It is the highest-grade institutional validation in the disclosure record and has never been withdrawn.",
+"predicate": "acknowledged",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -73,7 +82,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "acknowledged"
 },
 {
 "claimTier": 1,
@@ -83,10 +93,14 @@
 "direction": "in",
 "edgeId": "e-35fcaff806",
 "edgeLabel": "Inspector General of the Intelligence Community, 2021-present",
+"family": "role",
 "id": "thomas-monheim",
 "l0": false,
 "label": "Thomas A. Monheim",
 "note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -95,7 +109,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 }
 ],
 "coords": null,

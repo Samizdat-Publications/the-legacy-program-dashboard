@@ -32,10 +32,14 @@
 "direction": "out",
 "edgeId": "e-397aa273bc",
 "edgeLabel": "Participant at the Institute's inaugural conference, January 1957",
+"family": "conduct",
 "id": "institute-of-field-physics",
 "l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -44,7 +48,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -54,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-44a537068b",
 "edgeLabel": "Both printed on the same forty-six-name participants list",
+"family": "place-time",
 "id": "louis-witten",
 "l0": false,
 "label": "Louis Witten",
 "note": "Both are printed on the same forty-six-name participants list.",
+"predicate": "concurrent_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -66,7 +75,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked in place or time to"
 }
 ],
 "date": "1957-01-18",
@@ -107,7 +117,7 @@
 "status": "former",
 "sub": "University of Maryland; participant in the January 1957 Chapel Hill conference on gravitation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1083 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1079 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

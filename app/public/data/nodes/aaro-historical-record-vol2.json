@@ -107,10 +107,14 @@
 "direction": "out",
 "edgeId": "e-03d06bee05",
 "edgeLabel": "the office has not published the volume it committed to for over two years",
+"family": "denial",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Promised in Volume I, deferred by the Pentagon in August 2024, promised 'within months' by Kosloski in November 2024, scheduled for late 2025 in the Department's June 2025 statement, and absent as of August 2026.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-14",
@@ -124,7 +128,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -134,10 +139,14 @@
 "direction": "in",
 "edgeId": "e-950dc750b3",
 "edgeLabel": "",
+"family": "organisation",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO is the office that OWES this volume, which is a different relationship from having withheld it. Sec. 6802 places the duty on the Director of the Office, and Volume I commits to it twice in its own text: page 6, 'AARO will publish Volume II in accordance with the date established in Section 6802', and page 45, 'This report represents Volume I of AARO's HR2.' The denial edge on this same pair records the non-delivery; this one records whose obligation it is.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -151,7 +160,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -161,10 +171,14 @@
 "direction": "in",
 "edgeId": "e-f1ae8c9ff6",
 "edgeLabel": "Volume I explicitly defers its unresolved allegations to Volume II",
+"family": "documents",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I's scope statement commits Volume II to covering research from 1 November 2023 to 15 April 2024 plus the allegations left open.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -173,7 +187,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -183,10 +198,14 @@
 "direction": "in",
 "edgeId": "e-7158346200",
 "edgeLabel": "",
+"family": "place-time",
 "id": "aaro-historical-record-vol1",
 "l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I is the predecessor and it defines what Volume II must contain: page 11 states 'Volume II will include any findings resulting from interviews and research' conducted after Volume I's cutoff. The sequence is fixed by the document itself rather than inferred.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -200,7 +219,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "came after"
 },
 {
 "claimTier": 2,
@@ -210,10 +230,14 @@
 "direction": "in",
 "edgeId": "e-087662ab2f",
 "edgeLabel": "Promised publication 'within months' in November 2024",
+"family": "testimony",
 "id": "jon-kosloski",
 "l0": false,
 "label": "Jon T. Kosloski",
 "note": "Kosloski told reporters in November 2024 that Volume II would appear within months; it does not appear on AARO's Congressional and Press Products page as of 12 August 2026.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -227,7 +251,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -237,10 +262,14 @@
 "direction": "in",
 "edgeId": "e-dee4b4a275",
 "edgeLabel": "the same requirement, unmet",
+"family": "law",
 "id": "ndaa-fy2023-sec-6802",
 "l0": true,
 "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
 "note": "Volume II answers to the same subsection (j) obligation. The statute requires a report on the historical record from 1 January 1945 to the completion of the Director's activities; Volume I states on its own concluding page that Volume II 'will be published in accordance with the date es[tablished]'. Volume II is the outstanding half of a statutory requirement, which is why the absence is on the board as a node rather than as a gap.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -249,7 +278,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is required by"
 },
 {
 "claimTier": 3,
@@ -259,10 +289,14 @@
 "direction": "out",
 "edgeId": "e-39102ebf90",
 "edgeLabel": "Raw files clear in weeks; the narrative volume has not cleared in two years",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The contrast maps where the sensitivity sits: imagery can be published on a cabinet order, analytic conclusions about the department's own history cannot.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -276,7 +310,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -286,10 +321,14 @@
 "direction": "in",
 "edgeId": "e-de881f56d0",
 "edgeLabel": "sixteen gigabytes released, one promised report unpublished",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The Department published roughly 2.45GB of documents and 13.4GB of video across five tranches between May and August 2026 while the congressionally-anticipated Volume II, promised within months in November 2024, remains unpublished. Volume is not the same as disclosure.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -303,7 +342,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -313,10 +353,14 @@
 "direction": "in",
 "edgeId": "e-07f16f3c1b",
 "edgeLabel": "the Department committed to publishing the Yankee Blue findings in Volume II",
+"family": "documents",
 "id": "yankee-blue",
 "l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the findings would appear in Volume II, then scheduled for late 2025. As of August 2026 Volume II has not been published.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -330,7 +374,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

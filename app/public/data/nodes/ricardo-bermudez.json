@@ -56,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-bbf495697e",
 "edgeLabel": "directed CEFAA 1997-2016",
+"family": "role",
 "id": "cefaa",
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "SEFAA's own official history records his simultaneous appointment to the Escuela Técnica Aeronáutica and the CEFAA directorship.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -68,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 }
 ],
 "date": "2017-01-01",
@@ -117,7 +122,7 @@
 "status": "active",
 "sub": "Director, CEFAA (Chile), 1997-2016; Director of the Chilean Air Force Technical School",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 918 of 1138, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 917 of 1138, score 17). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

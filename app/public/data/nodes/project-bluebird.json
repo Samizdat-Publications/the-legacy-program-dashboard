@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-ccee279bac",
 "edgeLabel": "CIA interrogation-team programme, 1950 to 1951, then ARTICHOKE",
+"family": "organisation",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Proposed by the Chief of the Agency's Inspection and Security Staff for the operational support of OSO and OPC, and renamed ARTICHOKE in August 1951 per the Church Committee text reprinted in the 1977 Senate print.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1977-08-03",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -75,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-4fcf8b3146",
 "edgeLabel": "Compartment created by bypassing the review committee, in writing",
+"family": "analysis",
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "The proposal states on its face that it goes directly to the Director rather than through the Projects Review Committee because of the project's sensitivity, and asks that knowledge be held to the absolute minimum number of persons.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1950-04-05",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -97,10 +107,14 @@
 "direction": "out",
 "edgeId": "e-7fcf81429f",
 "edgeLabel": "The 1950 predecessor of the 1953 programme",
+"family": "organisation",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1977-08-03",
@@ -109,7 +123,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -119,10 +134,14 @@
 "direction": "out",
 "edgeId": "e-ae3e08795c",
 "edgeLabel": "Submitted directly to the DCI, 5 April 1950",
+"family": "oversight",
 "id": "roscoe-hillenkoetter",
 "l0": false,
 "label": "Roscoe H. Hillenkoetter",
 "note": "The memorandum is addressed to the Director of Central Intelligence and asks him for approval and allocation of funds outside the Projects Review Committee; Hillenkoetter held that office from May 1947 to October 1950, and the National Security Archive's catalogue record names him as the recipient.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1950-04-05",
@@ -131,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "reports to"
 }
 ],
 "coords": null,
@@ -183,7 +203,7 @@
 ],
 "sub": "CIA interrogation-team programme using polygraph, drugs and hypnotism; proposed to the DCI 5 April 1950 outside the Projects Review Committee; renamed ARTICHOKE August 1951",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 529 of 1138, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 528 of 1138, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D0.",
 "timeline": [],
 "unverified": []
 }

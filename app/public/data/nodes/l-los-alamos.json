@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-60c7fbfe4d",
 "edgeLabel": "A copy went to the Los Alamos Scientific Laboratory report library",
+"family": "custody",
 "id": "afswc-tr-59-39",
 "l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list names the Director, Los Alamos Scientific Laboratory, with two attention lines including 'Helen Redman, Report Library'.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1959-06-19",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-bf6a67e3cf",
 "edgeLabel": "The green fireballs conference was convened at Los Alamos",
+"family": "place-time",
 "id": "green-fireballs-conference-1949",
 "l0": false,
 "label": "Los Alamos Green Fireballs Conference",
 "note": "Edward Teller and Lincoln LaPaz were among the attendees; the laboratory's own account records that the phenomenon was ultimately dismissed as a national security threat.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was the scene of"
 },
 {
 "claimTier": 3,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-725c11436a",
 "edgeLabel": "Named as the cause of the December 1962 presidential visit",
+"family": "testimony",
 "id": "harald-b-malmgren",
 "l0": false,
 "label": "Harald B. Malmgren",
 "note": "The visit itself is Tier 1 from the Public Papers, dated 7 December 1962 with the Vice President present; the claim that Bluegill Triple Prime prompted it comes only from the family biography and is carried here as a stated inference, not as a documented link.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1962-12-07",
@@ -102,7 +116,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -112,10 +127,14 @@
 "direction": "out",
 "edgeId": "e-ae3ccf63e9",
 "edgeLabel": "Los Alamos and White Sands bracket the 1948-1951 green fireball reporting corridor",
+"family": "place-time",
 "id": "l-white-sands",
 "l0": false,
 "label": "White Sands Missile Range, New Mexico",
 "note": "The 16 February 1949 conference at Los Alamos and the Project Twinkle instrumented observation effort in southern New Mexico both arose from reporting across this corridor.",
+"predicate": "concurrent_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -124,7 +143,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -134,10 +154,14 @@
 "direction": "in",
 "edgeId": "e-74247f9f9d",
 "edgeLabel": "The newspaper, the facility and the event are all in Los Alamos",
+"family": "place-time",
 "id": "los-alamos-monitor-1982",
 "l0": false,
 "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
 "note": "A local daily, naming the Los Alamos Meson Physics Facility.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1982-06-27",
@@ -146,7 +170,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 }
 ],
 "coords": [

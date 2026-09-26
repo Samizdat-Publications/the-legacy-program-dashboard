@@ -71,10 +71,14 @@
 "direction": "out",
 "edgeId": "e-9302032cfa",
 "edgeLabel": "Standing written disclaimer of any connection to anti-gravity research",
+"family": "denial",
 "id": "d-prop",
 "l0": false,
 "label": "Propulsion & Field Physics",
 "note": "On Wheeler's insistence a Protection Clause was attached to every publicity statement declaring that the work 'has no connection with so-called \"anti-gravity research\" of whatever kind and for whatever purposes'. The direction of this edge is the Institute denying the field, not the field denying the Institute.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -83,7 +87,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -93,10 +98,14 @@
 "direction": "out",
 "edgeId": "e-b06204b20b",
 "edgeLabel": "Trimble and the Glenn L. Martin Company bought a Founder's Membership for $5,000",
+"family": "money",
 "id": "george-trimble",
 "l0": false,
 "label": "George S. Trimble",
 "note": "The department history records that Trimble and the Glenn Martin Company purchased a Founder's Membership for the Institute for $5,000 and offered their support to solicit further funding.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -105,7 +114,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": "was funded by"
 },
 {
 "claimTier": 1,
@@ -115,10 +125,14 @@
 "direction": "in",
 "edgeId": "e-397aa273bc",
 "edgeLabel": "Participant at the Institute's inaugural conference, January 1957",
+"family": "conduct",
 "id": "joseph-weber",
 "l0": false,
 "label": "Joseph Weber",
 "note": "He attended the Institute of Field Physics' inaugural conference at Chapel Hill in January 1957.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -127,7 +141,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -137,10 +152,14 @@
 "direction": "out",
 "edgeId": "e-7adae31730",
 "edgeLabel": "Witten took part in the Institute's inaugural Chapel Hill conference",
+"family": "role",
 "id": "louis-witten",
 "l0": false,
 "label": "Louis Witten",
 "note": "The department history names Louis Witten as a participant in the Chapel Hill conference and as the first researcher RIAS hired, and the published report identifies that conference as the Institute's inaugural event.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -149,7 +168,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -159,10 +179,14 @@
 "direction": "in",
 "edgeId": "e-5c454ec158",
 "edgeLabel": "Steering committee of the Institute's inaugural conference, January 1957",
+"family": "role",
 "id": "peter-bergmann",
 "l0": false,
 "label": "Peter G. Bergmann",
 "note": "The conference was, in the report's own words, an activity of the North Carolina Project of the Institute of Field Physics, and Bergmann sat on its steering committee.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -171,7 +195,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -181,10 +206,14 @@
 "direction": "out",
 "edgeId": "e-5e2f5ae8fc",
 "edgeLabel": "The academic counterpart to the Martin company's own institute, deliberately kept separate",
+"family": "analysis",
 "id": "rias-inc",
 "l0": false,
 "label": "RIAS, Inc. (Research Institute for Advanced Studies)",
 "note": "The same source describes the Martin company standing up what 'would become RIAS' at the same moment, and says the Institute of Field Physics was placed inside a university 'so as to avoid the conflict that physicists felt working in an industrial setting'.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-02",
@@ -193,7 +222,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -203,10 +233,14 @@
 "direction": "in",
 "edgeId": "e-c5ab5baeae",
 "edgeLabel": "Reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics",
+"family": "documents",
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series reports the UNC trustees approving the institute in November 1955 under the name Institute of Pure Physics, names Bahnson as fundraiser and records the directorship offered to Bryce S. DeWitt.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -215,7 +249,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is the subject of"
 }
 ],
 "coords": null,

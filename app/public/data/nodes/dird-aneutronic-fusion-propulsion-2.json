@@ -65,10 +65,14 @@
 "direction": "in",
 "edgeId": "e-ee6d835e00",
 "edgeLabel": "deliverable under AAWSAP",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -82,7 +86,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -92,10 +97,14 @@
 "direction": "in",
 "edgeId": "e-94108c02a5",
 "edgeLabel": "published and holds; DIA-08-1011-004",
+"family": "documents",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -109,7 +118,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -119,10 +129,14 @@
 "direction": "in",
 "edgeId": "e-4c8451d8d9",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -131,7 +145,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -141,10 +156,14 @@
 "direction": "in",
 "edgeId": "e-c8e03fa9c7",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 01 November 2010 on the cover. 37 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -158,7 +177,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 2,
@@ -168,10 +188,14 @@
 "direction": "out",
 "edgeId": "e-c618c0adde",
 "edgeLabel": "authored by Lockheed Martin Space Systems staff",
+"family": "documents",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Follows from the Teofilo attribution. The DIA list gives Teofilo's affiliation of record as Lockheed Martin. Lockheed Martin is the most represented corporate institution on the DIRD author list, with three of the 38 deliverables (Teofilo, Macheret, Golightly).",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -195,7 +219,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -205,10 +230,14 @@
 "direction": "in",
 "edgeId": "e-63a04c2582",
 "edgeLabel": "authored (attribution by internal self-citation, see note)",
+"family": "documents",
 "id": "vincent-teofilo",
 "l0": false,
 "label": "Vincent L. Teofilo",
 "note": "TIER 2 AND DELIBERATELY SO. Cover author field is redacted under (b)(6) and reads \"Authors\" plural, so there may have been co-authors. Assigned to Teofilo because endnote 17 cites \"G. Miley, H. Momota, L. Wu, M. Reilley, V. Teofilo, R. Dell, and R. Hargus, Space Probe Application of IEC Thrusters, Fusion Science and Technology 56 1, 533-539, July 2009\" - the only occurrence of either candidate author's surname in either aneutronic document - immediately adjacent to a citation of AeroJet/Lockheed Martin Space Systems Hall thruster hardware that also appears in the body text. Paired with the Culbreth edge; if reversed, swap both.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -227,7 +256,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,

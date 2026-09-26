@@ -121,10 +121,14 @@
 "direction": "out",
 "edgeId": "e-a42c1b3a90",
 "edgeLabel": "Co-founder, Executive Director and Secretary of the Board",
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
+"predicate": "founded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -143,7 +147,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -153,10 +158,14 @@
 "direction": "out",
 "edgeId": "e-9676c01851",
 "edgeLabel": "Named as the council's cultural anthropologist",
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-15",
@@ -170,7 +179,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 }
 ],
 "date": "2026-06-22",

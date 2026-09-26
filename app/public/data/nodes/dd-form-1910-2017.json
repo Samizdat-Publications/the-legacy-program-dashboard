@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-327f584285",
 "edgeLabel": "Prepublication review chain for the video files",
+"family": "oversight",
 "id": "dopsr",
 "l0": false,
 "label": "Defense Office of Prepublication and Security Review",
 "note": "The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017 — consistent with the form's 'not for publication' framing.",
+"predicate": "requested",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-09-10",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-2cfec3a7e7",
 "edgeLabel": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
+"family": "denial",
 "id": "joseph-gradisher",
 "l0": false,
 "label": "Joseph Gradisher",
 "note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-10",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "was denied by"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-dd50449ae0",
 "edgeLabel": "Submitted the clearance request for the three video files, 9 Aug 2017",
+"family": "documents",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The form bears his name and OUSD(I) title. It is the documentary link between him and the AATIP-associated imagery, and it was approved 24 August 2017.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-08-17",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -101,10 +116,14 @@
 "direction": "out",
 "edgeId": "e-874c0c23da",
 "edgeLabel": "Cleared the GoFast, Gimbal and FLIR files for internal distribution only",
+"family": "law",
 "id": "navy-flir-gimbal-gofast-videos",
 "l0": false,
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "The form's stated purpose expressly excludes publication: research and analysis only, for a UAS threat database. This is the narrow basis on which the Navy later said no unrestricted release was ever authorised.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-08-17",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "governs"
 }
 ],
 "coords": null,

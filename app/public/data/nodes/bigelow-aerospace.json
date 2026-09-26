@@ -65,10 +65,14 @@
 "direction": "in",
 "edgeId": "e-784bec93a2",
 "edgeLabel": "BAASS LLC, North Las Vegas NV",
+"family": "organisation",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "BAASS holds its own DUNS and CAGE codes distinct from Bigelow Aerospace, isolating the intelligence contract from the NASA-facing business.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -82,7 +86,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -92,10 +97,14 @@
 "direction": "in",
 "edgeId": "e-f690fa7e3c",
 "edgeLabel": "",
+"family": "organisation",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "The contract vehicle is the link. Contract modification P00001, effective 2 September 2009 to contract HHM402-08-C-0072, names the contractor as Bigelow Aerospace Advanced Space Studies, and the USD(I) memorandum to the Deputy Secretary records that 'the sole bid for the contract was from Bigelow Aerospace Advance Space Studies located in Las Vegas'. The institutional edge on this pair records the separate DUNS and CAGE codes; this one records that the DIA money went to the subsidiary.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-09-02",
@@ -109,7 +118,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -119,10 +129,14 @@
 "direction": "in",
 "edgeId": "e-65b61abccf",
 "edgeLabel": "KONA BLUE was proposed by AAWSAP's contractor team after DIA cancelled the program",
+"family": "role",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "AARO records that when DIA cancelled AAWSAP/AATIP its supporters proposed a new version to DHS under a special access program, with lines of effort closely mirroring those the private sector organisation had conducted.",
+"predicate": "founded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -136,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -146,10 +161,14 @@
 "direction": "in",
 "edgeId": "e-48a6e59963",
 "edgeLabel": "Alleged negotiated transfer of non-terrestrial material from a Lockheed California facility to BAASS",
+"family": "custody",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "George Knapp testified under oath on 9 September 2025 that Robert Bigelow and an AAWSAP colleague negotiated with senior Lockheed Martin executives for material 'stashed away and protected at a facility in California' that 'was not made here.' Luis Elizondo confirmed to the House on 13 November 2024 that the transfer was blocked.",
+"predicate": "alleged_to_hold",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -163,7 +182,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,
@@ -173,10 +193,14 @@
 "direction": "in",
 "edgeId": "e-0588a137af",
 "edgeLabel": "Elizondo identified Bigelow Aerospace as the intended recipient of the divested material",
+"family": "testimony",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Asked by Rep. Burlison 'That is the Bigelow Aerospace, correct?', Elizondo answered 'Yes, sir.' He described later conversations with contract personnel who told him the account was accurate.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -185,7 +209,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,

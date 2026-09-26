@@ -59,10 +59,14 @@
 "direction": "in",
 "edgeId": "e-4c646c9f07",
 "edgeLabel": "AAWSAP deliverable; the only one with a classified version",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The released document names the programme itself. Its inside cover reads 'This product is one in a series of advanced technology reports produced in FY 2009 under the Defense Intelligence Agency ... Advanced Aerospace Weapon System Applications (AAWSA) Program' - the redaction between them is (b)(3):10 USC 424. Verified by downloading this DIRD and scanning its full text on 23 August 2026. The scans are OCR-degraded, so the quotation is normalised from the damaged rendering.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-03-31",
@@ -81,7 +85,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -91,10 +96,14 @@
 "direction": "in",
 "edgeId": "e-461adab47e",
 "edgeLabel": "published by DIA as DIA-08-1003-019, Acquisition Threat Support series",
+"family": "documents",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA commissioned, holds and released this document. It carries a DIA document number in the DIA-08-xxxx-xxx series on its cover and was released through the DIA FOIA Electronic Reading Room, whose FileId entry is cited here alongside the retrievable copy. Cover page read on 22 August 2026.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-03-31",
@@ -108,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -118,10 +128,14 @@
 "direction": "in",
 "edgeId": "e-8ce394a004",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -130,7 +144,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -140,10 +155,14 @@
 "direction": "in",
 "edgeId": "e-33ba9f5b4e",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 31 March 2010 on the cover. 32 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -157,7 +176,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -167,10 +187,14 @@
 "direction": "in",
 "edgeId": "e-71eff4f014",
 "edgeLabel": "author of record on the DIA list, both versions",
+"family": "documents",
 "id": "john-albertine",
 "l0": false,
 "label": "J. Albertine",
 "note": "The DIA letter lists this paper twice, items 37 and 38, both credited to J Albertine of Directed Technologies: one formerly classified SECRET//NOFORN, one unclassified. The board node is labelled with the initial because no source consulted confirms the given name; the probable identification with John R. Albertine of the Navy High Energy Laser Program Office is carried as a tier-3 claim on the person node.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -199,7 +223,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,
@@ -268,7 +293,7 @@
 ],
 "sub": "defense-intelligence-reference-document",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 548 of 1138, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 547 of 1138, score 29). 5 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

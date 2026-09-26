@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-c143641693",
 "edgeLabel": "Chartered under the DCI structure; instructed by the Deputy to the DCI for the Intelligence Community",
+"family": "organisation",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The 1974 charter takes effect when the appropriate DCID is approved, and the 1975 Letter of Instruction is addressed to the Deputy to the DCI for the Intelligence Community, placing the committee inside the DCI's community machinery.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-08-03",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,

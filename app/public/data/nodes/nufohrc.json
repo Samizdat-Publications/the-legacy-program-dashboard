@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-879eadff2a",
 "edgeLabel": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
+"family": "custody",
 "id": "cufos",
 "l0": false,
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "note": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
+"predicate": "holds",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-66e9a72e7c",
 "edgeLabel": "Names the NICAP case files as one of its three major collections, on its own account",
+"family": "custody",
 "id": "nicap",
 "l0": true,
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
+"predicate": "holds",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-02",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "linked through custody to"
 }
 ],
 "coords": null,
@@ -122,7 +132,7 @@
 ],
 "sub": "Private archive at Rio Rancho, New Mexico; David Marler, Executive Director; holds the NICAP, CUFOS and APRO case files on its own account",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 525 of 1138, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 524 of 1138, score 30). 2 connections, 2 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [],
 "unverified": []
 }

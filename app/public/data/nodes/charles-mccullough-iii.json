@@ -51,10 +51,14 @@
 "direction": "out",
 "edgeId": "e-a0dfc37ff4",
 "edgeLabel": "Filed the complaint as counsel; former ICIG filing with the ICIG",
+"family": "documents",
 "id": "grusch-icig-complaint",
 "l0": false,
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -63,7 +67,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -73,10 +78,14 @@
 "direction": "out",
 "edgeId": "e-7497b9f92e",
 "edgeLabel": "Counsel who filed the ICIG disclosure of urgent concern",
+"family": "testimony",
 "id": "grusch-misappropriation-allegation",
 "l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
+"predicate": "brought_to_record",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-05",
@@ -85,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": "2022-05-25",
@@ -133,7 +143,7 @@
 "status": "active",
 "sub": "First Inspector General of the Intelligence Community; Grusch's counsel",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 849 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 848 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

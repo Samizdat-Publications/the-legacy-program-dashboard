@@ -65,10 +65,14 @@
 "direction": "out",
 "edgeId": "e-7680c03d87",
 "edgeLabel": "Requester of the 9 May 2001 FOIA that produced the release",
+"family": "testimony",
 "id": "john-greenewald",
 "l0": false,
 "label": "John Greenewald Jr.",
 "note": "Greenewald filed the request of 9 May 2001 that produced the release, and the copy in public circulation is his.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -77,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -87,10 +92,14 @@
 "direction": "out",
 "edgeId": "e-99eacc0210",
 "edgeLabel": "The whole release concerns Malmstrom AFB, Montana",
+"family": "documents",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "The whole release concerns Malmstrom AFB, Montana.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-06-14",
@@ -99,7 +108,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -109,10 +119,14 @@
 "direction": "out",
 "edgeId": "e-0dca556dd7",
 "edgeLabel": "The unit history the event node names as decisive, now opened",
+"family": "documents",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "The unit history is the document the event node names as decisive, and it records the shutdown while stating that the UFO reports around it were disproven.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-06-14",
@@ -121,7 +135,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -131,10 +146,14 @@
 "direction": "out",
 "edgeId": "e-86c7cd289c",
 "edgeLabel": "The release contains zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar",
+"family": "denial",
 "id": "malmstrom-oscar-flight-1967",
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "An association denial: the document does not deny the claim, it simply fails to contain it, and that tells against it. BOUNDED: the covering letter says the release is excerpts, not complete histories.",
+"predicate": "omitted",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-06-14",
@@ -143,7 +162,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "leaves out"
 },
 {
 "claimTier": 1,
@@ -153,10 +173,14 @@
 "direction": "out",
 "edgeId": "e-f2e965e318",
 "edgeLabel": "Host of the released scan",
+"family": "custody",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "The Black Vault is the host of the released scan.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -165,7 +189,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -175,10 +200,14 @@
 "direction": "out",
 "edgeId": "e-ebac1ce737",
 "edgeLabel": "An Air Force wing history, released by an Air Force FOIA office",
+"family": "documents",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "The history is an Air Force wing history and the release is an Air Force FOIA response.",
+"predicate": "released",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -187,7 +216,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was released by"
 }
 ],
 "coords": null,

@@ -143,10 +143,14 @@
 "direction": "out",
 "edgeId": "e-c109071d21",
 "edgeLabel": "ICD 906 is the DNI's exercise of the section 4.3 SAP authority",
+"family": "law",
 "id": "eo-13526",
 "l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "ICD 906 section B.1 establishes oversight of IC special access programs 'pursuant to EO 13526, Section 4.3', which assigns intelligence SAPs to the DNI.",
+"predicate": "implements",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-19",
@@ -160,7 +164,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "implements"
 },
 {
 "claimTier": 3,
@@ -170,10 +175,14 @@
 "direction": "in",
 "edgeId": "e-8affacd3b6",
 "edgeLabel": "controlled-access counterpart",
+"family": "analysis",
 "id": "iaa-fy2024-7343",
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Tier 3, and recorded as a reading rather than a citation. The board's existing claim holds that secs. 1687 and 7343 are deliberately mirrored across the DoD/IC seam identified in 50 U.S.C. 3348(g)(2)(B) and ICD 906 C.3. ICD 906 is ODNI's controlled-access-programme directive and is the IC-side instrument the mirroring runs through. Neither text cites the other.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-12-22",
@@ -182,7 +191,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -192,10 +202,14 @@
 "direction": "out",
 "edgeId": "e-e128df55ba",
 "edgeLabel": "Makes the CAPCO director the accountable official and registry holder",
+"family": "law",
 "id": "odni-capco",
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "ICD 906 section D.9 designates the Director of ODNI CAPCO as accountable for implementation and requires management of the CAP Registry of all control systems, compartments and sub-compartments.",
+"predicate": "mandated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-19",
@@ -204,7 +218,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -214,10 +229,14 @@
 "direction": "out",
 "edgeId": "e-85fbac12e9",
 "edgeLabel": "D.9 makes the CAPCO Director the accountable official",
+"family": "law",
 "id": "odni-capco",
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -226,7 +245,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -236,10 +256,14 @@
 "direction": "out",
 "edgeId": "e-98e3e59267",
 "edgeLabel": "",
+"family": "law",
 "id": "odni-capco",
 "l0": false,
 "label": "ODNI Controlled Access Program Coordination Office (CAPCO)",
 "note": "The directive creates the office's duties. ICD 906 E.4 makes CAPCO the central point of contact for all CAP requirements and requires it to maintain the CAP Registry; D.9 names its Director the accountable official for implementation.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-19",
@@ -253,7 +277,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -263,10 +288,14 @@
 "direction": "in",
 "edgeId": "e-a5ff13b3f8",
 "edgeLabel": "3091a(d)(3) defines 'controlled access program' as a program created or managed pursuant to ICD 906",
+"family": "documents",
 "id": "usc-50-3091a",
 "l0": false,
 "label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -285,7 +314,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -295,10 +325,14 @@
 "direction": "out",
 "edgeId": "e-e2aa68b41c",
 "edgeLabel": "",
+"family": "documents",
 "id": "usc-50-3091a",
 "l0": false,
 "label": "50 U.S.C. 3091a - Congressional Oversight of Controlled Access Programs",
 "note": "The statute defines its own subject by reference to the directive: 50 U.S.C. 3091a(e)(3) defines a controlled access program as 'a program created or managed pursuant to Intelligence Community Directive 906, or successor directive'. Congress delegated the definition to an executive instrument, so what counts as a CAP can change without legislation.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-05",
@@ -312,7 +346,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -322,10 +357,14 @@
 "direction": "in",
 "edgeId": "e-4185e51175",
 "edgeLabel": "Covert action is expressly outside the IC controlled access program regime",
+"family": "organisation",
 "id": "usc-50-3093",
 "l0": false,
 "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "ICD 906 section C.3: 'Nor does this Directive apply to special access programs under the purview of the National Security Council, such as covert action.'",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-19",
@@ -339,7 +378,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "does not include"
 }
 ],
 "coords": null,

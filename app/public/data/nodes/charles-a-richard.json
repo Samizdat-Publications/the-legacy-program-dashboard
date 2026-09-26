@@ -58,10 +58,14 @@
 "direction": "out",
 "edgeId": "e-50fd21e56f",
 "edgeLabel": "President of IDA after commanding US Strategic Command",
+"family": "role",
 "id": "ida",
 "l0": false,
 "label": "Institute for Defense Analyses",
 "note": "His STRATCOM tenure, 2019-2022, coincides exactly with the UAP Task Force period and the establishment of AARO.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 }
 ],
 "date": "2026-08-12",
@@ -119,7 +124,7 @@
 "status": "active",
 "sub": "President, Institute for Defense Analyses; Admiral, US Navy (Ret.); Commander, US Strategic Command (2019-2022)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 754 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 752 of 1138, score 22). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

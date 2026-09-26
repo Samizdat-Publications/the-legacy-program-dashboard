@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-3918674d0d",
 "edgeLabel": "both are allied-state responses to the same May 2026 US release",
+"family": "analysis",
 "id": "ev-argentina-bariloche-1995",
 "l0": false,
 "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
 "note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-11",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -94,7 +99,7 @@
 ],
 "sub": "Tokyo analyses Pentagon-released files containing sightings near Japan, May 2026",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1002 of 1138, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1001 of 1138, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": 2,

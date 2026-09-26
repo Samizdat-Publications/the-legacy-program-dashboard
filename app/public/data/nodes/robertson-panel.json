@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-0cc4acb08e",
 "edgeLabel": "Panel recommendations became binding Air Force regulation",
+"family": "place-time",
 "id": "afr-200-2",
 "l0": false,
 "label": "Air Force Regulation 200-2",
 "note": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1954-08-12",
@@ -64,7 +68,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -74,10 +79,14 @@
 "direction": "in",
 "edgeId": "e-69e7342db5",
 "edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
+"family": "testimony",
 "id": "allen-w-dulles",
 "l0": false,
 "label": "Allen W. Dulles",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
+"predicate": "acknowledged",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1953-03-13",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -96,10 +106,14 @@
 "direction": "in",
 "edgeId": "e-05f5b852b7",
 "edgeLabel": "CIA convened and sponsored the panel, and concealed that sponsorship",
+"family": "money",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -113,7 +127,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was funded by"
 },
 {
 "claimTier": 1,
@@ -123,10 +138,14 @@
 "direction": "in",
 "edgeId": "e-3710978124",
 "edgeLabel": "CIA convened and staffed the January 1953 scientific advisory panel",
+"family": "role",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1953-01-17",
@@ -140,7 +159,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was founded by"
 },
 {
 "claimTier": 2,
@@ -150,10 +170,14 @@
 "direction": "in",
 "edgeId": "e-532901d7a2",
 "edgeLabel": "Ruppelt attended the panel as Blue Book director and later described it",
+"family": "testimony",
 "id": "edward-ruppelt",
 "l0": false,
 "label": "Edward J. Ruppelt",
 "note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1956-01-01",
@@ -167,7 +191,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -177,10 +202,14 @@
 "direction": "in",
 "edgeId": "e-9d8f49cf11",
 "edgeLabel": "Durant was panel secretary and wrote the proceedings record",
+"family": "role",
 "id": "frederick-durant",
 "l0": false,
 "label": "Frederick C. Durant III",
 "note": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1953-02-16",
@@ -189,7 +218,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -199,10 +229,14 @@
 "direction": "in",
 "edgeId": "e-a04a01d84a",
 "edgeLabel": "Chadwell assembled the panel with Robertson",
+"family": "role",
 "id": "h-marshall-chadwell",
 "l0": false,
 "label": "H. Marshall Chadwell",
 "note": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -211,7 +245,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -221,10 +256,14 @@
 "direction": "in",
 "edgeId": "e-337a4c9e5d",
 "edgeLabel": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
+"family": "denial",
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -233,7 +272,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -243,10 +283,14 @@
 "direction": "out",
 "edgeId": "e-e549bdc7f9",
 "edgeLabel": "CIA's official history documents the panel's debunking and concealment",
+"family": "documents",
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Haines records the mass media and Disney recommendations and states plainly that CIA sponsorship of the panel was forbidden from being mentioned.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -255,7 +299,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -265,10 +310,14 @@
 "direction": "in",
 "edgeId": "e-1fcd561803",
 "edgeLabel": "Robertson chaired the panel",
+"family": "role",
 "id": "howard-p-robertson",
 "l0": false,
 "label": "Howard P. Robertson",
 "note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1953-01-17",
@@ -277,7 +326,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 2,
@@ -287,10 +337,14 @@
 "direction": "in",
 "edgeId": "e-6ecac0ea84",
 "edgeLabel": "Hynek presented to the panel but was not a member",
+"family": "organisation",
 "id": "j-allen-hynek",
 "l0": false,
 "label": "J. Allen Hynek",
 "note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
+"predicate": "outside_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1953-01-17",
@@ -299,7 +353,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 3,
@@ -309,10 +364,14 @@
 "direction": "in",
 "edgeId": "e-814761da21",
 "edgeLabel": "Contradicts the panel's 1953 disposition of the same films",
+"family": "testimony",
 "id": "navy-pic-1953-film-analysis",
 "l0": false,
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "note": "The Navy's own analysts assessed the Great Falls and Tremonton objects as intelligently controlled and not known technology in the same year the Robertson Panel recommended stripping the subject of special status.",
+"predicate": "contradicts",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-10",
@@ -326,7 +385,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is contradicted by"
 },
 {
 "claimTier": 2,
@@ -336,10 +396,14 @@
 "direction": "in",
 "edgeId": "e-748a157dea",
 "edgeLabel": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
+"family": "analysis",
 "id": "pentacle-memorandum",
 "l0": false,
 "label": "The Pentacle Memorandum",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -353,7 +417,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -363,10 +428,14 @@
 "direction": "in",
 "edgeId": "e-6c1c8aea13",
 "edgeLabel": "third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68)",
+"family": "analysis",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -375,7 +444,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -385,10 +455,14 @@
 "direction": "in",
 "edgeId": "e-895ded2e05",
 "edgeLabel": "Convened at his direction",
+"family": "law",
 "id": "walter-bedell-smith",
 "l0": false,
 "label": "Walter Bedell Smith",
 "note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1953-03-13",
@@ -397,7 +471,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was created by"
 }
 ],
 "coords": null,

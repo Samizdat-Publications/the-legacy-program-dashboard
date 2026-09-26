@@ -48,10 +48,14 @@
 "direction": "out",
 "edgeId": "e-7637a7be80",
 "edgeLabel": "Co-principal of the document archive",
+"family": "role",
 "id": "majestic-documents-archive",
 "l0": false,
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "Same copyright notice and About page attribution.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -60,7 +64,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -70,10 +75,14 @@
 "direction": "out",
 "edgeId": "e-909515bf6f",
 "edgeLabel": "Compiled the crash-retrieval catalogue",
+"family": "documents",
 "id": "majic-eyes-only",
 "l0": false,
 "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
 "note": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -82,7 +91,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 }
 ],
 "date": "2005-01-01",
@@ -131,7 +141,7 @@
 "status": "active",
 "sub": "Author, 'Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology' (2005); co-principal, The Majestic Documents",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1109 of 1138, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1106 of 1138, score 9). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

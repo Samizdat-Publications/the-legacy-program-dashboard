@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-90f215c57a",
 "edgeLabel": "ODNI coordinating authority for the release programme",
+"family": "organisation",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-09",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 }
 ],
 "date": "2026-05-08",
@@ -135,7 +140,7 @@
 "status": "active",
 "sub": "Director of National Intelligence; ODNI side of PURSUE",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 689 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 688 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

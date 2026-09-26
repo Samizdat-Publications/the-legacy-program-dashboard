@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-abdf3cf9e4",
 "edgeLabel": "The research was conducted at Menlo Park, California",
+"family": "place-time",
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "SRI International, founded 1946 by Stanford trustees and separated from the university in 1970, hosted the work at Menlo Park.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 }
 ],
 "coords": [
@@ -97,7 +102,7 @@
 ],
 "sub": "Independent research institute, 333 Ravenswood Ave, Menlo Park; founded 1946; separated from Stanford 1970",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 748 of 1138, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 747 of 1138, score 23). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

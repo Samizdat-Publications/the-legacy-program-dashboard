@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-9c7f1a3fe7",
 "edgeLabel": "Target vehicle contains no UAP provisions to amend",
+"family": "documents",
 "id": "disclosure-symposium-2026",
 "l0": false,
 "label": "2026 Disclosure Symposium",
 "note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-15",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -62,10 +67,14 @@
 "direction": "in",
 "edgeId": "e-6f13dadfb7",
 "edgeLabel": "Reported an FY2027 NDAA containing no UAP provisions",
+"family": "law",
 "id": "roger-wicker",
 "l0": false,
 "label": "Roger F. Wicker",
 "note": "S. 4784 as reported returns zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373.",
+"predicate": "sponsored_law",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-15",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 },
 {
 "claimTier": 3,
@@ -84,10 +94,14 @@
 "direction": "in",
 "edgeId": "e-775f7b84b4",
 "edgeLabel": "House-adopted amendment against a Senate base text with no UAP provisions",
+"family": "organisation",
 "id": "uapda-fy2027-house-adopted",
 "l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The House framework must survive conference against a Senate reported bill (S. 4784, S. Rept. 119-127) containing zero UAP provisions - the second consecutive cycle in which the subject is absent from the Senate base text. The 2023 precedent is that the eminent-domain and review-board provisions were stripped in conference.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-22",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "does not include"
 }
 ],
 "coords": null,
@@ -153,7 +168,7 @@
 ],
 "sub": "Reported by SASC June 2026; contains no UAP provisions",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 892 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 888 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": 1,

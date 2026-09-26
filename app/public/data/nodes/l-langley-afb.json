@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-b2e9a34b93",
 "edgeLabel": "DoD installation; NORAD/USNORTHCOM response",
+"family": "organisation",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -62,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-183aba30de",
 "edgeLabel": "site of the December 2023 incursions",
+"family": "place-time",
 "id": "langley-2023-incursions",
 "l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Joint Base Langley-Eustis first observed unidentified uncrewed aerial systems over the installation on the evening of 6 December 2023, with multiple further incursions through the month. The episode is the location's whole reason for being on this board.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -79,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -89,10 +99,14 @@
 "direction": "in",
 "edgeId": "e-ea81b5b055",
 "edgeLabel": "Site of the December 2023 incursions",
+"family": "place-time",
 "id": "langley-2023-incursions",
 "l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "The Air Force confirmed activity beginning the evening of 6 December 2023 and continuing through the month, prompting F-16 CAPs, NASA WB-57F orbits and FBI coordination.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-15",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was the scene of"
 }
 ],
 "coords": null,
@@ -165,7 +180,7 @@
 ],
 "sub": "Air Force installation, Hampton, Virginia; F-22 base and site of the 2023 incursions",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 707 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 706 of 1138, score 24). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [],
 "unverified": []
 }

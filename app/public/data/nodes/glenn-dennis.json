@@ -80,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-5e10e35301",
 "edgeLabel": "The 1997 report dismantled the 'missing nurse' account by name",
+"family": "denial",
 "id": "roswell-report-case-closed",
 "l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "Section 2.1 uses 427th AAFBU Squadron 'M' morning reports and National Personnel Records Center searches to show 'Naomi Maria Selff' never served, and identifies 1st Lt. Eileen M. Fanton as matching every other particular.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -92,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "was denied by"
 }
 ],
 "date": "2015-04-28",
@@ -173,7 +178,7 @@
 "status": "dead",
 "sub": "Mortician, Ballard Funeral Home, Roswell, 1947; 'missing nurse' witness",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 794 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 791 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C1/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

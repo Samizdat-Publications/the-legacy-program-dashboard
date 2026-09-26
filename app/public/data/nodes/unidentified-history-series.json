@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-919518ea44",
 "edgeLabel": "The series premiere prompted the 1 June 2019 Pentagon denial",
+"family": "place-time",
 "id": "christopher-sherwood",
 "l0": false,
 "label": "Christopher Sherwood",
 "note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-06-01",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -51,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-91df7be7e9",
 "edgeLabel": "TTSA production, executive produced by Tom DeLonge, History Channel 2019-2020",
+"family": "organisation",
 "id": "ttsa",
 "l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -63,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was produced by"
 }
 ],
 "coords": null,
@@ -105,7 +115,7 @@
 ],
 "sub": "Two-season documentary series, 2019-2020; TTSA production",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1099 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1094 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -65,10 +65,14 @@
 "direction": "in",
 "edgeId": "e-0f012748ee",
 "edgeLabel": "commissioned under AAWSAP; lowest DIA document number in the released set",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Tier 2, and the reason is worth stating. A full-text scan of this released DIRD on 23 August 2026 found NO occurrence of the programme name anywhere in the document - unlike 27 of the 32 scanned, whose inside cover names the Advanced Aerospace Weapon System Applications Program explicitly. The link therefore rests on the DIA's 9 January 2018 list to the Senate Armed Services Committee, which enumerates it among the 38 reference products, and not on the document's own text.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -92,7 +96,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -102,10 +107,14 @@
 "direction": "out",
 "edgeId": "e-20a5e5c39e",
 "edgeLabel": "subject domain: transformation optics, metamaterials and signature reduction",
+"family": "documents",
 "id": "d-materials",
 "l0": false,
 "label": "Materials and custody analysis",
 "note": "Contents run Camouflage, Transparency, Cloaking. The paper is the signature-reduction leg of the survey, sitting alongside Shvets's 'Metamaterials for Aerospace Applications' and against Culbreth's hypersonic detection paper. Puthoff listed signature reduction among the twelve threat areas DIA specified in the Broad Area Announcement.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -124,7 +133,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -134,10 +144,14 @@
 "direction": "in",
 "edgeId": "e-3cc1119011",
 "edgeLabel": "DIRD",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -146,7 +160,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -156,10 +171,14 @@
 "direction": "in",
 "edgeId": "e-3b66be6d1d",
 "edgeLabel": "series member",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Membership of the DIRD series is established by the released document itself: its cover page carries the Defense Intelligence Reference Document mark and the DIA Defense Futures banner. Publication date 2 March 2010 on the cover. 30 pages in the released copy. The cover of the scanned release is degraded, so a document number or date is asserted here only where it reads unambiguously.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -173,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -183,10 +203,14 @@
 "direction": "out",
 "edgeId": "e-56fc4e85e9",
 "edgeLabel": "authored by Ulf Leonhardt, University of St Andrews",
+"family": "documents",
 "id": "ulf-leonhardt",
 "l0": false,
 "label": "Ulf Leonhardt",
 "note": "The DIA list of 9 January 2018 records 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' The released PDF's author block is redacted under (b)(6). Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by the ICOD of 1 December 2009, one of the small number of internationally recognised authorities in the field. George Knapp released a copy of the DIRD in February 2019.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -215,7 +239,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,

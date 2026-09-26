@@ -63,10 +63,14 @@
 "direction": "out",
 "edgeId": "e-84f49eef40",
 "edgeLabel": "Arnold's case entered the official file series from the outset",
+"family": "testimony",
 "id": "project-blue-book",
 "l0": true,
 "label": "Project Blue Book",
 "note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -80,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -90,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-5f7f5d2b52",
 "edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
+"family": "place-time",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -107,7 +116,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "led to"
 }
 ],
 "date": "1947-06-24",
@@ -171,7 +181,7 @@
 "status": "dead",
 "sub": "Civilian pilot; originator of the 1947 wave",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 905 of 1138, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 904 of 1138, score 17). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

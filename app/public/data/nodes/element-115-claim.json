@@ -71,10 +71,14 @@
 "direction": "in",
 "edgeId": "e-7c48dbc330",
 "edgeLabel": "The element 115 fuel claim is his",
+"family": "testimony",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "Timestamped in the 1991 tape: the reactor account, the 223 grams, the 1740 degrees Celsius melting point and the machining into triangles.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -83,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -93,10 +98,14 @@
 "direction": "out",
 "edgeId": "e-dc67514555",
 "edgeLabel": "The tape is the artefact in which the element 115 claim is fixed in datable form",
+"family": "custody",
 "id": "lazar-tape-1991",
 "l0": false,
 "label": "The Lazar Tape and Excerpts from the Government Bible (1991)",
 "note": "GENUINE CUSTODY: a document containing the claim, in the same sense the ruling allows for a document containing another document. Neither endpoint is a claimant, so the x3.0 weighting falls on two artefact nodes and not on a person.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -105,7 +114,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -115,10 +125,14 @@
 "direction": "out",
 "edgeId": "e-86a7f2a334",
 "edgeLabel": "The real element: synthesised 2003, published 2004, assigned 2015, named moscovium 2016",
+"family": "testimony",
 "id": "nnsa",
 "l0": false,
 "label": "National Nuclear Security Administration",
 "note": "THE FIRST CLAUSE OF THIS EDGE IS THE CONTRADICTION, NOT THE CONNECTION: nothing about the synthesised element is stable, machinable or storable, and the isotopes 287 and 288 are produced one atom at a time at picobarn cross sections. Lawrence Livermore, an NNSA laboratory, was in the discovering collaboration with Dubna and Oak Ridge. The edge exists because the element-115 claim is routinely presented as vindicated by these events, and this is the record that shows it was not.",
+"predicate": "contradicts",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2004-02-02",
@@ -137,7 +151,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -147,10 +162,14 @@
 "direction": "in",
 "edgeId": "e-151cfa6d24",
 "edgeLabel": "The island of stability near element 114 was published popular physics from 1969",
+"family": "denial",
 "id": "tom-mahood",
 "l0": false,
 "label": "Tom Mahood",
 "note": "This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened.",
+"predicate": "explained_away",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-18",
@@ -159,7 +178,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "was given a conventional explanation by"
 }
 ],
 "coords": null,

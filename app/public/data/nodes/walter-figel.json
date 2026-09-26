@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-0f6b45b11d",
 "edgeLabel": "Echo Flight deputy crew commander at Malmstrom",
+"family": "role",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Attested by parties on both sides of the dispute; the released unit history names no launch officer.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-06-01",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -80,10 +85,14 @@
 "direction": "out",
 "edgeId": "e-3284ad4f28",
 "edgeLabel": "Deputy crew commander on duty; the contested Echo Flight radio report",
+"family": "testimony",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "HIS ACCOUNT EXISTS ONLY AS ROBERT HASTINGS'S AUDIO RECORDINGS OF TELEPHONE CALLS IN 2008, 2009 AND 2010. HE DECLINED TO SIGN AN AFFIDAVIT FOR THE 2010 NATIONAL PRESS CLUB EVENT. NO PRE-CONTACT PUBLIC STATEMENT BY HIM HAS BEEN IDENTIFIED. James Carlson states he said the opposite.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-06-01",
@@ -102,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -112,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-7be1e0e83f",
 "edgeLabel": "Located and recorded him; the account exists only as Hastings's tapes",
+"family": "media",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN. Three telephone conversations in 2008, 2009 and 2010, recorded by and held by the interviewer. The recordings have not been published in full at any URL this board has opened.",
+"predicate": "interviewed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-06-01",
@@ -124,7 +138,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was interviewed by"
 }
 ],
 "date": "1967-03-16",

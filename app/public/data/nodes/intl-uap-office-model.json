@@ -30,10 +30,14 @@
 "direction": "in",
 "edgeId": "e-3589f8391f",
 "edgeLabel": "the civil-aviation implementation of the same model",
+"family": "analysis",
 "id": "cefaa",
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -42,7 +46,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -52,10 +57,14 @@
 "direction": "in",
 "edgeId": "e-5626217b95",
 "edgeLabel": "the reference implementation of a civil state UAP office",
+"family": "analysis",
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-03-31",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-f48b2b0d7c",
 "edgeLabel": "the report is the source of the three-office model",
+"family": "analysis",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -128,7 +143,7 @@
 ],
 "sub": "The only national UAP arrangements a G7 government has endorsed as models",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 983 of 1138, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 979 of 1138, score 15). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

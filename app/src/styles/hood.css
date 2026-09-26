@@ -46,6 +46,13 @@
 a.hood-b { color: var(--dim); }
 .hood-b:hover { color: var(--text); border-color: var(--line2); text-decoration: none; }
 .hood-b.on { color: var(--cyan); border-color: var(--cyan); background: rgba(94, 212, 230, 0.09); }
+/* the family filter (phase 7): one select, so the strip keeps its height */
+.hood-fam {
+  font: inherit; letter-spacing: 0.08em; color: var(--dim);
+  padding: 2px 6px; border: 1px solid var(--line); background: var(--panel);
+  max-width: 260px;
+}
+.hood-fam:focus-visible { outline: 1px solid var(--cyan); }
 
 /* ---- the stage --------------------------------------------------------- */
 .hood-stage { position: relative; flex: 1 1 auto; overflow: hidden; }

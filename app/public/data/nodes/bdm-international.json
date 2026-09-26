@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-eb1e357ad6",
 "edgeLabel": "headquartered at 1501 BDM Way, McLean, Virginia",
+"family": "place-time",
 "id": "l-mclean",
 "l0": false,
 "label": "McLean, Virginia",
 "note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1996-03-12",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-d684acecdc",
 "edgeLabel": "TRW acquired BDM by cash tender offer, 1997",
+"family": "organisation",
 "id": "trw-inc",
 "l0": false,
 "label": "TRW Inc.",
 "note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-11-26",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,
@@ -117,7 +127,7 @@
 ],
 "sub": "Defence services contractor, McLean VA; Ford Aerospace 1988, Carlyle Group 1990",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 804 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 802 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D1.",
 "timeline": [],
 "unverified": [
 "The commonly stated chain BDM to TRW in 1997 and TRW to Northrop Grumman in 2002 was NOT read off any document in this pass, and no edge to northrop-grumman is drawn on it. Neither John B. Alexander's nor Jacques Vallee's published account of the Advanced Theoretical Physics group was read; a named participant in print would move that claim to Tier 2."

@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-19864b3591",
 "edgeLabel": "Written by the CIA History Staff in 1992 and released by the Agency in 2013",
+"family": "documents",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "Written by the CIA History Staff in 1992 and released by the Agency on 25 June 2013.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-c581aaba16",
 "edgeLabel": "Same History Staff, five years earlier, on the projects the 1997 UFO history rests on",
+"family": "documents",
 "id": "haines-cia-history",
 "l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "The board's Haines UFO history of 1997 rests on CIA officials who worked on the U-2 and OXCART projects; this is the same History Staff's own history of those projects. Tier 2 because the connection is between two Agency histories and no opened document states it.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-dea6bbd861",
 "edgeLabel": "The Agency's own account of the establishment and use of the Groom Lake site",
+"family": "documents",
 "id": "l-area51",
 "l0": false,
 "label": "Area 51 (Homey Airport / Groom Lake operating location)",
 "note": "It is the Agency's own account of the establishment and use of the Groom Lake site, and the 2013 release is the version in which the Area 51 references were left intact.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "concerns"
 }
 ],
 "coords": null,

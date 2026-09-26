@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-e8a651a623",
 "edgeLabel": "Analysis performed with MIBI, a Stanford-developed instrument",
+"family": "custody",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
+"predicate": "analysed_material",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-01-01",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through custody to"
 }
 ],
 "coords": null,
@@ -98,7 +103,7 @@
 ],
 "sub": "Department of Pathology; SIMS/MIBI materials and tissue analysis",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 810 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 808 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D2.",
 "timeline": [],
 "unverified": []
 }

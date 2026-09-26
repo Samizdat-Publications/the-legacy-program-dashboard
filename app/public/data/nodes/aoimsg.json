@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-e1e19047c5",
 "edgeLabel": "superseded and disestablished by AARO",
+"family": "organisation",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The 15 July 2022 memorandum disestablished AOIMSG eight months after its creation and replaced it with AARO.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-07-15",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-df4d3ab483",
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
+"family": "role",
 "id": "kathleen-hicks",
 "l0": false,
 "label": "Kathleen H. Hicks",
 "note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-07-15",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was founded by"
 }
 ],
 "coords": null,
@@ -117,7 +127,7 @@
 ],
 "sub": "OSD synchronization group, Nov 2021 - Jul 2022",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 799 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 796 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [
 {
 "claimTier": null,

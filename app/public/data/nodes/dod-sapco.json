@@ -107,10 +107,14 @@
 "direction": "in",
 "edgeId": "e-1670773b6f",
 "edgeLabel": "AARO's SAP review ran through the DoD SAP control office",
+"family": "role",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO states it 'established a partnership with the Special Access Program Control Offices for the DoD, IC, and DHS to review programs identified in interviews by name or description' and that 'AARO investigators have been granted full access to all pertinent sensitive USG programs'.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -119,7 +123,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -129,10 +134,14 @@
 "direction": "in",
 "edgeId": "e-c6630de025",
 "edgeLabel": "DoD SAPCO holds the list of carved-out facilities",
+"family": "custody",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "DoDI 5205.11 Enclosure 2 para 2.k requires DoD SAPCO to provide 'DSS confirmation of SAP facilities where the DSS has been carved out of security oversight functions'.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -141,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -151,10 +161,14 @@
 "direction": "out",
 "edgeId": "e-16460b18c3",
 "edgeLabel": "DoDI 5205.11 para. 7.2.h - waived-programme justification materials go only to committee staff directors",
+"family": "custody",
 "id": "classified-annex",
 "l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "DoDI 5205.11 para. 7.2.h, 'Congressional Budget Justification Materials': 'The DoD will conform to all congressional reporting requirements. The DoD will submit to the congressional defense and intelligence committees such additional materials as are requested by the committees and are within the jurisdiction of each committee. Justification materials for waived programs will be presented only to the committee staff directors.' This is the best available primary evidence that DoD continued to route waived-programme justification material to the defense committees after the 31 December 2021 termination of 10 U.S.C. 119(a) and (b) - but note that it routes that material to staff directors rather than through the 119(e)(2) chair-and-ranking channel, and it rests on committee request rather than on a standing statutory reporting duty.",
+"predicate": "transferred",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -173,7 +187,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -183,10 +198,14 @@
 "direction": "out",
 "edgeId": "e-51e6ce2365",
 "edgeLabel": "the office that holds the Department's SAP portfolio and is its single point of contact to Congress",
+"family": "analysis",
 "id": "d-structure",
 "l0": false,
 "label": "Program structure and organisational mapping",
 "note": "Established by DoD Directive 5205.07 (reissued 12 September 2024) 'under the authority, direction, and control of the Deputy Secretary of Defense', with a Director who must be a general or flag officer or SES equivalent, and designated the primary DoD liaison with the Executive Branch and Congress on all DoD SAP issues. Any structural map of where a legacy programme could sit starts at this node.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -200,7 +219,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -210,10 +230,14 @@
 "direction": "in",
 "edgeId": "e-c1da82fed6",
 "edgeLabel": "The office that must approve any contractor's provision of SAP material to Congress",
+"family": "denial",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "DoDD 5205.07 (2010) para 4.e requires DoD SAPCO approval before any contractor provides SAP material to a member of Congress - the structural barrier a contractor witness would face.",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -222,7 +246,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -232,10 +257,14 @@
 "direction": "in",
 "edgeId": "e-8a075a703e",
 "edgeLabel": "Grusch alleges programs were withheld from the reporting mechanism SAPCO administers",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch's sworn testimony to House Oversight on 26 July 2023 alleges a multi-decade materials acquisition and exploitation activity concealed from Congress. In statutory terms the allegation is that programs were not reported under 10 U.S.C. 119 or were reported only under the waiver.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -249,7 +278,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -259,10 +289,14 @@
 "direction": "out",
 "edgeId": "e-12bee43241",
 "edgeLabel": "Central SAP management office under the Deputy Secretary of Defense",
+"family": "organisation",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "DoDD 5205.07 (12 Sep 2024) places DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', with a general officer, flag officer or SES Director reporting directly to DEPSECDEF. Attested by the directive itself.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-09-12",
@@ -271,7 +305,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 2,
@@ -281,10 +316,14 @@
 "direction": "in",
 "edgeId": "e-c0814acf71",
 "edgeLabel": "The SAPCO staffed the committee from the start",
+"family": "place-time",
 "id": "dod-sap-reform-1994",
 "l0": false,
 "label": "DoD special access programme governance change, 5 January 1994",
 "note": "The bulletin makes the director of the SAP Coordinating Office both a member of and executive secretary to the SAPOC, and says the SAPCO 'serves as the primary point of contact with Congress, the National Security Council, and other government agencies'.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1994-11-01",
@@ -293,7 +332,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -303,10 +343,14 @@
 "direction": "in",
 "edgeId": "e-414f10a49e",
 "edgeLabel": "Established DoD SAPCO under the Deputy Secretary of Defense",
+"family": "law",
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "DoDD 5205.07 (2010) para 4.c establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense' with a flag officer or SES Director.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-08-31",
@@ -315,7 +359,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -325,10 +370,14 @@
 "direction": "in",
 "edgeId": "e-45d3c17efb",
 "edgeLabel": "assigns it the patent and inspection roles",
+"family": "law",
 "id": "dodm-5205-07-series",
 "l0": false,
 "label": "DoDM 5205.07 - DoD SAP Security Manual (Volumes 1-4)",
 "note": "Volume 1 Enclosure 4 para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' Volume 1 also routes inspections through the SAPCOs jointly with DSS where a programme is not carved out. Both are verbatim from this node's recorded quotations, and the patents provision is the one that matters most to this board: it is an explicit channel for intellectual property arising inside a special access programme.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-18",
@@ -342,7 +391,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is required by"
 },
 {
 "claimTier": 2,
@@ -352,10 +402,14 @@
 "direction": "in",
 "edgeId": "e-05472f762d",
 "edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
+"family": "oversight",
 "id": "ousdi",
 "l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "DoDD 5205.07 assigns SAP policy responsibilities across OSD principals including the Under Secretary of Defense for Intelligence and Security, while vesting central management in DoD SAPCO under DEPSECDEF.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-09-12",
@@ -364,7 +418,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -374,10 +429,14 @@
 "direction": "out",
 "edgeId": "e-85b46125e0",
 "edgeLabel": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
+"family": "law",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-08-31",
@@ -386,7 +445,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -396,10 +456,14 @@
 "direction": "out",
 "edgeId": "e-ed3845d0a8",
 "edgeLabel": "all component submissions route through DoD SAPCO",
+"family": "organisation",
 "id": "sap-annual-report",
 "l0": false,
 "label": "The annual DoD special access program report to Congress",
 "note": "DoD SAPCO is the office this report is compiled through. 10 U.S.C. 119(a)(1) puts the obligation on the Secretary of Defense - 'not later than March 1 of each year, the Secretary of Defense shall submit to the defense committees a report on special access programs' - and DoDD 5205.07 vests central management of the SAP enterprise in DoD SAPCO under the Deputy Secretary of Defense. The statute names the Secretary; the directive names the office that does the work.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -418,7 +482,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -428,10 +493,14 @@
 "direction": "out",
 "edgeId": "e-41b7af31bd",
 "edgeLabel": "SAPCO administers the read-in architecture Luna described",
+"family": "organisation",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Chairwoman Luna testified on 9 September 2025 that a non-committee member must be approved by the chairman and ranking member of both HASC and HAC-D to view specific material; the underlying access records and accreditation are held by the SAPCO enterprise.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -445,7 +514,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "ran"
 },
 {
 "claimTier": 3,
@@ -455,10 +525,14 @@
 "direction": "in",
 "edgeId": "e-bda2094de0",
 "edgeLabel": "AARO Director's programmatic access ran through the SAPCO enterprise",
+"family": "conduct",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Kirkpatrick directed AARO throughout the period covered by the Historical Record Report, so the 'full access to all pertinent sensitive USG programs' assurance is his. Reasoning: the report is AARO's product under his directorship, and no independent verification of the SAP list handed to AARO has been produced.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-03-08",
@@ -467,7 +541,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -477,10 +552,14 @@
 "direction": "in",
 "edgeId": "e-494c7e9c5b",
 "edgeLabel": "The appropriations tripwire on initiating or modifying a special access programme",
+"family": "law",
 "id": "sec-8009-sap-notice",
 "l0": false,
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "note": "Section 8009 of the FY2026 Defense Appropriations Act bars use of that Act's funds to initiate or materially modify the scope of a SAP without 30 days advance notice to the congressional defense committees; DoD SAPCO is the office that administers the SAP enterprise under the Deputy Secretary. Attested by the statute.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-02-03",
@@ -489,7 +568,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -499,10 +579,14 @@
 "direction": "out",
 "edgeId": "e-0ac0889b58",
 "edgeLabel": "Single point of congressional liaison for every DoD special access program",
+"family": "oversight",
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "DoDD 5205.07 requires personnel to notify the Director, DoD SAPCO and OA SAPCO directors when briefing Congress or congressional staff with SAP material, and bars contractors from providing such material without specific approval. The office being overseen is notified before the overseer is briefed.",
+"predicate": "reports_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-02-12",
@@ -516,7 +600,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -526,10 +611,14 @@
 "direction": "out",
 "edgeId": "e-aeaf681082",
 "edgeLabel": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
+"family": "law",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs,' effective 12 September 2024, para. 7.2.a(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction 'except for waived programs.'",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -553,7 +642,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -563,10 +653,14 @@
 "direction": "out",
 "edgeId": "e-b22909a990",
 "edgeLabel": "DoDI 5205.11 retains the acknowledged / unacknowledged / waived taxonomy the 2024 directive omitted",
+"family": "law",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDI 5205.11 para. 1.2.f, effective the same day as the reissued DoDD 5205.07: 'The Secretary of Defense may designate select unacknowledged SAPs as \"waived\" when it is determined that using standard procedures for reporting to Congress would adversely affect national security, pursuant to Section 119 of Title 10, United States Code. Waived SAPs remain subject to congressional oversight.' The glossary retains definitions of acknowledged SAP, unacknowledged SAP, SAP type and waived SAP, the last defined as 'A SAP for which the Secretary of Defense has waived applicable ... An unacknowledged SAP that has more restrictive reporting and access controls than other unacknowledged SAPs.' The taxonomy was therefore not retired in September 2024; it was moved down one level from the directive into the instruction. Para. 3 further requires the SAP Oversight Committee's annual review to assess 'All waived DoD SAPs to determine the need for continued waived status' - an internal executive-branch review with no congressional trigger and no analogue in section 119.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -580,7 +674,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -590,10 +685,14 @@
 "direction": "out",
 "edgeId": "e-96aaaca442",
 "edgeLabel": "contractor disclosure to Congress requires SAPCO approval",
+"family": "law",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The office is where the designation is administered. DoDD 5205.07 establishes DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', and DoDI 5205.11 para. 1.2.f gives the Secretary the power to designate select unacknowledged SAPs as waived. The waiver is a statutory power exercised through this structure.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -612,7 +711,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through law to"
 }
 ],
 "coords": null,

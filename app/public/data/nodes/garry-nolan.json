@@ -156,10 +156,14 @@
 "direction": "out",
 "edgeId": "e-1710267de7",
 "edgeLabel": "competing materials programme",
+"family": "analysis",
 "id": "aaro-ornl-materials-analyses",
 "l0": false,
 "label": "AARO / Oak Ridge National Laboratory materials analyses",
 "note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -173,7 +177,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -183,10 +188,14 @@
 "direction": "in",
 "edgeId": "e-2269b797a0",
 "edgeLabel": "Chair and member of the same 2026 advisory council",
+"family": "role",
 "id": "avi-loeb",
 "l0": false,
 "label": "Abraham 'Avi' Loeb",
 "note": "The astronomer who built the unclassified instrumentation programme and the pathologist who published the materials analysis now sit on the same federally requested body - with neither given classified access.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-06-15",
@@ -200,7 +209,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "worked with"
 },
 {
 "claimTier": 2,
@@ -210,10 +220,14 @@
 "direction": "out",
 "edgeId": "e-f8c71a8068",
 "edgeLabel": "Approached by unnamed government and aerospace-corporation representatives about casualty biology",
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Nolan told KQED he was approached about medical harm from 'supposed interactions with an anomalous craft'. Neither the government element nor the corporation has ever been named, which is where this chain goes dark at its first link.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-14",
@@ -222,7 +236,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -232,10 +247,14 @@
 "direction": "out",
 "edgeId": "e-6ffc267146",
 "edgeLabel": "Sol Foundation co-founder; Grusch served as chief operating officer",
+"family": "role",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch's House Oversight biography lists him as COO of The Sol Foundation from May 2023 - the academic-adjacent institution co-founded by Nolan that became his landing place immediately on leaving government.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-07-26",
@@ -244,7 +263,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -254,10 +274,14 @@
 "direction": "out",
 "edgeId": "e-608d01611f",
 "edgeLabel": "Nolan vouched for Grusch before the July 2023 hearing",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Leslie Kean told Ezra Klein in June 2023 that Nolan 'knows David Grusch very well and vouches for him' - the technical layer's credibility being lent to the whistleblower strand.",
+"predicate": "corroborated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -266,7 +290,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -276,10 +301,14 @@
 "direction": "out",
 "edgeId": "e-7a63ae249c",
 "edgeLabel": "Same problem, twelve years apart: casualty biology as a route to propulsion characterisation",
+"family": "analysis",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green's 2009 AAWSAP DIRD set out the hypothesis that human injury data could reverse-engineer aspects of the energy and propulsion systems. Nolan says he was later approached to assess medical harm from anomalous craft. No document connects the two engagements, but they are the same research programme stated twice.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-01-01",
@@ -293,7 +322,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -303,10 +333,14 @@
 "direction": "out",
 "edgeId": "e-5a9c099223",
 "edgeLabel": "Senior author of the first peer-reviewed UAP materials analysis",
+"family": "documents",
 "id": "paper-nolan-vallee-2022",
 "l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-01-01",
@@ -315,7 +349,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -325,10 +360,14 @@
 "direction": "in",
 "edgeId": "e-f6ef22f7ec",
 "edgeLabel": "briefing analyses Nolan's Council Bluffs materials study",
+"family": "documents",
 "id": "sol-briefing-3-2026",
 "l0": false,
 "label": "Sol Foundation Science and Policy Briefing No. 3 (April 2026)",
 "note": "The briefing's subject is the SIMS and MIBI analysis led by Stanford professor Garry P. Nolan with Jacques Vallee, Sizun Jiang and Larry Lemke of the 1977 Council Bluffs, Iowa molten-metal sample, published in Progress in Aerospace Sciences 128 (2022).",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -342,7 +381,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "is the subject of"
 },
 {
 "claimTier": 1,
@@ -352,10 +392,14 @@
 "direction": "out",
 "edgeId": "e-3dcb60b4ee",
 "edgeLabel": "Co-founder and Executive Director of the Board",
+"family": "role",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Co-founded with Peter Skafish on 15 August 2023; the foundation's materials-research programme is built around the analytical capability Nolan brought.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -374,7 +418,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 },
 {
 "claimTier": 2,
@@ -384,10 +429,14 @@
 "direction": "out",
 "edgeId": "e-875e305d82",
 "edgeLabel": "Named as the council's molecular biologist",
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The scientist who published the first peer-reviewed UAP materials analysis is seated on a body with no access to the government's own materials.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-15",
@@ -401,7 +450,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2023-06-05",

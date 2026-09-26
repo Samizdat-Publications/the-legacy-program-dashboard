@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-60e8d11db2",
 "edgeLabel": "Nuccetelli says the Air Force records are now held by AARO and the FBI",
+"family": "custody",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "'Official Air Force records documenting it are now held by AARO and the FBI.' A specific, FOIA-targetable custody claim that neither agency has confirmed or denied.",
+"predicate": "alleged_to_hold",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-b4ba0b2fe1",
 "edgeLabel": "Military police witness and report recipient at Vandenberg, 2003-2005",
+"family": "testimony",
 "id": "jeffrey-nuccetelli",
 "l0": false,
 "label": "Jeffrey Nuccetelli",
 "note": "Nuccetelli testified to reports of a glowing red square over two missile defense sites on 14 October 2003 and a triangular craft over the main base in 2005.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,
@@ -111,7 +121,7 @@
 ],
 "sub": "Missile-defence site overflights reported by security forces and contractors",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 767 of 1138, score 22). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 765 of 1138, score 22). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

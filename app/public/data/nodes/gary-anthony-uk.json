@@ -39,10 +39,14 @@
 "direction": "out",
 "edgeId": "e-12606bd281",
 "edgeLabel": "co-requester of the Condign FOI",
+"family": "testimony",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Named with Clarke as co-requester in the report's release history and in contemporaneous BBC and Guardian coverage.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-19",
@@ -51,7 +55,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 }
 ],
 "date": "2006-05-15",
@@ -100,7 +105,7 @@
 "status": "active",
 "sub": "Co-requester of the Project Condign FOI release; former BUFORA astronomical consultant",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1129 of 1138, score 7). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1128 of 1138, score 7). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

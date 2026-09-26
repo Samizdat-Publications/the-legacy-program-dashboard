@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-de4829fd15",
 "edgeLabel": "Asked the White House to grant immunity to whistleblowers who disclose locations of craft and technology",
+"family": "conduct",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "The immunity ask is the caucus's response to the failure of the whistleblower bills to move.",
+"predicate": "supported",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-09",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-a855b2c07a",
 "edgeLabel": "Returned to Capitol Hill and said political appointees have not complied with the disclosure law",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "His first Capitol appearance with lawmakers since the 2023 testimony.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-09",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-10fe5006c9",
 "edgeLabel": "Called on the President to waive all NDAs for UAP whistleblowers; described a dead drop to his office",
+"family": "testimony",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "'For decades, the American people have been treated like children.'",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-09",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-5d54a26bc0",
 "edgeLabel": "'Disclosure today, disclosure tomorrow'",
+"family": "conduct",
 "id": "jared-moskowitz",
 "l0": false,
 "label": "Jared Evan Moskowitz",
 "note": "Keeps the 2026 push bipartisan.",
+"predicate": "supported",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-09",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 2,
@@ -129,10 +149,14 @@
 "direction": "in",
 "edgeId": "e-4b6abdfd74",
 "edgeLabel": "Said an Area 51 tour would yield a T-shirt because the government would move everything else",
+"family": "media",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "A restatement of his 2023 line to Grusch about moving vans.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-09",
@@ -146,7 +170,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through media to"
 }
 ],
 "coords": null,

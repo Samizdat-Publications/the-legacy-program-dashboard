@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-da9b57d936",
 "edgeLabel": "the statutory root of the modern apparatus, codified at 50 U.S.C. 3373",
+"family": "analysis",
 "id": "d-legislation",
 "l0": false,
 "label": "Enacted Statute",
 "note": "Sec. 1683 of P.L. 117-81, signed 27 December 2021, directed establishment within 180 days of an office to carry out the duties of the UAP Task Force, with enumerated duties reaching beyond analysis into governance. Everything later in the enacted corpus amends or builds on what this section created.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-12-27",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -75,10 +80,14 @@
 "direction": "in",
 "edgeId": "e-173c772875",
 "edgeLabel": "GAO review of AARO's implementation of Sec. 1683",
+"family": "documents",
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
 "label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "note": "Sec. 6801 of P.L. 118-159 commissions a Comptroller General review with a report due on a mutually agreed timeframe rather than a date.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-12-23",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -97,10 +107,14 @@
 "direction": "in",
 "edgeId": "e-96d8f18afc",
 "edgeLabel": "Author of the founding AARO authority",
+"family": "documents",
 "id": "kirsten-gillibrand",
 "l0": false,
 "label": "Kirsten E. Gillibrand",
 "note": "Sec. 1683 of P.L. 117-81, codified at 50 U.S.C. 3373, is the statute every later UAP provision cross-references.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-12-27",
@@ -109,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -119,10 +134,14 @@
 "direction": "in",
 "edgeId": "e-5ee871d791",
 "edgeLabel": "Sec. 1683 is the UAP-office provision of P.L. 117-81",
+"family": "organisation",
 "id": "ndaa-fy2022",
 "l0": false,
 "label": "FY2022 NDAA, Public Law 117-81, Sec. 1683 (50 U.S.C. 3373) - statutory UAP office",
 "note": "Section 1683 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81, enacted 27 December 2021) is titled 'Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena', and sits in Title XVI, Subtitle E. It is the provision the board's section node is filed under.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-12-27",
@@ -141,7 +160,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -151,10 +171,14 @@
 "direction": "in",
 "edgeId": "e-1017d21b4d",
 "edgeLabel": "amends 50 U.S.C. 3373 to create AARO",
+"family": "law",
 "id": "ndaa-fy2023",
 "l0": false,
 "label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
 "note": "IAA FY2023 sec. 6802(a) rewrites sec. 1683 in full.",
+"predicate": "amended",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-12-23",
@@ -163,7 +187,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was amended by"
 },
 {
 "claimTier": 1,
@@ -173,10 +198,14 @@
 "direction": "out",
 "edgeId": "e-b2acad0685",
 "edgeLabel": "Sec. 1673 builds the reporting channel on the Sec. 1683 office",
+"family": "law",
 "id": "ndaa-fy2023-sec-1673",
 "l0": false,
 "label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
 "note": "Sec. 1673 of P.L. 117-263 defines 'Office' by reference to Sec. 1683(a) and creates the authorized reporting mechanism administered by it.",
+"predicate": "implements",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-12-23",
@@ -185,7 +214,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -195,10 +225,14 @@
 "direction": "out",
 "edgeId": "e-b422b73fa9",
 "edgeLabel": "Sec. 1841 defines UAP by cross-reference to 50 U.S.C. 3373",
+"family": "documents",
 "id": "ndaa-fy2024",
 "l0": true,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "The enacted collection statute borrows its definition from Gillibrand's section, but miscites it as 'section 1673(n)(8) of the NDAA for Fiscal Year 2022 (Public Law 117-81)' — conflating two different Acts.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -212,7 +246,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -222,10 +257,14 @@
 "direction": "out",
 "edgeId": "e-2a92f59f3b",
 "edgeLabel": "FY2026 amends Sec. 1683(l) to add intercept briefings",
+"family": "law",
 "id": "ndaa-fy2026",
 "l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "Sec. 1671 of P.L. 119-60 adds a new paragraph (5) requiring NORAD and NORTHCOM intercept detail in AARO briefings, reaching back to 1 January 2004.",
+"predicate": "amended",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-18",
@@ -239,7 +278,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "was amended by"
 }
 ],
 "coords": null,

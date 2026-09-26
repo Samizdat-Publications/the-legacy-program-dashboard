@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-61fa053866",
 "edgeLabel": "Names AFOSI/PJ, the Office of Special Projects, as an operative node",
+"family": "documents",
 "id": "afosi",
 "l0": true,
 "label": "Air Force Office of Special Investigations",
 "note": "Gerb identifies AFOSI/PJ and its former director Terry Phillips - now Northrop Grumman VP for Security - as a bridge between Air Force counterintelligence and contractor security.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "concerns"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-83af772df1",
 "edgeLabel": "Gerb cites the film's characterisation of the Air Force",
+"family": "documents",
 "id": "age-of-disclosure",
 "l0": false,
 "label": "The Age of Disclosure (documentary, 2025)",
 "note": "The Hidden Wing description notes the Air Force being 'labeled as a critical Crash Retrieval element in 2025's Age of Disclosure', using the film as a corroborating reference.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "cites"
 },
 {
 "claimTier": 2,
@@ -79,10 +89,14 @@
 "direction": "out",
 "edgeId": "e-339ddd1ba2",
 "edgeLabel": "Identifies candidates for Mellon's unnamed Air Force SES-2 gatekeeper",
+"family": "testimony",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Gerb proposes that SAF/AAH (Sensitive Activities) and SAF/AZ and their directors Russell Wyler and William Maclure are the likely referents of the Air Force SES-2 gatekeeper Christopher Mellon has described publicly. This is Gerb's method in miniature: take a witness's unnamed role and resolve it against the published org chart.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -101,10 +116,14 @@
 "direction": "in",
 "edgeId": "e-c7f4f6735e",
 "edgeLabel": "Gerb authored the USAF structural map",
+"family": "documents",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 30 January 2026; maps SAF/AQ, SAF/AQX, SAF/AQL, SAF/AQR, SAF/AA, SAF/AAH, SAF/AZ, AF/TE and AFOSI/PJ.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was written by"
 }
 ],
 "coords": null,

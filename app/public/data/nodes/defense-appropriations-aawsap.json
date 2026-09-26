@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-bf533eb81a",
 "edgeLabel": "Appropriations chairman who provided the vehicle",
+"family": "law",
 "id": "daniel-inouye",
 "l0": false,
 "label": "Daniel K. Inouye",
 "note": "Inouye's control of the Senate Appropriations process allowed the $22M to be routed through the classified annex without floor debate on the allocation.",
+"predicate": "sponsored_law",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-13",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-f3730aceb2",
 "edgeLabel": "$22M appropriated to DIA",
+"family": "money",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "The appropriation named DIA as the recipient agency to assess long-term and over-the-horizon foreign advanced aerospace threats.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "funded"
 },
 {
 "claimTier": 3,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-152e6fcbe7",
 "edgeLabel": "receipt for the authorization gap",
+"family": "analysis",
 "id": "dia-aatip-letter-2018",
 "l0": false,
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "note": "That DIA had to introduce the program to SASC by letter in 2018 establishes the committee had no visibility during its life — the direct consequence of funding it through the classified appropriation.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-01-09",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -101,10 +116,14 @@
 "direction": "in",
 "edgeId": "e-1e431e0251",
 "edgeLabel": "directed the $22M appropriation",
+"family": "place-time",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "followed from"
 },
 {
 "claimTier": 2,
@@ -123,10 +143,14 @@
 "direction": "in",
 "edgeId": "e-b370e289c1",
 "edgeLabel": "provided bipartisan cover for the earmark",
+"family": "conduct",
 "id": "ted-stevens",
 "l0": false,
 "label": "Theodore F. Stevens",
 "note": "Stevens, the senior Republican appropriator and former committee chairman, is consistently named with Reid and Inouye as one of the three senators behind the appropriation.",
+"predicate": "supported",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-06-13",
@@ -135,7 +159,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": "was supported by"
 }
 ],
 "coords": null,

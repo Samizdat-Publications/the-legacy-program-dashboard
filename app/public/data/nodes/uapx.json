@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-896d81813e",
 "edgeLabel": "Vice President of UAPx and co-author of the 2025 paper",
+"family": "role",
 "id": "kevin-knuth",
 "l0": false,
 "label": "Kevin H. Knuth",
 "note": "Knuth links UAPx to the Galileo Project, where he is a research affiliate, and to SCU through the Entropy collaboration with Powell.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -56,10 +61,14 @@
 "direction": "in",
 "edgeId": "e-d908a007f9",
 "edgeLabel": "Co-founder; first author of the field-expedition results",
+"family": "role",
 "id": "matthew-szydagis",
 "l0": false,
 "label": "Matthew Szydagis",
 "note": "A liquid-xenon dark-matter physicist applying direct-detection discipline - background rates, instrumental artefacts, false positives - to open-air field observation.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -68,7 +77,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -78,10 +88,14 @@
 "direction": "out",
 "edgeId": "e-aa57215d9a",
 "edgeLabel": "First peer-reviewed UAP field-expedition results",
+"family": "organisation",
 "id": "paper-uapx-2025",
 "l0": false,
 "label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
 "note": "Progress in Aerospace Sciences 156:101099, June 2025 - a published field protocol against which any future government sensor release can be compared.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-01",
@@ -90,7 +104,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -100,10 +115,14 @@
 "direction": "in",
 "edgeId": "e-3dea45016e",
 "edgeLabel": "Academic base of UAPx's science leadership - NOT a host, sponsor or funder",
+"family": "role",
 "id": "university-at-albany",
 "l0": false,
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "The distinction matters and is drawn by the University itself. UAlbany's release separates 'UAlbany authors Matthew Szydagis, Kevin Knuth and Cecilia Levy' from 'Ben Kugielsky of UAPx, a non-profit scientific research organization'. UAPx is an independent 501(c)(3); the University is where its two lead scientists hold their chairs, not its institutional home. This is the opposite of the harvard-cfa / galileo-project relationship already on the board, where the CfA is the host institution. Funding for the 2021 California field work came from Caroline Cory of OMnium Media, to produce the documentary 'A Tear in the Sky' (2022) - not from UAlbany.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-06-04",
@@ -117,7 +136,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked by a role to"
 }
 ],
 "coords": null,
@@ -164,7 +184,7 @@
 ],
 "sub": "Instrumented field-expedition organisation co-founded by Matthew Szydagis and Kevin Knuth",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 867 of 1138, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 865 of 1138, score 19). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unverified": []
 }

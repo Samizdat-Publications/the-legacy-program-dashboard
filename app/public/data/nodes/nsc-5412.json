@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-9141865605",
 "edgeLabel": "Supersedes and rescinds the charter that created the office",
+"family": "law",
 "id": "cia-office-of-policy-coordination",
 "l0": false,
 "label": "CIA Office of Policy Coordination",
 "note": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-bb7647d699",
 "edgeLabel": "Written under the same residual clause, six years on",
+"family": "documents",
 "id": "national-security-act-1947",
 "l0": false,
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "note": "Paragraph 4 invokes section 102(d)(5) exactly as NSC 10/2 had. Two successive covert-action charters rest on the same catch-all sentence in a 1947 reorganisation statute.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "cites"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-e667505860",
 "edgeLabel": "Issued by the Council and approved by the President the same day",
+"family": "documents",
 "id": "national-security-council",
 "l0": false,
 "label": "National Security Council",
 "note": "Transmitted by the Council's Executive Secretary, James S. Lay, Jr., whose note states that the President had approved the enclosed directive that date.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -113,10 +128,14 @@
 "direction": "in",
 "edgeId": "e-2fe5f372f1",
 "edgeLabel": "Renames the body, and points at NSC 5412/2 for its authority",
+"family": "documents",
 "id": "nsam-303",
 "l0": false,
 "label": "NSAM 303, Change in Name of Special Group 5412 (2 June 1964)",
 "note": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -125,7 +144,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "is cited by"
 }
 ],
 "coords": null,

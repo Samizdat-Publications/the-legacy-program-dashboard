@@ -89,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-f0a242043d",
 "edgeLabel": "Research partnership from August 2018",
+"family": "role",
 "id": "adam-research-project",
 "l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-07-24",
@@ -106,7 +110,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -116,10 +121,14 @@
 "direction": "out",
 "edgeId": "e-4050352af2",
 "edgeLabel": "the subcontract path - how work reached the government without a prime relationship",
+"family": "analysis",
 "id": "d-contracting",
 "l0": false,
 "label": "Federal Contracting Mechanics",
 "note": "The reference documents that reached DIA were commissioned by the prime and written substantially by EarthTech and other subcontractors, then delivered as Defense Intelligence Reference Documents. The DIA transmittal list to SASC and the published list of funded studies establish the subcontract layer, which is the layer at which visibility normally stops.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-01-09",
@@ -133,7 +142,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -143,10 +153,14 @@
 "direction": "in",
 "edgeId": "e-643823572b",
 "edgeLabel": "authored at EarthTech International",
+"family": "documents",
 "id": "dird-advanced-space-propulsion-based-on-vacuum",
 "l0": false,
 "label": "Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering",
 "note": "The DIA list gives Puthoff's affiliation of record for this deliverable as EarthTech International, the Austin institute he founded and directs.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -170,7 +184,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -180,10 +195,14 @@
 "direction": "in",
 "edgeId": "e-80d87b8fe7",
 "edgeLabel": "authored at EarthTech International",
+"family": "documents",
 "id": "dird-antigravity-for-aerospace-applications",
 "l0": true,
 "label": "Antigravity for Aerospace Applications",
 "note": "EarthTech International supplied six of the 38 DIRDs through Eric Davis plus one through Hal Puthoff, making it the single most represented institution on the author list.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -202,7 +221,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -212,10 +232,14 @@
 "direction": "in",
 "edgeId": "e-d061673a2d",
 "edgeLabel": "produced at EarthTech International, Austin",
+"family": "organisation",
 "id": "dird-concepts-for-extracting-energy-from-the",
 "l0": false,
 "label": "Concepts for Extracting Energy From the Quantum Vacuum",
 "note": "EarthTech, run by Hal Puthoff, was the largest single source of DIRDs, producing six of the 38. Puthoff has stated that BAASS 'connected me at EarthTech International to collaborate as a subcontractor' and that he then let the 38 contracts himself. The arrangement means EarthTech occupied both sides of the transaction on this document: commissioning agent and author's employer.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -244,7 +268,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -254,10 +279,14 @@
 "direction": "in",
 "edgeId": "e-02c70e3391",
 "edgeLabel": "Produced under the Institute for Advanced Studies at Austin imprint",
+"family": "organisation",
 "id": "dird-green-clinical-medical",
 "l0": false,
 "label": "DIRD: 'Clinical Medical Acute & Subacute Field Effects on Human Dermal & Neurological Tissues'",
 "note": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-01-01",
@@ -266,7 +295,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -276,10 +306,14 @@
 "direction": "in",
 "edgeId": "e-58d62150c2",
 "edgeLabel": "author's institutional affiliation at time of writing",
+"family": "documents",
 "id": "dird-laser-lightcraft-nanosatellites",
 "l0": false,
 "label": "Laser Lightcraft Nanosatellites",
 "note": "EarthTech International of Austin, Texas is the affiliation recorded against this title on the DIA congressional list. EarthTech is the single largest institutional source on the list; Puthoff and Davis between them are primary authors on six of the 38 products.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -308,7 +342,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -318,10 +353,14 @@
 "direction": "in",
 "edgeId": "e-01d1186b4a",
 "edgeLabel": "author's institutional affiliation at time of writing",
+"family": "documents",
 "id": "dird-quantum-tomography-of-negative-energy-states",
 "l0": false,
 "label": "Quantum Tomography of Negative Energy States in the Vacuum",
 "note": "EarthTech International, Austin, Texas — the affiliation recorded against this title on the DIA congressional list.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -345,7 +384,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -355,10 +395,14 @@
 "direction": "out",
 "edgeId": "e-fdcf00a5b7",
 "edgeLabel": "largest single DIRD producer - six of 38",
+"family": "organisation",
 "id": "dird-series",
 "l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "A small Austin firm produced more of the deliverable set than any university or defence prime, indicating a directed rather than competed distribution.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-01-18",
@@ -367,7 +411,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -377,10 +422,14 @@
 "direction": "in",
 "edgeId": "e-aabb308ceb",
 "edgeLabel": "Contractor of record: EarthTech International Inc., 11855 Research Blvd, Austin TX",
+"family": "documents",
 "id": "dird-traversable-wormholes",
 "l0": false,
 "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
 "note": "The author block on the released DIRD gives EarthTech's full street address, which makes the corporate performer identifiable and locatable rather than a generic 'contractor'.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-04-06",
@@ -389,7 +438,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -399,10 +449,14 @@
 "direction": "in",
 "edgeId": "e-fe46c80cec",
 "edgeLabel": "author's affiliation of record; DIRD carried on EarthTech's own publications list",
+"family": "testimony",
 "id": "dird-traversable-wormholes-stargates-and-negative-energy",
 "l0": false,
 "label": "Traversable Wormholes, Stargates, and Negative Energy",
 "note": "EarthTech International lists six DIRDs by Eric Davis on its publications page, with DIA document numbers and the issuing division named as the Acquisition Support Division (DWO-3) or Technology Warning Division (DWO-4) of the Defense Warning Office. A contractor publishing its DIA reference-document numbers on an open website is itself part of how the DIRD series became documentable.",
+"predicate": "brought_to_record",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -426,7 +480,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -436,10 +491,14 @@
 "direction": "in",
 "edgeId": "e-4c36c9eddc",
 "edgeLabel": "staff scientist",
+"family": "role",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Davis wrote all five of his DIRDs under the EarthTech banner.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-01-09",
@@ -448,7 +507,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -458,10 +518,14 @@
 "direction": "in",
 "edgeId": "e-30951d162e",
 "edgeLabel": "founder and president",
+"family": "role",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "EarthTech is the vehicle through which Puthoff's four-decade federally funded research line continued into AAWSAP.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-01-09",
@@ -475,7 +539,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -485,10 +550,14 @@
 "direction": "in",
 "edgeId": "e-6752ca6d3a",
 "edgeLabel": "11855 Research Blvd - the address printed on a DIA reference document",
+"family": "place-time",
 "id": "l-austin",
 "l0": false,
 "label": "Austin, Texas - 11855 Research Blvd",
 "note": "The single street address connecting the DIA Defense Warning Office to the AAWSAP propulsion and medical documents and thence to the To The Stars metamaterials work.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-04-06",
@@ -502,7 +571,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is located at"
 }
 ],
 "coords": null,

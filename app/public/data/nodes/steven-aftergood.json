@@ -77,10 +77,14 @@
 "direction": "out",
 "edgeId": "e-65ab0e5681",
 "edgeLabel": "Directed the Project on Government Secrecy 1991-2021",
+"family": "role",
 "id": "fas",
 "l0": false,
 "label": "Federation of American Scientists",
 "note": "Aftergood joined FAS in 1989 and directed the Project on Government Secrecy from 1991 to 2021. Attested by the FAS expert page.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -89,7 +93,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -99,10 +104,14 @@
 "direction": "out",
 "edgeId": "e-104d58da85",
 "edgeLabel": "Created the first segment of the record by litigation",
+"family": "testimony",
 "id": "intel-budget-disclosure-record",
 "l0": false,
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -111,7 +120,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 }
 ],
 "date": "2021-01-01",

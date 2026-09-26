@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-d57bd1b10a",
 "edgeLabel": "Ran concurrently with, and separately from, AARO",
+"family": "place-time",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Two federal UAP bodies operated in parallel through 2022-2023 with no public mechanism for the unclassified panel to see AARO's classified holdings.",
+"predicate": "concurrent_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "happened alongside"
 },
 {
 "claimTier": 1,
@@ -81,10 +86,14 @@
 "direction": "in",
 "edgeId": "e-eac6f1a89c",
 "edgeLabel": "Shared reporting-reform agenda: ASRS and FAA pilot reporting",
+"family": "analysis",
 "id": "americans-for-safe-aerospace",
 "l0": true,
 "label": "Americans for Safe Aerospace",
 "note": "The NASA study team recommended enhancing the Aviation Safety Reporting System for commercial pilot UAP reporting; ASA performs the equivalent intake function for aircrew outside the chain of command.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-09-14",
@@ -98,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "parallels"
 },
 {
 "claimTier": 3,
@@ -108,10 +118,14 @@
 "direction": "out",
 "edgeId": "e-74432a42eb",
 "edgeLabel": "Concluded data was insufficient - having been given only the unclassified record",
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Sixteen serious scientists examining only unclassified material concluded that unclassified material is insufficient. The finding measures the panel's access, not the government's holdings.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-14",
@@ -125,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -135,10 +150,14 @@
 "direction": "in",
 "edgeId": "e-6f1436abda",
 "edgeLabel": "Panel worked under sustained public harassment",
+"family": "role",
 "id": "david-spergel",
 "l0": false,
 "label": "David N. Spergel",
 "note": "Gold testified that designated federal officer Daniel Evans 'did an amazing job under difficult conditions' - the euphemism recording the abuse the panel absorbed.",
+"predicate": "member_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -157,10 +177,14 @@
 "direction": "in",
 "edgeId": "e-d880ef5a6a",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
+"family": "role",
 "id": "david-spergel",
 "l0": false,
 "label": "David N. Spergel",
 "note": "Commissioned 24 May 2022, one public meeting 31 May 2023, report delivered and team dissolved 14 September 2023.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -174,7 +198,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -184,10 +209,14 @@
 "direction": "in",
 "edgeId": "e-033f7a4254",
 "edgeLabel": "Member of the study team",
+"family": "role",
 "id": "michael-gold",
 "l0": false,
 "label": "Michael Gold",
 "note": "Gold is listed among the team's members and later testified to Congress on its findings.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -201,7 +230,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -211,10 +241,14 @@
 "direction": "in",
 "edgeId": "e-9a9ef6ce1c",
 "edgeLabel": "NASA chartered and published the Independent Study Team report",
+"family": "role",
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -223,7 +257,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was founded by"
 },
 {
 "claimTier": 1,
@@ -233,10 +268,14 @@
 "direction": "in",
 "edgeId": "e-db853ade8a",
 "edgeLabel": "NASA science chief at the report release briefing",
+"family": "role",
 "id": "nicola-fox",
 "l0": false,
 "label": "Nicola J. Fox",
 "note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -245,7 +284,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -255,10 +295,14 @@
 "direction": "out",
 "edgeId": "e-2fa947f072",
 "edgeLabel": "Both diagnose the same evidentiary deficit",
+"family": "analysis",
 "id": "odni-preliminary-assessment-2021",
 "l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "ODNI: military sensors 'are not generally suited for identifying UAP.' NASA: analysis is 'hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata.'",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-06-25",
@@ -272,7 +316,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -282,10 +327,14 @@
 "direction": "in",
 "edgeId": "e-e08a48e3fc",
 "edgeLabel": "Metadata stripping defeats the study team's core recommendation",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "NASA's panel identified missing sensor metadata as the principal obstacle to analysis; the 2026 releases removed exactly that metadata before publication.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-13",
@@ -299,7 +348,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -514,7 +564,7 @@
 ],
 "sub": "Federal advisory study team, 2022-2023",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 177 of 1138, score 48). 10 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 176 of 1138, score 48). 10 connections, 2 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

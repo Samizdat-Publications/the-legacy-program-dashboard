@@ -63,10 +63,14 @@
 "direction": "out",
 "edgeId": "e-26d92b7e0b",
 "edgeLabel": "Principal field investigator of the Kecksburg witness pool",
+"family": "oversight",
 "id": "kecksburg-1965",
 "l0": false,
 "label": "Kecksburg incident, 9 December 1965",
 "note": "Gordon collected local first-hand accounts over four decades, supplying the witnesses used by Unsolved Mysteries (1990) and the Sci Fi Channel documentary (2003).",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -75,7 +79,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 2,
@@ -85,10 +90,14 @@
 "direction": "out",
 "edgeId": "e-55162b6f94",
 "edgeLabel": "Four decades of field investigation at the site",
+"family": "oversight",
 "id": "l-kecksburg",
 "l0": false,
 "label": "Kecksburg, Westmoreland County, Pennsylvania",
 "note": "Gordon, a Greensburg-area researcher, assembled the local witness pool at Kecksburg that supplied the 1990 and 2003 broadcasts and the factual premise of the Kean litigation.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -97,7 +106,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "investigated"
 },
 {
 "claimTier": 3,
@@ -107,10 +117,14 @@
 "direction": "in",
 "edgeId": "e-df70881355",
 "edgeLabel": "Gordon's witness pool underwrote the evidentiary premise of the suit",
+"family": "documents",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2007-03-27",
@@ -119,7 +133,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through a document to"
 }
 ],
 "date": "2014-01-01",
@@ -168,7 +183,7 @@
 "status": "active",
 "sub": "Pennsylvania field researcher; principal investigator of the 1965 Kecksburg incident",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1017 of 1138, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1015 of 1138, score 13). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

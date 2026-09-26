@@ -16,10 +16,14 @@
 "direction": "out",
 "edgeId": "e-a5579174dd",
 "edgeLabel": "NRO headquarters, Westfields, Chantilly",
+"family": "place-time",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -33,7 +37,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 }
 ],
 "coords": null,
@@ -75,7 +80,7 @@
 ],
 "sub": "US state; used on this board as the Charlottesville-area anchor and the general Virginia locus",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1053 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1051 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }

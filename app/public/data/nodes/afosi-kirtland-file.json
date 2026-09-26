@@ -47,10 +47,14 @@
 "direction": "in",
 "edgeId": "e-98f2a0d120",
 "edgeLabel": "AFOSI is the originating agency of the released Kirtland UFO file",
+"family": "documents",
 "id": "afosi",
 "l0": true,
 "label": "Air Force Office of Special Investigations",
 "note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
+"predicate": "released",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -64,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "was released by"
 },
 {
 "claimTier": 2,
@@ -74,10 +79,14 @@
 "direction": "out",
 "edgeId": "e-3ab5364c97",
 "edgeLabel": "The AFOSI Kirtland file is the documentary residue of the Bennewitz operation",
+"family": "documents",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "The AFOSI documents concerning the 1980 Kirtland incidents are the only contemporaneous official records of the observations that triggered the campaign against Bennewitz.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -96,10 +106,14 @@
 "direction": "out",
 "edgeId": "e-8eb8e51aaf",
 "edgeLabel": "AFOSI District 17 file generated at Kirtland AFB",
+"family": "place-time",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "The 10 November 1980 record concerns observations by Kirtland security police over Coyote Canyon and the Manzano storage area.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-05-20",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -118,10 +133,14 @@
 "direction": "in",
 "edgeId": "e-b8b3af9d03",
 "edgeLabel": "Bennewitz's reporting generated the AFOSI Kirtland file",
+"family": "place-time",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "The 10 November 1980 AFOSI record documents Kirtland security police observations of unexplained objects over Coyote Canyon and notes Bennewitz's photography and reporting.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -135,7 +154,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -145,10 +165,14 @@
 "direction": "in",
 "edgeId": "e-aeae96bb94",
 "edgeLabel": "Doty was the AFOSI special agent associated with the Kirtland UFO file",
+"family": "testimony",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "Doty served in AFOSI at Kirtland from 1979 and is the agent identified with the Kirtland UFO documents and with the subsequent contact with Bennewitz and Howe.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-05-20",
@@ -157,7 +181,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -167,10 +192,14 @@
 "direction": "in",
 "edgeId": "e-7364a6e9c7",
 "edgeLabel": "Named on the complaint form as the special agent who filed it",
+"family": "documents",
 "id": "richard-doty",
 "l0": false,
 "label": "Richard C. Doty",
 "note": "The form carries 'Richard C Doty, SA' under AFOSI Det 1700, Kirtland AFB, District File No. 8017D93-0/29. Typed research as the producer of a document, never custody. This is the Tier 1 source for his AFOSI service and should replace any interview-sourced claim of it.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -179,7 +208,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,

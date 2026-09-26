@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-2d9df9cd76",
 "edgeLabel": "CIA programme, on the Agency's own account of it",
+"family": "organisation",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The released history is the Agency's own account and states CIA sponsorship of the project for intelligence collection purposes.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-01-04",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was run by"
 },
 {
 "claimTier": 1,
@@ -81,10 +86,14 @@
 "direction": "out",
 "edgeId": "e-b0990e2ba9",
 "edgeLabel": "Covert recovery of foreign hardware under a named commercial cover",
+"family": "analysis",
 "id": "d-custody",
 "l0": false,
 "label": "Chain of custody",
 "note": "Covert recovery of foreign hardware from the deep ocean under a commercial cover, with a named corporate front, is the custody mechanism this board tracks.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-01-04",
@@ -93,7 +102,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -103,10 +113,14 @@
 "direction": "out",
 "edgeId": "e-c4eb4ebd60",
 "edgeLabel": "FOIA matters named inside the programme's own history as forcing the first acknowledgements",
+"family": "analysis",
 "id": "d-foia",
 "l0": false,
 "label": "Freedom of Information Practice",
 "note": "The history names Freedom of Information Act matters among the litigation that forced the first official acknowledgements, which is the doctrine the board already carries in d-foia prose.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-01-04",
@@ -115,7 +129,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -125,10 +140,14 @@
 "direction": "out",
 "edgeId": "e-1300378a96",
 "edgeLabel": "The 1978 mining consortium names Lockheed, the predecessor of this node",
+"family": "role",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "The released history's closing page states that a private consortium of companies, including Lockheed, Global Marine, Standard Oil of Indiana and Royal Dutch Shell, was readying the Hughes Glomar Explorer for deep-ocean mining operations to begin late in the fall of 1978. The document names Lockheed and not Lockheed Martin, and the transcript's twenty-year lease to Lockheed Martin is not what the record says. Tier 2 because identifying the 1978 firm with this node is an identification across the 1995 merger that the document does not make.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2010-01-04",
@@ -137,7 +156,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 }
 ],
 "coords": null,

@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-0f8eb3587f",
@@ -27,12 +28,6 @@
 "source": "Inference",
 "text": "Chile's twenty-nine-year run of an open civil-aviation UAP office, publishing analyses and releasing military-origin footage, shifts the burden of proof onto the party claiming that public handling of UAP data would cause unacceptable harm. Reasoning: the predicted harms did not materialise in a state with comparable air-sovereignty concerns.",
 "tier": 3
-},
-{
-"id": "c-673f64d5eb",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "institution",
@@ -47,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-f9d2786974",
 "edgeLabel": "created and housed by the DGAC",
+"family": "organisation",
 "id": "cefaa",
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "Chile's Direccion General de Aeronautica Civil dates CEFAA's establishment to 3 October 1997 and hosts it: after the 2021 reorganisation the successor body SEFAA 'operates within the General Directorate of Civil Aeronautics', as Canada's Sky Canada report independently describes it. General Ricardo Bermudez Sanhueza, who took over the Escuela Tecnica Aeronautica in 1997, also took the direction of the committee and served until 2016.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -69,7 +68,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -79,10 +79,14 @@
 "direction": "in",
 "edgeId": "e-06a6b43e7f",
 "edgeLabel": "Chile's civil-aviation UAP unit used as a model and proposed partner",
+"family": "documents",
 "id": "ocsa-canada",
 "l0": false,
 "label": "Office of the Chief Science Advisor of Canada",
 "note": "The Sky Canada report singles out Chile alongside the U.S. and France as a coordinated, transparent model, describing SEFAA as the official Chilean body for collecting and scientifically studying UAP that 'operates within the General Directorate of Civil Aeronautics (DGAC).' Recommendation 13 tells the proposed Canadian lead organization to establish partnerships with SEFAA (Chile) among others.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -101,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,
@@ -144,7 +149,7 @@
 ],
 "sub": "Foreign government agency",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1020 of 1138, score 13). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1040 of 1138, score 12). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

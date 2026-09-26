@@ -46,10 +46,14 @@
 "direction": "out",
 "edgeId": "e-f158da06a7",
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
+"family": "documents",
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-03-01",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -68,10 +73,14 @@
 "direction": "out",
 "edgeId": "e-9240195937",
 "edgeLabel": "Named for data analysis and AI tools",
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-29",
@@ -85,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 }
 ],
 "date": "2026-06-15",
@@ -138,7 +148,7 @@
 "status": "active",
 "sub": "Computational scientist, The Galileo Project, Harvard University; lead author on the project's detection and tracking computing platform; member, UAP Science Advisory Council (2026)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 990 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 988 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

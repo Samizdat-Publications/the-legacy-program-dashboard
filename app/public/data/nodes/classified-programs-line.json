@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-b4a016d1a2",
 "edgeLabel": "The one-word line item is the public face of the annex table",
+"family": "organisation",
 "id": "classified-annex",
 "l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 4001 authorises obligation of amounts in the funding tables and applies to any classified annex accompanying the Act; the printed tables show only 'CLASSIFIED PROGRAMS' and a number, the annex shows the programme detail. Attested by the enacted text.",
+"predicate": "same_as",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-12-18",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -81,10 +86,14 @@
 "direction": "in",
 "edgeId": "e-a3f5cbdc15",
 "edgeLabel": "The Department is the account holder for every published classified line",
+"family": "custody",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "All 25 'CLASSIFIED PROGRAMS' rows in the FY2026 funding tables sit in Department of Defense appropriation accounts - Army, Navy, Air Force, Space Force, Defense-Wide and Special Operations. Attested by the enacted funding tables.",
+"predicate": "holds",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-18",
@@ -93,7 +102,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 3,
@@ -103,10 +113,14 @@
 "direction": "out",
 "edgeId": "e-adda1694f7",
 "edgeLabel": "Published classified line items are where MIP and NIP money physically sits in the defense budget",
+"family": "money",
 "id": "mip",
 "l0": false,
 "label": "Military Intelligence Program (MIP)",
 "note": "The FY2026 funding tables carry roughly $95.9 billion in rows titled only 'CLASSIFIED PROGRAMS'; the published MIP request for FY2026 is $33.6 billion and the NIP request $81.9 billion, neither of which appears as a named line anywhere. The inference is that the classified rows are the appropriation vehicle. No document states the mapping.",
+"predicate": "funded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -115,7 +129,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "linked by money to"
 },
 {
 "claimTier": 3,
@@ -125,10 +140,14 @@
 "direction": "out",
 "edgeId": "e-ef0b75bbbf",
 "edgeLabel": "The $26.9 billion Other Procurement, Air Force classified line is the historical pass-through",
+"family": "money",
 "id": "nro",
 "l0": true,
 "label": "National Reconnaissance Office",
 "note": "FY2026 line 077A carries $26,920,092 thousand in Other Procurement, Air Force, an account long understood by budget analysts to carry national reconnaissance funding that the Air Force does not control. Inference from the size of the line, the account's history, and the Air Force's own repeated public complaints about a pass-through of this magnitude; no document confirms the recipient.",
+"predicate": "funded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -137,7 +156,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked by money to"
 }
 ],
 "coords": null,

@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-53e74e405a",
 "edgeLabel": "Two documented official responses to undocumented objects, twenty-two months apart",
+"family": "analysis",
 "id": "kecksburg-1965",
 "l0": false,
 "label": "Kecksburg incident, 9 December 1965",
 "note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -90,7 +95,7 @@
 ],
 "sub": "Object impact and Canadian military underwater search, Nova Scotia",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 815 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 813 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

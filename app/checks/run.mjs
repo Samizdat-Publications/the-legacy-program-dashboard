@@ -330,10 +330,13 @@ const IN_PAGE = {
     const txt = (el) => ((el && el.textContent) || '').trim();
     return {
       groups: Array.prototype.map.call(document.querySelectorAll('.node-side .conn-group'), (g) => ({
-        type: g.getAttribute('data-type') || '',
+        family: g.getAttribute('data-family') || '',
         head: txt(g.querySelector('.conn-ghead .eyebrow')),
         rows: Array.prototype.map.call(g.querySelectorAll('.conn'), (r) => ({
           id: r.getAttribute('data-id') || '',
+          verb: txt(r.querySelector('.conn-verb')),
+          /* the arrow as DRAWN: its glyph, not its data attribute */
+          dir: txt(r.querySelector('.conn-head .conn-dir')),
           lines: Array.prototype.map.call(r.querySelectorAll('.conn-line .conn-text'), txt),
           metas: Array.prototype.map.call(r.querySelectorAll('.conn-line .cmeta'), txt),
         })),
@@ -343,12 +346,19 @@ const IN_PAGE = {
 
   /* The same, on the printable node report. */
   rconns() {
-    return Array.prototype.map.call(document.querySelectorAll('.rconns .rconn'), (r) => ({
-      id: r.getAttribute('data-id') || '',
-      type: r.getAttribute('data-type') || '',
-      sent: ((r.querySelector('.rsent') || {}).textContent || '').trim(),
-      text: r.textContent || '',
-    }));
+    return Array.prototype.map.call(document.querySelectorAll('.rconns .rconn'), (r) => {
+      /* the family is read from the heading the row sits under, as printed */
+      let hd = r.parentElement ? r.parentElement.previousElementSibling : null;
+      while (hd && hd.tagName !== 'H3') hd = hd.previousElementSibling;
+      return {
+        id: r.getAttribute('data-id') || '',
+        head: ((hd && hd.textContent) || '').replace(/\s*\(\d+\)\s*$/, '').trim(),
+        verb: ((r.querySelector('.rverb') || {}).textContent || '').trim(),
+        dir: ((r.querySelector('.conn-dir') || {}).textContent || '').trim(),
+        sent: ((r.querySelector('.rsent') || {}).textContent || '').trim(),
+        text: r.textContent || '',
+      };
+    });
   },
 
   /* How many of each authored field a node page draws, and its crumb. */
@@ -1095,14 +1105,11 @@ const POISONS = {
   },
   c22: {
     stops: ['node', 'report'],
-    what: 'redraws one connection the old way: its sentence gone, its relationship replaced by "member"',
+    what: 'turns one drawn arrow round on the node page and in the report, the way the board read before direction was recorded',
     fn: async (page) => page.evaluate(() => {
-      const t = document.querySelector('.node-side .conn-line .conn-text');
-      if (t) t.textContent = '';
-      const m = document.querySelector('.node-side .conn-line .cmeta');
-      if (m) m.textContent = 'member · T1';
-      const r = document.querySelector('.rconns .rconn .rsent');
-      if (r) r.textContent = 'member';
+      for (const d of [document.querySelector('.node-side .conn-dir'), document.querySelector('.rconns .conn-dir')]) {
+        if (d) d.textContent = d.textContent === '→' ? '←' : '→';
+      }
     }),
   },
   c23: {
@@ -1438,14 +1445,14 @@ async function main() {
       topicsFile, vocabFile, domainRec, topicRecs;
   try {
     [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
-     claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec] =
+     claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec, vocabFile] =
       await Promise.all([
         jget('data/index.json'), jget('data/map.json'), jget('data/edges.json'),
         jget('data/threads.json'), jget('data/highlights.json'), jget('data/timeline.json'),
         jget('data/nodes/' + NODE_FOCUS + '.json'), jget('data/patents.json'), jget('data/analyst.json'),
         jget('data/claims.json'), jget('data/foia.json'), jget('data/nodes/' + PERSON_FOCUS + '.json'),
         jget('data/nodes/' + ENTITY_FOCUS + '.json'), jget('data/nodes/' + ENTITY_OQ_FOCUS + '.json'),
-        jget('data/nodes/' + DENIAL_FOCUS + '.json'),
+        jget('data/nodes/' + DENIAL_FOCUS + '.json'), jget('data/vocab.json'),
       ]);
     [topicsFile, vocabFile, domainRec] = await Promise.all([
       jget('data/topics.json'), jget('data/vocab.json'), jget('data/nodes/' + DOMAIN_FOCUS + '.json'),
@@ -2503,40 +2510,85 @@ async function main() {
   }
 
   /* ---- C22 -------------------------------------------------------------- */
-  /* Every sourced connection is drawn once, under its own relationship, with its
-     own sentence; no group is headed by a raw type id; nothing says "member".
-     Restated, not imported, from app/src/vocab.ts. */
+  /* Phase 7. Every sourced connection is drawn once, under its relationship
+     FAMILY, with its own sentence; the families are headed by their reader names
+     in the vocabulary's order (both RESTATED here, not imported); each row reads
+     from this node, and the arrow is read against edges.json's own `subject`,
+     not against the node file the page was drawn from: drawn only where the
+     predicate is shown, "→" where this node is the subject, "←" where it is the
+     object. The report must say the same. Nothing says "member". */
   {
-    const READER = {
-      custody: 'Custody', funding: 'Money', programmatic: 'Programme links',
-      institutional: 'Institutional ties', legislative: 'Law and oversight',
-      research: 'Research and authorship', investigative: 'Investigations',
-      'witness-chain': 'Testimony', behavioral: 'Conduct', denial: 'Denials',
-      temporal: 'Sequence in time', geographic: 'Place',
-    };
+    const FAMILY = [
+      ['role', 'Roles'], ['organisation', 'Organisation'], ['money', 'Money'], ['custody', 'Custody'],
+      ['law', 'Law'], ['oversight', 'Oversight'], ['testimony', 'Testimony'], ['denial', 'Denials'],
+      ['documents', 'Documents'], ['media', 'Media'], ['place-time', 'Place and time'],
+      ['conduct', 'Conduct'], ['analysis', "The board's reading"], ['other', 'Other links'],
+    ];
+    const READER = Object.fromEntries(FAMILY);
+    const ORDER = FAMILY.map(([f]) => f);
     const NO_SENTENCE = 'no sentence recorded for this link';
+    const sentence = (c) => c.edgeLabel || c.note || NO_SENTENCE;
     const recC = focusRec.connections || [];
-    const want = recC.map((c) => c.type + '|' + c.id + '|' + (c.edgeLabel || c.note || NO_SENTENCE)).sort();
+    const want = recC.map((c) => c.family + '|' + c.id + '|' + sentence(c)).sort();
     const got = [];
-    for (const g of S.node.conns.groups) for (const r of g.rows) for (const l of r.lines) got.push(g.type + '|' + r.id + '|' + l);
+    for (const g of S.node.conns.groups) for (const r of g.rows) for (const l of r.lines) got.push(g.family + '|' + r.id + '|' + l);
     got.sort();
     const missing = want.filter((x) => !got.includes(x));
     const extra = got.filter((x) => !want.includes(x));
     check('c22', want.length === got.length && missing.length === 0 && extra.length === 0,
-      'C22 every sourced connection on #/n/' + NODE_FOCUS + ' is drawn once, under its relationship, with its own sentence',
+      'C22 every sourced connection on #/n/' + NODE_FOCUS + ' is drawn once, under its family, with its own sentence',
       `record ${want.length} · page ${got.length}` +
       (missing.length ? ' · missing ' + clip(missing, 2) : '') + (extra.length ? ' · extra ' + clip(extra, 2) : ''));
-    const badHead = S.node.conns.groups.filter((g) => READER[g.type] ? g.head !== READER[g.type] : !g.head);
-    check('c22', S.node.conns.groups.length > 0 && badHead.length === 0, 'C22 every group is headed by its reader name',
-      badHead.length ? clip(badHead.map((g) => g.type + '="' + g.head + '"'), 4) : S.node.conns.groups.length + ' groups');
-    const bucket = S.node.conns.groups.flatMap((g) => g.rows.flatMap((r) => r.metas)).filter((m) => /^member\b/i.test(m));
+    const groups = S.node.conns.groups;
+    const badHead = groups.filter((g) => g.head !== READER[g.family]);
+    const order = groups.map((g) => ORDER.indexOf(g.family));
+    const inOrder = order.every((x, k) => x >= 0 && (k === 0 || x > order[k - 1]));
+    check('c22', groups.length > 0 && badHead.length === 0 && inOrder,
+      'C22 every group is a family headed by its reader name, in the vocabulary order',
+      badHead.length ? clip(badHead.map((g) => g.family + '="' + g.head + '"'), 4)
+        : groups.map((g) => g.head).join(' · '));
+
+    /* direction, re-derived from edges.json and the served vocabulary */
+    const byEdge = new Map(edges.map((e) => [e.id, e]));
+    const pv = new Map((vocabFile.predicates || []).map((x) => [x.id, x]));
+    const phrase = new Map((vocabFile.predicateFamilies || []).map((f) => [f.id, f.phrase]));
+    const expect = new Map();      /* id|verb -> arrow ('', '→', '←') */
+    const bad = [];
+    let arrows = 0;
+    for (const c of recC) {
+      const e = byEdge.get(c.edgeId);
+      const p = e && pv.get(e.predicate);
+      if (!e || !p) { bad.push('no predicate on ' + c.edgeId); continue; }
+      const isSubject = e[e.subject] === NODE_FOCUS && e.a !== e.b;
+      let verb, dir;
+      if (!e.shown) { verb = phrase.get(p.family); dir = ''; }
+      else if (p.symmetric) { verb = p.forward; dir = ''; }
+      else { verb = isSubject ? p.forward : p.inverse; dir = isSubject ? '→' : '←'; }
+      if (p.family !== c.family) bad.push(c.edgeId + ' family ' + c.family + ' vs ' + p.family);
+      expect.set(c.id + '|' + verb, dir);
+    }
+    for (const g of groups) for (const r of g.rows) {
+      if (r.dir) arrows++;
+      const k = r.id + '|' + r.verb;
+      if (!expect.has(k)) bad.push(r.id + ' reads "' + r.verb + '", which no edge to it says from here');
+      else if (expect.get(k) !== r.dir) bad.push(r.id + ' "' + r.verb + '" drawn "' + r.dir + '", wanted "' + expect.get(k) + '"');
+    }
+    check('c22', bad.length === 0 && arrows > 0,
+      'C22 each row reads from this node, and its arrow agrees with the edge\'s recorded subject',
+      bad.length ? clip(bad, 3) : arrows + ' arrows drawn, every one where edges.json puts this node');
+    const bucket = groups.flatMap((g) => g.rows.flatMap((r) => r.metas)).filter((m) => /^member\b/i.test(m));
     check('c22', bucket.length === 0, 'C22 no connection is labelled with the bucket word "member"',
       bucket.length ? bucket.length + ' rows' : 'none');
-    const rWant = recC.map((c) => c.type + '|' + c.id + '|' + (c.edgeLabel || c.note || NO_SENTENCE)).sort();
-    const rGot = S.report.rconns.map((r) => r.type + '|' + r.id + '|' + r.sent).sort();
+
+    const rWant = recC.map((c) => READER[c.family] + '|' + c.id + '|' + sentence(c)).sort();
+    const rGot = S.report.rconns.map((r) => r.head + '|' + r.id + '|' + r.sent).sort();
     check('c22', rWant.length === rGot.length && rWant.every((x, i) => x === rGot[i]),
-      'C22 the node report lists every connection with its sentence',
+      'C22 the node report lists every connection under its family, with its sentence',
       `record ${rWant.length} · report ${rGot.length}`);
+    const rBad = S.report.rconns.filter((r) => !expect.has(r.id + '|' + r.verb) || expect.get(r.id + '|' + r.verb) !== r.dir)
+      .map((r) => r.id + ' "' + r.verb + '" "' + r.dir + '"');
+    check('c22', rBad.length === 0, 'C22 the report reads each link from this node with the same arrow',
+      rBad.length ? clip(rBad, 3) : S.report.rconns.length + ' links');
     const rBucket = S.report.rconns.filter((r) => /·\s*member\b/i.test(r.text));
     check('c22', rBucket.length === 0, 'C22 the node report never says "member"',
       rBucket.length ? rBucket.length + ' rows' : 'none');

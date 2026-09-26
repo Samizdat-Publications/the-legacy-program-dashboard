@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-02c70e3391",
 "edgeLabel": "Produced under the Institute for Advanced Studies at Austin imprint",
+"family": "organisation",
 "id": "earthtech-international",
 "l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "The document's cover page carries the IASA name above the headings 'Translational Sciences / Forensic Medicine - Engineering Mechanics', placing Puthoff's institute as the producing organisation for the government's medical study.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-01-01",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-e17e4dea1a",
 "edgeLabel": "Preface quotes a November 2007 proposal on 'Probable ET Generated' emissions addressed to Puthoff/Hathaway",
+"family": "documents",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "This is the earliest dated documentary link between Puthoff and a US-sponsored effort to characterise fields associated with 'exotic propulsion' - nine months before the AAWSAP contract was awarded to BAASS.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-01-01",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "in",
 "edgeId": "e-72d320eaff",
 "edgeLabel": "Author of the AAWSAP human-injury reference document",
+"family": "documents",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green, a physician-neuroscientist and former CIA life-sciences analyst, wrote the study of injuries attributed to proximity to anomalous craft; released publicly by Popular Mechanics on 14 February 2020.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-01-01",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was written by"
 }
 ],
 "coords": null,

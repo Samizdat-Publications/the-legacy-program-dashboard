@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-01ec7bd604",
 "edgeLabel": "Creator and host",
+"family": "role",
 "id": "jesse-michels",
 "l0": false,
 "label": "Jesse Michels",
 "note": "American Alchemy is Michels' series and the venue for every episode in this domain.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-11",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 }
 ],
 "coords": null,
@@ -83,7 +88,7 @@
 ],
 "sub": "Independent long-form interview series",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1073 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1070 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

@@ -121,10 +121,14 @@
 "direction": "in",
 "edgeId": "e-4fdf747057",
 "edgeLabel": "GAO conducted the Roswell records search at Rep. Schiff's request",
+"family": "oversight",
 "id": "gao",
 "l0": false,
 "label": "Government Accountability Office",
 "note": "Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-07-28",
@@ -133,7 +137,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "made a request of"
 },
 {
 "claimTier": 1,
@@ -143,10 +148,14 @@
 "direction": "out",
 "edgeId": "e-9a707bbfad",
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
+"family": "oversight",
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
+"predicate": "requested",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-07-28",
@@ -165,7 +174,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "made a request of"
 },
 {
 "claimTier": 1,
@@ -175,10 +185,14 @@
 "direction": "out",
 "edgeId": "e-777c821f64",
 "edgeLabel": "Schiff's New Mexico district inquiry produced the GAO Roswell audit",
+"family": "role",
 "id": "l-albuquerque",
 "l0": false,
 "label": "Albuquerque, New Mexico",
 "note": "Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-07-28",
@@ -187,7 +201,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -197,10 +212,14 @@
 "direction": "out",
 "edgeId": "e-0adc64f9ce",
 "edgeLabel": "Schiff's inquiry forced the Air Force to abandon the weather balloon story",
+"family": "place-time",
 "id": "usaf-roswell-reports",
 "l0": false,
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "note": "Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-01-01",
@@ -214,7 +233,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "led to"
 }
 ],
 "date": "1995-07-28",

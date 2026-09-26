@@ -64,10 +64,14 @@
 "direction": "out",
 "edgeId": "e-3ad42119a9",
 "edgeLabel": "President and CEO, arriving from IARPA and the White House OSTP",
+"family": "role",
 "id": "rand-corporation",
 "l0": true,
 "label": "RAND Corporation",
 "note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 }
 ],
 "date": "2026-08-12",
@@ -130,7 +135,7 @@
 "status": "active",
 "sub": "President and CEO, RAND Corporation; former Director, IARPA; former Deputy Assistant to the President for Technology and National Security and Deputy Director, OSTP",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 881 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 877 of 1138, score 18). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

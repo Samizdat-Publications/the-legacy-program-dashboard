@@ -65,10 +65,14 @@
 "direction": "in",
 "edgeId": "e-7f00597322",
 "edgeLabel": "Publicly called the removal of the Review Board an outrage",
+"family": "denial",
 "id": "chuck-schumer",
 "l0": false,
 "label": "Charles E. Schumer",
 "note": "Schumer said it was 'really an outrage the House didn't work with us on adopting our proposal for a review board' after the conference product removed it.",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -77,7 +81,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "is disputed by"
 },
 {
 "claimTier": 1,
@@ -87,10 +92,14 @@
 "direction": "out",
 "edgeId": "e-1d0af34824",
 "edgeLabel": "Secs. 1841-1843 created RG 615 at the National Archives",
+"family": "law",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "The collection is the only concrete institution produced by the entire UAPDA fight.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-04-24",
@@ -104,7 +113,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -114,10 +124,14 @@
 "direction": "in",
 "edgeId": "e-536b707880",
 "edgeLabel": "created by",
+"family": "law",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "Record Group 615 exists under sections 1841-1843 of the FY2024 NDAA, which require NARA to establish the collection and each agency to review, identify and organise its UAP records.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -126,7 +140,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -136,10 +151,14 @@
 "direction": "out",
 "edgeId": "e-575f3f4afc",
 "edgeLabel": "Postponement authority returned to the original classifier",
+"family": "law",
 "id": "uap-records-review-board",
 "l0": false,
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "Sec. 1843(a) vests the clear-and-convincing determination in 'the original classification authority' — the very offices the Review Board was created to review.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -153,7 +172,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -163,10 +183,14 @@
 "direction": "in",
 "edgeId": "e-e15db81f8e",
 "edgeLabel": "Fifteen sections reduced to three in conference",
+"family": "organisation",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Secs. 9001-9015 as passed by the Senate became Secs. 1841-1843 as enacted; the Review Board, Board personnel, record review, eminent domain, court-sealed materials and the $20,000,000 authorization have no enacted counterpart.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -180,7 +204,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "succeeded"
 }
 ],
 "coords": null,

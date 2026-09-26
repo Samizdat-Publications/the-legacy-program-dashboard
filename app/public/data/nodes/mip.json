@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-adda1694f7",
 "edgeLabel": "Published classified line items are where MIP and NIP money physically sits in the defense budget",
+"family": "money",
 "id": "classified-programs-line",
 "l0": false,
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "The FY2026 funding tables carry roughly $95.9 billion in rows titled only 'CLASSIFIED PROGRAMS'; the published MIP request for FY2026 is $33.6 billion and the NIP request $81.9 billion, neither of which appears as a named line anywhere. The inference is that the classified rows are the appropriation vehicle. No document states the mapping.",
+"predicate": "funded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-12-18",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-c27d92ff11",
 "edgeLabel": "the second named channel, under SECDEF and USD(I&S) rather than the DNI",
+"family": "analysis",
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "The Military Intelligence Program is the defence-side counterpart to the NIP, managed by the Under Secretary of Defense for Intelligence and Security. DoD has disclosed a MIP appropriated topline annually since 2010 and request figures since 2012; the DoD Financial Management Regulation Vol. 2B Ch. 16 governs how intelligence programmes are budgeted and displayed. Topline-only disclosure is the same structural property as the NIP.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-21",
@@ -79,7 +88,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -89,10 +99,14 @@
 "direction": "in",
 "edgeId": "e-f4f28417a3",
 "edgeLabel": "The two-programme split that divides intelligence money between DNI and SECDEF control",
+"family": "analysis",
 "id": "nip",
 "l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "The NIP is controlled by the Director of National Intelligence and the MIP by the Secretary of Defense; both are published only as annual aggregates. Attested by ODNI's own budget page and the FAS compilation.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,

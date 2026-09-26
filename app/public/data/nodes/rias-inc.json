@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-a37eca98c8",
 "edgeLabel": "Trimble proposed RIAS as an industrial institute for advanced study",
+"family": "role",
 "id": "george-trimble",
 "l0": false,
 "label": "George S. Trimble",
 "note": "Trimble to Bryce DeWitt, 10 June 1955, quoted by a named historian in a peer-published edition. The letter itself was not opened; the quotation is the historian's.",
+"predicate": "founded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2011-01-01",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-5e2f5ae8fc",
 "edgeLabel": "The academic counterpart to the Martin company's own institute, deliberately kept separate",
+"family": "analysis",
 "id": "institute-of-field-physics",
 "l0": true,
 "label": "Institute of Field Physics (UNC Chapel Hill)",
 "note": "The same source describes the Martin company standing up what 'would become RIAS' at the same moment, and says the Institute of Field Physics was placed inside a university 'so as to avoid the conflict that physicists felt working in an industrial setting'.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-02",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -85,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-d52c23f842",
 "edgeLabel": "RIAS was the Glenn L. Martin Company's institute; the corporate succession to Lockheed Martin is not documented here",
+"family": "organisation",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "What is sourced is that RIAS belonged to the Glenn Martin Company. The chain from Glenn L. Martin through Martin Marietta to Lockheed Martin was NOT read off any document in this pass, and this edge is graded Tier 3 for that reason alone.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-01-01",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -107,10 +122,14 @@
 "direction": "out",
 "edgeId": "e-ef94fc0337",
 "edgeLabel": "Witten represented RIAS at the 1957 Chapel Hill gravitation conference",
+"family": "role",
 "id": "louis-witten",
 "l0": false,
 "label": "Louis Witten",
 "note": "The participants list prints 'Witten, L. | RIAS, Inc., Baltimore'. His contribution, with R. W. Bass, was 'Some Remarks on Cosmological Models'.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1957-01-18",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -129,10 +149,14 @@
 "direction": "in",
 "edgeId": "e-85c028b1f6",
 "edgeLabel": "Reports Martin building a new laboratory for the Research Institute for Advanced Study",
+"family": "media",
 "id": "talbert-gravity-series-1955",
 "l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series reports Martin building a new laboratory for the Research Institute for Advanced Study between Washington and Baltimore in November 1955.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -141,7 +165,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was reported on by"
 }
 ],
 "coords": null,
@@ -188,7 +213,7 @@
 ],
 "sub": "The Glenn L. Martin Company's industrial research institute, Baltimore; gravitation was explicitly its subject",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 803 of 1138, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 801 of 1138, score 21). 5 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D0.",
 "timeline": [
 {
 "claimTier": null,

@@ -10,7 +10,8 @@
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import { loadHighlights, loadNode, loadIndex, clsColour, type IndexNode } from '../data';
-import { groupConnections, renderConnGroups } from './connections';
+import { familyOf, groupConnections, renderConnGroups } from './connections';
+import { FAMILIES, familyName } from '../vocab';
 import { buildHood, startHereHood, edgeColour, type Entry, type Hood } from '../hood/model';
 import { layout, type Layout, type Placed } from '../hood/layout';
 import { animate, resolve, type Line, type Scene } from '../hood/canvas';
@@ -21,6 +22,28 @@ import '../styles/hood.css';
 let chosenHops: 1 | 2 | 3 | null = null;
 let derivedOn = true;
 let expanded = false;
+/* the family filter (phase 7): null is every family. It survives a change of
+   centre like the hop count, and falls back to every family where the new
+   centre has no link of the chosen one. */
+let familyFilter: string | null = null;
+
+/* One control, a select, so the strip keeps its one-line height: nothing may
+   take height from the stage. `offered` is the centre's own families. */
+function familySelect(offered: { id: string; n: number }[], onPick: (f: string | null) => void): HTMLElement {
+  const sel = h('select', {
+    class: 'hood-fam', 'aria-label': 'Show links of one relationship family',
+    onchange: (e: Event) => { const v = (e.target as HTMLSelectElement).value; onPick(v || null); },
+  });
+  const total = offered.reduce((n, f) => n + f.n, 0);
+  sel.append(h('option', { value: '' }, 'ALL FAMILIES'));
+  for (const f of FAMILIES) {
+    const o = offered.find((x) => x.id === f.id);
+    if (!o) continue;
+    sel.append(h('option', { value: f.id, selected: familyFilter === f.id }, f.label.toUpperCase() + ' · ' + o.n));
+  }
+  sel.title = total + ' neighbour links across ' + offered.length + ' families';
+  return sel;
+}
 
 function defaultHops(): 1 | 2 | 3 {
   /* one hop by default below 1600px, two at and above */
@@ -71,7 +94,13 @@ export async function renderHood(view: HTMLElement, id: string | null): Promise<
 
   let hood: Hood;
   try {
-    if (id) hood = await buildHood(id, hops(), derivedOn);
+    if (id) {
+      hood = await buildHood(id, hops(), derivedOn, familyFilter);
+      if (familyFilter && !hood.families.some((f) => f.id === familyFilter)) {
+        familyFilter = null;
+        hood = await buildHood(id, hops(), derivedOn, null);
+      }
+    }
     else hood = await startHereHood((await loadHighlights()).flags);
   } catch (e) {
     if (gen !== generation) return;
@@ -131,7 +160,9 @@ function buildStrip(strip: HTMLElement, hood: Hood, id: string | null): void {
         ? l.total.two + ' two steps away, ' + l.named.two + ' named'
         : 'two steps away: off at this width');
       if (hops() >= 3) bits.push(l.total.three + ' three steps away, ' + l.named.three + ' named');
-      bits.push('shared-member links ' + (derivedOn ? 'on' : 'off'));
+      /* the shared-member state is on its own button; the strip keeps to one
+         line at 1366, so it says only what no control shows */
+      if (familyFilter) bits.push(familyName(familyFilter).label.toLowerCase() + ' links only');
     } else {
       bits.push(l.total.one + ' start-here nodes, ' + l.named.one + ' named');
       bits.push('pick one to open its neighbourhood');
@@ -150,6 +181,11 @@ function buildStrip(strip: HTMLElement, hood: Hood, id: string | null): void {
     'aria-pressed': hops() === n ? 'true' : 'false',
     onclick: () => { chosenHops = n; expanded = false; strip.dispatchEvent(new CustomEvent('hood:reload')); },
   }, label);
+  if (id && hood.families.length > 1) {
+    ctl.append(familySelect(hood.families, (f) => {
+      familyFilter = f; expanded = false; strip.dispatchEvent(new CustomEvent('hood:reload'));
+    }));
+  }
   ctl.append(hopBtn(1, '1 HOP'), hopBtn(2, '2 HOPS'), hopBtn(3, '3 HOPS'));
   ctl.append(h('button', {
     class: 'hood-b' + (derivedOn ? ' on' : ''),
@@ -245,7 +281,7 @@ function paintStage(stage: HTMLElement, canvas: HTMLCanvasElement, hood: Hood, i
       lines.push({
         x1: g.cx, y1: g.cy, x2: p.x, y2: p.y,
         style: isMember ? 'solid' : 'dash',
-        colour: resolve(isMember ? 'var(--cyan)' : edgeColour(p.e.edgeType)),
+        colour: resolve(isMember ? 'var(--cyan)' : edgeColour(p.e.family)),
         animate: !isMember,
       });
     } else {
@@ -281,10 +317,10 @@ function nodeEl(p: Placed, hood: Hood): HTMLElement {
   const left = p.side < 0;
   const el = h('a', {
     class: 'hood-el hood-n hop' + e.hop + (left ? ' l' : ' r') +
-      (e.derived ? ' derived' : '') + (e.edgeType === 'denial' ? ' denial' : ''),
+      (e.derived ? ' derived' : '') + (e.family === 'denial' ? ' denial' : ''),
     href: '#/n/' + e.id,
     style: 'left:' + p.x + 'px;top:' + p.y + 'px',
-    title: e.full + ': ' + e.suffix,
+    title: e.full + ': ' + (e.say && hood.centre ? hood.centreLabel + ' ' + e.say + ' ' + e.full + ' · ' : '') + e.suffix,
   });
   const m = mark(clsColour(e.cls));
   const name = h('span', { class: 'hood-label' }, e.label);
@@ -297,8 +333,8 @@ function nodeEl(p: Placed, hood: Hood): HTMLElement {
 function suffixClass(e: Entry, hood: Hood): string {
   if (e.hop !== 1) return 'hood-suffix faint';
   if (!hood.centre) return 'hood-suffix amber';
-  if (e.edgeType === 'denial') return 'hood-suffix red';
-  if (e.edgeType === 'custody' || e.edgeType === 'funding') return 'hood-suffix amber';
+  if (e.family === 'denial') return 'hood-suffix red';
+  if (e.family === 'custody' || e.family === 'money') return 'hood-suffix amber';
   return 'hood-suffix faint';
 }
 
@@ -307,9 +343,9 @@ function buildLegend(el: HTMLElement): void {
     h('span', { class: 'hood-leg' }, h('i', { class: 'sw ' + cls }), h('span', { class: 'dim' }, text));
   el.append(
     item('solid cyan', 'part of this node, not on the map itself'),
-    item('dash cyan', 'a sourced link, coloured by kind'),
+    item('dash cyan', 'a sourced link, coloured by its relationship family'),
     item('dash red', 'a denial'),
-    item('dash amber', 'custody or funding'),
+    item('dash amber', 'custody or money'),
     item('dot grey', 'two steps away, via a shared member'),
   );
 }
@@ -354,18 +390,25 @@ async function renderHoodPhone(view: HTMLElement, id: string | null, gen: number
   if (gen !== generation) return;
   setTitle(rec.label, 'Neighbourhood');
   clear(view);
-  const groups = groupConnections(rec.connections);
+  const offered = FAMILIES.map((f) => ({
+    id: f.id, n: new Set(rec.connections.filter((c) => familyOf(c) === f.id).map((c) => c.id)).size,
+  })).filter((f) => f.n > 0);
+  if (familyFilter && !offered.some((f) => f.id === familyFilter)) familyFilter = null;
+  const shown = familyFilter ? rec.connections.filter((c) => familyOf(c) === familyFilter) : rec.connections;
+  const groups = groupConnections(shown);
   const counterparts = new Set(rec.connections.map((c) => c.id)).size;
   const wrap = h('div', { class: 'hood-phone' });
   wrap.append(h('div', { class: 'hp-head' },
     h('span', { class: 'eyebrow' }, 'Neighbourhood'), ' ',
     h('a', { class: 'hp-who', href: '#/n/' + rec.id }, rec.label)));
   wrap.append(h('div', { class: 'dim' },
-    counterparts + ' neighbours, linked ' + rec.connections.length + ' times, grouped by relationship. ' +
+    counterparts + ' neighbours, linked ' + rec.connections.length + ' times, grouped by relationship family. ' +
+    (familyFilter ? 'Showing ' + familyName(familyFilter).label.toLowerCase() + ' only. ' : '') +
     'A wider screen draws them as a ring.'));
   wrap.append(h('div', { class: 'hp-ctl' },
     h('a', { class: 'hood-b', href: '#/n/' + rec.id }, 'NODE PAGE'),
-    h('a', { class: 'hood-b', href: '#/n/' + rec.id + '/map' }, 'SHOW ON MAP')));
+    h('a', { class: 'hood-b', href: '#/n/' + rec.id + '/map' }, 'SHOW ON MAP'),
+    offered.length > 1 ? familySelect(offered, (f) => { familyFilter = f; void renderHood(view, id); }) : null));
   wrap.append(renderConnGroups(groups));
   view.append(wrap);
 }

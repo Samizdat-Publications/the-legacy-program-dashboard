@@ -65,10 +65,14 @@
 "direction": "out",
 "edgeId": "e-cc04e375ba",
 "edgeLabel": "Accounting-side and appropriations-side concealment of the same activity",
+"family": "analysis",
 "id": "classified-annex",
 "l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "The classified annex conceals what was appropriated; SFFAS 56 permits the resulting spending to be reported in the wrong line of the public financial statement with no note. The inference is that the two together close the loop between authorisation and reporting; no document links them.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2018-10-04",
@@ -77,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -87,10 +92,14 @@
 "direction": "in",
 "edgeId": "e-3313b072bf",
 "edgeLabel": "DoD identified the need for the standard in August 2016",
+"family": "place-time",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Statement records that the Department of Defense identified the need in August 2016, citing conflict between GAAP and classification obligations under Executive Order 13526. Attested by SFFAS 56's own basis for conclusions.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-10-04",
@@ -99,7 +108,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -109,10 +119,14 @@
 "direction": "out",
 "edgeId": "e-6cb045b811",
 "edgeLabel": "Authorises modification of the same public financial reports the audit examines",
+"family": "law",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "SFFAS 56 became effective for periods beginning after 30 September 2018 - the first period after the Department's first full-scope audit - and permits amounts to be presented in a different line item without narrative explanation. Attested by the Statement and by the FY2018 Agency Financial Report.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-10-04",
@@ -121,7 +135,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -131,10 +146,14 @@
 "direction": "out",
 "edgeId": "e-0e13dd4af3",
 "edgeLabel": "Issued by FASAB on 4 October 2018",
+"family": "documents",
 "id": "fasab",
 "l0": false,
 "label": "Federal Accounting Standards Advisory Board (FASAB)",
 "note": "The standard is a FASAB pronouncement, effective for periods beginning after 30 September 2018. Attested by the Statement itself.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-10-04",
@@ -143,7 +162,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 }
 ],
 "coords": null,

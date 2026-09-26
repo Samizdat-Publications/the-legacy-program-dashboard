@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-3ef2e1d29b",
 "edgeLabel": "The litigation was about the Kecksburg records specifically",
+"family": "documents",
 "id": "kean-v-nasa",
 "l0": false,
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "The underlying FOIA request of 31 January 2003 sought records on Kecksburg, the 9 December 1965 incident, the Fragology Files 1962-1967, Richard M. Schulherr, Project Moon Dust and Cosmos 96.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2007-03-27",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-ead5a26abe",
 "edgeLabel": "Event and site",
+"family": "place-time",
 "id": "l-kecksburg",
 "l0": false,
 "label": "Kecksburg, Westmoreland County, Pennsylvania",
 "note": "The claimed recovery occurred in woodland at Kecksburg, Westmoreland County, Pennsylvania, on the evening of 9 December 1965.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1965-12-10",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "happened at"
 },
 {
 "claimTier": 2,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-53e74e405a",
 "edgeLabel": "Two documented official responses to undocumented objects, twenty-two months apart",
+"family": "analysis",
 "id": "shag-harbour-1967",
 "l0": false,
 "label": "Shag Harbour incident, 4 October 1967",
 "note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-26d92b7e0b",
 "edgeLabel": "Principal field investigator of the Kecksburg witness pool",
+"family": "oversight",
 "id": "stan-gordon",
 "l0": false,
 "label": "Stan Gordon",
 "note": "Gordon collected local first-hand accounts over four decades, supplying the witnesses used by Unsolved Mysteries (1990) and the Sci Fi Channel documentary (2003).",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 }
 ],
 "coords": null,

@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-b891ab203e",
 "edgeLabel": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
+"family": "custody",
 "id": "grill-flame",
 "l0": false,
 "label": "GRILL FLAME",
 "note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
+"predicate": "transferred",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-12-16",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -56,10 +61,14 @@
 "direction": "in",
 "edgeId": "e-12505ae981",
 "edgeLabel": "Puthoff founded and led the SRI psychoenergetics programme",
+"family": "role",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "CIA's Office of Technical Service funded the work from 1972; it was later sponsored by Army INSCOM and DIA under successive codenames.",
+"predicate": "led",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-12-16",
@@ -73,7 +82,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -83,10 +93,14 @@
 "direction": "in",
 "edgeId": "e-de643cfc77",
 "edgeLabel": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
+"family": "money",
 "id": "inscom",
 "l0": true,
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1978-11-24",
@@ -95,7 +109,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "was funded by"
 },
 {
 "claimTier": 2,
@@ -105,10 +120,14 @@
 "direction": "in",
 "edgeId": "e-9d2c3d8098",
 "edgeLabel": "Green was CIA's monitor for the SRI psychoenergetics work",
+"family": "oversight",
 "id": "kit-green",
 "l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green served in CIA's Office of Scientific Intelligence, Life Sciences Division, and has stated he was the officer to whom anomalous-phenomena reporting was routed.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-12-16",
@@ -122,7 +141,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -132,10 +152,14 @@
 "direction": "in",
 "edgeId": "e-9083dc537b",
 "edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
+"family": "role",
 "id": "russell-targ",
 "l0": false,
 "label": "Russell Targ",
 "note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1974-10-18",
@@ -149,7 +173,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -159,10 +184,14 @@
 "direction": "in",
 "edgeId": "e-fb455270a6",
 "edgeLabel": "SRI held the science half of the remote viewing effort from 1972",
+"family": "organisation",
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Puthoff and Targ began CIA-sponsored work at SRI's Artificial Intelligence Center in 1972 and continued with intelligence community funding until they left in the mid-1980s.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -176,7 +205,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "ran"
 }
 ],
 "coords": null,

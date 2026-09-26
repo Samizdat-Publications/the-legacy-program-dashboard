@@ -70,10 +70,14 @@
 "direction": "out",
 "edgeId": "e-8b16fbadbc",
 "edgeLabel": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
+"family": "role",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-10-31",
@@ -82,7 +86,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2023-10-31",
@@ -132,7 +137,7 @@
 "status": "active",
 "sub": "Vice Chair, MITRE Board of Trustees (elected Oct 2023); former Principal Deputy Director of National Intelligence (2017-2019); former Deputy Director, NGA; 27 years CIA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 788 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 785 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

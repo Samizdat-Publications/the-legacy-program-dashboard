@@ -144,10 +144,14 @@
 "direction": "out",
 "edgeId": "e-f3489369e1",
 "edgeLabel": "24 July 2009 memorandum to DepSecDef Lynn seeking SAP status; denied",
+"family": "oversight",
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Susan Gough authenticated the memorandum on 13 June 2019. Elizondo's and Puthoff's names were originally redacted from it and later released.",
+"predicate": "requested",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2019-06-13",
@@ -156,7 +160,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -166,10 +171,14 @@
 "direction": "out",
 "edgeId": "e-52d1ba0184",
 "edgeLabel": "co-sponsored FY2008 supplemental $10M add with Sen. Inouye",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -178,7 +187,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "funded"
 },
 {
 "claimTier": 1,
@@ -188,10 +198,14 @@
 "direction": "out",
 "edgeId": "e-d7cfbb8b8c",
 "edgeLabel": "",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "He is the reason the money existed. DIA records Reid as co-sponsor with Senator Daniel Inouye of the language in the July 2008 Supplemental Appropriation directing DIA to investigate far-term foreign advanced aerospace threats, which is the appropriation AAWSAP was run on.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-06-24",
@@ -205,7 +219,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "funded"
 },
 {
 "claimTier": 2,
@@ -215,10 +230,14 @@
 "direction": "in",
 "edgeId": "e-5e80435f23",
 "edgeLabel": "Schumer names Reid as the legacy he is continuing",
+"family": "testimony",
 "id": "chuck-schumer",
 "l0": false,
 "label": "Charles E. Schumer",
 "note": "Schumer publicly framed the UAPDA as inheriting from Reid, who had funded AAWSAP through leadership discretion rather than committee process.",
+"predicate": "acknowledged",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-14",
@@ -227,7 +246,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -237,10 +257,14 @@
 "direction": "out",
 "edgeId": "e-1e431e0251",
 "edgeLabel": "directed the $22M appropriation",
+"family": "place-time",
 "id": "defense-appropriations-aawsap",
 "l0": false,
 "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "AARO's official history states the FY2008 and FY2010 Defense Appropriations Acts appropriated $22 million to DIA 'at the direction of Senate Majority Leader Harry Reid (D-NV)'.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -249,7 +273,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -259,10 +284,14 @@
 "direction": "in",
 "edgeId": "e-6d600853f7",
 "edgeLabel": "Same report carried Reid's statement on retrieved materials",
+"family": "place-time",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "In the 23 July 2020 article Reid said it was 'extremely important that information about the discovery of physical materials or retrieved craft come out', published alongside Davis's account of his briefings.",
+"predicate": "concurrent_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2020-07-23",
@@ -271,7 +300,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -281,10 +311,14 @@
 "direction": "in",
 "edgeId": "e-25b225dd20",
 "edgeLabel": "Knapp is credited with the Reid-Bigelow introduction",
+"family": "conduct",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Recorded separately because the Reid end of the introduction is what converted private interest into federal appropriation.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -293,7 +327,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -303,10 +338,14 @@
 "direction": "in",
 "edgeId": "e-6aefd1a019",
 "edgeLabel": "Knapp's Lazar/S-4 reporting opened a private channel to Reid",
+"family": "place-time",
 "id": "klas-tv",
 "l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp told the Task Force that after reporting the Bob Lazar / S-4 story in 1989 he 'interviewed dozens of other people' over the years, and named the list: 'They include Senator Harry Reid; Senator Howard Cannon, also of Nevada; a guy named Al O'Donnell, who was the first general manager of EG&G in Nevada... There is a guy named Dr. James Lacatski.' The printed hearing reproduces oral statements only, so the sequence in which Knapp first approached Reid sits in his written statement at docs.house.gov and is not asserted here.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -320,7 +359,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -330,10 +370,14 @@
 "direction": "out",
 "edgeId": "e-044aa806bc",
 "edgeLabel": "Reid and Lieberman asked that the DHS prospective SAP be established with promised funding",
+"family": "money",
 "id": "kona-blue",
 "l0": true,
 "label": "KONA BLUE",
 "note": "AARO states 'Senators Lieberman and Reid asked that the PSAP be established with the promise of additional funding' - the same senator who created the DIA appropriation now seeking a DHS compartment.",
+"predicate": "funded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -342,7 +386,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked by money to"
 },
 {
 "claimTier": 2,
@@ -352,10 +397,14 @@
 "direction": "in",
 "edgeId": "e-99ac06bc11",
 "edgeLabel": "Reid's Nevada base; earmark performed by a Las Vegas constituent",
+"family": "place-time",
 "id": "l-las-vegas",
 "l0": false,
 "label": "Las Vegas, Nevada",
 "note": "This is not merely a home-town link. AARO's official history names 'Senate Majority Leader Harry Reid (D-NV)' as having directed the appropriation, and the federal award record places Bigelow's company in Nevada; the money Reid secured was performed by a company in the state he represented. Tier 2 because the constituent relationship is the inference joining those two documented facts, not something either document states.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -379,7 +428,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 1,
@@ -389,10 +439,14 @@
 "direction": "in",
 "edgeId": "e-ecbb6b27fc",
 "edgeLabel": "Identified Reid as the senator who initiated and funded AATIP",
+"family": "testimony",
 "id": "nyt-2017-12-16",
 "l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-16",
@@ -401,7 +455,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -411,10 +466,14 @@
 "direction": "out",
 "edgeId": "e-59ab5c1bce",
 "edgeLabel": "Reid is the principal behind the 2008-2009 DIA engagements",
+"family": "role",
 "id": "reid-dia-meetings-2008-2009",
 "l0": false,
 "label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
 "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' It further records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program. Tier 2: AARO is an interested party in its own institutional history.",
+"predicate": "led",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -428,7 +487,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -438,10 +498,14 @@
 "direction": "out",
 "edgeId": "e-762c140395",
 "edgeLabel": "authored the Restricted SAP request",
+"family": "documents",
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "The Senate Majority Leader asked DoD to compartment a program whose deliverables DoD would three months later describe as unclassifiable basic research.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-06-24",
@@ -450,7 +514,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -460,10 +525,14 @@
 "direction": "out",
 "edgeId": "e-ba5ac7f247",
 "edgeLabel": "",
+"family": "documents",
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "He signed it. The letter of 24 June 2009 to Deputy Secretary William J. Lynn III went on Senate Majority Leader letterhead - 'HARRY REID, MAJORITY LEADER, NEVADA' - and asked the Department to place the programme under a restricted special access programme.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-06-24",
@@ -477,7 +546,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -487,10 +557,14 @@
 "direction": "out",
 "edgeId": "e-3b963a9bed",
 "edgeLabel": "signed 24 June 2009",
+"family": "documents",
 "id": "reid-sap-letter-2009",
 "l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -499,7 +573,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -509,10 +584,14 @@
 "direction": "in",
 "edgeId": "e-8a6969f493",
 "edgeLabel": "constituent relationship behind the appropriation",
+"family": "conduct",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "Reid has said publicly that Bigelow's interest and briefings prompted him to pursue the funding; both men are Nevadans and the contract went to a Nevada firm.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2021-05-01",
@@ -521,7 +600,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 3,
@@ -531,10 +611,14 @@
 "direction": "out",
 "edgeId": "e-f1e85a373f",
 "edgeLabel": "Set the leadership-discretion precedent the domain still runs on",
+"family": "analysis",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "The legacy effort was funded by leadership discretion outside the ordinary committee record, and every attempt to reach it since has likewise been a leadership floor amendment rather than a committee product.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-27",
@@ -543,7 +627,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -553,10 +638,14 @@
 "direction": "out",
 "edgeId": "e-4355eb219d",
 "edgeLabel": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+"family": "organisation",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -585,7 +674,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "falls outside"
 },
 {
 "claimTier": 1,
@@ -595,10 +685,14 @@
 "direction": "in",
 "edgeId": "e-cec370253b",
 "edgeLabel": "in-person refusal of the SAP request",
+"family": "denial",
 "id": "william-lynn",
 "l0": false,
 "label": "William J. Lynn III",
 "note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-11-19",
@@ -607,7 +701,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 }
 ],
 "date": "2009-06-24",

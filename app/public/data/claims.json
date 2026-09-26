@@ -51,22 +51,6 @@
 "cls": "institution",
 "cluster": "legacy",
 "denied": false,
-"id": "c-7178f23e59",
-"label": "509th Bomb Group",
-"node": "509th-bomb-group",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "legacy",
-"denied": false,
 "id": "c-18b4100792",
 "label": "509th Bomb Group",
 "node": "509th-bomb-group",
@@ -10608,22 +10592,6 @@
 "tier": 3
 },
 {
-"cls": "institution",
-"cluster": "research",
-"denied": false,
-"id": "c-800a5b0448",
-"label": "Blue Marble Space Institute of Science",
-"node": "blue-marble-space-institute",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
 "cls": "event",
 "cluster": "legacy",
 "denied": false,
@@ -12205,22 +12173,6 @@
 "url": null
 },
 "text": "Project Magnet's placement inside a civil transport ministry rather than a defence ministry is the significant structural fact: it produced a paper trail that survived into open archives precisely because it was never inside a compartmented defence programme. Reasoning: comparison with the US case, where equivalent-era work is only known through later declassification.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "ic",
-"denied": false,
-"id": "c-5aa06fd920",
-"label": "Canada Department of Transport",
-"node": "canada-dot",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 },
 {
@@ -21645,22 +21597,6 @@
 "url": null
 },
 "text": "Chile's twenty-nine-year run of an open civil-aviation UAP office, publishing analyses and releasing military-origin footage, shifts the burden of proof onto the party claiming that public handling of UAP data would cause unacceptable harm. Reasoning: the predicted harms did not materialise in a state with comparable air-sovereignty concerns.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "ic",
-"denied": false,
-"id": "c-673f64d5eb",
-"label": "DGAC Chile - Dirección General de Aeronáutica Civil",
-"node": "dgac-chile",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 },
 {
@@ -32755,22 +32691,6 @@
 "cls": "institution",
 "cluster": "media",
 "denied": false,
-"id": "c-e472750464",
-"label": "Enigma Labs",
-"node": "enigma-labs",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "media",
-"denied": false,
 "id": "c-c91928dd3b",
 "label": "Enigma Labs",
 "node": "enigma-labs",
@@ -43603,22 +43523,6 @@
 "cls": "institution",
 "cluster": "other",
 "denied": false,
-"id": "c-8788414d6b",
-"label": "Hospital Regional de Varginha",
-"node": "hospital-regional-varginha",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "other",
-"denied": false,
 "id": "c-441832e00a",
 "label": "Hospital Regional de Varginha",
 "node": "hospital-regional-varginha",
@@ -46878,22 +46782,6 @@
 },
 "text": "Yury Viktorovich Platov, an IZMIRAN physicist, is identified in the published secondary literature on the Soviet programme as chief executive of SETKA-AN, the Academy of Sciences component of the 1978-1990 USSR anomalous-phenomena programme, and as co-author of its official history.",
 "tier": 2
-},
-{
-"cls": "institution",
-"cluster": "research",
-"denied": false,
-"id": "c-17e8239525",
-"label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
-"node": "izmiran",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "institution",
@@ -53505,22 +53393,6 @@
 },
 {
 "cls": "location",
-"cluster": "research",
-"denied": false,
-"id": "c-c882e85392",
-"label": "NASA Ames Research Center, Mountain View, California",
-"node": "l-ames",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
 "cluster": "legacy",
 "denied": false,
 "id": "c-e710df4c54",
@@ -53614,22 +53486,6 @@
 },
 "text": "The Aztec claim originated with Frank Scully's 1950 book and was traced to promoters later prosecuted for fraud in a separate matter.",
 "tier": 2
-},
-{
-"cls": "location",
-"cluster": "legacy",
-"denied": false,
-"id": "c-ea955bd11c",
-"label": "Aztec, New Mexico",
-"node": "l-aztec",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -53758,38 +53614,6 @@
 },
 "text": "Brazilian military UFO records have been transferred into the Arquivo Nacional and are publicly accessible.",
 "tier": 1
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-633d828809",
-"label": "Brasilia, Federal District, Brazil",
-"node": "l-brasilia",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-6d819b52c1",
-"label": "Brazil",
-"node": "l-brazil",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -53950,22 +53774,6 @@
 },
 "text": "The Intelligence Community Inspector General found David Grusch's complaint credible and urgent on 26 July 2022.",
 "tier": 1
-},
-{
-"cls": "location",
-"cluster": "oversight",
-"denied": false,
-"id": "c-bf8b3432c2",
-"label": "Washington, D.C.",
-"node": "l-dc",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -54321,38 +54129,6 @@
 },
 {
 "cls": "location",
-"cluster": "legacy",
-"denied": false,
-"id": "c-1fa0fde382",
-"label": "Fort Worth, Texas",
-"node": "l-fort-worth-tx",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-3a8535b62c",
-"label": "France",
-"node": "l-france",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
 "cluster": "ic",
 "denied": false,
 "id": "c-2e9ff8eeec",
@@ -54382,22 +54158,6 @@
 },
 "text": "NSA is headquartered at Fort George G. Meade, Maryland.",
 "tier": 1
-},
-{
-"cls": "location",
-"cluster": "ic",
-"denied": false,
-"id": "c-bbb081c037",
-"label": "Fort George G. Meade, Maryland",
-"node": "l-ft-meade",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -54558,22 +54318,6 @@
 },
 "text": "Cash v. United States, No. H-84-348 (S.D. Tex.), was dismissed by order dated 21 August 1986.",
 "tier": 2
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-45605e6ea8",
-"label": "Huffman / Dayton, Texas",
-"node": "l-huffman-tx",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -54913,22 +54657,6 @@
 },
 {
 "cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-8116e7fa5f",
-"label": "London, United Kingdom",
-"node": "l-london",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
 "cluster": "legacy",
 "denied": false,
 "id": "c-23d79c9154",
@@ -55153,22 +54881,6 @@
 },
 {
 "cls": "location",
-"cluster": "research",
-"denied": false,
-"id": "c-73716726a6",
-"label": "Michigan State University, East Lansing, Michigan",
-"node": "l-michigan-state",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
 "cluster": "legacy",
 "denied": false,
 "id": "c-ca1b731653",
@@ -55230,22 +54942,6 @@
 },
 "text": "Minot is named in the CINCNORAD four-part message of 11 November 1975: 'Since 28 Oct 75 numerous reports of suspicious objects have been received at the NORAD CU; reliable military personnel at Loring AFB, Maine, Wurtsmith AFB, Michigan, Malmstrom AFB, Mt, Minot AFB, ND, and Canadian Forces Station, Falconbridge, Ontario, Canada have visually sighted suspicious objects.'",
 "tier": 2
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-e64457051d",
-"label": "Moscow, Russia",
-"node": "l-moscow",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -55473,38 +55169,6 @@
 },
 {
 "cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-a805fcdb2b",
-"label": "Ottawa, Ontario, Canada",
-"node": "l-ottawa",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-ea2c0c4a98",
-"label": "Paris, France",
-"node": "l-paris",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
 "cluster": "contractor",
 "denied": false,
 "id": "c-82b536eb00",
@@ -55715,22 +55379,6 @@
 "cls": "location",
 "cluster": "legacy",
 "denied": false,
-"id": "c-6fc40b5c5e",
-"label": "Plains of San Agustin, New Mexico",
-"node": "l-san-agustin",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
-"cluster": "legacy",
-"denied": false,
 "id": "c-d88b1cc952",
 "label": "Plains of San Agustin, New Mexico",
 "node": "l-san-agustin",
@@ -55758,22 +55406,6 @@
 },
 "text": "Project AIR FORCE, the Arroyo Center and the National Defense Research Institute are registered at Santa Monica, California; the Homeland Security Operational Analysis Center is at Arlington, Virginia.",
 "tier": 1
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-c30a09aa84",
-"label": "Santiago, Chile",
-"node": "l-santiago",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -56081,22 +55713,6 @@
 },
 {
 "cls": "location",
-"cluster": "research",
-"denied": false,
-"id": "c-b4363f11e7",
-"label": "Stockholm, Sweden",
-"node": "l-stockholm",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
 "cluster": "legacy",
 "denied": false,
 "id": "c-881f888810",
@@ -56179,22 +55795,6 @@
 "cls": "location",
 "cluster": "other",
 "denied": false,
-"id": "c-128941e5a8",
-"label": "Toulouse, France",
-"node": "l-toulouse",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
 "id": "c-e1694c6a59",
 "label": "United Kingdom",
 "node": "l-uk",
@@ -56211,22 +55811,6 @@
 "cls": "location",
 "cluster": "other",
 "denied": false,
-"id": "c-b8a017a34f",
-"label": "United Kingdom",
-"node": "l-uk",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
 "id": "c-a6179663e4",
 "label": "Ministry of Defence Main Building, Whitehall, London",
 "node": "l-uk-mod-whitehall",
@@ -56238,22 +55822,6 @@
 },
 "text": "The UK Ministry of Defence operated a UFO reporting desk until its closure in December 2009 and released its UFO file series to the National Archives.",
 "tier": 1
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-c7b77cb271",
-"label": "Ministry of Defence Main Building, Whitehall, London",
-"node": "l-uk-mod-whitehall",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -56414,22 +55982,6 @@
 },
 "text": "A US lawmaker requested FBI and CIA records on the Varginha incident in July 2026.",
 "tier": 2
-},
-{
-"cls": "location",
-"cluster": "other",
-"denied": false,
-"id": "c-e3ad9737f0",
-"label": "Varginha, Minas Gerais, Brazil",
-"node": "l-varginha",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "location",
@@ -65283,22 +64835,6 @@
 "cls": "legislation",
 "cluster": "oversight",
 "denied": false,
-"id": "c-ef906ce25c",
-"label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
-"node": "ndaa-fy2023",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "legislation",
-"cluster": "oversight",
-"denied": false,
 "id": "c-f024f777e8",
 "label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
 "node": "ndaa-fy2023",
@@ -69539,22 +69075,6 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"id": "c-e3cd8784bc",
-"label": "Office of the Chief Science Advisor of Canada",
-"node": "ocsa-canada",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "ic",
-"denied": false,
 "id": "c-8011257b6d",
 "label": "Office of the Director of National Intelligence",
 "node": "odni",
@@ -73325,22 +72845,6 @@
 "url": null
 },
 "text": "POGO's structural position - contractor-independent funding, a documented whistleblower intake and a direct line into congressional investigative staff - makes it a viable off-ramp for insiders bound by programme non-disclosure agreements who will not use the DoD internal channels. Reasoning: from its documented function, not from any specific UAP disclosure attributed to it here.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "media",
-"denied": false,
-"id": "c-c16ff73025",
-"label": "Project On Government Oversight",
-"node": "pogo",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 },
 {
@@ -80065,22 +79569,6 @@
 },
 {
 "cls": "institution",
-"cluster": "ic",
-"denied": false,
-"id": "c-bec9a7c609",
-"label": "SAF/AAZ - Air Force Declassification & Special Programs",
-"node": "saf-aaz",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "institution",
 "cluster": "contractor",
 "denied": false,
 "id": "c-837053a72d",
@@ -82819,22 +82307,6 @@
 "cls": "institution",
 "cluster": "oversight",
 "denied": false,
-"id": "c-db262a8ff0",
-"label": "Senado Federal do Brasil",
-"node": "senado-brasil",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "oversight",
-"denied": false,
 "id": "c-d0c807a14f",
 "label": "Senate Armed Services Committee",
 "node": "senate-armed-services",
@@ -83629,22 +83101,6 @@
 "url": null
 },
 "text": "A UK university repository openly indexing a body of MoD-file and Calvine-photograph research is a durable, non-governmental copy of the British record. Reasoning: repository deposits persist independently of the originating agency's retention decisions.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "research",
-"denied": false,
-"id": "c-321d42021c",
-"label": "Sheffield Hallam University",
-"node": "sheffield-hallam",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 },
 {
@@ -84558,22 +84014,6 @@
 },
 "text": "Project Condign Volume 3, Chapter 4, para 1: 'A \"UFO\" Commission was created under the USSR Union of Scientific and En[gi]neering Societies in 1989, tog[e]ther in 1990 with an Inte[r]-[I]ndustry Ufology Research Centre (SOYUZUFOSENTR) to co-ordinate records. This Centre had the rights of an Insit[u]te under the USSR Academy of Sciences, and was headed by V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner.' Bracketed letters mark OCR damage in the released scan.",
 "tier": 2
-},
-{
-"cls": "institution",
-"cluster": "research",
-"denied": false,
-"id": "c-da626fea00",
-"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
-"node": "soyuzufotsentr",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "document",
@@ -87293,22 +86733,6 @@
 "url": null
 },
 "text": "Its founding purpose - publishing leaked classified material with the underlying documents attached - and its advertiser-free funding make it a low-friction destination for compartmented-programme documents. Reasoning: from its stated editorial model and ownership structure.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "media",
-"denied": false,
-"id": "c-cb7dfa5e86",
-"label": "The Intercept",
-"node": "the-intercept",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "tier": 3
 },
 {
@@ -92323,22 +91747,6 @@
 "cls": "institution",
 "cluster": "ic",
 "denied": false,
-"id": "c-eb7d9c9046",
-"label": "United States Navy",
-"node": "us-navy",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
-"cls": "institution",
-"cluster": "ic",
-"denied": false,
 "id": "c-86a7c84b9f",
 "label": "United States Navy",
 "node": "us-navy",
@@ -94560,22 +93968,6 @@
 "tier": 3
 },
 {
-"cls": "institution",
-"cluster": "research",
-"denied": false,
-"id": "c-c1af4cc7a6",
-"label": "Vanderbilt University",
-"node": "vanderbilt-university",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-},
-{
 "cls": "program",
 "cluster": "research",
 "denied": false,
@@ -96094,22 +95486,6 @@
 },
 "text": "Wayne State University was founded in 1868 out of the Detroit Medical College, is located at 42 W. Warren Ave, Detroit, Michigan, and comprises thirteen schools and colleges, including the School of Medicine, serving over 24,000 students.",
 "tier": 1
-},
-{
-"cls": "institution",
-"cluster": "research",
-"denied": false,
-"id": "c-c5a3e4fa84",
-"label": "Wayne State University",
-"node": "wayne-state-university",
-"open": false,
-"source": {
-"domain": null,
-"text": "Board bookkeeping",
-"url": null
-},
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 },
 {
 "cls": "institution",

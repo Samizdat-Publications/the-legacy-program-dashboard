@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-33d5dfd309",
 "edgeLabel": "the US 2026 release cites COMETA as a source on the Argentine case",
+"family": "documents",
 "id": "doc-cometa-report",
 "l0": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "note": "The Buenos Aires Times reports that the released file sits in a section on investigations conducted outside the United States and 'references a report produced by COMETA'.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-11",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-3918674d0d",
 "edgeLabel": "both are allied-state responses to the same May 2026 US release",
+"family": "analysis",
 "id": "japan-uap-2026",
 "l0": false,
 "label": "Japan's review of the 2026 US UAP file releases",
 "note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-05-11",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -117,7 +127,7 @@
 ],
 "sub": "Argentine airliner encounter documented in the May 2026 US Department of War UAP release",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1001 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1000 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": 2,

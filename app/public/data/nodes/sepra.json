@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-e655f31171",
 "edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
+"family": "conduct",
 "id": "doc-cometa-report",
 "l0": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
+"predicate": "supported",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was supported by"
 },
 {
 "claimTier": 2,
@@ -51,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-dd7bf56fd3",
 "edgeLabel": "renamed GEIPAN in 2005",
+"family": "organisation",
 "id": "geipan",
 "l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Jacques Patenet succeeded Velasco under the GEIPAN name.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-01",
@@ -63,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "was succeeded by"
 },
 {
 "claimTier": 2,
@@ -73,10 +83,14 @@
 "direction": "in",
 "edgeId": "e-de9cd7c8cd",
 "edgeLabel": "renamed SEPRA in 1988",
+"family": "organisation",
 "id": "gepan",
 "l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-01",
@@ -85,7 +99,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "succeeded"
 }
 ],
 "coords": null,
@@ -127,7 +142,7 @@
 ],
 "sub": "CNES successor to GEPAN, 1988-2004",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 901 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 898 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }

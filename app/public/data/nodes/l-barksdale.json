@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-f269ae85ea",
 "edgeLabel": "Site of the March 2026 incursion waves and FPCON Charlie alert",
+"family": "place-time",
 "id": "barksdale-2026-incursions",
 "l0": false,
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-03-09",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was the scene of"
 }
 ],
 "coords": null,
@@ -88,7 +93,7 @@
 ],
 "sub": "B-52 bomber base; March 2026 incursion waves",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 954 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 952 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-0f90f618dc",
 "edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
+"family": "role",
 "id": "galileo-project",
 "l0": true,
 "label": "The Galileo Project",
 "note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-11-26",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-b56c0beebf",
 "edgeLabel": "SCU board member and co-author of the 2023 characteristics study",
+"family": "role",
 "id": "scu-uap-studies",
 "l0": false,
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Little is one of the few researchers who publishes with both SCU and the Galileo Project, which is a measure of how small the actual civil analytical bench is.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-07",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2025-11-26",
@@ -139,7 +149,7 @@
 "status": "active",
 "sub": "Marine biochemist (PhD, MIT/WHOI); board member, Scientific Coalition for UAP Studies; co-author, Galileo Project geomagnetic variometer instrumentation paper",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1088 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1084 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -85,10 +85,14 @@
 "direction": "out",
 "edgeId": "e-632e51494a",
 "edgeLabel": "Halt authored and signed the 'Unexplained Lights' memorandum",
+"family": "documents",
 "id": "halt-memo",
 "l0": false,
 "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
 "note": "Halt was Deputy Base Commander of the 81st Combat Support Group and signed the memo on 13 Jan 81. The document is his; his authorship has never been disputed by the Air Force.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-11-11",
@@ -97,7 +101,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "wrote"
 },
 {
 "claimTier": 3,
@@ -107,10 +112,14 @@
 "direction": "out",
 "edgeId": "e-ccfa2376a6",
 "edgeLabel": "Reported as stating that Warren 'was not there'",
+"family": "denial",
 "id": "larry-warren",
 "l0": false,
 "label": "Larry Warren",
 "note": "TIER 3. This reaches the board through search-result summaries and a video title and NOT through any document written or signed by Halt. ianridpath.com, which carries the most-cited sceptical treatment, returned an SSL handshake failure on both http and https. A primary would move this to Tier 2.",
+"predicate": "denied",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-06-13",
@@ -119,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -129,10 +139,14 @@
 "direction": "out",
 "edgeId": "e-0339e8e354",
 "edgeLabel": "Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981",
+"family": "testimony",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -141,7 +155,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -151,10 +166,14 @@
 "direction": "out",
 "edgeId": "e-a17e777efa",
 "edgeLabel": "Halt personally led the 28 December 1980 forest patrol",
+"family": "testimony",
 "id": "rendlesham-1980",
 "l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-11-11",
@@ -163,7 +182,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": "1981-01-13",

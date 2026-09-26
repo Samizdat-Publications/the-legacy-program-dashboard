@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-23d46b2513",
 "edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
+"family": "testimony",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-11-29",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -51,10 +56,14 @@
 "direction": "in",
 "edgeId": "e-d8d125b928",
 "edgeLabel": "Author of the late-1981 report",
+"family": "documents",
 "id": "paul-bennewitz",
 "l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-11-29",
@@ -63,7 +72,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,
@@ -100,7 +110,7 @@
 ],
 "sub": "The claimant's own dated statement of his own claim, roughly five thousand words. DISTINCT FROM GREG BISHOP'S 2005 BOOK OF THE SAME NAME",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1098 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1093 of 1138, score 10). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

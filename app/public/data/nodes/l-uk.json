@@ -3,18 +3,13 @@
 "C": 1,
 "D": 3,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-e1694c6a59",
 "source": "UK MoD / National Archives release record",
 "text": "The UK Ministry of Defence closed its UFO desk in December 2009 and released its UFO file series to the National Archives.",
 "tier": 1
-},
-{
-"id": "c-b8a017a34f",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -29,10 +24,14 @@
 "direction": "out",
 "edgeId": "e-dde6788a41",
 "edgeLabel": "UK-commissioned study of its own air defence region",
+"family": "custody",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "The report is DI55's, and its title fixes its scope: 'Unidentified Aerial Phenomena in the UK Air Defence Region', completed in 2000. From that point onwards DI55 was removed from the distribution list of UFO reports received by the MoD. It is a state-commissioned assessment of the phenomenon over British territory with no American equivalent released to the public.",
+"predicate": "holds",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-01-01",
@@ -46,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -56,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-61cd7d9b46",
 "edgeLabel": "incident location: Rendlesham Forest, Suffolk",
+"family": "place-time",
 "id": "rendlesham-1980",
 "l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-01-01",
@@ -78,7 +82,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 }
 ],
 "coords": [
@@ -124,7 +129,7 @@
 ],
 "sub": "Sovereign state; the fullest official UFO file release by any government",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 783 of 1138, score 22). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 816 of 1138, score 21). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D3.",
 "timeline": [],
 "unverified": []
 }

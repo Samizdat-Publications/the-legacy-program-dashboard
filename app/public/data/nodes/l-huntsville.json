@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-4f7b7cdc90",
 "edgeLabel": "The Task Force's chief scientist was employed by a Huntsville contractor",
+"family": "other",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Science magazine reported in June 2022 that Travis S. Taylor, a principal research scientist at Huntsville-based Radiance Technologies, was chief scientist of the UAP Task Force.",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is connected to"
 }
 ],
 "coords": [
@@ -92,7 +97,7 @@
 ],
 "sub": "Madison County; Redstone Arsenal, Missile Defense Agency, Army Aviation and Missile Command, Radiance Technologies",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 814 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 812 of 1138, score 21). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D1.",
 "timeline": [],
 "unverified": []
 }

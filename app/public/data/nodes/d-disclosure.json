@@ -42,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-0c87c9fc36",
 "edgeLabel": "Comparative disclosure as leverage",
+"family": "analysis",
 "id": "d-international",
 "l0": false,
 "label": "International & Allied Programs",
 "note": "GEIPAN's published classification scheme and open case archive establish that an acknowledged state programme is possible, shifting the burden onto the concealment argument.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-03-31",
@@ -54,7 +58,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -64,10 +69,14 @@
 "direction": "in",
 "edgeId": "e-20d48628ee",
 "edgeLabel": "The movement's only binding lever",
+"family": "analysis",
 "id": "d-oversight",
 "l0": false,
 "label": "Congressional Oversight",
 "note": "Every enacted transparency provision came through committee process; the disclosure movement's instruments are procedural because the substantive question cannot be reached.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-12-22",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -144,7 +154,7 @@
 ],
 "sub": "Political domain - the organised effort to force the record open, 1969 to the present",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 859 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 858 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

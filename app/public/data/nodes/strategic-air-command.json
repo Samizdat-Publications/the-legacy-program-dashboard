@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-a0cde08f12",
 "edgeLabel": "SAC is the reporting chain throughout the memorandum",
+"family": "documents",
 "id": "doc-nmcc-loring-1975",
 "l0": false,
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "note": "NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-10-29",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-47b38925c1",
 "edgeLabel": "SAC installation; 44th Strategic Missile Wing Minuteman field",
+"family": "organisation",
 "id": "l-ellsworth",
 "l0": false,
 "label": "Ellsworth AFB, South Dakota",
 "note": "The unit is as claimed by the two claimants, not as established by any opened Air Force record. No document opened by this board places either man at Ellsworth.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-07",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-82410e4157",
 "edgeLabel": "SAC installation; 321st Strategic Missile Wing",
+"family": "organisation",
 "id": "l-grand-forks",
 "l0": false,
 "label": "Grand Forks AFB, North Dakota",
 "note": "The alert-ramp incident is cited from message traffic this board has not opened in its own text, so the edge is Tier 2.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1979-01-18",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-6677bc2ea6",
 "edgeLabel": "SAC installation; 42nd Bombardment Wing and its nuclear weapons storage area",
+"family": "organisation",
 "id": "l-loring",
 "l0": false,
 "label": "Loring AFB, Maine",
 "note": "The NMCC memorandum records SAC informing NORAD of the penetration and the SAC Command Center reporting back on the failed National Guard search, citing SAC CP OPS CONTROL 291954Z OCT 75.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-10-29",
@@ -124,7 +143,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -134,10 +154,14 @@
 "direction": "in",
 "edgeId": "e-7b4398d0ae",
 "edgeLabel": "SAC installation; 341st Strategic Missile Wing",
+"family": "organisation",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "SAC Headquarters called in OOAMA support for the Echo Flight engineering analysis within hours on 16 March 1967; the 1975 NORAD log is largely a record of calls from the 341st Strategic Air Command Post.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -151,7 +175,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -161,10 +186,14 @@
 "direction": "in",
 "edgeId": "e-bf5d1f1ed5",
 "edgeLabel": "SAC installation; 91st Strategic Missile Wing and 5th Bomb Wing",
+"family": "organisation",
 "id": "l-minot",
 "l0": false,
 "label": "Minot AFB, North Dakota",
 "note": "The 1968 Blue Book file is built on 91st SMW and 862nd Combat Support Group records; CINCNORAD's 1975 message names Minot AFB.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-13",
@@ -178,7 +207,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -188,10 +218,14 @@
 "direction": "in",
 "edgeId": "e-0ae62d7e61",
 "edgeLabel": "SAC installation; Minuteman field, and the site of the post-Echo-Flight EMP test programme",
+"family": "organisation",
 "id": "l-warren",
 "l0": false,
 "label": "F. E. Warren AFB, Wyoming",
 "note": "The 341st SMW history records SAMSO EMP testing at Warren completing all objectives on Delta Flight before moving to the 564th SMS in October 1967.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-06-14",
@@ -205,7 +239,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -215,10 +250,14 @@
 "direction": "in",
 "edgeId": "e-d53660a213",
 "edgeLabel": "SAC installation; 379th Bombardment Wing",
+"family": "organisation",
 "id": "l-wurtsmith",
 "l0": false,
 "label": "Wurtsmith AFB, Michigan",
 "note": "The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian's 1979 file is the wing's own record of the omission.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1979-01-18",
@@ -232,7 +271,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -242,10 +282,14 @@
 "direction": "out",
 "edgeId": "e-ff0051b8c3",
 "edgeLabel": "Major command of the United States Air Force, 1946 to 1992",
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "Asserted from the primary records themselves, which route SAC reporting through Air Force channels: the NMCC memorandum's distribution includes CSAF, and the 341st SMW history records SAC Headquarters tasking Ogden Air Materiel Area.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-06-14",
@@ -259,7 +303,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 }
 ],
 "coords": null,

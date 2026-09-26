@@ -23,10 +23,14 @@
 "direction": "in",
 "edgeId": "e-a6290cefb3",
 "edgeLabel": "Chairman of the subcommittee at the 2023 hearing",
+"family": "role",
 "id": "glenn-grothman",
 "l0": false,
 "label": "Glenn S. Grothman",
 "note": "Grothman gavelled the 26 July 2023 hearing to order and waived six non-members onto the subcommittee.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -35,7 +39,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was led by"
 },
 {
 "claimTier": 1,
@@ -45,10 +50,14 @@
 "direction": "out",
 "edgeId": "e-80867b2f19",
 "edgeLabel": "Held the 26 July 2023 hearing",
+"family": "oversight",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Serial No. 118-53, 2154 Rayburn.",
+"predicate": "oversaw",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -62,7 +71,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "oversaw"
 },
 {
 "claimTier": 1,
@@ -72,10 +82,14 @@
 "direction": "in",
 "edgeId": "e-ec52b4f71b",
 "edgeLabel": "Parent committee of the subcommittee that held the founding UAP hearing",
+"family": "organisation",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The Subcommittee on National Security, the Border, and Foreign Affairs is a standing subcommittee of the Committee on Oversight and Accountability; the printed hearing record carries both rosters.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -84,7 +98,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -94,10 +109,14 @@
 "direction": "in",
 "edgeId": "e-9e8c3cf991",
 "edgeLabel": "Ranking Member at the 2023 hearing",
+"family": "role",
 "id": "robert-garcia",
 "l0": false,
 "label": "Robert Garcia",
 "note": "Garcia delivered the Ranking Member opening statement on 26 July 2023.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -106,7 +125,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 }
 ],
 "coords": null,
@@ -153,7 +173,7 @@
 ],
 "sub": "House Oversight subcommittee",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 955 of 1138, score 16). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 953 of 1138, score 16). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unverified": []
 }

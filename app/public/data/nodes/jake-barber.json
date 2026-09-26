@@ -75,10 +75,14 @@
 "direction": "in",
 "edgeId": "e-ad78872750",
 "edgeLabel": "Michels published Barber's crash-retrieval account",
+"family": "testimony",
 "id": "jesse-michels",
 "l0": false,
 "label": "Jesse Michels",
 "note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
+"predicate": "brought_to_record",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-01-30",
@@ -92,7 +96,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -102,10 +107,14 @@
 "direction": "in",
 "edgeId": "e-9e3a287af3",
 "edgeLabel": "Barber spoke at the 2025 Sol Foundation Symposium",
+"family": "media",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "A whistleblower first platformed by an independent YouTube channel in January 2025 appears on a symposium programme alongside Karl Nell, Jacques Vallee and a retired French general nine months later. The pipeline from independent media to institutional legitimation is short and documented.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-10-24",
@@ -114,7 +123,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through media to"
 }
 ],
 "date": "2025-01-30",

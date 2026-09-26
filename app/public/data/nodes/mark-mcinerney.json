@@ -36,10 +36,14 @@
 "direction": "out",
 "edgeId": "e-06a12b9d04",
 "edgeLabel": "NASA Director of UAP Research",
+"family": "role",
 "id": "nasa",
 "l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "Appointment announced 14 September 2023; no public outputs from the role have been identified since.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-14",
@@ -48,7 +52,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -58,10 +63,14 @@
 "direction": "in",
 "edgeId": "e-2d18c036ab",
 "edgeLabel": "NASA announced the UAP research director but withheld the name at the briefing",
+"family": "denial",
 "id": "nicola-fox",
 "l0": false,
 "label": "Nicola J. Fox",
 "note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -70,7 +79,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 }
 ],
 "date": "2023-09-14",
@@ -150,7 +160,7 @@
 "status": "active",
 "sub": "NASA Director of UAP Research (announced unnamed, 14 Sept 2023)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 984 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 982 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

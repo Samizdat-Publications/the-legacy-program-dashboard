@@ -44,10 +44,14 @@
 "direction": "out",
 "edgeId": "e-4789a8b0a6",
 "edgeLabel": "Snowball Chamber co-developers; the dark-matter group whose instrumentation was carried into the UAP field work",
+"family": "role",
 "id": "matthew-szydagis",
 "l0": false,
 "label": "Matthew Szydagis",
 "note": "Levy's faculty page lists 'Szydagis, Knight, Levy, The Snowball chamber: neutron induced nucleation in supercooled water' (arXiv:1807.09253, 2018) and describes the Snowball Chamber as 'a research topic completely unique to the UAlbany dark matter group'. The UAlbany release makes the methodological carry-over explicit: the C-TAP frame-differencing software is 'similar to an approach used by physicists like him and Levy to look for direct evidence of dark matter'. This is the mechanism by which rare-event detection practice reached UAP field work at this institution.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-21",
@@ -61,7 +65,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -71,10 +76,14 @@
 "direction": "out",
 "edgeId": "e-3f23a72242",
 "edgeLabel": "Co-author of the UAPx field-expedition results",
+"family": "documents",
 "id": "paper-uapx-2025",
 "l0": false,
 "label": "Szydagis, Knuth, Kugielsky & Levy (2025), Progress in Aerospace Sciences 156:101099",
 "note": "Fourth-named author on Szydagis, Knuth, Kugielsky & Levy (2025). The board's existing node label for this paper already carries her surname; until now she had no node behind it.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-04",
@@ -83,7 +92,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -93,10 +103,14 @@
 "direction": "in",
 "edgeId": "e-56d58ee0a3",
 "edgeLabel": "Employs Levy; Associate Professor of Physics and the third UAlbany author on the 2025 UAPx paper",
+"family": "role",
 "id": "university-at-albany",
 "l0": false,
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "Levy is an LZ dark-matter physicist in the same department and co-developer, with Szydagis, of the Snowball Chamber supercooled-water detector. The University's own news office names her as one of three 'UAlbany authors' on the 2025 Progress in Aerospace Sciences field-expedition paper. Her faculty page does not itself list UAP among her research interests, which is worth recording rather than smoothing over: unlike Szydagis, her UAP involvement appears in the publication record and the university press office but not in her stated departmental research profile.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-21",
@@ -110,7 +124,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 }
 ],
 "date": "2025-06-01",
@@ -156,7 +171,7 @@
 "status": "active",
 "sub": "Associate Professor of Physics, University at Albany (SUNY); LZ dark-matter physicist; third UAlbany author on the 2025 UAPx field-expedition paper",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 943 of 1138, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 942 of 1138, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

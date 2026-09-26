@@ -67,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-3ad5253090",
 "edgeLabel": "Ragsdale's own words were used to support the dummy explanation",
+"family": "denial",
 "id": "roswell-report-case-closed",
 "l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
+"predicate": "explained_away",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -79,7 +83,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "was given a conventional explanation by"
 }
 ],
 "date": "1995",
@@ -161,7 +166,7 @@
 "status": "dead",
 "sub": "Claimed civilian eyewitness to a crash site north of Roswell",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 701 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 700 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C2/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

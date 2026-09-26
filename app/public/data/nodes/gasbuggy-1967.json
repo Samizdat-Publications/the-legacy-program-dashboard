@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-b92ef9943b",
 "edgeLabel": "DOE Office of Legacy Management holds long-term stewardship",
+"family": "custody",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-3a22fe7fdc",
 "edgeLabel": "ADJACENCY AND PRECEDENCE, NOT CAUSATION: a 29-kiloton detonation twelve miles from Dulce, twelve years earlier",
+"family": "place-time",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "The documented federal underground operation next to the rumour. Tier 1 as a record of Gasbuggy, from the DOE Office of Legacy Management's own fact sheet, which is a primary record of the department's own act and not an interested-party gloss on somebody else's. The edge asserts that the government did a large secret radioactive thing in the ground near Dulce before the rumour began. It does NOT assert that this caused the rumour.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-6837a10402",
 "edgeLabel": "640 acres in the Carson National Forest, twelve miles southwest of Dulce",
+"family": "place-time",
 "id": "l-dulce",
 "l0": false,
 "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
 "note": "From the DOE fact sheet: Rio Arriba County, approximately 55 miles east of Farmington, just west of the Jicarilla Apache Reservation.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "happened at"
 }
 ],
 "coords": null,
@@ -170,7 +185,7 @@
 ],
 "sub": "A 29-kiloton AEC detonation at 4,227 feet, twelve miles southwest of Dulce; the documented federal underground operation next to the rumour, twelve years before it",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 772 of 1138, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 770 of 1138, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D1.",
 "timeline": [
 {
 "claimTier": null,

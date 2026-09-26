@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-edf5eba847",
 "edgeLabel": "Drew Shellenberger's 'Yes' on concerted Pentagon concealment from Congress in US waters",
+"family": "oversight",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Also established that the program covers oceanic as well as terrestrial cases.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through oversight to"
 }
 ],
 "date": "2024-11-13",
@@ -113,7 +118,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-CO-4); Task Force member; asked about non-human genetic material",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1034 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1031 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

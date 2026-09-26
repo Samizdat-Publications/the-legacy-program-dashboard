@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-704d3319c7",
 "edgeLabel": "statutory basis for standing up AARO",
+"family": "law",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Deputy Secretary of Defense approved amendments to the AOIMSG direction 'to meet the DoD requirements in section 1683 of the NDAA for FY 2022', establishing AARO 'to carry out the duties that were to be fulfilled by the AOIMSG'. The memorandum also renames the AOIMEXEC as the AARO Executive Council and makes AARO 'the authoritative office of the Unidentified Aerial Phenomena (UAP) and UAP-related activities for the DoD'.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-07-15",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -81,10 +86,14 @@
 "direction": "out",
 "edgeId": "e-5ee871d791",
 "edgeLabel": "Sec. 1683 is the UAP-office provision of P.L. 117-81",
+"family": "organisation",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Section 1683 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117-81, enacted 27 December 2021) is titled 'Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena', and sits in Title XVI, Subtitle E. It is the provision the board's section node is filed under.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-12-27",
@@ -103,7 +112,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -113,10 +123,14 @@
 "direction": "out",
 "edgeId": "e-ead6245166",
 "edgeLabel": "office required to be established in coordination with the DNI",
+"family": "law",
 "id": "odni",
 "l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "The FY2022 NDAA 'was enacted with a provision that requires the Secretary of Defense to establish an office, in coordination with the Director of National Intelligence (DNI), with responsibilities that include those that were to be assigned to the AOIMSG'; the Deputy Secretary acted 'following coordination with the DNI', and copied the memorandum to the Director of National Intelligence. The coordination requirement is statutory, not discretionary.",
+"predicate": "mandated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-07-15",
@@ -125,7 +139,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -135,10 +150,14 @@
 "direction": "out",
 "edgeId": "e-7fc24b3d81",
 "edgeLabel": "directed disestablishment of the UAPTF",
+"family": "place-time",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "'Consistent with section 1683 of the NDAA for FY 2022, I also direct the Secretary of the Navy to disestablish the Unidentified Aerial Phenomena Task Force (UAPTF) no later than the date the AARO is established, and to support the orderly transition of the UAPTF, including the transfer of any data, analysis, or other relevant material, to the AARO.' The statute did not abolish the task force directly; it required an office whose establishment the Deputy Secretary made the trigger for disestablishment.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-07-15",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "led to"
 }
 ],
 "coords": null,

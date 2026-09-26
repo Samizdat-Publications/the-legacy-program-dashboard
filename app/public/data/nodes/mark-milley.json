@@ -40,10 +40,14 @@
 "direction": "out",
 "edgeId": "e-dba8386fcd",
 "edgeLabel": "Chairman of the Joint Chiefs: no evidence of alien craft or coverup",
+"family": "denial",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Stated 6 August 2023. Recorded as an artifact: under 10 U.S.C. 119 the Deputy Secretary may waive congressional reporting for a SAP with only Gang of Eight notification, so a Chairman's non-knowledge is consistent with the program existing and is data about compartmentation.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 }
 ],
 "date": "2023-08-06",

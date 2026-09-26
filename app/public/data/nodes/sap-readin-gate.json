@@ -42,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-b055c8cb45",
 "edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
+"family": "testimony",
 "id": "andy-ogles",
 "l0": false,
 "label": "Andrew Ogles",
 "note": "The only statutory enforcement mechanism any member has named on the record; never used on this subject.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -54,7 +58,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -64,10 +69,14 @@
 "direction": "in",
 "edgeId": "e-41b7af31bd",
 "edgeLabel": "SAPCO administers the read-in architecture Luna described",
+"family": "organisation",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "Chairwoman Luna testified on 9 September 2025 that a non-committee member must be approved by the chairman and ranking member of both HASC and HAC-D to view specific material; the underlying access records and accreditation are held by the SAPCO enterprise.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was run by"
 },
 {
 "claimTier": 3,
@@ -91,10 +101,14 @@
 "direction": "in",
 "edgeId": "e-ad98b6f3c9",
 "edgeLabel": "Grothman's 'inside and outside of the SCIF' claim cannot be reconciled with the read-in gate Luna documented",
+"family": "testimony",
 "id": "glenn-grothman",
 "l0": false,
 "label": "Glenn S. Grothman",
 "note": "Reasoning: Grothman said in Nov 2024 that members questioned agencies inside and outside the SCIF without substantiating Grusch; Luna said in Sept 2025 that Oversight members were not eligible for the relevant read-ins at all. Both are on the same committee's record.",
+"predicate": "contradicts",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "C",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -118,10 +133,14 @@
 "direction": "out",
 "edgeId": "e-109c53aa87",
 "edgeLabel": "The jurisdictional routing that keeps the subpoena committee uncleared",
+"family": "analysis",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Documented by Luna on 9 September 2025; corroborated by Burlison's 2024 AARO briefing block and his 2025 non-germane amendment ruling.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -130,7 +149,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -140,10 +160,14 @@
 "direction": "in",
 "edgeId": "e-a24b387b7d",
 "edgeLabel": "Held simultaneously the HASC and HPSCI seats that constitute the read-in tier Oversight was excluded from",
+"family": "analysis",
 "id": "mike-gallagher",
 "l0": false,
 "label": "Michael John Gallagher",
 "note": "Reasoning: Luna's 2025 statement identifies HASC and HAC-D membership as the read-in gate; Gallagher held HASC and HPSCI through the 118th Congress and chaired a select committee. Whether he was ever read in on UAP SAPs is unresolved and is a live research question.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -152,7 +176,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 3,
@@ -162,10 +187,14 @@
 "direction": "out",
 "edgeId": "e-683323e5df",
 "edgeLabel": "A select committee is the instrument that would route around the read-in gate",
+"family": "analysis",
 "id": "uap-select-committee-proposal",
 "l0": false,
 "label": "Proposed House Select Committee on UAP",
 "note": "Reasoning: a select committee carries its own clearance posture and subpoena authority and is not subject to another committee's read-in approval. Burlison's stated rationale was that DoD 'weren't transparent to us in a SCIF setting.'",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-12",
@@ -179,7 +208,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -189,10 +219,14 @@
 "direction": "in",
 "edgeId": "e-f28b40de8f",
 "edgeLabel": "HASC and HAC-D leadership control member access to program material",
+"family": "analysis",
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "The gate is described on the record by the chair of the investigating task force; the two committees controlling it are not the committee conducting the inquiry.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -201,7 +235,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -211,10 +246,14 @@
 "direction": "out",
 "edgeId": "e-300f5334aa",
 "edgeLabel": "The read-in gate members describe is the policy text of paragraph 4.f",
+"family": "organisation",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DoDD 5205.07 (2010) para 4.f is the written rule that members of the defense and intelligence committees are authorised access to DoD SAPs 'except for waived programs'.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-08-31",
@@ -223,7 +262,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "does not include"
 }
 ],
 "coords": null,

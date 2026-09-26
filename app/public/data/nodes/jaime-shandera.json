@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-7a2d61cfb7",
 "edgeLabel": "Received the anonymous 35mm film on 11 December 1984",
+"family": "custody",
 "id": "mj-12-documents",
 "l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "The film arrived at Shandera's Los Angeles home postmarked Albuquerque, New Mexico - the same city as the AFOSI operation running against Bennewitz.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-04-01",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 2,
@@ -80,10 +85,14 @@
 "direction": "in",
 "edgeId": "e-9197ec8041",
 "edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
+"family": "testimony",
 "id": "naval-criminal-investigative-service",
 "l0": false,
 "label": "Naval Criminal Investigative Service",
 "note": "Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.",
+"predicate": "alleged_tie",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-21",
@@ -92,7 +101,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": "1984-12-11",
@@ -145,7 +155,7 @@
 "status": "dead",
 "sub": "Television producer; recipient of the anonymous MJ-12 film, December 1984",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 988 of 1138, score 14). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 986 of 1138, score 14). 2 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": "A document planted in a NARA record group is a federal records offence; no investigation of how the Cutler-Twining memo entered RG 341 has ever been released.",
 "unverified": [

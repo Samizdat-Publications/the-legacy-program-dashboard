@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-ddf66cd1bc",
 "edgeLabel": "Congressional pressure produced a contracted study, not oversight",
+"family": "place-time",
 "id": "condon-committee",
 "l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Six months after the hearing the Air Force let contract 44620-67-C-0035 to the University of Colorado — pressure in, study out, closure following.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-01",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-15a76806cb",
 "edgeLabel": "Ford forced the first congressional hearing on the subject",
+"family": "oversight",
 "id": "gerald-ford",
 "l0": false,
 "label": "Gerald R. Ford",
 "note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
+"predicate": "oversaw",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was overseen by"
 },
 {
 "claimTier": 2,
@@ -90,10 +100,14 @@
 "direction": "in",
 "edgeId": "e-a2e93082a2",
 "edgeLabel": "The swamp gas episode triggered the 1966 hearing",
+"family": "place-time",
 "id": "j-allen-hynek",
 "l0": false,
 "label": "J. Allen Hynek",
 "note": "Hynek's March 1966 Michigan press conference explanation was reported as a blanket dismissal, produced a public backlash, and led directly to Gerald Ford's demand for congressional hearings.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1968-11-01",
@@ -102,7 +116,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "followed from"
 }
 ],
 "coords": null,
@@ -144,7 +159,7 @@
 ],
 "sub": "89th Congress, Hearing No. 55, 5 April 1966",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 775 of 1138, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 773 of 1138, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

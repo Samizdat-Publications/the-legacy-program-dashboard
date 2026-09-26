@@ -101,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-d027b6cf6f",
 "edgeLabel": "defines and operates the carve-out",
+"family": "law",
 "id": "carve-out",
 "l0": true,
 "label": "Carve-Out Provision (DCSA relief from NISP oversight)",
 "note": "The Manual is where the carve-out is defined and where it operates. Volume 1's glossary: 'carve-out. A provision approved by the Secretary or Deputy Secretary of Defense that relieves DSS of its NISP obligation to perform industrial security oversight.' Enclosure 2 para 2 carries the operational form of the same provision, and Volume 1 also states that inspections 'will be coordinated among the SAPCOs and DSS when not carved out' - which is the sentence establishing that a carved-out SAP is not so coordinated. Quotations are the verbatim ones already recorded on this node.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -118,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -128,10 +133,14 @@
 "direction": "out",
 "edgeId": "e-b88105dae1",
 "edgeLabel": "relieves it of oversight",
+"family": "law",
 "id": "dcsa-nisp",
 "l0": false,
 "label": "DCSA as DoD Cognizant Security Office under the NISP",
 "note": "The carve-out's effect runs against this body: the Manual's own definition is that the provision 'relieves DSS of its NISP obligation to perform industrial security oversight'. DSS is the predecessor of DCSA, which now holds the cognizant-security-office role under the NISP. The Manual is the instrument by which the oversight body is stood down for a given programme.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -145,7 +154,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "governs"
 },
 {
 "claimTier": 1,
@@ -155,10 +165,14 @@
 "direction": "out",
 "edgeId": "e-45d3c17efb",
 "edgeLabel": "assigns it the patent and inspection roles",
+"family": "law",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "Volume 1 Enclosure 4 para 7: 'PATENTS AND INTELLECTUAL PROPERTY. The CA SAPCO will develop procedures for processing patents and intellectual property involving SAP(s).' Volume 1 also routes inspections through the SAPCOs jointly with DSS where a programme is not carved out. Both are verbatim from this node's recorded quotations, and the patents provision is the one that matters most to this board: it is an explicit channel for intellectual property arising inside a special access programme.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -172,7 +186,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "requires"
 },
 {
 "claimTier": 1,
@@ -182,10 +197,14 @@
 "direction": "out",
 "edgeId": "e-9209e3bbed",
 "edgeLabel": "manual implements policy established in DoDD 5205.07",
+"family": "law",
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "",
+"predicate": "implements",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -194,7 +213,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "implements"
 },
 {
 "claimTier": 1,
@@ -204,10 +224,14 @@
 "direction": "out",
 "edgeId": "e-6ba903bc02",
 "edgeLabel": "",
+"family": "law",
 "id": "dodd-5205-07-2010",
 "l0": false,
 "label": "DoDD 5205.07, Special Access Program (SAP) Policy (1 Jul 2010, Chg 2 of 4 Feb 2020)",
 "note": "The Manual implements the Directive. The 2010 directive sets SAP policy and defines the carve-out in its glossary; the four-volume Manual carries the operating detail - Volume 1's Enclosure 2 on DSS oversight and its relief, Enclosure 4 on whistleblower routing through SAP channels, and the patents and intellectual property provision. Directive states the policy, Manual runs it.",
+"predicate": "implements",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-18",
@@ -221,7 +245,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "implements"
 },
 {
 "claimTier": 1,
@@ -231,10 +256,14 @@
 "direction": "out",
 "edgeId": "e-9639bb02ab",
 "edgeLabel": "Volume 1 is the general procedures volume of the four-volume manual",
+"family": "organisation",
 "id": "dodm-5205-07-v1",
 "l0": false,
 "label": "DoDM 5205.07 Volume 1 - DoD SAP Security Manual: General Procedures",
 "note": "DoDM 5205.07 is issued in volumes; Volume 1 carries the responsibilities, general procedures, HVSACO rules and the glossary containing the carve-out definition.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2018-02-12",
@@ -243,7 +272,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 }
 ],
 "coords": null,

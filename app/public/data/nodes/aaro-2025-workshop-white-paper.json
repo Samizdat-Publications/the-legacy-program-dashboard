@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-e34fc1c2ae",
 "edgeLabel": "recommendations the release programme did not adopt",
+"family": "denial",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -46,7 +50,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked through a denial to"
 }
 ],
 "coords": null,
@@ -88,7 +93,7 @@
 ],
 "sub": "Product of the August 2025 Associated Universities workshop",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1075 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1072 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": 2,

@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-a7f8be38f5",
 "edgeLabel": "The 1966 incursions were over this installation's Minuteman launch facilities",
+"family": "place-time",
 "id": "l-minot",
 "l0": false,
 "label": "Minot AFB, North Dakota",
 "note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1975-11-11",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-a1e8f8dd93",
 "edgeLabel": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
+"family": "place-time",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
+"predicate": "preceded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "came before"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-abc6efc425",
 "edgeLabel": "Publishes the 25 August 1966 Minot documents in facsimile",
+"family": "testimony",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,
@@ -144,7 +159,7 @@
 ],
 "sub": "Reported object activity over 91st SMW Minuteman sites, North Dakota",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 778 of 1138, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 776 of 1138, score 22). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -77,10 +77,14 @@
 "direction": "out",
 "edgeId": "e-b6d879af4b",
 "edgeLabel": "Testimony at section 3.8.2, dated October 2000",
+"family": "testimony",
 "id": "disclosure-project-briefing-2001",
 "l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-04",
@@ -89,7 +93,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "testified at"
 },
 {
 "claimTier": 2,
@@ -99,10 +104,14 @@
 "direction": "out",
 "edgeId": "e-799c409440",
 "edgeLabel": "FAA Washington headquarters management post, mid-1980s; title disputed",
+"family": "role",
 "id": "faa",
 "l0": false,
 "label": "Federal Aviation Administration",
 "note": "Employment at FAA headquarters is supported by an OMB Form 171 he supplied. The TITLE is not: the researcher who set out to confirm it found him in the public record as 'Quality Control Branch Manager' of the 'Quality Assurance Staff' under the Associate Administrator for Air Traffic, and wrote that 'none of them really matched his claimed Accidents, Evaluations and Investigations area'.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-10",
@@ -116,7 +125,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -126,10 +136,14 @@
 "direction": "out",
 "edgeId": "e-71c30c8403",
 "edgeLabel": "Claimed role in the FAA's handling of the case",
+"family": "testimony",
 "id": "jal-1628-1986",
 "l0": false,
 "label": "Japan Air Lines flight 1628, Alaska, 17 November 1986",
 "note": "TIER 2 AND NOT TIER 1, DELIBERATELY. The case has a 1,500-page federal record; his role in it does not. The only document for his claimed title is an OMB Form 171 he supplied to a researcher himself in 2015, and The Black Vault states that 'Callahan's dramatic account is unconfirmed by other sources'.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001-04",
@@ -148,7 +162,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -158,10 +173,14 @@
 "direction": "out",
 "edgeId": "e-582c0fbf97",
 "edgeLabel": "Spoke at the podium, 9 May 2001",
+"family": "media",
 "id": "national-press-club-2001",
 "l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
+"predicate": "appeared_on",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2001",
@@ -170,7 +189,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through media to"
 }
 ],
 "date": null,

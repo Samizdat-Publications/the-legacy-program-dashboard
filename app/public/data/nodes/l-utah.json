@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-eb4efc2c30",
 "edgeLabel": "The ranch sits inside the Uintah Basin reporting region",
+"family": "organisation",
 "id": "l-skinwalker",
 "l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "The property is in Uintah County southeast of Ballard, bordering the Uintah and Ouray Indian Reservation, inside a region with a folk reporting record dating to the 1970s.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "includes"
 }
 ],
 "coords": null,
@@ -78,7 +83,7 @@
 ],
 "sub": "Region in northeastern Utah spanning Uintah and Duchesne Counties; Skinwalker Ranch and the wider 'UFO corridor'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1104 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1099 of 1138, score 10). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
 "timeline": [],
 "unverified": []
 }

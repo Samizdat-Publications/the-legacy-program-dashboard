@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-3dbc11c416",
 "edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
+"family": "analysis",
 "id": "dod-agencywide-audit",
 "l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "The FMR permits internal reprogramming on DD 1415-3 with no congressional action and below-threshold realignment with none at all; the FY2025 audit found more than $859 billion of adjustments in two quarters that could not be supported. The inference is that the undocumented volume is concentrated in the layer that generates no external record.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-09-01",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-05230040b6",
 "edgeLabel": "The administrative layer beneath the statutory transfer authority",
+"family": "law",
 "id": "sec-8005-transfer",
 "l0": false,
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
+"predicate": "implements",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2015-09-01",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "implements"
 }
 ],
 "coords": null,
@@ -128,7 +138,7 @@
 ],
 "sub": "The administrative machinery for moving money after appropriation, including below-threshold reprogramming",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 706 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 705 of 1138, score 24). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -68,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-327d208b21",
 "edgeLabel": "Co-author of the Task Force's opening records demand to State, Defense and CIA",
+"family": "documents",
 "id": "comer-luna-agency-letters-2025",
 "l0": false,
 "label": "Comer-Luna letters to Rubio, Hegseth and Ratcliffe on UAP records, February 2025",
 "note": "Sent on establishment of the Task Force in February 2025.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-18",
@@ -80,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "wrote"
 },
 {
 "claimTier": 2,
@@ -90,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-ef9e4c53f5",
 "edgeLabel": "Co-launched the probe",
+"family": "role",
 "id": "missing-scientists-probe-2026",
 "l0": false,
 "label": "House Oversight probe into deaths and disappearances of scientists, April 2026",
 "note": "Comer and Burlison opened the investigation on 21 April 2026.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-21",
@@ -102,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -112,10 +122,14 @@
 "direction": "out",
 "edgeId": "e-517e9a235b",
 "edgeLabel": "Created the Task Force and named Luna to chair it",
+"family": "law",
 "id": "task-force-declassification-federal-secrets",
 "l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Comer announced the establishment of the Task Force on 11 February 2025.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-18",
@@ -124,7 +138,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "created"
 },
 {
 "claimTier": 2,
@@ -134,10 +149,14 @@
 "direction": "out",
 "edgeId": "e-dc7b31d087",
 "edgeLabel": "Reported to support the proposed select committee; never created one",
+"family": "conduct",
 "id": "uap-select-committee-proposal",
 "l0": false,
 "label": "Proposed House Select Committee on UAP",
 "note": "Burlison named Comer's support publicly on 12 March 2024.",
+"predicate": "supported",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-12",
@@ -146,7 +165,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through conduct to"
 }
 ],
 "date": "2025-02-11",
@@ -215,7 +235,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-KY-1); Chairman, House Committee on Oversight and Government Reform",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 847 of 1138, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 846 of 1138, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

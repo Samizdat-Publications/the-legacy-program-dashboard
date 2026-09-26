@@ -50,10 +50,14 @@
 "direction": "in",
 "edgeId": "e-cf46504728",
 "edgeLabel": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
+"family": "role",
 "id": "harold-puthoff",
 "l0": false,
 "label": "Harold E. Puthoff",
 "note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1974-10-18",
@@ -67,7 +71,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -77,10 +82,14 @@
 "direction": "out",
 "edgeId": "e-9083dc537b",
 "edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
+"family": "role",
 "id": "sri-international",
 "l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1974-10-18",
@@ -94,7 +103,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -104,10 +114,14 @@
 "direction": "out",
 "edgeId": "e-b2047540f4",
 "edgeLabel": "Targ co-founded the SRI remote viewing research",
+"family": "role",
 "id": "stargate-program",
 "l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
+"predicate": "member_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -116,7 +130,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked by a role to"
 }
 ],
 "date": "1974-10-18",
@@ -169,7 +184,7 @@
 "status": "active",
 "sub": "Laser physicist; co-founder with Puthoff of the SRI remote-viewing programme 1972-1982",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 911 of 1138, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 910 of 1138, score 17). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

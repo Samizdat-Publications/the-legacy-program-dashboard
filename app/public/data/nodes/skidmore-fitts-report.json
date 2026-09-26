@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-ada7c1a068",
 "edgeLabel": "Co-author; originated the inquiry",
+"family": "documents",
 "id": "catherine-austin-fitts",
 "l0": false,
 "label": "Catherine Austin Fitts",
 "note": "Fitts co-authored the summary report and the Missing Money archive that hosts it and its supporting documentation. Attested by the report and the Solari archive.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-09-01",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-374b42a76a",
 "edgeLabel": "The single largest figure in the $21 trillion compilation comes from this report",
+"family": "documents",
 "id": "dodig-2016-113",
 "l0": false,
 "label": "DODIG-2016-113 - Army General Fund Adjustments Not Adequately Documented or Supported",
 "note": "The Skidmore-Fitts compilation draws on published OIG reports including DODIG-2016-113, whose $6.5 trillion year-end unsupported adjustment figure is the largest single component. Attested by the authors' own supporting documentation index.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-09-01",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "cites"
 },
 {
 "claimTier": 2,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-2ce4ac6e0f",
 "edgeLabel": "Co-author and compiler",
+"family": "documents",
 "id": "mark-skidmore",
 "l0": false,
 "label": "Mark Skidmore",
 "note": "Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-09-01",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 }
 ],
 "coords": null,
@@ -149,7 +164,7 @@
 ],
 "sub": "Compilation of OIG/GAO-reported unsupported adjustments at DoD and HUD, FY1998-FY2015",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 963 of 1138, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 961 of 1138, score 16). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

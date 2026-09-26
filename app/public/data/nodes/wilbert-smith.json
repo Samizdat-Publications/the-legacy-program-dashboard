@@ -116,10 +116,14 @@
 "direction": "out",
 "edgeId": "e-af568a786a",
 "edgeLabel": "author of the request that created Project Magnet",
+"family": "role",
 "id": "project-magnet",
 "l0": false,
 "label": "Project Magnet (Canada)",
 "note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2005-08-11",
@@ -128,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 },
 {
 "claimTier": 2,
@@ -138,10 +143,14 @@
 "direction": "out",
 "edgeId": "e-539965ff3e",
 "edgeLabel": "appointed to the Defence Research Board committee in 1952",
+"family": "role",
 "id": "project-second-storey",
 "l0": false,
 "label": "Project Second Storey (Canada)",
 "note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-06-01",
@@ -150,7 +159,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 },
 {
 "claimTier": 2,
@@ -160,10 +170,14 @@
 "direction": "in",
 "edgeId": "e-d10a801bc9",
 "edgeLabel": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
+"family": "testimony",
 "id": "robert-sarbacher",
 "l0": false,
 "label": "Robert I. Sarbacher",
 "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
+"predicate": "told",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1983-11-29",
@@ -172,7 +186,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "date": "1962-12-27",

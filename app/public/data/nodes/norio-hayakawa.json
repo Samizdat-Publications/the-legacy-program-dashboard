@@ -38,10 +38,14 @@
 "direction": "out",
 "edgeId": "e-8dceeb037c",
 "edgeLabel": "Thirty-eight years on the question, concluding 'it does not seem to exist'",
+"family": "oversight",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Typed investigative rather than denial because it is a researcher's negative finding rather than an interested party's rebuttal. Hayakawa is a proponent of investigating the subject, not a professional debunker of it, which is what makes the negative worth more than a debunker's. Self-published, so Tier 2.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2016-08-29",
@@ -50,7 +54,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 }
 ],
 "date": null,
@@ -101,7 +106,7 @@
 "status": "alive",
 "sub": "Researcher who has worked the Dulce question since 1988 and concludes against it; the cluster's most local and longest-running negative",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1057 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1054 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

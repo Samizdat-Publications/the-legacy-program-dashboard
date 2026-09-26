@@ -50,10 +50,14 @@
 "direction": "out",
 "edgeId": "e-54e41e21e3",
 "edgeLabel": "The most detailed documentary examination of the account, 1990s and 2018",
+"family": "denial",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "'Lazar never attended either CalTech or MIT. Of this I am certain of beyond a reasonable doubt.' The node carries his concessions as well as his conclusions, which is why this denial is worth more than a hostile one.",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-18",
@@ -67,7 +71,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "disputes"
 },
 {
 "claimTier": 2,
@@ -77,10 +82,14 @@
 "direction": "out",
 "edgeId": "e-151cfa6d24",
 "edgeLabel": "The island of stability near element 114 was published popular physics from 1969",
+"family": "denial",
 "id": "element-115-claim",
 "l0": false,
 "label": "Element 115: the Lazar claim and moscovium",
 "note": "This denial cuts against the credulous reading without endorsing the hostile one: the finding is 'available prior art, used', not 'fabricated from nothing'. The Seaborg article itself was not opened.",
+"predicate": "explained_away",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-18",
@@ -89,7 +98,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "gave a conventional explanation for"
 },
 {
 "claimTier": 1,
@@ -99,10 +109,14 @@
 "direction": "out",
 "edgeId": "e-21ade5f0bd",
 "edgeLabel": "Holds the reprints of both 1990 newspaper reports and quotes the Pre-Sentence Report",
+"family": "custody",
 "id": "lazar-clark-county-1990",
 "l0": false,
 "label": "Clark County, Nevada felony pandering file, 1990 and 1996",
 "note": "GENUINE CUSTODY. He is the route by which the court material is openable at all from this environment.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-05-14",
@@ -111,7 +125,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -121,10 +136,14 @@
 "direction": "out",
 "edgeId": "e-cb88b8efb2",
 "edgeLabel": "Holds the only openable copy of the article's text",
+"family": "custody",
 "id": "los-alamos-monitor-1982",
 "l0": false,
 "label": "Los Alamos Monitor, 27 June 1982, 'LA Man Joins The Jet Set - At 200 Miles An Hour'",
 "note": "GENUINE CUSTODY: a hosting site holding a file, in the same role the board already gives the-black-vault.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1982-06-27",
@@ -133,7 +152,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 2,
@@ -143,10 +163,14 @@
 "direction": "out",
 "edgeId": "e-df5bd159c5",
 "edgeLabel": "Denial: nothing at Papoose Lake; S-4 is a Tonopah radar facility",
+"family": "denial",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "EXPLICIT DENIAL EDGE. His counter-explanation is that the account began as a cover story after security caught Lazar bringing friends to watch classified tests in April 1989. The same document concedes that Lazar is 'amazingly believable' and that Mahood himself initially found the story plausible.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018",
@@ -155,7 +179,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 }
 ],
 "date": null,

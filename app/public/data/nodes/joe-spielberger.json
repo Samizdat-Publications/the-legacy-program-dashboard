@@ -64,10 +64,14 @@
 "direction": "out",
 "edgeId": "e-269babb8a3",
 "edgeLabel": "minority witness",
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "POGO's senior policy counsel was the minority's chosen witness, arguing for stronger disclosure channels rather than contesting the phenomenology.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -86,10 +91,14 @@
 "direction": "out",
 "edgeId": "e-858369abe6",
 "edgeLabel": "minority witness",
+"family": "testimony",
 "id": "hearing-2025-09-09",
 "l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -108,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "testified at"
 },
 {
 "claimTier": 1,
@@ -118,10 +128,14 @@
 "direction": "in",
 "edgeId": "e-09dd2bdba2",
 "edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
+"family": "oversight",
 "id": "jasmine-crockett",
 "l0": false,
 "label": "Jasmine Felicia Crockett",
 "note": "The policy bridge from UAP allegations to H.R. 5060.",
+"predicate": "questioned",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -130,7 +144,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was questioned by"
 }
 ],
 "date": "2025-09-09",
@@ -196,7 +211,7 @@
 "status": "active",
 "sub": "Senior Policy Counsel, Project On Government Oversight; minority witness, Sept 2025",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 785 of 1138, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 782 of 1138, score 21). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

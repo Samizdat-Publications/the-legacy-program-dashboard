@@ -71,10 +71,14 @@
 "direction": "in",
 "edgeId": "e-77a7e267e0",
 "edgeLabel": "First statutory annual report, 25 October 2023",
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "291 new reports, 801 total holdings, and no finding of any kind on extraterrestrial technology - a formula that appears only from FY2024 onward.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-10-25",
@@ -88,7 +92,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 },
 {
 "claimTier": 3,
@@ -98,10 +103,14 @@
 "direction": "out",
 "edgeId": "e-83698822ae",
 "edgeLabel": "The negative finding is inserted after Grusch, not inherited",
+"family": "place-time",
 "id": "aaro-fy2024-annual-report",
 "l0": true,
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "The FY2023 report contains no extraterrestrial-technology denial; the FY2024 report leads with one. The change tracks the July 2023 hearing, indicating the formula is a communications response rather than an analytic finding.",
+"predicate": "preceded",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-10-25",
@@ -115,7 +124,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -125,10 +135,14 @@
 "direction": "in",
 "edgeId": "e-b46c648a5d",
 "edgeLabel": "the annual report it requires",
+"family": "law",
 "id": "ndaa-fy2023-sec-6802",
 "l0": true,
 "label": "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263) - AARO establishment, Historical Record Report and annual reports",
 "note": "Subsection (k)(1)(A): 'Not later than 180 days after the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2023, and annually thereafter for four years, the Director of National Intelligence and the Secretary of Defense shall jointly submit to the appropriate congressional committees a report on unidentified anomalous phenomena.' The obligation is JOINT between the DNI and the Secretary, and it is time-limited to five reports rather than standing.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -137,7 +151,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is required by"
 },
 {
 "claimTier": 1,
@@ -147,10 +162,14 @@
 "direction": "in",
 "edgeId": "e-3f2c70f02f",
 "edgeLabel": "",
+"family": "organisation",
 "id": "odni-2022-annual-report",
 "l0": false,
 "label": "ODNI 2022 Annual Report on Unidentified Aerial Phenomena",
 "note": "The reporting line passes here. The 2022 report is ODNI's, and it records AARO's establishment under its own heading; from FY2023 the consolidated annual report is AARO's product. Same statutory obligation, different office holding the pen.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-12",
@@ -164,7 +183,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "succeeded"
 }
 ],
 "coords": null,

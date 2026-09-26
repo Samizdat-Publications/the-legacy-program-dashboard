@@ -36,10 +36,14 @@
 "direction": "out",
 "edgeId": "e-5e0b2cee2f",
 "edgeLabel": "Sensor corroboration is what makes the accounts arguable",
+"family": "testimony",
 "id": "d-aviators",
 "l0": false,
 "label": "Military Aviators & Operators",
 "note": "Radar tracks and targeting-pod video convert a pilot's account into a multi-sensor event; DoD authenticated the imagery in April 2020 while declining to explain it.",
+"predicate": "corroborated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -48,7 +52,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -58,10 +63,14 @@
 "direction": "out",
 "edgeId": "e-11512eb21e",
 "edgeLabel": "Exemption 3 and the Glomar posture",
+"family": "analysis",
 "id": "d-foia",
 "l0": false,
 "label": "Freedom of Information Practice",
 "note": "NSA's statutory withholding, sustained in CAUS v. NSA on the classified Yeates affidavit, is the hardest documented barrier between sensor data and the public record.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1981-11-03",
@@ -70,7 +79,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -80,10 +90,14 @@
 "direction": "in",
 "edgeId": "e-3fd8bb96b7",
 "edgeLabel": "subject domain: sensing and tracking at hypersonic velocity",
+"family": "analysis",
 "id": "dird-detection-and-high-resolution-tracking-of",
 "l0": false,
 "label": "Detection and High Resolution Tracking of Vehicles at Hypersonic Velocities",
 "note": "The sensor-side counterpart to Leonhardt's cloaking DIRD: one asks how an object could be made undetectable, the other how an object moving at hypersonic velocity could nevertheless be tracked at high resolution. Together they bracket the observability problem that any UAP sensor programme has to solve.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-8303c3ddc9",
 "edgeLabel": "subject domain: gravitational-wave communications and surveillance",
+"family": "analysis",
 "id": "dird-high-frequency-gravitational-wave-communications",
 "l0": false,
 "label": "High-Frequency Gravitational Wave Communications",
 "note": "Baker's open-source 2010 counterpart claims theoretical aerospace, military and civilian applications in 'communications, surveillance, remote initiation of nuclear events and propulsion, including moving space objects and missiles in flight and frustrating anti-missile and anti-satellite systems.' The breadth of that claim is precisely what JASON's 'no foreign threat in HFGW is credible' was rejecting.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -134,7 +153,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -144,10 +164,14 @@
 "direction": "out",
 "edgeId": "e-209823571b",
 "edgeLabel": "NSA holdings and the FOIA wall",
+"family": "place-time",
 "id": "l-ft-meade",
 "l0": false,
 "label": "Fort George G. Meade, Maryland",
 "note": "The records at issue in CAUS v. NSA are held at Fort Meade, and AARO's current director came from the NSA research organisation based there.",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1981-11-03",
@@ -156,7 +180,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-2c96872b66",
 "edgeLabel": "Stringfield revived Aztec as a real retrieval in the late 1970s",
+"family": "testimony",
 "id": "aztec-1948",
 "l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "After two decades in which ufologists treated Aztec as dead, Stringfield argued the incident was real and that the craft was one of many held by the US military; Status Report V lists Aztec alongside Roswell, Kingman, El Yunque and Brown County.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "made claims about"
 },
 {
 "claimTier": 3,
@@ -69,10 +74,14 @@
 "direction": "in",
 "edgeId": "e-961ad70ed1",
 "edgeLabel": "Documentary method versus anonymous-testimony method",
+"family": "analysis",
 "id": "clear-intent-1984",
 "l0": false,
 "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
 "note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1984-01-01",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -96,10 +106,14 @@
 "direction": "out",
 "edgeId": "e-44b0b9ec96",
 "edgeLabel": "Status Report chronology indexes Del Rio as Item B-7",
+"family": "documents",
 "id": "del-rio-1950",
 "l0": false,
 "label": "Del Rio / Mexican border claim, 1948 or 1950",
 "note": "The consolidated chronology in Status Report III lists Item B-7 of Status Report II as '1948 or 1950: Mexico, near Del Rio, Texas. Air Force officer observed crashed craft and one body.'",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "concerns"
 },
 {
 "claimTier": 2,
@@ -118,10 +133,14 @@
 "direction": "out",
 "edgeId": "e-192e936ba5",
 "edgeLabel": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
+"family": "testimony",
 "id": "kingman-1953",
 "l0": false,
 "label": "Kingman, Arizona claim, 1953",
 "note": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
+"predicate": "brought_to_record",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -130,7 +149,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -140,10 +160,14 @@
 "direction": "in",
 "edgeId": "e-574a5fe3bd",
 "edgeLabel": "Authored the seven-part Status Report series",
+"family": "documents",
 "id": "leonard-stringfield",
 "l0": false,
 "label": "Leonard H. Stringfield",
 "note": "Stringfield wrote and self-published or placed all seven Status Reports between July 1978 and February 1994. Title and copyright pages of the original printings attest authorship, dates and, for Report VI, the Cincinnati imprint.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -152,7 +176,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -162,10 +187,14 @@
 "direction": "in",
 "edgeId": "e-6a1cbaf42c",
 "edgeLabel": "The catalogue inherits Stringfield's case base",
+"family": "documents",
 "id": "majic-eyes-only",
 "l0": false,
 "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
 "note": "A substantial share of 'Majic Eyes Only' entries trace back through Stringfield's anonymised Status Report cases, so the catalogue inherits their provenance limits. Reasoning: an index cannot be graded above its sources.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -174,7 +203,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "is cited by"
 }
 ],
 "coords": null,
@@ -330,7 +360,7 @@
 ],
 "sub": "Seven-part self-published monograph series, 1978-1994",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 780 of 1138, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 778 of 1138, score 22). 6 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [
 {
 "claimTier": null,

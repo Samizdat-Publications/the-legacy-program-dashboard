@@ -44,10 +44,14 @@
 "direction": "out",
 "edgeId": "e-a4d473a7b9",
 "edgeLabel": "author of record on the DIA list",
+"family": "documents",
 "id": "dird-space-access-where-we-ve-been",
 "l0": false,
 "label": "Space Access: Where We've Been and Where We Could Go",
 "note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 }
 ],
 "date": "2010-01-01",
@@ -137,7 +142,7 @@
 "status": "active",
 "sub": "Hypersonics engineer; President, HyperTech Concepts LLC; Professor Emeritus of Aerospace Engineering, Saint Louis University",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 974 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 971 of 1138, score 15). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-9843425e7a",
 "edgeLabel": "A contaminated Plowshare site under forty years of federal stewardship",
+"family": "analysis",
 "id": "d-legacy",
 "l0": false,
 "label": "Legacy Program",
 "note": "Stated inference and a domain-to-domain link, correctly capped at Tier 3: the legacy character of the ground holds whatever is or is not true about the mesa.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-a428cada6b",
 "edgeLabel": "The claim points at real ground",
+"family": "place-time",
 "id": "dulce-base",
 "l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "Tier 3 because the siting is the claim's own assertion and nothing else. The place node is kept separate from the claim node deliberately, and no archuleta-mesa node should be created: the mesa is carried in the location node's label.",
+"predicate": "located_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2016-08-29",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-7403f1c300",
 "edgeLabel": "New Mexico State Police officer stationed at Dulce from 1976",
+"family": "place-time",
 "id": "gabe-valdez",
 "l0": false,
 "label": "Gabriel L. \"Gabe\" Valdez",
 "note": "The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-09-23",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-6837a10402",
 "edgeLabel": "640 acres in the Carson National Forest, twelve miles southwest of Dulce",
+"family": "place-time",
 "id": "gasbuggy-1967",
 "l0": false,
 "label": "Project Gasbuggy, 10 December 1967",
 "note": "From the DOE fact sheet: Rio Arriba County, approximately 55 miles east of Farmington, just west of the Jicarilla Apache Reservation.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 }
 ],
 "coords": null,
@@ -166,7 +186,7 @@
 ],
 "sub": "The real ground: a town on the Jicarilla Apache Nation, a mesa, and a decommissioned Plowshare nuclear site twelve miles away",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1043 of 1138, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1041 of 1138, score 12). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": [
 "The Jicarilla Apache Nation's position on the claim. Three 2009 Albuquerque Journal pieces reported to carry it returned connection refused and 404, and the Wayback Machine is unavailable to this session. Nothing about a tribal position is asserted anywhere in this file."

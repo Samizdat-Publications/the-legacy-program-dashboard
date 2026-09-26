@@ -43,10 +43,14 @@
 "direction": "out",
 "edgeId": "e-f8af998cf3",
 "edgeLabel": "Custodian of the Fouche file, under a named operator",
+"family": "custody",
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "Mirrors the board's existing arvp-fluxliner-project to mark-mccandlish custody edge. The distinction worth recording is that this custodian signs and dates his posts by name, where arvp.co.uk is anonymous.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2014-02-11",
@@ -55,7 +59,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -65,10 +70,14 @@
 "direction": "in",
 "edgeId": "e-3e440c35a8",
 "edgeLabel": "Presentation transcript hosted by Check The Evidence",
+"family": "custody",
 "id": "fouche-iufoc-1998",
 "l0": false,
 "label": "Fouche's presentation transcript, August 1998",
 "note": "Genuine custody: a hosting site holding a file. Direction and type mirror the board's existing scott-sorensen-notes-1990 to arvp-fluxliner-project edge, and the treatment of the-black-vault.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2014-02-11",
@@ -77,7 +86,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -87,10 +97,14 @@
 "direction": "in",
 "edgeId": "e-b4bc7dc247",
 "edgeLabel": "Military documents compilation hosted by Check The Evidence",
+"family": "custody",
 "id": "fouche-military-documents",
 "l0": false,
 "label": "Edgar Fouche's Military, and DOD contractors reference Documents",
 "note": "Genuine custody. The site holds both the HTML original and the printed PDF, which is how the compilation's provenance was established.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2014-06-15",
@@ -99,7 +113,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 }
 ],
 "coords": null,
@@ -151,7 +166,7 @@
 ],
 "sub": "British site operated under a named individual that hosts the Fouche presentation transcript, the military documents compilation and the commentary on the FOIA dispute",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 536 of 1138, score 30). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 535 of 1138, score 30). 3 connections, 3 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": [
 "Whether the files the site hosts are unaltered since their 2014 creation dates. Neither PDF is signed or hashed, and both were retrieved live on 18 September 2026 with no earlier capture to compare against."

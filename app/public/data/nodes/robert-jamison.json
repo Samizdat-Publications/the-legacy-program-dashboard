@@ -46,10 +46,14 @@
 "direction": "out",
 "edgeId": "e-4f0c45bdc3",
 "edgeLabel": "ICBM combat targeting team commander at Malmstrom, 1965 to 1967",
+"family": "role",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Base and dates are his own, from his affidavit as published by Hastings; no service record has been opened.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -68,10 +73,14 @@
 "direction": "out",
 "edgeId": "e-ea24d246c2",
 "edgeLabel": "Retargeting team commander; the source of the 24 March 1967 date",
+"family": "testimony",
 "id": "malmstrom-oscar-flight-1967",
 "l0": true,
 "label": "Malmstrom Oscar Flight claim, 24 March 1967",
 "note": "HIS RECOLLECTION IS THE SOLE BASIS FOR THE 24 MARCH 1967 DATE THAT SEPARATES OSCAR FLIGHT FROM ECHO FLIGHT, AND IT REACHED THE PUBLIC THROUGH ROBERT HASTINGS. That separation is what removes Echo Flight's Tier 1 documentation from the Oscar Flight claim.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -85,7 +94,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -95,10 +105,14 @@
 "direction": "out",
 "edgeId": "e-3a24b858c5",
 "edgeLabel": "Spoke on the record with a signed affidavit",
+"family": "testimony",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Named on Hastings's own page among the six men said to have executed affidavits.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -107,7 +121,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -117,10 +132,14 @@
 "direction": "in",
 "edgeId": "e-77daca48cd",
 "edgeLabel": "Interviewed him; his recollection supplies the 24 March 1967 date",
+"family": "media",
 "id": "robert-hastings",
 "l0": false,
 "label": "Robert L. Hastings",
 "note": "ONE OF FOUR EDGES THAT FORM THE CIRCULAR-REPORTING CLUSTER IN THIS DOMAIN, and the most consequential of them: the date that separates Oscar Flight from Echo Flight comes through this edge.",
+"predicate": "interviewed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -134,7 +153,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was interviewed by"
 }
 ],
 "date": "2010-09-27",
@@ -194,7 +214,7 @@
 "status": "unknown",
 "sub": "USAF 1Lt, ICBM combat targeting team commander, Malmstrom AFB, January 1965 to October 1967; later missile targeting instructor, Chanute AFB; separated as Captain, July 1972",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 852 of 1138, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 851 of 1138, score 19). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-98f38e4602",
 "edgeLabel": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
+"family": "testimony",
 "id": "eric-davis",
 "l0": false,
 "label": "Eric W. Davis",
 "note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-07-23",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -62,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-63ae0cc411",
 "edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
+"family": "oversight",
 "id": "kirk-mcconnell",
 "l0": false,
 "label": "Kirk McConnell",
 "note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
+"predicate": "reports_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -79,7 +88,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 }
 ],
 "coords": null,

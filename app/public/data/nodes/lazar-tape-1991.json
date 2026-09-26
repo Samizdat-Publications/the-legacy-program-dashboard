@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-32b75b5cc9",
 "edgeLabel": "Co-author and narrator of the 1991 videotape",
+"family": "documents",
 "id": "bob-lazar",
 "l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. The relation is authorship of a document, which the board's ruling of 18 September 2026 types as research, because custody is weighted x3.0 as a programme edge and giving a claimant a triple-weighted edge to his own artefact would inflate him.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-dc67514555",
 "edgeLabel": "The tape is the artefact in which the element 115 claim is fixed in datable form",
+"family": "custody",
 "id": "element-115-claim",
 "l0": false,
 "label": "Element 115: the Lazar claim and moscovium",
 "note": "GENUINE CUSTODY: a document containing the claim, in the same sense the ruling allows for a document containing another document. Neither endpoint is a claimant, so the x3.0 weighting falls on two artefact nodes and not on a person.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1991",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "holds"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-e024977f25",
 "edgeLabel": "Writer and co-producer of the 1991 videotape for Tri-Dot Productions",
+"family": "documents",
 "id": "gene-huff",
 "l0": false,
 "label": "Gene Huff",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody', on the same ruling. This is the edge that makes Huff structurally important rather than merely a witness: he is the publisher of the cluster's primary artefact.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1991",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was published by"
 },
 {
 "claimTier": 2,
@@ -101,10 +116,14 @@
 "direction": "out",
 "edgeId": "e-493dba580e",
 "edgeLabel": "The dated, opened, complete statement of the claim in the claimant's own voice",
+"family": "documents",
 "id": "s-4-papoose-lake",
 "l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "The strongest artefact in the cluster and the one actually opened. A videotape of a claimant narrating his own claim is evidence of the claim and never of its content.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1991",
@@ -113,7 +132,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,
@@ -150,7 +170,7 @@
 ],
 "sub": "Forty-minute videotape written and produced by Gene Huff with Bob Lazar for Tri-Dot Productions, in which Lazar narrates the S-4, element 115 and gravity-wave account in his own words",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 894 of 1138, score 18). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 890 of 1138, score 18). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

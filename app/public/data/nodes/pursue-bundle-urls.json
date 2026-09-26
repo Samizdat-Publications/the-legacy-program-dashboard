@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-6f531eb64f",
 "edgeLabel": "physical release locations",
+"family": "documents",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The portal lists date, document bundle size and video bundle size per release and nothing else; the bundle URLs are the only authoritative inventory the government provides.",
+"predicate": "released",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked through a document to"
 }
 ],
 "coords": null,
@@ -90,7 +95,7 @@
 ],
 "sub": "The actual download locations; documents on war.gov, video on CloudFront",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 975 of 1138, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 972 of 1138, score 15). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D3.",
 "timeline": [],
 "unverified": []
 }

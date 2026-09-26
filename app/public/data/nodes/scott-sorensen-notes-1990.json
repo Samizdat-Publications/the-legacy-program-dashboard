@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-1ddb953720",
 "edgeLabel": "Earliest opened record of the claimed craft",
+"family": "documents",
 "id": "arv-fluxliner",
 "l0": true,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "It carries the nursery-rhyme naming, the witness's own disclaimed sizes, his judgement that the craft looked poorly built, and his partial disowning of the drawing. It is the record against which every later retelling can be measured.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-12-11",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -81,10 +86,14 @@
 "direction": "out",
 "edgeId": "e-1385f404f0",
 "edgeLabel": "The only opened copy of the notes is the scan that site hosts",
+"family": "custody",
 "id": "arvp-fluxliner-project",
 "l0": false,
 "label": "ARVP (arvp.co.uk), the Flux Liner project site",
 "note": "The PDF sits under /wp-content/uploads/2024/12/ on arvp.co.uk with /CreationDate 'D:20241017132510'. Who held the notes between 1990 and 2024, and how they reached that site, is not in the opened record.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1990-12-11",
@@ -98,7 +107,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "is held by"
 },
 {
 "claimTier": 1,
@@ -108,10 +118,14 @@
 "direction": "in",
 "edgeId": "e-431b838916",
 "edgeLabel": "Interviewee; the notes are his account in his own words",
+"family": "testimony",
 "id": "brad-sorensen",
 "l0": false,
 "label": "'Brad' Sorensen",
 "note": "The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1990-12-11",
@@ -120,7 +134,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -130,10 +145,14 @@
 "direction": "out",
 "edgeId": "e-f94b7db7df",
 "edgeLabel": "Earliest opened record of the claim, taken about two years after the alleged event",
+"family": "testimony",
 "id": "norton-afb-airshow-1988",
 "l0": false,
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "An Aviation Week senior engineering editor's own notes and transcript. It is the only contemporaneous document in the thread and it carries both the claim and the interviewer's own reservations.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-12-11",
@@ -142,7 +161,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 }
 ],
 "coords": null,
@@ -179,7 +199,7 @@
 ],
 "sub": "31 scanned pages: handwritten notes on Aviation Week & Space Technology letterhead plus a 16 page typed transcript; never published",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 526 of 1138, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 525 of 1138, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

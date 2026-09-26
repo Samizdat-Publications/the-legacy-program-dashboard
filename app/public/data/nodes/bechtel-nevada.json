@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-939a1c4be9",
 "edgeLabel": "Bechtel Nevada held the DOE management and operating contract for the Nevada Test Site 1996-2006",
+"family": "organisation",
 "id": "l-nevada-test-site",
 "l0": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "DOE technical reports list Bechtel Nevada as research organisation of record through 2006, succeeded by National Security Technologies, LLC.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2006-10-01",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "ran"
 },
 {
 "claimTier": 3,
@@ -51,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-bfb79d4a7a",
 "edgeLabel": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
+"family": "organisation",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Atomic Energy Act Restricted Data authorities are a separate statutory classification scheme; material held under them by a DOE management and operating contractor is not reachable by the Sec. 119 reporting obligations Congress relies on. No document places UAP material under DOE authority.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -68,7 +77,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "falls outside"
 }
 ],
 "coords": null,
@@ -110,7 +120,7 @@
 ],
 "sub": "DOE management and operating contractor, Nevada Test Site, 1996-2006",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 739 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 738 of 1138, score 23). 2 connections, 0 of them custody/funding/programmatic. Axes C2/A3/D0.",
 "timeline": [
 {
 "claimTier": null,

@@ -3,6 +3,7 @@
 "C": 0,
 "D": 0,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-d2ad33040b",
@@ -99,12 +100,6 @@
 "source": "Inference from the statutory text",
 "text": "The 1 January 1945 statutory start date for the historical record is the tell. Congress selected a boundary that predates every public UAP episode and sits at the beginning of the atomic era, which is coherent only if the members writing the provision had been given reason to believe the record they were ordering reconstructed begins there. Reasoning: the date is arbitrary on the 'nothing to find' hypothesis and precise on the recovery hypothesis.",
 "tier": 3
-},
-{
-"id": "c-ef906ce25c",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "legislation",
@@ -119,10 +114,14 @@
 "direction": "out",
 "edgeId": "e-e7099a3f96",
 "edgeLabel": "codified AARO in statute with a public reporting mandate",
+"family": "law",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The James M. Inhofe NDAA for FY2023, signed 23 December 2022, gave AARO statutory authority and the annual reporting requirement now at 50 U.S.C. 3373(k).",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -131,7 +130,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "created"
 },
 {
 "claimTier": 2,
@@ -141,10 +141,14 @@
 "direction": "in",
 "edgeId": "e-3e4c215ab8",
 "edgeLabel": "Helped draft the UAP whistleblower protection language",
+"family": "documents",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The Debrief reports Grusch helped draft the UAP language in the FY2023 NDAA, signed December 2022, which permits authorized UAP disclosures without retaliation regardless of prior nondisclosure agreements - written by the person who would then need it.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -153,7 +157,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -163,10 +168,14 @@
 "direction": "out",
 "edgeId": "e-1017d21b4d",
 "edgeLabel": "amends 50 U.S.C. 3373 to create AARO",
+"family": "law",
 "id": "ndaa-fy2022-sec-1683",
 "l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "IAA FY2023 sec. 6802(a) rewrites sec. 1683 in full.",
+"predicate": "amended",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-12-23",
@@ -175,7 +184,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "amended"
 }
 ],
 "coords": null,
@@ -228,7 +238,7 @@
 ],
 "sub": "authorizing-statutes",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 176 of 1138, score 48). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded B on a global pass (rank 181 of 1138, score 47). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
 "claimTier": null,

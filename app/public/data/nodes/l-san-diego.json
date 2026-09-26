@@ -16,10 +16,14 @@
 "direction": "in",
 "edgeId": "e-a50e2ce471",
 "edgeLabel": "Homeport of the Nimitz strike group",
+"family": "place-time",
 "id": "d-aviators",
 "l0": false,
 "label": "Military Aviators & Operators",
 "note": "The 2004 encounters occurred in the Southern California Operating Area worked by San Diego-based fleet units.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -28,7 +32,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 }
 ],
 "coords": null,
@@ -76,7 +81,7 @@
 ],
 "sub": "City in southern California; largest US Navy fleet concentration on the west coast",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1041 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1038 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unverified": []
 }

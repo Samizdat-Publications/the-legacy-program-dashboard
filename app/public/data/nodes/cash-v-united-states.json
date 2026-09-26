@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-2a34e96ccd",
 "edgeLabel": "The United States denied ownership of the object and the aircraft",
+"family": "documents",
 "id": "betty-cash",
 "l0": false,
 "label": "Betty Cash",
 "note": "The government moved to dismiss and for summary judgment; the court dismissed under FRCP 12(b)(1), 12(b)(6) and 56. The Defense Department's internal investigation into whether the object was a US military device has never produced a released document.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1986-08-21",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-ee2256ce2d",
 "edgeLabel": "Lead named plaintiff",
+"family": "role",
 "id": "betty-cash",
 "l0": false,
 "label": "Betty Cash",
 "note": "Betty Cash, Vickie Landrum and Colby Landrum v. United States of America, No. H-84-348, S.D. Tex., Houston Division, dismissed 21 August 1986 by Judge Ross N. Sterling.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1986-08-21",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-ad17c45c36",
 "edgeLabel": "The domain's only two federal dockets, twenty years apart",
+"family": "analysis",
 "id": "kean-v-nasa",
 "l0": false,
 "label": "Kean v. NASA, No. 1:03-cv-02509 (D.D.C.)",
 "note": "Cash (1984-1986) sought damages and was dismissed on the pleadings and summary judgment; Kean (2003-2009) sought records and obtained a finding of inadequate search plus a supervised re-search. The record case succeeded where the injury case did not.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1986-08-21",
@@ -102,7 +116,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked in the board's reading to"
 }
 ],
 "coords": null,
@@ -177,7 +192,7 @@
 ],
 "sub": "Federal Tort Claims Act suit over the 1980 Cash-Landrum encounter, 1984-1986",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 781 of 1138, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 779 of 1138, score 22). 3 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

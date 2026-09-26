@@ -1981,6 +1981,31 @@ def _no_duplicate_claims(b):
     return bad[:40]
 
 
+@check("no claim is board bookkeeping")
+def _no_bookkeeping_claims(b):
+    """Phase 7 task 0 (P5c). tools/make_stubs.py writes "Referenced by the board but
+    no dossier written yet..." on every structural stub, sourced "Board bookkeeping".
+    That is a note about the board, not a claim about the world, and until phase 7
+    39 of them counted as Tier 3 claims. merge.py moves each to the node's
+    `boardNote`. This holds that none is left among the claims, on the board and in
+    the app's claims.json, and that no boardNote was emptied on the way."""
+    bad = []
+    for n in b["people"] + b["entities"]:
+        for c in n.get("claims") or []:
+            if (c.get("source") or "").strip().lower() == "board bookkeeping":
+                bad.append(f"{n['id']}: a claim sourced 'Board bookkeeping' "
+                           f"({(c.get('text') or '')[:50]!r}); it belongs in boardNote")
+        if "boardNote" in n and not (n.get("boardNote") or "").strip():
+            bad.append(f"{n['id']}: boardNote is empty")
+    rows = _app_id_rows()[0]
+    for r in rows or []:
+        src = r.get("source")
+        src = (src.get("text") if isinstance(src, dict) else src) or ""
+        if src.strip().lower() == "board bookkeeping":
+            bad.append(f"app claims.json ships a bookkeeping row on {r.get('node') or r.get('id')}")
+    return bad[:40]
+
+
 APP_TIMELINE = os.path.join(ROOT, "app", "public", "data", "timeline.json")
 APP_INDEX = os.path.join(ROOT, "app", "public", "data", "index.json")
 
@@ -2115,6 +2140,7 @@ def _claims_placed(b):
     alias = (json.load(open(rmp, encoding="utf-8")).get("alias") or {}) if os.path.exists(rmp) else {}
     have = {n["id"]: {_claim_key(c.get("text")) for c in n.get("claims") or []}
             for n in b["people"] + b["entities"]}
+    notes = {n["id"]: n.get("boardNote") for n in b["people"] + b["entities"] if n.get("boardNote")}
     bad = []
     for slug, doc in _research_docs():
         for n in (doc.get("people") or []) + (doc.get("entities") or []):
@@ -2130,6 +2156,11 @@ def _claims_placed(b):
                     continue          # a claim with no text is a merge reject
                 k = _claim_key(t)
                 if k in have.get(to, ()) or (i, k) in listed:
+                    continue
+                # a bookkeeping row is placed when its text is the node's boardNote
+                # (phase 7 task 0): moved out of the claims, never dropped
+                if ((c.get("source") or "").strip() == "Board bookkeeping"
+                        and t.strip() and t.strip() in (notes.get(to) or "")):
                     continue
                 # a removeClaims rule may name the survivor or, for a claim that
                 # only made sense on a duplicate (phase 4), the collapsed id itself
@@ -2870,6 +2901,222 @@ def _topic_coverage(b):
     return bad
 
 
+# ---------------------------------------------------------------------------
+# The relationship vocabulary (redesign phase 7, tasks 2 and 4). One predicate per
+# edge in research/_predicates.json, joined by build_app_data.py onto edges.json
+# and onto every node's connections. Six rules, each poisoned in self_test().
+# ---------------------------------------------------------------------------
+
+PREDICATES = os.path.join(ROOT, "research", "_predicates.json")
+APP_NODES = os.path.join(ROOT, "app", "public", "data", "nodes")
+CONNECTED_TO_CAP = 0.03
+_PREDS_OVERRIDE = None
+_APP_NODES_OVERRIDE = None
+_APP_NODES_CACHE = None
+
+
+def _preds_doc():
+    """research/_predicates.json's `predicates` map, or the poisoned stand-in."""
+    if _PREDS_OVERRIDE is not None:
+        return _PREDS_OVERRIDE
+    if not os.path.exists(PREDICATES):
+        return None
+    with open(PREDICATES, encoding="utf-8") as fh:
+        return (json.load(fh) or {}).get("predicates")
+
+
+def _pred_vocab():
+    with open(os.path.join(ROOT, "schema", "vocab.json"), encoding="utf-8") as fh:
+        v = json.load(fh)
+    return {p["id"]: p for p in v.get("predicates") or []}
+
+
+def _family_phrases():
+    with open(os.path.join(ROOT, "schema", "vocab.json"), encoding="utf-8") as fh:
+        v = json.load(fh)
+    return {f["id"]: f.get("phrase") for f in v.get("predicateFamilies") or []}
+
+
+def _app_nodes():
+    """Every shipped node file, {id: record}, read once per run."""
+    global _APP_NODES_CACHE
+    if _APP_NODES_OVERRIDE is not None:
+        return _APP_NODES_OVERRIDE
+    if _APP_NODES_CACHE is None:
+        _APP_NODES_CACHE = {}
+        if os.path.isdir(APP_NODES):
+            for f in sorted(os.listdir(APP_NODES)):
+                if f.endswith(".json"):
+                    with open(os.path.join(APP_NODES, f), encoding="utf-8") as fh:
+                        _APP_NODES_CACHE[f[:-5]] = json.load(fh)
+    return _APP_NODES_CACHE
+
+
+def _pred_allowed(spec, cls):
+    return cls == "domain" or spec == "any" or cls in (spec or [])
+
+
+@check("every edge carries a predicate from the vocabulary, and the app ships it")
+def _predicates_cover(b):
+    """Phase 7 task 4. Every board edge has a row in research/_predicates.json whose
+    predicate is in schema/vocab.json, whose subject is a or b, and whose confidence
+    and provenance are recorded; the app's edges.json ships that predicate and
+    subject; and every node's connection row carries it, with the label read from
+    that node's own side: the forward label where the node is the subject, the
+    inverse where it is the object, the one label of a symmetric predicate. Since
+    26 September 2026 only a high-confidence predicate shows its own label; any
+    other row reads its family's neutral phrase (schema/vocab.json
+    predicateRules.display), and says so in `predicateShown`."""
+    doc = _preds_doc()
+    if doc is None:
+        return ["research/_predicates.json is missing"]
+    vocab = _pred_vocab()
+    bad = []
+    edges = {e["id"]: e for e in b["edges"]}
+    for i, e in edges.items():
+        r = doc.get(i)
+        if not r:
+            bad.append(f"{i} ({e['a']} -> {e['b']}, {e['type']}) has no predicate")
+            continue
+        if r.get("predicate") not in vocab:
+            bad.append(f"{i}: predicate {r.get('predicate')!r} is not in schema/vocab.json")
+        if r.get("subject") not in ("a", "b"):
+            bad.append(f"{i}: subject {r.get('subject')!r} is not a or b")
+        if r.get("confidence") not in ("high", "medium", "low"):
+            bad.append(f"{i}: confidence {r.get('confidence')!r} is not high, medium or low")
+        if not r.get("by") or not isinstance(r.get("reviewed"), bool):
+            bad.append(f"{i}: `by` and `reviewed` must both be recorded")
+    for row in _app_id_rows()[1] or []:
+        r = doc.get(row.get("id")) or {}
+        if (row.get("predicate"), row.get("subject")) != (r.get("predicate"), r.get("subject")):
+            bad.append(f"app edges.json {row.get('id')}: ships {row.get('predicate')!r}/"
+                       f"{row.get('subject')!r}, the side-car says {r.get('predicate')!r}/"
+                       f"{r.get('subject')!r}: rebuild")
+    for nid, rec in sorted(_app_nodes().items()):
+        for c in rec.get("connections") or []:
+            e, r = edges.get(c.get("edgeId")), doc.get(c.get("edgeId"))
+            if not e or not r or r.get("predicate") not in vocab or r.get("subject") not in ("a", "b"):
+                continue
+            p = vocab[r["predicate"]]
+            if p.get("symmetric"):
+                want = (p["forward"], "either")
+            elif e[r["subject"]] == nid:
+                want = (p["forward"], "subject")
+            else:
+                want = (p["inverse"], "object")
+            # the display rule: only a high-confidence predicate shows its own
+            # label; any other row reads its family's neutral phrase
+            shown = r.get("confidence") == "high"
+            if not shown:
+                want = (_family_phrases()[p["family"]], want[1])
+            if c.get("predicateShown") is not shown:
+                bad.append(f"node {nid}, edge {e['id']}: predicateShown is "
+                           f"{c.get('predicateShown')!r}, confidence is {r.get('confidence')!r}")
+            got = (c.get("verb"), c.get("predicateSide"))
+            if c.get("predicate") != p["id"] or c.get("family") != p["family"] or got != want:
+                bad.append(f"node {nid}, edge {e['id']}: connection reads {c.get('predicate')!r} "
+                           f"{got!r}, want {p['id']!r} {want!r}")
+    return bad[:40]
+
+
+@check("connected_to is at most 3% of edges")
+def _predicates_fallback(b):
+    """The fallback exists for the genuinely unclassifiable. A vocabulary that has
+    to lean on it more than that is a vocabulary that does not fit the board."""
+    doc = _preds_doc() or {}
+    n = len(b["edges"])
+    k = sum(1 for e in b["edges"] if (doc.get(e["id"]) or {}).get("predicate") == "connected_to")
+    if n and k / n > CONNECTED_TO_CAP:
+        return [f"connected_to on {k} of {n} edges ({k / n:.1%}), above {CONNECTED_TO_CAP:.0%}"]
+    return []
+
+
+@check("every predicate's classes hold at both ends")
+def _predicates_classes(b):
+    """schema/vocab.json lists the node classes each predicate allows as subject and
+    as object ("any" for all; a domain node is allowed anywhere, being a topic). A
+    symmetric predicate records its subject as a."""
+    doc = _preds_doc() or {}
+    vocab = _pred_vocab()
+    cls = {n["id"]: n["cls"] for n in b["people"] + b["entities"]}
+    bad = []
+    for e in b["edges"]:
+        r = doc.get(e["id"])
+        p = vocab.get((r or {}).get("predicate"))
+        if not p or r.get("subject") not in ("a", "b"):
+            continue
+        s, o = (e["a"], e["b"]) if r["subject"] == "a" else (e["b"], e["a"])
+        if not _pred_allowed(p["subject"], cls.get(s)):
+            bad.append(f"{e['id']}: {p['id']} does not allow a {cls.get(s)} as subject ({s})")
+        if not _pred_allowed(p["object"], cls.get(o)):
+            bad.append(f"{e['id']}: {p['id']} does not allow a {cls.get(o)} as object ({o})")
+        if p.get("symmetric") and r["subject"] != "a":
+            bad.append(f"{e['id']}: {p['id']} is symmetric; its subject is recorded as a")
+    return bad[:40]
+
+
+@check("the predicate join changes no tier")
+def _predicates_tiers(b):
+    """Predicates are presentation. The claim tier of every edge in edges.json and in
+    every node's connections equals the board's; each connection's neighbour tier
+    is the neighbour's node tier; and each node file carries the board's claims
+    with the board's tiers and its own node tier."""
+    nodes = {n["id"]: n for n in b["people"] + b["entities"]}
+    edges = {e["id"]: e for e in b["edges"]}
+    bad = []
+    for row in _app_id_rows()[1] or []:
+        e = edges.get(row.get("id"))
+        if e and row.get("tier") != e.get("claimTier"):
+            bad.append(f"app edges.json {e['id']}: tier {row.get('tier')} vs the board's {e.get('claimTier')}")
+    for nid, rec in sorted(_app_nodes().items()):
+        for c in rec.get("connections") or []:
+            e = edges.get(c.get("edgeId"))
+            if e and c.get("claimTier") != e.get("claimTier"):
+                bad.append(f"node {nid}, edge {e['id']}: claimTier {c.get('claimTier')} vs {e.get('claimTier')}")
+            o = nodes.get(c.get("id"))
+            if o and c.get("tier") != o.get("tier"):
+                bad.append(f"node {nid}: neighbour {o['id']} tier {c.get('tier')} vs {o.get('tier')}")
+        n = nodes.get(nid)
+        if n:
+            want = [(c.get("id"), c.get("tier")) for c in n.get("claims") or []]
+            got = [(c.get("id"), c.get("tier")) for c in rec.get("claims") or []]
+            if got != want or rec.get("tier") != n.get("tier"):
+                bad.append(f"node {nid}: its own tier or its claims' tiers differ from the board's")
+    return bad[:40]
+
+
+@check("no predicate names an edge that is not on the board")
+def _predicates_orphans(b):
+    """research/_predicates.json is keyed by phase 4's content ids, so an edge whose
+    ends, type or sentence change gets a new id and its old row is orphaned. That is
+    an error, not a no-op: it forces the edge to be classified again rather than
+    carrying a predicate chosen for a sentence it no longer has."""
+    doc = _preds_doc() or {}
+    live = {e["id"] for e in b["edges"]}
+    return [f"research/_predicates.json: {k} is not a live edge id" for k in sorted(doc)
+            if k not in live][:40]
+
+
+@check("a denial predicate's subject is the adjudicated denier")
+def _predicates_denier(b):
+    """data/denial-adjudication.json names, for each directed denial, which end
+    issued it (stamped on the board edge as `denier`). A predicate of the Denials
+    family may never read the other way: on such an edge the subject of `denied`,
+    `refused`, `disputed`, `explained_away` or `omitted` is the denier."""
+    doc = _preds_doc() or {}
+    vocab = _pred_vocab()
+    bad = []
+    for e in b["edges"]:
+        d, r = e.get("denier"), doc.get(e["id"])
+        p = vocab.get((r or {}).get("predicate"))
+        if not d or not p or p["family"] != "denial" or d not in (e["a"], e["b"]):
+            continue
+        if r.get("subject") not in ("a", "b") or e[r["subject"]] != d:
+            bad.append(f"{e['id']}: {p['id']} reads from {e.get(r.get('subject'))}, "
+                       f"but the adjudicated denier is {d}")
+    return bad[:40]
+
+
 @check("counts match the golden manifest")
 def _golden(b):
     now = measure(b)
@@ -3069,6 +3316,24 @@ def self_test():
         # the report forgets the claims it could not place
         global _UNPLACED_OVERRIDE
         _UNPLACED_OVERRIDE = []
+
+    # phase 7 task 0: the pre-fix state on one node (its note back among the claims
+    # as a Tier 3 row), and a note emptied on the way
+    def _bookkeeping_back_in_claims(rb):
+        n = next(n for n in rb["entities"] + rb["people"] if n.get("boardNote"))
+        n.setdefault("claims", []).append({"tier": 3, "text": n.pop("boardNote"),
+                                           "source": "Board bookkeeping"})
+
+    def _board_note_emptied(rb):
+        next(n for n in rb["entities"] + rb["people"] if n.get("boardNote"))["boardNote"] = ""
+
+    def _app_ships_bookkeeping(rb):
+        # the board is clean, the app's claims.json is stale
+        global _APP_IDS_OVERRIDE
+        claims_rows, edge_rows = _app_id_rows()
+        claims_rows = copy.deepcopy(claims_rows)
+        claims_rows[0]["source"] = {"domain": None, "text": "Board bookkeeping", "url": None}
+        _APP_IDS_OVERRIDE = (claims_rows, edge_rows)
 
     # stable ids: the plan's poison (two claims forced to one id), an edge that lost
     # its id, a malformed id, and an app file whose row ships none
@@ -3408,16 +3673,153 @@ def self_test():
                                           foia_node, dossier_id, topic_member)],
     }
 
+    # ---- the predicates (phase 7 task 4). The real side-car and the real shipped
+    # files, each broken one way: the side-car poisons prove the rule, the app-file
+    # poisons prove the check reads what ships.
+    def _preds_poison(fn_):
+        def mutate(rb):
+            global _PREDS_OVERRIDE
+            doc = copy.deepcopy(_preds_doc() or {})
+            fn_(doc, rb)
+            _PREDS_OVERRIDE = doc
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def _first_pred(doc, rb, pred=None, test=None):
+        for e in sorted(rb["edges"], key=lambda x: x["id"]):
+            r = doc.get(e["id"])
+            if r and (pred is None or r["predicate"] == pred) and (test is None or test(e, r)):
+                return e, r
+        raise SystemExit(f"self-test: no edge carries {pred!r} to poison")
+
+    def pred_row_missing(doc, rb):
+        doc.pop(sorted(doc)[0])
+
+    def pred_unknown(doc, rb):
+        doc[sorted(doc)[0]]["predicate"] = "was_friends_with"
+
+    def pred_no_provenance(doc, rb):
+        doc[sorted(doc)[0]].pop("by", None)
+
+    def pred_fallback_flood(doc, rb):
+        for k in sorted(doc)[:int(len(rb["edges"]) * 0.04) + 1]:
+            doc[k].update(predicate="connected_to", subject="a")
+
+    def pred_author_reversed(doc, rb):
+        # a document "wrote" its author: the class rule must refuse it
+        e, r = _first_pred(doc, rb, "wrote")
+        r["subject"] = "b" if r["subject"] == "a" else "a"
+
+    def pred_symmetric_on_b(doc, rb):
+        e, r = _first_pred(doc, rb, None, lambda e, r: _pred_vocab()[r["predicate"]].get("symmetric"))
+        r["subject"] = "b"
+
+    def pred_orphan(doc, rb):
+        doc["e-0000000000"] = {"predicate": "connected_to", "subject": "a", "by": "poison",
+                               "confidence": "low", "reviewed": False}
+
+    def pred_denier_reversed(doc, rb):
+        vocab = _pred_vocab()
+        e, r = _first_pred(doc, rb, None, lambda e, r: e.get("denier") in (e["a"], e["b"])
+                           and e["a"] != e["b"] and vocab[r["predicate"]]["family"] == "denial")
+        r["subject"] = "b" if r["subject"] == "a" else "a"
+
+    def _app_node_poison(fn_):
+        def mutate(rb):
+            global _APP_NODES_OVERRIDE
+            nodes = dict(_app_nodes())
+            fn_(nodes, rb)
+            _APP_NODES_OVERRIDE = nodes
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def _first_conn(nodes, want):
+        for nid in sorted(nodes):
+            for k, c in enumerate(nodes[nid].get("connections") or []):
+                if want(c):
+                    rec = copy.deepcopy(nodes[nid])
+                    nodes[nid] = rec
+                    return rec, rec["connections"][k]
+        raise SystemExit("self-test: no shipped connection to poison")
+
+    def conn_reads_wrong_side(nodes, rb):
+        # the page prints the forward label from the object's end
+        rec, c = _first_conn(nodes, lambda c: c.get("predicateSide") == "object"
+                             and c.get("predicateShown"))
+        c["verb"] = _pred_vocab()[c["predicate"]]["forward"]
+
+    def conn_shows_unsure_label(nodes, rb):
+        # a row the display rule hides: its predicate's own label is printed anyway
+        doc = _preds_doc() or {}
+        rec, c = _first_conn(nodes, lambda c: c.get("predicate") and not c.get("predicateShown")
+                             and (doc.get(c.get("edgeId")) or {}).get("confidence") != "high")
+        p = _pred_vocab()[c["predicate"]]
+        c["verb"] = p["forward"] if c.get("predicateSide") != "object" else p["inverse"]
+        c["predicateShown"] = True
+
+    def conn_drops_family(nodes, rb):
+        rec, c = _first_conn(nodes, lambda c: c.get("family"))
+        c["family"] = None
+
+    def conn_tier_moved(nodes, rb):
+        rec, c = _first_conn(nodes, lambda c: c.get("claimTier") in (2, 3))
+        c["claimTier"] = 1
+
+    def node_claim_tier_moved(nodes, rb):
+        for nid in sorted(nodes):
+            if any(c.get("tier") == 3 for c in nodes[nid].get("claims") or []):
+                rec = copy.deepcopy(nodes[nid])
+                next(c for c in rec["claims"] if c.get("tier") == 3)["tier"] = 2
+                nodes[nid] = rec
+                return
+
+    def _app_edges_poison(fn_):
+        def mutate(rb):
+            global _APP_IDS_OVERRIDE
+            claims_rows, edge_rows = _app_id_rows()
+            edge_rows = copy.deepcopy(edge_rows)
+            fn_(edge_rows)
+            _APP_IDS_OVERRIDE = (claims_rows, edge_rows)
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def app_edge_stale_predicate(rows):
+        r = rows[0]
+        r["predicate"] = "connected_to" if r.get("predicate") != "connected_to" else "same_as"
+
+    def app_edge_tier_moved(rows):
+        r = next(r for r in rows if r.get("tier") in (2, 3))
+        r["tier"] = 1
+
+    poison_realboard_preds = {
+        "every edge carries a predicate from the vocabulary, and the app ships it":
+            [_preds_poison(f) for f in (pred_row_missing, pred_unknown, pred_no_provenance)]
+            + [_app_node_poison(conn_reads_wrong_side), _app_node_poison(conn_drops_family),
+               _app_node_poison(conn_shows_unsure_label),
+               _app_edges_poison(app_edge_stale_predicate)],
+        "connected_to is at most 3% of edges": [_preds_poison(pred_fallback_flood)],
+        "every predicate's classes hold at both ends":
+            [_preds_poison(pred_author_reversed), _preds_poison(pred_symmetric_on_b)],
+        "the predicate join changes no tier":
+            [_app_node_poison(conn_tier_moved), _app_node_poison(node_claim_tier_moved),
+             _app_edges_poison(app_edge_tier_moved)],
+        "no predicate names an edge that is not on the board": [_preds_poison(pred_orphan)],
+        "a denial predicate's subject is the adjudicated denier": [_preds_poison(pred_denier_reversed)],
+    }
+
     poison_realboard = {
         **poison_realboard_ids,
+        **poison_realboard_preds,
         "every claim and edge carries a stable id, unique and derived from its content":
             [_two_claims_one_id, _edge_loses_id, _malformed_id, _app_row_without_id],
         "every authored claim reaches the board or is listed":
-            [_drop_carried_claim, _unlist_the_domain_collapse],
+            [_drop_carried_claim, _unlist_the_domain_collapse, _board_note_emptied],
         "every authored conflict, unverified note and open question on an entity reaches the board":
             [_drop_unverified, _drop_open_questions],
         "every denial edge without a verdict is in the unadjudicated report":
             [_strip_one_verdict, _adjudicate_one_listed],
+        "no claim is board bookkeeping":
+            [_bookkeeping_back_in_claims, _board_note_emptied, _app_ships_bookkeeping],
     }
     # a vocabulary that has lost the row for the 32 `contains` edges
     poison_verbs = {
@@ -3827,7 +4229,7 @@ def self_test():
             caught = []
             for mutate in poison_realboard[name]:
                 pb = copy.deepcopy(_real_board)
-                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE, _REMOVED_OVERRIDE, _SIDECARS_OVERRIDE
+                global _UNPLACED_OVERRIDE, _APP_IDS_OVERRIDE, _REMOVED_OVERRIDE, _SIDECARS_OVERRIDE, _PREDS_OVERRIDE, _APP_NODES_OVERRIDE
                 try:
                     mutate(pb)
                     got = fn(pb)
@@ -3837,6 +4239,8 @@ def self_test():
                     _REMOVED_OVERRIDE = None
                     _SIDECARS_OVERRIDE = None
                     _TOPICS_OVERRIDE = None
+                    _PREDS_OVERRIDE = None
+                    _APP_NODES_OVERRIDE = None
                 if not got:
                     caught = []
                     print(f"  FAIL  {name} accepted its poison {mutate.__name__}")

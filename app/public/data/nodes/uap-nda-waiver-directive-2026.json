@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-e086d2008f",
 "edgeLabel": "The waiver reproduces the channel that failed Grusch",
+"family": "analysis",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The directive unbinds witnesses only inside the executive channel controlled by the institution they would accuse, which is the structure that ended Grusch's career after his ICIG-channel disclosure.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-07-21",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 3,
@@ -80,10 +85,14 @@
 "direction": "out",
 "edgeId": "e-4166ab222b",
 "edgeLabel": "NDA waiver regime addresses the exact obstacle Grusch's witnesses faced",
+"family": "analysis",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch swore in 2023 that witnesses would come forward only behind closed doors and with assurances that breaking NDAs would not be prosecuted. The July 2026 directive waives UAP-related NDAs for disclosures to cleared AARO or PURSUE officials. Reasoning: the directive's mechanism maps directly onto the barrier Grusch described under oath, though no document ties the two.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -97,7 +106,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -107,10 +117,14 @@
 "direction": "in",
 "edgeId": "e-f9ed07ffe6",
 "edgeLabel": "Directed the NDA waiver in July 2026",
+"family": "documents",
 "id": "donald-trump",
 "l0": false,
 "label": "Donald J. Trump",
 "note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-21",
@@ -119,7 +133,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -129,10 +144,14 @@
 "direction": "in",
 "edgeId": "e-605264769b",
 "edgeLabel": "Offers his office as a disclosure channel with counsel and congressional presence",
+"family": "place-time",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison - whose Special Advisor is Grusch - recommends that anyone using the NDA waiver request congressional presence alongside legal counsel. That recommendation is a direct read-through of what happened to the last person who used executive channels alone.",
+"predicate": "responded_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-29",
@@ -141,7 +160,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -151,10 +171,14 @@
 "direction": "in",
 "edgeId": "e-eecd9ab45f",
 "edgeLabel": "the paradigm case the waiver addresses",
+"family": "analysis",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Elizondo is the archetype of a former official constrained by prepublication review and secrecy obligations; the ODNI memorandum waives 'agreements, oaths, or commitments' for disclosure to government investigators, not to publishers.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -168,7 +192,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -178,10 +203,14 @@
 "direction": "out",
 "edgeId": "e-74c9ca2665",
 "edgeLabel": "PURSUE named as an authorized receiving channel for waived-NDA disclosures",
+"family": "law",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Senior officials described former officials meeting with cleared AARO or PURSUE task force officials who may waive applicable NDAs during authorized discussions, with information then routed through existing declassification procedures.",
+"predicate": "mandated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -190,7 +219,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through law to"
 }
 ],
 "coords": null,

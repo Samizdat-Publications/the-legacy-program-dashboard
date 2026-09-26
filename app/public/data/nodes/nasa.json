@@ -65,10 +65,14 @@
 "direction": "out",
 "edgeId": "e-e36d846686",
 "edgeLabel": "Civil-agency complement to the DoD-led resolution office",
+"family": "role",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Independent Study Team positioned NASA's expertise as supporting AARO within a 'whole-of-government framework', while acknowledging that much of the relevant military and intelligence data is classified.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-09-14",
@@ -77,7 +81,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -87,10 +92,14 @@
 "direction": "in",
 "edgeId": "e-4205b6b627",
 "edgeLabel": "BMSIS research investigator seated on NASA's UAP independent study team",
+"family": "role",
 "id": "blue-marble-space-institute",
 "l0": false,
 "label": "Blue Marble Space Institute of Science",
 "note": "NASA's announcement of the 16-member independent study team describes Anamaria Berea as 'an associate professor of Computational and Data Science at George Mason University in Fairfax, Virginia', 'a research affiliate with the SETI Institute' and 'a research investigator with Blue Marble Space Institute of Science in Seattle'. Worth noting for anyone checking: the team's final report of September 2023 lists her affiliation as George Mason University alone, and does not mention Blue Marble or Seattle anywhere in its 36 pages. Both statements are NASA's; the Blue Marble tie is in the announcement, not the report.",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2022-10-21",
@@ -109,7 +118,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -119,10 +129,14 @@
 "direction": "in",
 "edgeId": "e-a88b20add2",
 "edgeLabel": "A NASA contractor report, published under a NASA/CR number",
+"family": "money",
 "id": "canning-nasa-cr-2004-213312",
 "l0": false,
 "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
 "note": "NASA/CR-2004-213312. The board's funding edge type is used because a contractor report records who paid for the work; the performing organisation was the Institute for Scientific Research of Fairmont, West Virginia, for which no node is proposed because nothing about the organisation itself was opened.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2004-10",
@@ -131,7 +145,8 @@
 }
 ],
 "tier": "C",
-"type": "funding"
+"type": "funding",
+"verb": "funded"
 },
 {
 "claimTier": 1,
@@ -141,10 +156,14 @@
 "direction": "in",
 "edgeId": "e-9050616f60",
 "edgeLabel": "Chaired the NASA UAP Independent Study Team",
+"family": "role",
 "id": "david-spergel",
 "l0": false,
 "label": "David N. Spergel",
 "note": "Spergel of the Simons Foundation chaired the 16-member panel.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -153,7 +172,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "had in a post"
 },
 {
 "claimTier": 2,
@@ -163,10 +183,14 @@
 "direction": "in",
 "edgeId": "e-f0ce72fa85",
 "edgeLabel": "Carries the Wolfe and Hare claims about NASA imagery, against NASA's own records",
+"family": "testimony",
 "id": "disclosure-project-witness-set",
 "l0": false,
 "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "note": "Wolfe's Lunar Orbiter account runs against the NSSDCA record that the programme was managed by NASA Langley Research Center. Hare's employer, Philco-Ford, is a documented NASA Manned Spacecraft Center contractor per Ford's own corporate history, while her employment is documented nowhere.",
+"predicate": "contradicts",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -185,7 +209,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 3,
@@ -195,10 +220,14 @@
 "direction": "out",
 "edgeId": "e-d59b128394",
 "edgeLabel": "Both hold analytical capability that could resolve material claims and neither has been tasked publicly",
+"family": "analysis",
 "id": "doe",
 "l0": true,
 "label": "United States Department of Energy",
 "note": "NASA's report identifies the classification of military and intelligence data as the binding constraint; DOE laboratories hold the analytical instruments actually used by AARO. Reasoning: the capability exists and the tasking does not.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-09-14",
@@ -212,7 +241,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -222,10 +252,14 @@
 "direction": "in",
 "edgeId": "e-3f13cd4b8c",
 "edgeLabel": "NASA field centre at Moffett Field",
+"family": "organisation",
 "id": "l-ames",
 "l0": false,
 "label": "NASA Ames Research Center, Mountain View, California",
 "note": "NASA describes Ames as 'one of ten NASA field centers ... located in the heart of California's Silicon Valley', gives its location as Moffett Field, California, and dates its establishment to 20 December 1939, before its absorption into NASA in 1958.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -239,7 +273,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -249,10 +284,14 @@
 "direction": "in",
 "edgeId": "e-b984258a9e",
 "edgeLabel": "After cancellation the younger MOL astronauts transferred to NASA",
+"family": "custody",
 "id": "manned-orbiting-laboratory",
 "l0": false,
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "After cancellation the younger MOL astronauts transferred to NASA, which is why an intelligence programme's people are traceable in a civil agency's record.",
+"predicate": "transferred",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-06-11",
@@ -261,7 +300,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -271,10 +311,14 @@
 "direction": "in",
 "edgeId": "e-06a12b9d04",
 "edgeLabel": "NASA Director of UAP Research",
+"family": "role",
 "id": "mark-mcinerney",
 "l0": false,
 "label": "Mark McInerney",
 "note": "Appointment announced 14 September 2023; no public outputs from the role have been identified since.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -283,7 +327,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -293,10 +338,14 @@
 "direction": "in",
 "edgeId": "e-14e0182bdd",
 "edgeLabel": "questioned Administrator Nelson on UAP; pressed NASA's role at hearing",
+"family": "oversight",
 "id": "maxwell-frost",
 "l0": false,
 "label": "Maxwell Alejandro Frost",
 "note": "Frost told the hearing: 'In fact, I sit on the Science, Space and Technology Committee and when we were doing a hearing with the NASA Administrator, Bill Nelson, I asked, you know, why NASA needed to be fully funded. And there were many great reasons, but one of them was actually--had to do with UAPs.' He tied it forward to the NASA independent study team and to Harvard standing up the Galileo Project in 2021.",
+"predicate": "questioned",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -305,7 +354,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was questioned by"
 },
 {
 "claimTier": 1,
@@ -315,10 +365,14 @@
 "direction": "in",
 "edgeId": "e-1382ddfcca",
 "edgeLabel": "A NASA project, supported 1996 to 2002 and run out of Glenn Research Center",
+"family": "organisation",
 "id": "nasa-bpp",
 "l0": false,
 "label": "NASA Breakthrough Propulsion Physics Project (1996-2002)",
 "note": "From the project's own summary document: 'NASA supported the Breakthrough Propulsion Physics Project from 1996 through 2002.'",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2004",
@@ -327,7 +381,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -337,10 +392,14 @@
 "direction": "out",
 "edgeId": "e-9a9ef6ce1c",
 "edgeLabel": "NASA chartered and published the Independent Study Team report",
+"family": "role",
 "id": "nasa-uap-ist",
 "l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "The 16-member panel reported on 14 September 2023 with findings on data curation, satellite assets and the classification obstacle.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-14",
@@ -349,7 +408,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "founded"
 },
 {
 "claimTier": 1,
@@ -359,10 +419,14 @@
 "direction": "in",
 "edgeId": "e-4a2d971b55",
 "edgeLabel": "NASA commissioned both federal reports that date and attribute the alloy",
+"family": "money",
 "id": "naval-ordnance-laboratory",
 "l0": false,
 "label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
 "note": "NASA's Technology Utilization Office commissioned SP-5110 and NASA Langley commissioned CR-1433, the two federal reports that date and attribute the alloy.",
+"predicate": "contracted",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -371,7 +435,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -381,10 +446,14 @@
 "direction": "in",
 "edgeId": "e-f22097be10",
 "edgeLabel": "Announced the appointment of a NASA Director of UAP Research",
+"family": "role",
 "id": "nicola-fox",
 "l0": false,
 "label": "Nicola J. Fox",
 "note": "In the report foreword Fox, Associate Administrator for the Science Mission Directorate, wrote that 'NASA is appointing a Director of UAP Research to centralize communications'.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-09-14",
@@ -393,7 +462,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -403,10 +473,14 @@
 "direction": "in",
 "edgeId": "e-163ebdc95d",
 "edgeLabel": "NASA's UAP study cited as precedent and named as a proposed partner",
+"family": "documents",
 "id": "ocsa-canada",
 "l0": false,
 "label": "Office of the Chief Science Advisor of Canada",
 "note": "The report records that 'NASA released an independent study in September 2023 focused on how best to collect future UAP data to advance scientific study' and that 'following the release of this report, NASA announced the creation of a new position: Director of Unidentified Anomalous Phenomena Research'. NASA is one of the four international bodies its recommendation 13 names as partnership targets for the recommended Canadian lead organization.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -420,7 +494,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "is cited by"
 },
 {
 "claimTier": 2,
@@ -430,10 +505,14 @@
 "direction": "in",
 "edgeId": "e-259fb21e8d",
 "edgeLabel": "Released Apollo 12 and Apollo 17 mission records",
+"family": "documents",
 "id": "pursue-release-01",
 "l0": false,
 "label": "PURSUE Release 01",
 "note": "Apollo mission records including cockpit transcript describing 'very bright particles or fragments' appear in the first tranche.",
+"predicate": "released",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-09",
@@ -447,7 +526,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -457,10 +537,14 @@
 "direction": "in",
 "edgeId": "e-f0839c7145",
 "edgeLabel": "Released NASA Gemini-era crew debriefings",
+"family": "documents",
 "id": "pursue-release-03",
 "l0": false,
 "label": "PURSUE Release 03",
 "note": "Gemini crew debriefings and 1962 Cronkite-Cooper interview audio were published in the third tranche.",
+"predicate": "released",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-01",
@@ -469,7 +553,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -479,10 +564,14 @@
 "direction": "in",
 "edgeId": "e-9162e357c4",
 "edgeLabel": "Staff Director, House Space and Aeronautics Subcommittee",
+"family": "oversight",
 "id": "william-b-adkins",
 "l0": false,
 "label": "William B. Adkins",
 "note": "Per the NRO biography: 'From 2000 to 2006, he served on the House Science Committee and was appointed Staff Director for the House Space and Aeronautics Subcommittee, where he led the subcommittee's legislative and oversight activities of NASA and other agencies involved in civilian space.' The relationship is oversight of NASA from the committee side, not employment by it.",
+"predicate": "oversaw",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-25",
@@ -496,7 +585,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was overseen by"
 }
 ],
 "coords": null,

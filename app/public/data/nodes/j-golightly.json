@@ -44,10 +44,14 @@
 "direction": "out",
 "edgeId": "e-b3980ce5de",
 "edgeLabel": "author of record on the DIA list",
+"family": "documents",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
 "l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "DIA list item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "wrote"
 }
 ],
 "date": "2010-01-01",
@@ -122,7 +127,7 @@
 "status": "active",
 "sub": "Lockheed Martin; author of record for the AAWSAP ultracapacitors DIRD. Given name not established in any source consulted.",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1018 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 1016 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D0.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

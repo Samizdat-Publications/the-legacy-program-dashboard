@@ -40,10 +40,14 @@
 "direction": "out",
 "edgeId": "e-6fd6692321",
 "edgeLabel": "pressed Grusch on Phoenix Lights and withheld information",
+"family": "oversight",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Biggs put the 1997 Phoenix Lights case to Grusch directly - 'I am going to take you to specific instances around the Phoenix Valley because that is where I live' - and asked whether he knew anything beyond the official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That was outside the scope of my duties.'",
+"predicate": "questioned",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "questioned"
 },
 {
 "claimTier": 1,
@@ -62,10 +67,14 @@
 "direction": "out",
 "edgeId": "e-1d33db29d5",
 "edgeLabel": "questioned witnesses at the 26 July 2023 UAP hearing",
+"family": "oversight",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -79,7 +88,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -89,10 +99,14 @@
 "direction": "out",
 "edgeId": "e-c5489d35d3",
 "edgeLabel": "elicited Grusch's authorship of the UAPTF 2019 classification guide",
+"family": "oversight",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Asked by Biggs whether the 2019 classification guidelines interfere with the government's ability to be transparent, Grusch answered: 'Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.' Biggs: 'Uh-oh. You got a bias then.' Grusch then characterised the practice rather than the guide - 'I will call it a lazy attitude about declassifying videos'. The witness co-authored the instrument he was being asked to criticise, and said so unprompted.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through oversight to"
 }
 ],
 "date": "2023-07-26",
@@ -149,7 +164,7 @@
 "status": "active",
 "sub": "U.S. Rep. (R-AZ-5); questioned witnesses on training ranges and the Phoenix Lights",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1055 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 1052 of 1138, score 11). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

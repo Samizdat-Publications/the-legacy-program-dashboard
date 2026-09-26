@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-8fac7a136f",
 "edgeLabel": "Co-author of Alien Rapture: The Chosen",
+"family": "documents",
 "id": "brad-steiger",
 "l0": false,
 "label": "Brad Steiger",
 "note": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-02-04",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-fbd0e36dfd",
 "edgeLabel": "Primary author of Alien Rapture: The Chosen",
+"family": "documents",
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "INTENT: AUTHORSHIP, mapped to research rather than custody for the same anti-inflation reason. The Library of Congress record gives 'Fouche, Edgar Rothschild, 1948-' with usage primary and a statement of responsibility reading 'Edgar Rothschild Fouche and Brad Steiger.'",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-02-04",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "was written by"
 },
 {
 "claimTier": 3,
@@ -85,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-75a91e23f5",
 "edgeLabel": "The book the presentation was given to promote; its TR-3B content was NOT opened",
+"family": "other",
 "id": "tr-3b",
 "l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "CAVEAT CARRIED ON THE EDGE, AND IT IS THE REASON FOR TIER 3. The presentation names the book as its occasion at slide 5, which is Tier 1. But no copy of the book's text was opened, so how or whether the TR-3B appears inside it is unestablished. The edge records the promotional relationship only, and must not be read as the book containing the claim.",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "1998-08",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "is connected to"
 }
 ],
 "coords": null,
@@ -144,7 +159,7 @@
 ],
 "sub": "The Fouche and Steiger book the 1998 presentation was given to promote, catalogued by the Library of Congress under the genre heading 'Science fiction'",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 899 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 895 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

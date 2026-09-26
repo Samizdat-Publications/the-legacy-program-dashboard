@@ -42,10 +42,14 @@
 "direction": "out",
 "edgeId": "e-128ed396de",
 "edgeLabel": "Astrobiology seat, via the Sol Foundation advisory board",
+"family": "role",
 "id": "uap-science-advisory-council",
 "l0": true,
 "label": "UAP Science Advisory Council",
 "note": "One of five Sol-affiliated appointments announced by the foundation in June 2026.",
+"predicate": "member_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-06-01",
@@ -54,7 +58,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 }
 ],
 "date": "2026-06-15",
@@ -103,7 +108,7 @@
 "status": "active",
 "sub": "Astrobiologist, Blue Marble Space Institute of Science; Sol Foundation advisory board; member, UAP Science Advisory Council (2026)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1038 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1035 of 1138, score 12). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

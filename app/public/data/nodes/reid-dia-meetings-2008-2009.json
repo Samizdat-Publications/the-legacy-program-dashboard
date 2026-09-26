@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-3a81edb3e4",
 "edgeLabel": "the engagements that produced AAWSAP",
+"family": "organisation",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "AARO's official history places AAWSAP (2009-2012), also known as AATIP, directly downstream of Reid's direction and the resulting DIA appropriation, and records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program - a request Lynn declined on the recommendation of Under Secretary of Defense for Intelligence James R. Clapper, Jr. Tier 2: AARO is an interested party in its own history.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "produced"
 },
 {
 "claimTier": 1,
@@ -68,10 +73,14 @@
 "direction": "out",
 "edgeId": "e-8e174420a6",
 "edgeLabel": "$22M congressionally directed to DIA for advanced aerospace threat work",
+"family": "place-time",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States. In coordination with the Office of the Under Secretary of Defense for Intelligence, DIA established AAWSAP in 2009... The contract for this DIA-managed program was awarded to a private sector organization.' AARO is an interested party in its own institutional history, which is why this is tier 2.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -85,7 +94,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "led to"
 },
 {
 "claimTier": 1,
@@ -95,10 +105,14 @@
 "direction": "out",
 "edgeId": "e-11d10924b7",
 "edgeLabel": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
+"family": "denial",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "'On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.'",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-01-02",
@@ -117,7 +131,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -127,10 +142,14 @@
 "direction": "in",
 "edgeId": "e-59ab5c1bce",
 "edgeLabel": "Reid is the principal behind the 2008-2009 DIA engagements",
+"family": "role",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "AARO's official history states: 'At the direction of Senate Majority Leader Harry Reid (D-NV), the Defense Appropriations Acts of Fiscal Years 2008 and 2010 appropriated $22 million for the DIA to assess long-term and over-the-horizon foreign advanced aerospace threats to the United States.' It further records that on 24 June 2009 Reid wrote to Deputy Secretary of Defense William Lynn III asking that the programme be made a Special Access Program. Tier 2: AARO is an interested party in its own institutional history.",
+"predicate": "led",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-08",
@@ -144,7 +163,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 }
 ],
 "coords": null,
@@ -222,7 +242,7 @@
 ],
 "sub": "meeting",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 762 of 1138, score 22). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 760 of 1138, score 22). 4 connections, 2 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [],
 "unverified": []
 }

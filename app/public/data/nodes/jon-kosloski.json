@@ -270,10 +270,14 @@
 "direction": "out",
 "edgeId": "e-0031c6245c",
 "edgeLabel": "Director of AARO from August 2024",
+"family": "role",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Kosloski was named AARO's full-time director in August 2024 and testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on 19 November 2024.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-19",
@@ -307,7 +311,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -317,10 +322,14 @@
 "direction": "out",
 "edgeId": "e-6d09f96322",
 "edgeLabel": "directs",
+"family": "role",
 "id": "aaro-2026-posture",
 "l0": false,
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "Kosloski has led AARO since 26 August 2024; the Leaders page names no other official.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -334,7 +343,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 },
 {
 "claimTier": 1,
@@ -344,10 +354,14 @@
 "direction": "out",
 "edgeId": "e-9ec266bae3",
 "edgeLabel": "presented the FY2024 report and the GREMLIN disclosure",
+"family": "documents",
 "id": "aaro-fy2024-annual-report",
 "l0": true,
 "label": "AARO FY2024 Consolidated Annual Report on UAP",
 "note": "Media roundtable 14 November 2024; 757 reports, 21 flagged as warranting further analysis, ~900 parked in the active archive for want of data.",
+"predicate": "published",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-14",
@@ -356,7 +370,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -366,10 +381,14 @@
 "direction": "out",
 "edgeId": "e-ef2688dd48",
 "edgeLabel": "Kosloski's office again rejected the recovered-material claims in July 2026",
+"family": "denial",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "The FY2025 report denies possession of recovered UAP material while stating AARO is developing procedures for handling such material should any ever come into US government possession.",
+"predicate": "denied",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-07-21",
@@ -393,7 +412,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -403,10 +423,14 @@
 "direction": "out",
 "edgeId": "e-087662ab2f",
 "edgeLabel": "Promised publication 'within months' in November 2024",
+"family": "testimony",
 "id": "aaro-historical-record-vol2",
 "l0": true,
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "Kosloski told reporters in November 2024 that Volume II would appear within months; it does not appear on AARO's Congressional and Press Products page as of 12 August 2026.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -420,7 +444,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -430,10 +455,14 @@
 "direction": "out",
 "edgeId": "e-fe0b4583e4",
 "edgeLabel": "met members in May 2026 and, per Luna, apologised for prior AARO leadership's conduct",
+"family": "testimony",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna, who had spent over a year demanding the office be shut down, publicly backed Kosloski afterward and said the prior office had been 'intentionally set up to block, stonewall, and suppress information.'",
+"predicate": "acknowledged",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-15",
@@ -442,7 +471,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -452,10 +482,14 @@
 "direction": "out",
 "edgeId": "e-a2a85adb8c",
 "edgeLabel": "AARO parallax reanalysis: no anomalous speed or flight characteristics",
+"family": "denial",
 "id": "gofast-video",
 "l0": false,
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "note": "AARO's SASC case slides place the object at roughly 13,000 feet at about 45 mph with 60-knot winds. The analysis addresses apparent speed; it does not address the recall of the fleet safety message built on the same footage.",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-19",
@@ -469,7 +503,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "disputes"
 },
 {
 "claimTier": 1,
@@ -479,10 +514,14 @@
 "direction": "out",
 "edgeId": "e-f31a78d73a",
 "edgeLabel": "first congressional testimony as AARO director",
+"family": "testimony",
 "id": "hearing-2024-11-19",
 "l0": false,
 "label": "SASC hearing: Activities of the All-domain Anomaly Resolution Office",
 "note": "Kosloski's statement for the record puts holdings at over 1,600 reports and delivers the standard no-verifiable-evidence formula.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-19",
@@ -491,7 +530,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "testified at"
 },
 {
 "claimTier": 3,
@@ -501,10 +541,14 @@
 "direction": "out",
 "edgeId": "e-de3628391b",
 "edgeLabel": "AARO's case work does not address the domestic incursion wave",
+"family": "denial",
 "id": "langley-2023-incursions",
 "l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Neither the published case slides nor the FY2025 report present an assessment of the Langley, New Jersey or Barksdale incursions, which are handled as a counter-UAS force-protection matter by NORTHCOM and JIATF-401 instead. Reasoning: absence across all published AARO products, not a stated jurisdictional ruling.",
+"predicate": "omitted",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-19",
@@ -523,7 +567,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 3,
@@ -533,10 +578,14 @@
 "direction": "out",
 "edgeId": "e-86089ba6c3",
 "edgeLabel": "successor whose reported apology to Congress concerns his predecessor's conduct",
+"family": "testimony",
 "id": "sean-kirkpatrick",
 "l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "If Luna's account is accurate, a sitting AARO director conceded to members of Congress that the office's founding leadership behaved improperly toward Congress and witnesses - the nearest thing to an institutional admission in the record.",
+"predicate": "acknowledged",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-15",
@@ -550,7 +599,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through testimony to"
 }
 ],
 "date": "2024-11-19",

@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-05942785bc",
 "edgeLabel": "Allied government's contemporaneous Secret record of the engagements",
+"family": "documents",
 "id": "shootdowns-feb-2023",
 "l0": false,
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "The 14 February 2023 Privy Council memo to Prime Minister Trudeau documents that exploitation of the Alaska object was incomplete and the Yukon object unverified as to function and propulsion.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-07",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 }
 ],
 "coords": null,
@@ -84,7 +89,7 @@
 ],
 "sub": "Canadian government memo on the February 2023 shootdowns",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 711 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 710 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

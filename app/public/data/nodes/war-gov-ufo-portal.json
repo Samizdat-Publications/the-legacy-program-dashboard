@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-334bde0bd4",
 "edgeLabel": "signposts users to a channel it does not run",
+"family": "organisation",
 "id": "aaro-2026-posture",
 "l0": false,
 "label": "AARO in 2025-2026 - Kosloski's office as PURSUE's silent partner",
 "note": "AARO's homepage carries a PURSUE banner linking to war.gov/UFO and a NARA banner linking to archives.gov, directing the public away from its own EFOIA reading room.",
+"predicate": "outside_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-5953c48d83",
 "edgeLabel": "Presidential direction produced the PURSUE release portal",
+"family": "law",
 "id": "eop",
 "l0": false,
 "label": "Executive Office of the President",
 "note": "Following the February 2026 presidential directive to identify and release UAP files, the Department of War established the PURSUE portal at war.gov/UFO and published its first tranche on 8 May 2026.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was created by"
 },
 {
 "claimTier": 3,
@@ -84,10 +94,14 @@
 "direction": "out",
 "edgeId": "e-0411566395",
 "edgeLabel": "By the fourth tranche the programme stopped stating what it released",
+"family": "denial",
 "id": "pursue-release-04",
 "l0": false,
 "label": "PURSUE Release 04",
 "note": "Releases 01, 02, 03 and 05 have published file counts; Release 04 has none on the portal or in independent inventories.",
+"predicate": "omitted",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-07",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -111,10 +126,14 @@
 "direction": "in",
 "edgeId": "e-bca42667bb",
 "edgeLabel": "Published through the Secretary's web estate, not AARO's",
+"family": "documents",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "All five tranches are published on the Secretary of War's web estate at war.gov/UFO, with video served from a CloudFront distribution and no FOIA case numbers or exemption citations.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-07",
@@ -128,7 +147,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 }
 ],
 "coords": null,
@@ -186,7 +206,7 @@
 ],
 "sub": "The publication surface for PURSUE; not an AARO property",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 763 of 1138, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 761 of 1138, score 22). 4 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unverified": []
 }

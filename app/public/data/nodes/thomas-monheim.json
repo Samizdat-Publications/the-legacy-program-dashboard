@@ -85,10 +85,14 @@
 "direction": "out",
 "edgeId": "e-62bc16be1a",
 "edgeLabel": "ICIG found Grusch's urgent-concern complaint credible and urgent, triggering notification of the intelligence committees",
+"family": "oversight",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "This finding is the legal predicate for the entire House inquiry, and it routed to the intelligence committees rather than to Oversight.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-02-18",
@@ -97,7 +101,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 1,
@@ -107,10 +112,14 @@
 "direction": "out",
 "edgeId": "e-35fcaff806",
 "edgeLabel": "Inspector General of the Intelligence Community, 2021-present",
+"family": "role",
 "id": "icig",
 "l0": false,
 "label": "Inspector General of the Intelligence Community",
 "note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -119,7 +128,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "led"
 },
 {
 "claimTier": 2,
@@ -129,10 +139,14 @@
 "direction": "out",
 "edgeId": "e-5ba30d802c",
 "edgeLabel": "Briefed House Oversight members for about ninety minutes",
+"family": "testimony",
 "id": "icig-briefing-2024-01-12",
 "l0": false,
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
+"predicate": "testified_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-12",
@@ -141,7 +155,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "testified at"
 }
 ],
 "date": "2024-01-12",

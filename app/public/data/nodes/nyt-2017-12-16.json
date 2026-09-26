@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-7e52055715",
 "edgeLabel": "Broke the program's existence, funding and Reid origin",
+"family": "testimony",
 "id": "aatip",
 "l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "Cooper, Blumenthal and Kean disclosed the programme, the appropriation arranged by Sen. Harry Reid at Robert Bigelow's urging, and Elizondo's resignation.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -86,10 +91,14 @@
 "direction": "in",
 "edgeId": "e-7de7d7ba16",
 "edgeLabel": "the program the New York Times revealed",
+"family": "testimony",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The 16 December 2017 story named the program, the $22M, Reid and Bigelow, and forced DIA to write the Senate Armed Services Committee three weeks later.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-01-09",
@@ -98,7 +107,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 2,
@@ -108,10 +118,14 @@
 "direction": "in",
 "edgeId": "e-3e330b3250",
 "edgeLabel": "Supplied the videos published with the story",
+"family": "testimony",
 "id": "christopher-mellon",
 "l0": false,
 "label": "Christopher K. Mellon",
 "note": "Mellon says he provided the files to the Times; the Times separately stated the Department of Defense was its on-the-record source for them.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-10-20",
@@ -120,7 +134,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -130,10 +145,14 @@
 "direction": "out",
 "edgeId": "e-fcf18481ad",
 "edgeLabel": "the baseline against which the substrate shift is measured",
+"family": "analysis",
 "id": "d-media",
 "l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "The 16 December 2017 story is the last time a US paper of record originated a legacy-programme disclosure. Every subsequent major disclosure - Grusch in 2023, Immaculate Constellation in 2024, the structural reconstruction in 2026 - went somewhere else first. This node is what makes the domain's central claim measurable rather than rhetorical.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -147,7 +166,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -157,10 +177,14 @@
 "direction": "out",
 "edgeId": "e-a08e6bb75a",
 "edgeLabel": "The New York Times did not publish the 2023 Grusch story",
+"family": "denial",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The same two authors who wrote the paper's 2017 AATIP revelation took the 2023 crash-retrieval story elsewhere. Recorded as a denial-type edge because the decision not to publish is itself an act by an institution, and one that shaped what the public record looks like.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -174,7 +198,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -184,10 +209,14 @@
 "direction": "in",
 "edgeId": "e-572ebb3393",
 "edgeLabel": "Published by the New York Times, reopening the subject",
+"family": "testimony",
 "id": "flir1-video",
 "l0": false,
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "The DoD's own 2020 release statement acknowledges the videos circulated publicly after unauthorized disclosures in 2007 and 2017.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -196,7 +225,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "brought to the record"
 },
 {
 "claimTier": 1,
@@ -206,10 +236,14 @@
 "direction": "out",
 "edgeId": "e-ecbb6b27fc",
 "edgeLabel": "Identified Reid as the senator who initiated and funded AATIP",
+"family": "testimony",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "Reid told the Times 'I'm not embarrassed or ashamed or sorry I got this thing going' and called the appropriation 'black money'.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -218,7 +252,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -228,10 +263,14 @@
 "direction": "out",
 "edgeId": "e-f0b5e7c8ba",
 "edgeLabel": "The alleged programme is said to have been created in response to this story",
+"family": "place-time",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "Shellenberger's whistleblower alleges DoD created Immaculate Constellation in 2017 after the New York Times published on AATIP. The claim is attributed, not documented.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -240,7 +279,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 3,
@@ -250,10 +290,14 @@
 "direction": "out",
 "edgeId": "e-90ae1aa3af",
 "edgeLabel": "The decisive act of the modern disclosure era was a New York editorial decision",
+"family": "place-time",
 "id": "l-nyc",
 "l0": false,
 "label": "New York City",
 "note": "The story added institutional standing rather than new physical evidence; every subsequent official step follows it in sequence. Reasoning: chronological review of post-2017 official actions.",
+"predicate": "occurred_at",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -262,7 +306,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -272,10 +317,14 @@
 "direction": "out",
 "edgeId": "e-d7b4ab3748",
 "edgeLabel": "Co-byline with Helene Cooper and Ralph Blumenthal",
+"family": "documents",
 "id": "leslie-kean",
 "l0": false,
 "label": "Leslie Kean",
 "note": "Kean and Blumenthal had cultivated the sources; Cooper supplied the Pentagon beat. The trio's byline is what moved the story from fringe to record.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-16",
@@ -284,7 +333,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -294,10 +344,14 @@
 "direction": "out",
 "edgeId": "e-d1da23f925",
 "edgeLabel": "Named him as the official who ran AATIP",
+"family": "testimony",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "The article identified him, quoted his resignation letter and reported his move to TTSA — the act that made him the Department's problem.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -306,7 +360,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -316,10 +371,14 @@
 "direction": "in",
 "edgeId": "e-3d6d5781a1",
 "edgeLabel": "Elizondo's resignation and the videos anchored the story",
+"family": "documents",
 "id": "luis-elizondo",
 "l0": false,
 "label": "Luis D. Elizondo",
 "note": "Pentagon spokeswoman Dana White confirmed to Politico that Elizondo had directed AATIP.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -328,7 +387,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -338,10 +398,14 @@
 "direction": "in",
 "edgeId": "e-b02e9096ea",
 "edgeLabel": "The Nimitz footage was the visual centrepiece of the 2017 disclosure",
+"family": "documents",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The New York Times published the November 2004 footage alongside the AATIP revelation, converting a shelved incident into a national accountability story.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2017-12-16",
@@ -350,7 +414,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -360,10 +425,14 @@
 "direction": "out",
 "edgeId": "e-5d81f21ac2",
 "edgeLabel": "Co-byline, 16 December 2017",
+"family": "documents",
 "id": "ralph-blumenthal",
 "l0": false,
 "label": "Ralph Blumenthal",
 "note": "Blumenthal shares the byline that broke AATIP and published two of the three videos.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-16",
@@ -372,7 +441,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "was published by"
 },
 {
 "claimTier": 3,
@@ -382,10 +452,14 @@
 "direction": "in",
 "edgeId": "e-84d979aab0",
 "edgeLabel": "Successor venue to the 2017 New York Times story",
+"family": "organisation",
 "id": "the-debrief",
 "l0": false,
 "label": "The Debrief",
 "note": "The 2017 NYT article and the 2023 Debrief article share two of three authors and a continuous line of argument; the change of venue between them is a data point about institutional appetite, not about the reporting.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -394,7 +468,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "was succeeded by"
 }
 ],
 "coords": null,

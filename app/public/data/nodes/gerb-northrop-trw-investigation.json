@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-c7dcb21198",
 "edgeLabel": "Traces Stephanie O'Sullivan from TRW to ODNI to the Aerospace board",
+"family": "testimony",
 "id": "aerospace-corporation",
 "l0": false,
 "label": "The Aerospace Corporation",
 "note": "O'Sullivan is a former TRW engineer, former Principal Deputy Director of National Intelligence and a current Aerospace Corporation board member - a single career spanning prime contractor, IC leadership and FFRDC governance.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-20",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-9b167c0230",
 "edgeLabel": "Built on Grusch's statements about Clapper and O'Sullivan",
+"family": "documents",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Gerb extrapolates from Grusch's remarks on Megyn Kelly and from Grusch's statement that James Clapper and Stephanie O'Sullivan managed the crash retrieval issue at ODNI.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-20",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "cites"
 },
 {
 "claimTier": 2,
@@ -85,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-9b535997a6",
 "edgeLabel": "Alleges IRAD self-funding of a breakaway programme after 9/11",
+"family": "testimony",
 "id": "northrop-grumman",
 "l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "The specific financial allegation: that Northrop used Independent Research and Development funds at the onset of the War on Terror to self-fund retrieval and exploitation, becoming unaccountable to its original government handler. IRAD is contractor-directed and only indirectly reimbursed, which makes it the mechanism that would allow exactly this.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-20",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "made claims about"
 },
 {
 "claimTier": 2,
@@ -107,10 +122,14 @@
 "direction": "in",
 "edgeId": "e-bec9bfa851",
 "edgeLabel": "The subject of the 20 March 2026 corporate-breakaway argument",
+"family": "documents",
 "id": "trw-inc",
 "l0": false,
 "label": "TRW Inc.",
 "note": "The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2002-12-20",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 2,
@@ -129,10 +149,14 @@
 "direction": "in",
 "edgeId": "e-2049fb4b16",
 "edgeLabel": "Gerb authored the Northrop/TRW breakaway analysis",
+"family": "documents",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 20 March 2026, following a Vol.1 Northrop investigation in 2025.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-03-20",
@@ -141,7 +165,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was written by"
 }
 ],
 "coords": null,

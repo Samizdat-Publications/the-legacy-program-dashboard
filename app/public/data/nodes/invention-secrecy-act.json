@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-1a85be9443",
 "edgeLabel": "One of the three statutory layers of the secrecy architecture",
+"family": "analysis",
 "id": "d-secrecy",
 "l0": false,
 "label": "Secrecy Law & Classification",
 "note": "The domain description already names this Act as one of the three statutory layers of the secrecy architecture and the board carried no node for it.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1952-02-01",
@@ -64,7 +68,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -74,10 +79,14 @@
 "direction": "out",
 "edgeId": "e-dc49dcfec5",
 "edgeLabel": "FAS publishes the only public series on how often the Act is used",
+"family": "media",
 "id": "fas",
 "l0": false,
 "label": "Federation of American Scientists",
 "note": "FAS obtains and publishes the annual secrecy-order counts from the Patent and Trademark Office, which is the only public series on how often the Act is used.",
+"predicate": "reported_on",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through media to"
 },
 {
 "claimTier": 2,
@@ -96,10 +106,14 @@
 "direction": "out",
 "edgeId": "e-d9e17c4b73",
 "edgeLabel": "The control case for the patents tab: a propulsion patent that did issue",
+"family": "law",
 "id": "pais-patent-imrd",
 "l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "A Navy-assigned propulsion patent that did issue is the control case for the tab: the Act is why an absence in the patent record is a legal artefact rather than evidence of nothing.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "governs"
 },
 {
 "claimTier": 2,
@@ -118,10 +133,14 @@
 "direction": "out",
 "edgeId": "e-11e122d142",
 "edgeLabel": "Paired instruments, one hiding an invention and the other an expenditure",
+"family": "analysis",
 "id": "usc-50-3510",
 "l0": false,
 "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "note": "Two statutory instruments of the same architecture, one hiding an invention and the other hiding an expenditure; the pairing is the board's argument, not either statute's text.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -130,7 +149,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "parallels"
 }
 ],
 "coords": null,
@@ -187,7 +207,7 @@
 ],
 "sub": "Act of 1 February 1952, ch. 4; renumbered by the Patent Act of 19 July 1952, ch. 950, 66 Stat. 805",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 533 of 1138, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded B on a global pass (rank 532 of 1138, score 30). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unverified": []
 }

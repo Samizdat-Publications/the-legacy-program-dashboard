@@ -40,10 +40,14 @@
 "direction": "out",
 "edgeId": "e-873e0f19ed",
 "edgeLabel": "Echo Flight crew commander at Malmstrom",
+"family": "role",
 "id": "l-malmstrom",
 "l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "Attested by his son and by researchers, and not disputed by anyone, but not documented in any opened record.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-06-01",
@@ -57,7 +61,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -67,10 +72,14 @@
 "direction": "out",
 "edgeId": "e-205c0ea0fe",
 "edgeLabel": "The on-duty crew commander denies any UFO report reached the capsule",
+"family": "denial",
 "id": "malmstrom-echo-flight-1967",
 "l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2011-06-01",
@@ -84,7 +93,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 }
 ],
 "date": "1967-03-16",
@@ -185,7 +195,7 @@
 "status": "unknown",
 "sub": "Capt. USAF, missile combat crew commander, Echo Flight, 341st Strategic Missile Wing, 16 March 1967; father of James Carlson",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 850 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 849 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic, 1 official denial recorded against it. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

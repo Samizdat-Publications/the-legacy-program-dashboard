@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-a411033b0f",
 "edgeLabel": "The Sol Foundation operates from the Stanford orbit",
+"family": "place-time",
 "id": "sol-foundation",
 "l0": true,
 "label": "The Sol Foundation",
 "note": "Garry Nolan of the Stanford School of Medicine co-founded the Sol Foundation with Peter Skafish; its symposia are the current academic venue for the subject.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "A",
-"type": "research"
+"type": "research",
+"verb": "is the location of"
 }
 ],
 "coords": [
@@ -81,7 +86,7 @@
 ],
 "sub": "Stanford University; Nolan Lab, Stanford School of Medicine; base of the Sol Foundation",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1126 of 1138, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1125 of 1138, score 8). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [],
 "unverified": []
 }

@@ -47,10 +47,14 @@
 "direction": "in",
 "edgeId": "e-327f584285",
 "edgeLabel": "Prepublication review chain for the video files",
+"family": "oversight",
 "id": "dd-form-1910-2017",
 "l0": false,
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "The Navy later said DOPSR held no record of a request for unrestricted release of the videos in 2017 — consistent with the form's 'not for publication' framing.",
+"predicate": "requested",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2019-09-10",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-33aa14cb00",
 "edgeLabel": "Cleared Grusch's statements for open publication, 4 and 6 April 2023",
+"family": "documents",
 "id": "grusch-dopsr-clearance",
 "l0": false,
 "label": "Grusch DOPSR Prepublication Clearance (FOIA 23-F-0946)",
 "note": "DoD's own prepublication review office read the specific words and released them. FOIA case 23-F-0946 documents the submissions of 7 March and 5 April 2023 and the approvals of 4 and 6 April 2023, along with internal reviewer correspondence.",
+"predicate": "released",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-15",
@@ -86,7 +95,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "released"
 },
 {
 "claimTier": 2,
@@ -96,10 +106,14 @@
 "direction": "in",
 "edgeId": "e-d0383fe3f4",
 "edgeLabel": "Manuscript reviewed and cleared by the Department's prepublication office",
+"family": "oversight",
 "id": "imminent-book",
 "l0": false,
 "label": "Imminent: Inside the Pentagon's Hunt for UFOs",
 "note": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental determination that the assertions are not classified.",
+"predicate": "investigated",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 }
 ],
 "coords": null,
@@ -172,7 +187,7 @@
 ],
 "sub": "DoD office reviewing official information proposed for public release",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 406 of 1138, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 405 of 1138, score 34). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

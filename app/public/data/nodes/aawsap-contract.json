@@ -71,10 +71,14 @@
 "direction": "in",
 "edgeId": "e-966235789d",
 "edgeLabel": "prime contract",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -83,7 +87,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "funded"
 },
 {
 "claimTier": 1,
@@ -93,10 +98,14 @@
 "direction": "in",
 "edgeId": "e-2d91026357",
 "edgeLabel": "",
+"family": "money",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "The contract is the instrument the programme ran on. HHM402-08-C-0072 was signed 22 September 2008 off solicitation HHM402-08-R-0211, which DIA had posted as a Combined Synopsis/Solicitation on FedBizOpps on 18 August 2008 with responses due 5 September. Worth carrying: the contract does not appear in public federal contract data - an FPDS-NG ATOM query for that PIID returns an empty feed.",
+"predicate": "contracted",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2009-09-02",
@@ -110,7 +119,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked by money to"
 },
 {
 "claimTier": 1,
@@ -120,10 +130,14 @@
 "direction": "in",
 "edgeId": "e-46952ba6c9",
 "edgeLabel": "solicitation HHM402-08-R-0211 led to award HHM402-08-C-0072",
+"family": "place-time",
 "id": "aawsap-solicitation",
 "l0": false,
 "label": "DIA Solicitation HHM402-08-R-0211",
 "note": "Posted 18 August 2008, awarded 22 September 2008 — a five-week competition on an eleven-topic statement of work reaching to 2050.",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-10-13",
@@ -132,7 +146,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "followed from"
 },
 {
 "claimTier": 1,
@@ -142,10 +157,14 @@
 "direction": "out",
 "edgeId": "e-ae6fbc8444",
 "edgeLabel": "$10M base firm-fixed-price award to BAASS",
+"family": "money",
 "id": "baass",
 "l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "Awarded 22 September 2008 to Bigelow Aerospace Advanced Space Studies LLC, DUNS 827037768, CAGE 54JU7, base year plus four options.",
+"predicate": "funded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-10-13",
@@ -154,7 +173,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "funded"
 },
 {
 "claimTier": 1,
@@ -164,10 +184,14 @@
 "direction": "out",
 "edgeId": "e-ae2e5483cd",
 "edgeLabel": "the instrument itself - competed, awarded, numbered and released",
+"family": "analysis",
 "id": "d-contracting",
 "l0": false,
 "label": "Federal Contracting Mechanics",
 "note": "Awarded 22 September 2008 off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity. It is the domain's reference specimen: the object that shows what a contract for this subject looks like when the paper survives, against which every undocumented allegation of a contract can be compared.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-09-02",
@@ -181,7 +205,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -191,10 +216,14 @@
 "direction": "out",
 "edgeId": "e-b88c5faf1b",
 "edgeLabel": "the one instrument on the board where the appropriation-to-contract path is fully documented",
+"family": "analysis",
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "The AAWSAP prime contract, awarded 22 September 2008 to BAASS off solicitation HHM402-08-R-0211 through the DIA Virginia Contracting Activity, and released through DIA FOIA together with modification P00001. It is the concrete artefact that turns 'money moved through a classified channel' into a document with a number on it, which is what this domain exists to collect.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-09-02",
@@ -208,7 +237,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -218,10 +248,14 @@
 "direction": "in",
 "edgeId": "e-e508b3d69c",
 "edgeLabel": "withheld the contract for eleven years",
+"family": "denial",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA withheld the BAASS award entirely in a 2011 FOIA response and released it only in October 2022 — a contract that had been competed on a public bid board.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-03-01",
@@ -230,7 +264,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -240,10 +275,14 @@
 "direction": "in",
 "edgeId": "e-776b5a7789",
 "edgeLabel": "published the contract documentation",
+"family": "testimony",
 "id": "george-knapp",
 "l0": false,
 "label": "George Knapp",
 "note": "Knapp's KLAS I-Team established publicly that the DIA-funded study was executed in Nevada, ahead of DIA's own release of the contract in 2022.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2017-12-20",
@@ -252,7 +291,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was brought to the record by"
 }
 ],
 "coords": null,

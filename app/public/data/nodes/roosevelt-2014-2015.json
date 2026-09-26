@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-fe75903dcf",
 "edgeLabel": "Created in direct response to the reporting failure the encounters exposed",
+"family": "place-time",
 "id": "americans-for-safe-aerospace",
 "l0": true,
 "label": "Americans for Safe Aerospace",
 "note": "Graves's testimony ties the founding to the fact that after his squadron's safety report 'there was no official acknowledgement of the incident and no further mechanism to report the sightings.'",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "led to"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-10bbb7aa64",
 "edgeLabel": "Command-level reaction to the encounter series",
+"family": "place-time",
 "id": "gallaudet-2015-email",
 "l0": false,
 "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
 "note": "The message describes exactly the problem Graves's squadron reported - repeated near-midairs with unidentified objects in working airspace - and was withdrawn within 24 hours.",
+"predicate": "responded_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-11-13",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "drew a response from"
 },
 {
 "claimTier": 1,
@@ -84,10 +94,14 @@
 "direction": "in",
 "edgeId": "e-0e1dacadf6",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
+"family": "organisation",
 "id": "gimbal-video",
 "l0": false,
 "label": "GIMBAL (Navy ATFLIR video, January 2015)",
 "note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -101,7 +115,8 @@
 }
 ],
 "tier": "C",
-"type": "custody"
+"type": "custody",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -111,10 +126,14 @@
 "direction": "in",
 "edgeId": "e-0705447e89",
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
+"family": "organisation",
 "id": "gofast-video",
 "l0": false,
 "label": "GO FAST (Navy ATFLIR video, January 2015)",
 "note": "GO FAST is the video Gallaudet says was attached to the recalled Fleet Forces Command safety message, and the one AARO later reanalysed on parallax grounds.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-04-27",
@@ -133,7 +152,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -143,10 +163,14 @@
 "direction": "in",
 "edgeId": "e-b895eee1fb",
 "edgeLabel": "Site of the near-midair that anchors the safety case",
+"family": "place-time",
 "id": "l-w72",
 "l0": false,
 "label": "Warning Area W-72, off Virginia Beach",
 "note": "Restricted training airspace ten miles east of Virginia Beach where two F/A-18Fs 100 feet apart took evasive action around a stationary cube-in-sphere object.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -155,7 +179,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "happened at"
 },
 {
 "claimTier": 1,
@@ -165,10 +190,14 @@
 "direction": "in",
 "edgeId": "e-c0db198809",
 "edgeLabel": "VFA-11 aircrew during the 2014-2015 encounter series",
+"family": "testimony",
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "Graves testified in writing that his squadron 'began witnessing advanced UAP demonstrating complex maneuvers on a regular basis' after the AESA radar upgrade.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -177,7 +206,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -187,10 +217,14 @@
 "direction": "in",
 "edgeId": "e-419c09f2bd",
 "edgeLabel": "East Coast UAP encounters reported by Roosevelt-deployed Navy aircrew",
+"family": "testimony",
 "id": "us-navy",
 "l0": true,
 "label": "United States Navy",
 "note": "Two of the three videos the Department released in April 2020 are dated January 2015, and Graves's testimony places his squadron's encounters in the W-72 warning area off the east coast, beginning more than a decade before he testified: 'my squadron began witnessing advanced UAP demonstrating complex maneuvers on a regular basis'. Tier 2 because neither primary document names the USS Theodore Roosevelt. The carrier association is well attested elsewhere; it is not in the two documents cited here.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-04-27",
@@ -214,7 +248,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 1,
@@ -224,10 +259,14 @@
 "direction": "in",
 "edgeId": "e-733d049823",
 "edgeLabel": "Squadron at the centre of the Atlantic encounter series",
+"family": "testimony",
 "id": "vfa-11",
 "l0": false,
 "label": "Strike Fighter Squadron 11 (VFA-11 Red Rippers)",
 "note": "Graves names VFA-11 and Warning Area W-72 in sworn testimony as the locus of the encounters and the near-midair.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -236,7 +275,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "has a first-hand account from"
 }
 ],
 "coords": null,

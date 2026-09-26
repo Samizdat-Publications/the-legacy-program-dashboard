@@ -47,10 +47,14 @@
 "direction": "in",
 "edgeId": "e-481ec79a14",
 "edgeLabel": "GAO found the relevant RAAF records destroyed with no recorded authority",
+"family": "oversight",
 "id": "gao-nsiad-95-187",
 "l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF administrative records March 1945-December 1949 and outgoing messages October 1946-December 1949 were destroyed; the disposition form records neither who destroyed them nor under what authority.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-07-28",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 },
 {
 "claimTier": 3,
@@ -69,10 +74,14 @@
 "direction": "out",
 "edgeId": "e-3700b6a81e",
 "edgeLabel": "Roswell sits inside the 1947 New Mexico nuclear and rocketry complex",
+"family": "place-time",
 "id": "l-white-sands",
 "l0": false,
 "label": "White Sands Missile Range, New Mexico",
 "note": "The Foster Ranch debris field, White Sands Proving Ground, the Alamogordo Mogul launch site, Los Alamos, Sandia and Kirtland all lie within a few hundred miles. Reasoning: geographic proximity is the reason a materiel recovery there fell inside multiple classified security envelopes at once.",
+"predicate": "concurrent_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-08-12",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 2,
@@ -91,10 +101,14 @@
 "direction": "in",
 "edgeId": "e-539720397e",
 "edgeLabel": "The 1947 recovery was executed by Roswell Army Air Field",
+"family": "place-time",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force's own reports.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -113,10 +128,14 @@
 "direction": "in",
 "edgeId": "e-fc6615c89b",
 "edgeLabel": "The 509th Bomb Group at Roswell AAF was the only atomic-armed unit in the world",
+"family": "place-time",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "The recovery, the announcement and the destroyed records all belong to a single installation with the most restrictive information discipline in the US military.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-01-01",
@@ -130,7 +149,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was the scene of"
 }
 ],
 "coords": [

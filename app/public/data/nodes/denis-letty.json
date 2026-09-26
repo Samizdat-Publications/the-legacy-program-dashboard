@@ -68,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-834c8e64c5",
 "edgeLabel": "founded and chaired COMETA",
+"family": "role",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
+"predicate": "founded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1999-07-01",
@@ -80,7 +84,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "founded"
 }
 ],
 "date": "1999-07-01",
@@ -129,7 +134,7 @@
 "status": "active",
 "sub": "French Air Force general (2nd Section); founder and chairman of COMETA",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 944 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 943 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

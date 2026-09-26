@@ -95,10 +95,14 @@
 "direction": "out",
 "edgeId": "e-10272f50d3",
 "edgeLabel": "Oak Ridge, operated by UT-Battelle, analysed the alleged 1947 crash specimen for AARO",
+"family": "organisation",
 "id": "aaro-metallic-specimen-analysis",
 "l0": false,
 "label": "AARO / ORNL Synopsis: Analysis of a Metallic Specimen",
 "note": "AARO contracted ORNL in 2022; the laboratory assessed the specimen terrestrial in origin and incapable of functioning as a terahertz waveguide. Battelle thus appears at both ends of the file, in 1951 and in 2024.",
+"predicate": "produced",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-11",
@@ -112,7 +116,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -122,10 +127,14 @@
 "direction": "out",
 "edgeId": "e-5091e6585a",
 "edgeLabel": "Battelle performed the statistical analysis under contract",
+"family": "organisation",
 "id": "blue-book-special-report-14",
 "l0": true,
 "label": "Project Blue Book Special Report No. 14",
 "note": "Battelle Memorial Institute of Columbus is the contractor identified throughout the literature; the report's own front matter does not name a contractor, which is why this is graded tier 2.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-05-05",
@@ -134,7 +143,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "produced"
 },
 {
 "claimTier": 2,
@@ -144,10 +154,14 @@
 "direction": "in",
 "edgeId": "e-214af5f137",
 "edgeLabel": "Alleges Battelle studied Roswell-derived shape-memory alloy",
+"family": "testimony",
 "id": "gerb-battelle-investigation",
 "l0": false,
 "label": "UAP Gerb - Battelle Memorial Institute investigation",
 "note": "Gerb argues, following Jacques Vallee's paper trail, that Battelle studied a shape-memory metallic alloy recovered at Roswell now referred to as nitinol, while also building the USAF's machine index of UFO reports and helping quell public interest.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-02-18",
@@ -156,7 +170,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 2,
@@ -166,10 +181,14 @@
 "direction": "in",
 "edgeId": "e-e76a7e3c83",
 "edgeLabel": "Battelle's Air Force liaison for Blue Book-related work",
+"family": "role",
 "id": "howard-c-cross",
 "l0": false,
 "label": "Howard C. Cross",
 "note": "Cross was the named point of contact between Battelle's Stork analysts and Wright-Patterson.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -178,7 +197,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -188,10 +208,14 @@
 "direction": "in",
 "edgeId": "e-a063120ae0",
 "edgeLabel": "Battelle Memorial Institute headquarters",
+"family": "place-time",
 "id": "l-columbus-oh",
 "l0": false,
 "label": "Columbus, Ohio",
 "note": "Battelle Memorial Institute's own IRS Form 990 filings give its address as Columbus, Ohio. The FFRDCs it administers or co-administers sit at Idaho Falls, Richland and Aiken, none of them at Columbus, so the Columbus tie is the institute's own seat rather than a federal laboratory site.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -210,7 +234,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -220,10 +245,14 @@
 "direction": "out",
 "edgeId": "e-a028df5723",
 "edgeLabel": "Wright-Patterson-sponsored nickel-titanium alloy work, 1948-49",
+"family": "other",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "The research lineage from which nitinol shape-memory alloy emerged; researchers including Anthony Bragalia allege the corresponding reports are missing from both Air Force and Battelle archives.",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2009-05-21",
@@ -237,7 +266,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -247,10 +277,14 @@
 "direction": "in",
 "edgeId": "e-79750c2513",
 "edgeLabel": "Came to MITRE directly from Battelle's executive suite",
+"family": "role",
 "id": "mark-peters",
 "l0": false,
 "label": "Mark Todd Peters",
 "note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -264,7 +298,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 3,
@@ -274,10 +309,14 @@
 "direction": "out",
 "edgeId": "e-cf61c445f9",
 "edgeLabel": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
+"family": "conduct",
 "id": "mitre-corporation",
 "l0": true,
 "label": "The MITRE Corporation",
 "note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-06-27",
@@ -291,7 +330,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -301,10 +341,14 @@
 "direction": "in",
 "edgeId": "e-46d2736566",
 "edgeLabel": "Battelle wrote the 1972 NASA review of the alloy and was its 1968 wire-drawing subcontractor",
+"family": "documents",
 "id": "naval-ordnance-laboratory",
 "l0": false,
 "label": "U.S. Naval Ordnance Laboratory (White Oak, Silver Spring)",
 "note": "Battelle Memorial Institute wrote the 1972 NASA literature review of 55-Nitinol and was a 1967-69 processing subcontractor for it; the review traces the alloy to the Naval Ordnance Laboratory around 1962 and cites no Battelle nickel-titanium work before 1968.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -313,7 +357,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -323,10 +368,14 @@
 "direction": "out",
 "edgeId": "e-bdaea677e8",
 "edgeLabel": "Battelle co-operates ORNL through UT-Battelle, LLC",
+"family": "organisation",
 "id": "oak-ridge-national-laboratory",
 "l0": false,
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "Contract DEAC0500OR22725, recorded at approximately $42.3 billion, running 1999-2030.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -340,7 +389,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -350,10 +400,14 @@
 "direction": "in",
 "edgeId": "e-15c6faaab0",
 "edgeLabel": "Battelle's authorship of Special Report No. 14 was deliberately concealed behind an ATIC cover",
+"family": "organisation",
 "id": "project-bear",
 "l0": false,
 "label": "Project BEAR (Battelle contract to Project GRUDGE)",
 "note": "AARO states that Battelle 'released a report under the cover of ATIC to maintain its anonymity.' The first public analytical product of the government's UFO investigation was ghost-written by a private contractor at the contractor's request.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -362,7 +416,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -372,10 +427,14 @@
 "direction": "out",
 "edgeId": "e-f03315e434",
 "edgeLabel": "Battelle held the Project BEAR contract supplying the science behind Project GRUDGE and BLUE BOOK",
+"family": "organisation",
 "id": "project-bear",
 "l0": false,
 "label": "Project BEAR (Battelle contract to Project GRUDGE)",
 "note": "AARO's own history records the contract, the questionnaire and punch-card work, and the resulting Special Report No. 14.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-08",
@@ -384,7 +443,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -394,10 +454,14 @@
 "direction": "out",
 "edgeId": "e-ae8b3ba82c",
 "edgeLabel": "Battelle held the Air Force contract designated Project Stork",
+"family": "organisation",
 "id": "project-stork",
 "l0": false,
 "label": "Project Stork (Project White Stork)",
 "note": "Under Stork, Battelle performed the statistical analysis of Project Blue Book's case files that became Special Report No. 14.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2020-09-17",
@@ -406,7 +470,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 2,
@@ -416,10 +481,14 @@
 "direction": "out",
 "edgeId": "e-ccbf092f20",
 "edgeLabel": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
+"family": "custody",
 "id": "roswell-1947",
 "l0": true,
 "label": "Roswell Incident",
 "note": "The allegation rests on the coincidence of timing between the 1947 recovery, the 1948-49 Battelle NiTi work, and the absence of the reports from both archives. No document connects the two directly.",
+"predicate": "alleged_to_hold",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-05-21",
@@ -428,7 +497,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -438,10 +508,14 @@
 "direction": "in",
 "edgeId": "e-15011914de",
 "edgeLabel": "The two named partners in Brookhaven Science Associates LLC",
+"family": "role",
 "id": "stony-brook-university",
 "l0": false,
 "label": "Stony Brook University",
 "note": "Stony Brook and Battelle are the two named partners in Brookhaven Science Associates LLC, which holds the DOE management-and-operating contract for Brookhaven National Laboratory.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-09-02",
@@ -450,7 +524,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "worked with"
 }
 ],
 "coords": null,

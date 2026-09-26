@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-40009534c9",
 "edgeLabel": "AARO's 2024 negative finding is the standing counter-position",
+"family": "denial",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO's 2024 report states that no investigation, including foreign efforts, concluded that any UAP report indicated extraterrestrial origin; the Varginha witnesses were briefing Congress against that finding.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was denied by"
 },
 {
 "claimTier": 2,
@@ -75,10 +80,14 @@
 "direction": "in",
 "edgeId": "e-7875c9af1a",
 "edgeLabel": "Brazilian senator attended and discussed a joint evidence effort",
+"family": "testimony",
 "id": "eduardo-girao",
 "l0": false,
 "label": "Senador Eduardo Girão",
 "note": "Girão, who led a 2022 Brazilian Senate UAP hearing, met Rep. Eric Burlison for the first time at the National Press Club event.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -97,10 +107,14 @@
 "direction": "in",
 "edgeId": "e-e71299ed35",
 "edgeLabel": "1996 witnesses testify to US legislators thirty years later",
+"family": "testimony",
 "id": "ev-varginha-1996",
 "l0": false,
 "label": "Varginha incident, Minas Gerais, January 1996",
 "note": "Venturelli, Fortunato and de Sousa were brought to Washington by James Fox and briefed Burchett, Luna and Burlison on 15 January 2026.",
+"predicate": "brought_to_record",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-30",
@@ -109,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -119,10 +134,14 @@
 "direction": "in",
 "edgeId": "e-526824cfe2",
 "edgeLabel": "gave the hospital custody account to members of Congress",
+"family": "testimony",
 "id": "italo-venturelli",
 "l0": false,
 "label": "Dr Ítalo Venturelli",
 "note": "Kean and Blumenthal had sole media access to the closed-door session and reported his testimony verbatim.",
+"predicate": "testified_at",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-01-30",
@@ -131,7 +150,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through testimony to"
 }
 ],
 "coords": null,

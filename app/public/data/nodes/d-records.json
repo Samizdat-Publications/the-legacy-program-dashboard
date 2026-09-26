@@ -42,10 +42,14 @@
 "direction": "in",
 "edgeId": "e-001786d34d",
 "edgeLabel": "Record destruction as concealment",
+"family": "analysis",
 "id": "d-coverup",
 "l0": false,
 "label": "The Cover-Up",
 "note": "GAO found Roswell AAF outgoing messages for 1946-1949 destroyed with no disposition authority and no destruction certificate - concealment executed through the records system.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-07-28",
@@ -54,7 +58,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -64,10 +69,14 @@
 "direction": "out",
 "edgeId": "e-73a2a3e2cf",
 "edgeLabel": "Statutory collection versus request-by-request extraction",
+"family": "analysis",
 "id": "d-foia",
 "l0": false,
 "label": "Freedom of Information Practice",
 "note": "Before the FY2024 records provisions, FOIA was the only routine extraction mechanism; the NARA collection is an attempt to replace adversarial requesting with an affirmative duty.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-12-22",
@@ -76,7 +85,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -86,10 +96,14 @@
 "direction": "in",
 "edgeId": "e-98cb27a26b",
 "edgeLabel": "The corpus is what survives the records fight",
+"family": "analysis",
 "id": "d-history",
 "l0": false,
 "label": "Historiography",
 "note": "Almost every primary document in this field arrived through FOIA or archival release; historiography here is downstream of records law.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-07-28",
@@ -103,7 +117,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -113,10 +128,14 @@
 "direction": "in",
 "edgeId": "e-b6403d1997",
 "edgeLabel": "Records law as the oversight instrument that worked",
+"family": "analysis",
 "id": "d-oversight",
 "l0": false,
 "label": "Congressional Oversight",
 "note": "Subtitle C of P.L. 118-31 is the only binding UAP transparency outcome Congress has produced, and it operates through records custody rather than through programme access.",
+"predicate": "exemplifies",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -125,7 +144,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -135,10 +155,14 @@
 "direction": "in",
 "edgeId": "e-004efa6509",
 "edgeLabel": "Records destroyed January 1973; a misfiled finance set survived",
+"family": "analysis",
 "id": "mkultra",
 "l0": true,
 "label": "Project MKULTRA",
 "note": "The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1977-08-03",
@@ -147,7 +171,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "has as an instance"
 },
 {
 "claimTier": 1,
@@ -157,10 +182,14 @@
 "direction": "in",
 "edgeId": "e-190fca4c68",
 "edgeLabel": "Ordered the destruction of the MKULTRA files, January 1973",
+"family": "analysis",
 "id": "sidney-gottlieb",
 "l0": false,
 "label": "Sidney Gottlieb",
 "note": "The 1977 CIA memorandum reprinted in the hearing print says he retrieved and destroyed all the MKULTRA documents he was able to locate, which is why the 1973 and 1975 searches found nothing.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1977-06-22",
@@ -169,7 +198,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "has as an instance"
 }
 ],
 "coords": null,

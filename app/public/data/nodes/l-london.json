@@ -3,14 +3,8 @@
 "C": 0,
 "D": 3,
 "band": null,
-"claims": [
-{
-"id": "c-8116e7fa5f",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
-}
-],
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
+"claims": [],
 "cls": "location",
 "cluster": "other",
 "conflicts": [],
@@ -23,10 +17,14 @@
 "direction": "out",
 "edgeId": "e-4aaf7db27c",
 "edgeLabel": "produced at Whitehall, released via TNA at Kew",
+"family": "custody",
 "id": "doc-condign-report",
 "l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Both ends of the Condign story sit in London: the MoD secretariat that handled UFO material was at Whitehall, and the MoD's historical UFO files went to The National Archives at Kew under a five-year transfer programme whose releases run from August 2009 through 2013. The guide describes the transfer programme but does not date the reporting desk's closure, so that detail is not asserted here.",
+"predicate": "holds",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2013-01-01",
@@ -45,7 +43,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked through custody to"
 }
 ],
 "coords": [
@@ -91,7 +90,7 @@
 ],
 "sub": "Capital of the United Kingdom; seat of the MoD and the National Archives release",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1006 of 1138, score 14). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 1029 of 1138, score 13). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D3.",
 "timeline": [],
 "unverified": []
 }

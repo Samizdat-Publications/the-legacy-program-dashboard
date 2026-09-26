@@ -54,10 +54,14 @@
 "direction": "out",
 "edgeId": "e-bec78d693e",
 "edgeLabel": "Wrote Attachment 32, the Project Mogul synopsis",
+"family": "documents",
 "id": "roswell-report-1995",
 "l0": false,
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "note": "The DTIC abstract identifies Attachment 32 as McAndrew's synopsis describing Project Mogul as the explanation for the Roswell Incident.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1995-01-01",
@@ -66,7 +70,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 },
 {
 "claimTier": 1,
@@ -76,10 +81,14 @@
 "direction": "out",
 "edgeId": "e-d0423c963d",
 "edgeLabel": "Sole author of the 1997 bodies report",
+"family": "documents",
 "id": "roswell-report-case-closed",
 "l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "Published by Headquarters USAF through the GPO; McAndrew, born 1963, is the named author on the catalogue record.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1997-01-01",
@@ -88,7 +97,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "wrote"
 }
 ],
 "date": "1963",
@@ -137,7 +147,7 @@
 "status": "former",
 "sub": "USAF intelligence officer; author, 'The Roswell Report: Case Closed' (1997)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 855 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 854 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

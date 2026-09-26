@@ -23,10 +23,14 @@
 "direction": "in",
 "edgeId": "e-785567ca81",
 "edgeLabel": "records the Spanish release and DI55's non-access",
+"family": "documents",
 "id": "doc-condign-vol3",
 "l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2006-05-15",
@@ -35,7 +39,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "is cited by"
 }
 ],
 "coords": null,
@@ -72,7 +77,7 @@
 ],
 "sub": "Sixty-six Spanish Air Force files released to the public from 1992",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1076 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1073 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unverified": []
 }

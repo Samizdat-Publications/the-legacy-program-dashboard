@@ -53,10 +53,14 @@
 "direction": "out",
 "edgeId": "e-7eb727a4b1",
 "edgeLabel": "Created inside the Agency by NSC 10/2",
+"family": "organisation",
 "id": "cia",
 "l0": true,
 "label": "Central Intelligence Agency",
 "note": "The directive places the office within CIA but requires it to operate independently of the Agency's other components and to report through its Chief directly to the Director of Central Intelligence.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1948-06-18",
@@ -65,7 +69,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -75,10 +80,14 @@
 "direction": "out",
 "edgeId": "e-767f24842a",
 "edgeLabel": "Propaganda is the first named category in the charter",
+"family": "analysis",
 "id": "d-psyop",
 "l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "Paragraph 5 lists propaganda first among covert operations, which is the documented basis for treating the office as a psychological-operations instrument, before any claim about UFO matters is made.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1948-06-18",
@@ -87,7 +96,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -97,10 +107,14 @@
 "direction": "out",
 "edgeId": "e-72b3fb2538",
 "edgeLabel": "Chartered under section 102(d)(5) of the Act he signed",
+"family": "law",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "The directive names its own authority as the residual clause of the National Security Act of 1947, approved 26 July 1947.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1948-06-18",
@@ -109,7 +123,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -119,10 +134,14 @@
 "direction": "out",
 "edgeId": "e-cee2233a45",
 "edgeLabel": "Chartered under the residual clause, section 102(d)(5)",
+"family": "law",
 "id": "national-security-act-1947",
 "l0": false,
 "label": "National Security Act of 1947 (Pub. L. 80-253, 61 Stat. 495)",
 "note": "NSC 10/2 creates the Office of Special Projects 'under the authority of Section 102(d)(5) of the National Security Act of 1947', the clause permitting such other functions related to intelligence as the Council may direct. The board already carried the charter; this is the statute it was written under.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -136,7 +155,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -146,10 +166,14 @@
 "direction": "in",
 "edgeId": "e-9141865605",
 "edgeLabel": "Supersedes and rescinds the charter that created the office",
+"family": "law",
 "id": "nsc-5412",
 "l0": false,
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "Paragraph 7 supersedes and rescinds NSC 10/2 and NSC 10/5. The 1948 charter the board already carries was live for not quite six years.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -158,7 +182,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is governed by"
 }
 ],
 "coords": null,

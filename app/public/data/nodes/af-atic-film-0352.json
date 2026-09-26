@@ -35,10 +35,14 @@
 "direction": "out",
 "edgeId": "e-25c09fade4",
 "edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
+"family": "oversight",
 "id": "beacon-hill-study",
 "l0": false,
 "label": "Project Beacon Hill",
 "note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
+"predicate": "reports_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-26",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-3c04e663b3",
 "edgeLabel": "Ruppelt is the briefer on the recording",
+"family": "testimony",
 "id": "edward-ruppelt",
 "l0": false,
 "label": "Edward J. Ruppelt",
 "note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-08",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "has a first-hand account from"
 },
 {
 "claimTier": 2,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-04ec404a1a",
 "edgeLabel": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
+"family": "custody",
 "id": "mit-lincoln-laboratory",
 "l0": false,
 "label": "MIT Lincoln Laboratory",
 "note": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
+"predicate": "holds",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-06-25",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "custody"
+"type": "custody",
+"verb": "is held by"
 }
 ],
 "coords": null,

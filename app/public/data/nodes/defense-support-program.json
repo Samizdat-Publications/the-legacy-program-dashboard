@@ -47,10 +47,14 @@
 "direction": "out",
 "edgeId": "e-3e833b73c5",
 "edgeLabel": "The thesis points at DSP without naming it",
+"family": "documents",
 "id": "afit-townsend-2008",
 "l0": false,
 "label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
 "note": "The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted.",
+"predicate": "concerns",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2003-06-02",
@@ -59,7 +63,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -69,10 +74,14 @@
 "direction": "in",
 "edgeId": "e-5b4f4b72a7",
 "edgeLabel": "Named DSP as a programme collecting hard data on unidentified flying objects",
+"family": "testimony",
 "id": "bob-fish",
 "l0": false,
 "label": "Bob Fish",
 "note": "Fish's DSP claim is the source of the popular equation of DSP with UFO tracking, and the same email undercuts it by saying he was never fully briefed into the programme.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2015-03-06",
@@ -81,7 +90,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "is the subject of claims by"
 },
 {
 "claimTier": 1,
@@ -91,10 +101,14 @@
 "direction": "out",
 "edgeId": "e-d939e2eded",
 "edgeLabel": "Both refusals rest on the same executive order",
+"family": "law",
 "id": "eo-13526",
 "l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "Both refusals rest on the same executive order, cited at section 1.4c in 2013 and at section 1.1(a) in 2023.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-12-06",
@@ -108,7 +122,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -118,10 +133,14 @@
 "direction": "out",
 "edgeId": "e-add2c009fa",
 "edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
+"family": "denial",
 "id": "norad-northcom",
 "l0": true,
 "label": "NORAD and US Northern Command",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-12-06",
@@ -130,7 +149,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "was refused by"
 },
 {
 "claimTier": 1,
@@ -140,10 +160,14 @@
 "direction": "out",
 "edgeId": "e-7981069a36",
 "edgeLabel": "Both refusals on this designation are public only because of The Black Vault",
+"family": "testimony",
 "id": "the-black-vault",
 "l0": true,
 "label": "The Black Vault",
 "note": "Both refusals on this designation, 2013 and 2023, were extracted by The Black Vault and are public only because of it.",
+"predicate": "brought_to_record",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2013-12-06",
@@ -157,7 +181,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "was brought to the record by"
 },
 {
 "claimTier": 1,
@@ -167,10 +192,14 @@
 "direction": "out",
 "edgeId": "e-75db3f4fbc",
 "edgeLabel": "Flown by the Air Force before the constellation passed to the Space Force",
+"family": "organisation",
 "id": "usaf",
 "l0": true,
 "label": "United States Air Force",
 "note": "DSP is described by GAO as a Department of Defense strategic surveillance system flown by the Air Force before the constellation passed to the Space Force.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2003-06-02",
@@ -179,7 +208,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was run by"
 }
 ],
 "coords": null,

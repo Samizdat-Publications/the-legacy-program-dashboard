@@ -68,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-456e219f67",
 "edgeLabel": "Received a protected disclosure from Eglin and went to the base with Burchett and Luna",
+"family": "testimony",
 "id": "l-eglin",
 "l0": false,
 "label": "Eglin Air Force Base, Florida",
 "note": "Initially refused images, radar and full crew access; obtained a photograph and one crew member after a discussion 'about how authorities flow in the United States of America.'",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -80,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through testimony to"
 }
 ],
 "date": "2023-07-26",
@@ -130,7 +135,7 @@
 "status": "former",
 "sub": "Former U.S. Rep. (R-FL-1); the Eglin AFB protected disclosure and radar sequence",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 694 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 693 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

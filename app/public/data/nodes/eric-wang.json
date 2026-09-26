@@ -86,10 +86,14 @@
 "direction": "out",
 "edgeId": "e-6d3ef4a0b5",
 "edgeLabel": "Chief, Structures Division, Air Force Special Weapons Center, Kirtland AFB",
+"family": "role",
 "id": "l-kirtland",
 "l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "A 1960 DTIC report names 'Eric H. Wang, Chief, Structures Division' at Headquarters Research Directorate, AFSWC, Kirtland Air Force Base, New Mexico. His documented work there is blast effects on structures.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1960-05-06",
@@ -98,7 +102,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "held a post at"
 },
 {
 "claimTier": 1,
@@ -108,10 +113,14 @@
 "direction": "out",
 "edgeId": "e-1cfdd982d9",
 "edgeLabel": "Chief, Special Studies Office, Installations Division, Air Materiel Command",
+"family": "role",
 "id": "l-wright-patterson",
 "l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "The Project 3.1 report records the transfer of Air Force responsibility 'from the Special Studies Office, Installations Division, Air Materiel Command to Blast Effects Research, Mechanics Branch, Aeronautical Research Laboratory, Wright Air Development Center, on 15 November 1954'.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1955-07-01",
@@ -120,7 +129,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "held a post at"
 }
 ],
 "date": "1953",

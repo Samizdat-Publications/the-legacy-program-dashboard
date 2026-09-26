@@ -58,10 +58,14 @@
 "direction": "out",
 "edgeId": "e-bf533eb81a",
 "edgeLabel": "Appropriations chairman who provided the vehicle",
+"family": "law",
 "id": "defense-appropriations-aawsap",
 "l0": false,
 "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "Inouye's control of the Senate Appropriations process allowed the $22M to be routed through the classified annex without floor debate on the allocation.",
+"predicate": "sponsored_law",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-06-13",
@@ -70,7 +74,8 @@
 }
 ],
 "tier": "B",
-"type": "funding"
+"type": "funding",
+"verb": "linked through law to"
 }
 ],
 "date": "2007-01-01",
@@ -125,7 +130,7 @@
 "status": "dead",
 "sub": "US Senator (D-HI); Chairman, Senate Appropriations Committee",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 874 of 1138, score 18). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 870 of 1138, score 18). 1 connections, 1 of them custody/funding/programmatic. Axes C0/A2/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

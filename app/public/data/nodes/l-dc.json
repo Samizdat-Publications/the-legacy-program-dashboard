@@ -3,6 +3,7 @@
 "C": 1,
 "D": 3,
 "band": null,
+"boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
 "id": "c-c853319dd3",
@@ -33,12 +34,6 @@
 "source": "Inference from reference counts in the research corpus",
 "text": "l-washington-dc and l-dc denote the same location and should be merged, with l-dc retained as canonical on volume of inbound references (142 versus 2). Reasoning: reference counts across the wave-1 corpus.",
 "tier": 3
-},
-{
-"id": "c-bf8b3432c2",
-"source": "Board bookkeeping",
-"text": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
-"tier": 3
 }
 ],
 "cls": "location",
@@ -53,10 +48,14 @@
 "direction": "in",
 "edgeId": "e-819744685d",
 "edgeLabel": "Addressed at the Department of the Army, Washington 25, D. C.",
+"family": "place-time",
 "id": "arthur-g-trudeau",
 "l0": false,
 "label": "Lt. Gen. Arthur G. Trudeau",
 "note": "Both letters address him at the Department of the Army, Washington 25, D. C.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1958-01-18",
@@ -70,7 +69,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "is the location of"
 },
 {
 "claimTier": 1,
@@ -80,10 +80,14 @@
 "direction": "in",
 "edgeId": "e-0d1042aa10",
 "edgeLabel": "Where the hearings happen",
+"family": "place-time",
 "id": "d-oversight",
 "l0": false,
 "label": "Congressional Oversight",
 "note": "The July 2023 and September 2025 House Oversight UAP hearings, and the NARA records collection created by P.L. 118-31, are all seated in the District of Columbia.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-09",
@@ -97,7 +101,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -107,10 +112,14 @@
 "direction": "out",
 "edgeId": "e-560cc814c8",
 "edgeLabel": "All three modern UAP hearings were held on Capitol Hill",
+"family": "place-time",
 "id": "hearing-2023-07-26",
 "l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "2154 Rayburn on 26 July 2023 and 13 November 2024; HVC-210 on 9 September 2025.",
+"predicate": "occurred_at",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -129,7 +138,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "was the scene of"
 },
 {
 "claimTier": 1,
@@ -139,10 +149,14 @@
 "direction": "in",
 "edgeId": "e-637132b95a",
 "edgeLabel": "posted to the Operations Coordinating Board and then to OCRD, both in Washington",
+"family": "role",
 "id": "philip-corso",
 "l0": false,
 "label": "Philip J. Corso",
 "note": "His DA Form 66 records '8720 DU, ArmySec, Opr Coordinating Bd, Wash DC' from 24 February 1954, and 'Foreign Technology Div, OCRD USA (8556) Wash DC' from 20 July 1961, as Chief from 18 April 1962.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1998-04-01",
@@ -151,7 +165,8 @@
 }
 ],
 "tier": "A",
-"type": "geographic"
+"type": "geographic",
+"verb": "had in a post"
 }
 ],
 "coords": [
@@ -208,7 +223,7 @@
 ],
 "sub": "Federal seat: the Pentagon (Arlington), Capitol Hill, ODNI, DIA, CIA (Langley), OSD, NARA",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 396 of 1138, score 35). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
+"tierRationale": "Re-graded B on a global pass (rank 422 of 1138, score 34). 4 connections, 0 of them custody/funding/programmatic. Axes C1/A3/D3.",
 "timeline": [],
 "unverified": []
 }

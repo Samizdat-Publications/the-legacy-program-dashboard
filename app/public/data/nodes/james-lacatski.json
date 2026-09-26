@@ -107,10 +107,14 @@
 "direction": "out",
 "edgeId": "e-66f4ff2977",
 "edgeLabel": "AAWSA Program Manager (name redacted in release)",
+"family": "role",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": null,
@@ -119,7 +123,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -129,10 +134,14 @@
 "direction": "out",
 "edgeId": "e-ed83fe1423",
 "edgeLabel": "Government Project Leader",
+"family": "role",
 "id": "aawsap",
 "l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "Named unredacted as Government Project Leader on the public DIA solicitation HHM402-08-R-0211; redacted under 10 USC 424 in every later release.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2008-08-18",
@@ -141,7 +150,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "held a post at"
 },
 {
 "claimTier": 2,
@@ -151,10 +161,14 @@
 "direction": "in",
 "edgeId": "e-f2aaaa8e50",
 "edgeLabel": "Kelleher's 2005 book led Lacatski to Bigelow and thence to the AAWSAP contract",
+"family": "place-time",
 "id": "colm-kelleher",
 "l0": false,
 "label": "Colm A. Kelleher",
 "note": "DIA official James Lacatski read 'Hunt for the Skinwalker' by Kelleher and George Knapp, contacted Bigelow, visited the ranch, and relayed the experience to Sen. Harry Reid; the two later co-authored 'Skinwalkers at the Pentagon' (2021).",
+"predicate": "led_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2020-02-14",
@@ -168,7 +182,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "followed from"
 },
 {
 "claimTier": 1,
@@ -178,10 +193,14 @@
 "direction": "in",
 "edgeId": "e-e9b9e2537b",
 "edgeLabel": "redacted the PM's name it had already published",
+"family": "denial",
 "id": "dia",
 "l0": true,
 "label": "Defense Intelligence Agency",
 "note": "Lacatski is named in the public solicitation and redacted under 10 USC 424 in every post-award release — a records posture aimed at breaking the link between office and person.",
+"predicate": "omitted",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2008-08-18",
@@ -195,7 +214,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -205,10 +225,14 @@
 "direction": "in",
 "edgeId": "e-af8e09ff89",
 "edgeLabel": "Lacatski named as AAWSA Program Manager on the document's administrative note",
+"family": "documents",
 "id": "dird-traversable-wormholes",
 "l0": false,
 "label": "DIA-08-1004-004: 'Traversable Wormholes, Stargates, and Negative Energy'",
 "note": "The administrative note directs comments to James T. Lacatski, D.Eng., AAWSA Program Manager, DIA, ATTN: CLAR/DWO-3, Bldg 6000, Washington DC 20340-5100 - naming the government official responsible for the series.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2010-04-06",
@@ -217,7 +241,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "is the subject of"
 },
 {
 "claimTier": 2,
@@ -227,10 +252,14 @@
 "direction": "in",
 "edgeId": "e-699f3b9751",
 "edgeLabel": "Episode framing cites Lacatski's AAWSAP deputisation of Davis",
+"family": "documents",
 "id": "jesse-michels",
 "l0": false,
 "label": "Jesse Michels",
 "note": "The episode description states Davis held security clearances through AAWSAP and was formally deputised by DIA under program manager James Lacatski, 'who himself claims he has stepped inside a UFO and breached the hull.'",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-03-08",
@@ -239,7 +268,8 @@
 }
 ],
 "tier": "C",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -249,10 +279,14 @@
 "direction": "in",
 "edgeId": "e-341424584a",
 "edgeLabel": "Knapp co-authored two books with the AAWSAP originator",
+"family": "role",
 "id": "klas-tv",
 "l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp named Lacatski on the record as one of the people he has interviewed: 'There is a guy named Dr. James Lacatski, who was a career scientist with the Defense Intelligence Agency, who was the guy who initiated a program called AAWSAP, Advanced Aerospace Weapons Systems Application Program, which is, as far as we know, the largest acknowledged UFO program ever funded by the U.S. Government.'",
+"predicate": "worked_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -266,7 +300,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 2,
@@ -276,10 +311,14 @@
 "direction": "out",
 "edgeId": "e-6fa87d8fea",
 "edgeLabel": "Lacatski's visit is the documented link from the ranch to DIA",
+"family": "testimony",
 "id": "l-skinwalker",
 "l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "Lacatski contacted Bigelow after reading 'Hunt for the Skinwalker', visited the ranch and reported an experience there; Bigelow relayed this to Sen. Harry Reid.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -288,7 +327,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 2,
@@ -298,10 +338,14 @@
 "direction": "out",
 "edgeId": "e-4261f8418f",
 "edgeLabel": "releasing AAWSAP material through trade publication",
+"family": "documents",
 "id": "lacatski-book-series",
 "l0": false,
 "label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
 "note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-08",
@@ -310,7 +354,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "published"
 },
 {
 "claimTier": 2,
@@ -320,10 +365,14 @@
 "direction": "out",
 "edgeId": "e-5b25da505b",
 "edgeLabel": "2007 approach that originated the contract",
+"family": "oversight",
 "id": "robert-bigelow",
 "l0": false,
 "label": "Robert T. Bigelow",
 "note": "Per 'Skinwalkers at the Pentagon' Lacatski wrote to Bigelow on DIA letterhead on 19 June 2007; DIA reports no records of the letter.",
+"predicate": "requested",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-09-01",
@@ -332,7 +381,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 2,
@@ -342,10 +392,14 @@
 "direction": "out",
 "edgeId": "e-b77acf7fa3",
 "edgeLabel": "co-author; states he entered a craft of unknown origin",
+"family": "documents",
 "id": "skinwalkers-at-the-pentagon",
 "l0": false,
 "label": "Skinwalkers at the Pentagon (Lacatski, Kelleher, Knapp, 2021)",
 "note": "A former DIA program manager made this claim in a manuscript DoD cleared for publication.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2021-08-01",
@@ -354,7 +408,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "wrote"
 }
 ],
 "date": "2008-09-22",

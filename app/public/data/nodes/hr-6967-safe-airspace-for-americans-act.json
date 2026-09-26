@@ -29,10 +29,14 @@
 "direction": "in",
 "edgeId": "e-6c1e565363",
 "edgeLabel": "Republican co-lead",
+"family": "law",
 "id": "glenn-grothman",
 "l0": false,
 "label": "Glenn S. Grothman",
 "note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
+"predicate": "sponsored_law",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-12",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was sponsored by"
 },
 {
 "claimTier": 1,
@@ -51,10 +56,14 @@
 "direction": "in",
 "edgeId": "e-d83ca4e935",
 "edgeLabel": "Sponsor",
+"family": "law",
 "id": "robert-garcia",
 "l0": false,
 "label": "Robert Garcia",
 "note": "Introduced 11 January 2024, the day before the ICIG briefing.",
+"predicate": "sponsored_law",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-11",
@@ -68,7 +77,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "was sponsored by"
 },
 {
 "claimTier": 3,
@@ -78,10 +88,14 @@
 "direction": "in",
 "edgeId": "e-9e4e6b2505",
 "edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
+"family": "place-time",
 "id": "ryan-graves",
 "l0": false,
 "label": "Ryan Graves",
 "note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-26",
@@ -95,7 +109,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,
@@ -142,7 +157,7 @@
 ],
 "sub": "Introduced 11 Jan 2024 by Garcia with Grothman",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 978 of 1138, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 974 of 1138, score 15). 3 connections, 1 of them custody/funding/programmatic. Axes C0/A0/D2.",
 "timeline": [
 {
 "claimTier": null,

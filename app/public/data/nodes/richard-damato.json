@@ -59,10 +59,14 @@
 "direction": "out",
 "edgeId": "e-be700049d5",
 "edgeLabel": "D'Amato's Senate inquiry reached EG&G and stopped there",
+"family": "oversight",
 "id": "eg-and-g",
 "l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-02-28",
@@ -71,7 +75,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "investigated"
 },
 {
 "claimTier": 3,
@@ -81,10 +86,14 @@
 "direction": "out",
 "edgeId": "e-d1429d73f2",
 "edgeLabel": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
+"family": "testimony",
 "id": "lockheed-martin",
 "l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
+"predicate": "alleged_tie",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-02-28",
@@ -98,7 +107,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through testimony to"
 }
 ],
 "date": "1993-01-01",
@@ -148,7 +158,7 @@
 "status": "active",
 "sub": "Senate Appropriations Committee counsel/investigator for Sen. Robert C. Byrd, 1980s-1990s",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 853 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 852 of 1138, score 19). 2 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-e6238b23e3",
 "edgeLabel": "Never called up; FY2025 enacted with no disclosure regime",
+"family": "organisation",
 "id": "iaa-fy2025-title-lxviii",
 "l0": false,
 "label": "IAA FY2025 Title LXVIII - Secs. 6801-6802 (P.L. 118-159)",
 "note": "The amendment was 'ordered to lie on the table' and received no vote; P.L. 118-159's only UAP content is a GAO review and a sunset on audit briefings.",
+"predicate": "outside_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-11",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -68,10 +73,14 @@
 "direction": "in",
 "edgeId": "e-1371bca480",
 "edgeLabel": "Absent from the 2024 refiling; left the Senate January 2025",
+"family": "organisation",
 "id": "marco-rubio",
 "l0": false,
 "label": "Marco Rubio",
 "note": "The 2024 amendment carries only Rounds and Schumer; Rubio, Gillibrand, Young and Heinrich are not on it, and Rubio left the Senate the following January.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-13",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -90,10 +100,14 @@
 "direction": "in",
 "edgeId": "e-0674cccc32",
 "edgeLabel": "Lead sponsor of the 2024 refiling",
+"family": "law",
 "id": "mike-rounds",
 "l0": false,
 "label": "Mike Rounds",
 "note": "S.Amdt. 2610 was submitted 11 July 2024 by 'Mr. ROUNDS (for himself and Mr. Schumer)' with the full text and the eminent domain clause intact.",
+"predicate": "sponsored_law",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-07-11",
@@ -107,7 +121,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "was sponsored by"
 },
 {
 "claimTier": 1,
@@ -117,10 +132,14 @@
 "direction": "out",
 "edgeId": "e-bf9b3d48ed",
 "edgeLabel": "Verbatim refiling of the 2023 text",
+"family": "organisation",
 "id": "uapda-2023",
 "l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "The 2024 amendment reproduces the findings, definitions, Review Board, Controlled Disclosure Campaign Plan and eminent domain command without softening.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-07-11",
@@ -134,7 +153,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "succeeded"
 }
 ],
 "coords": null,

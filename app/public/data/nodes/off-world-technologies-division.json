@@ -29,10 +29,14 @@
 "direction": "out",
 "edgeId": "e-eaf0c80fd8",
 "edgeLabel": "Alleged SAIC and Sandia connections to the division",
+"family": "testimony",
 "id": "saic",
 "l0": false,
 "label": "Science Applications International Corporation",
 "note": "Gerb links the alleged division to SAIC and Sandia National Laboratories; the escorting weapons instructor is described as a private contractor employee.",
+"predicate": "alleged_tie",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2024-07-17",
@@ -41,7 +45,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is alleged to be tied to"
 },
 {
 "claimTier": 2,
@@ -51,10 +56,14 @@
 "direction": "in",
 "edgeId": "e-a4e1cc5b45",
 "edgeLabel": "Gerb documented the first-hand witness account",
+"family": "media",
 "id": "uap-gerb",
 "l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Published 17 July 2024 based on witness 'RA', a US Army Green Beret describing an underground division near Crane, Indiana holding two non-human artifacts, 2013-2015.",
+"predicate": "reported_on",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-07-17",
@@ -63,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was reported on by"
 }
 ],
 "coords": null,

@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-9ecfe6f85f",
 "edgeLabel": "Two independent traces of the same suppression at fleet level",
+"family": "analysis",
 "id": "gallaudet-2015-email",
 "l0": false,
 "label": "Fleet Forces Command 'URGENT SAFETY OF FLIGHT ISSUE' Email (Jan 2015, recalled)",
 "note": "The range fouler set records reporting terminating at Third Fleet with no dissemination process; Gallaudet records a Fleet Forces Command safety message deleted within a day.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-01-14",
@@ -58,7 +62,8 @@
 }
 ],
 "tier": "B",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -68,10 +73,14 @@
 "direction": "in",
 "edgeId": "e-a6b2741ac6",
 "edgeLabel": "The 2004 incident is formally documented in the Navy's own range fouler reporting",
+"family": "documents",
 "id": "nimitz-2004",
 "l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The January 2023 FOIA release proves the encounter was reported inside the Navy through intelligence personnel and then died at Third Fleet with no dissemination process.",
+"predicate": "concerns",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-01-14",
@@ -80,7 +89,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "concerns"
 },
 {
 "claimTier": 1,
@@ -90,10 +100,14 @@
 "direction": "in",
 "edgeId": "e-e7108b95d5",
 "edgeLabel": "Two decades of aviator records released only under external pressure",
+"family": "analysis",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The 2023 range fouler release came via FOIA; the 2026 PURSUE releases came via presidential directive. Neither came from the reporting system that was supposed to surface them.",
+"predicate": "parallels",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-01-14",
@@ -107,7 +121,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 1,
@@ -117,10 +132,14 @@
 "direction": "out",
 "edgeId": "e-319485e757",
 "edgeLabel": "Reporting volume tracks the existence of a channel, not the phenomenon",
+"family": "place-time",
 "id": "uap-task-force",
 "l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "The set contains no reports from 2005-2007, 2009-2012, 2017 or 2020, and nearly 40 percent from 2021 alone - the year after the Task Force was stood up.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-01-14",
@@ -129,7 +148,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 }
 ],
 "coords": null,

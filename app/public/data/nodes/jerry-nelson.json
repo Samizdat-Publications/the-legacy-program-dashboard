@@ -32,10 +32,14 @@
 "direction": "out",
 "edgeId": "e-cce55fe0a4",
 "edgeLabel": "Spoke on the record; not among the six named affiants on the opened page",
+"family": "testimony",
 "id": "npc-2010-ufos-nukes",
 "l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "note": "Whether he executed an affidavit is not established: the page names six affiants and he is not among them, which may be an omission on the page rather than a fact about him.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2010-09-27",
@@ -44,7 +48,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2010-09-27",
@@ -94,7 +99,7 @@
 "status": "unknown",
 "sub": "USAF deputy missile crew commander, 579th Strategic Missile Squadron, Walker AFB, Roswell, New Mexico, 1962 to 1965",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 1059 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 1056 of 1138, score 11). 1 connections, 0 of them custody/funding/programmatic. Axes C0/A1/D2.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

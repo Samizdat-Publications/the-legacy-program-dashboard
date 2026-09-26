@@ -38,10 +38,14 @@
 "direction": "out",
 "edgeId": "e-2dabc29ad5",
 "edgeLabel": "B-52H co-pilot based at Minot AFB",
+"family": "role",
 "id": "l-minot",
 "l0": false,
 "label": "Minot AFB, North Dakota",
 "note": "His presence is in the Air Force's own 1968 debriefing record.",
+"predicate": "held_post",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-13",
@@ -50,7 +54,8 @@
 }
 ],
 "tier": "B",
-"type": "geographic"
+"type": "geographic",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -60,10 +65,14 @@
 "direction": "out",
 "edgeId": "e-a46b86d7b9",
 "edgeLabel": "B-52H co-pilot, JAG-31, named in the contemporaneous debriefing record",
+"family": "testimony",
 "id": "minot-1968",
 "l0": false,
 "label": "Minot AFB B-52 incident, 24 October 1968",
 "note": "Tier 1 for his presence, which is in the Air Force's own 1968 file, not in any later interview. HE APPROACHED THE CENTER FOR UFO STUDIES HIMSELF IN 2000. The direction of contact is the opposite of the Malmstrom pattern and is the control case for this cluster.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1968-11-13",
@@ -72,7 +81,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "2000-01-01",
@@ -122,7 +132,7 @@
 "status": "unknown",
 "sub": "USAF Captain, co-pilot of B-52H call sign JAG-31, 23rd Bomb Squadron, 5th Bomb Wing, Minot AFB, 24 October 1968",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 882 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
+"tierRationale": "Re-graded C on a global pass (rank 878 of 1138, score 18). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A2/D2.",
 "timeline": [
 {
 "claimTier": null,

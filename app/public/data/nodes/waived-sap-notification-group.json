@@ -191,10 +191,14 @@
 "direction": "in",
 "edgeId": "e-d169e0dc18",
 "edgeLabel": "seat 8 of 12 - Ranking Member, House Armed Services",
+"family": "role",
 "id": "adam-smith",
 "l0": false,
 "label": "Adam Smith",
 "note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -218,7 +222,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -228,10 +233,14 @@
 "direction": "in",
 "edgeId": "e-465eaee615",
 "edgeLabel": "no statutory entitlement; not a defense committee chair or ranking member",
+"family": "organisation",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g).",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -255,7 +264,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -265,10 +275,14 @@
 "direction": "in",
 "edgeId": "e-8ad0120fc7",
 "edgeLabel": "seat 12 of 12 - Ranking Member, House Appropriations Defense Subcommittee",
+"family": "role",
 "id": "betty-mccollum",
 "l0": false,
 "label": "Betty McCollum",
 "note": "Was vice chair of the same subcommittee in 2020, which is not one of the twelve seats.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -292,7 +306,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -302,10 +317,14 @@
 "direction": "in",
 "edgeId": "e-623e2bf31b",
 "edgeLabel": "Ranking Member then Chairman, House Armed Services Committee",
+"family": "role",
 "id": "buck-mckeon",
 "l0": false,
 "label": "Howard P. \"Buck\" McKeon",
 "note": "Entered the twelve-member group on his election as ranking member, announced by the committee chairman on 16 June 2009, and remained in it as chairman through the 112th and 113th Congresses to January 2015. Longest continuous House Armed Services occupancy of a 119(e)(2) seat in the 2009-2015 window the board's current-holder roster does not cover.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -329,7 +348,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -339,10 +359,14 @@
 "direction": "in",
 "edgeId": "e-9f7a8da114",
 "edgeLabel": "seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee",
+"family": "role",
 "id": "chris-coons",
 "l0": false,
 "label": "Christopher A. Coons",
 "note": "As ranking member of the Defense Subcommittee of Senate Appropriations he holds one of the twelve seats. 10 U.S.C. 119(g) names that subcommittee separately from the full Appropriations Committee, which is precisely why the count is twelve and not eight. The subcommittee's published jurisdiction includes the CIA, DIA and NSA.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -356,7 +380,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 2,
@@ -366,10 +391,14 @@
 "direction": "out",
 "edgeId": "e-b589cbbc34",
 "edgeLabel": "four of the twelve seats are appropriations leadership",
+"family": "oversight",
 "id": "classified-annex",
 "l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "The chair and ranking of both Appropriations Committees and both Defense Subcommittees sit in the 119(e)(2) group. This is the structural feature that distinguishes it from the Gang of Eight, which contains no appropriators, and it means the group's sight of a waived programme includes the money as well as the report.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -388,7 +417,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -398,10 +428,14 @@
 "direction": "in",
 "edgeId": "e-7d67c2383f",
 "edgeLabel": "caucus membership confers no statutory access",
+"family": "organisation",
 "id": "congressional-uap-caucus",
 "l0": true,
 "label": "Congressional UAP Caucus",
 "note": "A congressional caucus is not a committee and appears nowhere in 10 U.S.C. 119(g). Caucus members acquire no entitlement to waived-SAP notification, which is why UAP advocacy in Congress has consistently sought to legislate new access rather than to invoke existing access.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -415,7 +449,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -425,10 +460,14 @@
 "direction": "out",
 "edgeId": "e-61b3e8b8fe",
 "edgeLabel": "the four-member channel that 10 U.S.C. 119(e) substitutes for committee reporting",
+"family": "analysis",
 "id": "d-structure",
 "l0": false,
 "label": "Program structure and organisational mapping",
 "note": "Sec. 119(e)(2) directs that where the Secretary exercises the waiver, the information and the justification go jointly to the chairman and ranking minority member of each of the defense committees - the Armed Services and Appropriations committees of both chambers. Attaching this node to the structural domain is what stops the two channels being conflated. [Corrected 14 Aug 2026: 10 U.S.C. 119(g) defines 'defense committees' as SIX bodies including both Appropriations Defense subcommittees, so notification runs to twelve seats, not eight. Section 119 uses its own definition, not 10 U.S.C. 101(a)(16).]",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-21",
@@ -447,7 +486,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 3,
@@ -457,10 +497,14 @@
 "direction": "in",
 "edgeId": "e-d808083e35",
 "edgeLabel": "allegations of a programme withheld from the statutory notification channel",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch's 26 July 2023 testimony was given to a House Oversight subcommittee, which holds no entitlement under section 119. The twelve members who did hold 119(e)(2) seats on that date were Reed, Wicker, Murray, Collins, Tester, Rogers of Alabama, Smith, Granger, DeLauro, Calvert and McCollum - eleven distinct individuals, because Collins held both Senate appropriations seats. None has made a public statement about what, if anything, was notified to them under section 119.",
+"predicate": "made_claims_about",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -489,7 +533,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 1,
@@ -499,10 +544,14 @@
 "direction": "in",
 "edgeId": "e-919ea9c6a2",
 "edgeLabel": "Secretary of Defense is the notifying authority under 119(e)",
+"family": "oversight",
 "id": "dod",
 "l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The waiver decision under 119(e)(1) belongs to the Secretary of Defense personally and must be made case by case on a determination that inclusion would adversely affect the national security. The statute prescribes no review of that determination.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -516,7 +565,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "receives reports from"
 },
 {
 "claimTier": 1,
@@ -526,10 +576,14 @@
 "direction": "in",
 "edgeId": "e-aeaf681082",
 "edgeLabel": "DoDI 5205.11 para. 7.2.a(3) - waived-SAP access limited to chair, ranking member, staff directors and one security manager",
+"family": "law",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoD Instruction 5205.11, 'Management, Administration, and Oversight of DoD Special Access Programs,' effective 12 September 2024, para. 7.2.a(3): 'Only the chair, the ranking member, the staff directors, and one designated security manager of the defense and intelligence committees will be authorized access to waived DoD SAPs within their committee's respective oversight jurisdiction. Requests to access additional members of Congress or professional staff must be approved by the Secretary of Defense or Deputy Secretary of Defense.' This is materially wider than 10 U.S.C. 119(e)(2) on two axes: it admits committee staff directors and a security manager, and it extends to the intelligence committees, which have no entitlement under section 119. Any board text asserting that the twelve have no staff who can read the material should be corrected against this paragraph. Para. 7.2.b confirms that ordinary members of the defense and intelligence committees are authorised access to all DoD SAPs in their jurisdiction 'except for waived programs.'",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -553,7 +607,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -563,10 +618,14 @@
 "direction": "in",
 "edgeId": "e-3573062eba",
 "edgeLabel": "no statutory entitlement; not a defense committee chair or ranking member",
+"family": "organisation",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison is not listed among the members of the House Armed Services Committee and does not hold a chair or ranking seat on any of the six bodies named in 10 U.S.C. 119(g). His UAP oversight work therefore proceeds without any section 119 entitlement.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -590,7 +649,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -600,10 +660,14 @@
 "direction": "in",
 "edgeId": "e-4355eb219d",
 "edgeLabel": "Senate Majority Leader in 2009 - in the Gang of Eight, not in the 119(e)(2) group",
+"family": "organisation",
 "id": "harry-reid",
 "l0": false,
 "label": "Harry M. Reid",
 "note": "This is the cleanest demonstration that the two small groups are different sets. 50 U.S.C. 3093(c)(2) includes the majority and minority leaders of the Senate. 10 U.S.C. 119(e)(2) and 119(g) do not; they reach only committee and subcommittee chairs and ranking members. A Senate Majority Leader has no statutory entitlement to waived DoD SAP notification by virtue of that office. In 2009 the Senate armed services and appropriations seats were held by Levin, McCain, Inouye and Cochran.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -632,7 +696,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -642,10 +707,14 @@
 "direction": "out",
 "edgeId": "e-ae5b455dc0",
 "edgeLabel": "not a defense committee; receives nothing under 10 U.S.C. 119",
+"family": "organisation",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The July 2023 Grusch testimony was taken by a House Oversight subcommittee. That committee has no entitlement under section 119(e)(2) and no statutory route to compel waived-SAP material, which is a structural reason why the hearing could establish allegation but not access.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -659,7 +728,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -669,10 +739,14 @@
 "direction": "in",
 "edgeId": "e-ffb1c0ae15",
 "edgeLabel": "seat 2 of 12 - Ranking Member, Senate Armed Services",
+"family": "role",
 "id": "jack-reed",
 "l0": false,
 "label": "John F. Reed",
 "note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -706,7 +780,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -716,10 +791,14 @@
 "direction": "in",
 "edgeId": "e-69044cbc2f",
 "edgeLabel": "Ranking Member, House Armed Services Committee",
+"family": "role",
 "id": "john-mchugh",
 "l0": false,
 "label": "John M. McHugh",
 "note": "Held a 119(e)(2) seat from January 2009 until his replacement by McKeon in June 2009. The committee chairman's 2 June 2009 statement records that McHugh 'took the reins as Ranking Member ... in January'; the 16 June 2009 statement records McKeon in the seat. The start date is given as the convening of the 111th Congress; the exact day of the Republican Conference vote that seated McKeon is not stated in the committee record, so the end date is the date of the committee statement announcing it.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -743,7 +822,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -753,10 +833,14 @@
 "direction": "in",
 "edgeId": "e-f0ff699d82",
 "edgeLabel": "seat 11 of 12 - Chair, House Appropriations Defense Subcommittee",
+"family": "role",
 "id": "ken-calvert",
 "l0": false,
 "label": "Ken Calvert",
 "note": "In the group in 2020 as ranking member and from 2023 as chair.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -780,7 +864,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -790,10 +875,14 @@
 "direction": "in",
 "edgeId": "e-0a45b4e393",
 "edgeLabel": "seat 7 of 12 - Chairman, House Armed Services",
+"family": "role",
 "id": "mike-rogers-alabama",
 "l0": false,
 "label": "Mike Rogers (Alabama)",
 "note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -812,7 +901,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -822,10 +912,14 @@
 "direction": "in",
 "edgeId": "e-5c8a363f4e",
 "edgeLabel": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
+"family": "role",
 "id": "mitch-mcconnell",
 "l0": false,
 "label": "Mitch McConnell",
 "note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -854,7 +948,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -864,10 +959,14 @@
 "direction": "in",
 "edgeId": "e-a08330f2e8",
 "edgeLabel": "House Armed Services member but not chair or ranking - no 119(e)(2) entitlement",
+"family": "organisation",
 "id": "nancy-mace",
 "l0": false,
 "label": "Nancy Ruth Mace",
 "note": "Mace sits on the House Armed Services Committee, one of the six defense committees, yet receives nothing under section 119(e)(2), which names only the chairman and ranking minority member. She would also not be told under section 119 that a waiver had been exercised at all. This is the clearest single illustration of how narrow the aperture is even inside a defense committee.",
+"predicate": "outside_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -891,7 +990,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "does not include"
 },
 {
 "claimTier": 1,
@@ -901,10 +1001,14 @@
 "direction": "out",
 "edgeId": "e-fbdfe5892f",
 "edgeLabel": "the narrow aperture through which Congress sees waived DoD SAPs",
+"family": "organisation",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -923,7 +1027,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -933,10 +1038,14 @@
 "direction": "in",
 "edgeId": "e-d8c412038c",
 "edgeLabel": "seat 4 of 12 - Vice Chair (ranking minority member), Senate Appropriations",
+"family": "role",
 "id": "patty-murray",
 "l0": false,
 "label": "Patty Murray",
 "note": "The Senate Appropriations Committee styles its ranking minority member 'Vice Chair'. The title does not change the 119(e)(2) entitlement.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -955,7 +1064,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -965,10 +1075,14 @@
 "direction": "in",
 "edgeId": "e-c41c35e467",
 "edgeLabel": "seat 1 of 12 - Chairman, Senate Armed Services",
+"family": "role",
 "id": "roger-wicker",
 "l0": false,
 "label": "Roger F. Wicker",
 "note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -992,7 +1106,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -1002,10 +1117,14 @@
 "direction": "in",
 "edgeId": "e-f8b9e9cab1",
 "edgeLabel": "seat 10 of 12 - Ranking Member, House Appropriations",
+"family": "role",
 "id": "rosa-delauro",
 "l0": false,
 "label": "Rosa L. DeLauro",
 "note": "In the group continuously across the 118th and 119th Congresses.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1024,7 +1143,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -1034,10 +1154,14 @@
 "direction": "out",
 "edgeId": "e-11ad11ba6f",
 "edgeLabel": "one of the six defense committees named in 10 U.S.C. 119(g)(1)",
+"family": "role",
 "id": "senate-armed-services",
 "l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Contributes two of the twelve seats: the chairman and the ranking minority member. Ordinary committee membership confers no entitlement.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1051,7 +1175,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -1061,10 +1186,14 @@
 "direction": "in",
 "edgeId": "e-7c1a543371",
 "edgeLabel": "seat 3 of 12 - Chair, Senate Appropriations",
+"family": "role",
 "id": "susan-collins",
 "l0": false,
 "label": "Susan M. Collins",
 "note": "Held two of the twelve seats simultaneously in the 118th Congress as ranking member of both the full committee and its Defense Subcommittee.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1088,7 +1217,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -1098,10 +1228,14 @@
 "direction": "in",
 "edgeId": "e-b6511bfbb5",
 "edgeLabel": "Ranking Member, Senate Appropriations Committee and its Defense Subcommittee",
+"family": "role",
 "id": "thad-cochran",
 "l0": false,
 "label": "Thad Cochran",
 "note": "Held two of the twelve statutory seats at once, opposite Chairman Daniel K. Inouye who likewise held two. The subcommittee designation is confirmed by a witness statement in the GPO record of the FY2010 Defense appropriations hearings addressed 'Chairman Inouye, Ranking Member Cochran,' which resolves the board's earlier reliance on committee-print list order. End date left null: continuity beyond the 111th Congress was not researched in this pass.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -1125,7 +1259,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had as a member"
 },
 {
 "claimTier": 1,
@@ -1135,10 +1270,14 @@
 "direction": "in",
 "edgeId": "e-e7956f36fd",
 "edgeLabel": "Chairman, House Appropriations Committee",
+"family": "role",
 "id": "tom-cole",
 "l0": false,
 "label": "Tom Cole",
 "note": "Start date corrected from the board's earlier undated entry. Ratified by the House Republican Conference on 10 April 2024, succeeding Kay Granger mid-term in the 118th Congress. Still in the chair as of a committee release dated 24 June 2026. He therefore did not hold a 119(e)(2) seat on the date of the Grusch testimony.",
+"predicate": "member_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": null,
@@ -1162,7 +1301,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked by a role to"
 },
 {
 "claimTier": 1,
@@ -1172,10 +1312,14 @@
 "direction": "out",
 "edgeId": "e-f9eba23845",
 "edgeLabel": "created by 10 U.S.C. 119(e)(2) and defined by 119(g)",
+"family": "law",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Section 119 was added by Pub. L. 100-180 div. A title XI sec. 1132(a)(1), 4 December 1987. Subsection (e)(2) directs waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee; subsection (g) supplies the six-body definition of 'defense committees' used by the section.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1189,7 +1333,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -1199,10 +1344,14 @@
 "direction": "out",
 "edgeId": "e-64e6689423",
 "edgeLabel": "sole statutory recipient of waived-SAP notification",
+"family": "oversight",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "The waiver mechanism at 10 U.S.C. 119(e)(1) does not eliminate reporting; it redirects it. Whatever the Secretary withholds from the report goes instead to these twelve members under 119(e)(2), together with the justification for withholding.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1216,7 +1365,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "receives reports from"
 },
 {
 "claimTier": 1,
@@ -1226,10 +1376,14 @@
 "direction": "out",
 "edgeId": "e-336caeab0b",
 "edgeLabel": "the twelve members with statutory sight of a waived programme",
+"family": "oversight",
 "id": "waived-usap",
 "l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Entitlement is bounded by characterisation: section 119 reaches only activity the Department treats as a DoD special access program. Activity held outside that characterisation is outside the group's statutory sight line entirely.",
+"predicate": "oversaw",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1243,7 +1397,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "oversaw"
 }
 ],
 "coords": null,

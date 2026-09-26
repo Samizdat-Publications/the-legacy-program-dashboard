@@ -41,10 +41,14 @@
 "direction": "out",
 "edgeId": "e-f0f41b78f3",
 "edgeLabel": "Signed by the President's national security adviser, not by the President",
+"family": "documents",
 "id": "national-security-council",
 "l0": false,
 "label": "National Security Council",
 "note": "McGeorge Bundy signs, addressed to the Secretaries of State and Defense and the DCI. Worth recording because the memo is often cited as a presidential instrument.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-19",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "out",
 "edgeId": "e-2fe5f372f1",
 "edgeLabel": "Renames the body, and points at NSC 5412/2 for its authority",
+"family": "documents",
 "id": "nsc-5412",
 "l0": false,
 "label": "NSC 5412, National Security Council Directive on Covert Operations (15 March 1954)",
 "note": "NSAM 303's second sentence states the change 'in no way alters the composition, function or responsibility of the Special Group 5412 as authorized by NSC 5412/2'. The memo's own text is what establishes that the authority lies in the 1955 revision and not in NSC 5412 itself.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-09-19",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "cites"
 }
 ],
 "coords": null,
@@ -112,7 +122,7 @@
 ],
 "sub": "Two-sentence renaming memorandum; carried here because it is routinely cited for things it does not say",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 998 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 997 of 1138, score 14). 2 connections, 0 of them custody/funding/programmatic. Axes C0/A0/D0.",
 "timeline": [
 {
 "claimTier": 1,

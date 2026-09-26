@@ -64,10 +64,14 @@
 "direction": "out",
 "edgeId": "e-7ac83562eb",
 "edgeLabel": "Siraj's interstellar-velocity and seismic localisation determined the search site",
+"family": "place-time",
 "id": "im1-pacific-expedition-2023",
 "l0": false,
 "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
 "note": "The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the Signals paper of September 2023 localised it seismically. Fernando et al. later attributed that signal to truck traffic.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -76,7 +80,8 @@
 }
 ],
 "tier": "B",
-"type": "investigative"
+"type": "investigative",
+"verb": "linked in place or time to"
 }
 ],
 "date": "2023-06-01",
@@ -130,7 +135,7 @@
 "status": "active",
 "sub": "Astrophysicist; leads the Interstellar Object Studies branch of The Galileo Project; co-author on the IM1 interstellar-meteor identification",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 942 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 941 of 1138, score 16). 1 connections, 0 of them custody/funding/programmatic. Axes C1/A0/D1.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": [

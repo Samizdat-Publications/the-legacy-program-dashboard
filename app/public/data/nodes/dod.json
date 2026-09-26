@@ -41,10 +41,14 @@
 "direction": "in",
 "edgeId": "e-1b869f0a90",
 "edgeLabel": "'No evidence suggests that a USG or private entity has ever captured or exploited UAP-derived materials'",
+"family": "denial",
 "id": "aaro-fy2025-annual-report",
 "l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "A categorical negative issued by the office whose access to waived and unacknowledged programs has never been established. Recorded as a denial artefact with its author and date.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-07-20",
@@ -53,7 +57,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "was denied by"
 },
 {
 "claimTier": 1,
@@ -63,10 +68,14 @@
 "direction": "in",
 "edgeId": "e-d2d1f1abb5",
 "edgeLabel": "Subsumed under the National Military Establishment in 1947 and the Department of Defense in 1949",
+"family": "organisation",
 "id": "afswp",
 "l0": false,
 "label": "Armed Forces Special Weapons Project",
 "note": "The NARA record group description records AFSWP as an interservice agency from January to July 1947, under the National Military Establishment from July 1947 to August 1949, and under the Department of Defense from 1949 to 1959.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -75,7 +84,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -85,10 +95,14 @@
 "direction": "in",
 "edgeId": "e-8635d630c3",
 "edgeLabel": "The Army's intelligence staff recorded an interest in his techniques in 1957",
+"family": "documents",
 "id": "andrija-puharich",
 "l0": false,
 "label": "Andrija (Henry K.) Puharich",
 "note": "The FBI memorandum of 6 September 1957 attributes the interest to Lieutenant Colonel John Downie of the Special Operations Branch, Assistant Chief of Staff, Intelligence, Department of the Army; the enclosure Downie furnished is not in the release.",
+"predicate": "studied",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1957-09-06",
@@ -97,7 +111,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 2,
@@ -107,10 +122,14 @@
 "direction": "out",
 "edgeId": "e-922194d802",
 "edgeLabel": "Missed the Task Force deadline for AARO UAP video files, prompting a subpoena threat",
+"family": "denial",
 "id": "anna-paulina-luna",
 "l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna wrote Hegseth on 1 April 2026; the Department did not produce; she publicly raised a subpoena in mid-April 2026.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-04-01",
@@ -119,7 +138,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -129,10 +149,14 @@
 "direction": "in",
 "edgeId": "e-c32089064e",
 "edgeLabel": "Placed in the Department of Defense by 10 U.S.C. 176 as a joint entity of the three military departments",
+"family": "organisation",
 "id": "armed-forces-institute-of-pathology",
 "l0": false,
 "label": "Armed Forces Institute of Pathology",
 "note": "10 U.S.C. 176 places the Institute in the Department of Defense as a joint entity of the three military departments under the Secretary's authority, direction and control.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-01",
@@ -141,7 +165,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 2,
@@ -151,10 +176,14 @@
 "direction": "in",
 "edgeId": "e-79d192179c",
 "edgeLabel": "Air Force denials of Hangar 18 bodies",
+"family": "denial",
 "id": "aztec-1948",
 "l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "Robert Spencer Carr's 1974 public claim that bodies recovered near Aztec were held at 'Hangar 18' at Wright-Patterson AFB drew official Air Force denials. The FBI separately disowned the Guy Hottel memo, the one federal document ever cited as corroboration, in a published 2013 statement.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -178,7 +207,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -188,10 +218,14 @@
 "direction": "out",
 "edgeId": "e-a3f5cbdc15",
 "edgeLabel": "The Department is the account holder for every published classified line",
+"family": "custody",
 "id": "classified-programs-line",
 "l0": false,
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "All 25 'CLASSIFIED PROGRAMS' rows in the FY2026 funding tables sit in Department of Defense appropriation accounts - Army, Navy, Air Force, Space Force, Defense-Wide and Special Operations. Attested by the enacted funding tables.",
+"predicate": "holds",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-12-18",
@@ -200,7 +234,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "linked through custody to"
 },
 {
 "claimTier": 1,
@@ -210,10 +245,14 @@
 "direction": "in",
 "edgeId": "e-21afaec830",
 "edgeLabel": "Air Force, Navy and Army components of one effort, renamed prompt strike in 2012",
+"family": "organisation",
 "id": "conventional-prompt-global-strike",
 "l0": false,
 "label": "Conventional Prompt Global Strike",
 "note": "The Air Force, Navy and Army each run a component of the effort, and the Pentagon renamed it from prompt global strike to prompt strike in 2012.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2021-07-16",
@@ -222,7 +261,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -232,10 +272,14 @@
 "direction": "in",
 "edgeId": "e-017662ddf4",
 "edgeLabel": "No reply on the record as of 9 September 2025",
+"family": "denial",
 "id": "crane-dod-reprisal-letter",
 "l0": false,
 "label": "Rep. Eli Crane letter to the Secretary of Defense re: Major David Charles Grusch reprisal",
 "note": "A sitting member formally notified the Department that a whistleblower lost his clearance, promotion and medical retirement for a protected disclosure. Crane stated he was still waiting for a reply; Chairwoman Luna committed to follow up. Non-response is itself an artifact.",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -244,7 +288,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -254,10 +299,14 @@
 "direction": "out",
 "edgeId": "e-e64e8b6002",
 "edgeLabel": "Clearance removal, denial of promotion and loss of medical retirement following his disclosure",
+"family": "conduct",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Enumerated by Rep. Crane on the hearing record and in his letter to the Secretary of Defense.",
+"predicate": "acted_against",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -266,7 +315,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "took action against"
 },
 {
 "claimTier": 2,
@@ -276,10 +326,14 @@
 "direction": "in",
 "edgeId": "e-68c5b48746",
 "edgeLabel": "First protected disclosure to the DoD Inspector General, July 2021",
+"family": "testimony",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The Debrief records that Grusch provided classified information to the DoD IG in July 2021 regarding the concealment of UAP-related material from Congress, ten months before the ICIG filing. The reprisal complaint alleges his identity and those communications were later disclosed outside the IG channel.",
+"predicate": "told",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-06-05",
@@ -293,7 +347,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "received an account from"
 },
 {
 "claimTier": 1,
@@ -303,10 +358,14 @@
 "direction": "out",
 "edgeId": "e-c72cefbd12",
 "edgeLabel": "Statutory internal oversight body within the Department",
+"family": "oversight",
 "id": "dod-oig",
 "l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The DoD OIG is the Department's independent inspector general and the author of DODIG-2023-109, the only formal evaluation of the Department's UAP conduct.",
+"predicate": "oversaw",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-15",
@@ -315,7 +374,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through oversight to"
 },
 {
 "claimTier": 1,
@@ -325,10 +385,14 @@
 "direction": "in",
 "edgeId": "e-12bee43241",
 "edgeLabel": "Central SAP management office under the Deputy Secretary of Defense",
+"family": "organisation",
 "id": "dod-sapco",
 "l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 (12 Sep 2024) places DoD SAPCO 'under the authority, direction, and control of the Deputy Secretary of Defense', with a general officer, flag officer or SES Director reporting directly to DEPSECDEF. Attested by the directive itself.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-09-12",
@@ -337,7 +401,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -347,10 +412,14 @@
 "direction": "in",
 "edgeId": "e-9d813a968b",
 "edgeLabel": "Current charter of the DoD SAP enterprise",
+"family": "law",
 "id": "dodd-5205-07-2024",
 "l0": false,
 "label": "DoDD 5205.07, DoD Special Access Program (SAP) Policy (12 Sep 2024)",
 "note": "Effective 12 September 2024, incorporating the 11 July 2023 SAP Enterprise Reform implementation guidance.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-09-12",
@@ -359,7 +428,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is governed by"
 },
 {
 "claimTier": 1,
@@ -369,10 +439,14 @@
 "direction": "in",
 "edgeId": "e-342cb19cb6",
 "edgeLabel": "The full IG report on DoD's UAP handling remains classified",
+"family": "denial",
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The public has only an unclassified summary; the IG's own account of where the stovepipes sit has not been released, including through PURSUE.",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-08-15",
@@ -386,7 +460,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -396,10 +471,14 @@
 "direction": "in",
 "edgeId": "e-0e7ddcccfd",
 "edgeLabel": "IG found no comprehensive DoD approach, no response plan, and combatant commanders largely excluded",
+"family": "oversight",
 "id": "dodig-2023-109",
 "l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "DODIG-2023-109 documents structural incoherence across the Department on UAP, including inconsistent reporting systems such as the Air Force's Marauder.",
+"predicate": "investigated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-08-15",
@@ -408,7 +487,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was investigated by"
 },
 {
 "claimTier": 1,
@@ -418,10 +498,14 @@
 "direction": "in",
 "edgeId": "e-83b802c348",
 "edgeLabel": "Established as a DoD combat support agency by DoD Directive 5105.62",
+"family": "law",
 "id": "dtra",
 "l0": false,
 "label": "Defense Threat Reduction Agency",
 "note": "Effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating DSWA, OSIA, DTSA and OSD arms control elements.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1998-10-01",
@@ -430,7 +514,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "created"
 },
 {
 "claimTier": 1,
@@ -440,10 +525,14 @@
 "direction": "out",
 "edgeId": "e-bef32da7d6",
 "edgeLabel": "Did not answer his 24 July 2025 letter on the reprisal against Grusch",
+"family": "denial",
 "id": "eli-crane",
 "l0": false,
 "label": "Elijah Crane",
 "note": "Crane stated on the record on 9 September 2025 that he was still waiting for a reply six weeks later.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -452,7 +541,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -462,10 +552,14 @@
 "direction": "in",
 "edgeId": "e-4f55dfef84",
 "edgeLabel": "EO 14347 renamed the department by presidential signature",
+"family": "law",
 "id": "eop",
 "l0": false,
 "label": "Executive Office of the President",
 "note": "Executive Order 14347 authorised 'Department of War' as a secondary designation and directed a recommendation within 60 days on permanent statutory renaming.",
+"predicate": "governs",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-09-05",
@@ -474,7 +568,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through law to"
 },
 {
 "claimTier": 1,
@@ -484,10 +579,14 @@
 "direction": "out",
 "edgeId": "e-9a878750ea",
 "edgeLabel": "Blocked from a full AARO briefing in 2024 by House Administration staff; NDAA UAP amendment ruled non-germane by staff in 2025",
+"family": "other",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison put both on the record at the 9 September 2025 hearing: 'not an elected official, but someone in staff blocked us. And I have had it.'",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-09-09",
@@ -496,7 +595,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -506,10 +606,14 @@
 "direction": "in",
 "edgeId": "e-b8f0074ef5",
 "edgeLabel": "Secretary of the Army 1949-50; Assistant Secretary of Defense for International Security Affairs 1955-57",
+"family": "role",
 "id": "gordon-gray",
 "l0": false,
 "label": "Gordon Gray",
 "note": "The Office of the Historian's persons list gives both appointments with dates, and the Deputy Secretary of Defense was a statutory member of the Board Gray later directed.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-09-02",
@@ -518,7 +622,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -528,10 +633,14 @@
 "direction": "in",
 "edgeId": "e-c96466a27e",
 "edgeLabel": "Signed the statute that created the National Military Establishment",
+"family": "law",
 "id": "harry-s-truman",
 "l0": false,
 "label": "Harry S. Truman",
 "note": "Section 201(a) establishes the National Military Establishment under a Secretary of Defense who, by section 202(a), must be appointed from civilian life.",
+"predicate": "created",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1946-01-22",
@@ -540,7 +649,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was created by"
 },
 {
 "claimTier": 1,
@@ -550,10 +660,14 @@
 "direction": "out",
 "edgeId": "e-731b16e397",
 "edgeLabel": "Told committee staff that only HASC and HAC-D members could be read in on UAP special access programs",
+"family": "denial",
 "id": "house-oversight-committee",
 "l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Luna's 9 Sept 2025 opening statement is the primary record of the read-in gate.",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -567,7 +681,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -577,10 +692,14 @@
 "direction": "in",
 "edgeId": "e-ea347fcdd0",
 "edgeLabel": "DoD spokesperson Sue Gough: no record of any SAP by that name",
+"family": "denial",
 "id": "immaculate-constellation",
 "l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "'The DOD has no record, present or historical, of any type of SAP called IMMACULATE CONSTELLATION.' Recorded as a denial artefact: a categorical statement about records, issued by a press office, about a program alleged to be unacknowledged.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -589,7 +708,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 },
 {
 "claimTier": 2,
@@ -599,10 +719,14 @@
 "direction": "out",
 "edgeId": "e-f6c5886944",
 "edgeLabel": "Pentagon says it has no record of the program described in the document entered into the Congressional Record",
+"family": "denial",
 "id": "immaculate-constellation-12-page-report",
 "l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Pentagon spokesperson Sue Gough stated DoD has 'no record' of such a program; Kirkpatrick also denied it. The document remains in the Record.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-11-13",
@@ -611,7 +735,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -621,10 +746,14 @@
 "direction": "in",
 "edgeId": "e-b16a0fe6c7",
 "edgeLabel": "First Secretary of Defense, 17 September 1947 to 28 March 1949",
+"family": "role",
 "id": "james-v-forrestal",
 "l0": false,
 "label": "James V. Forrestal",
 "note": "The National Security Act of 1947 created the office at section 202(a) and required its holder to be appointed from civilian life; the Office of the Historian's persons list dates his tenure to the day.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1947-07-26",
@@ -633,7 +762,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -643,10 +773,14 @@
 "direction": "in",
 "edgeId": "e-b2e9a34b93",
 "edgeLabel": "DoD installation; NORAD/USNORTHCOM response",
+"family": "organisation",
 "id": "l-langley-afb",
 "l0": false,
 "label": "Langley Air Force Base / Joint Base Langley-Eustis, Virginia",
 "note": "The response to the Langley incursions ran through NORAD and USNORTHCOM; NORAD commander Gen. Gregory Guillot addressed the incursions in testimony to the Senate Armed Services Committee on 14 March 2024 and again publicly in October 2024.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-05-18",
@@ -660,7 +794,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "includes"
 },
 {
 "claimTier": 2,
@@ -670,10 +805,14 @@
 "direction": "in",
 "edgeId": "e-e46d9ab69e",
 "edgeLabel": "site of the DoD unsupported-adjustment study",
+"family": "other",
 "id": "l-michigan-state",
 "l0": false,
 "label": "Michigan State University, East Lansing, Michigan",
 "note": "Economist Mark Skidmore conducted the aggregation of unsupported journal voucher adjustments in DoD and HUD financial statements for 1998-2015 at Michigan State University. The aggregate figure is an accounting-adjustment total, not spending, and the distinction is why this is tier 2 rather than tier 1.",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2017-09-01",
@@ -702,7 +841,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is connected to"
 },
 {
 "claimTier": 1,
@@ -712,10 +852,14 @@
 "direction": "in",
 "edgeId": "e-2d71d57b5b",
 "edgeLabel": "Obama-administration DoD appointee",
+"family": "role",
 "id": "marik-von-rennenkampff",
 "l0": false,
 "label": "Marik von Rennenkampff",
 "note": "His Sol Foundation biography states he 'served as appointee in the US Department of Defense during the Obama administration and later worked in the US State Department.'",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-01-01",
@@ -734,7 +878,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -744,10 +889,14 @@
 "direction": "in",
 "edgeId": "e-801ac9379f",
 "edgeLabel": "No agency-by-agency compliance accounting is published",
+"family": "denial",
 "id": "nara-uap-collection",
 "l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA publishes no list of which agencies have transferred UAP records, no counts and no transfer dates - only a statement that records will be added on a rolling basis as received.",
+"predicate": "omitted",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -761,7 +910,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -771,10 +921,14 @@
 "direction": "in",
 "edgeId": "e-53b71680b9",
 "edgeLabel": "Secretary of Defense",
+"family": "role",
 "id": "neil-h-mcelroy",
 "l0": false,
 "label": "Neil H. McElroy",
 "note": "The ARPA history records him sworn in on 9 October 1957, five days after Sputnik, and describes him taking a personal hand in the agency's creation.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1975-12-01",
@@ -783,7 +937,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -793,10 +948,14 @@
 "direction": "in",
 "edgeId": "e-fa108b6c9c",
 "edgeLabel": "Four-agency joint statement of 17 December 2024",
+"family": "denial",
 "id": "nj-drone-incursions-2024",
 "l0": false,
 "label": "New Jersey and East Coast Drone Wave (Nov-Dec 2024)",
 "note": "DoD, DHS, FBI and FAA: 'We have not identified anything anomalous, and do not assess the activity to date to present a national security or public safety risk.' The same statement conceded limited sightings over restricted military airspace, contradicting earlier White House denials.",
+"predicate": "denied",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-12-17",
@@ -805,7 +964,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "denied"
 },
 {
 "claimTier": 1,
@@ -815,10 +975,14 @@
 "direction": "in",
 "edgeId": "e-687c1e776b",
 "edgeLabel": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
+"family": "oversight",
 "id": "operation-northwoods",
 "l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "note": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1962-03-13",
@@ -827,7 +991,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "receives reports from"
 },
 {
 "claimTier": 1,
@@ -837,10 +1002,14 @@
 "direction": "out",
 "edgeId": "e-26bf8f15af",
 "edgeLabel": "10 U.S.C. 119 annual SAP report to the four defense committees",
+"family": "oversight",
 "id": "oversight-congress",
 "l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "The Secretary of Defense must report annually by 1 March on every special access program, notify newly designated SAPs by 1 February, and give 30 days notice before initiating a new SAP.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-01",
@@ -849,7 +1018,8 @@
 }
 ],
 "tier": "B",
-"type": "legislative"
+"type": "legislative",
+"verb": "reports to"
 },
 {
 "claimTier": 1,
@@ -859,10 +1029,14 @@
 "direction": "in",
 "edgeId": "e-e1df8cc34e",
 "edgeLabel": "Issued under ASD(C3I) authority and binding on every DoD component",
+"family": "law",
 "id": "prp-nuclear-weapon",
 "l0": false,
 "label": "DoD Nuclear Weapon Personnel Reliability Program (DoD Directive 5210.42)",
 "note": "The directive is issued under the authority of the Assistant Secretary of Defense (C3I) and binds every DoD component.",
+"predicate": "governs",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1993-05-25",
@@ -871,7 +1045,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "is governed by"
 },
 {
 "claimTier": 2,
@@ -881,10 +1056,14 @@
 "direction": "in",
 "edgeId": "e-c34cbffa9d",
 "edgeLabel": "Release volume without release quality",
+"family": "organisation",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The Scientific Coalition for UAP Studies found Release #1 stripped 'critical metadata, such as time, date, location, range, altitude, speed,' recycled roughly 70 percent of the FBI files from the existing FOIA Vault, contained no material from DOE, DIA, NRO, NSA or CIA, and left a 1974-2015 gap.",
+"predicate": "ran",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-05-13",
@@ -893,7 +1072,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -903,10 +1083,14 @@
 "direction": "in",
 "edgeId": "e-818e510ead",
 "edgeLabel": "Run by the Department of War with ODNI support",
+"family": "organisation",
 "id": "pursue-releases",
 "l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Created by presidential directive of 19 February 2026; five releases published between 8 May and 7 August 2026.",
+"predicate": "ran",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -915,7 +1099,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "ran"
 },
 {
 "claimTier": 1,
@@ -925,10 +1110,14 @@
 "direction": "in",
 "edgeId": "e-11d10924b7",
 "edgeLabel": "24 June 2009 Reid SAP request refused by the Deputy Secretary",
+"family": "denial",
 "id": "reid-dia-meetings-2008-2009",
 "l0": false,
 "label": "Reid–DIA meetings on AAWSAP (Nov 2008, May 2009, Nov 2009)",
 "note": "'On 24 June 2009, Senator Reid sent a letter to then Deputy Secretary of Defense William Lynn III requesting that AAWSAP/AATIP be made a DoD Special Access Program. Deputy Secretary Lynn declined to do so based on the recommendation of then-Under Secretary of Defense for Intelligence, James R. Clapper, Jr., that such a designation was not justified.'",
+"predicate": "refused",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2009-01-02",
@@ -947,7 +1136,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 1,
@@ -957,10 +1147,14 @@
 "direction": "in",
 "edgeId": "e-c2aa522a6a",
 "edgeLabel": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
+"family": "organisation",
 "id": "saf-aaz",
 "l0": false,
 "label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "note": "SAF/AAZ is the Air Force Special Access Program Central Office. Under AFPD 16-7 it administers Air Force SAPs on behalf of the Secretary of the Air Force while release of SAP material outside the department requires DoD SAPCO approval, placing SAF/AAZ inside the OSD-level special access architecture.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-02-18",
@@ -979,7 +1173,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "includes"
 },
 {
 "claimTier": 1,
@@ -989,10 +1184,14 @@
 "direction": "in",
 "edgeId": "e-f2dc92bdf1",
 "edgeLabel": "opposite reporting posture: mandated versus stigmatised",
+"family": "analysis",
 "id": "setka-program",
 "l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "A January 1980 Directive of the Soviet General Staff obliged every serviceman to report any inexplicable phenomenon in writing and routed the results to a single analysis centre, putting the army 'into the on-duty regime of observation' for thirteen years. The contrast with the US chain of command over the same period, where reporting carried career risk and no service-wide collection mandate existed, is the comparison this node exists to make. The Soviet side of the comparison is documented by the programme's own coordinators; no institutional contact between the two is claimed.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2010-11-19",
@@ -1011,7 +1210,8 @@
 }
 ],
 "tier": "A",
-"type": "behavioral"
+"type": "behavioral",
+"verb": "parallels"
 },
 {
 "claimTier": 1,
@@ -1021,10 +1221,14 @@
 "direction": "out",
 "edgeId": "e-3313b072bf",
 "edgeLabel": "DoD identified the need for the standard in August 2016",
+"family": "place-time",
 "id": "sffas-56",
 "l0": false,
 "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
 "note": "The Statement records that the Department of Defense identified the need in August 2016, citing conflict between GAAP and classification obligations under Executive Order 13526. Attested by SFFAS 56's own basis for conclusions.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2018-10-04",
@@ -1033,7 +1237,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -1043,10 +1248,14 @@
 "direction": "in",
 "edgeId": "e-f754cfafd2",
 "edgeLabel": "Deputy Secretary of Defense",
+"family": "role",
 "id": "steve-feinberg",
 "l0": false,
 "label": "Stephen A. Feinberg",
 "note": "The Senate voted 59-40 on 14 March 2025 to confirm Stephen A. Feinberg as Deputy Secretary of Defense, the department's number-two official and the office that has historically signed the memoranda standing up DoD UAP bodies. No sourced UAP, AARO or PURSUE role for Feinberg personally was found.",
+"predicate": "held_post",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-10",
@@ -1070,7 +1279,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "had in a post"
 },
 {
 "claimTier": 1,
@@ -1080,10 +1290,14 @@
 "direction": "out",
 "edgeId": "e-44433b7e5b",
 "edgeLabel": "Denied members SCIF access to Grusch before the founding hearing",
+"family": "denial",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Burchett's opening statement: members 'were even denied access to a classified briefing in a SCIF prior to this hearing due to the amount of hoops that we had to jump through to grant temporary clearance to witness Grusch.'",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-07-26",
@@ -1092,7 +1306,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -1102,10 +1317,14 @@
 "direction": "in",
 "edgeId": "e-a86e9ebd7b",
 "edgeLabel": "Committee finding of non-cooperation by DoD and the IC",
+"family": "denial",
 "id": "us-house",
 "l0": true,
 "label": "United States House of Representatives",
 "note": "Chairwoman Luna: 'A major barrier to this Committee's inquiry into UAPs has been the lack of cooperation and transparency from the Department of Defense and the intelligence community.'",
+"predicate": "refused",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2025-09-09",
@@ -1114,7 +1333,8 @@
 }
 ],
 "tier": "B",
-"type": "denial"
+"type": "denial",
+"verb": "refused"
 },
 {
 "claimTier": 1,
@@ -1124,10 +1344,14 @@
 "direction": "in",
 "edgeId": "e-5bbffee70d",
 "edgeLabel": "Imposes the entire SAP reporting duty on the Secretary of Defense",
+"family": "law",
 "id": "usc-10-119",
 "l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Section 119 runs to 'the Secretary of Defense' alone; no subordinate official, program manager or contractor is an obligor under it.",
+"predicate": "mandated",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2026-08-12",
@@ -1136,7 +1360,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "is required by"
 },
 {
 "claimTier": 2,
@@ -1146,10 +1371,14 @@
 "direction": "in",
 "edgeId": "e-abc842e73c",
 "edgeLabel": "Federal records destroyed at the point of creation",
+"family": "denial",
 "id": "uss-reagan-2004",
 "l0": false,
 "label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
 "note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
+"predicate": "omitted",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2022-05-09",
@@ -1158,7 +1387,8 @@
 }
 ],
 "tier": "C",
-"type": "denial"
+"type": "denial",
+"verb": "linked through a denial to"
 },
 {
 "claimTier": 2,
@@ -1168,10 +1398,14 @@
 "direction": "in",
 "edgeId": "e-2763c6397d",
 "edgeLabel": "Vanderbilt UAP statistician invited to a Pentagon-sponsored expert meeting",
+"family": "conduct",
 "id": "vanderbilt-university",
 "l0": false,
 "label": "Vanderbilt University",
 "note": "Vanderbilt University Medical Center reports that Stephen Bruehl, PhD, professor of Anesthesiology, 'was invited to attend a Pentagon-sponsored meeting for discussions with UAP experts from the government and academia' in August 2025, as his cluster analysis of 216 well-documented UAP cases (1947-2016) neared publication in World Futures. The sponsoring office is not named in the source.",
+"predicate": "in_contact_with",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2025-10-20",
@@ -1195,7 +1429,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 1,
@@ -1205,10 +1440,14 @@
 "direction": "out",
 "edgeId": "e-919ea9c6a2",
 "edgeLabel": "Secretary of Defense is the notifying authority under 119(e)",
+"family": "oversight",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "The waiver decision under 119(e)(1) belongs to the Secretary of Defense personally and must be made case by case on a determination that inclusion would adversely affect the national security. The statute prescribes no review of that determination.",
+"predicate": "reports_to",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -1222,7 +1461,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "reports to"
 }
 ],
 "coords": null,

@@ -32,10 +32,14 @@
 "direction": "out",
 "edgeId": "e-9f7a8da114",
 "edgeLabel": "seat 6 of 12 - Ranking Member, Senate Appropriations Defense Subcommittee",
+"family": "role",
 "id": "waived-sap-notification-group",
 "l0": true,
 "label": "Waived SAP Notification Group",
 "note": "As ranking member of the Defense Subcommittee of Senate Appropriations he holds one of the twelve seats. 10 U.S.C. 119(g) names that subcommittee separately from the full Appropriations Committee, which is precisely why the count is twelve and not eight. The subcommittee's published jurisdiction includes the CIA, DIA and NSA.",
+"predicate": "member_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-22",
@@ -49,7 +53,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was a member of"
 }
 ],
 "date": "2025-01-03",
@@ -100,7 +105,7 @@
 "status": "active",
 "sub": "Ranking Member, Defense Subcommittee of the Senate Appropriations Committee (119th Congress, serving August 2026)",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 704 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 703 of 1138, score 24). 1 connections, 0 of them custody/funding/programmatic. Axes C2/A1/D3.",
 "timeline": [],
 "unexplainedResidual": null,
 "unverified": []

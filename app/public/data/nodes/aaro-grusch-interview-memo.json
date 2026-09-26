@@ -61,10 +61,14 @@
 "direction": "in",
 "edgeId": "e-28c40cd38e",
 "edgeLabel": "AARO's own record of nine interview attempts, June 2023 - January 2024",
+"family": "organisation",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Released under DoD FOIA case 24-F-0266. It documents both the refusals AARO cites and the fact that AARO worked through intermediaries and Senate staff for five months before making direct contact.",
+"predicate": "produced",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-08",
@@ -73,7 +77,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was produced by"
 },
 {
 "claimTier": 1,
@@ -83,10 +88,14 @@
 "direction": "in",
 "edgeId": "e-e75d281aae",
 "edgeLabel": "built a documentary record of its attempts to interview Grusch",
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The memorandum for record of 8 January 2024 logs eight approaches between June 2023 and November 2023 and a missed 14 November interview.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-01-08",
@@ -95,7 +104,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -105,10 +115,14 @@
 "direction": "in",
 "edgeId": "e-8b98192939",
 "edgeLabel": "SAPCO director's March 2023 memorandum cited as AARO's access authority",
+"family": "documents",
 "id": "david-abba",
 "l0": false,
 "label": "David W. Abba",
 "note": "Maj. Gen. David W. Abba, Director of the DoD Special Access Program Central Office, signed the memorandum AARO invoked in its invitations. SAPCO is the one office that could resolve the read-on denial and has never publicly addressed it.",
+"predicate": "cites",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-08",
@@ -117,7 +131,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 1,
@@ -127,10 +142,14 @@
 "direction": "out",
 "edgeId": "e-75aaf7ab77",
 "edgeLabel": "AARO concluded Grusch 'had no intention of providing AARO with information'",
+"family": "denial",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "The office's own file is the primary evidence for the Department's central procedural argument against its most consequential witness; it records no offer of an ICIG or congressional-counsel venue.",
+"predicate": "disputed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-01-08",
@@ -144,7 +163,8 @@
 }
 ],
 "tier": "A",
-"type": "denial"
+"type": "denial",
+"verb": "disputes"
 }
 ],
 "coords": null,

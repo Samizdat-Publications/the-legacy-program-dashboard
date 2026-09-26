@@ -143,10 +143,14 @@
 "direction": "out",
 "edgeId": "e-61daa5e97a",
 "edgeLabel": "the Senate committee text that would have closed the channel at the contractor end",
+"family": "analysis",
 "id": "d-funding",
 "l0": false,
 "label": "Funding Channels",
 "note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-22",
@@ -165,7 +169,8 @@
 }
 ],
 "tier": "A",
-"type": "funding"
+"type": "funding",
+"verb": "is an instance of"
 },
 {
 "claimTier": 2,
@@ -175,10 +180,14 @@
 "direction": "out",
 "edgeId": "e-d6879916dc",
 "edgeLabel": "a committee-reported provision that did not survive conference in the form reported",
+"family": "analysis",
 "id": "d-legislative",
 "l0": false,
 "label": "Legislative Process (proposed and pending)",
 "note": "The Senate Select Committee on Intelligence's UAP provision in the reported IAA FY2024 would have compelled contractor turn-in of UAP material within 180 days. The enacted counterpart in Division G of P.L. 118-31 differed substantially from the text approved by Senate committees and by the full Senate. Its home is the process domain because what is interesting about it is the gap between what was reported and what was enacted.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-06-22",
@@ -197,7 +206,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "is an instance of"
 },
 {
 "claimTier": 3,
@@ -207,10 +217,14 @@
 "direction": "in",
 "edgeId": "e-27ae127cee",
 "edgeLabel": "Warner's contractor turn-in targets the same private holders",
+"family": "other",
 "id": "david-grusch",
 "l0": false,
 "label": "David Charles Grusch",
 "note": "Sec. 1102 orders contractors to surrender a list of 'non-earth origin or exotic' material, the category Grusch alleged had been moved to industry.",
+"predicate": "connected_to",
+"predicateShown": false,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-07-27",
@@ -219,7 +233,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "is connected to"
 },
 {
 "claimTier": 2,
@@ -229,10 +244,14 @@
 "direction": "in",
 "edgeId": "e-80f287a066",
 "edgeLabel": "section node of this act (section number needs verification)",
+"family": "organisation",
 "id": "iaa-2024",
 "l0": false,
 "label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "note": "The board's section node is filed under this act, and the filing carries a caution that is now confirmed rather than merely flagged. Searching the enacted 2.8-million-character text finds 'non-earth origin' zero times and 'exotic' zero times: the contractor turn-in mandate did not survive conference. What did survive is Division A, Title XVIII, Subtitle C - secs. 1841 to 1843, the unidentified anomalous phenomena records collection at the National Archives. The turn-in language belongs to the Senate-passed text, and the node's '1102' section number is still not confirmed against either version. Tier 2 because the edge records a filing relationship whose section number remains unverified.",
+"predicate": "part_of",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -256,7 +275,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked organisationally to"
 },
 {
 "claimTier": 1,
@@ -266,10 +286,14 @@
 "direction": "out",
 "edgeId": "e-0457d16ad9",
 "edgeLabel": "Reduced in conference to a bare funding limitation",
+"family": "organisation",
 "id": "iaa-fy2024-7343",
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Subsections (b), (d), (e) and (g) of Sec. 1102 — the sense of Congress, the contractor turn-in, the immunity grant and the notice to Congress — have no enacted counterpart in Sec. 7343.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -283,7 +307,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "was succeeded by"
 },
 {
 "claimTier": 1,
@@ -293,10 +318,14 @@
 "direction": "in",
 "edgeId": "e-4353d869cf",
 "edgeLabel": "Dangling cross-reference dates the excision to conference",
+"family": "place-time",
 "id": "iaa-fy2024-7343",
 "l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Enacted Sec. 7343(c) refers to 'contracts covered by such instruction' with no antecedent; the DoDI 3204.01 citation it depended on was deleted with Sec. 1102(f)(1).",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2023-12-22",
@@ -310,7 +339,8 @@
 }
 ],
 "tier": "A",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -320,10 +350,14 @@
 "direction": "in",
 "edgeId": "e-5e8104b5f4",
 "edgeLabel": "Author of the IAA FY2024 contractor turn-in",
+"family": "documents",
 "id": "mark-warner",
 "l0": false,
 "label": "Mark R. Warner",
 "note": "Warner submitted S.Amdt. 666 on 13 July 2023, which became Division M of the engrossed bill containing Sec. 1102.",
+"predicate": "wrote",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -332,7 +366,8 @@
 }
 ],
 "tier": "C",
-"type": "legislative"
+"type": "legislative",
+"verb": "linked through a document to"
 },
 {
 "claimTier": 3,
@@ -342,10 +377,14 @@
 "direction": "in",
 "edgeId": "e-c03b8847a1",
 "edgeLabel": "Gag-order census feeds the contractor turn-in",
+"family": "place-time",
 "id": "ndaa-fy2023-sec-1673",
 "l0": false,
 "label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
 "note": "Sec. 1673(b)(3) requires agencies and contractors to deliver copies of all UAP nondisclosure orders to AARO; Sec. 1102(d) would have required the same parties to deliver the material itself.",
+"predicate": "led_to",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2022-12-23",
@@ -359,7 +398,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in place or time to"
 },
 {
 "claimTier": 1,
@@ -369,10 +409,14 @@
 "direction": "in",
 "edgeId": "e-ecf3737b13",
 "edgeLabel": "SSCI produced the contractor turn-in language",
+"family": "documents",
 "id": "senate-intelligence",
 "l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Sec. 1102 rode in the Intelligence Authorization Act for FY2024, Division M of the engrossed Senate bill.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2023-07-27",
@@ -381,7 +425,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -391,10 +436,14 @@
 "direction": "in",
 "edgeId": "e-05d6076932",
 "edgeLabel": "Two independent Senate routes at the same private holdings",
+"family": "analysis",
 "id": "uapda-sec-9010-eminent-domain",
 "l0": false,
 "label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Sec. 9010 takes the material by condemnation; Sec. 1102 compels its surrender by cutting off contract funding and granting immunity. Both passed the Senate on 27 July 2023; both were removed.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2023-07-27",
@@ -408,7 +457,8 @@
 }
 ],
 "tier": "A",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "parallels"
 }
 ],
 "coords": null,

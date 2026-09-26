@@ -143,10 +143,14 @@
 "direction": "in",
 "edgeId": "e-3836222ed5",
 "edgeLabel": "COMPARISON: publish the raw record and disclaim competence, versus publish the adjudicated case file",
+"family": "analysis",
 "id": "arquivo-nacional-ufo",
 "l0": true,
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "COMPARISON EDGE — no contact between the Arquivo Nacional and GEIPAN is claimed. Two different theories of state openness. GEIPAN is the investigating office itself publishing a searchable, four-tier-classified case database out of CNES; the Brazilian arrangement is the opposite shape — the military transfers scanned raw records into a civil archive and then says it has no specialists qualified to investigate or to offer an opinion. Brazil gives the citizen the primary document and no adjudication; France gives the citizen the adjudication. The board should not treat these as the same category of openness. Tier 2 because the comparison is analytic; the underlying facts on each side are separately sourced on the two nodes.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -170,7 +174,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -180,10 +185,14 @@
 "direction": "out",
 "edgeId": "e-2373a72f32",
 "edgeLabel": "French analysts worked the Chilean Navy FLIR case",
+"family": "role",
 "id": "cefaa",
 "l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "Photo and video analysts in France, including François Louange, were brought into CEFAA's investigation of the 11 November 2014 Chilean Navy infrared footage through GEIPAN. The two offices reached different conclusions - GEIPAN's analysts proposed a medium-haul aircraft venting, CEFAA rejected it - and both published. It is the clearest documented case of state UAP offices on two continents working the same tape.",
+"predicate": "worked_with",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -197,7 +206,8 @@
 }
 ],
 "tier": "A",
-"type": "investigative"
+"type": "investigative",
+"verb": "worked with"
 },
 {
 "claimTier": 1,
@@ -207,10 +217,14 @@
 "direction": "in",
 "edgeId": "e-1655a305b0",
 "edgeLabel": "GEIPAN is a unit of CNES at Toulouse",
+"family": "organisation",
 "id": "cnes",
 "l0": false,
 "label": "Centre National d'Études Spatiales (CNES)",
 "note": "The French office has been hosted inside the national space agency continuously since 1977, an arrangement Norlain called unique in the world.",
+"predicate": "part_of",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-31",
@@ -224,7 +238,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is part of"
 },
 {
 "claimTier": 1,
@@ -234,10 +249,14 @@
 "direction": "out",
 "edgeId": "e-49604e8ecd",
 "edgeLabel": "shared IHEDN lineage; SEPRA head contributed",
+"family": "documents",
 "id": "cometa",
 "l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1999-07-01",
@@ -246,7 +265,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "is cited by"
 },
 {
 "claimTier": 1,
@@ -256,10 +276,14 @@
 "direction": "out",
 "edgeId": "e-5626217b95",
 "edgeLabel": "the reference implementation of a civil state UAP office",
+"family": "analysis",
 "id": "intl-uap-office-model",
 "l0": false,
 "label": "The three-office model: GEIPAN, SEFAA, AARO",
 "note": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
+"predicate": "exemplifies",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-03-31",
@@ -273,7 +297,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "is an instance of"
 },
 {
 "claimTier": 1,
@@ -283,10 +308,14 @@
 "direction": "out",
 "edgeId": "e-fd1c239a20",
 "edgeLabel": "French national UAP office, CNES Toulouse",
+"family": "place-time",
 "id": "l-france",
 "l0": false,
 "label": "France",
 "note": "CNES describes GEIPAN as 'the French UAP research and information group created by CNES in 1977', based in Toulouse, overseen by COPEIPAN - a steering committee of gendarmerie, police, air and space force and academic representatives - with status 'In operation' and an indefinite lifetime.",
+"predicate": "located_at",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-25",
@@ -305,7 +334,8 @@
 }
 ],
 "tier": "C",
-"type": "geographic"
+"type": "geographic",
+"verb": "is located at"
 },
 {
 "claimTier": 2,
@@ -315,10 +345,14 @@
 "direction": "in",
 "edgeId": "e-a1e62ba125",
 "edgeLabel": "COMPARISON: the military-host model against the space-agency-host model",
+"family": "analysis",
 "id": "peru-uap-office",
 "l0": false,
 "label": "Peruvian Air Force anomalous aerial phenomena office (OIFAA / DIFAA)",
 "note": "COMPARISON EDGE — no contact is claimed and none was found. DIFAA is hosted by an air force; GEIPAN is hosted by a civil space agency and publishes its case database. The pairing exists on this board to keep the national-office row honest: 'a country has an office' is not one fact but at least three different institutional arrangements, and Peru is the least documented of them. This pass did not locate DIFAA's founding legal instrument, its current reporting line, its case output, or any evidence that it publishes findings.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": null,
@@ -342,7 +376,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "parallels"
 },
 {
 "claimTier": 2,
@@ -352,10 +387,14 @@
 "direction": "in",
 "edgeId": "e-dd7bf56fd3",
 "edgeLabel": "renamed GEIPAN in 2005",
+"family": "organisation",
 "id": "sepra",
 "l0": false,
 "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "note": "Jacques Patenet succeeded Velasco under the GEIPAN name.",
+"predicate": "succeeded",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-01-01",
@@ -364,7 +403,8 @@
 }
 ],
 "tier": "C",
-"type": "temporal"
+"type": "temporal",
+"verb": "succeeded"
 },
 {
 "claimTier": 1,
@@ -374,10 +414,14 @@
 "direction": "in",
 "edgeId": "e-59e4315663",
 "edgeLabel": "identifies GEIPAN as a model and recommends partnership",
+"family": "documents",
 "id": "sky-canada-project",
 "l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
+"predicate": "cites",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2025-06-01",
@@ -391,7 +435,8 @@
 }
 ],
 "tier": "B",
-"type": "research"
+"type": "research",
+"verb": "is cited by"
 },
 {
 "claimTier": 3,
@@ -401,10 +446,14 @@
 "direction": "in",
 "edgeId": "e-bdea8f554a",
 "edgeLabel": "the two opposite answers to the same problem",
+"family": "analysis",
 "id": "uk-mod-ufo-desk",
 "l0": false,
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "France put the file in a civil science agency with a public archive and it is still running; Britain kept it in a defence secretariat with no project name and closed it. Reasoning: contrasting institutional siting and survival of the two arrangements over the same period.",
+"predicate": "parallels",
+"predicateShown": true,
+"predicateSide": "either",
 "sources": [
 {
 "date": "2026-03-31",
@@ -418,7 +467,8 @@
 }
 ],
 "tier": "C",
-"type": "research"
+"type": "research",
+"verb": "parallels"
 }
 ],
 "coords": null,

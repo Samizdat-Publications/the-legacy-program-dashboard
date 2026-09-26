@@ -56,10 +56,14 @@
 "direction": "out",
 "edgeId": "e-e17e072da8",
 "edgeLabel": "Sole claimed eyewitness to the three craft",
+"family": "testimony",
 "id": "arv-fluxliner",
 "l0": true,
 "label": "Alien Reproduction Vehicle (ARV) / Flux Liner",
 "note": "Every substantive claim about the craft traces to him and to nobody else. His own 1990 words limit it: the sizes are 'Just a guess; don't hold me to that', and of the manned vehicle in McCandlish's drawing, 'this is probably the farthest from what I saw'.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-12-11",
@@ -68,7 +72,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -78,10 +83,14 @@
 "direction": "in",
 "edgeId": "e-9b387571b2",
 "edgeLabel": "Painted the craft from Sorensen's verbal description; he was not at the air show",
+"family": "testimony",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "The 1990 primary document states the direction of the relay: 'Brad is the source of artwork done by Mark McCandlish and featured in AVWK's Oct. 1 issue. Mark had painted the two aircraft from verbal descriptions provided by Brad'. The same document records Sorensen disowning part of what McCandlish drew.",
+"predicate": "told",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-12-11",
@@ -90,7 +99,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "passed an account to"
 },
 {
 "claimTier": 2,
@@ -100,10 +110,14 @@
 "direction": "out",
 "edgeId": "e-26afe98e1d",
 "edgeLabel": "Sole claimed eyewitness to the alleged hangar exhibit",
+"family": "testimony",
 "id": "norton-afb-airshow-1988",
 "l0": false,
 "label": "Norton AFB air show, 12 November 1988, and the alleged classified exhibit",
 "note": "He is the only person who claims to have been inside. The 1990 notes place his account only 'in early Nov. 88'; the exact date comes from McCandlish in 2001.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-12-11",
@@ -112,7 +126,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 },
 {
 "claimTier": 1,
@@ -122,10 +137,14 @@
 "direction": "out",
 "edgeId": "e-431b838916",
 "edgeLabel": "Interviewee; the notes are his account in his own words",
+"family": "testimony",
 "id": "scott-sorensen-notes-1990",
 "l0": false,
 "label": "William B. Scott's interview notes on 'Brad', 3 December 1990",
 "note": "The document's own header: 'NOTES FROM INTERVIEW ON 12-3-90 WITH BRAD', 'COMPILED 12-11-90; SCOTT/AVWK LANCASTER'. He gave one paid hour in his Pasadena office and had refused an approach the previous summer.",
+"predicate": "witnessed",
+"predicateShown": true,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "1990-12-11",
@@ -134,7 +153,8 @@
 }
 ],
 "tier": "B",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "gave a first-hand account of"
 }
 ],
 "date": "1990-12-03",

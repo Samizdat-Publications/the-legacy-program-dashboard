@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-4bebe2311f",
 "edgeLabel": "Claims assignment to 6515 TSS, AFFTC, Edwards AFB on the F-15 R&D and FOT&E programme",
+"family": "testimony",
 "id": "edgar-fouche",
 "l0": false,
 "label": "Edgar Fouche",
 "note": "His own statement in the caption layer: 'When I arrived at Edwards AFB - 6515 TSS - AFFTC, I was assigned to the F-15 R&D and FOT&E Program.' No form in the collection carries an Edwards assignment, and Andrew Johnson's account of the FOIA return does not list one. Tier 2 on his word.",
+"predicate": "witnessed",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2014-06-15",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "B",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through testimony to"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "out",
 "edgeId": "e-2f40ed25b5",
 "edgeLabel": "Edwards defines the acknowledged-testing boundary that Groom Lake was built to escape",
+"family": "analysis",
 "id": "l-groom-lake",
 "l0": false,
 "label": "Groom Lake, Nevada",
 "note": "Groom Lake exists because the U-2 could not be tested at Edwards. The pair therefore mark the boundary between the acknowledged and unacknowledged US flight test enterprise.",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2026-08-12",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -84,10 +94,14 @@
 "direction": "in",
 "edgeId": "e-9d7c7566a5",
 "edgeLabel": "Relays a second-hand 1973 Edwards North Base allegation",
+"family": "testimony",
 "id": "mark-mccandlish",
 "l0": false,
 "label": "Mark McCandlish",
 "note": "His 2001 testimony relays an account attributed to a man he says he met in 1992 at an Edwards air show, who is said to have seen a hovering craft at Edwards North Base in 1973. THE EDGE CARRIES AN ALLEGATION RELAYED AT ONE REMOVE. No Edwards record was opened, and the existence of the man he names is recorded as unverified on disclosure-project-briefing-2001 rather than as a claim.",
+"predicate": "made_claims_about",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2001-04",
@@ -96,7 +110,8 @@
 }
 ],
 "tier": "A",
-"type": "witness-chain"
+"type": "witness-chain",
+"verb": "is the subject of claims by"
 }
 ],
 "coords": [
@@ -141,7 +156,7 @@
 ],
 "sub": "470 sq mi USAF flight test centre on Rogers Dry Lake, Kern County; AFTC, USAF Test Pilot School, NASA Armstrong",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 902 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
+"tierRationale": "Re-graded C on a global pass (rank 899 of 1138, score 18). 3 connections, 0 of them custody/funding/programmatic. Axes C1/A2/D0.",
 "timeline": [],
 "unverified": []
 }

@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-67870031ea",
 "edgeLabel": "A dedicated documentary package for a rejected programme",
+"family": "documents",
 "id": "aaro",
 "l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO assembled and published a full KONA BLUE release while publishing no comparable package for the IC controlled access programme Volume I concedes was expanded in 2021 to a UAP reverse-engineering mission.",
+"predicate": "published",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-06-01",
@@ -52,7 +56,8 @@
 }
 ],
 "tier": "A",
-"type": "institutional"
+"type": "institutional",
+"verb": "was published by"
 },
 {
 "claimTier": 1,
@@ -62,10 +67,14 @@
 "direction": "in",
 "edgeId": "e-9093040a76",
 "edgeLabel": "DHS co-authored the 2024 declassified KONA BLUE history",
+"family": "documents",
 "id": "dhs",
 "l0": false,
 "label": "United States Department of Homeland Security",
 "note": "The paper 'History and Origin of KONA BLUE' is published on AARO's UAP Records page as a joint AARO/DHS product.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-06-01",
@@ -74,7 +83,8 @@
 }
 ],
 "tier": "A",
-"type": "custody"
+"type": "custody",
+"verb": "was written by"
 }
 ],
 "coords": null,
@@ -137,7 +147,7 @@
 ],
 "sub": "AARO UAP Records research release on the never-approved DHS SAP",
 "tier": "B",
-"tierRationale": "Re-graded B on a global pass (rank 552 of 1138, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
+"tierRationale": "Re-graded B on a global pass (rank 551 of 1138, score 29). 2 connections, 1 of them custody/funding/programmatic. Axes C1/A3/D2.",
 "timeline": [],
 "unverified": []
 }

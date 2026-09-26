@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-8d3b7ed08b",
 "edgeLabel": "Led the March 2024 call for a select committee focused on expenditures",
+"family": "conduct",
 "id": "eric-burlison",
 "l0": false,
 "label": "Eric Burlison",
 "note": "Burlison said he had the support of Comer, Burchett and Moskowitz but had not raised it with Speaker Johnson.",
+"predicate": "supported",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-12",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "was supported by"
 },
 {
 "claimTier": 2,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-dc7b31d087",
 "edgeLabel": "Reported to support the proposed select committee; never created one",
+"family": "conduct",
 "id": "james-comer",
 "l0": false,
 "label": "James Comer Jr.",
 "note": "Burlison named Comer's support publicly on 12 March 2024.",
+"predicate": "supported",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-12",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "linked through conduct to"
 },
 {
 "claimTier": 3,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-683323e5df",
 "edgeLabel": "A select committee is the instrument that would route around the read-in gate",
+"family": "analysis",
 "id": "sap-readin-gate",
 "l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "Reasoning: a select committee carries its own clearance posture and subpoena authority and is not subject to another committee's read-in approval. Burlison's stated rationale was that DoD 'weren't transparent to us in a SCIF setting.'",
+"predicate": "affects",
+"predicateShown": false,
+"predicateSide": "subject",
 "sources": [
 {
 "date": "2024-03-12",
@@ -96,7 +110,8 @@
 }
 ],
 "tier": "B",
-"type": "programmatic"
+"type": "programmatic",
+"verb": "linked in the board's reading to"
 },
 {
 "claimTier": 2,
@@ -106,10 +121,14 @@
 "direction": "in",
 "edgeId": "e-5e8fb8dce7",
 "edgeLabel": "Led the earlier select committee effort under Speaker McCarthy",
+"family": "role",
 "id": "tim-burchett",
 "l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "The effort was lost when McCarthy lost the speakership.",
+"predicate": "led",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "2024-03-12",
@@ -118,7 +137,8 @@
 }
 ],
 "tier": "A",
-"type": "legislative"
+"type": "legislative",
+"verb": "was led by"
 }
 ],
 "coords": null,
@@ -155,7 +175,7 @@
 ],
 "sub": "Burchett 2023; Burlison 12 Mar 2024; never created",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 770 of 1138, score 22). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
+"tierRationale": "Re-graded C on a global pass (rank 768 of 1138, score 22). 4 connections, 1 of them custody/funding/programmatic. Axes C0/A1/D3.",
 "timeline": [
 {
 "claimTier": null,

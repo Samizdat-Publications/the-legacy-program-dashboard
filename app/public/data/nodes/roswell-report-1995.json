@@ -35,10 +35,14 @@
 "direction": "in",
 "edgeId": "e-bec78d693e",
 "edgeLabel": "Wrote Attachment 32, the Project Mogul synopsis",
+"family": "documents",
 "id": "james-mcandrew",
 "l0": false,
 "label": "Capt. James McAndrew",
 "note": "The DTIC abstract identifies Attachment 32 as McAndrew's synopsis describing Project Mogul as the explanation for the Roswell Incident.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-01-01",
@@ -47,7 +51,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -57,10 +62,14 @@
 "direction": "in",
 "edgeId": "e-8b2eb4ee63",
 "edgeLabel": "Authored the Air Force's report to the Secretary and GAO",
+"family": "documents",
 "id": "richard-weaver-usaf",
 "l0": false,
 "label": "Col. Richard L. Weaver",
 "note": "Written by Col. Weaver, Director of Security and Special Program Oversight, Office of the Secretary of the Air Force, with 1st Lt. James McAndrew.",
+"predicate": "wrote",
+"predicateShown": true,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1995-01-01",
@@ -69,7 +78,8 @@
 }
 ],
 "tier": "C",
-"type": "institutional"
+"type": "institutional",
+"verb": "was written by"
 },
 {
 "claimTier": 1,
@@ -79,10 +89,14 @@
 "direction": "in",
 "edgeId": "e-8beec30846",
 "edgeLabel": "The 1997 report completes what the 1994-1995 report left open",
+"family": "organisation",
 "id": "roswell-report-case-closed",
 "l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "The 1994 report addressed the debris and did not address the bodies claims; the 1997 report was produced to close that gap.",
+"predicate": "succeeded",
+"predicateShown": false,
+"predicateSide": "object",
 "sources": [
 {
 "date": "1997-01-01",
@@ -91,7 +105,8 @@
 }
 ],
 "tier": "B",
-"type": "temporal"
+"type": "temporal",
+"verb": "linked organisationally to"
 }
 ],
 "coords": null,
@@ -138,7 +153,7 @@
 ],
 "sub": "Office of the Secretary of the Air Force report to GAO; GPO, 1995",
 "tier": "C",
-"tierRationale": "Re-graded C on a global pass (rank 749 of 1138, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
+"tierRationale": "Re-graded C on a global pass (rank 748 of 1138, score 23). 3 connections, 0 of them custody/funding/programmatic. Axes C0/A3/D1.",
 "timeline": [
 {
 "claimTier": null,
