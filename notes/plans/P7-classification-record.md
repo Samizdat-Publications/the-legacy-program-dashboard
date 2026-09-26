@@ -149,3 +149,35 @@ in `merge.py` and the audit); `tools/predicates/` (packets, table, validator, sa
 `build_app_data.py` joins it onto `edges.json` (`predicate`, `subject`) and every connection
 (`predicate`, `family`, `verb`, `predicateSide`). An orphaned key or an unknown predicate stops the
 build. The working files (batches, answers, briefs, statistics) stayed in `.scratch/`, uncommitted.
+
+## Task 5 and the blind critic (26 September 2026)
+
+The node page, the phone neighbourhood and the report group connections by family, then by predicate;
+each row reads from this node, with a direction arrow only where the predicate is shown. The ring and
+the phone list filter by family (one select, so the ring's strip keeps its height). C22 restates the
+fourteen families and their order and reads every drawn arrow against `edges.json`'s own `subject`;
+its poison turns one arrow round and two assertions fail. App checks on 4179: 146 pass, C29 fails off
+4173 by design.
+
+Three critic rounds (`notes/critic/p7-round-1.md` to `-3.md`). The critic named the connections column
+the best thing on the site in rounds 1 and 3.
+
+| Round | In-scope finding | Done |
+|---|---|---|
+| 1 | most ring spokes carried a bare tier; the 1366 strip clipped mid-word after the family select arrived (a defect this phase introduced) | every hop-1 name carries a reason; the strip drops the bit its own button shows |
+| 2 | a bare family word misleads on the ring (a newspaper as "testimony") | the ring reads each link from the neighbour ("Susan Gough denied", "Eric Burlison appointed") where the predicate is shown; family phrases now read into the name ("linked by a role to Garry Nolan") |
+| 3 | where the predicate is not shown, the ring still names a category ("place or time link T3", "board inference link T1") | not fixed: this is the display rule working as decided (31% of edges show only their family). The authored sentence is on the node page and the phone list for every link; putting it in the ring's hover title is a small follow-up |
+
+Recorded for other phases, not in phase 7's scope:
+
+- testimony and office statements carry T1 with a "said on the record" chip, against the home page's
+  tier definitions (all three rounds; a tier-presentation decision for Stewart);
+- the case against sits in its own column, not beside the claim it answers; one "not verified" card is
+  a sourcing to-do that mentions Wikipedia (node page);
+- the 1366 map draws no links and shows unnamed "+N" chips (phase 11);
+- the timeline axis ends on an amber 2029, labels carry no dates on desktop, and same-day duplicate
+  events (TTSA formed/launches, NYT AATIP) (timeline phase and phase R);
+- duplicate edges with one sentence at two tiers (Grusch to UAPTF, `held_post` T2 and `member_of` T1):
+  a phase R dedupe;
+- patent drawing captions off by one; two UAPDA definition claims padding Grusch's Tier 1 count; the
+  hop-2 margin names with no "via whom".
