@@ -2,7 +2,6 @@
 "A": 3,
 "C": 3,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-76c0c38e02",
@@ -63,7 +62,6 @@
 "edgeLabel": "claims a data warehouse of 100+ reports beyond the 38 DIRDs",
 "family": "testimony",
 "id": "aawsap",
-"l0": true,
 "label": "Advanced Aerospace Weapon System Applications Program (AAWSAP)",
 "note": "If accurate, the released deliverable set is a small fraction of what the appropriation produced, and the rest has no public custody trail.",
 "predicate": "made_claims_about",
@@ -90,7 +88,6 @@
 "edgeLabel": "releasing AAWSAP material through trade publication",
 "family": "documents",
 "id": "james-lacatski",
-"l0": false,
 "label": "James T. Lacatski",
 "note": "Three volumes 2023-2026, each DOPSR-cleared; Lacatski says he doubts the underlying files will ever be released and treats the books as the substitute.",
 "predicate": "published",
@@ -124,10 +121,8 @@
 },
 "hl": null,
 "id": "lacatski-book-series",
-"l0": false,
 "label": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Inside the U.S. Government Covert UFO Program (Lacatski, 2023-2026)",
 "sourceFiles": [

@@ -4,7 +4,6 @@
 "D": 2,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -64,7 +63,6 @@
 "edgeLabel": "authored by",
 "family": "documents",
 "id": "dird-positron-aerospace-propulsion",
-"l0": false,
 "label": "Positron Aerospace Propulsion",
 "note": "The DIA congressional list credits 'Positron Aerospace Propulsion' to 'Dr Gerald Smith, Positronics Research'. Smith is a Yale physics Ph.D., former Penn State physics department head, and developer of the Mark I portable antiproton trap for NASA JPL and the High Performance Antimatter Trap for NASA Marshall; the DIRD subject matter tracks his own NASA Institute for Advanced Concepts study on positron-propelled vehicles.",
 "predicate": "wrote",
@@ -123,11 +121,9 @@
 "hl": null,
 "id": "gerald-smith",
 "instId": null,
-"l0": false,
 "label": "Gerald A. Smith",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Gerald A. Smith is an experimental high-energy physicist with an unusually deep institutional pedigree who ended his career building antimatter storage hardware for NASA and then selling antimatter propulsion concepts through a small New Mexico company. He is credited on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee as author of 'Positron Aerospace Propulsion', affiliation Positronics Research.\n\nHis background: B.A. in physics from Miami University (Ohio) in 1957, M.S. (1958) and Ph.D. (1961) in physics from Yale, a second-generation graduate student of Enrico Fermi, and post-doctoral years from 1961 to 1966 as an assistant professor under Luis Alvarez at Berkeley. He built a high-energy physics programme at Michigan State from 1968, served as Associate Laboratory Director for High Energy Physics at Argonne in 1978, and in 1983 became Director of the Laboratory for Elementary Particle Science and Physics Department Head at Penn State. He was spokesperson for international collaborations at Brookhaven, CERN, Fermilab and SLAC, has more than 300 refereed publications, and is a Fellow of the American Physical Society. At Penn State he oversaw the ICAN-II and AIMStar antimatter-catalysed designs and the development of two antiproton traps: the Mark I portable trap for JPL and the High Performance Antimatter Trap (HiPAT) for NASA Marshall. He became Professor Emeritus in 2000 and founded Positronics Research LLC in 2001.\n\nHis DIRD is therefore a case where AAWSAP bought a survey from a genuine domain authority, and it aligns with work he was already doing publicly: his positron-propelled vehicle concept was a NASA Institute for Advanced Concepts Phase I study and was written up by NASA in 2006. The AAWSAP deliverable carries DIA document number DIA-08-1003-002, published 2 March 2010 with an ICOD of 1 December 2009, in the 'Acquisition Threat Support' series. It is one of the DIRDs released by DIA in redacted form; the author line on the released cover page is blanked.",
 "photoCredit": null,
 "sequenceChain": [],

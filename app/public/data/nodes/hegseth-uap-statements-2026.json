@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-ff2ad25955",
@@ -75,7 +74,6 @@
 "edgeLabel": "characterises a social-media post as an executive order",
 "family": "testimony",
 "id": "trump-uap-release-directive-2026",
-"l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Hegseth's phrase 'that executive order' has no matching published instrument. Either the Secretary mischaracterised the post or an unpublished order exists; the board records the discrepancy rather than resolving it.",
 "predicate": "made_claims_about",
@@ -144,10 +142,8 @@
 },
 "hl": null,
 "id": "hegseth-uap-statements-2026",
-"l0": false,
 "label": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Hegseth's UAP disclosure statements, Louisville, 23 February 2026",
 "sourceFiles": [

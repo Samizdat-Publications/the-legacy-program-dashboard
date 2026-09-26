@@ -4,7 +4,6 @@
 "D": 1,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -86,7 +85,6 @@
 "edgeLabel": "author of record on the DIA list, both versions",
 "family": "documents",
 "id": "dird-state-of-the-art-and-evolution",
-"l0": false,
 "label": "State of the Art and Evolution of High-Energy Laser Weapons",
 "note": "The DIA letter lists this paper twice, items 37 and 38, both credited to J Albertine of Directed Technologies: one formerly classified SECRET//NOFORN, one unclassified. The board node is labelled with the initial because no source consulted confirms the given name; the probable identification with John R. Albertine of the Navy High Energy Laser Program Office is carried as a tier-3 claim on the person node.",
 "predicate": "wrote",
@@ -140,11 +138,9 @@
 "hl": null,
 "id": "john-albertine",
 "instId": null,
-"l0": false,
 "label": "J. Albertine",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "The DIA list names \"J Albertine, M.S., Directed Technologies\" as the author of the high-energy laser weapons DIRD, and it names him twice. Items 37 and 38 of the January 2018 attachment are the same paper in two versions, one unclassified and one formerly classified SECRET//NOFORN. That resolves what had been an open question in the public record: the thirty-eighth DIRD was not a missing exotic paper, it was the classified twin of the laser survey. Albertine is therefore the only author in the thirty-eight known to have produced a classified deliverable under AAWSAP, which is why his access score sits above the rest of the subject-matter author set.\n\nThe identification of \"J Albertine\" with John R. Albertine is a reasoned inference rather than a documented match and is recorded here as such. John R. Albertine holds a BS in physics from Rose Polytechnic Institute and a master's degree in applied physics from Johns Hopkins, which matches the \"M.S.\" the DIA list appends to the name. He was a senior staff physicist in the Space Division of the Johns Hopkins Applied Physics Laboratory, then from 1976 to 1997 worked in the US Navy's High Energy Laser Program Office directing Navy HEL programmes, retiring from civil service in 1997 and consulting thereafter for OSD, the Air Force, ONR, the Navy HEL programme office and Penn State in the directed-energy field. He guest-edited the high-energy laser systems and components special section of Optical Engineering in 2012. No public source consulted here links him by name to Directed Technologies or to AAWSAP, and that gap is recorded in unresolved[].\n\nThe unclassified version, DIA-08-1003-019, is dated 31 March 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It is the one straightforwardly operational weapons paper in the set, and it is the one the programme classified.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -6,7 +6,6 @@
 "RAND Corporation"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1968-11-01",
@@ -68,7 +67,6 @@
 "edgeLabel": "RAND was documenting the case for instrumented study as Condon was closing it down",
 "family": "place-time",
 "id": "condon-committee",
-"l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "DRU-1571 is dated November 1968; the Condon report recommending termination of Blue Book followed in January 1969.",
 "predicate": "concurrent_with",
@@ -95,7 +93,6 @@
 "edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
 "family": "conduct",
 "id": "rand-corporation",
-"l0": true,
 "label": "RAND Corporation",
 "note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
 "predicate": "supported",
@@ -132,11 +129,9 @@
 "hl": null,
 "id": "george-kocher",
 "instId": "rand-corporation",
-"l0": false,
 "label": "George Kocher",
 "loc": "Santa Monica, CA",
 "locId": "l-santa-monica",
-"members": null,
 "narrative": "Kocher wrote the document that proves RAND was studying UFOs seriously, in-house, at the exact moment the Air Force was using the Condon Committee to close the subject down. 'UFOs: What To Do?', issued as RAND draft DRU-1571 in November 1968, runs to roughly 48 pages and examines UFO brightness, size and manoeuvre characteristics before recommending a course of action. Its timing is the point: the Condon Committee's report, which recommended terminating Project Blue Book and declared further study unwarranted, was delivered in January 1969, two months later. RAND - the Air Force's own FFRDC, the institution MITRE was later modelled on - was internally documenting that the phenomenon merited instrumented study at the same moment the Air Force's contracted university study was concluding the opposite in public. RAND has never withdrawn the document; it remains on RAND's own website, and RAND's 2023 UAP mapping study cites it. The document is a standing rebuttal to the claim that no serious institution took the subject seriously before 2017.",
 "photoCredit": null,
 "sequenceChain": [],

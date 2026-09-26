@@ -7,7 +7,6 @@
 "cometa"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1999-07",
@@ -81,7 +80,6 @@
 "edgeLabel": "former CNES chairman; wrote the forward",
 "family": "role",
 "id": "cometa",
-"l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty states that without Norlain and Lebeau 'COMETA would not have been born'.",
 "predicate": "founded",
@@ -118,11 +116,9 @@
 "hl": null,
 "id": "andre-lebeau",
 "instId": "cnes",
-"l0": false,
 "label": "Professeur André Lebeau",
 "loc": "Paris, France",
 "locId": "l-paris",
-"members": null,
 "narrative": "André Lebeau, a former chairman of the Centre National d'Études Spatiales - the French national space agency, and therefore of the parent body of GEPAN, SEPRA and GEIPAN - wrote the opening forward to the COMETA report under the title 'Stripping the UFO phenomenon of its irrational layer'. Denis Letty states in his own foreword that without Lebeau and Norlain 'COMETA would not have been born'. Lebeau's contribution matters because it is the head of the agency that actually holds France's official UAP case file lending his name to the argument that the subject is a legitimate object of science, and his forward opens by conceding the professional cost: 'It is not looked on highly in certain scientific circles to be preoccupied with phenomena that are deemed to come under the heading of popular mythology', and drawing the analogy to stones falling from the sky - meteorites - which science rejected for centuries before accepting. That analogy is picked up in the report's own conclusion.",
 "photoCredit": null,
 "sequenceChain": [],

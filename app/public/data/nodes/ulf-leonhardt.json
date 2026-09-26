@@ -4,7 +4,6 @@
 "D": 3,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -78,7 +77,6 @@
 "edgeLabel": "authored by Ulf Leonhardt, University of St Andrews",
 "family": "documents",
 "id": "dird-invisibility-cloaking-theory-and-experiments",
-"l0": false,
 "label": "Invisibility Cloaking: Theory and Experiments",
 "note": "The DIA list of 9 January 2018 records 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' The released PDF's author block is redacted under (b)(6). Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by the ICOD of 1 December 2009, one of the small number of internationally recognised authorities in the field. George Knapp released a copy of the DIRD in February 2019.",
 "predicate": "wrote",
@@ -132,11 +130,9 @@
 "hl": null,
 "id": "ulf-leonhardt",
 "instId": null,
-"l0": false,
 "label": "Ulf Leonhardt",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Leonhardt wrote the lowest-numbered DIRD in the released set. The cover page of 'Invisibility Cloaking: Theory and Experiments' carries DIA-08-1003-001, publication date 2 March 2010 and an Intelligence Cut-Off Date of 1 December 2009 - the first document out of the FY2009 'Acquisition Threat Support' pipeline. Entry 7 on the DIA list to the Senate Armed Services Committee reads 'Invisibility Cloaking, Dr Ulf Leonhardt, Univ of St Andrews.' He is the one AAWSAP author whom even the programme's harshest mainstream critic treated as unimpeachable: The War Zone's January 2019 audit of the list, which characterised several of the deliverables as junk science, singled Leonhardt out as a case where the title 'may sound particularly fanciful' but the work 'is grounded in real science to do with quantum physics and the behavior of light.' Leonhardt had been publishing on transformation optics and cloaking since 2006 and was, by 2009, one of two or three names internationally associated with the field. His presence is evidence for the interpretation that AAWSAP's commissioning was not indiscriminate. It also positions the cloaking paper as the signature-reduction leg of the survey. Puthoff's Broad Area Announcement account lists the twelve threat areas DIA wanted evaluated as including 'lift, propulsion, signature reduction, human effects and so on', and named invisibility cloaking explicitly among the papers he commissioned. The DIRD is therefore the direct answer to the signature-reduction question: if an object is observed on some sensors and not others, what does the physics of cloaking say about how that could be engineered, and where would it be by 2050. Knapp released a copy in February 2019, making it the fourth DIRD to reach the public before the March 2022 bulk FOIA release.",
 "photoCredit": null,
 "sequenceChain": [],

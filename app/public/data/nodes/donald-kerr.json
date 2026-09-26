@@ -10,7 +10,6 @@
 "MITRE Board of Trustees (Chairman from 2018)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1979-01-01",
@@ -119,7 +118,6 @@
 "edgeLabel": "Directed Los Alamos before the NRO and ODNI",
 "family": "role",
 "id": "lanl",
-"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "The same individual later chaired MITRE's board - a single career spanning the contractor-operated weapons laboratory, national overhead reconnaissance, and the FFRDC now under records demand.",
 "predicate": "led",
@@ -146,7 +144,6 @@
 "edgeLabel": "Chairman of MITRE's Board of Trustees from November 2018",
 "family": "role",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
 "predicate": "led",
@@ -184,11 +181,9 @@
 "hl": null,
 "id": "donald-kerr",
 "instId": "mitre-corporation",
-"l0": false,
 "label": "Donald M. Kerr",
 "loc": "McLean, VA",
 "locId": "l-mclean",
-"members": null,
 "narrative": "Kerr's career is the FFRDC-to-black-space pipeline in a single resume, and it runs straight through two of the locations this board cares about most. He directed Los Alamos National Laboratory - the contractor-operated DOE laboratory where the February 1949 green fireballs conference was convened and whose National Security Research Center still holds those minutes. He then served as Director of the National Reconnaissance Office, the agency that owns the overhead collection architecture through which any persistent anomalous object would be detected and, if desired, buried. He then became Principal Deputy Director of National Intelligence from 2007 to 2009. In November 2018 MITRE's Board of Trustees elected him its chairman. He was previously an FBI assistant director for the laboratory division and a senior executive at SAIC. Every rung of that ladder is an institution named in the legacy-programme allegations: LANL, NRO, ODNI, SAIC, MITRE. Kerr has never publicly said anything about UAP. The point is not that he has; the point is that when Congress finally addresses a records demand to MITRE, the board culture it is addressing was shaped by a man who ran the NRO.",
 "photoCredit": null,
 "sequenceChain": [],

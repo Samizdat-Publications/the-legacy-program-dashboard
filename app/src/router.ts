@@ -2,13 +2,13 @@
  *
  *   #/                          home
  *   #/n/<id>                    node page
- *   #/n/<id>/map                map centred on <id>
  *   #/n/<id>/hood               neighbourhood of <id>     (alias #/hood/<id>)
  *   #/hood                      neighbourhood, nothing selected
- *   #/map                       map at fit
- *   #/map?cell=<band>.<era>     map with that cell expanded
  *   #/t/<id>                    thread
- *   #/t/<id>/map                map with the thread's steps highlighted
+ *   #/map  #/n/<id>/map  #/t/<id>/map
+ *                               the program map, retired in redesign phase 11:
+ *                               #/map goes to #/atlas, the other two to the node
+ *                               or thread they named, so an old link still lands
  *   #/timeline                  ?era=<era>  ?scope=n:<id>|t:<id>
  *   #/patents/<number>          ?sheet=<k>
  *   #/evidence                  ?tier=&cls=&cluster=&domain=&denied=1&open=1

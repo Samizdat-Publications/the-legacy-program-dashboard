@@ -46,8 +46,9 @@
  * Every id in the itinerary is read from the data the preview is serving
  * (`app/public/data/`) at run time: the node is the highest-degree node in
  * index.json, the thread is the first in threads.json, the patent is the first
- * in patents.json, the map cell is the fullest cell in map.json and the era is
- * the era with the most events in timeline.json. Nothing is written down here.
+ * in patents.json and the era is the era with the most events in
+ * timeline.json. Nothing is written down here. (The map cell, the fullest cell
+ * in map.json, went with the L0 map in phase 11: map.json is no longer written.)
  *
  * Run it:
  *   cd app && npm run build && npx vite preview --host 127.0.0.1 --port 4173
@@ -74,27 +75,24 @@ async function jget(p) {
 
 /* The itinerary's ids, from the data the preview is serving. */
 async function realIds() {
-  const [index, threadsFile, patentsFile, mapData, events] = await Promise.all([
+  const [index, threadsFile, patentsFile, events] = await Promise.all([
     jget('data/index.json'), jget('data/threads.json'), jget('data/patents.json'),
-    jget('data/map.json'), jget('data/timeline.json'),
+    jget('data/timeline.json'),
   ]);
   const nodes = index.nodes.slice().sort((a, b) => (b.deg || 0) - (a.deg || 0));
   const threads = threadsFile.threads || threadsFile;
   const patents = patentsFile.patents || [];
-  const cellKeys = Object.keys(mapData.cells || {})
-    .sort((a, b) => (mapData.cells[b] || []).length - (mapData.cells[a] || []).length);
   const eraCount = {};
   for (const e of events) eraCount[e.era] = (eraCount[e.era] || 0) + 1;
   const era = Object.keys(eraCount).sort((a, b) => eraCount[b] - eraCount[a])[0];
-  if (!nodes.length || !threads.length || !patents.length || !cellKeys.length || !era) {
-    throw new Error('the served data has no nodes, threads, patents, cells or eras to point at');
+  if (!nodes.length || !threads.length || !patents.length || !era) {
+    throw new Error('the served data has no nodes, threads, patents or eras to point at');
   }
   return {
     node: nodes[0].id, nodeDeg: nodes[0].deg || 0,
     thread: threads[0].id,
     patent: String(patents[0].number).replace(/[^0-9]/g, ''),
     patentLabel: String(patents[0].number),
-    cell: cellKeys[0], cellCount: (mapData.cells[cellKeys[0]] || []).length,
     era, eraCount: eraCount[era],
   };
 }
@@ -122,7 +120,6 @@ function itinerary(ids) {
     { id: 'node-hood',    label: 'its neighbourhood',          hash: '#/n/' + ids.node + '/hood' },
     { id: 'hood',         label: 'the neighbourhood, nothing selected', hash: '#/hood' },
     { id: 'map',          label: 'the map at fit',             hash: '#/map' },
-    { id: 'map-cell',     label: 'the map with a cell open',   hash: '#/map?cell=' + ids.cell },
     { id: 'thread',       label: 'a thread',                   hash: '#/t/' + ids.thread },
     { id: 'thread-map',   label: 'that thread on the map',     hash: '#/t/' + ids.thread + '/map' },
     { id: 'timeline-era', label: 'the timeline with an era open', hash: '#/timeline?era=' + ids.era },
@@ -384,7 +381,7 @@ const INSPECT = (inventory) => {
   md += `query-string states that change what a route draws.\n\n`;
   md += `Ids, all read from the data the preview is serving: node \`${ids.node}\` `;
   md += `(degree ${ids.nodeDeg}, the highest on the board), thread \`${ids.thread}\`, `;
-  md += `patent \`${ids.patentLabel}\`, map cell \`${ids.cell}\` (${ids.cellCount} nodes), `;
+  md += `patent \`${ids.patentLabel}\`, `;
   md += `era \`${ids.era}\` (${ids.eraCount} events).\n\n`;
   md += `**This file asserts nothing.** Every row is a lead for somebody to look at, not\n`;
   md += `a verdict. An overlap may be a deliberate stack; a clipped element may be a label\n`;

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-d442e74e30",
@@ -57,7 +56,6 @@
 "edgeLabel": "Targets video records the Task Force was told AARO holds",
 "family": "oversight",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The Department did not produce by the deadline.",
 "predicate": "requested",
@@ -84,7 +82,6 @@
 "edgeLabel": "Author of the 1 April 2026 demand for AARO's unreleased UAP video files",
 "family": "documents",
 "id": "anna-paulina-luna",
-"l0": false,
 "label": "Anna Paulina Luna",
 "note": "Predicated on whistleblower information given to the Task Force that AARO holds additional video records.",
 "predicate": "wrote",
@@ -118,10 +115,8 @@
 },
 "hl": null,
 "id": "luna-hegseth-video-letter-2026",
-"l0": false,
 "label": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Chairwoman Luna letter to Secretary Hegseth demanding AARO UAP video files, 1 April 2026",
 "sourceFiles": [

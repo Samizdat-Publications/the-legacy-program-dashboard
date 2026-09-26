@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-6d8d2ec5bb",
@@ -61,7 +60,6 @@
 "edgeLabel": "Sandia investigation is the evidentiary bridge for AEC custody",
 "family": "documents",
 "id": "manhattan-project-2",
-"l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
 "predicate": "concerns",
@@ -95,10 +93,8 @@
 },
 "hl": null,
 "id": "gerb-sandia-investigation",
-"l0": false,
 "label": "UAP Gerb - Sandia National Laboratories investigation",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "UAP Gerb - Sandia National Laboratories investigation",
 "sourceFiles": [

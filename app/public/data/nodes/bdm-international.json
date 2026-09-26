@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-6eb313ff59",
@@ -69,7 +68,6 @@
 "edgeLabel": "headquartered at 1501 BDM Way, McLean, Virginia",
 "family": "place-time",
 "id": "l-mclean",
-"l0": false,
 "label": "McLean, Virginia",
 "note": "From its own Form 10-K for FY1995. The May 1985 Advanced Theoretical Physics meeting is placed at a 'BDM McLean Secure Facility' only by papers from a private estate, and is carried on the node at Tier 3.",
 "predicate": "located_at",
@@ -96,7 +94,6 @@
 "edgeLabel": "TRW acquired BDM by cash tender offer, 1997",
 "family": "organisation",
 "id": "trw-inc",
-"l0": false,
 "label": "TRW Inc.",
 "note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997.",
 "predicate": "part_of",
@@ -130,10 +127,8 @@
 },
 "hl": null,
 "id": "bdm-international",
-"l0": false,
 "label": "BDM International, Inc.",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "BDM International, Inc.",
 "sourceFiles": [

@@ -9,7 +9,6 @@
 "majesticdocuments.com, co-founder with Ryan S. Wood"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1956",
@@ -114,7 +113,6 @@
 "edgeLabel": "Co-principal of the document archive and its rating scheme",
 "family": "role",
 "id": "majestic-documents-archive",
-"l0": false,
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "The site carries a 1999-2026 copyright in the name 'Majestic Documents Wood & Wood' and identifies Dr. Robert M. Wood and Ryan S. Wood as its principals.",
 "predicate": "held_post",
@@ -141,7 +139,6 @@
 "edgeLabel": "Wood ran a company-funded study of unidentified craft at McDonnell Douglas Astronautics",
 "family": "role",
 "id": "mcdonnell-douglas",
-"l0": false,
 "label": "McDonnell Douglas Corporation",
 "note": "Wood spent his career at the Huntington Beach astronautics organisation and has repeatedly described initiating an internal study on the reasoning that a prime could not afford to be last to know if the propulsion were real.",
 "predicate": "held_post",
@@ -179,11 +176,9 @@
 "hl": null,
 "id": "robert-m-wood",
 "instId": "mcdonnell-douglas",
-"l0": false,
 "label": "Dr. Robert M. Wood",
 "loc": "Newport Beach, CA",
 "locId": null,
-"members": null,
 "narrative": "Robert M. Wood is the aerospace-industry end of the retrieval literature. He holds a doctorate in physics and spent forty-three years at McDonnell Douglas, where he managed advanced propulsion and effects research - including, on his own account, a company-funded study in the late 1960s and early 1970s into whether UFO field-propulsion effects could be replicated. That places him in the same institutional category as Stanton Friedman: a cleared contractor engineer who concluded from the inside that a compartmented programme was plausible. With his son Ryan S. Wood he built The Majestic Documents project, an online archive at majesticdocuments.com which since 1999 has collected, published, catalogued and applied a stated authenticity-rating scheme to the MJ-12 and related leaked-document corpus - including the Special Operations Manual SOM1-01, the 'Interplanetary Phenomenon Unit' material, and the Air Accident Report papers. The project's importance to this board is methodological rather than evidentiary: Wood insisted on treating the documents as forensic objects - typeface, paper, watermark, ink, format, security-marking convention and internal administrative plausibility - rather than as scripture, and published the ratings. Whether one accepts the conclusions, the framework is the only sustained forensic protocol ever applied to the leaked-document corpus, and no agency has ever published a competing analysis.",
 "photoCredit": null,
 "sequenceChain": [],

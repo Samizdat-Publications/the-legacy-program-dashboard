@@ -9,7 +9,6 @@
 "The Debrief (contributor, 2023)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-12-16",
@@ -70,7 +69,6 @@
 "edgeLabel": "Co-author",
 "family": "documents",
 "id": "debrief-2023-06-05",
-"l0": false,
 "label": "The Debrief: Intelligence Officials Say U.S. Has Retrieved Craft of Non-Human Origin",
 "note": "Blumenthal, with Kean, had co-authored the December 2017 New York Times AATIP story; the same byline pair carried the Grusch story after national outlets declined it.",
 "predicate": "wrote",
@@ -97,7 +95,6 @@
 "edgeLabel": "Co-authors of both defining stories, 2017 and 2023",
 "family": "role",
 "id": "leslie-kean",
-"l0": false,
 "label": "Leslie Kean",
 "note": "The 16 December 2017 New York Times AATIP story and the 5 June 2023 David Grusch story were both written by Kean and Blumenthal; Helene Cooper was a third author on the 2017 piece.",
 "predicate": "worked_with",
@@ -124,7 +121,6 @@
 "edgeLabel": "Co-byline, 16 December 2017",
 "family": "documents",
 "id": "nyt-2017-12-16",
-"l0": true,
 "label": "New York Times, 'Glowing Auras and Black Money: The Pentagon's Mysterious U.F.O. Program'",
 "note": "Blumenthal shares the byline that broke AATIP and published two of the three videos.",
 "predicate": "published",
@@ -160,11 +156,9 @@
 "hl": null,
 "id": "ralph-blumenthal",
 "instId": "the-debrief",
-"l0": false,
 "label": "Ralph Blumenthal",
 "loc": "New York, NY",
 "locId": "l-nyc",
-"members": null,
 "narrative": "Ralph Blumenthal spent forty-five years as a New York Times staff reporter before becoming, with Leslie Kean, the co-author of both stories that structure the modern record: the 16 December 2017 AATIP revelation and the 5 June 2023 David Grusch story. His institutional weight is the point - a Times lifer's byline is what made the 2017 piece survivable inside the paper, and his departure from the Times masthead by 2023 is part of why the Grusch story landed at The Debrief instead. His 2021 book The Believer, on Harvard psychiatrist John Mack, situates him in the longer lineage of establishment-credentialed writers who took the subject seriously and paid a professional price for it.",
 "photoCredit": null,
 "sequenceChain": [],

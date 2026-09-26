@@ -3,7 +3,6 @@
 "C": 3,
 "D": 2,
 "absorbedBy": "roswell-1947",
-"band": null,
 "claims": [
 {
 "id": "c-2c5005811d",
@@ -56,7 +55,6 @@
 "edgeLabel": "Four official explanations for one event",
 "family": "analysis",
 "id": "d-denial",
-"l0": false,
 "label": "Official Denial",
 "note": "Weather balloon in 1947, Project MOGUL in the mid-1990s, crash test dummies in 1997 - the sequence of explanations is itself the evidentiary object.",
 "predicate": "exemplifies",
@@ -83,7 +81,6 @@
 "edgeLabel": "The founding case of the retrieval strand",
 "family": "analysis",
 "id": "d-recovery",
-"l0": false,
 "label": "Retrieval & Recovery Operations",
 "note": "Roswell is the origin of the crash-retrieval literature and the case against which every later retrieval claim is measured.",
 "predicate": "exemplifies",
@@ -110,7 +107,6 @@
 "edgeLabel": "Where the disc became a balloon",
 "family": "place-time",
 "id": "l-fort-worth-tx",
-"l0": false,
 "label": "Fort Worth, Texas",
 "note": "The Roswell debris was flown to Eighth Air Force headquarters at Fort Worth, where it was presented to the press as a weather balloon the same day.",
 "predicate": "occurred_at",
@@ -169,10 +165,8 @@
 },
 "hl": null,
 "id": "d-roswell",
-"l0": false,
 "label": "Roswell",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Roswell",
 "sourceFiles": [

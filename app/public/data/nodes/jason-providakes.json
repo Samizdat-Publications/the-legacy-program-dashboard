@@ -6,7 +6,6 @@
 "The MITRE Corporation (1976-2024; President and CEO 2017-2024)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-01-01",
@@ -43,7 +42,6 @@
 "edgeLabel": "President and CEO through the entire modern disclosure sequence, 2017-2024",
 "family": "role",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "His tenure spans the December 2017 AATIP revelation, the UAP Task Force, the 2021 ODNI assessment, AARO's creation, and the Grusch testimony - the period Burlison's request covers.",
 "predicate": "led",
@@ -79,11 +77,9 @@
 "hl": null,
 "id": "jason-providakes",
 "instId": "mitre-corporation",
-"l0": false,
 "label": "Jason Providakes",
 "loc": "McLean, VA",
 "locId": "l-mclean",
-"members": null,
 "narrative": "Providakes led MITRE for the seven years that bracket the entire modern disclosure sequence: the December 2017 New York Times story that revealed AATIP, the 2020 standing-up of the UAP Task Force, the June 2021 ODNI preliminary assessment, the July 2022 creation of AARO, and David Grusch's July 2023 testimony. He joined MITRE in 1976 and spent his whole career there before becoming its ninth president and CEO in 2017. He retired in 2024 and was succeeded by Mark Peters. Any MITRE decision during that window about how to characterise, retain or route records touching anomalous phenomena was made under his tenure, and MITRE's board during those years was chaired by former Principal Deputy Director of National Intelligence Donald Kerr. He has made no public statement on UAP. He is on the board because the corporate record of that period is what Burlison is now demanding.",
 "photoCredit": null,
 "sequenceChain": [],

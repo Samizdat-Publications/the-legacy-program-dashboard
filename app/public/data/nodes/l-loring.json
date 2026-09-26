@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-94f30b741c",
@@ -94,7 +93,6 @@
 "edgeLabel": "The memorandum's subject is this installation",
 "family": "documents",
 "id": "doc-nmcc-loring-1975",
-"l0": false,
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "note": "Subject line 'AFB Penetration'; Loring AFB Maine named in paragraph 1.",
 "predicate": "concerns",
@@ -121,7 +119,6 @@
 "edgeLabel": "The penetrations were of this installation's weapons storage area",
 "family": "place-time",
 "id": "loring-1975",
-"l0": false,
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "note": "The NMCC memorandum names Loring AFB, Maine by name in its first numbered paragraph.",
 "predicate": "occurred_at",
@@ -148,7 +145,6 @@
 "edgeLabel": "SAC installation; 42nd Bombardment Wing and its nuclear weapons storage area",
 "family": "organisation",
 "id": "strategic-air-command",
-"l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The NMCC memorandum records SAC informing NORAD of the penetration and the SAC Command Center reporting back on the failed National Guard search, citing SAC CP OPS CONTROL 291954Z OCT 75.",
 "predicate": "part_of",
@@ -187,10 +183,8 @@
 },
 "hl": null,
 "id": "l-loring",
-"l0": false,
 "label": "Loring AFB, Maine",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Loring AFB, Maine",
 "sourceFiles": [

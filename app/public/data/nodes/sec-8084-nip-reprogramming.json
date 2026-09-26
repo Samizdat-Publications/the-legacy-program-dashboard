@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-54c1bb5d80",
@@ -47,7 +46,6 @@
 "edgeLabel": "NIP reprogramming is measured against levels that exist only in the annex",
 "family": "law",
 "id": "classified-annex",
-"l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 8084(b) conditions NIP reprogramming notice on cumulative change to 'the levels specified in the classified annex accompanying the Act' - a public statute making the unpublished annex the operative baseline. Attested by the enacted text.",
 "predicate": "governs",
@@ -81,10 +79,8 @@
 },
 "hl": null,
 "id": "sec-8084-nip-reprogramming",
-"l0": false,
 "label": "Section 8084 - NIP reprogramming notification against classified annex levels",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Section 8084 - NIP reprogramming notification against classified annex levels",
 "sourceFiles": [

@@ -4,7 +4,6 @@
 "D": 2,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -64,7 +63,6 @@
 "edgeLabel": "authored by",
 "family": "documents",
 "id": "dird-pulsed-high-power-microwave-source-technology",
-"l0": false,
 "label": "Pulsed High-Power Microwave Source Technology",
 "note": "The DIA congressional list credits 'Pulsed High-Power Microwave Technology' to 'Dr James Wells, J W Enterprises'. The earlier Knapp/KLAS-TV roster gives the same author with the affiliation Northrop Grumman; the DIA list governs. No verified biography for this author has been located beyond the list entry.",
 "predicate": "wrote",
@@ -123,11 +121,9 @@
 "hl": null,
 "id": "james-wells",
 "instId": null,
-"l0": false,
 "label": "James Wells",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "James Wells is credited on the DIA list of AATIP/AAWSAP products transmitted to the Senate Armed Services Committee as author of 'Pulsed High-Power Microwave Technology'. He is one of the least publicly traceable names on the list, and he is also the one clear instance in this batch where the two circulating versions of the DIRD roster disagree on affiliation.\n\nThe DIA list released to the Federation of American Scientists in January 2019 gives his affiliation as 'J W Enterprises'. The earlier list published by George Knapp and Matt Adams of KLAS-TV on 25 July 2018 — a near-complete roster whose authenticity was confirmed by former programme manager Luis Elizondo, but whose source was never disclosed — gives his affiliation as 'Northrop Grumman'. The DIA list is the authoritative document because it was prepared by the agency and transmitted to Congress; 'J W Enterprises' is therefore recorded here as the affiliation of record, with the Northrop Grumman variant preserved as a discrepancy rather than discarded. The two are not necessarily contradictory in substance — a named consultancy and a prime contractor could both be true of the same person at different points — but nothing sourced resolves it, and the difference should not be smoothed over.\n\nBeyond the list entry itself, no verified biography, institutional page or publication record has been located for him, and the released DIRD does not help: the author line on the cover page is redacted under (b)(6). What is firmly established is the document. 'Pulsed High-Power Microwave Source Technology' carries DIA document number DIA-08-0912-005, published 28 January 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the 'Acquisition Threat Support' series. It runs 37 pages and was released by DIA in redacted form. Its subject — directed-energy source hardware — is among the most conventionally military topics in the entire series.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-a1c5213d38",
@@ -91,7 +90,6 @@
 "edgeLabel": "The experiment behind the survey's ion-wind finding",
 "family": "documents",
 "id": "millis-tm-2004-213082",
-"l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "Reference 55 of NASA/TM-2004-213082 names the same Institute for Scientific Research work, planned for the 40th AIAA/ASME/SAE/ASEE Joint Propulsion Conference in July 2004. The contractor report is the measurement; the technical memorandum is the ruling.",
 "predicate": "cites",
@@ -123,7 +121,6 @@
 "edgeLabel": "A NASA contractor report, published under a NASA/CR number",
 "family": "money",
 "id": "nasa",
-"l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "NASA/CR-2004-213312. The board's funding edge type is used because a contractor report records who paid for the work; the performing organisation was the Institute for Scientific Research of Fairmont, West Virginia, for which no node is proposed because nothing about the organisation itself was opened.",
 "predicate": "funded",
@@ -150,7 +147,6 @@
 "edgeLabel": "Cites both Brown patents and GB 300,311 by number, and models the thrust as ion drift",
 "family": "documents",
 "id": "thomas-townsend-brown",
-"l0": false,
 "label": "Thomas Townsend Brown",
 "note": "THE JOIN IS DOCUMENTARY AND NOT TOPICAL. The report's reference list opens with 'Brown, T.T., US Patent 2,949,550', 'Brown, T.T., US Patent 3,187,206' and 'Brown, T.T., GB Patent 300,311', which are exactly the three Brown documents this board already carries. Its conclusion is that the operation of such devices 'is fully explained by a very simple theory that uses only electrostatic forces and the transfer of momentum by multiple collisions'.",
 "predicate": "cites",
@@ -184,10 +180,8 @@
 },
 "hl": null,
 "id": "canning-nasa-cr-2004-213312",
-"l0": false,
 "label": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "NASA/CR-2004-213312, 'Asymmetrical Capacitors for Propulsion' (2004)",
 "sourceFiles": [

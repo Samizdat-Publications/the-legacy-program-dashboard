@@ -2,7 +2,6 @@
 "A": 1,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-557138e0b5",
@@ -69,7 +68,6 @@
 "edgeLabel": "Status Report III printed the 1980 'Fritz Werner' Q&A on Kingman",
 "family": "testimony",
 "id": "stringfield-status-reports",
-"l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "Stringfield wrote to Raymond Fowler on 11 August 1980 for access to Fowler's pseudonymous source; the answers are dated 2 September 1980 and are printed verbatim in Status Report III.",
 "predicate": "brought_to_record",
@@ -103,10 +101,8 @@
 },
 "hl": null,
 "id": "kingman-1953",
-"l0": false,
 "label": "Kingman, Arizona claim, 1953",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Kingman, Arizona claim, 1953",
 "sourceFiles": [

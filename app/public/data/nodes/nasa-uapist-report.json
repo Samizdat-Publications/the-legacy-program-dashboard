@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-1bfabf7e37",
@@ -117,7 +116,6 @@
 "edgeLabel": "",
 "family": "documents",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO's own report counts this study among the official record. HRR Volume I lists the 'UAP Independent Study Team (UAPIST) (June 2022-September 2023)' as one of the USG UAP investigatory efforts it catalogues, which is what puts a NASA civilian panel inside a Department historical record.",
 "predicate": "cites",
@@ -156,10 +154,8 @@
 },
 "hl": null,
 "id": "nasa-uapist-report",
-"l0": false,
 "label": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "NASA Unidentified Anomalous Phenomena Independent Study Team Report",
 "sourceFiles": [

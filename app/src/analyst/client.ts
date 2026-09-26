@@ -24,7 +24,7 @@
  *
  * The Worker is the only runtime request this app makes that is not same-origin.
  */
-import { loadAnalyst, loadIndex, loadMap, loadThreads, type MapFile, type ThreadsFile } from '../data';
+import { loadAnalyst, loadIndex, loadThreads, type ThreadsFile } from '../data';
 import { TOOLS, TOOLS_VERSION, runTool } from './tools';
 import { caseState } from './state';
 import type { Route } from '../router';
@@ -86,8 +86,8 @@ const HEAD =
   'settle it. An answer that says "the board does not record this" is a good answer.\n\n' +
   'YOU HAVE TOOLS AND YOU SHOULD USE THEM. The case index below is one line per node and ' +
   'nothing more. Everything else on the board -- every claim with its source, the ' +
-  'timeline, the sourced edges, the threads, the patents, the FOIA requests, the ' +
-  'program map -- is reachable only through the tools, and they run against the live ' +
+  'timeline, the sourced edges, the threads, the patents, the FOIA requests ' +
+  '-- is reachable only through the tools, and they run against the live ' +
   'data files rather than against anything in this prompt. Call `overview` when you need a count of anything: no number is written into this prompt or into a tool description, because a written-down count goes stale the next time the board grows. So:\n' +
   '  - Count with `count_only` and `group_by` rather than by eye. A list you were shown ' +
   'was probably truncated; a count never is.\n' +
@@ -103,7 +103,7 @@ const HEAD =
   'of your claims rest on a single source. Prefer a short table to a long list. Do not use ' +
   'em dashes.\n\n' +
   'CASE INDEX. One line per node, all of them:\n' +
-  'id | label | class | node tier | C/A/D | dates | degree | T1/T2/T3 claim counts | map band\n';
+  'id | label | class | node tier | C/A/D | dates | degree | T1/T2/T3 claim counts\n';
 
 let indexBlock: Promise<string> | null = null;
 function caseIndex(): Promise<string> {
@@ -113,7 +113,7 @@ function caseIndex(): Promise<string> {
         n.id, clip(n.short || n.label, 70), n.cls, 'tier ' + (n.tier || '?'),
         'C' + (n.C ?? '?') + 'A' + (n.A ?? '?') + 'D' + (n.D ?? '?'),
         (n.dateStart || '') + (n.dateEnd && n.dateEnd !== n.dateStart ? '..' + n.dateEnd : '') || 'undated',
-        'deg ' + n.deg, n.claims.join('/'), n.l0 ? (n.band || 'on map') : 'off map',
+        'deg ' + n.deg, n.claims.join('/'),
       ].join(' | ');
       let out = idx.nodes.map(line).join('\n');
       if (out.length > AN_INDEX_CAP) out = out.slice(0, AN_INDEX_CAP) + '\n[index truncated]';
@@ -174,8 +174,9 @@ const ID_SHAPE = /^[a-z0-9][a-z0-9._-]*$/;
    Two false verdicts on the first two live questions, and both mattered:
 
    1. `disclosure.3` was flagged "not a node on this board". True and useless: it
-      is a map cell, `<band>.<era>`. Cells, bands, classes, clusters, threads and
-      entry paths are all id-shaped and all real.
+      was a map cell, `<band>.<era>`, while the program map lived (retired in
+      redesign phase 11). Classes, clusters, eras and threads are all
+      id-shaped and all real.
    2. Worse, and silent: the guard skipped any token without a hyphen, dot or
       digit, on the theory that a single plain word is prose. That excluded
       `aawsap`, `nicap`, `cia` and every other single-word node id on the board
@@ -191,17 +192,13 @@ function knownIds(): Promise<{ nodes: Set<string>; other: Set<string> }> {
   if (!known) {
     known = Promise.all([
       loadIndex(),
-      loadMap().catch((): MapFile => ({ entryPaths: [] })),
       loadThreads().catch((): ThreadsFile => ({ threads: [] })),
-    ]).then(([idx, mp, tf]) => {
+    ]).then(([idx, tf]) => {
       const other = new Set<string>();
-      for (const k of Object.keys(mp.cells || {})) other.add(k);
-      for (const b of idx.bands) other.add(b.id);
       for (const c of idx.classes) other.add(c.id);
       for (const c of idx.clusters) other.add(c.id);
       for (const e of idx.eras) other.add(e.id);
       for (const t of tf.threads || []) other.add(t.id);
-      for (const e of mp.entryPaths || []) other.add(e.id);
       for (const t of TOOLS) {
         other.add(t.name);
         for (const arg of Object.keys(t.input_schema.properties || {})) other.add(arg);

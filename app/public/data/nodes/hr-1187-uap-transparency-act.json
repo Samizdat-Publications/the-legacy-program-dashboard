@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-78fdc92ae0",
@@ -33,7 +32,6 @@
 "edgeLabel": "Cosponsor - the bipartisan half",
 "family": "law",
 "id": "jared-moskowitz",
-"l0": false,
 "label": "Jared Evan Moskowitz",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
@@ -60,7 +58,6 @@
 "edgeLabel": "Sponsor",
 "family": "law",
 "id": "tim-burchett",
-"l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Introduced 11 February 2025, the day the Task Force was announced.",
 "predicate": "sponsored_law",
@@ -94,10 +91,8 @@
 },
 "hl": null,
 "id": "hr-1187-uap-transparency-act",
-"l0": false,
 "label": "H.R. 1187 - UAP Transparency Act (119th Congress)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "H.R. 1187 - UAP Transparency Act (119th Congress)",
 "sourceFiles": [

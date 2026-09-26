@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-06c38db319",
@@ -33,7 +32,6 @@
 "edgeLabel": "records the Spanish release and DI55's non-access",
 "family": "documents",
 "id": "doc-condign-vol3",
-"l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
 "predicate": "cites",
@@ -67,10 +65,8 @@
 },
 "hl": null,
 "id": "spain-mod-ufo-files",
-"l0": false,
 "label": "Spanish Ministry of Defence UFO file declassification",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Spanish Ministry of Defence UFO file declassification",
 "sourceFiles": [

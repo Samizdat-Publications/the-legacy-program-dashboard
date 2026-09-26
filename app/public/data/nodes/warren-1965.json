@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-9a77d2bbb0",
@@ -55,7 +54,6 @@
 "edgeLabel": "The 1 August 1965 reports were over this installation's Minuteman complex",
 "family": "place-time",
 "id": "l-warren",
-"l0": false,
 "label": "F. E. Warren AFB, Wyoming",
 "note": "The Blue Book telephone log names the base commander of F. E. Warren among its callers and names Warren missile sites.",
 "predicate": "occurred_at",
@@ -89,10 +87,8 @@
 },
 "hl": null,
 "id": "warren-1965",
-"l0": false,
 "label": "F. E. Warren AFB sightings, 1 August 1965",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "F. E. Warren AFB sightings, 1 August 1965",
 "sourceFiles": [

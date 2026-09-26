@@ -7,7 +7,6 @@
 "Independent documentary production; Earthfiles"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1980-05-25",
@@ -73,7 +72,6 @@
 "edgeLabel": "Howe is the only named witness to the AQUARIUS paper's text",
 "family": "testimony",
 "id": "project-aquarius",
-"l0": false,
 "label": "Project AQUARIUS (alleged)",
 "note": "No copy of the document has ever surfaced in any archive or FOIA release; Howe's notes are the sole record of its content.",
 "predicate": "witnessed",
@@ -105,7 +103,6 @@
 "edgeLabel": "Doty showed Howe a purported classified briefing paper at Kirtland, April 1983",
 "family": "testimony",
 "id": "richard-doty",
-"l0": false,
 "label": "Richard C. Doty",
 "note": "Howe's contemporaneous notes record being permitted to read but not copy a document describing retrieved craft and biological entities, with a promise of film footage that was never delivered.",
 "predicate": "told",
@@ -147,11 +144,9 @@
 "hl": null,
 "id": "linda-moulton-howe",
 "instId": null,
-"l0": false,
 "label": "Linda Moulton Howe",
 "loc": "Albuquerque, NM",
 "locId": "l-kirtland",
-"members": null,
 "narrative": "Howe was an Emmy-winning Denver television producer whose 1980 documentary on cattle mutilations brought her to the attention of AFOSI. In April 1983, while developing an HBO documentary, she was invited to Kirtland AFB and met Richard Doty, who showed her a typed paper he described as a government briefing on retrieved craft and occupants - the material that entered the literature as the 'Project Aquarius' teletype. She was permitted to read it and take notes but not to copy it, and she was told a film of the subject would be made available for her documentary. It never was; the HBO project collapsed. Howe's account is important precisely because of its shape: an American journalist was shown a purported classified document by a serving counterintelligence agent on a military installation, and then the promised material evaporated. Whether the paper was authentic or fabricated, the operation is the same one that was run on Bennewitz, applied to a broadcaster instead of a physicist. Howe has told the story consistently for over forty years and her contemporaneous notes are the only surviving record of the document's text.",
 "photoCredit": null,
 "sequenceChain": [],

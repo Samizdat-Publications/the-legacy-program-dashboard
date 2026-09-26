@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-6070f27aaf",
@@ -47,7 +46,6 @@
 "edgeLabel": "The current authoritative statement of the audit result",
 "family": "documents",
 "id": "dod-agencywide-audit",
-"l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "DOWIG-2026-081 records the eighth consecutive disclaimer, 26 material weaknesses, and more than $859 billion of unsupported adjustments in two quarters of FY2025. Attested by the report.",
 "predicate": "concerns",
@@ -81,10 +79,8 @@
 },
 "hl": null,
 "id": "dowig-2026-081",
-"l0": false,
 "label": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "DOWIG-2026-081 - The FY 2025 DoW Financial Statement Audit Explained",
 "sourceFiles": [

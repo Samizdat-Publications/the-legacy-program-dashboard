@@ -7,7 +7,6 @@
 "US Department of Veterans Affairs claimant (2010s)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1980-12-26",
@@ -72,7 +71,6 @@
 "edgeLabel": "Service medical records for the incident window could not be produced",
 "family": "testimony",
 "id": "l-raf-woodbridge",
-"l0": false,
 "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "note": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
 "predicate": "witnessed",
@@ -104,7 +102,6 @@
 "edgeLabel": "First responder, 26 December 1980",
 "family": "testimony",
 "id": "rendlesham-1980",
-"l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
 "predicate": "witnessed",
@@ -147,11 +144,9 @@
 "hl": null,
 "id": "john-burroughs",
 "instId": "dod",
-"l0": false,
 "label": "John Burroughs",
 "loc": "Woodbridge, Suffolk, UK",
 "locId": "l-raf-woodbridge",
-"members": null,
 "narrative": "Burroughs matters less for what he saw than for what happened when he tried to get his own medical file. He was one of the airmen at the east gate on 26 December 1980. Decades later, suffering a cardiac condition, he sought Department of Veterans Affairs disability benefits and needed his December 1980-January 1981 service medical records to establish an in-service exposure. He and his counsel reported that the records could not be produced, and the case became a multi-year administrative fight that ran through congressional offices - Senator John McCain's staff among them - before the VA granted him service-connected benefits in 2015. The VA's grant did not adjudicate what he encountered; it adjudicated that something happened in service. That is the load-bearing fact. The Burroughs matter converts Rendlesham from a sightings story into a records story: a US government department paid a claim that turns on an event the Air Force has never formally acknowledged, while the medical documentation from the relevant window was not available through normal channels. Missing records with no destruction authority is the same signature GAO found in the Roswell files in 1995.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-756dce4048",
@@ -47,7 +46,6 @@
 "edgeLabel": "Paired instruments, one hiding an invention and the other an expenditure",
 "family": "analysis",
 "id": "invention-secrecy-act",
-"l0": false,
 "label": "Invention Secrecy Act of 1951 (Pub. L. 82-256, 66 Stat. 3), codified at 35 U.S.C. 181-188",
 "note": "Two statutory instruments of the same architecture, one hiding an invention and the other hiding an expenditure; the pairing is the board's argument, not either statute's text.",
 "predicate": "parallels",
@@ -74,7 +72,6 @@
 "edgeLabel": "Unvouchered CIA spending sits inside the NIP and outside all expenditure law",
 "family": "law",
 "id": "nip",
-"l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "50 U.S.C. 3510(b) permits Agency sums to be expended without regard to laws and regulations governing expenditure of government funds, accounted for solely on the Director's certificate. The CIA is funded within the National Intelligence Program. Attested by the statute.",
 "predicate": "governs",
@@ -101,7 +98,6 @@
 "edgeLabel": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
 "family": "organisation",
 "id": "sec-8009-sap-notice",
-"l0": false,
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "note": "Section 8009 binds only funds appropriated by the annual Defense Appropriations Act; unvouchered Agency spending under 50 U.S.C. 3510 is neither DoD appropriated funds nor subject to normal expenditure law. Reasoned inference from the two texts; no document asserts this has occurred.",
 "predicate": "outside_of",
@@ -135,10 +131,8 @@
 },
 "hl": null,
 "id": "usc-50-3510",
-"l0": false,
 "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "sourceFiles": [

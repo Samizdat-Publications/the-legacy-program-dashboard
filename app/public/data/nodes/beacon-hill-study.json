@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-96f54ca9c7",
@@ -35,7 +34,6 @@
 "edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
 "family": "oversight",
 "id": "af-atic-film-0352",
-"l0": false,
 "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
 "note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
 "predicate": "reports_to",
@@ -62,7 +60,6 @@
 "edgeLabel": "Beacon Hill was convened in the MIT/Lincoln Laboratory complex for the Air Force",
 "family": "place-time",
 "id": "mit-lincoln-laboratory",
-"l0": false,
 "label": "MIT Lincoln Laboratory",
 "note": "The study shaped US overhead reconnaissance and its records sit in institutional rather than federal custody.",
 "predicate": "located_at",
@@ -96,10 +93,8 @@
 },
 "hl": null,
 "id": "beacon-hill-study",
-"l0": false,
 "label": "Project Beacon Hill",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Project Beacon Hill",
 "sourceFiles": [

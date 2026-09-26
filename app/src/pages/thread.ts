@@ -2,8 +2,8 @@
  *
  * A rail of the eight threads across the top. Left: the ordered chain, one step
  * per row with class mark, year, the evidence line, and the join graded
- * type · tier · direct|derived (with the via ids on a derived join). Right: the
- * small map on the program grid, and a timeline slice of the steps' years.
+ * type · tier · direct. Right: a timeline slice of the steps' years. (The small
+ * map on the program grid went with the program map in redesign phase 11.)
  *
  * Every string on this page comes from data/threads.json or data/index.json.
  * The evidence lines are the authored ones; nothing is written here, and a step
@@ -13,14 +13,13 @@ import '../styles/thread.css';
 import { h, clear, mark } from '../dom';
 import { setTitle } from '../router';
 import { loadIndex, clsColour, type IndexNode } from '../data';
-import { loadThreads, loadGrid, threadById, edgeLine, type Thread } from '../thread/data';
-import { renderSmallMap } from '../thread/smallmap';
+import { loadThreads, threadById, edgeLine, type Thread } from '../thread/data';
 import { renderSlice } from '../thread/slice';
 import { notFound } from './notfound';
 
 export async function renderThread(view: HTMLElement, id: string): Promise<void> {
   clear(view);
-  const [tf, idx, grid] = await Promise.all([loadThreads(), loadIndex(), loadGrid()]);
+  const [tf, idx] = await Promise.all([loadThreads(), loadIndex()]);
   const th = threadById(tf, id);
   if (!th) {
     notFound(view, '#/t/' + id,
@@ -31,8 +30,6 @@ export async function renderThread(view: HTMLElement, id: string): Promise<void>
 
   const byId = new Map<string, IndexNode>();
   for (const n of idx.nodes) byId.set(n.id, n);
-  const onGrid = new Set(grid.nodes.map((n) => n.id));
-  const nOnMap = th.steps.filter((s) => onGrid.has(s.node)).length;
 
   /* ---- rail ------------------------------------------------------------ */
   const rail = h('div', { class: 'th-rail' });
@@ -49,7 +46,7 @@ export async function renderThread(view: HTMLElement, id: string): Promise<void>
       h('span', { class: 'eyebrow' }, 'Thread'),
       h('h1', { class: 'th-h1' }, th.title),
       h('span', { class: 'dim th-head-n' },
-        th.steps.length + ' steps · ' + nOnMap + ' on the map'),
+        th.steps.length + ' steps'),
     ),
     rail,
   );
@@ -63,19 +60,17 @@ export async function renderThread(view: HTMLElement, id: string): Promise<void>
 
   /* ---- blurb and chain ------------------------------------------------- */
   left.append(h('p', { class: 'th-blurb' }, th.blurb));
-  left.append(chain(th, byId, onGrid));
+  left.append(chain(th, byId));
 
-  /* ---- the small map and the slice ------------------------------------- */
-  const mapHost = h('div', { class: 'th-map' });
+  /* ---- the slice ------------------------------------------------------ */
   const sliceHost = h('div', { class: 'th-slice' });
-  right.append(mapHost, sliceHost);
+  right.append(sliceHost);
 
   const w = Math.max(280, Math.floor(right.getBoundingClientRect().width) - 4);
-  renderSmallMap(mapHost, th, grid, byId, w);
   renderSlice(sliceHost, th, byId, w);
 }
 
-function chain(th: Thread, byId: Map<string, IndexNode>, onGrid: Set<string>): HTMLElement {
+function chain(th: Thread, byId: Map<string, IndexNode>): HTMLElement {
   const list = h('ol', { class: 'th-steps' });
   th.steps.forEach((s, i) => {
     const n = byId.get(s.node);
@@ -88,7 +83,6 @@ function chain(th: Thread, byId: Map<string, IndexNode>, onGrid: Set<string>): H
       h('a', { class: 'th-label', href: '#/n/' + s.node }, n ? n.label : s.node),
       h('span', { class: 'th-year dim' }, s.year == null ? 'no year on the board' : String(s.year)),
       n && n.hl ? h('span', { class: 'th-hl amber' }, 'on the start-here list, no. ' + n.hl) : null,
-      onGrid.has(s.node) ? null : h('span', { class: 'th-floor faint' }, 'not on the program map'),
     );
     body.append(title);
     body.append(h('div', { class: 'th-ev' }, s.evidence));

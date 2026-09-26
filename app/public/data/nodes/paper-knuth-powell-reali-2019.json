@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-5e9952bb26",
@@ -41,7 +40,6 @@
 "edgeLabel": "Lead author of the Entropy kinematics paper",
 "family": "documents",
 "id": "kevin-knuth",
-"l0": false,
 "label": "Kevin H. Knuth",
 "note": "Entropy 21(10):939 estimated accelerations, velocities and required power from documented cases including the 2004 Nimitz encounter.",
 "predicate": "wrote",
@@ -68,7 +66,6 @@
 "edgeLabel": "Nimitz encounter analysed quantitatively in a peer-reviewed physics journal",
 "family": "documents",
 "id": "nimitz-2004",
-"l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "A companion paper in the MaxEnt 2019 proceedings treated the Nimitz case specifically; this is the point at which the 2004 encounter entered the physics literature rather than the news cycle.",
 "predicate": "studied",
@@ -95,7 +92,6 @@
 "edgeLabel": "Co-author; brought the SCU case reconstructions",
 "family": "documents",
 "id": "robert-powell",
-"l0": false,
 "label": "Robert M. Powell",
 "note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
 "predicate": "wrote",
@@ -134,10 +130,8 @@
 },
 "hl": null,
 "id": "paper-knuth-powell-reali-2019",
-"l0": false,
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "sourceFiles": [

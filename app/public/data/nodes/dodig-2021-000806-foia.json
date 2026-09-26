@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-e9c4237487",
@@ -75,7 +74,6 @@
 "edgeLabel": "FOIA requester of record",
 "family": "oversight",
 "id": "john-greenewald",
-"l0": false,
 "label": "John Greenewald Jr.",
 "note": "The fourth interim release of five pages, with approximately 245 pages still pending, shows the Department withholding its own UAP evaluation methodology.",
 "predicate": "requested",
@@ -102,7 +100,6 @@
 "edgeLabel": "imagery released, methodology withheld",
 "family": "denial",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "In the same quarter the Department published sensor video it withheld under exemption (b)(1) the 'Potential Benefits' section of its UAP evaluation proposal and fully redacted methodology steps three through eight.",
 "predicate": "refused",
@@ -171,10 +168,8 @@
 },
 "hl": null,
 "id": "dodig-2021-000806-foia",
-"l0": false,
 "label": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "DoW OIG FOIA case DODIG-2021-000806 - the withheld UAP evaluation methodology",
 "sourceFiles": [

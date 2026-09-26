@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 3,
-"band": "funding",
 "claims": [
 {
 "id": "c-3706adbd35",
@@ -404,7 +403,6 @@
 "edgeLabel": "ACCM sits below the definitional trigger of every SAP reporting statute",
 "family": "organisation",
 "id": "accm",
-"l0": false,
 "label": "Alternative Compensatory Control Measures (ACCM)",
 "note": "32 CFR 117.3(b) defines ACCM as the case 'where SAP controls are not required'; the reporting statutes are triggered only by the term 'special access program'.",
 "predicate": "outside_of",
@@ -436,7 +434,6 @@
 "edgeLabel": "DOE contractor custody sits outside the DoD special access program reporting regime entirely",
 "family": "organisation",
 "id": "bechtel-nevada",
-"l0": false,
 "label": "Bechtel Nevada Corporation",
 "note": "Atomic Energy Act Restricted Data authorities are a separate statutory classification scheme; material held under them by a DOE management and operating contractor is not reachable by the Sec. 119 reporting obligations Congress relies on. No document places UAP material under DOE authority.",
 "predicate": "outside_of",
@@ -468,7 +465,6 @@
 "edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
 "family": "organisation",
 "id": "booz-allen",
-"l0": false,
 "label": "Booz Allen Hamilton",
 "note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
 "predicate": "outside_of",
@@ -500,7 +496,6 @@
 "edgeLabel": "the statute that fixes what Congress is told about SAP cost, and subsection (e) which suspends it",
 "family": "law",
 "id": "d-funding",
-"l0": false,
 "label": "Funding Channels",
 "note": "Sec. 119(a)-(c) requires the annual SAP report to the four defense committees to state actual historical costs and estimated future costs for each program. Sec. 119(e)(1) lets the Secretary waive any of that on a case-by-case national-security determination, with the information and the justification going instead 'jointly to the chairman and ranking minority member of each of the defense committees.' The cost visibility this domain measures is created and removed by this one section.",
 "predicate": "governs",
@@ -532,7 +527,6 @@
 "edgeLabel": "codified permanent law - the only statute governing what Congress is told about special access programs",
 "family": "analysis",
 "id": "d-legislation",
-"l0": false,
 "label": "Enacted Statute",
 "note": "Added by sec. 1132(a)(1) of the NDAA for FY1988-89, P.L. 100-180, signed 4 December 1987, and amended five times since. It is positive law in title 10 rather than a standalone provision, which places it at the centre of the enacted corpus this domain isolates.",
 "predicate": "exemplifies",
@@ -564,7 +558,6 @@
 "edgeLabel": "Grusch identified the Sec. 119 waiver as the statutory route by which programs escape committee reporting",
 "family": "testimony",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch described the Secretary's ability to waive congressional reporting and the Gang of Eight backstop for a waived unacknowledged SAP; subsection (e) of the statute contains exactly the waiver he described.",
 "predicate": "made_claims_about",
@@ -596,7 +589,6 @@
 "edgeLabel": "119(g) defines who must be told",
 "family": "law",
 "id": "defense-committees",
-"l0": false,
 "label": "The defense committees (10 U.S.C. 119(g))",
 "note": "119(g) enumerates SASC, Senate Appropriations and its Defense Subcommittee, HASC, House Appropriations and its Subcommittee on Defense.",
 "predicate": "governs",
@@ -628,7 +620,6 @@
 "edgeLabel": "defines the term for this section",
 "family": "law",
 "id": "defense-committees",
-"l0": false,
 "label": "The defense committees (10 U.S.C. 119(g))",
 "note": "10 U.S.C. 119(g) defines 'defense committees' for this section as six bodies: '(1) the Committee on Armed Services and the Committee on Appropriations, and the Defense Subcommittee of the Committee on Appropriations, of the Senate; and (2) the Committee on Armed Services and the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations, of the House of Representatives.' Six bodies, chairman and ranking minority member of each, is where the board's twelve seats come from. Read directly from the OLRC text on 22 August 2026, which confirms the count independently of the earlier reading recorded in the L0 notes.",
 "predicate": "governs",
@@ -655,7 +646,6 @@
 "edgeLabel": "Imposes the entire SAP reporting duty on the Secretary of Defense",
 "family": "law",
 "id": "dod",
-"l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Section 119 runs to 'the Secretary of Defense' alone; no subordinate official, program manager or contractor is an obligor under it.",
 "predicate": "mandated",
@@ -682,7 +672,6 @@
 "edgeLabel": "Sec. 4.3(c): nothing in the order supersedes any requirement made by or under 10 U.S.C. 119",
 "family": "organisation",
 "id": "eo-13526",
-"l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "",
 "predicate": "outside_of",
@@ -709,7 +698,6 @@
 "edgeLabel": "Creates the programs the statute then reports on",
 "family": "analysis",
 "id": "eo-13526",
-"l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "E.O. 13526 sec. 4.3 is the source of authority to create a SAP; 10 U.S.C. 119 only prescribes what must be told to Congress afterwards.",
 "predicate": "affects",
@@ -741,7 +729,6 @@
 "edgeLabel": "creates what the statute must report",
 "family": "analysis",
 "id": "eo-13526",
-"l0": true,
 "label": "Executive Order 13526 - Classified National Security Information",
 "note": "The order creates the object the statute reports on. EO 13526 sec. 4.3(a) is the authority to establish a special access program at all, and restricts it to six officials or their principal deputies: the Secretaries of State, Defense, Energy and Homeland Security, the Attorney General, and the Director of National Intelligence. 10 U.S.C. 119 then obliges the Secretary of Defense to report the DoD ones to Congress. Creation is executive and unilateral; reporting is statutory. Both texts were read on 22 August 2026, and neither cites the other - the relationship is that one supplies the programmes the other counts.",
 "predicate": "affects",
@@ -773,7 +760,6 @@
 "edgeLabel": "DoD regime: weakest waiver of the four",
 "family": "analysis",
 "id": "four-regime-map",
-"l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "10 U.S.C. 119(e)(2) narrows waived reporting to the chairman and ranking minority member of each defense committee.",
 "predicate": "exemplifies",
@@ -800,7 +786,6 @@
 "edgeLabel": "A program can be designed and formally requested without ever crossing the congressional reporting threshold",
 "family": "organisation",
 "id": "kona-blue",
-"l0": true,
 "label": "KONA BLUE",
 "note": "AARO: 'KONA BLUE was not reported to Congress at that time because it was never established as a SAP and, therefore, did not meet the threshold for congressional reporting.' The government states the gap in its own defence.",
 "predicate": "outside_of",
@@ -832,7 +817,6 @@
 "edgeLabel": "Sec. 1687 is Congress overriding the Sec. 119 waiver for one subject matter",
 "family": "law",
 "id": "ndaa-fy2024-1687",
-"l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Where Sec. 119(e) permits reporting to only the chairman and ranking member of each defense committee, Sec. 1687 conditions the money itself on disclosure to both intelligence committees and all four congressional leaders for UAP activity specifically.",
 "predicate": "amended",
@@ -864,7 +848,6 @@
 "edgeLabel": "Enacted section 119 on 4 December 1987",
 "family": "law",
 "id": "pl-100-180",
-"l0": false,
 "label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "note": "Source credit to 10 U.S.C. 119: added by Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), 101 Stat. 1151.",
 "predicate": "created",
@@ -891,7 +874,6 @@
 "edgeLabel": "Subsection (e) is the escape hatch inside the reporting statute",
 "family": "organisation",
 "id": "usc-10-119e",
-"l0": false,
 "label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
 "note": "119(e)(1) permits waiver of any requirement under (a), (b) or (c) on the Secretary's own national-security determination, case by case.",
 "predicate": "part_of",
@@ -918,7 +900,6 @@
 "edgeLabel": "3348(g)(2)(B)(i) writes DoD out of the government-wide SAP statute and points to 10 U.S.C. 119",
 "family": "organisation",
 "id": "usc-50-3348",
-"l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(3) defines the term; 10 U.S.C. 119 uses it throughout without defining it. Section 3091a(b)(2)(A) cross-references 3348(g) for the definition.",
 "predicate": "outside_of",
@@ -955,7 +936,6 @@
 "edgeLabel": "excludes DoD, routing it to sec. 119",
 "family": "organisation",
 "id": "usc-50-3348",
-"l0": false,
 "label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
 "note": "50 U.S.C. 3348(g)(2)(B) defines what the section does NOT cover, and the first thing it excludes is the Department of Defense: 'Such term does not include - (i) the Department of Defense (which is required to submit reports on special access programs under section 119 of title 10)'. The exclusion is the link. 3348's SAP reporting regime does not reach DoD because DoD reports under 10 U.S.C. 119 instead, and 119 is the statute that carries the subsection (e) waiver. Read directly from the OLRC text on 22 August 2026.",
 "predicate": "outside_of",
@@ -987,7 +967,6 @@
 "edgeLabel": "created by 10 U.S.C. 119(e)(2) and defined by 119(g)",
 "family": "law",
 "id": "waived-sap-notification-group",
-"l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Section 119 was added by Pub. L. 100-180 div. A title XI sec. 1132(a)(1), 4 December 1987. Subsection (e)(2) directs waived-SAP information and the waiver justification jointly to the chairman and ranking minority member of each defense committee; subsection (g) supplies the six-body definition of 'defense committees' used by the section.",
 "predicate": "created",
@@ -1179,79 +1158,10 @@
 },
 "hl": 3,
 "id": "usc-10-119",
-"l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "locLabel": null,
-"members": [
-{
-"cls": "program",
-"id": "accm",
-"label": "Alternative Compensatory Control Measures (ACCM)",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "bechtel-nevada",
-"label": "Bechtel Nevada Corporation",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "booz-allen",
-"label": "Booz Allen Hamilton",
-"tier": "C"
-},
-{
-"cls": "domain",
-"id": "d-funding",
-"label": "Funding Channels",
-"tier": "A"
-},
-{
-"cls": "domain",
-"id": "d-legislation",
-"label": "Enacted Statute",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "david-grusch",
-"label": "David Charles Grusch",
-"tier": "A"
-},
-{
-"cls": "institution",
-"id": "defense-committees",
-"label": "The defense committees (10 U.S.C. 119(g))",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "four-regime-map",
-"label": "The four SAP reporting regimes and the seams between them",
-"tier": "B"
-},
-{
-"cls": "legislation",
-"id": "pl-100-180",
-"label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
-"tier": "C"
-},
-{
-"cls": "legislation",
-"id": "usc-10-119e",
-"label": "10 U.S.C. 119(e) - Waiver of SAP Reporting (the 'waived SAP' authority)",
-"tier": "B"
-},
-{
-"cls": "legislation",
-"id": "usc-50-3348",
-"label": "50 U.S.C. 3348 - Reports Relating to Certain SAPs and Similar Programs",
-"tier": "A"
-}
-],
 "openQuestions": [],
-"short": "10 U.S.C. 119",
+"short": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "sourceFiles": [
 "_rs-sap-docs",
 "primes-custody",

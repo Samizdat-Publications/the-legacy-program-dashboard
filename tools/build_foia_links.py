@@ -18,9 +18,10 @@ Run it after editing the letters:
 
     python tools/build_foia_links.py
 
-It is a step of tools/build.py too, after build_l0 (it reads data/l0-model.json)
-and before build_app_data (which reads what it writes), so a stale file cannot
-ship. It exits non-zero when a letter names a node or a question the board does
+It is a step of tools/build.py too, after merge (it reads data/the-program.json
+and the entity dossiers through tools/dossiers.py; until phase 11 it read both out
+of data/l0-model.json) and before build_app_data (which reads what it writes), so
+a stale file cannot ship. It exits non-zero when a letter names a node or a question the board does
 not have.
 """
 
@@ -32,7 +33,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LETTERS = os.path.join(ROOT, "notes", "FOIA-LETTERS-2026-08-29.md")
 OUT = os.path.join(ROOT, "data", "foia-links.json")
-MODEL = os.path.join(ROOT, "data", "l0-model.json")
+BOARD = os.path.join(ROOT, "data", "the-program.json")
 
 # `# F1. NARA - the RG 615 compliance register`
 _HEAD = re.compile(r"^#\s+(F\d+)\.\s+(.+?)\s*$", re.M)
@@ -143,13 +144,21 @@ def build():
     # a letter that is not on the board is a real finding -- either the letter names
     # something this board does not carry, or the node was renamed and the letters
     # went stale. Silently dropping it would hide both.
+    #
+    # A node is known when it is on the board. The question numbers index the
+    # node's ENTITY DOSSIER's open questions (the node page prints them from
+    # there), so a board node with no dossier has none, and any Q it is named with
+    # is out of range. Until phase 11 both came out of data/l0-model.json, whose
+    # `dossiers` held exactly what tools/dossiers.py loads.
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import dossiers  # noqa: E402
     known, oq = set(), {}
-    if os.path.exists(MODEL):
-        with open(MODEL, encoding="utf-8") as fh:
-            m = json.load(fh)
-        for nid, d in (m.get("dossiers") or {}).items():
-            known.add(nid)
-            oq[nid] = len(d.get("openQuestions") or [])
+    if os.path.exists(BOARD):
+        with open(BOARD, encoding="utf-8") as fh:
+            b = json.load(fh)
+        known = {n["id"] for n in b["people"] + b["entities"]}
+    for nid, d in dossiers.load_dossiers().items():
+        oq[nid] = len(d.get("openQuestions") or [])
 
     unresolved, overrun = [], []
     for nid, rows in sorted(by_node.items()):

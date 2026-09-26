@@ -7,7 +7,6 @@
 "Deputy Federal US Marshal (auxiliary)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1947-06-24",
@@ -97,7 +96,6 @@
 "edgeLabel": "Arnold's case entered the official file series from the outset",
 "family": "testimony",
 "id": "project-blue-book",
-"l0": true,
 "label": "Project Blue Book",
 "note": "Army Air Forces intelligence investigated the sighting and the case documentation survives in the Blue Book record series now held at the National Archives.",
 "predicate": "brought_to_record",
@@ -129,7 +127,6 @@
 "edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
 "family": "place-time",
 "id": "roswell-1947",
-"l0": true,
 "label": "Roswell Incident",
 "note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
 "predicate": "led_to",
@@ -170,11 +167,9 @@
 "hl": null,
 "id": "kenneth-arnold",
 "instId": null,
-"l0": false,
 "label": "Kenneth Arnold",
 "loc": "Boise, ID",
 "locId": null,
-"members": null,
 "narrative": "Kenneth Arnold was a Boise businessman and experienced private pilot who, on 24 June 1947, reported nine crescent-shaped objects flying in formation near Mount Rainier at speeds he estimated above 1,200 mph. His description of their motion — 'like a saucer if you skipped it across water' — was garbled by wire services into 'flying saucer,' naming the phenomenon for the next twenty years. Arnold matters to this board for three reasons. First, his sighting is the trigger event: the 1947 wave, Roswell, the Twining memo and the Schulgen collection requirement all follow it within eighteen weeks. Second, he was interviewed by Army Air Forces intelligence officers, and the resulting case file entered the government record from the outset — the Air Force never treated him as a hoaxer, only as unexplained. Third, his treatment established the template applied to every subsequent civilian witness: initial official interest, then public ridicule. The relevant investigative files are preserved in the Project Blue Book microfilm at the National Archives and in scanned form in the NICAP document archive.",
 "photoCredit": null,
 "sequenceChain": [],

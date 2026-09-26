@@ -8,7 +8,6 @@
 "Task Force on the Declassification of Federal Secrets, Ranking Member (2025- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2025-02-11",
@@ -79,7 +78,6 @@
 "edgeLabel": "Called him as the minority witness and devoted her round to whistleblower protection architecture",
 "family": "oversight",
 "id": "joe-spielberger",
-"l0": false,
 "label": "Joe Spielberger",
 "note": "The policy bridge from UAP allegations to H.R. 5060.",
 "predicate": "questioned",
@@ -106,7 +104,6 @@
 "edgeLabel": "Ranking Member",
 "family": "role",
 "id": "task-force-declassification-federal-secrets",
-"l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "Printed as Ranking Member in the roster of CHRG-119hhrg61718.",
 "predicate": "member_of",
@@ -148,11 +145,9 @@
 "hl": null,
 "id": "jasmine-crockett",
 "instId": "house-oversight-committee",
-"l0": false,
 "label": "Jasmine Felicia Crockett",
 "loc": "Dallas, TX",
 "locId": null,
-"members": null,
 "narrative": "Crockett is the Democratic ranking member of the Task Force and the reason the September 2025 hearing was a bipartisan proceeding rather than a partisan one. Her opening statement placed UAP secrecy inside the documented history of American overclassification rather than outside it: 'from the assassinations of MLK and Malcolm X, to the FBI's Counterintelligence Program (COINTELPRO) and torture programs, to now UAPs. The Federal Government has kept the American public in the dark about issues of immense public interest.' She declined to adopt the non-human hypothesis, noting NASA has found no evidence of extraterrestrial origin and that adversary capability is a likely explanation - and then argued that none of that reduces the government's obligation to disclose or its obligation to protect the people who report. Her questioning went entirely to Joe Spielberger of the Project On Government Oversight on whistleblower protection architecture. She closed by thanking Luna for 'focusing on governing, which should be about transparency' and warning that 'we cause more harm than good when we allow a lack of transparency to fester.'",
 "photoCredit": null,
 "sequenceChain": [],

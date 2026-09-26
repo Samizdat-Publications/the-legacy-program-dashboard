@@ -3,7 +3,6 @@
 "C": 0,
 "D": 3,
 "absorbedBy": "foia-litigation",
-"band": null,
 "claims": [
 {
 "id": "c-1eaa9489b7",
@@ -70,7 +69,6 @@
 "edgeLabel": "Courtroom outcomes set the witness's risk calculus",
 "family": "analysis",
 "id": "d-litigation",
-"l0": false,
 "label": "Litigation",
 "note": "The dismissal in Cash v. United States and the withholding sustained in CAUS v. NSA together define the practical ceiling on judicial remedies in this field.",
 "predicate": "affects",
@@ -97,7 +95,6 @@
 "edgeLabel": "NDAs and IG channels bound what a witness may say",
 "family": "analysis",
 "id": "d-witness",
-"l0": false,
 "label": "Witness Chain",
 "note": "DODIG-2023-109 exists because personnel used the Inspector General channel; the legal domain determines which disclosures are protected and which are prosecutable.",
 "predicate": "affects",
@@ -131,10 +128,8 @@
 },
 "hl": null,
 "id": "d-legal",
-"l0": false,
 "label": "Legal Doctrine & Liability",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Legal Doctrine & Liability",
 "sourceFiles": [

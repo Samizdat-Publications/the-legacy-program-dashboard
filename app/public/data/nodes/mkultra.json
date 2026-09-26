@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 2,
-"band": "research",
 "claims": [
 {
 "id": "c-70b2d393c1",
@@ -103,7 +102,6 @@
 "edgeLabel": "Authorized MKULTRA as DCI, 13 April 1953",
 "family": "law",
 "id": "allen-w-dulles",
-"l0": false,
 "label": "Allen W. Dulles",
 "note": "The Inspector General's 1963 survey names Dulles as the authorizing Director; the Church Committee text in the 1977 hearing print gives the date as 13 April 1953, and a 1955 subproject invoice certification cites the same memorandum from the DCI to the DD/A.",
 "predicate": "created",
@@ -130,7 +128,6 @@
 "edgeLabel": "Investigated MKULTRA in 1975 without the finance file",
 "family": "oversight",
 "id": "church-committee",
-"l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
 "predicate": "investigated",
@@ -157,7 +154,6 @@
 "edgeLabel": "CIA umbrella project, authorized 1953",
 "family": "organisation",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "The 1963 Inspector General survey states the programme was authorized by the Director of Central Intelligence in 1953 and run out of the Technical Services Division on a waived-procedure share of its research budget.",
 "predicate": "ran",
@@ -184,7 +180,6 @@
 "edgeLabel": "Records destroyed January 1973; a misfiled finance set survived",
 "family": "analysis",
 "id": "d-records",
-"l0": false,
 "label": "Records & Archives",
 "note": "The destruction is recorded in the 1977 hearing print, and so is the accident that defeated it: finance folders sent to the Retired Records Center in 1970 outside normal procedure were missed in 1973 and again in 1975 and found in 1977.",
 "predicate": "exemplifies",
@@ -211,7 +206,6 @@
 "edgeLabel": "The death that made the cryptonym public",
 "family": "testimony",
 "id": "frank-olson-death-1953",
-"l0": false,
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "DCI Turner told the Senate in 1977 that the cryptonym MKULTRA became publicly known during the Rockefeller Commission and Church Committee investigations of 1975 when details of the drug-related death of Dr. Frank Olson were publicized.",
 "predicate": "brought_to_record",
@@ -238,7 +232,6 @@
 "edgeLabel": "The 2026 House Oversight task force hearing takes MKULTRA as its subject",
 "family": "documents",
 "id": "hearing-2026-06-30",
-"l0": false,
 "label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026",
 "note": "The board already carries the 30 June 2026 task force hearing under a title naming this project; the programme it is about is the one documented in the 1977 Senate print.",
 "predicate": "concerns",
@@ -265,7 +258,6 @@
 "edgeLabel": "The FOIA request that caused the recovery of the surviving MKULTRA file",
 "family": "testimony",
 "id": "john-marks-foia-f-76-374",
-"l0": false,
 "label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
 "note": "The Office of Technical Service reviewed its MKULTRA holdings for release to Marks and then searched the Retired Records Center, where the subproject finance folders were found.",
 "predicate": "brought_to_record",
@@ -292,7 +284,6 @@
 "edgeLabel": "The 1950 predecessor of the 1953 programme",
 "family": "organisation",
 "id": "project-bluebird",
-"l0": false,
 "label": "Project BLUEBIRD",
 "note": "Appendix B of the 1977 print treats BLUEBIRD/ARTICHOKE and MKULTRA as successive sections of one lineage of CIA chemical and biological behavioural work, the first approved in 1950 and the second in April 1953.",
 "predicate": "succeeded",
@@ -319,7 +310,6 @@
 "edgeLabel": "Certified subproject invoices 1955; Chief of TSD at the 1973 destruction",
 "family": "role",
 "id": "sidney-gottlieb",
-"l0": false,
 "label": "Sidney Gottlieb",
 "note": "His signature is on the Subproject 43 invoice certifications as Chief, TSS/CD in 1955, and the Church Committee text names him as the officer whose verbal order destroyed the programme's records in January 1973.",
 "predicate": "held_post",
@@ -388,53 +378,8 @@
 },
 "hl": null,
 "id": "mkultra",
-"l0": true,
 "label": "Project MKULTRA",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "allen-w-dulles",
-"label": "Allen W. Dulles",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "d-records",
-"label": "Records & Archives",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "frank-olson-death-1953",
-"label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "hearing-2026-06-30",
-"label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "john-marks-foia-f-76-374",
-"label": "John Marks FOIA request F-76-374 and the recovery of the MKULTRA finance file",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "project-bluebird",
-"label": "Project BLUEBIRD",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "sidney-gottlieb",
-"label": "Sidney Gottlieb",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Project MKULTRA",
 "sourceFiles": [

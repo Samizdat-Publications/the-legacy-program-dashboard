@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-ef4fb44dd5",
@@ -138,7 +137,6 @@
 "edgeLabel": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
 "family": "custody",
 "id": "atomic-energy-commission",
-"l0": true,
 "label": "Atomic Energy Commission",
 "note": "DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326.",
 "predicate": "holds",
@@ -165,7 +163,6 @@
 "edgeLabel": "Established as a DoD combat support agency by DoD Directive 5105.62",
 "family": "law",
 "id": "dod",
-"l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "Effective 1 October 1998 by DoD Directive 5105.62 of 30 September 1998, consolidating DSWA, OSIA, DTSA and OSD arms control elements.",
 "predicate": "created",
@@ -199,10 +196,8 @@
 },
 "hl": null,
 "id": "dtra",
-"l0": false,
 "label": "Defense Threat Reduction Agency",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Defense Threat Reduction Agency",
 "sourceFiles": [

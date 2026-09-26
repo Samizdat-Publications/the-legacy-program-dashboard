@@ -6,7 +6,6 @@
 "fasab"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-04",
@@ -58,7 +57,6 @@
 "edgeLabel": "Chairs the Board that owns SFFAS 56 since April 2026",
 "family": "role",
 "id": "fasab",
-"l0": false,
 "label": "Federal Accounting Standards Advisory Board (FASAB)",
 "note": "FASAB's board members page identifies Terry K. Patton as Chair since April 2026. Attested by FASAB.",
 "predicate": "led",
@@ -94,11 +92,9 @@
 "hl": null,
 "id": "terry-patton",
 "instId": "fasab",
-"l0": false,
 "label": "Terry K. Patton",
 "loc": "Washington, D.C.",
 "locId": "l-dc",
-"members": null,
 "narrative": "Terry K. Patton, professor emeritus at Midwestern State University, has chaired the Federal Accounting Standards Advisory Board since April 2026. He did not write SFFAS 56 - it issued on 4 October 2018, under a different Board - but he now chairs the body that owns it, that alone can amend or withdraw it, and that alone can issue the Interpretations contemplated by paragraph 8(c) which authorise further, unspecified modifications to public financial reports. The Board he chairs currently comprises R. Scott Bell of the Treasury, Eric S. Berman, Robert Dacey of the Government Accountability Office, Diane L. Dudley, Billy Morehead and David A. Vaudt. Any serious effort to force the record open on classified financial reporting has to pass through FASAB, because the permission structure is a FASAB pronouncement and not a statute: no legislation need be repealed to end it, only a standard withdrawn.",
 "photoCredit": null,
 "sequenceChain": [],

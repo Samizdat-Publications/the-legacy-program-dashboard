@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 1,
-"band": "custody",
 "claims": [
 {
 "id": "c-ae4af51af7",
@@ -138,7 +137,6 @@
 "edgeLabel": "Funded by AEC working fund advances; Chief and Deputy sat on the Military Liaison Committee",
 "family": "money",
 "id": "afswp",
-"l0": false,
 "label": "Armed Forces Special Weapons Project",
 "note": "The charter provides that AFSWP funds other than military pay come by working fund advances to the War Department from the Atomic Energy Commission out of money formerly available to the Manhattan Project, and the founding memorandum places the Chief and Deputy Chief on the Military Liaison Committee to the Commission.",
 "predicate": "funded",
@@ -165,7 +163,6 @@
 "edgeLabel": "The instrument that created the Commission",
 "family": "law",
 "id": "atomic-energy-act-1946",
-"l0": false,
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "Section 2(a) of this Act establishes the Atomic Energy Commission and section 10 gives it the born-secret regime the Commission then ran for twenty-eight years.",
 "predicate": "created",
@@ -192,7 +189,6 @@
 "edgeLabel": "Ties removal from the Restricted Data category to a formal procedure",
 "family": "law",
 "id": "atomic-energy-act-1954",
-"l0": false,
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "note": "Where the 1946 Act left declassification to open-ended Commission discretion, the 1954 Act routes it through section 142, including the transclassification of weapons-utilisation data into 'defense information' under section 142 d.",
 "predicate": "governs",
@@ -219,7 +215,6 @@
 "edgeLabel": "Abolished 1974; functions passed through ERDA to the Department of Energy",
 "family": "organisation",
 "id": "doe",
-"l0": true,
 "label": "United States Department of Energy",
 "note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
 "predicate": "succeeded",
@@ -251,7 +246,6 @@
 "edgeLabel": "Holds nuclear test participation and radiation exposure records from the Commission's era, under Atomic Energy Act authority",
 "family": "custody",
 "id": "dtra",
-"l0": false,
 "label": "Defense Threat Reduction Agency",
 "note": "DTRA's published Privacy Act inventory states it holds nuclear test participation and exposure records reaching back to 1945 and human radiation experimentation records reaching back to 1944, with the Atomic Energy Act of 1954 among its authorities. The Commission's own records are held separately by the National Archives as RG 326.",
 "predicate": "holds",
@@ -278,7 +272,6 @@
 "edgeLabel": "Chairman of the Commission",
 "family": "role",
 "id": "glenn-t-seaborg",
-"l0": false,
 "label": "Glenn T. Seaborg",
 "note": "Named 16 January 1961 and confirmed by the Senate on 24 February 1961 per the CIA's own chronology; in office on Commission letterhead in October 1961 and March 1963. No end date is attested by any record opened here.",
 "predicate": "led",
@@ -305,7 +298,6 @@
 "edgeLabel": "Absorbed Groom Lake into its Nevada real estate at CIA request, 1955",
 "family": "organisation",
 "id": "l-groom-lake",
-"l0": false,
 "label": "Groom Lake, Nevada",
 "note": "The CIA's own overhead reconnaissance history records that after the April 1955 overflight Bissell found Groom Lake was not part of the AEC proving ground, and that he and Miller asked the Commission to add it, which Chairman Lewis Strauss agreed to do.",
 "predicate": "part_of",
@@ -332,7 +324,6 @@
 "edgeLabel": "Area 51 was added to the Nevada Test Site by the Commission",
 "family": "organisation",
 "id": "l-nevada-test-site",
-"l0": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "The same CIA history states that Eisenhower approved the addition of the strip known by its map designation as Area 51 to the Nevada Test Site, and DNA 6040F separately locates Groom Lake at the northeast corner of the AEC's Nevada Proving Ground.",
 "predicate": "ran",
@@ -359,7 +350,6 @@
 "edgeLabel": "Member, Military Liaison Committee to the AEC",
 "family": "role",
 "id": "leslie-r-groves",
-"l0": false,
 "label": "Lt. Gen. Leslie R. Groves",
 "note": "He joined the Military Liaison Committee on 31 January 1947, four weeks before taking AFSWP, so the same officer sat on both sides of the military-civil split of the atomic programme.",
 "predicate": "member_of",
@@ -386,7 +376,6 @@
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
 "family": "analysis",
 "id": "manhattan-project-2",
-"l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine.",
 "predicate": "exemplifies",
@@ -475,59 +464,8 @@
 },
 "hl": null,
 "id": "atomic-energy-commission",
-"l0": true,
 "label": "Atomic Energy Commission",
 "locLabel": null,
-"members": [
-{
-"cls": "institution",
-"id": "afswp",
-"label": "Armed Forces Special Weapons Project",
-"tier": "B"
-},
-{
-"cls": "legislation",
-"id": "atomic-energy-act-1946",
-"label": "Atomic Energy Act of 1946 (McMahon Act)",
-"tier": "B"
-},
-{
-"cls": "legislation",
-"id": "atomic-energy-act-1954",
-"label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "dtra",
-"label": "Defense Threat Reduction Agency",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "glenn-t-seaborg",
-"label": "Glenn T. Seaborg",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-groom-lake",
-"label": "Groom Lake, Nevada",
-"tier": "A"
-},
-{
-"cls": "location",
-"id": "l-nevada-test-site",
-"label": "Nevada Test Site / Nevada National Security Site",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "leslie-r-groves",
-"label": "Lt. Gen. Leslie R. Groves",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Atomic Energy Commission",
 "sourceFiles": [

@@ -8,7 +8,6 @@
 "Army National Guard"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-05-08",
@@ -73,7 +72,6 @@
 "edgeLabel": "ODNI coordinating authority for the release programme",
 "family": "organisation",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Gabbard described the first release as an ongoing joint effort between intelligence and defence agencies; ODNI-numbered documents appear inside the war.gov series.",
 "predicate": "ran",
@@ -115,11 +113,9 @@
 "hl": null,
 "id": "tulsi-gabbard",
 "instId": "odni",
-"l0": false,
 "label": "Tulsi Gabbard",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Gabbard is the intelligence-community counterparty to Hegseth's PURSUE. When Release 01 went out on 8 May 2026 she framed it as an 'ongoing joint effort' coordinated between intelligence and defence agencies - the public confirmation that the release channel is interagency and not merely departmental. The structural evidence is in the file numbering: PURSUE Release 02 contains an ODNI-numbered item, ODNI-UAP-D001, a first-person narrative by a serving senior intelligence officer describing a one-hour multi-witness UAP encounter from a military helicopter in late 2025. That is an intelligence-community officer's operational account of an unresolved encounter, published under an ODNI document number on a Department of War website, which is a category of material ODNI had never previously put into the public record. Gabbard's ODNI is also the successor custodian of the 2021 Preliminary Assessment framework and of the annual UAP reporting obligation shared with AARO under 50 U.S.C. 3373. Her office has not published a separate 2025 or 2026 UAP assessment of its own; its visible output in this domain runs through the war.gov portal.",
 "photoCredit": null,
 "sequenceChain": [],

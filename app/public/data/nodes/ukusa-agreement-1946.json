@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-65a9ca19fe",
@@ -103,7 +102,6 @@
 "edgeLabel": "Released by NSA with its declassification markings on the pages",
 "family": "documents",
 "id": "nsa",
-"l0": true,
 "label": "National Security Agency",
 "note": "The pages carry the NSA declassification exemption marking NSA25X6 with EO 1.4.(d), and the copy opened comes from a mirror of the National Security Agency's UKUSA release. NSA did not exist in 1946; STANCIB was the United States party. The claim that NSA and GCHQ released the file jointly in 2010 was not verified from any record opened by this pass.",
 "predicate": "released",
@@ -137,10 +135,8 @@
 },
 "hl": null,
 "id": "ukusa-agreement-1946",
-"l0": false,
 "label": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "British-U.S. Communication Intelligence Agreement (UKUSA), 5 March 1946",
 "sourceFiles": [

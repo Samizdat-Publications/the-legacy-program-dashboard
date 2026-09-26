@@ -8,7 +8,6 @@
 "President of the United States (1974-1977)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1966-03-20",
@@ -96,7 +95,6 @@
 "edgeLabel": "Signed Private Law 94-126, 12 October 1976",
 "family": "place-time",
 "id": "frank-olson-death-1953",
-"l0": false,
 "label": "Death of Frank R. Olson, 1953, and the compensation and litigation that followed",
 "note": "Ford signed S. 3035 paying the widow and three children $187,500 each in full settlement, and said his administration had supported $1,250,000 and would support further relief legislation.",
 "predicate": "responded_to",
@@ -123,7 +121,6 @@
 "edgeLabel": "Ford forced the first congressional hearing on the subject",
 "family": "oversight",
 "id": "hearing-1966-04-05",
-"l0": false,
 "label": "House Armed Services Committee UFO Hearing",
 "note": "The House Minority Leader wrote to committee chairmen in late March 1966; the House Armed Services Committee held its one-day hearing on 5 April 1966, nineteen years into official investigation.",
 "predicate": "oversaw",
@@ -165,11 +162,9 @@
 "hl": null,
 "id": "gerald-ford",
 "instId": "oversight-congress",
-"l0": false,
 "label": "Gerald R. Ford",
 "loc": "Grand Rapids, MI",
 "locId": "l-dc",
-"members": null,
 "narrative": "Gerald Ford was House Minority Leader and the congressman for Grand Rapids when hundreds of Michigan residents reported objects near Dexter and Hillsdale in March 1966 and the Air Force's consultant offered swamp gas as an explanation. Ford's constituents were furious, and he wrote to the chairmen of the House Armed Services and Science and Astronautics committees demanding hearings, saying he believed the American people were entitled to a better explanation than had been given. The House Armed Services Committee held a one-day hearing on 5 April 1966 — the first congressional hearing on the subject in nineteen years of official investigation. Its practical output was not disclosure but the Condon Committee: the Air Force, pressed by Congress, contracted the University of Colorado study six months later, which then furnished the justification for shutting the whole program down. Ford's intervention is the template for what happens when this subject reaches Congress in the legacy era — pressure produces a study, and the study produces closure. He never returned to the subject as President.",
 "photoCredit": null,
 "sequenceChain": [],

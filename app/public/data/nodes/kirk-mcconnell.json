@@ -9,7 +9,6 @@
 "The Sol Foundation - Senior Legislative Affairs Officer (2024- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-12-16",
@@ -145,7 +144,6 @@
 "edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
 "family": "oversight",
 "id": "davis-sasc-briefing-2019",
-"l0": false,
 "label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
 "note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
 "predicate": "reports_to",
@@ -177,7 +175,6 @@
 "edgeLabel": "Senior Legislative Affairs Officer after 37 years on SASC",
 "family": "role",
 "id": "sol-foundation",
-"l0": true,
 "label": "The Sol Foundation",
 "note": "A private foundation recruited the professional staffer who ran the oversight paperwork on the relevant committees; he then authored its April 2026 briefing arguing for a UAP whistleblower restitution fund.",
 "predicate": "held_post",
@@ -227,11 +224,9 @@
 "hl": null,
 "id": "kirk-mcconnell",
 "instId": "sol-foundation",
-"l0": false,
 "label": "Kirk McConnell",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "McConnell is the person on this board who most directly connects the technical layer to the oversight layer, because he was the oversight layer. He spent thirty-seven years as a professional staffer on Capitol Hill, principally on defence and intelligence, with service on the Senate Armed Services Committee and on both the House and Senate intelligence committees, retiring in March 2024. His UAP work began after the December 2017 New York Times disclosures, and in his final years in government he participated in UAP investigations and helped draft the relevant legislation - which places him on the committee staff side of exactly the period in which Eric Davis briefed SASC staff on 21 October 2019, the UAP Task Force was stood up, the FY2022 IAA created the AOIMSG reporting requirements, and the UAP Disclosure Act was drafted. Since leaving he has advised UAP nonprofits and become Senior Legislative Affairs Officer at The Sol Foundation, where in April 2026 he authored Policy Briefing No. 2 proposing a UAP whistleblower restitution fund to incentivise disclosures to Congress. That a career SASC and intelligence-committee staffer now writes public briefings arguing that Congress needs to pay witnesses to come forward is itself a finding about how badly the ordinary oversight channels performed.",
 "photoCredit": null,
 "sequenceChain": [],

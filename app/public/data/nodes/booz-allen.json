@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-729ee7fab2",
@@ -41,7 +40,6 @@
 "edgeLabel": "The access architecture that denied Grusch his read-ons is largely contractor-built and contractor-maintained",
 "family": "conduct",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch was tasked to inventory the SAPs and CAPs relevant to the Task Force's congressional mandate and was refused. The billet lists, access rosters and classification guides that execute such refusals are administered in substantial part by security-support primes. No committee has requested those rosters.",
 "predicate": "acted_against",
@@ -78,7 +76,6 @@
 "edgeLabel": "Security-support primes administer the compartmentation the statute is supposed to make visible",
 "family": "organisation",
 "id": "usc-10-119",
-"l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Reasoning: Sec. 119 places the reporting duty on the Secretary of Defense, but the underlying program-protection and access records are held by contractors with no independent reporting obligation to Congress.",
 "predicate": "outside_of",
@@ -117,10 +114,8 @@
 },
 "hl": null,
 "id": "booz-allen",
-"l0": false,
 "label": "Booz Allen Hamilton",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Booz Allen Hamilton",
 "sourceFiles": [

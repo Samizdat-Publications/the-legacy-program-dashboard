@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-decd0fa511",
@@ -63,7 +62,6 @@
 "edgeLabel": "The materials line of effort and its published scope",
 "family": "documents",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I's magnesium-zinc-bismuth finding and the ORNL magnesium and aluminium analyses are the only physical-specimen work AARO has published.",
 "predicate": "cites",
@@ -100,7 +98,6 @@
 "edgeLabel": "competing materials programme",
 "family": "analysis",
 "id": "garry-nolan",
-"l0": false,
 "label": "Garry Nolan",
 "note": "The Sol Foundation's April 2026 peer-reviewed atomic and isotopic analysis of possible UAP material is the private-sector counterpart to AARO's two ORNL specimen studies, both of which resolved to terrestrial manufacture.",
 "predicate": "parallels",
@@ -132,7 +129,6 @@
 "edgeLabel": "former director at the laboratory that tests the specimens",
 "family": "place-time",
 "id": "sean-kirkpatrick",
-"l0": false,
 "label": "Sean M. Kirkpatrick",
 "note": "Recorded for proximity, not impropriety: the ORNL aluminium analysis and AARO supplement appeared in January 2026 while Kirkpatrick was CTO for defense and intelligence programs there.",
 "predicate": "concurrent_with",
@@ -171,10 +167,8 @@
 },
 "hl": null,
 "id": "aaro-ornl-materials-analyses",
-"l0": false,
 "label": "AARO / Oak Ridge National Laboratory materials analyses",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "AARO / Oak Ridge National Laboratory materials analyses",
 "sourceFiles": [

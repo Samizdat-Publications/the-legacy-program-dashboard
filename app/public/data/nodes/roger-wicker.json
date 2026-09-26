@@ -7,7 +7,6 @@
 "Chairman, Senate Armed Services Committee (2025- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2025-12-18",
@@ -106,7 +105,6 @@
 "edgeLabel": "Chaired SASC for the FY2026 authorization",
 "family": "other",
 "id": "ndaa-fy2026",
-"l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
 "predicate": "connected_to",
@@ -138,7 +136,6 @@
 "edgeLabel": "Reported an FY2027 NDAA containing no UAP provisions",
 "family": "law",
 "id": "ndaa-fy2027-s4784",
-"l0": false,
 "label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
 "note": "S. 4784 as reported returns zero occurrences of 'unidentified', 'UAP' or a citation to 50 U.S.C. 3373.",
 "predicate": "sponsored_law",
@@ -165,7 +162,6 @@
 "edgeLabel": "seat 1 of 12 - Chairman, Senate Armed Services",
 "family": "role",
 "id": "waived-sap-notification-group",
-"l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Also held a 119(e)(2) seat as Ranking Member during the 118th Congress.",
 "predicate": "member_of",
@@ -218,11 +214,9 @@
 "hl": null,
 "id": "roger-wicker",
 "instId": "us-senate",
-"l0": false,
 "label": "Roger F. Wicker",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Wicker holds the senior of the twelve seats that 10 U.S.C. 119(e)(2) designates. As chairman of the Senate Armed Services Committee he is entitled, jointly with his ranking member, to receive any special access program information the Secretary of Defense withholds from a section 119 report under the waiver authority, together with the Secretary's written justification for withholding it. He is also among the members entitled to the notification required by 119(f) before any SAP may be initiated, and to the classification-change reports required by 119(c) - the one category of report to which the waiver still attaches after the 2021 termination of subsections (a) and (b). Wicker is on the board for a structural reason rather than a UAP-specific one, and the absence of a UAP record is itself the point: he occupies one of only twelve offices in the United States government with a statutory entitlement to see inside a waived DoD special access program, and there is no public record of him having stated what he has or has not been shown. He was in the same twelve-member set during the 118th Congress, when he sat as ranking member opposite Jack Reed - meaning he held a 119(e)(2) seat at the time of the July 2023 Grusch testimony before the House Oversight Committee, a committee that has no entitlement under section 119 at all. His continuity across both configurations, ranking member then chairman, makes him the longest-serving current occupant of a 119(e)(2) seat on the Senate armed services side.",
 "photoCredit": null,
 "sequenceChain": [],

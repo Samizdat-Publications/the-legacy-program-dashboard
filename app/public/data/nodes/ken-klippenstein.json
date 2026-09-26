@@ -7,7 +7,6 @@
 "Independent (2024- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-08-09",
@@ -61,7 +60,6 @@
 "edgeLabel": "FOIA request that produced the records at issue in the suit",
 "family": "testimony",
 "id": "grusch-v-chapman",
-"l0": false,
 "label": "David C. Grusch v. Michael Chapman et al.",
 "note": "Klippenstein obtained Grusch's 2014 and 2018 Loudoun County emergency-custody police records under Virginia FOIA and published them in The Intercept on 9 August 2023; Grusch's civil action was against the Sheriff who released them, not the reporter.",
 "predicate": "brought_to_record",
@@ -93,7 +91,6 @@
 "edgeLabel": "Member of Congress characterizes the records leak as a discrediting operation",
 "family": "denial",
 "id": "nancy-mace",
-"l0": false,
 "label": "Nancy Ruth Mace",
 "note": "At the 9 September 2025 Task Force hearing Mace told a witness: 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.' The statement is in the official record; the identity of 'they' is not.",
 "predicate": "disputed",
@@ -161,11 +158,9 @@
 "hl": null,
 "id": "ken-klippenstein",
 "instId": "the-intercept",
-"l0": false,
 "label": "Ken Klippenstein",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Klippenstein obtained, by Virginia FOIA request to the Loudoun County Sheriff's Office, the police incident records of Grusch's 2014 and 2018 emergency custody episodes and published them in The Intercept on 9 August 2023, two weeks after the sworn testimony. The publication reframed the national conversation from what Grusch alleged to whether Grusch was well. Grusch sued the Sheriff over the release, not Klippenstein, and lost. Whatever the reporting's own merits, its timing and effect are the textbook shape of a whistleblower discrediting sequence, and members of Congress have said so on the record: at the 9 September 2025 hearing Rep. Nancy Mace told a subsequent witness, 'We know they did that to Mr. Grusch. They leaked his private medical information, horrific things.'",
 "photoCredit": null,
 "sequenceChain": [],

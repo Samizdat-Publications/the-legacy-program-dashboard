@@ -35,7 +35,7 @@
  */
 import {
   loadIndex, loadNode, loadClaims, loadEdges, loadTimeline, loadThreads,
-  loadPatents, loadFoia, loadMap,
+  loadPatents, loadFoia,
   type IndexNode, type ClaimRow, type EdgeRow, type TimelineEvent, type Claim,
 } from '../data';
 
@@ -134,7 +134,6 @@ function nodeLine(n: IndexNode): string {
     dates(n.dateStart, n.dateEnd),
     'deg ' + n.deg,
     'T1/T2/T3 ' + n.claims.join('/'),
-    n.l0 ? 'on map:' + (n.band || '?') : 'off map',
   ].join(' | ');
 }
 
@@ -158,8 +157,8 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'overview',
     description:
-      'What is on the board: every count, the eras, the map bands, the node classes, ' +
-      'the clusters, the threads, the patents, the entry paths and the editorial ' +
+      'What is on the board: every count, the eras, the node classes, ' +
+      'the clusters, the threads, the patents and the editorial ' +
       'start-here flags, all read live from the data. Call this FIRST when a question ' +
       'turns on what the board holds rather than on one record, and whenever you need ' +
       'a number: no count is written into any tool description, because a written-down ' +
@@ -198,9 +197,9 @@ export const TOOLS: ToolDef[] = [
         cls: { type: 'string', description: 'document, domain, event, institution, legislation, location, person or program' },
         cluster: { type: 'string', description: 'contractor, ffrdc, ic, legacy, media, other, oversight, research or witness' },
         tier: { type: 'string', description: 'node tier A, B or C: proximity to the programme, NOT credibility' },
-        band: { type: 'string', description: 'a map band id, e.g. custody. Only nodes on the program map carry one' },
+        band: { type: 'string', description: 'retired with the program map on 26 September 2026: no node carries a band now, and passing one says so' },
         era: { type: 'string', description: 'era id: 0, 1, 2, 3 or nd' },
-        on_map: { type: 'boolean', description: 'true for the 137 nodes on the program map' },
+        on_map: { type: 'boolean', description: 'retired with the program map on 26 September 2026: passing it says so' },
         label_contains: S.contains,
         date_from: { type: 'string', description: 'YYYY, YYYY-MM or YYYY-MM-DD; keeps nodes whose start date is on or after it' },
         date_to: { type: 'string', description: 'keeps nodes whose start date is on or before it' },
@@ -208,7 +207,7 @@ export const TOOLS: ToolDef[] = [
         min_t1: { type: 'integer', description: 'fewest Tier 1 claims' },
         max_t1: { type: 'integer', description: 'most Tier 1 claims, so 0 finds nodes with none' },
         sort: { type: 'string', description: 'degree (default), claims, t1, date, label' },
-        group_by: { type: 'string', description: 'cls, cluster, tier, band, era or decade' },
+        group_by: { type: 'string', description: 'cls, cluster, tier, era or decade' },
         count_only: S.count_only,
         limit: S.limit,
       },
@@ -227,7 +226,7 @@ export const TOOLS: ToolDef[] = [
         ids: { type: 'array', items: { type: 'string' }, description: 'node ids, at most ' + MAX_NODE_IDS },
         sections: {
           type: 'array', items: { type: 'string' },
-          description: 'restrict the record to any of: dossier, claims, edges, denials, timeline, questions, foia, members. Omit for all',
+          description: 'restrict the record to any of: dossier, claims, edges, denials, timeline, questions, foia. Omit for all (members went with the program map)',
         },
         max_claims: { type: 'integer', description: 'claims per node, default 40, up to 200' },
         max_edges: { type: 'integer', description: 'edges per node, default 60, up to 300' },
@@ -355,9 +354,9 @@ export const TOOLS: ToolDef[] = [
   {
     name: 'map',
     description:
-      'The program map: the nodes placed on it, in bands by eras, the occupancy of every ' +
-      'cell, the membership of a named cell, and the denial pairs drawn on it. Most of the ' +
-      'board is NOT on this map; `overview` gives both counts.',
+      'RETIRED. The program map was replaced by the Atlas of topics on 26 September 2026 ' +
+      '(redesign phase 11); calling this says so and names the tools that answer instead. ' +
+      'Use `nodes` with `era` for when, `edges` and `node` for what surrounds a node.',
     input_schema: {
       type: 'object',
       properties: {
@@ -401,9 +400,9 @@ export async function runTool(name: string, args: Args): Promise<string> {
 /* ---- overview ------------------------------------------------------------ */
 
 async function tOverview(): Promise<string> {
-  const [idx, threads, pat, mp] = await Promise.all([
+  const [idx, threads, pat] = await Promise.all([
     loadIndex(), loadThreads().catch(() => ({ threads: [] })),
-    loadPatents().catch(() => ({ patents: [] })), loadMap().catch(() => ({ entryPaths: [] })),
+    loadPatents().catch(() => ({ patents: [] })),
   ]);
   const c = idx.counts;
   const out: string[] = [];
@@ -413,13 +412,12 @@ async function tOverview(): Promise<string> {
   out.push('claims ' + (c.claims['1'] + c.claims['2'] + c.claims['3']) +
     ' (T1 ' + c.claims['1'] + ', T2 ' + c.claims['2'] + ', T3 ' + c.claims['3'] + ')');
   out.push('timeline events ' + c.timeline);
-  out.push('on the program map ' + c.l0 + ' of ' + c.nodes);
+  out.push('program map: retired on 26 September 2026; the Atlas of topics replaced it');
   out.push('threads ' + c.threads + ' · patents ' + c.patents + ' · drawing sheets ' + c.sheets);
   out.push('FOIA ' + c.foia.requests + ' drafted requests on ' + c.foia.questions +
     ' open questions across ' + c.foia.nodes + ' nodes. None filed.');
   out.push('');
   out.push('ERAS: ' + idx.eras.map((e) => e.id + '=' + e.label + ' (' + e.sub + ')').join(' · '));
-  out.push('MAP BANDS: ' + idx.bands.map((b) => b.id).join(' · '));
   out.push('CLASSES: ' + idx.classes.map((x) => x.id).join(' · '));
   out.push('CLUSTERS: ' + idx.clusters.map((x) => x.id).join(' · '));
   out.push('');
@@ -431,10 +429,6 @@ async function tOverview(): Promise<string> {
   if (ps.length) {
     out.push('PATENTS:');
     for (const p of ps) out.push('  ' + p.number + ' | ' + clip(p.title, 90) + ' | ' + (p.status || 'status not recorded'));
-  }
-  const eps = (mp as { entryPaths?: { id: string; label: string; total: number; onMap: number }[] }).entryPaths || [];
-  if (eps.length) {
-    out.push('ENTRY PATHS: ' + eps.map((e) => e.id + ' (' + e.total + ' nodes, ' + e.onMap + ' on the map)').join(' · '));
   }
   const flags = idx.nodes.filter((n) => n.hl != null).sort((a, b) => (a.hl || 0) - (b.hl || 0));
   if (flags.length) {
@@ -563,8 +557,12 @@ async function tFind(a: Args): Promise<string> {
 async function tNodes(a: Args): Promise<string> {
   const idx = await loadIndex();
   const cls = lower(a.cls), cluster = lower(a.cluster), tier = lower(a.tier);
-  const band = lower(a.band), era = lower(a.era), lab = lower(a.label_contains);
-  const onMap = bool(a.on_map);
+  const era = lower(a.era), lab = lower(a.label_contains);
+  /* the map's bands and its on-map flag went with the map: say so rather than
+     filter on a field no node carries any more */
+  if (lower(a.band) || bool(a.on_map) !== null || lower(a.group_by) === 'band') {
+    return RETIRED + '. No node carries a band or an on-map flag now; ask again without `band`, `on_map` or `group_by: band`.';
+  }
   const from = floorDate(str(a.date_from)), to = ceilDate(str(a.date_to));
   const minDeg = a.min_degree == null ? null : num(a.min_degree, 0, 0, 100000);
   const minT1 = a.min_t1 == null ? null : num(a.min_t1, 0, 0, 100000);
@@ -574,9 +572,7 @@ async function tNodes(a: Args): Promise<string> {
     if (cls && n.cls.toLowerCase() !== cls) return false;
     if (cluster && (n.cluster || '').toLowerCase() !== cluster) return false;
     if (tier && (n.tier || '').toLowerCase() !== tier) return false;
-    if (band && (n.band || '').toLowerCase() !== band) return false;
     if (era && String(n.era).toLowerCase() !== era) return false;
-    if (onMap !== null && n.l0 !== onMap) return false;
     if (lab && !(n.label + ' ' + (n.short || '') + ' ' + n.id).toLowerCase().includes(lab)) return false;
     if (from && !(n.dateStart && n.dateStart >= from)) return false;
     if (to && !(n.dateStart && n.dateStart <= to)) return false;
@@ -593,10 +589,9 @@ async function tNodes(a: Args): Promise<string> {
       gb === 'cls' ? n.cls
         : gb === 'cluster' ? (n.cluster || 'none')
           : gb === 'tier' ? (n.tier || 'none')
-            : gb === 'band' ? (n.band || 'off map')
               : gb === 'era' ? n.era + ' ' + (idx.eras.find((e) => e.id === n.era)?.label || '')
                 : gb === 'decade' ? (n.dateStart ? n.dateStart.slice(0, 3) + '0s' : 'undated')
-                  : '(group_by ' + gb + ' is not one of cls, cluster, tier, band, era, decade)';
+                  : '(group_by ' + gb + ' is not one of cls, cluster, tier, era, decade)';
     return cap(head + ', grouped by ' + gb + ':\n' + tally(rows.map(key)), 'grouping');
   }
   if (bool(a.count_only)) return head + '.';
@@ -699,10 +694,8 @@ async function tNode(a: Args): Promise<string> {
           (r.questions && r.questions.length ? ' | closes questions ' + r.questions.join(', ') : ''));
       }
     }
-    if (want('members') && rec.members && rec.members.length) {
-      L.push('members, ' + rec.members.length + ':');
-      for (const m of rec.members.slice(0, 60)) L.push('  ' + m.id + ' | ' + m.label + ' | ' + m.cls);
-    }
+    /* `members` (the people and documents a map node rolled up) went with the
+       program map in redesign phase 11; a node's neighbours are its edges. */
     if (rec.unverified) {
       const u = Array.isArray(rec.unverified) ? rec.unverified : [String(rec.unverified)];
       if (u.length) L.push('recorded as unverified: ' + u.map((x) => clip(x, 200)).join(' · '));
@@ -999,58 +992,14 @@ async function tFoia(a: Args): Promise<string> {
 }
 
 /* ---- map ----------------------------------------------------------------- */
+/* Retired in redesign phase 11 with the program map. The tool keeps its name and
+   its argument schema, so TOOLS_VERSION and the Worker's allowlist are
+   unchanged; it answers that the map is gone and names what answers instead. */
+const RETIRED = 'The program map was retired on 26 September 2026 (redesign phase 11) and the Atlas of topics replaced it';
 
-async function tMap(a: Args): Promise<string> {
-  const [idx, mp] = await Promise.all([loadIndex(), loadMap()]);
-  const bands = mp.bands || idx.bands;
-  const eras = mp.eras || idx.eras;
-  const cells = mp.cells || {};
 
-  if (bool(a.denials)) {
-    const dp = mp.denialPairs || [];
-    if (!dp.length) return 'The map carries no denial pairs.';
-    return cap('DENIAL PAIRS drawn on the program map, ' + dp.length + ':\n' +
-      dp.map((d) => '  ' + d.by + ' denies ' + d.of + ' [' + d.kind + '] ' + clip(d.label, 200)).join('\n'), 'denials');
-  }
-
-  const cell = lower(a.cell);
-  if (cell) {
-    const key = Object.keys(cells).find((k) => k.toLowerCase() === cell);
-    if (!key) return 'No cell `' + cell + '`. A cell id is band.era, e.g. ' + Object.keys(cells).slice(0, 4).join(', ') + '.';
-    const members = cells[key] || [];
-    const byId = new Map(idx.nodes.map((n) => [n.id, n]));
-    return cap('CELL ' + key + ' — ' + members.length + ' nodes:\n' +
-      members.map((m) => { const n = byId.get(m); return '  ' + (n ? nodeLine(n) : m + ' (not in the index)'); }).join('\n'), 'cell');
-  }
-
-  const band = lower(a.band), era = lower(a.era);
-  const out = ['PROGRAM MAP: ' + (idx.counts.l0) + ' of ' + idx.counts.nodes +
-    ' nodes, ' + bands.length + ' bands by ' + eras.length + ' eras. The other ' +
-    (idx.counts.nodes - idx.counts.l0) + ' nodes are on the board and not on this map.'];
-  out.push('eras: ' + eras.map((e) => e.id + '=' + e.label).join(' · '));
-  out.push('');
-  out.push('occupancy, band then era:');
-  for (const b of bands) {
-    if (band && b.id.toLowerCase() !== band) continue;
-    const row = eras.map((e) => {
-      const k = b.id + '.' + e.id;
-      return e.id + ':' + ((cells[k] || []).length);
-    }).join('  ');
-    const total = eras.reduce((s, e) => s + (cells[b.id + '.' + e.id] || []).length, 0);
-    out.push('  ' + b.id.padEnd(20) + ' ' + row + '   total ' + total);
-  }
-  if (era) {
-    const key = eras.find((e) => e.id.toLowerCase() === era);
-    if (key) {
-      out.push('');
-      out.push('era ' + key.id + ' (' + key.label + '), by band:');
-      for (const b of bands) {
-        const members = cells[b.id + '.' + key.id] || [];
-        if (members.length) out.push('  ' + b.id + ': ' + members.join(', '));
-      }
-    }
-  }
-  out.push('');
-  out.push('Ask for one cell with `cell: "<band>.<era>"` to see its members in full.');
-  return cap(out.join('\n'), 'map');
+async function tMap(_a: Args): Promise<string> {
+  return RETIRED + '. There is no map left to describe. For when a node sits, use `nodes` with ' +
+    '`era` or `group_by: era`; for what surrounds a node, `node` and `edges`; for how two ' +
+    'nodes connect, `path`; for the denials on the board, `edges` with its type filter.';
 }

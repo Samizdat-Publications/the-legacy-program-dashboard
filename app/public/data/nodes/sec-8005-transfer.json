@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-10b27323c4",
@@ -89,7 +88,6 @@
 "edgeLabel": "Annex tables are exempted from the section 8005 transfer ceiling",
 "family": "organisation",
 "id": "classified-annex",
-"l0": true,
 "label": "The Classified Annex (NDAA and Defense Appropriations)",
 "note": "Section 8006(b) of the FY2026 Defense Appropriations Act provides that amounts in the classified annex tables are not subdivisions of appropriations for section 8005 purposes; section 8005 applies only to movements between appropriation accounts. Attested by the enacted statutory text.",
 "predicate": "outside_of",
@@ -116,7 +114,6 @@
 "edgeLabel": "The administrative layer beneath the statutory transfer authority",
 "family": "law",
 "id": "reprogramming-dd1415",
-"l0": false,
 "label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
 "note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
 "predicate": "implements",
@@ -150,10 +147,8 @@
 },
 "hl": null,
 "id": "sec-8005-transfer",
-"l0": false,
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-09937cbcf0",
@@ -61,7 +60,6 @@
 "edgeLabel": "Hastings extended the Fawcett-Greenwood documentary method with named witnesses",
 "family": "analysis",
 "id": "robert-hastings",
-"l0": false,
 "label": "Robert L. Hastings",
 "note": "Hastings pairs the FOIA paper that 'Clear Intent' established with signed affidavits from named officers, which is the step the 1984 book could not take. Reasoning: comparison of the two evidence bases.",
 "predicate": "parallels",
@@ -93,7 +91,6 @@
 "edgeLabel": "Fawcett and Greenwood reconstructed the 1975 wave from FOIA documents",
 "family": "oversight",
 "id": "sac-overflights-1975",
-"l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CAUS filed on 26 December 1977; the Office of the Assistant Secretary of Defense identified twenty-four Joint Chiefs documents on 6 February 1978; Assistant Secretary Thomas Ross ordered the withheld fifteen released. The book reproduces and annotates them.",
 "predicate": "investigated",
@@ -120,7 +117,6 @@
 "edgeLabel": "Documentary method versus anonymous-testimony method",
 "family": "analysis",
 "id": "stringfield-status-reports",
-"l0": false,
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "note": "The two bodies of work are contemporaneous and methodologically opposite: 'Clear Intent' sources every claim to a released government document, the Status Reports to protected anonymous informants. Reasoning: the difference in grade this board assigns them is entirely a difference in sourcing, not in subject matter.",
 "predicate": "parallels",
@@ -159,10 +155,8 @@
 },
 "hl": null,
 "id": "clear-intent-1984",
-"l0": false,
 "label": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Clear Intent: The Government Coverup of the UFO Experience (1984)",
 "sourceFiles": [

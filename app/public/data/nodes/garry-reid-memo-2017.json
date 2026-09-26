@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-6f6a03a0e0",
@@ -61,7 +60,6 @@
 "edgeLabel": "Records an AFOSI inquiry into possible mishandling of classified material",
 "family": "documents",
 "id": "afosi",
-"l0": true,
 "label": "Air Force Office of Special Investigations",
 "note": "AFOSI examined the video handling and concluded the material was unclassified, closing the matter. Elizondo later alleged the inquiry was orchestrated against him.",
 "predicate": "concerns",
@@ -88,7 +86,6 @@
 "edgeLabel": "Author of both December 2017 memoranda",
 "family": "documents",
 "id": "garry-reid",
-"l0": false,
 "label": "Garry P. Reid",
 "note": "Reid wrote the memorandum for record and the memorandum for the Secretary asserting Elizondo 'aggrandized his role'.",
 "predicate": "wrote",
@@ -115,7 +112,6 @@
 "edgeLabel": "'Aggrandized his role'; 'no job responsibilities related to the AATIP'",
 "family": "denial",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "The first written denial of Elizondo's program role, produced inside OUSD(I) within a week of the NYT story and routed to the Secretary of Defense. Every later public denial restates it.",
 "predicate": "denied",
@@ -190,10 +186,8 @@
 },
 "hl": null,
 "id": "garry-reid-memo-2017",
-"l0": false,
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "sourceFiles": [

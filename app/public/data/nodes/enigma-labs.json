@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -64,7 +63,6 @@
 "edgeLabel": "Documented AARO contact with Enigma Labs, released heavily redacted",
 "family": "conduct",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "DoD released 50 pages of emails and internal correspondence between AARO and Enigma Labs under FOIA case 23-F-0711, finalized 3 July 2025, with the majority redacted under exemptions (b)(5) and (b)(6). The documents record multiple virtual and in-person meetings including then-Director Sean Kirkpatrick. One unredacted passage, apparently from Enigma Labs, reads: 'We have a team of 20 engineers, data scientists, and ex service vets with clearance who have built this rigorous product.' Set against that, the company's public position is 'We are not part of any country's government or military. We have no signed partnerships or collaborations to date.' Contact is documented; partnership is denied; the two are not in conflict, and the edge records the former.",
 "predicate": "in_contact_with",
@@ -96,7 +94,6 @@
 "edgeLabel": "Black Vault FOIA surfaced the AARO-Enigma correspondence",
 "family": "oversight",
 "id": "john-greenewald",
-"l0": false,
 "label": "John Greenewald Jr.",
 "note": "The Black Vault filed the request in January 2023 and it was finalized on 3 July 2025, which makes Greenewald's FOIA practice the origin point for public knowledge that AARO and Enigma Labs were in contact at all. He is appealing the redactions. The relationship here is that of requester to subject: nothing in the release suggests any other tie.",
 "predicate": "investigated",
@@ -128,7 +125,6 @@
 "edgeLabel": "Enigma cross-referencing PURSUE files against its civilian sighting database",
 "family": "documents",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "PURSUE publishes what the Department describes as 'unresolved cases, meaning the government is unable to make a definitive determination on the nature of the observed phenomena', on a rolling basis. Its own release index dates the first tranche to 8 May 2026 and runs through Release 05 on 7 August 2026. Tier 2 because the government page establishes the releases and their dates but says nothing about Enigma Labs; the statement that Enigma was folding PURSUE material into its maps and app comes from a consultant's remark that no primary source read here carries.",
 "predicate": "studied",
@@ -167,10 +163,8 @@
 },
 "hl": null,
 "id": "enigma-labs",
-"l0": false,
 "label": "Enigma Labs",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Enigma Labs",
 "sourceFiles": [

@@ -7,7 +7,6 @@
 "US Air Force, later Lieutenant General"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1947-07-08",
@@ -74,7 +73,6 @@
 "edgeLabel": "Ramey's headquarters overrode Marcel's base-level identification",
 "family": "denial",
 "id": "jesse-marcel",
-"l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "Marcel was photographed in Ramey's office beside balloon debris on 8 July 1947; thirty-one years later he stated the material had been substituted. The photographs are reproduced in the 1995 USAF report.",
 "predicate": "disputed",
@@ -101,7 +99,6 @@
 "edgeLabel": "Ramey retracted the disc announcement the same day",
 "family": "denial",
 "id": "raaf-press-release-1947",
-"l0": false,
 "label": "RAAF Press Release, 8 July 1947",
 "note": "The Eighth Air Force commanding general personally fronted a same-day correction identifying the debris as a weather balloon with radar reflector — the founding template for official UAP retraction.",
 "predicate": "denied",
@@ -133,7 +130,6 @@
 "edgeLabel": "Ramey retracted the RAAF statement the same day at Fort Worth",
 "family": "denial",
 "id": "roswell-1947",
-"l0": true,
 "label": "Roswell Incident",
 "note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.",
 "predicate": "denied",
@@ -237,11 +233,9 @@
 "hl": null,
 "id": "roger-ramey",
 "instId": "dod",
-"l0": false,
 "label": "Roger M. Ramey",
 "loc": "Fort Worth, TX",
 "locId": "l-fort-worth-tx",
-"members": null,
 "narrative": "Brigadier General Roger Ramey commanded the Eighth Air Force at Fort Worth Army Air Field and executed the retraction. Within hours of the RAAF press release he convened press at his office, displayed weather balloon and radar target material with Col. Thomas DuBose and weather officer Irving Newton, and killed the story nationally. The speed matters: a general officer commanding a numbered air force personally fronted a same-day correction of a subordinate unit's announcement, which is not routine public affairs practice — it is damage control at a level authorised from above. The Ramey office photographs taken by J. Bond Johnson of the Fort Worth Star-Telegram are the only contemporaneous images in the case, and one of them shows a sheet of paper in Ramey's hand whose partially legible text has been the subject of decades of imaging analysis without resolution. Ramey's counterpart action is the model for every later official retraction on this subject: assert a mundane explanation quickly, at a high enough rank that the press treats it as settled, and never revisit it.",
 "photoCredit": null,
 "sequenceChain": [],

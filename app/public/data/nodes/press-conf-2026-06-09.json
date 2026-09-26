@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-bde51b2525",
@@ -61,7 +60,6 @@
 "edgeLabel": "Escalates from concealment to fraud: 'slush funds to the tune of billions of dollars per annum'",
 "family": "media",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "At the Capitol press conference Grusch reframed the matter as fraud, waste and abuse, accused DIA of obstructing oversight, and said the government is aware of several kinds of non-human intelligence. Framed beforehand as 'moving from testimony to action.'",
 "predicate": "appeared_on",
@@ -93,7 +91,6 @@
 "edgeLabel": "Hosted the press conference",
 "family": "organisation",
 "id": "task-force-declassification-federal-secrets",
-"l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "The Task Force staged the event on the Capitol steps with Luna, Burchett, Burlison and Moskowitz to pressure the White House to convert the February 2026 declassification announcement into actual releases.",
 "predicate": "ran",
@@ -125,7 +122,6 @@
 "edgeLabel": "February announcement produced the June pressure campaign",
 "family": "place-time",
 "id": "trump-uap-release-directive-2026",
-"l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Grusch's framing was explicit: the President 'now has an historic opportunity; this press conference is about moving from testimony to action.' The event exists because the directive had not yet produced releases.",
 "predicate": "led_to",
@@ -164,10 +160,8 @@
 },
 "hl": null,
 "id": "press-conf-2026-06-09",
-"l0": false,
 "label": "Capitol UAP Disclosure Press Conference",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Capitol UAP Disclosure Press Conference",
 "sourceFiles": [

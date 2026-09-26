@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-570e174696",
@@ -69,7 +68,6 @@
 "edgeLabel": "Prior art: the SR-75 Penetrator designation and mothership architecture published commercially in 1993",
 "family": "place-time",
 "id": "tr-3b",
-"l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A stated inference and graded 3 accordingly. The designation and the mothership architecture are published, dated and boxed in 1993 with a named designer, and the Air Force told the same newspaper 'such a plane does not exist'. They reappear in 1998 as inside knowledge. The direction of priority is documented and one-directional; the direction of influence is not established and must not be inverted by a later session.",
 "predicate": "preceded",
@@ -138,10 +136,8 @@
 },
 "hl": null,
 "id": "testors-sr-75-kit",
-"l0": false,
 "label": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Testor Corp. SR-75 Penetrator and XR-7 Thunderdart model kits, 1993",
 "sourceFiles": [

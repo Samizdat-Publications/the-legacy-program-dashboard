@@ -3,7 +3,6 @@
 "C": 1,
 "D": 2,
 "absorbedBy": "nsc-spine",
-"band": null,
 "claims": [
 {
 "id": "c-674a0d6a71",
@@ -62,7 +61,6 @@
 "edgeLabel": "Elements and tradecraft",
 "family": "analysis",
 "id": "d-ic",
-"l0": false,
 "label": "Intelligence Community",
 "note": "The federated IC structure determines which element collects and analyses, and the seams between elements are where an activity can be nobody's to report.",
 "predicate": "affects",
@@ -89,7 +87,6 @@
 "edgeLabel": "Indications analysis on the atomic complex",
 "family": "documents",
 "id": "d-nuc",
-"l0": false,
 "label": "Nuclear Weapons Complex Nexus",
 "note": "Hancock, Porritt and Grosvenor applied formal intelligence indications methodology to UAP reporting against the US atomic warfare complex.",
 "predicate": "studied",
@@ -123,10 +120,8 @@
 },
 "hl": null,
 "id": "d-intel",
-"l0": false,
 "label": "Intelligence Tradecraft & Analysis",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Intelligence Tradecraft & Analysis",
 "sourceFiles": [

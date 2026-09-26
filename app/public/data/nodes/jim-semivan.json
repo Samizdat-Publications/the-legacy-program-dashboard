@@ -9,7 +9,6 @@
 "The Sol Foundation"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2007",
@@ -65,7 +64,6 @@
 "edgeLabel": "Continuity from TTSA into the successor policy institution",
 "family": "role",
 "id": "sol-foundation",
-"l0": true,
 "label": "The Sol Foundation",
 "note": "Semivan is listed among the Sol Foundation's people; the TTSA network reconstituted itself in academic and policy form after the company reverted to entertainment.",
 "predicate": "member_of",
@@ -97,7 +95,6 @@
 "edgeLabel": "Co-founder, VP Operations, director",
 "family": "role",
 "id": "ttsa",
-"l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "A retired CIA Senior Intelligence Service officer accepting a named directorship in an SEC-registered UFO company is a deliberate reputational commitment.",
 "predicate": "founded",
@@ -133,11 +130,9 @@
 "hl": null,
 "id": "jim-semivan",
 "instId": "ttsa",
-"l0": false,
 "label": "James 'Jim' Semivan",
 "loc": "Encinitas, CA",
 "locId": "l-encinitas",
-"members": null,
 "narrative": "Semivan is the CIA half of the TTSA founding triad and, with Puthoff and DeLonge, one of the three named directors on the company's SEC filings. He spent roughly 25 years in the CIA's clandestine service, retiring at Senior Intelligence Service rank, with overseas and headquarters assignments, work on foreign weapons systems and counterproliferation, service as Chief of Operations to the National Clandestine Service and as chief of a key operational unit, and receipt of the Agency's Career Intelligence Medal. In the 2018 Form 1-K he is listed as Vice President Operations, age 65, and as owner of the consulting firm JimSem1, LLC. His presence is the reason TTSA could not simply be dismissed as a musician's hobby: a retired SIS officer accepting a named corporate officership in a UFO company, and filing it with the SEC, is a deliberate reputational commitment. He remained after Elizondo, Mellon and Justice left in late 2020, and has since been a fixture of the successor institutional layer, appearing among the people of The Sol Foundation.",
 "photoCredit": null,
 "sequenceChain": [],

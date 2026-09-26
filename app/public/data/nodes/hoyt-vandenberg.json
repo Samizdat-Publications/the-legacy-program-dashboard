@@ -7,7 +7,6 @@
 "US Air Force Chief of Staff (1948-1953)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1946-06-10",
@@ -109,7 +108,6 @@
 "edgeLabel": "Vandenberg was DCI before becoming Air Force Chief of Staff",
 "family": "role",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "He directed Central Intelligence in 1946-1947 and then held the top Air Force post from 1948, arriving at the destruction decision already fluent in compartmentation.",
 "predicate": "held_post",
@@ -136,7 +134,6 @@
 "edgeLabel": "Vandenberg rejected the Estimate and ordered copies destroyed",
 "family": "denial",
 "id": "estimate-of-the-situation",
-"l0": false,
 "label": "Estimate of the Situation (1948)",
 "note": "The Air Force Chief of Staff rejected the interplanetary conclusion for lacking proof and had the document destroyed — the earliest documented destruction of an adverse UAP record, attested in the Air Force's own contracted study.",
 "predicate": "denied",
@@ -215,11 +212,9 @@
 "hl": null,
 "id": "hoyt-vandenberg",
 "instId": "dod",
-"l0": false,
 "label": "Hoyt S. Vandenberg",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "General Hoyt Vandenberg is the first documented destroyer of an inconvenient UAP record. He had been Director of Central Intelligence in 1946-1947 before becoming Air Force Chief of Staff in April 1948, so he arrived at the top of the Air Force already fluent in compartmentation. In mid-1948 the Project SIGN staff at Wright Field produced a Top Secret 'Estimate of the Situation' concluding the objects were interplanetary. Vandenberg rejected it for lack of proof and ordered it destroyed. This is not a fringe claim: it is stated in the Air Force's own contractor study, the Condon Report, which records that the estimate was prepared, that Vandenberg rejected it, and that copies were destroyed. The consequence was immediate and structural — SIGN was reorganised into Project GRUDGE on 11 February 1949 with an explicitly debunking posture, and the institutional lesson taught to every subsequent analyst was that the extraterrestrial conclusion was career-ending. Vandenberg's action set the template that the Robertson Panel formalised in 1953 and the Condon Committee executed in 1968.",
 "photoCredit": null,
 "sequenceChain": [],

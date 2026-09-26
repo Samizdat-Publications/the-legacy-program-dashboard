@@ -6,7 +6,6 @@
 "U.S. Navy, Office of the Deputy Chief of Naval Operations for Information Warfare"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2019-09-10",
@@ -65,7 +64,6 @@
 "edgeLabel": "'Neither the cognizant Navy offices nor DOPSR have record' of a 2017 unrestricted-release request",
 "family": "denial",
 "id": "dd-form-1910-2017",
-"l0": false,
 "label": "DD Form 1910 for GoFast, Gimbal and FLIR video files",
 "note": "A denial that is narrowly correct: the DD-1910 sought internal distribution and expressly said 'not for publication'. It rebuts TTSA's framing without rebutting the form's existence.",
 "predicate": "denied",
@@ -92,7 +90,6 @@
 "edgeLabel": "Navy designates the objects as unidentified aerial phenomena, 10 Sep 2019",
 "family": "testimony",
 "id": "navy-flir-gimbal-gofast-videos",
-"l0": false,
 "label": "FLIR1, Gimbal and GoFast Navy gun-camera videos",
 "note": "The single most consequential official concession of the period, made by a named service spokesman.",
 "predicate": "acknowledged",
@@ -160,11 +157,9 @@
 "hl": null,
 "id": "joseph-gradisher",
 "instId": "oni",
-"l0": false,
 "label": "Joseph Gradisher",
 "loc": "Arlington, VA",
 "locId": "l-pentagon",
-"members": null,
 "narrative": "Gradisher supplied the single most consequential official concession of the period and, in the same breath, the Navy's rebuttal of TTSA's release narrative. On 10 September 2019 he stated: 'The Navy designates the objects contained in these videos as unidentified aerial phenomena.' That sentence made FLIR1, Gimbal and GoFast officially unexplained. He simultaneously said 'The Navy has not released the videos to the general public' and that 'neither the cognizant Navy offices nor DOPSR have record of any correspondence responding to a request for unrestricted release of the subject videos in 2017' — directly undercutting the claim that the government had cleared the footage for publication. The DD Form 1910 Elizondo actually submitted supports Gradisher on the narrow point: it sought internal research and analysis distribution, expressly 'not for publication.' The two positions are reconcilable and both are in the record.",
 "photoCredit": null,
 "sequenceChain": [],

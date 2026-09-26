@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 0,
-"band": "retrieval",
 "claims": [
 {
 "id": "c-ca5e1efc6e",
@@ -119,7 +118,6 @@
 "edgeLabel": "AFOSI is the originating agency of the released Kirtland UFO file",
 "family": "documents",
 "id": "afosi-kirtland-file",
-"l0": false,
 "label": "AFOSI Kirtland AFB UFO File (1980-1983)",
 "note": "The file covering the Manzano Weapons Storage Area intrusions was released under FOIA and is archived in full by NICAP.",
 "predicate": "released",
@@ -151,7 +149,6 @@
 "edgeLabel": "Records an AFOSI inquiry into possible mishandling of classified material",
 "family": "documents",
 "id": "garry-reid-memo-2017",
-"l0": false,
 "label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
 "note": "AFOSI examined the video handling and concluded the material was unclassified, closing the matter. Elizondo later alleged the inquiry was orchestrated against him.",
 "predicate": "concerns",
@@ -178,7 +175,6 @@
 "edgeLabel": "Names AFOSI/PJ, the Office of Special Projects, as an operative node",
 "family": "documents",
 "id": "gerb-hidden-wing",
-"l0": false,
 "label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
 "note": "Gerb identifies AFOSI/PJ and its former director Terry Phillips - now Northrop Grumman VP for Security - as a bridge between Air Force counterintelligence and contractor security.",
 "predicate": "concerns",
@@ -205,7 +201,6 @@
 "edgeLabel": "AFOSI investigated the 1980 intrusions at the nuclear weapons storage area",
 "family": "oversight",
 "id": "kirtland-manzano-1980",
-"l0": false,
 "label": "Kirtland AFB / Manzano Weapons Storage Area incident",
 "note": "The intrusions occurred at the Manzano Weapons Storage Area adjacent to Sandia National Laboratories; AFOSI ran the investigation and simultaneously ran the Bennewitz operation.",
 "predicate": "investigated",
@@ -237,7 +232,6 @@
 "edgeLabel": "Documented AFOSI special agent at Kirtland, 1980",
 "family": "role",
 "id": "richard-doty",
-"l0": false,
 "label": "Richard C. Doty",
 "note": "Documented by the complaint form itself rather than by any of his own later accounts, which is the point: his service does not depend on the reliability of a self-described disinformation officer.",
 "predicate": "held_post",
@@ -269,7 +263,6 @@
 "edgeLabel": "Air Force felony investigative and counterintelligence field agency",
 "family": "organisation",
 "id": "usaf",
-"l0": true,
 "label": "United States Air Force",
 "note": "AFOSI is the Air Force's independent investigative agency with units 'located at most Air Force bases worldwide', covering espionage, terrorism and counterintelligence.",
 "predicate": "part_of",
@@ -296,7 +289,6 @@
 "edgeLabel": "AFOSI states it holds no records of any YANKEE BLUE investigation",
 "family": "denial",
 "id": "yankee-blue",
-"l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
 "predicate": "denied",
@@ -511,41 +503,8 @@
 },
 "hl": null,
 "id": "afosi",
-"l0": true,
 "label": "Air Force Office of Special Investigations",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "afosi-kirtland-file",
-"label": "AFOSI Kirtland AFB UFO File (1980-1983)",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "garry-reid-memo-2017",
-"label": "Garry Reid memoranda on AATIP and Elizondo, December 2017",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "gerb-hidden-wing",
-"label": "UAP Gerb - 'The Hidden Wing' (USAF structure)",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "kirtland-manzano-1980",
-"label": "Kirtland AFB / Manzano Weapons Storage Area incident",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "richard-doty",
-"label": "Richard C. Doty",
-"tier": "A"
-}
-],
 "openQuestions": [],
 "short": "AFOSI",
 "sourceFiles": [

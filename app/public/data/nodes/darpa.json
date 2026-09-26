@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 1,
-"band": "funding",
 "claims": [
 {
 "id": "c-aea674a897",
@@ -89,7 +88,6 @@
 "edgeLabel": "A copy went to the Director of ARPA at the Pentagon",
 "family": "custody",
 "id": "afswc-tr-59-39",
-"l0": false,
 "label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
 "note": "The distribution list reads 'Director, Advanced Research Projects Agency, Department of Defense, ATTN: Ward Low, The Pentagon, Wash 25, DC'.",
 "predicate": "transferred",
@@ -116,7 +114,6 @@
 "edgeLabel": "DARPA and the Air Force initiated FALCON in 2003",
 "family": "role",
 "id": "conventional-prompt-global-strike",
-"l0": false,
 "label": "Conventional Prompt Global Strike",
 "note": "DARPA and the Air Force initiated the FALCON programme in 2003, which produced the HTV-2 glide vehicle.",
 "predicate": "founded",
@@ -143,7 +140,6 @@
 "edgeLabel": "Founded under the authority of the 1947 Act",
 "family": "other",
 "id": "harry-s-truman",
-"l0": false,
 "label": "Harry S. Truman",
 "note": "The directive's establishment clause cites the National Security Act of 1947 as amended, together with Reorganization Plan No. 6 of 1953.",
 "predicate": "connected_to",
@@ -170,7 +166,6 @@
 "edgeLabel": "Held the ARPA post of Assistant Director, Administration",
 "family": "role",
 "id": "lawrence-p-gise",
-"l0": false,
 "label": "Lawrence P. Gise",
 "note": "The Official Register of the United States 1959 places him in that post as of 1 May 1959, on the same page as Director Roy W. Johnson.",
 "predicate": "held_post",
@@ -197,7 +192,6 @@
 "edgeLabel": "Issued the directive that established ARPA",
 "family": "law",
 "id": "neil-h-mcelroy",
-"l0": false,
 "label": "Neil H. McElroy",
 "note": "DoD Directive 5105.15 of 7 February 1958 established the Agency in the Office of the Secretary of Defense with its Director reporting to the Secretary. The board's DARPA node has carried no founding instrument until now.",
 "predicate": "created",
@@ -224,7 +218,6 @@
 "edgeLabel": "DARPA a named partner in the programme, 1978 to 1985",
 "family": "role",
 "id": "northrop-tacit-blue",
-"l0": false,
 "label": "Northrop TACIT BLUE",
 "note": "'The USAF, the Defense Advanced Research Projects Agency, and the Northrop Corp. worked together from 1978 to 1985.' This is what a documented DARPA black-programme involvement actually looks like in a primary record, and it is worth having on the board next to the Fouche file's use of the same four letters.",
 "predicate": "worked_with",
@@ -251,7 +244,6 @@
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
 "family": "oversight",
 "id": "odni",
-"l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names DARPA among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
@@ -278,7 +270,6 @@
 "edgeLabel": "The Fouche file's DARPA invocation rests on a letter from a personnel office",
 "family": "testimony",
 "id": "tr-3b",
-"l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "DARPA is the single most reused word in the Fouche corpus and the board's existing darpa node should carry this explicitly. The document that carries the invocation bears no classification marking, is signed by a technical sergeant in an assignments section of a personnel directorate, and is captioned by Fouche himself with the agency's name wrong, as 'Defense Advanced Research Agency'.",
 "predicate": "alleged_tie",
@@ -310,7 +301,6 @@
 "edgeLabel": "The open counterfactual to a concealed breakthrough-technology effort",
 "family": "analysis",
 "id": "waived-usap",
-"l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "DARPA runs breakthrough research with named program managers, published solicitations and a public budget of $4.322 billion enacted for FY2026. Reasoning: a concealed eighty-year exploitation effort producing no transitions is either failing or structured specifically to avoid DARPA-style visibility.",
 "predicate": "parallels",
@@ -398,47 +388,8 @@
 },
 "hl": null,
 "id": "darpa",
-"l0": true,
 "label": "Defense Advanced Research Projects Agency",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "afswc-tr-59-39",
-"label": "AFSWC TR-59-39 Vol I, A Study of Lunar Research Flights, 19 June 1959",
-"tier": "A"
-},
-{
-"cls": "program",
-"id": "conventional-prompt-global-strike",
-"label": "Conventional Prompt Global Strike",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "harry-s-truman",
-"label": "Harry S. Truman",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "lawrence-p-gise",
-"label": "Lawrence P. Gise",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "neil-h-mcelroy",
-"label": "Neil H. McElroy",
-"tier": "B"
-},
-{
-"cls": "program",
-"id": "northrop-tacit-blue",
-"label": "Northrop TACIT BLUE",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "DARPA",
 "sourceFiles": [

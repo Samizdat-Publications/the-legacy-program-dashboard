@@ -7,7 +7,6 @@
 "UFO Crash Retrieval Conference, organiser"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1999",
@@ -60,7 +59,6 @@
 "edgeLabel": "Co-principal of the document archive",
 "family": "role",
 "id": "majestic-documents-archive",
-"l0": false,
 "label": "The Majestic Documents archive (Wood and Wood)",
 "note": "Same copyright notice and About page attribution.",
 "predicate": "held_post",
@@ -87,7 +85,6 @@
 "edgeLabel": "Compiled the crash-retrieval catalogue",
 "family": "documents",
 "id": "majic-eyes-only",
-"l0": false,
 "label": "Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology (2005)",
 "note": "Ryan S. Wood authored 'Majic Eyes Only' (2005), converting the narrative retrieval literature into an indexed catalogue with credibility weightings.",
 "predicate": "wrote",
@@ -124,11 +121,9 @@
 "hl": null,
 "id": "ryan-wood",
 "instId": null,
-"l0": false,
 "label": "Ryan S. Wood",
 "loc": "Broomfield, CO",
 "locId": null,
-"members": null,
 "narrative": "Ryan S. Wood did the thing the retrieval field had never done: he built a catalogue. 'Majic Eyes Only: Earth's Encounters with Extraterrestrial Technology' (2005) assembles the claimed crash-retrieval events into a single indexed database, each entry given a date, a location, a source trail and a numerical credibility weighting, running from the 1940s to the modern era and totalling seventy-plus events. The book is the direct methodological descendant of Stringfield's Status Reports and of Kevin Randle's 'A History of UFO Crashes', but where Stringfield presented anonymised narratives and Randle presented case essays, Wood presented rows in a table with a scoring column - which is what makes it usable and what makes it attackable. Wood also co-runs The Majestic Documents archive with his father Robert M. Wood and organises the annual UFO Crash Retrieval Conference series, which functioned through the 2000s as the field's clearing house for new retrieval claims. For this board, 'Majic Eyes Only' is best treated as the field's index rather than as its evidence: it is where you go to find out that a claim exists and who first made it, not to find out whether it is true.",
 "photoCredit": null,
 "sequenceChain": [],

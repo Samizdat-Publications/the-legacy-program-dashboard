@@ -10,7 +10,6 @@
 "American Nuclear Society (President)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2015-01-01",
@@ -78,7 +77,6 @@
 "edgeLabel": "Came to MITRE directly from Battelle's executive suite",
 "family": "role",
 "id": "battelle",
-"l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Peters was executive vice president for laboratory management and operations at Battelle Memorial Institute and previously president of Battelle Energy Alliance LLC and director of Idaho National Laboratory.",
 "predicate": "held_post",
@@ -110,7 +108,6 @@
 "edgeLabel": "President and CEO from 3 September 2024",
 "family": "role",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
 "predicate": "led",
@@ -147,11 +144,9 @@
 "hl": null,
 "id": "mark-peters",
 "instId": "mitre-corporation",
-"l0": false,
 "label": "Mark Todd Peters",
 "loc": "McLean, VA",
 "locId": "l-mclean",
-"members": null,
 "narrative": "Peters is the single cleanest illustration of how the FFRDC layer moves its own people between the seams. He is a geophysicist (BS geology, Auburn; PhD geophysical sciences, University of Chicago) who spent his career inside contractor-operated federal laboratories: Associate Laboratory Director for Energy and Global Security at Argonne, then Director of Idaho National Laboratory and President of Battelle Energy Alliance LLC, then Executive Vice President for Laboratory Management and Operations at Battelle Memorial Institute itself. On 27 June 2024 MITRE announced he would become its tenth president and CEO, effective 3 September 2024, succeeding Jason Providakes. That single move connects the two institutions that bracket this entire board's chronology: Battelle, which ran the Air Force's own statistical UFO study as Project Stork and produced Blue Book Special Report No. 14 in 1955 and whose Wright-Patterson metallurgical contracts sit at the centre of the Roswell memory-metal allegations, and MITRE, which Rep. Eric Burlison would formally interrogate about legacy crash-retrieval and reverse-engineering records less than two years later. Peters also chaired the National Laboratory Directors' Council, the body that coordinates and advises DOE across the entire contractor-operated laboratory complex, and sits on the National Academies Board on Human-Systems Integration. He is the executive who received Burlison's 22 May 2026 production request, and MITRE's public response - that it was reviewing its archives and would 'coordinate with the federal agencies responsible for the work' - is his corporation's answer, not a government one. That formulation is the whole problem in a sentence: the FFRDC does not decide what Congress sees; the sponsoring agency does.",
 "photoCredit": null,
 "sequenceChain": [],

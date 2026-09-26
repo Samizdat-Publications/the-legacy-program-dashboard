@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-37dc9a0dea",
@@ -63,7 +62,6 @@
 "edgeLabel": "The Condon Committee was hosted by the University of Colorado at Boulder",
 "family": "place-time",
 "id": "condon-committee",
-"l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "The Air Force contract was announced in October 1966 at $313,000, eventually exceeding $500,000, with Condon as director and Robert Low as coordinator.",
 "predicate": "located_at",
@@ -90,7 +88,6 @@
 "edgeLabel": "The Low memo shows the conclusion was framed before the study began",
 "family": "denial",
 "id": "low-memo",
-"l0": false,
 "label": "Low Memorandum (\"the trick would be...\")",
 "note": "Low's 9 August 1966 memorandum proposed a study 'conducted almost entirely by non-believers' with 'almost zero expectation of finding a saucer'. James E. McDonald found it in the project files in July 1967.",
 "predicate": "denied",
@@ -158,10 +155,8 @@
 },
 "hl": null,
 "id": "l-boulder-co",
-"l0": false,
 "label": "Boulder, Colorado",
 "locLabel": "Boulder, Colorado, USA",
-"members": null,
 "openQuestions": [],
 "short": "Boulder, Colorado",
 "sourceFiles": [

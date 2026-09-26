@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -34,7 +33,6 @@
 "edgeLabel": "GEIPAN's operating base",
 "family": "analysis",
 "id": "d-international",
-"l0": false,
 "label": "International & Allied Programs",
 "note": "GEIPAN has operated within CNES at Toulouse since 1977, publishing classifications and statistics openly.",
 "predicate": "exemplifies",
@@ -71,10 +69,8 @@
 },
 "hl": null,
 "id": "l-toulouse",
-"l0": false,
 "label": "Toulouse, France",
 "locLabel": "Toulouse, France",
-"members": null,
 "openQuestions": [],
 "short": "Toulouse, France",
 "sourceFiles": [

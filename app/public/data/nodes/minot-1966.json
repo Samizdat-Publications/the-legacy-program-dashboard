@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-7d14959e0b",
@@ -66,7 +65,6 @@
 "edgeLabel": "The 1966 incursions were over this installation's Minuteman launch facilities",
 "family": "place-time",
 "id": "l-minot",
-"l0": false,
 "label": "Minot AFB, North Dakota",
 "note": "Minot AFB is named in the 1975 CINCNORAD message as one of the installations with a recurring history; the 1966 material is the board's existing node.",
 "predicate": "occurred_at",
@@ -93,7 +91,6 @@
 "edgeLabel": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
 "family": "place-time",
 "id": "malmstrom-echo-flight-1967",
-"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
 "predicate": "preceded",
@@ -120,7 +117,6 @@
 "edgeLabel": "Publishes the 25 August 1966 Minot documents in facsimile",
 "family": "testimony",
 "id": "robert-hastings",
-"l0": false,
 "label": "Robert L. Hastings",
 "note": "Three Air Force documents dated 25 August 1966 and Minot Daily News coverage of 6 December 1966 are reproduced in the archive.",
 "predicate": "brought_to_record",
@@ -154,10 +150,8 @@
 },
 "hl": null,
 "id": "minot-1966",
-"l0": false,
 "label": "Minot AFB incursions, 1966",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Minot AFB incursions, 1966",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-6f2957a7d0",
@@ -47,7 +46,6 @@
 "edgeLabel": "operational precursor",
 "family": "place-time",
 "id": "uap-science-advisory-council",
-"l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Same subject matter, same sponsoring office and an overlapping population of independent researchers, ten months apart.",
 "predicate": "preceded",
@@ -86,10 +84,8 @@
 },
 "hl": null,
 "id": "aaro-aui-workshop-2025",
-"l0": false,
 "label": "AARO invite-only UAP research workshop (early August 2025)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "AARO invite-only UAP research workshop (early August 2025)",
 "sourceFiles": [

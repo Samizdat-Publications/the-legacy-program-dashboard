@@ -4,7 +4,6 @@
 "D": 2,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -50,7 +49,6 @@
 "edgeLabel": "Author of Project Beta (2005)",
 "family": "documents",
 "id": "project-beta-bishop-2005",
-"l0": false,
 "label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
 "note": "Authorship, typed research by rule. Bibliographic record is Tier 1: Paraview Pocket Books, 8 February 2005, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877.",
 "predicate": "wrote",
@@ -84,11 +82,9 @@
 "hl": null,
 "id": "greg-bishop",
 "instId": null,
-"l0": false,
 "label": "Greg Bishop",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Greg Bishop wrote the principal account of the Bennewitz affair and is also, twenty years later, a live source the board already quotes. Project Beta: The Story of Paul Bennewitz, National Security, and the Creation of a Modern UFO Myth was published by Paraview Pocket Books on 8 February 2005, ISBN 9780743470926, 288 pages, LCCN 2005297375, OCLC 57678877. That bibliographic record is clean and Tier 1. One caveat travels with every citation of the book and it comes from a source that volunteers it against its own interest: Stephen Fisher, writing in November 2025 and himself relying almost entirely on Bishop, states that Bishop had an undisclosed friendship with Bill Moore, one of the two men the book is about. That does not discredit the book. It means the book is a participant account at one remove and should never be the sole source for a claim about Moore's conduct. The board separately carries two Tier 2 claims sourced to Bishop's appearance on American Alchemy with Jesse Michels of 5 July 2025, including his statement that the specific thing he knows Moore did was to be told to give Bennewitz the Aquarius document. Building this node consolidates the 2005 book and the 2025 statements so that they do not drift apart into unrelated citations.",
 "photoCredit": null,
 "sequenceChain": [],

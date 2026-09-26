@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-b96f376701",
@@ -61,7 +60,6 @@
 "edgeLabel": "GEIPAN is a unit of CNES at Toulouse",
 "family": "organisation",
 "id": "geipan",
-"l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "The French office has been hosted inside the national space agency continuously since 1977, an arrangement Norlain called unique in the world.",
 "predicate": "part_of",
@@ -100,10 +98,8 @@
 },
 "hl": null,
 "id": "cnes",
-"l0": false,
 "label": "Centre National d'Études Spatiales (CNES)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Centre National d'Études Spatiales (CNES)",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 2,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-8842cfeaa7",
@@ -75,7 +74,6 @@
 "edgeLabel": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
 "family": "custody",
 "id": "cufos",
-"l0": false,
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "note": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
 "predicate": "holds",
@@ -102,7 +100,6 @@
 "edgeLabel": "Names the NICAP case files as one of its three major collections, on its own account",
 "family": "custody",
 "id": "nicap",
-"l0": true,
 "label": "National Investigations Committee on Aerial Phenomena (NICAP)",
 "note": "The Center names NICAP's case files as one of its three major historical collections, on its own collections page and on its own account.",
 "predicate": "holds",
@@ -136,10 +133,8 @@
 },
 "hl": null,
 "id": "nufohrc",
-"l0": false,
 "label": "National UFO Historical Records Center",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "National UFO Historical Records Center",
 "sourceFiles": [

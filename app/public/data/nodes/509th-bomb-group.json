@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -76,7 +75,6 @@
 "edgeLabel": "509th intelligence office took possession of the Roswell debris",
 "family": "custody",
 "id": "roswell-1947",
-"l0": true,
 "label": "Roswell Incident",
 "note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947.",
 "predicate": "holds",
@@ -113,7 +111,6 @@
 "edgeLabel": "Congressionally requested GAO search of 509th and RAAF records",
 "family": "oversight",
 "id": "us-house",
-"l0": true,
 "label": "United States House of Representatives",
 "note": "At the request of Rep. Steven H. Schiff, GAO searched for records of the units assigned to RAAF in 1947, including the 509th Bomb Group. It found that RAAF administrative records (Mar 1945-Dec 1949) and RAAF outgoing messages (Oct 1946-Dec 1949) had been destroyed, with the disposition form failing to record who destroyed them, when, or under what authority.",
 "predicate": "requested",
@@ -157,10 +154,8 @@
 },
 "hl": null,
 "id": "509th-bomb-group",
-"l0": false,
 "label": "509th Bomb Group",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "509th Bomb Group",
 "sourceFiles": [

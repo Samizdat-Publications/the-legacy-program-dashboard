@@ -7,7 +7,6 @@
 "International UFO Museum and Research Center, Roswell (board)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1991",
@@ -65,7 +64,6 @@
 "edgeLabel": "Co-authors of the two Roswell books, later estranged",
 "family": "role",
 "id": "kevin-randle",
-"l0": false,
 "label": "Kevin D. Randle",
 "note": "'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994). Randle later broke with Schmitt over Schmitt's misrepresentation of his own background and withdrew support for witnesses they had jointly relied on.",
 "predicate": "worked_with",
@@ -92,7 +90,6 @@
 "edgeLabel": "Schmitt drafted and embargoed the 2002 Haut affidavit",
 "family": "testimony",
 "id": "walter-haut",
-"l0": false,
 "label": "Walter Haut",
 "note": "Schmitt composed and emailed the text; Haut signed it at the International UFO Museum before his daughter Julie Shuster and a notary; it was withheld until after Haut's death in 2005 and published in 'Witness to Roswell' (2007).",
 "predicate": "told",
@@ -129,11 +126,9 @@
 "hl": null,
 "id": "don-schmitt",
 "instId": "cufos",
-"l0": false,
 "label": "Donald R. Schmitt",
 "loc": "Hubertus, WI",
 "locId": null,
-"members": null,
 "narrative": "Donald R. Schmitt was co-director of special investigations at the J. Allen Hynek Center for UFO Studies and, with Kevin Randle, co-authored 'UFO Crash at Roswell' (1991) and 'The Truth About the UFO Crash at Roswell' (1994) - the pair of books that converted Roswell from a 1980 paperback claim into a subject Congress asked the General Accounting Office to audit. The two books advanced substantially different crash scenarios from each other, which is itself part of the record: the 1994 book relocated the impact site and revised the timeline relative to 1991, on the strength of witnesses who were later withdrawn. Schmitt subsequently partnered with Thomas J. Carey on 'Witness to Roswell' (2007) and 'Inside the Real Area 51' (2013), continuing to develop the deathbed-testimony strand of the case, most importantly the sealed 2002 affidavit of Walter Haut. Schmitt's credibility was damaged in the mid-1990s when it emerged that he had misrepresented his professional background to fellow researchers, and Randle broke with him publicly over it. This board records that because a witness-chain researcher's own reliability is load-bearing on every uncorroborated witness he introduces.",
 "photoCredit": null,
 "sequenceChain": [],

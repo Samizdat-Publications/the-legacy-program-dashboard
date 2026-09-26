@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-17c434d555",
@@ -89,7 +88,6 @@
 "edgeLabel": "Chairs the deconfliction forum at the DoD SAPCO director level",
 "family": "law",
 "id": "dodi-5205-11",
-"l0": true,
 "label": "DoDI 5205.11 - Management, Administration, and Oversight of DoD SAPs (12 Sep 2024)",
 "note": "DoDI 5205.11 Enclosure 3 para 4.a makes the Director, DoD SAPCO the SSWG Chair, with SAPCO directors from USD(I), USD(P), USD(AT&L), the services, the Joint Staff, DARPA and MDA.",
 "predicate": "governs",
@@ -123,10 +121,8 @@
 },
 "hl": null,
 "id": "sswg",
-"l0": false,
 "label": "SAP Senior Working Group (SSWG)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "SAP Senior Working Group (SSWG)",
 "sourceFiles": [

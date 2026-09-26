@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-20f457eff9",
@@ -89,7 +88,6 @@
 "edgeLabel": "The memorandum's subject is this installation",
 "family": "documents",
 "id": "l-loring",
-"l0": false,
 "label": "Loring AFB, Maine",
 "note": "Subject line 'AFB Penetration'; Loring AFB Maine named in paragraph 1.",
 "predicate": "concerns",
@@ -116,7 +114,6 @@
 "edgeLabel": "The command-level record of the penetration and the failed response",
 "family": "documents",
 "id": "loring-1975",
-"l0": false,
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "note": "Five numbered paragraphs plus four DDO updates, each citing its source message.",
 "predicate": "concerns",
@@ -143,7 +140,6 @@
 "edgeLabel": "SAC is the reporting chain throughout the memorandum",
 "family": "documents",
 "id": "strategic-air-command",
-"l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "NORAD was informed by SAC; the SAC Command Center reported the failed search; SAC CP OPS CONTROL 291954Z OCT 75 is cited as a source message.",
 "predicate": "concerns",
@@ -177,10 +173,8 @@
 },
 "hl": null,
 "id": "doc-nmcc-loring-1975",
-"l0": false,
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "sourceFiles": [

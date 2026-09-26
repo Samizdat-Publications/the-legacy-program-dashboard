@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-afe4a3cbdf",
@@ -33,7 +32,6 @@
 "edgeLabel": "Professor of Economics",
 "family": "role",
 "id": "laurence-kotlikoff",
-"l0": false,
 "label": "Laurence J. Kotlikoff",
 "note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
 "predicate": "held_post",
@@ -67,10 +65,8 @@
 },
 "hl": null,
 "id": "boston-university",
-"l0": false,
 "label": "Boston University",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Boston University",
 "sourceFiles": [

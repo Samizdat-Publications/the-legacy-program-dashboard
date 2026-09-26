@@ -6,7 +6,6 @@
 "Office of the Assistant to the Secretary of Defense for Public Affairs (2017)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-12-16",
@@ -38,7 +37,6 @@
 "edgeLabel": "Confirmed the program existed and was shut down in 2012",
 "family": "testimony",
 "id": "aatip",
-"l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "The Department's original December 2017 position was acknowledgement with a budgetary rationale — 'other, higher priority issues that merit' the funding — not denial.",
 "predicate": "acknowledged",
@@ -74,11 +72,9 @@
 "hl": null,
 "id": "thomas-crosson",
 "instId": "dod",
-"l0": false,
 "label": "Thomas Crosson",
 "loc": "Arlington, VA",
 "locId": "l-pentagon",
-"members": null,
 "narrative": "Crosson is the Pentagon spokesman quoted in the 16 December 2017 New York Times story that broke AATIP. His contribution was the Department's original position: the program existed, it had been funded, and it had been shut down in 2012 because 'it was determined that there were other, higher priority issues that merit' the funding. That is an acknowledgement, not a denial — the Department in December 2017 conceded the program's existence and its termination date, and offered a budgetary rationale. Everything the Department said afterwards about AATIP has been an attempt to narrow that acknowledgement without formally withdrawing it.",
 "photoCredit": null,
 "sequenceChain": [],

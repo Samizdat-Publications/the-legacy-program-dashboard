@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-f67daf7aa9",
@@ -105,7 +104,6 @@
 "edgeLabel": "The thesis points at DSP without naming it",
 "family": "documents",
 "id": "defense-support-program",
-"l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "The thesis's cited Osedacz database is drawn from ballistic missile early warning satellites in geosynchronous orbit, which is what DSP is; the thesis does not name DSP and no opened government document names it either, so the identification is attributed and not asserted.",
 "predicate": "concerns",
@@ -132,7 +130,6 @@
 "edgeLabel": "written at the Air Force Institute of Technology, Wright-Patterson AFB",
 "family": "place-time",
 "id": "l-wright-patterson",
-"l0": false,
 "label": "Wright-Patterson Air Force Base, Ohio",
 "note": "Title page: 'Department of the Air Force, Air University, Air Force Institute of Technology, Wright-Patterson Air Force Base, Ohio. APPROVED FOR PUBLIC RELEASE; DISTRIBUTION UNLIMITED.'",
 "predicate": "located_at",
@@ -166,10 +163,8 @@
 },
 "hl": null,
 "id": "afit-townsend-2008",
-"l0": false,
 "label": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "AFIT/GA/ENY/08-M06 - Space Based Satellite Tracking and Characterization Utilizing Non-Imaging Passive Sensors",
 "sourceFiles": [

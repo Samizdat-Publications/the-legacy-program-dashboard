@@ -6,7 +6,6 @@
 "dgac-chile"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1968",
@@ -68,7 +67,6 @@
 "edgeLabel": "1968-1975 commission is CEFAA's institutional ancestor",
 "family": "role",
 "id": "cefaa",
-"l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "SEFAA's history places the origin of official Chilean UAP reporting with Bravo Flores at the Meteorological Office in 1968.",
 "predicate": "founded",
@@ -95,7 +93,6 @@
 "edgeLabel": "forwarded Chilean reports to the University of Colorado study",
 "family": "custody",
 "id": "condon-committee",
-"l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "SEFAA records that part of the dozen reports gathered were sent to the University of Colorado, where the commission later known as the Condon Committee was working.",
 "predicate": "transferred",
@@ -131,11 +128,9 @@
 "hl": null,
 "id": "sergio-bravo-flores",
 "instId": "dgac-chile",
-"l0": false,
 "label": "Coronel de Aviación Sergio Bravo Flores",
 "loc": "Santiago, Chile",
 "locId": "l-santiago",
-"members": null,
 "narrative": "Sergio Bravo Flores, an aviation colonel and Director of what was then the Chilean Meteorological Office at the Quinta Normal aeronautical complex in Santiago, began the official Chilean collection of UAP reports in 1968. The Sociedad Científica de Chile asked him to lead an investigation into what were then called unidentified space phenomena, and he chaired a provisional committee that included the LAN airline meteorologist Guillermo Duarte, the engineer Juan E. Gatica, the physician Hugo Sievers, the doctor of physical and mathematical sciences Antonio Camurri Righi, Helga Buiggen, Chilean Air Force lieutenant Jorge Montero seconded to the Dirección de Aeronáutica, and engineers Edgardo Fuenzalida, Pablo Petrowitsch and Guillermo Krumm. On 9 July 1968 Bravo sent the first official circular to forty-three aeronautical installations from Arica to the Chilean Antarctic Territory requesting reports. In seven years the commission gathered about a dozen reports, and - a detail of direct relevance to this board - part of them were sent to the University of Colorado, where the academic commission later known as the Condon Committee was conducting the study that would shut down Project Blue Book. The Chilean commission ran until 1975, when Bravo retired.",
 "photoCredit": null,
 "sequenceChain": [],

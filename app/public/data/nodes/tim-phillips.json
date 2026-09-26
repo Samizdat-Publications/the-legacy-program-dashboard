@@ -8,7 +8,6 @@
 "AARO, Acting Director (Dec 2023-Aug 2024)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-10-01",
@@ -102,7 +101,6 @@
 "edgeLabel": "Deputy Director from Oct 2023; Acting Director Dec 2023 - Aug 2024",
 "family": "role",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Phillips came to AARO on assignment from ODNI and ran the office between Kirkpatrick and Kosloski.",
 "predicate": "led",
@@ -129,7 +127,6 @@
 "edgeLabel": "fronted the Volume I rollout and media engagement",
 "family": "documents",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Phillips conducted a private press briefing on 6 March 2024 and an on-record media engagement published by DoD on 8 March 2024.",
 "predicate": "released",
@@ -166,11 +163,9 @@
 "hl": null,
 "id": "tim-phillips",
 "instId": "aaro",
-"l0": false,
 "label": "Timothy A. Phillips",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Phillips ran AARO for the nine months between Kirkpatrick's exit and Kosloski's arrival, and it was Phillips - not Kirkpatrick, who had authored it - who fronted the release of the Historical Record Report Volume I. He came to AARO as Deputy Director in October 2023 on assignment from the Office of the Director of National Intelligence, and became Acting Director on 1 December 2023. On 6 March 2024 he conducted a private press briefing on Volume I, and on 8 March the Department published the report and the on-record transcript of his media engagement. His framing in that engagement was operational rather than historical: he told reporters he wanted to support the warfighter and prioritise current cases over legacy allegations, which functioned as an institutional signal that the Historical Record project - Volume II specifically - was being downgraded. In the same engagement AARO disclosed development of the GREMLIN sensor capability for real-time UAP data collection. He remained Deputy Director after Kosloski's appointment. The Volume II that Phillips inherited responsibility for, which AARO said would cover interviews and research from 1 November 2023 to 15 April 2024 plus the allegations Volume I left unresolved, has still not been published as of August 2026 - and it is the volume in which the Department told the Wall Street Journal the Yankee Blue findings would appear.",
 "photoCredit": null,
 "sequenceChain": [],

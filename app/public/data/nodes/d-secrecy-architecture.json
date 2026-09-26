@@ -3,7 +3,6 @@
 "C": 2,
 "D": 1,
 "absorbedBy": "sap-governance",
-"band": null,
 "claims": [
 {
 "id": "c-3fa79e31ef",
@@ -62,7 +61,6 @@
 "edgeLabel": "Compartmentation defeats committee access",
 "family": "analysis",
 "id": "d-oversight",
-"l0": false,
 "label": "Congressional Oversight",
 "note": "10 U.S.C. 119's waiver provision reduces notification to eight members without staff, which is the specific point at which the secrecy architecture and congressional oversight collide.",
 "predicate": "affects",
@@ -89,7 +87,6 @@
 "edgeLabel": "SAP tiers implement compartmentation",
 "family": "law",
 "id": "d-sap",
-"l0": false,
 "label": "Special Access Programs",
 "note": "The acknowledged/unacknowledged/waived tier structure defined in DoDD 5205.07 is the concrete mechanism by which the compartmentation architecture is built.",
 "predicate": "implements",
@@ -116,7 +113,6 @@
 "edgeLabel": "A worked example of compartmentation: one workforce, two programmes",
 "family": "analysis",
 "id": "manned-orbiting-laboratory",
-"l0": false,
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "A worked example of the compartmentation the domain describes: one workforce, two programmes, and a BYEMAN boundary running through the middle of it.",
 "predicate": "exemplifies",
@@ -150,10 +146,8 @@
 },
 "hl": null,
 "id": "d-secrecy-architecture",
-"l0": false,
 "label": "Secrecy Architecture",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Secrecy Architecture",
 "sourceFiles": [

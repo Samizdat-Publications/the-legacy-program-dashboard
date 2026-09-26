@@ -7,7 +7,6 @@
 "Mutual UFO Network - former director of research"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2010-12-18",
@@ -93,7 +92,6 @@
 "edgeLabel": "Co-author; brought the SCU case reconstructions",
 "family": "documents",
 "id": "paper-knuth-powell-reali-2019",
-"l0": false,
 "label": "Knuth, Powell & Reali (2019), Entropy 21(10):939",
 "note": "Powell's FOIA-derived sensor reconstructions supplied the case inputs for the kinematic estimates.",
 "predicate": "wrote",
@@ -125,7 +123,6 @@
 "edgeLabel": "Founding board member; author of the Stephenville and Aguadilla studies",
 "family": "role",
 "id": "scu-uap-studies",
-"l0": false,
 "label": "Scientific Coalition for UAP Studies (SCU)",
 "note": "Powell established SCU's method: obtain the primary federal sensor record by FOIA, reconstruct it quantitatively, deposit it with a DOI.",
 "predicate": "member_of",
@@ -167,11 +164,9 @@
 "hl": null,
 "id": "robert-powell",
 "instId": "scu-uap-studies",
-"l0": false,
 "label": "Robert M. Powell",
 "loc": "Austin, TX",
 "locId": "l-austin",
-"members": null,
 "narrative": "Powell is the person who made the radar-and-documents approach into a body of work. A chemist by training with a career in semiconductor engineering, he co-founded the Scientific Coalition for UAP Studies, a 501(c)(3) whose method is unglamorous and effective: obtain the primary sensor record through FOIA, reconstruct the event quantitatively, publish with the data attached. The 2010 Stephenville study with Glen Schulze reconstructed FAA radar returns around the January 2008 Texas sightings; the 2015 Aguadilla study with Morgan Beall, Larry Cates, Carl Paulson and Richard Hoffman analysed thermal imagery captured by a Department of Homeland Security Customs and Border Protection aircraft off Puerto Rico in April 2013 - a federal sensor record, obtained lawfully, analysed openly. He is second author of the Knuth-Powell-Reali Entropy paper of 2019, and lead author of the 2023 SCU study of reported shape, size, kinematics, electromagnetic effects and sound across a large report corpus. SCU also runs the Hancock-Porritt-Grosvenor series correlating 1945-1975 UAP activity with the United States atomic warfare complex, which is the documentary counterpart of Villarroel's plate work. SCU deposits its studies on Zenodo with DOIs, which means its output is citable and time-stamped rather than ephemeral.",
 "photoCredit": null,
 "sequenceChain": [],

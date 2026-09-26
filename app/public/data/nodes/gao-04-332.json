@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-65681511bf",
@@ -103,7 +102,6 @@
 "edgeLabel": "GAO found DoD could not assure adequate industrial security oversight - and excluded SAPs",
 "family": "oversight",
 "id": "dcsa-nisp",
-"l0": false,
 "label": "DCSA as DoD Cognizant Security Office under the NISP",
 "note": "GAO-04-332 title states the finding; its footnote 2 records that the review 'did not include DSS's oversight of special access programs at contractor facilities'.",
 "predicate": "investigated",
@@ -140,10 +138,8 @@
 },
 "hl": null,
 "id": "gao-04-332",
-"l0": false,
 "label": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "GAO-04-332 - Industrial Security: DOD Cannot Provide Adequate Assurances That Its Oversight Ensures the Protection of Classified Information",
 "sourceFiles": [

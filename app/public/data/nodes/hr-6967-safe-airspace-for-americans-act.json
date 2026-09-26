@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-cad42aabc7",
@@ -47,7 +46,6 @@
 "edgeLabel": "Republican co-lead",
 "family": "law",
 "id": "glenn-grothman",
-"l0": false,
 "label": "Glenn S. Grothman",
 "note": "The Hill records Garcia introducing the bill 'along with Rep. Glenn Grothman.'",
 "predicate": "sponsored_law",
@@ -74,7 +72,6 @@
 "edgeLabel": "Sponsor",
 "family": "law",
 "id": "robert-garcia",
-"l0": false,
 "label": "Robert Garcia",
 "note": "Introduced 11 January 2024, the day before the ICIG briefing.",
 "predicate": "sponsored_law",
@@ -106,7 +103,6 @@
 "edgeLabel": "His hearing testimony on the reporting gap is the bill's origin",
 "family": "place-time",
 "id": "ryan-graves",
-"l0": false,
 "label": "Ryan Graves",
 "note": "Reasoning: Garcia's 26 July 2023 questioning of Graves concentrated entirely on the absence of a civilian reporting channel and pilot stigma, and the bill creates exactly that channel six months later.",
 "predicate": "led_to",
@@ -145,10 +141,8 @@
 },
 "hl": null,
 "id": "hr-6967-safe-airspace-for-americans-act",
-"l0": false,
 "label": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "H.R. 6967 - Safe Airspace for Americans Act (118th Congress)",
 "sourceFiles": [

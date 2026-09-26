@@ -2,7 +2,6 @@
 "A": 2,
 "C": 3,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-294a417c86",
@@ -69,7 +68,6 @@
 "edgeLabel": "delivered the 494-page report to DIA",
 "family": "organisation",
 "id": "baass",
-"l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "The deliverable that shows the program's actual shape: physics, field teams, case database, ranch operations, human effects. Never released by DIA.",
 "predicate": "produced",
@@ -103,10 +101,8 @@
 },
 "hl": null,
 "id": "baass-ten-month-report",
-"l0": false,
 "label": "BAASS Ten Month Report (2009)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "BAASS Ten Month Report (2009)",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-bf6a273d56",
@@ -52,7 +51,6 @@
 "edgeLabel": "Division F of P.L. 117-263 - the intelligence-side half of the same enactment",
 "family": "analysis",
 "id": "d-legislation",
-"l0": false,
 "label": "Enacted Statute",
 "note": "Sec. 6802 rewrote 50 U.S.C. 3373 to create AARO and inserted the 'unidentified anomalous phenomena' and 'transmedium' definitions; sec. 6803 attached a Comptroller General audit and briefing requirement to the Historical Record Report. Wiring it here fixes a degree-1 orphan and records that the statutory definitions the whole board uses were enacted in an intelligence authorization, not a defence one.",
 "predicate": "exemplifies",
@@ -84,7 +82,6 @@
 "edgeLabel": "sunsets the sec. 6803 GAO audit cadence",
 "family": "law",
 "id": "ndaa-fy2025",
-"l0": false,
 "label": "FY2025 NDAA, Public Law 118-159 - Div. G (IAA FY2025) secs. 6801-6802, GAO review of AARO",
 "note": "PL 118-159 sec. 6802 amends IAA FY2023 sec. 6803.",
 "predicate": "amended",
@@ -118,10 +115,8 @@
 },
 "hl": null,
 "id": "iaa-2023",
-"l0": false,
 "label": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Intelligence Authorization Act for FY2023 (Div. F of PL 117-263) - secs. 6802-6803",
 "sourceFiles": [

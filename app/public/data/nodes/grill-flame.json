@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-5cbeb54c42",
@@ -49,7 +48,6 @@
 "edgeLabel": "CENTER LANE succeeded GRILL FLAME after the codename was compromised",
 "family": "organisation",
 "id": "center-lane",
-"l0": false,
 "label": "CENTER LANE",
 "note": "Codeword churn on compromise is standard practice; the effort was continuous across the renaming.",
 "predicate": "succeeded",
@@ -76,7 +74,6 @@
 "edgeLabel": "GRILL FLAME was INSCOM's entry into the field in 1977",
 "family": "organisation",
 "id": "inscom",
-"l0": true,
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
 "predicate": "ran",
@@ -103,7 +100,6 @@
 "edgeLabel": "SRI methodology transferred into the Army/DIA GRILL FLAME programme",
 "family": "custody",
 "id": "sri-international",
-"l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "GRILL FLAME formalised operational remote viewing at Fort Meade using the SRI protocols, with SRI continuing as the research contractor.",
 "predicate": "transferred",
@@ -142,10 +138,8 @@
 },
 "hl": null,
 "id": "grill-flame",
-"l0": false,
 "label": "GRILL FLAME",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "GRILL FLAME",
 "sourceFiles": [

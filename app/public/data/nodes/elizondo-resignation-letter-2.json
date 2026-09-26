@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-4aa992e258",
@@ -55,7 +54,6 @@
 "edgeLabel": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
 "family": "oversight",
 "id": "james-mattis",
-"l0": false,
 "label": "James N. Mattis",
 "note": "The letter asks the Secretary to 'ask the hard questions'. Garry Reid's memo later questioned its 'uncertain provenance' — while the letter itself sits in the Department's own FOIA release.",
 "predicate": "requested",
@@ -87,7 +85,6 @@
 "edgeLabel": "Author, 4 October 2017; hand-delivered to the Secretary's office",
 "family": "documents",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "The protest letter naming Departmental opposition to further UAP research as his reason for leaving.",
 "predicate": "wrote",
@@ -121,10 +118,8 @@
 },
 "hl": null,
 "id": "elizondo-resignation-letter-2",
-"l0": false,
 "label": "Elizondo Resignation Memorandum for Record, 4 October 2017",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Elizondo Resignation Memorandum for Record, 4 October 2017",
 "sourceFiles": [

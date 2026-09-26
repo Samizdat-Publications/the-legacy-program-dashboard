@@ -6,8 +6,8 @@ Renders the whole evidence board as a set of Markdown files under exports/notebo
 sized and shaped for Google NotebookLM. NotebookLM accepts Markdown sources of roughly
 500,000 words each and does better with many topic sized prose sources than with one
 enormous one, so the board is split into seventeen files that each stand on their own:
-a read me, the eight authored threads, one file per band of the programme map, the
-people, the entities, the denials, the timeline, the patents, the FOIA queue, the
+a read me, the eight authored threads, one file per era for the nodes that carry an
+entity dossier, the people, the entities, the denials, the timeline, the patents, the FOIA queue, the
 corrections the records forced, and the strongest connections.
 
 THE ONE RULE OF THIS REPO, which this script obeys:
@@ -24,6 +24,12 @@ is changed, added or removed.
 
 Reads only: app/public/data/*.json, app/public/data/nodes/*.json, research/_corrections.json.
 Never reads dist/ and never reads anything transcript shaped.
+
+PHASE 11 STOPGAP (26 September 2026). Files 02 onward were one per band of the L0
+programme map, read from app/public/data/map.json. The map retired and map.json is no
+longer written, so the deep files are now the nodes that carry an entity dossier (the
+argument for why a node is on this board), one file per era of index.json, and "below
+the map" means without a dossier. Phase 12 rebuilds this export by topic.
 
 Usage:
     python tools/build_notebook_export.py            write the files, print word counts
@@ -73,7 +79,7 @@ NODE_TIER_LONG = {
 NODE_TIER_SHORT = {"A": "board tier A", "B": "board tier B", "C": "board tier C"}
 NODE_TIER_RANK = {"A": 0, "B": 1, "C": 2}
 
-BAND_FILE_NUMBERS = ["02", "03", "04", "05", "06", "07", "08"]
+BAND_FILE_NUMBERS = ["02", "03", "04", "05", "06", "07", "08"]   # one per era now, five used
 
 ACRONYM_RE = re.compile(r"^(?P<long>[^()]{4,140}?)\s*\((?P<ab>[A-Z][A-Za-z0-9\-/\.&]{1,15})\)\s*$")
 
@@ -194,7 +200,6 @@ class Board:
         self.index = self._load(DATA / "index.json")
         self.threads = self._load(DATA / "threads.json")
         self.timeline = self._load(DATA / "timeline.json")
-        self.map = self._load(DATA / "map.json")
         self.patents = self._load(DATA / "patents.json")
         self.foia = self._load(DATA / "foia.json")
         self.analyst = self._load_optional(DATA / "analyst.json")
@@ -202,10 +207,16 @@ class Board:
         self.idx = {n["id"]: n for n in self.index["nodes"]}
         self.counts = self.index.get("counts", {})
         self._node_cache = {}
-        self.map_ids = {n["id"] for n in self.map["nodes"]}
-        self.bands = self.map["bands"]
-        self.eras = self.map["eras"]
+        self.eras = self.index["eras"]
         self.era_order = {e["id"]: i for i, e in enumerate(self.eras)}
+        # The deep set (phase 11 stopgap, see the module docstring): every node that
+        # carries an entity dossier, in index order. It was the L0 map's nodes.
+        self.deep = [n for n in self.index["nodes"]
+                     if isinstance((self.node(n["id"]) or {}).get("dossier"), dict)]
+        self.map_ids = {n["id"] for n in self.deep}
+        # the deep files go one per era, in the index's era order
+        self.bands = [{"id": "era-" + str(e["id"]), "era": e["id"], "label": e["label"]}
+                      for e in self.eras]
 
     @staticmethod
     def _load(path):
@@ -365,7 +376,7 @@ def render_read_me(b):
                     + str(counts.get("edges", 0)) + " hand written links and carry "
                     + str(total_claims) + " tiered claims between them. "
                     + str(counts.get("timeline", 0)) + " dated events sit on the timeline, "
-                    + str(counts.get("l0", 0)) + " nodes are placed on the programme map, "
+                    + str(len(b.deep)) + " carry an entity dossier arguing why they are here, "
                     + str(counts.get("patents", 0)) + " patents are tracked in full prosecution detail, "
                     + str(counts.get("threads", 0)) + " authored threads walk a reader through the "
                       "strongest sequences, and " + str(counts.get("foia", {}).get("requests", 0))
@@ -396,7 +407,7 @@ def render_read_me(b):
              + para("Tiers are assigned globally rather than by the researcher who worked that subject, "
                     "and a node with no sourced URL has its score cut hard, so nothing unsourced can "
                     "hold tier A. Each node carries a written rationale showing its rank and inputs, and "
-                    "those rationales are reproduced in the band files."))
+                    "those rationales are reproduced in the era files."))
 
     s.append("## The three axes: C, A and D\n\n"
              + para("Each node also carries three scores from 0 to 3. They are never summed, because "
@@ -426,24 +437,13 @@ def render_read_me(b):
                     "is a dated, signed, attributable statement, which makes it evidence about the "
                     "denier. There is a whole file of them here."))
 
-    band_lines = "".join("- **" + clean(x["label"]) + "**\n" for x in b.bands)
     era_lines = "".join("- **" + clean(e["label"]) + "**: " + clean(e.get("sub") or "") + "\n" for e in b.eras)
-    s.append("## The programme map: seven bands and five eras\n\n"
-             + para("The " + str(counts.get("l0", 0)) + " nodes closest to the programme are laid out on "
-                    "a map with seven bands running across it and five eras running down it. The bands "
-                    "are the functions the alleged programme would have to perform, and the eras are "
-                    "when. Files 02 to 08 in this set are one per band.")
-             + "The bands:\n\n" + band_lines + "\nThe eras:\n\n" + era_lines + "\n")
-
-    entry = b.map.get("entryPaths") or []
-    if entry:
-        lines = []
-        for p in sorted(entry, key=lambda x: clean(x.get("label"))):
-            lines.append("- **" + clean(p.get("label")) + "**: " + clean(p.get("blurb"))
-                         + " " + str(p.get("onMap")) + " of its " + str(p.get("total"))
-                         + " nodes are on the programme map.\n")
-        s.append("## Six ways into the board\n\nThe board offers six authored entry paths, each a "
-                 "different question to walk in with.\n\n" + "".join(lines) + "\n")
+    s.append("## The dossiers, era by era\n\n"
+             + para("The " + str(len(b.deep)) + " nodes that carry an entity dossier, the written "
+                    "argument for why each is on this board, are taken one file per era, by the year "
+                    "the node's record starts. Files 02 to " + BAND_FILE_NUMBERS[len(b.bands) - 1]
+                    + " in this set are one per era.")
+             + "The eras:\n\n" + era_lines + "\n")
 
     acr = b.acronyms_for([clean(n.get("label") or "") for n in b.index["nodes"]])
     if acr:
@@ -456,10 +456,10 @@ def render_read_me(b):
     s.append("## How to use these files\n\n"
              + para("Every file stands alone. File 01 walks the eight authored threads, which are the "
                     "best single starting point because they are the sequences the board considers "
-                    "strongest. Files 02 to 08 are the programme map band by band and hold the deepest "
-                    "prose, including for each node what it is, why it is implicated, why it holds the "
+                    "strongest. Files 02 to " + BAND_FILE_NUMBERS[len(b.bands) - 1] + " are the dossier "
+                    "nodes era by era and hold the deepest prose, including for each node what it is, why it is implicated, why it holds the "
                     "tier it holds and what it has denied. Files 09 and 10 are the people and the "
-                    "entities that sit below the map. File 11 is the denials, file 12 the whole "
+                    "entities that carry no dossier. File 11 is the denials, file 12 the whole "
                     "timeline, file 13 the patents, file 14 the FOIA queue, file 15 the corrections "
                     "the records forced on the board, and file 16 the strongest connections in the "
                     "whole graph told as short stories.")
@@ -645,16 +645,16 @@ def _node_block(b, node_id, claim_cap, conn_cap, include_dossier=True):
 
 
 def render_band(b, band, number):
+    # One era of the dossier nodes (phase 11 stopgap; this was one band of the map).
     band_id = band["id"]
     band_label = clean(band["label"])
-    nodes = [n for n in b.map["nodes"] if n.get("band") == band_id]
+    nodes = [n for n in b.deep if n.get("era") == band["era"]]
     nodes.sort(key=lambda n: (b.era_order.get(n.get("era"), 99), -b.deg(n["id"]), n["id"]))
 
-    head = "# The " + band_label + " band\n\n"
-    head += ("The programme map splits the " + str(len(b.map["nodes"])) + " nodes closest to the alleged "
-             "programme into seven bands, and this file is the " + band_label + " band: "
-             + str(len(nodes)) + " nodes, taken era by era from the earliest to the most recent. "
-             "Each entry gives what the node is, why the board places it here, why it holds the tier it "
+    head = "# The dossiers: " + band_label + "\n\n"
+    head += ("The board carries an entity dossier on " + str(len(b.deep)) + " nodes, and this file "
+             "is the " + str(len(nodes)) + " whose record starts in " + band_label + ", most connected "
+             "first. Each entry gives what the node is, why the board places it here, why it holds the tier it "
              "holds, what it has denied, its documented and testimonial claims with their sources, and "
              "the links that tie it to the rest of the board.\n\n")
 
@@ -684,9 +684,9 @@ def render_people(b):
               if n.get("cls") == "person" and n["id"] not in b.map_ids]
     people.sort(key=lambda n: (-int(n.get("deg") or 0), n["id"]))
     top = people[:120]
-    head = "# The people below the programme map\n\n"
-    head += ("None of the " + str(len(b.map["nodes"])) + " nodes on the programme map is a person, so "
-             "every one of the board's " + str(b.counts.get("people", 0)) + " people sits below it: "
+    head = "# The people\n\n"
+    head += ("None of the " + str(len(b.deep)) + " nodes that carry an entity dossier is a person, so "
+             "every one of the board's " + str(b.counts.get("people", 0)) + " people is here: "
              "witnesses, officials, legislators, contractors, scientists and journalists. This file "
              "takes the " + str(len(top)) + " with the most connections, most connected first, and "
              "gives what the board records about each of them and up to eight of their claims.\n\n")
@@ -702,8 +702,8 @@ def render_entities(b):
     ents.sort(key=lambda n: (-int(n.get("deg") or 0), n["id"]))
     top = ents[:120]
     head = "# The entities below the floor\n\n"
-    head += ("Below the programme map sit the institutions, programmes, documents, events, locations "
-             "and statutes that the board holds but has not placed on the map itself. This file takes "
+    head += ("Beside the dossier nodes sit the institutions, programmes, documents, events, locations "
+             "and statutes that the board holds but has written no dossier for. This file takes "
              "the " + str(len(top)) + " most connected of them, most connected first, with what the "
              "board records about each and up to eight of their claims.\n\n")
     s = []
@@ -1209,8 +1209,8 @@ time the script runs, and any edit made here is lost on the next rebuild.
 
 - `00-read-me-first.md` what the board is, the tiers, the axes, how to read the rest
 - `01-the-eight-threads.md` the eight authored threads, step by step
-- `02` to `08` the programme map, one file per band
-- `09-the-people.md` and `10-the-entities-below-the-floor.md` the most connected nodes below the map
+- `02` onward, the nodes that carry an entity dossier, one file per era
+- `09-the-people.md` and `10-the-entities-below-the-floor.md` the most connected nodes without a dossier
 - `11-denials.md` every denial, grouped by who denied it
 - `12-timeline.md` every dated event, by era and year
 - `13-patents.md` the five patents in full prosecution detail

@@ -7,7 +7,6 @@
 "UAP Science Advisory Council (2026- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-03-01",
@@ -58,7 +57,6 @@
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
 "family": "documents",
 "id": "galileo-project",
-"l0": true,
 "label": "The Galileo Project",
 "note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
 "predicate": "wrote",
@@ -85,7 +83,6 @@
 "edgeLabel": "Named for data analysis and AI tools",
 "family": "role",
 "id": "uap-science-advisory-council",
-"l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Cloete brings the Galileo Project detection-and-tracking pipeline published in the Journal of Astronomical Instrumentation in 2023.",
 "predicate": "held_post",
@@ -126,11 +123,9 @@
 "hl": null,
 "id": "richard-cloete",
 "instId": "galileo-project",
-"l0": false,
 "label": "Richard Cloete",
 "loc": "Cambridge, MA",
 "locId": "l-cambridge",
-"members": null,
 "narrative": "Cloete is the software layer of the unclassified instrumentation effort and, as of June 2026, the person the federal government's outside science council leans on for data analysis and AI tooling. At the Galileo Project he is lead author of 'Integrated Computing Platform for Detection and Tracking of Unidentified Aerial Phenomena (UAP)' in the Journal of Astronomical Instrumentation (2023) and a co-editor of the same journal's special-issue preface on instrumentation and software for detection and characterisation of unidentified aerospace phenomena, with Wesley Watters, Sarah Little, Avi Loeb and Abraham Lux. The significance is procedural rather than dramatic: the pipeline, false-positive handling and classifier architecture were published before the observations, which is the opposite of how nearly every prior UAP claim has been made. In June 2026 Loeb named him to the UAP Science Advisory Council for data analysis and AI - meaning the government's outside body has a named person responsible for turning sensor data into candidate detections, but no budget and no classified feed to do it on.",
 "photoCredit": null,
 "sequenceChain": [],

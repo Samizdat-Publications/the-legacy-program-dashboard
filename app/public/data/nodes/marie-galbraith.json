@@ -6,7 +6,6 @@
 "Rockefeller Initiative (1993-1996)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1993-01-01",
@@ -43,7 +42,6 @@
 "edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
 "family": "documents",
 "id": "best-available-evidence",
-"l0": false,
 "label": "UFO Briefing Document: The Best Available Evidence (1995)",
 "note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
 "predicate": "wrote",
@@ -79,11 +77,9 @@
 "hl": null,
 "id": "marie-galbraith",
 "instId": "rockefeller-initiative",
-"l0": false,
 "label": "Marie 'Bootsie' Galbraith",
 "loc": "New York, NY",
 "locId": "l-dc",
-"members": null,
 "narrative": "Galbraith was the person who actually built the Rockefeller Initiative's product. Working with Stanton Friedman and Don Berliner and funded by Laurance Rockefeller, she compiled 'Unidentified Flying Objects Briefing Document: The Best Available Evidence' - a document consciously written in the register of a government briefing paper rather than a UFO book, organised around multiple-witness, instrumented and official-record cases, and distributed in 1995 to legislators, officials and heads of state. Her husband Evan Galbraith had been US Ambassador to France, which is the access that made the distribution list possible. The Best Available Evidence is the closest thing the pre-2017 era produced to a prosecutorial brief, and its structure - lead with the documented cases, name the officials, cite the FOIA releases - is the template this board follows. It was ignored, which is data.",
 "photoCredit": null,
 "sequenceChain": [],

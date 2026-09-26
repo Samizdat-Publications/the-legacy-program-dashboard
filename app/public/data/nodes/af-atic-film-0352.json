@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-74ef96f3fa",
@@ -43,7 +42,6 @@
 "edgeLabel": "The briefing was given into the 1952 Beacon Hill reconnaissance study circle",
 "family": "oversight",
 "id": "beacon-hill-study",
-"l0": false,
 "label": "Project Beacon Hill",
 "note": "Burlison's press release names both items together; the inference is that Blue Book briefed the group designing US strategic aerial reconnaissance. No minutes produced.",
 "predicate": "reports_to",
@@ -70,7 +68,6 @@
 "edgeLabel": "Ruppelt is the briefer on the recording",
 "family": "testimony",
 "id": "edward-ruppelt",
-"l0": false,
 "label": "Edward J. Ruppelt",
 "note": "The Blue Book director briefing military officials and scientists in March 1952, four months before the Washington, DC radar intrusions.",
 "predicate": "witnessed",
@@ -97,7 +94,6 @@
 "edgeLabel": "Holds the March 1952 Ruppelt 'flying saucer talk' recording",
 "family": "custody",
 "id": "mit-lincoln-laboratory",
-"l0": false,
 "label": "MIT Lincoln Laboratory",
 "note": "By 25 June 2026 Burlison announced the laboratory had agreed to disclose it - the first FFRDC-held UAP record obtained by Congress by naming the file.",
 "predicate": "holds",
@@ -131,10 +127,8 @@
 },
 "hl": null,
 "id": "af-atic-film-0352",
-"l0": false,
 "label": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "AF-ATIC-FILM, 03/52 ('flying saucer talk')",
 "sourceFiles": [

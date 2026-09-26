@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-642f07e2b2",
@@ -33,7 +32,6 @@
 "edgeLabel": "321-page New Mexico State Police personnel file released 2021",
 "family": "documents",
 "id": "richard-doty",
-"l0": false,
 "label": "Richard C. Doty",
 "note": "Obtained under NMSA 14-2-1 et seq. after federal channels produced nothing; state public-records law delivered what FOIA did not.",
 "predicate": "concerns",
@@ -67,10 +65,8 @@
 },
 "hl": null,
 "id": "doty-personnel-file",
-"l0": false,
 "label": "Richard Doty New Mexico State Police Personnel File [321 pages]",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Richard Doty New Mexico State Police Personnel File [321 pages]",
 "sourceFiles": [

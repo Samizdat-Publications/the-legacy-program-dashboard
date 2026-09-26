@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": "disclosure",
 "claims": [
 {
 "id": "c-55c24fcbd3",
@@ -92,7 +91,6 @@
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "family": "testimony",
 "id": "bruce-fenstermacher",
-"l0": false,
 "label": "Capt. Bruce Fenstermacher",
 "note": "No dated public statement by him before this event has been identified.",
 "predicate": "testified_at",
@@ -119,7 +117,6 @@
 "edgeLabel": "Spoke on the record with a signed affidavit; the one panellist who wrote his own primary document in 1981",
 "family": "testimony",
 "id": "charles-halt",
-"l0": false,
 "label": "Charles I. Halt",
 "note": "His appearance is what places Rendlesham inside the nuclear witness cluster rather than beside it. He is also the one man on the panel whose account reached the record as an official act before any researcher was involved.",
 "predicate": "testified_at",
@@ -146,7 +143,6 @@
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "family": "testimony",
 "id": "dwynne-arneson",
-"l0": false,
 "label": "Lt Col Dwynne Arneson",
 "note": "No dated public statement by him before this event has been identified.",
 "predicate": "witnessed",
@@ -173,7 +169,6 @@
 "edgeLabel": "Spoke on the record; not among the six named affiants on the opened page",
 "family": "testimony",
 "id": "jerry-nelson",
-"l0": false,
 "label": "Jerry (Jerome) Nelson",
 "note": "Whether he executed an affidavit is not established: the page names six affiants and he is not among them, which may be an omission on the page rather than a fact about him.",
 "predicate": "witnessed",
@@ -200,7 +195,6 @@
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "family": "testimony",
 "id": "patrick-mcdonough",
-"l0": false,
 "label": "Patrick McDonough",
 "note": "No dated public statement by him before this event has been identified.",
 "predicate": "testified_at",
@@ -227,7 +221,6 @@
 "edgeLabel": "Convened and hosted the National Press Club event",
 "family": "organisation",
 "id": "robert-hastings",
-"l0": false,
 "label": "Robert L. Hastings",
 "note": "Hastings hosted the UFO-Nukes Connection press conference with seven USAF veterans; CNN streamed it live and quoted him from the podium.",
 "predicate": "ran",
@@ -259,7 +252,6 @@
 "edgeLabel": "Spoke on the record with a signed affidavit",
 "family": "testimony",
 "id": "robert-jamison",
-"l0": false,
 "label": "Capt. Robert Jamison",
 "note": "Named on Hastings's own page among the six men said to have executed affidavits.",
 "predicate": "testified_at",
@@ -286,7 +278,6 @@
 "edgeLabel": "Spoke on the record and has a signed affidavit on file",
 "family": "testimony",
 "id": "robert-salas",
-"l0": false,
 "label": "Capt. Robert L. Salas",
 "note": "Salas is among the named affiants in the UFOs & Nukes archive and spoke at the 2010 event.",
 "predicate": "witnessed",
@@ -359,59 +350,8 @@
 },
 "hl": null,
 "id": "npc-2010-ufos-nukes",
-"l0": true,
 "label": "UFO-Nukes Connection press conference, National Press Club, 27 September 2010",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "bruce-fenstermacher",
-"label": "Capt. Bruce Fenstermacher",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "charles-halt",
-"label": "Charles I. Halt",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "dwynne-arneson",
-"label": "Lt Col Dwynne Arneson",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jerry-nelson",
-"label": "Jerry (Jerome) Nelson",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "patrick-mcdonough",
-"label": "Patrick McDonough",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "robert-hastings",
-"label": "Robert L. Hastings",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "robert-jamison",
-"label": "Capt. Robert Jamison",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "robert-salas",
-"label": "Capt. Robert L. Salas",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "UFO-Nukes press conf., Sep 2010",
 "sourceFiles": [

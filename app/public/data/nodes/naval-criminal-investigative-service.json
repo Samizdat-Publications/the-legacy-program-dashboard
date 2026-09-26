@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-6c20444a03",
@@ -85,7 +84,6 @@
 "edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
 "family": "testimony",
 "id": "jaime-shandera",
-"l0": false,
 "label": "Jaime H. Shandera",
 "note": "Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.",
 "predicate": "alleged_tie",
@@ -112,7 +110,6 @@
 "edgeLabel": "Doty is the sole source for both NIS episodes recorded on this node",
 "family": "testimony",
 "id": "richard-doty",
-"l0": false,
 "label": "Richard C. Doty",
 "note": "Doty, a former AFOSI special agent, is the sole source for both NIS episodes recorded here, the Shandera handling and an NCIS role in the Kirtland contractor confrontation.",
 "predicate": "made_claims_about",
@@ -139,7 +136,6 @@
 "edgeLabel": "Department of the Navy organisation; its head's title is fixed in 32 CFR 701.5",
 "family": "organisation",
 "id": "us-navy",
-"l0": true,
 "label": "United States Navy",
 "note": "NCIS is a Department of the Navy organisation whose head's title is fixed in the Navy's own codified regulations at 32 CFR part 701.",
 "predicate": "part_of",
@@ -173,10 +169,8 @@
 },
 "hl": null,
 "id": "naval-criminal-investigative-service",
-"l0": false,
 "label": "Naval Criminal Investigative Service",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Naval Criminal Investigative Service",
 "sourceFiles": [

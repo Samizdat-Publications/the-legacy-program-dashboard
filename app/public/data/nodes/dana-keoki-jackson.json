@@ -7,7 +7,6 @@
 "The MITRE Corporation, SVP and GM, MITRE National Security"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2020-01-01",
@@ -66,7 +65,6 @@
 "edgeLabel": "Arrived at MITRE from Lockheed Martin's chief technology office",
 "family": "role",
 "id": "lockheed-skunk-works",
-"l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "The traverse from the prime contractor most often named in crash-retrieval testimony into the FFRDC that arbitrates what such contractors are told is the pipeline in one career.",
 "predicate": "held_post",
@@ -93,7 +91,6 @@
 "edgeLabel": "Runs MITRE National Security, the organisation containing NSEC",
 "family": "role",
 "id": "mitre-nsec",
-"l0": false,
 "label": "National Security Engineering Center (NSEC)",
 "note": "Any MITRE holdings on Special and Controlled Access Programs, materials analysis or classification guides would sit inside his organisation.",
 "predicate": "led",
@@ -130,11 +127,9 @@
 "hl": null,
 "id": "dana-keoki-jackson",
 "instId": "mitre-corporation",
-"l0": false,
 "label": "Dana (Keoki) Jackson",
 "loc": "McLean, VA",
 "locId": "l-mclean",
-"members": null,
 "narrative": "Jackson runs MITRE National Security - the business unit that operates the National Security Engineering Center, MITRE's Department of Defense and Intelligence Community FFRDC and by far its largest, funded at roughly 1.43 billion dollars in FY2024. He came to it from Lockheed Martin, where he was Chief Technology Officer, and before that ran Lockheed's Space Systems programmes. That is the exact traverse the whistleblower allegations describe: from the prime aerospace contractor named more often than any other in crash-retrieval testimony, into the FFRDC that sits legally between that contractor and the government and arbitrates what technical information passes between them. Under him MITRE National Security is organised into an Intelligence Center (VP Austin Wang) and a Center for Securing the Homeland (VP Yosry Barsoum), with Greg Crawford as deputy general manager. Any MITRE holding responsive to Burlison's 22 May 2026 request for records on 'legacy crash-retrieval or reverse-engineering programs' and 'Special and Controlled Access Programs' would sit inside Jackson's organisation, not the aviation or health FFRDCs.",
 "photoCredit": null,
 "sequenceChain": [],

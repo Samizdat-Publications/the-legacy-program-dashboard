@@ -6,7 +6,6 @@
 "fas"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1989",
@@ -111,7 +110,6 @@
 "edgeLabel": "Directed the Project on Government Secrecy 1991-2021",
 "family": "role",
 "id": "fas",
-"l0": false,
 "label": "Federation of American Scientists",
 "note": "Aftergood joined FAS in 1989 and directed the Project on Government Secrecy from 1991 to 2021. Attested by the FAS expert page.",
 "predicate": "held_post",
@@ -138,7 +136,6 @@
 "edgeLabel": "Created the first segment of the record by litigation",
 "family": "testimony",
 "id": "intel-budget-disclosure-record",
-"l0": false,
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
 "predicate": "brought_to_record",
@@ -175,11 +172,9 @@
 "hl": null,
 "id": "steven-aftergood",
 "instId": "fas",
-"l0": false,
 "label": "Steven Aftergood",
 "loc": "Washington, D.C.",
 "locId": "l-dc",
-"members": null,
 "narrative": "Steven Aftergood joined the Federation of American Scientists in 1989 and directed its Project on Government Secrecy from 1991 to 2021. He is the single individual most responsible for the existence of any public intelligence budget figure at all. In 1997 he was the plaintiff in a Freedom of Information Act suit against the Central Intelligence Agency - brought by FAS with the assistance of Kate Martin of the Center for National Security Studies - that forced the declassification and release of the total United States intelligence budget for the first time in fifty years: $26.6 billion for fiscal year 1997. The Director of Central Intelligence disclosed the figure again the following year, $26.7 billion for FY1998, and then stopped; disclosure did not resume until 2007, and then only because Congress compelled it by statute in section 601 of the Implementing Recommendations of the 9/11 Commission Act. In 2006 Aftergood won a further FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. His awards include the Electronic Frontier Foundation's Pioneer Award, the American Library Association's James Madison Award and the Hugh M. Hefner First Amendment Award. The relevance to this board is exact: every aggregate figure in the NIP and MIP series that anyone can cite exists because one person litigated for it and then Congress codified the minimum. Everything below the aggregate remains where it was in 1949.",
 "photoCredit": null,
 "sequenceChain": [],

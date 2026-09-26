@@ -7,7 +7,6 @@
 "Project Stork (Air Force contract) - Battelle liaison to Wright-Patterson AFB"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1952-01-01",
@@ -87,7 +86,6 @@
 "edgeLabel": "Battelle's Air Force liaison for Blue Book-related work",
 "family": "role",
 "id": "battelle",
-"l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Cross was the named point of contact between Battelle's Stork analysts and Wright-Patterson.",
 "predicate": "held_post",
@@ -114,7 +112,6 @@
 "edgeLabel": "Author of the 9 January 1953 memorandum",
 "family": "documents",
 "id": "pentacle-memorandum",
-"l0": false,
 "label": "The Pentacle Memorandum",
 "note": "Two pages, reference G-1579-4, SECRET, unsigned, to Miles E. Goll at Wright-Patterson AFB.",
 "predicate": "wrote",
@@ -151,11 +148,9 @@
 "hl": null,
 "id": "howard-c-cross",
 "instId": "battelle",
-"l0": false,
 "label": "Howard C. Cross",
 "loc": "Columbus, OH",
 "locId": "l-columbus-oh",
-"members": null,
 "narrative": "Cross is the earliest documented instance on this board of a contractor scientist proposing to manipulate the government's own UFO investigation rather than merely support it. He was Battelle Memorial Institute's liaison to the Air Force for the work that became Project Stork and Blue Book Special Report No. 14. On 9 January 1953 he wrote a two-page memorandum to Miles E. Goll at Wright-Patterson Air Force Base, reference G-1579-4, classified SECRET and unsigned. Jacques Vallee found it in 1967 in J. Allen Hynek's papers and, because Cross's identity was then unknown to him, gave the author the codename 'Pentacle'. The memo proposes a controlled large-scale experiment in areas of high UFO report concentration, with observation posts equipped for visual skywatch, radar and photography, and states that 'many different types of aerial activity should be secretly and purposefully scheduled within the area.' It was written five days before the CIA-convened Robertson Panel met on 14-16 January 1953 - the panel that produced the recommendation to strip UFO reports of their special status and debunk them. Vallee's conclusion, which this board adopts, is that the panel was never told about the Pentacle proposals, and that another group had already decided what could and could not be discussed. A private contractor, in writing, proposed to generate the very stimulus the official investigation would then be asked to explain. That is the template.",
 "photoCredit": null,
 "sequenceChain": [

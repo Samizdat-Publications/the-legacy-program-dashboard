@@ -7,7 +7,6 @@
 "skidmore-fitts-report"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017",
@@ -95,7 +94,6 @@
 "edgeLabel": "Co-authored three Forbes columns carrying the figure into the financial press",
 "family": "role",
 "id": "laurence-kotlikoff",
-"l0": false,
 "label": "Laurence J. Kotlikoff",
 "note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
 "predicate": "worked_with",
@@ -122,7 +120,6 @@
 "edgeLabel": "Morris Chair in State and Local Government Finance and Policy",
 "family": "role",
 "id": "michigan-state",
-"l0": false,
 "label": "Michigan State University",
 "note": "Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site.",
 "predicate": "held_post",
@@ -149,7 +146,6 @@
 "edgeLabel": "Co-author and compiler",
 "family": "documents",
 "id": "skidmore-fitts-report",
-"l0": false,
 "label": "Summary Report on 'Unsupported Journal Voucher Adjustments' (Skidmore and Fitts, 2017)",
 "note": "Skidmore compiled the OIG and GAO unsupported-adjustment figures for FY1998-FY2015 and co-authored the September 2017 summary report. Attested by the report and by his own publication list.",
 "predicate": "wrote",
@@ -186,11 +182,9 @@
 "hl": null,
 "id": "mark-skidmore",
 "instId": "michigan-state",
-"l0": false,
 "label": "Mark Skidmore",
 "loc": "East Lansing, Michigan",
 "locId": "l-michigan-state",
-"members": null,
 "narrative": "Mark Skidmore holds the Morris Chair in State and Local Government Finance and Policy at Michigan State University, where he is a Professor of Economics working in public finance, regional economics and the economics of natural disasters. In 2017, after hearing Catherine Austin Fitts assert that the Department of Housing and Urban Development had recorded $6.5 billion in undocumented adjustments, and initially assuming she had misspoken, Skidmore set his students to compiling the unsupported adjustment figures that federal Inspectors General and the Government Accountability Office had themselves published. The exercise ran from fiscal year 1998 to fiscal year 2015 and produced a summary report, co-authored with Fitts and dated September 2017, arriving at roughly $21 trillion in unsupported journal voucher adjustments at the Department of Defense and roughly $350 billion at HUD. He then co-wrote three Forbes columns with the Boston University economist Laurence Kotlikoff - December 2017, July 2018 and January 2019 - putting the number in front of a financial-markets readership. Skidmore's own methodological caution is the most valuable thing about him for this board: the report states plainly that the public Inspector General reports 'only provide summary information; thus it is impossible for us to conduct a detailed assessment of the nature of these unsupported adjustments and errors', and that data could not be recovered for several years in the series. He has never claimed that $21 trillion is missing money, and the popular restatement of his work in those terms is the single most common way the black-budget argument gets destroyed in public. Used correctly - as an eighteen-year aggregate index of documentation failure at two cabinet departments, drawn entirely from the government's own audit reports - his work is the quantitative backbone of the argument that the federal ledger cannot answer the question this board asks.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -6,7 +6,6 @@
 "ocsa-canada"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2025-01",
@@ -96,7 +95,6 @@
 "edgeLabel": "2025 Canadian recommendation versus the 2009 British closure",
 "family": "analysis",
 "id": "nick-pope",
-"l0": false,
 "label": "Nick Pope",
 "note": "Canada in 2025 recommends building the standing public UAP service that Britain abolished in 2009 and that Pope spent the intervening years arguing should not have been abolished. Reasoning: the two governments moved in opposite directions on the same question sixteen years apart.",
 "predicate": "parallels",
@@ -128,7 +126,6 @@
 "edgeLabel": "Chief Science Advisor whose office produced the report",
 "family": "organisation",
 "id": "sky-canada-project",
-"l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
 "predicate": "ran",
@@ -165,11 +162,9 @@
 "hl": null,
 "id": "mona-nemer",
 "instId": "ocsa-canada",
-"l0": false,
 "label": "Dr Mona Nemer",
 "loc": "Ottawa, Ontario, Canada",
 "locId": "l-ottawa",
-"members": null,
 "narrative": "As Chief Science Advisor of Canada, Mona Nemer's office initiated and published the Sky Canada Project, the first Canadian federal review of UAP reporting since the National Research Council stopped collecting reports in 1995. A preliminary report appeared in January 2025 and the full report, 'Management of Public Reporting of Unidentified Aerial Phenomena in Canada', in June 2025, running to fifty-nine pages. The report is careful about what it is not - it disclaims any intention to prove or disprove extraterrestrial life or visitors, or to make the Office the point of contact for Canadians reporting sightings - and it is blunt about what it found. Canadians report an estimated 600 to 1,000 UAP sightings a year; a commissioned Earnscliffe Strategies survey found one in four Canadians say they have witnessed a UAP, only ten per cent reported it, and forty per cent would not know whom to contact. Federal departments receive reports but mostly do not compile them, so the government cannot even state how many it receives. The report's recommendations are structural: identify a lead department, establish a dedicated service that collects testimony, investigates and publishes its analyses, get Transport Canada and NAV CANADA to encourage pilots and controllers to report without stigma, open the data, and establish partnerships with AARO and NASA in the United States, GEIPAN in France and SEFAA in Chile. It is the clearest statement by any allied government that the American, French and Chilean models are the ones worth copying.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-b0a41babe0",
@@ -61,7 +60,6 @@
 "edgeLabel": "supplies the index the releasing authority did not",
 "family": "documents",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Greenewald stripped password protection that blocked OCR, generated text, transcripts and subtitles, and added agency categorisation three days after Release 01.",
 "predicate": "cites",
@@ -95,10 +93,8 @@
 },
 "hl": null,
 "id": "blackvault-pursue-archive",
-"l0": false,
 "label": "The Black Vault searchable PURSUE files archive",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "The Black Vault searchable PURSUE files archive",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 2,
-"band": "custody",
 "claims": [
 {
 "id": "c-6ea53c64b3",
@@ -71,7 +70,6 @@
 "edgeLabel": "originally placed under USD(I&S)",
 "family": "organisation",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The establishment memorandum directed USD(I&S) to establish the office and placed AARO in that chain until summer 2023.",
 "predicate": "part_of",
@@ -98,7 +96,6 @@
 "edgeLabel": "the OSD element with policy authority over intelligence, counterintelligence, security and sensitive activities",
 "family": "analysis",
 "id": "d-structure",
-"l0": false,
 "label": "Program structure and organisational mapping",
 "note": "OUSD(I), since 2020 OUSD(I&S), is where the sensitive-activities policy authority sits and where the whole Elizondo/AATIP dispute takes place. It is also the office under which the Military Intelligence Program is managed, which makes it the point where this domain's organisational and funding threads meet.",
 "predicate": "exemplifies",
@@ -135,7 +132,6 @@
 "edgeLabel": "OSD principal for intelligence and security policy in the SAP enterprise",
 "family": "oversight",
 "id": "dod-sapco",
-"l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 assigns SAP policy responsibilities across OSD principals including the Under Secretary of Defense for Intelligence and Security, while vesting central management in DoD SAPCO under DEPSECDEF.",
 "predicate": "oversaw",
@@ -162,7 +158,6 @@
 "edgeLabel": "served in OUSD(I) through October 2017",
 "family": "role",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "His own resignation letter, released in FOIA 18-F-0324, states the title and the 4 October 2017 effective date. The Department has never disputed either.",
 "predicate": "held_post",
@@ -194,7 +189,6 @@
 "edgeLabel": "Non-Covert Action Programs alleged to carry waived reporting requirements",
 "family": "testimony",
 "id": "manhattan-project-2",
-"l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
 "predicate": "alleged_tie",
@@ -221,7 +215,6 @@
 "edgeLabel": "Director for Defense Intelligence (Collection & Special Programs); Elizondo's superior c.2010-2012",
 "family": "role",
 "id": "neill-tipton",
-"l0": false,
 "label": "Neill Tipton",
 "note": "His own account places Elizondo under him during precisely the years Elizondo claims to have run AATIP.",
 "predicate": "held_post",
@@ -248,7 +241,6 @@
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment",
 "family": "role",
 "id": "odni",
-"l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's assessment names USD(I&S) first among contributing elements, confirming the office's cognisance of the UAP reporting stream.",
 "predicate": "worked_with",
@@ -412,29 +404,8 @@
 },
 "hl": null,
 "id": "ousdi",
-"l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-structure",
-"label": "Program structure and organisational mapping",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "luis-elizondo",
-"label": "Luis D. Elizondo",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "neill-tipton",
-"label": "Neill Tipton",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Under Sec of Defense for Intelligence",
 "sourceFiles": [

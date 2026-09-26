@@ -6,7 +6,6 @@
 "dod-oig"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-05-12",
@@ -58,7 +57,6 @@
 "edgeLabel": "Serving Inspector General",
 "family": "role",
 "id": "dod-oig",
-"l0": false,
 "label": "Department of Defense Office of Inspector General",
 "note": "The OIG leadership page identifies Platte B. Moring III as Inspector General of the Department of War. Attested by the office's own site.",
 "predicate": "held_post",
@@ -95,11 +93,9 @@
 "hl": null,
 "id": "platte-moring",
 "instId": "dod-oig",
-"l0": false,
 "label": "Platte B. Moring III",
 "loc": "Alexandria, Virginia",
 "locId": null,
-"members": null,
 "narrative": "Platte B. Moring III is listed on the Office of Inspector General's own leadership page as Inspector General of the Department of War. He is the officer statutorily responsible for the annual agency-wide financial statement audit that has produced eight consecutive disclaimers of opinion, and the signatory authority behind DOWIG-2026-081, the FY2025 audit summary published 12 May 2026 recording twenty-six material weaknesses and more than $859 billion in unsupported adjustments in two quarters. He is also the officer to whom any complaint about misuse of Department funds in an unreported special access programme would be directed, and the officer who would have to certify whether the section 1687(b) prohibition on UAP-related independent research and development cost allowability has been complied with. No Department of Defense or Department of War Inspector General has ever published a finding on whether any special access programme relates to unidentified anomalous phenomena. That absence is the single most conspicuous hole in the oversight record and it sits in this office.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-0d3afd319b",
@@ -69,7 +68,6 @@
 "edgeLabel": "The office's own account of why it cannot declassify",
 "family": "documents",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO states it cannot declassify independently, must request review from originating offices, and is bound by DOPSR - a description falsified within eight months by its own department.",
 "predicate": "wrote",
@@ -96,7 +94,6 @@
 "edgeLabel": "Process described as immovable was moved by cabinet direction in weeks",
 "family": "testimony",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The September 2025 paper's 'deliberate and time-intensive' declassification account is contradicted by five tranches and over a hundred sensor videos cleared between May and August 2026.",
 "predicate": "contradicts",
@@ -165,10 +162,8 @@
 },
 "hl": null,
 "id": "aaro-declassification-info-paper-2025",
-"l0": false,
 "label": "AARO Declassification Information Paper (September 2025)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "AARO Declassification Information Paper (September 2025)",
 "sourceFiles": [

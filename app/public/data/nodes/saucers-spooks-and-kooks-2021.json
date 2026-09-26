@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-f856fd5d49",
@@ -33,7 +32,6 @@
 "edgeLabel": "The publication that obtained and printed the confession",
 "family": "testimony",
 "id": "dulce-base",
-"l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "A document about the cluster with no authorship relation to any node in it, typed investigative. The book itself was not opened; the confession was read as reproduced by a third party quoting it, which caps every dependent claim at Tier 2.",
 "predicate": "brought_to_record",
@@ -65,7 +63,6 @@
 "edgeLabel": "Obtained Levesque's confession across a multi-year correspondence",
 "family": "oversight",
 "id": "tal-levesque",
-"l0": false,
 "label": "Tal Levesque (Jason Bishop III)",
 "note": "Gorightly pressed him repeatedly, in different forms, after Levesque had maintained that Castello was real; the November 2015 message is the result.",
 "predicate": "investigated",
@@ -104,10 +101,8 @@
 },
 "hl": null,
 "id": "saucers-spooks-and-kooks-2021",
-"l0": false,
 "label": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Adam Gorightly, 'Saucers, Spooks and Kooks: UFO Disinformation in the Age of Aquarius' (Daily Grail, 2021)",
 "sourceFiles": [

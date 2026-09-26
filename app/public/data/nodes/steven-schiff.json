@@ -9,7 +9,6 @@
 "US House of Representatives, New Mexico 1st district (1989-1998)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1993-01-01",
@@ -187,7 +186,6 @@
 "edgeLabel": "GAO conducted the Roswell records search at Rep. Schiff's request",
 "family": "oversight",
 "id": "gao",
-"l0": false,
 "label": "Government Accountability Office",
 "note": "Schiff turned to GAO after the Air Force declined to answer him directly; GAO/NSIAD-95-187 is the result.",
 "predicate": "requested",
@@ -214,7 +212,6 @@
 "edgeLabel": "Schiff tasked GAO after DoD refused to answer him",
 "family": "oversight",
 "id": "gao-nsiad-95-187",
-"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "A single member of Congress used the legislature's audit arm to go around an executive agency, producing the records-destruction finding no executive review has ever addressed.",
 "predicate": "requested",
@@ -251,7 +248,6 @@
 "edgeLabel": "Schiff's New Mexico district inquiry produced the GAO Roswell audit",
 "family": "role",
 "id": "l-albuquerque",
-"l0": false,
 "label": "Albuquerque, New Mexico",
 "note": "Rep. Steven H. Schiff of New Mexico asked GAO to search federal records after the Defense Department declined to answer his Roswell inquiries, producing GAO/NSIAD-95-187.",
 "predicate": "held_post",
@@ -278,7 +274,6 @@
 "edgeLabel": "Schiff's inquiry forced the Air Force to abandon the weather balloon story",
 "family": "place-time",
 "id": "usaf-roswell-reports",
-"l0": false,
 "label": "The Roswell Reports (USAF, 1994-1997)",
 "note": "Both Roswell Reports state they were produced in response to Rep. Schiff's inquiry. The 1994-1995 volume conceded that the 1947 weather balloon explanation was false.",
 "predicate": "led_to",
@@ -322,11 +317,9 @@
 "hl": null,
 "id": "steven-schiff",
 "instId": "oversight-congress",
-"l0": false,
 "label": "Steven H. Schiff",
 "loc": "Albuquerque, NM",
 "locId": "l-dc",
-"members": null,
 "narrative": "Schiff is the proof that a single member of Congress asking a records question can produce a durable federal finding. Representing New Mexico's first district, he requested information from the Department of Defense about the 1947 Roswell events in 1993, was routed to the National Archives rather than given an answer, and responded by directing the General Accounting Office to conduct a formal search of government records. GAO reported to him in July 1995 as GAO/NSIAD-95-187. Its finding is the one that matters and is still cited three decades later: Roswell Army Air Field administrative records from March 1945 through December 1949 and RAAF outgoing messages from October 1946 through December 1949 had been destroyed, and 'the document disposition form does not indicate what organization or person destroyed the records and when or under what authority the records were destroyed.' GAO also recorded that only two government records originating in 1947 could be located. Schiff had asked for the paper trail and GAO told him, in the flat language of an audit agency, that the paper trail covering the relevant period had been eliminated by persons unknown under authority unknown. He died in 1998.",
 "photoCredit": null,
 "sequenceChain": [

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-71fbaa3ded",
@@ -80,7 +79,6 @@
 "edgeLabel": "The command-level record of the penetration and the failed response",
 "family": "documents",
 "id": "doc-nmcc-loring-1975",
-"l0": false,
 "label": "NMCC Memorandum for Record, 'AFB Penetration', 29 October 1975",
 "note": "Five numbered paragraphs plus four DDO updates, each citing its source message.",
 "predicate": "concerns",
@@ -107,7 +105,6 @@
 "edgeLabel": "The penetrations were of this installation's weapons storage area",
 "family": "place-time",
 "id": "l-loring",
-"l0": false,
 "label": "Loring AFB, Maine",
 "note": "The NMCC memorandum names Loring AFB, Maine by name in its first numbered paragraph.",
 "predicate": "occurred_at",
@@ -134,7 +131,6 @@
 "edgeLabel": "First episode of the October to November 1975 sequence",
 "family": "organisation",
 "id": "sac-overflights-1975",
-"l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "CINCNORAD's message of 11 November 1975 names Loring first among the five installations.",
 "predicate": "part_of",
@@ -168,10 +164,8 @@
 },
 "hl": null,
 "id": "loring-1975",
-"l0": false,
 "label": "Loring AFB penetrations, 27 to 31 October 1975",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Loring AFB penetrations, 27 to 31 October 1975",
 "sourceFiles": [

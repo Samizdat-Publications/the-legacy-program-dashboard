@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-22c486967e",
@@ -89,7 +88,6 @@
 "edgeLabel": "TRW acquired BDM by cash tender offer, 1997",
 "family": "organisation",
 "id": "bdm-international",
-"l0": false,
 "label": "BDM International, Inc.",
 "note": "BDM's own Schedule 14D-9 of 26 November 1997 recites the 20 November merger agreement with TRW Inc. and its subsidiary Systems Acquisition Inc. at $29.50 a share, and BDM filed a Form 15-12G on 29 December 1997.",
 "predicate": "part_of",
@@ -116,7 +114,6 @@
 "edgeLabel": "The subject of the 20 March 2026 corporate-breakaway argument",
 "family": "documents",
 "id": "gerb-northrop-trw-investigation",
-"l0": false,
 "label": "UAP Gerb - Northrop Grumman & TRW investigation (Vol.2)",
 "note": "The video's whole case turns on the 2002 acquisition, which the filings document; its funding-mechanism proposition is an extrapolation and is not in any filing opened here.",
 "predicate": "concerns",
@@ -143,7 +140,6 @@
 "edgeLabel": "Merged into a Northrop Grumman subsidiary, 11 December 2002",
 "family": "organisation",
 "id": "northrop-grumman",
-"l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "Northrop Grumman's Form 8-K states that Richmond Acquisition Corp. merged with and into TRW on 11 December 2002, leaving TRW a wholly owned subsidiary, with TRW Systems and TRW Space and Electronics renamed as Northrop Grumman Mission Systems and Northrop Grumman Space Technology.",
 "predicate": "part_of",
@@ -177,10 +173,8 @@
 },
 "hl": null,
 "id": "trw-inc",
-"l0": false,
 "label": "TRW Inc.",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "TRW Inc.",
 "sourceFiles": [

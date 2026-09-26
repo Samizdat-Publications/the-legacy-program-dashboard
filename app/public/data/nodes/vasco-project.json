@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-16667f4d3c",
@@ -75,7 +74,6 @@
 "edgeLabel": "Principal investigator",
 "family": "role",
 "id": "beatriz-villarroel",
-"l0": false,
 "label": "Beatriz Villarroel",
 "note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
 "predicate": "held_post",
@@ -107,7 +105,6 @@
 "edgeLabel": "Sol Briefing No. 1 (January 2026) is built on the pre-satellite-era plate evidence",
 "family": "documents",
 "id": "sol-foundation",
-"l0": true,
 "label": "The Sol Foundation",
 "note": "'Robust Evidence of Unidentified Anomalous Phenomena in Pre-Satellite Era Night-Sky Images' translated the VASCO results into a policy artefact aimed at Congress.",
 "predicate": "cites",
@@ -146,10 +143,8 @@
 },
 "hl": null,
 "id": "vasco-project",
-"l0": false,
 "label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "sourceFiles": [

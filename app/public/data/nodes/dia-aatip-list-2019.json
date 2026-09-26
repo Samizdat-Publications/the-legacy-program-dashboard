@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-a1b107a1b3",
@@ -27,7 +26,6 @@
 "edgeLabel": "The 38-title list is the only official enumeration of the series",
 "family": "documents",
 "id": "aawsap-dird-series",
-"l0": false,
 "label": "AAWSAP Defense Intelligence Reference Document series",
 "note": "DIA released the list to Steven Aftergood of FAS on 16 January 2019 under FOIA; it had been provided to Congress in January 2018. Without this release the series would be known only from leaks.",
 "predicate": "concerns",
@@ -59,7 +57,6 @@
 "edgeLabel": "Converted an oral controversy into an enumerated procurement record",
 "family": "analysis",
 "id": "d-custody",
-"l0": false,
 "label": "Chain of custody",
 "note": "Whatever else AATIP/AAWSAP was, the FOIA release proves it bought 38 named studies on wormholes, warp drive, metamaterials, metallic glasses, negative mass propulsion and clinical injury pathology for roughly $22 million.",
 "predicate": "exemplifies",
@@ -98,10 +95,8 @@
 },
 "hl": null,
 "id": "dia-aatip-list-2019",
-"l0": false,
 "label": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "DIA letter to Steven Aftergood listing 38 AATIP reference products (16 January 2019)",
 "sourceFiles": [

@@ -12,10 +12,8 @@ THE ORDER, AND WHY IT IS THIS ORDER
   regrade               reads the merged board, writes research/_remediation.json
   merge                 AGAIN, on purpose: _remediation.json is itself an input to
                         merge, so one pass would ship the board regrade was about to fix
-  build_l0              data/l0-model.json, the map model and its dossiers
-  build_design_extract  data/design-extract.json, which build_l0_layout reads
-  build_l0_layout.mjs   data/l0-layout-model.json, Design's packed layout
-  build_foia_links      data/foia-links.json, from the FOIA letters and l0-model.json
+  build_foia_links      data/foia-links.json, from the FOIA letters, the board and
+                        the entity dossiers (tools/dossiers.py)
   build_source_registry research/_sources.json and _claim_sources.json (phase 8): every
                         source the board cites, and each claim's sources, from the
                         merged board and research/_source_decisions.json
@@ -28,6 +26,12 @@ THE ORDER, AND WHY IT IS THIS ORDER
 Until 25 September 2026 this was tools/build.sh, which ended in build_dashboard.py:
 the old single-file shell, which also ran the FOIA step inside itself. The old shell
 is retired and the FOIA step is a step of its own.
+
+Until 26 September 2026 (redesign phase 11) three more stages ran between the second
+merge and build_foia_links: build_l0 (data/l0-model.json, the L0 program map model
+and its dossiers), build_design_extract (data/design-extract.json) and
+build_l0_layout.mjs (data/l0-layout-model.json, the packed map layout). The map
+retired and they went with it; the dossiers load through tools/dossiers.py.
 """
 
 import os
@@ -41,9 +45,6 @@ STEPS = (
     ("merge", ["merge.py"]),
     ("regrade", ["regrade.py"]),
     ("merge (again)", ["merge.py"]),
-    ("build_l0", ["build_l0.py"]),
-    ("build_design_extract", ["build_design_extract.py"]),
-    ("build_l0_layout", ["build_l0_layout.mjs"]),
     ("build_foia_links", ["build_foia_links.py"]),
     ("build_source_registry", ["build_source_registry.py"]),
     ("build_app_data", ["build_app_data.py"]),

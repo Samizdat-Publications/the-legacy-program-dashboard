@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-a0bfd8c01b",
@@ -103,7 +102,6 @@
 "edgeLabel": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
 "family": "place-time",
 "id": "church-committee",
-"l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
 "predicate": "led_to",
@@ -130,7 +128,6 @@
 "edgeLabel": "Created the first segment of the record by litigation",
 "family": "testimony",
 "id": "steven-aftergood",
-"l0": false,
 "label": "Steven Aftergood",
 "note": "Aftergood was the plaintiff in the 1997 FAS FOIA suit against the CIA that forced the first release of the total intelligence budget in fifty years, $26.6 billion for FY1997. Attested by FAS and by the FAS Intelligence Resource Program budget page.",
 "predicate": "brought_to_record",
@@ -157,7 +154,6 @@
 "edgeLabel": "The statute that produced the second segment of the disclosure record",
 "family": "law",
 "id": "usc-50-3306",
-"l0": false,
 "label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
 "note": "Section 601 of P.L. 110-53, codified at 50 U.S.C. 3306, compels the annual aggregate NIP disclosures that resumed with FY2007 after a nine-year gap. Attested by the statute and by the ODNI and FAS compilations.",
 "predicate": "mandated",
@@ -191,10 +187,8 @@
 },
 "hl": null,
 "id": "intel-budget-disclosure-record",
-"l0": false,
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "The intelligence budget disclosure record, FY1997-FY2026",
 "sourceFiles": [

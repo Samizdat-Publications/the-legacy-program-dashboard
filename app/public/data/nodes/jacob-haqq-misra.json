@@ -8,7 +8,6 @@
 "UAP Science Advisory Council (2026- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-06-15",
@@ -54,7 +53,6 @@
 "edgeLabel": "Astrobiology seat, via the Sol Foundation advisory board",
 "family": "role",
 "id": "uap-science-advisory-council",
-"l0": true,
 "label": "UAP Science Advisory Council",
 "note": "One of five Sol-affiliated appointments announced by the foundation in June 2026.",
 "predicate": "member_of",
@@ -91,11 +89,9 @@
 "hl": null,
 "id": "jacob-haqq-misra",
 "instId": "blue-marble-space-institute",
-"l0": false,
 "label": "Jacob Haqq-Misra",
 "loc": "Seattle, WA",
 "locId": null,
-"members": null,
 "narrative": "Haqq-Misra is the astrobiology seat, and his appointment shows how the 2026 council was assembled: not from federal laboratories or FFRDCs, but from the civil research institutions - Sol, Galileo, SCU, UAPx - that spent the preceding five years building the only unclassified capability that existed. A senior research investigator at the Blue Marble Space Institute of Science and an editor in the technosignatures literature, he sat on the Sol Foundation's advisory board before being named to the UAP Science Advisory Council in June 2026 alongside Nolan, Skafish and Gallaudet. The Sol Foundation's own announcement framed the appointments as 'a fulfillment of its founding mission', which is an unusually candid statement of what happened: a private foundation founded in 2023 supplied a plurality of the government's outside science advisers within three years.",
 "photoCredit": null,
 "sequenceChain": [],

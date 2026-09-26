@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-34d43d3787",
@@ -47,7 +46,6 @@
 "edgeLabel": "January 2015 ATFLIR artefact from the same operating environment",
 "family": "organisation",
 "id": "roosevelt-2014-2015",
-"l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "DoD released GIMBAL on 27 April 2020 as authentic and unidentified; AARO's published case slides contain no GIMBAL assessment.",
 "predicate": "produced",
@@ -86,10 +84,8 @@
 },
 "hl": null,
 "id": "gimbal-video",
-"l0": false,
 "label": "GIMBAL (Navy ATFLIR video, January 2015)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "GIMBAL (Navy ATFLIR video, January 2015)",
 "sourceFiles": [

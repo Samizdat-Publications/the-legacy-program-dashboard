@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-0e472a2e3f",
@@ -41,7 +40,6 @@
 "edgeLabel": "Authored the two-volume documentary chronology",
 "family": "documents",
 "id": "richard-dolan",
-"l0": false,
 "label": "Richard M. Dolan",
 "note": "Dolan wrote 'Chronology of a Cover-Up, 1941-1973' (2002) and 'The Cover-Up Exposed, 1973-1991' (2009).",
 "predicate": "wrote",
@@ -75,10 +73,8 @@
 },
 "hl": null,
 "id": "ufos-national-security-state",
-"l0": false,
 "label": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "UFOs and the National Security State, vols. I-II (Dolan, 2002 and 2009)",
 "sourceFiles": [

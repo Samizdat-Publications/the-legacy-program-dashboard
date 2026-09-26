@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-e09399cc0a",
@@ -47,7 +46,6 @@
 "edgeLabel": "reports to",
 "family": "oversight",
 "id": "uap-science-advisory-council",
-"l0": true,
 "label": "UAP Science Advisory Council",
 "note": "The council reports to the interagency UAP Governance Board, which the Sol Foundation describes as coordinating across military, law enforcement and intelligence community agencies.",
 "predicate": "reports_to",
@@ -86,10 +84,8 @@
 },
 "hl": null,
 "id": "uap-governance-board",
-"l0": false,
 "label": "UAP Governance Board",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "UAP Governance Board",
 "sourceFiles": [

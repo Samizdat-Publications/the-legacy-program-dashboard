@@ -8,7 +8,6 @@
 "New York University, journalism faculty"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2019-04-01",
@@ -65,7 +64,6 @@
 "edgeLabel": "Obtained both the Pentagon denial and the 'exemplary' evaluation language",
 "family": "media",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "Kloor's two 2019 pieces cut in opposite directions, which is why both are load-bearing.",
 "predicate": "reported_on",
@@ -107,11 +105,9 @@
 "hl": null,
 "id": "keith-kloor",
 "instId": "the-intercept",
-"l0": false,
 "label": "Keith Kloor",
 "loc": "New York, NY",
 "locId": "l-nyc",
-"members": null,
 "narrative": "Kloor is the journalist who forced the Department to put its position on Elizondo in writing. His 1 June 2019 Intercept piece obtained Christopher Sherwood's statement that Elizondo 'had no responsibilities with regard to the AATIP program while he worked in OUSDI, up until the time he resigned effective 10/4/2017' — the sentence that has anchored every subsequent Pentagon statement on the subject. Two months earlier, in Issues in Science and Technology, he had published Elizondo's 2016 performance evaluation language rating him 'exemplary' and describing a portfolio whose importance to national security 'cannot be overstated,' including the neutralisation of six insider threats. Kloor is a skeptic of the disclosure movement's claims, and both of his contributions cut in opposite directions — which is why they are the most load-bearing journalism in the domain.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-3c08e4a22c",
@@ -61,7 +60,6 @@
 "edgeLabel": "Allied government's contemporaneous Secret record of the engagements",
 "family": "documents",
 "id": "shootdowns-feb-2023",
-"l0": false,
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "The 14 February 2023 Privy Council memo to Prime Minister Trudeau documents that exploitation of the Alaska object was incomplete and the Yukon object unverified as to function and propulsion.",
 "predicate": "concerns",
@@ -95,10 +93,8 @@
 },
 "hl": null,
 "id": "charette-memo-2023",
-"l0": false,
 "label": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Charette Privy Council Memorandum (Secret, 14 Feb 2023)",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-b94dfb6f81",
@@ -145,7 +144,6 @@
 "edgeLabel": "produced the 1999 report",
 "family": "organisation",
 "id": "cometa",
-"l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Published as a special issue of VSD in July 1999 and delivered to Prime Minister Lionel Jospin.",
 "predicate": "produced",
@@ -172,7 +170,6 @@
 "edgeLabel": "the US 2026 release cites COMETA as a source on the Argentine case",
 "family": "documents",
 "id": "ev-argentina-bariloche-1995",
-"l0": false,
 "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
 "note": "The Buenos Aires Times reports that the released file sits in a section on investigations conducted outside the United States and 'references a report produced by COMETA'.",
 "predicate": "cites",
@@ -199,7 +196,6 @@
 "edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
 "family": "conduct",
 "id": "sepra",
-"l0": false,
 "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
 "predicate": "supported",
@@ -233,10 +229,8 @@
 },
 "hl": null,
 "id": "doc-cometa-report",
-"l0": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "sourceFiles": [

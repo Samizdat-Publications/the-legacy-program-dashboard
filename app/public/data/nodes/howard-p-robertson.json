@@ -8,7 +8,6 @@
 "CIA consultant"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1953-01-14",
@@ -105,7 +104,6 @@
 "edgeLabel": "Chaired the CIA-convened panel of January 1953",
 "family": "role",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "Robertson chaired the panel at CIA's request; the report is the founding document of American UFO information management.",
 "predicate": "held_post",
@@ -132,7 +130,6 @@
 "edgeLabel": "Robertson chaired the panel",
 "family": "role",
 "id": "robertson-panel",
-"l0": true,
 "label": "Robertson Panel",
 "note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
 "predicate": "led",
@@ -170,11 +167,9 @@
 "hl": null,
 "id": "howard-p-robertson",
 "instId": "cia",
-"l0": false,
 "label": "Howard P. Robertson",
 "loc": "Pasadena, CA",
 "locId": "l-dc",
-"members": null,
 "narrative": "Howard Percy Robertson was a Caltech relativist, a CIA consultant, and director of the Weapons Systems Evaluation Group at the Defense Department — a man with simultaneous standing in physics, intelligence and weapons policy. He chaired the panel convened by the CIA Office of Scientific Intelligence from 14 to 18 January 1953, which sat for roughly twelve hours across four days, reviewed a curated selection of cases, and produced a report recommending that the national security agencies 'strip the Unidentified Flying Objects of the special status they have been given' through an education programme with 'training' and 'debunking' aims. The debunking aim was to be pursued via 'mass media such as television, motion pictures, and popular articles,' with the panel explicitly canvassing the Walt Disney organisation and the Navy Special Devices Center as production vehicles. The panel further recommended that civilian UFO groups be watched 'because of their potentially great influence on mass thinking.' This is a documented US government decision to run an information operation against its own population on this subject, signed by named scientists, and it is the legal and cultural foundation of every subsequent denial.",
 "photoCredit": null,
 "sequenceChain": [],

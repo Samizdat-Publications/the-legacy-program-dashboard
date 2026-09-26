@@ -2,7 +2,6 @@
 "A": 0,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-e9b7e5fac1",
@@ -75,7 +74,6 @@
 "edgeLabel": "Originating but never-interviewed eyewitness",
 "family": "testimony",
 "id": "barney-barnett",
-"l0": false,
 "label": "Grady L. 'Barney' Barnett",
 "note": "Every account of Barnett's experience is second-hand, relayed by Vern Maltais and Alice Knight after his death in 1969. Reasoning: no first-hand statement in any medium exists.",
 "predicate": "alleged_tie",
@@ -102,7 +100,6 @@
 "edgeLabel": "Sole claimed first-hand witness to the San Agustin site",
 "family": "testimony",
 "id": "gerald-anderson",
-"l0": false,
 "label": "Gerald Anderson",
 "note": "Anderson came forward in 1990; the Air Force's 1997 report identifies him as the one first-hand testimony among the three supporting the claim.",
 "predicate": "witnessed",
@@ -129,7 +126,6 @@
 "edgeLabel": "Air Force proposes San Agustin Pass confusion and dummy recoveries",
 "family": "denial",
 "id": "roswell-report-case-closed",
-"l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "Section 1.4 argues that Maltais and Knight may have confused the Plains with San Agustin Pass or Peak, adjacent to White Sands and the Jornada Test Range, where numerous dummy flights terminated.",
 "predicate": "explained_away",
@@ -194,10 +190,8 @@
 },
 "hl": null,
 "id": "plains-san-agustin-1947",
-"l0": false,
 "label": "Plains of San Agustin claim, July 1947",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Plains of San Agustin claim, July 1947",
 "sourceFiles": [

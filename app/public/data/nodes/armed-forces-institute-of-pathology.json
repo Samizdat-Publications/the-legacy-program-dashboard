@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-3a9659e67b",
@@ -113,7 +112,6 @@
 "edgeLabel": "Placed in the Department of Defense by 10 U.S.C. 176 as a joint entity of the three military departments",
 "family": "organisation",
 "id": "dod",
-"l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "10 U.S.C. 176 places the Institute in the Department of Defense as a joint entity of the three military departments under the Secretary's authority, direction and control.",
 "predicate": "part_of",
@@ -140,7 +138,6 @@
 "edgeLabel": "Doty places Green at the Institute, then corrects himself within the same passage",
 "family": "testimony",
 "id": "kit-green",
-"l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Richard Doty places Green at the Institute on 21 August 2026 at 3:21:29, a Tier 2 claim that no opened Institute record corroborates or refutes.",
 "predicate": "alleged_tie",
@@ -174,10 +171,8 @@
 },
 "hl": null,
 "id": "armed-forces-institute-of-pathology",
-"l0": false,
 "label": "Armed Forces Institute of Pathology",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Armed Forces Institute of Pathology",
 "sourceFiles": [

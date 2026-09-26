@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-599a28123c",
@@ -49,7 +48,6 @@
 "edgeLabel": "MUFON International Director 2000-2006 and case investigator",
 "family": "role",
 "id": "john-schuessler",
-"l0": false,
 "label": "John F. Schuessler",
 "note": "Schuessler investigated Cash-Landrum for MUFON from 1981 and served as its International Director from 2000 to 2006.",
 "predicate": "led",
@@ -76,7 +74,6 @@
 "edgeLabel": "MUFON symposium platform and publisher for Reports I and II",
 "family": "role",
 "id": "leonard-stringfield",
-"l0": false,
 "label": "Leonard H. Stringfield",
 "note": "Report I was delivered at the ninth annual MUFON Symposium in Dayton on 29 July 1978; Report II was published by MUFON in January 1980. Stringfield served as MUFON's director of public relations.",
 "predicate": "held_post",
@@ -103,7 +100,6 @@
 "edgeLabel": "Made the AFOSI disinformation admission from the MUFON platform",
 "family": "media",
 "id": "william-l-moore",
-"l0": false,
 "label": "William L. Moore",
 "note": "Moore chose the 1989 MUFON symposium in Las Vegas to state that he had cooperated with Air Force Office of Special Investigations personnel and passed disinformation to Paul Bennewitz.",
 "predicate": "appeared_on",
@@ -137,10 +133,8 @@
 },
 "hl": null,
 "id": "mufon",
-"l0": false,
 "label": "Mutual UFO Network (MUFON)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Mutual UFO Network (MUFON)",
 "sourceFiles": [

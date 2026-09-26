@@ -13,20 +13,24 @@ import { loadAnalyst } from '../data';
 import type { Route } from '../router';
 
 export type ChipKey =
-  | 'home' | 'node' | 'map' | 'hood' | 'thread'
+  | 'home' | 'node' | 'hood' | 'thread'
   | 'timeline' | 'patents' | 'evidence' | 'report';
 
 export const CHIP_KEYS: ChipKey[] = [
-  'home', 'node', 'map', 'hood', 'thread', 'timeline', 'patents', 'evidence', 'report',
+  'home', 'node', 'hood', 'thread', 'timeline', 'patents', 'evidence', 'report',
 ];
 
-/* Route kind to chip key. The mapping of the plan's section 3, exactly:
-   node-map and thread-map use map, node-hood uses hood, both report kinds use
-   report, notfound uses home. */
+/* Route kind to chip key. The mapping of the plan's section 3, with the map
+   retired in redesign phase 11: its routes redirect before any chip is drawn
+   (the Atlas, the node, the thread), and the owner's map chips are no longer
+   shipped. node-hood uses hood, both report kinds use report, notfound uses
+   home. */
 export function chipKey(r: Route): ChipKey {
   switch (r.kind) {
     case 'node': return 'node';
-    case 'map': case 'node-map': case 'thread-map': return 'map';
+    case 'map': return 'home';
+    case 'node-map': return 'node';
+    case 'thread-map': return 'thread';
     case 'hood': case 'node-hood': return 'hood';
     case 'thread': return 'thread';
     case 'timeline': return 'timeline';

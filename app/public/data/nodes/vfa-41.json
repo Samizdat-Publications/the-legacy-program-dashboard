@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-6deca28856",
@@ -47,7 +46,6 @@
 "edgeLabel": "Squadron that flew the intercept and produced the FLIR1 footage",
 "family": "testimony",
 "id": "nimitz-2004",
-"l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "VFA-41 put two sections into the event: the Fravor/Dietrich visual intercept and a follow-on aircraft whose ATFLIR produced FLIR1.",
 "predicate": "witnessed",
@@ -86,10 +84,8 @@
 },
 "hl": null,
 "id": "vfa-41",
-"l0": false,
 "label": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Strike Fighter Squadron 41 (VFA-41 Black Aces)",
 "sourceFiles": [

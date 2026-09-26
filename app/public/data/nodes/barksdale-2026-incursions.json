@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-8eef6362b8",
@@ -83,7 +82,6 @@
 "edgeLabel": "Confirmed year-on-year increase in detections over installations",
 "family": "testimony",
 "id": "gregory-guillot",
-"l0": false,
 "label": "Gregory M. Guillot",
 "note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
 "predicate": "acknowledged",
@@ -110,7 +108,6 @@
 "edgeLabel": "The 2026 bomber-base incursions are the task force's live problem",
 "family": "place-time",
 "id": "jiatf-401",
-"l0": false,
 "label": "Joint Interagency Task Force 401 (JIATF-401)",
 "note": "Waves of 12-15 jam-resistant drones over a B-52 base during an active bombing campaign, with a single counter-drone fly-away kit fielded, define the capability gap DODIG-2026-045 described.",
 "predicate": "responded_to",
@@ -142,7 +139,6 @@
 "edgeLabel": "Site of the March 2026 incursion waves and FPCON Charlie alert",
 "family": "place-time",
 "id": "l-barksdale",
-"l0": false,
 "label": "Barksdale Air Force Base, Louisiana",
 "note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
 "predicate": "occurred_at",
@@ -181,10 +177,8 @@
 },
 "hl": null,
 "id": "barksdale-2026-incursions",
-"l0": false,
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "sourceFiles": [

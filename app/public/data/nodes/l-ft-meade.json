@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 1,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -48,7 +47,6 @@
 "edgeLabel": "NSA holdings and the FOIA wall",
 "family": "place-time",
 "id": "d-signals",
-"l0": false,
 "label": "Signals & Sensor Intelligence",
 "note": "The records at issue in CAUS v. NSA are held at Fort Meade, and AARO's current director came from the NSA research organisation based there.",
 "predicate": "located_at",
@@ -85,10 +83,8 @@
 },
 "hl": null,
 "id": "l-ft-meade",
-"l0": false,
 "label": "Fort George G. Meade, Maryland",
 "locLabel": "Fort Meade, Maryland, USA",
-"members": null,
 "openQuestions": [],
 "short": "Fort George G. Meade, Maryland",
 "sourceFiles": [

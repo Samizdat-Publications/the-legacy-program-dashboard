@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-b540207b85",
@@ -55,7 +54,6 @@
 "edgeLabel": "Groom Lake was administratively carried as part of the Nellis complex",
 "family": "organisation",
 "id": "l-groom-lake",
-"l0": false,
 "label": "Groom Lake, Nevada",
 "note": "Until the 1995 presidential determination, the official position was that Groom Lake was simply another part of the Nellis Air Force Base complex.",
 "predicate": "part_of",
@@ -82,7 +80,6 @@
 "edgeLabel": "Claimed site placed on the Nellis range by the claimant",
 "family": "place-time",
 "id": "s-4-papoose-lake",
-"l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Uses the board's existing l-nellis id, whose label already carries the Nevada Test and Training Range. No node called nttr was created.",
 "predicate": "located_at",
@@ -119,10 +116,8 @@
 },
 "hl": null,
 "id": "l-nellis",
-"l0": false,
 "label": "Nellis Air Force Base and the Nevada Test and Training Range",
 "locLabel": "Nellis AFB, Nevada, USA",
-"members": null,
 "openQuestions": [],
 "short": "Nellis Air Force Base and the Nevada Test and Training Range",
 "sourceFiles": [

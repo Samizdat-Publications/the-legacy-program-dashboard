@@ -8,7 +8,6 @@
 "OSD Policy (Obama administration)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2021-11-23",
@@ -83,7 +82,6 @@
 "edgeLabel": "took direct oversight; AARO director reports to her from summer 2023",
 "family": "oversight",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Weeks after Grusch testified, Hicks pulled AARO out of the USD(I&S) chain and made its director report directly to the Deputy Secretary of Defense.",
 "predicate": "oversaw",
@@ -110,7 +108,6 @@
 "edgeLabel": "signatory of the AARO establishment memorandum",
 "family": "documents",
 "id": "aaro-establishment-memo-2022",
-"l0": false,
 "label": "Memorandum: Establishment of the All-domain Anomaly Resolution Office (15 July 2022)",
 "note": "Hicks signed the memorandum on 15 July 2022; DoD announced it on 20 July.",
 "predicate": "wrote",
@@ -137,7 +134,6 @@
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
 "family": "role",
 "id": "aoimsg",
-"l0": false,
 "label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
 "note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
 "predicate": "founded",
@@ -174,11 +170,9 @@
 "hl": null,
 "id": "kathleen-hicks",
 "instId": "dod",
-"l0": false,
 "label": "Kathleen H. Hicks",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Every structural decision about the official UAP apparatus between 2021 and 2024 carries Hicks's signature. As Deputy Secretary of Defense she directed the establishment of the Airborne Object Identification and Management Synchronization Group on 23 November 2021, an entity built to answer Congress's Section 1683 mandate without disturbing anything below it. When AOIMSG proved inadequate she signed the memorandum of 15 July 2022 - announced 20 July - establishing the All-domain Anomaly Resolution Office, disestablishing AOIMSG, ordering the Navy to shut down the UAP Task Force and hand its data and materials to AARO, and placing AARO under the Under Secretary of Defense for Intelligence and Security. In late July and August 2023, with Grusch's testimony fresh, she pulled AARO out of the USD(I&S) chain and made its director report directly to her, saying the Department takes UAP seriously because they are a potential national security threat and a safety risk. That re-wiring is the most consequential organisational fact in the domain: it put the office that adjudicates whistleblower claims about concealed special access programmes directly under the deputy head of the department those programmes would be concealed within. Notably, Hicks did not publicly endorse the central findings of the Historical Record Report Volume I when it was released in March 2024, a silence Christopher Mellon flagged at the time - the report's assertions were made at the AARO level, never ratified at cabinet level.",
 "photoCredit": null,
 "sequenceChain": [],

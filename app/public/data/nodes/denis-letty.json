@@ -8,7 +8,6 @@
 "Armée de l'Air (French Air Force)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1995-02",
@@ -88,7 +87,6 @@
 "edgeLabel": "founded and chaired COMETA",
 "family": "role",
 "id": "cometa",
-"l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
 "predicate": "founded",
@@ -125,11 +123,9 @@
 "hl": null,
 "id": "denis-letty",
 "instId": "cometa",
-"l0": false,
 "label": "Général Denis Letty",
 "loc": "France",
 "locId": "l-france",
-"members": null,
 "narrative": "Denis Letty, a French Air Force general in the 2nd Section (the reserve of general officers) and an auditor of the Institut des Hautes Études de Défense Nationale, is the man who assembled the most senior group of serving-and-retired defence officials ever to publish a UAP report in a NATO country. In February 1995 he organised a conference on unidentified aerospace phenomena within the Air Force Academy alumni association at which former French military pilots publicly described their own encounters, the CNES officer responsible for the file presented his papers, and an astronomer set out a scientifically acceptable version of the extraterrestrial hypothesis. In March 1995 he took the project to General Bernard Norlain at Norlain's IHEDN office; Norlain referred him to the IHEDN Auditors Association, which backed it. The committee Letty then coordinated over close to three years was named COMETA, the Comité d'Études Approfondies, and was constituted as a French 1901-law association on 24 February 1999 with Letty as chairman. In his own foreword to the report Letty writes that the accumulation of well-documented sightings by credible witnesses 'forces us to consider from now on all of the hypotheses regarding the origin of unidentified flying objects, or UFOs, and the extraterrestrial hypothesis, in particular'. He names his contributors in the text - Jean-Jacques Velasco of SEPRA, pilots Jean-Charles Duboc, Jean-Pierre Fartek and René Giraud, Edmond Campagnac of Air France, Squadron Commander Michel Perrier of the Gendarmerie Nationale, and Air Force General Joseph Domange.",
 "photoCredit": null,
 "sequenceChain": [],

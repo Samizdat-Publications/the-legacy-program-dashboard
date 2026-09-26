@@ -2,7 +2,6 @@
 "A": 0,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-b943ef143f",
@@ -49,7 +48,6 @@
 "edgeLabel": "funded MUFON's Star Team Impact Project",
 "family": "money",
 "id": "baass",
-"l0": true,
 "label": "Bigelow Aerospace Advanced Space Studies (BAASS), LLC",
 "note": "A DIA-contracted firm bought rapid-response access to the largest civilian UFO reporting network in the United States; the arrangement collapsed in 2010.",
 "predicate": "funded",
@@ -83,10 +81,8 @@
 },
 "hl": null,
 "id": "mufon-sip",
-"l0": false,
 "label": "BAASS–MUFON Star Team Impact Project (SIP)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "BAASS–MUFON Star Team Impact Project (SIP)",
 "sourceFiles": [

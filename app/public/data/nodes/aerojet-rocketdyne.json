@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-d136fdf0ea",
@@ -41,7 +40,6 @@
 "edgeLabel": "The provision named derived propulsion work as a defunding category",
 "family": "analysis",
 "id": "iaa-fy2024-sec1104",
-"l0": false,
 "label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
 "note": "Sec. 1104(c) targets propulsion 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
 "predicate": "affects",
@@ -75,10 +73,8 @@
 },
 "hl": null,
 "id": "aerojet-rocketdyne",
-"l0": false,
 "label": "Aerojet Rocketdyne",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Aerojet Rocketdyne",
 "sourceFiles": [

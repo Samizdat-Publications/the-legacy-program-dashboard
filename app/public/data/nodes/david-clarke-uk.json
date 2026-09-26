@@ -7,7 +7,6 @@
 "The National Archives, Kew"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2005-09",
@@ -74,7 +73,6 @@
 "edgeLabel": "FOI request that forced the release",
 "family": "testimony",
 "id": "doc-condign-report",
-"l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Clarke and Gary Anthony filed the September 2005 FOI request; the MoD released the report on 15 May 2006 and logged an internal review in its own disclosure log.",
 "predicate": "brought_to_record",
@@ -101,7 +99,6 @@
 "edgeLabel": "wrote the highlights guide for every tranche",
 "family": "documents",
 "id": "tna-ufo-release",
-"l0": false,
 "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
 "note": "Each National Archives UFO release page credits Dr David Clarke's guide and carries his videocast or podcast.",
 "predicate": "wrote",
@@ -139,11 +136,9 @@
 "hl": null,
 "id": "david-clarke-uk",
 "instId": "sheffield-hallam",
-"l0": false,
 "label": "Dr David Clarke",
 "loc": "Sheffield, United Kingdom",
 "locId": null,
-"members": null,
 "narrative": "David Clarke, a lecturer at Sheffield Hallam University, is the person who actually prised the British record open. In September 2005 he and Gary Anthony, a former British UFO Research Association astronomical consultant, filed a Freedom of Information Act request for the Defence Intelligence Staff study that had been rumoured since the late 1990s. The Ministry of Defence released it on 15 May 2006 as 'Unidentified Aerial Phenomena in the UK Air Defence Region', a four-volume, roughly 400-page study drawing on some 10,000 reports; the MoD's own publication-scheme page records the author as 'DAS' - the Directorate of Air Staff - with the document created and released proactively on 15 May 2006 and an internal review following. Clarke then became the consultant to The National Archives for its UFO file release programme, writing the highlights guide for each of the tranches released between 2008 and June 2013 and fronting the accompanying videocasts and podcasts. His assessment of the material was deliberately unflattering to the MoD's transparency claim: the release did not resolve the phenomenon but did show that the Defence Intelligence Staff had run a far larger investigation than it had ever admitted. The Churchill quotation that The National Archives used to head its UFO pages - 'What does all this stuff about flying saucers amount to? What can it mean? What is the truth?', PREM 11/855, July 1952 - came out of the same body of work.",
 "photoCredit": null,
 "sequenceChain": [],

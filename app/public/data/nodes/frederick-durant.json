@@ -8,7 +8,6 @@
 "National Air and Space Museum, assistant director (1965-1980)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1953-01-14",
@@ -78,7 +77,6 @@
 "edgeLabel": "Durant was panel secretary and wrote the proceedings record",
 "family": "role",
 "id": "robertson-panel",
-"l0": true,
 "label": "Robertson Panel",
 "note": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
 "predicate": "held_post",
@@ -116,11 +114,9 @@
 "hl": null,
 "id": "frederick-durant",
 "instId": "cia",
-"l0": false,
 "label": "Frederick C. Durant III",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Frederick Durant was a rocket engineer, president of the American Rocket Society, and a CIA officer who served as secretary to the Robertson Panel. His memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence — the 'Durant Report' — is the only substantive record of what was actually said in the room over those four days, and it is more revealing than the panel's formal report. It records the panel's concern with 'the cultivation of a morbid national psychology in which skilful hostile propaganda could induce hysterical behavior,' its judgment that civilian UFO organisations should be watched, and the detail of the mass-media debunking scheme. Durant later became assistant director of the National Air and Space Museum, a career trajectory that placed a man who had helped design an official debunking programme in charge of how the public understood flight history. The Durant Report circulated in redacted form for decades before fuller declassification, and its release history is itself a case study in how the record on this era was metered out.",
 "photoCredit": null,
 "sequenceChain": [],

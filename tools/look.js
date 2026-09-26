@@ -6,10 +6,10 @@
  * http://127.0.0.1:4173, override with APP_URL). It used to point at
  * `dist/the-program.html`, the single-file board with `[data-view]` tabs, a
  * canvas map, `.l0ctl` controls and `window.__board`. None of those exist in
- * the new shell: it is hash-routed, the routes are in `app/src/router.ts`, the
- * map is DOM rather than canvas, and the pages publish `window.__app.map`,
- * `window.__app.hood` and `window.__app.timeline`. `BOARD_URL` is gone with the
- * board it named.
+ * the new shell: it is hash-routed, the routes are in `app/src/router.ts`, and
+ * the timeline publishes `window.__app.timeline`. `BOARD_URL` is gone with the
+ * board it named. (The program map and the ring neighbourhood were retired in
+ * redesign phase 11; the Atlas and the grouped neighbourhood replaced them.)
  *
  * WHY THIS EXISTS
  * ---------------
@@ -29,9 +29,8 @@
  * the eyes. The one thing it does exit non-zero for is a harness problem, the
  * same as run.mjs does: nothing serving the app is not a finding about the app.
  *
- * The sweep is fixed and is one shot per surface a reader meets, plus the map a
- * second time at 1366 wide, which is the width Design's own note puts below the
- * label floor. Every id in it is read from the data the preview is serving
+ * The sweep is fixed and is one shot per surface a reader meets, plus the Atlas
+ * a second time at 1366 wide. Every id in it is read from the data the preview is serving
  * (`app/public/data/`) at run time. Nothing here is written down by hand: the
  * node is the highest-degree node in index.json, the thread is the first in
  * threads.json, the patent is the first in patents.json.
@@ -58,19 +57,16 @@ const argOf = f => { const i = argv.indexOf(f); return i >= 0 ? argv[i + 1] : nu
 const OUT = argOf('--out') || path.join(ROOT, 'dist', 'shots');
 
 /* 1920 is the size the app is designed against and the one app/checks/run.mjs
-   walks. 1366 is the commonest narrow desktop and, per the label rule in
-   app/src/map/layout.ts, is where the map has to decide whether the labels
-   still fit. The point of taking the map twice is that those are two different
-   pictures of the same route. */
+   walks. 1366 is the commonest narrow desktop, where the Atlas packs its
+   chips differently, so it is taken twice. */
 const WIDE = [1920, 1080];
 const NARROW = [1366, 768];
 
 /* Pages settle at very different speeds: the evidence table paints in blocks,
-   the map measures every label before it lays out, the hood runs a force pass.
-   These are the same waits app/checks/run.mjs uses for the same routes. */
+   the timeline packs its lanes. These are the same waits app/checks/run.mjs
+   uses for the same routes. */
 function settleFor(hash) {
   if (hash.startsWith('#/evidence')) return 3200;
-  if (hash.startsWith('#/map')) return 2400;
   if (hash.startsWith('#/timeline')) return 2400;
   if (/hood/.test(hash)) return 2200;
   if (hash === '#/') return 1600;
@@ -125,7 +121,7 @@ async function realIds() {
   const criticSweep = () => {
     const routes = [
       ['home', '#/'], ['node', '#/n/' + ids.node], ['person', '#/n/david-grusch'],
-      ['map', '#/map'], ['hood', '#/n/' + ids.node + '/hood'], ['timeline', '#/timeline'],
+      ['atlas', '#/atlas'], ['hood', '#/n/' + ids.node + '/hood'], ['timeline', '#/timeline'],
       ['evidence', '#/evidence'], ['thread', '#/t/' + ids.thread], ['patent', '#/patents/' + ids.patent],
       ['report', '#/report/n/' + ids.node],
     ];
@@ -142,8 +138,8 @@ async function realIds() {
 
   const SWEEP = CRITIC ? criticSweep() : [
     { file: '01-home',        hash: '#/',                          size: WIDE },
-    { file: '02-map',         hash: '#/map',                       size: WIDE },
-    { file: '03-map-1366',    hash: '#/map',                       size: NARROW },
+    { file: '02-atlas',       hash: '#/atlas',                     size: WIDE },
+    { file: '03-atlas-1366',  hash: '#/atlas',                     size: NARROW },
     { file: '04-node',        hash: '#/n/' + ids.node,             size: WIDE },
     { file: '05-node-hood',   hash: '#/n/' + ids.node + '/hood',   size: WIDE },
     { file: '06-timeline',    hash: '#/timeline',                  size: WIDE },

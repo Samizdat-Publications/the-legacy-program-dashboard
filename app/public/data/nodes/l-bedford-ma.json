@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-c8990aac82",
@@ -27,7 +26,6 @@
 "edgeLabel": "MITRE founding site and original headquarters",
 "family": "place-time",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual.",
 "predicate": "located_at",
@@ -76,10 +74,8 @@
 },
 "hl": null,
 "id": "l-bedford-ma",
-"l0": false,
 "label": "Bedford, Massachusetts",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Bedford, Massachusetts",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-27bb0f335f",
@@ -49,7 +48,6 @@
 "edgeLabel": "superseded and disestablished by AARO",
 "family": "organisation",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The 15 July 2022 memorandum disestablished AOIMSG eight months after its creation and replaced it with AARO.",
 "predicate": "succeeded",
@@ -76,7 +74,6 @@
 "edgeLabel": "directed establishment of AOIMSG, 23 November 2021",
 "family": "role",
 "id": "kathleen-hicks",
-"l0": false,
 "label": "Kathleen H. Hicks",
 "note": "Hicks stood up AOIMSG as the Department's answer to the FY2022 NDAA Section 1683 requirement for a permanent office.",
 "predicate": "founded",
@@ -110,10 +107,8 @@
 },
 "hl": null,
 "id": "aoimsg",
-"l0": false,
 "label": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Airborne Object Identification and Management Synchronization Group (AOIMSG)",
 "sourceFiles": [

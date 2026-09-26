@@ -7,7 +7,6 @@
 "Open Minds / Debrief contributor"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-05-14",
@@ -45,7 +44,6 @@
 "edgeLabel": "Catalogued the missing fields in the case summaries",
 "family": "oversight",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "Rojas identified absent coordinates, sensor parameters and altitude data as the specific omissions that block independent kinematic analysis.",
 "predicate": "investigated",
@@ -81,11 +79,9 @@
 "hl": null,
 "id": "alejandro-rojas",
 "instId": "enigma-labs",
-"l0": false,
 "label": "Alejandro Rojas",
 "loc": "Phoenix, AZ",
 "locId": "l-dc",
-"members": null,
 "narrative": "Rojas is the analyst who catalogued precisely which fields were missing from the PURSUE case summaries. His assessment of Release 01: 'Although there is a lot of information here, there is little context. Case summaries without coordinates, sensor parameters, or altitude data make independent analysis very difficult.' Coordinates, sensor parameters and altitude are the three inputs that convert a video of a moving light into a kinematic claim; without them, no acceleration, no speed and no size can be derived, and every file in the tranche remains a picture rather than a measurement. Rojas works with Enigma Labs, one of the civilian platforms attempting to build a structured UAP dataset - which is the reason his objection is a data-engineering objection rather than a rhetorical one. His critique and Gallaudet's converge from different directions on the same finding: the release preserved the imagery and stripped the physics.",
 "photoCredit": null,
 "sequenceChain": [],

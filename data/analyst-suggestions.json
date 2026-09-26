@@ -2,7 +2,6 @@
   "_note": "The analyst's suggestion chips, one list per route kind. Edited only through Stewart's decisions, shown to him as a table in chat first. tools/build_app_data.py reads this file and fails the build if a key is missing or has fewer than three strings. Every figure quoted in a chip was re-derived from the data on 11 September 2026; if a research pass moves a count, the chip that quotes it has to move with it.",
   "_figures": {
     "timeline": 1076,
-    "l0": 135,
     "nodes": 1138,
     "claims.3": 580
   },

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-3bee01484c",
@@ -47,7 +46,6 @@
 "edgeLabel": "Site of the March 2026 incursion waves and FPCON Charlie alert",
 "family": "place-time",
 "id": "barksdale-2026-incursions",
-"l0": false,
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "Barksdale raised force protection and issued a shelter-in-place order on 9 March 2026; base public affairs confirmed the UAS report and FAA involvement.",
 "predicate": "occurred_at",
@@ -86,10 +84,8 @@
 },
 "hl": null,
 "id": "l-barksdale",
-"l0": false,
 "label": "Barksdale Air Force Base, Louisiana",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Barksdale Air Force Base, Louisiana",
 "sourceFiles": [

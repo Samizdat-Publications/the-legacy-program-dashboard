@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-fac04b78ba",
@@ -41,7 +40,6 @@
 "edgeLabel": "The series premiere prompted the 1 June 2019 Pentagon denial",
 "family": "place-time",
 "id": "christopher-sherwood",
-"l0": false,
 "label": "Christopher Sherwood",
 "note": "The Intercept tested the Department's position because the series presented Elizondo as having led AATIP for eight years. Media pressure produced the operative denial.",
 "predicate": "led_to",
@@ -68,7 +66,6 @@
 "edgeLabel": "TTSA production, executive produced by Tom DeLonge, History Channel 2019-2020",
 "family": "organisation",
 "id": "ttsa",
-"l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "The Entertainment Division supplying distribution for the Aerospace and Science claims.",
 "predicate": "produced",
@@ -102,10 +99,8 @@
 },
 "hl": null,
 "id": "unidentified-history-series",
-"l0": false,
 "label": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "'Unidentified: Inside America's UFO Investigation' (History Channel)",
 "sourceFiles": [

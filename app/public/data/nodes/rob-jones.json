@@ -6,7 +6,6 @@
 "NewsNation Reality Check (research producer)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-05-12",
@@ -57,7 +56,6 @@
 "edgeLabel": "Credited research producer",
 "family": "role",
 "id": "newsnation-reality-check",
-"l0": false,
 "label": "Reality Check with Ross Coulthart (NewsNation)",
 "note": "Named in the on-screen credits of the 4 August 2026 episode.",
 "predicate": "held_post",
@@ -84,7 +82,6 @@
 "edgeLabel": "NewsNation research producer supplied gatekeeper leads to Gerb",
 "family": "testimony",
 "id": "uap-gerb",
-"l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb's 12 May 2026 livestream describes 'details on a new alleged gatekeeper presented by NewsNation's Rob Jones', establishing a working research pipeline between the network desk and the independent investigator.",
 "predicate": "told",
@@ -121,11 +118,9 @@
 "hl": null,
 "id": "rob-jones",
 "instId": "newsnation",
-"l0": false,
 "label": "Rob Jones",
 "loc": "New York, NY",
 "locId": "l-nyc",
-"members": null,
 "narrative": "Rob Jones is the research producer on Ross Coulthart's Reality Check and, unusually for a below-the-line credit, an identifiable actor in the structural investigation. UAP Gerb's 12 May 2026 livestream describes Jones surfacing 'details on a new alleged gatekeeper' - meaning a NewsNation staff researcher is independently producing names for the gatekeeper roster that Gerb's videos then work into the org chart. Jones appears alongside Gerb on repeated livestreams. His presence is the clearest evidence that the Gerb reconstruction is not a solitary YouTube project but is being co-produced with a network research desk.",
 "photoCredit": null,
 "sequenceChain": [],

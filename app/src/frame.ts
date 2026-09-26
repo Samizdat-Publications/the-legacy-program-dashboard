@@ -1,6 +1,6 @@
 /* frame.ts: the common frame of Design response section 1.1.
  *
- * A 40px bar: the wordmark, five routes and More (five more: the Library since phase 8), and the search field. The raw URL
+ * A 40px bar: the wordmark, five routes and More (five more since phase 11), and the search field. The raw URL
  * fragment and the viewport size used to sit on the right; they were debugging
  * aids, not reader chrome, and went in redesign phase 5b. The route is on the
  * bar as `data-route` for anything that needs to read it.
@@ -11,7 +11,7 @@
  *
  * Every href here is a route in section 2.1. Two of the eight need an id to point
  * at, so they carry one:
- *   Threads   -> #/t/custody, a thread in Design 1.6 and an entry path in map.json
+ *   Threads   -> #/t/custody, a thread in Design 1.6
  *   Patents   -> #/patents/10144532, the patent the Design response and the mockup
  *                use, and the only one of the five whose node is on the board
  *   Report    -> the node in view. With no node in view there is nothing to report
@@ -33,9 +33,9 @@ interface NavItem { label: string; href: string | null; match: (r: Route) => boo
 
 let lastNodeId: string | null = null;
 
-/* Redesign phase 6: five routes in the row, the Atlas among them; the map,
-   threads, the neighbourhood and the report under More until phase 11 decides
-   what becomes of them. Every one of them still resolves. */
+/* Redesign phase 6: five routes in the row, the Atlas among them; threads, the
+   neighbourhood and the report under More. Phase 11 retired the program map:
+   the Atlas replaced it, and #/map now lands there. */
 function items(r: Route): NavItem[] {
   const nid = routeNodeId(r) || lastNodeId;
   return [
@@ -45,7 +45,6 @@ function items(r: Route): NavItem[] {
     { label: 'EVIDENCE', href: '#/evidence', match: (x) => x.kind === 'evidence' },
     { label: 'PATENTS', href: '#/patents/' + PATENT_IN_VIEW, match: (x) => x.kind === 'patents' },
     { label: 'DIRECTORIES', more: true, href: '#/people', match: (x) => x.kind === 'directory' },
-    { label: 'MAP', more: true, href: '#/map', match: (x) => x.kind === 'map' || x.kind === 'node-map' || x.kind === 'thread-map' },
     { label: 'THREADS', more: true, href: '#/t/' + THREAD_IN_VIEW, match: (x) => x.kind === 'thread' },
     { label: 'NEIGHBOURHOOD', more: true, href: '#/hood', match: (x) => x.kind === 'hood' || x.kind === 'node-hood' },
     {

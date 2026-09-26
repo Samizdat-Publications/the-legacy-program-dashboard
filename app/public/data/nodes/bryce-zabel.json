@@ -8,7 +8,6 @@
 "CNN (correspondent)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1996-01-01",
@@ -95,7 +94,6 @@
 "edgeLabel": "co-host holding an unaired Grusch 'pre-interview'",
 "family": "media",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "In the Need To Know episode 'David Grusch: He's Still Here' (24 June 2023), hosted by Zabel with Ross Coulthart, the episode note states: 'And Bryce adds: there's a second interview - actually the pre-interview - that Need to Know controls.'",
 "predicate": "interviewed",
@@ -122,7 +120,6 @@
 "edgeLabel": "co-hosted 'Elizondo Unplugged' interview",
 "family": "media",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "Elizondo appeared with Coulthart and Zabel on the Need To Know episode 'Elizondo Unplugged' (13 September 2024), discussing his book Imminent, crash retrievals and non-human intelligence.",
 "predicate": "interviewed",
@@ -158,11 +155,9 @@
 "hl": null,
 "id": "bryce-zabel",
 "instId": null,
-"l0": false,
 "label": "Bryce Zabel",
 "loc": "Los Angeles, CA",
 "locId": "l-la",
-"members": null,
 "narrative": "Bryce Zabel matters to this board for one specific reason: he is the person who systematically worked through what happens after disclosure, rather than whether it will occur. With Richard Dolan he co-authored A.D. (After Disclosure), which treats the end of the secret as a governance and social-order problem - who is prosecuted, what happens to markets and religions, how a state that lied for eighty years re-legitimates itself. That is the question the legislative strand keeps colliding with and never answers. Zabel's professional background is unusual for the field: a University of Oregon broadcast journalism graduate and former CNN correspondent who became a television showrunner, created the UFO-conspiracy series Dark Skies in 1996, and in 2001 was elected chairman and CEO of the Academy of Television Arts and Sciences. Dark Skies is itself an artefact worth noting - a prime-time dramatisation of a Majestic-12-style control group broadcast in 1996, which is either prescient or evidence of how long the structural narrative has been in circulation.",
 "photoCredit": null,
 "sequenceChain": [],

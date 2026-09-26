@@ -7,7 +7,6 @@
 "Compass Rose Legal Group, senior partner"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2011-01-01",
@@ -57,7 +56,6 @@
 "edgeLabel": "Filed the complaint as counsel; former ICIG filing with the ICIG",
 "family": "documents",
 "id": "grusch-icig-complaint",
-"l0": false,
 "label": "Grusch PPD-19 Urgent Concern Complaint to the ICIG",
 "note": "The first Inspector General of the Intelligence Community drafted and filed the urgent-concern complaint with the office he previously ran. This is the strongest structural credential in the file.",
 "predicate": "wrote",
@@ -84,7 +82,6 @@
 "edgeLabel": "Counsel who filed the ICIG disclosure of urgent concern",
 "family": "testimony",
 "id": "grusch-misappropriation-allegation",
-"l0": false,
 "label": "The misappropriation allegation: Grusch's ICIG complaint and sworn testimony",
 "note": "McCullough, himself a former Intelligence Community Inspector General, filed the Disclosure of Urgent Concern(s) and Complaint of Reprisal on Grusch's behalf in May 2022. Attested by The Debrief.",
 "predicate": "brought_to_record",
@@ -120,11 +117,9 @@
 "hl": null,
 "id": "charles-mccullough-iii",
 "instId": "compass-rose-legal-group",
-"l0": false,
 "label": "Irvin Charles McCullough III",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "McCullough was the first person to hold the office of Inspector General of the Intelligence Community and served through the Obama administration, administering the urgent-concern machinery in some of its most sensitive applications. He is now a senior partner at Compass Rose Legal Group, and on 25 May 2022 he filed David Grusch's PPD-19 urgent-concern complaint with the office he once ran. His involvement is the strongest structural argument against the confused-believer framing: the man who administered the IC's urgent-concern process took the case, filed it, and the office found it credible and urgent within roughly two months. He subsequently pursued the reprisal complaint alleging that Grusch's identity and his UAP-related communications with the DoD IG were improperly disclosed to DoD and IC entities outside the IG's office - naming, in the unclassified version reported in June 2023, officials and members including DNI Avril Haines, AARO director Sean Kirkpatrick, Pentagon spokesperson Susan Gough, Sen. Kirsten Gillibrand and Rep. Tim Burchett as recipients or actors in the information flow.",
 "photoCredit": null,
 "sequenceChain": [],

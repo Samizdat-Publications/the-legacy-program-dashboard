@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-d871924358",
@@ -83,7 +82,6 @@
 "edgeLabel": "Three years before the policy review that commissioned Condign",
 "family": "place-time",
 "id": "project-condign",
-"l0": false,
 "label": "Project Condign",
 "note": "Reasoning: `project-condign`'s own text dates the commissioning policy review to 1996, and this is the named 1993 case in the released files. No opened record connects the two, and the edge is an inference from dates alone.",
 "predicate": "preceded",
@@ -110,7 +108,6 @@
 "edgeLabel": "DEFE 24/2086, closed to 2078, open only as a redacted digital copy",
 "family": "custody",
 "id": "uk-defe24",
-"l0": false,
 "label": "DEFE 24 and DEFE 31 - MoD UFO record series, The National Archives, Kew",
 "note": "Discovery gives the paper piece closure status D with an opening date of 1 January 2078 and the open digital surrogate DEFE 24/2086/1 with an opening date of 17 August 2009.",
 "predicate": "holds",
@@ -137,7 +134,6 @@
 "edgeLabel": "The UFO desk worked the case and asked for a radar replay",
 "family": "oversight",
 "id": "uk-mod-ufo-desk",
-"l0": false,
 "label": "Ministry of Defence UFO Desk (Secretariat (Air Staff) / Directorate of Air Staff)",
 "note": "The National Archives' guide says the MoD's UFO desk asked the RAF to replay radar tapes and that this found nothing unusual had been detected.",
 "predicate": "investigated",
@@ -171,10 +167,8 @@
 },
 "hl": null,
 "id": "cosford-incident-1993",
-"l0": false,
 "label": "Cosford incident, 30-31 March 1993",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Cosford incident, 30-31 March 1993",
 "sourceFiles": [

@@ -8,7 +8,6 @@
 "Institute for Defense Analyses, President"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2019-11-18",
@@ -84,7 +83,6 @@
 "edgeLabel": "President of IDA after commanding US Strategic Command",
 "family": "role",
 "id": "ida",
-"l0": false,
 "label": "Institute for Defense Analyses",
 "note": "His STRATCOM tenure, 2019-2022, coincides exactly with the UAP Task Force period and the establishment of AARO.",
 "predicate": "led",
@@ -121,11 +119,9 @@
 "hl": null,
 "id": "charles-a-richard",
 "instId": "ida",
-"l0": false,
 "label": "Charles A. Richard",
 "loc": "Alexandria, VA",
 "locId": "l-dc",
-"members": null,
 "narrative": "Richard commanded United States Strategic Command from 2019 to 2022 - global command and control of every US strategic nuclear force - and now runs the Institute for Defense Analyses, the FFRDC operator whose Systems and Analyses Center answers to the Under Secretary of Defense for Acquisition and Sustainment and whose Center for Communications and Computing answers to the National Security Agency. His IDA leadership bench continues the pattern: Maj. Gen. James R. Marrs (Ret.), formerly Assistant Deputy Chief of Staff for ISR and National Intelligence Manager for Aviation; Christopher Green, formerly NSA Technical Director for the Engagement and Policy Directorate; Laura Baldwin, formerly associate director of RAND's National Security Research Division. IDA matters to this domain for two reasons. First, it was the original administrator of JASON from 1960 until 1973, before the contract went to SRI International and eventually to MITRE - meaning the government's most sensitive standing scientific advisory panel has spent its entire existence housed inside one FFRDC operator or another, never inside the government. Second, Rep. Burlison and NewsNation have both named IDA among the FFRDCs the congressional UAP inquiry is following. His tenure as STRATCOM commander overlaps exactly with the UAP Task Force period and the standing-up of AARO.",
 "photoCredit": null,
 "sequenceChain": [],

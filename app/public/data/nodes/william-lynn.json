@@ -9,7 +9,6 @@
 "Leonardo DRS, CEO (2012-2020)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2009-02-12",
@@ -84,7 +83,6 @@
 "edgeLabel": "decision packet presented 17 November 2009",
 "family": "oversight",
 "id": "depsecdef-sap-packet-2009",
-"l0": false,
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
 "predicate": "reports_to",
@@ -111,7 +109,6 @@
 "edgeLabel": "in-person refusal of the SAP request",
 "family": "denial",
 "id": "harry-reid",
-"l0": false,
 "label": "Harry M. Reid",
 "note": "DIA's talking paper for the 19 November 2009 4:45pm meeting directs that Reid be told the deliverables do not meet DoD 5200.1-R criteria for SAP protection.",
 "predicate": "refused",
@@ -138,7 +135,6 @@
 "edgeLabel": "addressed to the Deputy Secretary of Defense",
 "family": "oversight",
 "id": "reid-sap-letter-2009",
-"l0": false,
 "label": "Reid Letter to DEPSECDEF Requesting Restricted SAP Status",
 "note": "Lynn was the decision authority; he received the request in June and delivered the refusal in person in November.",
 "predicate": "requested",
@@ -231,11 +227,9 @@
 "hl": null,
 "id": "william-lynn",
 "instId": "dod",
-"l0": false,
 "label": "William J. Lynn III",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Lynn is the addressee of Reid's SAP request and the decision authority who declined it. Reid's 24 June 2009 letter is addressed to 'The Honorable William Lynn III, Deputy Secretary of Defense' and asks him to establish a Restricted SAP with a bigoted access list over portions of the program. The staffing chain runs DIA technical review in October 2009, DIA memorandum finding insufficient grounds on 13 November 2009, Clapper's recommendation against on 17 November 2009, and then Lynn himself briefing Reid at 4:45pm on 19 November 2009 in Senate Visitor Center room SVC-217. The talking paper prepared for that meeting tells him to say the deliverables 'do not meet the criteria as specified in DoD 5200.1-R to justify the additional protection provided by a SAP.' Lynn was a career defense budget official — he had been DoD Comptroller under Clinton and came to the Deputy job from Raytheon, where he was senior vice president for government operations and strategy. He returned to industry after leaving in 2011.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -4,7 +4,6 @@
 "D": 0,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -72,7 +71,6 @@
 "edgeLabel": "author of record on the DIA list",
 "family": "documents",
 "id": "dird-ultracapacitors-as-energy-and-power-storage",
-"l0": false,
 "label": "Ultracapacitors as Energy and Power Storage Devices for Commercial and Military Applications",
 "note": "DIA list item 35: \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" The given name behind the initial was not established by any source consulted, and the node is labelled accordingly rather than guessed.",
 "predicate": "wrote",
@@ -126,11 +124,9 @@
 "hl": null,
 "id": "j-golightly",
 "instId": null,
-"l0": false,
 "label": "J. Golightly",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "The DIA letter of 9 January 2018 gives item 35 as \"Ultracapacitors as Energy and Power Storage Devices, Dr J Golightly, Lockheed Martin.\" That is the entirety of what the government record says about this author, and nothing further was established here. No public biography, publication list or institutional page consulted resolves the initial to a given name. The node is deliberately labelled with the initial rather than a guess, because the whole point of this exercise is that a wrong attribution is worse than an unwired document.\n\nWhat the affiliation does establish is worth recording. Lockheed Martin is the DIA-listed employer for three of the thirty-eight DIRDs: this ultracapacitors paper, \"Aneutronic Fusion Propulsion\" by Dr V Teofilo, and \"Magnetohydrodynamics (MHD) Air Breathing Propulsion and Power for Aerospace Applications\" by Dr S Macheret. Eric Davis said in a June 2018 interview that the advanced nuclear fusion for aerospace propulsion work was undertaken by colleagues at Lockheed Martin, which matches the list. AAWSAP did not only buy papers from universities and one-man consultancies; it bought three from a prime contractor, and Lockheed Martin is a board node on other grounds entirely. The ultracapacitors DIRD is one of the concrete threads between the DIRD series and the contractor-custody cluster.\n\nThe document is DIA-08-1011-005, dated 1 November 2010 with an Intelligence Cut-Off Date of 20 July 2010. It is a late DIRD, from the second wave rather than the FY2009 batch, and its Intelligence Cut-Off Date is correspondingly later than the 1 December 2009 that most of the earlier papers carry. Its subject is unglamorous energy-storage engineering with obvious conventional military application and no anomalous content.",
 "photoCredit": null,
 "sequenceChain": [],

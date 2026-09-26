@@ -8,7 +8,6 @@
 "Project Twinkle (1949-1951)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1948-12-05",
@@ -111,7 +110,6 @@
 "edgeLabel": "Brought in by Kirtland intelligence officers; his assessment drove the conference",
 "family": "testimony",
 "id": "green-fireballs-conference-1949",
-"l0": false,
 "label": "Los Alamos Green Fireballs Conference",
 "note": "LaPaz concluded the fireballs did not behave like meteors despite superficially resembling them.",
 "predicate": "witnessed",
@@ -138,7 +136,6 @@
 "edgeLabel": "LaPaz investigated the green fireballs from the University of New Mexico",
 "family": "place-time",
 "id": "l-albuquerque",
-"l0": false,
 "label": "Albuquerque, New Mexico",
 "note": "Lincoln LaPaz, the UNM meteoriticist retained by the Air Force, conducted the green fireball investigation from Albuquerque and attended the 16 February 1949 Los Alamos conference.",
 "predicate": "located_at",
@@ -175,11 +172,9 @@
 "hl": null,
 "id": "lincoln-lapaz",
 "instId": "lanl",
-"l0": false,
 "label": "Lincoln LaPaz",
 "loc": "Albuquerque, NM",
 "locId": "l-kirtland",
-"members": null,
 "narrative": "LaPaz was the meteoriticist the Air Force called when green fireballs began appearing over the most sensitive nuclear real estate in the United States in late 1948. Kirtland intelligence officers brought him in precisely because the objects superficially resembled meteors; his conclusion was that they did not behave like meteors - wrong trajectories, wrong colour spectrum, no recovered material, and a distribution clustered on Los Alamos, Sandia and the weapons storage areas. On 16 February 1949 a conference was convened at Los Alamos Scientific Laboratory attended by Laboratory Director Norris Bradbury, Edward Teller, Frederick Reines, and representatives of the FBI, the Atomic Energy Commission and the military. Los Alamos National Laboratory itself confirms the conference took place and that its National Security Research Center holds the minutes. In December 1949 Project Twinkle, a network of observation and photographic stations, was established to instrument the phenomenon; it was never fully implemented and produced no conclusive result. The significance for this board is jurisdictional. The green fireballs were not investigated by Blue Book at Wright-Patterson but by the contractor-operated weapons laboratory complex and the AEC, under a security regime entirely separate from the Air Force's public UFO project. That is the first documented instance of the anomaly being handled inside the DOE-laboratory seam rather than the Air Force one.",
 "photoCredit": null,
 "sequenceChain": [],

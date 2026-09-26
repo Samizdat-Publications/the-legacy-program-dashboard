@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-8ba66552f3",
@@ -89,7 +88,6 @@
 "edgeLabel": "An official explanation offered four months after the event",
 "family": "analysis",
 "id": "d-denial",
-"l0": false,
 "label": "Official Denial",
 "note": "An official explanation offered four months after the event, which is the shape this board tracks rather than the content it disputes.",
 "predicate": "exemplifies",
@@ -116,7 +114,6 @@
 "edgeLabel": "An Air National Guard statement about its own unit's sorties",
 "family": "documents",
 "id": "usaf",
-"l0": true,
 "label": "United States Air Force",
 "note": "The statement is an Air National Guard one, made by a named unit spokesman about his own unit's sorties.",
 "predicate": "concerns",
@@ -175,10 +172,8 @@
 },
 "hl": null,
 "id": "mdang-flare-statement-1997",
-"l0": false,
 "label": "Maryland Air National Guard flare statement, 26 July 1997",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Maryland Air National Guard flare statement, 26 July 1997",
 "sourceFiles": [

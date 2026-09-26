@@ -8,7 +8,6 @@
 "Deputy National Security Advisor (2015-2017)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2021-06-25",
@@ -59,7 +58,6 @@
 "edgeLabel": "DNI who transmitted the assessment to Congress",
 "family": "testimony",
 "id": "odni-preliminary-assessment-2021",
-"l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "Haines was Director of National Intelligence when ODNI delivered the Preliminary Assessment on 25 June 2021.",
 "predicate": "brought_to_record",
@@ -86,7 +84,6 @@
 "edgeLabel": "DNI briefed that the practice affected 'hundreds and hundreds' of personnel over decades",
 "family": "oversight",
 "id": "yankee-blue",
-"l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "note": "Officials escalated the finding to the Director of National Intelligence, establishing that the deception was known at the top of the IC before any public account existed.",
 "predicate": "reports_to",
@@ -124,11 +121,9 @@
 "hl": null,
 "id": "avril-haines",
 "instId": "odni",
-"l0": false,
 "label": "Avril D. Haines",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Haines owns the two most important intelligence-community moments in this domain. As Director of National Intelligence she transmitted the Preliminary Assessment on Unidentified Aerial Phenomena to Congress on 25 June 2021 - the document that put 144 UAPTF-catalogued incidents on the public record, conceded that 143 could not be explained, and pointedly declined to rule out any explanation including 'other' categories requiring scientific advances. That report is the founding public artifact of the modern era and it was produced by the UAP Task Force, not by ODNI's own analysts. Second, and more damaging to the Department's position, officials briefed Haines that the Air Force's fake alien-technology indoctrination practice had affected 'hundreds and hundreds' of personnel over decades - a briefing to the sitting DNI that the deception was systemic and long-running. The Preliminary Assessment's own framing is worth reading as an artifact of the containment: it explicitly noted that UAPTF's data set was limited and that most incidents lacked sufficient collection, an argument structure that AARO would reuse for the next five years - insufficient data as the permanent reason nothing can be resolved.",
 "photoCredit": null,
 "sequenceChain": [],

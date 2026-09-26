@@ -8,7 +8,6 @@
 "Deputy Commander, US Central Command (prior)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2024-02-01",
@@ -105,7 +104,6 @@
 "edgeLabel": "Confirmed year-on-year increase in detections over installations",
 "family": "testimony",
 "id": "barksdale-2026-incursions",
-"l0": false,
 "label": "Barksdale AFB and Strategic Base Incursions (Feb-Mar 2026)",
 "note": "'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter now defeated versus almost none previously.",
 "predicate": "acknowledged",
@@ -132,7 +130,6 @@
 "edgeLabel": "Public non-attribution finding by the homeland air defence commander",
 "family": "testimony",
 "id": "langley-2023-incursions",
-"l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "'I have not seen [and] I do not know of any organized or unorganized foreign nexus' - a four-star conceding that seventeen nights of intrusions over an F-22 base cannot be attributed.",
 "predicate": "acknowledged",
@@ -159,7 +156,6 @@
 "edgeLabel": "Commander, NORAD and USNORTHCOM from February 2024",
 "family": "role",
 "id": "norad-northcom",
-"l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
 "predicate": "led",
@@ -201,11 +197,9 @@
 "hl": null,
 "id": "gregory-guillot",
 "instId": "norad-northcom",
-"l0": false,
 "label": "Gregory M. Guillot",
 "loc": "Colorado Springs, CO",
 "locId": "l-langley-afb",
-"members": null,
 "narrative": "Guillot is the four-star who had to say out loud that the United States cannot identify what is flying over its own nuclear-capable bases. He took command of NORAD and US Northern Command in February 2024 and immediately made counter-unmanned-systems the centrepiece of his 90-day assessment, with the December 2023 Langley Air Force Base incursions as the driving case. Speaking to The War Zone on 30 October 2024 he conceded the limits of what he could say - 'The only thing I can tell you about the Langley drones is roughly the number and roughly the altitude' - and, on the question everyone wanted answered, 'I have not seen [and] I do not know of any organized or unorganized foreign nexus.' NORAD's own figure at that point was more than 600 drone reports over US military installations since 2022. By March 2026, after waves of incursions over Barksdale Air Force Base and other strategic installations following the launch of Operation Epic Fury, Guillot told reporters 'We've seen an increase from last year in the number of detections over military installations,' with roughly a quarter of detected drones now defeated versus almost none previously. Read from the board's premise, Guillot is the honest institutional face of a real gap: the command responsible for homeland air defence is describing an unattributed, persistent, sensor-resistant intrusion campaign against the continental United States and cannot name the actor.",
 "photoCredit": null,
 "sequenceChain": [],

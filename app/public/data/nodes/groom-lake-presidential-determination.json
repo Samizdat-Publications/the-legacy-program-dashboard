@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-8a987a7ad6",
@@ -35,7 +34,6 @@
 "edgeLabel": "The state secrets defence shielded the contractor-operated facility from the workers' suit",
 "family": "denial",
 "id": "eg-and-g",
-"l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "Rather than litigate the alleged open-air burning of classified waste, the government invoked state secrets and the President exempted the site; Kasza v. Browner, 133 F.3d 1159, sustained dismissal and certiorari was denied.",
 "predicate": "refused",
@@ -67,7 +65,6 @@
 "edgeLabel": "Annual presidential determinations exempt the Groom Lake operating location from environmental disclosure",
 "family": "law",
 "id": "l-groom-lake",
-"l0": false,
 "label": "Groom Lake, Nevada",
 "note": "Published in the Federal Register every year since 1995, the determinations never name the facility or describe its contents - the cleanest documentary proof of a contractor-operated site legally exempted from statutory disclosure.",
 "predicate": "governs",
@@ -142,10 +139,8 @@
 },
 "hl": null,
 "id": "groom-lake-presidential-determination",
-"l0": false,
 "label": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Presidential Determinations on the Air Force's Operating Location Near Groom Lake",
 "sourceFiles": [

@@ -8,7 +8,6 @@
 "The MITRE Corporation (1958-1986; Technical Director, then President)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1951-01-01",
@@ -59,7 +58,6 @@
 "edgeLabel": "First technical director; carried SAGE engineering authority across from MIT",
 "family": "role",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "Everett joined MITRE at incorporation as first technical director and later became its president.",
 "predicate": "led",
@@ -95,11 +93,9 @@
 "hl": null,
 "id": "robert-everett",
 "instId": "mitre-corporation",
-"l0": false,
 "label": "Robert R. Everett",
 "loc": "Bedford, MA",
 "locId": "l-bedford-ma",
-"members": null,
 "narrative": "Everett is the man who carried MITRE out of MIT. He was a principal of Project Whirlwind and then of Lincoln Laboratory's Division 6, the digital computer division built to deliver the Semi-Automatic Ground Environment air defence system - the continental radar and computing network designed to see and identify everything moving in North American airspace. When the Air Force decided that a university could not indefinitely hold an operational air defence engineering role, MITRE was incorporated as a nonprofit on 21 July 1958 and Everett joined as its first technical director along with 485 other Lincoln Laboratory employees. He later became MITRE's president. The founding fact matters more than the man: MITRE was created specifically to be the permanent, Air-Force-answerable custodian of the systems engineering for the nation's air surveillance architecture. Every unidentified track SAGE ever generated ran through the design authority Everett brought across from Lexington to Bedford. That is why the FFRDC layer, not the prime contractors, is where a concealed programme would have to live: the FFRDC is the entity that defines what the sensors are built to see and what they are built to ignore.",
 "photoCredit": null,
 "sequenceChain": [],

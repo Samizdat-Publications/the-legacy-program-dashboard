@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": "funding",
 "claims": [
 {
 "id": "c-13974e402c",
@@ -220,7 +219,6 @@
 "edgeLabel": "P.L. 119-60, Title XVI Subtitle E - the enacted corpus reduced to housekeeping",
 "family": "analysis",
 "id": "d-legislation",
-"l0": false,
 "label": "Enacted Statute",
 "note": "Approved 18 December 2025, with three UAP sections requiring that AARO briefings cover NORAD and NORTHCOM intercepts and accounting for UAP classification guides. Recording it in the enacted domain alongside the 2021-2023 provisions is what lets a reader see the trajectory of what Congress has actually been willing to enact.",
 "predicate": "exemplifies",
@@ -247,7 +245,6 @@
 "edgeLabel": "repeals 50 U.S.C. 3373a",
 "family": "law",
 "id": "iaa-2022",
-"l0": false,
 "label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
 "note": "PL 119-60 sec. 1672(a): 'Section 413 of the Intelligence Authorization Act for Fiscal Year 2022 (division X of Public Law 117-103; 50 U.S.C. 3373a) is repealed.'",
 "predicate": "amended",
@@ -274,7 +271,6 @@
 "edgeLabel": "Claims only the briefing-requirement update as her FY2026 UAP win",
 "family": "law",
 "id": "kirsten-gillibrand",
-"l0": false,
 "label": "Kirsten E. Gillibrand",
 "note": "Gillibrand's FY2026 announcement lists 'language to update congressional briefing requirements for UAP', matching Sec. 1671 rather than any disclosure mandate.",
 "predicate": "sponsored_law",
@@ -306,7 +302,6 @@
 "edgeLabel": "FY2026 amends Sec. 1683(l) to add intercept briefings",
 "family": "law",
 "id": "ndaa-fy2022-sec-1683",
-"l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "Sec. 1671 of P.L. 119-60 adds a new paragraph (5) requiring NORAD and NORTHCOM intercept detail in AARO briefings, reaching back to 1 January 2004.",
 "predicate": "amended",
@@ -338,7 +333,6 @@
 "edgeLabel": "Not renewed; the funding bar has lapsed since FY2024",
 "family": "place-time",
 "id": "ndaa-fy2024-1687",
-"l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 restricts only funds authorised by the FY2024 Act; neither P.L. 118-159 nor P.L. 119-60 contains the phrase 'special access or restricted access'.",
 "predicate": "preceded",
@@ -375,7 +369,6 @@
 "edgeLabel": "Congress set 1 January 2004 as the retroactive intercept floor",
 "family": "documents",
 "id": "nimitz-2004",
-"l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "The first briefing under Sec. 1671 must cover intercepts 'during the period beginning on January 1, 2004' — the year of the Nimitz encounters.",
 "predicate": "concerns",
@@ -402,7 +395,6 @@
 "edgeLabel": "Chaired SASC for the FY2026 authorization",
 "family": "other",
 "id": "roger-wicker",
-"l0": false,
 "label": "Roger F. Wicker",
 "note": "P.L. 119-60 originated as S. 1071 and was enacted 18 December 2025 with a three-section housekeeping subtitle and no disclosure regime.",
 "predicate": "connected_to",
@@ -434,7 +426,6 @@
 "edgeLabel": "Disposed of with seventeen amendments and no open process",
 "family": "denial",
 "id": "senate-armed-services",
-"l0": true,
 "label": "Senate Armed Services Committee",
 "note": "The only Senate floor amendment proposed to S. 1071 was SA 3961 by Senator Thune 'to improve the bill'; there was no amendment process in which the UAPDA could have been offered.",
 "predicate": "refused",
@@ -461,7 +452,6 @@
 "edgeLabel": "Third consecutive Act enacted without the Senate's own passed text",
 "family": "testimony",
 "id": "uapda-2023",
-"l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "P.L. 119-60 contains no instance of 'eminent domain', 'non-human', 'legacy program' or 'reverse engineer'.",
 "predicate": "contradicts",
@@ -630,37 +620,10 @@
 },
 "hl": null,
 "id": "ndaa-fy2026",
-"l0": true,
 "label": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-legislation",
-"label": "Enacted Statute",
-"tier": "C"
-},
-{
-"cls": "legislation",
-"id": "iaa-2022",
-"label": "Intelligence Authorization Act for FY2022, Sec. 413 (Div. X of PL 117-103; 50 U.S.C. 3373a)",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "kirsten-gillibrand",
-"label": "Kirsten E. Gillibrand",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "roger-wicker",
-"label": "Roger F. Wicker",
-"tier": "B"
-}
-],
 "openQuestions": [],
-"short": "FY2026 NDAA, Public Law 119-60",
+"short": "FY2026 NDAA, Public Law 119-60 - secs. 1671-1673, NORAD/NORTHCOM intercept briefings and UAP classification-guide accounting",
 "sourceFiles": [
 "_rs-legislation",
 "congress-senate-legislation"

@@ -2,7 +2,6 @@
 "A": 1,
 "C": 3,
 "D": 2,
-"band": "reverse-engineering",
 "claims": [
 {
 "id": "c-cabfe87d1f",
@@ -123,7 +122,6 @@
 "edgeLabel": "Custody chain: anonymous source to Art Bell, to Linda Moulton Howe, to Carnegie DTM (1996), to Puthoff, to TTSA (2019), to the US Army",
 "family": "analysis",
 "id": "d-materials",
-"l0": false,
 "label": "Materials and custody analysis",
 "note": "Howe says the samples were tested by Carnegie Science's Department of Terrestrial Magnetism in 1996 and by Puthoff on several later occasions before TTSA bought them for $35,000 in 2019.",
 "predicate": "exemplifies",
@@ -155,7 +153,6 @@
 "edgeLabel": "Research partnership from August 2018",
 "family": "role",
 "id": "earthtech-international",
-"l0": true,
 "label": "EarthTech International / Institute for Advanced Studies at Austin",
 "note": "Puthoff's Austin laboratory is where the specimens were characterised. No results have been published.",
 "predicate": "worked_with",
@@ -187,7 +184,6 @@
 "edgeLabel": "Samples routed to laboratories founded by Puthoff",
 "family": "custody",
 "id": "harold-puthoff",
-"l0": false,
 "label": "Harold E. Puthoff",
 "note": "TTSA partnered with Puthoff-founded laboratories to study the ADAM materials; Puthoff had already tested the same Howe samples privately, reporting in a 2012 letter that no anomalous outcome had been obtained.",
 "predicate": "transferred",
@@ -219,7 +215,6 @@
 "edgeLabel": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
 "family": "role",
 "id": "steve-justice",
-"l0": false,
 "label": "Steve Justice",
 "note": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
 "predicate": "led",
@@ -246,7 +241,6 @@
 "edgeLabel": "Public technical voice: material 'not from any known existing military or commercial application'",
 "family": "testimony",
 "id": "steve-justice",
-"l0": false,
 "label": "Steve Justice",
 "note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
 "predicate": "made_claims_about",
@@ -278,7 +272,6 @@
 "edgeLabel": "ADAM: acquisition and analysis of claimed exotic material",
 "family": "organisation",
 "id": "ttsa",
-"l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Announced July 2019 as the Acquisition & Data Analysis of Materials project; SEC filings record the $35,000 purchase of the bismuth/magnesium-zinc and aluminium items.",
 "predicate": "ran",
@@ -315,7 +308,6 @@
 "edgeLabel": "ADAM materials became the subject of a five-year Army CRADA",
 "family": "documents",
 "id": "ttsa-army-crada",
-"l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "On 17 October 2019 TTSA entered a CRADA with the US Army Combat Capabilities Development Command covering inertial mass reduction, metamaterials, quantum physics and beamed energy propulsion, with at least $750,000 in Army support and no public funding to the company.",
 "predicate": "concerns",
@@ -342,7 +334,6 @@
 "edgeLabel": "ADAM is the predicate for the Army agreement",
 "family": "place-time",
 "id": "ttsa-army-crada",
-"l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "The CRADA lists mechanical/structural metamaterials and electromagnetic metamaterial waveguides — the exact subject matter ADAM claimed to hold.",
 "predicate": "led_to",
@@ -501,31 +492,10 @@
 },
 "hl": null,
 "id": "adam-research-project",
-"l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-materials",
-"label": "Materials and custody analysis",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "harold-puthoff",
-"label": "Harold E. Puthoff",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "steve-justice",
-"label": "Steve Justice",
-"tier": "B"
-}
-],
 "openQuestions": [],
-"short": "ADAM Research Project",
+"short": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "sourceFiles": [
 "_rs-archive-mirror",
 "elizondo-ttsa",

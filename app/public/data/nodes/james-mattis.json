@@ -8,7 +8,6 @@
 "Secretary of Defense (2017-2019)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-10-04",
@@ -61,7 +60,6 @@
 "edgeLabel": "Memorandum saluted 'Mr. Secretary'; NYT reported it as addressed to Mattis",
 "family": "oversight",
 "id": "elizondo-resignation-letter-2",
-"l0": false,
 "label": "Elizondo Resignation Memorandum for Record, 4 October 2017",
 "note": "The letter asks the Secretary to 'ask the hard questions'. Garry Reid's memo later questioned its 'uncertain provenance' — while the letter itself sits in the Department's own FOIA release.",
 "predicate": "requested",
@@ -93,7 +91,6 @@
 "edgeLabel": "Secretary's office put six questions to Reid about Elizondo, Dec 2017",
 "family": "oversight",
 "id": "garry-reid",
-"l0": false,
 "label": "Garry P. Reid",
 "note": "Rather than engaging Elizondo, the Secretary's office tasked the Director for Defense Intelligence to explain him. Reid's answer is the origin of the Department's counter-narrative.",
 "predicate": "questioned",
@@ -130,11 +127,9 @@
 "hl": null,
 "id": "james-mattis",
 "instId": "dod",
-"l0": false,
 "label": "James N. Mattis",
 "loc": "Arlington, VA",
 "locId": "l-pentagon",
-"members": null,
 "narrative": "Mattis is the intended recipient of the act. Elizondo's second resignation letter of 4 October 2017 is a memorandum for record saluted 'Mr. Secretary,' and the New York Times reported it as addressed to Mattis, closing with the hope that it 'will encourage you to ask the hard questions.' The FOIA record shows that after the December 2017 story the Secretary's office did ask questions — six of them — and routed them to Garry Reid rather than to Elizondo, and that a handwritten annotation on the memorandum indicates the Secretary reviewed Reid's answer around 23 December 2017. The hard questions were asked about the messenger.",
 "photoCredit": null,
 "sequenceChain": [],

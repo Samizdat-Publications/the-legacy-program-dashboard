@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-eefb703460",
@@ -41,7 +40,6 @@
 "edgeLabel": "Service medical records for the incident window could not be produced",
 "family": "testimony",
 "id": "john-burroughs",
-"l0": false,
 "label": "John Burroughs",
 "note": "Burroughs reported that his USAF medical records for December 1980-January 1981 were unavailable when he sought them for a VA disability claim; the claim was granted in 2015 after congressional intervention.",
 "predicate": "witnessed",
@@ -73,7 +71,6 @@
 "edgeLabel": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
 "family": "place-time",
 "id": "rendlesham-1980",
-"l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "note": "RAF Woodbridge and RAF Bentwaters were operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements.",
 "predicate": "occurred_at",
@@ -112,10 +109,8 @@
 },
 "hl": null,
 "id": "l-raf-woodbridge",
-"l0": false,
 "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "sourceFiles": [

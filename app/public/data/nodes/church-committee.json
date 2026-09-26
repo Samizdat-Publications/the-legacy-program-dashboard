@@ -2,7 +2,6 @@
 "A": 1,
 "C": 2,
 "D": 3,
-"band": "oversight",
 "claims": [
 {
 "id": "c-4dd55e60d3",
@@ -97,7 +96,6 @@
 "edgeLabel": "Named by the committee as having limited its access to the full record",
 "family": "denial",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "The report says 'the Central Intelligence Agency and other agencies of the executive branch have limited the Committee's access to the full record', in some instances by assertion of executive privilege.",
 "predicate": "refused",
@@ -124,7 +122,6 @@
 "edgeLabel": "Recommended annual publication of the aggregate national intelligence figure, and lost its own budget chapter",
 "family": "place-time",
 "id": "intel-budget-disclosure-record",
-"l0": false,
 "label": "The intelligence budget disclosure record, FY1997-FY2026",
 "note": "The committee recommended publication of the aggregate figure while the chapter titled 'Budgetary Oversight' was deleted from the published report at the agencies' request.",
 "predicate": "led_to",
@@ -151,7 +148,6 @@
 "edgeLabel": "Testified in September 1975; the mail programme is documented largely through him",
 "family": "testimony",
 "id": "james-jesus-angleton",
-"l0": false,
 "label": "James Jesus Angleton",
 "note": "Book III cites Angleton testimony of 17 and 24 September 1975 more than fifty times and reproduces a public exchange with Senator Church on concealment from the President.",
 "predicate": "testified_at",
@@ -178,7 +174,6 @@
 "edgeLabel": "Investigated MKULTRA in 1975 without the finance file",
 "family": "oversight",
 "id": "mkultra",
-"l0": true,
 "label": "Project MKULTRA",
 "note": "Turner's 1977 statement records that the 1975 searches covered the active and retired records of every branch thought likely to hold MKULTRA papers but not the Budget and Fiscal Section's retired holdings, so the Church Committee investigated the programme without the seven boxes.",
 "predicate": "investigated",
@@ -205,7 +200,6 @@
 "edgeLabel": "The historical benchmark, and the source of the board's sharpest statement of the limit",
 "family": "analysis",
 "id": "oversight-congress",
-"l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
 "predicate": "exemplifies",
@@ -232,7 +226,6 @@
 "edgeLabel": "Recommended the permanent oversight committee that followed it",
 "family": "organisation",
 "id": "senate-intelligence",
-"l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Book I says 'a strong and effective oversight committee is an essential first step' and refers throughout to 'any successor oversight committee'; the establishing resolution for the Senate Select Committee on Intelligence was not opened for this pass, so the succession itself is graded Tier 2.",
 "predicate": "succeeded",
@@ -259,7 +252,6 @@
 "edgeLabel": "Created as a select committee of the Senate by S. Res. 21 of 27 January 1975",
 "family": "law",
 "id": "us-senate",
-"l0": false,
 "label": "United States Senate",
 "note": "The report states the resolution, the date and the mandate in its own opening section.",
 "predicate": "created",
@@ -373,29 +365,8 @@
 },
 "hl": null,
 "id": "church-committee",
-"l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "intel-budget-disclosure-record",
-"label": "The intelligence budget disclosure record, FY1997-FY2026",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "james-jesus-angleton",
-"label": "James Jesus Angleton",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "us-senate",
-"label": "United States Senate",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "Church Committee (Senate, 1975-76)",
 "sourceFiles": [

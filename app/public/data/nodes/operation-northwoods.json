@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 1,
-"band": "disclosure",
 "claims": [
 {
 "id": "c-a03ee29975",
@@ -89,7 +88,6 @@
 "edgeLabel": "The airliner pretext turns on an aircraft belonging to a CIA proprietary organisation",
 "family": "documents",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "The airliner pretext turns on substituting a duplicate for 'a civil registered aircraft belonging to a CIA proprietary organization in the Miami area'.",
 "predicate": "concerns",
@@ -116,7 +114,6 @@
 "edgeLabel": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years",
 "family": "analysis",
 "id": "d-coverup",
-"l0": false,
 "label": "The Cover-Up",
 "note": "Held TOP SECRET SPECIAL HANDLING NOFORN for thirty-five years and released only because a records statute reached it.",
 "predicate": "exemplifies",
@@ -143,7 +140,6 @@
 "edgeLabel": "A staffed and signed plan to manufacture events and attribute them to another state",
 "family": "analysis",
 "id": "d-disinformation",
-"l0": false,
 "label": "Disinformation & Fabricated Documents",
 "note": "A staffed and signed plan to manufacture events and attribute them to another state, which is the documented instance behind the board's construction-of-cover-stories argument.",
 "predicate": "exemplifies",
@@ -170,7 +166,6 @@
 "edgeLabel": "Calls for a cover and deception plan executed to provoke a citable reaction",
 "family": "analysis",
 "id": "d-psyop",
-"l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "The annex's own first paragraph calls for 'a cover and deception plan' executed to provoke a reaction that could then be cited as provocation.",
 "predicate": "exemplifies",
@@ -197,7 +192,6 @@
 "edgeLabel": "Addressed to the Secretary of Defense, signed by the Chairman of the Joint Chiefs",
 "family": "oversight",
 "id": "dod",
-"l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The memorandum is addressed to the Secretary of Defense and signed by the Chairman of the Joint Chiefs of Staff.",
 "predicate": "reports_to",
@@ -224,7 +218,6 @@
 "edgeLabel": "The annex places the duplicate aircraft at Eglin AFB",
 "family": "place-time",
 "id": "l-eglin",
-"l0": false,
 "label": "Eglin Air Force Base, Florida",
 "note": "The annex places the duplicate aircraft at Eglin AFB, naming a specific base as the staging point for the deception.",
 "predicate": "located_at",
@@ -251,7 +244,6 @@
 "edgeLabel": "Reached the public through the JFK Assassination Records Review Board",
 "family": "custody",
 "id": "national-archives",
-"l0": false,
 "label": "National Archives and Records Administration",
 "note": "The document reached the public through the JFK Assassination Records Review Board and sits in the assassination records collection at NARA; The Black Vault's index gives the JCS memorandum at 15 pages and a separate 181-page NARA file.",
 "predicate": "holds",
@@ -319,41 +311,8 @@
 },
 "hl": null,
 "id": "operation-northwoods",
-"l0": true,
 "label": "Justification for US Military Intervention in Cuba (Operation Northwoods), 13 March 1962",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-coverup",
-"label": "The Cover-Up",
-"tier": "A"
-},
-{
-"cls": "domain",
-"id": "d-disinformation",
-"label": "Disinformation & Fabricated Documents",
-"tier": "C"
-},
-{
-"cls": "domain",
-"id": "d-psyop",
-"label": "Psychological Operations & Perception Management",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-eglin",
-"label": "Eglin Air Force Base, Florida",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "national-archives",
-"label": "National Archives and Records Administration",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Operation Northwoods, 13 Mar 1962",
 "sourceFiles": [

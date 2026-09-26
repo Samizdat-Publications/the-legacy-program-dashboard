@@ -2,7 +2,6 @@
 "A": 3,
 "C": 3,
 "D": 0,
-"band": "reverse-engineering",
 "claims": [
 {
 "id": "c-be04decd43",
@@ -103,7 +102,6 @@
 "edgeLabel": "50 UAS notifications near nuclear infrastructure, nearly triple the prior period",
 "family": "documents",
 "id": "aaro-fy2025-annual-report",
-"l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "AARO's own FY2025 figures show unmanned system activity over nuclear infrastructure rising from 18 to 50 notifications, unresolved in the report.",
 "predicate": "concerns",
@@ -130,7 +128,6 @@
 "edgeLabel": "Abolished 1974; functions passed through ERDA to the Department of Energy",
 "family": "organisation",
 "id": "atomic-energy-commission",
-"l0": true,
 "label": "Atomic Energy Commission",
 "note": "The Energy Reorganization Act of 1974 abolished the Commission and vested its functions in the ERDA Administrator, and the NARA record group description names the Department of Energy as the eventual holder of the research, development and production functions.",
 "predicate": "succeeded",
@@ -162,7 +159,6 @@
 "edgeLabel": "The detonation list is a Department of Energy publication",
 "family": "custody",
 "id": "bluegill-triple-prime",
-"l0": false,
 "label": "Bluegill Triple Prime",
 "note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD.",
 "predicate": "holds",
@@ -189,7 +185,6 @@
 "edgeLabel": "Restricted Data authority sits outside presidential EO declassification power",
 "family": "organisation",
 "id": "eop",
-"l0": false,
 "label": "Executive Office of the President",
 "note": "Restricted Data under the Atomic Energy Act is classified by statute, not by executive order. A UAP declassification directive operating on EO 13526 information cannot reach it. Reasoning: the two classification systems have separate legal foundations.",
 "predicate": "outside_of",
@@ -221,7 +216,6 @@
 "edgeLabel": "DOE Office of Legacy Management holds long-term stewardship",
 "family": "custody",
 "id": "gasbuggy-1967",
-"l0": false,
 "label": "Project Gasbuggy, 10 December 1967",
 "note": "Decommissioned by the AEC in 1978 with liquid radioactive waste injected into the former cavity; soil sampling in 1978, 1986, 2000 and 2002; final surface remediation completed September 2004.",
 "predicate": "holds",
@@ -248,7 +242,6 @@
 "edgeLabel": "AEC laboratories convened the February 1949 green fireball conference",
 "family": "organisation",
 "id": "green-fireballs-conference-1949",
-"l0": false,
 "label": "Los Alamos Green Fireballs Conference",
 "note": "The green fireball events centred on the Los Alamos and Sandia complexes and produced a conference and the subsequent Project TWINKLE instrumented observation effort. Attested by the FBI and Air Force file material released through the 2026 PURSUE tranches.",
 "predicate": "ran",
@@ -275,7 +268,6 @@
 "edgeLabel": "NNSA rescued and now sponsors JASON after DoD declined renewal",
 "family": "money",
 "id": "jason-advisory-group",
-"l0": false,
 "label": "JASON",
 "note": "On 25-26 April 2019 NNSA issued a notice of intent to award a short-term sole source contract to MITRE for JASON management and logistics support, two weeks after OUSD(R&E) confirmed it was ending the contract.",
 "predicate": "funded",
@@ -307,7 +299,6 @@
 "edgeLabel": "DOE operating authority over the Nevada National Security Site",
 "family": "organisation",
 "id": "l-nevada-test-site",
-"l0": false,
 "label": "Nevada Test Site / Nevada National Security Site",
 "note": "The Nevada test complex is DOE/NNSA property operated by contract, with its own protective force and clearance regime, and is named repeatedly in retrieval testimony.",
 "predicate": "ran",
@@ -334,7 +325,6 @@
 "edgeLabel": "DOE/NNSA management and operating contract; Los Alamos",
 "family": "money",
 "id": "lanl",
-"l0": true,
 "label": "Los Alamos National Laboratory",
 "note": "Los Alamos is an NNSA laboratory operated under contract; its National Security Research Center holds and processes FOIA on the laboratory's classified historical record, including 1949 green fireball material.",
 "predicate": "contracted",
@@ -366,7 +356,6 @@
 "edgeLabel": "Held an AEC headquarters post in the line the DOE node records itself as succeeding",
 "family": "role",
 "id": "lawrence-p-gise",
-"l0": false,
 "label": "Lawrence P. Gise",
 "note": "The Register documents the AEC Division of Military Application post at Tier 1; the succession from AEC to DOE is the board's own doe node, so the edge itself is an inference and is graded accordingly.",
 "predicate": "held_post",
@@ -393,7 +382,6 @@
 "edgeLabel": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
 "family": "organisation",
 "id": "llnl",
-"l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
 "predicate": "part_of",
@@ -420,7 +408,6 @@
 "edgeLabel": "DOE/NNSA management and operating contract; Lawrence Livermore",
 "family": "money",
 "id": "llnl",
-"l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
 "predicate": "contracted",
@@ -447,7 +434,6 @@
 "edgeLabel": "Alleges custody of recovered disks vested in AEC national laboratories",
 "family": "custody",
 "id": "manhattan-project-2",
-"l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
 "predicate": "alleged_to_hold",
@@ -479,7 +465,6 @@
 "edgeLabel": "Dedicated chapter 'The DOE NEST' at 1:22:01",
 "family": "documents",
 "id": "michels-gerb-structural-episode",
-"l0": true,
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "note": "The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis.",
 "predicate": "concerns",
@@ -506,7 +491,6 @@
 "edgeLabel": "DOE produced nothing for the first statutory UAP records transfer",
 "family": "denial",
 "id": "nara-uap-collection",
-"l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named ODNI, OSD, FAA and the Nuclear Regulatory Commission. DOE - which holds the weapons complex and performed AARO's materials analysis - was not among them.",
 "predicate": "refused",
@@ -533,7 +517,6 @@
 "edgeLabel": "Both hold analytical capability that could resolve material claims and neither has been tasked publicly",
 "family": "analysis",
 "id": "nasa",
-"l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "NASA's report identifies the classification of military and intelligence data as the binding constraint; DOE laboratories hold the analytical instruments actually used by AARO. Reasoning: the capability exists and the tasking does not.",
 "predicate": "parallels",
@@ -565,7 +548,6 @@
 "edgeLabel": "Semi-autonomous agency within DOE established by Congress in 2000",
 "family": "organisation",
 "id": "nnsa",
-"l0": false,
 "label": "National Nuclear Security Administration",
 "note": "NNSA describes itself as 'a semi-autonomous agency within the U.S. Department of Energy responsible for enhancing national security through the military application of nuclear science'.",
 "predicate": "part_of",
@@ -592,7 +574,6 @@
 "edgeLabel": "DOE laboratory performed AARO's metallic specimen analysis",
 "family": "organisation",
 "id": "oak-ridge-national-laboratory",
-"l0": false,
 "label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
 "note": "AARO's published materials analysis synopsis was produced with Oak Ridge National Laboratory, a DOE laboratory - meaning DOE analytical capability was the government's chosen instrument for testing alleged recovered material.",
 "predicate": "part_of",
@@ -619,7 +600,6 @@
 "edgeLabel": "directed to release; absent from the statutory archive",
 "family": "denial",
 "id": "odni-memo-es-2026-00818",
-"l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The Director of the Office of Intelligence and Counterintelligence, Department of Energy, is an addressee of ES 2026-00818; DOE has no RG 615 series.",
 "predicate": "refused",
@@ -651,7 +631,6 @@
 "edgeLabel": "DOE/NNSA management and operating contract; Sandia",
 "family": "money",
 "id": "sandia",
-"l0": true,
 "label": "Sandia National Laboratories",
 "note": "Sandia is an NNSA laboratory adjacent to Kirtland AFB and the Manzano Weapons Storage Area, the site of the 1980 intrusions investigated by AFOSI.",
 "predicate": "contracted",
@@ -678,7 +657,6 @@
 "edgeLabel": "DOE is the contracting agency for both Brookhaven management-and-operating contracts",
 "family": "money",
 "id": "stony-brook-university",
-"l0": false,
 "label": "Stony Brook University",
 "note": "The Department of Energy is the contracting agency for both Brookhaven management-and-operating contracts, DEAC0298CH10886 and DESC0012704.",
 "predicate": "contracted",
@@ -705,7 +683,6 @@
 "edgeLabel": "Governs special access programs of the nuclear weapons complex",
 "family": "law",
 "id": "usc-50-2426",
-"l0": false,
 "label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
 "note": "50 U.S.C. 2426 imposes SAP reporting on the Administrator of the National Nuclear Security Administration, a semi-autonomous DOE agency.",
 "predicate": "governs",
@@ -911,83 +888,8 @@
 },
 "hl": null,
 "id": "doe",
-"l0": true,
 "label": "United States Department of Energy",
 "locLabel": null,
-"members": [
-{
-"cls": "event",
-"id": "bluegill-triple-prime",
-"label": "Bluegill Triple Prime",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "eop",
-"label": "Executive Office of the President",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "gasbuggy-1967",
-"label": "Project Gasbuggy, 10 December 1967",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "green-fireballs-conference-1949",
-"label": "Los Alamos Green Fireballs Conference",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "jason-advisory-group",
-"label": "JASON",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-nevada-test-site",
-"label": "Nevada Test Site / Nevada National Security Site",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "lawrence-p-gise",
-"label": "Lawrence P. Gise",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "llnl",
-"label": "Lawrence Livermore National Laboratory",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "nnsa",
-"label": "National Nuclear Security Administration",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "oak-ridge-national-laboratory",
-"label": "Oak Ridge National Laboratory (UT-Battelle, LLC)",
-"tier": "A"
-},
-{
-"cls": "institution",
-"id": "stony-brook-university",
-"label": "Stony Brook University",
-"tier": "C"
-},
-{
-"cls": "legislation",
-"id": "usc-50-2426",
-"label": "50 U.S.C. 2426 - Congressional Oversight of DOE/NNSA Special Access Programs",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "United States Department of Energy",
 "sourceFiles": [

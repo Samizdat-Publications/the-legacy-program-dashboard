@@ -8,7 +8,6 @@
 "University of California Radiation Laboratory"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1949-02-16",
@@ -73,7 +72,6 @@
 "edgeLabel": "Claimed 1982 meeting and later job referral, uncorroborated and internally misdated",
 "family": "testimony",
 "id": "bob-lazar",
-"l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "Tier 3. His own narration puts the Monitor jet-car story and Teller's Los Alamos speech on the same day; the article is dated 27 June 1982 and Mahood puts the lecture on the following day, so both cannot be right. The edge asserts only that Lazar says this.",
 "predicate": "made_claims_about",
@@ -100,7 +98,6 @@
 "edgeLabel": "Attended the 16 February 1949 conference",
 "family": "testimony",
 "id": "green-fireballs-conference-1949",
-"l0": false,
 "label": "Los Alamos Green Fireballs Conference",
 "note": "Attendance confirmed by LANL alongside Norris Bradbury and Frederick Reines, with FBI, AEC and military representatives present.",
 "predicate": "witnessed",
@@ -127,7 +124,6 @@
 "edgeLabel": "Co-founder and director of the Livermore laboratory",
 "family": "role",
 "id": "llnl",
-"l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
 "predicate": "founded",
@@ -164,11 +160,9 @@
 "hl": null,
 "id": "edward-teller",
 "instId": "llnl",
-"l0": false,
 "label": "Edward Teller",
 "loc": "Los Alamos, NM",
 "locId": "l-los-alamos",
-"members": null,
 "narrative": "Teller's presence in the room at Los Alamos on 16 February 1949 is the documented fact, and Los Alamos National Laboratory itself is the source for it. That places one of the two or three most access-privileged physicists in the United States - a man who within three years would co-found the Livermore laboratory and spend half a century inside the most tightly compartmented weapons programmes the country ran - in the earliest recorded scientific conference on anomalous aerial objects over American nuclear facilities. LANL records that the conference concluded the green fireballs were ultimately dismissed as a national security threat. That conclusion did not stop the Air Force from standing up Project Twinkle ten months later to instrument them. Teller was later associated with the Livermore laboratory throughout the era in which, according to whistleblower testimony collected by AAWSAP and by David Grusch, materials exploitation work was distributed across the DOE laboratory complex and its industrial partners. No document has been produced placing Teller inside such a programme. What the record does show is that when the United States first convened scientists to discuss unexplained objects over its nuclear archipelago, it convened them inside the contractor-operated laboratory system and not inside the Air Force's public UFO project.",
 "photoCredit": null,
 "sequenceChain": [],

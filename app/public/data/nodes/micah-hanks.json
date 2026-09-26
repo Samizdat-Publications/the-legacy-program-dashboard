@@ -7,7 +7,6 @@
 "The Micah Hanks Program"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2024-10-17",
@@ -53,7 +52,6 @@
 "edgeLabel": "Hanks published the first general-readership account, 17 October 2024",
 "family": "documents",
 "id": "immaculate-constellation",
-"l0": true,
 "label": "Immaculate Constellation disclosure, October-November 2024",
 "note": "The Debrief's 17 October 2024 piece framed the programme as an open question - 'UAP Bombshell or Disinformation?' - and predates the congressional submission by four weeks.",
 "predicate": "published",
@@ -80,7 +78,6 @@
 "edgeLabel": "Co-founder, Creator and Editor-in-Chief",
 "family": "role",
 "id": "the-debrief",
-"l0": false,
 "label": "The Debrief",
 "note": "Named on The Debrief's About page.",
 "predicate": "founded",
@@ -116,11 +113,9 @@
 "hl": null,
 "id": "micah-hanks",
 "instId": "the-debrief",
-"l0": false,
 "label": "Micah Hanks",
 "loc": "United States",
 "locId": null,
-"members": null,
 "narrative": "Micah Hanks is co-founder, creator and Editor-in-Chief of The Debrief, and the author of much of its running coverage of the AARO era. He wrote the 17 October 2024 piece that first put Immaculate Constellation in front of a general readership, framed as an open question rather than a conclusion - 'UAP Bombshell or Disinformation?' - which is characteristic of the outlet's editorial posture of publishing the claim, naming the source, and leaving the adjudication visible. The Debrief under Hanks has also covered the AARO annual reports, the collapse of the UAP Disclosure Act's core provisions, and the drone incursions over US bases, giving the board a continuous, dated, searchable trade record where none otherwise exists.",
 "photoCredit": null,
 "sequenceChain": [],

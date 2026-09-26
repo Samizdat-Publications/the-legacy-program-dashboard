@@ -4,7 +4,6 @@
 "D": 1,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1947-07",
@@ -95,7 +94,6 @@
 "edgeLabel": "Ragsdale's own words were used to support the dummy explanation",
 "family": "denial",
 "id": "roswell-report-case-closed",
-"l0": false,
 "label": "The Roswell Report: Case Closed (1997)",
 "note": "The report quotes Ragsdale saying of the objects, 'They were using dummies in those damned things', and prints his interview transcript at Appendix C p. 215.",
 "predicate": "explained_away",
@@ -164,11 +162,9 @@
 "hl": null,
 "id": "jim-ragsdale",
 "instId": null,
-"l0": false,
 "label": "James Ragsdale",
 "loc": "Carlsbad, NM",
 "locId": "l-roswell",
-"members": null,
 "narrative": "James Ragsdale came forward in the 1990s claiming that he and a companion had been camping north of Roswell in July 1947 and had seen a crashed craft and bodies, with a military recovery arriving afterwards. He gave a sworn statement and a videotaped deathbed account, and Randle and Schmitt used him to anchor the impact site in 'The Truth About the UFO Crash at Roswell' (1994). Two things about Ragsdale are load-bearing and both cut against the case. First, his account moved: the location he gave shifted materially between tellings, in a way that tracked which impact site the researchers then favoured. Second, and more usefully, the Air Force's 1997 report quotes him saying of the objects at the site, 'They were using dummies in those damned things' - the witness himself volunteering the anthropomorphic dummy reading that the Air Force went on to adopt as its explanation. The Air Force notes he lived and worked around Roswell, Artesia and Carlsbad in the period when Alderson Laboratories anthropomorphic dummies were being dropped by high-altitude balloon and recovered by uniformed teams, and concludes he probably described one or more of nine documented dummy recoveries near there.",
 "photoCredit": null,
 "sequenceChain": [],

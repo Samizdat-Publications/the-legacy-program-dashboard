@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 3,
-"band": "disclosure",
 "claims": [
 {
 "id": "c-5759fb6f3c",
@@ -207,7 +206,6 @@
 "edgeLabel": "Pentagon spokesperson could not confirm the existence of the memo",
 "family": "denial",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Susan Gough, 1 October 2025: 'Regarding the alleged memo: I cannot confirm the existence of any department-level memo as described in the article.'",
 "predicate": "refused",
@@ -239,7 +237,6 @@
 "edgeLabel": "AARO uncovered the fake programme through internal review under Kirkpatrick",
 "family": "oversight",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Per the Wall Street Journal, AARO discovered the practice during Kirkpatrick's tenure; the Office of the Secretary of Defense then issued a spring 2023 memorandum ordering it stopped.",
 "predicate": "investigated",
@@ -271,7 +268,6 @@
 "edgeLabel": "Volume I found 'no NDAs that contain information related to UAP' - contradicted by the Yankee Blue record",
 "family": "denial",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "Volume I page 30 states AARO found no UAP-related NDAs. The Department later confirmed that Air Force personnel signed NDAs over a fictitious alien-technology programme. The two statements cannot both stand as written.",
 "predicate": "denied",
@@ -308,7 +304,6 @@
 "edgeLabel": "",
 "family": "denial",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The report is the object of the search, which is what makes this investigative rather than a denial. A full-text pass of Volume I returns no occurrence of 'Yankee Blue' across all 63 pages including endnotes 1-200. That negative finding is what refuted the widely repeated claim - asserted on this board until 12 August 2026 - that AARO conceded the programme in Volume I.",
 "predicate": "omitted",
@@ -340,7 +335,6 @@
 "edgeLabel": "the Department committed to publishing the Yankee Blue findings in Volume II",
 "family": "documents",
 "id": "aaro-historical-record-vol2",
-"l0": true,
 "label": "AARO Historical Record Report, Volume II (unpublished)",
 "note": "A DoD spokeswoman told the Wall Street Journal in June 2025 that the findings would appear in Volume II, then scheduled for late 2025. As of August 2026 Volume II has not been published.",
 "predicate": "concerns",
@@ -372,7 +366,6 @@
 "edgeLabel": "AFOSI states it holds no records of any YANKEE BLUE investigation",
 "family": "denial",
 "id": "afosi",
-"l0": true,
 "label": "Air Force Office of Special Investigations",
 "note": "The Wall Street Journal reported an alleged Air Force practice of showing fabricated recovered-craft material to personnel as a loyalty test; the Department first denied any such memo existed, then in December 2025 reopened the search.",
 "predicate": "denied",
@@ -409,7 +402,6 @@
 "edgeLabel": "DNI briefed that the practice affected 'hundreds and hundreds' of personnel over decades",
 "family": "oversight",
 "id": "avril-haines",
-"l0": false,
 "label": "Avril D. Haines",
 "note": "Officials escalated the finding to the Director of National Intelligence, establishing that the deception was known at the top of the IC before any public account existed.",
 "predicate": "reports_to",
@@ -436,7 +428,6 @@
 "edgeLabel": "A documented precedent for institutional falsification about UFOs by the US Air Force",
 "family": "analysis",
 "id": "haines-cia-history",
-"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA's own history establishes that the Air Force knowingly issued false UFO explanations for at least a decade. That precedent is why the YANKEE BLUE allegation cannot be dismissed on plausibility grounds alone.",
 "predicate": "parallels",
@@ -468,7 +459,6 @@
 "edgeLabel": "Greenewald's FOIA requests and appeal are the test of the YANKEE BLUE claim",
 "family": "oversight",
 "id": "john-greenewald",
-"l0": false,
 "label": "John Greenewald Jr.",
 "note": "OSD case 25-F-3514 returned no records in September 2025; AFOSI case 2025-06002-F returned no records; the appeal was granted and remanded on 15 December 2025.",
 "predicate": "investigated",
@@ -500,7 +490,6 @@
 "edgeLabel": "the 'circular reporting from a small group' thesis, seventeen months before the Air Force was identified as the seeding group",
 "family": "place-time",
 "id": "kirkpatrick-sciam-oped-2024",
-"l0": false,
 "label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
 "note": "Kirkpatrick's mechanism was correct in form and wrong in agent: belief was seeded and repeated from a small source, but the documented source is a US Air Force indoctrination practice, not a civilian believer network. Whether AARO knew this when the op-ed ran is unresolved, given that AARO discovered Yankee Blue during his tenure.",
 "predicate": "preceded",
@@ -532,7 +521,6 @@
 "edgeLabel": "reported in the lineage of Air Force UFO deception operations centred on Kirtland/AFOSI",
 "family": "analysis",
 "id": "l-kirtland",
-"l0": false,
 "label": "Kirtland Air Force Base and Albuquerque, New Mexico",
 "note": "Yankee Blue sits in the same documented Air Force practice of manufacturing UFO belief for security purposes as the Kirtland AFB/AFOSI operations against Paul Bennewitz. The connection is thematic and institutional; no released document ties Yankee Blue administratively to Kirtland.",
 "predicate": "parallels",
@@ -559,7 +547,6 @@
 "edgeLabel": "The Bennewitz method and the alleged YANKEE BLUE practice are the same technique at different scale",
 "family": "analysis",
 "id": "richard-doty",
-"l0": false,
 "label": "Richard C. Doty",
 "note": "Doty's documented AFOSI activity - feeding fabricated alien-technology material to a target to protect classified programmes - is the same technique Yankee Blue applied internally to cleared personnel. The inference is about method, not about Doty's involvement in Yankee Blue.",
 "predicate": "parallels",
@@ -601,7 +588,6 @@
 "edgeLabel": "named DoD spokeswoman who confirmed the fake-programme findings would be deferred to Volume II",
 "family": "testimony",
 "id": "susan-gough",
-"l0": false,
 "label": "Susan Gough",
 "note": "Gough's confirmation is the Department conceding on the record that the Air Force ran a fictitious alien-technology indoctrination practice, while deferring the official account indefinitely.",
 "predicate": "acknowledged",
@@ -937,55 +923,10 @@
 },
 "hl": null,
 "id": "yankee-blue",
-"l0": true,
 "label": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "avril-haines",
-"label": "Avril D. Haines",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "haines-cia-history",
-"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "john-greenewald",
-"label": "John Greenewald Jr.",
-"tier": "A"
-},
-{
-"cls": "document",
-"id": "kirkpatrick-sciam-oped-2024",
-"label": "Kirkpatrick, 'Here's What I Learned as the U.S. Government's UFO Hunter' (Scientific American)",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-kirtland",
-"label": "Kirtland Air Force Base and Albuquerque, New Mexico",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "richard-doty",
-"label": "Richard C. Doty",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "susan-gough",
-"label": "Susan Gough",
-"tier": "A"
-}
-],
 "openQuestions": [],
-"short": "YANKEE BLUE",
+"short": "YANKEE BLUE (alleged AFOSI indoctrination program)",
 "sourceFiles": [
 "_rs-aaro-reports",
 "_rs-archive-mirror",

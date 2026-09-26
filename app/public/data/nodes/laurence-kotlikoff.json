@@ -6,7 +6,6 @@
 "boston-university"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-12",
@@ -54,7 +53,6 @@
 "edgeLabel": "Professor of Economics",
 "family": "role",
 "id": "boston-university",
-"l0": false,
 "label": "Boston University",
 "note": "Kotlikoff is Professor of Economics at Boston University. Attested by the co-authored publication record.",
 "predicate": "held_post",
@@ -81,7 +79,6 @@
 "edgeLabel": "Co-authored three Forbes columns carrying the figure into the financial press",
 "family": "role",
 "id": "mark-skidmore",
-"l0": false,
 "label": "Mark Skidmore",
 "note": "Kotlikoff and Skidmore published in Forbes in December 2017, July 2018 and January 2019. Attested by Skidmore's own publication list.",
 "predicate": "worked_with",
@@ -117,11 +114,9 @@
 "hl": null,
 "id": "laurence-kotlikoff",
 "instId": "boston-university",
-"l0": false,
 "label": "Laurence J. Kotlikoff",
 "loc": "Boston, Massachusetts",
 "locId": null,
-"members": null,
 "narrative": "Laurence Kotlikoff is a Professor of Economics at Boston University known for work on generational accounting and fiscal transparency. He co-wrote three Forbes columns with Mark Skidmore about the unsupported adjustment aggregate: 'Has Our Government Spent $21 Trillion of Our Money without Telling Us?' in December 2017, 'Is Our Government Intentionally Hiding $21 Trillion in Spending?' in July 2018, and 'Holding U.S. Treasurys? Beware: Uncle Sam Can't Account for $21 Trillion' in January 2019. His role matters chiefly for the framing of the second and third pieces: an economist whose career has been spent arguing that the federal government's published fiscal accounts systematically understate obligations arrived independently at the view that the unsupported-adjustment record raised a question about the integrity of the accounts as a whole, and put that view in front of holders of Treasury securities. The July 2018 column's headline question - whether the concealment was intentional - was published nine months after the Department of Defense had, in August 2016, asked FASAB for the standard that became SFFAS 56, and three months before that standard issued.",
 "photoCredit": null,
 "sequenceChain": [],

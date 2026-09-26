@@ -2,7 +2,6 @@
 "A": 3,
 "C": 3,
 "D": 3,
-"band": "retrieval",
 "claims": [
 {
 "id": "c-184838b36b",
@@ -347,7 +346,6 @@
 "edgeLabel": "the Senate committee text that would have closed the channel at the contractor end",
 "family": "analysis",
 "id": "d-funding",
-"l0": false,
 "label": "Funding Channels",
 "note": "As reported by the Senate Select Committee on Intelligence, the IAA FY2024 UAP provision would have required any person currently or formerly under federal contract holding UAP material or information derived from the Government to notify the AARO Director within 60 days and to make it available within 180 days, alongside the funding and IR&D limitations. Tier 2 rather than Tier 1 because the enacted counterpart differed substantially from the Senate-approved text, and because the section number carried on this node does not match the reported bill (see unresolved).",
 "predicate": "exemplifies",
@@ -384,7 +382,6 @@
 "edgeLabel": "a committee-reported provision that did not survive conference in the form reported",
 "family": "analysis",
 "id": "d-legislative",
-"l0": false,
 "label": "Legislative Process (proposed and pending)",
 "note": "The Senate Select Committee on Intelligence's UAP provision in the reported IAA FY2024 would have compelled contractor turn-in of UAP material within 180 days. The enacted counterpart in Division G of P.L. 118-31 differed substantially from the text approved by Senate committees and by the full Senate. Its home is the process domain because what is interesting about it is the gap between what was reported and what was enacted.",
 "predicate": "exemplifies",
@@ -421,7 +418,6 @@
 "edgeLabel": "Warner's contractor turn-in targets the same private holders",
 "family": "other",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Sec. 1102 orders contractors to surrender a list of 'non-earth origin or exotic' material, the category Grusch alleged had been moved to industry.",
 "predicate": "connected_to",
@@ -448,7 +444,6 @@
 "edgeLabel": "section node of this act (section number needs verification)",
 "family": "organisation",
 "id": "iaa-2024",
-"l0": false,
 "label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
 "note": "The board's section node is filed under this act, and the filing carries a caution that is now confirmed rather than merely flagged. Searching the enacted 2.8-million-character text finds 'non-earth origin' zero times and 'exotic' zero times: the contractor turn-in mandate did not survive conference. What did survive is Division A, Title XVIII, Subtitle C - secs. 1841 to 1843, the unidentified anomalous phenomena records collection at the National Archives. The turn-in language belongs to the Senate-passed text, and the node's '1102' section number is still not confirmed against either version. Tier 2 because the edge records a filing relationship whose section number remains unverified.",
 "predicate": "part_of",
@@ -490,7 +485,6 @@
 "edgeLabel": "Reduced in conference to a bare funding limitation",
 "family": "organisation",
 "id": "iaa-fy2024-7343",
-"l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Subsections (b), (d), (e) and (g) of Sec. 1102 — the sense of Congress, the contractor turn-in, the immunity grant and the notice to Congress — have no enacted counterpart in Sec. 7343.",
 "predicate": "succeeded",
@@ -522,7 +516,6 @@
 "edgeLabel": "Dangling cross-reference dates the excision to conference",
 "family": "place-time",
 "id": "iaa-fy2024-7343",
-"l0": true,
 "label": "FY2024 Intelligence Authorization Act sec. 7343 - Funding Limitations Relating to UAP",
 "note": "Enacted Sec. 7343(c) refers to 'contracts covered by such instruction' with no antecedent; the DoDI 3204.01 citation it depended on was deleted with Sec. 1102(f)(1).",
 "predicate": "led_to",
@@ -554,7 +547,6 @@
 "edgeLabel": "Author of the IAA FY2024 contractor turn-in",
 "family": "documents",
 "id": "mark-warner",
-"l0": false,
 "label": "Mark R. Warner",
 "note": "Warner submitted S.Amdt. 666 on 13 July 2023, which became Division M of the engrossed bill containing Sec. 1102.",
 "predicate": "wrote",
@@ -581,7 +573,6 @@
 "edgeLabel": "Gag-order census feeds the contractor turn-in",
 "family": "place-time",
 "id": "ndaa-fy2023-sec-1673",
-"l0": false,
 "label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
 "note": "Sec. 1673(b)(3) requires agencies and contractors to deliver copies of all UAP nondisclosure orders to AARO; Sec. 1102(d) would have required the same parties to deliver the material itself.",
 "predicate": "led_to",
@@ -613,7 +604,6 @@
 "edgeLabel": "SSCI produced the contractor turn-in language",
 "family": "documents",
 "id": "senate-intelligence",
-"l0": true,
 "label": "Senate Select Committee on Intelligence",
 "note": "Sec. 1102 rode in the Intelligence Authorization Act for FY2024, Division M of the engrossed Senate bill.",
 "predicate": "wrote",
@@ -640,7 +630,6 @@
 "edgeLabel": "Two independent Senate routes at the same private holdings",
 "family": "analysis",
 "id": "uapda-sec-9010-eminent-domain",
-"l0": false,
 "label": "Section 9010(a) - Exercise of Eminent Domain",
 "note": "Sec. 9010 takes the material by condemnation; Sec. 1102 compels its surrender by cutting off contract funding and granting immunity. Both passed the Senate on 27 July 2023; both were removed.",
 "predicate": "parallels",
@@ -798,55 +787,10 @@
 },
 "hl": null,
 "id": "iaa-fy2024-sec-1102",
-"l0": true,
 "label": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-funding",
-"label": "Funding Channels",
-"tier": "A"
-},
-{
-"cls": "domain",
-"id": "d-legislative",
-"label": "Legislative Process (proposed and pending)",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "david-grusch",
-"label": "David Charles Grusch",
-"tier": "A"
-},
-{
-"cls": "legislation",
-"id": "iaa-2024",
-"label": "Intelligence Authorization Act for FY2024 (Div. G of PL 118-31) - secs. 7341, 7343",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "mark-warner",
-"label": "Mark R. Warner",
-"tier": "C"
-},
-{
-"cls": "legislation",
-"id": "ndaa-fy2023-sec-1673",
-"label": "FY2023 NDAA Sec. 1673 (P.L. 117-263; 50 U.S.C. 3373b)",
-"tier": "A"
-},
-{
-"cls": "document",
-"id": "uapda-sec-9010-eminent-domain",
-"label": "Section 9010(a) - Exercise of Eminent Domain",
-"tier": "A"
-}
-],
 "openQuestions": [],
-"short": "IAA FY2024 Sec. 1102",
+"short": "IAA FY2024 Sec. 1102 - contractor turn-in of 'non-earth origin or exotic' UAP material",
 "sourceFiles": [
 "_rs-legislation",
 "congress-senate-legislation",

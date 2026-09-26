@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-186d26209b",
@@ -69,7 +68,6 @@
 "edgeLabel": "signed the transmittal to the Senate Armed Services Committee",
 "family": "documents",
 "id": "brian-jenkins-dia",
-"l0": false,
 "label": "Brian L. Jenkins",
 "note": "A records officer's signature is the only formal notification the authorizing committee ever received about a ten-year program.",
 "predicate": "wrote",
@@ -96,7 +94,6 @@
 "edgeLabel": "receipt for the authorization gap",
 "family": "analysis",
 "id": "defense-appropriations-aawsap",
-"l0": false,
 "label": "Defense Appropriations Acts FY2008 and FY2010 - the $22M AAWSAP appropriation",
 "note": "That DIA had to introduce the program to SASC by letter in 2018 establishes the committee had no visibility during its life — the direct consequence of funding it through the classified appropriation.",
 "predicate": "affects",
@@ -123,7 +120,6 @@
 "edgeLabel": "transmitted the complete list of 38 products",
 "family": "testimony",
 "id": "dird-series",
-"l0": true,
 "label": "The 38 Defense Intelligence Reference Documents (DIRDs)",
 "note": "Every subsequent FOIA request for individual DIRDs was built from this list; 37 of 38 have since been released.",
 "predicate": "brought_to_record",
@@ -157,10 +153,8 @@
 },
 "hl": null,
 "id": "dia-aatip-letter-2018",
-"l0": false,
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "sourceFiles": [

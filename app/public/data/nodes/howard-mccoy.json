@@ -7,7 +7,6 @@
 "Air Technical Intelligence Center (1951-)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1947-09-23",
@@ -77,7 +76,6 @@
 "edgeLabel": "McCoy ran AMC/T-2 intelligence, the exploitation node",
 "family": "role",
 "id": "atic",
-"l0": true,
 "label": "Air Technical Intelligence Center",
 "note": "As Chief of Intelligence at Air Materiel Command, McCoy headed the organisation that received and exploited recovered foreign materiel and that hosted Project SIGN. Any 1947 recovery would have been processed here.",
 "predicate": "led",
@@ -109,7 +107,6 @@
 "edgeLabel": "McCoy's shop produced the analysis Twining signed",
 "family": "organisation",
 "id": "twining-memo",
-"l0": false,
 "label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
 "note": "The AMC intelligence organisation under McCoy did the staff work behind the 23 September 1947 assessment; McCoy signed related AMC correspondence to the Chief of Staff two months later.",
 "predicate": "produced",
@@ -152,11 +149,9 @@
 "hl": null,
 "id": "howard-mccoy",
 "instId": "atic",
-"l0": false,
 "label": "Howard M. McCoy",
 "loc": "Dayton, OH",
 "locId": "l-wright-patterson",
-"members": null,
 "narrative": "Colonel Howard McCoy was Chief of Intelligence at Air Materiel Command — the T-2 organisation at Wright Field that received, catalogued and exploited every piece of foreign aerospace hardware the United States acquired, including the Paperclip haul. If any material was recovered in 1947, McCoy's shop is where it went, and he is the highest-value custody node of the entire early period. He drafted the staff work behind the Twining memo and signed the 24 November 1947 AMC letter to the Chief of Staff on the flying disc problem, a document preserved in the NICAP archive. McCoy remained the operational centre of Project SIGN and its successors through the transition to Grudge. The historical record on him is thin by design: AMC intelligence files of this period are among the record series least represented in the declassified corpus, and the GAO's 1995 search never reached them because it was scoped to Roswell Army Air Field and headquarters-level holdings. McCoy is the name to pull on for anyone trying to establish where 1947 materiel went.",
 "photoCredit": null,
 "sequenceChain": [],

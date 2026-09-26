@@ -7,7 +7,6 @@
 "gepan"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1976",
@@ -83,7 +82,6 @@
 "edgeLabel": "founding director 1977-1978",
 "family": "role",
 "id": "gepan",
-"l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "The NSA-held contemporaneous assessment records GEPAN's creation in 1977 under Poher and his resignation.",
 "predicate": "led",
@@ -119,11 +117,9 @@
 "hl": null,
 "id": "claude-poher",
 "instId": "cnes",
-"l0": false,
 "label": "Dr Claude Poher",
 "loc": "Toulouse, France",
 "locId": "l-toulouse",
-"members": null,
 "narrative": "Claude Poher was the CNES engineer who founded and first directed GEPAN, the Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés, established in 1977 within the French national space agency under the authority of CNES director general Yves Sillard. GEPAN was created on the recommendation of a 1976 committee of the Institut des Hautes Études de Défense Nationale chaired by General Blanchard of the Gendarmerie Nationale, whose objective was 'to make proposals for organizing research and the collection of data on these phenomena' - a fact recorded in the COMETA report's own introduction. Poher's statistical work formed the basis of GEPAN's first year, and a contemporaneous document held in the US National Security Agency's declassified UFO collection records that during 1977 GEPAN 'was largely concerned with checking Poher's statistics, which it approved'. The same NSA-held document records that Poher resigned in 1978 'feeling that he has done everything he could do with the methods at hand', but that the organisation was not disbanded and continued its work.",
 "photoCredit": null,
 "sequenceChain": [],

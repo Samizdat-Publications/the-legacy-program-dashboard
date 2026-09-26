@@ -6,7 +6,6 @@
 "Defense Intelligence Agency, Records Management and Information Services"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2018-01-09",
@@ -66,7 +65,6 @@
 "edgeLabel": "signed the transmittal to the Senate Armed Services Committee",
 "family": "documents",
 "id": "dia-aatip-letter-2018",
-"l0": false,
 "label": "DIA Letter to the Senate Armed Services Committee Listing AATIP Products",
 "note": "A records officer's signature is the only formal notification the authorizing committee ever received about a ten-year program.",
 "predicate": "wrote",
@@ -103,11 +101,9 @@
 "hl": null,
 "id": "brian-jenkins-dia",
 "instId": "dia",
-"l0": false,
 "label": "Brian L. Jenkins",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Jenkins is a records officer whose signature carries disproportionate weight: he signed the 9 January 2018 DIA letter to Senate Armed Services Committee chairman John McCain and ranking member Jack Reed that transmitted the list of all 38 products produced under the program. That letter is the founding document of everything the public knows about the AAWSAP deliverables — it is where the phrase 'The purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years' comes from, and it is the list from which researchers subsequently extracted 37 of the 38 papers through FOIA. The circumstance is itself the story: in January 2018, three weeks after the New York Times story broke, the authorizing committee of jurisdiction had to be sent a basic inventory of a program that had been appropriated, executed and terminated without their ever seeing it. Jenkins's letter is the receipt for the oversight gap.",
 "photoCredit": null,
 "sequenceChain": [],

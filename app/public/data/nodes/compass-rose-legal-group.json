@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-ec2a4984b1",
@@ -27,7 +26,6 @@
 "edgeLabel": "Firm that filed Grusch's statutory ICIG whistleblower complaint",
 "family": "role",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch retained Compass Rose Legal Group (senior partner I. Charles McCullough III, the first Intelligence Community Inspector General) to file and pursue his statutory whistleblower and reprisal complaint with the sitting ICIG. The Debrief reported the firm formally concluded its representation in November 2023, and stressed that Grusch's public crash-retrieval claims were always outside the scope of that representation.",
 "predicate": "worked_with",
@@ -59,7 +57,6 @@
 "edgeLabel": "Senior partner was ODNI's Intelligence Community Inspector General",
 "family": "other",
 "id": "odni",
-"l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "Compass Rose senior partner I. Charles McCullough III holds the tie to ODNI in his own right. Chairman Feinstein opened his confirmation hearing by describing its purpose: 'to consider the President's nomination of Charles McCullough to be the first Inspector General of the Intelligence Community.' McCullough told the Committee he was then 'serving on detail from the National Security Agency as the Deputy Inspector General at the Office of the Director of National Intelligence', and thanked Director Clapper for his support. The office he was confirmed into sits inside ODNI, which is the channel Grusch's complaint later ran through.",
 "predicate": "connected_to",
@@ -103,10 +100,8 @@
 },
 "hl": null,
 "id": "compass-rose-legal-group",
-"l0": false,
 "label": "Compass Rose Legal Group",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Compass Rose Legal Group",
 "sourceFiles": [

@@ -12,7 +12,6 @@
 "House Oversight Task Force on the Declassification of Federal Secrets"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2003",
@@ -242,7 +241,6 @@
 "edgeLabel": "sworn witness",
 "family": "testimony",
 "id": "hearing-2025-09-09",
-"l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
 "predicate": "testified_at",
@@ -289,7 +287,6 @@
 "edgeLabel": "Nuccetelli served in security forces at Vandenberg 2003-2005",
 "family": "role",
 "id": "l-vandenberg",
-"l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "His sworn written testimony of 9 September 2025 describes the 14 October 2003 red square over two missile defense sites, a rectangular craft larger than a football field, a threatened witness, and a 2005 triangular craft.",
 "predicate": "held_post",
@@ -321,7 +318,6 @@
 "edgeLabel": "Military police witness and report recipient at Vandenberg, 2003-2005",
 "family": "testimony",
 "id": "vandenberg-2003",
-"l0": false,
 "label": "Vandenberg AFB Incidents (2003-2005)",
 "note": "Nuccetelli testified to reports of a glowing red square over two missile defense sites on 14 October 2003 and a triangular craft over the main base in 2005.",
 "predicate": "witnessed",
@@ -360,11 +356,9 @@
 "hl": null,
 "id": "jeffrey-nuccetelli",
 "instId": "usaf",
-"l0": false,
 "label": "Jeffrey Nuccetelli",
 "loc": "California",
 "locId": "l-vandenberg",
-"members": null,
 "narrative": "Nuccetelli brought the base-security side of the observational record into the congressional record. In written testimony to the House Oversight Task Force on 9 September 2025 he described serving as military police at Vandenberg Air Force Base, home of the National Missile Defense project, and receiving reports on 14 October 2003 from Boeing contractors of 'a massive, glowing red square silently hovering over two missile defense sites.' The same night, security guards reported a bright fast-moving object and witnesses described 'a massive rectangular craft, larger than a football field.' A week later a patrol reported an object over the ocean that descended and 'vanished instantly into the night sky'; in 2005 a patrol reported 'a massive triangular craft, larger than a C-130, hovering low over the main base.' Two things make this testimony operationally significant rather than anecdotal. First, he states that 'Official Air Force records documenting it are now held by AARO and the FBI' - which is a specific, checkable custody claim that FOIA can be aimed at. Second, he states one witness 'was threatened and told to keep quiet about the incident,' which is the same suppression pattern the Navy witnesses describe, applied to a strategic missile installation.",
 "photoCredit": null,
 "sequenceChain": [],

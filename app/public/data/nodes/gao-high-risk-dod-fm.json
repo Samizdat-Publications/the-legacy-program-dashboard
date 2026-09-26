@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-2ce64ab317",
@@ -47,7 +46,6 @@
 "edgeLabel": "Thirty years of Comptroller General certification that the books cannot produce reliable information",
 "family": "oversight",
 "id": "dod-agencywide-audit",
-"l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "DOD Financial Management remains on GAO's 2025 High-Risk List with status maintained, alongside four other DoD entries. Attested by GAO's own list.",
 "predicate": "investigated",
@@ -74,7 +72,6 @@
 "edgeLabel": "GAO maintains the High-Risk List",
 "family": "organisation",
 "id": "gao",
-"l0": false,
 "label": "Government Accountability Office",
 "note": "The High-Risk List is a GAO product, updated at the start of each Congress. Attested by GAO.",
 "predicate": "ran",
@@ -108,10 +105,8 @@
 },
 "hl": null,
 "id": "gao-high-risk-dod-fm",
-"l0": false,
 "label": "GAO High-Risk List: DOD Financial Management",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "GAO High-Risk List: DOD Financial Management",
 "sourceFiles": [

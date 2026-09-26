@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 3,
-"band": "oversight",
 "claims": [
 {
 "id": "c-845d418d05",
@@ -85,7 +84,6 @@
 "edgeLabel": "Chairwoman stated the HASC/HAC-D read-in gate on the record",
 "family": "testimony",
 "id": "anna-paulina-luna",
-"l0": false,
 "label": "Anna Paulina Luna",
 "note": "'For a non-committee member to be allowed to view these documents and videos, individual members must be approved by the Chairman and Ranking Member of both HASC and HAC-D.'",
 "predicate": "made_claims_about",
@@ -112,7 +110,6 @@
 "edgeLabel": "House Armed Services leadership, 2009-2015",
 "family": "role",
 "id": "buck-mckeon",
-"l0": false,
 "label": "Howard P. \"Buck\" McKeon",
 "note": "Occupied one of the two House authorising seats in the section 119 channel across a change of party control, moving from ranking member to chairman without leaving the group.",
 "predicate": "member_of",
@@ -144,7 +141,6 @@
 "edgeLabel": "The historical benchmark, and the source of the board's sharpest statement of the limit",
 "family": "analysis",
 "id": "church-committee",
-"l0": true,
 "label": "Senate Select Committee to Study Governmental Operations with Respect to Intelligence Activities (Church Committee)",
 "note": "The committee found that 'Mechanisms for, and the practice of, congressional oversight have not been adequate', and recorded that in no instance had it examined an agency's files on its own.",
 "predicate": "exemplifies",
@@ -171,7 +167,6 @@
 "edgeLabel": "the statutory oversight scheme, and the exception written into it",
 "family": "analysis",
 "id": "d-structure",
-"l0": false,
 "label": "Program structure and organisational mapping",
 "note": "Under 10 U.S.C. 119 the Secretary must report annually by 1 March to the four defense committees on every special access program, with a brief description, major milestones and costs - and under 119(e) may waive any of that on a case-by-case basis. The scheme and its exception are the same statute, which is why oversight belongs on the structural map rather than outside it.",
 "predicate": "exemplifies",
@@ -208,7 +203,6 @@
 "edgeLabel": "10 U.S.C. 119 annual SAP report to the four defense committees",
 "family": "oversight",
 "id": "dod",
-"l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "The Secretary of Defense must report annually by 1 March on every special access program, notify newly designated SAPs by 1 February, and give 30 days notice before initiating a new SAP.",
 "predicate": "reports_to",
@@ -235,7 +229,6 @@
 "edgeLabel": "Contractor disclosure to Congress requires the approval of the office being disclosed about",
 "family": "law",
 "id": "dod-sapco",
-"l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "DoDD 5205.07 (2010) para 4.e bars any contractor entity, employee, representative or consultant from providing SAP material to members of Congress or staff 'without Director, DoD SAPCO, approval'.",
 "predicate": "governs",
@@ -262,7 +255,6 @@
 "edgeLabel": "The audit Congress has, and cannot read",
 "family": "oversight",
 "id": "dodig-2023-109",
-"l0": false,
 "label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
 "note": "The only formal evaluation of DoD's UAP conduct is classified in full, so the oversight value available to members outside the cleared channels is an unclassified summary.",
 "predicate": "reports_to",
@@ -289,7 +281,6 @@
 "edgeLabel": "Fully and currently informed, and expressly not a condition precedent",
 "family": "law",
 "id": "eo-12036",
-"l0": false,
 "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
 "predicate": "governs",
@@ -316,7 +307,6 @@
 "edgeLabel": "Defense committee receiving waived-SAP notification",
 "family": "role",
 "id": "house-armed-services",
-"l0": false,
 "label": "House Armed Services Committee",
 "note": "Under 10 U.S.C. 119(e) the chairman and ranking minority member of each defense committee receive the waived program information and the waiver justification.",
 "predicate": "member_of",
@@ -343,7 +333,6 @@
 "edgeLabel": "Defense committee receiving waived-SAP notification",
 "family": "role",
 "id": "senate-armed-services",
-"l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Same statutory provision; four committees, eight members.",
 "predicate": "member_of",
@@ -370,7 +359,6 @@
 "edgeLabel": "Senate appropriations leadership in 2009, the year of the Reid SAP request",
 "family": "role",
 "id": "thad-cochran",
-"l0": false,
 "label": "Thad Cochran",
 "note": "The Senate half of the 119(e)(2) group in 2009 comprised only four people filling six seats: Levin and McCain on armed services, Inouye and Cochran holding both appropriations pairs. Harry Reid, who made the 2009 SAP request, held none of them.",
 "predicate": "member_of",
@@ -407,7 +395,6 @@
 "edgeLabel": "the narrow aperture through which Congress sees waived DoD SAPs",
 "family": "organisation",
 "id": "waived-sap-notification-group",
-"l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Section 119 contains no analogue to 50 U.S.C. 3093(g), which requires that the rest of the committee be told a limited notification occurred. Members of the defense committees outside the twelve are not informed that a waiver has been exercised.",
 "predicate": "part_of",
@@ -444,7 +431,6 @@
 "edgeLabel": "The 10 U.S.C. 119(e) waiver reduces notification to eight members",
 "family": "oversight",
 "id": "waived-usap",
-"l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Where the Secretary waives reporting, the statute directs that the information and the justification go 'jointly to the chairman and ranking minority member of each of the defense committees'. This is the lawful mechanism by which a program can be hidden from the rest of Congress.",
 "predicate": "reports_to",
@@ -603,53 +589,8 @@
 },
 "hl": null,
 "id": "oversight-congress",
-"l0": true,
 "label": "Congressional oversight of special access programs",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "anna-paulina-luna",
-"label": "Anna Paulina Luna",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "buck-mckeon",
-"label": "Howard P. \"Buck\" McKeon",
-"tier": "C"
-},
-{
-"cls": "domain",
-"id": "d-structure",
-"label": "Program structure and organisational mapping",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "dodig-2023-109",
-"label": "DoD OIG - Evaluation of the DoD's Actions Regarding Unidentified Anomalous Phenomena (DODIG-2023-109)",
-"tier": "A"
-},
-{
-"cls": "legislation",
-"id": "eo-12036",
-"label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "house-armed-services",
-"label": "House Armed Services Committee",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "thad-cochran",
-"label": "Thad Cochran",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "Congressional oversight of SAPs",
 "sourceFiles": [

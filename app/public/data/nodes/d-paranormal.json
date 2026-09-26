@@ -3,7 +3,6 @@
 "C": 1,
 "D": 1,
 "absorbedBy": "skinwalker-nids",
-"band": null,
 "claims": [
 {
 "id": "c-9b1200d846",
@@ -50,7 +49,6 @@
 "edgeLabel": "Anomalous phenomena inside a defence contract",
 "family": "analysis",
 "id": "d-program",
-"l0": false,
 "label": "Program Structure & Management",
 "note": "The AAWSAP statement of work and its deliverables are the tier-1 basis for treating this material as a programme domain rather than folklore.",
 "predicate": "exemplifies",
@@ -77,7 +75,6 @@
 "edgeLabel": "Same investigators, later contract",
 "family": "analysis",
 "id": "d-remote-viewing",
-"l0": false,
 "label": "Remote Viewing & Anomalous Cognition",
 "note": "Principal investigators from the SRI-era programmes reappear in the AAWSAP deliverables three decades later, carrying the research framing with them.",
 "predicate": "parallels",
@@ -116,10 +113,8 @@
 },
 "hl": null,
 "id": "d-paranormal",
-"l0": false,
 "label": "Anomalous Phenomena Adjacent to UAP",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Anomalous Phenomena Adjacent to UAP",
 "sourceFiles": [

@@ -6,7 +6,6 @@
 "Office of the Secretary of the Air Force, Director of Security and Special Program Oversight"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1994-07",
@@ -87,7 +86,6 @@
 "edgeLabel": "The Air Force reports were the institutional response to the Randle-Schmitt books",
 "family": "denial",
 "id": "kevin-randle",
-"l0": false,
 "label": "Kevin D. Randle",
 "note": "The GAO inquiry that produced the Air Force reports was initiated by Rep. Steven Schiff after the 1991 book and the surrounding publicity; the 1997 report devotes appendices to rebutting the specific witnesses those books introduced. Reasoning: the report's structure tracks the books' witness list.",
 "predicate": "disputed",
@@ -114,7 +112,6 @@
 "edgeLabel": "Authored the Air Force's report to the Secretary and GAO",
 "family": "documents",
 "id": "roswell-report-1995",
-"l0": false,
 "label": "The Roswell Report: Fact Versus Fiction in the New Mexico Desert (1995)",
 "note": "Written by Col. Weaver, Director of Security and Special Program Oversight, Office of the Secretary of the Air Force, with 1st Lt. James McAndrew.",
 "predicate": "wrote",
@@ -183,11 +180,9 @@
 "hl": null,
 "id": "richard-weaver-usaf",
 "instId": "saf-aaz",
-"l0": false,
 "label": "Col. Richard L. Weaver",
 "loc": "Washington, DC",
 "locId": "l-pentagon",
-"members": null,
 "narrative": "Col. Richard L. Weaver ran the Air Force's official answer to Roswell, and his job title is the most interesting fact about him. He was Director of Security and Special Program Oversight in the Office of the Secretary of the Air Force - that is, the officer responsible for oversight of Air Force special access programmes - and it was that office, not a historical or public affairs office, that the Secretary tasked to respond to the General Accounting Office inquiry initiated by Rep. Steven H. Schiff. Weaver and 1st Lt. James McAndrew produced the July 1994 report to the Secretary of the Air Force, published in 1995 by the Government Printing Office as 'The Roswell Report: Fact Versus Fiction in the New Mexico Desert'. Its conclusion was Project Mogul: the classified balloon-borne acoustic programme flown from Alamogordo Army Air Field to detect Soviet nuclear tests, whose flight from 4 June 1947 was lost within seventeen miles of the Foster ranch. Weaver's report also states something operationally significant that is rarely quoted: at the express written direction of the Secretary of the Air Force, former and retired Air Force members and civilian contract scientists were released from any nondisclosure obligations they might have entered into on the relevant past classified activities, so that they could speak freely. This board records Weaver as an oversight-cluster node with A=3 not because he asserts access to a recovery programme - he denies one exists - but because the Secretary routed the inquiry to the SAP oversight directorate, which is a fact about where the Air Force believed the answer would have to be looked for.",
 "photoCredit": null,
 "sequenceChain": [],

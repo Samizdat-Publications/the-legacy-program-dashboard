@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-3dd2209354",
@@ -61,7 +60,6 @@
 "edgeLabel": "The first open congressional UAP hearing of the modern era, and the one the Oversight sequence descends from",
 "family": "place-time",
 "id": "hearing-2023-07-26",
-"l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Both transcripts are openable and both are on the board. The 2022 hearing precedes the Oversight sequence of 2023, 2024 and 2025.",
 "predicate": "preceded",
@@ -88,7 +86,6 @@
 "edgeLabel": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
 "family": "testimony",
 "id": "ronald-moultrie",
-"l0": false,
 "label": "Ronald S. Moultrie",
 "note": "A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.",
 "predicate": "testified_at",
@@ -115,7 +112,6 @@
 "edgeLabel": "Witness of record, appearing as Deputy Director of Naval Intelligence",
 "family": "testimony",
 "id": "scott-bray",
-"l0": false,
 "label": "Scott W. Bray",
 "note": "A genuine witness appearance in an official capacity.",
 "predicate": "testified_at",
@@ -149,10 +145,8 @@
 },
 "hl": null,
 "id": "hearing-2022-05-17",
-"l0": false,
 "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "sourceFiles": [

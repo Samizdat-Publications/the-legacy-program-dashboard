@@ -2,7 +2,6 @@
 "A": 0,
 "C": 1,
 "D": 3,
-"band": "research",
 "claims": [
 {
 "id": "c-c92cda2c16",
@@ -69,7 +68,6 @@
 "edgeLabel": "Founder, 26 July 2021",
 "family": "role",
 "id": "avi-loeb",
-"l0": false,
 "label": "Abraham 'Avi' Loeb",
 "note": "Founded four weeks after the ODNI preliminary assessment on the premise that the way past a classified impasse is to build unclassified instruments and publish.",
 "predicate": "founded",
@@ -101,7 +99,6 @@
 "edgeLabel": "Host institution of the Galileo Project",
 "family": "organisation",
 "id": "harvard-cfa",
-"l0": false,
 "label": "Harvard-Smithsonian Center for Astrophysics",
 "note": "The two share more than a host: the instrument paper lists the Center for Astrophysics and the Galileo Project as separate affiliations at the SAME address, 60 Garden Street, Cambridge, Massachusetts, with six of its sixteen authors carrying both and correspondence going to a cfa.harvard.edu address. The project's own overview paper captions its first all-sky observatory as sitting 'on the roof of the Harvard College Observatory (Cambridge, MA)'. The relationship is a hosted research programme with shared staff, not an administrative label.",
 "predicate": "ran",
@@ -143,7 +140,6 @@
 "edgeLabel": "Ran the $1.6m Pacific recovery expedition",
 "family": "organisation",
 "id": "im1-pacific-expedition-2023",
-"l0": false,
 "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
 "note": "A magnetic sled dragged across the seabed off Papua New Guinea at a location determined from seismometer data; several hundred sub-millimetre spherules recovered.",
 "predicate": "ran",
@@ -175,7 +171,6 @@
 "edgeLabel": "first Galileo Observatory, Harvard College Observatory roof",
 "family": "place-time",
 "id": "l-cambridge",
-"l0": false,
 "label": "Cambridge, Massachusetts",
 "note": "Figure 1 of the project's own overview paper captions the 'First all-sky Galileo Observatory for UAP on the roof of the Harvard College Observatory (Cambridge, MA)'. This is the physical instrument site for the instrumented search, not merely an administrative address.",
 "predicate": "located_at",
@@ -212,7 +207,6 @@
 "edgeLabel": "The Galileo Project is based at the Harvard-Smithsonian Center for Astrophysics",
 "family": "place-time",
 "id": "l-cambridge",
-"l0": false,
 "label": "Cambridge, Massachusetts",
 "note": "Avi Loeb founded the project in 2021 to build independent multi-modal observatories, addressing the structural problem that every high-quality UAP dataset is held by agencies that will not release it.",
 "predicate": "located_at",
@@ -239,7 +233,6 @@
 "edgeLabel": "Founded in direct response to the June 2021 ODNI assessment",
 "family": "place-time",
 "id": "odni-preliminary-assessment-2021",
-"l0": true,
 "label": "ODNI Preliminary Assessment: Unidentified Aerial Phenomena (25 June 2021)",
 "note": "The project's founding rationale was the ODNI report's admission of an evidentiary vacuum, together with NASA administrator Bill Nelson's call for scientific analysis.",
 "predicate": "led_to",
@@ -266,7 +259,6 @@
 "edgeLabel": "Lead author of the project's detection and tracking computing platform",
 "family": "documents",
 "id": "richard-cloete",
-"l0": false,
 "label": "Richard Cloete",
 "note": "Published in the Journal of Astronomical Instrumentation in 2023 - pipeline and classifier architecture published before the observations.",
 "predicate": "wrote",
@@ -293,7 +285,6 @@
 "edgeLabel": "Co-author on the 2025 geomagnetic variometer instrumentation paper",
 "family": "role",
 "id": "sarah-little",
-"l0": false,
 "label": "Sarah Little",
 "note": "Published in Geoscientific Instrumentation, Methods and Data Systems in November 2025 - a Copernicus geophysics journal publishing hardware installed specifically to look for UAP signatures.",
 "predicate": "worked_with",
@@ -320,7 +311,6 @@
 "edgeLabel": "Research coordinator and co-editor of the JAI instrumentation special issue",
 "family": "role",
 "id": "wesley-watters",
-"l0": false,
 "label": "Wesley A. Watters",
 "note": "The special issue is the artefact that established a peer-reviewed instrumentation literature in this field rather than a claims literature.",
 "predicate": "held_post",
@@ -453,53 +443,8 @@
 },
 "hl": null,
 "id": "galileo-project",
-"l0": true,
 "label": "The Galileo Project",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "avi-loeb",
-"label": "Abraham 'Avi' Loeb",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "harvard-cfa",
-"label": "Harvard-Smithsonian Center for Astrophysics",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "im1-pacific-expedition-2023",
-"label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-cambridge",
-"label": "Cambridge, Massachusetts",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "richard-cloete",
-"label": "Richard Cloete",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "sarah-little",
-"label": "Sarah Little",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "wesley-watters",
-"label": "Wesley A. Watters",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "The Galileo Project",
 "sourceFiles": [

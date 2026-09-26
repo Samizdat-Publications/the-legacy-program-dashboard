@@ -4,7 +4,6 @@
 "D": 2,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -78,7 +77,6 @@
 "edgeLabel": "author of record on the DIA list; lead author",
 "family": "documents",
 "id": "dird-warp-drive-dark-energy-and-the",
-"l0": true,
 "label": "Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions",
 "note": "CORRECTION EDGE. The DIA letter of 9 January 2018, item 19, names \"Dr R Obousy, Obousy Consultants\" as the author of the warp-drive DIRD. Press coverage almost universally attributes this paper to Eric Davis. EarthTech's own citation gives it as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, so the two records reconcile as a co-authored paper on which DIA recorded the lead author.",
 "predicate": "wrote",
@@ -137,11 +135,9 @@
 "hl": null,
 "id": "richard-obousy",
 "instId": null,
-"l0": false,
 "label": "Richard K. Obousy",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Richard Obousy is the correction this batch exists to make. \"Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions\" is the most cited and most reproduced of the thirty-eight DIRDs and is almost universally attributed in press coverage to Eric Davis. The DIA letter of 9 January 2018 does not say that. It lists item 19 as \"Warp Drive, Dark Energy and the Manipulation of Extra Dimensions, Dr R Obousy, Obousy Consultants.\" Obousy is the author of record on the government's own list. EarthTech International's published citation list gives the paper as Obousy, R. K. and Davis, E. W. (2010), with Obousy first named, which resolves the two records rather than contradicting them: it is a co-authored paper on which DIA recorded the lead author and the popular account recorded the famous one.\n\nThe distinction is not cosmetic. The warp-drive DIRD is routinely used to argue that a small circle of consultants wrote the programme's most exotic output for itself. On the DIA record the lead author is an outside theorist trading as a one-man consultancy, and the paper's substance, a Casimir-energy and extra-dimensional treatment of the Alcubierre metric, tracks Obousy's own published work on dark energy and compactified extra dimensions rather than Davis's.\n\nObousy went on to found and lead Icarus Interstellar, the volunteer successor organisation to Project Daedalus that pursued interstellar flight study, where he appears on the team alongside Eric Davis and Friedwardt Winterberg, the DIA-listed author of the negative-mass and advanced-nuclear-propulsion DIRDs. That overlap is itself a finding: the exotic-propulsion half of the DIRD author set was drawn from an existing interstellar-studies community that predates AAWSAP and outlived it.\n\nThe document is DIA-08-1004-001, dated 2 April 2010 with an Intelligence Cut-Off Date of 1 December 2009, in the Acquisition Threat Support series. It was one of the first two DIRDs to reach the public internet, appearing in December 2017 and later confirmed genuine by Davis in correspondence with the researcher Isaac Koi.",
 "photoCredit": null,
 "sequenceChain": [],

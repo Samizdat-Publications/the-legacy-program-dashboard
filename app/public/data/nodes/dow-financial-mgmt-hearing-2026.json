@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-86c8ca9dc8",
@@ -75,7 +74,6 @@
 "edgeLabel": "Witness at the 13 May 2026 hearing",
 "family": "testimony",
 "id": "brett-mansfield",
-"l0": false,
 "label": "Brett A. Mansfield",
 "note": "Mansfield was the Office of Inspector General witness at 'DoW Financial Management: Examining Progress and New Audit Approaches'. Attested by the OIG's publication of his statement.",
 "predicate": "testified_at",
@@ -102,7 +100,6 @@
 "edgeLabel": "Same committee, 13 May 2026",
 "family": "oversight",
 "id": "house-oversight-committee",
-"l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "The House Committee on Oversight and Government Reform held the DoW financial management hearing at which Deputy IG Mansfield testified. Attested by the OIG's publication of his statement.",
 "predicate": "oversaw",
@@ -136,10 +133,8 @@
 },
 "hl": null,
 "id": "dow-financial-mgmt-hearing-2026",
-"l0": false,
 "label": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "House Oversight hearing: 'DoW Financial Management: Examining Progress and New Audit Approaches' (13 May 2026)",
 "sourceFiles": [

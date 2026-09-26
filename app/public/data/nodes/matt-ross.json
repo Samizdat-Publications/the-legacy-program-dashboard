@@ -7,7 +7,6 @@
 "Joint Interagency Task Force 401, Director (Aug 2025- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2025-08-01",
@@ -97,7 +96,6 @@
 "edgeLabel": "Director of JIATF-401 from its establishment",
 "family": "role",
 "id": "jiatf-401",
-"l0": false,
 "label": "Joint Interagency Task Force 401 (JIATF-401)",
 "note": "Brig. Gen. Matt Ross directs the counter-drone joint interagency task force established in August 2025.",
 "predicate": "led",
@@ -134,11 +132,9 @@
 "hl": null,
 "id": "matt-ross",
 "instId": "jiatf-401",
-"l0": false,
 "label": "Matt Ross",
 "loc": "United States",
 "locId": "l-dc",
-"members": null,
 "narrative": "Ross directs Joint Interagency Task Force 401, the counter-drone organisation the Department stood up in August 2025 after two years of unattributed incursions over US military installations that no existing command structure could stop. JIATF-401's creation is the institutional admission that the December 2023 Langley swarms and the December 2024 New Jersey wave were not a public-misperception problem: a standing joint interagency task force with a general officer at its head is not what a government builds to handle hobbyist quadcopters. The task force's first year coincided with the Department of Defense Inspector General's evaluation of counter-drone readiness at ten installations, published as DODIG-2026-045 on 21 January 2026, which found inconsistent policies, unclear designation of 'covered' facilities under federal law, and approval processes that delayed deployment of systems bases already had. Nine days later, on 30 January 2026, the Department issued updated guidance removing the 'fence-line' limitation on base commanders' response authority, defining 'unauthorized surveillance' as an explicit threat, and letting commanders judge threat by 'totality of circumstances.' Ross's task force is the node where the observational record stops being a disclosure argument and becomes a force-protection line item.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -50,7 +49,6 @@
 "edgeLabel": "head institute of the Academy of Sciences branch",
 "family": "role",
 "id": "setka-program",
-"l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Academician V. Migulin, director of IZMIRAN and a radio physicist specialising in oscillation theory, radio wave propagation and radiolocation, was made scientific head of the academic branch, and IZMIRAN was designated head institute. The four-to-five person working group there was headed by Yu. Platov, co-author of the programme's published account.",
 "predicate": "led",
@@ -84,10 +82,8 @@
 },
 "hl": null,
 "id": "izmiran",
-"l0": false,
 "label": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "IZMIRAN - Pushkov Institute of Terrestrial Magnetism",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-65a7c76c8f",
@@ -33,7 +32,6 @@
 "edgeLabel": "Alleged domain-partitioned allocation of material across primes by technical expertise",
 "family": "testimony",
 "id": "lockheed-martin",
-"l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Rep. Mace proposed that undersea propulsion material would go to a contractor like General Dynamics and aerospace material to Lockheed; Elizondo answered 'Yes, ma'am, absolutely correct. Different contractors have different levels of expertise.'",
 "predicate": "alleged_tie",
@@ -60,7 +58,6 @@
 "edgeLabel": "Named in his own self-stated client list, 2000",
 "family": "testimony",
 "id": "mark-mccandlish",
-"l0": false,
 "label": "Mark McCandlish",
 "note": "Self-stated client list from his own December 2000 testimony, printed in the April 2001 Briefing Document: 'I've worked for all the major defense contractors: General Dynamics, Lockheed, Northrop, McDonald-Douglas, Boeing, Rockwell International, Honeywell, and Allied Signet Corporation.' No personnel record and no contract record was opened for any of them. The edge records what he said about himself and nothing more.",
 "predicate": "made_claims_about",
@@ -87,7 +84,6 @@
 "edgeLabel": "Names Convair of San Diego, then a division of this node, among the firms interested in gravity",
 "family": "documents",
 "id": "talbert-gravity-series-1955",
-"l0": true,
 "label": "Ansel E. Talbert, three-part gravity series, New York Herald Tribune, 20-22 November 1955",
 "note": "The series names Convair of San Diego among the aircraft industry firms participating or actively interested in gravity, and photographs a Convair division senior research engineer conducting a gravity-control experiment. Tier 2 because the articles name Convair and not General Dynamics, and the identification of the two in November 1955 is not something the document states.",
 "predicate": "concerns",
@@ -121,10 +117,8 @@
 },
 "hl": null,
 "id": "general-dynamics",
-"l0": false,
 "label": "General Dynamics Corporation",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "General Dynamics Corporation",
 "sourceFiles": [

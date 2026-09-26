@@ -83,7 +83,7 @@
   white-space: normal;
 }
 .th-label:hover { color: var(--cyan); }
-.th-year, .th-hl, .th-floor { font-size: var(--fs-label); white-space: nowrap; }
+.th-year, .th-hl { font-size: var(--fs-label); white-space: nowrap; }
 .th-ev {
   font-size: var(--fs-label);
   line-height: 1.5;
@@ -93,69 +93,17 @@
 }
 .th-edge { font-size: var(--fs-label); letter-spacing: 0.04em; }
 
-/* ---- the small map ---------------------------------------------------- */
+/* ---- the side: the timeline slice (the small map went with the program map
+   in redesign phase 11) --------------------------------------------------- */
 
 .th-side { display: grid; gap: 20px; min-width: 0; }
-.th-map, .th-slice { min-width: 0; }
-.tm-cap, .ts-cap {
+.th-slice { min-width: 0; }
+.ts-cap {
   font-size: var(--fs-label);
   letter-spacing: 0.06em;
   text-transform: uppercase;
   padding-bottom: 6px;
 }
-.tm-board {
-  position: relative;
-  border: 1px solid var(--line);
-  background: var(--bg2);
-  font-size: var(--fs-label);
-  overflow: hidden;
-}
-/* Era and band names wrap rather than shrink or truncate: one size, whole
-   label, inside its own column. */
-.tm-erahead {
-  position: absolute;
-  color: var(--faint);
-  font-size: var(--fs-label);
-  line-height: 12px;
-  padding: 1px 3px 0 4px;
-  box-sizing: border-box;
-  white-space: normal;
-  overflow: visible;
-}
-.tm-bandhead {
-  position: absolute;
-  left: 0;
-  color: var(--faint);
-  font-size: var(--fs-label);
-  line-height: 12px;
-  display: flex;
-  align-items: center;
-  padding-left: 4px;
-  box-sizing: border-box;
-  white-space: normal;
-  overflow: visible;
-}
-.tm-bandhead.floor { color: var(--dim); }
-.tm-vline { position: absolute; width: 1px; background: var(--line); }
-.tm-hline { position: absolute; left: 0; height: 1px; background: var(--line); opacity: 0.8; }
-.tm-hline.floor { background: var(--line2); }
-.tm-links { position: absolute; left: 0; top: 0; pointer-events: none; }
-.tm-link { fill: none; stroke: var(--cyan); stroke-width: 1; opacity: 0.75; }
-.tm-chip {
-  position: absolute;
-  box-sizing: border-box;
-  display: block;
-  border: 1px solid var(--line2);
-  border-left-width: 3px;
-  background: var(--panel);
-  color: var(--text);
-  font-size: var(--fs-label);
-  line-height: 12px;
-  text-align: center;
-  padding: 0;
-}
-.tm-chip:hover { border-color: var(--cyan); text-decoration: none; }
-.tm-chip.hl { border-color: var(--amber); color: var(--amber); }
 
 /* ---- the timeline slice ------------------------------------------------ */
 

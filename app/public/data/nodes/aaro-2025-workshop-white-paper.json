@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-6726b253e3",
@@ -47,7 +46,6 @@
 "edgeLabel": "recommendations the release programme did not adopt",
 "family": "denial",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The February 2026 white paper recommended standardised metadata templates, AI with human oversight and open narrative reporting; the releases from May 2026 carried none of the three.",
 "predicate": "refused",
@@ -86,10 +84,8 @@
 },
 "hl": null,
 "id": "aaro-2025-workshop-white-paper",
-"l0": false,
 "label": "AARO 2025 UAP workshop white paper (February 2026)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "AARO 2025 UAP workshop white paper (February 2026)",
 "sourceFiles": [

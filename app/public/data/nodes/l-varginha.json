@@ -2,7 +2,6 @@
 "A": 0,
 "C": 2,
 "D": 2,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -28,7 +27,6 @@
 "edgeLabel": "A foreign case now under US congressional inquiry",
 "family": "analysis",
 "id": "d-international",
-"l0": false,
 "label": "International & Allied Programs",
 "note": "In July 2026 a US lawmaker formally requested FBI and CIA holdings on the 1996 Varginha incident.",
 "predicate": "exemplifies",
@@ -65,10 +63,8 @@
 },
 "hl": null,
 "id": "l-varginha",
-"l0": false,
 "label": "Varginha, Minas Gerais, Brazil",
 "locLabel": "Varginha, Minas Gerais, Brazil",
-"members": null,
 "openQuestions": [],
 "short": "Varginha, Minas Gerais, Brazil",
 "sourceFiles": [

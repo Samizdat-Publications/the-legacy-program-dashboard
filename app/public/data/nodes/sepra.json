@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-001516edf0",
@@ -47,7 +46,6 @@
 "edgeLabel": "recommended boosting SEPRA's resources and foreign relations status",
 "family": "conduct",
 "id": "doc-cometa-report",
-"l0": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "note": "Recommendation 2 asks the French state to expand the very office whose serving head had contributed to the report.",
 "predicate": "supported",
@@ -74,7 +72,6 @@
 "edgeLabel": "renamed GEIPAN in 2005",
 "family": "organisation",
 "id": "geipan",
-"l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Jacques Patenet succeeded Velasco under the GEIPAN name.",
 "predicate": "succeeded",
@@ -101,7 +98,6 @@
 "edgeLabel": "renamed SEPRA in 1988",
 "family": "organisation",
 "id": "gepan",
-"l0": false,
 "label": "GEPAN - Groupe d'Étude des Phénomènes Aérospatiaux Non-identifiés",
 "note": "GEPAN became SEPRA in 1988 and the acronym was redefined in 2000 before the 2005 renaming to GEIPAN.",
 "predicate": "succeeded",
@@ -135,10 +131,8 @@
 },
 "hl": null,
 "id": "sepra",
-"l0": false,
 "label": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "SEPRA - Service d'Expertise des Phénomènes de Rentrée Atmosphérique / Phénomènes Rares Aérospatiaux",
 "sourceFiles": [

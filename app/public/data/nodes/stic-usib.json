@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-87688ccf40",
@@ -94,7 +93,6 @@
 "edgeLabel": "Chartered under the DCI structure; instructed by the Deputy to the DCI for the Intelligence Community",
 "family": "organisation",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "The 1974 charter takes effect when the appropriate DCID is approved, and the 1975 Letter of Instruction is addressed to the Deputy to the DCI for the Intelligence Community, placing the committee inside the DCI's community machinery.",
 "predicate": "part_of",
@@ -128,10 +126,8 @@
 },
 "hl": null,
 "id": "stic-usib",
-"l0": false,
 "label": "Scientific and Technical Intelligence Committee (USIB)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Scientific and Technical Intelligence Committee (USIB)",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -70,7 +69,6 @@
 "edgeLabel": "Sky Canada Project audited and issued recommendations to Transport Canada",
 "family": "oversight",
 "id": "ocsa-canada",
-"l0": false,
 "label": "Office of the Chief Science Advisor of Canada",
 "note": "The report maps Transport Canada's Civil Aviation Daily Occurrence Reporting System as the federal channel where pilot and public sightings land: 'Transport Canada maintains the Civil Aviation Daily Occurrence Reporting System (CADORS) for incidents affecting aviation safety, including UAP sightings', collecting reports 'from pilots, air traffic controllers and the public' on incidents 'involving Canadian-registered aircraft at Canadian airports, in Canadian sovereign airspace, and international airspace for which Canada has accepted responsibility'.",
 "predicate": "investigated",
@@ -109,10 +107,8 @@
 },
 "hl": null,
 "id": "canada-dot",
-"l0": false,
 "label": "Canada Department of Transport",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Canada Department of Transport",
 "sourceFiles": [

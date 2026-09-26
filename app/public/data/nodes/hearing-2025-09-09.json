@@ -2,7 +2,6 @@
 "A": 1,
 "C": 2,
 "D": 3,
-"band": "retrieval",
 "claims": [
 {
 "id": "c-e9cef2cc46",
@@ -483,7 +482,6 @@
 "edgeLabel": "Witnesses testified AARO holds unreleased UAP video",
 "family": "testimony",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The testimony that AARO possesses additional video records is the specific factual basis for Luna's April 2026 letter and, through it, for the video composition of the PURSUE tranches.",
 "predicate": "made_claims_about",
@@ -515,7 +513,6 @@
 "edgeLabel": "Video releases began five weeks after testimony that AARO was withholding video",
 "family": "place-time",
 "id": "aaro-official-uap-imagery",
-"l0": false,
 "label": "AARO Official UAP Imagery releases (PR series)",
 "note": "The timing and the scale together read as minimum compliance: seven short clips in response to sworn testimony that the office holds an unreleased video archive.",
 "predicate": "responded_to",
@@ -547,7 +544,6 @@
 "edgeLabel": "sworn witness",
 "family": "testimony",
 "id": "alexandro-wiggins",
-"l0": false,
 "label": "Alexandro Wiggins",
 "note": "Wiggins appeared on the official witness list of the House Oversight Task Force on the Declassification of Federal Secrets on 9 September 2025 while still serving.",
 "predicate": "testified_at",
@@ -594,7 +590,6 @@
 "edgeLabel": "Luna chaired the hearing at which the contractor allegation acquired names",
 "family": "oversight",
 "id": "anna-paulina-luna",
-"l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna chaired the Task Force on the Declassification of Federal Secrets hearing at which four witnesses testified on UAP transparency and whistleblower retaliation.",
 "predicate": "oversaw",
@@ -631,7 +626,6 @@
 "edgeLabel": "presiding chairwoman",
 "family": "oversight",
 "id": "anna-paulina-luna",
-"l0": false,
 "label": "Anna Paulina Luna",
 "note": "The Task Force on the Declassification of Federal Secrets built the hearing around serving and former operators rather than programme officials.",
 "predicate": "oversaw",
@@ -663,7 +657,6 @@
 "edgeLabel": "acts on the hearing's fourth finding",
 "family": "place-time",
 "id": "burlison-mitre-letter-2026",
-"l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "The September 2025 Oversight wrap-up recorded that UAP materials had been moved to private contractors, complicating oversight and FOIA access; the MITRE demand is the first instrument aimed at that finding.",
 "predicate": "responded_to",
@@ -695,7 +688,6 @@
 "edgeLabel": "Present in the room as reprisal against him is entered into the record",
 "family": "testimony",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch did not testify but attended; Knapp referenced him directly from the witness table, Crane entered the reprisal letter, and Mace described the medical-records leak. The hearing is the reprisal file's official home.",
 "predicate": "witnessed",
@@ -722,7 +714,6 @@
 "edgeLabel": "sworn witness",
 "family": "testimony",
 "id": "dylan-borland",
-"l0": false,
 "label": "Dylan Borland",
 "note": "Borland alleges blacklisting and clearance-record manipulation and states he filed complaints with AARO in March 2023 and the ICIG in August 2023.",
 "predicate": "testified_at",
@@ -774,7 +765,6 @@
 "edgeLabel": "presented unreleased footage of a drone Hellfire engagement with an orb off Yemen, October 2024",
 "family": "testimony",
 "id": "eric-burlison",
-"l0": false,
 "label": "Eric Burlison",
 "note": "A sitting member introducing military engagement footage that AARO had not published is a direct measure of the office's disclosure posture.",
 "predicate": "brought_to_record",
@@ -801,7 +791,6 @@
 "edgeLabel": "Unveiled the alleged Hellfire-versus-orb footage",
 "family": "testimony",
 "id": "eric-burlison",
-"l0": false,
 "label": "Eric Burlison",
 "note": "Burlison presented previously unreleased footage said to show a US military drone firing a Hellfire missile at a high-speed orb off Yemen in October 2024.",
 "predicate": "brought_to_record",
@@ -828,7 +817,6 @@
 "edgeLabel": "Knapp's testimony named the company, the executive and the intelligence official",
 "family": "testimony",
 "id": "george-knapp",
-"l0": false,
 "label": "George Knapp",
 "note": "The naming is sworn and specific; the underlying sourcing has not been published, which is why the claims are graded tier 2 rather than tier 1.",
 "predicate": "testified_at",
@@ -855,7 +843,6 @@
 "edgeLabel": "sworn witness",
 "family": "testimony",
 "id": "george-knapp",
-"l0": false,
 "label": "George Knapp",
 "note": "Knapp told the task force that documents paint a much different picture than the public, press and Congress have been told, and alleged UAP materials had been moved to private contractors.",
 "predicate": "testified_at",
@@ -907,7 +894,6 @@
 "edgeLabel": "No UAP hearing was held in the eleven months between them",
 "family": "place-time",
 "id": "hearing-2026-06-30",
-"l0": false,
 "label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026",
 "note": "The period covers the February 2026 release directive, five PURSUE tranches, the late FY2025 annual report, the NDA waiver and the Burlison amendment - all executive or floor action without contemporaneous testimony. Reasoning: House Oversight published hearing index.",
 "predicate": "preceded",
@@ -934,7 +920,6 @@
 "edgeLabel": "hearing findings underwrite the UAP Whistleblower Protection Act",
 "family": "place-time",
 "id": "hr-5060-uap-whistleblower-protection-act",
-"l0": false,
 "label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
 "note": "The Task Force found witnesses face career damage and retaliation requiring congressional safeguards; the bill was on the agenda in the run-up to the hearing.",
 "predicate": "led_to",
@@ -961,7 +946,6 @@
 "edgeLabel": "sworn witness",
 "family": "testimony",
 "id": "jeffrey-nuccetelli",
-"l0": false,
 "label": "Jeffrey Nuccetelli",
 "note": "Nuccetelli described 2003-2005 incursions at Vandenberg AFB during NRO launches and asserted each was documented and reported up the chain.",
 "predicate": "testified_at",
@@ -1008,7 +992,6 @@
 "edgeLabel": "minority witness",
 "family": "testimony",
 "id": "joe-spielberger",
-"l0": false,
 "label": "Joe Spielberger",
 "note": "POGO's senior policy counsel was the minority's chosen witness, arguing for stronger disclosure channels rather than contesting the phenomenology.",
 "predicate": "testified_at",
@@ -1035,7 +1018,6 @@
 "edgeLabel": "minority witness",
 "family": "testimony",
 "id": "joe-spielberger",
-"l0": false,
 "label": "Joe Spielberger",
 "note": "Called by Ranking Member Crockett, who devoted her entire round to him.",
 "predicate": "testified_at",
@@ -1072,7 +1054,6 @@
 "edgeLabel": "Knapp testified as KLAS-TV chief investigative reporter",
 "family": "testimony",
 "id": "klas-tv",
-"l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "Knapp opened his sworn statement: 'I am George Knapp, chief investigative reporter at KLAS-TV in Las Vegas. I began my pursuit of this weird mystery way back in 1987, and for 38 years, I have always approached this as a news story. It is not a matter of faith or belief to me.' The witness list gives him as 'Mr. George Knapp, UAP Journalist'; Chairwoman Luna's introduction dates his arrival at KLAS to 1981 and the chief investigative reporter post to 1995.",
 "predicate": "testified_at",
@@ -1104,7 +1085,6 @@
 "edgeLabel": "The Vandenberg incidents entered the congressional record in September 2025",
 "family": "testimony",
 "id": "l-vandenberg",
-"l0": false,
 "label": "Vandenberg Space Force Base, California",
 "note": "Nuccetelli named AARO and the FBI as custodians of the official Air Force records for specific dated incidents at a named installation - a checkable custody claim Congress has not pursued to production.",
 "predicate": "brought_to_record",
@@ -1136,7 +1116,6 @@
 "edgeLabel": "Written testimony moved into the record by a member; NOT a witness appearance",
 "family": "testimony",
 "id": "michael-herrera",
-"l0": false,
 "label": "Michael Herrera",
 "note": "HE IS NOT A WITNESS AT THIS HEARING AND THIS EDGE MUST NOT BE READ AS AN APPEARANCE. Rep. Eric Burlison moved a document about him into the record and the chair admitted it without objection. He is on no committee witness list for this or any other hearing.",
 "predicate": "brought_to_record",
@@ -1163,7 +1142,6 @@
 "edgeLabel": "POGO counsel testified at the UAP transparency hearing",
 "family": "testimony",
 "id": "pogo",
-"l0": false,
 "label": "Project On Government Oversight",
 "note": "The transcript lists 'Mr. Joe Spielberger (Minority Witness), Senior Policy Counsel, Project on Government Oversight'. His statement opens 'Chairwoman Luna, Ranking Member Crockett, and Task Force members' and describes POGO as 'a nonpartisan independent watchdog organization that investigates and exposes waste, corruption, abuse of power, and when the government fails to serve the public or silences those who report wrongdoing.' He appeared as the minority witness, on whistleblower protection rather than on the phenomenon.",
 "predicate": "testified_at",
@@ -1200,7 +1178,6 @@
 "edgeLabel": "Hearing, then letter, then release - the causal spine of 2026",
 "family": "place-time",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "The sequence runs from sworn testimony that video was being withheld, through a subcommittee chair's letter to the Secretary, to a release channel that bypassed the office entirely.",
 "predicate": "led_to",
@@ -1237,7 +1214,6 @@
 "edgeLabel": "the executive channel that competes with the congressional one",
 "family": "analysis",
 "id": "pursue-task-force",
-"l0": false,
 "label": "PURSUE Task Force",
 "note": "Burlison warned that it is uncertain whether the NDA abrogation applies to testimony given to Congress before referral to the executive branch - a witness routed to PURSUE may be routed away from a hearing room.",
 "predicate": "parallels",
@@ -1269,7 +1245,6 @@
 "edgeLabel": "Held the 9 September 2025 hearing",
 "family": "oversight",
 "id": "task-force-declassification-federal-secrets",
-"l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "The hearing was held in HVC-210 at 10:00am with five witnesses, four of them first-hand or journalistic.",
 "predicate": "oversaw",
@@ -1301,7 +1276,6 @@
 "edgeLabel": "Held the UAP transparency and whistleblower protection hearing",
 "family": "oversight",
 "id": "task-force-declassification-federal-secrets",
-"l0": true,
 "label": "Task Force on the Declassification of Federal Secrets",
 "note": "The hearing where the Crane reprisal letter entered the record and where Knapp and Mace put ongoing retaliation against Grusch into the official transcript.",
 "predicate": "oversaw",
@@ -1328,7 +1302,6 @@
 "edgeLabel": "The FOIA-reach finding is the antecedent of the 2026 contractor-disclosure amendment",
 "family": "place-time",
 "id": "uapda-fy2027-house-adopted",
-"l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The Task Force found UAP spending flows to entities outside FOIA reach; the amendment adopted 23 July 2026 extends disclosure obligations to government contractors. Reasoning: direct correspondence between the finding and the remedy.",
 "predicate": "led_to",
@@ -1514,107 +1487,8 @@
 },
 "hl": null,
 "id": "hearing-2025-09-09",
-"l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "locLabel": null,
-"members": [
-{
-"cls": "program",
-"id": "aaro-official-uap-imagery",
-"label": "AARO Official UAP Imagery releases (PR series)",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "alexandro-wiggins",
-"label": "Alexandro Wiggins",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "anna-paulina-luna",
-"label": "Anna Paulina Luna",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "david-grusch",
-"label": "David Charles Grusch",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "dylan-borland",
-"label": "Dylan Borland",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "eric-burlison",
-"label": "Eric Burlison",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "george-knapp",
-"label": "George Knapp",
-"tier": "A"
-},
-{
-"cls": "event",
-"id": "hearing-2026-06-30",
-"label": "House Oversight Task Force hearing: 'Mind Control and Accountability: Uncovering the Truth of the CIA's MKULTRA Project', 30 June 2026",
-"tier": "C"
-},
-{
-"cls": "legislation",
-"id": "hr-5060-uap-whistleblower-protection-act",
-"label": "H.R. 5060 - UAP Whistleblower Protection Act (119th Congress)",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jeffrey-nuccetelli",
-"label": "Jeffrey Nuccetelli",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "joe-spielberger",
-"label": "Joe Spielberger",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "klas-tv",
-"label": "KLAS-TV (Las Vegas)",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-vandenberg",
-"label": "Vandenberg Space Force Base, California",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "michael-herrera",
-"label": "Michael Herrera",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "pogo",
-"label": "Project On Government Oversight",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "pursue-task-force",
-"label": "PURSUE Task Force",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Task Force hearing, 9 Sep 2025",
 "sourceFiles": [

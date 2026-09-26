@@ -6,7 +6,6 @@
 "Liberation Times, journalist and editor (2022-present)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-02-28",
@@ -85,7 +84,6 @@
 "edgeLabel": "Sharp's reporting of the Lockheed-Bigelow transfer was read into a congressional hearing and confirmed",
 "family": "media",
 "id": "lockheed-martin",
-"l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Burlison attributed the reporting to Sharp by name on 13 November 2024 and Elizondo confirmed the block, making this the rare case of independent journalism validated on the record by the relevant witness.",
 "predicate": "reported_on",
@@ -128,11 +126,9 @@
 "hl": null,
 "id": "christopher-sharp",
 "instId": null,
-"l0": false,
 "label": "Christopher Sharp",
 "loc": "London, UK",
 "locId": "l-london",
-"members": null,
 "narrative": "Sharp's reporting is the connective tissue of this domain, and its reliability was tested in the most public way available: on 13 November 2024 Rep. Eric Burlison read Sharp's account of a Lockheed Martin - Bigelow Aerospace material transfer blocked by CIA into a congressional hearing and asked a former program director to describe it, and the witness confirmed the block. Sharp had earlier, in February and March 2023, published the two pieces that framed the contractor question before Congress took it up - the account of EG&G's Alfred O'Donnell and the recovered craft, and Jeremy Corbell's challenge to the Senate Appropriations Committee to audit Lockheed Martin's special access programs, in which Elizondo urged that the inquiry not be limited to one aerospace company 'but to several others that have likely played a key historical role in this endeavour.' In June 2023 he documented the Senate Intelligence Committee's proposed contractor amnesty for 'non-earth origin or exotic' material before that language was stripped in conference. In January 2026 he reported that an exotic vehicle has been stored for decades at Naval Air Station Patuxent River and that Elizondo's written congressional testimony placed Pax River among the sites prepared for the blocked Lockheed-Bigelow transfer. He also broke the June 2026 existence of the interagency UAP Governance Board via a named ODNI official.",
 "photoCredit": null,
 "sequenceChain": [],

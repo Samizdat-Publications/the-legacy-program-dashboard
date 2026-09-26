@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "custody",
 "claims": [
 {
 "id": "c-882d9ed7ad",
@@ -145,7 +144,6 @@
 "edgeLabel": "Testimony at section 3.8.4, dated September 2000",
 "family": "testimony",
 "id": "clifford-stone",
-"l0": false,
 "label": "Clifford E. Stone",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Sergeant Clifford Stone, United States Army / September 2000'.",
 "predicate": "witnessed",
@@ -172,7 +170,6 @@
 "edgeLabel": "The project's own publication",
 "family": "documents",
 "id": "disclosure-project",
-"l0": true,
 "label": "The Disclosure Project",
 "note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
 "predicate": "published",
@@ -199,7 +196,6 @@
 "edgeLabel": "The Project's own compiled briefing document, April 2001",
 "family": "documents",
 "id": "disclosure-project",
-"l0": true,
 "label": "The Disclosure Project",
 "note": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
 "predicate": "published",
@@ -226,7 +222,6 @@
 "edgeLabel": "The cohort is defined by section 3.8 of the document",
 "family": "documents",
 "id": "disclosure-project-witness-set",
-"l0": false,
 "label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
 "note": "Sixty-eight dated testimony headings across five subsections. The set node exists so that the fifty-seven unchecked witnesses do not each become a single-claim person node.",
 "predicate": "concerns",
@@ -253,7 +248,6 @@
 "edgeLabel": "Testimony at section 3.8.2, dated October 2000",
 "family": "testimony",
 "id": "john-callahan",
-"l0": false,
 "label": "John Callahan",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, per the rule stated on the document node. Heading as printed: 'Testimony of FAA Division Chief John Callahan / October 2000'.",
 "predicate": "testified_at",
@@ -280,7 +274,6 @@
 "edgeLabel": "Two of the document's witnesses name the base",
 "family": "documents",
 "id": "l-norton-afb",
-"l0": false,
 "label": "Norton Air Force Base, San Bernardino, California",
 "note": "McCandlish and Lt Col John Williams name Norton AFB in separate testimonies inside the same document, and the compiler then cross-references them to each other. The corroboration is the compiler's assertion, made inside the compilation.",
 "predicate": "concerns",
@@ -307,7 +300,6 @@
 "edgeLabel": "Testimony at section 3.8.4, dated September 2000",
 "family": "testimony",
 "id": "larry-warren",
-"l0": false,
 "label": "Larry Warren",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. Heading as printed: 'Testimony of Security Officer Larry Warren, United States Air Force / September 2000'.",
 "predicate": "testified_at",
@@ -334,7 +326,6 @@
 "edgeLabel": "Testimony at section 3.8.5, dated December 2000",
 "family": "testimony",
 "id": "mark-mccandlish",
-"l0": false,
 "label": "Mark McCandlish",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY, which is the form the existing node already uses. NOTHING OPENED PLACES HIM AT THE 9 MAY 2001 PODIUM, and this edge must never be read as implying it.",
 "predicate": "testified_at",
@@ -361,7 +352,6 @@
 "edgeLabel": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
 "family": "place-time",
 "id": "national-press-club-2001",
-"l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance.",
 "predicate": "preceded",
@@ -393,7 +383,6 @@
 "edgeLabel": "Testimony at section 3.8.3, dated November 2000",
 "family": "testimony",
 "id": "robert-jacobs",
-"l0": false,
 "label": "Robert M. Jacobs",
 "note": "TIER 1 FOR THE FACT OF THE TESTIMONY AND ITS DATE ONLY. This is the LAST and WEAKEST anchor for this witness; his own 1989 publication is the one the board should cite.",
 "predicate": "testified_at",
@@ -420,7 +409,6 @@
 "edgeLabel": "Named as its director and compiler",
 "family": "documents",
 "id": "steven-greer",
-"l0": false,
 "label": "Steven M. Greer",
 "note": "Prepared by Steven M. Greer MD and Theodore C. Loder III PhD. Greer signs the bracketed editorial notes 'SG'.",
 "predicate": "wrote",
@@ -447,7 +435,6 @@
 "edgeLabel": "Written and compiled by Greer, who also conducted every interview in it",
 "family": "documents",
 "id": "steven-greer",
-"l0": false,
 "label": "Steven M. Greer",
 "note": "AUTHORSHIP, TYPED research. Title page: 'Written and Compiled by: Steven M. Greer, M.D., Director and Theodore C. Loder III, Ph.D.' He is also the interviewer in every transcript, printed as 'SG', and his editorial interjections appear inside the witness text marked 'SG]'. This edge is the structural reason the document caps at Tier 2 for content.",
 "predicate": "wrote",
@@ -517,59 +504,8 @@
 },
 "hl": null,
 "id": "disclosure-project-briefing-2001",
-"l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "clifford-stone",
-"label": "Clifford E. Stone",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "disclosure-project-witness-set",
-"label": "Disclosure Project witness cohort (68 testimonies, 2000 to 2001)",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "john-callahan",
-"label": "John Callahan",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-norton-afb",
-"label": "Norton Air Force Base, San Bernardino, California",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "larry-warren",
-"label": "Larry Warren",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "mark-mccandlish",
-"label": "Mark McCandlish",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "robert-jacobs",
-"label": "Robert M. Jacobs",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "steven-greer",
-"label": "Steven M. Greer",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "DP Briefing Document, April 2001",
 "sourceFiles": [

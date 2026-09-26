@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-174854b592",
@@ -75,7 +74,6 @@
 "edgeLabel": "States the fact of a compromise while naming no operation",
 "family": "analysis",
 "id": "d-denial",
-"l0": false,
 "label": "Official Denial",
 "note": "The filing states the fact of a compromise while declining to describe any operation, which is the posture the board tracks.",
 "predicate": "exemplifies",
@@ -102,7 +100,6 @@
 "edgeLabel": "Prosecution of a former NSA employee for compromising NSA operations",
 "family": "documents",
 "id": "nsa",
-"l0": true,
 "label": "National Security Agency",
 "note": "Pelton was a former NSA employee and the government's brief describes the compromise as concerning NSA operations.",
 "predicate": "concerns",
@@ -161,10 +158,8 @@
 },
 "hl": null,
 "id": "us-v-pelton-1986",
-"l0": false,
 "label": "United States v. Ronald W. Pelton (D. Md. 1986)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "United States v. Ronald W. Pelton (D. Md. 1986)",
 "sourceFiles": [

@@ -1,6 +1,5 @@
 /* thread/data.ts: the two runtime files the Thread page and the Timeline's
- * thread scope read: data/threads.json (authored, phase 1c) and data/map.json
- * (the 7 x 5 grid the small map draws on).
+ * thread scope read: data/threads.json (authored, phase 1c).
  *
  * Same-origin /data only, like data.ts. Nothing here invents a field: every
  * shape below is the contract in notes/APP-SPEC-2026-09-02.md section 2.
@@ -32,20 +31,6 @@ export interface Thread {
 
 export interface ThreadsFile { generated: string; source: string; threads: Thread[] }
 
-export interface GridNode {
-  id: string; label: string; short: string; cls: string; cluster: string | null;
-  tier: string | null; C: number | null; A: number | null; D: number | null;
-  dateStart: string | null; era: string; band: string; hl: number | null;
-}
-
-export interface GridFile {
-  generated: string; source: string;
-  bands: { id: string; label: string }[];
-  eras: { id: string; label: string; sub: string; start: number | null; end: number | null }[];
-  nodes: GridNode[];
-  cells: Record<string, string[]>;
-}
-
 const cache = new Map<string, Promise<unknown>>();
 
 function get<T>(path: string): Promise<T> {
@@ -61,7 +46,6 @@ function get<T>(path: string): Promise<T> {
 }
 
 export const loadThreads = (): Promise<ThreadsFile> => get<ThreadsFile>('threads.json');
-export const loadGrid = (): Promise<GridFile> => get<GridFile>('map.json');
 
 export function threadById(f: ThreadsFile, id: string): Thread | undefined {
   for (const t of f.threads) if (t.id === id) return t;

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-fe00f676f0",
@@ -41,7 +40,6 @@
 "edgeLabel": "Announces a fourth filing at an outside conference",
 "family": "media",
 "id": "mike-rounds",
-"l0": false,
 "label": "Mike Rounds",
 "note": "Nine days after SASC reported a bill with no UAP content, Rounds announced the next UAPDA attempt at the 2026 Disclosure Symposium rather than in committee.",
 "predicate": "appeared_on",
@@ -73,7 +71,6 @@
 "edgeLabel": "Target vehicle contains no UAP provisions to amend",
 "family": "documents",
 "id": "ndaa-fy2027-s4784",
-"l0": false,
 "label": "FY2027 NDAA as reported (S. 4784, S. Rept. 119-127)",
 "note": "Rounds's stated plan is to attach the Act to the FY2027 NDAA; the reported bill has no UAP subtitle and his own markup announcement lists no UAP win.",
 "predicate": "concerns",
@@ -112,10 +109,8 @@
 },
 "hl": null,
 "id": "disclosure-symposium-2026",
-"l0": false,
 "label": "2026 Disclosure Symposium",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "2026 Disclosure Symposium",
 "sourceFiles": [

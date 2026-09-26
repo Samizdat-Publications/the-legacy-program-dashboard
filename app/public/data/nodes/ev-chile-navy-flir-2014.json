@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-3de83b3b89",
@@ -55,7 +54,6 @@
 "edgeLabel": "analysed the Navy FLIR case for two years then released it",
 "family": "custody",
 "id": "cefaa",
-"l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "The Chilean office published the raw sensor product without an explanation, three years before the US DoD authorised release of the Navy videos.",
 "predicate": "analysed_material",
@@ -89,10 +87,8 @@
 },
 "hl": null,
 "id": "ev-chile-navy-flir-2014",
-"l0": false,
 "label": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Chilean Navy helicopter FLIR case, November 2014 (released January 2017)",
 "sourceFiles": [

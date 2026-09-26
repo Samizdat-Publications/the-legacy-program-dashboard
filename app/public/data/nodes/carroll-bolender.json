@@ -7,7 +7,6 @@
 "Air Force Systems Command"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1969-10-20",
@@ -82,7 +81,6 @@
 "edgeLabel": "Bolender authored the termination memorandum",
 "family": "documents",
 "id": "bolender-memo",
-"l0": false,
 "label": "Bolender Memorandum",
 "note": "Brig. Gen. Bolender, USAF Deputy Director of Development, signed the 20 October 1969 memorandum recommending Blue Book's closure and explaining why closure cost the Air Force nothing operationally.",
 "predicate": "wrote",
@@ -120,11 +118,9 @@
 "hl": null,
 "id": "carroll-bolender",
 "instId": "dod",
-"l0": false,
 "label": "Carroll H. Bolender",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Brigadier General Carroll 'Rip' Bolender wrote the memorandum that closed Project Blue Book and, in the same breath, admitted the program had never been the real reporting channel. His 20 October 1969 memorandum recommending termination states that reports of unidentified flying objects which could affect national security are made in accordance with JANAP 146 or Air Force Manual 55-11 and 'are not part of the Blue Book system.' Read plainly, this says that from at least the JANAP era the significant cases went up a separate, classified channel while Blue Book handled the public-facing residue — and that shutting Blue Book down therefore terminated nothing operational. The memo is the hinge between the legacy era and everything the modern disclosure movement alleges: it is a general officer, in writing, describing a two-track system. Bolender had a serious operational career, including work on the lunar module programme, and there is no indication he intended a revelation; he was explaining to his own chain why closing the public office cost the Air Force nothing.",
 "photoCredit": null,
 "sequenceChain": [],

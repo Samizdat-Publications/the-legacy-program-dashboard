@@ -2,7 +2,6 @@
 "A": 1,
 "C": 2,
 "D": 3,
-"band": "retrieval",
 "claims": [
 {
 "id": "c-a3b77d59e9",
@@ -111,7 +110,6 @@
 "edgeLabel": "AARO's 2024 historical review does not mention Rendlesham",
 "family": "denial",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "A congressionally directed review of the historical record omits the best-documented physical-trace incident at a NATO nuclear-capable base, for which the Pentagon's own FOIA office has released the commander's memorandum.",
 "predicate": "omitted",
@@ -143,7 +141,6 @@
 "edgeLabel": "Halt personally led the 28 December 1980 forest patrol",
 "family": "testimony",
 "id": "charles-halt",
-"l0": false,
 "label": "Charles I. Halt",
 "note": "Halt's own memo states 'Numerous individuals, including the undersigned, witnessed the activities in paragraphs 2 and 3.'",
 "predicate": "witnessed",
@@ -170,7 +167,6 @@
 "edgeLabel": "Claims an Army team took him there in late December 1980",
 "family": "testimony",
 "id": "clifford-stone",
-"l0": false,
 "label": "Clifford E. Stone",
 "note": "TIER 3. His own FOIA request of 23 December 1983 to the USAF, from his home address and not identifying him as a serving Army sergeant, cuts against the claim, and no record places him in England. Klass also notes the incident was not reported upward until about two weeks after Stone says his team arrived.",
 "predicate": "witnessed",
@@ -202,7 +198,6 @@
 "edgeLabel": "The memo is the primary official record of the incident",
 "family": "documents",
 "id": "halt-memo",
-"l0": false,
 "label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
 "note": "The memo is the only contemporaneous US government document describing the events; everything else in the case is witness statement or later recollection.",
 "predicate": "concerns",
@@ -234,7 +229,6 @@
 "edgeLabel": "First responder, 26 December 1980",
 "family": "testimony",
 "id": "jim-penniston",
-"l0": false,
 "label": "James W. Penniston",
 "note": "Penniston was the senior security police NCO who entered the forest; his notebook records 'craft of unknown origin' and he signed a USAF witness statement.",
 "predicate": "witnessed",
@@ -266,7 +260,6 @@
 "edgeLabel": "First responder, 26 December 1980",
 "family": "testimony",
 "id": "john-burroughs",
-"l0": false,
 "label": "John Burroughs",
 "note": "Burroughs was with Penniston at the east gate; his account differs in detail from Penniston's, which the board treats as a marker of independence rather than contradiction.",
 "predicate": "witnessed",
@@ -298,7 +291,6 @@
 "edgeLabel": "Incident occurred at and around a USAF-operated nuclear-capable NATO base",
 "family": "place-time",
 "id": "l-raf-woodbridge",
-"l0": false,
 "label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
 "note": "RAF Woodbridge and RAF Bentwaters were operated by the USAF's 81st Tactical Fighter Wing under NATO arrangements.",
 "predicate": "occurred_at",
@@ -330,7 +322,6 @@
 "edgeLabel": "incident location: Rendlesham Forest, Suffolk",
 "family": "place-time",
 "id": "l-uk",
-"l0": false,
 "label": "United Kingdom",
 "note": "The National Archives records that the sightings 'took place over two nights late in December 1980 at RAF Woodbridge' in Suffolk, reported by USAF personnel stationed there. That the reports were made at this location is documented; the nature of what was seen remains unresolved.",
 "predicate": "occurred_at",
@@ -367,7 +358,6 @@
 "edgeLabel": "MoD UFO desk held and released the Rendlesham file",
 "family": "custody",
 "id": "l-uk-mod-whitehall",
-"l0": false,
 "label": "Ministry of Defence Main Building, Whitehall, London",
 "note": "Lt Col Charles Halt's official report on the incidents, titled 'Unexplained Lights', was sent to Defence Secretariat 8 at Whitehall; his original typewritten report and the MoD's follow-up inquiries are held at DEFE 24/1512. A file dedicated to Rendlesham, DEFE 24/1948/1, was opened at The National Archives in August 2009 and contains Halt's memo.",
 "predicate": "holds",
@@ -404,7 +394,6 @@
 "edgeLabel": "Claims presence at the December 1980 events; contested",
 "family": "testimony",
 "id": "larry-warren",
-"l0": false,
 "label": "Larry Warren",
 "note": "TIER 2 AND CONTESTED. His assignment to the 81st Tactical Fighter Wing is not what is disputed; his presence at the events and the documents he produced for it are. His co-author repudiated the account on 13 June 2017 and the publisher suspended distribution of the book on 17 October 2017.",
 "predicate": "witnessed",
@@ -441,7 +430,6 @@
 "edgeLabel": "Co-author of a book-length treatment of the event, later repudiated by him",
 "family": "oversight",
 "id": "peter-robbins",
-"l0": false,
 "label": "Peter Robbins",
 "note": "AUTHORSHIP RELATION, TYPED research. Left at East Gate, with Larry Warren, defended for twenty-nine years and then repudiated in June 2017.",
 "predicate": "investigated",
@@ -473,7 +461,6 @@
 "edgeLabel": "Sheffield Hallam academic curated the MoD file release containing Rendlesham",
 "family": "testimony",
 "id": "sheffield-hallam",
-"l0": false,
 "label": "Sheffield Hallam University",
 "note": "Sheffield Hallam describes Clarke as its Journalism Reader and as 'media consultant and spokesperson for the transfer of 210 formerly classified files on UFOs from The Ministry of Defence archive' between 2008 and 2013. His own earlier role in prising the Rendlesham file loose is recorded at The National Archives by file reference: the guide notes that the Rendlesham papers were among the first released under the Code of Practice for Access to Government Information in 2001, and that the papers relating to that release sit at DEFE 24/2030/1 and DEFE 24/2031/1, catalogued as 'UFOs: Persistent Correspondence, Dr David Clarke, 2000-2001'. The custody relationship is documented in the archive's own catalogue entry, under his name.",
 "predicate": "brought_to_record",
@@ -662,77 +649,8 @@
 },
 "hl": null,
 "id": "rendlesham-1980",
-"l0": true,
 "label": "Rendlesham Forest Incident, RAF Woodbridge/Bentwaters",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "charles-halt",
-"label": "Charles I. Halt",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "clifford-stone",
-"label": "Clifford E. Stone",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "halt-memo",
-"label": "Halt Memorandum, 'Unexplained Lights', 13 January 1981",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jim-penniston",
-"label": "James W. Penniston",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "john-burroughs",
-"label": "John Burroughs",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-raf-woodbridge",
-"label": "RAF Woodbridge / RAF Bentwaters, Suffolk, England",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-uk",
-"label": "United Kingdom",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-uk-mod-whitehall",
-"label": "Ministry of Defence Main Building, Whitehall, London",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "larry-warren",
-"label": "Larry Warren",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "peter-robbins",
-"label": "Peter Robbins",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "sheffield-hallam",
-"label": "Sheffield Hallam University",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "Rendlesham Forest, 1980",
 "sourceFiles": [

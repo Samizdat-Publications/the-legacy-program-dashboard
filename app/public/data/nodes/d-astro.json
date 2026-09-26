@@ -3,7 +3,6 @@
 "C": 1,
 "D": 3,
 "absorbedBy": "astronomers-searches",
-"band": null,
 "claims": [
 {
 "id": "c-6d86820d0f",
@@ -56,7 +55,6 @@
 "edgeLabel": "Sky-survey transients correlate with nuclear testing",
 "family": "analysis",
 "id": "d-nuc",
-"l0": false,
 "label": "Nuclear Weapons Complex Nexus",
 "note": "Bruehl and Villarroel's Scientific Reports paper links POSS-I transients to nuclear testing and to UAP reports, connecting the astronomical and nuclear-nexus domains.",
 "predicate": "parallels",
@@ -83,7 +81,6 @@
 "edgeLabel": "Instrumented search",
 "family": "organisation",
 "id": "d-research",
-"l0": false,
 "label": "Scientific Research",
 "note": "The Galileo Project instrumentation papers and the VASCO archival work are the two productive observational programmes outside government.",
 "predicate": "part_of",
@@ -110,7 +107,6 @@
 "edgeLabel": "VASCO archival transient search",
 "family": "place-time",
 "id": "l-stockholm",
-"l0": false,
 "label": "Stockholm, Sweden",
 "note": "Villarroel's Stockholm-based VASCO project produced the October 2025 Scientific Reports correlation between POSS-I transients, nuclear testing and UAP reports.",
 "predicate": "located_at",
@@ -144,10 +140,8 @@
 },
 "hl": null,
 "id": "d-astro",
-"l0": false,
 "label": "Astronomy & Astrophysics",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Astronomy & Astrophysics",
 "sourceFiles": [

@@ -7,7 +7,6 @@
 "USS Princeton (CG-59), Carrier Strike Group 11 (2004)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2004-11-14",
@@ -44,7 +43,6 @@
 "edgeLabel": "Turner independently corroborates the confiscation window",
 "family": "testimony",
 "id": "nimitz-2004",
-"l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Turner is one of several Princeton crewmen in different divisions describing the same 48-hour window in the same terms. The convergence is evidentiary weight short of proof; no document confirms it.",
 "predicate": "corroborated",
@@ -71,7 +69,6 @@
 "edgeLabel": "Crewman aboard USS Princeton, Nov 2004",
 "family": "role",
 "id": "uss-princeton",
-"l0": false,
 "label": "USS Princeton (CG-59)",
 "note": "Turner is one of several Princeton enlisted crew who have publicly described the post-encounter arrival of outside personnel; his rate and division are not established from primary records.",
 "predicate": "held_post",
@@ -108,11 +105,9 @@
 "hl": null,
 "id": "jason-turner",
 "instId": "uss-princeton",
-"l0": false,
 "label": "Jason Turner",
 "loc": "United States",
 "locId": "l-socal-oparea",
-"members": null,
 "narrative": "Turner is one of the secondary USS Princeton crewmen who has publicly described the aftermath of the 14 November 2004 encounter, including the arrival of personnel who were not part of the strike group and the removal of recorded material. He matters less for what he saw in the air than for the corroboration structure: the confiscation account for the Nimitz incident does not rest on a single man. It rests on several enlisted crew in different divisions describing the same 48-hour window in the same terms. That is the pattern the board should hold onto - and it is also the pattern that most needs a document. No FOIA release, deck-log entry, or Navy statement has yet confirmed any part of it. Turner is carried here at tier C, as a named node in a witness chain, with the evidentiary hole stated rather than papered over.",
 "photoCredit": null,
 "sequenceChain": [],

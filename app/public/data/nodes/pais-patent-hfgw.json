@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-00d9699447",
@@ -33,7 +32,6 @@
 "edgeLabel": "NASA treated high frequency gravitational waves as a detection problem in 2004",
 "family": "analysis",
 "id": "millis-tm-2004-213082",
-"l0": true,
 "label": "NASA/TM-2004-213082, 'Prospects for Breakthrough Propulsion from Physics' (2004)",
 "note": "STATED INFERENCE ABOUT THE DISTANCE BETWEEN TWO DOCUMENTS AND NOT A REFUTATION. Section 3.3.2 opens 'Fundamentally, gravitational waves are perturbations in spacetime caused by violent accelerations of large masses' and proceeds to interferometry and LIGO. Fifteen years later US 10,322,827 was granted for a generator. Both statements are Tier 1 for what their own documents say and nothing opened joins them.",
 "predicate": "parallels",
@@ -60,7 +58,6 @@
 "edgeLabel": "The disclosure says the IMRD enables the gravitational wave generator",
 "family": "place-time",
 "id": "pais-patent-imrd",
-"l0": false,
 "label": "US Patent 10,144,532 - Craft using an inertial mass reduction device",
 "note": "PAX 205 slide 5: 'it is possible to use the IMRD as an artificial gravitational wave generator (invention enables Gertsenshtein Effect)'.",
 "predicate": "led_to",
@@ -87,7 +84,6 @@
 "edgeLabel": "Named inventor",
 "family": "documents",
 "id": "salvatore-pais",
-"l0": false,
 "label": "Salvatore Cezar Pais",
 "note": "Application 15/431823, assigned to the Secretary of the Navy.",
 "predicate": "wrote",
@@ -121,10 +117,8 @@
 },
 "hl": null,
 "id": "pais-patent-hfgw",
-"l0": false,
 "label": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "US Patent 10,322,827 - High frequency gravitational wave generator",
 "sourceFiles": [

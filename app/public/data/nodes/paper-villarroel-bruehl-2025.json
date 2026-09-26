@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-ca3aa8994d",
@@ -35,7 +34,6 @@
 "edgeLabel": "Physical-archive evidence for the programme's origin period that no agency can classify",
 "family": "analysis",
 "id": "d-materials",
-"l0": false,
 "label": "Materials and custody analysis",
 "note": "Glass plates in civil astronomical custody, exposed before Sputnik, are structurally immune to classification and to the archival destruction that affected the government's own 1940s-1950s records.",
 "predicate": "exemplifies",
@@ -62,7 +60,6 @@
 "edgeLabel": "Lead author of the POSS-I / nuclear testing association",
 "family": "documents",
 "id": "stephen-bruehl",
-"l0": false,
 "label": "Stephen Bruehl",
 "note": "Scientific Reports, 20 October 2025 - a Nature-portfolio paper linking above-ground nuclear testing, contemporaneous UAP reports and anomalous optical transients.",
 "predicate": "wrote",
@@ -96,10 +93,8 @@
 },
 "hl": null,
 "id": "paper-villarroel-bruehl-2025",
-"l0": false,
 "label": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Bruehl & Villarroel (2025), Scientific Reports: POSS-I transients, nuclear testing and UAP reports",
 "sourceFiles": [

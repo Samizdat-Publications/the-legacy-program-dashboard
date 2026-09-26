@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-8f8957d0f1",
@@ -61,7 +60,6 @@
 "edgeLabel": "FOIA release of the Elizondo-Gough correspondence",
 "family": "documents",
 "id": "susan-gough",
-"l0": false,
 "label": "Susan Gough",
 "note": "The Department's own reading room hosts the most detailed public rebuttal of the Department's position on Elizondo.",
 "predicate": "concerns",
@@ -95,10 +93,8 @@
 },
 "hl": null,
 "id": "foia-21-f-0938",
-"l0": false,
 "label": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "OSD FOIA Case 21-F-0938 - Elizondo/Gough correspondence",
 "sourceFiles": [

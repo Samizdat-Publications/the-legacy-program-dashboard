@@ -980,8 +980,9 @@
       "label": "Zero occurrences of Oscar, O Flight, 24 Mar and 25 Mar in the 88-page release: silence that tells against the claim, bounded by the release being excerpts"
     },
     "doc-si-big-sur-1993|big-sur-1964": {
-      "denialKind": "directed",
-      "denier": "kingston-george",
+      "denialKind": "undirected",
+      "denier": null,
+      "_changed": "26 September 2026 (redesign phase 11): was directed with denier kingston-george, who is on neither end of this edge, which this file's own method does not allow (a directed denier is one of the two ends). The issuer is named but is not an end, so by the method it is undirected. Found when the denier check was re-pointed from the map's edges to every edge on the board.",
       "label": "The project engineer publishes that the imagery was decoy deployment and packing debris, while confirming Jacobs's unit, appointment, presence and debriefing"
     }
   }

@@ -9,7 +9,6 @@
 "RAND Corporation, President and CEO (2022-present)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2015-01-01",
@@ -72,7 +71,6 @@
 "edgeLabel": "President and CEO, arriving from IARPA and the White House OSTP",
 "family": "role",
 "id": "rand-corporation",
-"l0": true,
 "label": "RAND Corporation",
 "note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
 "predicate": "led",
@@ -109,11 +107,9 @@
 "hl": null,
 "id": "jason-matheny",
 "instId": "rand-corporation",
-"l0": false,
 "label": "Jason Matheny",
 "loc": "Santa Monica, CA",
 "locId": "l-santa-monica",
-"members": null,
 "narrative": "Matheny runs the corporation that invented the modern defence think tank and that still operates four FFRDCs - Project AIR FORCE for the Air Force, the Arroyo Center for the Army, the National Defense Research Institute for the Under Secretary of Defense for Acquisition and Sustainment, and the Homeland Security Operational Analysis Center for DHS. He came to it from the White House, where he was Deputy Assistant to the President for Technology and National Security and Deputy Director of the Office of Science and Technology Policy, and before that he directed the Intelligence Advanced Research Projects Activity, the Intelligence Community's own high-risk research arm. RAND's UFO record is longer than most people realise and is entirely public: George Kocher's November 1968 draft DRU-1571, 'UFOs: What To Do?', which examined UFO brightness, size and manoeuvres and recommended a course of action to the Air Force; and, more recently, RAND's 2023 research report RRA2475-1 mapping public UAP reports across the United States, which cites Kocher's 1968 draft directly. Burlison has named RAND explicitly as a target of his contractor investigation. Matheny's own trajectory - IARPA to OSTP to RAND - is another instance of the same revolving door: the person who decides what a nominally independent FFRDC publishes about anomalous phenomena previously ran the Intelligence Community's research portfolio.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 2,
 "D": 2,
-"band": "research",
 "claims": [
 {
 "id": "c-2874240153",
@@ -55,7 +54,6 @@
 "edgeLabel": "Subject of the analysis: the 17 December 1977 molten mass",
 "family": "documents",
 "id": "council-bluffs-1977",
-"l0": false,
 "label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
 "note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
 "predicate": "concerns",
@@ -87,7 +85,6 @@
 "edgeLabel": "Establishes the standard the government's own holdings have never met",
 "family": "analysis",
 "id": "d-materials",
-"l0": false,
 "label": "Materials and custody analysis",
 "note": "A published sample, a published method, a published elimination of alternatives, and a stated residual. No government-held UAP material has ever been subjected to anything comparable in public.",
 "predicate": "exemplifies",
@@ -119,7 +116,6 @@
 "edgeLabel": "Senior author of the first peer-reviewed UAP materials analysis",
 "family": "documents",
 "id": "garry-nolan",
-"l0": false,
 "label": "Garry Nolan",
 "note": "Progress in Aerospace Sciences 128:100788, applying SIMS and MIBI at 200 nm lateral resolution to the Council Bluffs material.",
 "predicate": "wrote",
@@ -146,7 +142,6 @@
 "edgeLabel": "Co-author and source of the sample and its case file",
 "family": "documents",
 "id": "jacques-vallee",
-"l0": false,
 "label": "Jacques F. Vallee",
 "note": "Vallee supplied both the physical material and the 45-year documentary case record - newspaper reports, police photographs, fire-department accounts - that makes the analysis interpretable.",
 "predicate": "wrote",
@@ -178,7 +173,6 @@
 "edgeLabel": "NASA Ames aerospace engineer supplying the exclusion arguments",
 "family": "documents",
 "id": "larry-lemke",
-"l0": false,
 "label": "Larry G. Lemke",
 "note": "Lemke's engineering judgement underpins the rejection of reentry-debris and aircraft-component hypotheses on thermal-history and materials-selection grounds.",
 "predicate": "wrote",
@@ -210,7 +204,6 @@
 "edgeLabel": "Instrument operator and third author",
 "family": "documents",
 "id": "sizun-jiang",
-"l0": false,
 "label": "Sizun Jiang",
 "note": "Jiang, then of the Nolan laboratory, ran the multiplexed ion beam imaging that produced the incomplete-mixing result.",
 "predicate": "wrote",
@@ -237,7 +230,6 @@
 "edgeLabel": "Sol Briefing No. 3 is the authoritative public exposition of the paper",
 "family": "documents",
 "id": "sol-foundation",
-"l0": true,
 "label": "The Sol Foundation",
 "note": "The April 2026 briefing sets out the witness record, the 1978 initial identification, the SIMS/MIBI methodology and each hypothesis-elimination with its physical reason - work no journalism had done.",
 "predicate": "cites",
@@ -264,7 +256,6 @@
 "edgeLabel": "Analysis performed with MIBI, a Stanford-developed instrument",
 "family": "custody",
 "id": "stanford-nolan-lab",
-"l0": false,
 "label": "Nolan Laboratory, Stanford University School of Medicine",
 "note": "Multiplexed ion beam imaging, developed by Angelo, Bendall and Nolan for tissue biology, resolved the sample at 200 nm laterally and 5 nm in depth - the technique's first application to alleged UAP material.",
 "predicate": "analysed_material",
@@ -400,53 +391,8 @@
 },
 "hl": null,
 "id": "paper-nolan-vallee-2022",
-"l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "locLabel": null,
-"members": [
-{
-"cls": "event",
-"id": "council-bluffs-1977",
-"label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
-"tier": "C"
-},
-{
-"cls": "domain",
-"id": "d-materials",
-"label": "Materials and custody analysis",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "garry-nolan",
-"label": "Garry Nolan",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "jacques-vallee",
-"label": "Jacques F. Vallee",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "larry-lemke",
-"label": "Larry G. Lemke",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "sizun-jiang",
-"label": "Sizun Jiang",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "stanford-nolan-lab",
-"label": "Nolan Laboratory, Stanford University School of Medicine",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "Nolan & Vallee 2022, Prog Aero Sci",
 "sourceFiles": [

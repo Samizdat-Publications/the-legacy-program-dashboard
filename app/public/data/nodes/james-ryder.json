@@ -6,7 +6,6 @@
 "Lockheed Martin Corporation"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2025-09-09",
@@ -44,7 +43,6 @@
 "edgeLabel": "Knapp named Ryder to Congress as a program gatekeeper at Lockheed",
 "family": "testimony",
 "id": "george-knapp",
-"l0": false,
 "label": "George Knapp",
 "note": "Asked by Rep. Nick Begich to name specific gatekeepers, Knapp answered 'Well, one of them was named Dr. James Ryder at Lockheed.' This is the only naming of a private individual inside a prime contractor in any congressional UAP record.",
 "predicate": "made_claims_about",
@@ -71,7 +69,6 @@
 "edgeLabel": "Ryder is identified in sworn testimony as a Lockheed Martin figure",
 "family": "testimony",
 "id": "lockheed-martin",
-"l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "The only public source for the association is Knapp's sworn testimony; no corporate record confirming Ryder's role, dates or portfolio has been located, and neither Ryder nor Lockheed Martin has publicly responded.",
 "predicate": "alleged_tie",
@@ -108,11 +105,9 @@
 "hl": null,
 "id": "james-ryder",
 "instId": "lockheed-martin",
-"l0": false,
 "label": "Dr. James Ryder",
 "loc": "Palo Alto, CA",
 "locId": "l-plant-42",
-"members": null,
 "narrative": "Ryder exists on this board for one reason: on 9 September 2025 Rep. Nick Begich asked George Knapp to name specific gatekeepers 'within the root cell of the UAP SAP federation,' and Knapp answered, under oath, 'Well, one of them was named Dr. James Ryder at Lockheed.' That single sentence is the only time a private individual inside a prime contractor has been named to a congressional committee as a custodian of the alleged program. Knapp immediately qualified it - 'I do not fault these contractors for doing what they were asked to do by our government. They are supposed to lie if people ask about it' - and attributed the original tasking to the intelligence agencies, CIA primarily. The board records the naming precisely because it is on the record and because it is testable: Lockheed Martin's research organisation is a matter of public corporate record, and a Congress that wanted to resolve this could resolve it with a letter. What the board does not do is assert anything about Ryder beyond the fact of the naming. There is no released document, contract, complaint or corporate statement connecting him to recovered material, and no response from him or from Lockheed Martin has been published. This entry is a placeholder for an investigative thread, not a finding.",
 "photoCredit": null,
 "sequenceChain": [],

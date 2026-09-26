@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-57379a933e",
@@ -41,7 +40,6 @@
 "edgeLabel": "Lead author of the 34-author UAP review",
 "family": "documents",
 "id": "kevin-knuth",
-"l0": false,
 "label": "Kevin H. Knuth",
 "note": "UAlbany: 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world.' Knuth, quoted in the same release: 'Given the longstanding, global nature of the UAP/UFO question, the air safety and security implications of their presence, and the potentially profound importance of their nature, studying and understanding these phenomena is of great and urgent importance.'",
 "predicate": "wrote",
@@ -68,7 +66,6 @@
 "edgeLabel": "Co-author of the 34-author UAP review",
 "family": "documents",
 "id": "matthew-szydagis",
-"l0": false,
 "label": "Matthew Szydagis",
 "note": "Named by the University as co-writer alongside Knuth and more than thirty other researchers.",
 "predicate": "wrote",
@@ -95,7 +92,6 @@
 "edgeLabel": "Knuth lead-authored the 34-author UAP review from his UAlbany post; Szydagis co-authored",
 "family": "organisation",
 "id": "university-at-albany",
-"l0": false,
 "label": "University at Albany (SUNY), Department of Physics",
 "note": "Published in the same Progress in Aerospace Sciences special edition as the UAPx field results. The UAlbany release states 'Knuth is lead author of the article, which was co-written by Szydagis and more than 30 other researchers from around the world'; SCU's June 2025 press release gives the count as thirty-four authors and the DOI as 10.1016/j.paerosci.2025.101097.",
 "predicate": "produced",
@@ -134,10 +130,8 @@
 },
 "hl": null,
 "id": "paper-knuth-2025-new-science",
-"l0": false,
 "label": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Knuth et al. (2025), 'The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)', Progress in Aerospace Sciences",
 "sourceFiles": [

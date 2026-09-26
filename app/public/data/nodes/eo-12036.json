@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-6a766a4260",
@@ -89,7 +88,6 @@
 "edgeLabel": "Routes every special activity to the President through an NSC committee",
 "family": "law",
 "id": "national-security-council",
-"l0": false,
 "label": "National Security Council",
 "note": "Section 1-302: 'The SCC shall consider and submit to the President a policy recommendation, including all dissents, on each special activity.' Section 4-212 defines a special activity by the concealment of the United States role, not by its content.",
 "predicate": "mandated",
@@ -116,7 +114,6 @@
 "edgeLabel": "Fully and currently informed, and expressly not a condition precedent",
 "family": "law",
 "id": "oversight-congress",
-"l0": true,
 "label": "Congressional oversight of special access programs",
 "note": "Section 3-401 requires the congressional intelligence committees to be kept 'fully and currently informed' while stating that this is 'not... a condition precedent'. Notification is owed; permission is not.",
 "predicate": "governs",
@@ -150,10 +147,8 @@
 },
 "hl": null,
 "id": "eo-12036",
-"l0": false,
 "label": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Executive Order 12036 - United States Intelligence Activities (24 January 1978)",
 "sourceFiles": [

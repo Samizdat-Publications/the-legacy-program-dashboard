@@ -7,7 +7,6 @@
 "Committee on Oversight and Accountability, Ranking Member (2023-2024)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-07-26",
@@ -45,7 +44,6 @@
 "edgeLabel": "Ranking Member of the full committee at the time of the founding hearing",
 "family": "role",
 "id": "house-oversight-committee",
-"l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "Raskin took two full rounds of questioning at the 26 July 2023 subcommittee hearing.",
 "predicate": "member_of",
@@ -81,11 +79,9 @@
 "hl": null,
 "id": "jamie-raskin",
 "instId": "house-oversight-committee",
-"l0": false,
 "label": "Jamin Ben Raskin",
 "loc": "Takoma Park, MD",
 "locId": null,
-"members": null,
 "narrative": "Raskin was Ranking Member of the full Committee on Oversight and Accountability when the 26 July 2023 hearing was held, and he took two full rounds of questioning across all three witnesses - unusual for a full-committee ranking member at a subcommittee hearing and a signal that the minority treated the proceeding as serious. His questioning of Grusch drew the exchange Luna then followed up on regarding threats and fear for personal safety. A constitutional law professor, Raskin's participation supplied the institutional weight that let the hearing be read as an oversight proceeding rather than a curiosity; his presence at the table is why the 2023 record is admissible as a bipartisan document.",
 "photoCredit": null,
 "sequenceChain": [],

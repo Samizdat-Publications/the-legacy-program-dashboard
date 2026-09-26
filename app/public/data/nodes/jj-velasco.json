@@ -8,7 +8,6 @@
 "cometa"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1984",
@@ -93,7 +92,6 @@
 "edgeLabel": "serving head of SEPRA contributed to the report",
 "family": "testimony",
 "id": "cometa",
-"l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed.",
 "predicate": "testified_at",
@@ -131,11 +129,9 @@
 "hl": null,
 "id": "jj-velasco",
 "instId": "cnes",
-"l0": false,
 "label": "Jean-Jacques Velasco",
 "loc": "Toulouse, France",
 "locId": "l-toulouse",
-"members": null,
 "narrative": "Jean-Jacques Velasco ran France's official UAP office for twenty years - as director of GEPAN from 1984 to 1988 and then of its successor SEPRA from 1988 to 2004 - which makes him the longest-serving government UAP official in the Western record and the direct counterpart of the American figures on this board. He held the file when the Gendarmerie Nationale was routing sighting reports to CNES by teletype and when CNES could deploy laboratory resources to physical-trace cases, of which the 1981 Trans-en-Provence landing case is the best documented. He was a contributor to COMETA, named in Letty's foreword as 'Jean-Jacques Velasco, Head of SEPRA at CNES', and Wikipedia's account of the report's delivery states that it was Velasco personally who handed the document to Prime Minister Lionel Jospin. He is therefore the hinge between the official French organ and the unofficial general officers' committee: the serving head of the state UAP service participated in a private report that recommended boosting his own service's resources and pressing Washington diplomatically.",
 "photoCredit": null,
 "sequenceChain": [],

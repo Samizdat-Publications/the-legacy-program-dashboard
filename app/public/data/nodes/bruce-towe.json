@@ -4,7 +4,6 @@
 "D": 3,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -64,7 +63,6 @@
 "edgeLabel": "authored by Bruce Towe",
 "family": "documents",
 "id": "dird-biosensors-and-biomems-a-survey-of",
-"l0": false,
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "Attribution rests on the DIA list of 38 AATIP products transmitted to the Senate Armed Services Committee on 9 January 2018, entry 6: 'Biosensors and BioMEMS, Dr Bruce Towe, Univ of Arizona.' The released PDF's own author block is redacted under FOIA exemption (b)(5), so the DIA list is the sole authority for authorship. Towe also wrote the 'Biomaterials' DIRD (entry 17).",
 "predicate": "wrote",
@@ -118,11 +116,9 @@
 "hl": null,
 "id": "bruce-towe",
 "instId": null,
-"l0": false,
 "label": "Bruce C. Towe",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Towe is one of only four authors to write more than one DIRD, and the only one whose pair sits entirely on the biological side of the survey. The DIA list to the Senate Armed Services Committee names him at entry 6, 'Biosensors and BioMEMS', and entry 17, 'Biomaterials', both attributed to 'Univ of Arizona'. The released 'Biosensors and BioMEMS: A Survey of the Present Field' carries DIA-08-1003-020, publication date 31 March 2010 and an Intelligence Cut-Off Date of 1 December 2009. There is a documentable discrepancy worth flagging rather than smoothing: every located institutional record for Bruce Towe places him at Arizona State University's School of Biological and Health Systems Engineering, not the University of Arizona. The DIA list appears to have recorded the affiliation loosely; both the KLAS transcription and the 9 January 2018 letter carry the same 'Univ of Arizona' wording, so the error, if it is one, originates upstream in DIA's own list rather than in transcription. His documented field - implantable microelectronic biosensors, neurostimulation, brain-machine electrode fabrication - maps precisely onto the DIRD's contents, which run through brain-implanted BioMEMS neuroelectrodes, microelectrode array fabrication, retinal devices and therapeutic neurostimulation. Towe's papers matter to the board because they anchor the biomedical leg of AAWSAP alongside Kit Green's 'Field Effects on Biological Tissues' and Richard Genik's three neuro-interface deliverables. Puthoff's account of the Broad Area Announcement lists 'human effects' among the twelve threat areas DIA specified. Read together, the Towe, Green and Genik papers are the programme asking two questions at once: what does proximity to the phenomenon do to a human body, and what would a human-machine interface capable of flying such a vehicle have to look like.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -7,7 +7,6 @@
 "Lockheed Advanced Development Projects / Skunk Works, Director (1975-1991)"
 ],
 "age": 68,
-"band": null,
 "chronology": [
 {
 "date": "1975",
@@ -73,7 +72,6 @@
 "edgeLabel": "Rich is the most-cited and least-documented source for the Lockheed custody allegation",
 "family": "testimony",
 "id": "lockheed-martin",
-"l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Reasoning: multiple independent attendees have recounted variants of his 1993 remark about star travel locked in black projects, but no recording, transcript or letter facsimile exists in any archive. The board records the attribution, not the fact.",
 "predicate": "made_claims_about",
@@ -105,7 +103,6 @@
 "edgeLabel": "Rich directed Skunk Works through the F-117 era and into the RQ-170 lineage",
 "family": "role",
 "id": "lockheed-skunk-works",
-"l0": true,
 "label": "Lockheed Martin Advanced Development Programs (Skunk Works)",
 "note": "His memoir is the primary document on how unacknowledged programs were compartmented, staffed and funded inside the corporation.",
 "predicate": "led",
@@ -143,11 +140,9 @@
 "hl": null,
 "id": "ben-rich",
 "instId": "lockheed-skunk-works",
-"l0": false,
 "label": "Ben R. Rich",
 "loc": "Palmdale, CA",
 "locId": "l-plant-42",
-"members": null,
 "narrative": "Rich is the single most-cited contractor figure in the custody allegation, and the most poorly sourced - which is exactly why he needs a disciplined entry. His documented record is not in dispute: he succeeded Kelly Johnson as head of Lockheed's Advanced Development Projects in 1975, ran the F-117 stealth fighter program to operational capability, held the deepest black-program access available to a private citizen in the United States, and retired in 1991. His 1994 memoir with Leo Janos, written after retirement and cleared for publication, is a first-person account of how unacknowledged special access programs were actually run at Burbank and Palmdale - the physical security, the compartmented staffing, the funding lines invisible to the aircraft's own users. That book is the primary document; it is also the reason his later remarks carry weight with researchers. The remarks themselves - the reported 1993 UCLA alumni-association talk in which he is said to have stated that 'we already have the means to travel among the stars, but these technologies are locked up in black projects,' and the reported private letters to model-maker John Andrews - survive only through secondhand recollection by attendees and correspondents. No recording, transcript, or letter facsimile has been produced in a verifiable archive. The board records the attribution as an attribution, not as a fact: what Rich unquestionably represents is that the man with the most complete inventory of American black aerospace in the twentieth century spent his last years being asked this question, and that Lockheed has never released his program records. He died of cancer on 5 January 1995.",
 "photoCredit": null,
 "sequenceChain": [],

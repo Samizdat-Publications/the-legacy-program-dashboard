@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-ee494d18cc",
@@ -75,7 +74,6 @@
 "edgeLabel": "Reporter and author of the broadcasts",
 "family": "documents",
 "id": "george-knapp",
-"l0": false,
 "label": "George Knapp",
 "note": "MAPPED FROM AN ORIGINAL INTENT OF 'custody'. Authorship of a document is typed research under the board's ruling of 18 September 2026.",
 "predicate": "wrote",
@@ -102,7 +100,6 @@
 "edgeLabel": "Its own broadcasts",
 "family": "documents",
 "id": "klas-tv",
-"l0": false,
 "label": "KLAS-TV (Las Vegas)",
 "note": "The station is the publisher. Its own retrospectives returned HTTP 403 to this board, so nothing here comes from KLAS itself.",
 "predicate": "published",
@@ -129,7 +126,6 @@
 "edgeLabel": "The original broadcast artefact of the claim",
 "family": "testimony",
 "id": "s-4-papoose-lake",
-"l0": false,
 "label": "S-4 / Papoose Lake, Nevada",
 "note": "Tier 3 on this board for one reason only: NOT ONE OF THESE BROADCASTS WAS OPENED. The dates on this edge are from a secondary chronology and should be replaced when an artefact is reached.",
 "predicate": "brought_to_record",
@@ -163,10 +159,8 @@
 },
 "hl": null,
 "id": "klas-lazar-broadcasts-1989",
-"l0": false,
 "label": "The KLAS-TV Lazar broadcasts, 1989",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "The KLAS-TV Lazar broadcasts, 1989",
 "sourceFiles": [

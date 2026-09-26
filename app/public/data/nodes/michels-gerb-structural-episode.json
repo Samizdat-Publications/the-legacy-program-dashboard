@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "research",
 "claims": [
 {
 "id": "c-2e97952b57",
@@ -55,7 +54,6 @@
 "edgeLabel": "Dedicated chapter 'The Office of Global Access' at 43:04",
 "family": "documents",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "The Office of Global Access, an element associated with CIA's Directorate of Science and Technology, is given a named chapter; Gerb separately links CIA OGA to NRO, MITRE and the Executive branch in his NRO investigation.",
 "predicate": "concerns",
@@ -87,7 +85,6 @@
 "edgeLabel": "the most detailed structural reconstruction in circulation, published on a YouTube channel",
 "family": "analysis",
 "id": "d-media",
-"l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "A three-hour-plus American Alchemy episode published 11 January 2026 in which UAP Gerb walks Jesse Michels through air force bases, deep underground facilities and federally funded research organisations alleged to be involved in retrieval and exploitation. That the fullest available reconstruction exists as a podcast episode rather than a published investigation is the domain's defining fact.",
 "predicate": "exemplifies",
@@ -119,7 +116,6 @@
 "edgeLabel": "Dedicated chapter 'The DOE NEST' at 1:22:01",
 "family": "documents",
 "id": "doe",
-"l0": true,
 "label": "United States Department of Energy",
 "note": "The episode places the Department of Energy's Nuclear Emergency Support Team inside the crash-retrieval architecture, consistent with the AEC-custody thesis.",
 "predicate": "concerns",
@@ -146,7 +142,6 @@
 "edgeLabel": "Michels produced and hosted the structural episode",
 "family": "documents",
 "id": "jesse-michels",
-"l0": false,
 "label": "Jesse Michels",
 "note": "Michels is host and publisher of the 11 January 2026 episode whose description states the effort is 'not one program' but 'a layered, compartmentalized system that grew out of the Manhattan Project, the Atomic Energy Commission, and Cold War intelligence structures.'",
 "predicate": "published",
@@ -173,7 +168,6 @@
 "edgeLabel": "The episode's thesis is the Manhattan Project 2.0 architecture",
 "family": "documents",
 "id": "manhattan-project-2",
-"l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "note": "The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series.",
 "predicate": "concerns",
@@ -210,7 +204,6 @@
 "edgeLabel": "Dedicated chapter 'The Role of MITRE' at 51:28",
 "family": "documents",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "MITRE is given a named chapter inside the structural episode, seven months before Gerb published his full MITRE investigation - establishing that MITRE was already central to the model in January 2026.",
 "predicate": "concerns",
@@ -237,7 +230,6 @@
 "edgeLabel": "Gerb is the sole interviewee and source of the structural model",
 "family": "testimony",
 "id": "uap-gerb",
-"l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "The episode is a single-guest exposition in which Gerb lays out the contractor pyramid, the alleged modern control group, the Office of Global Access, MITRE's role, the DOE NEST and the 1954 Atomic Energy Agreement as the architecture of the effort.",
 "predicate": "witnessed",
@@ -371,29 +363,8 @@
 },
 "hl": null,
 "id": "michels-gerb-structural-episode",
-"l0": true,
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-media",
-"label": "Independent media as the disclosure substrate",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jesse-michels",
-"label": "Jesse Michels",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "uap-gerb",
-"label": "'UAP Gerb' (Sam)",
-"tier": "A"
-}
-],
 "openQuestions": [],
 "short": "'The Pentagon's UFO Program Is Real'",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": "research",
 "claims": [
 {
 "id": "c-8d6a484b79",
@@ -97,7 +96,6 @@
 "edgeLabel": "Belgian imagery inside the Condign study, in Volume 2 rather than Volume 3",
 "family": "organisation",
 "id": "belgian-af-f16-intercept-1990",
-"l0": false,
 "label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
 "note": "Volume 2's figure list carries a video frame captioned Belgium 31 March 1990 and a comparative shape figure for the UK, Russia and Belgium. Volume 3 chapter 4's country sections are the Former Soviet Union, China, Spain, and the United States and Canada, and do not cover Belgium.",
 "predicate": "outside_of",
@@ -124,7 +122,6 @@
 "edgeLabel": "Volume 3 holds the material excluded from the RESTRICTED summary",
 "family": "organisation",
 "id": "doc-condign-report",
-"l0": true,
 "label": "Unidentified Aerial Phenomena in the UK Air Defence Region (DIS Scientific & Technical Memorandum 55/2/00)",
 "note": "Volume 3's own opening states that it 'primarily deals with sensitive matters associated with the UAP study which could not be placed in the RESTRICTED Executive Summary'.",
 "predicate": "part_of",
@@ -151,7 +148,6 @@
 "edgeLabel": "assessed the Soviet programme as exploitation-driven",
 "family": "oversight",
 "id": "setka-program",
-"l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Condign Volume 3 chapter 4 states that Soviet study of UAP 'may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas'.",
 "predicate": "investigated",
@@ -178,7 +174,6 @@
 "edgeLabel": "Condign's Former Soviet Union chapter names, dates and assesses SOYUZUFOTSENTR",
 "family": "documents",
 "id": "soyuzufotsentr",
-"l0": false,
 "label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
 "note": "This is the reason the node exists at all. SOYUZUFOTSENTR reaches this board not through Russian ufology literature but through a UK SECRET UK EYES ONLY Defence Intelligence Staff assessment, which places the centre inside a paragraph opening 'It[s] clear that the Former Soviet Union has taken the study of UAPs seriously and th[a]t this may well be related to a programme of understanding and exploiting certain UAP-related natural phenomena, such as plasmas.' The same chapter runs on to Popovich's 1990 All Union Ufology Association at the Air Force Academy, General of Aviation Igor Maltsev's 1990 release of pilot reports, Vsevolod Troitsky of the Russian Academy of Sciences chairing a Commission for the Study of Anomalous Propagation and Phenomena, and Sokolov's account of Soviet aircraft incidents. Condign treats the public centre and the state effort as one national picture. Verified line by line against the released OCR.",
 "predicate": "concerns",
@@ -205,7 +200,6 @@
 "edgeLabel": "records the Spanish release and DI55's non-access",
 "family": "documents",
 "id": "spain-mod-ufo-files",
-"l0": false,
 "label": "Spanish Ministry of Defence UFO file declassification",
 "note": "'Sixty six files have reportedly been released to the public. DI 55 Staff have not seen these files.'",
 "predicate": "cites",
@@ -232,7 +226,6 @@
 "edgeLabel": "records a flat denial of any US/Canada exchange, then redacts four lines",
 "family": "documents",
 "id": "uk-mod",
-"l0": false,
 "label": "United Kingdom Ministry of Defence",
 "note": "Volume 3 para 12: 'There is no intelligence exchange or access or collaboration of any sort on the topic of UFOs' - followed by approximately four redacted lines.",
 "predicate": "concerns",
@@ -259,7 +252,6 @@
 "edgeLabel": "names Azhazha as head of SOYUZUFOTSENTR",
 "family": "documents",
 "id": "vladimir-azhazha",
-"l0": false,
 "label": "Vladimir Georgievich Azhazha",
 "note": "Condign identifies 'V.G. AZAHAZHA (or AZHAZHA) an eminent researcher and former naval submariner' as head of the 1990 inter-industry ufology research centre.",
 "predicate": "concerns",
@@ -427,43 +419,10 @@
 },
 "hl": null,
 "id": "doc-condign-vol3",
-"l0": true,
 "label": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "locLabel": null,
-"members": [
-{
-"cls": "event",
-"id": "belgian-af-f16-intercept-1990",
-"label": "Belgian Air Force F-16 intercept and the 1989-90 Belgian wave",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "soyuzufotsentr",
-"label": "SOYUZUFOTSENTR - USSR Inter-Industry Ufology Research Centre",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "spain-mod-ufo-files",
-"label": "Spanish Ministry of Defence UFO file declassification",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "uk-mod",
-"label": "United Kingdom Ministry of Defence",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "vladimir-azhazha",
-"label": "Vladimir Georgievich Azhazha",
-"tier": "C"
-}
-],
 "openQuestions": [],
-"short": "Project Condign Volume 3",
+"short": "Project Condign Volume 3 - Potential for Exploitation of UAP-Associated Effects / UAP Work in Other Countries",
 "sourceFiles": [
 "w2-international"
 ],

@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-c7b6314f22",
@@ -75,7 +74,6 @@
 "edgeLabel": "Photographed with three named Air Force test pilots during the Bell X-2 programme",
 "family": "role",
 "id": "usaf",
-"l0": true,
 "label": "United States Air Force",
 "note": "The 22 November 1955 article photographs Lawrence D. Bell with three named Air Force test pilots during the Bell X-2 programme.",
 "predicate": "worked_with",
@@ -109,10 +107,8 @@
 },
 "hl": null,
 "id": "bell-aircraft-corporation",
-"l0": false,
 "label": "Bell Aircraft Corporation",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Bell Aircraft Corporation",
 "sourceFiles": [

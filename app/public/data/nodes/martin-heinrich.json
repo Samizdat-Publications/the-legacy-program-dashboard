@@ -8,7 +8,6 @@
 "Senate Armed Services Committee"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-07-13",
@@ -93,7 +92,6 @@
 "edgeLabel": "Original cosponsor, 13 July 2023",
 "family": "law",
 "id": "samdt-797",
-"l0": true,
 "label": "S.Amdt. 797 to S. 2226 (Schumer-Rounds UAP Disclosure Act amendment)",
 "note": "Heinrich cosponsored while sitting on SSCI and representing the state containing Kirtland, Sandia, Los Alamos and Roswell.",
 "predicate": "sponsored_law",
@@ -120,7 +118,6 @@
 "edgeLabel": "cosponsor",
 "family": "law",
 "id": "uapda-2023",
-"l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Named in the Congressional Record entry for SA 797.",
 "predicate": "sponsored_law",
@@ -158,11 +155,9 @@
 "hl": null,
 "id": "martin-heinrich",
 "instId": "us-senate",
-"l0": false,
 "label": "Martin T. Heinrich",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Heinrich is the quiet third intelligence-committee signature on the UAPDA. A member of the Senate Select Committee on Intelligence and, from 2025, its Vice Chairman, he was an original cosponsor of S.Amdt. 797 on 13 July 2023 and again of S.Amdt. 2609/2610 territory in July 2024, when Rounds filed alongside him on the FY2025 NDAA. New Mexico is not incidental to his position: Kirtland Air Force Base, Sandia, Los Alamos and the Roswell debris field are all in his state, and the FY2024 UAPDA's definition of a 'unidentified anomalous phenomena record' expressly reaches the Department of Energy 'and its progenitors, the Manhattan Project, the Atomic Energy Commission, and the Energy Research and Development Administration.' The Senate findings his amendment carried single out the Atomic Energy Act of 1954 and an 'over-broad interpretation of transclassified foreign nuclear information' as the mechanisms preventing disclosure — a New Mexico problem stated in statute.",
 "photoCredit": null,
 "sequenceChain": [],

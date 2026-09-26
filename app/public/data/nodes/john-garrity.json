@@ -6,7 +6,6 @@
 "Office of the Under Secretary of Defense for Intelligence"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-10-03",
@@ -46,7 +45,6 @@
 "edgeLabel": "Submitted to his supervising official, hand-delivered",
 "family": "oversight",
 "id": "elizondo-resignation-letter-1",
-"l0": false,
 "label": "Elizondo Resignation Letter #1, 3 October 2017",
 "note": "Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels; The Black Vault identifies the recipient as John Garrity.",
 "predicate": "reports_to",
@@ -82,11 +80,9 @@
 "hl": null,
 "id": "john-garrity",
 "instId": "ousdi",
-"l0": false,
 "label": "John Garrity",
 "loc": "Arlington, VA",
 "locId": "l-pentagon",
-"members": null,
 "narrative": "Garrity is identified as the DoD official to whom Elizondo's first resignation letter of 3 October 2017 was submitted. The letter, released in FOIA 18-F-0324, is a short formal note: 'Effective 4 October 2017, I humbly submit my resignation as Director, National Programs Special Management Staff... I respectfully request I receive a deferred retirement.' Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels. Garrity matters because the letter he received is the single cleanest documentary proof of Elizondo's actual title and departure date, and it is that title the Department has never disputed even while disputing everything else.",
 "photoCredit": null,
 "sequenceChain": [],

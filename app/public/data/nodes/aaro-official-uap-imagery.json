@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-58e0a23795",
@@ -69,7 +68,6 @@
 "edgeLabel": "AARO's own small video release channel, Dec 2025 - Jan 2026",
 "family": "organisation",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Seven numbered PR items released across five weeks, all short European clips, one resolved as birds - the office's entire video output before PURSUE.",
 "predicate": "ran",
@@ -96,7 +94,6 @@
 "edgeLabel": "Video releases began five weeks after testimony that AARO was withholding video",
 "family": "place-time",
 "id": "hearing-2025-09-09",
-"l0": true,
 "label": "House Oversight Task Force on the Declassification of Federal Secrets hearing, 9 September 2025 - 'Restoring Public Trust Through UAP Transparency and Whistleblower Protection'",
 "note": "The timing and the scale together read as minimum compliance: seven short clips in response to sworn testimony that the office holds an unreleased video archive.",
 "predicate": "responded_to",
@@ -128,7 +125,6 @@
 "edgeLabel": "AARO's channel stops; the Secretary's channel starts",
 "family": "organisation",
 "id": "pursue-releases",
-"l0": true,
 "label": "PURSUE - Presidential Unsealing and Reporting System for UAP Encounters",
 "note": "AARO's last imagery release is 6 January 2026; the Department's first tranche is 8 May 2026 with 29 videos, and AARO published nothing further.",
 "predicate": "succeeded",
@@ -176,10 +172,8 @@
 },
 "hl": null,
 "id": "aaro-official-uap-imagery",
-"l0": false,
 "label": "AARO Official UAP Imagery releases (PR series)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "AARO Official UAP Imagery releases (PR series)",
 "sourceFiles": [

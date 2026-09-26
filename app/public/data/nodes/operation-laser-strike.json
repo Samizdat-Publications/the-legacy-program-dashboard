@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-6b27b3bc4b",
@@ -99,7 +98,6 @@
 "edgeLabel": "Named the operation as the deployment framing for the Weygandt Peru account",
 "family": "testimony",
 "id": "uap-gerb",
-"l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Gerb is the investigator who brings Laser Strike to this corpus as the deployment framing for the Weygandt Peru account; the operation's own record says nothing about it.",
 "predicate": "made_claims_about",
@@ -133,10 +131,8 @@
 },
 "hl": null,
 "id": "operation-laser-strike",
-"l0": false,
 "label": "Operation Laser Strike",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Operation Laser Strike",
 "sourceFiles": [

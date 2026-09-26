@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-1560e620c1",
@@ -108,7 +107,6 @@
 "edgeLabel": "Excludes Restricted Data from the executive classification system",
 "family": "organisation",
 "id": "atomic-energy-act-1954",
-"l0": false,
 "label": "Atomic Energy Act of 1954 (Pub. L. 83-703, 68 Stat. 919)",
 "note": "Section 13 leaves Atomic Energy Act Restricted Data outside the order's reach. This is the seam between the two regimes: one body of information in United States law is classified by statute and not by executive order, and the executive order says so itself. Note the order predates the 1954 Act by ten months and the exclusion runs to the Atomic Energy Act as it then stood.",
 "predicate": "outside_of",
@@ -140,7 +138,6 @@
 "edgeLabel": "Fixes the three categories and takes classification authority away from 28 agencies",
 "family": "analysis",
 "id": "d-secrecy",
-"l0": false,
 "label": "Secrecy Law & Classification",
 "note": "Section 1 bars any designation other than Top Secret, Secret and Confidential 'except as expressly provided by statute'. Section 2 provides that agencies without direct national-defense responsibility have no original classification authority at all, and the attached memorandum names 28 of them.",
 "predicate": "exemplifies",
@@ -167,7 +164,6 @@
 "edgeLabel": "Supersedes the 1953 order and its six amendments",
 "family": "organisation",
 "id": "eo-11652",
-"l0": false,
 "label": "Executive Order 11652 - Classification and Declassification of National Security Information and Material (8 March 1972)",
 "note": "Section 14 is headed 'Revocation of Executive Order No. 10501' but operatively SUPERSEDES it, together with EOs 10816, 10901, 10964, 10985, 11097 and section 1(a) of 11382. NARA's disposition table records the relationship as 'Revokes: EO 10501'; the order's own verb is supersedes.",
 "predicate": "succeeded",
@@ -206,10 +202,8 @@
 },
 "hl": null,
 "id": "eo-10501",
-"l0": false,
 "label": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Executive Order 10501 - Safeguarding Official Information in the Interests of the Defense of the United States (5 November 1953)",
 "sourceFiles": [

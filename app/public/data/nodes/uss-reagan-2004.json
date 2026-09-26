@@ -2,7 +2,6 @@
 "A": 0,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-a1360b1e48",
@@ -49,7 +48,6 @@
 "edgeLabel": "Federal records destroyed at the point of creation",
 "family": "denial",
 "id": "dod",
-"l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "A Boatswain's Mate of the Watch says he was ordered to 'rip it out' of the logbook; another witness says he watched an officer order subordinates to remove pages. No Navy accounting of this has ever been made.",
 "predicate": "omitted",
@@ -76,7 +74,6 @@
 "edgeLabel": "Same year, opposite ocean, same record-destruction behaviour",
 "family": "analysis",
 "id": "nimitz-2004",
-"l0": true,
 "label": "USS Nimitz Carrier Strike Group Encounters, 10-16 November 2004",
 "note": "Reagan watchstanders describe deck log pages being torn out on a senior officer's order; Princeton crew describe recording media removed. Deck logs are federal records.",
 "predicate": "parallels",
@@ -140,10 +137,8 @@
 },
 "hl": null,
 "id": "uss-reagan-2004",
-"l0": false,
 "label": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "USS Ronald Reagan Encounter and Logbook Tampering (2003-2004)",
 "sourceFiles": [

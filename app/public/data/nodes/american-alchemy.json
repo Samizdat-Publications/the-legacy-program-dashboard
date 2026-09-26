@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-3aa927f4ec",
@@ -41,7 +40,6 @@
 "edgeLabel": "Creator and host",
 "family": "role",
 "id": "jesse-michels",
-"l0": false,
 "label": "Jesse Michels",
 "note": "American Alchemy is Michels' series and the venue for every episode in this domain.",
 "predicate": "led",
@@ -75,10 +73,8 @@
 },
 "hl": null,
 "id": "american-alchemy",
-"l0": false,
 "label": "American Alchemy",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "American Alchemy",
 "sourceFiles": [

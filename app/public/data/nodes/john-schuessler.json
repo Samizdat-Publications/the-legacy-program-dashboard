@@ -8,7 +8,6 @@
 "MUFON, International Director 2000-2006"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1981-02",
@@ -89,7 +88,6 @@
 "edgeLabel": "Investigator of record from February 1981",
 "family": "oversight",
 "id": "betty-cash",
-"l0": false,
 "label": "Betty Cash",
 "note": "Schuessler and Project VISIT taped the hospital interview in early February 1981, conducted the on-site investigation on 28 February 1981 and filed a 35-page report with MUFON on 4 March 1981; he published the case file in 1998.",
 "predicate": "investigated",
@@ -116,7 +114,6 @@
 "edgeLabel": "MUFON International Director 2000-2006 and case investigator",
 "family": "role",
 "id": "mufon",
-"l0": false,
 "label": "Mutual UFO Network (MUFON)",
 "note": "Schuessler investigated Cash-Landrum for MUFON from 1981 and served as its International Director from 2000 to 2006.",
 "predicate": "led",
@@ -154,11 +151,9 @@
 "hl": null,
 "id": "john-schuessler",
 "instId": "mufon",
-"l0": false,
 "label": "John F. Schuessler",
 "loc": "Colorado",
 "locId": null,
-"members": null,
 "narrative": "John F. Schuessler is the reason the Cash-Landrum case has a documentary record at all. An aerospace engineer working on NASA manned spaceflight programmes through McDonnell Douglas, he was the person Vickie Landrum was steered to when she telephoned NASA in early 1981, and with his group Project VISIT he began investigating within weeks: a taped interview at Parkway Hospital in early February 1981, an on-site investigation on 28 February 1981, and a 35-page preliminary report to MUFON dated 4 March 1981. He then spent seventeen years accumulating the witnesses' medical records, radiological survey results, physician correspondence and legal papers, publishing them in 'The Cash-Landrum UFO Incident' (1998) - which is why sceptics such as Gary Posner and Brian Dunning have been able to argue against the case using Schuessler's own printed medical documentation. He served as MUFON International Director from 2000 to 2006. Schuessler is the type specimen of the credentialled contractor-engineer investigator, the same category as Robert M. Wood and Stanton Friedman, and his significance for this board is that he built the only major UFO case file assembled to something approaching a medico-legal standard - and that the case still failed in federal court, on evidence.",
 "photoCredit": null,
 "sequenceChain": [],

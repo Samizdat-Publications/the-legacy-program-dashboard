@@ -7,7 +7,6 @@
 "VFA-41 Black Aces, USS Nimitz / Carrier Air Wing Eleven (2004)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2004-11-14",
@@ -77,7 +76,6 @@
 "edgeLabel": "Underwood produced the FLIR1 tape on a follow-on sortie",
 "family": "organisation",
 "id": "flir1-video",
-"l0": false,
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "Consistently reported since 2019 and never disputed by the Navy or Fravor, but not anchored to a primary record in this pass.",
 "predicate": "produced",
@@ -104,7 +102,6 @@
 "edgeLabel": "Credited with capturing the ATFLIR footage on 14 Nov 2004",
 "family": "organisation",
 "id": "flir1-video",
-"l0": false,
 "label": "FLIR1 (Nimitz ATFLIR video, 14 Nov 2004)",
 "note": "Consistently reported since 2019 and never disputed by the Navy or by Fravor, but not anchored to a primary record in this pass.",
 "predicate": "produced",
@@ -145,11 +142,9 @@
 "hl": null,
 "id": "chad-underwood",
 "instId": "vfa-41",
-"l0": false,
 "label": "Chad Underwood",
 "loc": "United States",
 "locId": "l-socal-oparea",
-"members": null,
 "narrative": "Underwood is the aircrew credited with capturing FLIR1, the ATFLIR footage that became the first of the three videos the Department of Defense formally released on 27 April 2020 and, through the New York Times story of 16 December 2017, the image that reopened the entire subject. He was not on Fravor's intercept; he flew a follow-on sortie on 14 November 2004 with a functioning targeting pod and acquired the object on infrared. His technical account matters because it is the only firsthand description of how the primary artefact of the Nimitz case was produced - the pod would not hold a lock, the object behaved in a way the tracking gate could not follow, and the tape came back aboard Nimitz. What happened to that tape afterwards is the crux of the confiscation dispute: Fravor testified under his own name that 'tapes were never taken,' while Princeton crewmen describe collection of recorded media. Underwood's byline-level accounts have appeared in national magazine interviews since 2019, but this pass did not locate a fetchable primary or archival URL for them, so his specific quotations are held in unverified rather than asserted.",
 "photoCredit": null,
 "sequenceChain": [],

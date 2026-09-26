@@ -2,7 +2,6 @@
 "A": 2,
 "C": 3,
 "D": 3,
-"band": "retrieval",
 "claims": [
 {
 "id": "c-7a2e987b14",
@@ -173,7 +172,6 @@
 "edgeLabel": "509th intelligence office took possession of the Roswell debris",
 "family": "custody",
 "id": "509th-bomb-group",
-"l0": false,
 "label": "509th Bomb Group",
 "note": "GAO records that 'On July 8, 1947, the Roswell Army Air Field (RAAF) public information office in Roswell, New Mexico, reported the crash and recovery of a \"flying disc\"' and that 'Army Air Forces personnel from the RAAF's 509th Bomb Group were credited with the recovery.' GAO's own search found only two 1947 records: a July 1947 history report by the combined 509th Bomb Group and RAAF, which noted the recovery of a 'flying disc' later determined by military officials to be a radar-tracking balloon, and an FBI teletype of 8 July 1947.",
 "predicate": "holds",
@@ -210,7 +208,6 @@
 "edgeLabel": "AARO reaffirms MOGUL and finds no recovered extraterrestrial material",
 "family": "denial",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The February 2024 report concludes the Roswell materials were consistent with a then-classified Project Mogul balloon and that there is no evidence the USG recovered aliens or extraterrestrial material.",
 "predicate": "denied",
@@ -237,7 +234,6 @@
 "edgeLabel": "detail donor to later Roswell accounts",
 "family": "place-time",
 "id": "aztec-1948",
-"l0": false,
 "label": "Aztec, New Mexico claim, March 1948",
 "note": "After the story was revived in the 1970s, its specifics - small bodies, an intact hull, rapid military sanitisation of the site, storage at Wright-Patterson - migrated into allegedly first-hand Roswell testimony. A documented fraud became a supplier of narrative detail to the case the modern disclosure argument rests on, which is a contamination risk this board has to carry explicitly.",
 "predicate": "led_to",
@@ -269,7 +265,6 @@
 "edgeLabel": "Alleged analysis of Roswell 'memory metal' via Wright-Patterson contracts",
 "family": "custody",
 "id": "battelle",
-"l0": true,
 "label": "Battelle Memorial Institute",
 "note": "The allegation rests on the coincidence of timing between the 1947 recovery, the 1948-49 Battelle NiTi work, and the absence of the reports from both archives. No document connects the two directly.",
 "predicate": "alleged_to_hold",
@@ -296,7 +291,6 @@
 "edgeLabel": "dedicated appendix on Roswell and disinformation",
 "family": "documents",
 "id": "cometa",
-"l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence.",
 "predicate": "studied",
@@ -323,7 +317,6 @@
 "edgeLabel": "Found Roswell AAF outgoing messages 1945-1949 destroyed without authorisation",
 "family": "oversight",
 "id": "gao",
-"l0": false,
 "label": "Government Accountability Office",
 "note": "GAO reported that the outgoing message traffic for March 1945 to December 1949 had been destroyed and that no destruction certificate authorising it could be located.",
 "predicate": "investigated",
@@ -350,7 +343,6 @@
 "edgeLabel": "GAO found the base's records for the event period destroyed",
 "family": "oversight",
 "id": "gao-nsiad-95-187",
-"l0": true,
 "label": "GAO/NSIAD-95-187 - Results of a Search for Records Concerning the 1947 Crash Near Roswell",
 "note": "RAAF outgoing messages Oct 1946 - Dec 1949 and administrative records Mar 1945 - Dec 1949 were destroyed, and the disposition form does not record who destroyed them, when, or under what authority.",
 "predicate": "investigated",
@@ -382,7 +374,6 @@
 "edgeLabel": "Marcel physically handled the recovered debris",
 "family": "testimony",
 "id": "jesse-marcel",
-"l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "The 509th's staff intelligence officer collected the Foster ranch material with CIC Capt. Sheridan Cavitt and carried it to Fort Worth. His custody role is documented in the Air Force's own 1995 report.",
 "predicate": "witnessed",
@@ -409,7 +400,6 @@
 "edgeLabel": "Marcel was the 509th intelligence officer who recovered the debris",
 "family": "testimony",
 "id": "jesse-marcel",
-"l0": false,
 "label": "Jesse A. Marcel Sr.",
 "note": "Marcel and Cavitt were assigned by RAAF to retrieve the material from the Foster Ranch after Brazel reported it to Sheriff Wilcox on 6 July 1947.",
 "predicate": "witnessed",
@@ -436,7 +426,6 @@
 "edgeLabel": "Arnold's 24 June 1947 sighting opened the wave that Roswell fell inside",
 "family": "place-time",
 "id": "kenneth-arnold",
-"l0": false,
 "label": "Kenneth Arnold",
 "note": "The Cascades sighting on 24 June 1947 triggered the national wave; the Roswell recovery followed within two weeks and the Twining memo eleven weeks later.",
 "predicate": "led_to",
@@ -468,7 +457,6 @@
 "edgeLabel": "The 1947 recovery was executed by Roswell Army Air Field",
 "family": "place-time",
 "id": "l-roswell",
-"l0": false,
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "note": "Maj. Jesse Marcel of the 509th Bomb Group intelligence office and Capt. Sheridan Cavitt of the Counter Intelligence Corps were dispatched from RAAF to the Foster Ranch. Attested by the 1947 press record and the Air Force's own reports.",
 "predicate": "occurred_at",
@@ -495,7 +483,6 @@
 "edgeLabel": "The 509th Bomb Group at Roswell AAF was the only atomic-armed unit in the world",
 "family": "place-time",
 "id": "l-roswell",
-"l0": false,
 "label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
 "note": "The recovery, the announcement and the destroyed records all belong to a single installation with the most restrictive information discipline in the US military.",
 "predicate": "occurred_at",
@@ -527,7 +514,6 @@
 "edgeLabel": "alleged second recovery site (Barnett account)",
 "family": "testimony",
 "id": "l-san-agustin",
-"l0": false,
 "label": "Plains of San Agustin, New Mexico",
 "note": "TIER 3, CONTESTED. The Plains of San Agustin entered the Roswell corpus through Grady 'Barney' Barnett's reported account, transmitted second-hand and published in Berlitz and Moore's 'The Roswell Incident' (1980). The Air Force's own 1995 records review corroborates the route the story travelled - it records that in 1978 'a UFO researcher, Stanton Friedman, met with Marcel and began investigating', and that Moore and Berlitz 'reported they interviewed a number of persons who claimed to have been present at Roswell in 1947 and professed to be either firsthand or secondhand witnesses'. It does not corroborate the site: 'San Agustin', 'Barnett' and 'Maltais' each appear zero times in the entire report. Kevin Randle, named in that review among the researchers, concludes on the evidence: 'It is for these reasons, that is the lack of first-hand corroboration of the Barnett tale, the inability of the first people to talk of what Barnett said to provide a location and date and that the only source of the information is Barnett that I say, with confidence, that nothing happened there in July 1947.' Roswell is July 1947, so that conclusion severs the link by dating rather than by geography.",
 "predicate": "alleged_tie",
@@ -564,7 +550,6 @@
 "edgeLabel": "Mogul is the Air Force's 1994 identification of the debris",
 "family": "denial",
 "id": "project-mogul",
-"l0": false,
 "label": "Project MOGUL",
 "note": "The 1994 USAF report attributed the debris to Project Mogul Flight No. 4, launched 4 June 1947 from Alamogordo, and acknowledged that the weather balloon account had been a cover story.",
 "predicate": "explained_away",
@@ -591,7 +576,6 @@
 "edgeLabel": "The press release is the event's only uncontested artifact",
 "family": "documents",
 "id": "raaf-press-release-1947",
-"l0": false,
 "label": "RAAF Press Release, 8 July 1947",
 "note": "Every subsequent official position — weather balloon, MOGUL, dummies — is a response to this single document issued by an atomic bomb group's own information office.",
 "predicate": "concerns",
@@ -623,7 +607,6 @@
 "edgeLabel": "Ramey retracted the RAAF statement the same day at Fort Worth",
 "family": "denial",
 "id": "roger-ramey",
-"l0": false,
 "label": "Roger M. Ramey",
 "note": "Brig. Gen. Roger M. Ramey, commanding Eighth Air Force, presented the debris as a weather balloon and radar target with weather officer Irving Newton. The Air Force conceded in 1994 that this was a cover story.",
 "predicate": "denied",
@@ -650,7 +633,6 @@
 "edgeLabel": "Haut issued the 8 July 1947 'flying disc' press release",
 "family": "testimony",
 "id": "walter-haut",
-"l0": false,
 "label": "Walter Haut",
 "note": "1st Lt. Walter Haut, RAAF public information officer, issued the release stating the 509th's intelligence office had gained possession of a disc.",
 "predicate": "brought_to_record",
@@ -860,77 +842,8 @@
 },
 "hl": null,
 "id": "roswell-1947",
-"l0": true,
 "label": "Roswell Incident",
 "locLabel": null,
-"members": [
-{
-"cls": "institution",
-"id": "509th-bomb-group",
-"label": "509th Bomb Group",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "aztec-1948",
-"label": "Aztec, New Mexico claim, March 1948",
-"tier": "A"
-},
-{
-"cls": "institution",
-"id": "gao",
-"label": "Government Accountability Office",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jesse-marcel",
-"label": "Jesse A. Marcel Sr.",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "kenneth-arnold",
-"label": "Kenneth Arnold",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-roswell",
-"label": "Roswell, New Mexico and the Foster Ranch, Lincoln County",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-san-agustin",
-"label": "Plains of San Agustin, New Mexico",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "project-mogul",
-"label": "Project MOGUL",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "raaf-press-release-1947",
-"label": "RAAF Press Release, 8 July 1947",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "roger-ramey",
-"label": "Roger M. Ramey",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "walter-haut",
-"label": "Walter Haut",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Roswell Incident",
 "sourceFiles": [

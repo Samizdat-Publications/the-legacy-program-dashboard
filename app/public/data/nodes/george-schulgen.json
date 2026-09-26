@@ -6,7 +6,6 @@
 "US Army Air Forces / USAF, Air Intelligence Requirements Division (1946-1948)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1947-09-23",
@@ -80,7 +79,6 @@
 "edgeLabel": "Schulgen signed the flying saucer collection requirement",
 "family": "documents",
 "id": "schulgen-memo",
-"l0": false,
 "label": "Schulgen Collection Memorandum: Intelligence Requirements on Flying Saucer Type Aircraft",
 "note": "As Chief of the Air Intelligence Requirements Division he signed 'Intelligence Requirements on Flying Saucer Type Aircraft' on 28 October 1947, distributed 30 October.",
 "predicate": "wrote",
@@ -107,7 +105,6 @@
 "edgeLabel": "Addressed to Schulgen at Air Force intelligence requirements",
 "family": "oversight",
 "id": "twining-memo",
-"l0": false,
 "label": "Twining Memorandum: AMC Opinion Concerning \"Flying Discs\"",
 "note": "Schulgen was the named addressee. Five weeks later he issued the worldwide collection memorandum, making the causal chain from assessment to collection tasking explicit in the documentary record.",
 "predicate": "reports_to",
@@ -149,11 +146,9 @@
 "hl": null,
 "id": "george-schulgen",
 "instId": "dod",
-"l0": false,
 "label": "George F. Schulgen",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Brigadier General George F. Schulgen ran the Air Intelligence Requirements Division at Air Force headquarters in 1947 and was the addressee of the Twining memo. Five weeks later, on 28 October 1947, he signed the draft collection memorandum 'Intelligence Requirements on Flying Saucer Type Aircraft' — distributed 30 October — which is the moment the phenomenon became a formal worldwide intelligence collection target. The document is remarkable for what it asks collectors to look for: a plan form 'approximating that of an oval or disc with a dome shape,' a 'relatively flat bottom with extreme light-reflecting ability,' 'extreme maneuverability and apparent ability to almost hover,' composite and sandwich construction achieving 'extreme light weight,' and — listed among the propulsion options — 'Nuclear propulsion (atomic energy).' Schulgen framed the target as possible Soviet exploitation of German Horten brothers designs, and asked collectors to establish the Hortens' whereabouts. That framing is the standard cover story of the era, but the collection requirements themselves describe performance no 1947 airframe possessed. Schulgen also worked the FBI channel, and the resulting Bureau correspondence is the reason a parallel FBI file series on flying discs exists at all.",
 "photoCredit": null,
 "sequenceChain": [],

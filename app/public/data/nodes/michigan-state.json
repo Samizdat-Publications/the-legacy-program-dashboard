@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-1a1251d11c",
@@ -33,7 +32,6 @@
 "edgeLabel": "Morris Chair in State and Local Government Finance and Policy",
 "family": "role",
 "id": "mark-skidmore",
-"l0": false,
 "label": "Mark Skidmore",
 "note": "Skidmore holds the Morris Chair and is Professor of Economics at Michigan State University. Attested by his own site.",
 "predicate": "held_post",
@@ -67,10 +65,8 @@
 },
 "hl": null,
 "id": "michigan-state",
-"l0": false,
 "label": "Michigan State University",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Michigan State University",
 "sourceFiles": [

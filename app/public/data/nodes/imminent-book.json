@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-3a5c080b8c",
@@ -55,7 +54,6 @@
 "edgeLabel": "Manuscript reviewed and cleared by the Department's prepublication office",
 "family": "oversight",
 "id": "dopsr",
-"l0": false,
 "label": "Defense Office of Prepublication and Security Review",
 "note": "A DOPSR clearance is not an endorsement of accuracy, but it is an affirmative Departmental determination that the assertions are not classified.",
 "predicate": "investigated",
@@ -82,7 +80,6 @@
 "edgeLabel": "Author; DOPSR review took approximately one year",
 "family": "documents",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "'What is in the book is what I was told I am allowed to talk about' — sworn testimony, 13 November 2024.",
 "predicate": "wrote",
@@ -116,10 +113,8 @@
 },
 "hl": null,
 "id": "imminent-book",
-"l0": false,
 "label": "Imminent: Inside the Pentagon's Hunt for UFOs",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Imminent: Inside the Pentagon's Hunt for UFOs",
 "sourceFiles": [

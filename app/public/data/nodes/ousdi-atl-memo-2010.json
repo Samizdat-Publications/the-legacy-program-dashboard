@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-7af2f880bd",
@@ -69,7 +68,6 @@
 "edgeLabel": "proposes transitioning AATIP out of DIA",
 "family": "documents",
 "id": "dia",
-"l0": true,
 "label": "Defense Intelligence Agency",
 "note": "DIA tells USD(AT&L) the reports were of limited value to DIA but could merit other organisations and the project could move to a better-suited component.",
 "predicate": "wrote",
@@ -96,7 +94,6 @@
 "edgeLabel": "documents the handoff Elizondo describes",
 "family": "testimony",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "DIA proposed a transition in December 2010; Elizondo says he picked up the residual effort in OUSD(I) at that time. No charter has ever been released either way.",
 "predicate": "corroborated",
@@ -130,10 +127,8 @@
 },
 "hl": null,
 "id": "ousdi-atl-memo-2010",
-"l0": false,
 "label": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "DIA Info Memo to USD(AT&L) on AATIP (U-10-2552CE-IM-ATL)",
 "sourceFiles": [

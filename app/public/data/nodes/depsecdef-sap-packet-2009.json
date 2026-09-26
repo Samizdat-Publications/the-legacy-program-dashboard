@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-e3224e2e56",
@@ -61,7 +60,6 @@
 "edgeLabel": "records three concurrent names for one program",
 "family": "documents",
 "id": "aatip",
-"l0": true,
 "label": "Advanced Aerospace Threat Identification Program (AATIP / AAITP)",
 "note": "AAWSAP as the contract title, AAITP as Reid's usage, AATIP as the unclassified nickname — the naming divergence originates in a single DoD document.",
 "predicate": "concerns",
@@ -88,7 +86,6 @@
 "edgeLabel": "USD(I) recommends against establishing a SAP",
 "family": "denial",
 "id": "james-clapper",
-"l0": false,
 "label": "James R. Clapper Jr.",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
 "predicate": "refused",
@@ -115,7 +112,6 @@
 "edgeLabel": "decision packet presented 17 November 2009",
 "family": "oversight",
 "id": "william-lynn",
-"l0": false,
 "label": "William J. Lynn III",
 "note": "Eighteen pages assembled to support refusing the Majority Leader; two days later Lynn briefed Reid in SVC-217.",
 "predicate": "reports_to",
@@ -204,10 +200,8 @@
 },
 "hl": null,
 "id": "depsecdef-sap-packet-2009",
-"l0": false,
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "sourceFiles": [

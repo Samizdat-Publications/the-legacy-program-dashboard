@@ -6,7 +6,6 @@
 "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center, Director"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2019-10-10",
@@ -66,7 +65,6 @@
 "edgeLabel": "Langhout signed as GVSC Director",
 "family": "role",
 "id": "l-detroit-arsenal",
-"l0": false,
 "label": "Detroit Arsenal, Warren, Michigan",
 "note": "The signature block is the documentary anchor: an executed federal instrument, not a press release.",
 "predicate": "held_post",
@@ -98,7 +96,6 @@
 "edgeLabel": "Signed for the United States Army, 10 October 2019",
 "family": "documents",
 "id": "ttsa-army-crada",
-"l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "The federal signature block is what makes the agreement citable as a government act.",
 "predicate": "wrote",
@@ -134,11 +131,9 @@
 "hl": null,
 "id": "jeffery-langhout",
 "instId": "ccdc-gvsc",
-"l0": false,
 "label": "Jeffery Langhout",
 "loc": "Warren, MI",
 "locId": "l-detroit-arsenal",
-"members": null,
 "narrative": "Langhout signed the CRADA for the United States Army. As Director of the Ground Vehicle Systems Center he is the federal official whose signature, dated 10 October 2019, put the Army's name to an agreement whose stated research scope includes inertial mass reduction, electromagnetic metamaterial waveguides, beamed energy propulsion, active camouflage and directed photon projection. Whatever the Army's public framing, the signature block is the documentary anchor: this was a real, executed federal instrument, not a press release.",
 "photoCredit": null,
 "sequenceChain": [],

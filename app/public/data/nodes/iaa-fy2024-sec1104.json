@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-95b47e4c49",
@@ -61,7 +60,6 @@
 "edgeLabel": "The provision named derived propulsion work as a defunding category",
 "family": "analysis",
 "id": "aerojet-rocketdyne",
-"l0": false,
 "label": "Aerojet Rocketdyne",
 "note": "Sec. 1104(c) targets propulsion 'based on or derived from or inspired by inspection, analysis, or reverse engineering of recovered unidentified anomalous phenomena craft or materials,' and any aerospace craft using propulsion other than chemical, solar or electric ion thrust.",
 "predicate": "affects",
@@ -88,7 +86,6 @@
 "edgeLabel": "SSCI would have compelled contractors to list all 'non-earth origin or exotic' material they hold, with immunity",
 "family": "law",
 "id": "lockheed-martin",
-"l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "S. 2103 Sec. 1104(d)-(e), reported unanimously on 22 June 2023, required notification to the DNI within 60 days and production within 180, and barred any criminal or civil action against a complying holder. The phrase 'non-earth origin' does not appear in the enacted law.",
 "predicate": "mandated",
@@ -120,7 +117,6 @@
 "edgeLabel": "Only the funding limitation and the IR&D restriction survived into law",
 "family": "organisation",
 "id": "ndaa-fy2024-1687",
-"l0": true,
 "label": "FY2024 NDAA sec. 1687 - Limitation on Use of Funds for Certain Unreported Programs",
 "note": "Sec. 1687 and Sec. 7343 of Public Law 118-31 carry forward the funding cutoff and the IR&D clause from the Senate provision; the contractor disclosure, inventory and immunity subsections were removed.",
 "predicate": "succeeded",
@@ -173,10 +169,8 @@
 },
 "hl": null,
 "id": "iaa-fy2024-sec1104",
-"l0": false,
 "label": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "S. 2103 Sec. 1104 - SSCI contractor disclosure and immunity provision (stripped)",
 "sourceFiles": [

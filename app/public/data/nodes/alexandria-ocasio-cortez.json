@@ -9,7 +9,6 @@
 "House Oversight Committee"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-07-26",
@@ -121,7 +120,6 @@
 "edgeLabel": "Established that contractors have no UAP reporting duty and IR&D escapes notification",
 "family": "oversight",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "AOC pushed past the phenomenon to the notification architecture, establishing that SAP and CAP equities flow through Periodic Program Review while contractor IR&D is internal and unreported - the legal shape of an invisible program.",
 "predicate": "questioned",
@@ -148,7 +146,6 @@
 "edgeLabel": "Pursued the IR&D and congressional-notification loophole",
 "family": "oversight",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "'Is this through an email to, hypothetically, a dead email box?'",
 "predicate": "questioned",
@@ -185,11 +182,9 @@
 "hl": null,
 "id": "alexandria-ocasio-cortez",
 "instId": "house-oversight-committee",
-"l0": false,
 "label": "Alexandria Ocasio-Cortez",
 "loc": "Bronx, NY",
 "locId": "l-nyc",
-"members": null,
 "narrative": "Ocasio-Cortez asked the most technically precise question of the 2023 hearing and it is the one that has aged best. Waived onto the subcommittee, she framed the committee as a whistleblower-protection body and then went at the funding mechanism rather than the phenomenon. Her line of questioning concerned Independent Research and Development - the mechanism by which defense contractors recover the cost of self-directed research from the government - and the statutory notification requirements attached to it. She told Grusch she had personally seen defense contractors abuse their contracts through this committee and seen congressional notification requirements abused, and identified the loophole: 'there are no actual definitions or requirements for notification.' She then pressed on the operational reality of that loophole - when an agency says it notified Congress, does it call the chairman of a committee, or is it 'an email to, hypothetically, a dead email box?' That is the question of whether the congressional notification that legally legitimates a waived unacknowledged program is a real event or a formality. She closed her round by asking all three witnesses, for the record, where she should look - 'titles, programs, departments, regions.' She attended the 12 January 2024 closed ICIG briefing.",
 "photoCredit": null,
 "sequenceChain": [],

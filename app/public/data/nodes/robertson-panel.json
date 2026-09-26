@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 0,
-"band": "research",
 "claims": [
 {
 "id": "c-f32fd55072",
@@ -77,7 +76,6 @@
 "edgeLabel": "Panel recommendations became binding Air Force regulation",
 "family": "place-time",
 "id": "afr-200-2",
-"l0": false,
 "label": "Air Force Regulation 200-2",
 "note": "AFR 200-2 was issued 26 August 1953 and revised 12 August 1954, restricting public release on unexplained cases to the bare fact of ATIC analysis — the debunking recommendation converted into internal law within months of the panel reporting.",
 "predicate": "led_to",
@@ -109,7 +107,6 @@
 "edgeLabel": "Forwarded the panel report while saying the subject was not primarily CIA's concern",
 "family": "testimony",
 "id": "allen-w-dulles",
-"l0": false,
 "label": "Allen W. Dulles",
 "note": "The same signed letter that calls the panel's conclusions a matter of potential danger to national security states that the Agency does not consider flying saucer sightings primarily its concern, ten weeks after CIA convened the panel.",
 "predicate": "acknowledged",
@@ -136,7 +133,6 @@
 "edgeLabel": "CIA convened and sponsored the panel, and concealed that sponsorship",
 "family": "money",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "The panel was convened by the Office of Scientific Intelligence. The CIA's own history states that any mention of Agency sponsorship of the panel was forbidden.",
 "predicate": "funded",
@@ -168,7 +164,6 @@
 "edgeLabel": "CIA convened and staffed the January 1953 scientific advisory panel",
 "family": "role",
 "id": "cia",
-"l0": true,
 "label": "Central Intelligence Agency",
 "note": "Convened by the Office of Scientific Intelligence under H. P. Robertson; the panel recommended debunking and the monitoring of civilian UFO groups.",
 "predicate": "founded",
@@ -200,7 +195,6 @@
 "edgeLabel": "Ruppelt attended the panel as Blue Book director and later described it",
 "family": "testimony",
 "id": "edward-ruppelt",
-"l0": false,
 "label": "Edward J. Ruppelt",
 "note": "Ruppelt was present at the January 1953 sessions in his official capacity and published his account of the panel's function three years later.",
 "predicate": "witnessed",
@@ -232,7 +226,6 @@
 "edgeLabel": "Durant was panel secretary and wrote the proceedings record",
 "family": "role",
 "id": "frederick-durant",
-"l0": false,
 "label": "Frederick C. Durant III",
 "note": "Durant's memorandum of 16 February 1953 to the Assistant Director for Scientific Intelligence is the only substantive record of what the panel actually discussed.",
 "predicate": "held_post",
@@ -259,7 +252,6 @@
 "edgeLabel": "Chadwell assembled the panel with Robertson",
 "family": "role",
 "id": "h-marshall-chadwell",
-"l0": false,
 "label": "H. Marshall Chadwell",
 "note": "The CIA's own official history states that in January 1953 Chadwell and H. P. Robertson put together the panel of nonmilitary scientists to study the UFO issue.",
 "predicate": "founded",
@@ -286,7 +278,6 @@
 "edgeLabel": "CIA refused declassification and issued a sanitised version of the Robertson Panel report",
 "family": "denial",
 "id": "haines-cia-history",
-"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "CIA 'prepared a sanitized version of the report which deleted any reference to CIA and avoided mention of any psychological warfare potential in the UFO controversy.'",
 "predicate": "refused",
@@ -313,7 +304,6 @@
 "edgeLabel": "CIA's official history documents the panel's debunking and concealment",
 "family": "documents",
 "id": "haines-cia-history",
-"l0": false,
 "label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
 "note": "Haines records the mass media and Disney recommendations and states plainly that CIA sponsorship of the panel was forbidden from being mentioned.",
 "predicate": "concerns",
@@ -340,7 +330,6 @@
 "edgeLabel": "Robertson chaired the panel",
 "family": "role",
 "id": "howard-p-robertson",
-"l0": false,
 "label": "Howard P. Robertson",
 "note": "Robertson, a Caltech physicist and CIA consultant who had directed the DoD Weapons Systems Evaluation Group, chaired the 14-18 January 1953 sessions and signed the report.",
 "predicate": "led",
@@ -367,7 +356,6 @@
 "edgeLabel": "Hynek presented to the panel but was not a member",
 "family": "organisation",
 "id": "j-allen-hynek",
-"l0": false,
 "label": "J. Allen Hynek",
 "note": "The Air Force's scientific consultant briefed the CIA-convened panel; the formal membership was Robertson, Alvarez, Berkner, Goudsmit and Page.",
 "predicate": "outside_of",
@@ -394,7 +382,6 @@
 "edgeLabel": "Contradicts the panel's 1953 disposition of the same films",
 "family": "testimony",
 "id": "navy-pic-1953-film-analysis",
-"l0": false,
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "note": "The Navy's own analysts assessed the Great Falls and Tremonton objects as intelligently controlled and not known technology in the same year the Robertson Panel recommended stripping the subject of special status.",
 "predicate": "contradicts",
@@ -426,7 +413,6 @@
 "edgeLabel": "Written five days before the panel met; per Vallee the panel was never briefed on its proposals",
 "family": "analysis",
 "id": "pentacle-memorandum",
-"l0": false,
 "label": "The Pentacle Memorandum",
 "note": "Vallee's conclusion is that a separate group had already decided what the panel could and could not discuss - contractor-side predetermination of an official scientific review.",
 "predicate": "affects",
@@ -458,7 +444,6 @@
 "edgeLabel": "third iteration of the external-scientific-panel pattern after Robertson (1953) and Condon (1966-68)",
 "family": "analysis",
 "id": "uap-science-advisory-council",
-"l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Each prior panel supplied an authoritative dismissal on terms set by the sponsoring agency. Whether this one differs depends on its access to the Governance Board's classified holdings, which has not been publicly described.",
 "predicate": "parallels",
@@ -485,7 +470,6 @@
 "edgeLabel": "Convened at his direction",
 "family": "law",
 "id": "walter-bedell-smith",
-"l0": false,
 "label": "Walter Bedell Smith",
 "note": "All three of Dulles's 13 March 1953 transmittal letters state that the panel 'was convened at the direction of General Smith, following the recommendation of the Intelligence Advisory Committee'.",
 "predicate": "created",
@@ -737,77 +721,8 @@
 },
 "hl": null,
 "id": "robertson-panel",
-"l0": true,
 "label": "Robertson Panel",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "afr-200-2",
-"label": "Air Force Regulation 200-2",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "allen-w-dulles",
-"label": "Allen W. Dulles",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "edward-ruppelt",
-"label": "Edward J. Ruppelt",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "frederick-durant",
-"label": "Frederick C. Durant III",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "h-marshall-chadwell",
-"label": "H. Marshall Chadwell",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "haines-cia-history",
-"label": "A Die-hard Issue: CIA's Role in the Study of UFOs, 1947-1990",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "howard-p-robertson",
-"label": "Howard P. Robertson",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "j-allen-hynek",
-"label": "J. Allen Hynek",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "navy-pic-1953-film-analysis",
-"label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "pentacle-memorandum",
-"label": "The Pentacle Memorandum",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "walter-bedell-smith",
-"label": "Walter Bedell Smith",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Robertson Panel",
 "sourceFiles": [

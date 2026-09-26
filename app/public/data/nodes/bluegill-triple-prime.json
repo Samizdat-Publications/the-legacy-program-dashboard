@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-ffc673eb3e",
@@ -103,7 +102,6 @@
 "edgeLabel": "A dated, documented high-altitude nuclear test",
 "family": "analysis",
 "id": "d-nuclear",
-"l0": false,
 "label": "Nuclear Security & Restricted Data",
 "note": "The board's nuclear-correlation thread runs largely on witness memory; this is an official operational record fixing a date, a location and a force disposition independently of any witness.",
 "predicate": "exemplifies",
@@ -130,7 +128,6 @@
 "edgeLabel": "The detonation list is a Department of Energy publication",
 "family": "custody",
 "id": "doe",
-"l0": true,
 "label": "United States Department of Energy",
 "note": "DNA 6040F sources its own table of DOMINIC detonations to Announced United States Nuclear Tests, NVO-29 (Rev. 1), Office of Public Affairs, Department of Energy, Nevada Operations Office, January 1980, so the authoritative date and yield description for this shot are held by DOE rather than by DoD.",
 "predicate": "holds",
@@ -157,7 +154,6 @@
 "edgeLabel": "Air Force flew the shot and its 22-aircraft array",
 "family": "organisation",
 "id": "usaf",
-"l0": true,
 "label": "United States Air Force",
 "note": "DNA 6040F records that the Air Force arrayed 22 aircraft for the detonation and names the call signs and missions of the KC-135, RC-121, B-47, C-118, C-130 and U-2 aircraft that flew DOMINIC.",
 "predicate": "ran",
@@ -191,10 +187,8 @@
 },
 "hl": null,
 "id": "bluegill-triple-prime",
-"l0": false,
 "label": "Bluegill Triple Prime",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Bluegill Triple Prime",
 "sourceFiles": [

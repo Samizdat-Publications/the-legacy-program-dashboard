@@ -1,6 +1,6 @@
 /* Node page: Design response section 1.3, and redesign phase 1.
  *
- * Header, the three axes as 3-cell bars, the roles, the three actions, what it
+ * Header, the three axes as 3-cell bars, the roles, the actions, what it
  * is and why it matters, the case against (conflicts, unverified notes, denial
  * posture), the claims grouped by tier each with its source as a link, the
  * denials, the timeline slice, every open question, the chronology, the
@@ -94,14 +94,12 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
   }
   main.append(axes);
 
-  /* ---- the three actions ------------------------------------------------ */
+  /* ---- the actions ------------------------------------------------------ */
   main.append(h('div', { class: 'actions' },
-    h('a', { class: 'act key', href: '#/n/' + rec.id + '/map' }, 'SHOW ON THE MAP'),
     h('a', { class: 'act key', href: '#/n/' + rec.id + '/hood' }, 'OPEN THE NEIGHBOURHOOD'),
     h('a', { class: 'act', href: '#/report/n/' + rec.id }, 'REPORT'),
     h('span', { class: 'idline' },
-      [meta ? meta.deg + ' distinct neighbours on the board' : '',
-        rec.members ? rec.members.length + ' members' : ''].filter(Boolean).join(' · ')),
+      meta ? meta.deg + ' distinct neighbours on the board' : ''),
   ));
 
   /* ---- appears in: the topics this node belongs to, primary first ---------- */
@@ -265,25 +263,9 @@ export async function renderNode(view: HTMLElement, id: string): Promise<void> {
     }
     slice.append(sl);
   }
-  /* neighbours by start date, as the mockup's slice does when the node itself
-     carries few events: each neighbour once, at its earliest dated link */
-  const neighSeen = new Set<string>();
-  const neigh = rec.connections
-    .filter((c) => c.l0 && c.dateStart)
-    .sort((a, b) => String(a.dateStart).localeCompare(String(b.dateStart)))
-    .filter((c) => (neighSeen.has(c.id) ? false : (neighSeen.add(c.id), true)));
-  if (neigh.length) {
-    slice.append(h('div', { class: 'faint', style: 'margin-top:8px' }, 'map neighbours by start date'));
-    const sl2 = h('div', { class: 'slice' });
-    for (const c of neigh) {
-      sl2.append(h('div', { class: 'ev' },
-        mark(clsColour(c.cls)),
-        h('span', { class: 'yr' }, String(c.dateStart).slice(0, 4)),
-        h('a', { href: '#/n/' + c.id }, c.label),
-      ));
-    }
-    slice.append(sl2);
-  }
+  /* The "map neighbours by start date" list that stood here listed the
+     neighbours that were on the program map; it went with the map in phase 11.
+     Every neighbour is on the neighbourhood page, grouped by relationship. */
   extra.append(slice);
 
   const foia = h('div', null);

@@ -8,7 +8,6 @@
 "House Financial Services Subcommittee on National Security"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-07-26",
@@ -84,7 +83,6 @@
 "edgeLabel": "Caucus member without an Oversight Committee seat",
 "family": "role",
 "id": "congressional-uap-caucus",
-"l0": true,
 "label": "Congressional UAP Caucus",
 "note": "Described by The Hill as 'part of the UAP Caucus but not the Oversight Committee.'",
 "predicate": "member_of",
@@ -111,7 +109,6 @@
 "edgeLabel": "Emerged describing 'a concerted effort to conceal as much information as possible'",
 "family": "testimony",
 "id": "icig-briefing-2024-01-12",
-"l0": false,
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "Ogles is a caucus member without an Oversight seat, which is how the caucus extended attendance.",
 "predicate": "witnessed",
@@ -138,7 +135,6 @@
 "edgeLabel": "Named the Holman Rule as the enforcement instrument against officials who deny Congress access",
 "family": "testimony",
 "id": "sap-readin-gate",
-"l0": false,
 "label": "The HASC/HAC-D special access program read-in gate",
 "note": "The only statutory enforcement mechanism any member has named on the record; never used on this subject.",
 "predicate": "made_claims_about",
@@ -176,11 +172,9 @@
 "hl": null,
 "id": "andy-ogles",
 "instId": "house-oversight-committee",
-"l0": false,
 "label": "Andrew Ogles",
 "loc": "Franklin, TN",
 "locId": null,
-"members": null,
 "narrative": "Ogles produced the single most concrete enforcement threat any member has made on this subject. Waived onto the subcommittee on 26 July 2023, he questioned the witnesses on whether UAP behaviour is consistent with reconnaissance collection, then closed the member rounds with a demand and a lever: 'I would encourage the Chairman to demand that we have any and all, but in particular Mr. Grusch, talk to us in a SCIF and if that access is denied I will personally volunteer to initiate the Holman Rule against any personnel or any program or any agency that denies access to Congress.' The Holman Rule permits a floor amendment to an appropriations bill reducing the salary of a specific federal employee or the funding of a specific program to as little as one dollar - it is the one instrument Congress holds that reaches an individual official who stonewalls. No such amendment has been offered. A member of the UAP Caucus but not of the Oversight Committee, Ogles attended the 12 January 2024 closed ICIG briefing and came out saying what 'most Americans fear is true,' describing 'a concerted effort to conceal as much information as possible - both in Congress and to the general public.' He was waived onto the September 2025 Task Force hearing as well.",
 "photoCredit": null,
 "sequenceChain": [],

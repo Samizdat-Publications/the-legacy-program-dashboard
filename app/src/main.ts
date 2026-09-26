@@ -7,14 +7,13 @@
 import './styles/tokens.css';
 import './styles/app.css';
 
-import { startRouter, setTitle, type Route } from './router';
+import { startRouter, setTitle, parseRoute, currentRoute, type Route } from './router';
 import { renderFrame, refreshFrameStatus, refreshFrameBack } from './frame';
 import { initHistory, noteHere } from './history';
 import { primeSearch } from './search';
 import { loadIndex, registerClasses } from './data';
 import { renderHome } from './pages/home';
 import { renderNode } from './pages/node';
-import { mapPage } from './pages/map';
 import { renderNodeReport, renderThreadReport } from './pages/report';
 import { notFound } from './pages/notfound';
 import { h, clear } from './dom';
@@ -32,6 +31,11 @@ function boot(): Promise<void> {
       .then(() => primeSearch());
   }
   return ready;
+}
+
+function redirect(hash: string): Promise<void> {
+  history.replaceState(history.state, '', hash);
+  return dispatch(parseRoute(hash));
 }
 
 async function dispatch(r: Route): Promise<void> {
@@ -55,12 +59,16 @@ async function dispatch(r: Route): Promise<void> {
   switch (r.kind) {
     case 'home': return void renderHome(view);
     case 'node': return void renderNode(view, r.id);
-    case 'node-map': return void mapPage(view, { node: r.id });
     case 'node-hood': return void import('./pages/hood').then((m) => m.renderHood(view, r.id));
     case 'hood': return void import('./pages/hood').then((m) => m.renderHood(view, null));
-    case 'map': return void mapPage(view, { cell: r.cell });
     case 'thread': return (await import('./pages/thread')).renderThread(view, r.id);
-    case 'thread-map': return void mapPage(view, { thread: r.id });
+    /* the program map retired in redesign phase 11. An old link lands on what
+       replaced it: the Atlas, or the node or thread it named. The entry is
+       rewritten in place (its depth stamp kept), so back and forward still walk
+       the reader's own trail and no extra entry is made. */
+    case 'map': return redirect('#/atlas');
+    case 'node-map': return redirect('#/n/' + r.id);
+    case 'thread-map': return redirect('#/t/' + r.id);
     case 'timeline': return (await import('./pages/timeline')).renderTimeline(view, r.era, r.scope, r.strand, r.topic);
     case 'patents': return (await import('./pages/patents')).renderPatents(view, r.number, r.sheet);
     case 'evidence': return (await import('./pages/evidence')).renderEvidence(view, r.q);
@@ -88,7 +96,8 @@ startRouter(async (r) => {
   await dispatch(r);
   noteHere();
   refreshFrameBack();
-  void refreshAnalyst(r);
+  /* the route as it stands after dispatch, which a retired route has rewritten */
+  void refreshAnalyst(currentRoute());
 });
 
 /* `/` focuses the search field, as the Home hint says it does. */

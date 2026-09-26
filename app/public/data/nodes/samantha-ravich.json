@@ -11,7 +11,6 @@
 "MITRE Board of Trustees (2026-present)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2018-01-01",
@@ -74,7 +73,6 @@
 "edgeLabel": "Elected to MITRE's Board of Trustees, 19 May 2026",
 "family": "role",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "Elected three days before the Burlison production request was sent; former vice chair of the President's Intelligence Advisory Board.",
 "predicate": "member_of",
@@ -101,7 +99,6 @@
 "edgeLabel": "Doctorate from the RAND Graduate School",
 "family": "other",
 "id": "rand-corporation",
-"l0": true,
 "label": "RAND Corporation",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
 "predicate": "connected_to",
@@ -138,11 +135,9 @@
 "hl": null,
 "id": "samantha-ravich",
 "instId": "mitre-corporation",
-"l0": false,
 "label": "Samantha F. Ravich",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Ravich was elected to MITRE's Board of Trustees on 19 May 2026 - three days before Rep. Eric Burlison's UAP records production request landed at the corporation. Her profile is the FFRDC ecosystem folding in on itself: a doctorate from the RAND Graduate School, a seat as vice chair of the Strategic Advisory Committee for National and Homeland Security at Idaho National Laboratory (the Battelle-operated DOE laboratory Mark Peters used to run), co-chair of the DOE Artificial Intelligence Working Group from 2019 to 2021, a commissioner on the Cyberspace Solarium Commission, co-chair of the bipartisan National Commission for the Review of the Research and Development Programs of the United States Intelligence Community, and from 2018 vice chair of the President's Intelligence Advisory Board - the body that reviews, for the President, the effectiveness and legality of the Intelligence Community, including its compartmented activity. She was earlier principal deputy national security adviser to Vice President Dick Cheney. A trustee who has sat on PIAB is a trustee who has been read into the apparatus that governs unacknowledged programmes at the presidential level. MITRE placed her on its board at the precise moment a congressional inquiry into its handling of such programmes began.",
 "photoCredit": null,
 "sequenceChain": [],

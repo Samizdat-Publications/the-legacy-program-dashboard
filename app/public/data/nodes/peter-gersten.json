@@ -7,7 +7,6 @@
 "Private legal practice, New York and Arizona"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1978-01-01",
@@ -79,7 +78,6 @@
 "edgeLabel": "Gersten directed CAUS and brought its FOIA litigation",
 "family": "role",
 "id": "caus",
-"l0": false,
 "label": "Citizens Against UFO Secrecy (CAUS)",
 "note": "Gersten's litigation against CIA, NSA and DoD is the origin of the document-first method in this field.",
 "predicate": "led",
@@ -121,11 +119,9 @@
 "hl": null,
 "id": "peter-gersten",
 "instId": "caus",
-"l0": false,
 "label": "Peter A. Gersten",
 "loc": "New York, NY",
 "locId": "l-dc",
-"members": null,
 "narrative": "Gersten was the lawyer who turned the UFO question into a docket. As director of Citizens Against UFO Secrecy he brought the FOIA litigation that forced CIA to process UFO records in the late 1970s and then sued the National Security Agency in 1980, producing Civil Action No. 80-1562 - the case in which NSA conceded it held UFO-related records and defended withholding them with a classified affidavit reviewed only by the judge. CAUS lost on the merits but won the fact: the existence of the holdings is now a matter of judicial record rather than assertion. Gersten kept litigating for two decades; CAUS was still in the federal appellate courts against the Department of Defense as late as 2001. The GAO's 1995 Roswell records search lists the National Security Agency at Fort Meade under 'FOIA records, Citizens Against UFO Secrecy' as one of the locations searched - an unusual acknowledgement that a private citizens' litigation had become a recognised body of federal records in its own right.",
 "photoCredit": null,
 "sequenceChain": [],

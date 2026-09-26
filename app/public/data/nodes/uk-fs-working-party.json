@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-e698c82105",
@@ -33,7 +32,6 @@
 "edgeLabel": "first British body on the question, 1950-1951",
 "family": "organisation",
 "id": "uk-mod",
-"l0": false,
 "label": "United Kingdom Ministry of Defence",
 "note": "The Flying Saucer Working Party precedes the UFO desk and reached the same self-terminating conclusion Condign would reach fifty years later.",
 "predicate": "part_of",
@@ -67,10 +65,8 @@
 },
 "hl": null,
 "id": "uk-fs-working-party",
-"l0": false,
 "label": "Flying Saucer Working Party (UK)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Flying Saucer Working Party (UK)",
 "sourceFiles": [

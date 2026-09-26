@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-9340d3e719",
@@ -35,7 +34,6 @@
 "edgeLabel": "MITRE operates HSSEDI for DHS Science and Technology",
 "family": "organisation",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "Created 5 March 2009; the DHS engineering franchise sits with the same operator now under congressional UAP records demand.",
 "predicate": "ran",
@@ -69,10 +67,8 @@
 },
 "hl": null,
 "id": "mitre-hssedi",
-"l0": false,
 "label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
 "sourceFiles": [

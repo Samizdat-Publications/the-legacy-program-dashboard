@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "research",
 "claims": [
 {
 "id": "c-43d63ae5ea",
@@ -89,7 +88,6 @@
 "edgeLabel": "identifies AARO as a model and recommends partnership",
 "family": "documents",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The report treats the US, France and Chile as the only coordinated, transparent, scientifically driven approaches it found.",
 "predicate": "cites",
@@ -116,7 +114,6 @@
 "edgeLabel": "COMPARISON: Canada surveyed the world's UAP-reporting models and did not mention Brazil once",
 "family": "denial",
 "id": "arquivo-nacional-ufo",
-"l0": true,
 "label": "Arquivo Nacional (Brazil) - UFO/UAP collection",
 "note": "COMPARISON EDGE, and a second sourced negative. The Sky Canada Project report examined 'the management of UAP reporting in several countries' and concluded that 'the processes in place in a few countries, notably the United States, France and Chile, provide interesting examples of coordinated, transparent, and scientifically driven approaches'. Its recommendation 13 tells the future Canadian lead organisation to 'establish partnerships with international entities dedicated to UAPs, such as AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile).' The word 'Brazil' does not occur in the report. The state that actually put its military UAP files in a public archive is absent from the survey of states that handle UAP reporting well — which is a finding about the survey as much as about Brazil.",
 "predicate": "omitted",
@@ -148,7 +145,6 @@
 "edgeLabel": "identifies SEFAA as a model and recommends partnership",
 "family": "documents",
 "id": "cefaa",
-"l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "Canada's Office of the Chief Science Advisor identified the United States, France and Chile as the three national UAP reporting models worth examining, described SEFAA's operations and its commitment to transparency, and recommended Canada partner with SEFAA alongside AARO, NASA and GEIPAN.",
 "predicate": "cites",
@@ -180,7 +176,6 @@
 "edgeLabel": "identifies GEIPAN as a model and recommends partnership",
 "family": "documents",
 "id": "geipan",
-"l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Canada's Office of the Chief Science Advisor examined GEIPAN in detail, told Canada that 'the example of GEIPAN in France is worth considering' when establishing a dedicated service, and recommended in recommendation 13 that Canada's lead organisation partner with 'AARO and NASA (U.S.A.), GEIPAN (France), and SEFAA (Chile)'.",
 "predicate": "cites",
@@ -212,7 +207,6 @@
 "edgeLabel": "the report is the source of the three-office model",
 "family": "analysis",
 "id": "intl-uap-office-model",
-"l0": false,
 "label": "The three-office model: GEIPAN, SEFAA, AARO",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
 "predicate": "exemplifies",
@@ -239,7 +233,6 @@
 "edgeLabel": "Office of the Chief Science Advisor, Ottawa",
 "family": "place-time",
 "id": "l-ottawa",
-"l0": false,
 "label": "Ottawa, Ontario, Canada",
 "note": "The Sky Canada Project is led by the Office of the Chief Science Advisor of Canada, which gives its address in the report as 235 Queen Street, Ottawa, Ontario K1A 0H5. The report, published June 2025 over the signature of Chief Science Advisor Mona Nemer, offers fourteen recommendations for improving UAP reporting and data collection in Canada.",
 "predicate": "located_at",
@@ -276,7 +269,6 @@
 "edgeLabel": "2025 report is the first federal review to work the LAC holding",
 "family": "oversight",
 "id": "lac-ufo-collection",
-"l0": false,
 "label": "Library and Archives Canada - UFO records collection",
 "note": "The Sky Canada report documents the collection's size, provenance and digitisation and traces the history from Project Magnet through the NRC transfer of 1995.",
 "predicate": "investigated",
@@ -303,7 +295,6 @@
 "edgeLabel": "Chief Science Advisor whose office produced the report",
 "family": "organisation",
 "id": "mona-nemer",
-"l0": false,
 "label": "Dr Mona Nemer",
 "note": "The Office of the Chief Science Advisor led the project and published both the January 2025 preliminary and the June 2025 full report.",
 "predicate": "ran",
@@ -457,37 +448,10 @@
 },
 "hl": null,
 "id": "sky-canada-project",
-"l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "intl-uap-office-model",
-"label": "The three-office model: GEIPAN, SEFAA, AARO",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-ottawa",
-"label": "Ottawa, Ontario, Canada",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "lac-ufo-collection",
-"label": "Library and Archives Canada - UFO records collection",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "mona-nemer",
-"label": "Dr Mona Nemer",
-"tier": "C"
-}
-],
 "openQuestions": [],
-"short": "Sky Canada Project",
+"short": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "sourceFiles": [
 "w2-international"
 ],

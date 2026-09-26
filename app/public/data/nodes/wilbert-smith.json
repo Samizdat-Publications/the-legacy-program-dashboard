@@ -8,7 +8,6 @@
 "project-second-storey"
 ],
 "age": 52,
-"band": null,
 "chronology": [
 {
 "date": "1939",
@@ -166,7 +165,6 @@
 "edgeLabel": "author of the request that created Project Magnet",
 "family": "role",
 "id": "project-magnet",
-"l0": false,
 "label": "Project Magnet (Canada)",
 "note": "LAC's exhibition quotes the 21 November 1950 'Geo-Magnetics' memorandum as the origin of the project.",
 "predicate": "founded",
@@ -193,7 +191,6 @@
 "edgeLabel": "appointed to the Defence Research Board committee in 1952",
 "family": "role",
 "id": "project-second-storey",
-"l0": false,
 "label": "Project Second Storey (Canada)",
 "note": "Smith reported Project Magnet's findings to Second Storey, chaired by NRC astronomer Peter Millman.",
 "predicate": "member_of",
@@ -220,7 +217,6 @@
 "edgeLabel": "Smith's 1950 notes name Sarbacher as their source; Sarbacher's own 1983 letter says he did not attend",
 "family": "testimony",
 "id": "robert-sarbacher",
-"l0": false,
 "label": "Robert I. Sarbacher",
 "note": "The 1983 letter is the only document in this chain that was opened. Smith's 21 November 1950 memorandum was not obtained -- Library and Archives Canada refuses this environment. Sarbacher's own words are 'I could not personally attend the meetings.'",
 "predicate": "told",
@@ -258,11 +254,9 @@
 "hl": null,
 "id": "wilbert-smith",
 "instId": "canada-dot",
-"l0": false,
 "label": "Wilbert Brockhouse Smith",
 "loc": "Ottawa, Ontario, Canada",
 "locId": "l-ottawa",
-"members": null,
 "narrative": "Wilbert Brockhouse Smith (1910 - 27 December 1962) is the earliest named government official anywhere on record to have been told, and to have written down, that the American flying saucer question was classified above the hydrogen bomb and was being run by Vannevar Bush. Smith joined the Canadian Department of Transport in 1939, built Canada's far north ionospheric monitoring system in 1947, and was Canada's chief delegate to the North American Regional Broadcasting Agreement conferences of 1949 and 1950; by 1952 he was Senior Radio Engineer of the DOT's Broadcast and Measurements section, and in 1957 became Superintendent of Radio Regulations Engineering. At the 1950 NARBA conference in Washington he made enquiries of the American scientist Dr Robert Sarbacher and came away with four assertions which he set down in a memorandum, 'Geo-Magnetics', addressed to the Controller of Telecommunications and dated 21 November 1950: that the matter was the most highly classified subject in the United States government, rating higher even than the H-bomb; that flying saucers exist; that their modus operandi was unknown but that a concentrated effort was being made by a small group headed by Doctor Vannevar Bush; and that the entire matter was considered by US authorities to be of tremendous significance. That memorandum was classified Top Secret and was not downgraded to Confidential until 1969. Library and Archives Canada quotes the same memorandum in its own online exhibition: 'the existence of a different technology is borne out by the investigations which are being carried on at the present time in relation to flying saucers ... I feel that the correlation between our basic theory and the available information on saucers checks too closely to be mere coincidence.' The memorandum was the successful request that produced Project Magnet.",
 "photoCredit": null,
 "sequenceChain": [],

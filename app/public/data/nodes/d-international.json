@@ -3,7 +3,6 @@
 "C": 1,
 "D": 2,
 "absorbedBy": "office-models",
-"band": null,
 "claims": [
 {
 "id": "c-75d55786ba",
@@ -50,7 +49,6 @@
 "edgeLabel": "Comparative disclosure as leverage",
 "family": "analysis",
 "id": "d-disclosure",
-"l0": false,
 "label": "Disclosure Movement",
 "note": "GEIPAN's published classification scheme and open case archive establish that an acknowledged state programme is possible, shifting the burden onto the concealment argument.",
 "predicate": "parallels",
@@ -77,7 +75,6 @@
 "edgeLabel": "GEIPAN's operating base",
 "family": "analysis",
 "id": "l-toulouse",
-"l0": false,
 "label": "Toulouse, France",
 "note": "GEIPAN has operated within CNES at Toulouse since 1977, publishing classifications and statistics openly.",
 "predicate": "exemplifies",
@@ -104,7 +101,6 @@
 "edgeLabel": "A foreign case now under US congressional inquiry",
 "family": "analysis",
 "id": "l-varginha",
-"l0": false,
 "label": "Varginha, Minas Gerais, Brazil",
 "note": "In July 2026 a US lawmaker formally requested FBI and CIA holdings on the 1996 Varginha incident.",
 "predicate": "exemplifies",
@@ -138,10 +134,8 @@
 },
 "hl": null,
 "id": "d-international",
-"l0": false,
 "label": "International & Allied Programs",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "International & Allied Programs",
 "sourceFiles": [

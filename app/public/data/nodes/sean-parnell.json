@@ -7,7 +7,6 @@
 "US Army (2000-2006)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-02-20",
@@ -59,7 +58,6 @@
 "edgeLabel": "First departmental acknowledgement of the directive",
 "family": "testimony",
 "id": "trump-uap-release-directive-2026",
-"l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Parnell said the department 'looks forward to working with the interagency to fulfill the president's directive', framing PURSUE as interagency implementation rather than an AARO or congressional product.",
 "predicate": "acknowledged",
@@ -95,11 +93,9 @@
 "hl": null,
 "id": "sean-parnell",
 "instId": "dod",
-"l0": false,
 "label": "Sean Parnell",
 "loc": "Arlington, VA",
 "locId": "l-dc",
-"members": null,
 "narrative": "Parnell is the Department's voice on the release programme's front end. On 20 February 2026 he said the department 'looks forward to working with the interagency to fulfill the president's directive' - the first official departmental acknowledgement that a UAP release effort had been ordered. He is a supporting figure rather than a decision-maker, but the wording matters for the record: the department framed PURSUE from the outset as an interagency implementation of a presidential direction, not as an AARO product and not as a response to congressional demand, which is how the office and the committees were both written out of the authorship of the release.",
 "photoCredit": null,
 "sequenceChain": [],

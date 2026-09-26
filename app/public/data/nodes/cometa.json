@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": "research",
 "claims": [
 {
 "id": "c-46f1a9ee0d",
@@ -251,7 +250,6 @@
 "edgeLabel": "former CNES chairman; wrote the forward",
 "family": "role",
 "id": "andre-lebeau",
-"l0": false,
 "label": "Professeur André Lebeau",
 "note": "Letty states that without Norlain and Lebeau 'COMETA would not have been born'.",
 "predicate": "founded",
@@ -278,7 +276,6 @@
 "edgeLabel": "IHEDN director who sponsored the project",
 "family": "conduct",
 "id": "bernard-norlain",
-"l0": false,
 "label": "Général Bernard Norlain",
 "note": "Norlain's own preface records that Letty came to his IHEDN office in March 1995 and that he referred the project to the Auditors Association, which backed it.",
 "predicate": "supported",
@@ -305,7 +302,6 @@
 "edgeLabel": "founded and chaired COMETA",
 "family": "role",
 "id": "denis-letty",
-"l0": false,
 "label": "Général Denis Letty",
 "note": "Letty signs the report's foreword as chairman of the association and names the members and contributors himself.",
 "predicate": "founded",
@@ -332,7 +328,6 @@
 "edgeLabel": "produced the 1999 report",
 "family": "organisation",
 "id": "doc-cometa-report",
-"l0": false,
 "label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
 "note": "Published as a special issue of VSD in July 1999 and delivered to Prime Minister Lionel Jospin.",
 "predicate": "produced",
@@ -359,7 +354,6 @@
 "edgeLabel": "shared IHEDN lineage; SEPRA head contributed",
 "family": "documents",
 "id": "geipan",
-"l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "COMETA's introduction records the shared parentage: 'In 1976, a committee of the Institut des Hautes Etudes de Defense Nationale (IHEDN) chaired by General Blanchard of the Gendarmerie Nationale opened the unidentified flying objects file. The objective: to make proposals for organizing research and the collection of data on these phenomena. The goal was achieved, because the recommendations of this committee were followed in the creation of the Groupe d'Etude des Phenomenes Aerospatiaux Non Identifies (GEPAN).' COMETA then rests its own report on GEPAN/SEPRA's casework by name.",
 "predicate": "cites",
@@ -386,7 +380,6 @@
 "edgeLabel": "serving head of SEPRA contributed to the report",
 "family": "testimony",
 "id": "jj-velasco",
-"l0": false,
 "label": "Jean-Jacques Velasco",
 "note": "Letty names 'Jean-Jacques Velasco, Head of SEPRA at CNES' among those who gave testimony or contributed.",
 "predicate": "testified_at",
@@ -413,7 +406,6 @@
 "edgeLabel": "French private defence committee",
 "family": "place-time",
 "id": "l-france",
-"l0": false,
 "label": "France",
 "note": "The report states its own legal status on its title page: 'COMETA, an association governed by the Law of July 1, 1901', the French statute for non-profit associations. Its foreword, by former CNES chairman Andre Lebeau, and the account by the former director of the Institut des Hautes Etudes de Defense Nationale place its formation in the IHEDN Auditors Association after General Denis Letty approached IHEDN in March 1995.",
 "predicate": "located_at",
@@ -445,7 +437,6 @@
 "edgeLabel": "IHEDN origin; delivered to the Prime Minister",
 "family": "place-time",
 "id": "l-paris",
-"l0": false,
 "label": "Paris, France",
 "note": "TIER 3. What the report establishes: General Norlain, then director of the IHEDN, writes that 'when General Letty visited me in March 1995 at my office at IHEDN to explain to me his project for creating a new fact-finding committee on UFOs, I assured him of my interest and referred him to the management of the IHEDN Auditors Association'. What it does not establish is the city. Paris appears nowhere in the report in connection with COMETA; the IHEDN sits at the Ecole militaire in Paris, but that is knowledge brought to the document rather than read from it. Nor does the report record delivery to the head of government - it says only that its authors believed 'sufficient questions of national interest are raised for the Chief of State and the Prime Minister to be provided with this information.'",
 "predicate": "located_at",
@@ -477,7 +468,6 @@
 "edgeLabel": "adopts Hynek's Blue Book-era classification",
 "family": "documents",
 "id": "project-blue-book",
-"l0": true,
 "label": "Project Blue Book",
 "note": "COMETA states that the strangest category D cases 'are generally labeled CE3s (close encounters of the third kind) according to the classification proposed by Professor A. Hynek, an astronomer and consultant to the USAF, within the context of the Blue Book Project'. A committee of retired French flag officers adopting Blue Book's own consultant's taxonomy is the inheritance this edge records.",
 "predicate": "cites",
@@ -504,7 +494,6 @@
 "edgeLabel": "dedicated appendix on Roswell and disinformation",
 "family": "documents",
 "id": "roswell-1947",
-"l0": true,
 "label": "Roswell Incident",
 "note": "COMETA's Appendix 5 is titled 'The Roswell Affair - Disinformation'. A committee of retired French flag officers treating Roswell as a subject requiring an appendix in a defence study is itself part of what this edge records; the report's own framing places it under disinformation rather than under evidence.",
 "predicate": "studied",
@@ -531,7 +520,6 @@
 "edgeLabel": "cites Soviet statistical distributions as comparable",
 "family": "analysis",
 "id": "setka-program",
-"l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "TIER 3, INFERENTIAL. COMETA records that 'statistical studies in the USSR yielded distributions comparable to those determined by Claude Poher, the first head of GEPAN, from some 200 French cases, or 1,000 cases worldwide.' The report does not name the Setka programme, or any Soviet programme, anywhere in that passage. That the studies it refers to are Setka's is inference from the period and the scale, not citation, and this edge should not be read as COMETA citing Setka.",
 "predicate": "parallels",
@@ -648,59 +636,14 @@
 },
 "hl": null,
 "id": "cometa",
-"l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "andre-lebeau",
-"label": "Professeur André Lebeau",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "bernard-norlain",
-"label": "Général Bernard Norlain",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "denis-letty",
-"label": "Général Denis Letty",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "doc-cometa-report",
-"label": "Les OVNI et la Défense: à quoi doit-on se préparer? (COMETA report, July 1999)",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "jj-velasco",
-"label": "Jean-Jacques Velasco",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-france",
-"label": "France",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-paris",
-"label": "Paris, France",
-"tier": "C"
-}
-],
 "openQuestions": [
 "The English-language PDF used here appears to be truncated at approximately page 40, ending inside chapter 8.3.6. The full 'Conclusion and Recommendations' section listed in the table of contents was not readable in this copy, so the frequently quoted conclusion about an 'almost certain physical reality' of unknown craft has deliberately NOT been quoted or attributed here.",
 "Whether COMETA was formally transmitted to President Jacques Chirac, and by what route, is not established from any primary source located. Several secondary accounts assert it; the English Wikipedia flags the Velasco-to-Jospin handover as uncited.",
 "The original French first edition (VSD hors-série, July 1999) has not been consulted; all verbatim quotations above are from the English translation."
 ],
-"short": "COMETA",
+"short": "COMETA - Comité d'Études Approfondies",
 "sourceFiles": [
 "w2-international",
 "w6-international"

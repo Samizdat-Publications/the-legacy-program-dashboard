@@ -7,7 +7,6 @@
 "Committee on Oversight and Accountability / Government Reform"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2024-11-13",
@@ -45,7 +44,6 @@
 "edgeLabel": "Adversarial cross-examination that fixed the document's evidentiary status",
 "family": "oversight",
 "id": "immaculate-constellation-12-page-report",
-"l0": true,
 "label": "Immaculate Constellation 12-page report entered into the Congressional Record",
 "note": "Higgins established that the withholding of source identities was a choice, not an absence.",
 "predicate": "investigated",
@@ -81,11 +79,9 @@
 "hl": null,
 "id": "clay-higgins",
 "instId": "house-oversight-committee",
-"l0": false,
 "label": "Glen Clay Higgins",
 "loc": "Lafayette, LA",
 "locId": null,
-"members": null,
 "narrative": "Higgins performed the most rigorous adversarial questioning of the November 2024 hearing, and it improves rather than damages the record. A former law enforcement officer, he took Shellenberger through the Immaculate Constellation sourcing methodically: whether a non-public version of the author's report exists and where it might be found, whether the author's sources are known to him, whether they are inside the Department of Defense. Shellenberger confirmed he knows the author and knows the sources, expressed confidence in them, and declined to say whether they sit inside DoD - answering 'I cannot say' and then declining to distinguish cannot from will not. That exchange is the reason the 12-page document entered the Congressional Record as a sourced claim rather than an anonymous leak: a hostile questioner established that the journalist knew and could identify his sources and was withholding their identity by choice, not because they did not exist.",
 "photoCredit": null,
 "sequenceChain": [],

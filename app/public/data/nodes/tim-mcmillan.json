@@ -6,7 +6,6 @@
 "The Debrief (co-founder, Executive Director)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-06-05",
@@ -58,7 +57,6 @@
 "edgeLabel": "Obtained the Laingsburg police report and traced the 2017 raid to a homicide investigation",
 "family": "oversight",
 "id": "bob-lazar",
-"l0": false,
 "label": "Robert \"Bob\" Lazar",
 "note": "The documentary correction to the claim that the July 2017 search was about recovering element 115.",
 "predicate": "investigated",
@@ -85,7 +83,6 @@
 "edgeLabel": "Co-founder and Executive Director",
 "family": "role",
 "id": "the-debrief",
-"l0": false,
 "label": "The Debrief",
 "note": "Named on The Debrief's About page as Co-Founder and Executive Director.",
 "predicate": "founded",
@@ -121,11 +118,9 @@
 "hl": null,
 "id": "tim-mcmillan",
 "instId": "the-debrief",
-"l0": false,
 "label": "Tim McMillan",
 "loc": "United States",
 "locId": null,
-"members": null,
 "narrative": "Tim McMillan co-founded The Debrief and serves as its Executive Director, and in doing so built the outlet that has done more sustained, document-driven reporting on the legacy program than any legacy newsroom. The Debrief's significance is structural rather than personal: when the New York Times would not run the David Grusch story in June 2023, The Debrief did. A publication founded by McMillan with Micah Hanks and MJ Banias absorbed a story the paper of record declined, and that transfer is one of the cleanest available illustrations of how the institutional press has handled this subject. McMillan, a former law enforcement officer turned investigative reporter, has reported extensively on the Pentagon's UAP effort and on the personnel moving between the task force, AARO and the contractor base.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-e50076785e",
@@ -89,7 +88,6 @@
 "edgeLabel": "the Air Force called Aurora classified after its own department published the figures",
 "family": "denial",
 "id": "usaf",
-"l0": true,
 "label": "United States Air Force",
 "note": "'Reminded that Aurora has been put in the public domain by the Pentagon, an Air Force spokesman said his orders still were to say only: It's a classified program.' The denial is of disclosability, not of an anomalous craft -- the article's own sources point at Stealth.",
 "predicate": "refused",
@@ -154,10 +152,8 @@
 },
 "hl": null,
 "id": "aurora-budget-line",
-"l0": false,
 "label": "Aurora (FY1986-FY1987 procurement line)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Aurora (FY1986-FY1987 procurement line)",
 "sourceFiles": [

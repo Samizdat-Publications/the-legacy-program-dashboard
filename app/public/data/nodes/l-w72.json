@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-8854d82a41",
@@ -47,7 +46,6 @@
 "edgeLabel": "Site of the near-midair that anchors the safety case",
 "family": "place-time",
 "id": "roosevelt-2014-2015",
-"l0": true,
 "label": "USS Theodore Roosevelt Encounters (2014-2015)",
 "note": "Restricted training airspace ten miles east of Virginia Beach where two F/A-18Fs 100 feet apart took evasive action around a stationary cube-in-sphere object.",
 "predicate": "occurred_at",
@@ -81,10 +79,8 @@
 },
 "hl": null,
 "id": "l-w72",
-"l0": false,
 "label": "Warning Area W-72, off Virginia Beach",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Warning Area W-72, off Virginia Beach",
 "sourceFiles": [

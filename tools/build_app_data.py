@@ -20,12 +20,12 @@ node's own file carries `absorbedBy: <topic id>`; phase 6 redirects its page.
 
 WHAT IS DERIVED HERE AND WHAT IS COPIED
 ---------------------------------------
-Nothing in this file invents a fact.  `band` and `era` are the L0 model's own
-values, read out of data/l0-layout-model.json (`current`), which is where
-tools/build_l0_layout.mjs bakes them -- rarest-role band, ERAS table for the era.
-For a node the L0 model does not carry (the 902 below the floor) the band is
-null, and the era is derived from the node's start year against that same era
-table, which is the only rule this file applies and it is the model's table.
+Nothing in this file invents a fact.  `era` is derived from the node's start
+year against the ERAS table below, which is the only rule this file applies.
+`deg` is the node's count of DISTINCT neighbours on the board, the definition
+tools/build_l0.py used (a pair joined by three hand-written edges is one
+neighbour, not three).  The L0 program map, its bands and its layout model
+retired in redesign phase 11 (26 September 2026); nothing here reads them.
 
 DENIAL DIRECTION.  notes/DENIAL-ADJUDICATION-2026-08-26.md read all 174 denial
 edges one at a time and found the shipped "a issued it, b is the subject"
@@ -59,14 +59,13 @@ import tempfile
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "topics"))
 import topiclib  # noqa: E402
 import source_pages  # noqa: E402  (phase 8: the source registry as the app ships it)
+import dossiers  # noqa: E402  (phase 11: the entity dossiers, moved out of build_l0.py)
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "app", "public", "data")
 PAT_OUT = os.path.join(ROOT, "app", "public", "patents")
 
 BOARD = "data/the-program.json"
-L0_MODEL = "data/l0-model.json"
-L0_LAYOUT = "data/l0-layout-model.json"
 L0_HIGHLIGHTS = "data/l0-highlights.json"
 L0_SHORTS = "data/l0-shorts.json"
 FOIA_LINKS = "data/foia-links.json"
@@ -78,21 +77,27 @@ SUGGESTIONS = "data/analyst-suggestions.json"
 VOCAB = "schema/vocab.json"
 PREDICATES = "research/_predicates.json"
 
-INPUTS = [BOARD, L0_MODEL, L0_LAYOUT, L0_HIGHLIGHTS, L0_SHORTS, FOIA_LINKS,
+INPUTS = [BOARD, L0_HIGHLIGHTS, L0_SHORTS, FOIA_LINKS,
           PATENTS_VIEW, OBSERVABLES_VIEW, SUGGESTIONS, VOCAB, PREDICATES]
 
 # The analyst's chips, one list per route kind.  app/src/analyst/chips.ts maps
-# route kinds onto these nine keys and nothing else, so a key added here that
-# the page does not know is a key nothing renders.
-ANALYST_KEYS = ["home", "node", "map", "hood", "thread",
+# route kinds onto these keys and nothing else, so a key added here that the
+# page does not know is a key nothing renders.
+ANALYST_KEYS = ["home", "node", "hood", "thread",
                 "timeline", "patents", "evidence", "report"]
+# Keys data/analyst-suggestions.json may still carry that the app no longer
+# renders.  `map` went with the L0 map in phase 11 (#/map redirects to the Atlas).
+# The file is Stewart's and its chips are not deleted for him, so a retired key is
+# read, held to the same shape, and the figures its chips quote are still checked,
+# but it is not shipped.
+ANALYST_RETIRED_KEYS = ["map"]
 ANALYST_MIN = 3
 
 ANALYST_WORKER = "https://the-program-analyst.stewartgregerson.workers.dev"
 
-# The era table, verbatim from tools/build_l0_layout.mjs.  It is repeated here
-# rather than re-invented: the ids, bounds and labels must be the model's, and
-# the build asserts below that they still match data/l0-layout-model.json.
+# The era table.  It came verbatim from tools/build_l0_layout.mjs, which was its
+# authority until the L0 map retired in phase 11 (26 September 2026); this
+# constant is the authority now.
 ERAS = [
     {"id": "0", "label": "THROUGH 1969", "sub": "Estimate through Blue Book",
      "start": None, "end": 1969},
@@ -190,9 +195,9 @@ def source_hash():
     "sourceCommit" -- the same class of defect, a published value that moves when
     the content has not.  It is gone; `source` is the provenance stamp.
 
-    THE BUILD-DATE STAMP IS NEUTRALISED TOO (25 September 2026).  merge.py and
-    build_l0.py write `"generated": "<today>"` into their outputs, which are inputs
-    here, so hashing the stamp made `source` a function of the DAY the pipeline ran.
+    THE BUILD-DATE STAMP IS NEUTRALISED TOO (25 September 2026).  merge.py (and,
+    until phase 11, build_l0.py) write `"generated": "<today>"` into their
+    outputs, which are inputs here, so hashing the stamp made `source` a function of the DAY the pipeline ran.
     That did not matter while CI rebuilt only this step from committed inputs; it
     matters now that tools/build.py runs the whole pipeline and check_rebuild.py
     compares everything, because a commit built on one day and rebuilt in CI on the
@@ -217,13 +222,11 @@ def source_hash():
 class Src(object):
     def __init__(self, board_rel=BOARD):
         self.board = rd(board_rel)
-        self.l0 = rd(L0_MODEL)
-        self.layout = rd(L0_LAYOUT)["current"]
         self.highlights = rd(L0_HIGHLIGHTS)
         self.shorts = rd(L0_SHORTS).get("shorts", {})
-        # the model's `l0` list carries the full record of every node above the
-        # floor, including the derived `short`; `nodes` is a compact id -> tuple map
-        self.l0_short = {x["id"]: x.get("short") for x in (self.l0.get("l0") or []) if isinstance(x, dict) and x.get("id")}
+        # the entity dossiers (research/dossiers/, capped by the node sourcing
+        # rules), through tools/dossiers.py since the L0 model retired in phase 11
+        self.dossiers = dossiers.load_dossiers()
         self.foia = rd(FOIA_LINKS)
         self.patents = rd(PATENTS_VIEW)
         self.observables = rd(OBSERVABLES_VIEW)
@@ -236,8 +239,7 @@ class Src(object):
         self.reg = source_pages.Registry(ROOT)
 
     def generated(self):
-        vals = [self.board.get("generated"), self.l0.get("generated"),
-                rd(L0_LAYOUT).get("generated")]
+        vals = [self.board.get("generated")]
         return max(v for v in vals if v)
 
 
@@ -294,16 +296,6 @@ def predicate_view(s, e, here):
             "predicateShown": shown}
 
 
-def check_era_table(layout):
-    """The era table above must still be the model's.  Fails loudly if it moved."""
-    want = [(str(e["id"]), e["label"]) for e in layout["eras"]]
-    have = [(e["id"], e["label"]) for e in ERAS]
-    if want != have:
-        raise SystemExit(
-            "era table drift: data/l0-layout-model.json says %r, this file says %r.\n"
-            "Do not edit the constant to silence this -- the model is the authority."
-            % (want, have))
-
 
 # ---------------------------------------------------------------- derivation
 
@@ -318,12 +310,15 @@ def build_indexes(s):
     """Everything the several outputs share, derived once."""
     ix = {}
 
-    # degree, from the L0 model's node table: id -> [label, cls, deg, tier]
-    ix["deg"] = {k: v[2] for k, v in s.l0["nodes"].items()}
-
-    # the L0 floor
-    ix["l0ids"] = set(n["id"] for n in s.l0["l0"])
-    ix["layout"] = {n["id"]: n for n in s.layout["nodes"]}
+    # degree: DISTINCT neighbours on the board, the definition build_l0.py used
+    # until phase 11 (a pair carrying three hand-written edges is one neighbour).
+    # An edge naming a node that is not on the board adds nothing, as it did there.
+    nb = {n["id"]: set() for n in s.nodes}
+    for e in s.board["edges"]:
+        if e["a"] in nb and e["b"] in nb:
+            nb[e["a"]].add(e["b"])
+            nb[e["b"]].add(e["a"])
+    ix["deg"] = {k: len(v) for k, v in nb.items()}
 
     # start-here register: rank 1..14, in the authored order
     ix["hl"] = {f["id"]: i + 1 for i, f in enumerate(s.highlights["flags"])}
@@ -371,17 +366,14 @@ def build_indexes(s):
 
 
 def short_of(s, n):
-    """data/l0-shorts.json where authored, else the L0 model's derived short for a
-    map node (build_l0.py derives one for every node above the floor and the map
-    has always drawn it), else the label."""
+    """data/l0-shorts.json where authored, else the full label.  Until phase 11 a
+    map node without an authored short took one build_l0.py derived (the label cut
+    at its first " - " or its trailing parenthesis); labels are not truncated now."""
     a = s.shorts.get(n["id"])
     if isinstance(a, str) and a.strip():
         # a spaced em dash in a display label becomes " - " (phase 3 decision 7;
         # recorded in tools/DISPLAY-NORMALISED.json by merge.py)
         return SPACED_EM_DASH.sub(" - ", a.strip())
-    m = getattr(s, "l0_short", {}).get(n["id"])
-    if isinstance(m, str) and m.strip():
-        return m.strip()
     return n["label"]
 
 
@@ -391,12 +383,10 @@ def index_json(s, ix, meta):
     nodes = []
     for n in s.nodes:
         ds, de = node_dates(n)
-        lay = ix["layout"].get(n["id"])
         nodes.append({
             "A": n.get("A"),
             "C": n.get("C"),
             "D": n.get("D"),
-            "band": lay["band"] if lay else None,
             "claims": ix["claimTiers"][n["id"]],
             "cls": n.get("cls"),
             "cluster": n.get("cluster"),
@@ -411,7 +401,6 @@ def index_json(s, ix, meta):
             "era": era_of(ds),
             "hl": ix["hl"].get(n["id"]),
             "id": n["id"],
-            "l0": n["id"] in ix["l0ids"],
             "label": n["label"],
             "short": short_of(s, n),
             "status": n.get("status"),
@@ -419,8 +408,6 @@ def index_json(s, ix, meta):
         })
     nodes.sort(key=lambda r: r["id"])
     return {
-        "bands": [{"id": b["id"], "label": b["id"].replace("-", " ")}
-                  for b in s.layout["bands"]],
         "classes": [{"colour": CLASS_COLOUR[c], "id": c, "label": c}
                     for c in sorted(CLASS_COLOUR)],
         "clusters": [{"id": c, "label": CLUSTER_LABEL.get(c, c)}
@@ -452,7 +439,6 @@ def counts(s, ix):
         "foia": {"nodes": len(s.foia["byNode"]),
                  "questions": fq,
                  "requests": len(s.foia["requests"])},
-        "l0": len(s.l0["l0"]),
         "nodes": len(s.nodes),
         "patents": len(pv["filings"]),
         "people": len(s.board["people"]),
@@ -657,7 +643,7 @@ def claims_json(s, ix):
 def node_files(s, ix):
     """One file per node.  Returns {id: object}."""
     absorbed_by = {i: t["id"] for t in s.topics for i in (t.get("absorbs") or [])}
-    dossiers = s.l0["dossiers"]
+    doss = s.dossiers
     ei = s.board.get("entityInfo", {})
     byNode = s.foia["byNode"]
     out = {}
@@ -675,12 +661,9 @@ def node_files(s, ix):
         rec["dateStart"], rec["dateEnd"] = ds, de
         rec["short"] = short_of(s, n)
         rec["era"] = era_of(ds)
-        lay = ix["layout"].get(nid)
-        rec["band"] = lay["band"] if lay else None
-        rec["l0"] = nid in ix["l0ids"]
         rec["deg"] = ix["deg"].get(nid, 0)
         rec["hl"] = ix["hl"].get(nid)
-        rec["dossier"] = dossiers.get(nid)
+        rec["dossier"] = doss.get(nid)
         rec["claims"] = [dict(c, sources=s.reg.claim_refs(c.get("id")),
                               unresolved=s.reg.why_unresolved(c.get("id")))
                          for c in (n.get("claims") or [])]
@@ -708,7 +691,6 @@ def node_files(s, ix):
                 # the edge's own stable id (phase 4); `id` is the neighbour's
                 "edgeId": e.get("id"),
                 "id": other,
-                "l0": other in ix["l0ids"],
                 "label": o["label"],
                 "note": e.get("note") or "",
                 "sources": e.get("sources") or [],
@@ -759,75 +741,12 @@ def node_files(s, ix):
         qs = sorted(set(q for r in reqs for q in (r["questions"] + r["partial"])))
         rec["foia"] = {"questions": qs, "requests": reqs}
 
-        rec["members"] = (sorted(lay["members"], key=lambda m: m["id"])
-                          if lay else None)
         # a domain node a topic absorbs (phase 5): its page becomes that topic's
         if nid in absorbed_by:
             rec["absorbedBy"] = absorbed_by[nid]
         out[nid] = rec
     return out
 
-
-def map_json(s, ix, meta):
-    lay = s.layout
-    lab = {}
-    for e in s.board["edges"]:
-        if e.get("type") == "denial" and (e.get("label") or "").strip():
-            lab[tuple(sorted((e["a"], e["b"])))] = e["label"].strip()
-
-    nodes = []
-    for n in lay["nodes"]:
-        b = s.byid.get(n["id"], {})
-        ds, _ = node_dates(b) if b else (None, None)
-        nodes.append({
-            "A": n.get("A"), "C": n.get("C"), "D": n.get("D"),
-            "band": n["band"], "cls": n["cls"], "cluster": n["cluster"],
-            "dateStart": ds, "era": str(n["era"]) if n["era"] is not None else "nd",
-            "hl": ix["hl"].get(n["id"]), "id": n["id"],
-            "label": n["label"], "short": n["short"], "tier": n["tier"],
-        })
-    nodes.sort(key=lambda r: r["id"])
-
-    direct, summarised, pairs = [], [], []
-    for e in lay["edges"]:
-        if e["kind"] == "direct":
-            direct.append({"a": e["a"], "b": e["b"], "tier": e["tier"],
-                           "types": sorted(e.get("types") or [])})
-            if e.get("denial"):
-                by = e.get("denier") or e["a"]
-                of = e["b"] if by == e["a"] else e["a"]
-                pairs.append({"by": by, "kind": e.get("denialKind"),
-                              "label": lab.get(tuple(sorted((e["a"], e["b"])))) or "",
-                              "of": of})
-        else:
-            summarised.append({"a": e["a"], "b": e["b"],
-                               "via": sorted(e.get("via") or [])})
-    direct.sort(key=lambda r: (r["a"], r["b"]))
-    summarised.sort(key=lambda r: (r["a"], r["b"]))
-    pairs.sort(key=lambda r: (r["by"], r["of"]))
-
-    cells = {}
-    for n in nodes:
-        cells.setdefault("%s.%s" % (n["band"], n["era"]), []).append(n["id"])
-    for k in cells:
-        cells[k].sort()
-
-    return {
-        "bands": [{"id": b["id"], "label": b["id"].replace("-", " ")}
-                  for b in lay["bands"]],
-        "cells": cells,
-        "denialPairs": pairs,
-        "direct": direct,
-        "entryPaths": [{"blurb": p["blurb"], "id": p["id"], "ids": p["ids"],
-                        "label": p["label"], "onMap": p["onMap"],
-                        "total": p["total"]}
-                       for p in sorted(s.l0["entryPaths"], key=lambda p: p["id"])],
-        "eras": ERAS,
-        "generated": meta["generated"],
-        "nodes": nodes,
-        "source": meta["source"],
-        "summarised": summarised,
-    }
 
 
 def patents_json(s, meta):
@@ -981,8 +900,8 @@ def analyst_json(s, ix, meta):
     except Exception as e:                                  # noqa: BLE001
         raise SystemExit("%s could not be read: %s" % (SUGGESTIONS, e))
 
-    by_route = {}
-    for key in ANALYST_KEYS:
+    by_route, retired = {}, {}
+    for key in ANALYST_KEYS + [k for k in ANALYST_RETIRED_KEYS if k in raw]:
         got = raw.get(key)
         if not isinstance(got, list):
             raise SystemExit("%s has no list for the route key %r" % (SUGGESTIONS, key))
@@ -993,15 +912,16 @@ def analyst_json(s, ix, meta):
         if len(chips) < ANALYST_MIN:
             raise SystemExit("%s: %r has %d chips, the floor is %d"
                              % (SUGGESTIONS, key, len(chips), ANALYST_MIN))
-        by_route[key] = chips
+        (by_route if key in ANALYST_KEYS else retired)[key] = chips
 
     unknown = [k for k in raw
-               if not k.startswith("_") and k not in ANALYST_KEYS]
+               if not k.startswith("_") and k not in ANALYST_KEYS + ANALYST_RETIRED_KEYS]
     if unknown:
         raise SystemExit("%s carries route keys the app does not render: %s"
                          % (SUGGESTIONS, ", ".join(sorted(unknown))))
 
-    check_chip_figures(raw, by_route, counts(s, ix))
+    # a retired key's chips are still Stewart's words and still quote figures
+    check_chip_figures(raw, {**by_route, **retired}, counts(s, ix))
 
     return {"byRoute": by_route, "generated": meta["generated"],
             "shape": "per-route", "source": meta["source"],
@@ -1223,7 +1143,6 @@ def copy_patents(quiet=False):
 
 def build(quiet=False):
     s = Src()
-    check_era_table(s.layout)
     ix = build_indexes(s)
     meta = {"generated": s.generated(), "source": source_hash()}
 
@@ -1236,8 +1155,6 @@ def build(quiet=False):
                     write(os.path.join(OUT, "timeline.json"), timeline_json(s), 0)))
     written.append(("data/claims.json",
                     write(os.path.join(OUT, "claims.json"), claims_json(s, ix), 0)))
-    written.append(("data/map.json",
-                    write(os.path.join(OUT, "map.json"), map_json(s, ix, meta), 1)))
     written.append(("data/threads.json",
                     write(os.path.join(OUT, "threads.json"), threads_json(s, meta), 1)))
     written.append(("data/patents.json",
@@ -1319,7 +1236,6 @@ def check(board_rel=BOARD, quiet=False):
         for c in (n.get("claims") or []):
             if c.get("tier") in ct:
                 ct[c["tier"]] += 1
-    l0 = rd(L0_MODEL)
     foia = rd(FOIA_LINKS)
     pv = rd(PATENTS_VIEW)
     th = rd(THREADS) if os.path.exists(os.path.join(ROOT, THREADS)) else []
@@ -1333,7 +1249,6 @@ def check(board_rel=BOARD, quiet=False):
         "entities": len(b["entities"]),
         "foia": {"nodes": len(foia["byNode"]), "questions": fq,
                  "requests": len(foia["requests"])},
-        "l0": len(l0["l0"]),
         "nodes": len(nodes),
         "patents": len(pv["filings"]),
         "people": len(b["people"]),
@@ -1539,7 +1454,7 @@ def self_test():
     # And the chip figures, both ways round: a figure the board no longer
     # carries, and a figure no chip quotes any more.  Shown, not asserted.
     raw = json.load(open(os.path.join(ROOT, SUGGESTIONS), encoding="utf-8"))
-    by_route = {k: raw[k] for k in ANALYST_KEYS}
+    by_route = {k: raw[k] for k in ANALYST_KEYS + ANALYST_RETIRED_KEYS if k in raw}
     ct = counts(Src(), build_indexes(Src()))
     if not raw.get("_figures"):
         print("  skip: data/analyst-suggestions.json declares no _figures")

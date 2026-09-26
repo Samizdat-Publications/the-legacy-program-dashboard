@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-755a84be2d",
@@ -43,7 +42,6 @@
 "edgeLabel": "FAA surveillance data - engineered by a MITRE FFRDC - is a named AARO data source",
 "family": "analysis",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "AARO draws on FAA radar and reporting; the systems engineering authority over that data belongs to MITRE's CAASD. No claim of filtering is made; the dependency is the point.",
 "predicate": "affects",
@@ -75,7 +73,6 @@
 "edgeLabel": "MITRE operates CAASD for the FAA",
 "family": "organisation",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "CAASD gives MITRE the engineering authority over the civil air surveillance picture, under contracts DTFAWA10C00080 and 693KA822C00001.",
 "predicate": "ran",
@@ -109,10 +106,8 @@
 },
 "hl": null,
 "id": "mitre-caasd",
-"l0": false,
 "label": "Center for Advanced Aviation System Development (CAASD)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Center for Advanced Aviation System Development (CAASD)",
 "sourceFiles": [

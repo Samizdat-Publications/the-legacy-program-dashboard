@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": "disclosure",
 "claims": [
 {
 "id": "c-31736eb0f3",
@@ -331,7 +330,6 @@
 "edgeLabel": "The unit history the event node names as decisive, now opened",
 "family": "documents",
 "id": "doc-341-smw-history-1967",
-"l0": false,
 "label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
 "note": "The unit history is the document the event node names as decisive, and it records the shutdown while stating that the UFO reports around it were disproven.",
 "predicate": "concerns",
@@ -358,7 +356,6 @@
 "edgeLabel": "The on-duty crew commander denies any UFO report reached the capsule",
 "family": "denial",
 "id": "eric-carlson",
-"l0": false,
 "label": "Capt. Eric D. Carlson",
 "note": "A witness for the negative, carried at the same tier as the witnesses for the positive. His account reaches the public through his son, which is structurally the same kind of evidence as the accounts it contradicts.",
 "predicate": "denied",
@@ -390,7 +387,6 @@
 "edgeLabel": "The documented shutdown was of this wing's Echo Flight",
 "family": "place-time",
 "id": "l-malmstrom",
-"l0": false,
 "label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
 "note": "The 341st Strategic Missile Wing history records the shutdown at Malmstrom AFB by name.",
 "predicate": "occurred_at",
@@ -417,7 +413,6 @@
 "edgeLabel": "Minot 1966 precedes the Malmstrom shutdowns by seven months",
 "family": "place-time",
 "id": "minot-1966",
-"l0": false,
 "label": "Minot AFB incursions, 1966",
 "note": "Different wing, different state, same category of report. The sequence F. E. Warren 1965, Minot 1966, Malmstrom 1967 establishes recurrence rather than a single-site anomaly.",
 "predicate": "preceded",
@@ -444,7 +439,6 @@
 "edgeLabel": "Minot 1968 extends the pattern with instrumented detection",
 "family": "place-time",
 "id": "minot-1968",
-"l0": false,
 "label": "Minot AFB B-52 incident, 24 October 1968",
 "note": "Where Malmstrom 1967 is a documented shutdown with contested causation, Minot 1968 adds ground radar, airborne radar, weather radar, visual observation, a four-minute radio failure and physical security alarms at Minuteman silos.",
 "predicate": "preceded",
@@ -471,7 +465,6 @@
 "edgeLabel": "Hastings holds and publishes the 17 March 1967 teletype",
 "family": "documents",
 "id": "robert-hastings",
-"l0": false,
 "label": "Robert L. Hastings",
 "note": "The document is published in facsimile in the UFOs & Nukes archive under the Echo Flight heading, and is the tier-1 anchor for the occurrence of the shutdown.",
 "predicate": "published",
@@ -498,7 +491,6 @@
 "edgeLabel": "Boeing engineer on the investigation task group",
 "family": "oversight",
 "id": "robert-kaminski",
-"l0": false,
 "label": "Robert J. Kaminski",
 "note": "HIS ACCOUNT REACHED THE PUBLIC AS A 1997 LETTER TO RESEARCHER JIM KLOTZ, THIRTY YEARS AFTER THE EVENT. The half of it that says no cause was found is corroborated by the unit history; the half that says the inquiry was stopped with no report filed is contradicted by it.",
 "predicate": "investigated",
@@ -535,7 +527,6 @@
 "edgeLabel": "Principal named witness to the March 1967 shutdown",
 "family": "testimony",
 "id": "robert-salas",
-"l0": false,
 "label": "Capt. Robert L. Salas",
 "note": "Salas first went on the record in 1996 with the Great Falls Tribune, describing a security police report of a glowing red object over the front gate immediately before his flight's missiles went off alert.",
 "predicate": "witnessed",
@@ -562,7 +553,6 @@
 "edgeLabel": "The 1975 wave returned to Malmstrom on documented record",
 "family": "place-time",
 "id": "sac-overflights-1975",
-"l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "The 24th NORAD Region Senior Director's log and the NMCC memorandum of 8 November 1975 place radar-tracked objects over Malmstrom missile sites eight years after the Echo Flight shutdown, this time with F-106 scrambles logged.",
 "predicate": "preceded",
@@ -589,7 +579,6 @@
 "edgeLabel": "Published argument from the released paper that no UFO element is supported",
 "family": "denial",
 "id": "tim-hebert",
-"l0": false,
 "label": "Tim Hebert",
 "note": "The most careful sceptical reading opened by this board, and the one whose ECP 1221 claim this board verified independently against the primary document. His argument from the unit history's silence has a documented counterexample at Wurtsmith.",
 "predicate": "disputed",
@@ -621,7 +610,6 @@
 "edgeLabel": "The Air Force's own history states the UFO rumours were disproven",
 "family": "denial",
 "id": "usaf",
-"l0": true,
 "label": "United States Air Force",
 "note": "A DIRECTED DENIAL BY THE BODY THAT OWNED THE EVENT, and the only occurrence of the words Unidentified Flying Object in 88 released pages. Quoted in full because each side quotes half: 'Rumors of Unidentified Flying Objects (UFO) around the area of Echo Flight during the time of fault were disproven. A Mobile Strike Team, which had checked all November Flight's LFs on the morning of 16 March 67, were questioned and stated that no unusual activity or sightings were observed.' NOTE WHAT THE EVIDENCE FOR THE DISPROOF IS: a team that had been at NOVEMBER Flight, not Echo Flight. The board records the non-sequitur without inflating it.",
 "predicate": "denied",
@@ -648,7 +636,6 @@
 "edgeLabel": "Deputy crew commander on duty; the contested Echo Flight radio report",
 "family": "testimony",
 "id": "walter-figel",
-"l0": false,
 "label": "Col. Walter Figel Jr.",
 "note": "HIS ACCOUNT EXISTS ONLY AS ROBERT HASTINGS'S AUDIO RECORDINGS OF TELEPHONE CALLS IN 2008, 2009 AND 2010. HE DECLINED TO SIGN AN AFFIDAVIT FOR THE 2010 NATIONAL PRESS CLUB EVENT. NO PRE-CONTACT PUBLIC STATEMENT BY HIM HAS BEEN IDENTIFIED. James Carlson states he said the opposite.",
 "predicate": "witnessed",
@@ -825,71 +812,8 @@
 },
 "hl": null,
 "id": "malmstrom-echo-flight-1967",
-"l0": true,
 "label": "Malmstrom AFB missile shutdowns, March 1967",
 "locLabel": null,
-"members": [
-{
-"cls": "document",
-"id": "doc-341-smw-history-1967",
-"label": "341st Strategic Missile Wing histories, 1967-68 (FOIA release, 14 June 2001)",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "eric-carlson",
-"label": "Capt. Eric D. Carlson",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-malmstrom",
-"label": "Malmstrom AFB and Minuteman Missile Fields, Montana",
-"tier": "B"
-},
-{
-"cls": "event",
-"id": "minot-1966",
-"label": "Minot AFB incursions, 1966",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "minot-1968",
-"label": "Minot AFB B-52 incident, 24 October 1968",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "robert-hastings",
-"label": "Robert L. Hastings",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "robert-kaminski",
-"label": "Robert J. Kaminski",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "robert-salas",
-"label": "Capt. Robert L. Salas",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "tim-hebert",
-"label": "Tim Hebert",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "walter-figel",
-"label": "Col. Walter Figel Jr.",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "Malmstrom Echo Flight, Mar 1967",
 "sourceFiles": [

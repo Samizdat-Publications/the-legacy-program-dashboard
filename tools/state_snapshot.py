@@ -86,39 +86,18 @@ def collect():
         "uniqueSourceUrls": len(sources),
     }
 
-    model = _load("data/l0-model.json") or {}
-    l0 = model.get("l0", [])
-    out["programMap"] = {
-        "l0Nodes": len(l0),
-        "withDossier": sum(1 for n in l0 if n.get("dossier")),
-        "floor": (model.get("config") or {}).get("floor"),
-        "degreeIs": (model.get("config") or {}).get("degreeIs"),
-        "entryPaths": {p["id"]: len(p["ids"]) for p in model.get("entryPaths", [])},
+    # The L0 program map, its model and its packed layout retired in redesign
+    # phase 11 (26 September 2026). The entity dossiers outlived them: they ship on
+    # each node's file in app/public/data/nodes/, loaded by tools/dossiers.py.
+    sys.path.insert(0, _p("tools"))
+    import dossiers  # noqa: E402
+    ids = {n.get("id") for n in nodes}
+    have = dossiers.dossier_ids()
+    out["dossiers"] = {
+        "authored": len(have),
+        "onBoard": len(have & ids),
     }
-
-    layout = _load("data/l0-layout-model.json") or {}
-    cur = layout.get("current") or {}
-    fig = cur.get("figures") or {}
-    out["layout"] = {
-        "generated": layout.get("generated"),
-        "l0": fig.get("l0"),
-        "edgesAtRest": fig.get("restDrawn"),
-        "edgesBeforeBudget": fig.get("drawnBeforeBudget"),
-        "restPct": fig.get("restPct"),
-        "bandOrderBasis": fig.get("bandOrderBasis"),
-        # These live under `figures`, not at the top of `current`. Reading them
-        # from the wrong path reported "no residual bands" and "no drift" on a
-        # model that carries two of the first and, on the legacy dataset, two of
-        # the second. A snapshot that quietly says "none" when it means "I looked
-        # in the wrong place" is the exact failure this script exists to prevent.
-        "rarityDrift": fig.get("rarityDrift"),
-        "residualBands": fig.get("residualBands"),
-        "legacyRarityDrift": ((layout.get("legacy") or {}).get("figures") or {}).get("rarityDrift"),
-        "highlightsFlagged": fig.get("flagged"),
-        "photoClears": fig.get("photoClears"),
-        "photoAsk": fig.get("photoAsk"),
-        "photoMissing": fig.get("photoMissing"),
-    }
+    out["generated"] = board.get("generated")
 
     hl = _load("data/l0-highlights.json") or {}
     out["highlights"] = {
@@ -149,9 +128,7 @@ def collect():
 
     out["artifacts"] = {
         "data/the-program.json": _mb("data/the-program.json"),
-        "data/l0-model.json": _mb("data/l0-model.json"),
-        "data/design-extract.json": _mb("data/design-extract.json"),
-        "data/l0-layout-model.json": _mb("data/l0-layout-model.json"),
+        "app/public/data/index.json": _mb("app/public/data/index.json"),
     }
     out["overGithubReadCap"] = sorted(
         k for k, v in out["artifacts"].items() if v and v > 1.0
@@ -204,7 +181,7 @@ def main():
     def head(t):
         print("\n" + t + "\n" + "-" * len(t))
 
-    print("THE PROGRAM -- state derived from source, %s" % state["layout"].get("generated"))
+    print("THE PROGRAM -- state derived from source, %s" % state.get("generated"))
     print("Read CLAUDE.md for the rules. This file only reports what is here.")
 
     head("board")
@@ -216,30 +193,10 @@ def main():
              b["claimTiers"]["T3"], b["primaryRecordShare"]))
     print("  %d unique source URLs" % b["uniqueSourceUrls"])
 
-    head("program map (L0)")
-    m = state["programMap"]
-    print("  %d nodes above a floor of %s (%s), %d with dossiers"
-          % (m["l0Nodes"], m["floor"], m["degreeIs"], m["withDossier"]))
-    print("  entry paths: " + " · ".join("%s %d" % kv for kv in m["entryPaths"].items()))
-
-    head("layout")
-    ly = state["layout"]
-    print("  %s edges at rest of %s (%s%%), bands by %s"
-          % (ly["edgesAtRest"], ly["edgesBeforeBudget"], ly["restPct"], ly["bandOrderBasis"]))
-    print("  rarity drift on current data: %s"
-          % ("none" % () if not ly["rarityDrift"] else ly["rarityDrift"]))
-    if ly.get("legacyRarityDrift"):
-        print("  rarity drift on the superseded legacy snapshot: %s"
-              % ", ".join("%s observed %d / pinned %d"
-                          % (d["tag"], d["observedRank"], d["pinnedRank"])
-                          for d in ly["legacyRarityDrift"]))
-        print("    ^ this is the pin WORKING, not failing. Do not edit RARITY_PIN to silence it.")
-    print("  residual bands: %s" % (", ".join(ly["residualBands"]) if ly["residualBands"] else "none"))
-    if ly.get("residualBands"):
-        print("    ^ a tag held by more than half the map. Its row is a residual, not a")
-        print("      category, and Design's answer is: do NOT promote it by hand.")
-    print("  images: %s clear, %s ask, %s falling back to the class letter"
-          % (ly["photoClears"], ly["photoAsk"], ly["photoMissing"]))
+    head("entity dossiers")
+    d = state["dossiers"]
+    print("  %d authored in research/dossiers/, %d on nodes of this board"
+          % (d["authored"], d["onBoard"]))
 
     head("editorial layers")
     h = state["highlights"]

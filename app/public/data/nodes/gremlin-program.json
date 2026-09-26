@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-747d096008",
@@ -55,7 +54,6 @@
 "edgeLabel": "AARO's prototype real-time UAP sensor platform",
 "family": "organisation",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Disclosed at the Volume I rollout in March 2024; a 90-day collection at a classified site was reported in November 2024.",
 "predicate": "ran",
@@ -82,7 +80,6 @@
 "edgeLabel": "two years after GREMLIN, the FY2025 report still cites lack of sensor data as the binding constraint",
 "family": "analysis",
 "id": "aaro-fy2025-annual-report",
-"l0": true,
 "label": "AARO FY2025 Consolidated Annual Report on UAP",
 "note": "AARO's stated remedy for its permanent excuse has produced no published result; the excuse is unchanged in the July 2026 report.",
 "predicate": "affects",
@@ -116,10 +113,8 @@
 },
 "hl": null,
 "id": "gremlin-program",
-"l0": false,
 "label": "GREMLIN",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "GREMLIN",
 "sourceFiles": [

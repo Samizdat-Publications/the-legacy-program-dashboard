@@ -4,7 +4,6 @@
 "D": 1,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -97,7 +96,6 @@
 "edgeLabel": "Named as a panel member inside the disputed document",
 "family": "documents",
 "id": "mj-12-documents",
-"l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "Bronk is named as an MJ-12 member in the Eisenhower Briefing Document as read aloud on Area 52 DEBRIEFED and again by the host in a separate episode. No record opened for this node connects him to the subject; his offices are the reason he is on the board.",
 "predicate": "concerns",
@@ -131,11 +129,9 @@
 "hl": null,
 "id": "detlev-bronk",
 "instId": null,
-"l0": false,
 "label": "Detlev W. Bronk",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Bronk sat at the top of the postwar civilian science advisory structure for twelve years, and the board has no node anywhere on that structure. The Department of State's own list of persons gives him as President of the National Academy of Sciences from 1950 to 1962. Over the same period he was a Presidentially appointed member of the National Advisory Committee for Aeronautics and was re-elected its Vice Chairman on 22 October 1954, under Jerome C. Hunsaker as chairman, listed then as President of the Rockefeller Institute for Medical Research and in 1952 as President of Johns Hopkins University. In 1962 he chaired the President's Science Advisory Committee's International Science Panel, whose report on science and technology in the Department of State was forwarded to Secretary Rusk on 16 March 1962. He is named as an MJ-12 member in three Area 52 lead maps and in no opened record.",
 "photoCredit": null,
 "sequenceChain": [],

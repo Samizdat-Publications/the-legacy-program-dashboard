@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-9b0aa41588",
@@ -75,7 +74,6 @@
 "edgeLabel": "published the engagement record",
 "family": "testimony",
 "id": "gulf-of-oman-ac130j-2021",
-"l0": false,
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "DOW-UAP-PR122 and intelligence report DOW-UAP-D101 document the 8 September 2021 AC-130J encounter over the Gulf of Oman.",
 "predicate": "brought_to_record",
@@ -102,7 +100,6 @@
 "edgeLabel": "published as DOW-UAP-D098",
 "family": "documents",
 "id": "navy-pic-1953-film-analysis",
-"l0": false,
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
 "predicate": "concerns",
@@ -129,7 +126,6 @@
 "edgeLabel": "file-level inventory",
 "family": "documents",
 "id": "pursue-release-05",
-"l0": false,
 "label": "PURSUE Release 05",
 "note": "41 files - 16 videos, 22 documents, 3 images - with identifiers spanning DOW, FBI, DOS and EOP originators.",
 "predicate": "concerns",
@@ -163,10 +159,8 @@
 },
 "hl": null,
 "id": "pursue-r05-identifiers",
-"l0": false,
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "PURSUE Release 05 file identifiers (7 August 2026)",
 "sourceFiles": [

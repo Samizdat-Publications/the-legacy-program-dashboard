@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-1d235f64b9",
@@ -91,7 +90,6 @@
 "edgeLabel": "The project engineer's published rebuttal of the UFO reading of the event",
 "family": "denial",
 "id": "big-sur-1964",
-"l0": false,
 "label": "Big Sur missile-test filming, September 1964",
 "note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
 "predicate": "disputed",
@@ -118,7 +116,6 @@
 "edgeLabel": "Author",
 "family": "documents",
 "id": "kingston-george",
-"l0": false,
 "label": "Kingston A. George",
 "note": "He identifies himself as the project engineer in the article's opening line. Type research, not custody: he wrote it, he does not hold custody of anything.",
 "predicate": "wrote",
@@ -152,7 +149,7 @@
 },
 "by": null,
 "claimTier": 1,
-"denialKind": "directed",
+"denialKind": "undirected",
 "edgeId": "e-1b634c1982",
 "label": "The project engineer's published rebuttal of the UFO reading of the event",
 "note": "A directed denial by a named participant, and the model this board should want: it establishes the witness's unit, appointment, presence and debriefing while disputing what was on the film.",
@@ -177,10 +174,8 @@
 },
 "hl": null,
 "id": "doc-si-big-sur-1993",
-"l0": false,
 "label": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Kingston A. George, 'The Big Sur UFO: An Identified Flying Object', Skeptical Inquirer, Winter 1993",
 "sourceFiles": [

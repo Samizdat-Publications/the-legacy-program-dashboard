@@ -7,7 +7,6 @@
 "Committee on Oversight and Accountability / Government Reform"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-07-26",
@@ -50,7 +49,6 @@
 "edgeLabel": "pressed Grusch on Phoenix Lights and withheld information",
 "family": "oversight",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Biggs put the 1997 Phoenix Lights case to Grusch directly - 'I am going to take you to specific instances around the Phoenix Valley because that is where I live' - and asked whether he knew anything beyond the official explanation of a military training range off Luke and the Barry Goldwater range. Grusch: 'Only what is in the public vernacular about it. That was outside the scope of my duties.'",
 "predicate": "questioned",
@@ -77,7 +75,6 @@
 "edgeLabel": "questioned witnesses at the 26 July 2023 UAP hearing",
 "family": "oversight",
 "id": "hearing-2023-07-26",
-"l0": true,
 "label": "House Oversight hearing, 26 July 2023 - 'Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency'",
 "note": "Chairman Grothman recognised Biggs, who questioned Grusch, Graves and Fravor on misdirection by the government regarding UAP, the 1997 Phoenix Lights, and the 2019 UAP classification guidelines. He is recorded in the transcript as a member of the Committee on Oversight and Accountability.",
 "predicate": "oversaw",
@@ -109,7 +106,6 @@
 "edgeLabel": "elicited Grusch's authorship of the UAPTF 2019 classification guide",
 "family": "oversight",
 "id": "uap-task-force",
-"l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Asked by Biggs whether the 2019 classification guidelines interfere with the government's ability to be transparent, Grusch answered: 'Yes, I am familiar with the UAP Task Force 2019 Security Classification guide. I think it is fair. I did actually help author that with the Director.' Biggs: 'Uh-oh. You got a bias then.' Grusch then characterised the practice rather than the guide - 'I will call it a lazy attitude about declassifying videos'. The witness co-authored the instrument he was being asked to criticise, and said so unprompted.",
 "predicate": "investigated",
@@ -145,11 +141,9 @@
 "hl": null,
 "id": "andy-biggs",
 "instId": "house-oversight-committee",
-"l0": false,
 "label": "Andy Biggs",
 "loc": "Gilbert, AZ",
 "locId": null,
-"members": null,
 "narrative": "Biggs questioned all three witnesses at the 2023 hearing and returned to the subject at the 2024 hearing. His most useful contribution is a small, exact demonstration of the SCIF trap the committee kept falling into: pursuing the 1997 Phoenix Lights in his own state, he asked Grusch and Fravor where he should go to find the files and whom to address, and pre-empted the answer himself - 'I know you are going to tell me we need to go to a SCIF so you can tell us in a SCIF.' Fravor replied that he could 'potentially give you a vector on that... in a closed environment.' Grusch said the Phoenix Lights were outside the scope of his duties and he knew only what was in the public vernacular. Biggs also pressed on the operational cost - whether UAP are affecting training ranges and what the administration considers doing about it.",
 "photoCredit": null,
 "sequenceChain": [],

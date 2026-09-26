@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-b17a99b1c9",
@@ -43,7 +42,6 @@
 "edgeLabel": "the August 2009 tranche carried the Rendlesham material",
 "family": "documents",
 "id": "tna-ufo-release",
-"l0": false,
 "label": "The National Archives / MoD UFO File Release Programme (2008-2013)",
 "note": "The National Archives itself billed the tranche as containing 'Britain's very own Roswell - Rendlesham Forest in Suffolk'.",
 "predicate": "released",
@@ -77,10 +75,8 @@
 },
 "hl": null,
 "id": "ev-rendlesham-files",
-"l0": false,
 "label": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Release of the Rendlesham Forest files, August 2009 (DEFE 24/1948)",
 "sourceFiles": [

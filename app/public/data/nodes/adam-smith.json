@@ -4,7 +4,6 @@
 "D": 3,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -50,7 +49,6 @@
 "edgeLabel": "seat 8 of 12 - Ranking Member, House Armed Services",
 "family": "role",
 "id": "waived-sap-notification-group",
-"l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Continuously in the group across 2020 (chairman) and 2023 through 2026 (ranking).",
 "predicate": "member_of",
@@ -99,11 +97,9 @@
 "hl": null,
 "id": "adam-smith",
 "instId": null,
-"l0": false,
 "label": "Adam Smith",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Smith is the House-side equivalent of Jack Reed: the member whose occupancy of a 10 U.S.C. 119(e)(2) seat spans the board's load-bearing moments regardless of which party held the House. He chaired the House Armed Services Committee in 2020, when the Unidentified Aerial Phenomena Task Force was established, and has been its ranking member throughout the 118th and 119th Congresses, covering the 2023 Grusch testimony and the period since. In every one of those configurations he was one of the twelve members entitled to receive waived special access program information and the Secretary of Defense's justification for withholding it from a section 119 report. Smith's continuity matters for the board's central argument. The claim that a waived unacknowledged programme can be concealed from Congress because notification runs to only a handful of members is testable in part against whether those handful of members have been stable over time. On the armed services side they have been remarkably stable: Reed and Smith between them have held a 119(e)(2) seat without interruption across three Congresses in which control of both chambers changed. There is no public record of Smith stating what he has or has not been notified of under section 119. The statute gives him no route to make such a statement.",
 "photoCredit": null,
 "sequenceChain": [],

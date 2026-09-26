@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-e54b52158e",
@@ -47,7 +46,6 @@
 "edgeLabel": "The affidavit is the instrument by which withholding was sustained",
 "family": "denial",
 "id": "caus-v-nsa",
-"l0": false,
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
 "predicate": "refused",
@@ -79,7 +77,6 @@
 "edgeLabel": "Yeates executed the affidavit as NSA Chief of Policy",
 "family": "documents",
 "id": "eugene-yeates",
-"l0": false,
 "label": "Eugene F. Yeates",
 "note": "The affidavit was submitted for in camera review only; the plaintiffs never saw it and the judge ruled for NSA on its basis.",
 "predicate": "wrote",
@@ -106,7 +103,6 @@
 "edgeLabel": "2013 Mandatory Declassification Review forced further release of the NSA UFO holdings",
 "family": "oversight",
 "id": "john-greenewald",
-"l0": false,
 "label": "John Greenewald Jr.",
 "note": "NSA had released the COMINT records with most pages carrying only a few visible words, redacted in white-out; an MDR was required to obtain more.",
 "predicate": "requested",
@@ -176,10 +172,8 @@
 },
 "hl": null,
 "id": "yeates-affidavit",
-"l0": false,
 "label": "Yeates Affidavit (NSA, 1980)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Yeates Affidavit (NSA, 1980)",
 "sourceFiles": [

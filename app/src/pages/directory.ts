@@ -123,6 +123,21 @@ const SORTS: { key: string; head: string }[] = [
   { key: 'claims', head: 'CLAIMS' }, { key: 'links', head: 'LINKS' },
 ];
 
+/* The six directories' tabs, shared with the places page (phase 11), which is
+   the Places directory drawn as a plot and a list grouped by country. */
+export function dirTabs(nodes: IndexNode[], active: string): HTMLElement {
+  const tabs = h('nav', { class: 'dir-tabs', 'aria-label': 'Directories' });
+  for (const d of DIRS) {
+    const n = nodes.filter((x) => x.cls === d.cls).length;
+    const on = d.id === active;
+    tabs.append(h('a', {
+      class: 'dir-tab' + (on ? ' on' : ''), href: '#/' + d.id, 'data-dir': d.id,
+      'aria-current': on ? 'page' : null,
+    }, d.title.toUpperCase(), ' ', h('span', { class: 'dir-tab-n' }, String(n))));
+  }
+  return tabs;
+}
+
 export async function renderDirectory(view: HTMLElement, dir: string, q: URLSearchParams): Promise<void> {
   clear(view);
   const def = DIRS.filter((d) => d.id === dir)[0] || DIRS[0];
@@ -177,15 +192,7 @@ export async function renderDirectory(view: HTMLElement, dir: string, q: URLSear
   view.append(root);
 
   /* ---- the tabs --------------------------------------------------------- */
-  const tabs = h('nav', { class: 'dir-tabs', 'aria-label': 'Directories' });
-  for (const d of DIRS) {
-    const n = idx.nodes.filter((x) => x.cls === d.cls).length;
-    const on = d.id === def.id;
-    tabs.append(h('a', {
-      class: 'dir-tab' + (on ? ' on' : ''), href: '#/' + d.id, 'data-dir': d.id,
-      'aria-current': on ? 'page' : null,
-    }, d.title.toUpperCase(), ' ', h('span', { class: 'dir-tab-n' }, String(n))));
-  }
+  const tabs = dirTabs(idx.nodes, def.id);
   root.append(h('div', { class: 'dir-top' },
     h('div', { class: 'eyebrow' }, 'Directories'),
     h('h1', { class: 'dir-h1' }, def.title),

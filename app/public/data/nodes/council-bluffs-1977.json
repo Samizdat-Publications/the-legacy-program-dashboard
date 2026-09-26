@@ -2,7 +2,6 @@
 "A": 0,
 "C": 3,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-975eb77858",
@@ -47,7 +46,6 @@
 "edgeLabel": "Subject of the analysis: the 17 December 1977 molten mass",
 "family": "documents",
 "id": "paper-nolan-vallee-2022",
-"l0": true,
 "label": "Nolan, Vallee, Jiang & Lemke (2022), Progress in Aerospace Sciences 128:100788",
 "note": "Five independent witness groups, police photography, contemporaneous press coverage and a preserved sample - the only complete civil chain of custody in the published literature.",
 "predicate": "concerns",
@@ -86,10 +84,8 @@
 },
 "hl": null,
 "id": "council-bluffs-1977",
-"l0": false,
 "label": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Council Bluffs, Iowa molten metal fall, 17 December 1977",
 "sourceFiles": [

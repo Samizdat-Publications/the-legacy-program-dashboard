@@ -17,8 +17,11 @@
  * with its keys, and the timeline's panel, counts, repeats, scopes and strand
  * filter. Redesign phase 11 retired C10 with the neighbourhood's ring and added
  * C70: the grouped neighbourhood (every neighbour named once, in its family's
- * column, two steps out one family at a time, each via named). All against
- * the built app served by `npm run preview`.
+ * column, two steps out one family at a time, each via named). The same phase
+ * retired the program map: C3, C5 and C6 went with it, and C2, C4, C11 and C12
+ * lost their map halves (the Atlas's own C37 covers its chips); C72 holds that
+ * the map's old routes land on what replaced them. All against the built app
+ * served by `npm run preview`.
  *
  * WHY IT IS SHAPED LIKE THIS.
  *
@@ -34,13 +37,9 @@
  *
  * APP_URL points at the preview server (default http://127.0.0.1:4173).
  *
- * Note on `window.__app.*`: the map, hood and timeline publish probes, and this
- * file deliberately does NOT use the ones that report layout intentions
- * (map.cells() returns the layout's own counts). Where a figure matters it is
- * re-read from the DOM: cell heads are read as text, boxes as
- * getBoundingClientRect. The one thing taken from the renderer is
- * `.map-grid[data-mode]`, which is an attribute on the rendered element and is
- * cross-checked against an independent re-derivation of the label rule (C5).
+ * Note on `window.__app.*`: the timeline publishes a probe, and this file
+ * deliberately does NOT use probes that report layout intentions. Where a figure
+ * matters it is re-read from the DOM, boxes as getBoundingClientRect.
  */
 import { chromium } from 'playwright';
 import { spawnSync } from 'node:child_process';
@@ -226,94 +225,6 @@ const IN_PAGE = {
     return out;
   },
 
-  /* The map, entirely off the rendered DOM. */
-  map() {
-    const grid = document.querySelector('.map-grid');
-    const stat = document.querySelector('.map-stat');
-    const legend = document.querySelector('.map-legend');
-    const chips = Array.prototype.map.call(document.querySelectorAll('a.chip'), (c) => {
-      const r = c.getBoundingClientRect();
-      const lab = c.querySelector('.clabel');
-      const lr = lab ? lab.getBoundingClientRect() : null;
-      const hl = c.querySelector('.chl');
-      return {
-        id: c.getAttribute('data-id'), href: c.getAttribute('href'),
-        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
-        label: lab ? lab.textContent : null, labW: lr ? lr.width : 0,
-        labIn: lr ? (lr.left >= r.left - 0.5 && lr.right <= r.right + 0.5) : false,
-        hl: hl ? hl.textContent : null, isHl: c.classList.contains('hl'),
-      };
-    });
-    const cells = Array.prototype.map.call(document.querySelectorAll('.cell[data-cell]'), (c) => {
-      const r = c.getBoundingClientRect();
-      const head = c.querySelector('.cell-head span');
-      return {
-        key: c.getAttribute('data-cell'), head: head ? head.textContent : null,
-        x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
-      };
-    });
-    const plus = Array.prototype.map.call(document.querySelectorAll('.plus'), (p) => {
-      const r = p.getBoundingClientRect();
-      return { text: p.textContent, x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height };
-    });
-    return {
-      mode: grid ? grid.getAttribute('data-mode') : null,
-      stat: stat ? stat.textContent : '', reason: stat ? stat.getAttribute('title') : '',
-      legendTop: legend ? legend.getBoundingClientRect().top + scrollY : null,
-      vh: window.innerHeight, vw: window.innerWidth,
-      chips, cells, plus,
-    };
-  },
-
-  /* The label rule of Design 2.2, re-derived here from the rendered font and
-     the viewport -- deliberately NOT from the renderer's layout object. */
-  rederive(nodes, cellsMap, bands, eras) {
-    const BAR = 40, STRIP = 30, HEAD = 42, LEGEND = 26, GUTTER = 152, PAD_R = 12;
-    const CHIP_GAP = 6, CELL_PAD = 6, EXTRA = 30, HL = 16;
-    const meas = document.createElement('span');
-    meas.style.cssText = 'position:absolute;visibility:hidden;top:-9999px;left:0;white-space:pre';
-    meas.style.font = '';
-    const probe = document.querySelector('.clabel') || document.querySelector('.hood-label');
-    const cs = probe ? getComputedStyle(probe) : null;
-    meas.style.fontFamily = cs ? cs.fontFamily : "'IBM Plex Mono', monospace";
-    meas.style.fontSize = cs ? cs.fontSize : '11px';
-    meas.style.fontWeight = cs ? cs.fontWeight : '400';
-    meas.style.letterSpacing = cs ? cs.letterSpacing : 'normal';
-    document.body.appendChild(meas);
-    const W = (s) => { meas.textContent = s; return meas.getBoundingClientRect().width; };
-
-    const byId = new Map(nodes.map((n) => [n.id, n]));
-    const colW = Math.floor((window.innerWidth - GUTTER - PAD_R) / 5);
-    const inner = colW - CELL_PAD * 2;
-    const availH = window.innerHeight - BAR - (STRIP + HEAD) - LEGEND - 4;
-
-    let tooWide = 0; const wideIds = [];
-    let totalRows = 0;
-    for (const b of bands) {
-      let mx = 1;
-      for (const e of eras) {
-        const ids = cellsMap[b + '.' + e] || [];
-        let rows = 0, used = 0;
-        for (const id of ids) {
-          const n = byId.get(id); if (!n) continue;
-          const w = Math.ceil(W(n.short)) + EXTRA + (n.hl ? HL : 0);
-          if (w > inner) { tooWide++; if (wideIds.length < 4) wideIds.push(n.short); continue; }
-          if (rows === 0) { rows = 1; used = w; continue; }
-          if (used + CHIP_GAP + w > inner) { rows++; used = w; } else { used += CHIP_GAP + w; }
-        }
-        if (rows > mx) mx = rows;
-      }
-      totalRows += mx;
-    }
-    meas.remove();
-    const minNeed = totalRows * 17 + 6 * (bands.length - 1);  /* pitch floor 17 since 25 Sept 2026 */
-    return {
-      tooWide, wideIds, totalRows, minNeed, availH, colW,
-      fits: tooWide === 0 && minNeed <= availH,
-    };
-  },
-
-  /* The node page's claims and denials. */
   node() {
     const claims = Array.prototype.map.call(document.querySelectorAll('.claim'), (c) => {
       const t = c.querySelector('.ct');
@@ -649,12 +560,6 @@ const IN_PAGE = {
     if (kind === 'evidence') {
       const c = all('.ev-table td.c-claim').filter((td) => seen(td, 200) && onFirst(td) && txt(td).length > 20);
       out.have = c.length; out.what = 'claim texts readable on the first screen';
-    } else if (kind === 'map') {
-      const chips = all('.mp-chip');
-      out.want = Math.max(1, Number(document.querySelectorAll('.mp-band').length ? chips.length : 1));
-      out.have = chips.filter((c) => seen(c) && txt(c.querySelector('.mp-label')).length > 0).length;
-      out.chips = chips.length;
-      out.what = 'map chips named and inside the screen';
     } else if (kind === 'hood') {
       const rows = all('.gn li.gn-row .gn-label');
       out.want = Math.max(1, rows.length);
@@ -918,13 +823,6 @@ const IN_PAGE = {
   thread() {
     return {
       steps: Array.prototype.map.call(document.querySelectorAll('.th-step'), (s) => s.getAttribute('data-node')),
-      chips: Array.prototype.map.call(document.querySelectorAll('.tm-chip'), (c) => {
-        const r = c.getBoundingClientRect();
-        return {
-          id: c.getAttribute('data-node'), step: c.getAttribute('data-step'),
-          x: r.left + scrollX, y: r.top + scrollY, w: r.width, h: r.height,
-        };
-      }),
     };
   },
   /* the analyst dock, closed: the strip a reader has to be able to reach on
@@ -1065,7 +963,7 @@ const IN_PAGE = {
    a predicate, a fixture or a probe: they change what the browser has drawn. */
 const POISONS = {
   c1: {
-    stops: ['home', 'map', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'],
+    stops: ['home', 'topic', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'],
     what: 'rewrites the first #/n/ href on every page to an id the board does not carry',
     fn: async (page) => page.evaluate(() => {
       const a = document.querySelector('a[href^="#/n/"]');
@@ -1073,10 +971,10 @@ const POISONS = {
     }),
   },
   c2: {
-    stops: ['map'],
-    what: 'truncates one real chip label: 9px, clipped to 24px, with an ellipsis',
+    stops: ['hood'],
+    what: 'truncates one real neighbour name: 9px, clipped to 24px, with an ellipsis',
     fn: async (page) => page.evaluate(() => {
-      const l = document.querySelectorAll('a.chip .clabel')[3];
+      const l = document.querySelectorAll('.gn li.gn-row .gn-label')[3];
       if (!l) return;
       l.style.fontSize = '9px';
       l.style.display = 'inline-block';
@@ -1086,41 +984,18 @@ const POISONS = {
       l.textContent = l.textContent.slice(0, 6) + '…';
     }),
   },
-  c3: {
-    stops: ['map'],
-    what: 'empties one chip label, leaving its class mark drawn: an anonymous dot',
-    fn: async (page) => page.evaluate(() => {
-      const l = document.querySelectorAll('a.chip .clabel')[7];
-      if (l) l.textContent = '';
-    }),
-  },
+  /* C3, C5 and C6 were the map's chips, its label and cell modes and its cell
+     heads; they retired with the map in phase 11. */
   c4: {
-    stops: ['map'],
-    what: 'moves one real chip onto another chip, so two labels share a box',
+    stops: ['hood'],
+    what: 'moves one neighbour name up onto the name above it, so two share a box',
     fn: async (page) => page.evaluate(() => {
-      const cs = document.querySelectorAll('a.chip');
-      if (cs.length < 12) return;
-      /* the chips are absolutely positioned in the grid, so copying one's
-         left/top onto another puts two real labels in one box */
-      cs[11].style.left = cs[10].style.left;
-      cs[11].style.top = cs[10].style.top;
-    }),
-  },
-  c5: {
-    stops: ['map'],
-    what: 'turns the CELLS control on at 1920, where every label fits',
-    fn: async (page) => {
-      const b = page.locator('button.ctl', { hasText: 'CELLS' }).first();
-      await b.click();
-      await page.waitForTimeout(700);
-    },
-  },
-  c6: {
-    stops: ['map1366'],
-    what: 'rewrites one cell head so its printed count is not its membership',
-    fn: async (page) => page.evaluate(() => {
-      const s = document.querySelector('.cell .cell-head span');
-      if (s) s.textContent = '99 nodes';
+      const ns = document.querySelectorAll('.gn li.gn-row a.gn-name');
+      if (ns.length < 2) return;
+      const a = ns[0].getBoundingClientRect(), b = ns[1].getBoundingClientRect();
+      ns[1].style.position = 'relative';
+      ns[1].style.left = (a.left - b.left) + 'px';
+      ns[1].style.top = (a.top - b.top) + 'px';
     }),
   },
   c7: {
@@ -1181,6 +1056,11 @@ const POISONS = {
       if (v) v.remove();
     }),
   },
+  c72: {
+    stops: ['maprd'],
+    what: 'puts the retired #/map back in the address bar, as if the old route had stayed where it was',
+    fn: async (page) => page.evaluate(() => { history.replaceState(history.state, '', '#/map'); }),
+  },
   c11: {
     stops: ['home'],
     what: 'swaps two numbers in the start-here tour',
@@ -1191,12 +1071,13 @@ const POISONS = {
     }),
   },
   c12: {
-    stops: ['map'],
-    what: 'grows every chip by its own degree, so size encodes connectedness',
+    stops: ['hood'],
+    what: "grows every neighbour's mark by its own degree, so size encodes connectedness",
     fn: async (page, ctx) => page.evaluate((deg) => {
-      for (const c of document.querySelectorAll('a.chip')) {
-        const d = deg[c.getAttribute('data-id')] || 0;
-        c.style.height = (16 + Math.min(10, Math.round(d / 6))) + 'px';
+      for (const r of document.querySelectorAll('.gn li.gn-row')) {
+        const m = r.querySelector('.mark');
+        const d = deg[r.getAttribute('data-id')] || 0;
+        if (m) { m.style.width = m.style.height = (7 + Math.min(10, Math.round(d / 6))) + 'px'; }
       }
     }, ctx.deg),
   },
@@ -1250,7 +1131,7 @@ const POISONS = {
     }),
   },
   c16: {
-    stops: ['map'],
+    stops: ['atlas'],
     what: 'prints one of the mockup placeholder strings into the page',
     fn: async (page) => page.evaluate(() => {
       const d = document.createElement('div');
@@ -1385,22 +1266,14 @@ const POISONS = {
     }),
   },
   c26: {
-    stops: ['phone:evidence', 'phone:map', 'phone:home', 'phone:node', 'phone:hood'],
-    what: 'at phone width: forces a wide element into the evidence page, lays one map chip over another, hides the VIEWS button, puts the desktop grid back on the node page, and empties the neighbourhood',
+    stops: ['phone:evidence', 'phone:home', 'phone:node', 'phone:hood'],
+    what: 'at phone width: forces a wide element into the evidence page, hides the VIEWS button, puts the desktop grid back on the node page, and empties the neighbourhood',
     fn: async (page, _ctx, id) => page.evaluate((stopId) => {
       if (stopId === 'phone:evidence') {
         const d = document.createElement('div');
         d.style.cssText = 'width:620px;height:4px';
         const m = document.querySelector('.ev-main');
         if (m) m.prepend(d);
-      } else if (stopId === 'phone:map') {
-        const cs = document.querySelectorAll('.mp-chip');
-        if (cs.length > 1) {
-          const a = cs[0].getBoundingClientRect(), b = cs[1].getBoundingClientRect();
-          cs[1].style.position = 'relative';
-          cs[1].style.left = (a.left - b.left) + 'px';
-          cs[1].style.top = (a.top - b.top) + 'px';
-        }
       } else if (stopId === 'phone:home') {
         const t = document.querySelector('.nav-toggle');
         if (t) t.style.display = 'none';
@@ -1408,7 +1281,7 @@ const POISONS = {
         const n = document.querySelector('.node');
         if (n) n.style.gridTemplateColumns = 'minmax(0, 1fr) 520px';
       } else if (stopId === 'phone:hood') {
-        for (const g of document.querySelectorAll('.conn-groups')) g.remove();
+        for (const g of document.querySelectorAll('.gn .gn-rows')) g.remove();
       }
     }, id),
   },
@@ -1468,12 +1341,13 @@ const POISONS = {
     }),
   },
   c35: {
-    stops: ['map', 'home'],
+    stops: ['atlas', 'home'],
     what: "prints the map's old strip wording, and the raw route and viewport badge, back into the page",
     fn: async (page, _ctx, id) => page.evaluate((stopId) => {
-      if (stopId === 'map') {
-        const s = document.querySelector('.map-stat');
-        if (s) s.textContent += ' · row pitch 18, band gap 12 · scale 1:1';
+      if (stopId === 'atlas') {
+        const s = document.createElement('div');
+        s.textContent = 'row pitch 18, band gap 12 · scale 1:1';
+        document.querySelector('#view').appendChild(s);
       } else {
         const b = document.querySelector('.bar');
         if (b) {
@@ -1567,9 +1441,9 @@ const POISONS = {
   },
   c40: {
     stops: ['home'],
-    what: 'puts MAP back in the main row of the bar, out of More',
+    what: 'puts THREADS back in the main row of the bar, out of More',
     fn: async (page) => page.evaluate(() => {
-      const m = Array.from(document.querySelectorAll('.bar .nav .nav-more-list a')).find((a) => /MAP/.test(a.textContent || ''));
+      const m = Array.from(document.querySelectorAll('.bar .nav .nav-more-list a')).find((a) => /THREADS/.test(a.textContent || ''));
       const nav = document.querySelector('.bar .nav');
       if (m && nav) nav.insertBefore(m, nav.firstChild.nextSibling);
     }),
@@ -1739,14 +1613,14 @@ async function main() {
     }
     throw last;
   };
-  let index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
+  let index, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
       claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec,
       topicsFile, vocabFile, domainRec, topicRecs, libFile, srcRec, wrapRec;
   try {
-    [index, mapData, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
+    [index, edges, threadsFile, highlights, tlEvents, focusRec, patentsFile, analystFile,
      claimRows, foiaFile, personRec, entityRec, entityQRec, denialRec, vocabFile] =
       await Promise.all([
-        jget('data/index.json'), jget('data/map.json'), jget('data/edges.json'),
+        jget('data/index.json'), jget('data/edges.json'),
         jget('data/threads.json'), jget('data/highlights.json'), jget('data/timeline.json'),
         jget('data/nodes/' + NODE_FOCUS + '.json'), jget('data/patents.json'), jget('data/analyst.json'),
         jget('data/claims.json'), jget('data/foia.json'), jget('data/nodes/' + PERSON_FOCUS + '.json'),
@@ -1784,7 +1658,6 @@ async function main() {
   for (const e of edges) { put(e.a, e.b); put(e.b, e.a); }
   const joined = (a, b) => {
     if ((adj.get(a) || new Set()).has(b)) return 'direct';
-    if ((mapData.summarised || []).some((s) => (s.a === a && s.b === b) || (s.a === b && s.b === a))) return 'derived';
     for (const x of adj.get(a) || []) if ((adj.get(b) || new Set()).has(x)) return 'derived';
     return null;
   };
@@ -1916,11 +1789,13 @@ async function main() {
   await stop('denial', '#/n/' + DENIAL_FOCUS, 1200);
   S.denial.rows = await ev(IN_PAGE.denials);
 
-  await stop('map', '#/map', 2400);
-  S.map.map = await ev(IN_PAGE.map);
-  S.map.labels = await ev(IN_PAGE.labels, 'a.chip .clabel', 'a.chip');
-  S.map.rederive = await ev(IN_PAGE.rederive, mapData.nodes, mapData.cells,
-    mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
+  /* phase 11: the program map's three routes land on what replaced them */
+  await stop('maprd', '#/map', 1600);
+  S.maprd.rd = await page.evaluate(() => ({ hash: location.hash, atlas: document.querySelectorAll('.atlas-grid a.atlas-chip, .atlas-list a.atlas-li').length }));
+  await stop('maprdn', '#/n/' + NODE_FOCUS + '/map', 1200);
+  S.maprdn.rd = await page.evaluate(() => ({ hash: location.hash, h1: (document.querySelector('#view h1') || {}).textContent || '' }));
+  await stop('maprdt', '#/t/custody/map', 1200);
+  S.maprdt.rd = await page.evaluate(() => ({ hash: location.hash, steps: document.querySelectorAll('.th-step').length }));
 
   await stop('hood0', '#/hood', 2000);
 
@@ -1995,13 +1870,8 @@ async function main() {
   S.report.rconns = await ev(IN_PAGE.rconns);
   S.report.said = await ev(IN_PAGE.said, '.report ol.rclaims li');
 
-  /* the map again, at the width Design says is below the label floor */
   await page.setViewportSize({ width: 1366, height: 768 });
   current = null;
-  await stop('map1366', '#/map', 2600);
-  S.map1366.map = await ev(IN_PAGE.map);
-  S.map1366.rederive = await ev(IN_PAGE.rederive, mapData.nodes, mapData.cells,
-    mapData.bands.map((b) => b.id), mapData.eras.map((e) => e.id));
   await stop('person1366', '#/n/' + PERSON_FOCUS, 1400);
   S.person1366.first = await ev(IN_PAGE.firstScreen);
 
@@ -2012,7 +1882,7 @@ async function main() {
      reaching every route, and the thing the surface exists for there to read.
      At every width the closed analyst tab must sit on no text at all (C32). */
   const CRITIC = [
-    ['home', '#/'], ['node', '#/n/' + PERSON_FOCUS], ['map', '#/map'],
+    ['home', '#/'], ['node', '#/n/' + PERSON_FOCUS],
     ['hood', '#/n/' + PERSON_FOCUS + '/hood'], ['timeline', '#/timeline'], ['evidence', '#/evidence'],
     ['thread', '#/t/' + threads[0].id],
     ['patent', '#/patents/' + String((patentsFile.patents || [])[0].number).replace(/[^0-9]/g, '')],
@@ -2022,7 +1892,7 @@ async function main() {
     ['library', '#/library'], ['source', '#/s/' + SOURCE_FOCUS],
   ];
   const settleOf = (hash) => hash.startsWith('#/evidence') ? 3200
-    : /^#\/(map|timeline)/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
+    : /^#\/timeline/.test(hash) ? 2400 : /hood/.test(hash) ? 2200 : 1600;
   const PHONE = [], TAB = [];
   const WRAP375 = [];
   const sweepPhone = !POISON || POISON === 'c26' || POISON === 'c32' || POISON.startsWith('c45');
@@ -2156,8 +2026,7 @@ async function main() {
   }
 
   /* ---- C40's More menu ------------------------------------------------------ */
-  /* The routes that left the main row are one click away under More, and #/map
-     still draws the map when reached that way. */
+  /* The routes that left the main row are one click away under More. */
   let MORE = null;
   if (!POISON || POISON === 'c40') {
     const p = await browser.newPage({ viewport: { width: 1366, height: 768 } });
@@ -2174,12 +2043,6 @@ async function main() {
         const top = r.width > 0 ? document.elementFromPoint(Math.round(r.left + r.width / 2), Math.round(r.top + r.height / 2)) : null;
         return { label: (a.textContent || '').trim(), href: a.getAttribute('href'), reachable: r.width > 0 && !!top && (top === a || a.contains(top)) };
       }));
-      const m = p.locator('.bar .nav .nav-more-list a[href="#/map"]').first();
-      if (await m.count()) {
-        await m.click(); await p.waitForTimeout(2600);
-        MORE.hash = await p.evaluate(() => location.hash);
-        MORE.map = await p.evaluate(() => document.querySelectorAll('a.chip[data-id], .mp-chip').length);
-      }
     }
     await p.close();
   }
@@ -2217,7 +2080,6 @@ async function main() {
   const CHIP_ROUTES = [
     ['home', '#/'],
     ['node', '#/n/' + NODE_FOCUS],
-    ['map', '#/map'],
     ['hood', '#/hood/' + NODE_FOCUS],
     ['thread', '#/t/custody'],
     ['timeline', '#/timeline'],
@@ -2496,8 +2358,8 @@ async function main() {
     const CALLS = [
       ['all', 'nodes', { count_only: true }],
       ['people', 'nodes', { cls: 'person', count_only: true }],
-      ['onmap', 'nodes', { on_map: true, count_only: true }],
-      ['byband', 'nodes', { on_map: true, group_by: 'band' }],
+      ['byera', 'nodes', { group_by: 'era' }],
+      ['bandgone', 'nodes', { band: 'custody', count_only: true }],
       ['claims', 'claims', { count_only: true }],
       ['t1', 'claims', { tier: 1, count_only: true }],
       ['tl', 'timeline', { count_only: true }],
@@ -2524,14 +2386,14 @@ async function main() {
       await p.waitForTimeout(1500);
       await poisonAt(p, 'tools');       /* before any tool has run, so nothing is cached yet */
       TOOLS = await p.evaluate(IN_PAGE.tools, CALLS);
-      /* The guard, on the same page: a real node id, a real map cell, a real
+      /* The guard, on the same page: a real node id, a real cluster, a real
          thread, a plain word in backticks that is not an id at all, and one
-         fabricated id that must be caught. The cell is here because the first
-         live question cited `disclosure.3` and the guard called it "not a node
-         on this board", which was true and useless. */
-      const cellId = Object.keys(mapData.cells || {})[0] || 'custody.0';
+         fabricated id that must be caught. (It named a map cell until the map
+         retired in phase 11: the first live question cited `disclosure.3` and
+         the guard called it "not a node on this board", true and useless.) */
+      const cellId = (index.clusters[0] || { id: 'legacy' }).id;
       TOOLS.cite = await p.evaluate(IN_PAGE.cite,
-        'The node `' + NODE_FOCUS + '` sits in cell `' + cellId + '` on the '
+        'The node `' + NODE_FOCUS + '` sits in cluster `' + cellId + '` on the '
         + '`' + (threads[0] || { id: 'custody' }).id + '` thread, a `program`, '
         + 'sourced to `www.govinfo.gov` and `archive.org`, '
         + 'unlike `ghost-node-not-on-the-board`.');
@@ -2539,14 +2401,13 @@ async function main() {
       TOOLS.want = {
         all: index.nodes.length,
         people: index.nodes.filter((n) => n.cls === 'person').length,
-        onmap: index.nodes.filter((n) => n.l0).length,
         claims: claimRows.length,
         t1: claimRows.filter((c) => c.tier === 1).length,
         tl: tlEvents.length,
         tl2004: tlEvents.filter((e) => e.date.slice(0, 4) === '2004').length,
         edges: edges.length,
         edgesof: edges.filter((e) => e.a === NODE_FOCUS || e.b === NODE_FOCUS).length,
-        bands: Object.fromEntries(index.bands.map((b) => [b.id, index.nodes.filter((n) => n.l0 && n.band === b.id).length])),
+        eras: Object.fromEntries(index.eras.map((e) => [e.id + ' ' + e.label, index.nodes.filter((n) => n.era === e.id).length])),
         threadIds: threads.map((t) => t.id),
         patentNums: (patentsFile.patents || []).map((x) => String(x.number)),
         foia: (foiaFile.requests || []).length,
@@ -2586,7 +2447,7 @@ async function main() {
       out.push(await rest(p, 1600));
       await p.locator('.starthere a.tour-node[href="#/n/' + NODE_FOCUS + '"]').first().click({ timeout: 5000 }).catch(() => {});
       out.push(await rest(p, 1400));
-      await p.locator('a[href="#/n/' + NODE_FOCUS + '/map"]').first().click({ timeout: 5000 }).catch(() => {});
+      await p.locator('a[href="#/n/' + NODE_FOCUS + '/hood"]').first().click({ timeout: 5000 }).catch(() => {});
       out.push(await rest(p, 2400));
       return out;
     };
@@ -2625,7 +2486,7 @@ async function main() {
   console.log('\n  ' + (POISON ? 'POISON=' + POISON + ': ' + POISONS[POISON].what : 'clean run')
     + '  ·  ' + APP + '\n');
 
-  const C1_PAGES = ['home', 'map', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'];
+  const C1_PAGES = ['home', 'topic', 'hood0', 'thread:custody', 'timeline', 'patents', 'evidence', 'report'];
   const nodeIdsOn = (id) => (S[id] ? S[id].hrefs : [])
     .filter((h) => h && h.startsWith('#/n/'))
     .map((h) => h.slice(4).replace(/\/(map|hood)$/, ''));
@@ -2648,10 +2509,9 @@ async function main() {
 
   /* ---- C2 --------------------------------------------------------------- */
   {
-    const all = [...S.map.labels.map((l) => ({ ...l, where: 'map' })),
-                 ...S.hood.labels.map((l) => ({ ...l, where: 'hood' }))];
+    const all = S.hood.labels.map((l) => ({ ...l, where: 'hood' }));
     const sizes = [...new Set(all.map((l) => l.fs))];
-    check('c2', sizes.length === 1, 'C2  one label size on the map and the neighbourhood',
+    check('c2', sizes.length === 1 && all.length > 0, 'C2  one label size across the neighbourhood',
       `${all.length} labels at ${sizes.join(', ')}`);
     const ell = all.filter((l) => l.to === 'ellipsis' || /[…]|\.\.\.$/.test(l.text));
     check('c2', ell.length === 0, 'C2  no text-overflow and no ellipsis character in any label',
@@ -2663,82 +2523,19 @@ async function main() {
     check('c2', narrow.length === 0, 'C2  no label box narrower than its own text at its own font',
       narrow.length ? clip(narrow.map((l) => `${l.text} ${l.w.toFixed(0)}<${l.nat.toFixed(0)}`))
         : `${all.length} labels measured against their natural width`);
-    const clipped = S.map.map.chips.filter((c) => c.label && !c.labIn);
-    check('c2', clipped.length === 0, 'C2  every chip label sits inside its own chip',
-      clipped.length ? clip(clipped.map((c) => c.id)) : `${S.map.map.chips.length} chips`);
-  }
-
-  /* ---- C3 --------------------------------------------------------------- */
-  {
-    const short = new Map(mapData.nodes.map((n) => [n.id, n.short]));
-    const anon = S.map.map.chips.filter((c) => !c.label || !c.label.trim() || c.labW <= 0);
-    check('c3', anon.length === 0, 'C3  no chip is drawn on the map without a rendered label',
-      anon.length ? clip(anon.map((c) => c.id || '(no id)')) : `${S.map.map.chips.length} chips, all named`);
-    const wrong = S.map.map.chips.filter((c) => c.label && short.has(c.id) && c.label !== short.get(c.id));
-    check('c3', wrong.length === 0, 'C3  every chip label is the board\'s own short label for that node',
-      wrong.length ? clip(wrong.map((c) => c.id)) : 'matched against map.json');
   }
 
   /* ---- C4 --------------------------------------------------------------- */
   {
     const cases = [
-      ['map, label mode 1920', S.map.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
-      ['map, cell mode 1366', S.map1366.map.chips.map((c) => ({ id: c.id, x: c.x, y: c.y, w: c.w, h: c.h }))],
       ['neighbourhood names', S.hood.gn.rows.map((r) => ({ id: r.id, x: r.x, y: r.y, w: r.w, h: r.h }))],
       ['timeline chips and counts', [...S.timeline.timeline.items, ...S.timeline.timeline.mores]],
-      ['thread small map', S['thread:custody'].thread.chips],
     ];
     for (const [name, boxes] of cases) {
       const bad = pairsOverlapping(boxes);
       check('c4', bad.length === 0, 'C4  no two label boxes intersect · ' + name,
         bad.length ? `${bad.length}+ overlapping pairs: ` + clip(bad, 3) : `${boxes.length} boxes, none intersecting`);
     }
-  }
-
-  /* ---- C5 --------------------------------------------------------------- */
-  {
-    for (const [w, id] of [[1920, 'map'], [1366, 'map1366']]) {
-      const m = S[id].map, d = S[id].rederive;
-      const want = d.fits ? 'label' : 'cell';
-      check('c5', m.mode === want, `C5  map mode at ${w} is the one the label rule allows`,
-        `mode ${m.mode}, re-derived ${want} (${d.tooWide} labels wider than a ${d.colW}px column, ` +
-        `${d.totalRows} rows need ${d.minNeed}px of ${d.availH}px)`);
-      if (m.mode === 'label') {
-        const bottom = Math.max(...m.chips.map((c) => c.y + c.h));
-        check('c5', bottom <= m.legendTop + 0.5, `C5  label mode at ${w} fits the viewport height`,
-          `lowest chip ends at ${bottom.toFixed(0)}, legend starts at ${(m.legendTop || 0).toFixed(0)}, viewport ${m.vh}`);
-      }
-    }
-  }
-
-  /* ---- C6 --------------------------------------------------------------- */
-  {
-    const m = S.map1366.map;
-    const inside = (b, cell) => {
-      const cx = b.x + b.w / 2, cy = b.y + b.h / 2;
-      return cx >= cell.x && cx <= cell.x + cell.w && cy >= cell.y && cy <= cell.y + cell.h;
-    };
-    const badCount = [], badPlus = [];
-    let checked = 0;
-    for (const cell of m.cells) {
-      const members = (mapData.cells[cell.key] || []).length;
-      if (cell.head !== null) {
-        checked++;
-        const printed = Number((cell.head.match(/(\d+)/) || [])[1]);
-        if (printed !== members) badCount.push(`${cell.key} shows ${printed}, holds ${members}`);
-      }
-      const shown = m.chips.filter((c) => inside(c, cell)).length;
-      const pl = m.plus.filter((p) => inside(p, cell));
-      const printedPlus = pl.length ? Number((pl[0].text.match(/(\d+)/) || [])[1]) : 0;
-      if (printedPlus !== members - shown) {
-        badPlus.push(`${cell.key} +${printedPlus} but ${members}-${shown}=${members - shown}`);
-      }
-    }
-    check('c6', badCount.length === 0 && checked > 0,
-      'C6  every cell head prints its own membership from map.json',
-      badCount.length ? clip(badCount, 3) : `${checked} cell heads at 1366`);
-    check('c6', badPlus.length === 0, 'C6  every +N equals members minus names drawn',
-      badPlus.length ? clip(badPlus, 3) : `${m.cells.length} cells, ${m.plus.length} +N chips, ${m.chips.length} names`);
   }
 
   /* ---- C7 --------------------------------------------------------------- */
@@ -2896,6 +2693,22 @@ async function main() {
     }
   }
 
+  /* ---- C72 -------------------------------------------------------------- */
+  /* The program map retired in phase 11. Its three routes still land: #/map on
+     the Atlas, #/n/<id>/map on that node, #/t/<id>/map on that thread, each
+     drawn, with the address rewritten to where the reader now is. */
+  {
+    const rd = [
+      ['#/map', S.maprd && S.maprd.rd, '#/atlas', (r) => r.atlas > 0, 'the Atlas drawn'],
+      ['#/n/' + NODE_FOCUS + '/map', S.maprdn && S.maprdn.rd, '#/n/' + NODE_FOCUS, (r) => r.h1.trim() === focusRec.label, 'the node headed'],
+      ['#/t/custody/map', S.maprdt && S.maprdt.rd, '#/t/custody', (r) => r.steps > 0, 'the thread drawn'],
+    ];
+    for (const [from, r, to, drawn, what] of rd) {
+      check('c72', !!r && r.hash === to && drawn(r),
+        `C72 the retired ${from} lands on ${to}, ${what}`, r ? 'landed on ' + r.hash : 'not reached');
+    }
+  }
+
   /* ---- C11 -------------------------------------------------------------- */
   {
     const home = S.home.starthere || [];
@@ -2917,40 +2730,15 @@ async function main() {
     }).filter(Boolean);
     check('c11', topicBad.length === 0 && home.length > 0, "C11 each start-here step opens its node's primary topic",
       topicBad.length ? clip(topicBad, 3) : `${home.length} steps, each on its node's first topic`);
-    const mapHl = S.map.map.chips.filter((c) => c.isHl);
-    const mapBad = mapHl.filter((c) => {
-      const f = flags.find((x) => x.id === c.id);
-      return !f || String(f.rank) !== String(c.hl);
-    });
-    check('c11', mapHl.length === flags.length && mapBad.length === 0,
-      'C11 the map\'s numbered chips are the same register with the same numbers',
-      mapBad.length || mapHl.length !== flags.length
-        ? `${mapHl.length} numbered chips, ${mapBad.length} disagree: ` + clip(mapBad.map((c) => c.id + '=' + c.hl), 3)
-        : `${mapHl.length} amber chips, numbers match`);
   }
 
   /* ---- C12 -------------------------------------------------------------- */
+  /* Size never encodes importance. The map's chip half and the thread small
+     map's went with them in phase 11; the neighbourhood's marks remain. */
   {
-    const chips = S.map.map.chips;
-    const heights = [...new Set(chips.map((c) => Math.round(c.h)))];
-    check('c12', heights.length === 1, 'C12 every map chip is the same height, whatever its degree',
-      `${chips.length} chips at ${heights.join(', ')}px` +
-      (heights.length > 1 ? ': degree of the tallest: ' +
-        clip(chips.filter((c) => Math.round(c.h) === Math.max(...heights)).map((c) => c.id + '/' + deg[c.id]), 3) : ''));
-    /* width is a pure function of the label: chip = ceil(text) + 30 (+16 numbered).
-       If anything else got into it -- degree, tier, claims -- the residual moves. */
-    const resid = chips.map((c) => ({
-      id: c.id, r: c.w - c.labW - (c.isHl ? 46 : 30),
-    })).filter((x) => x.r < -0.5 || x.r > 1.5);
-    check('c12', resid.length === 0, 'C12 chip width is its text plus one constant, nothing else',
-      resid.length ? `${resid.length} chips off the constant: ` + clip(resid.map((x) => x.id + ' ' + x.r.toFixed(1)), 3)
-        : `${chips.length} chips within [0,1.5]px of text+${'30/46'}`);
     const marks = [...new Set(S.hood.gn.rows.map((e) => e.mw + '×' + e.mh))];
     check('c12', marks.length === 1, 'C12 every neighbourhood mark is the same size',
       `${S.hood.gn.rows.length} marks at ${marks.join(', ')}`);
-    const tmw = [...new Set(S['thread:custody'].thread.chips.map((c) => Math.round(c.w) + '×' + Math.round(c.h)))];
-    check('c12', tmw.length === 1, 'C12 every thread small-map chip is the same size',
-      `${S['thread:custody'].thread.chips.length} chips at ${tmw.join(', ')}`);
   }
 
   /* ---- C13 -------------------------------------------------------------- */
@@ -2985,7 +2773,6 @@ async function main() {
       [edges.length],
       [claimRows.length, ...tier],
       [tlEvents.length],
-      [(mapData.nodes || []).length, (mapData.bands || []).length, (mapData.eras || []).length],
       [threads.length],
       [pats.length, sheets],
       [(foiaFile.requests || []).length, qPairs.size, qNodes],
@@ -3242,9 +3029,6 @@ async function main() {
       check('c26', bad.length === 0, `C26 ${r.name} reads at 375px (${r.hash})`,
         bad.length ? bad.join(' · ') : `no sideways scroll · no overprint · ${r.nav.length} routes in VIEWS · ${r.have} ${r.what}`);
     }
-    const m = PHONE.find((r) => r.name === 'map');
-    check('c26', !!m && m.chips === mapData.nodes.length,
-      'C26 the phone map names every node the map carries', m ? m.chips + ' named of ' + mapData.nodes.length : 'no map');
   }
 
   /* ---- C31 -------------------------------------------------------------- */
@@ -3554,12 +3338,12 @@ async function main() {
   }
 
   /* ---- C40 -------------------------------------------------------------- */
-  /* The bar: HOME, ATLAS, TIMELINE, EVIDENCE, PATENTS in the row, MAP,
-     THREADS, NEIGHBOURHOOD and REPORT under More, on every screen walked; More
-     opens to them and #/map still draws the map. */
+  /* The bar: HOME, ATLAS, TIMELINE, EVIDENCE, PATENTS in the row, DIRECTORIES,
+     THREADS, NEIGHBOURHOOD, REPORT and LIBRARY under More, on every screen
+     walked; More opens to them. (MAP left the bar with the map in phase 11.) */
   {
     const ROW = ['HOME', 'ATLAS', 'TIMELINE', 'EVIDENCE', 'PATENTS'];
-    const MOREL = ['DIRECTORIES', 'MAP', 'THREADS', 'NEIGHBOURHOOD', 'REPORT', 'LIBRARY'];
+    const MOREL = ['DIRECTORIES', 'THREADS', 'NEIGHBOURHOOD', 'REPORT', 'LIBRARY'];
     const bad = [];
     let n = 0;
     for (const [k, s] of Object.entries(S)) {
@@ -3573,14 +3357,14 @@ async function main() {
       const atlas = s.nav.primary.find((x) => x.label === 'ATLAS');
       if (!atlas || atlas.href !== '#/atlas') bad.push(k + ': ATLAS is not #/atlas');
     }
-    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and DIRECTORIES MAP THREADS NEIGHBOURHOOD REPORT LIBRARY under More',
+    check('c40', bad.length === 0 && n > 0, 'C40 the bar carries HOME ATLAS TIMELINE EVIDENCE PATENTS, and DIRECTORIES THREADS NEIGHBOURHOOD REPORT LIBRARY under More',
       bad.length ? clip(bad, 2) : `${n} screens`);
     if (MORE) {
       const unreach = MORE.open.filter((x) => x.href && !x.reachable).map((x) => x.label);
-      check('c40', MORE.btn && !MORE.before && MORE.open.length >= 3 && unreach.length === 0 && MORE.hash === '#/map' && MORE.map > 0,
-        'C40 More opens to its routes, and #/map reached from it still draws the map',
+      check('c40', MORE.btn && !MORE.before && MORE.open.length >= 3 && unreach.length === 0,
+        'C40 More opens to its routes, every one reachable',
         `button ${MORE.btn} · shown before opening ${MORE.before} · ${MORE.open.length} items` +
-        (unreach.length ? ' · unreachable ' + unreach.join(', ') : '') + ` · landed ${MORE.hash || 'nowhere'} with ${MORE.map} chips`);
+        (unreach.length ? ' · unreachable ' + unreach.join(', ') : ''));
     } else skip('C40 More opens to its routes', 'poison ' + POISON + ' does not drive it');
   }
 
@@ -4001,16 +3785,16 @@ async function main() {
       wrong.length ? clip(wrong.map((k) => k + ':' + S[k].back.tag + '/' + S[k].back.type), 4)
         : `${stops.length} screens, all button type=button`);
 
-    const HOME = '#/', NODE = '#/n/' + NODE_FOCUS, NMAP = '#/n/' + NODE_FOCUS + '/map';
+    const HOME = '#/', NODE = '#/n/' + NODE_FOCUS, NHOOD = '#/n/' + NODE_FOCUS + '/hood';
     check('c17', !!B.fresh && B.fresh.present && B.fresh.disabled === true && B.fresh.aria === 'true',
       'C17 on a cold deep link the button is disabled, so it can never leave the site',
       B.fresh ? `${NODE} cold: disabled=${B.fresh.disabled}, aria-disabled=${B.fresh.aria}`
         : 'the cold load was not reached');
 
     const walked = B.trail.map((x) => x.hash);
-    check('c17', walked.join(' ') === [HOME, NODE, NMAP].join(' '),
+    check('c17', walked.join(' ') === [HOME, NODE, NHOOD].join(' '),
       "C17 the trail is built by clicking the pages' own links",
-      'walked ' + (walked.join(' \u2192 ') || '(nothing)') + ' \u00b7 wanted ' + [HOME, NODE, NMAP].join(' \u2192 '));
+      'walked ' + (walked.join(' \u2192 ') || '(nothing)') + ' \u00b7 wanted ' + [HOME, NODE, NHOOD].join(' \u2192 '));
     check('c17', B.trail.length === 3 && B.trail[0].disabled === true && B.trail[2].disabled === false,
       "C17 disabled on the session's first page, enabled once a page has been left",
       B.trail.map((x) => x.hash + ' disabled=' + x.disabled).join(' \u00b7 ') || 'the trail was not reached');
@@ -4024,9 +3808,9 @@ async function main() {
       B.clicks.length === 2 ? `${B.clicks[1].hash}: disabled=${B.clicks[1].disabled}, aria-disabled=${B.clicks[1].aria}`
         : 'the second click was not reached');
 
-    check('c17', !!B.forward && B.forward.hash === NMAP,
-      'C17 the button creates no history entry: forward twice reaches the map again',
-      B.forward ? 'forward, forward landed ' + B.forward.hash + ', wanted ' + NMAP
+    check('c17', !!B.forward && B.forward.hash === NHOOD,
+      'C17 the button creates no history entry: forward twice reaches the neighbourhood again',
+      B.forward ? 'forward, forward landed ' + B.forward.hash + ', wanted ' + NHOOD
         : 'the forward stack was not reached');
 
     const par = [B.parity.b1, B.parity.b2].map((x) => (x ? x.hash : '(nowhere)'));
@@ -4090,16 +3874,14 @@ async function main() {
       check('c18', covered.length === 0, 'C18 nothing is drawn over the analyst strip',
         covered.length ? 'covered on ' + clip(covered, 3) : 'the strip is the topmost element at its own centre everywhere');
 
-      /* Only where the reader cannot scroll it out of the way. On the map and
-         the neighbourhood that is the whole point: both take the viewport and
-         neither can give the dock any height, so the tab overlays, and the only
-         strip it may overlay is the map's band-label gutter, which carries
-         nothing. The first build took 30px of height from both instead and put
-         the map's lowest chip 23px into its own legend on CI. */
+      /* Only where the reader cannot scroll it out of the way. That was the
+         map and the ring neighbourhood, which took the whole viewport; both
+         went in phase 11 and every page scrolls now, so this holds for any page
+         that does not, and says so when none is left. */
       const fixedRoutes = CH.filter((r) => r.strip.present && !r.strip.scrolls);
       const covering = fixedRoutes.filter((r) => r.strip.covers.length)
         .map((r) => r.hash + ' covers ' + r.strip.covers.length + ': ' + r.strip.covers[0]);
-      check('c18', covering.length === 0 && fixedRoutes.length > 0,
+      check('c18', covering.length === 0,
         'C18 on a page that cannot scroll, the closed tab covers nothing the page drew',
         covering.length ? clip(covering, 2)
           : fixedRoutes.length + ' of ' + CH.length + ' routes do not scroll ('
@@ -4148,7 +3930,6 @@ async function main() {
       const counts = [
         ['every node', 'all', w.all],
         ['people', 'people', w.people],
-        ['nodes on the program map', 'onmap', w.onmap],
         ['claims', 'claims', w.claims],
         ['Tier 1 claims', 't1', w.t1],
         ['timeline events', 'tl', w.tl],
@@ -4162,21 +3943,24 @@ async function main() {
         off.length ? off.length + ' of ' + counts.length + ' wrong \u2014 ' + clip(off, 3)
           : counts.map(([label, k]) => label + ' ' + said(k)).join(' \u00b7 '));
 
-      /* grouping: every band's own total, read back out of the tool's table.
+      /* grouping: every era's own total, read back out of the tool's table.
          A regex LITERAL, not a string-built RegExp: the string form lost its
-         escapes on the way into this file and matched nothing, which read as
-         all seven bands wrong. */
-      const bandSaid = {};
-      for (const row of String(o.byband || '').split(/\r?\n/)) {
+         escapes on the way into this file and matched nothing. (This read the
+         map's bands until the map retired in phase 11.) */
+      const eraSaid = {};
+      for (const row of String(o.byera || '').split(/\r?\n/)) {
         const m = /^\s+(\d+)\s\s(\S.*)$/.exec(row);
-        if (m) bandSaid[m[2].trim()] = Number(m[1]);
+        if (m) eraSaid[m[2].trim()] = Number(m[1]);
       }
-      const bandOff = Object.entries(w.bands)
-        .filter(([id, n]) => bandSaid[id] !== n)
-        .map(([id, n]) => id + ': tool says ' + bandSaid[id] + ', the index has ' + n);
-      check('c19', bandOff.length === 0, "C19 group_by band totals are the map bands' own memberships",
-        bandOff.length ? clip(bandOff, 3)
-          : index.bands.length + ' bands: ' + Object.entries(bandSaid).map(([k, v]) => k + ' ' + v).join(' \u00b7 '));
+      const eraOff = Object.entries(w.eras).filter(([, n]) => n > 0)
+        .filter(([id, n]) => eraSaid[id] !== n)
+        .map(([id, n]) => id + ': tool says ' + eraSaid[id] + ', the index has ' + n);
+      check('c19', eraOff.length === 0, "C19 group_by era totals are the index's own",
+        eraOff.length ? clip(eraOff, 3)
+          : Object.entries(eraSaid).map(([k, v]) => k + ' ' + v).join(' \u00b7 '));
+      check('c19', /retired/.test(o.map || '') && /retired/.test(o.bandgone || ''),
+        'C19 the map tool and the band filter say the program map is retired, rather than answer from nothing',
+        head1('map') + ' :: ' + head1('bandgone'));
 
       check('c19', /\bPATH\b/.test(o.path1 || '') && /1 hop/.test(o.path1 || ''),
         'C19 path finds the one-hop chain the edge list carries',
@@ -4219,7 +4003,7 @@ async function main() {
         const wolf = [gw.cell, gw.thread, 'program', 'www.govinfo.gov', 'archive.org']
           .filter((x) => g.bad.includes(x));
         check('c19', wolf.length === 0,
-          'C19 the guard does not cry wolf over a cell, a thread, a class or a hostname',
+          'C19 the guard does not cry wolf over a cluster, a thread, a class or a hostname',
           wolf.length ? 'flagged ' + wolf.join(', ')
             : 'cell ' + gw.cell + ', thread ' + gw.thread + ', class program, and two hostnames: none flagged');
       }

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-098cbbe6ca",
@@ -89,7 +88,6 @@
 "edgeLabel": "Battelle held the Air Force contract designated Project Stork",
 "family": "organisation",
 "id": "battelle",
-"l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Under Stork, Battelle performed the statistical analysis of Project Blue Book's case files that became Special Report No. 14.",
 "predicate": "ran",
@@ -116,7 +114,6 @@
 "edgeLabel": "Stork produced Special Report No. 14, 5 May 1955",
 "family": "organisation",
 "id": "blue-book-special-report-14",
-"l0": true,
 "label": "Project Blue Book Special Report No. 14",
 "note": "A full-text search of Special Report No. 14 returns no occurrence of Battelle, Columbus, Stork, contractor, 'prepared by' or 19741. The attribution rests entirely on the seven status reports, which carry contract AF-19741 and designation PPS-100.",
 "predicate": "produced",
@@ -153,7 +150,6 @@
 "edgeLabel": "Stork was Blue Book's contracted analytical arm",
 "family": "money",
 "id": "project-blue-book",
-"l0": true,
 "label": "Project Blue Book",
 "note": "The Air Force's public UFO project outsourced its own analytical methodology to a private nonprofit, whose records were never federal records.",
 "predicate": "contracted",
@@ -187,10 +183,8 @@
 },
 "hl": null,
 "id": "project-stork",
-"l0": false,
 "label": "Project Stork (Project White Stork)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Project Stork (Project White Stork)",
 "sourceFiles": [

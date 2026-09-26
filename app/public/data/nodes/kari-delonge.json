@@ -6,7 +6,6 @@
 "To The Stars Academy of Arts & Science / To The Stars Inc., Chief Content Officer (2017-present)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-10-11",
@@ -76,7 +75,6 @@
 "edgeLabel": "Chief Content Officer; highest cash-compensated officer FY2017",
 "family": "role",
 "id": "ttsa",
-"l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "$100,000 cash and options on 5 million shares at $0.003 valued at about $18.96m — the entertainment side held the equity.",
 "predicate": "held_post",
@@ -103,7 +101,6 @@
 "edgeLabel": "Signed for To The Stars Academy, 10 October 2019",
 "family": "documents",
 "id": "ttsa-army-crada",
-"l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "The corporate signatory on a materials-science agreement with an Army laboratory was TTSA's Chief Content Officer — the entertainment company was the legal spine.",
 "predicate": "wrote",
@@ -140,11 +137,9 @@
 "hl": null,
 "id": "kari-delonge",
 "instId": "ttsa",
-"l0": false,
 "label": "Kari DeLonge",
 "loc": "Encinitas, CA",
 "locId": "l-encinitas",
-"members": null,
 "narrative": "Kari DeLonge is listed in TTSA's Form 1-K as Chief Content Officer, age 35, the highest cash-compensated officer at $100,000 for FY2017, and the recipient of options over five million shares at a $0.003 exercise price valued at roughly $18.96 million. She is also, per the released agreement, the person who signed the CRADA with the U.S. Army Ground Vehicle Systems Center on 10 October 2019 on TTSA's behalf. That combination — a content executive as the corporate signatory on a materials-science research agreement with an Army laboratory — is one of the more revealing structural facts about TTSA: the entity's legal and financial spine was the entertainment company, and the aerospace and materials work was hung on it. She was also TTSA's public-relations voice in the June 2019 dispute, telling The Intercept that Elizondo 'took it over in 2010 as Director' and 'ran it out of the Office for the Secretary of Defense (OSD) under the Under Secretary of Defense for Intelligence (USDI).'",
 "photoCredit": null,
 "sequenceChain": [],

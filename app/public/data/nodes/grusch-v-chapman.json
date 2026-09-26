@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-3fa0742f36",
@@ -35,7 +34,6 @@
 "edgeLabel": "Plaintiff; suit dismissed with prejudice 6 August 2025",
 "family": "documents",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Filed 15 July 2024 in Loudoun County Circuit Court against Sheriff Mike Chapman and a Sheriff's Office employee. Dismissed with prejudice on 6 August 2025 on the reasoning that Virginia's mental health confidentiality statute reaches court files rather than police records. The outcome establishes that no legal shield protected the whistleblower's most sensitive records.",
 "predicate": "wrote",
@@ -67,7 +65,6 @@
 "edgeLabel": "FOIA request that produced the records at issue in the suit",
 "family": "testimony",
 "id": "ken-klippenstein",
-"l0": false,
 "label": "Ken Klippenstein",
 "note": "Klippenstein obtained Grusch's 2014 and 2018 Loudoun County emergency-custody police records under Virginia FOIA and published them in The Intercept on 9 August 2023; Grusch's civil action was against the Sheriff who released them, not the reporter.",
 "predicate": "brought_to_record",
@@ -106,10 +103,8 @@
 },
 "hl": null,
 "id": "grusch-v-chapman",
-"l0": false,
 "label": "David C. Grusch v. Michael Chapman et al.",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "David C. Grusch v. Michael Chapman et al.",
 "sourceFiles": [

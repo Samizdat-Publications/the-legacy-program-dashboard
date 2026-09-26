@@ -7,7 +7,6 @@
 "To The Stars Academy of Arts & Science, Aerospace Division Director then COO (2017-2020)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2017-10-11",
@@ -76,7 +75,6 @@
 "edgeLabel": "Justice, ex-Lockheed Skunk Works Advanced Systems director, fronted the acquisition",
 "family": "role",
 "id": "adam-research-project",
-"l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "Justice said the structure and composition 'are not from any known existing military or commercial application' and conceded the materials came from sources 'with varying levels of chain-of-custody documentation'.",
 "predicate": "led",
@@ -103,7 +101,6 @@
 "edgeLabel": "Public technical voice: material 'not from any known existing military or commercial application'",
 "family": "testimony",
 "id": "adam-research-project",
-"l0": true,
 "label": "ADAM Research Project (Acquisition and Data Analysis of Materials)",
 "note": "A former Skunk Works program director staking his name on the claim is what gave ADAM standing with an Army laboratory.",
 "predicate": "made_claims_about",
@@ -135,7 +132,6 @@
 "edgeLabel": "Aerospace Division Director then COO (2017-2020)",
 "family": "role",
 "id": "ttsa",
-"l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "31 years at Lockheed's Skunk Works, latterly Program Director for Advanced Systems, per the company's own filing.",
 "predicate": "held_post",
@@ -173,11 +169,9 @@
 "hl": null,
 "id": "steve-justice",
 "instId": "ttsa",
-"l0": false,
 "label": "Steve Justice",
 "loc": "Encinitas, CA",
 "locId": "l-encinitas",
-"members": null,
 "narrative": "Justice is the black-aerospace credential in the TTSA roster. He retired from Lockheed Martin Advanced Development Programs — the Skunk Works — after 31 years, latterly as Program Director for Advanced Systems, and joined TTSA at launch in October 2017 as Aerospace Division Director, later Chief Operating Officer. He is the officer who publicly characterised the ADAM Research Project specimens, saying their 'structure and composition are not from any known existing military or commercial application,' and he is quoted in the October 2019 CRADA announcement saying the Army agreement 'brings additional, critically important expertise.' The technology list he put his name to in that agreement — inertial mass reduction, mechanical and structural metamaterials, electromagnetic metamaterial waveguides, quantum communications, beamed energy propulsion, active camouflage — is the closest thing in the open record to a legacy-program wish list submitted to a U.S. Army laboratory by a private company staffed with former SAP personnel. He departed TTSA in late 2020 with Elizondo and Mellon.",
 "photoCredit": null,
 "sequenceChain": [],

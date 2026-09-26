@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-564e725434",
@@ -33,7 +32,6 @@
 "edgeLabel": "Cosponsor",
 "family": "law",
 "id": "eric-burlison",
-"l0": false,
 "label": "Eric Burlison",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
@@ -60,7 +58,6 @@
 "edgeLabel": "Cosponsor",
 "family": "law",
 "id": "nancy-mace",
-"l0": false,
 "label": "Nancy Ruth Mace",
 "note": "Congress.gov cosponsor record.",
 "predicate": "sponsored_law",
@@ -87,7 +84,6 @@
 "edgeLabel": "Sponsor",
 "family": "law",
 "id": "tim-burchett",
-"l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Introduced 12 November 2024, the day before the Oversight hearing.",
 "predicate": "sponsored_law",
@@ -121,10 +117,8 @@
 },
 "hl": null,
 "id": "hr-10111-uap-whistleblower-protection-act",
-"l0": false,
 "label": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "H.R. 10111 - UAP Whistleblower Protection Act (118th Congress)",
 "sourceFiles": [

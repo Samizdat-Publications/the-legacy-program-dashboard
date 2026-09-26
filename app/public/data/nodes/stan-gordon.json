@@ -6,7 +6,6 @@
 "Pennsylvania Association for the Study of the Unexplained (PASU), founder"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1965-12-09",
@@ -83,7 +82,6 @@
 "edgeLabel": "Principal field investigator of the Kecksburg witness pool",
 "family": "oversight",
 "id": "kecksburg-1965",
-"l0": false,
 "label": "Kecksburg incident, 9 December 1965",
 "note": "Gordon collected local first-hand accounts over four decades, supplying the witnesses used by Unsolved Mysteries (1990) and the Sci Fi Channel documentary (2003).",
 "predicate": "investigated",
@@ -110,7 +108,6 @@
 "edgeLabel": "Four decades of field investigation at the site",
 "family": "oversight",
 "id": "l-kecksburg",
-"l0": false,
 "label": "Kecksburg, Westmoreland County, Pennsylvania",
 "note": "Gordon, a Greensburg-area researcher, assembled the local witness pool at Kecksburg that supplied the 1990 and 2003 broadcasts and the factual premise of the Kean litigation.",
 "predicate": "investigated",
@@ -137,7 +134,6 @@
 "edgeLabel": "Gordon's witness pool underwrote the evidentiary premise of the suit",
 "family": "documents",
 "id": "leslie-kean",
-"l0": false,
 "label": "Leslie Kean",
 "note": "The claim that something was recovered at Kecksburg, and therefore that records should exist, rests on the local testimony Gordon assembled. Reasoning: no document independently establishes a recovery, so the suit's factual premise is his witness base.",
 "predicate": "cites",
@@ -174,11 +170,9 @@
 "hl": null,
 "id": "stan-gordon",
 "instId": null,
-"l0": false,
 "label": "Stan Gordon",
 "loc": "Greensburg, PA",
 "locId": "l-kecksburg",
-"members": null,
 "narrative": "Stan Gordon is the field researcher who kept Kecksburg alive for four decades until it reached a federal courtroom. A western Pennsylvania investigator who was a teenager in Greensburg when the fireball came down on 9 December 1965, he spent the following decades locating and interviewing local witnesses - residents who described a military and state police cordon thrown around the woods, a flatbed truck leaving the site carrying something acorn-shaped and about the size of a Volkswagen, and men in unmarked vehicles - while the official position remained that searchers found absolutely nothing. His witness pool supplied the 1990 Unsolved Mysteries episode, the 2003 Sci Fi Channel documentary 'The New Roswell: Kecksburg Exposed', and, indirectly, the evidentiary basis for Leslie Kean's 2003 FOIA request and lawsuit against NASA. Gordon's work is the standard illustration of the retrieval literature's characteristic profile: a large, internally consistent body of local first-hand testimony describing a recovery operation, and no document. The Kean litigation was the attempt to close that gap by force of law, and it produced a federal finding that NASA's searches were inadequate and sworn testimony that two boxes of records from the period were missing - not the object, but the paper trail of its absence.",
 "photoCredit": null,
 "sequenceChain": [],

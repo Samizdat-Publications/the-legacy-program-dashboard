@@ -3,7 +3,6 @@
 "C": 0,
 "D": 3,
 "absorbedBy": "office-models",
-"band": null,
 "claims": [
 {
 "id": "c-be1780838a",
@@ -48,7 +47,6 @@
 "edgeLabel": "the civil-aviation implementation of the same model",
 "family": "analysis",
 "id": "cefaa",
-"l0": true,
 "label": "CEFAA / SEFAA - Chilean anomalous aerial phenomena office, Dirección General de Aeronáutica Civil",
 "note": "SEFAA sits inside the DGAC, publishes monthly resolved-case bulletins and archives cases by year back to 2018.",
 "predicate": "exemplifies",
@@ -75,7 +73,6 @@
 "edgeLabel": "the reference implementation of a civil state UAP office",
 "family": "analysis",
 "id": "geipan",
-"l0": true,
 "label": "GEIPAN - Groupe d'Études et d'Informations sur les Phénomènes Aérospatiaux Non identifiés",
 "note": "Published classification, published case conclusions, national police feed, three full-time staff and twenty-plus trained volunteers.",
 "predicate": "exemplifies",
@@ -107,7 +104,6 @@
 "edgeLabel": "the report is the source of the three-office model",
 "family": "analysis",
 "id": "sky-canada-project",
-"l0": true,
 "label": "Sky Canada Project - Office of the Chief Science Advisor of Canada",
 "note": "This is the first time a G7 government has publicly named which other countries' arrangements it would copy.",
 "predicate": "exemplifies",
@@ -141,10 +137,8 @@
 },
 "hl": null,
 "id": "intl-uap-office-model",
-"l0": false,
 "label": "The three-office model: GEIPAN, SEFAA, AARO",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "The three-office model: GEIPAN, SEFAA, AARO",
 "sourceFiles": [

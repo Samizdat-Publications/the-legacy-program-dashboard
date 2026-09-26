@@ -9,7 +9,6 @@
 "The Secret of Skinwalker Ranch (2020- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1999",
@@ -118,7 +117,6 @@
 "edgeLabel": "Led instrumented field investigation at Skinwalker Ranch while serving as UAPTF chief scientist",
 "family": "oversight",
 "id": "l-skinwalker",
-"l0": false,
 "label": "Skinwalker Ranch, Uintah Basin, Utah",
 "note": "The same person applied near-identical sensing methodology inside the classified task force and on a television production at the property NIDS and BAASS had studied, with no public account of any relationship between the two efforts.",
 "predicate": "investigated",
@@ -145,7 +143,6 @@
 "edgeLabel": "Chief scientist of the UAP Task Force",
 "family": "role",
 "id": "uap-task-force",
-"l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "Reported by Science magazine in June 2022. No government organisation chart naming him in the post has been released.",
 "predicate": "held_post",
@@ -183,11 +180,9 @@
 "hl": null,
 "id": "travis-taylor",
 "instId": "radiance-technologies",
-"l0": false,
 "label": "Travis S. Taylor",
 "loc": "Huntsville, AL",
 "locId": "l-huntsville",
-"members": null,
 "narrative": "Taylor is the technical layer's crossover point into the official task force. He holds two doctorates from the University of Alabama in Huntsville - optical science and engineering (1999) and aerospace engineering (2012) - plus master's degrees in physics, mechanical and aerospace engineering, and astronomy, and spent more than sixteen years on DoD and NASA work covering advanced propulsion, space-based beamed energy, high-energy lasers and HUMINT/IMINT/SIGINT/MASINT concept studies. Science magazine reported in June 2022 that Taylor 'was the chief scientist on the' Unidentified Aerial Phenomena Task Force, the Navy/OUSD(I&S)-hosted successor to AATIP that ran from August 2020 until it was folded into AOIMSG and then AARO. That places a serving defence contractor scientist with a propulsion and sensor background at the analytical head of the government's UAP effort in exactly the period the ODNI preliminary assessment was being written. He simultaneously led investigations on History Channel's 'The Secret of Skinwalker Ranch' from 2020, which is the fact critics use against him and the fact this board finds most interesting: the chief scientist of the Pentagon task force was, in the same period, running instrumented field investigation at the property Bigelow bought and NIDS studied. He is a Principal Research Scientist at Radiance Technologies, an employee-owned Huntsville defence contractor, and appears in 'The Age of Disclosure'.",
 "photoCredit": null,
 "sequenceChain": [],

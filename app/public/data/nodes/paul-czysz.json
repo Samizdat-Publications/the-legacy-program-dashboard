@@ -4,7 +4,6 @@
 "D": 1,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -78,7 +77,6 @@
 "edgeLabel": "author of record on the DIA list",
 "family": "documents",
 "id": "dird-space-access-where-we-ve-been",
-"l0": false,
 "label": "Space Access: Where We've Been and Where We Could Go",
 "note": "The DIA letter of 9 January 2018 to the Senate Armed Services Committee lists item 4 as \"Space Access, Dr P Czysz, HyperTech.\" The released document's own author line is redacted under FOIA exemption (b)(6), so the attribution rests entirely on the government list, not on the document.",
 "predicate": "wrote",
@@ -132,11 +130,9 @@
 "hl": null,
 "id": "paul-czysz",
 "instId": null,
-"l0": false,
 "label": "Paul A. Czysz",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Paul Czysz is the author the DIA list names for \"Space Access,\" the AAWSAP survey of how the United States has reached orbit and how it might do so differently. He is the least exotic figure in the DIRD author set and that is precisely what makes him useful. Czysz was a McDonnell Douglas hypersonics man, named a McDonnell Douglas Fellow in 1986 for work on hypersonic aircraft concepts, and served as chief scientist on the National Aerospace Plane effort. He left industry for Saint Louis University, held the Oliver L. Parks Endowed Chair in the Department of Aerospace and Mechanical Engineering at Parks College, and ran his own consultancy, HyperTech Concepts LLC, which is the affiliation the DIA letter records against his name.\n\nHis DIRD, DIA-08-1001-006, is dated March 2010 with an Intelligence Cut-Off Date of 1 December 2009, and it sits in the Acquisition Threat Support series. Its contents are conventional aerospace engineering: hypersonic configuration concepts, thermodynamics and materials, rocket propulsion, launch options, operational cost of transatmospheric vehicles, landing ellipses for hypersonic gliders. There is no metric engineering in it and no anomalous physics. Its presence in the set matters for that reason. The thirty-eight DIRDs are routinely described as a wormhole-and-warp-drive catalogue; roughly half of them are ordinary technology forecasting of the kind a defence warning office commissions every year, and Czysz's paper is the clearest example. He is a control on the claim that AAWSAP was uniformly speculative.\n\nCzysz died in 2013, before the December 2017 disclosure of AATIP and well before the DIRDs surfaced in bulk in the 2022 FOIA release. He therefore never commented publicly on the programme, was never interviewed about it, and left no account of who commissioned the paper or what the tasking said. His custody proximity is nil and his access level was that of an unclassified subject-matter subcontractor. He is on the board as an author node, not as a witness.",
 "photoCredit": null,
 "sequenceChain": [],

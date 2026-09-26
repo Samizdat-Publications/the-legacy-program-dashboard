@@ -7,7 +7,6 @@
 "Chairman, Senate Armed Services Committee (2021-2025); Ranking Member (2025- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-07-11",
@@ -111,7 +110,6 @@
 "edgeLabel": "Sponsor of S. 2226 and Senate conference principal",
 "family": "law",
 "id": "ndaa-fy2024",
-"l0": true,
 "label": "FY2024 NDAA, Public Law 118-31 - Div. A, Title XVIII, Subtitle C (secs. 1841-1843), UAP Records Collection; Div. G (IAA FY2024) secs. 7341, 7343",
 "note": "Reed introduced the vehicle on 11 July 2023 and signed the conference product that removed his own chamber's passed division.",
 "predicate": "sponsored_law",
@@ -143,7 +141,6 @@
 "edgeLabel": "Chairman 2021-2025",
 "family": "role",
 "id": "senate-armed-services",
-"l0": true,
 "label": "Senate Armed Services Committee",
 "note": "Reed chaired SASC through the only cycle in which a UAP disclosure regime reached an engrossed Senate bill.",
 "predicate": "led",
@@ -170,7 +167,6 @@
 "edgeLabel": "seat 2 of 12 - Ranking Member, Senate Armed Services",
 "family": "role",
 "id": "waived-sap-notification-group",
-"l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Continuously in the group across 2020 (ranking), 2023 (chairman) and August 2026 (ranking).",
 "predicate": "member_of",
@@ -233,11 +229,9 @@
 "hl": null,
 "id": "jack-reed",
 "instId": "us-senate",
-"l0": false,
 "label": "John F. Reed",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Reed is the single most continuously entitled person on this board. He has held a 10 U.S.C. 119(e)(2) seat on the Senate Armed Services Committee across every one of the load-bearing moments the board tracks after 2009: he was ranking member in 2020 when the Unidentified Aerial Phenomena Task Force was stood up, chairman in 2023 when David Grusch testified, and ranking member again in August 2026. In each configuration he was entitled to receive waived special access program information and the Secretary's justification for the waiver, jointly with his opposite number. He also sits on the Senate Appropriations Committee and its Defense Subcommittee, though membership on those bodies confers nothing under section 119 - only the chair and ranking seats do. Reed's importance to the board is that he is the continuity: where chairmanships rotated with party control, Reed occupied one of the two Senate armed services seats without interruption. If a waived DoD special access program concerning recovered non-human technology existed and was notified under 119(e)(2) at any point between 2015 and 2026, Reed is the person most likely to have received that notification. He has made no public statement to that effect, and no public statement denying it. That silence is the expected behaviour of someone lawfully constrained by the statute, and it is not evidence either way - but it does mean the board should treat him as a node of known entitlement rather than known knowledge.",
 "photoCredit": null,
 "sequenceChain": [],

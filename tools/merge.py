@@ -1278,9 +1278,10 @@ def tier1_cap_reason(c, urls):
     claim's owner stands on (a node's sources; a dossier's claim sources).
 
     One function, because the same rule now reaches two kinds of object: node
-    claims here, and entity-dossier claims where build_l0.py loads them (phase 3
-    decision 5). Before that the dossiers shipped 40 Tier 1 claims cited to a
-    secondary source and 22 cited to AARO/DoD for an outside fact."""
+    claims here, and entity-dossier claims where tools/dossiers.py loads them (phase
+    3 decision 5; build_l0.py until phase 11). Before that the dossiers shipped 40
+    Tier 1 claims cited to a secondary source and 22 cited to AARO/DoD for an
+    outside fact."""
     if c.get("tier") != 1:
         return None
     src = c.get("source") or ""
@@ -1706,9 +1707,9 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
     # ---- the denial adjudication ------------------------------------------
     # data/denial-adjudication.json carries a verdict for every denial edge:
     # which of the three states it is, and where the record names an issuer,
-    # which END issued it. Stamped on here so every downstream stage -- build_l0,
-    # the extract, the layout model, the renderer -- reads one adjudicated
-    # record rather than re-deriving direction from [a,b].sort(), which is what
+    # which END issued it. Stamped on here so every downstream stage -- the app's
+    # data, and until phase 11 build_l0, the extract and the layout model -- reads
+    # one adjudicated record rather than re-deriving direction from [a,b].sort(), which is what
     # put 22 of the 47 arrowheads on the map the wrong way round.
     #
     # Keyed on the edge's own two ends in record order. A verdict whose key
@@ -1757,9 +1758,10 @@ def emit(people, entities, edges, timeline, entity_info, gaps, problems):
     unadjudicated_denials.sort(key=lambda r: (r["a"], r["b"]))
 
     # The authored chip shorts in data/l0-shorts.json are display labels too. The
-    # three stages that read that register (build_l0.py, build_l0_layout.mjs,
-    # build_app_data.py) apply the same rule; the record of it is kept here with
-    # the rest, so tools/DISPLAY-NORMALISED.json is the one list.
+    # one stage that reads that register, build_app_data.py (build_l0.py and
+    # build_l0_layout.mjs did too until the L0 map retired in phase 11), applies the
+    # same rule; the record of it is kept here with the rest, so
+    # tools/DISPLAY-NORMALISED.json is the one list.
     sp = os.path.join(ROOT, "data", "l0-shorts.json")
     if os.path.exists(sp):
         for k, v in sorted(((json.load(open(sp, encoding="utf-8")) or {}).get("shorts") or {}).items()):

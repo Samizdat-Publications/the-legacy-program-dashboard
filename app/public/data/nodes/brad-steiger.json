@@ -4,7 +4,6 @@
 "D": 1,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -50,7 +49,6 @@
 "edgeLabel": "Co-author of Alien Rapture: The Chosen",
 "family": "documents",
 "id": "alien-rapture-1998",
-"l0": false,
 "label": "Alien Rapture: The Chosen, Galde Press, 1998",
 "note": "INTENT: AUTHORSHIP, mapped to research. This is the single documented fact behind the brad-steiger node, which is built deliberately thin. Nothing is asserted about the extent or nature of his contribution, and in particular nothing about whether he had any hand in the TR-3B material.",
 "predicate": "wrote",
@@ -84,11 +82,9 @@
 "hl": null,
 "id": "brad-steiger",
 "instId": null,
-"l0": false,
 "label": "Brad Steiger",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "This node is deliberately incomplete and is built thin on purpose. Exactly one thing about Brad Steiger was established from a primary record: the Library of Congress catalogue entry for LCCN 98002961 names him as co-author, with Edgar Rothschild Fouche, of Alien rapture: the chosen, Galde Press, 1998. That is the whole of the verified content. Fouche's own 1998 presentation describes him as 'the author of 143 published works including the Best Seller Project Bluebook', which is a claim made by his co-author in a promotional context and is carried here as Tier 2 and nothing more. His dates, his other work, the nature and extent of his contribution to the book, and whether he had any hand in the TR-3B material specifically were all outside the scope of this pass and are not asserted. The node exists so that the co-authorship of the originating book is visible on the graph rather than silently collapsed into Fouche, and it follows the precedent set by ronald-moultrie and scott-bray on 18 September 2026: build thin and say so, rather than pad or drop.",
 "photoCredit": null,
 "sequenceChain": [],

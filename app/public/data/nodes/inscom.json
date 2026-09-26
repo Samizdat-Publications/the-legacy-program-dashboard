@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 2,
-"band": "funding",
 "claims": [
 {
 "id": "c-82c6c330fb",
@@ -99,7 +98,6 @@
 "edgeLabel": "Subordinate group of USAINSCOM at Fort George G. Meade",
 "family": "organisation",
 "id": "902d-mi-group",
-"l0": false,
 "label": "902d Military Intelligence Group, USAINSCOM",
 "note": "The group's own letterhead reads USAINSCOM, 902D MILITARY INTELLIGENCE GROUP, Fort George G. Meade, Maryland 20755, and its memorandum is addressed through the INSCOM staff to the Commanding General.",
 "predicate": "part_of",
@@ -126,7 +124,6 @@
 "edgeLabel": "INSCOM ran CENTER LANE and ended it",
 "family": "organisation",
 "id": "center-lane",
-"l0": false,
 "label": "CENTER LANE",
 "note": "The project's own paperwork is INSCOM paperwork: the July 1984 memorandum recommending discontinuance, the July 1984 cancellation information paper, and the 2 March 1985 deactivation letter are all signed inside INSCOM.",
 "predicate": "ran",
@@ -153,7 +150,6 @@
 "edgeLabel": "CENTER LANE assets and resources attached OPCON to DIA, 2 March 1985",
 "family": "custody",
 "id": "dia",
-"l0": true,
 "label": "Defense Intelligence Agency",
 "note": "INSCOM's letter of 2 March 1985 notifies HQDA of the deactivation, of the attachment OPCON of CENTER LANE assets and resources to the Defense Intelligence Agency, and of the retirement of the project nickname.",
 "predicate": "transferred",
@@ -180,7 +176,6 @@
 "edgeLabel": "GRILL FLAME was INSCOM's entry into the field in 1977",
 "family": "organisation",
 "id": "grill-flame",
-"l0": false,
 "label": "GRILL FLAME",
 "note": "The 4 April 1984 GDIP memorandum dates USAINSCOM's exploitation of psychoenergetics to Project GRILL FLAME in 1977, and a 1978 talking paper is titled INSCOM Involvement in Remote Viewing (DoD Project GRILL FLAME).",
 "predicate": "ran",
@@ -207,7 +202,6 @@
 "edgeLabel": "Army Intelligence obligated $75K for SRI selection and training of INSCOM personnel",
 "family": "money",
 "id": "sri-international",
-"l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "The 1978 talking paper records the ACSI and the commanding general agreeing that Army Intelligence would obligate seventy-five thousand dollars to support an SRI subject selection and training programme for INSCOM personnel, with initial orientation at SRI International on 15 to 17 November 1978.",
 "predicate": "funded",
@@ -234,7 +228,6 @@
 "edgeLabel": "A ridiculed subject held inside service-secretary-level access controls",
 "family": "analysis",
 "id": "waived-usap",
-"l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Reasoning: the opened records show a psychoenergetics project carried as a Secretary of the Army designated special access programme with a category-three access caveat, which is the board's structural claim about SAP-level control of a ridiculed domain. No opened record connects CENTER LANE to waived status or to any unacknowledged programme.",
 "predicate": "exemplifies",
@@ -318,35 +311,8 @@
 },
 "hl": null,
 "id": "inscom",
-"l0": true,
 "label": "US Army Intelligence and Security Command (INSCOM)",
 "locLabel": null,
-"members": [
-{
-"cls": "institution",
-"id": "902d-mi-group",
-"label": "902d Military Intelligence Group, USAINSCOM",
-"tier": "B"
-},
-{
-"cls": "program",
-"id": "center-lane",
-"label": "CENTER LANE",
-"tier": "B"
-},
-{
-"cls": "program",
-"id": "grill-flame",
-"label": "GRILL FLAME",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "sri-international",
-"label": "SRI International (Stanford Research Institute)",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "INSCOM (Army Intelligence & Security)",
 "sourceFiles": [

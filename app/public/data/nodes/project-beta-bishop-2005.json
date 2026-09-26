@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-52c4155470",
@@ -47,7 +46,6 @@
 "edgeLabel": "Author of Project Beta (2005)",
 "family": "documents",
 "id": "greg-bishop",
-"l0": false,
 "label": "Greg Bishop",
 "note": "Authorship, typed research by rule. Bibliographic record is Tier 1: Paraview Pocket Books, 8 February 2005, ISBN 9780743470926, 288pp, LCCN 2005297375, OCLC 57678877.",
 "predicate": "wrote",
@@ -74,7 +72,6 @@
 "edgeLabel": "The principal documented account of the affair",
 "family": "documents",
 "id": "paul-bennewitz",
-"l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Tier 1 as a bibliographic record of a book about him. The participant-account caveat, Bishop's undisclosed friendship with Bill Moore as reported by a writer relying on Bishop, goes in this note and not in the tier: it bars the book from being the sole source for a claim about Moore's conduct, it does not degrade the record of the book's existence.",
 "predicate": "concerns",
@@ -113,10 +110,8 @@
 },
 "hl": null,
 "id": "project-beta-bishop-2005",
-"l0": false,
 "label": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Greg Bishop, 'Project Beta' (Paraview Pocket Books, 2005)",
 "sourceFiles": [

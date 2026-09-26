@@ -2,7 +2,6 @@
 "A": 1,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-4e7f5b1aa6",
@@ -47,7 +46,6 @@
 "edgeLabel": "Announced the Lincoln Laboratory production at the forum",
 "family": "media",
 "id": "eric-burlison",
-"l0": false,
 "label": "Eric Burlison",
 "note": "Jordan Flowers credited Burlison with shaking the artifact loose: 'He's stopped asking politely.'",
 "predicate": "appeared_on",
@@ -81,10 +79,8 @@
 },
 "hl": null,
 "id": "uap-disclosure-forum-2026",
-"l0": false,
 "label": "Disclosure Forum 2026",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Disclosure Forum 2026",
 "sourceFiles": [

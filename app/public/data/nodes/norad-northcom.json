@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 2,
-"band": "oversight",
 "claims": [
 {
 "id": "c-f5c8abeab4",
@@ -55,7 +54,6 @@
 "edgeLabel": "USNORTHCOM withheld two responsive fastwalker documents and refused to search NORAD",
 "family": "denial",
 "id": "defense-support-program",
-"l0": false,
 "label": "Defense Support Program (DSP) missile early warning satellites",
 "note": "USNORTHCOM located two responsive documents on the fastwalker designation and withheld both, and declined to search NORAD's holdings on the ground that NORAD sits outside FOIA.",
 "predicate": "refused",
@@ -82,7 +80,6 @@
 "edgeLabel": "Originated by the Commander-in-Chief, NORAD",
 "family": "documents",
 "id": "doc-cincnorad-1975-11-11",
-"l0": false,
 "label": "CINCNORAD four-part message, 11 November 1975",
 "note": "Type research: originator of the message, not custodian of anything.",
 "predicate": "wrote",
@@ -109,7 +106,6 @@
 "edgeLabel": "Produced by the 24th NORAD Region's own senior directors",
 "family": "organisation",
 "id": "doc-norad-24th-log-1975",
-"l0": false,
 "label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
 "note": "Type research because NORAD produced the document. It does not hold custody of anything on this board, and a custody edge here would weight the node as a programme edge without warrant.",
 "predicate": "produced",
@@ -136,7 +132,6 @@
 "edgeLabel": "Commander, NORAD and USNORTHCOM from February 2024",
 "family": "role",
 "id": "gregory-guillot",
-"l0": false,
 "label": "Gregory M. Guillot",
 "note": "Guillot's public statements on Langley and on the 2026 incursions are the command's authoritative position.",
 "predicate": "led",
@@ -168,7 +163,6 @@
 "edgeLabel": "Centrepiece of Guillot's 90-day counter-UAS assessment",
 "family": "oversight",
 "id": "langley-2023-incursions",
-"l0": false,
 "label": "Langley AFB Drone Incursions (December 2023)",
 "note": "Guillot testified the Langley incidents dominated his assessment on taking command in February 2024 and were 'the centerpiece' of his review.",
 "predicate": "investigated",
@@ -200,7 +194,6 @@
 "edgeLabel": "demands an intercept history since 2004",
 "family": "documents",
 "id": "ndaa26-uap-provisions",
-"l0": false,
 "label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
 "note": "AARO must brief Congress on the number, location and nature of UAP intercepts by NORAD and US Northern Command since 2004 and the data collected during them.",
 "predicate": "concerns",
@@ -227,7 +220,6 @@
 "edgeLabel": "NORAD was the detection and identification authority across the sequence",
 "family": "oversight",
 "id": "sac-overflights-1975",
-"l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "The NMCC memorandum records NORAD obtaining Canadian authority for pursuit; the CINCNORAD message summarises the sequence; the 24th Region log is the working record.",
 "predicate": "investigated",
@@ -264,7 +256,6 @@
 "edgeLabel": "NORAD-controlled fighters destroyed three unidentified objects in four days",
 "family": "place-time",
 "id": "shootdowns-feb-2023",
-"l0": false,
 "label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
 "note": "Two F-16CMs of the Minnesota Air National Guard's 148th Fighter Wing destroyed the Lake Huron object with an AIM-9X at roughly 20,000 feet on 12 February 2023.",
 "predicate": "responded_to",
@@ -353,53 +344,8 @@
 },
 "hl": null,
 "id": "norad-northcom",
-"l0": true,
 "label": "NORAD and US Northern Command",
 "locLabel": null,
-"members": [
-{
-"cls": "program",
-"id": "defense-support-program",
-"label": "Defense Support Program (DSP) missile early warning satellites",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "doc-cincnorad-1975-11-11",
-"label": "CINCNORAD four-part message, 11 November 1975",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "doc-norad-24th-log-1975",
-"label": "24th NORAD Region Senior Director's Log, Malmstrom, 7 to 19 November 1975",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "gregory-guillot",
-"label": "Gregory M. Guillot",
-"tier": "C"
-},
-{
-"cls": "event",
-"id": "langley-2023-incursions",
-"label": "Langley AFB Drone Incursions (December 2023)",
-"tier": "B"
-},
-{
-"cls": "legislation",
-"id": "ndaa26-uap-provisions",
-"label": "NDAA FY2026 UAP provisions (Secs. 1671-1673)",
-"tier": "A"
-},
-{
-"cls": "event",
-"id": "shootdowns-feb-2023",
-"label": "February 2023 Alaska, Yukon and Lake Huron Shootdowns",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "NORAD and US Northern Command",
 "sourceFiles": [

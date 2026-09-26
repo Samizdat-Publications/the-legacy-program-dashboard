@@ -2,7 +2,6 @@
 "A": 1,
 "C": 3,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-0f0be72554",
@@ -35,7 +34,6 @@
 "edgeLabel": "21 Feb 2020: Army withholds 29 emails / 100 pages of Cannon's TTSA correspondence in full",
 "family": "denial",
 "id": "joseph-cannon",
-"l0": false,
 "label": "Dr. Joseph Cannon",
 "note": "CCDC FOIA Officer Joy L. Linton invoked exemptions (b)(4) and (b)(5) over an unclassified novel-materials collaboration the Army publicly described as origin-immaterial.",
 "predicate": "refused",
@@ -62,7 +60,6 @@
 "edgeLabel": "Army counterparty; Detroit Arsenal ground vehicle laboratory",
 "family": "documents",
 "id": "ttsa-army-crada",
-"l0": true,
 "label": "CRADA between U.S. Army Ground Vehicle Systems Center and To The Stars Academy",
 "note": "GVSC released the agreement text within a day of the announcement and withheld all associated correspondence four months later.",
 "predicate": "concerns",
@@ -127,10 +124,8 @@
 },
 "hl": null,
 "id": "ccdc-gvsc",
-"l0": false,
 "label": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "U.S. Army Combat Capabilities Development Command, Ground Vehicle Systems Center",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-ba5de57c5f",
@@ -85,7 +84,6 @@
 "edgeLabel": "AARO was to inherit the Plan's declassification logic",
 "family": "law",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "Sec. 9009(b)(6) required the Board to brief AARO on the Plan before terminating, and Sec. 9013(b)(2) required AARO to carry its requirements into standing guidance.",
 "predicate": "implements",
@@ -112,7 +110,6 @@
 "edgeLabel": "The Board must produce the Plan under Sec. 9009(c)(3)",
 "family": "organisation",
 "id": "uap-records-review-board",
-"l0": false,
 "label": "Unidentified Anomalous Phenomena Records Review Board",
 "note": "The Controlled Disclosure Campaign Plan exists only as a Review Board product; removing the Board removed the Plan.",
 "predicate": "produced",
@@ -146,10 +143,8 @@
 },
 "hl": null,
 "id": "controlled-disclosure-campaign-plan",
-"l0": false,
 "label": "Controlled Disclosure Campaign Plan",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Controlled Disclosure Campaign Plan",
 "sourceFiles": [

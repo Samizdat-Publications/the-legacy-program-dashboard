@@ -8,7 +8,6 @@
 "Colorado UFO Project, scientific director (1966-1968)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1966-10-06",
@@ -179,7 +178,6 @@
 "edgeLabel": "Condon directed the study and wrote its conclusions personally",
 "family": "role",
 "id": "condon-committee",
-"l0": true,
 "label": "University of Colorado UFO Project (Condon Committee)",
 "note": "Condon authored the summary, conclusions and recommendations placed at the front of the report — the only section most readers and reporters ever saw.",
 "predicate": "led",
@@ -206,7 +204,6 @@
 "edgeLabel": "Condon praised him by name in the study he directed",
 "family": "conduct",
 "id": "donald-h-menzel",
-"l0": false,
 "label": "Donald H. Menzel",
 "note": "The praise is Condon's own, in his own chapter, and it is the specific sentence that bears on this board's argument that the Colorado study was disposed towards a conclusion before it reported.",
 "predicate": "supported",
@@ -233,7 +230,6 @@
 "edgeLabel": "Condon fired the investigators who surfaced Low's memo",
 "family": "conduct",
 "id": "robert-low",
-"l0": false,
 "label": "Robert J. Low",
 "note": "David Saunders and Norman Levine found the memo in project files and it reached Look magazine in May 1968; both were dismissed.",
 "predicate": "acted_against",
@@ -271,11 +267,9 @@
 "hl": null,
 "id": "edward-condon",
 "instId": "condon-committee",
-"l0": false,
 "label": "Edward U. Condon",
 "loc": "Boulder, CO",
 "locId": "l-boulder-co",
-"members": null,
 "narrative": "Edward Condon was a distinguished quantum physicist, former director of the National Bureau of Standards, and a man who had himself been hounded by the House Un-American Activities Committee — which made him an unusually credentialled front for the Air Force's exit strategy. Under contract 44620-67-C-0035, awarded October 1966, he directed the University of Colorado UFO Project and personally wrote the summary, conclusions and recommendations that were placed at the front of the 1968 report and were the only part most readers ever saw. Those conclusions declared further study unwarranted. The body of the report did not support them: roughly a third of the cases studied were left unexplained by the project's own investigators. Condon spent much of the project period giving speeches disparaging the subject, told an audience in January 1967 that the study was 'a bunch of nonsense' and that he might recommend the government get out of it, and fired the two staff members who exposed the Low memo. His report was blessed by a National Academy of Sciences panel and used by the Air Force as the stated basis for terminating Blue Book on 17 December 1969. Condon delivered exactly what the Robertson Panel had prescribed fifteen years earlier, with academic letterhead attached.",
 "photoCredit": null,
 "sequenceChain": [],

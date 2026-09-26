@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-a9ec90156a",
@@ -117,7 +116,6 @@
 "edgeLabel": "The anti-withholding rule does not reach DoD special access programs",
 "family": "analysis",
 "id": "four-regime-map",
-"l0": false,
 "label": "The four SAP reporting regimes and the seams between them",
 "note": "50 U.S.C. 3091(e) bars withholding from the intelligence committees on classification grounds, but binds only as to 'intelligence activities' and only for those committees, leaving DoD acquisition and operations and support SAPs outside it.",
 "predicate": "exemplifies",
@@ -144,7 +142,6 @@
 "edgeLabel": "The general 'fully and currently informed' duty and its covert action exception",
 "family": "law",
 "id": "usc-50-3093",
-"l0": false,
 "label": "50 U.S.C. 3093 - Presidential Approval and Reporting of Covert Actions",
 "note": "Section 3091(a)(1) states the general duty; section 3093(c)(2)-(3) supplies the limited-notification and no-prior-notice exceptions for covert action findings.",
 "predicate": "governs",
@@ -183,10 +180,8 @@
 },
 "hl": null,
 "id": "usc-50-3091",
-"l0": false,
 "label": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "50 U.S.C. 3091 - General Congressional Oversight Provisions (NSA 1947 sec. 501)",
 "sourceFiles": [

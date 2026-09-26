@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-c19ad93b66",
@@ -47,7 +46,6 @@
 "edgeLabel": "The appropriations tripwire on initiating or modifying a special access programme",
 "family": "law",
 "id": "dod-sapco",
-"l0": true,
 "label": "DoD Special Access Program Central Office (DoD SAPCO)",
 "note": "Section 8009 of the FY2026 Defense Appropriations Act bars use of that Act's funds to initiate or materially modify the scope of a SAP without 30 days advance notice to the congressional defense committees; DoD SAPCO is the office that administers the SAP enterprise under the Deputy Secretary. Attested by the statute.",
 "predicate": "governs",
@@ -74,7 +72,6 @@
 "edgeLabel": "IR&D reimbursement is not an appropriation and does not trigger SAP notification",
 "family": "organisation",
 "id": "irad-mechanism",
-"l0": false,
 "label": "Independent Research and Development (IR&D) as a funding channel",
 "note": "Section 8009 attaches to funds appropriated by the Act; contractor IR&D is reimbursed as an allowable indirect cost across a contract portfolio rather than appropriated to a programme. Reasoned inference from the structure of both instruments.",
 "predicate": "outside_of",
@@ -101,7 +98,6 @@
 "edgeLabel": "An activity funded from unvouchered CIA money never touches the appropriations SAP tripwire",
 "family": "organisation",
 "id": "usc-50-3510",
-"l0": false,
 "label": "50 U.S.C. 3510 - CIA unvouchered funds (CIA Act of 1949, sec. 8)",
 "note": "Section 8009 binds only funds appropriated by the annual Defense Appropriations Act; unvouchered Agency spending under 50 U.S.C. 3510 is neither DoD appropriated funds nor subject to normal expenditure law. Reasoned inference from the two texts; no document asserts this has occurred.",
 "predicate": "outside_of",
@@ -135,10 +131,8 @@
 },
 "hl": null,
 "id": "sec-8009-sap-notice",
-"l0": false,
 "label": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Section 8009 - 30-day advance notice before initiating or materially modifying a special access program",
 "sourceFiles": [

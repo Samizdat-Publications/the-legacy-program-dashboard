@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-98572ef451",
@@ -47,7 +46,6 @@
 "edgeLabel": "first public showing",
 "family": "testimony",
 "id": "eric-burlison",
-"l0": false,
 "label": "Eric Burlison",
 "note": "Burlison played the MQ-9 Hellfire-versus-orb video at the 9 September 2025 hearing; the Department has not confirmed its provenance.",
 "predicate": "brought_to_record",
@@ -74,7 +72,6 @@
 "edgeLabel": "two documented US weapons engagements of unidentified objects",
 "family": "analysis",
 "id": "gulf-of-oman-ac130j-2021",
-"l0": false,
 "label": "Gulf of Oman AC-130J UAP engagement, 8 September 2021",
 "note": "Yemen October 2024 (MQ-9, Hellfire) and the Gulf of Oman September 2021 (AC-130J, cannon fire, objects reportedly reacting) establish a pattern of engagement absent from every AARO annual report.",
 "predicate": "parallels",
@@ -113,10 +110,8 @@
 },
 "hl": null,
 "id": "mq9-yemen-hellfire-video-2024",
-"l0": false,
 "label": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "MQ-9 Hellfire engagement of an orb off Yemen (October 2024)",
 "sourceFiles": [

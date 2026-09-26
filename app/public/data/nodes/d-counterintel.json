@@ -3,7 +3,6 @@
 "C": 1,
 "D": 1,
 "absorbedBy": "perception-management",
-"band": null,
 "claims": [
 {
 "id": "c-0e701fc335",
@@ -56,7 +55,6 @@
 "edgeLabel": "Same service, both functions",
 "family": "role",
 "id": "d-psyop",
-"l0": false,
 "label": "Psychological Operations & Perception Management",
 "note": "AFOSI is chartered for both counterintelligence and criminal investigation, and is the organisation named in the Bennewitz deception; the two domains share personnel.",
 "predicate": "worked_with",
@@ -83,7 +81,6 @@
 "edgeLabel": "Clearance revocation as deterrent",
 "family": "analysis",
 "id": "d-witness",
-"l0": false,
 "label": "Witness Chain",
 "note": "Administrative revocation of access is effectively unreviewable and can end a career without any finding; this is the inferred mechanism suppressing first-hand testimony.",
 "predicate": "affects",
@@ -117,10 +114,8 @@
 },
 "hl": null,
 "id": "d-counterintel",
-"l0": false,
 "label": "Counterintelligence",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Counterintelligence",
 "sourceFiles": [

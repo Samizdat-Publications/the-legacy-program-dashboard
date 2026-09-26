@@ -2,7 +2,6 @@
 "A": 3,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-68c6586b51",
@@ -68,7 +67,6 @@
 "edgeLabel": "Originated by the Commander-in-Chief, NORAD",
 "family": "documents",
 "id": "norad-northcom",
-"l0": true,
 "label": "NORAD and US Northern Command",
 "note": "Type research: originator of the message, not custodian of anything.",
 "predicate": "wrote",
@@ -95,7 +93,6 @@
 "edgeLabel": "The command's own summary of the sequence, naming five installations",
 "family": "documents",
 "id": "sac-overflights-1975",
-"l0": true,
 "label": "1975 SAC Nuclear-Base Overflights (Loring, Wurtsmith, Malmstrom, Minot)",
 "note": "Only excerpts have been opened; the four parts have not been seen in full.",
 "predicate": "concerns",
@@ -129,10 +126,8 @@
 },
 "hl": null,
 "id": "doc-cincnorad-1975-11-11",
-"l0": false,
 "label": "CINCNORAD four-part message, 11 November 1975",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "CINCNORAD four-part message, 11 November 1975",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -253,7 +252,6 @@
 "edgeLabel": "codified AARO in statute with a public reporting mandate",
 "family": "law",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The James M. Inhofe NDAA for FY2023, signed 23 December 2022, gave AARO statutory authority and the annual reporting requirement now at 50 U.S.C. 3373(k).",
 "predicate": "created",
@@ -280,7 +278,6 @@
 "edgeLabel": "Helped draft the UAP whistleblower protection language",
 "family": "documents",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "The Debrief reports Grusch helped draft the UAP language in the FY2023 NDAA, signed December 2022, which permits authorized UAP disclosures without retaliation regardless of prior nondisclosure agreements - written by the person who would then need it.",
 "predicate": "wrote",
@@ -307,7 +304,6 @@
 "edgeLabel": "amends 50 U.S.C. 3373 to create AARO",
 "family": "law",
 "id": "ndaa-fy2022-sec-1683",
-"l0": true,
 "label": "FY2022 NDAA Sec. 1683 (P.L. 117-81; 50 U.S.C. 3373)",
 "note": "IAA FY2023 sec. 6802(a) rewrites sec. 1683 in full.",
 "predicate": "amended",
@@ -350,10 +346,8 @@
 },
 "hl": null,
 "id": "ndaa-fy2023",
-"l0": false,
 "label": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "FY2023 NDAA, Public Law 117-263 - Sec. 1673 (50 U.S.C. 3373b) UAP reporting/whistleblower protection; Div. F secs. 6802-6803 establishing AARO",
 "sourceFiles": [

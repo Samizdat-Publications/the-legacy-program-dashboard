@@ -2,7 +2,6 @@
 "A": 3,
 "C": 3,
 "D": 2,
-"band": "custody",
 "claims": [
 {
 "id": "c-d456a6795c",
@@ -123,7 +122,6 @@
 "edgeLabel": "Executive pipeline from the 1950s UFO analysis contractor to the 2020s FFRDC under inquiry",
 "family": "conduct",
 "id": "battelle",
-"l0": true,
 "label": "Battelle Memorial Institute",
 "note": "Battelle ran Project Stork and produced Blue Book Special Report No. 14; seventy years later it supplied MITRE's chief executive. The connection is documented; the significance is inference.",
 "predicate": "in_contact_with",
@@ -155,7 +153,6 @@
 "edgeLabel": "MITRE routes the answer back through its sponsoring agencies",
 "family": "denial",
 "id": "burlison-mitre-letter-2026",
-"l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "A MITRE spokesperson said that if any relevant material is found, 'we will coordinate with the federal agencies responsible for the work' - restating the FAR structure under which disclosure runs to the sponsor, not to Congress.",
 "predicate": "refused",
@@ -182,7 +179,6 @@
 "edgeLabel": "Demands production of all MITRE UAP and reverse-engineering records back to 1930",
 "family": "oversight",
 "id": "burlison-mitre-letter-2026",
-"l0": true,
 "label": "Rep. Burlison records demand to MITRE, 22 May 2026",
 "note": "MITRE confirmed it was reviewing its archives and said it would 'coordinate with the federal agencies responsible for the work to determine how to best provide any assets.'",
 "predicate": "requested",
@@ -214,7 +210,6 @@
 "edgeLabel": "the largest operator of the one acquisition form built to be non-competitive by design",
 "family": "analysis",
 "id": "d-contracting",
-"l0": false,
 "label": "Federal Contracting Mechanics",
 "note": "MITRE operates multiple FFRDCs. FAR 35.017 permits an agency to meet special long-term research needs through a sponsoring agreement with a single operator outside full and open competition, and obliges the FFRDC to disclose its activities to its sponsor and to no one else. That is a contracting mechanism, and MITRE is its largest single instance.",
 "predicate": "exemplifies",
@@ -251,7 +246,6 @@
 "edgeLabel": "MITRE is the largest single operator of the FFRDC form",
 "family": "analysis",
 "id": "d-ffrdc",
-"l0": false,
 "label": "The FFRDC Seam",
 "note": "MITRE operates six of the 41 FFRDCs recorded by NSF, spanning defence/intelligence, aviation, tax, health, homeland security and cybersecurity sponsors - the widest sponsor spread of any operator.",
 "predicate": "exemplifies",
@@ -278,7 +272,6 @@
 "edgeLabel": "Chairman of MITRE's Board of Trustees from November 2018",
 "family": "role",
 "id": "donald-kerr",
-"l0": false,
 "label": "Donald M. Kerr",
 "note": "Former director of Los Alamos National Laboratory, former director of the National Reconnaissance Office, former PDDNI - elected chairman at the same meeting that made Mike Rogers vice chairman.",
 "predicate": "led",
@@ -305,7 +298,6 @@
 "edgeLabel": "MITRE is the exemplar instance of the mechanism",
 "family": "analysis",
 "id": "ffrdc-mechanism",
-"l0": false,
 "label": "The FFRDC / UARC / GOCO mechanism",
 "note": "MITRE operates six FFRDCs and describes itself as providing long-term strategic partnership and stability to government sponsors - the documented properties on which the concealment thesis rests.",
 "predicate": "exemplifies",
@@ -337,7 +329,6 @@
 "edgeLabel": "Alleged 2011 restriction on historical briefings about program incumbents",
 "family": "denial",
 "id": "gerb-mitre-investigation",
-"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "A policy act alleged to prevent even cleared personnel from being briefed on the programme's own history - concealment directed inward at the programme's own workforce rather than outward at the public.",
 "predicate": "refused",
@@ -364,7 +355,6 @@
 "edgeLabel": "Names MITRE as the central FFRDC node of the legacy portfolio",
 "family": "testimony",
 "id": "gerb-mitre-investigation",
-"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation alleges MITRE's founding in 1958 carried a hidden second impetus beyond SAGE systems engineering: constructing a trusted long-term partner answerable only to its DoD customer to spearhead reverse engineering of recovered craft.",
 "predicate": "made_claims_about",
@@ -391,7 +381,6 @@
 "edgeLabel": "Alleges MITRE has held a Navy legacy reverse-engineering role since 1958",
 "family": "testimony",
 "id": "gerb-mitre-investigation",
-"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "Allegations include exploitation of non-human technologies from late-1940s recoveries and all-source processing of data on a very large Atlantic USO; no primary document has been produced.",
 "predicate": "made_claims_about",
@@ -418,7 +407,6 @@
 "edgeLabel": "Conditions any production on coordination with the sponsoring federal agencies",
 "family": "denial",
 "id": "house-oversight-committee",
-"l0": true,
 "label": "U.S. House Committee on Oversight and Government Reform",
 "note": "MITRE: 'If any relevant material is found, we will coordinate with the federal agencies responsible for the work to determine how to best provide any assets' - a compliance posture with an executive-branch veto inside it.",
 "predicate": "refused",
@@ -445,7 +433,6 @@
 "edgeLabel": "MITRE has administered JASON since 2002",
 "family": "organisation",
 "id": "jason-advisory-group",
-"l0": false,
 "label": "JASON",
 "note": "MITRE provides management and logistics for the government's most sensitive standing scientific advisory panel; the contract was saved by an NNSA sole-source award in April 2019 after DoD declined renewal.",
 "predicate": "ran",
@@ -477,7 +464,6 @@
 "edgeLabel": "President and CEO through the entire modern disclosure sequence, 2017-2024",
 "family": "role",
 "id": "jason-providakes",
-"l0": false,
 "label": "Jason Providakes",
 "note": "His tenure spans the December 2017 AATIP revelation, the UAP Task Force, the 2021 ODNI assessment, AARO's creation, and the Grusch testimony - the period Burlison's request covers.",
 "predicate": "led",
@@ -504,7 +490,6 @@
 "edgeLabel": "MITRE founding site and original headquarters",
 "family": "place-time",
 "id": "l-bedford-ma",
-"l0": false,
 "label": "Bedford, Massachusetts",
 "note": "Bedford, Massachusetts is the other of MITRE's two principal locations, at 202 Burlington Road. No MITRE-administered FFRDC is registered at Bedford on the NSF master list, so unlike McLean the Bedford tie is corporate rather than FFRDC-contractual.",
 "predicate": "located_at",
@@ -546,7 +531,6 @@
 "edgeLabel": "MITRE McLean headquarters campus",
 "family": "place-time",
 "id": "l-mclean",
-"l0": false,
 "label": "McLean, Virginia",
 "note": "MITRE names McLean, Virginia as one of its two principal locations, with four buildings on Colshire Drive. McLean is where the defence and intelligence FFRDC work sits: the NSF master list registers the National Security Engineering Center, the Center for Advanced Aviation System Development, the Center for Enterprise Modernization and HSSEDI at McLean.",
 "predicate": "located_at",
@@ -583,7 +567,6 @@
 "edgeLabel": "MITRE is named among the FFRDC and contractor ecosystem supporting NAVAIR programs at Pax River",
 "family": "place-time",
 "id": "l-pax-river",
-"l0": false,
 "label": "Naval Air Station Patuxent River, Maryland",
 "note": "The FFRDC form grants privileged long-term access to classified holdings while barring manufacturing and competition; no allegation of custody attaches to MITRE.",
 "predicate": "located_at",
@@ -610,7 +593,6 @@
 "edgeLabel": "President and CEO from 3 September 2024",
 "family": "role",
 "id": "mark-peters",
-"l0": false,
 "label": "Mark Todd Peters",
 "note": "Announced 27 June 2024 as MITRE's 10th president and CEO; the executive to whom Burlison's May 2026 request was ultimately addressed.",
 "predicate": "led",
@@ -637,7 +619,6 @@
 "edgeLabel": "Dedicated chapter 'The Role of MITRE' at 51:28",
 "family": "documents",
 "id": "michels-gerb-structural-episode",
-"l0": true,
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "note": "MITRE is given a named chapter inside the structural episode, seven months before Gerb published his full MITRE investigation - establishing that MITRE was already central to the model in January 2026.",
 "predicate": "concerns",
@@ -664,7 +645,6 @@
 "edgeLabel": "MITRE was spun out of Lincoln Laboratory Division 6 in 1958",
 "family": "role",
 "id": "mit-lincoln-laboratory",
-"l0": false,
 "label": "MIT Lincoln Laboratory",
 "note": "485 Lincoln Laboratory employees moved to the new corporation on incorporation, 21 July 1958, to continue SAGE systems engineering under Air Force sponsorship.",
 "predicate": "founded",
@@ -696,7 +676,6 @@
 "edgeLabel": "MITRE operates CAASD for the FAA",
 "family": "organisation",
 "id": "mitre-caasd",
-"l0": false,
 "label": "Center for Advanced Aviation System Development (CAASD)",
 "note": "CAASD gives MITRE the engineering authority over the civil air surveillance picture, under contracts DTFAWA10C00080 and 693KA822C00001.",
 "predicate": "ran",
@@ -723,7 +702,6 @@
 "edgeLabel": "MITRE operates HSSEDI for DHS Science and Technology",
 "family": "organisation",
 "id": "mitre-hssedi",
-"l0": false,
 "label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
 "note": "Created 5 March 2009; the DHS engineering franchise sits with the same operator now under congressional UAP records demand.",
 "predicate": "ran",
@@ -750,7 +728,6 @@
 "edgeLabel": "MITRE operates NSEC for the Under Secretary of Defense for Research and Engineering",
 "family": "organisation",
 "id": "mitre-nsec",
-"l0": false,
 "label": "National Security Engineering Center (NSEC)",
 "note": "NSEC is MITRE's only DoD/IC-sponsored FFRDC, funded at roughly $1.43 billion in FY2024 and executed through Army task orders under IDIQ W56KGU18D0004.",
 "predicate": "ran",
@@ -782,7 +759,6 @@
 "edgeLabel": "Named among the primes whose MITRE-related work Congress demanded an accounting of",
 "family": "role",
 "id": "northrop-grumman",
-"l0": true,
 "label": "Northrop Grumman Corporation",
 "note": "Burlison's production requests cover MITRE work involving Lockheed Martin, Northrop Grumman, Raytheon, Boeing, General Dynamics, SAIC and Leidos.",
 "predicate": "worked_with",
@@ -809,7 +785,6 @@
 "edgeLabel": "MITRE was created on the RAND model as the Air Force's systems engineering counterpart",
 "family": "analysis",
 "id": "rand-corporation",
-"l0": true,
 "label": "RAND Corporation",
 "note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
 "predicate": "parallels",
@@ -841,7 +816,6 @@
 "edgeLabel": "First technical director; carried SAGE engineering authority across from MIT",
 "family": "role",
 "id": "robert-everett",
-"l0": false,
 "label": "Robert R. Everett",
 "note": "Everett joined MITRE at incorporation as first technical director and later became its president.",
 "predicate": "led",
@@ -868,7 +842,6 @@
 "edgeLabel": "Elected to MITRE's Board of Trustees, 19 May 2026",
 "family": "role",
 "id": "samantha-ravich",
-"l0": false,
 "label": "Samantha F. Ravich",
 "note": "Elected three days before the Burlison production request was sent; former vice chair of the President's Intelligence Advisory Board.",
 "predicate": "member_of",
@@ -895,7 +868,6 @@
 "edgeLabel": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
 "family": "role",
 "id": "sue-gordon",
-"l0": false,
 "label": "Susan M. Gordon",
 "note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
 "predicate": "member_of",
@@ -922,7 +894,6 @@
 "edgeLabel": "would reach contractor holdings",
 "family": "law",
 "id": "uapda-fy2027-house-adopted",
-"l0": true,
 "label": "Unidentified Anomalous Phenomena Disclosure Act - Burlison amendment to the FY2027 NDAA",
 "note": "The amendment extends disclosure requirements to covered government contractors - the only instrument that would reach the holdings Burlison sought from MITRE by letter in May 2026.",
 "predicate": "governs",
@@ -1170,113 +1141,8 @@
 },
 "hl": 6,
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-contracting",
-"label": "Federal Contracting Mechanics",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "d-ffrdc",
-"label": "The FFRDC Seam",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "donald-kerr",
-"label": "Donald M. Kerr",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "ffrdc-mechanism",
-"label": "The FFRDC / UARC / GOCO mechanism",
-"tier": "B"
-},
-{
-"cls": "institution",
-"id": "jason-advisory-group",
-"label": "JASON",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "jason-providakes",
-"label": "Jason Providakes",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-bedford-ma",
-"label": "Bedford, Massachusetts",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-mclean",
-"label": "McLean, Virginia",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-pax-river",
-"label": "Naval Air Station Patuxent River, Maryland",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "mark-peters",
-"label": "Mark Todd Peters",
-"tier": "C"
-},
-{
-"cls": "institution",
-"id": "mit-lincoln-laboratory",
-"label": "MIT Lincoln Laboratory",
-"tier": "B"
-},
-{
-"cls": "program",
-"id": "mitre-caasd",
-"label": "Center for Advanced Aviation System Development (CAASD)",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "mitre-hssedi",
-"label": "Homeland Security Systems Engineering and Development Institute (HSSEDI)",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "mitre-nsec",
-"label": "National Security Engineering Center (NSEC)",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "robert-everett",
-"label": "Robert R. Everett",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "samantha-ravich",
-"label": "Samantha F. Ravich",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "sue-gordon",
-"label": "Susan M. Gordon",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "The MITRE Corporation",
 "sourceFiles": [

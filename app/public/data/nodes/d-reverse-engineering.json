@@ -3,7 +3,6 @@
 "C": 3,
 "D": 2,
 "absorbedBy": "legacy-programme",
-"band": null,
 "claims": [
 {
 "id": "c-461daa8df0",
@@ -62,7 +61,6 @@
 "edgeLabel": "Exploitation is the programme's purpose",
 "family": "analysis",
 "id": "d-legacy",
-"l0": false,
 "label": "Legacy Program",
 "note": "The legacy claim and the reverse-engineering claim are the same claim stated at different stages; AARO addresses and rejects both in Volume I.",
 "predicate": "affects",
@@ -89,7 +87,6 @@
 "edgeLabel": "Exploitation begins with characterisation",
 "family": "organisation",
 "id": "d-materials",
-"l0": false,
 "label": "Materials and custody analysis",
 "note": "Materials characterisation is the first step of any exploitation workflow and the only step whose outputs have been released - so far all conventional.",
 "predicate": "part_of",
@@ -128,10 +125,8 @@
 },
 "hl": null,
 "id": "d-reverse-engineering",
-"l0": false,
 "label": "Reverse Engineering",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Reverse Engineering",
 "sourceFiles": [

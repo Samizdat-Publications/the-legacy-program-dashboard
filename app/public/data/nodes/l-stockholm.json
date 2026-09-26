@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -34,7 +33,6 @@
 "edgeLabel": "VASCO archival transient search",
 "family": "place-time",
 "id": "d-astro",
-"l0": false,
 "label": "Astronomy & Astrophysics",
 "note": "Villarroel's Stockholm-based VASCO project produced the October 2025 Scientific Reports correlation between POSS-I transients, nuclear testing and UAP reports.",
 "predicate": "located_at",
@@ -71,10 +69,8 @@
 },
 "hl": null,
 "id": "l-stockholm",
-"l0": false,
 "label": "Stockholm, Sweden",
 "locLabel": "Stockholm, Sweden",
-"members": null,
 "openQuestions": [],
 "short": "Stockholm, Sweden",
 "sourceFiles": [

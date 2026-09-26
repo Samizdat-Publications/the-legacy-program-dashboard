@@ -8,7 +8,6 @@
 "NASA Associate Administrator, Science Mission Directorate (2023- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-09-14",
@@ -48,7 +47,6 @@
 "edgeLabel": "NASA announced the UAP research director but withheld the name at the briefing",
 "family": "denial",
 "id": "mark-mcinerney",
-"l0": false,
 "label": "Mark McInerney",
 "note": "The agency that had spent a year arguing stigma prevents UAP science then shielded its own appointee from that stigma by not naming him; subsequent reporting identified Mark McInerney.",
 "predicate": "refused",
@@ -75,7 +73,6 @@
 "edgeLabel": "Announced the appointment of a NASA Director of UAP Research",
 "family": "role",
 "id": "nasa",
-"l0": true,
 "label": "National Aeronautics and Space Administration",
 "note": "In the report foreword Fox, Associate Administrator for the Science Mission Directorate, wrote that 'NASA is appointing a Director of UAP Research to centralize communications'.",
 "predicate": "held_post",
@@ -102,7 +99,6 @@
 "edgeLabel": "NASA science chief at the report release briefing",
 "family": "role",
 "id": "nasa-uap-ist",
-"l0": true,
 "label": "NASA UAP Independent Study Team",
 "note": "Fox appeared at the 14 September 2023 briefing where NASA announced a Director of UAP Research without naming the appointee.",
 "predicate": "held_post",
@@ -170,11 +166,9 @@
 "hl": null,
 "id": "nicola-fox",
 "instId": "nasa",
-"l0": false,
 "label": "Nicola J. Fox",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Fox is the NASA science chief who stood on the stage on 14 September 2023 when the agency released the Independent Study Team report and announced it had appointed a Director of UAP Research - and then did not say who it was. Her framing of the agency's position was 'The language of scientists is data,' which is the correct scientific posture and also, in context, an admission that the data NASA could obtain was inadequate. The non-naming is the item that belongs on this board. NASA had just spent a year telling the public that stigma was the primary obstacle to studying UAP, and then withheld the identity of its own research director at the very briefing announcing the appointment. Subsequent reporting identified the appointee as Mark McInerney. The episode is a small, precisely dated demonstration of how the stigma structure reproduces itself inside the agency that was supposed to break it.",
 "photoCredit": null,
 "sequenceChain": [],

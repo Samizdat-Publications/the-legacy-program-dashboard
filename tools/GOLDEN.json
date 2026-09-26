@@ -30,15 +30,7 @@
    "3": 235
   },
   "unique_source_urls": 1697,
-  "l0_nodes": 135,
-  "l0_edges_direct": 273,
-  "l0_edges_summarised": 140,
-  "ledger": 977,
-  "path_only": 25,
-  "unattached": 1,
-  "l0_with_dossier": 135,
-  "l0_dossier_claims": 1644,
-  "l0_dossier_claim_tiers": {
+  "dossier_claim_tiers": {
    "1": 1241,
    "2": 477,
    "3": 85

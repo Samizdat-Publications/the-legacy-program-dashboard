@@ -2,7 +2,6 @@
 "A": 0,
 "C": 2,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-e478d1ae39",
@@ -75,7 +74,6 @@
 "edgeLabel": "Two documented official responses to undocumented objects, twenty-two months apart",
 "family": "analysis",
 "id": "kecksburg-1965",
-"l0": false,
 "label": "Kecksburg incident, 9 December 1965",
 "note": "At Kecksburg the cordon is in the contemporaneous press and the object is in no record; at Shag Harbour the RCAF Air Desk telex, the Navy tasking and the Fleet Diving Unit Atlantic search are all in Department of National Defence files and the object is in none.",
 "predicate": "parallels",
@@ -109,10 +107,8 @@
 },
 "hl": null,
 "id": "shag-harbour-1967",
-"l0": false,
 "label": "Shag Harbour incident, 4 October 1967",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Shag Harbour incident, 4 October 1967",
 "sourceFiles": [

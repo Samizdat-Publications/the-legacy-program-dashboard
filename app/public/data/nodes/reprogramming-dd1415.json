@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-a323500aee",
@@ -75,7 +74,6 @@
 "edgeLabel": "Below-threshold and internal reprogramming are where the unsupported adjustments live",
 "family": "analysis",
 "id": "dod-agencywide-audit",
-"l0": true,
 "label": "DoD Agency-Wide Financial Statement Audit (FY2018-present)",
 "note": "The FMR permits internal reprogramming on DD 1415-3 with no congressional action and below-threshold realignment with none at all; the FY2025 audit found more than $859 billion of adjustments in two quarters that could not be supported. The inference is that the undocumented volume is concentrated in the layer that generates no external record.",
 "predicate": "affects",
@@ -102,7 +100,6 @@
 "edgeLabel": "The administrative layer beneath the statutory transfer authority",
 "family": "law",
 "id": "sec-8005-transfer",
-"l0": false,
 "label": "Section 8005 Transfer Authority (annual DoD Appropriations Act)",
 "note": "DoD FMR Volume 3 Chapter 6 implements reprogramming and transfer actions, including Below-Threshold Reprogramming which requires no approval or notification. Attested by the regulation.",
 "predicate": "implements",
@@ -136,10 +133,8 @@
 },
 "hl": null,
 "id": "reprogramming-dd1415",
-"l0": false,
 "label": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Reprogramming of DoD Appropriated Funds (DoD FMR Volume 3, Chapter 6; DD Form 1415 series)",
 "sourceFiles": [

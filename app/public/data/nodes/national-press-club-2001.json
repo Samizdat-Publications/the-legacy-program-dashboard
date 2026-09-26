@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "disclosure",
 "claims": [
 {
 "id": "c-38a2d16a4b",
@@ -103,7 +102,6 @@
 "edgeLabel": "Shown at the podium by Fox News Channel, 9 May 2001",
 "family": "testimony",
 "id": "clifford-stone",
-"l0": false,
 "label": "Clifford E. Stone",
 "note": "Klass: 'Fox News Channel showed Stone at the May press conference saying, I was involved in situations where we actually did recoveries of crashed saucers...and the debris thereof.' A broadcast attestation independent of the organiser.",
 "predicate": "witnessed",
@@ -130,7 +128,6 @@
 "edgeLabel": "A press event whose purpose was coverage, covered the same day by a national broadcaster",
 "family": "analysis",
 "id": "d-media",
-"l0": false,
 "label": "Independent media as the disclosure substrate",
 "note": "ABC News reported it on 9 May 2001 with a sceptical comment from its own space consultant. The far larger audience figures that circulate come from the Project's own publicity and are not carried.",
 "predicate": "exemplifies",
@@ -157,7 +154,6 @@
 "edgeLabel": "Counsel to the Project, at the podium on 9 May 2001",
 "family": "media",
 "id": "daniel-sheehan",
-"l0": false,
 "label": "Daniel P. Sheehan",
 "note": "ABC News names him on the day; Klass records his function as counsel to defend witnesses who might be charged with violating security oaths.",
 "predicate": "appeared_on",
@@ -189,7 +185,6 @@
 "edgeLabel": "The Project's press conference, 9 May 2001",
 "family": "organisation",
 "id": "disclosure-project",
-"l0": true,
 "label": "The Disclosure Project",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
 "predicate": "part_of",
@@ -221,7 +216,6 @@
 "edgeLabel": "Document April 2001; press conference 9 May 2001; different and largely unknown rosters",
 "family": "place-time",
 "id": "disclosure-project-briefing-2001",
-"l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "THE DOCUMENT PRECEDES THE EVENT BY ABOUT A MONTH AND THE TWO ROSTERS ARE NOT THE SAME SET. The document prints 68 testimonies; the book published alongside contains 69 transcripts; 20 people spoke at the conference and no opened source lists which 20. This edge exists to stop the inference that a printed testimony implies a podium appearance.",
 "predicate": "preceded",
@@ -253,7 +247,6 @@
 "edgeLabel": "Spoke at the podium, 9 May 2001",
 "family": "media",
 "id": "john-callahan",
-"l0": false,
 "label": "John Callahan",
 "note": "One of only five people an opened source places at that podium, and the attestation is from a hostile contemporaneous newsletter rather than from the organiser.",
 "predicate": "appeared_on",
@@ -280,7 +273,6 @@
 "edgeLabel": "Organiser of the event",
 "family": "organisation",
 "id": "steven-greer",
-"l0": false,
 "label": "Steven M. Greer",
 "note": "ABC News, on the day: Greer 'organized the program at the National Press Club in Washington'.",
 "predicate": "ran",
@@ -343,41 +335,8 @@
 },
 "hl": null,
 "id": "national-press-club-2001",
-"l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "clifford-stone",
-"label": "Clifford E. Stone",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "d-media",
-"label": "Independent media as the disclosure substrate",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "daniel-sheehan",
-"label": "Daniel P. Sheehan",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "john-callahan",
-"label": "John Callahan",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "steven-greer",
-"label": "Steven M. Greer",
-"tier": "B"
-}
-],
 "openQuestions": [],
 "short": "Disclosure Project, 9 May 2001",
 "sourceFiles": [

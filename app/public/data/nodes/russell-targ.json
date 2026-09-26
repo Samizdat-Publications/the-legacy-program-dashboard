@@ -7,7 +7,6 @@
 "Lockheed Missiles and Space Company (1985-1997)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1972-01-01",
@@ -54,7 +53,6 @@
 "edgeLabel": "Co-authors of the Nature paper and the SRI remote-viewing protocol",
 "family": "role",
 "id": "harold-puthoff",
-"l0": false,
 "label": "Harold E. Puthoff",
 "note": "Nature 251, 602-607 (18 October 1974); 'Standard Remote Viewing Protocol (Local Targets),' SRI, November 1978.",
 "predicate": "worked_with",
@@ -86,7 +84,6 @@
 "edgeLabel": "Targ was co-principal investigator at SRI 1972-1982",
 "family": "role",
 "id": "sri-international",
-"l0": false,
 "label": "SRI International (Stanford Research Institute)",
 "note": "Targ co-authored both the 1974 Nature paper and the November 1978 SRI remote-viewing protocol released in the STARGATE declassification.",
 "predicate": "held_post",
@@ -118,7 +115,6 @@
 "edgeLabel": "Targ co-founded the SRI remote viewing research",
 "family": "role",
 "id": "stargate-program",
-"l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Targ collaborated with Puthoff on the early SRI work and on the tests with Geller, Swann and Price.",
 "predicate": "member_of",
@@ -154,11 +150,9 @@
 "hl": null,
 "id": "russell-targ",
 "instId": "sri-international",
-"l0": false,
 "label": "Russell Targ",
 "loc": "Menlo Park, CA",
 "locId": "l-sri",
-"members": null,
 "narrative": "Targ was Puthoff's co-principal investigator at SRI from 1972 to 1982, a laser physicist by training who co-authored the 1974 Nature paper and the 1978 remote-viewing protocol document that survives in the declassified STARGATE corpus. He is included here because he is the corroborating half of the SRI record: two named scientists, one private research institute, a decade of federal intelligence funding, and a paper trail that CIA itself released. Targ has been consistently more willing than most participants to describe the funding chain in plain terms - CIA first, then Army INSCOM, then DIA - and his account of the programme's institutional history is the least embellished available from a principal. He left SRI in 1982 for Lockheed Missiles and Space Company, a transition that itself illustrates the porousness between the FFRDC/contract research world and the defence primes that this board tracks.",
 "photoCredit": null,
 "sequenceChain": [],

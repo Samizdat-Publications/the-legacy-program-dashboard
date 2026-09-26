@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-392def65f6",
@@ -55,7 +54,6 @@
 "edgeLabel": "CUFOS and FUFOR investigated and discredited their own witness",
 "family": "oversight",
 "id": "gerald-anderson",
-"l0": false,
 "label": "Gerald Anderson",
 "note": "Mark Rodeghier of CUFOS and Fred Whiting of the Fund for UFO Research published 'The Plains of San Agustin Controversy' concluding against Anderson's reliability.",
 "predicate": "investigated",
@@ -82,7 +80,6 @@
 "edgeLabel": "CUFOS cooperated with and advised the Status Report series",
 "family": "role",
 "id": "leonard-stringfield",
-"l0": false,
 "label": "Leonard H. Stringfield",
 "note": "Stringfield acknowledges CUFOS cooperation in Status Report VII and records consulting its scientific director on 6 November 1993 about the Roswell body count.",
 "predicate": "worked_with",
@@ -109,7 +106,6 @@
 "edgeLabel": "Names the Center for UFO Studies case files as a second of its three major collections, on its own account",
 "family": "custody",
 "id": "nufohrc",
-"l0": false,
 "label": "National UFO Historical Records Center",
 "note": "The Center names the Center for UFO Studies case files as a second of its three major historical collections, on its own account.",
 "predicate": "holds",
@@ -143,10 +139,8 @@
 },
 "hl": null,
 "id": "cufos",
-"l0": false,
 "label": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "J. Allen Hynek Center for UFO Studies (CUFOS)",
 "sourceFiles": [

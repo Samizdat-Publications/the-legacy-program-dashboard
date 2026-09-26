@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-0326ff4923",
@@ -89,7 +88,6 @@
 "edgeLabel": "The Schedule is the instrument by which the entire NIP is authorised",
 "family": "money",
 "id": "nip",
-"l0": false,
 "label": "National Intelligence Program (NIP)",
 "note": "Section 6102(a) of the FY2026 Intelligence Authorization Act provides that the amounts authorised for intelligence activities 'are those specified in the classified Schedule of Authorizations prepared to accompany this division'. Attested by the statute itself.",
 "predicate": "funded",
@@ -116,7 +114,6 @@
 "edgeLabel": "What the Schedule of Authorizations looks like from the inside",
 "family": "analysis",
 "id": "nip-fy2013-summary-disclosure",
-"l0": false,
 "label": "National Intelligence Program Summary for FY2013 (excerpts) - the 2013 black budget disclosure",
 "note": "The FY2013 excerpts show agency, programme and objective-level detail of the kind that section 6102 of the Intelligence Authorization Act keeps in the classified Schedule. The inference that the two documents describe the same structure is reasoned; no source states it.",
 "predicate": "exemplifies",
@@ -143,7 +140,6 @@
 "edgeLabel": "Section 3306(a) is the sole affirmative exception to the bar on disclosing the Schedule",
 "family": "law",
 "id": "usc-50-3306",
-"l0": false,
 "label": "50 U.S.C. 3306 - Public disclosure of NIP aggregate amounts",
 "note": "Section 6102(b)(3)(A) names 50 U.S.C. 3306(a) as the one statutory route by which any portion of the classified Schedule may be publicly disclosed. Attested by the enacted text.",
 "predicate": "governs",
@@ -177,10 +173,8 @@
 },
 "hl": null,
 "id": "classified-schedule-authorizations",
-"l0": false,
 "label": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "The Classified Schedule of Authorizations (Intelligence Authorization Act)",
 "sourceFiles": [

@@ -8,7 +8,6 @@
 "Armée de l'Air (French Air Force)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1995-03",
@@ -93,7 +92,6 @@
 "edgeLabel": "IHEDN director who sponsored the project",
 "family": "conduct",
 "id": "cometa",
-"l0": true,
 "label": "COMETA - Comité d'Études Approfondies",
 "note": "Norlain's own preface records that Letty came to his IHEDN office in March 1995 and that he referred the project to the Auditors Association, which backed it.",
 "predicate": "supported",
@@ -130,11 +128,9 @@
 "hl": null,
 "id": "bernard-norlain",
 "instId": "ihedn",
-"l0": false,
 "label": "Général Bernard Norlain",
 "loc": "Paris, France",
 "locId": "l-paris",
-"members": null,
 "narrative": "Bernard Norlain is the former director of the Institut des Hautes Études de Défense Nationale, the French state's own senior strategic-studies institute reporting to the Prime Minister, and later a prominent figure in nuclear-disarmament advocacy. His preface to the COMETA report is the reason COMETA cannot be dismissed as a hobbyist product: it places the report inside the IHEDN lineage. Norlain records that Denis Letty came to his IHEDN office in March 1995, that he referred Letty to the IHEDN Auditors Association which supported the project, and that the Association had itself produced a preliminary UFO report in its bulletin some twenty years earlier - the 1976 committee chaired by General Blanchard of the Gendarmerie Nationale whose recommendations produced GEPAN. His preface is titled 'Concrete problems are raised that call for a response in terms of action', and it ends with an explicit political demand: 'I express the wish that the recommendations of COMETA, which are inspired by good sense, will be examined and implemented by the authorities of our country ... May this new report, which is much more in-depth, give new impetus to our national efforts and to indispensable international cooperation. IHEDN will then have well served the nation and, perhaps, humanity.'",
 "photoCredit": null,
 "sequenceChain": [],

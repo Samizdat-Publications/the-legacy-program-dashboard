@@ -3,7 +3,6 @@
 "C": 2,
 "D": 2,
 "absorbedBy": "biology-medical",
-"band": null,
 "claims": [
 {
 "id": "c-d0baa58c7a",
@@ -62,7 +61,6 @@
 "edgeLabel": "Biologics claim and documented injury record",
 "family": "analysis",
 "id": "d-bio",
-"l0": false,
 "label": "Biology & Non-Human Biologics",
 "note": "The bio claim has no released material; the medical domain has DIRD 26 and the Cash-Landrum clinical record, which is the auditable end of the same question.",
 "predicate": "parallels",
@@ -89,7 +87,6 @@
 "edgeLabel": "Shared clinical signature",
 "family": "analysis",
 "id": "d-plasma",
-"l0": false,
 "label": "Plasma Physics & Atmospheric Electricity",
 "note": "Dermal burn and neurological presentations attributed to anomalous encounters are also produced by directed-energy and radiofrequency exposure, which the board records rather than resolves.",
 "predicate": "parallels",
@@ -116,7 +113,6 @@
 "edgeLabel": "The only injury case that reached federal court",
 "family": "analysis",
 "id": "l-huffman-tx",
-"l0": false,
 "label": "Huffman / Dayton, Texas",
 "note": "Cash v. United States arose from the December 1980 encounter on FM 1485 and was dismissed in August 1986.",
 "predicate": "exemplifies",
@@ -150,10 +146,8 @@
 },
 "hl": null,
 "id": "d-medical",
-"l0": false,
 "label": "Medical & Injury Effects",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Medical & Injury Effects",
 "sourceFiles": [

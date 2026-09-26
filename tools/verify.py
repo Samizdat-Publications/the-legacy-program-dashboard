@@ -409,263 +409,67 @@ def _claims(b):
 
 
 # ---------------------------------------------------------------------------
-# the L0 program map, each check self-tested
+# the entity dossiers and the connection rows, as the app ships them
 #
-# These read data/l0-model.json, the build product the app's map data is written
-# from. Self-test poisons them through _L0_OVERRIDE, the same channel pattern as
-# _LAYOUT_OVERRIDE below.
+# Until redesign phase 11 (26 September 2026) this section held the L0 program
+# map's checks and read data/l0-model.json: the register partition, the summarised
+# and routed edges, the class bars, the routed rows' intermediates, "every L0 node
+# carries an entity dossier" and the structural-authority overlay. They retired
+# with the map. The checks whose subject the app still ships are re-pointed at
+# app/public/data/nodes/, which build_app_data.py writes: each node's `dossier`
+# (research/dossiers/, loaded and capped by tools/dossiers.py) and its
+# `connections`. The self-test poisons those shipped files through
+# _APP_NODES_OVERRIDE, the channel the predicate checks below already use.
 # ---------------------------------------------------------------------------
 
-L0_MODEL = os.path.join(ROOT, "data", "l0-model.json")
-_L0_OVERRIDE = None
-_L0_CACHE = []
 
-
-def _l0():
-    """data/l0-model.json, or the poisoned stand-in during --self-test.
-
-    Until 25 September 2026 this parsed the `const L0DATA = ` literal back out of
-    the old single-file shell, on the principle that what shipped is the only thing
-    worth asserting on. The old shell is retired and the app reads the map from
-    app/public/data/, which build_app_data.py writes from this same file and checks
-    with --check; so the model file is now the nearest thing to what ships."""
-    if _L0_OVERRIDE is not None:
-        return _L0_OVERRIDE
-    if not _L0_CACHE:
-        if not os.path.exists(L0_MODEL):
-            return None
-        with open(L0_MODEL, encoding="utf-8") as fh:
-            _L0_CACHE.append(json.load(fh))
-    return _L0_CACHE[0]
-
-
-@check("register partition is total")
-def _l0_partition(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    c = d["counts"]
-    total = len(b["people"]) + len(b["entities"])
-    got = c["l0"] + c["ledger"] + c["pathOnly"] + c["unattached"]
-    bad = []
-    if got != total:
-        bad.append(f"registers sum to {got}, board has {total} nodes — "
-                   f"the partition is not total, so 'nothing was left out' is false")
-    # and no id may appear in two registers, or in none
-    seen, dupe = {}, []
-    for reg, ids in (("l0", [n["id"] for n in d["l0"]]),
-                     ("pathOnly", [r["id"] for r in d["pathOnly"]]),
-                     ("unattached", [r["id"] for r in d["unattached"]])):
-        for i in ids:
-            if i in seen:
-                dupe.append(f"{i} is in both {seen[i]} and {reg}")
-            seen[i] = reg
-    bad += dupe[:5]
-    if c["l0"] != len(d["l0"]):
-        bad.append(f"counts.l0 says {c['l0']}, the l0 array holds {len(d['l0'])}")
-    return bad
-
-
-@check("summarised edge tier is the strongest of its underlying links")
-def _l0_tier(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    pair = {}
-    for e in b["edges"]:
-        pair.setdefault("|".join(sorted((e["a"], e["b"]))), []).append(e)
-    bad = []
-    for e in d["summarised"]:
-        want = 9
-        for v in e["via"]:
-            for end in (e["a"], e["b"]):
-                for h in pair.get("|".join(sorted((end, v))), []):
-                    want = min(want, h["claimTier"])
-        if want != 9 and e["tier"] != want:
-            bad.append(f"summarised {e['a']}~{e['b']} prints tier {e['tier']}, "
-                       f"strongest underlying link is tier {want}")
-        # the tick count IS the shared-member count; they cannot disagree
-        if e["n"] != len(e["via"]):
-            bad.append(f"summarised {e['a']}~{e['b']} claims {e['n']} shared members "
-                       f"but lists {len(e['via'])}")
-    return bad[:8]
-
-
-@check("the shared-member gate holds and only hand-written edges are summarised")
-def _l0_gate(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    hand = set()
-    for e in b["edges"]:
-        hand.add("|".join(sorted((e["a"], e["b"]))))
-    gate = d["config"]["sharedMemberGate"]
-    bad = []
-    for e in d["summarised"]:
-        if len(e["via"]) < gate:
-            bad.append(f"summarised {e['a']}~{e['b']} has {len(e['via'])} shared "
-                       f"member(s), below the gate of {gate}")
-        # A rolled-up DERIVED edge would carry a count and a tier earned by nothing
-        # but a shared attribute. The two must never meet in the same code path.
-        for v in e["via"]:
-            for end in (e["a"], e["b"]):
-                if "|".join(sorted((end, v))) not in hand:
-                    bad.append(f"summarised {e['a']}~{e['b']} rests on {end}~{v}, "
-                               f"which is not a hand-written edge")
-    return bad[:8]
-
-
-@check("no routed or path-only entity emits an edge instance")
-def _l0_noroutededges(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    l0ids = {n["id"] for n in d["l0"]}
-    off = {r["id"] for r in d["pathOnly"]} | {r["id"] for r in d["unattached"]}
-    for n in d["l0"]:
-        off |= {r["id"] for r in n["routed"]}
-    bad = []
-    for e in d["directEdges"] + d["summarised"]:
-        for end in (e["a"], e["b"]):
-            if end in off:
-                bad.append(f"edge {e['a']}~{e['b']} has endpoint {end}, which is "
-                           f"routed or path-only and must not draw")
-            elif end not in l0ids:
-                bad.append(f"edge {e['a']}~{e['b']} has endpoint {end}, which is "
-                           f"not on the map at all")
-    # every routed row must print its intermediates, or the reader cannot audit
-    # how the entity was attached
-    for n in d["l0"]:
-        for r in n["routed"]:
-            if r["depth"] > 1 and not r.get("via"):
-                bad.append(f"{r['id']} is attached to {n['id']} at depth "
-                           f"{r['depth']} with no intermediates printed")
-    return bad[:8]
-
-
-@check("every L0 node's class bar sums to the members it lists")
-def _l0_copy(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    bad = []
-    # This check also asserted, until 25 September 2026, that the old shell's rail
-    # carried both register controls with counts read from L0DATA.counts. That half
-    # went with the old shell; the half that is about the model stays.
-    for n in d["l0"]:
-        listed = len(n["direct"]) + len(n["routed"])
-        mixed = sum(n["mix"].values())
-        if listed != mixed:
-            bad.append(f"{n['id']} says {mixed} members in its class bar but lists "
-                       f"{listed} rows")
-    return bad[:8]
-
-
-@check("every routed row names its intermediate resolvably")
-def _l0_via(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    known = set(d["nodes"].keys())
-    bad = []
-    for n in d["l0"]:
-        for r in n["routed"]:
-            for v in r.get("via", []):
-                # This is where JR., J. comes back. A via that does not resolve to
-                # a real node id prints a label the reader cannot follow — and a
-                # label truncated at the first space prints "via AARO" for a FOIA
-                # memorandum and "via Kirsten" for a senator.
-                if v not in known:
-                    bad.append(f"{n['id']} routes {r['id']} via '{v}', which is not "
-                               f"a node id")
-                elif not str(d["nodes"][v][0]).strip():
-                    bad.append(f"{n['id']} routes {r['id']} via {v}, which has an "
-                               f"empty label")
-    return bad[:8]
-
-
-@check("every L0 node carries an entity dossier")
-def _l0_dossier_cover(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    # The dossier is the ARGUMENT for why a node is on this map, and on this board
-    # the argument is the product. A node with a member list and no argument sends
-    # the reader into individual dossiers to reconstruct it themselves.
-    missing = [n["id"] for n in d["l0"] if not (n.get("dossier") or {}).get("narrative")]
-    if missing:
-        return [f"{len(missing)} L0 node(s) have no entity dossier: {missing[:6]}"]
-    return []
+def _dossiers():
+    """{node id: dossier} for every shipped node file that carries one."""
+    return {nid: rec["dossier"] for nid, rec in sorted(_app_nodes().items())
+            if isinstance(rec.get("dossier"), dict)}
 
 
 @check("every dossier claim is tiered and sourced")
-def _l0_dossier_claims(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
+def _dossier_claims(b):
+    doss = _dossiers()
+    if not doss:
+        return ["no shipped node file carries a dossier: run tools/build.py"]
     bad = []
-    for n in d["l0"]:
-        for i, c in enumerate((n.get("dossier") or {}).get("claims", [])):
+    for nid, d in doss.items():
+        for i, c in enumerate(d.get("claims") or []):
             if c.get("tier") not in (1, 2, 3):
-                bad.append(f"{n['id']} claim {i} has tier {c.get('tier')!r}; "
+                bad.append(f"{nid} claim {i} has tier {c.get('tier')!r}; "
                            f"an untiered claim is an unmarked assertion")
             if not str(c.get("source") or "").strip():
-                bad.append(f"{n['id']} claim {i} has no source. This is the one "
+                bad.append(f"{nid} claim {i} has no source. This is the one "
                            f"rule that never bends.")
             if not str(c.get("text") or "").strip():
-                bad.append(f"{n['id']} claim {i} has no text")
+                bad.append(f"{nid} claim {i} has no text")
     return bad[:8]
 
 
 @check("every connection row is backed by a hand-written edge")
-def _l0_connections(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
+def _connections_backed(b):
+    """The connection rows on a node's page are PROJECTED from sourced edges, never
+    written. A row with no edge behind it was generated by something, and a
+    generated connection on this board is a fabricated claim. Until phase 11 this
+    read the L0 model's `connections` layer; it reads the rows the app ships now."""
+    nodes = _app_nodes()
+    if not nodes:
+        return ["app/public/data/nodes/ is empty: run tools/build.py"]
     hand = set()
     for e in b["edges"]:
         hand.add((e["a"], e["b"], e["type"]))
         hand.add((e["b"], e["a"], e["type"]))
     ids = {n["id"] for n in b["people"] + b["entities"]}
     bad = []
-    for src, rows in (d.get("connections") or {}).items():
-        for r in rows:
-            # The connection layer is PROJECTED from sourced edges, never written.
-            # If a row appears here with no edge behind it, something generated it,
-            # and a generated connection on this board is a fabricated claim.
-            if (src, r["id"], r["type"]) not in hand:
-                bad.append(f"{src} -> {r['id']} ({r['type']}) has no hand-written "
+    for src, rec in sorted(nodes.items()):
+        for r in rec.get("connections") or []:
+            if (src, r.get("id"), r.get("type")) not in hand:
+                bad.append(f"{src} -> {r.get('id')} ({r.get('type')}) has no hand-written "
                            f"edge behind it")
-            if r["id"] not in ids:
-                bad.append(f"{src} connects to {r['id']}, which is not a node")
-    return bad[:8]
-
-
-@check("structural authority is cited, and the exclusions hold")
-def _l0_authority(b):
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    auth = d.get("authority") or {}
-    ids = {n["id"] for n in b["people"] + b["entities"]}
-    bad = []
-    # Excluded on principle, not by accident: a spokesperson speaks for a decision
-    # and does not make one; an FFRDC trustee advises a corporation, not a
-    # compartment. The first matcher caught all four plus a set of hearings that
-    # merely cited an office. If they reappear, the matcher has gone loose again.
-    for x in ("susan-gough", "christopher-sherwood", "donald-kerr", "sue-gordon"):
-        if x in auth:
-            bad.append(f"{x} is flagged as holding structural authority; it is "
-                       f"excluded by rule and the matcher has gone loose")
-    for k, v in auth.items():
-        if k not in ids:
-            bad.append(f"{k} carries authority but is not a node")
-        if not v.get("instruments"):
-            bad.append(f"{k} claims authority with no instrument cited; an uncited "
-                       f"authority is an assertion")
-        if v.get("tense") not in ("holds", "held"):
-            bad.append(f"{k} has tense {v.get('tense')!r}; a former holder's "
-                       f"authority is history and must not read as live")
+            if r.get("id") not in ids:
+                bad.append(f"{src} connects to {r.get('id')}, which is not a node")
     return bad[:8]
 
 # ---------------------------------------------------------------------------
@@ -673,31 +477,15 @@ def _l0_authority(b):
 # silent change into a deliberate one. `--update-golden` is the only way past it.
 # ---------------------------------------------------------------------------
 
-def _l0_golden():
-    """The six L0 counts GOLDEN tracks. `unattached` moving is either a research
-    gain or a routing regression, and the two look identical in a diff — which is
-    exactly why it needs deliberate acceptance rather than a silent update."""
-    path = os.path.join(ROOT, "data", "l0-model.json")
-    if not os.path.exists(path):
-        return {}
-    c = json.load(open(path, encoding="utf-8"))["counts"]
-    return {"l0_nodes": c["l0"], "l0_edges_direct": c["directEdges"],
-            "l0_edges_summarised": c["summarisedEdges"], "ledger": c["ledger"],
-            "path_only": c["pathOnly"], "unattached": c["unattached"],
-            "l0_with_dossier": c.get("withDossier", 0),
-            "l0_dossier_claims": c.get("dossierClaims", 0),
-            # Since phase 3 the node sourcing caps reach dossier claims, so their
-            # tier mix is a count that moves on purpose and is held here.
-            "l0_dossier_claim_tiers": _dossier_tier_mix(json.load(open(path, encoding="utf-8")))}
-
-
-def _dossier_tier_mix(model):
+def _dossier_tier_mix():
+    """The tier mix of every shipped dossier claim. Since phase 3 the node sourcing
+    caps reach dossier claims, so their tier mix is a count that moves on purpose
+    and is held here. It was `l0_dossier_claim_tiers`, read from data/l0-model.json's
+    `dossiers`, which held exactly these until the L0 model retired in phase 11; the
+    other eight L0 counts (map nodes, direct and summarised edges, ledger, path-only,
+    unattached, map nodes with a dossier, their claims) retired with it."""
     from collections import Counter
-    doss = dict(model.get("dossiers") or {})
-    for n in model.get("l0") or []:
-        if n.get("dossier"):
-            doss.setdefault(n["id"], n["dossier"])
-    ct = Counter(c.get("tier") for d in doss.values() for c in (d or {}).get("claims") or [])
+    ct = Counter(c.get("tier") for d in _dossiers().values() for c in d.get("claims") or [])
     return {str(k): ct[k] for k in (1, 2, 3)}
 
 
@@ -730,7 +518,7 @@ def measure(b):
         "edge_tiers": {str(k): sum(1 for e in b["edges"] if e.get("claimTier") == k)
                        for k in (1, 2, 3)},
         "unique_source_urls": len(urls),
-        **_l0_golden(),
+        "dossier_claim_tiers": _dossier_tier_mix(),
         "people_with_date": sum(1 for p in b["people"] if p.get("date")),
         "locations_with_coords": sum(1 for e in b["entities"] if e.get("coords")),
         # The case against, on entities: carried since phase 3.
@@ -740,15 +528,18 @@ def measure(b):
 
 
 # ---------------------------------------------------------------------------
-# Design's nine checks, from notes/design-2026-08-24/DESIGN-RESPONSE-LAYOUT §5.
-#
-# They assert against data/l0-layout-model.json, which is a build product on disk,
-# so they need their own poison channel: _LAYOUT_OVERRIDE, set by self_test().
+# Design's nine checks, from notes/design-2026-08-24/DESIGN-RESPONSE-LAYOUT §5, stood
+# here until redesign phase 11 (26 September 2026) and read data/l0-layout-model.json.
+# The layout retired with the L0 map, and so did the checks whose subject was the
+# layout: chip labels that fit a chip, figures recomputed from the model, no bare
+# node, absent printed as absent, no size channel, grid-derived positions, the
+# backfill queue, the rarity pin, motion only where attested, the read cap. The four
+# whose subject the app still ships are re-pointed below, each at its own source:
+# the degree (index.json and the node files), the two denial rules (the board's
+# edges), and the start-here highlights (their register).
 # ---------------------------------------------------------------------------
 
-LAYOUT = os.path.join(ROOT, "data", "l0-layout-model.json")
 REJECTS = os.path.join(ROOT, "tools", "REJECTS.json")
-_LAYOUT_OVERRIDE = None
 _REJECTS_OVERRIDE = None
 IMAGES = os.path.join(ROOT, "data", "l0-images.json")
 _IMAGES_OVERRIDE = None
@@ -826,68 +617,18 @@ def _flat(t):
     return " ".join(str(t or "").split())
 
 
-def _layout():
-    """The layout model, or the poisoned stand-in during --self-test."""
-    if _LAYOUT_OVERRIDE is not None:
-        return _LAYOUT_OVERRIDE
-    if not os.path.exists(LAYOUT):
-        return None
-    with open(LAYOUT, encoding="utf-8") as fh:
-        return json.load(fh)
-
-
-def _datasets(m):
-    """Both baked datasets. `current` is authoritative; `legacy` is the superseded
-    96-node snapshot, kept so the editorial layer cannot be silently trimmed to the
-    intersection of the two."""
-    return [(k, m[k]) for k in ("current", "legacy") if isinstance(m.get(k), dict)]
-
-
-@check("every chip label fits the chip it is drawn in")
-def _shorts_fit(b):
-    """A 205px chip at 1.0x holds about 37 monospace characters. Beyond that the
-    renderer middle-truncates, which Design called a safety net rather than a
-    design: `l0Fit` cannot know which half of a label matters, and it dropped the
-    citation from "Sec. 6802, James M. Inhofe NDAA for FY2023 (Pub. L. 117-263)" --
-    the half that identifies the statute.
-
-    46 of 110 overflowed. They are authored in data/l0-shorts.json now, and this
-    keeps them that way: a node added later with a long label fails here rather
-    than quietly losing its distinguishing tail on the map.
-
-    Two nodes sharing a short is the other failure, and it is worse than a long
-    one -- "AARO Historical Record" for both Volume I and Volume II is a chip that
-    names the wrong document half the time."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    bad, seen = [], {}
-    for _, ds in _datasets(m):
-        for n in (ds.get("nodes") or []):
-            sh = (n.get("short") or "").strip()
-            if not sh:
-                bad.append(f"{n.get('id')}: no short at all")
-                continue
-            if len(sh) > 37:
-                bad.append(f"{n.get('id')}: short is {len(sh)} chars, over the 37 the chip "
-                           f"holds -- author one in data/l0-shorts.json: {sh[:50]!r}")
-            if sh in seen and seen[sh] != n.get("id"):
-                bad.append(f"{n.get('id')} and {seen[sh]} share the short {sh!r}; a chip that "
-                           f"names two nodes names the wrong one half the time")
-            seen[sh] = n.get("id")
-        break        # `current` is authoritative; legacy is a superseded snapshot
-    return bad[:40]
-
-
 @check("nothing in the image register fails silently")
 def _image_register(b):
     """`data/l0-images.json` is empty on purpose -- a record there asserts that a
     specific image exists at a specific URL under a specific licence, which is a
     sourcing claim like any other. But the register is PLUMBED, and the failure mode
     of a plumbed-and-empty channel is that the first person to fill it gets no
-    feedback: `build_l0_layout.mjs` draws an image only when a record clears, and a
-    record that is malformed simply does not clear. The node falls back to its class
-    letter, which is a supported state and looks identical to never having tried.
+    feedback: `build_l0_layout.mjs` drew an image only when a record cleared, and a
+    record that was malformed simply did not clear. The node fell back to its class
+    letter, which was a supported state and looked identical to never having tried.
+    (That stage retired with the L0 map in phase 11 and no build stage reads the
+    register now. It is kept, and held to these rules, because every record in it is
+    a sourcing claim somebody opened a URL to make.)
 
     So a record that was MEANT to ship an image and does not must fail here rather
     than disappear into a legitimate-looking fallback. Every rule below is a way of
@@ -905,13 +646,8 @@ def _image_register(b):
     imgs = reg.get("images")
     if not isinstance(imgs, dict):
         return ["data/l0-images.json has no `images` object"]
-    m = _layout()
-    ids = set()
-    if isinstance(m, dict):
-        for _, ds in _datasets(m):
-            for n in (ds.get("nodes") or []):
-                if n.get("id"):
-                    ids.add(n["id"])
+    # Keyed on the board's nodes since phase 11; it was the map's nodes before.
+    ids = {n["id"] for n in b["people"] + b["entities"]}
     bad = []
     OKC = ("clears", "ask", "no", "none")
     for nid, r in sorted(imgs.items()):
@@ -924,7 +660,7 @@ def _image_register(b):
                        f"an unrecognised value never draws, and never says so")
             continue
         if ids and nid not in ids:
-            bad.append(f"{nid}: not a node on the map, so this record can never draw")
+            bad.append(f"{nid}: not a node on the board, so this record can never draw")
         if cl in ("clears", "ask"):
             if not (r.get("photo") or "").strip():
                 bad.append(f"{nid}: clearance {cl!r} with no `photo` -- "
@@ -942,211 +678,52 @@ def _image_register(b):
     return bad[:40]
 
 
-@check("L0 degree is distinct neighbours, not edge instances")
-def _dz_degree(b):
-    """Design: `degree_is_distinct_neighbours`. Must reject a model baked from the
-    extract's `deg` field, which counts edge INSTANCES.
+@check("every node's degree is distinct neighbours, not edge instances")
+def _degree_distinct(b):
+    """Design's `degree_is_distinct_neighbours`, re-pointed in phase 11 from the
+    layout model's `deg` to the `deg` the app ships on index.json and on every node
+    file. build_app_data.py computes it from the board since the L0 model retired.
 
-    This is trap #2 in the handoff and it has already cost a session: 94 node pairs
-    on this board carry more than one hand-written edge, so counting instances
-    published '107 L0 nodes' when the answer was 96. A floor of 6 applied to the
-    wrong quantity admits nodes that do not belong on the map at all.
-
-    Asserts two things: every shipped node's `deg` equals the distinct-neighbour
-    count recomputed from the board, and every shipped node clears the stated floor.
-    It does NOT assert set equality with a naive recomputation -- build_l0 excludes
-    routed and path-only entities, so the derived superset is legitimately larger."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    nb = {}
+    This is trap #2 in the 2026-08-24 handoff and it has already cost a session: 94
+    node pairs on this board carried more than one hand-written edge, so counting
+    instances published '107 L0 nodes' when the answer was 96. Degree ranks the
+    analyst's answers and the directories now, and the same mistake would rank a
+    node three times over for being written up three times."""
+    nb = {n["id"]: set() for n in b["people"] + b["entities"]}
     for e in b["edges"]:
         a, z = e.get("a"), e.get("b")
-        if a and z and a != z:
-            nb.setdefault(a, set()).add(z)
-            nb.setdefault(z, set()).add(a)
+        if a in nb and z in nb:
+            nb[a].add(z)
+            nb[z].add(a)
+    if "_appIndex" in b:
+        index = b["_appIndex"]
+    elif os.path.exists(APP_INDEX):
+        with open(APP_INDEX, encoding="utf-8") as fh:
+            index = json.load(fh)
+    else:
+        return ["app/public/data/index.json is missing: run tools/build.py"]
     bad = []
-    for key, d in _datasets(m):
-        if key != "current":
-            continue            # only `current` is derived from the shipped board
-        floor = (d.get("config") or {}).get("floor")
-        if floor is None:
-            bad.append("the layout model states no floor")
+    rows = [("index.json", r.get("id"), r.get("deg")) for r in index.get("nodes") or []]
+    rows += [("nodes/%s.json" % k, k, v.get("deg")) for k, v in sorted(_app_nodes().items())]
+    for where, nid, deg in rows:
+        if nid not in nb:
             continue
-        for n in d.get("nodes") or []:
-            actual = len(nb.get(n["id"], ()))
-            if n.get("deg") != actual:
-                bad.append(f"{n['id']}: model deg {n.get('deg')} but {actual} distinct "
-                           f"neighbours on the board -- looks like edge instances")
-            if actual < floor:
-                bad.append(f"{n['id']} is on the map with {actual} distinct neighbours, "
-                           f"below the floor of {floor}")
+        if deg != len(nb[nid]):
+            bad.append(f"{where}: {nid} ships deg {deg} but has {len(nb[nid])} distinct "
+                       f"neighbours on the board -- looks like edge instances")
     return bad[:40]
 
 
-@check("every layout figure recomputes from the model")
-def _dz_figures(b):
-    """Design: `figures_match_model`. Must reject any hand-edited figure.
-
-    Every number quoted in the design write-up is supposed to be read out of the
-    model rather than typed. A typed figure is a claim that goes stale silently --
-    the same fault that put 'ENTITIES 976' in the QA checklist and sent testers to
-    rebuild a board that was already correct."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    bad = []
-    for key, d in _datasets(m):
-        f, nodes, edges = d.get("figures") or {}, d.get("nodes") or [], d.get("edges") or []
-        want = {
-            "l0": len(nodes),
-            "directEdges": sum(1 for e in edges if e.get("kind") == "direct"),
-            "summarisedEdges": sum(1 for e in edges if e.get("kind") == "shared"),
-            "drawnBeforeBudget": len(edges),
-            "restDrawn": sum(1 for e in edges if e.get("rest")),
-            "isolated": sum(1 for n in nodes if n.get("isolated")),
-        }
-        for k, v in want.items():
-            if k in f and f[k] != v:
-                bad.append(f"{key}.figures.{k} says {f[k]}, the model itself gives {v}")
-    return bad[:40]
-
-
-@check("no L0 node with a link is left without a line")
-def _dz_no_bare(b):
-    """Design: `no_node_without_a_line`. Must reject clause 1 shipped without clause
-    2, which reaches 50 of 110 nodes and leaves 60 bare.
-
-    The edge budget exists to stop the map being a hairball. The failure mode it
-    introduces is the opposite one: a node drawn with no line at all, which reads as
-    'unconnected' when it means 'its lines lost the budget'."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    bad = []
-    for key, d in _datasets(m):
-        for n in d.get("nodes") or []:
-            if (n.get("allEdges") or 0) > 0 and (n.get("restEdges") or 0) == 0:
-                bad.append(f"{key}: {n['id']} has {n['allEdges']} L0-level edges and none "
-                           f"drawn at rest -- it renders bare and reads as unconnected")
-    return bad[:40]
-
-
-@check("absent prints as absent")
-def _dz_absent(b):
-    """Design: `absent_prints_as_absent`. Must reject placing an undated node in an
-    era column, or an `isolated` count dropping to 0 without those nodes gaining a
-    real edge.
-
-    A node with no date and a node with no link are both facts. Hiding either one --
-    by parking it in the nearest era, or by quietly reclassifying it -- turns a gap
-    into a false positive."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    bad = []
-    for key, d in _datasets(m):
-        eras = d.get("eras") or []
-        nodate = [e for e in eras if e.get("kind") == "nodate"]
-        if not nodate:
-            bad.append(f"{key}: no NO DATE column -- undated nodes have nowhere honest to go")
-        elif not (nodate[0].get("label") or "").strip():
-            bad.append(f"{key}: the NO DATE column carries no label")
-        # Placement is `col`, not `era`: an undated node has era None and col "nd".
-        # Asserting on `era` reads the absence of an era as a missing placement and
-        # false-positives on five correctly placed nodes -- which is what the first
-        # version of this check did.
-        nd_ids = {e.get("id") for e in nodate}
-        nd_span = {e.get("id"): (e.get("x"), (e.get("x") or 0) + (e.get("w") or 0))
-                   for e in nodate}
-        for n in d.get("nodes") or []:
-            undated = n.get("y0") in (None, "")
-            col = n.get("col")
-            in_nd = col in nd_ids
-            if undated and not in_nd:
-                bad.append(f"{key}: {n['id']} has no dateStart but sits in column "
-                           f"{col!r} rather than NO DATE")
-            if in_nd and not undated:
-                bad.append(f"{key}: {n['id']} is dated {n.get('y0')} but sits in NO DATE")
-            if in_nd and isinstance(n.get("x"), int):
-                lo, hi = nd_span.get(col, (None, None))
-                if lo is not None and not (lo <= n["x"] <= hi):
-                    bad.append(f"{key}: {n['id']} is assigned to NO DATE but sits at "
-                               f"x={n['x']}, outside that column's {lo}-{hi}")
-            if bool(n.get("isolated")) != ((n.get("allEdges") or 0) == 0):
-                bad.append(f"{key}: {n['id']} isolated={n.get('isolated')} but carries "
-                           f"{n.get('allEdges')} L0-level edges -- the marker and the data disagree")
-    return bad[:40]
-
-
-@check("chip size is not a channel")
-def _dz_no_size(b):
-    """Design: `no_size_channel`. Must reject any model where the set of distinct chip
-    widths or heights has more than one member.
-
-    Size is the channel a reader reads as importance without being told to. This map
-    scores entities on three axes that are deliberately never summed, so a single
-    size channel would collapse exactly what the axes keep apart. Every chip is the
-    same size on purpose."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    bad = []
-    for key, d in _datasets(m):
-        nodes = d.get("nodes") or []
-        if not nodes:
-            continue
-        ws = {n.get("w") for n in nodes}
-        hs = {n.get("h") for n in nodes}
-        if len(ws) != 1 or len(hs) != 1:
-            bad.append(f"{key}: chips come in {len(ws)} widths and {len(hs)} heights "
-                       f"({sorted(ws)[:4]} x {sorted(hs)[:4]}) -- size has become a channel")
-            continue
-        geo = (d.get("config") or {}).get("geo") or {}
-        if geo.get("chipW") is not None and ws != {geo["chipW"]}:
-            bad.append(f"{key}: chips are {ws.pop()} wide, config says {geo['chipW']}")
-        if geo.get("chipH") is not None and hs != {geo["chipH"]}:
-            bad.append(f"{key}: chips are {hs.pop()} tall, config says {geo['chipH']}")
-    return bad[:40]
-
-
-@check("layout positions are grid-derived, not force-derived")
-def _dz_deterministic(b):
-    """Design: `layout_is_deterministic`. Must reject a re-introduced force pass.
-
-    `--idempotent` already builds twice and requires byte-identical output, which
-    catches non-determinism across runs. This catches its cause in a single run: a
-    force simulation settles on fractional coordinates and drifts outside the cell
-    grid, where a packed layout emits integers inside declared bounds."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    bad = []
-    for key, d in _datasets(m):
-        ww, wh = d.get("worldW"), d.get("worldH")
-        if not isinstance(ww, int) or not isinstance(wh, int):
-            bad.append(f"{key}: world bounds are not integers ({ww}x{wh})")
-            continue
-        for n in d.get("nodes") or []:
-            x, y = n.get("x"), n.get("y")
-            if not isinstance(x, int) or not isinstance(y, int):
-                bad.append(f"{key}: {n['id']} sits at ({x}, {y}) -- fractional coordinates "
-                           f"mean something is settling, not packing")
-            elif not (0 <= x <= ww and 0 <= y <= wh):
-                bad.append(f"{key}: {n['id']} at ({x}, {y}) is outside the world {ww}x{wh}")
-    return bad[:40]
-
-
-@check("a denial that is not a directed act carries no denial styling")
-def _dz_denialkind(b):
+@check("a denial verdict is one of three states, and names a denier only when directed")
+def _denial_kind(b):
     """Design, answering the implementation session: a denial has three states
     because the data has three, and one undifferentiated red line was not.
 
-        directed     issuer named        arrowhead, and later a particle
-        undirected   an act, no issuer   a perpendicular bar at the midpoint
-        association  not a directed act  no denial styling at all
+        directed     issuer named
+        undirected   an act, no issuer
+        association  not a directed act
 
-    Eleven of thirty adjudicated edges are the third kind -- `roswell ->
+    Eleven of thirty adjudicated edges were the third kind -- `roswell ->
     official-denial`, "four official explanations for one event"; a person and their
     own bylined article. Red is reserved for something somebody did.
 
@@ -1161,311 +738,107 @@ def _dz_denialkind(b):
       directed     a named issuer, so it MUST name one, and that denier must be
                    one of the edge's own two ends
       undirected   an act with no attributable issuer, so it must NOT name one
-    Absent still means undirected, which claims the least."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
+    Absent still means undirected, which claims the least.
+
+    RE-POINTED in phase 11 (26 September 2026) from the layout model's L0-level
+    edges to every edge on the board, which is what the node pages and edges.json
+    read: until then an edge off the map was never asked."""
     bad = []
-    for key, d in _datasets(m):
-        for e in d.get("edges") or []:
-            k = e.get("denialKind")
-            if k is None:
-                continue
-            if k not in ("association", "directed", "undirected"):
-                bad.append(f"{key}: {e.get('a')}->{e.get('b')} has denialKind {k!r}, "
-                           f"which is not one of the three states")
-            elif k == "directed":
-                dn = e.get("denier")
-                if not dn:
-                    bad.append(f"{key}: {e.get('a')}->{e.get('b')} is 'directed' and names "
-                               f"no denier -- a direction with nobody at the sharp end")
-                elif dn not in (e.get("a"), e.get("b")):
-                    bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dn!r}, "
-                               f"which is neither of its own two ends")
-            elif k == "undirected" and e.get("denier"):
-                bad.append(f"{key}: {e.get('a')}->{e.get('b')} is 'undirected' and names a "
-                           f"denier -- if the issuer is known it is directed")
-            elif k == "association" and e.get("denier"):
-                bad.append(f"{key}: {e.get('a')}->{e.get('b')} is an association and "
-                           f"also names a denier {e.get('denier')!r}")
-    return bad
-
-
-@check("every field the design reads but the data withholds is in the backfill queue")
-def _dz_queue(b):
-    """Design's `queue_covers_every_field_read`. Must reject "this doc and the page
-    disagreeing" -- the same drift class the reproduction correction fixed once.
-
-    The queue is how the design degrades honestly instead of guessing: a field the
-    renderer reads and the data does not supply has to be a NAMED TASK with a place
-    to pull it from, or it is just a silent hole. Two rows were added on 26 August
-    (`denialKind` and the `short` budget) because the standing rule is that any new
-    field the design reads gets a row.
-
-    Asserts every field this build reads and does not yet have is named in `gaps`,
-    and that each row carries all four columns."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    rows = m.get("gaps") or []
-    if not rows:
-        return ["the model carries no backfill queue at all"]
-    blob = " ".join(str(c) for r in rows for c in r).lower()
-    bad = []
-    for r in rows:
-        if not isinstance(r, list) or len(r) != 4 or not all(str(c).strip() for c in r):
-            bad.append(f"queue row {r[0] if r else r!r} is not four filled columns: "
-                       "field, what it is, where to pull it, what the design cannot say")
-    # ---- which fields the data withholds, MEASURED ---------------------------
-    # This was a hardcoded list of six field names asserted to be missing. It went
-    # red the moment any of them was supplied -- denialKind, denier and short all
-    # landed on 26 August and the check complained about the rows being retired,
-    # which is the work it exists to protect. A check that hardcodes the STATE of
-    # the data rather than the RULE about it is a check with an expiry date.
-    #
-    # So: measure. A field is withheld when no node or edge carries it, and only
-    # then does it need a row.
-    ds0 = None
-    for _, d0 in _datasets(m):
-        ds0 = d0
-        break
-    nodes0 = (ds0 or {}).get("nodes") or []
-    edges0 = (ds0 or {}).get("edges") or []
-    dn0 = [e for e in edges0 if e.get("denial")]
-    READS = {
-        "denialkind": ("the three denial states",
-                       any(e.get("denialKind") for e in dn0)),
-        "denier":     ("which end issued a denial",
-                       any(e.get("denier") for e in dn0)),
-        "short":      ("a chip-length label",
-                       bool(nodes0) and all((n.get("short") or "") for n in nodes0)),
-        "photo":      ("the chip glyph slot's image",
-                       any(n.get("photo") for n in nodes0)),
-        "dateend":    ("the end of a span",
-                       any(n.get("y1") is not None for n in nodes0)),
-        "members":    ("the off-map neighbours",
-                       bool(nodes0) and all(n.get("members") for n in nodes0)),
-    }
-    for key, (why, supplied) in READS.items():
-        if supplied:
+    for e in b["edges"]:
+        k = e.get("denialKind")
+        if k is None:
             continue
-        alt = {"denier": "denial a/b", "dateend": "dateend"}.get(key, key)
-        if key not in blob and alt.replace(" ", "") not in blob.replace(" ", ""):
-            bad.append(f"the design reads `{key}` ({why}) and the data does not carry it, "
-                       f"but no backfill row names it")
-
-    # ---- and the other direction, which is how three rows went stale ---------
-    # This check asserted only that a MISSING field is queued. It never asked
-    # whether a QUEUED field is still missing, so via[], members[] and C/A/D sat
-    # in the queue for two days after the pipeline started supplying them, and
-    # the check passed the whole time because the rows were present.
-    #
-    # A stale row is not harmless. It is a standing instruction to redo finished
-    # work, and it makes this file and the data disagree -- the same drift class
-    # the row-shape half was written for. So: any row whose field the data now
-    # supplies for EVERY node must be retired.
-    ds = None
-    for _, d in _datasets(m):
-        ds = d
-        break
-    if ds:
-        nodes = ds.get("nodes") or []
-        edges = ds.get("edges") or []
-        shared = [e for e in edges if e.get("kind") == "shared"]
-        supplied = {
-            "via[]": bool(shared) and all(e.get("via") for e in shared),
-            "members[]": bool(nodes) and all(n.get("members") for n in nodes),
-            "c / a / d": bool(nodes) and all(n.get("C") is not None for n in nodes),
-        }
-        for r in rows:
-            name = str(r[0]).strip().lower()
-            if supplied.get(name):
-                bad.append(f"backfill row `{r[0]}` is stale: every node or edge now "
-                           f"carries it. Retire the row -- a queue that lists finished "
-                           f"work is an instruction to do it again")
-    return bad
-
-
-@check("the rarity order the board implies still matches the pin")
-def _dz_rarity(b):
-    """Design's `rarity_order_matches_the_pin`, the one named check that was never
-    built as a gate step. The generator has always REPORTED drift in
-    `figures.rarityDrift` and `state_snapshot.py` prints it; nothing failed on it.
-
-    Two tags with near-equal counts can swap rarity rank between research passes and
-    take every node carrying both with them, which moves them between BANDS -- and
-    the band order is the vertical argument. `oversight` (64) and `disclosure` (61)
-    are within 10% and are INVERTED on the legacy snapshot, which is the pin doing
-    its job rather than failing.
-
-    So this asserts the pin holds on the dataset that SHIPS, and that drift is
-    reported rather than silently obeyed. Legacy drift is expected and is not a
-    failure: CLAUDE.md is explicit that editing RARITY_PIN to silence it is wrong."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    cur = m.get("current") or {}
-    f = cur.get("figures") or {}
-    pin, obs = f.get("rarityPin"), f.get("rarityObserved")
-    bad = []
-    if not pin or not obs:
-        return ["current/figures is missing rarityPin or rarityObserved"]
-    if list(pin) != list(obs):
-        bad.append("the shipping dataset's tag counts imply "
-                   f"{list(obs)} against the pin {list(pin)} -- decide it, do not "
-                   "edit RARITY_PIN to silence it")
-    if f.get("rarityDrift"):
-        bad.append("current reports rarityDrift " + str(f["rarityDrift"]))
-    # and the drift channel itself must exist, or the report is not being made
-    for key, d in _datasets(m):
-        if "rarityDrift" not in (d.get("figures") or {}):
-            bad.append(f"{key}: figures carries no rarityDrift, so drift is not reported at all")
+        where = f"{e.get('a')}->{e.get('b')}"
+        if k not in ("association", "directed", "undirected"):
+            bad.append(f"{where} has denialKind {k!r}, which is not one of the three states")
+        elif k == "directed":
+            dn = e.get("denier")
+            if not dn:
+                bad.append(f"{where} is 'directed' and names no denier -- a direction "
+                           f"with nobody at the sharp end")
+            elif dn not in (e.get("a"), e.get("b")):
+                bad.append(f"{where} names denier {dn!r}, which is neither of its own two ends")
+        elif k == "undirected" and e.get("denier"):
+            bad.append(f"{where} is 'undirected' and names a denier -- if the issuer is "
+                       f"known it is directed")
+        elif k == "association" and e.get("denier"):
+            bad.append(f"{where} is an association and also names a denier "
+                       f"{e.get('denier')!r}")
     return bad
 
 
 @check("denial direction is published only where the record names a denier")
-def _dz_denier(b):
-    """The check that was missing while 22 of 47 arrowheads pointed the wrong way.
-
-    `motion is attested, not decorative` above guards the FLAGS -- that a denial is
-    marked as one, and that no second motion flag exists. It says nothing about the
-    direction, which is the actual claim the arrowhead makes, and it passed happily
-    for the whole of the first build while the head was drawn at `e.b` where a/b is
-    [a,b].sort(). Alphabetical order rendered as a statement about who denied whom.
+def _denier_named(b):
+    """The check that was missing while 22 of 47 arrowheads pointed the wrong way:
+    the head was drawn at `e.b` where a/b is [a,b].sort(). Alphabetical order
+    rendered as a statement about who denied whom.
 
     The board's raw records do not carry a consistent issuer-first convention
     either, so direction is attested ONLY where an edge names its denier. See
     notes/DENIAL-DIRECTION-2026-08-26.md.
 
-    Asserts: a published `denier` is one of the edge's own ends, and it is named by
-    at least one of the underlying denial records the edge rolls up. An edge with no
-    denier is fine and is the current state of every one of them."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
+    Asserts: a `denier` is named only on a denial edge, and is one of that edge's
+    own two ends. build_app_data.py publishes a direction (`by`/`of`) only in that
+    case, so a denier that fails here is a verdict the app silently drops. An edge
+    with no denier is fine. RE-POINTED in phase 11 (26 September 2026) from the
+    layout model's L0-level edges to every edge on the board; the per-record
+    rollup half (`dn`) went with the layout."""
     bad = []
-    for key, d in _datasets(m):
-        for e in d.get("edges") or []:
-            dnr = e.get("denier")
-            if dnr is None:
-                continue
-            if not e.get("denial"):
-                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names a denier but is "
-                           f"not marked as a denial")
-                continue
-            if dnr not in (e.get("a"), e.get("b")):
-                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dnr!r}, "
-                           f"which is not one of its own ends")
-                continue
-            pairs = e.get("dn") or []
-            if pairs and not any(dnr in p for p in pairs):
-                bad.append(f"{key}: {e.get('a')}->{e.get('b')} names denier {dnr!r}, "
-                           f"which appears in none of its {len(pairs)} denial record(s)")
+    for e in b["edges"]:
+        dnr = e.get("denier")
+        if dnr is None:
+            continue
+        where = f"{e.get('a')}->{e.get('b')} ({e.get('id')})"
+        if e.get("type") != "denial":
+            bad.append(f"{where} names a denier but is a {e.get('type')!r} edge, not a denial")
+            continue
+        if dnr not in (e.get("a"), e.get("b")):
+            bad.append(f"{where} names denier {dnr!r}, which is not one of its own ends")
     return bad
 
 
-@check("motion is attested, not decorative")
-def _dz_motion(b):
-    """Design: `motion_only_where_attested`. Must reject a time-direction flow on
-    every line.
-
-    A particle travelling along a path reads as a claim that something moved that
-    way. The board can attest exactly one such claim -- a denial, which has a
-    direction because someone denied something to someone -- plus the selection
-    highlight, which is the reader's own act rather than an assertion.
-
-    Asserts the model marks denials explicitly and consistently with the edge's own
-    types, and carries no second, undirected motion flag for a renderer to key on."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    banned = ("flow", "particle", "animate", "direction", "pulse")
-    bad = []
-    for key, d in _datasets(m):
-        for e in d.get("edges") or []:
-            # A summarised (`shared`) edge is a rollup of members two nodes have in
-            # common. It has no relationship type of its own, so it cannot be a
-            # denial and correctly carries no flag. Only typed direct edges can.
-            if e.get("kind") != "direct":
-                if e.get("denial"):
-                    bad.append(f"{key}: summarised edge {e.get('a')}->{e.get('b')} is "
-                               f"marked as a denial -- a rollup asserts no relationship")
-                continue
-            if "denial" not in e:
-                bad.append(f"{key}: direct edge {e.get('a')}->{e.get('b')} carries no "
-                           f"explicit denial flag, so a renderer cannot tell what may move")
-                continue
-            if bool(e["denial"]) != ("denial" in (e.get("types") or [])):
-                bad.append(f"{key}: edge {e.get('a')}->{e.get('b')} is marked "
-                           f"denial={e['denial']} but its types are {e.get('types')}")
-            for k in banned:
-                if k in e:
-                    bad.append(f"{key}: edge {e.get('a')}->{e.get('b')} carries a {k!r} "
-                               f"field -- motion on every line is decoration, not evidence")
-    return bad[:40]
+HIGHLIGHTS = os.path.join(ROOT, "data", "l0-highlights.json")
+HIGHLIGHT_CAP = 16
 
 
 @check("highlights are a pointer, not a promotion")
-def _dz_highlights(b):
-    """Design: `highlights_are_a_pointer`. Must reject a flag naming an id the floor
-    excluded, or flagging more than 16 of 110.
+def _highlights_pointer(b):
+    """Design: `highlights_are_a_pointer`. Must reject a flag naming an id the board
+    does not carry, a flag that sets a credibility field, or a layer grown past its
+    cap.
 
-    The start-here layer is editorial. It is drawn as an offset pointer and is
-    deliberately NOT a property of the record, so that pointing at AARO can never be
-    mistaken for grading AARO. Two things keep that true: a flag may not carry a
-    credibility field, and the layer may not grow large enough to become the map.
+    The start-here layer is editorial. It is deliberately NOT a property of the
+    record, so that pointing at AARO can never be mistaken for grading AARO. Two
+    things keep that true: a flag may not carry a credibility field, and the layer
+    may not grow large enough to become the board's argument by itself.
 
-    The cap is 15% of the map. Unknown ids are FATAL on the dataset the flags were
-    authored for and merely reported on any other, so the superseded `legacy`
-    snapshot cannot kill the build and nobody is tempted to trim the editorial list
-    down to the intersection of the two."""
-    m = _layout()
-    if not m:
-        return ["data/l0-layout-model.json is missing"]
-    credibility = {"tier", "C", "A", "D", "claims", "t1"}
-    bad = []
-    for key, d in _datasets(m):
-        hl = d.get("highlights") or {}
-        flags = hl.get("flags") or []
-        nodes = d.get("nodes") or []
-        ids = {n["id"] for n in nodes}
-        cap = int(len(nodes) * 0.15)
-        if len(flags) > cap:
-            bad.append(f"{key}: {len(flags)} flags on a {len(nodes)}-node map exceeds the "
-                       f"15% cap of {cap} -- the pointer has become the map")
-        authored_for = m.get("default") or "current"
-        for f in flags:
-            stray = credibility & set(f)
-            if stray:
-                bad.append(f"{key}: flag {f.get('id')} carries {sorted(stray)} -- a flag that "
-                           f"sets a credibility field is a promotion, not a pointer")
-            if key == authored_for and f.get("id") not in ids:
-                bad.append(f"{key}: flag names {f.get('id')!r}, which is not on the map")
-    return bad[:40]
-
-
-@check("the layout model stays under the read cap")
-def _dz_read_cap(b):
-    """Design: `model_under_read_cap`. Must reject the thing this whole correction was
-    about.
-
-    A tracked, pushed, present file over ~1MB reads as ABSENT over the GitHub read
-    API. That is how a design brief came to cite figures nobody could reproduce, and
-    how Claude Design correctly refused to reproduce them. The model exists at this
-    size so it can be read."""
-    if _LAYOUT_OVERRIDE is not None:
-        raw = json.dumps(_LAYOUT_OVERRIDE)
-        size = len(raw.encode("utf-8"))
-    elif os.path.exists(LAYOUT):
-        size = os.path.getsize(LAYOUT)
+    RE-POINTED in phase 11 (26 September 2026) from the layout model's copy of the
+    flags to their register, data/l0-highlights.json, which build_app_data.py ships
+    as highlights.json and as `hl` on the index. The cap was 15% of the map (16 of
+    110); the map is gone, so it is the register's own stated cap, 16. The poison
+    channel is `_highlights` on the board handed in, as `_facets` is for facets."""
+    if "_highlights" in b:
+        hl = b["_highlights"]
+    elif os.path.exists(HIGHLIGHTS):
+        with open(HIGHLIGHTS, encoding="utf-8") as fh:
+            hl = json.load(fh)
     else:
-        return ["data/l0-layout-model.json is missing"]
-    cap = 1_000_000
-    if size > cap:
-        return [f"the layout model is {size/1e6:.2f}MB, over the ~1MB read cap -- it will "
-                f"read as ABSENT over the GitHub API, which is the failure this file exists "
-                f"to avoid"]
-    return []
+        return ["data/l0-highlights.json is missing"]
+    credibility = {"tier", "C", "A", "D", "claims", "t1"}
+    ids = {n["id"] for n in b["people"] + b["entities"]}
+    flags = hl.get("flags") or []
+    bad = []
+    if len(flags) > HIGHLIGHT_CAP:
+        bad.append(f"{len(flags)} flags exceeds the cap of {HIGHLIGHT_CAP} -- the pointer "
+                   f"has become the argument")
+    for f in flags:
+        stray = credibility & set(f)
+        if stray:
+            bad.append(f"flag {f.get('id')} carries {sorted(stray)} -- a flag that sets a "
+                       f"credibility field is a promotion, not a pointer")
+        if f.get("id") not in ids:
+            bad.append(f"flag names {f.get('id')!r}, which is not on the board")
+    return bad[:40]
 
 
 @check("every FOIA request points at a question that is actually open")
@@ -1517,11 +890,10 @@ def _foia_links(b):
         if not (r.get("nodes") or []):
             bad.append(f"{r.get('id')}: closes nothing on the board")
 
-    # And the linkage against the real dossiers, which is the half that rots.
-    model_path = os.path.join(ROOT, "data", "l0-model.json")
-    if os.path.exists(model_path):
-        with open(model_path, encoding="utf-8") as fh:
-            doss = (json.load(fh).get("dossiers") or {})
+    # And the linkage against the real dossiers, which is the half that rots. The
+    # dossiers the app ships since phase 11; data/l0-model.json's before.
+    doss = _dossiers()
+    if doss:
         for nid, rows in sorted((F.get("byNode") or {}).items()):
             d = doss.get(nid)
             if d is None:
@@ -1738,13 +1110,13 @@ def _threads_joined(b):
 
     So: every step names a node that exists, and every consecutive pair is joined,
     in either direction, by an edge in data/the-program.json of exactly the type and
-    claimTier the step declares. A pair may instead be `derived` -- but only where
-    the board holds NO direct edge at all, and then it must be one of
-    data/l0-model.json's `summarised` pairs and must name that pair's own `via`
-    members. Declaring `derived` over a pair that has a direct edge would let a
-    thread quietly downgrade a documented link into an inferred one, and declaring a
-    type or a tier the edge does not carry would let the page print a grade the
-    board never awarded.
+    claimTier the step declares. Declaring a type or a tier the edge does not carry
+    would let the page print a grade the board never awarded.
+
+    Until phase 11 (26 September 2026) a pair with no direct edge could instead be
+    `derived`: one of data/l0-model.json's `summarised` pairs, naming that pair's
+    shared members. The summarised pairs retired with the L0 map, so a step that
+    declares `derived` is rejected now. No thread step was derived when it retired.
 
     This reads the board from disk rather than from `b`: the self-test fixture is
     two synthetic nodes with no edges, so every real thread would false-positive
@@ -1762,12 +1134,6 @@ def _threads_joined(b):
     pairs = {}
     for e in board["edges"]:
         pairs.setdefault(frozenset((e["a"], e["b"])), []).append(e)
-    summarised = {}
-    lpath = os.path.join(ROOT, "data", "l0-model.json")
-    if os.path.exists(lpath):
-        with open(lpath, encoding="utf-8") as fh:
-            for s in json.load(fh).get("summarised") or []:
-                summarised[frozenset((s["a"], s["b"]))] = s
 
     bad = []
     seen_ids = set()
@@ -1823,25 +1189,12 @@ def _threads_joined(b):
                     bad.append(f"{where}: declares {ed.get('type')}/T{ed.get('tier')} "
                                f"to {prev!r}; the board holds {', '.join(have)}")
             elif kind == "derived":
-                if direct:
-                    have = sorted({f"{e.get('type')}/T{e.get('claimTier')}"
-                                   for e in direct})
-                    bad.append(f"{where}: declared derived, but the board holds a "
-                               f"direct edge to {prev!r} ({', '.join(have)}). A "
-                               f"documented link must not print as an inferred one")
-                    continue
-                s2 = summarised.get(key)
-                if s2 is None:
-                    bad.append(f"{where}: declared derived, and {prev!r} shares no "
-                               f"L0 member with it in data/l0-model.json")
-                    continue
-                if sorted(ed.get("via") or []) != sorted(s2.get("via") or []):
-                    bad.append(f"{where}: names via {sorted(ed.get('via') or [])}; "
-                               f"the model's shared members are "
-                               f"{sorted(s2.get('via') or [])}")
+                bad.append(f"{where}: declares kind 'derived' to {prev!r}. That kind, a "
+                           f"pair sharing an L0 map member, retired with the map in "
+                           f"phase 11; a step is joined by a board edge or it is not "
+                           f"a step")
             else:
-                bad.append(f"{where}: edge kind {kind!r} is neither 'direct' nor "
-                           f"'derived'")
+                bad.append(f"{where}: edge kind {kind!r} is not 'direct'")
     return bad
 
 
@@ -2092,14 +1445,11 @@ def _display_labels(b):
 def _dossier_caps(b):
     """The node rule (secondary source, no attributed source, no primary URL, an
     interested party asserting an outside fact) reaches entity dossiers since phase
-    3, through the same function. Re-applied here to what the model ships."""
-    d = _l0()
-    if d is None:
-        return ["data/l0-model.json is missing: run tools/build.py"]
-    doss = dict(d.get("dossiers") or {})
-    for n in d.get("l0") or []:
-        if n.get("dossier"):
-            doss.setdefault(n["id"], n["dossier"])
+    3, through the same function. Re-applied here to what the app ships (the node
+    files since phase 11; data/l0-model.json before)."""
+    doss = _dossiers()
+    if not doss:
+        return ["no shipped node file carries a dossier: run tools/build.py"]
     bad = []
     for nid, ds in sorted(doss.items()):
         claims = (ds or {}).get("claims") or []
@@ -3254,8 +2604,7 @@ def _idempotent_targets():
     for dirpath, _dirs, files in os.walk(appdata):
         for f in files:
             out.append(os.path.join(dirpath, f))
-    for rel in ("the-program.json", "l0-model.json", "l0-layout-model.json",
-                "foia-links.json"):
+    for rel in ("the-program.json", "foia-links.json"):
         out.append(os.path.join(ROOT, "data", rel))
     out.append(os.path.join(ROOT, "research", "topics", "_proposals.json"))
     return sorted(out)
@@ -3271,7 +2620,8 @@ def check_idempotent():
     The pipeline is tools/build.py, the one build order. Until 25 September 2026
     this listed the steps itself and hashed the old single-file shell; it now
     hashes every file under app/public/data, which is what the app serves, plus
-    the four data/ build products the rest of the gate reads.
+    the data/ build products the rest of the gate reads (four until phase 11
+    retired data/l0-model.json and data/l0-layout-model.json).
     """
     stamp = re.compile(rb'"generated"\s*:\s*"\d{4}-\d{2}-\d{2}"')
 
@@ -4385,104 +3735,141 @@ def self_test():
         "the app ships the person facets exactly as the side-car has them":
             [_facets_poison(facet_app_role_changed, app=True)],
     })
-    # ---- L0 fixtures. Each L0 check gets a model it MUST reject, through
-    # _L0_OVERRIDE; its clean call gets L0() through the same channel.
-    def L0(**kw):
-        m = {"config": {"sharedMemberGate": 2},
-             "counts": {"total": 8, "l0": 1, "ledger": 1, "pathOnly": 0,
-                        "unattached": 6},
-             "l0": [{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
-                     "dossier": {"narrative": "why e0 is on the map",
-                                 "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}],
-             "directEdges": [], "summarised": [], "pathOnly": [],
-             "unattached": [{"id": "e%d" % i, "deg": 0} for i in range(1, 7)],
-             "connections": {}, "authority": {},
-             "nodes": {"a-b": ["Ann Bee", "person", 1, "A"],
-                       **{"e%d" % i: ["E%d" % i, "institution", 0, "B"] for i in range(7)}}}
-        m.update(kw)
-        return m
+    # ---- re-pointed in phase 11 (26 September 2026). The L0 model's checks and
+    # their synthetic model fixture retired with the map; the checks that guard a
+    # surface the app still ships read the shipped node files, the board's edges or
+    # the highlights register now, and are poisoned there: the page, not a stand-in.
+    def _first_dossier(nodes):
+        for nid in sorted(nodes):
+            d = nodes[nid].get("dossier")
+            if isinstance(d, dict) and d.get("claims"):
+                rec = copy.deepcopy(nodes[nid])
+                nodes[nid] = rec
+                return rec
+        raise SystemExit("self-test: no shipped dossier to poison")
 
-    # a board with the hand-written edges the tier and gate poisons rest on
-    l0board = mut(lambda b: b["edges"].extend([
-        {"a": "e0", "b": "a-b", "type": "custody", "claimTier": 1},
-        {"a": "e1", "b": "a-b", "type": "custody", "claimTier": 1},
-        {"a": "e0", "b": "e2", "type": "custody", "claimTier": 1},
-        {"a": "e1", "b": "e2", "type": "custody", "claimTier": 1}]))
-    two_l0 = [{"id": "e0", "direct": ["a-b", "e2"], "routed": [], "mix": {"person": 1, "institution": 1}},
-              {"id": "e1", "direct": ["a-b", "e2"], "routed": [], "mix": {"person": 1, "institution": 1}}]
-
-    poisons.update({
-        # a summarised edge printing Tier 3 over two Tier 1 links
-        "summarised edge tier is the strongest of its underlying links": l0board,
-        "the shared-member gate holds and only hand-written edges are summarised": l0board,
-    })
-    _l0_dosn = {"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
-                "dossier": {"narrative": "why e0 is on the map",
-                            "claims": [{"text": "x", "tier": 1, "source": "https://e"}]}}
-    poison_l0 = {
-        # a node on the map with no argument for why it is there
-        "every L0 node carries an entity dossier":
-            (L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1}}])),
+    def dossier_claim_unsourced(nodes, rb):
         # an unsourced claim, which is the one rule that never bends
-        "every dossier claim is tiered and sourced":
-            (L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [], "mix": {"person": 1},
-                         "dossier": {"narrative": "n",
-                                     "claims": [{"text": "x", "tier": 1, "source": ""}]}}])),
-        # registers that do not sum to the board
-        "register partition is total":
-            (L0(counts={"total": 8, "l0": 1, "ledger": 1, "pathOnly": 0, "unattached": 5})),
-        "summarised edge tier is the strongest of its underlying links":
-            (L0(l0=two_l0, counts={"total": 8, "l0": 2, "ledger": 1, "pathOnly": 0, "unattached": 5},
-                    summarised=[{"a": "e0", "b": "e1", "n": 2, "tier": 3,
-                                 "via": ["a-b", "e2"], "links": 4}])),
-        # one shared member is not a summary, it is a restatement — and 420 of them
-        # would have been drawn on the real board
-        "the shared-member gate holds and only hand-written edges are summarised":
-            (L0(l0=two_l0, counts={"total": 8, "l0": 2, "ledger": 1, "pathOnly": 0, "unattached": 5},
-                    summarised=[{"a": "e0", "b": "e1", "n": 1, "tier": 1,
-                                 "via": ["a-b"], "links": 2}])),
-        # an edge drawn to an unattached entity
-        "no routed or path-only entity emits an edge instance":
-            (L0(directEdges=[{"a": "e0", "b": "e3", "n": 1, "tier": 1, "types": ["custody"]}])),
-        # the class bar says two members, the ledger lists one
-        "every L0 node's class bar sums to the members it lists":
-            (L0(l0=[{"id": "e0", "direct": ["a-b"], "routed": [],
-                         "mix": {"person": 1, "document": 1}}])),
-        # the matcher going loose, plus an uncited authority claim
-        "structural authority is cited, and the exclusions hold":
-            (L0(authority={"susan-gough": {"authority": "x", "instruments": [],
-                                               "weight": 3, "tense": "holds",
-                                               "publicRecord": {"connections": 0}}})),
-        # a connection row with no edge behind it: something generated it
-        "every connection row is backed by a hand-written edge":
-            (L0(connections={"e0": [{"id": "a-b", "type": "custody", "tier": 1,
-                                         "label": "Ann Bee", "cls": "person",
-                                         "dir": "out", "why": "", "note": ""}]})),
-        # the JR., J. reappearance site: a via that resolves to nothing
-        "every routed row names its intermediate resolvably":
-            (L0(l0=[{"id": "e0", "direct": [], "mix": {},
-                         "routed": [{"id": "e4", "depth": 2, "via": ["ghost"]}]}])),
-        # a dossier claim graded documented on an encyclopedia entry, and one on
-        # an aaro.mil page asserting a fact about somebody else
-        "no Tier 1 dossier claim breaks the node-claim sourcing rules":
-            (L0(dossiers={"e0": {"claims": [
-                {"text": "E0 was founded in 1952.", "tier": 1,
-                 "source": "https://en.wikipedia.org/wiki/E0"},
-                {"text": "Ann Bee joined E0 in 2023.", "tier": 1,
-                 "source": "https://www.aaro.mil/UAP-Records/ and https://www.congress.gov/x"}]}})),
-    }
+        _first_dossier(nodes)["dossier"]["claims"][0]["source"] = ""
 
-    # ---- Design's nine, from DESIGN-RESPONSE-LAYOUT-2026-08-24 section 5 ----------
-    # Each poison is the specific input Design named in the "must reject" column.
-    # These checks read a build product on disk rather than the synthetic board, so
-    # they get their own channel: _LAYOUT_OVERRIDE, set around the call below.
-    _real = _layout()
-    # Design's checks compare the MODEL against the board it was built from, so the
-    # synthetic fixture is the wrong input for them -- every L0 node would show zero
-    # neighbours and the degree check would false-positive on clean data. It did,
-    # the first time this ran. Give them the real board on both the poisoned and the
-    # clean call; what varies between the two is the model, which is the thing under
-    # test.
+    def dossier_claim_untiered(nodes, rb):
+        _first_dossier(nodes)["dossier"]["claims"][0]["tier"] = None
+
+    def dossier_tier1_uncapped(nodes, rb):
+        # a dossier claim graded documented on an encyclopedia entry, and one on an
+        # aaro.mil page asserting a fact about somebody else
+        _first_dossier(nodes)["dossier"]["claims"] = [
+            {"text": "E0 was founded in 1952.", "tier": 1,
+             "source": "https://en.wikipedia.org/wiki/E0"},
+            {"text": "Ann Bee joined E0 in 2023.", "tier": 1,
+             "source": "https://www.aaro.mil/UAP-Records/ and https://www.congress.gov/x"}]
+
+    _TYPES = ["custody", "funding", "programmatic", "institutional", "legislative",
+              "research", "investigative", "witness-chain", "behavioral", "denial",
+              "temporal", "geographic"]
+
+    def conn_without_edge(nodes, rb):
+        # a connection row whose pair carries no edge of the type it prints:
+        # something generated it
+        rec, c = _first_conn(nodes, lambda c: True)
+        src = rec["id"]
+        have = {e["type"] for e in rb["edges"] if {e["a"], e["b"]} == {src, c["id"]}}
+        c["type"] = next(t for t in _TYPES if t not in have)
+
+    def conn_to_ghost(nodes, rb):
+        rec, c = _first_conn(nodes, lambda c: True)
+        c["id"] = "a-node-that-is-not-on-the-board"
+
+    def _instances(rb):
+        n = {}
+        for e in rb["edges"]:
+            n[e["a"]] = n.get(e["a"], 0) + 1
+            n[e["b"]] = n.get(e["b"], 0) + 1
+        return n
+
+    def index_deg_instances(rb):
+        # an index baked from edge INSTANCES, the trap that published 107 for 96
+        with open(APP_INDEX, encoding="utf-8") as fh:
+            ix = json.load(fh)
+        inst = _instances(rb)
+        for r in ix["nodes"]:
+            r["deg"] = inst.get(r["id"], 0)
+        rb["_appIndex"] = ix
+
+    def node_deg_instances(nodes, rb):
+        inst = _instances(rb)
+        for nid in sorted(nodes):
+            if nodes[nid].get("deg") != inst.get(nid, 0):
+                rec = copy.deepcopy(nodes[nid])
+                rec["deg"] = inst.get(nid, 0)
+                nodes[nid] = rec
+
+    def _first_edge(rb, test):
+        for e in rb["edges"]:
+            if test(e):
+                return e
+        raise SystemExit("self-test: no board edge to poison")
+
+    def denial_kind_invented(rb):
+        _first_edge(rb, lambda e: e.get("denialKind"))["denialKind"] = "probably-a-denial"
+
+    def denial_association_with_denier(rb):
+        e = _first_edge(rb, lambda e: e.get("denialKind") == "association")
+        e["denier"] = e["a"]
+
+    def denial_directed_without_denier(rb):
+        _first_edge(rb, lambda e: e.get("denialKind") == "directed").pop("denier", None)
+
+    def denier_not_an_end(rb):
+        # a denier invented for an edge, naming a node that is not even on it --
+        # which is what publishing a direction derived from [a,b].sort() amounts to
+        _first_edge(rb, lambda e: e.get("denier"))["denier"] = "not-an-end-of-this-edge"
+
+    def denier_on_a_non_denial(rb):
+        e = _first_edge(rb, lambda e: e.get("type") != "denial" and not e.get("denier"))
+        e["denier"] = e["a"]
+
+    def _hl(fn_):
+        def mutate(rb):
+            with open(HIGHLIGHTS, encoding="utf-8") as fh:
+                hl = json.load(fh)
+            fn_(hl, rb)
+            rb["_highlights"] = hl
+        mutate.__name__ = fn_.__name__
+        return mutate
+
+    def hl_unknown_id(hl, rb):
+        # a flag naming an id the board does not carry
+        hl["flags"].append({"id": "not-on-this-board", "why": "x"})
+
+    def hl_sets_a_tier(hl, rb):
+        hl["flags"][0]["tier"] = "A"
+
+    def hl_over_cap(hl, rb):
+        flagged = {f["id"] for f in hl["flags"]}
+        more = [n["id"] for n in rb["entities"] if n["id"] not in flagged]
+        hl["flags"] += [{"id": i, "why": "x"} for i in more[:HIGHLIGHT_CAP + 1 - len(hl["flags"])]]
+
+    poison_realboard.update({
+        "every dossier claim is tiered and sourced":
+            [_app_node_poison(dossier_claim_unsourced), _app_node_poison(dossier_claim_untiered)],
+        "no Tier 1 dossier claim breaks the node-claim sourcing rules":
+            [_app_node_poison(dossier_tier1_uncapped)],
+        "every connection row is backed by a hand-written edge":
+            [_app_node_poison(conn_without_edge), _app_node_poison(conn_to_ghost)],
+        "every node's degree is distinct neighbours, not edge instances":
+            [index_deg_instances, _app_node_poison(node_deg_instances)],
+        "a denial verdict is one of three states, and names a denier only when directed":
+            [denial_kind_invented, denial_association_with_denier, denial_directed_without_denier],
+        "denial direction is published only where the record names a denier":
+            [denier_not_an_end, denier_on_a_non_denial],
+        "highlights are a pointer, not a promotion":
+            [_hl(hl_unknown_id), _hl(hl_sets_a_tier), _hl(hl_over_cap)],
+    })
+
+    # The checks below read a build product or an authored file on disk rather than
+    # the synthetic board, so each gets its own poison channel. (Design's nine layout
+    # checks and their _LAYOUT_OVERRIDE stood here until phase 11.)
     _real_board = None
     if os.path.exists(BOARD):
         with open(BOARD, encoding="utf-8") as fh:
@@ -4490,28 +3877,6 @@ def self_test():
     _real_patents = _patents()
     _real_obs = _observables()
     _real_foia = _foia()
-
-    def lay(mut):
-        """Deep-copy the real layout model and break it one way."""
-        m = copy.deepcopy(_real)
-        mut(m)
-        return m
-
-    def _bloat(m):
-        # the failure this whole correction was about: a model over the read cap
-        m["_bloat"] = ["x" * 4096 for _ in range(300)]
-
-    def _undated_into_an_era(m):
-        for n in m["current"]["nodes"]:
-            if n.get("y0") in (None, ""):
-                n["col"] = 3          # parked in a real era column
-                return
-
-    def _bare_node(m):
-        for n in m["current"]["nodes"]:
-            if (n.get("allEdges") or 0) > 0:
-                n["restEdges"] = 0    # clause 1 without clause 2
-                return
 
     # The reject list is a build product too, and the check that reads it needs to be
     # shown failing for the same reason every other check does.
@@ -4523,17 +3888,6 @@ def self_test():
     # The register is empty, so the check passes on an empty dict and the poison has
     # to be a record. Four ways to intend an image and silently not publish one, plus
     # the credit rule, which is a licensing failure rather than a rendering one.
-    poison_shorts = {
-        # Two ways a chip lies: a label too long for it, and a label shared with
-        # another node. Both, so neither half of the check goes untested.
-        "every chip label fits the chip it is drawn in": [
-            lay(lambda m: m["current"]["nodes"][0].update(
-                short="A label far longer than the thirty-seven characters a chip can hold")),
-            lay(lambda m: m["current"]["nodes"][1].update(
-                short=m["current"]["nodes"][0]["short"])),
-        ],
-    }
-
     poison_images = {
         "nothing in the image register fails silently": {"images": {
             # clears, and nothing to draw
@@ -4661,84 +4015,14 @@ def self_test():
         ],
     }
 
-    poison_layout = {} if _real is None else {
-        # a model baked from the extract's `deg` field, which counts edge INSTANCES
-        "L0 degree is distinct neighbours, not edge instances":
-            lay(lambda m: m["current"]["nodes"][0].update(
-                deg=(m["current"]["nodes"][0].get("deg") or 0) + 40)),
-        # a hand-edited figure in the write-up
-        "every layout figure recomputes from the model":
-            lay(lambda m: m["current"]["figures"].update(l0=107)),
-        # clause 1 shipped without clause 2 -- nodes drawn with no line at all
-        "no L0 node with a link is left without a line": lay(_bare_node),
-        # an undated node placed in an era column
-        "absent prints as absent": lay(_undated_into_an_era),
-        # more than one distinct chip size
-        "chip size is not a channel":
-            lay(lambda m: m["current"]["nodes"][0].update(w=260)),
-        # a re-introduced force pass, which settles on fractional coordinates
-        "layout positions are grid-derived, not force-derived":
-            lay(lambda m: m["current"]["nodes"][0].update(x=418.37)),
-        # a time-direction flow on every line
-        "motion is attested, not decorative":
-            lay(lambda m: [e.update(flow="time") for e in m["current"]["edges"]]),
-        # a queue that has stopped naming a field the renderer reads
-        # Two poisons, one per direction. A field the data withholds and the
-        # queue does not name; and a row naming work the data has already done.
-        "every field the design reads but the data withholds is in the backfill queue": [
-            # Aimed at `photo`, which the register keeps deliberately empty, so
-            # this poison stays valid for as long as that is true. It used to drop
-            # the denialKind row -- and when the 174 denials were adjudicated on
-            # 26 August, dropping that row became the CORRECT state and the poison
-            # silently stopped poisoning. A poison aimed at a field that might get
-            # filled has the same expiry date as the check it guards.
-            lay(lambda m: m.__setitem__(
-                "gaps", [r for r in m["gaps"] if "photo" not in str(r[0])])),
-            lay(lambda m: m["gaps"].append(
-                ["C / A / D", "the three scored axes per node",
-                 "straight off the board records", "band order is the measured mean C"])),
-        ],
-        # a research pass that inverts a near-tie on the shipping dataset
-        "the rarity order the board implies still matches the pin":
-            lay(lambda m: m["current"]["figures"].update(
-                rarityObserved=list(reversed(m["current"]["figures"]["rarityPin"])))),
-        # a denier invented for an edge, naming a node that is not even on it --
-        # which is what publishing a direction derived from [a,b].sort() amounts to
-        "denial direction is published only where the record names a denier":
-            lay(lambda m: [e.update(denier="not-an-end-of-this-edge")
-                           for e in m["current"]["edges"] if e.get("denial")]),
-        # a third denial state invented, or an association that also claims a denier
-        "a denial that is not a directed act carries no denial styling":
-            lay(lambda m: [e.update(denialKind="probably-a-denial")
-                           for e in m["current"]["edges"] if e.get("denial")]),
-        # a flag naming an id the floor excluded
-        "highlights are a pointer, not a promotion":
-            lay(lambda m: m["current"]["highlights"]["flags"].append(
-                {"id": "not-on-this-map", "why": "x"})),
-        # the model over the ~1MB read cap
-        "the layout model stays under the read cap": lay(_bloat),
-    }
-
     print("self-test — each check must REJECT poisoned input\n")
     ok = True
-    poison_layout.update(poison_shorts)
 
     for name, fn in CHECKS_RUN:
         if name == "counts match the golden manifest":
             print(f"  n/a   {name} (drift tripwire, not a property)")
             continue
-        if name in poison_l0:
-            global _L0_OVERRIDE
-            _L0_OVERRIDE = poison_l0[name]
-            try:
-                caught = fn(poisons.get(name, base))
-            finally:
-                _L0_OVERRIDE = L0()
-            try:
-                clean = fn(base)
-            finally:
-                _L0_OVERRIDE = None
-        elif name in poison_topics:
+        if name in poison_topics:
             # the fixture must pass, each poison must be rejected naming its fault,
             # each accepted variant must pass, and the real repo must pass
             global _TOPICS_OVERRIDE, _TOPIC_FLOOR_OVERRIDE
@@ -4837,7 +4121,9 @@ def self_test():
                 caught = fn(base)
             finally:
                 _IMAGES_OVERRIDE = None
-            clean = fn(base)
+            # the register is keyed on real node ids, so its clean call is the real
+            # board (it was the layout model's nodes, whatever board, until phase 11)
+            clean = fn(_real_board if _real_board is not None else base)
         elif name in poison_foia:
             global _FOIA_OVERRIDE
             caught = []
@@ -4897,31 +4183,6 @@ def self_test():
                     break
                 caught = got
             clean = fn(base)
-        elif name in poison_layout:
-            global _LAYOUT_OVERRIDE
-            lb = _real_board if _real_board is not None else base
-            # A check may carry SEVERAL poisons, and every one must be rejected.
-            # One poison per check is only enough when the check asserts one
-            # thing. The backfill-queue check asserts two opposite things -- that
-            # a missing field is queued, and that a queued field is still
-            # missing -- and a single poison would leave whichever half it did
-            # not touch untested. That is how the second half came to be absent
-            # for two days in the first place.
-            ps = poison_layout[name]
-            if not isinstance(ps, list):
-                ps = [ps]
-            caught = []
-            for pz in ps:
-                _LAYOUT_OVERRIDE = pz
-                try:
-                    got = fn(lb)
-                finally:
-                    _LAYOUT_OVERRIDE = None
-                if not got:
-                    caught = []          # one poison slipped through: the check is dead
-                    break
-                caught = caught + got
-            clean = fn(lb)
         else:
             caught = fn(poisons.get(name, base))
             clean = fn(base)

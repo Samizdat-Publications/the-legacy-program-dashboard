@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 3,
-"band": "reverse-engineering",
 "claims": [
 {
 "id": "c-608197f302",
@@ -83,7 +82,6 @@
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings and its cleared people",
 "family": "law",
 "id": "atomic-energy-act-1946",
-"l0": false,
 "label": "Atomic Energy Act of 1946 (McMahon Act)",
 "note": "Section 9(a) directs the transfer of all fissionable material, all atomic weapons and parts and all processes and technical information, and section 10(b)(5)(B)(iii) lets anyone the Manhattan Engineer District had already cleared keep access pending the new investigation.",
 "predicate": "created",
@@ -110,7 +108,6 @@
 "edgeLabel": "Statutory transfer of the Manhattan Engineer District's holdings",
 "family": "analysis",
 "id": "atomic-energy-commission",
-"l0": true,
 "label": "Atomic Energy Commission",
 "note": "Section 9(a) of the 1946 Act directs the President to transfer to the Commission all fissionable material, all atomic weapons and parts, all processes and technical information, and such other property in the custody or control of the Manhattan Engineer District as he may determine.",
 "predicate": "exemplifies",
@@ -137,7 +134,6 @@
 "edgeLabel": "the named model this domain is arguing about, and the reason to keep it graded Tier 3",
 "family": "analysis",
 "id": "d-structure",
-"l0": false,
 "label": "Program structure and organisational mapping",
 "note": "UAP Gerb's onion model of an indefinitely layered secrecy architecture, set out across two investigations published 1 May and 19 June 2026, is the most fully articulated structural hypothesis in circulation and is what the independent-media substrate has organised itself around. It is sourced only to those two videos and has no independent documentary corroboration, which is exactly why it belongs in this domain at Tier 3 rather than being excluded from it.",
 "predicate": "exemplifies",
@@ -169,7 +165,6 @@
 "edgeLabel": "Alleges custody of recovered disks vested in AEC national laboratories",
 "family": "custody",
 "id": "doe",
-"l0": true,
 "label": "United States Department of Energy",
 "note": "Gerb argues Truman and Eisenhower placed recovered material inside Atomic Energy Commission laboratories - the institutional ancestors of today's DOE national labs - to obtain the Atomic Energy Act's statutory protections.",
 "predicate": "alleged_to_hold",
@@ -201,7 +196,6 @@
 "edgeLabel": "The 1994 SAP restructuring vested control in a quasi-industry group",
 "family": "analysis",
 "id": "ffrdc-mechanism",
-"l0": false,
 "label": "The FFRDC / UARC / GOCO mechanism",
 "note": "Gerb argues the 1994 restructuring of the SAP enterprise permanently vested the portfolio in a quasi-government and industry control group - the point at which the FFRDC and contractor layer becomes the locus of control rather than the government.",
 "predicate": "exemplifies",
@@ -233,7 +227,6 @@
 "edgeLabel": "Sandia investigation is the evidentiary bridge for AEC custody",
 "family": "documents",
 "id": "gerb-sandia-investigation",
-"l0": false,
 "label": "UAP Gerb - Sandia National Laboratories investigation",
 "note": "The Sandia investigation predates the Manhattan Project 2.0 series by six months and supplies its named-laboratory case.",
 "predicate": "concerns",
@@ -260,7 +253,6 @@
 "edgeLabel": "The episode's thesis is the Manhattan Project 2.0 architecture",
 "family": "documents",
 "id": "michels-gerb-structural-episode",
-"l0": true,
 "label": "'The Pentagon's UFO Program Is Real [Here's How It Works!]'",
 "note": "The episode description explicitly derives the modern system from the Manhattan Project, the Atomic Energy Commission and Cold War intelligence structures - the same lineage Gerb sets out at length in his May and June 2026 two-part series.",
 "predicate": "concerns",
@@ -297,7 +289,6 @@
 "edgeLabel": "Non-Covert Action Programs alleged to carry waived reporting requirements",
 "family": "testimony",
 "id": "ousdi",
-"l0": true,
 "label": "Office of the Under Secretary of Defense for Intelligence",
 "note": "The operative concealment mechanism on Gerb's account: full SAP security protocols combined with completely waived reporting and budgetary requirements, which would make congressional ignorance lawful rather than the product of active deception.",
 "predicate": "alleged_tie",
@@ -324,7 +315,6 @@
 "edgeLabel": "Sandia named as an AEC-lineage custodial laboratory",
 "family": "custody",
 "id": "sandia",
-"l0": true,
 "label": "Sandia National Laboratories",
 "note": "Gerb's Sandia investigation of 1 November 2025 supplies the named-institution case for the AEC-custody thesis, citing Edgar Fouche and former New Mexico State Representative J. Andrew Kissner.",
 "predicate": "alleged_to_hold",
@@ -351,7 +341,6 @@
 "edgeLabel": "Gerb constructed and named the Manhattan Project 2.0 model",
 "family": "documents",
 "id": "uap-gerb",
-"l0": false,
 "label": "'UAP Gerb' (Sam)",
 "note": "Set out across two investigations, 1 May and 19 June 2026, covering the 1947 founding, AEC custody, the NSC 5412 Committee, the Atomic Energy Act of 1954, the 1980s fracture, the 1994 SAP restructuring and modern Non-Covert Action Programs.",
 "predicate": "wrote",
@@ -529,43 +518,10 @@
 },
 "hl": null,
 "id": "manhattan-project-2",
-"l0": true,
 "label": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "locLabel": null,
-"members": [
-{
-"cls": "legislation",
-"id": "atomic-energy-act-1946",
-"label": "Atomic Energy Act of 1946 (McMahon Act)",
-"tier": "B"
-},
-{
-"cls": "domain",
-"id": "d-structure",
-"label": "Program structure and organisational mapping",
-"tier": "C"
-},
-{
-"cls": "domain",
-"id": "ffrdc-mechanism",
-"label": "The FFRDC / UARC / GOCO mechanism",
-"tier": "B"
-},
-{
-"cls": "document",
-"id": "gerb-sandia-investigation",
-"label": "UAP Gerb - Sandia National Laboratories investigation",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "uap-gerb",
-"label": "'UAP Gerb' (Sam)",
-"tier": "A"
-}
-],
 "openQuestions": [],
-"short": "'Manhattan Project 2.0'",
+"short": "'Manhattan Project 2.0' (alleged secrecy architecture)",
 "sourceFiles": [
 "media-structure"
 ],

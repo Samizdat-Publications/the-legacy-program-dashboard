@@ -20,22 +20,19 @@ export interface IndexNode {
   dateStart: string | null;
   dateEnd: string | null;
   era: string;
-  band: string | null;
-  l0: boolean;
   deg: number;
   claims: [number, number, number];
   hl: number | null;
 }
 
 export interface Era { id: string; label: string; sub: string; start: number | null; end: number | null; }
-export interface Band { id: string; label: string; }
 export interface ClassDef { id: string; label: string; colour: string; }
 export interface ClusterDef { id: string; label: string; }
 
 export interface Counts {
   nodes: number; people: number; entities: number; edges: number;
   claims: Record<string, number>;
-  timeline: number; l0: number; threads: number; patents: number; sheets: number;
+  timeline: number; threads: number; patents: number; sheets: number;
   foia: { requests: number; questions: number; nodes: number };
 }
 
@@ -44,7 +41,6 @@ export interface BoardIndex {
   source: string;
   counts: Counts;
   eras: Era[];
-  bands: Band[];
   classes: ClassDef[];
   clusters: ClusterDef[];
   nodes: IndexNode[];
@@ -61,7 +57,7 @@ export interface Claim {
 }
 
 export interface Connection {
-  id: string; label: string; cls: string; tier: string | null; l0: boolean;
+  id: string; label: string; cls: string; tier: string | null;
   type: string; claimTier: number | null; note?: string; edgeLabel?: string;
   dateStart: string | null; dateEnd: string | null;
   sources: Source[]; direction: 'out' | 'in';
@@ -136,31 +132,10 @@ export interface NodeRecord {
   timeline: TimelineEvent[];
   /* `questions` are indices into dossier.openQuestions, which is where the text is */
   foia: { requests: FoiaRequest[]; questions: number[] };
-  members: { id: string; label: string; cls: string; tier: string | null }[] | null;
 }
 
 export interface Highlight { id: string; rank: number; why: string; }
 export interface HighlightsFile { flags: Highlight[] }
-
-export interface EntryPath { id: string; label: string; blurb: string; total: number; onMap: number; ids: string[]; }
-
-/* map.json carries the whole program map, not only the entry paths. The pages
-   read entryPaths; the analyst's tools read the rest of it, so the shape is
-   stated in full here rather than re-declared next to them. */
-export interface MapNode {
-  id: string; label: string; short?: string; cls: string; cluster?: string | null;
-  tier: string | null; band: string; era: string;
-  C?: number; A?: number; D?: number; dateStart?: string | null; hl?: number | null;
-}
-export interface MapFile {
-  entryPaths: EntryPath[];
-  bands?: Band[];
-  eras?: Era[];
-  cells?: Record<string, string[]>;
-  nodes?: MapNode[];
-  denialPairs?: { by: string; of: string; kind: string; label: string }[];
-  summarised?: { a: string; b: string; via: string[] }[];
-}
 
 export interface EdgeRow {
   a: string; b: string; t: string; tier: number | null;
@@ -316,7 +291,6 @@ function get<T>(path: string): Promise<T> {
 
 export const loadIndex = () => get<BoardIndex>('index.json');
 export const loadHighlights = () => get<HighlightsFile>('highlights.json');
-export const loadMap = () => get<MapFile>('map.json');
 export const loadAnalyst = () => get<AnalystFile>('analyst.json');
 export const loadNode = (id: string) => get<NodeRecord>('nodes/' + id + '.json');
 export const loadClaims = () => get<ClaimRow[]>('claims.json');
@@ -349,6 +323,19 @@ export interface FacetsFile {
   people: Record<string, PersonFacets>;
 }
 export const loadFacets = () => get<FacetsFile>('facets.json');
+
+/* Redesign phase 11: the board's places (tools/build_places.py). A place carries
+   coordinates only where research/_places.json gives them, with where they came
+   from; its events are the event nodes an edge ties to it and the timeline
+   entries filed under it; its topics are the topics that hold it. */
+export interface PlaceEvent { id: string; label: string; date: string | null; kind: 'node' | 'timeline'; }
+export interface Place {
+  id: string; label: string; loc: string | null; country: string | null; region: string | null;
+  lat: number | null; lon: number | null; coordSource: string | null;
+  events: PlaceEvent[]; topics: { id: string; title: string }[];
+}
+export interface PlacesFile { generated: string; coordSources: Record<string, string>; places: Place[]; }
+export const loadPlaces = () => get<PlacesFile>('places.json');
 /* Phase 8's Library (sources.json, one row per registry source), for search.
    A failed fetch is not an error: search simply has no sources to offer. */
 export type SourceRow = LibraryRow;

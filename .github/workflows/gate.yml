@@ -62,8 +62,9 @@ jobs:
         with:
           python-version: '3.11'
 
-      # Node, for tools/build_l0_layout.mjs (a build step) and the browser-resolver
-      # self-test. No browser is installed in this job.
+      # Node, for the browser-resolver self-test. No browser is installed in this
+      # job. (It also ran tools/build_l0_layout.mjs, a build step until the L0 map
+      # retired in phase 11, 26 September 2026.)
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
@@ -90,10 +91,10 @@ jobs:
         # Not `git diff --quiet`: every artifact carries a build-DATE stamp, so a
         # rebuild on a different UTC day from the machine that built the commit
         # differs by one line per file with nothing actually wrong. And not
-        # `git diff -I<regex>` either, which would be WORSE THAN THE BUG:
-        # data/l0-model.json, data/l0-layout-model.json and data/design-extract.json
-        # are each a single line, so the one changed line always contains the stamp
-        # and every real change to them would be ignored. tools/check_rebuild.py
+        # `git diff -I<regex>` either, which would be WORSE THAN THE BUG: on a
+        # single-line artifact (data/l0-model.json and its two siblings were, until
+        # phase 11) the one changed line always contains the stamp and every real
+        # change to it would be ignored. tools/check_rebuild.py
         # normalises the stamp (and CRLF) on both sides and compares full bytes.
         run: python3 tools/check_rebuild.py
 
@@ -108,9 +109,6 @@ jobs:
           name: rebuilt-artifacts
           retention-days: 7
           path: |
-            data/l0-model.json
-            data/design-extract.json
-            data/l0-layout-model.json
             data/foia-links.json
             app/public/data/*.json
 
@@ -163,10 +161,9 @@ jobs:
         #
         # Every value written under app/public/data/ is now a function of the inputs'
         # content and of nothing else, which is what lets this compare full bytes.
-        # The repo's standing warning against `git diff -I` -- data/l0-model.json and
-        # its two one-line siblings, where the one changed line always carries the
-        # stamp and every real change would be swallowed -- needs no exception here
-        # any more.
+        # The repo's standing warning against `git diff -I` -- a one-line artifact,
+        # where the one changed line always carries the stamp and every real change
+        # would be swallowed -- needs no exception here any more.
         run: |
           python3 tools/build_app_data.py
           git diff --quiet -- app/public/data/ || {

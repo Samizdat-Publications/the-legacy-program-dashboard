@@ -11,7 +11,6 @@
 "National Security Agency (prior)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2021-01-01",
@@ -109,7 +108,6 @@
 "edgeLabel": "ICIG found Grusch's urgent-concern complaint credible and urgent, triggering notification of the intelligence committees",
 "family": "oversight",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "This finding is the legal predicate for the entire House inquiry, and it routed to the intelligence committees rather than to Oversight.",
 "predicate": "investigated",
@@ -136,7 +134,6 @@
 "edgeLabel": "Inspector General of the Intelligence Community, 2021-present",
 "family": "role",
 "id": "icig",
-"l0": false,
 "label": "Inspector General of the Intelligence Community",
 "note": "Monheim held the office when the credible-and-urgent determination was made and when his office briefed House Oversight members in closed session on 13 January 2024.",
 "predicate": "led",
@@ -163,7 +160,6 @@
 "edgeLabel": "Briefed House Oversight members for about ninety minutes",
 "family": "testimony",
 "id": "icig-briefing-2024-01-12",
-"l0": false,
 "label": "Closed ICIG UAP briefing to House Oversight members",
 "note": "The only formal House encounter with the inspector general who found the Grusch complaint credible and urgent.",
 "predicate": "testified_at",
@@ -200,11 +196,9 @@
 "hl": null,
 "id": "thomas-monheim",
 "instId": "icig",
-"l0": false,
 "label": "Thomas A. Monheim",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Monheim is the official who stood between the Grusch complaint and Congress. As Inspector General of the Intelligence Community his office received Grusch's PPD-19 urgent-concern complaint through counsel in May 2022 and found it credible and urgent in July 2022, which triggered mandatory notification to the congressional intelligence committees. On 12 January 2024, at the Capitol, he gave a roughly ninety-minute closed briefing to House Oversight members - the House's first and only formal encounter with the watchdog who validated the complaint that started all of this. The result is documented and it is a null. Krishnamoorthi said he did not get the answers he hoped for. Burchett rated it four out of ten and said it was 'more of the same' and 'very compartmentalized.' Ogles said he asked very specific questions and was unable to get specific answers. Burlison and Garcia said it gave direction and probably new information. The most important structural fact is that a credible-and-urgent finding by the IC's own inspector general produced, eighteen months later, a briefing from which a bipartisan group of members emerged reporting they had learned essentially nothing about the substance.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -7,7 +7,6 @@
 "Chairman, House Armed Services Committee (2023- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-11-27",
@@ -102,7 +101,6 @@
 "edgeLabel": "Chairman during the FY2024 conference",
 "family": "role",
 "id": "house-armed-services",
-"l0": false,
 "label": "House Armed Services Committee",
 "note": "Rogers has chaired House Armed Services since January 2023 and was a conference principal on the NDAA.",
 "predicate": "led",
@@ -129,7 +127,6 @@
 "edgeLabel": "Named as co-leading the effort to eliminate or alter the Act",
 "family": "denial",
 "id": "uapda-2023",
-"l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "Rogers chaired House Armed Services through the conference and is named alongside Turner in contemporaneous reporting; no direct quotation ties him to a specific section.",
 "predicate": "refused",
@@ -156,7 +153,6 @@
 "edgeLabel": "seat 7 of 12 - Chairman, House Armed Services",
 "family": "role",
 "id": "waived-sap-notification-group",
-"l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Distinct from Mike Rogers of Michigan, former House Intelligence chairman, whose committee holds no section 119 entitlement.",
 "predicate": "member_of",
@@ -231,11 +227,9 @@
 "hl": null,
 "id": "mike-rogers-alabama",
 "instId": null,
-"l0": false,
 "label": "Mike Rogers (Alabama)",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Rogers has chaired the House Armed Services Committee since the start of the 118th Congress and holds that chair in August 2026, which places him in the 10 U.S.C. 119(e)(2) group continuously across the 2023 Grusch testimony and everything since. He must be distinguished on the board from Mike Rogers of Michigan, a different member who chaired the House Permanent Select Committee on Intelligence - a committee with no entitlement whatsoever under section 119. Conflating the two would put the wrong person in the group and attach the wrong committee to the wrong statute. The Rogers seat is the House authorising counterpart to Wicker's. It carries the same joint entitlement with the ranking member to receive waived special access program information and the waiver justification, the same 119(f) thirty-day pre-initiation notification, and the same absence of any statutory route to share what is received. Rogers's committee is also the vehicle through which the annual National Defense Authorization Act and its classified annex are produced, which is the practical mechanism by which Congress has repeatedly attempted to legislate visibility into UAP-related programmes. That gives the House Armed Services chairmanship a dual character on this board: a statutory recipient seat under section 119, and the drafting seat for the legislation that has sought to widen section 119-style access.",
 "photoCredit": null,
 "sequenceChain": [],

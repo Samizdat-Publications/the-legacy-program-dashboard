@@ -4,7 +4,6 @@
 "D": 1,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -58,7 +57,6 @@
 "edgeLabel": "New Mexico State Police officer stationed at Dulce from 1976",
 "family": "place-time",
 "id": "l-dulce",
-"l0": false,
 "label": "Dulce and Archuleta Mesa, Rio Arriba County, New Mexico",
 "note": "The only official investigator in this story. The opened newspaper report carries no statement from Valdez that a base exists, although he is routinely cited in the Dulce literature as a supporting official voice.",
 "predicate": "located_at",
@@ -92,11 +90,9 @@
 "hl": null,
 "id": "gabe-valdez",
 "instId": null,
-"l0": false,
 "label": "Gabriel L. \"Gabe\" Valdez",
 "loc": "Dulce, New Mexico",
 "locId": "l-dulce",
-"members": null,
 "narrative": "Gabe Valdez is the documented official presence in this story and the only person in the cluster who investigated anything in an official capacity. He was a New Mexico State Police officer stationed at Dulce in 1976 when he began investigating the deaths of cattle and other animals found with soft tissue removed, and he became the central figure in the New Mexico livestock-mutilation investigations of that decade. What he is used for in the Dulce literature and what the opened record supports are two different things: the Santa Fe New Mexican report of 23 September 2013, on a book written by his son Greg Valdez from his case files, carries no statement from Valdez that any base exists. The thesis reported there runs the other way, connecting the animal deaths to testing for environmental contamination arising from nuclear work on Jicarilla Apache Nation land in the 1960s, and noting that the reports began after Project Gasbuggy and ended around 1980 after an FBI report attributed them to predators. That thesis is his son's book's and is recorded as such rather than endorsed. The node exists because a real state police officer working a real caseload at Dulce in the 1970s is the closest thing this cluster has to an official record of activity at the place, and because the alternative is letting the literature keep citing him for a conclusion the opened record does not carry.",
 "photoCredit": null,
 "sequenceChain": [],

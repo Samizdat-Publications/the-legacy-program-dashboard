@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-754148a031",
@@ -61,7 +60,6 @@
 "edgeLabel": "the 1977 event triggered the Soviet programmes",
 "family": "place-time",
 "id": "setka-program",
-"l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Stonehill and Mantle: the sharp increase in activity in 1977-78, 'especially, the Petrozavodsk Case', forced the Academy of Sciences to agree to the research programme.",
 "predicate": "led_to",
@@ -95,10 +93,8 @@
 },
 "hl": null,
 "id": "ev-petrozavodsk-1977",
-"l0": false,
 "label": "Petrozavodsk phenomenon, 20 September 1977",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Petrozavodsk phenomenon, 20 September 1977",
 "sourceFiles": [

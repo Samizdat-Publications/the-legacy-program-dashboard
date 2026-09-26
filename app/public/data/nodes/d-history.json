@@ -3,7 +3,6 @@
 "C": 0,
 "D": 2,
 "absorbedBy": "foia-litigation",
-"band": null,
 "claims": [
 {
 "id": "c-d0bb364d87",
@@ -62,7 +61,6 @@
 "edgeLabel": "The corpus is what survives the records fight",
 "family": "analysis",
 "id": "d-records",
-"l0": false,
 "label": "Records & Archives",
 "note": "Almost every primary document in this field arrived through FOIA or archival release; historiography here is downstream of records law.",
 "predicate": "affects",
@@ -101,10 +99,8 @@
 },
 "hl": null,
 "id": "d-history",
-"l0": false,
 "label": "Historiography",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Historiography",
 "sourceFiles": [

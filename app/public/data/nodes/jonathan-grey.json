@@ -6,7 +6,6 @@
 "National Air and Space Intelligence Center (serving)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-06-05",
@@ -44,7 +43,6 @@
 "edgeLabel": "Serving NASIC officer corroborates on the record under pseudonym",
 "family": "testimony",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "'The non-human intelligence phenomenon is real. We are not alone.' A currently serving Top Secret-cleared NASIC officer would corroborate but would not attach a name - itself evidence about the environment at Wright-Patterson.",
 "predicate": "corroborated",
@@ -71,7 +69,6 @@
 "edgeLabel": "Serving intelligence officer at NASIC, Wright-Patterson AFB",
 "family": "role",
 "id": "nasic",
-"l0": false,
 "label": "National Air and Space Intelligence Center",
 "note": "Kean identifies Grey as a currently serving NASIC officer with Top Secret clearance; the installation is the historical center of gravity for every legacy custody allegation.",
 "predicate": "held_post",
@@ -108,11 +105,9 @@
 "hl": null,
 "id": "jonathan-grey",
 "instId": "nasic",
-"l0": false,
 "label": "\"Jonathan Grey\" (pseudonym)",
 "loc": "Wright-Patterson AFB, OH",
 "locId": "l-wright-patterson",
-"members": null,
 "narrative": "Jonathan Grey is the pseudonym under which a currently serving Top Secret-cleared intelligence officer at the National Air and Space Intelligence Center, Wright-Patterson AFB, corroborated Grusch in the 5 June 2023 Debrief article. Grey stated that the non-human intelligence phenomenon is real, that we are not alone, and that retrievals of this kind are not limited to the United States - an assertion that widens the custody question past US jurisdiction and implicates allied and adversary recovery efforts. The use of a pseudonym is itself evidence about the environment: the officer's employer sits at the geographic center of the legacy program allegations, at the base where the 1947 material is alleged to have been taken, and the officer would not attach a name. Kean has said she verified his identity and employment. AARO has never addressed Grey's statement by name.",
 "photoCredit": null,
 "sequenceChain": [],

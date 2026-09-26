@@ -9,7 +9,6 @@
 "ExoProbe project"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2019-12-12",
@@ -138,7 +137,6 @@
 "edgeLabel": "Co-authors on the 2025 Scientific Reports result",
 "family": "role",
 "id": "stephen-bruehl",
-"l0": false,
 "label": "Stephen Bruehl",
 "note": "An astronomer and a Vanderbilt anesthesiology professor with statistical training - an indication of how far outside conventional aerospace research the productive work has migrated.",
 "predicate": "worked_with",
@@ -165,7 +163,6 @@
 "edgeLabel": "Principal investigator",
 "family": "role",
 "id": "vasco-project",
-"l0": false,
 "label": "VASCO - Vanishing and Appearing Sources during a Century of Observations",
 "note": "VASCO compares POSS-I plates exposed 1949-1957 against modern surveys; the pre-Sputnik exposure dates remove the satellite-glint confound entirely.",
 "predicate": "held_post",
@@ -208,11 +205,9 @@
 "hl": null,
 "id": "beatriz-villarroel",
 "instId": "vasco-project",
-"l0": false,
 "label": "Beatriz Villarroel",
 "loc": "Stockholm, Sweden",
 "locId": "l-stockholm",
-"members": null,
 "narrative": "Villarroel is running the one line of investigation that could produce hard evidence about the 1940s-1950s period without any cooperation from the US government at all, because her dataset predates the government's ability to classify it. VASCO compares the Palomar Observatory Sky Survey plates - exposed between 1949 and 1957, before any artificial satellite existed - against modern sky surveys, looking for point sources that appear in the old plates and are absent now. Anything genuinely transient and star-like on a pre-Sputnik plate cannot be a satellite glint, which makes the archive a clean natural experiment. Her group published the VASCO methodology in The Astronomical Journal in December 2019, then in June 2021 reported in Scientific Reports nine simultaneous transients on a single plate from 12 April 1950, and in 2022 published the 'glint in the eye' analysis in Acta Astronautica arguing photographic plate archives are a viable search space for non-terrestrial artefacts. Then, on 20 October 2025, she and Stephen Bruehl published in Scientific Reports the result that matters most for this board: transients in POSS-I 'may be associated with nuclear testing and reports of unidentified anomalous phenomena'. That is a peer-reviewed, Nature-portfolio paper drawing a statistical association between above-ground nuclear tests, contemporaneous UAP reports, and anomalous point sources on astronomical plates from the exact period this board treats as the programme's origin. The Sol Foundation made it the subject of its first policy briefing in January 2026.",
 "photoCredit": null,
 "sequenceChain": [],

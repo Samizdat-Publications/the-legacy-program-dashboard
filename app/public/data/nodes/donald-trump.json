@@ -6,7 +6,6 @@
 "President of the United States (2017-2021, 2025-)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2026-02-19",
@@ -78,7 +77,6 @@
 "edgeLabel": "Signed EO 14347 and issued the 2026 UAP release directives",
 "family": "role",
 "id": "eop",
-"l0": false,
 "label": "Executive Office of the President",
 "note": "EO 14347 is signed; the February 2026 UAP directives are attested by contemporary reporting and by the Department's subsequent PURSUE releases.",
 "predicate": "led",
@@ -115,7 +113,6 @@
 "edgeLabel": "Issued the direction that created PURSUE",
 "family": "documents",
 "id": "trump-uap-release-directive-2026",
-"l0": false,
 "label": "Presidential direction to identify and release UAP files (19-20 February 2026)",
 "note": "Trump's 19-20 February 2026 Truth Social post directing Hegseth and relevant agencies to begin identifying and releasing UAP files is the sole originating instrument for the release programme.",
 "predicate": "published",
@@ -147,7 +144,6 @@
 "edgeLabel": "Directed the NDA waiver in July 2026",
 "family": "documents",
 "id": "uap-nda-waiver-directive-2026",
-"l0": false,
 "label": "Presidential directive waiving UAP-related nondisclosure agreements",
 "note": "The administration directed DoW and the IC to waive UAP-related NDAs for former employees and contractors speaking with authorised investigators; officials stressed it is not a declassification directive.",
 "predicate": "wrote",
@@ -184,11 +180,9 @@
 "hl": null,
 "id": "donald-trump",
 "instId": "dod",
-"l0": false,
 "label": "Donald J. Trump",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "The entire 2026 release architecture rests on a single social-media post. On 19-20 February 2026 Trump posted on Truth Social that he would direct Secretary of War Pete Hegseth and other relevant departments and agencies to 'begin the process of identifying and releasing Government files related to alien and extraterrestrial life, unidentified aerial phenomena (UAP), and unidentified flying objects (UFOs), and any and all other information connected to these highly complex, but extremely interesting and important, matters.' The programme that followed - PURSUE, the Presidential Unsealing and Reporting System for UAP Encounters - takes its name from that direction and is described on the Department of War's own portal as standing on it. Hegseth referred to the direction as an 'executive order' in remarks five days later, but the contemporaneous DefenseScoop reporting on the announcement records a Truth Social post and no signed order, and no executive order text has surfaced in the public record as of 12 August 2026. That gap matters: a programme releasing hundreds of files under presidential direction, with no published instrument establishing scope, standards, review authority or exemptions, is a programme whose limits are set entirely by the executive that runs it and can be withdrawn as informally as it was created. In July 2026 the same channel produced a second directive - the waiver of UAP-related nondisclosure agreements for former employees and contractors speaking to authorised government investigators - which officials were careful to describe as 'not a declassification directive.'",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-a0636b3cac",
@@ -55,7 +54,6 @@
 "edgeLabel": "CAUS was the plaintiff in Civil Action No. 80-1562",
 "family": "place-time",
 "id": "caus",
-"l0": false,
 "label": "Citizens Against UFO Secrecy (CAUS)",
 "note": "The organisation brought the case that produced judicial confirmation that NSA holds UFO-related records it will not release.",
 "predicate": "led_to",
@@ -87,7 +85,6 @@
 "edgeLabel": "NSA withheld its UFO holdings in full and won on an in camera affidavit",
 "family": "denial",
 "id": "nsa",
-"l0": true,
 "label": "National Security Agency",
 "note": "NSA located responsive material, withheld it entirely, and supported the withholding with a classified affidavit by Eugene F. Yeates. The D.C. Circuit affirmed in 1981; certiorari was denied in 1982.",
 "predicate": "refused",
@@ -114,7 +111,6 @@
 "edgeLabel": "The affidavit is the instrument by which withholding was sustained",
 "family": "denial",
 "id": "yeates-affidavit",
-"l0": false,
 "label": "Yeates Affidavit (NSA, 1980)",
 "note": "The United States has never asserted that the records do not exist. Its sworn position is that they cannot be disclosed.",
 "predicate": "refused",
@@ -243,10 +239,8 @@
 },
 "hl": null,
 "id": "caus-v-nsa",
-"l0": false,
 "label": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Citizens Against UFO Secrecy v. National Security Agency (Civil Action No. 80-1562)",
 "sourceFiles": [

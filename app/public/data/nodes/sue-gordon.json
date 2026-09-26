@@ -10,7 +10,6 @@
 "CACI International, BlackSky, SecurityScorecard (boards)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2015-01-01",
@@ -78,7 +77,6 @@
 "edgeLabel": "Vice chair of MITRE's Board of Trustees from 31 October 2023",
 "family": "role",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "Former Principal Deputy Director of National Intelligence, elected vice chair three months after the July 2023 House Oversight UAP hearing.",
 "predicate": "member_of",
@@ -116,11 +114,9 @@
 "hl": null,
 "id": "sue-gordon",
 "instId": "mitre-corporation",
-"l0": false,
 "label": "Susan M. Gordon",
 "loc": "McLean, VA",
 "locId": "l-mclean",
-"members": null,
 "narrative": "Gordon is the highest-access intelligence official sitting on the governing body of the corporation now being asked by Congress what it holds on crash retrieval and reverse engineering. She spent 27 years at CIA, where she helped create the Agency's venture capital arm In-Q-Tel, served as Deputy Director of the National Geospatial-Intelligence Agency, and from 2017 to 2019 was Principal Deputy Director of National Intelligence - the number two official in the entire US Intelligence Community, a position with formal visibility into the Special Access Program and controlled-access architecture across all seventeen elements. She joined MITRE's Board of Trustees in 2021 and was elected vice chair on 31 October 2023, three months after David Grusch testified to the House Oversight Committee that a multi-decade crash-retrieval and reverse-engineering programme had been concealed from Congress. She is not the first: MITRE's board previously elected Donald Kerr, also a former Principal Deputy Director of National Intelligence, as its chairman, and former House Intelligence Committee chairman Mike Rogers as vice chairman, in November 2018. The pattern is what matters. An FFRDC's board of trustees is the body that approves what the corporation discloses, litigates, and preserves. Populating it with people who held the most senior access authorities in the Intelligence Community means that decisions about what a nominally independent nonprofit tells Congress are being made by people whose entire professional formation was in the protection of compartmented information. That is not an accusation of bad faith; it is a description of the mechanism.",
 "photoCredit": null,
 "sequenceChain": [],

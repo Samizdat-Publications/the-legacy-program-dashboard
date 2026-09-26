@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-b7470eb4ff",
@@ -89,7 +88,6 @@
 "edgeLabel": "Enacted section 119 on 4 December 1987",
 "family": "law",
 "id": "usc-10-119",
-"l0": true,
 "label": "10 U.S.C. 119 - Special Access Programs: Congressional Oversight",
 "note": "Source credit to 10 U.S.C. 119: added by Pub. L. 100-180, div. A, title XI, sec. 1132(a)(1), 101 Stat. 1151.",
 "predicate": "created",
@@ -123,10 +121,8 @@
 },
 "hl": null,
 "id": "pl-100-180",
-"l0": false,
 "label": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Public Law 100-180 sec. 1132 - creation of SAP congressional oversight (4 Dec 1987)",
 "sourceFiles": [

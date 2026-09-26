@@ -7,7 +7,6 @@
 "EG&G Nevada, first general manager"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1950",
@@ -81,7 +80,6 @@
 "edgeLabel": "O'Donnell was a senior EG&G manager and, per Knapp, first general manager of EG&G Nevada",
 "family": "role",
 "id": "eg-and-g",
-"l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "His documented career runs from nuclear test firing engineering through the company's Nevada operations, giving him access to the classified site infrastructure at the centre of the allegation.",
 "predicate": "held_post",
@@ -113,7 +111,6 @@
 "edgeLabel": "O'Donnell told Knapp a recovered saucer and a live being existed",
 "family": "testimony",
 "id": "george-knapp",
-"l0": false,
 "label": "George Knapp",
 "note": "Knapp reported the account publicly in February 2023 and named O'Donnell to Congress under oath in September 2025. The promised deathbed recording has never surfaced.",
 "predicate": "told",
@@ -156,11 +153,9 @@
 "hl": null,
 "id": "alfred-odonnell",
 "instId": "eg-and-g",
-"l0": false,
 "label": "Alfred 'Al' O'Donnell",
 "loc": "Las Vegas, NV",
 "locId": "l-nevada-test-site",
-"members": null,
 "narrative": "O'Donnell is the highest-placed contractor executive ever alleged to have described recovered material directly to a journalist. He was an EG&G man from the Manhattan Project era forward - the firing-circuit engineer who triggered US atmospheric nuclear tests, and, per George Knapp, the first general manager of EG&G's Nevada operations, the company that ran the classified support infrastructure at the Nevada Test Site and the Groom Lake facility. Knapp interviewed him repeatedly beginning in the early 1990s and reported that O'Donnell told him 'they did have a flying saucer that had been recovered from New Mexico' and, separately, a 'live being': 'We didn't know what it was... To tell you the truth, we couldn't communicate with it. In the beginning, we didn't know what it was, we didn't know where it was from. And we didn't know what to do with it.' Knapp reported that O'Donnell compared the being's appearance to Ross Perot rather than to the conventional grey. With the blessing of EG&G co-founder Herbert Grier, Knapp arranged a meeting between O'Donnell and Senate Appropriations investigator Richard D'Amato - and O'Donnell told D'Amato nothing. Knapp says O'Donnell was subsequently warned off, but agreed to record a deathbed statement to be released after his death. No such recording has ever surfaced. O'Donnell is the test case for the entire contractor-custody thesis: a man with unimpeachable access, an account given privately and repeatedly, and a total absence of artifact.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -3,7 +3,6 @@
 "C": 0,
 "D": 1,
 "absorbedBy": "stargate",
-"band": null,
 "claims": [
 {
 "id": "c-f1058e5214",
@@ -50,7 +49,6 @@
 "edgeLabel": "The subject on which a federal agency file names him",
 "family": "analysis",
 "id": "andrija-puharich",
-"l0": false,
 "label": "Andrija (Henry K.) Puharich",
 "note": "The FBI file that carries him is a release of cross references to extra-sensory perception, and his own patents are about routing sound into the nervous system without the ear.",
 "predicate": "exemplifies",
@@ -82,7 +80,6 @@
 "edgeLabel": "Twenty-three years of federal funding",
 "family": "analysis",
 "id": "d-remote-viewing",
-"l0": false,
 "label": "Remote Viewing & Anomalous Cognition",
 "note": "Star Gate is the documented precedent that the US government funds anomalous-cognition research; the consciousness domain inherits its personnel and its framing.",
 "predicate": "affects",
@@ -116,10 +113,8 @@
 },
 "hl": null,
 "id": "d-consciousness",
-"l0": false,
 "label": "Consciousness & Observer Effects",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Consciousness & Observer Effects",
 "sourceFiles": [

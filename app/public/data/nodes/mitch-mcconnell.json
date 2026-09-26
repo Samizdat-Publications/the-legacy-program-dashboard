@@ -7,7 +7,6 @@
 "Senate Republican Leader (2007-2025)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2023-11-27",
@@ -81,7 +80,6 @@
 "edgeLabel": "Named as supporting the effort against the Act",
 "family": "denial",
 "id": "uapda-2023",
-"l0": true,
 "label": "UAP Disclosure Act of 2023 (S.Amdt. 797 to S. 2226; Division G of the Senate-passed FY2024 NDAA)",
 "note": "McConnell is named with Speaker Johnson as backing the Turner and Rogers effort, while three Senate Republicans were cosponsors of the same text.",
 "predicate": "refused",
@@ -108,7 +106,6 @@
 "edgeLabel": "seat 5 of 12 - Chair, Senate Appropriations Defense Subcommittee",
 "family": "role",
 "id": "waived-sap-notification-group",
-"l0": true,
 "label": "Waived SAP Notification Group",
 "note": "Previously a Gang of Eight member by virtue of Senate leadership office; now in the 119(e)(2) group by virtue of a subcommittee gavel. The two entitlements are disjoint.",
 "predicate": "member_of",
@@ -197,11 +194,9 @@
 "hl": null,
 "id": "mitch-mcconnell",
 "instId": "us-senate",
-"l0": false,
 "label": "Mitch McConnell",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "McConnell chairs the Senate Appropriations Defense Subcommittee, a body that 10 U.S.C. 119(g)(1) names explicitly as one of the six defense committees. This is the seat that distinguishes the section 119 group from the 10 U.S.C. 101(a)(16) definition of congressional defense committees, which does not reach the Defense Subcommittees. McConnell is in the waived-SAP circle because section 119 uses its own broader definition. McConnell is also the clearest illustration of how the two small groups diverge over time for the same person. As Senate majority leader and later minority leader he was a member of the Gang of Eight under 50 U.S.C. 3093(c)(2) by virtue of his leadership office, seeing covert action findings the armed services committees never saw. He now sits in the 119(e)(2) group by virtue of a subcommittee gavel, seeing waived DoD special access program material that the intelligence committees have no statutory entitlement to. The two entitlements are disjoint and neither implies the other. For a board arguing that a waived programme can be concealed from Congress, McConnell is the counter-example worth naming: a single member who has occupied seats in both restricted-notification regimes, and whose combined sight lines are still bounded by whether the activity in question was characterised as a DoD special access program at all.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 2,
 "D": 2,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -34,7 +33,6 @@
 "edgeLabel": "The only injury case that reached federal court",
 "family": "analysis",
 "id": "d-medical",
-"l0": false,
 "label": "Medical & Injury Effects",
 "note": "Cash v. United States arose from the December 1980 encounter on FM 1485 and was dismissed in August 1986.",
 "predicate": "exemplifies",
@@ -71,10 +69,8 @@
 },
 "hl": null,
 "id": "l-huffman-tx",
-"l0": false,
 "label": "Huffman / Dayton, Texas",
 "locLabel": "Huffman, Texas, USA",
-"members": null,
 "openQuestions": [],
 "short": "Huffman / Dayton, Texas",
 "sourceFiles": [

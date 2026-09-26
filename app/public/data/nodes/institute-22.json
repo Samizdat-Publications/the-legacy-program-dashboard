@@ -2,7 +2,6 @@
 "A": 2,
 "C": 0,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-c4f2fc4077",
@@ -41,7 +40,6 @@
 "edgeLabel": "the same 1978-1991 apparatus under a Western naming convention",
 "family": "organisation",
 "id": "setka-program",
-"l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Identical founding year, joint Academy of Sciences and Ministry of Defence sponsorship and dissolution with the USSR; no independent institutional record distinguishing them was located.",
 "predicate": "same_as",
@@ -80,10 +78,8 @@
 },
 "hl": null,
 "id": "institute-22",
-"l0": false,
 "label": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "'Institute 22' - Soviet Academy of Sciences / Ministry of Defence UFO organisation",
 "sourceFiles": [

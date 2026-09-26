@@ -10,7 +10,6 @@
 "UAP Science Advisory Council (2026- )"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2022-01-01",
@@ -167,7 +166,6 @@
 "edgeLabel": "Co-founder, Executive Director and Secretary of the Board",
 "family": "role",
 "id": "sol-foundation",
-"l0": true,
 "label": "The Sol Foundation",
 "note": "Skafish is the institutional architect of the foundation's science-plus-policy-plus-education structure and author of its November 2024 paper on executive-branch secrecy and harm to Congress.",
 "predicate": "founded",
@@ -204,7 +202,6 @@
 "edgeLabel": "Named as the council's cultural anthropologist",
 "family": "role",
 "id": "uap-science-advisory-council",
-"l0": true,
 "label": "UAP Science Advisory Council",
 "note": "Skafish's appointment completes the Sol Foundation's placement of its executive leadership on the federal advisory body.",
 "predicate": "held_post",
@@ -248,11 +245,9 @@
 "hl": null,
 "id": "peter-skafish",
 "instId": "sol-foundation",
-"l0": false,
 "label": "Peter Skafish",
 "loc": "Stanford, CA",
 "locId": "l-stanford",
-"members": null,
 "narrative": "Peter Skafish is the person who turned UAP advocacy into an institution with a policy shop. A sociocultural anthropologist and recent Harvard visiting anthropologist, he co-founded The Sol Foundation with Garry Nolan in 2022 and serves as its Executive Director and board Secretary. Under him Sol has done something no other body in this space managed: since 2023 it has provided scientific and policy advice on UAP directly to the Senate Select Committee on Intelligence and the House Oversight and Government Reform Committee, and to the Parliaments of the United Kingdom, Canada and Japan, the European Parliament, the European Commission and the Office of the Chief Science Adviser to Canada. It hired Kirk McConnell - thirty-seven years on the Senate Armed Services Committee - as Senior Legislative Affairs Officer, which is a professional lobbying hire, not an enthusiast's. The culmination came on 22 June 2026, when ODNI, with FBI support, announced a UAP Science Advisory Council led by Avi Loeb and reporting to an interagency UAP Governance Board; Skafish, Nolan, Tim Gallaudet, Jacob Haqq-Misra and Ross Howard were named to it. In under four years an advocacy non-profit was absorbed into the executive branch's advisory architecture. Whether that is capture of the government by disclosure advocates or capture of the advocates by the government is the open question, and it is the most important structural question of 2026.",
 "photoCredit": null,
 "sequenceChain": [],

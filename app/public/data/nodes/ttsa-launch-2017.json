@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-d239895358",
@@ -49,7 +48,6 @@
 "edgeLabel": "Seven days from resignation effective date to corporate launch",
 "family": "place-time",
 "id": "elizondo-resignation-letter-1",
-"l0": false,
 "label": "Elizondo Resignation Letter #1, 3 October 2017",
 "note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
 "predicate": "preceded",
@@ -81,7 +79,6 @@
 "edgeLabel": "Public launch and Regulation A+ offering, 11 October 2017",
 "family": "place-time",
 "id": "ttsa",
-"l0": true,
 "label": "To The Stars Academy of Arts & Science Inc. (later To The Stars Inc.)",
 "note": "Seven days after Elizondo's resignation took effect and nine weeks before the NYT story.",
 "predicate": "occurred_at",
@@ -115,10 +112,8 @@
 },
 "hl": null,
 "id": "ttsa-launch-2017",
-"l0": false,
 "label": "To The Stars Academy public launch, 11 October 2017",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "To The Stars Academy public launch, 11 October 2017",
 "sourceFiles": [

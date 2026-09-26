@@ -6,7 +6,6 @@
 "National Security Agency, Office of Policy (Chief, c.1980)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1980-06-01",
@@ -86,7 +85,6 @@
 "edgeLabel": "Chief of NSA's Office of Policy; executed the 1980 in camera affidavit",
 "family": "role",
 "id": "nsa",
-"l0": true,
 "label": "National Security Agency",
 "note": "The Yeates affidavit is the operative document by which a US intelligence agency established in court that it held UFO material it could not describe publicly.",
 "predicate": "held_post",
@@ -113,7 +111,6 @@
 "edgeLabel": "Yeates executed the affidavit as NSA Chief of Policy",
 "family": "documents",
 "id": "yeates-affidavit",
-"l0": false,
 "label": "Yeates Affidavit (NSA, 1980)",
 "note": "The affidavit was submitted for in camera review only; the plaintiffs never saw it and the judge ruled for NSA on its basis.",
 "predicate": "wrote",
@@ -150,11 +147,9 @@
 "hl": null,
 "id": "eugene-yeates",
 "instId": "nsa",
-"l0": false,
 "label": "Eugene F. Yeates",
 "loc": "Fort Meade, MD",
 "locId": "l-ft-meade",
-"members": null,
 "narrative": "Yeates is the man who signed the piece of paper that told a federal judge the United States could not talk about its UFO signals intelligence. In Civil Action No. 80-1562, Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency, NSA located UFO-related records, withheld them, and supported the withholding with a lengthy classified affidavit executed by Yeates as the Agency's Chief of Policy. The district court reviewed it in camera - the judge was cleared to read the explanation the plaintiffs never saw - and ruled for NSA; the D.C. Circuit affirmed on 3 November 1981 and the Supreme Court denied certiorari on 8 March 1982. Years later NSA released the Yeates affidavit itself in redacted form, and it is now in the public UFO release. That document is the single most important artefact of the concealment in this era, because it is an official, sworn, judicially accepted statement that the National Security Agency holds UFO-related communications intelligence whose disclosure would damage national security. The government's position has never been that the records do not exist. Its position has been that they cannot be shown.",
 "photoCredit": null,
 "sequenceChain": [],

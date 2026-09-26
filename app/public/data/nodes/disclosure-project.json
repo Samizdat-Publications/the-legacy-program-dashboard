@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 3,
-"band": "custody",
 "claims": [
 {
 "id": "c-fcaa35d261",
@@ -105,7 +104,6 @@
 "edgeLabel": "The project's own publication",
 "family": "documents",
 "id": "disclosure-project-briefing-2001",
-"l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "It is the Disclosure Project's own April 2001 compilation of witness testimony.",
 "predicate": "published",
@@ -132,7 +130,6 @@
 "edgeLabel": "The Project's own compiled briefing document, April 2001",
 "family": "documents",
 "id": "disclosure-project-briefing-2001",
-"l0": true,
 "label": "Disclosure Project Briefing Document, April 2001",
 "note": "PRODUCER RELATION, TYPED research AND NOT custody. The document is the Project's own publication, named as such on its title page. It is typed research because producing a document is an authorship relation, and because custody is weighted x3.0 as a programme edge on this board and an organisation must not be inflated by an edge to the document it published about itself.",
 "predicate": "published",
@@ -159,7 +156,6 @@
 "edgeLabel": "Podesta's 2002 declassification call followed the Disclosure Project's 2001 press conference",
 "family": "place-time",
 "id": "john-podesta",
-"l0": false,
 "label": "John D. Podesta",
 "note": "Podesta appeared for the Coalition for Freedom of Information at the National Press Club on 22 October 2002, seventeen months after Greer's event in the same venue.",
 "predicate": "responded_to",
@@ -186,7 +182,6 @@
 "edgeLabel": "Disclosure Project witness, testimony taken December 2000",
 "family": "testimony",
 "id": "mark-mccandlish",
-"l0": false,
 "label": "Mark McCandlish",
 "note": "His December 2000 testimony is printed in the project's own April 2001 Briefing Document at section 3.8.5, under the heading 'Testimony of Mr. Mark McCandlish, US Air Force / December 2000'.",
 "predicate": "witnessed",
@@ -213,7 +208,6 @@
 "edgeLabel": "The Project's press conference, 9 May 2001",
 "family": "organisation",
 "id": "national-press-club-2001",
-"l0": true,
 "label": "Disclosure Project press conference, National Press Club, 9 May 2001",
 "note": "Confirmed the same day by ABC News and within weeks by Klass. The event and the Briefing Document are separate nodes on purpose.",
 "predicate": "part_of",
@@ -245,7 +239,6 @@
 "edgeLabel": "Dated published critique of the Project by name, Summer 2001",
 "family": "denial",
 "id": "philip-j-klass",
-"l0": false,
 "label": "Philip J. Klass",
 "note": "Skeptics UFO Newsletter #68, written within weeks of the press conference. Klass declares his own limitation in the same issue: he was refused admission and his account of the event rests on the Project's press releases, its book and broadcast footage. That limitation applies to his reporting of the event and not to the service record he obtained himself.",
 "predicate": "disputed",
@@ -272,7 +265,6 @@
 "edgeLabel": "Greer founded and led the Disclosure Project",
 "family": "role",
 "id": "steven-greer",
-"l0": false,
 "label": "Steven M. Greer",
 "note": "Greer founded CSETI in 1990 and the Disclosure Project in 1993, culminating in the 9 May 2001 National Press Club event.",
 "predicate": "founded",
@@ -299,7 +291,6 @@
 "edgeLabel": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
 "family": "place-time",
 "id": "thomas-wilson",
-"l0": false,
 "label": "Thomas R. Wilson",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
 "predicate": "preceded",
@@ -400,41 +391,8 @@
 },
 "hl": null,
 "id": "disclosure-project",
-"l0": true,
 "label": "The Disclosure Project",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "john-podesta",
-"label": "John D. Podesta",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "mark-mccandlish",
-"label": "Mark McCandlish",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "philip-j-klass",
-"label": "Philip J. Klass",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "steven-greer",
-"label": "Steven M. Greer",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "thomas-wilson",
-"label": "Thomas R. Wilson",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "The Disclosure Project",
 "sourceFiles": [

@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-51c56ff025",
@@ -63,7 +62,6 @@
 "edgeLabel": "Released a less-redacted 1953 Robertson Panel record",
 "family": "documents",
 "id": "pursue-release-03",
-"l0": false,
 "label": "PURSUE Release 03",
 "note": "A version of the Agency's own foundational UAP document less redacted than the one in its public reading room appeared seventy-three years later, by executive direction.",
 "predicate": "released",
@@ -95,7 +93,6 @@
 "edgeLabel": "Released the 1963 Brazil sphere report",
 "family": "denial",
 "id": "pursue-release-05",
-"l0": false,
 "label": "PURSUE Release 05",
 "note": "A CIA report of an alleged November 1963 recovery of a metal sphere with a deceased occupant, deemed unsubstantiated by the American Consulate, appears in Release 05 and not in the Agency's curated collection.",
 "predicate": "omitted",
@@ -134,10 +131,8 @@
 },
 "hl": null,
 "id": "cia-readingroom-ufo",
-"l0": false,
 "label": "CIA FOIA Reading Room - UFO collection",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "CIA FOIA Reading Room - UFO collection",
 "sourceFiles": [

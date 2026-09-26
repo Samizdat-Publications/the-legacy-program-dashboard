@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 0,
-"band": null,
 "claims": [
 {
 "id": "c-883ef79918",
@@ -49,7 +48,6 @@
 "edgeLabel": "DOE weapons laboratory operating under Atomic Energy Act classification authority",
 "family": "organisation",
 "id": "doe",
-"l0": true,
 "label": "United States Department of Energy",
 "note": "Restricted Data classification is statutory rather than executive-order-derived, and is therefore untouched by presidential declassification directives of the kind driving the 2026 PURSUE releases.",
 "predicate": "part_of",
@@ -76,7 +74,6 @@
 "edgeLabel": "DOE/NNSA management and operating contract; Lawrence Livermore",
 "family": "money",
 "id": "doe",
-"l0": true,
 "label": "United States Department of Energy",
 "note": "Livermore is an NNSA weapons laboratory operating under DOE classification authority rather than DoD SAP authority.",
 "predicate": "contracted",
@@ -103,7 +100,6 @@
 "edgeLabel": "Co-founder and director of the Livermore laboratory",
 "family": "role",
 "id": "edward-teller",
-"l0": false,
 "label": "Edward Teller",
 "note": "The scientist present at the first US conference on anomalous objects over nuclear sites went on to found the second weapons design laboratory.",
 "predicate": "founded",
@@ -137,10 +133,8 @@
 },
 "hl": null,
 "id": "llnl",
-"l0": false,
 "label": "Lawrence Livermore National Laboratory",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Lawrence Livermore National Laboratory",
 "sourceFiles": [

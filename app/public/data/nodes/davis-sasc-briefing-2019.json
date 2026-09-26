@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-a716c92bc3",
@@ -61,7 +60,6 @@
 "edgeLabel": "Briefed SASC staff on 21 Oct 2019 and SSCI members on 23 Oct 2019",
 "family": "testimony",
 "id": "eric-davis",
-"l0": false,
 "label": "Eric W. Davis",
 "note": "Davis told The New York Times on the record that he had given classified briefings on retrievals of unexplained objects to both committees within 48 hours.",
 "predicate": "testified_at",
@@ -93,7 +91,6 @@
 "edgeLabel": "Delivered to the SASC professional staff cohort McConnell belonged to",
 "family": "oversight",
 "id": "kirk-mcconnell",
-"l0": false,
 "label": "Kirk McConnell",
 "note": "McConnell was a Senate Armed Services professional staffer working UAP issues in this exact period. Whether he personally attended the 21 October 2019 briefing has never been confirmed by him or by the committee.",
 "predicate": "reports_to",
@@ -132,10 +129,8 @@
 },
 "hl": null,
 "id": "davis-sasc-briefing-2019",
-"l0": false,
 "label": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Eric Davis classified briefings to Senate Armed Services and Senate Intelligence, 21 and 23 October 2019",
 "sourceFiles": [

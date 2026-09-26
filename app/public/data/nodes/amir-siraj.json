@@ -7,7 +7,6 @@
 "The Galileo Project - Interstellar Object Studies branch lead"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2022-11-01",
@@ -90,7 +89,6 @@
 "edgeLabel": "Siraj's interstellar-velocity and seismic localisation determined the search site",
 "family": "place-time",
 "id": "im1-pacific-expedition-2023",
-"l0": false,
 "label": "Galileo Project Pacific Ocean expedition to the CNEOS 2014-01-08 (IM1) site, June-July 2023",
 "note": "The Astrophysical Journal paper of November 2022 identified CNEOS 2014-01-08 as apparently interstellar; the Signals paper of September 2023 localised it seismically. Fernando et al. later attributed that signal to truck traffic.",
 "predicate": "led_to",
@@ -127,11 +125,9 @@
 "hl": null,
 "id": "amir-siraj",
 "instId": "galileo-project",
-"l0": false,
 "label": "Amir Siraj",
 "loc": "Cambridge, MA",
 "locId": "l-cambridge",
-"members": null,
 "narrative": "Siraj is the origin of the IM1 thesis. Working with Loeb, he identified CNEOS 2014-01-08 - a half-metre bolide that entered the atmosphere near Papua New Guinea on 8 January 2014 - as having an apparently interstellar velocity, publishing the argument in The Astrophysical Journal in November 2022 and a seismometer-based localisation in Signals in September 2023. He leads the Galileo Project's Interstellar Object Studies branch, and it was his localisation that determined where the 2023 Pacific expedition dragged its magnetic sled. When Fernando et al. showed in March 2024 that the seismic signal was more consistent with truck traffic than with an ocean impact, it was Siraj's chain of inference that broke, not Loeb's chemistry. That is worth stating precisely, because it is the cleanest published example in this whole domain of a physical-recovery attempt failing on localisation rather than on analysis - and of the failure being established in the ordinary peer-reviewed way, in public, within months.",
 "photoCredit": null,
 "sequenceChain": [],

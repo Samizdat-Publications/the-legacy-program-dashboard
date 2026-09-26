@@ -2,7 +2,6 @@
 "A": 2,
 "C": 2,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-8d1506e27c",
@@ -89,7 +88,6 @@
 "edgeLabel": "Assigned by the Secretary of the Navy to the Special Projects Office, February 1964",
 "family": "organisation",
 "id": "us-navy",
-"l0": true,
 "label": "United States Navy",
 "note": "After the Deep-Submergence Systems Review Group reported in February 1964, the Secretary of the Navy assigned implementation of the programme, renamed DSSP, to the Navy's Special Projects Office; by 1967 it was a separate project within the Naval Material Command, and its project office carried the designator PM-11.",
 "predicate": "part_of",
@@ -123,10 +121,8 @@
 },
 "hl": null,
 "id": "deep-submergence-systems-project",
-"l0": false,
 "label": "Deep Submergence Systems Project (DSSP)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Deep Submergence Systems Project (DSSP)",
 "sourceFiles": [

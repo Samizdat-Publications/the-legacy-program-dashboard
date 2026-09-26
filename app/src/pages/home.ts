@@ -154,7 +154,6 @@ function countsPanel(idx: BoardIndex, claimTotal: number, tf: TopicsFile | null)
     [n(c.edges), 'sourced edges'],
     [n(claimTotal), 'claims · T1 ' + n(c.claims['1'] ?? 0) + ' · T2 ' + n(c.claims['2'] ?? 0) + ' · T3 ' + n(c.claims['3'] ?? 0)],
     [n(c.timeline), 'timeline events'],
-    [n(c.l0), 'nodes on the program map · ' + idx.bands.length + ' bands · ' + idx.eras.length + ' eras'],
     [n(c.threads ?? 0), 'threads'],
     [n(c.patents ?? 0) + ' · ' + n(c.sheets ?? 0), 'Navy patents · drawing sheets'],
     [n(c.foia.requests) + ' · ' + n(c.foia.questions),

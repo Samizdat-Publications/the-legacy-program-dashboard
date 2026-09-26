@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-967967dee9",
@@ -47,7 +46,6 @@
 "edgeLabel": "The claimant's own dated statement of his own claim, late 1981",
 "family": "testimony",
 "id": "dulce-base",
-"l0": false,
 "label": "Dulce Base (alleged facility, Archuleta Mesa, New Mexico)",
 "note": "His roughly five-thousand-word report, read only in two fragments quoted by a 2025 newsletter. The edge records the existence and date of the claimant's own document, which is the anchor discipline this board asks for, and it does not assert the document's contents beyond the fragments read.",
 "predicate": "made_claims_about",
@@ -74,7 +72,6 @@
 "edgeLabel": "Author of the late-1981 report",
 "family": "documents",
 "id": "paul-bennewitz",
-"l0": false,
 "label": "Paul Frederick Bennewitz",
 "note": "Authorship, typed research rather than custody by rule: custody carries a programme weighting and inflating a claimant with it is a defect this board has already had to remove once.",
 "predicate": "wrote",
@@ -108,10 +105,8 @@
 },
 "hl": null,
 "id": "bennewitz-project-beta-1981",
-"l0": false,
 "label": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Bennewitz, 'Project Beta: Summary of Report and Status (With Suggested Guidelines)', late 1981",
 "sourceFiles": [

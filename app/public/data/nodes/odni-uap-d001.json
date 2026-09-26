@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-bbcee28870",
@@ -49,7 +48,6 @@
 "edgeLabel": "ODNI-originated document inside a Department of War release",
 "family": "documents",
 "id": "odni",
-"l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "The ODNI document numbering inside a war.gov tranche is the structural evidence that PURSUE is genuinely interagency rather than departmental.",
 "predicate": "wrote",
@@ -81,7 +79,6 @@
 "edgeLabel": "same originator, two months apart",
 "family": "place-time",
 "id": "odni-memo-es-2026-00818",
-"l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "ODNI put a serving officer's encounter narrative into the PURSUE corpus in May and directed the whole IC to release its UAP holdings to the PURSUE Task Force by August.",
 "predicate": "preceded",
@@ -113,7 +110,6 @@
 "edgeLabel": "Published the serving officer's encounter narrative",
 "family": "documents",
 "id": "pursue-release-02",
-"l0": false,
 "label": "PURSUE Release 02",
 "note": "A serving senior intelligence officer's first-person narrative of a one-hour, multi-witness encounter, published under an ODNI document number five months after the event.",
 "predicate": "released",
@@ -147,10 +143,8 @@
 },
 "hl": null,
 "id": "odni-uap-d001",
-"l0": false,
 "label": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "ODNI-UAP-D001 - serving senior intelligence officer's UAP encounter narrative",
 "sourceFiles": [

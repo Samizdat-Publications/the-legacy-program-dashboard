@@ -4,7 +4,6 @@
 "D": 2,
 "affiliations": [],
 "age": null,
-"band": null,
 "chronology": [],
 "claims": [
 {
@@ -36,7 +35,6 @@
 "edgeLabel": "Witness of record, appearing as Under Secretary of Defense for Intelligence and Security",
 "family": "testimony",
 "id": "hearing-2022-05-17",
-"l0": false,
 "label": "House Intelligence subcommittee hearing, 17 May 2022: 'Unidentified Aerial Phenomena'",
 "note": "A genuine witness appearance in an official capacity, unlike the Herrera edge above, which is a document entered by motion.",
 "predicate": "testified_at",
@@ -70,11 +68,9 @@
 "hl": null,
 "id": "ronald-moultrie",
 "instId": null,
-"l0": false,
 "label": "Ronald S. Moultrie",
 "loc": null,
 "locId": null,
-"members": null,
 "narrative": "Ronald S. Moultrie was the most senior serving official ever to testify in open session on this subject, appearing in his official capacity as Under Secretary of Defense for Intelligence and Security with departmental authority over the office at issue. That is an institutional position inside the question rather than adjacent to it. This node is deliberately incomplete: it carries what the 17 May 2022 transcript establishes and nothing more. His career, tenure dates and subsequent positions have not been researched, and a later pass should treat the node as unfinished rather than as settled.",
 "photoCredit": null,
 "sequenceChain": [],

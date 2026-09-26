@@ -24,10 +24,11 @@ half of the gate and had never been carried to the other.
 
 WHY NOT `git diff -I<regex>`, WHICH LOOKS LIKE THE OBVIOUS FIX.
 
-Because it would silently mask every real change to three of these files.
-`data/l0-model.json`, `data/l0-layout-model.json` and `data/design-extract.json` are
-each a SINGLE LINE. `-I` drops a hunk when every changed line matches the pattern,
-and on a one-line file the only changed line always contains the stamp -- so any
+Because it would silently mask every real change to any single-line artifact.
+`data/l0-model.json`, `data/l0-layout-model.json` and `data/design-extract.json` were
+each a SINGLE LINE until they retired with the L0 map (phase 11, 26 September 2026),
+and any JSON a stage writes without an indent is one line too. `-I` drops a hunk
+when every changed line matches the pattern, and on a one-line file the only changed line always contains the stamp -- so any
 edit anywhere in the file would match and be ignored. A check that cannot fail is
 the thing this repo keeps writing down.
 
@@ -73,8 +74,7 @@ def _git(*args):
 # below -- the comparison itself still walks whatever `git diff` reports, so a
 # file added to the pipeline later is still compared without being listed here.
 BUILT = (
-    "data/the-program.json", "data/l0-model.json", "data/l0-layout-model.json",
-    "data/design-extract.json", "data/foia-links.json", "research/topics/_proposals.json",
+    "data/the-program.json", "data/foia-links.json", "research/topics/_proposals.json",
 )
 
 

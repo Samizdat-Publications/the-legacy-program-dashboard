@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-31d173dad0",
@@ -33,7 +32,6 @@
 "edgeLabel": "Issued by FASAB on 4 October 2018",
 "family": "documents",
 "id": "sffas-56",
-"l0": false,
 "label": "SFFAS 56 - Classified Activities (FASAB, 4 October 2018)",
 "note": "The standard is a FASAB pronouncement, effective for periods beginning after 30 September 2018. Attested by the Statement itself.",
 "predicate": "published",
@@ -60,7 +58,6 @@
 "edgeLabel": "Chairs the Board that owns SFFAS 56 since April 2026",
 "family": "role",
 "id": "terry-patton",
-"l0": false,
 "label": "Terry K. Patton",
 "note": "FASAB's board members page identifies Terry K. Patton as Chair since April 2026. Attested by FASAB.",
 "predicate": "led",
@@ -94,10 +91,8 @@
 },
 "hl": null,
 "id": "fasab",
-"l0": false,
 "label": "Federal Accounting Standards Advisory Board (FASAB)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Federal Accounting Standards Advisory Board (FASAB)",
 "sourceFiles": [

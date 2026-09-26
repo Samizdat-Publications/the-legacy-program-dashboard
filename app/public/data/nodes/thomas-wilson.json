@@ -9,7 +9,6 @@
 "Private defence consulting (post-2002)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1994-01-01",
@@ -90,7 +89,6 @@
 "edgeLabel": "The Wilson notes place Wilson's 1997 inquiry immediately after exposure to Greer's Washington briefings",
 "family": "place-time",
 "id": "disclosure-project",
-"l0": true,
 "label": "The Disclosure Project",
 "note": "The Disclosure Project briefed members of Congress and officials in Washington in April 1997; the notes record Wilson beginning his search for the programme in the same period.",
 "predicate": "preceded",
@@ -122,7 +120,6 @@
 "edgeLabel": "The private two hour conversation of April 1997, as the notes record it",
 "family": "conduct",
 "id": "will-miller",
-"l0": false,
 "label": "Will Miller",
 "note": "The notes record a private two hour conversation between Miller and Wilson in April 1997 and Wilson's later anger that Miller repeated it.",
 "predicate": "in_contact_with",
@@ -149,7 +146,6 @@
 "edgeLabel": "Wilson denies the meeting and the substance attributed to him",
 "family": "denial",
 "id": "wilson-davis-memo",
-"l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
 "predicate": "denied",
@@ -218,11 +214,9 @@
 "hl": null,
 "id": "thomas-wilson",
 "instId": "dia",
-"l0": false,
 "label": "Thomas R. Wilson",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Wilson is the highest-ranking American intelligence officer alleged to have gone looking for the programme and been turned away at the door. His career is not in dispute: Vice Director for Intelligence and then Director of Intelligence (J-2) on the Joint Staff in the mid-1990s, Director of the Defense Intelligence Agency from 1999 to 2002. The Davis notes of 16 October 2002 record him describing an approach in 1997, prompted by information from Steven Greer's briefings and from a Joint Staff colleague, to a special access programme he was told held recovered non-human craft or material in the custody of an aerospace contractor; being granted a meeting with the programme's gatekeepers; and being refused the read-on because he had no need to know, notwithstanding that as J-2 he sat above almost everyone in the defence intelligence structure. Wilson has denied the meeting with Davis and denied the substance. That denial is recorded here as what the board treats it as - an artefact of the denier, made by a named principal, with no supporting documentation released either way. The structural claim in the notes has since been made independently and under oath by David Grusch in July 2023: that legally tasked, appropriately cleared officials are refused access by programme security officers operating through contractor vehicles. Two officials, twenty-one years apart, describing the same refusal mechanism, is not a coincidence a serious board can ignore.",
 "photoCredit": null,
 "sequenceChain": [],

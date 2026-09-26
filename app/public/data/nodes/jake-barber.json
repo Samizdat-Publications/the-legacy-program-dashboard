@@ -7,7 +7,6 @@
 "US military / intelligence (former)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2025-01-30",
@@ -113,7 +112,6 @@
 "edgeLabel": "Michels published Barber's crash-retrieval account",
 "family": "testimony",
 "id": "jesse-michels",
-"l0": false,
 "label": "Jesse Michels",
 "note": "Published 30 January 2025 to 1,010,989 views; Barber, a former intelligence officer, described helicopter-borne retrieval. Barber subsequently spoke at the 2025 Sol Foundation Symposium, moving from independent media into the institutional wing.",
 "predicate": "brought_to_record",
@@ -145,7 +143,6 @@
 "edgeLabel": "Barber spoke at the 2025 Sol Foundation Symposium",
 "family": "media",
 "id": "sol-foundation",
-"l0": true,
 "label": "The Sol Foundation",
 "note": "A whistleblower first platformed by an independent YouTube channel in January 2025 appears on a symposium programme alongside Karl Nell, Jacques Vallee and a retired French general nine months later. The pipeline from independent media to institutional legitimation is short and documented.",
 "predicate": "appeared_on",
@@ -182,11 +179,9 @@
 "hl": null,
 "id": "jake-barber",
 "instId": "skywatcher",
-"l0": false,
 "label": "Jake Barber",
 "loc": "United States",
 "locId": null,
-"members": null,
 "narrative": "Jake Barber is the clearest single illustration of how the modern disclosure pipeline actually works, and he belongs on a media-structure board for that reason as much as for his testimony. A former intelligence officer, he gave his account of helicopter-borne recovery of a craft to Jesse Michels in an exclusive published 30 January 2025, which reached 1,010,989 viewers - an audience no broadcast or print outlet on this beat commands. Ross Coulthart then covered him on NewsNation, where Barber said he would '100% testify' under oath to Congress. Nine months after the Michels episode he was a named speaker at the 2025 Sol Foundation Symposium on Lake Maggiore, sharing a programme with Karl Nell, Jacques Vallee, Garry Nolan and a retired French general. That is the whole route in under a year: independent long-form YouTube, then cable amplification, then academic-institutional legitimation. He is associated with Skywatcher, and his own X account and the Skywatcher accounts were promoted in the Michels episode description.",
 "photoCredit": null,
 "sequenceChain": [],

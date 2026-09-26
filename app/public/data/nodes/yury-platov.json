@@ -7,7 +7,6 @@
 "setka-program"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1978-10-18",
@@ -64,7 +63,6 @@
 "edgeLabel": "chief executive for SETKA-AN at IZMIRAN",
 "family": "role",
 "id": "setka-program",
-"l0": true,
 "label": "SETKA-AN / SETKA-MO (later Galaktika, then Gorizont) - Soviet state anomalous phenomena programme",
 "note": "Designated at the founding meeting of 18 October 1978, with IZMIRAN as lead agency.",
 "predicate": "led",
@@ -101,11 +99,9 @@
 "hl": null,
 "id": "yury-platov",
 "instId": "izmiran",
-"l0": false,
 "label": "Yury Viktorovich Platov",
 "loc": "Moscow, Russia",
 "locId": "l-moscow",
-"members": null,
 "narrative": "Yury Platov of IZMIRAN, the USSR Academy of Sciences Institute of Terrestrial Magnetism and Radio Wave Propagation, was designated chief executive for SETKA-AN at the founding meeting of 18 October 1978 and remained the public scientific face of the Soviet programme. With Vladimir Migulin he published an appeal in the newspaper Nedelya asking members of the public who saw unusual phenomena first to rule out astronomical or familiar objects and then to send descriptions to the Academy's Department of General Physics and Astronomy. With Colonel Boris Sokolov he later co-wrote the 'History of State-directed UFO Research in the USSR', the official retrospective, which sets out the three reasons the programmes were kept secret - their formal status as defence-related activity, the initial assumption of a high probability of military-technical origin, and 'possibilities that in case of successful completion of the raised tasks some of the UFO characteristics could be used for military purposes'. That third reason is the important one: the official Soviet history states in its own words that the programme was concealed partly because its results might be militarily exploitable. Critics of the programme argue that the academic side functioned as a debunking and cover operation for the Ministry of Defence side.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-358c27f510",
@@ -27,7 +26,6 @@
 "edgeLabel": "Galbraith compiled 'The Best Available Evidence'",
 "family": "documents",
 "id": "marie-galbraith",
-"l0": false,
 "label": "Marie 'Bootsie' Galbraith",
 "note": "Compiled with Stanton Friedman and Don Berliner under Rockefeller funding and distributed to legislators, officials and heads of state in 1995.",
 "predicate": "wrote",
@@ -54,7 +52,6 @@
 "edgeLabel": "The briefing document was the initiative's principal instrument",
 "family": "organisation",
 "id": "rockefeller-initiative",
-"l0": false,
 "label": "The Rockefeller UFO Disclosure Initiative",
 "note": "The document was deliberately written as a government-style assessment rather than a popular book.",
 "predicate": "produced",
@@ -93,10 +90,8 @@
 },
 "hl": null,
 "id": "best-available-evidence",
-"l0": false,
 "label": "UFO Briefing Document: The Best Available Evidence (1995)",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "UFO Briefing Document: The Best Available Evidence (1995)",
 "sourceFiles": [

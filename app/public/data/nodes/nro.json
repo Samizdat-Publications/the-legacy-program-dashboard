@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 2,
-"band": "funding",
 "claims": [
 {
 "id": "c-2a32ef084c",
@@ -77,7 +76,6 @@
 "edgeLabel": "Director of the National Reconnaissance Office, sworn in 6 July 2012",
 "family": "role",
 "id": "betty-sapp",
-"l0": false,
 "label": "Betty J. Sapp",
 "note": "Director of the National Reconnaissance Office, sworn in 6 July 2012, per the CRS intelligence-community leadership roster of 19 March 2019.",
 "predicate": "led",
@@ -104,7 +102,6 @@
 "edgeLabel": "The $26.9 billion Other Procurement, Air Force classified line is the historical pass-through",
 "family": "money",
 "id": "classified-programs-line",
-"l0": false,
 "label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
 "note": "FY2026 line 077A carries $26,920,092 thousand in Other Procurement, Air Force, an account long understood by budget analysts to carry national reconnaissance funding that the Air Force does not control. Inference from the size of the line, the account's history, and the Air Force's own repeated public complaints about a pass-through of this magnitude; no document confirms the recipient.",
 "predicate": "funded",
@@ -131,7 +128,6 @@
 "edgeLabel": "Senior Intelligence Officer, NRO, 2016-2021; Director's briefing staff",
 "family": "role",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Grusch's published House Oversight biography places him at the National Reconnaissance Office from April 2016 to November 2021, serving on the NRO Operations Center Director's briefing staff including coordination of the President's Daily Brief. This is the access baseline for everything that follows.",
 "predicate": "held_post",
@@ -158,7 +154,6 @@
 "edgeLabel": "2006 FOIA suit forced release of unclassified NRO budget records",
 "family": "oversight",
 "id": "fas",
-"l0": false,
 "label": "Federation of American Scientists",
 "note": "Aftergood, for FAS, won a FOIA suit against the National Reconnaissance Office securing release of unclassified budget records. Attested by the FAS expert page.",
 "predicate": "requested",
@@ -185,7 +180,6 @@
 "edgeLabel": "Alleges NRO mission support to crash retrieval teams and a NTTR-based team",
 "family": "testimony",
 "id": "gerb-nro-investigation",
-"l0": false,
 "label": "UAP Gerb - National Reconnaissance Office investigation",
 "note": "Gerb alleges direct NRO mission support to legacy crash-retrieval teams and that in the 21st century the NRO spearheaded a retrieval team stationed out of the Nevada Test and Training Range.",
 "predicate": "made_claims_about",
@@ -212,7 +206,6 @@
 "edgeLabel": "NRO headquarters, Westfields, Chantilly",
 "family": "place-time",
 "id": "l-virginia",
-"l0": false,
 "label": "Charlottesville and the Commonwealth of Virginia",
 "note": "Since 1995 the National Reconnaissance Office has occupied a 68-acre compound at the Westfields International Center in Chantilly, Virginia, part of the Northern Virginia intelligence corridor this node stands for.",
 "predicate": "located_at",
@@ -244,7 +237,6 @@
 "edgeLabel": "The NRO ran the DORIAN payload inside the Air Force programme",
 "family": "organisation",
 "id": "manned-orbiting-laboratory",
-"l0": false,
 "label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
 "note": "The NRO ran the DORIAN payload inside the Air Force programme and is the agency that declassified the collection in 2015.",
 "predicate": "ran",
@@ -271,7 +263,6 @@
 "edgeLabel": "Produced no records for the first statutory UAP transfer",
 "family": "denial",
 "id": "nara-uap-collection",
-"l0": true,
 "label": "National Archives Unidentified Anomalous Phenomena Records Collection",
 "note": "NARA's 24 April 2025 release named only ODNI, OSD, the FAA and the Nuclear Regulatory Commission. NRO, which holds documented UAP equity, transferred nothing.",
 "predicate": "omitted",
@@ -298,7 +289,6 @@
 "edgeLabel": "Named contributor to the 2021 ODNI Preliminary Assessment on UAP",
 "family": "oversight",
 "id": "odni",
-"l0": true,
 "label": "Office of the Director of National Intelligence",
 "note": "ODNI's 25 June 2021 assessment names NRO among the contributing elements, establishing that this agency produced or held UAP-relevant reporting.",
 "predicate": "reports_to",
@@ -325,7 +315,6 @@
 "edgeLabel": "directed to release; absent from the statutory archive",
 "family": "denial",
 "id": "odni-memo-es-2026-00818",
-"l0": true,
 "label": "ODNI Memorandum ES 2026-00818 - Preliminary Guidance for Implementation of NDA Waiver",
 "note": "The Director of the National Reconnaissance Office is an addressee of ES 2026-00818; NRO has no RG 615 series, and NRO launches are the setting of Nuccetelli's Vandenberg testimony.",
 "predicate": "refused",
@@ -357,7 +346,6 @@
 "edgeLabel": "CLAIMED ONLY: named as a funder and tasker at slide 70",
 "family": "testimony",
 "id": "tr-3b",
-"l0": true,
 "label": "TR-3B 'Astra', claimed black triangular aircraft",
 "note": "A claim about what Fouche said, not about the agency. 'It is funded and operationally tasked by the National Reconnaissance Office, the NSA, and the CIA.' No record of any kind connecting the NRO to this designation was opened.",
 "predicate": "alleged_tie",
@@ -384,7 +372,6 @@
 "edgeLabel": "NRO seconded a representative to the UAP Task Force",
 "family": "role",
 "id": "uap-task-force",
-"l0": true,
 "label": "Unidentified Aerial Phenomena Task Force (UAPTF)",
 "note": "David Grusch's official House Oversight witness title was 'Former National Reconnaissance Officer Representative, Unidentified Anomalous Phenomena Task Force, Department of Defense'.",
 "predicate": "member_of",
@@ -411,7 +398,6 @@
 "edgeLabel": "Principal Deputy Director, then Acting Director, NRO",
 "family": "role",
 "id": "william-b-adkins",
-"l0": false,
 "label": "William B. Adkins",
 "note": "NRO's official leadership page lists Adkins as 'Acting Director, NRO' and states he 'was appointed Principal Deputy Director, National Reconnaissance Office (PDDNRO), on 12 January 2026,' with 'overall day-to-day management of the NRO.'",
 "predicate": "led",
@@ -628,59 +614,8 @@
 },
 "hl": null,
 "id": "nro",
-"l0": true,
 "label": "National Reconnaissance Office",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "betty-sapp",
-"label": "Betty J. Sapp",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "classified-programs-line",
-"label": "Line item 'CLASSIFIED PROGRAMS' / Program Element 9999999999",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "david-grusch",
-"label": "David Charles Grusch",
-"tier": "A"
-},
-{
-"cls": "institution",
-"id": "fas",
-"label": "Federation of American Scientists",
-"tier": "C"
-},
-{
-"cls": "document",
-"id": "gerb-nro-investigation",
-"label": "UAP Gerb - National Reconnaissance Office investigation",
-"tier": "B"
-},
-{
-"cls": "location",
-"id": "l-virginia",
-"label": "Charlottesville and the Commonwealth of Virginia",
-"tier": "C"
-},
-{
-"cls": "program",
-"id": "manned-orbiting-laboratory",
-"label": "Manned Orbiting Laboratory and the DORIAN / KH-10 reconnaissance payload",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "william-b-adkins",
-"label": "William B. Adkins",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "National Reconnaissance Office",
 "sourceFiles": [

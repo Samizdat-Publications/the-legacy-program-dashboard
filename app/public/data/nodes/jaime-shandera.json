@@ -7,7 +7,6 @@
 "Fair-Witness Project (with William Moore)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1984-12-11",
@@ -59,7 +58,6 @@
 "edgeLabel": "Received the anonymous 35mm film on 11 December 1984",
 "family": "custody",
 "id": "mj-12-documents",
-"l0": false,
 "label": "MJ-12 / Operation Majestic-12 Documents",
 "note": "The film arrived at Shandera's Los Angeles home postmarked Albuquerque, New Mexico - the same city as the AFOSI operation running against Bennewitz.",
 "predicate": "holds",
@@ -91,7 +89,6 @@
 "edgeLabel": "Doty says Shandera was an NIS asset shortly before the MJ-12 dead drop",
 "family": "testimony",
 "id": "naval-criminal-investigative-service",
-"l0": false,
 "label": "Naval Criminal Investigative Service",
 "note": "Richard Doty states that Shandera was an NIS asset on an unrelated operation shortly before the MJ-12 film was dead-dropped, a Tier 2 claim no opened NIS record corroborates.",
 "predicate": "alleged_tie",
@@ -127,11 +124,9 @@
 "hl": null,
 "id": "jaime-shandera",
 "instId": null,
-"l0": false,
 "label": "Jaime H. Shandera",
 "loc": "Burbank, CA",
 "locId": "l-la",
-"members": null,
 "narrative": "Shandera was a Los Angeles television producer working with Bill Moore when, on 11 December 1984, an unmarked envelope postmarked Albuquerque arrived at his home containing a roll of undeveloped 35mm black-and-white film. Developed, it showed eight pages: a briefing document dated 18 November 1952 prepared for President-elect Eisenhower on 'Operation Majestic-12,' listing twelve named officials and describing the recovery of a crashed disc and four bodies near Roswell. The Albuquerque postmark is the detail that will not go away - it points at the same city and the same window as the AFOSI Kirtland operation against Bennewitz. Shandera, Moore and Stanton Friedman held the material for two and a half years, made a National Archives search that produced the Cutler-Twining memorandum in 1985, and released the package publicly in May 1987. Shandera died in 2019. His role is that of the receiving end of a channel: whoever sent that film chose a producer with a documented connection to a researcher with a documented connection to AFOSI.",
 "photoCredit": null,
 "sequenceChain": [],

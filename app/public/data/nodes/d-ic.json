@@ -3,7 +3,6 @@
 "C": 2,
 "D": 2,
 "absorbedBy": "nsc-spine",
-"band": null,
 "claims": [
 {
 "id": "c-d0b49eaa86",
@@ -70,7 +69,6 @@
 "edgeLabel": "CIA convened the panel that recommended debunking",
 "family": "analysis",
 "id": "d-coverup",
-"l0": false,
 "label": "The Cover-Up",
 "note": "The Robertson Panel was convened by CIA's Office of Scientific Intelligence, placing the recommendation inside the intelligence community rather than the Air Force.",
 "predicate": "affects",
@@ -97,7 +95,6 @@
 "edgeLabel": "Elements and tradecraft",
 "family": "analysis",
 "id": "d-intel",
-"l0": false,
 "label": "Intelligence Tradecraft & Analysis",
 "note": "The federated IC structure determines which element collects and analyses, and the seams between elements are where an activity can be nobody's to report.",
 "predicate": "affects",
@@ -131,10 +128,8 @@
 },
 "hl": null,
 "id": "d-ic",
-"l0": false,
 "label": "Intelligence Community",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Intelligence Community",
 "sourceFiles": [

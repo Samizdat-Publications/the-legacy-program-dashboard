@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-3ec282cfc2",
@@ -35,7 +34,6 @@
 "edgeLabel": "would abolish AARO outright and bar any successor entity",
 "family": "law",
 "id": "aaro",
-"l0": true,
 "label": "All-domain Anomaly Resolution Office (AARO)",
 "note": "The terminal congressional judgement that a centralised UAP office inside the Department is a mechanism of concealment rather than a remedy for it.",
 "predicate": "governs",
@@ -62,7 +60,6 @@
 "edgeLabel": "recommended AARO's complete defunding to the DOGE subcommittee in March 2026, weeks before the bill",
 "family": "analysis",
 "id": "anna-paulina-luna",
-"l0": false,
 "label": "Anna Paulina Luna",
 "note": "Luna's defunding recommendation and Burchett's abolition bill are the same judgement expressed through appropriations and authorisation respectively.",
 "predicate": "parallels",
@@ -89,7 +86,6 @@
 "edgeLabel": "introduced the bill to abolish AARO, 6 April 2026",
 "family": "law",
 "id": "tim-burchett",
-"l0": false,
 "label": "Timothy Floyd Burchett",
 "note": "Four pages; abolishes the office, bars any successor, redistributes functions to the military departments, repeals the enabling statutes. Referred to HASC and HPSCI.",
 "predicate": "sponsored_law",
@@ -123,10 +119,8 @@
 },
 "hl": null,
 "id": "hr-8197",
-"l0": false,
 "label": "H.R. 8197 (119th Congress) - bill to abolish AARO",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "H.R. 8197 (119th Congress) - bill to abolish AARO",
 "sourceFiles": [

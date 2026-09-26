@@ -8,7 +8,6 @@
 "US-China Economic and Security Review Commission (2000s)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "1991",
@@ -71,7 +70,6 @@
 "edgeLabel": "D'Amato's Senate inquiry reached EG&G and stopped there",
 "family": "oversight",
 "id": "eg-and-g",
-"l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "Knapp arranged, with EG&G co-founder Herbert Grier's blessing, a meeting between D'Amato and Al O'Donnell; O'Donnell said nothing. D'Amato reported to the Senator that the allegations did not merit further investigation.",
 "predicate": "investigated",
@@ -98,7 +96,6 @@
 "edgeLabel": "D'Amato is reported to have judged a private-company cover-up 'entirely feasible'",
 "family": "testimony",
 "id": "lockheed-martin",
-"l0": true,
 "label": "Lockheed Martin Corporation",
 "note": "Knapp attributes to D'Amato the conclusion that the cover-up could feasibly exist within a private company such as Lockheed Martin, EG&G or Northrop Grumman. D'Amato's own public statement records no opinion and treats the inquiry as closed.",
 "predicate": "alleged_tie",
@@ -141,11 +138,9 @@
 "hl": null,
 "id": "richard-damato",
 "instId": null,
-"l0": false,
 "label": "Richard D'Amato",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "D'Amato is the first documented attempt by the legislative branch to audit the contractor-custody allegation, and the template for every failure since. As a staffer to Senate Democratic Leader Robert C. Byrd - chairman of the Appropriations Committee - his portfolio covered the DoD budget and the National Foreign Intelligence Program, which meant special access program oversight. In the early 1990s a senior committee chairman asked him to conduct a preliminary inquiry into allegations of unidentified aerial crashes in 1940s New Mexico. He interviewed witnesses, visited the Nevada facility, and reported back that the basis for the allegations did not merit further Senate investigation. His public statement is terse and closed: 'I have no personal opinion on the matter and consider the inquiry to have been closed for over 20 years.' But according to George Knapp, D'Amato privately concluded it was 'entirely feasible, that this UFO cover-up exists within a private company' - naming Lockheed Martin, EG&G or Northrop Grumman as the kind of company he meant. The structural lesson is the one that recurs: an investigator with appropriations jurisdiction, sent to look, found that the relevant knowledge sat with a corporation rather than an agency, and that his subpoena power over an agency did not reach it. The witness he most needed - Al O'Donnell - said nothing when they met.",
 "photoCredit": null,
 "sequenceChain": [],

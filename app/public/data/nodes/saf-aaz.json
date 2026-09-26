@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 0,
-"band": null,
 "boardNote": "Referenced by the board but no dossier written yet. This node exists so the graph resolves and so the gap is visible rather than silent — see the wave-3 queue.",
 "claims": [
 {
@@ -98,7 +97,6 @@
 "edgeLabel": "Air Force SAP Central Office subordinate to DoD SAPCO approval authority",
 "family": "organisation",
 "id": "dod",
-"l0": true,
 "label": "United States Department of Defense (secondary designation: Department of War)",
 "note": "SAF/AAZ is the Air Force Special Access Program Central Office. Under AFPD 16-7 it administers Air Force SAPs on behalf of the Secretary of the Air Force while release of SAP material outside the department requires DoD SAPCO approval, placing SAF/AAZ inside the OSD-level special access architecture.",
 "predicate": "part_of",
@@ -135,7 +133,6 @@
 "edgeLabel": "Air Force SAP directive bars congressional briefings without SAPCO approval",
 "family": "law",
 "id": "us-house",
-"l0": true,
 "label": "United States House of Representatives",
 "note": "Air Force Policy Directive 16-7, 'Special Access Programs,' 29 December 2010, states: 'It is strictly forbidden for any employee of the Air Force or any appropriately accessed organization or company to brief or provide SAP material to any Congressional Member or staff without DoD SAPCO approval. Additionally, the Director, SAF/AAZ will be kept informed of any interaction with Congress.' This is the documented mechanism behind the recurring complaint that SAP-compartmented material cannot reach non-HASC/HAC-D members.",
 "predicate": "governs",
@@ -179,10 +176,8 @@
 },
 "hl": null,
 "id": "saf-aaz",
-"l0": false,
 "label": "SAF/AAZ - Air Force Declassification & Special Programs",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "SAF/AAZ - Air Force Declassification & Special Programs",
 "sourceFiles": [

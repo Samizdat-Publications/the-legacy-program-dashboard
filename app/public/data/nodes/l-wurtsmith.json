@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 1,
-"band": null,
 "claims": [
 {
 "id": "c-1c68ebc230",
@@ -99,7 +98,6 @@
 "edgeLabel": "Written at Wurtsmith AFB by the 379th Bombardment Wing historian",
 "family": "place-time",
 "id": "doc-wurtsmith-historian-1979",
-"l0": false,
 "label": "379th Bomb Wing historian's file on the Wurtsmith incursion, 17 to 18 January 1979",
 "note": "The wing and the base are named in the documents themselves.",
 "predicate": "located_at",
@@ -126,7 +124,6 @@
 "edgeLabel": "SAC installation; 379th Bombardment Wing",
 "family": "organisation",
 "id": "strategic-air-command",
-"l0": true,
 "label": "Strategic Air Command (SAC)",
 "note": "The NORAD log records the object over the SAC weapons storage area; the 379th Bombardment Wing historian's 1979 file is the wing's own record of the omission.",
 "predicate": "part_of",
@@ -158,7 +155,6 @@
 "edgeLabel": "The incursion was over this installation's weapons storage area",
 "family": "place-time",
 "id": "wurtsmith-1975",
-"l0": false,
 "label": "Wurtsmith AFB incursion, 30 October 1975",
 "note": "The NORAD Senior Director's Log names Wurtsmith AFB weapons storage area.",
 "predicate": "occurred_at",
@@ -197,10 +193,8 @@
 },
 "hl": null,
 "id": "l-wurtsmith",
-"l0": false,
 "label": "Wurtsmith AFB, Michigan",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Wurtsmith AFB, Michigan",
 "sourceFiles": [

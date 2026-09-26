@@ -2,7 +2,6 @@
 "A": 3,
 "C": 3,
 "D": 3,
-"band": "reverse-engineering",
 "claims": [
 {
 "id": "c-14000c4c9a",
@@ -99,7 +98,6 @@
 "edgeLabel": "AARO's 2024 review does not mention the Wilson-Davis notes or Admiral Wilson",
 "family": "denial",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "The most specific custody allegation in the modern record, whose author and subject are both alive and identifiable, is absent from the government's historical review.",
 "predicate": "omitted",
@@ -131,7 +129,6 @@
 "edgeLabel": "AARO's report independently catalogues the same structural allegation the memo describes",
 "family": "testimony",
 "id": "aaro-historical-record-vol1",
-"l0": true,
 "label": "AARO Report on the Historical Record of U.S. Government Involvement with UAP, Volume I",
 "note": "AARO records a senior military officer describing a craft floating in a building with roughly 150 people working on it, in a program kept 'outside of government so the technology could remain proprietary' - the memo's central claim, restated in a DoD publication.",
 "predicate": "corroborated",
@@ -158,7 +155,6 @@
 "edgeLabel": "The 2002 notes and the 2023 sworn testimony describe the same access-denial mechanism",
 "family": "analysis",
 "id": "david-grusch",
-"l0": false,
 "label": "David Charles Grusch",
 "note": "Both describe an appropriately cleared official being refused a read-on by programme security officers and contractor gatekeepers on need-to-know grounds. Twenty-one years apart, two officials describe the same wall.",
 "predicate": "parallels",
@@ -190,7 +186,6 @@
 "edgeLabel": "The meeting is reported to have taken place at an EG&G facility in Las Vegas",
 "family": "place-time",
 "id": "eg-and-g",
-"l0": true,
 "label": "EG&G (Edgerton, Germeshausen and Grier)",
 "note": "EG&G held the Groom Lake support and personnel-transport contracts; the reported venue matters because it places the conversation inside the contractor perimeter it describes.",
 "predicate": "located_at",
@@ -217,7 +212,6 @@
 "edgeLabel": "Author of record of the notes of the alleged 16 October 2002 Wilson meeting",
 "family": "documents",
 "id": "eric-davis",
-"l0": false,
 "label": "Eric W. Davis",
 "note": "Notes attributed to Davis describing a meeting with former DIA director Vice Adm. Thomas R. Wilson surfaced in 2019 among the estate papers of Edgar Mitchell. Provenance is a private estate, not a government release; Davis has not publicly repudiated authorship.",
 "predicate": "wrote",
@@ -244,7 +238,6 @@
 "edgeLabel": "author of the notes at the centre of the custody claim",
 "family": "documents",
 "id": "eric-davis",
-"l0": false,
 "label": "Eric W. Davis",
 "note": "The memo records Vice Adm. Thomas Wilson being refused access to a program holding a recovered craft on the ground that it sat with a private aerospace contractor and he had no need to know. Davis has never authenticated it; Wilson has denied the meeting.",
 "predicate": "wrote",
@@ -286,7 +279,6 @@
 "edgeLabel": "Dedicated chapter on the Wilson-Davis memo with Davis present",
 "family": "media",
 "id": "jesse-michels",
-"l0": false,
 "label": "Jesse Michels",
 "note": "Chapter at 37:56 of the 8 March 2026 episode, with the memo's named author-participant in the room - the closest to a primary-source interrogation of that document yet conducted in public.",
 "predicate": "reported_on",
@@ -313,7 +305,6 @@
 "edgeLabel": "The memo pages entered public circulation from Green's document holdings",
 "family": "custody",
 "id": "kit-green",
-"l0": false,
 "label": "Christopher C. 'Kit' Green",
 "note": "Green has acknowledged that documents left his possession without vouching for their contents; the provenance chain between 2002 and 2019 has never been established.",
 "predicate": "holds",
@@ -345,7 +336,6 @@
 "edgeLabel": "Wilson denies the meeting and the substance attributed to him",
 "family": "denial",
 "id": "thomas-wilson",
-"l0": false,
 "label": "Thomas R. Wilson",
 "note": "Wilson's denial is recorded as a primary artefact. It is irreconcilable with Davis's confirmation of authorship, and no agency has attempted to resolve it.",
 "predicate": "denied",
@@ -372,7 +362,6 @@
 "edgeLabel": "Named on six of the fifteen pages; his own signed letter is two of them",
 "family": "testimony",
 "id": "will-miller",
-"l0": false,
 "label": "Will Miller",
 "note": "Miller is named on six of the notes' fifteen pages and his own signed letter is bound in as two of them.",
 "predicate": "witnessed",
@@ -595,49 +584,10 @@
 },
 "hl": 11,
 "id": "wilson-davis-memo",
-"l0": true,
 "label": "The Wilson-Davis Notes (16 October 2002)",
 "locLabel": null,
-"members": [
-{
-"cls": "person",
-"id": "david-grusch",
-"label": "David Charles Grusch",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "eric-davis",
-"label": "Eric W. Davis",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "jesse-michels",
-"label": "Jesse Michels",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "kit-green",
-"label": "Christopher C. 'Kit' Green",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "thomas-wilson",
-"label": "Thomas R. Wilson",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "will-miller",
-"label": "Will Miller",
-"tier": "C"
-}
-],
 "openQuestions": [],
-"short": "The Wilson-Davis Notes",
+"short": "The Wilson-Davis Notes (16 October 2002)",
 "sourceFiles": [
 "_rs-archive-mirror",
 "history-1970s-2000s"

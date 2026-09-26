@@ -2,7 +2,6 @@
 "A": 2,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-8cb31106c6",
@@ -33,7 +32,6 @@
 "edgeLabel": "Submitted to his supervising official, hand-delivered",
 "family": "oversight",
 "id": "john-garrity",
-"l0": false,
 "label": "John Garrity",
 "note": "Elizondo's attorney Todd McMurtry confirmed the letter was hand-delivered rather than routed through standard channels; The Black Vault identifies the recipient as John Garrity.",
 "predicate": "reports_to",
@@ -60,7 +58,6 @@
 "edgeLabel": "Author, 3 October 2017",
 "family": "documents",
 "id": "luis-elizondo",
-"l0": false,
 "label": "Luis D. Elizondo",
 "note": "Establishes his exact title and departure date in his own words on Departmental paper.",
 "predicate": "wrote",
@@ -87,7 +84,6 @@
 "edgeLabel": "Seven days from resignation effective date to corporate launch",
 "family": "place-time",
 "id": "ttsa-launch-2017",
-"l0": false,
 "label": "To The Stars Academy public launch, 11 October 2017",
 "note": "The interval is short enough that the corporate vehicle must have been assembled before the departure. This is inference from dates, not from any document stating intent.",
 "predicate": "preceded",
@@ -126,10 +122,8 @@
 },
 "hl": null,
 "id": "elizondo-resignation-letter-1",
-"l0": false,
 "label": "Elizondo Resignation Letter #1, 3 October 2017",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Elizondo Resignation Letter #1, 3 October 2017",
 "sourceFiles": [

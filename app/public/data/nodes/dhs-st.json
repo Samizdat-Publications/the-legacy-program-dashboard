@@ -2,7 +2,6 @@
 "A": 3,
 "C": 2,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-8e1531fe2f",
@@ -55,7 +54,6 @@
 "edgeLabel": "Science and Technology Directorate is the DHS R&D component",
 "family": "organisation",
 "id": "dhs",
-"l0": false,
 "label": "United States Department of Homeland Security",
 "note": "The Under Secretary for Science and Technology is a DHS component head; the KONA BLUE paper identifies that office as the one that established the prospective program.",
 "predicate": "part_of",
@@ -82,7 +80,6 @@
 "edgeLabel": "DHS Under Secretary for S&T established KONA BLUE as a Prospective SAP in 2011",
 "family": "role",
 "id": "kona-blue",
-"l0": true,
 "label": "KONA BLUE",
 "note": "'In 2011 the DHS Under Secretary for Science and Technology (S&T) established KONA BLUE as a PSAP' - the government's own words in the joint AARO/DHS paper.",
 "predicate": "founded",
@@ -116,10 +113,8 @@
 },
 "hl": null,
 "id": "dhs-st",
-"l0": false,
 "label": "DHS Science and Technology Directorate",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "DHS Science and Technology Directorate",
 "sourceFiles": [

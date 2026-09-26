@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 2,
-"band": "funding",
 "claims": [
 {
 "id": "c-d12d404431",
@@ -153,7 +152,6 @@
 "edgeLabel": "RAND invented the institutional form the whole domain rests on",
 "family": "analysis",
 "id": "d-ffrdc",
-"l0": false,
 "label": "The FFRDC Seam",
 "note": "Incorporated 1948 out of Project RAND inside Douglas Aircraft; now operates four FFRDCs for the Air Force, Army, OSD and DHS.",
 "predicate": "exemplifies",
@@ -180,7 +178,6 @@
 "edgeLabel": "Named as a target of his records investigation",
 "family": "oversight",
 "id": "eric-burlison",
-"l0": false,
 "label": "Eric Burlison",
 "note": "Burlison: 'my investigation is following the trail into RAND, MITRE, Aerospace Corp, MIT Lincoln Labs, and the Northrop Grummans of the world.' No letter to RAND has been made public.",
 "predicate": "investigated",
@@ -212,7 +209,6 @@
 "edgeLabel": "Published Kocher's 'UFOs: What To Do?' as DRU-1571, November 1968",
 "family": "conduct",
 "id": "george-kocher",
-"l0": false,
 "label": "George Kocher",
 "note": "Issued two months before the Condon Committee report told the public the subject was closed; RAND has never withdrawn it.",
 "predicate": "supported",
@@ -239,7 +235,6 @@
 "edgeLabel": "MITRE founded as the Air Force's successor to RAND",
 "family": "documents",
 "id": "gerb-mitre-investigation",
-"l0": true,
 "label": "UAP Gerb - The MITRE Corporation investigation",
 "note": "The investigation restates the documented history that MITRE was established in 1958 as the Air Force's spiritual successor to RAND, tasked with systems engineering for SAGE.",
 "predicate": "concerns",
@@ -266,7 +261,6 @@
 "edgeLabel": "President and CEO, arriving from IARPA and the White House OSTP",
 "family": "role",
 "id": "jason-matheny",
-"l0": false,
 "label": "Jason Matheny",
 "note": "Another instance of the pattern: the person setting a nominally independent FFRDC operator's research agenda previously ran the Intelligence Community's research arm.",
 "predicate": "led",
@@ -293,7 +287,6 @@
 "edgeLabel": "RAND headquarters since its 1948 formation",
 "family": "place-time",
 "id": "l-santa-monica",
-"l0": false,
 "label": "Santa Monica, California",
 "note": "The NSF master list registers Project AIR FORCE, the Arroyo Center and the National Defense Research Institute at Santa Monica, California - three of RAND's four FFRDCs, the fourth being the Homeland Security Operational Analysis Center at Arlington, Virginia. This is where the contractor-operated analytical institution was invented.",
 "predicate": "located_at",
@@ -330,7 +323,6 @@
 "edgeLabel": "MITRE was created on the RAND model as the Air Force's systems engineering counterpart",
 "family": "analysis",
 "id": "mitre-corporation",
-"l0": true,
 "label": "The MITRE Corporation",
 "note": "RAND, incorporated 1948 out of Project RAND, established the permanent contractor-operated analytical partner form; the Air Force replicated it for systems engineering in 1958.",
 "predicate": "parallels",
@@ -362,7 +354,6 @@
 "edgeLabel": "Doctorate from the RAND Graduate School",
 "family": "other",
 "id": "samantha-ravich",
-"l0": false,
 "label": "Samantha F. Ravich",
 "note": "Another instance of FFRDC-operator interlock: a MITRE trustee credentialed by RAND and serving on Idaho National Laboratory's national security advisory committee.",
 "predicate": "connected_to",
@@ -517,47 +508,8 @@
 },
 "hl": null,
 "id": "rand-corporation",
-"l0": true,
 "label": "RAND Corporation",
 "locLabel": null,
-"members": [
-{
-"cls": "domain",
-"id": "d-ffrdc",
-"label": "The FFRDC Seam",
-"tier": "B"
-},
-{
-"cls": "person",
-"id": "eric-burlison",
-"label": "Eric Burlison",
-"tier": "A"
-},
-{
-"cls": "person",
-"id": "george-kocher",
-"label": "George Kocher",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "jason-matheny",
-"label": "Jason Matheny",
-"tier": "C"
-},
-{
-"cls": "location",
-"id": "l-santa-monica",
-"label": "Santa Monica, California",
-"tier": "C"
-},
-{
-"cls": "person",
-"id": "samantha-ravich",
-"label": "Samantha F. Ravich",
-"tier": "C"
-}
-],
 "openQuestions": [],
 "short": "RAND Corporation",
 "sourceFiles": [

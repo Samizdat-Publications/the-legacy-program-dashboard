@@ -2,7 +2,6 @@
 "A": 0,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-9adf323e4b",
@@ -61,7 +60,6 @@
 "edgeLabel": "FUFOR co-authored the report against its own first-hand witness",
 "family": "denial",
 "id": "gerald-anderson",
-"l0": false,
 "label": "Gerald Anderson",
 "note": "Fred Whiting for FUFOR with Mark Rodeghier for CUFOS. Cited at note 123 of the 1997 Air Force report.",
 "predicate": "disputed",
@@ -88,7 +86,6 @@
 "edgeLabel": "FUFOR funded Stringfield's later Status Reports",
 "family": "money",
 "id": "leonard-stringfield",
-"l0": false,
 "label": "Leonard H. Stringfield",
 "note": "Stringfield names the Fund for UFO Research first in the Status Report VII acknowledgements, thanking it for past funding.",
 "predicate": "funded",
@@ -122,10 +119,8 @@
 },
 "hl": null,
 "id": "fund-for-ufo-research",
-"l0": false,
 "label": "Fund for UFO Research",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Fund for UFO Research",
 "sourceFiles": [

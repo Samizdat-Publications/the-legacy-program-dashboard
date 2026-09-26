@@ -8,7 +8,6 @@
 "Director of National Intelligence (2010-2017)"
 ],
 "age": null,
-"band": null,
 "chronology": [
 {
 "date": "2007-04-11",
@@ -77,7 +76,6 @@
 "edgeLabel": "USD(I) recommends against establishing a SAP",
 "family": "denial",
 "id": "depsecdef-sap-packet-2009",
-"l0": false,
 "label": "Final Packet Presented to the Deputy Secretary of Defense on the SAP Request",
 "note": "Clapper's recommendation is the decision that severed the Reid appropriation from any compartmented protection; he became DNI nine months later.",
 "predicate": "refused",
@@ -104,7 +102,6 @@
 "edgeLabel": "Clapper led the programme in the 1990s before becoming DNI",
 "family": "role",
 "id": "stargate-program",
-"l0": true,
 "label": "STAR GATE and predecessor remote viewing programs, 1970-1995",
 "note": "Clapper is recorded as a project leader in the 1990s; he later served as Director of National Intelligence.",
 "predicate": "led",
@@ -131,7 +128,6 @@
 "edgeLabel": "USD(I) recommendation against SAP status for the AAWSAP effort, November 2009",
 "family": "denial",
 "id": "waived-usap",
-"l0": true,
 "label": "Waived unacknowledged special access program (waived USAP)",
 "note": "Clapper as Under Secretary of Defense for Intelligence recommended against establishing a special access program in response to Senator Reid's June 2009 request. The refusal is the documented instance of the SAP decision being made against, not for, concealment.",
 "predicate": "refused",
@@ -230,11 +226,9 @@
 "hl": null,
 "id": "james-clapper",
 "instId": "ousdi",
-"l0": false,
 "label": "James R. Clapper Jr.",
 "loc": "Washington, DC",
 "locId": "l-dc",
-"members": null,
 "narrative": "Clapper is the official who killed the Reid SAP request, and the fact that this decision sat with him rather than with DIA alone is the most underused fact in the AAWSAP record. The final packet presented to Deputy Secretary of Defense William Lynn III on 17 November 2009 carries Clapper, as Under Secretary of Defense for Intelligence, recommending against establishing a Special Access Program at that time, on the stated basis that the FY09 deliverables and anticipated FY10 work did not justify it. Seven months later he became Director of National Intelligence, a post he held until January 2017 — meaning the man who signed off on refusing SAP protection to the UAP program then ran the entire intelligence community through the period in which, per the whistleblower record, the recovery and reverse-engineering effort was being kept outside congressional reporting. Clapper has spoken publicly about UAP since 2017 in general terms and has never been asked on the record about the memorandum bearing his recommendation. The board records this as a decision node: a USD(I) told a Deputy Secretary that the deliverables from a program the Senate Majority Leader wanted compartmented were not sensitive enough to compartment.",
 "photoCredit": null,
 "sequenceChain": [],

@@ -3,7 +3,6 @@
 "C": 3,
 "D": 2,
 "absorbedBy": "biology-medical",
-"band": null,
 "claims": [
 {
 "id": "c-ba504fadba",
@@ -50,7 +49,6 @@
 "edgeLabel": "Biologics claim and documented injury record",
 "family": "analysis",
 "id": "d-medical",
-"l0": false,
 "label": "Medical & Injury Effects",
 "note": "The bio claim has no released material; the medical domain has DIRD 26 and the Cash-Landrum clinical record, which is the auditable end of the same question.",
 "predicate": "parallels",
@@ -77,7 +75,6 @@
 "edgeLabel": "subject domain: implantable biosensors and neuro-interface",
 "family": "analysis",
 "id": "dird-biosensors-and-biomems-a-survey-of",
-"l0": false,
 "label": "Biosensors and BioMEMS: A Survey of the Present Field",
 "note": "The contents cover brain-implanted BioMEMS micromachine neuroelectrodes, implantable sensors, microelectrode array fabrication, brain-machine interfaces, polymer BioMEMS electrodes, retinal devices and microscale therapeutic neurostimulation. This is the human-effects and human-interface leg of the AAWSAP survey, alongside Kit Green's field-effects paper and Richard Genik's three neuro deliverables.",
 "predicate": "exemplifies",
@@ -109,7 +106,6 @@
 "edgeLabel": "subject domain: cognitive load limits on multi-vehicle control",
 "family": "analysis",
 "id": "dird-cognitive-limits-on-simultaneous-control-of",
-"l0": false,
 "label": "Cognitive Limits on Simultaneous Control of Multiple Unmanned Spacecraft",
 "note": "The commissioned question is how many unmanned vehicles a single human operator can control simultaneously - the human-factors constraint that would bound any swarming or multi-object control architecture. It forms a set with Genik's other two deliverables on limb-free control of external devices and on organic-molecule automation.",
 "predicate": "exemplifies",
@@ -153,10 +149,8 @@
 },
 "hl": null,
 "id": "d-bio",
-"l0": false,
 "label": "Biology & Non-Human Biologics",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Biology & Non-Human Biologics",
 "sourceFiles": [

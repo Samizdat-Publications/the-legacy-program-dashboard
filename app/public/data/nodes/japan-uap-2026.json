@@ -2,7 +2,6 @@
 "A": 1,
 "C": 0,
 "D": 2,
-"band": null,
 "claims": [
 {
 "id": "c-ade42be27b",
@@ -55,7 +54,6 @@
 "edgeLabel": "both are allied-state responses to the same May 2026 US release",
 "family": "analysis",
 "id": "ev-argentina-bariloche-1995",
-"l0": false,
 "label": "Aerolíneas Argentinas flight AR 674, San Carlos de Bariloche, 31 July 1995",
 "note": "The 8 May 2026 US release of more than 160 files produced within days an Argentine national story and a Japanese government review.",
 "predicate": "parallels",
@@ -94,10 +92,8 @@
 },
 "hl": null,
 "id": "japan-uap-2026",
-"l0": false,
 "label": "Japan's review of the 2026 US UAP file releases",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "Japan's review of the 2026 US UAP file releases",
 "sourceFiles": [

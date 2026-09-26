@@ -2,7 +2,6 @@
 "A": 3,
 "C": 1,
 "D": 3,
-"band": null,
 "claims": [
 {
 "id": "c-deb08bc110",
@@ -43,7 +42,6 @@
 "edgeLabel": "published as DOW-UAP-D098",
 "family": "documents",
 "id": "pursue-r05-identifiers",
-"l0": false,
 "label": "PURSUE Release 05 file identifiers (7 August 2026)",
 "note": "The 1953 analysis of the Montana and Utah film cases carries the identifier DOW-UAP-D098 in the fifth tranche.",
 "predicate": "concerns",
@@ -70,7 +68,6 @@
 "edgeLabel": "Released the 1953 Navy photo-interpretation finding",
 "family": "documents",
 "id": "pursue-release-05",
-"l0": false,
 "label": "PURSUE Release 05",
 "note": "The Navy Photographic Interpretation Center's assessment that the Tremonton objects were self-luminous and intelligently controlled surfaced publicly for the first time in this tranche.",
 "predicate": "released",
@@ -102,7 +99,6 @@
 "edgeLabel": "Contradicts the panel's 1953 disposition of the same films",
 "family": "testimony",
 "id": "robertson-panel",
-"l0": true,
 "label": "Robertson Panel",
 "note": "The Navy's own analysts assessed the Great Falls and Tremonton objects as intelligently controlled and not known technology in the same year the Robertson Panel recommended stripping the subject of special status.",
 "predicate": "contradicts",
@@ -141,10 +137,8 @@
 },
 "hl": null,
 "id": "navy-pic-1953-film-analysis",
-"l0": false,
 "label": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "locLabel": null,
-"members": null,
 "openQuestions": [],
 "short": "1953 Navy Photographic Interpretation Center analysis of the Great Falls and Tremonton films",
 "sourceFiles": [
