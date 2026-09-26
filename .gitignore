@@ -41,3 +41,6 @@ app/.vite/
 
 # worker/test/validate.mjs bundles the worker here so the SDK resolves
 worker/.validate-build.mjs
+
+# screenshots from tools/look.js (dist/shots, dist/critic): never committed
+/dist/

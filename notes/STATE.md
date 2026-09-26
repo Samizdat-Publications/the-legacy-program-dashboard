@@ -4,18 +4,35 @@
 session: where does the repo stand, and what do I do now? History lives in the dated handoffs and in
 `notes/HISTORY-TO-2026-09-24.md`.
 
-**Updated:** 25 September 2026, by the overnight session (Opus 5.5, high), after phase 4.
+**Updated:** 25 September 2026, by the overnight session (Opus 5.5, high), after phase 5 and P5b.
 
 | | |
 |---|---|
-| **Next phase** | **Phase 5: drafting the topics.** WAITING ON STEWART for two things: his read of the draft topic table (`notes/plans/P4-topic-table.md`: 93 topics in 10 sections, drafted at high effort, not max; edit any line) and his OK for the drafting fan-out (about 10 Opus drafters and 3 verifiers), because the weekly limit stood at 61% with six days left when phase 4 finished. Phase 5's task 1 (the topic checks) needs no fan-out and can start without either |
-| After that | phase 6 (the Atlas and topic pages; merged only after Stewart's look on the review site), then 7 to 12 |
-| Master | phases 1 to 4 merged |
+| **Next phase** | **Phase 6: the Atlas, topic pages, the front door.** Detailed plan: `notes/plans/P6-atlas-and-topic-pages.md`. Stewart (25 September 2026) asked for the redesign to run to the end autonomously and will review at the end, so phase 6 merges on a green gate plus the blind critic's rounds rather than waiting for his look |
+| After that | phases 7 to 12, then phase R (its first queue: `notes/plans/P5-research-queue.md`) |
+| Master | phases 1 to 5 and P5b merged |
 | Production | https://the-program-zxz.pages.dev serves master (CI deploys after a green gate) |
 | The gate | `python tools/gate.py` (full), `--quick` (no poison sweep), `--no-build`, `--no-app`, `--idempotent`. CI: a gate job without a browser, an app job, and the poison sweep in three parallel shards |
 | Branches worth knowing | `trial/nuclear-on-defaults`: local only, a measurement, never merge. `nuclear-2026-09-19`, `redesign/p1-*`, `redesign/p2-*`: merged, history |
 | Working copy | `C:\Users\stewa\ClaudeProjects\Missing individuals connected to defense contractors\the-program`. The OneDrive copy is dead cloud placeholders |
-| Waiting on Stewart | nothing blocking. Optional: Appendix T (the topic table) before phase 4; the Worker redeploy from 12 September (not urgent); the public-release questions in section 10 of the redesign |
+| Waiting on Stewart | nothing blocking. At the end: the topic table (`notes/plans/P4-topic-table.md`, drafted at high effort), the redesign as a whole, the Worker redeploy from 12 September (not urgent), the public-release questions in section 10 of the redesign |
+
+## The blind critic (Stewart, 25 September 2026)
+
+After every phase a reader sees: `node tools/look.js --critic` shots to a separate agent with only
+`tools/critic/BRIEF.md`; fix its five worst; repeat. Reports in `notes/critic/`. Round 0 (the baseline)
+found phones broken everywhere (a blocker), testimony reading as documented fact, wrong connection groups,
+unnamed marks and a node page that led with prose; each row is triaged to a phase there.
+
+## What phase 5 and P5b did
+
+| | |
+|---|---|
+| 93 topics, verified | drafted by 8 Opus agents from packets of the board's own claims (`tools/topics/topic_packet.py`), verified twice by 3 Opus agents re-deriving every sentence from its cites (round 1: 53 of 93 failed, mostly sentences saying more than their cites and testimony stated as fact; round 2: 7, fixed). Ten honesty checks in `verify.py` with poisons, restated in the audit |
+| Coverage | 96.3% of nodes and 96.0% of people in a topic's members (floor committed); every hub of degree 30 or more in 3 or more topics |
+| Shipped as data | `app/public/data/topics.json` and `topics/<id>.json` with every cite resolved; absorbed domain nodes carry `absorbedBy`. Readers see topics from phase 6 |
+| What drafting found wrong in the data | `notes/plans/P5-research-queue.md`: six claims or edges that overstate their sources, a class of Tier 1 claims resting on secondary relays, and more (phase R) |
+| P5b, from the critic | phones work on every surface (a two-row bar with VIEWS, stacked Home, evidence cards, list views of the map and neighbourhood; C26 sweeps every route at 375); 396 Tier 1 claims that record what was said are marked "said on the record" or "the office's own account" (C31; no tier moved); the node page's first screen shows the case against, and the board's own analysis is labelled and folded; the analyst tab covers nothing (C32); plain words and no debug chrome (C35); thread and timeline order fixes (C33, C34). Three critic rounds; round 3's worst were all later-phase items |
 
 ## What phase 4 did
 
