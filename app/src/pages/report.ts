@@ -59,7 +59,7 @@ export async function renderNodeReport(view: HTMLElement, id: string): Promise<v
   const claims = (rec.claims || []).slice().sort((a, b) => Number(a.tier) - Number(b.tier));
   if (claims.length) {
     paper.append(h('h2', null, 'Claims by tier'));
-    const key = saidKey(claims.map((c) => { const s = claimSource(c.source); return saidKind(Number(c.tier), c.text, s.text, s.url); }));
+    const key = saidKey(claims.map((c) => { const s = claimSource(c.source); return saidKind(Number(c.tier), c.text, s.text, s.url); }), false);
     if (key) paper.append(key);
     const ol = h('ol', { class: 'rclaims' });
     for (const c of claims) {

@@ -405,8 +405,9 @@ function claimsMade(rec: NodeRecord, made: ClaimMade[], topicTitle: Map<string, 
     h('div', null, h('span', { class: 'eyebrow' }, head), ' ', h('span', { class: 'sep' }, '·'), ' ',
       h('b', null, String(made.length)), ' in ', String(groups.size), groups.size === 1 ? ' topic' : ' topics'),
     h('span', { class: 'faint' }, 'wherever on the board they sit, each with when it was made and how it reached the record')));
+  /* one key per page: the claims list above already carries it where it has marks */
   const kinds = new Set(made.map((c) => saidKind(Number(c.tier), c.text, c.source.text, c.source.url)).filter(Boolean));
-  const key = saidKey(kinds);
+  const key = document.querySelector('.node .said-key') ? null : saidKey(kinds);
   if (key) box.append(key);
   for (const [t, xs] of groups) {
     const g = h('div', { class: 'made-group', 'data-topic': t });

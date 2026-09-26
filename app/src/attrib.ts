@@ -99,16 +99,20 @@ export function saidMark(kind: Said): HTMLElement | null {
 }
 
 /* The key to the marks, for any surface that draws them: what each one means. */
-export function saidKey(kinds: Iterable<Said>): HTMLElement | null {
+export function saidKey(kinds: Iterable<Said>, fold = true): HTMLElement | null {
   const have = new Set(kinds);
-  const key = h('div', { class: 'said-key dim' });
-  if (have.has('said') || have.has('office')) {
-    key.append(h('div', { class: 'said-read' }, READ_T1));
-    key.append(h('div', { class: 'said-twice' }, SAID_TWICE));
-  }
+  if (!have.has('said') && !have.has('office')) return null;
+  /* Folded to its one sentence on screen, the rest a click away: the whole key
+     repeated above every list pushed the content below the fold (blind critic,
+     phase 10 round 3). Paper (the report) passes fold = false. */
+  const key = fold
+    ? h('details', { class: 'said-key dim' }, h('summary', null, h('span', { class: 'said-read' }, READ_T1),
+      h('span', { class: 'said-more faint' }, ' · how to read the marks')))
+    : h('div', { class: 'said-key dim' }, h('div', { class: 'said-read' }, READ_T1));
+  key.append(h('div', { class: 'said-twice' }, SAID_TWICE));
   for (const k of ['said', 'office'] as const) {
     if (!have.has(k)) continue;
     key.append(h('div', null, h('span', { class: 'said-mark key' }, SAID_LABEL[k]), SAID_TITLE[k]));
   }
-  return key.querySelector('.said-mark') ? key : null;
+  return key;
 }

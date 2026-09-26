@@ -755,3 +755,5 @@ h1.node-h1 { font-size: var(--fs-h1); font-weight: 600; letter-spacing: -0.01em;
 .home-questions { margin: 18px 0 8px; }
 ol.home-qlist { margin: 6px 0 0; padding-left: 22px; columns: 2 360px; column-gap: 28px; }
 ol.home-qlist li { break-inside: avoid; margin: 0 0 4px; }
+details.said-key > summary { cursor: pointer; list-style-position: inside; }
+details.said-key[open] > summary { margin-bottom: 3px; }

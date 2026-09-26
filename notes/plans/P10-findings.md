@@ -20,3 +20,5 @@ Written 26 September 2026. None of these is fixed here: each is a research decis
 
 - Claim source strings carry the regrade pass's bookkeeping ("DEMOTED from Tier 1 (...); needs primary replacement") and research-wave wording ("wave-1 sourcing on this board"); every surface prints them. A copy pass (phase 12) or a separate `sourceNote` field would keep the reason without the jargon.
 - The same sworn words sit on the board as a Tier 1 record of speech and as a Tier 2 claim (for example the Mace biologics answer); the question pages cite both side by side, which reads as a contradiction. Phase R's first queue item.
+- A Tier 1 "formal DoD rebuttal" claim on the question pages carries the board's own argument in its text ("a claim that does not engage Grusch's sworn statement ..."): the claim text should be the record's words, the argument an inference (critic round 3).
+- Some edges print "no date recorded" while their own sentence carries a date (FY2008, 1947, the 1990s GAO search): the date field was never filled (critic round 3).
