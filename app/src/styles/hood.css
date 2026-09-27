@@ -69,7 +69,9 @@
   font: inherit; background: none; border: 0; padding: 0; cursor: pointer; text-align: left;
   color: var(--text);
 }
-.gn-say:hover .gn-pred, .gn-say[aria-expanded="true"] .gn-pred { color: var(--cyan); text-decoration: underline dotted; }
+/* the tap cue: words that hide a sentence are underlined; once open, not */
+.gn-say[aria-expanded="false"] .gn-pred { text-decoration: underline dotted; text-underline-offset: 3px; }
+.gn-say:hover .gn-pred { color: var(--text); }
 .gn-pred { color: var(--cyan); }
 .gn-pred.dim { color: var(--dim); font-style: italic; }
 .gn-sent { flex: 1 1 100%; padding: 1px 0 2px 13px; color: var(--dim); }

@@ -63,8 +63,8 @@ export async function renderHood(view: HTMLElement, id: string | null): Promise<
     h('span', { class: 'eyebrow' }, 'Neighbourhood'),
     h('span', { class: 'dim' }, nNeighbours + ' neighbours in ' + groups.length +
       (groups.length === 1 ? ' family' : ' families') +
-      ', each named once and read from ' + rec.label + '. Where a link has no precise wording its sentence is shown; ' +
-      'elsewhere tap the words for it. "Two steps out" opens one family at a time.')));
+      ', each named once and read from ' + rec.label + '. Denials, and links with no precise wording, show their sentence; ' +
+      'elsewhere tap the underlined words for it. "Two steps out" opens one family at a time.')));
 
   const stage = h('div', { class: 'gn-stage' });
   const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
@@ -159,8 +159,9 @@ function familyBlock(
 
 function rowEl(r: Neighbour): HTMLElement {
   const said = sentences(r.links);
-  /* a row whose reading is only its family's phrase shows its sentence open */
-  const plain = !r.readings.some((x) => x.shown);
+  /* a row whose reading is only its family's phrase, and every denial (the
+     case against, which must say what was denied), shows its sentence open */
+  const plain = !r.readings.some((x) => x.shown) || r.family === 'denial';
   const sent = h('div', { class: 'gn-sent', hidden: !plain });
   for (const l of r.links) {
     sent.append(h('div', { class: 'gn-sline' },

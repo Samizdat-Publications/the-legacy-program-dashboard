@@ -19,8 +19,9 @@
 .pl-mark { position: absolute; width: 7px; height: 7px; margin: -3.5px 0 0 -3.5px; line-height: 0; }
 .pl-mark .mark { display: block; }
 .pl-mark:hover .mark, .pl-mark:focus .mark { outline: 1px solid var(--text); }
+.pl-names { position: absolute; white-space: nowrap; }
 .pl-label {
-  position: absolute;
+  display: block;
   color: var(--text);
   line-height: 13px;
   white-space: nowrap;

@@ -178,17 +178,31 @@ function drawPlot(block: HTMLElement, places: Place[], step: number): void {
     }, mark(clsColour('location'))));
     taken.push({ x: m.x - 5, y: m.y - 5, w: 10, h: 10 });
   }
+  /* places at the same point (Groom Lake and Area 51) share one marker spot, so
+     their names go together, one per line, in one block with one leader */
+  type Pt = { p: Place; x: number; y: number };
+  const groups: { x: number; y: number; ps: Pt[] }[] = [];
+  for (const m of pts) {
+    const g = groups.find((q) => Math.abs(q.x - m.x) < 4 && Math.abs(q.y - m.y) < 4);
+    if (g) g.ps.push(m); else groups.push({ x: m.x, y: m.y, ps: [m] });
+  }
   /* the most crowded markers choose first, while there is still room near them */
   const crowd = (m: { x: number; y: number }) => pts.filter((o) => Math.hypot(o.x - m.x, o.y - m.y) < 80).length;
-  const order = pts.slice().sort((a, b) => crowd(b) - crowd(a) || a.y - b.y || a.p.id.localeCompare(b.p.id));
+  const order = groups.slice().sort((a, b) => crowd(b) - crowd(a) || a.y - b.y || a.ps[0].p.id.localeCompare(b.ps[0].p.id));
+  const markBoxes = groups.map((g) => ({ g, b: { x: g.x - 4, y: g.y - 4, w: 8, h: 8 } }));
   let bottom = Y0 + plotH + 22;
-  const RINGS = [6, 16, 30, 48, 70, 96, 128, 166, 210, 260, 320, 390];
-  const ANGLES = [0, 180, -90, 90, -30, 30, -150, 150, -60, 60, -120, 120];
+  const RINGS = [6, 12, 20, 30, 42, 56, 72, 90, 110, 134, 160, 190, 224, 262, 306, 356, 410];
+  const ANGLES: number[] = [0, 180, -90, 90];
+  for (let a = 15; a < 180; a += 15) if (a !== 90) ANGLES.push(-a, a);
   for (const m of order) {
-    const el = h('a', {
-      class: 'pl-label', href: '#/n/' + m.p.id, 'data-id': m.p.id,
-      title: fmtLat(m.p.lat as number) + ', ' + fmtLon(m.p.lon as number) + ' (uncited: the board’s own table)',
-    }, m.p.label);
+    const el = h('div', { class: 'pl-names' });
+    for (const q of m.ps) {
+      el.append(h('a', {
+        class: 'pl-label', href: '#/n/' + q.p.id, 'data-id': q.p.id,
+        title: fmtLat(q.p.lat as number) + ', ' + fmtLon(q.p.lon as number) + ' (uncited: the board’s own table)' +
+          (m.ps.length > 1 ? '; the same point as ' + m.ps.filter((o) => o !== q).map((o) => o.p.label).join(', ') : ''),
+      }, q.p.label));
+    }
     stage.append(el);
     const r = el.getBoundingClientRect();
     const w = Math.ceil(r.width), hh = Math.ceil(r.height);
@@ -210,7 +224,13 @@ function drawPlot(block: HTMLElement, places: Place[], step: number): void {
         if (d > 10) {
           const [tx, ty] = near(b, m.x, m.y);
           sc += 120 * names.filter((t) => cuts(m.x, m.y, tx, ty, t)).length;
+          /* nor through another marker, which would read as that marker's name */
+          sc += 220 * markBoxes.filter((o) => o.g !== m && cuts(m.x, m.y, tx, ty, o.b)).length;
         }
+        /* a name must be nearer its own marker than any other marker */
+        const [ox, oy] = near(b, m.x, m.y);
+        const own = Math.hypot(ox - m.x, oy - m.y);
+        if (markBoxes.some((o) => { if (o.g === m) return false; const [qx, qy] = near(b, o.g.x, o.g.y); return Math.hypot(qx - o.g.x, qy - o.g.y) < own - 1; })) sc += 260;
         sc += 120 * leads.filter(([a1, b1, a2, b2]) => cuts(a1, b1, a2, b2, { x: b.x - 1, y: b.y - 1, w: b.w + 2, h: b.h + 2 })).length;
         if (sc < score) { score = sc; best = b; dist = d; }
       }
