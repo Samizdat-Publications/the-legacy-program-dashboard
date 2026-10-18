@@ -308,6 +308,20 @@
    "text": "The same document records that Hillenkoetter 'headed the Central Intelligence Agency from May 1947 to October 1950' and that he 'wants a Congressional investigation of the UFOs'. On the wartime and immediate post-war years he is quoted: 'I know that neither Russia nor this country had anything even approaching such high speeds and maneuvers.'",
    "tier": 1
   },
+  "c-4108141d4b": {
+   "id": "c-4108141d4b",
+   "kind": "claim",
+   "node": "stringfield-status-reports",
+   "nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+   "source": {
+    "domain": null,
+    "text": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+    "url": null
+   },
+   "sourceRefs": [],
+   "text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at [street address omitted], Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
+   "tier": 2
+  },
   "c-41f6b4c601": {
    "id": "c-41f6b4c601",
    "kind": "claim",
@@ -1307,20 +1321,6 @@
    "text": "Randle told Skeptical Inquirer that he is 'getting more skeptical in my old age', that he sets 'a very high bar for the level of evidence required', and later that he is no longer sure what happened at Roswell and the case for extraterrestrial involvement is no longer robust.",
    "tier": 2
   },
-  "c-dd3793d7bc": {
-   "id": "c-dd3793d7bc",
-   "kind": "claim",
-   "node": "stringfield-status-reports",
-   "nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
-   "source": {
-    "domain": null,
-    "text": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-    "url": null
-   },
-   "sourceRefs": [],
-   "text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at 4412 Grove Avenue, Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
-   "tier": 2
-  },
   "c-f5bb63d461": {
    "id": "c-f5bb63d461",
    "kind": "claim",
@@ -2143,7 +2143,7 @@
     "c-10e21db891",
     "c-6e9b27f62a",
     "c-14b6ecadf3",
-    "c-dd3793d7bc"
+    "c-4108141d4b"
    ],
    "text": "Stringfield's Status Reports built the crash-retrieval literature on informants he coded anonymously; Status Report III carries the imprimatur of Richard Hall, a former NICAP assistant director. The board infers the coding protected sources at the cost of making the corpus unauditable."
   },

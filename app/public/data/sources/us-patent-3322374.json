@@ -43,6 +43,26 @@
 },
 {
 "cls": "document",
+"id": "c-6edf11b092",
+"locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., [street address omitted], Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
+"tier": 1
+},
+{
+"cls": "document",
+"id": "c-6edf11b092",
+"locator": null,
+"node": "king-patent-mhd",
+"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., [street address omitted], Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
+"tier": 1
+},
+{
+"cls": "document",
 "id": "c-93c62dc61b",
 "locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
 "node": "king-patent-mhd",
@@ -79,26 +99,6 @@
 "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
 "text": "A PATENT IS TIER 1 FOR WHAT IT CLAIMS AND IS NEVER EVIDENCE THAT THE THING WORKS. What US 3,322,374 claims is magnetohydrodynamic propulsion: coils along the craft's axis driven by polyphase alternating current produce a travelling point of maximum magnetic flux density running from the leading to the trailing end, which induces eddy currents in the surrounding ionised fluid and drives that fluid backwards. The patent is a linear induction motor using the atmosphere as its armature.",
-"tier": 1
-},
-{
-"cls": "document",
-"id": "c-d1765ef8ec",
-"locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
-"node": "king-patent-mhd",
-"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
-"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
-"tier": 1
-},
-{
-"cls": "document",
-"id": "c-d1765ef8ec",
-"locator": null,
-"node": "king-patent-mhd",
-"nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-"sourceText": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
-"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
 "tier": 1
 },
 {
@@ -242,12 +242,12 @@
 "topics": [
 {
 "claims": [
+"c-6edf11b092",
+"c-6edf11b092",
 "c-93c62dc61b",
 "c-93c62dc61b",
 "c-a37187f95b",
 "c-a37187f95b",
-"c-d1765ef8ec",
-"c-d1765ef8ec",
 "c-e2b8df3ec4",
 "c-e2b8df3ec4",
 "c-fe53bb50b0",

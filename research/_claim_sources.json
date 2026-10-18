@@ -586,18 +586,6 @@
     "source": "u-dni-gov-9f5ec4a0"
    }
   ],
-  "c-036da5e1cf": [
-   {
-    "by": "url",
-    "locator": null,
-    "source": "u-wikileaks-org-a448b150"
-   },
-   {
-    "by": "url",
-    "locator": null,
-    "source": "u-wikileaks-org-0fa877e6"
-   }
-  ],
   "c-0370130ffa": [
    {
     "by": "identifier",
@@ -1980,6 +1968,18 @@
     "by": "url",
     "locator": null,
     "source": "dodd-5205-07"
+   }
+  ],
+  "c-0eb087e125": [
+   {
+    "by": "identifier",
+    "locator": "specification head, read off the USPTO image server at",
+    "source": "us-patent-2995633"
+   },
+   {
+    "by": "url",
+    "locator": null,
+    "source": "us-patent-2995633"
    }
   ],
   "c-0ec7e9e9b9": [
@@ -3944,6 +3944,13 @@
     "by": "review",
     "locator": null,
     "source": "t-f74452ef8765"
+   }
+  ],
+  "c-1d27273175": [
+   {
+    "by": "review",
+    "locator": "Status Report VI, title and copyright page (scan)",
+    "source": "n-stringfield-status-reports"
    }
   ],
   "c-1d75146758": [
@@ -11972,6 +11979,18 @@
     "source": "n-reid-sap-letter-2009"
    }
   ],
+  "c-5754074bbd": [
+   {
+    "by": "url",
+    "locator": null,
+    "source": "u-wikileaks-org-a448b150"
+   },
+   {
+    "by": "url",
+    "locator": null,
+    "source": "u-wikileaks-org-0fa877e6"
+   }
+  ],
   "c-57637664ff": [
    {
     "by": "review",
@@ -15268,6 +15287,18 @@
     "source": "u-ufohastings-com-30d064f4"
    }
   ],
+  "c-6edf11b092": [
+   {
+    "by": "identifier",
+    "locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+    "source": "us-patent-3322374"
+   },
+   {
+    "by": "url",
+    "locator": null,
+    "source": "us-patent-3322374"
+   }
+  ],
   "c-6f04a62857": [
    {
     "by": "review",
@@ -16670,18 +16701,6 @@
     "source": "n-millis-tm-2004-213082"
    }
   ],
-  "c-794c6cdf6a": [
-   {
-    "by": "identifier",
-    "locator": "specification head and columns 1 and 2, read off the USPTO image server at",
-    "source": "us-patent-3170993"
-   },
-   {
-    "by": "url",
-    "locator": null,
-    "source": "us-patent-3170993"
-   }
-  ],
   "c-794e899eea": [
    {
     "by": "url",
@@ -16986,18 +17005,6 @@
     "by": "url",
     "locator": null,
     "source": "u-dni-gov-9f5ec4a0"
-   }
-  ],
-  "c-7be573d587": [
-   {
-    "by": "identifier",
-    "locator": "specification head, read off the USPTO image server at",
-    "source": "us-patent-2995633"
-   },
-   {
-    "by": "url",
-    "locator": null,
-    "source": "us-patent-2995633"
    }
   ],
   "c-7beb8c1804": [
@@ -17553,6 +17560,18 @@
     "by": "identifier",
     "locator": null,
     "source": "foia-97-f-1677"
+   }
+  ],
+  "c-803394708c": [
+   {
+    "by": "identifier",
+    "locator": "specification head and columns 1 and 2, read off the USPTO image server at",
+    "source": "us-patent-3170993"
+   },
+   {
+    "by": "url",
+    "locator": null,
+    "source": "us-patent-3170993"
    }
   ],
   "c-8037ba7315": [
@@ -21085,6 +21104,18 @@
     "by": "url",
     "locator": null,
     "source": "u-cole-house-gov-0b39926b"
+   }
+  ],
+  "c-97d9b7bee7": [
+   {
+    "by": "url",
+    "locator": null,
+    "source": "u-wikileaks-org-7dbd6b9a"
+   },
+   {
+    "by": "url",
+    "locator": null,
+    "source": "u-wikileaks-org-b1626ac7"
    }
   ],
   "c-97db05782b": [
@@ -27687,13 +27718,6 @@
     "source": "u-defensescoop-com-cda2f816"
    }
   ],
-  "c-c6132fd5d3": [
-   {
-    "by": "review",
-    "locator": "Status Report VI, title and copyright page (scan)",
-    "source": "n-stringfield-status-reports"
-   }
-  ],
   "c-c6234d3c1e": [
    {
     "by": "review",
@@ -28087,18 +28111,6 @@
     "by": "url",
     "locator": null,
     "source": "u-democrats-appropriations-d6ef75a0"
-   }
-  ],
-  "c-c90e800494": [
-   {
-    "by": "url",
-    "locator": null,
-    "source": "u-wikileaks-org-7dbd6b9a"
-   },
-   {
-    "by": "url",
-    "locator": null,
-    "source": "u-wikileaks-org-b1626ac7"
    }
   ],
   "c-c91bbc06c1": [
@@ -29130,18 +29142,6 @@
     "by": "url",
     "locator": null,
     "source": "u-appropriations-senate-go-a2eabc59"
-   }
-  ],
-  "c-d1765ef8ec": [
-   {
-    "by": "identifier",
-    "locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
-    "source": "us-patent-3322374"
-   },
-   {
-    "by": "url",
-    "locator": null,
-    "source": "us-patent-3322374"
    }
   ],
   "c-d1a1248d48": [
@@ -31315,6 +31315,13 @@
     "by": "url",
     "locator": null,
     "source": "n-sffas-56"
+   }
+  ],
+  "c-df10cb9853": [
+   {
+    "by": "url",
+    "locator": null,
+    "source": "u-drive-google-com-ff4eb54c"
    }
   ],
   "c-df12fa8309": [
@@ -34223,13 +34230,6 @@
     "by": "identifier",
     "locator": "summarising FAR 35.017",
     "source": "crs-r44629"
-   }
-  ],
-  "c-f401c6c63a": [
-   {
-    "by": "url",
-    "locator": null,
-    "source": "u-drive-google-com-ff4eb54c"
    }
   ],
   "c-f41951138f": [
@@ -52453,6 +52453,9 @@
   "c-1475bab18f": {
    "why": "a proposed reading (id:chrg-118shrg60390) was rejected in review: names hearing and DefenseScoop report; two sources"
   },
+  "c-1477fe031f": {
+   "why": "a proposed reading (node:stringfield-status-reports) was rejected in review: FSR serialisation is a different publication from the Status Reports"
+  },
   "c-1498750c72": {
    "why": "the board's own inference; it names no source that resolves"
   },
@@ -53019,6 +53022,9 @@
   },
   "c-40e772e25c": {
    "why": "the board's own inference; it names no source that resolves"
+  },
+  "c-4108141d4b": {
+   "why": "a proposed reading (node:stringfield-status-reports) was rejected in review: does not name which work was scanned"
   },
   "c-413d209acc": {
    "why": "a proposed reading (node:gerb-mitre-investigation) was rejected in review: outlet and date only; candidate row shows no 7 August date"
@@ -54955,9 +54961,6 @@
   "c-c82d61c02b": {
    "why": "read in review as naming no single source: board's own structural inference, not a source"
   },
-  "c-c82fc0e37f": {
-   "why": "a proposed reading (node:stringfield-status-reports) was rejected in review: FSR serialisation is a different publication from the Status Reports"
-  },
   "c-c84daf2a74": {
    "why": "read in review as naming no single source: Generic description, no specific source named."
   },
@@ -55200,9 +55203,6 @@
   },
   "c-dcbabdfe26": {
    "why": "a proposed reading (url:rand.org/about/people/m/matheny_jason.html) was rejected in review: generic string does not name whose profile"
-  },
-  "c-dd3793d7bc": {
-   "why": "a proposed reading (node:stringfield-status-reports) was rejected in review: does not name which work was scanned"
   },
   "c-dd46d70b51": {
    "why": "a proposed reading (node:dird-series) was rejected in review: locator DIRD 15/19 invented; string names releases generally"

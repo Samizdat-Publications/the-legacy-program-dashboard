@@ -12,7 +12,7 @@ Opened from `https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc
 | | |
 |---|---|
 | Title | Magnetohydrodynamic Propulsion Apparatus |
-| Inventor | James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106 |
+| Inventor | James F. King, Jr., [street address omitted], Winston-Salem, North Carolina 27106 |
 | Filed | 30 September 1964, Serial No. 400,456 |
 | Granted | 30 May 1967 |
 | Claims / class | 9 claims, Class 244-62 |

@@ -3,12 +3,12 @@
 "claims": [
 {
 "cls": "document",
-"id": "c-036da5e1cf",
+"id": "c-5754074bbd",
 "locator": null,
 "node": "podesta-delonge-mccasland-email-2016",
 "nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "sourceText": "WikiLeaks, The Podesta Emails, corpus search, https://wikileaks.org/podesta-emails/?q=prometheus and https://wikileaks.org/podesta-emails/?q=moulton",
-"text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to podesta@LAW.GEORGETOWN.EDU, and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from t.delonge@me.com and none of them is among either set.",
+"text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to [Podesta's Georgetown Law address], and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from [DeLonge's personal address] and none of them is among either set.",
 "tier": 1
 },
 {
@@ -42,7 +42,7 @@
 "topics": [
 {
 "claims": [
-"c-036da5e1cf",
+"c-5754074bbd",
 "c-62cc24a3b8"
 ],
 "id": "skunk-works",
@@ -50,7 +50,7 @@
 },
 {
 "claims": [
-"c-036da5e1cf",
+"c-5754074bbd",
 "c-62cc24a3b8"
 ],
 "id": "ttsa",

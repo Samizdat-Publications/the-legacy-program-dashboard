@@ -453,8 +453,8 @@ This section applies only to commands written **for Stewart to paste**. He runs
 - **No em dashes** in prose written for him. Tables are preferred over long lists. Charts get
   data labels.
 - **Adversarial review does NOT apply to this project. Stop offering it here.** It exists for
-  Stewart's employer work products — it recreates handing a deliverable to a reviewer, who looks for
-  certain things, then to JD, who looks for others. This board has no Jess and no JD; its
+  Stewart's day-job work products: it recreates handing a deliverable to reviewers who each look
+  for different things. This board has no such reviewers; its
   equivalent is the gate, which already runs every time. Offering the audit here reads as not
   understanding what the audit is for. (Told twice: 26 August 2026.)
 - **He cannot read JSON.** When a JSON file needs his decision, render it as a table in chat

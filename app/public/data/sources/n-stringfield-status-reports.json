@@ -73,22 +73,22 @@
 },
 {
 "cls": "person",
+"id": "c-1d27273175",
+"locator": "Status Report VI, title and copyright page (scan)",
+"node": "leonard-stringfield",
+"nodeLabel": "Leonard H. Stringfield",
+"sourceText": "Stringfield, Status Report VI, title and copyright page (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, [street address omitted], Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
+"tier": 2
+},
+{
+"cls": "person",
 "id": "c-88c21893dc",
 "locator": "Status Report IV, 'Prologue: The Burden of Proof' (scan)",
 "node": "leonard-stringfield",
 "nodeLabel": "Leonard H. Stringfield",
 "sourceText": "Stringfield, Status Report IV, 'Prologue: The Burden of Proof' (scan)",
 "text": "Stringfield stated in Status Report IV that public UFO research does not possess proof, and that affidavits, leaked government documents and photographs do not constitute proof - an unusually explicit self-assessment by the field's founding retrieval researcher.",
-"tier": 2
-},
-{
-"cls": "person",
-"id": "c-c6132fd5d3",
-"locator": "Status Report VI, title and copyright page (scan)",
-"node": "leonard-stringfield",
-"nodeLabel": "Leonard H. Stringfield",
-"sourceText": "Stringfield, Status Report VI, title and copyright page (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, 4412 Grove Avenue, Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
 "tier": 2
 },
 {

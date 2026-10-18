@@ -48,7 +48,7 @@
 },
 {
 "date": "1991-07",
-"event": "Status Report VI, 'The Inner Sanctum', self-published at 4412 Grove Avenue, Cincinnati; edited by Richard Hall",
+"event": "Status Report VI, 'The Inner Sanctum', self-published in Cincinnati; edited by Richard Hall",
 "precision": "month"
 },
 {
@@ -87,7 +87,7 @@
 "unresolved": null
 },
 {
-"id": "c-c6132fd5d3",
+"id": "c-1d27273175",
 "meta": {
 "artefactDate": "1991-07",
 "claimant": "leonard-stringfield",
@@ -105,7 +105,7 @@
 "title": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
 }
 ],
-"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, 4412 Grove Avenue, Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
+"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, [street address omitted], Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
 "tier": 2,
 "unresolved": null
 },
@@ -162,6 +162,23 @@
 {
 "artefactDate": null,
 "eventDate": null,
+"id": "c-4108141d4b",
+"node": "stringfield-status-reports",
+"nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
+"route": "document",
+"source": {
+"domain": null,
+"text": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
+"url": null
+},
+"text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at [street address omitted], Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
+"tier": 2,
+"topic": "civilian-groups",
+"via": null
+},
+{
+"artefactDate": null,
+"eventDate": null,
 "id": "c-6e9b27f62a",
 "node": "stringfield-status-reports",
 "nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
@@ -194,26 +211,9 @@
 "via": null
 },
 {
-"artefactDate": null,
-"eventDate": null,
-"id": "c-dd3793d7bc",
-"node": "stringfield-status-reports",
-"nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
-"route": "document",
-"source": {
-"domain": null,
-"text": "Title and copyright pages of the original printings, scanned at the Internet Archive — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
-"url": null
-},
-"text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at 4412 Grove Avenue, Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
-"tier": 2,
-"topic": "civilian-groups",
-"via": null
-},
-{
 "artefactDate": "1978-07-29",
 "eventDate": null,
-"id": "c-c82fc0e37f",
+"id": "c-1477fe031f",
 "node": "stringfield-status-reports",
 "nodeLabel": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "route": "broadcast",
@@ -222,7 +222,7 @@
 "text": "Stringfield, 'Retrievals of the Third Kind - Part 1', header note — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "url": null
 },
-"text": "Status Report I was a paper delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as 4412 Grove Avenue, Cincinnati, Ohio 45227.",
+"text": "Status Report I was a paper delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as Cincinnati, Ohio (street address omitted).",
 "tier": 2,
 "topic": "crash-claims",
 "via": "MUFON Symposium"
@@ -230,7 +230,7 @@
 {
 "artefactDate": "1991-07",
 "eventDate": null,
-"id": "c-c6132fd5d3",
+"id": "c-1d27273175",
 "node": "leonard-stringfield",
 "nodeLabel": "Leonard H. Stringfield",
 "route": "document",
@@ -239,7 +239,7 @@
 "text": "Stringfield, Status Report VI, title and copyright page (scan) — DEMOTED from Tier 1 (node carries no primary-record URL); needs primary replacement",
 "url": null
 },
-"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, 4412 Grove Avenue, Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
+"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, [street address omitted], Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
 "tier": 2,
 "topic": "crash-claims",
 "via": null

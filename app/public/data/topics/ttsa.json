@@ -18,31 +18,6 @@
  ],
  "appendixT": "ttsa",
  "cites": {
-  "c-036da5e1cf": {
-   "id": "c-036da5e1cf",
-   "kind": "claim",
-   "node": "podesta-delonge-mccasland-email-2016",
-   "nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
-   "source": {
-    "domain": "wikileaks.org",
-    "text": "WikiLeaks, The Podesta Emails, corpus search, https://wikileaks.org/podesta-emails/?q=prometheus and https://wikileaks.org/podesta-emails/?q=moulton",
-    "url": "https://wikileaks.org/podesta-emails/?q=prometheus"
-   },
-   "sourceRefs": [
-    {
-     "id": "u-wikileaks-org-a448b150",
-     "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, corpus search, and"
-    },
-    {
-     "id": "u-wikileaks-org-0fa877e6",
-     "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, corpus search, and"
-    }
-   ],
-   "text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to podesta@LAW.GEORGETOWN.EDU, and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from t.delonge@me.com and none of them is among either set.",
-   "tier": 1
-  },
   "c-0c3f9958a1": {
    "id": "c-0c3f9958a1",
    "kind": "claim",
@@ -489,6 +464,31 @@
    "text": "Listed in TTSA's Form 1-K as an advisory board member, described as having served 20 years in federal government including as Deputy Assistant Secretary of Defense for Intelligence and as a former Senate staff director.",
    "tier": 1
   },
+  "c-5754074bbd": {
+   "id": "c-5754074bbd",
+   "kind": "claim",
+   "node": "podesta-delonge-mccasland-email-2016",
+   "nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+   "source": {
+    "domain": "wikileaks.org",
+    "text": "WikiLeaks, The Podesta Emails, corpus search, https://wikileaks.org/podesta-emails/?q=prometheus and https://wikileaks.org/podesta-emails/?q=moulton",
+    "url": "https://wikileaks.org/podesta-emails/?q=prometheus"
+   },
+   "sourceRefs": [
+    {
+     "id": "u-wikileaks-org-a448b150",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, corpus search, and"
+    },
+    {
+     "id": "u-wikileaks-org-0fa877e6",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, corpus search, and"
+    }
+   ],
+   "text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to [Podesta's Georgetown Law address], and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from [DeLonge's personal address] and none of them is among either set.",
+   "tier": 1
+  },
   "c-5868af5613": {
    "id": "c-5868af5613",
    "kind": "claim",
@@ -740,6 +740,31 @@
    "text": "Steve Justice stated the materials 'have been collected from sources with varying levels of chain-of-custody documentation'.",
    "tier": 2
   },
+  "c-97d9b7bee7": {
+   "id": "c-97d9b7bee7",
+   "kind": "claim",
+   "node": "podesta-delonge-mccasland-email-2016",
+   "nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
+   "source": {
+    "domain": "wikileaks.org",
+    "text": "WikiLeaks, The Podesta Emails, email ids 51979 and 9501, https://wikileaks.org/podesta-emails/emailid/51979 ; https://wikileaks.org/podesta-emails/emailid/9501",
+    "url": "https://wikileaks.org/podesta-emails/emailid/51979"
+   },
+   "sourceRefs": [
+    {
+     "id": "u-wikileaks-org-7dbd6b9a",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, email id 51979, 'Re: Invitation: DeLonge/Podesta Meeting'"
+    },
+    {
+     "id": "u-wikileaks-org-b1626ac7",
+     "locator": null,
+     "title": "WikiLeaks, The Podesta Emails, email id 9501, same thread"
+    }
+   ],
+   "text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and [a personal Gmail address], who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to [DeLonge's personal address], [a Clinton campaign staff address], [Weiss's Lockheed Martin address] and [a personal Gmail address]. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
+   "tier": 1
+  },
   "c-a1caa17c7b": {
    "id": "c-a1caa17c7b",
    "kind": "claim",
@@ -863,31 +888,6 @@
    "sourceRefs": [],
    "text": "On leaving the Obama White House in February 2015, Podesta stated publicly that his biggest failure of the year was 'once again not securing the disclosure of the UFO files.'",
    "tier": 2
-  },
-  "c-c90e800494": {
-   "id": "c-c90e800494",
-   "kind": "claim",
-   "node": "podesta-delonge-mccasland-email-2016",
-   "nodeLabel": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
-   "source": {
-    "domain": "wikileaks.org",
-    "text": "WikiLeaks, The Podesta Emails, email ids 51979 and 9501, https://wikileaks.org/podesta-emails/emailid/51979 ; https://wikileaks.org/podesta-emails/emailid/9501",
-    "url": "https://wikileaks.org/podesta-emails/emailid/51979"
-   },
-   "sourceRefs": [
-    {
-     "id": "u-wikileaks-org-7dbd6b9a",
-     "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, email id 51979, 'Re: Invitation: DeLonge/Podesta Meeting'"
-    },
-    {
-     "id": "u-wikileaks-org-b1626ac7",
-     "locator": null,
-     "title": "WikiLeaks, The Podesta Emails, email id 9501, same thread"
-    }
-   ],
-   "text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and neilmcc79@gmail.com, who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to t.delonge@me.com, mfisher@hillaryclinton.com, rob.f.weiss@lmco.com and carey.mjd@gmail.com. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
-   "tier": 1
   },
   "c-c98ac5e49b": {
    "id": "c-c98ac5e49b",
@@ -1214,7 +1214,7 @@
      "url": "https://wikileaks.org/podesta-emails/emailid/15486"
     }
    ],
-   "text": "rob.f.weiss@lmco.com is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
+   "text": "[Weiss's Lockheed Martin address] is a copy recipient on the 24 and 25 January 2016 meeting thread, and on 22 February 2016 DeLonge wrote to Podesta of 'Mr. Weiss from Lockheed SkunkWorks' asking whether there were any updates for him and the General.",
    "tier": 1,
    "type": "institutional"
   },
@@ -1239,7 +1239,7 @@
      "url": "https://wikileaks.org/podesta-emails/emailid/3099"
     }
    ],
-   "text": "The email is addressed to john.podesta@gmail.com, and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
+   "text": "The email is addressed to [Podesta's personal Gmail address], and Podesta organised the 'DeLonge/Podesta Meeting' Google Hangout to which the general and DeLonge were both invited.",
    "tier": 1,
    "type": "witness-chain"
   },
@@ -1289,7 +1289,7 @@
      "url": "https://wikileaks.org/podesta-emails/emailid/3099"
     }
    ],
-   "text": "Thirteen emails in the Podesta release were sent from t.delonge@me.com, including this one, signed Tom DeLonge, Founder, To The Stars Media.",
+   "text": "Thirteen emails in the Podesta release were sent from [DeLonge's personal address], including this one, signed Tom DeLonge, Founder, To The Stars Media.",
    "tier": 1,
    "type": "witness-chain"
   },
@@ -1454,7 +1454,7 @@
      "url": "https://wikileaks.org/podesta-emails/emailid/3099"
     }
    ],
-   "text": "The email names General McCasland and the meeting thread runs through neilmcc79@gmail.com, signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
+   "text": "The email names General McCasland and the meeting thread runs through [a personal Gmail address], signing 'Neil McC'. The email gives no rank, service or middle name, so the identification with the board's William Neil McCasland rests on the name and on the node's own Air Force biography, not on the email.",
    "tier": 2,
    "type": "witness-chain"
   },
@@ -1767,7 +1767,7 @@
   },
   {
    "cite": [
-    "c-036da5e1cf",
+    "c-5754074bbd",
     "c-62cc24a3b8"
    ],
    "text": "A later account that the Podesta emails carried a Prometheus framing and Linda Moulton Howe material does not survive a search: neither appears in the release, and the speaker who reported it said he was relaying Peter Levenda rather than quoting anything."
@@ -2045,7 +2045,7 @@
    "cite": [
     "c-6cae43c392",
     "c-110894251b",
-    "c-c90e800494",
+    "c-97d9b7bee7",
     "e-1c18092b07"
    ],
    "text": "DeLonge wrote to Podesta on 25 January 2016 that the Roswell material had been shipped to the laboratory at Wright-Patterson and that General McCasland had run that laboratory until a couple of years earlier, that he had worked with the general for four months and that the general helped assemble his advisory team. The meeting thread runs through an address signing Neil McC and copies Rob Weiss of Lockheed Martin."

@@ -202,7 +202,7 @@ In January 2016 Tom DeLonge wrote to John Podesta that 'When Roswell crashed, th
 
 **Step 1, John D. Podesta** (year 2002, a person, board tier C). Podesta publicly called for the declassification of US government UFO records at a National Press Club event on 22 October 2002.
 
-**Step 2, DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (year 2016, a document, board tier B). He is the addressee of the McCasland email and the organiser of the 25 January 2016 meeting; the email is addressed to john.podesta@gmail.com.
+**Step 2, DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)** (year 2016, a document, board tier B). He is the addressee of the McCasland email and the organiser of the 25 January 2016 meeting; the email is addressed to [Podesta's personal Gmail address].
 
 The join from John D. Podesta to DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099) is a witness-chain link, recorded as direct, at Tier 1 documented.
 

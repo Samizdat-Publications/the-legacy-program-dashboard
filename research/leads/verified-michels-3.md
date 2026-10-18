@@ -496,7 +496,7 @@ Intelectron; his Army service record; an FBI file".
 Sept. 25, 1958 / 2 Sheets-Sheet 1", with the drawing sheet signed "INVENTORS HENRY K.
 PUHARICH, JOSEPH L. LAWRENCE". The specification head reads: "United States Patent
 Office 2,995,633, Patented Aug. 8, 1961 / MEANS FOR AIDING HEARING / Henry K. Puharich,
-30 East End Ave., and Joseph L. Lawrence, 570 Fort Washington Ave., both of New York,
+[street address omitted], and Joseph L. Lawrence, [street address omitted], both of New York,
 N.Y. / Filed Sept. 25, 1958, Ser. No. 763,406 / 5 Claims. (Cl. 179-107)". **No assignee
 is named on the face of the patent.** The invention is described as effecting "the
 transmission of sound signals through the dental structure and facial nervous system of
@@ -507,8 +507,8 @@ the brain, will give rise to sound sensations."
 
 **US Patent 3,170,993**, specification head read from the USPTO scan: "United States
 Patent Office 3,170,993, Patented Feb. 23, 1965 / MEANS FOR AIDING HEARING BY ELECTRICAL
-STIMULATION OF THE FACIAL NERVE SYSTEM / Henry K. Puharich, 87 Hawkes Ave., Ossining,
-N.Y., and Joseph L. Lawrence, 570 Fort Washington Ave., New York, N.Y. / Filed Jan. 8,
+STIMULATION OF THE FACIAL NERVE SYSTEM / Henry K. Puharich, [street address omitted], Ossining,
+N.Y., and Joseph L. Lawrence, [street address omitted], New York, N.Y. / Filed Jan. 8,
 1962, Ser. No. 164,882 / 24 Claims. (Cl. 179-107)". Again **no assignee**. It opens by
 citing the earlier patent: "In our prior United States Patent No. 2,995,633, granted
 August 8, 1961, there is disclosed a fundamentally novel arrangement for assisting the
@@ -590,7 +590,7 @@ Sources opened:
   "claims": [
     {
       "tier": 1,
-      "text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, 30 East End Ave., and Joseph L. Lawrence, 570 Fort Washington Ave., both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
+      "text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, [street address omitted], and Joseph L. Lawrence, [street address omitted], both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
       "source": "US Patent 2,995,633, specification head, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/2995633"
     },
     {
@@ -600,7 +600,7 @@ Sources opened:
     },
     {
       "tier": 1,
-      "text": "US Patent 3,170,993, 'MEANS FOR AIDING HEARING BY ELECTRICAL STIMULATION OF THE FACIAL NERVE SYSTEM', names 'Henry K. Puharich, 87 Hawkes Ave., Ossining, N.Y., and Joseph L. Lawrence', filed 8 January 1962 as Ser. No. 164,882, patented 23 February 1965, 24 claims. It cites the 1961 patent as prior work by the same inventors and adds a radio frequency receiver whose audio-modulated output is capacitively coupled to the nerve circuit through 'one or more cup-shaped dental caps'. No assignee appears on the face of the patent.",
+      "text": "US Patent 3,170,993, 'MEANS FOR AIDING HEARING BY ELECTRICAL STIMULATION OF THE FACIAL NERVE SYSTEM', names 'Henry K. Puharich, [street address omitted], Ossining, N.Y., and Joseph L. Lawrence', filed 8 January 1962 as Ser. No. 164,882, patented 23 February 1965, 24 claims. It cites the 1961 patent as prior work by the same inventors and adds a radio frequency receiver whose audio-modulated output is capacitively coupled to the nerve circuit through 'one or more cup-shaped dental caps'. No assignee appears on the face of the patent.",
       "source": "US Patent 3,170,993, specification head and columns 1 and 2, read off the USPTO image server at https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/3170993"
     },
     {

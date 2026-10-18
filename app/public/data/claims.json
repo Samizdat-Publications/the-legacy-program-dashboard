@@ -8999,7 +8999,7 @@
 "cls": "person",
 "cluster": "research",
 "denied": false,
-"id": "c-7be573d587",
+"id": "c-0eb087e125",
 "label": "Andrija (Henry K.) Puharich",
 "node": "andrija-puharich",
 "open": false,
@@ -9020,7 +9020,7 @@
 "title": "US Patent 2,995,633"
 }
 ],
-"text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, 30 East End Ave., and Joseph L. Lawrence, 570 Fort Washington Ave., both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
+"text": "US Patent 2,995,633, 'MEANS FOR AIDING HEARING', names 'Henry K. Puharich, [street address omitted], and Joseph L. Lawrence, [street address omitted], both of New York, N.Y.', filed 25 September 1958 as Ser. No. 763,406, patented 8 August 1961, 5 claims, Cl. 179-107. No assignee appears on the face of the patent.",
 "tier": 1,
 "unresolved": null
 },
@@ -9028,7 +9028,7 @@
 "cls": "person",
 "cluster": "research",
 "denied": false,
-"id": "c-794c6cdf6a",
+"id": "c-803394708c",
 "label": "Andrija (Henry K.) Puharich",
 "node": "andrija-puharich",
 "open": false,
@@ -9049,7 +9049,7 @@
 "title": "US Patent 3,170,993"
 }
 ],
-"text": "US Patent 3,170,993, 'MEANS FOR AIDING HEARING BY ELECTRICAL STIMULATION OF THE FACIAL NERVE SYSTEM', names 'Henry K. Puharich, 87 Hawkes Ave., Ossining, N.Y., and Joseph L. Lawrence', filed 8 January 1962 as Ser. No. 164,882, patented 23 February 1965, 24 claims. It cites the 1961 patent as prior work by the same inventors and adds a radio frequency receiver whose audio-modulated output is capacitively coupled to the nerve circuit through 'one or more cup-shaped dental caps'. No assignee appears on the face of the patent.",
+"text": "US Patent 3,170,993, 'MEANS FOR AIDING HEARING BY ELECTRICAL STIMULATION OF THE FACIAL NERVE SYSTEM', names 'Henry K. Puharich, [street address omitted], Ossining, N.Y., and Joseph L. Lawrence', filed 8 January 1962 as Ser. No. 164,882, patented 23 February 1965, 24 claims. It cites the 1961 patent as prior work by the same inventors and adds a radio frequency receiver whose audio-modulated output is capacitively coupled to the nerve circuit through 'one or more cup-shaped dental caps'. No assignee appears on the face of the patent.",
 "tier": 1,
 "unresolved": null
 },
@@ -75286,7 +75286,7 @@
 "cls": "document",
 "cluster": "research",
 "denied": false,
-"id": "c-d1765ef8ec",
+"id": "c-6edf11b092",
 "label": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
 "node": "king-patent-mhd",
 "open": false,
@@ -75307,7 +75307,7 @@
 "title": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
 }
 ],
-"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
+"text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., [street address omitted], Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
 "tier": 1,
 "unresolved": null
 },
@@ -82468,7 +82468,7 @@
 "cls": "person",
 "cluster": "research",
 "denied": false,
-"id": "c-c6132fd5d3",
+"id": "c-1d27273175",
 "label": "Leonard H. Stringfield",
 "node": "leonard-stringfield",
 "open": false,
@@ -82484,7 +82484,7 @@
 "title": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)"
 }
 ],
-"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, 4412 Grove Avenue, Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
+"text": "Status Report VI, 'The Inner Sanctum', is dated July 1991 and carries the imprint 'Published by Leonard H. Stringfield, [street address omitted], Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique.",
 "tier": 2,
 "unresolved": null
 },
@@ -85931,7 +85931,7 @@
 "cls": "person",
 "cluster": "witness",
 "denied": false,
-"id": "c-f401c6c63a",
+"id": "c-df10cb9853",
 "label": "Mark McCandlish",
 "node": "mark-mccandlish",
 "open": false,
@@ -85947,7 +85947,7 @@
 "title": "Shasta County Sheriff-Coroner, case C21-0324"
 }
 ],
-"text": "Shasta County Sheriff-Coroner case C21-0324, a Verdict of Death (without jury), reads: 'In the matter of the death of Mark Edward McCandlish, a 68 year old male. I, Logan Stonehouse, Chief Deputy Coroner, have inquired into the circumstances of his death and do certify that he was declared deceased on the 13th day of April 2021.' It gives the place of death as '1946 Trumpet Drive, Redding, Shasta County, CA', the cause as 'Gunshot wound of head', other significant conditions as 'None', and manner of death as 'Suicide'.",
+"text": "Shasta County Sheriff-Coroner case C21-0324, a Verdict of Death (without jury), reads: 'In the matter of the death of Mark Edward McCandlish, a 68 year old male. I, Logan Stonehouse, Chief Deputy Coroner, have inquired into the circumstances of his death and do certify that he was declared deceased on the 13th day of April 2021.' It gives the place of death as a street address in Redding, Shasta County, CA, the cause as 'Gunshot wound of head', other significant conditions as 'None', and manner of death as 'Suicide'.",
 "tier": 2,
 "unresolved": null
 },
@@ -105141,7 +105141,7 @@
 "cls": "document",
 "cluster": "media",
 "denied": false,
-"id": "c-036da5e1cf",
+"id": "c-5754074bbd",
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "node": "podesta-delonge-mccasland-email-2016",
 "open": false,
@@ -105162,7 +105162,7 @@
 "title": "WikiLeaks, The Podesta Emails, corpus search, and"
 }
 ],
-"text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to podesta@LAW.GEORGETOWN.EDU, and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from t.delonge@me.com and none of them is among either set.",
+"text": "Neither Prometheus nor Linda Moulton Howe appears in the release. A search of the WikiLeaks Podesta Emails interface for 'prometheus' returns five emails, all of them American Bar Association technology transfer law circulars addressed to [Podesta's Georgetown Law address], and a search for 'moulton' returns sixteen, none of them hers and none from DeLonge. Thirteen emails in the release were sent from [DeLonge's personal address] and none of them is among either set.",
 "tier": 1,
 "unresolved": null
 },
@@ -105170,7 +105170,7 @@
 "cls": "document",
 "cluster": "media",
 "denied": false,
-"id": "c-c90e800494",
+"id": "c-97d9b7bee7",
 "label": "DeLonge to Podesta, 'General McCasland', 25 January 2016 (WikiLeaks Podesta Emails 3099)",
 "node": "podesta-delonge-mccasland-email-2016",
 "open": false,
@@ -105191,7 +105191,7 @@
 "title": "WikiLeaks, The Podesta Emails, email id 9501, same thread"
 }
 ],
-"text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and neilmcc79@gmail.com, who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to t.delonge@me.com, mfisher@hillaryclinton.com, rob.f.weiss@lmco.com and carey.mjd@gmail.com. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
+"text": "The general was a correspondent, not only a subject. The 'DeLonge/Podesta Meeting' thread of 24 and 25 January 2016 runs between Podesta and [a personal Gmail address], who signs 'Neil McC' and whom the Google calendar invitation names as Neil McCasland, copied to [DeLonge's personal address], [a Clinton campaign staff address], [Weiss's Lockheed Martin address] and [a personal Gmail address]. Podesta organised the meeting as a Google Hangout and moved it to 12:30 Eastern after a blizzard.",
 "tier": 1,
 "unresolved": null
 },
@@ -123594,7 +123594,7 @@
 "cls": "document",
 "cluster": "research",
 "denied": false,
-"id": "c-c82fc0e37f",
+"id": "c-1477fe031f",
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "node": "stringfield-status-reports",
 "open": false,
@@ -123604,7 +123604,7 @@
 "url": null
 },
 "sources": [],
-"text": "Status Report I was a paper delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as 4412 Grove Avenue, Cincinnati, Ohio 45227.",
+"text": "Status Report I was a paper delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as Cincinnati, Ohio (street address omitted).",
 "tier": 2,
 "unresolved": "a proposed reading (node:stringfield-status-reports) was rejected in review: FSR serialisation is a different publication from the Status Reports"
 },
@@ -123612,7 +123612,7 @@
 "cls": "document",
 "cluster": "research",
 "denied": false,
-"id": "c-dd3793d7bc",
+"id": "c-4108141d4b",
 "label": "UFO Crash/Retrieval Status Reports I-VII (Stringfield, 1978-1994)",
 "node": "stringfield-status-reports",
 "open": false,
@@ -123622,7 +123622,7 @@
 "url": null
 },
 "sources": [],
-"text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at 4412 Grove Avenue, Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
+"text": "Status Report II is dated January 1980 and was published by MUFON; Status Report IV is dated June 1985; Status Report V is dated January 1989; Status Report VI is dated July 1991 and was self-published by Stringfield at [street address omitted], Cincinnati, Ohio 45227; Status Report VII is dated February 1994.",
 "tier": 2,
 "unresolved": "a proposed reading (node:stringfield-status-reports) was rejected in review: does not name which work was scanned"
 },

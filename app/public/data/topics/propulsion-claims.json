@@ -499,6 +499,31 @@
    "text": "Davis and Harold Puthoff had published the same argument in the open literature the previous year as 'Chapter 18: On Extracting Energy from the Quantum Vacuum' in 'Frontiers of Propulsion Science' (AIAA, 2009), the volume Davis co-edited with Marc G. Millis.",
    "tier": 1
   },
+  "c-6edf11b092": {
+   "id": "c-6edf11b092",
+   "kind": "claim",
+   "node": "king-patent-mhd",
+   "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
+   "source": {
+    "domain": "patentimages.storage.googleapis.com",
+    "text": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+    "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
+   },
+   "sourceRefs": [
+    {
+     "id": "us-patent-3322374",
+     "locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
+     "title": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+    },
+    {
+     "id": "us-patent-3322374",
+     "locator": null,
+     "title": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
+    }
+   ],
+   "text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., [street address omitted], Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
+   "tier": 1
+  },
   "c-79456524f0": {
    "id": "c-79456524f0",
    "kind": "claim",
@@ -913,31 +938,6 @@
    ],
    "text": "The paper reviews the rotating-superconductor gravity-modification claims associated with Evgeny Podkletnov and the work of Ning Li. Hathaway had personally run a Podkletnov replication between 1996 and 2003 and obtained null results, so DIA commissioned the review from a researcher with a documented record of failing to reproduce the effect.",
    "tier": 2
-  },
-  "c-d1765ef8ec": {
-   "id": "c-d1765ef8ec",
-   "kind": "claim",
-   "node": "king-patent-mhd",
-   "nodeLabel": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)",
-   "source": {
-    "domain": "patentimages.storage.googleapis.com",
-    "text": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
-    "url": "https://patentimages.storage.googleapis.com/6f/35/54/257dd6cdb01efc/US3322374.pdf"
-   },
-   "sourceRefs": [
-    {
-     "id": "us-patent-3322374",
-     "locator": "'Magnetohydrodynamic Propulsion Apparatus', opened as a 7-page PDF at , opened 2026-09-18 and recorded in notes/PROPULSION-CLAIMS-2026-09-18.md",
-     "title": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
-    },
-    {
-     "id": "us-patent-3322374",
-     "locator": null,
-     "title": "US Patent 3,322,374, 'Magnetohydrodynamic Propulsion Apparatus' (King, 1967)"
-    }
-   ],
-   "text": "Bibliographic facts as printed: title 'Magnetohydrodynamic Propulsion Apparatus'; inventor James F. King, Jr., 925 Goodwood Road, Winston-Salem, North Carolina 27106; filed 30 September 1964, Serial No. 400,456; granted 30 May 1967; 9 claims, Class 244-62.",
-   "tier": 1
   },
   "c-d5135cc003": {
    "id": "c-d5135cc003",
@@ -2786,7 +2786,7 @@
   {
    "cite": [
     "c-a37187f95b",
-    "c-d1765ef8ec",
+    "c-6edf11b092",
     "c-93c62dc61b"
    ],
    "text": "US 3,322,374, filed in 1964 by James F. King, Jr., a private inventor at a home address, claims magnetohydrodynamic propulsion: a linear induction motor using the ionised atmosphere as its armature. It carries no assignee, no government interest and no secrecy order."

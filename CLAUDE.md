@@ -161,7 +161,7 @@ hashes bytes must normalise CRLF.
   minutes). A handoff request is an instruction to commit and push first.
 - **Clamp responses**: what you did, why, what you need from him. Detail goes in a repo note. Tables over
   long lists; charts carry data labels; **no em dashes**, anywhere.
-- **Adversarial review does not apply to this project.** It exists for his employer work; here the gate is
+- **Adversarial review does not apply to this project.** It exists for his day-job work; here the gate is
   the equivalent. Do not offer it.
 - **He cannot read JSON.** When a JSON file needs his decision, render it as a table in chat.
 - **Hand things to Claude Design, self-contained**: its own context, screenshots and figures; anything it

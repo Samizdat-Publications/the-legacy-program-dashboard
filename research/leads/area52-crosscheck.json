@@ -3817,7 +3817,7 @@
     {
      "id": "stringfield-status-reports",
      "field": "claim",
-     "context": "...r delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as 4412 Grove..."
+     "context": "...r delivered at the MUFON Symposium on 29 July 1978 and contributed to Flying Saucer Review, revised 20 July 1978, with Stringfield's address given as [street address omitted]..."
     },
     {
      "id": "entityInfo.stringfield-status-reports",
@@ -4999,12 +4999,12 @@
     {
      "id": "leonard-stringfield",
      "field": "claim",
-     "context": "...d, 4412 Grove Avenue, Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique...."
+     "context": "...d, [street address omitted], Cincinnati, Ohio 45227' with acknowledgement to Richard Hall for editorial critique...."
     },
     {
      "id": "leonard-stringfield",
      "field": "chronology",
-     "context": "...Sanctum', self-published at 4412 Grove Avenue, Cincinnati; edited by Richard Hall..."
+     "context": "...Sanctum', self-published in Cincinnati; edited by Richard Hall..."
     }
    ]
   },

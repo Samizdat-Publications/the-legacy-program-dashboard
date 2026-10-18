@@ -77,7 +77,7 @@
 "unresolved": null
 },
 {
-"id": "c-f401c6c63a",
+"id": "c-df10cb9853",
 "meta": {
 "artefactDate": "2021-06-21",
 "claimant": null,
@@ -95,7 +95,7 @@
 "title": "Shasta County Sheriff-Coroner, case C21-0324"
 }
 ],
-"text": "Shasta County Sheriff-Coroner case C21-0324, a Verdict of Death (without jury), reads: 'In the matter of the death of Mark Edward McCandlish, a 68 year old male. I, Logan Stonehouse, Chief Deputy Coroner, have inquired into the circumstances of his death and do certify that he was declared deceased on the 13th day of April 2021.' It gives the place of death as '1946 Trumpet Drive, Redding, Shasta County, CA', the cause as 'Gunshot wound of head', other significant conditions as 'None', and manner of death as 'Suicide'.",
+"text": "Shasta County Sheriff-Coroner case C21-0324, a Verdict of Death (without jury), reads: 'In the matter of the death of Mark Edward McCandlish, a 68 year old male. I, Logan Stonehouse, Chief Deputy Coroner, have inquired into the circumstances of his death and do certify that he was declared deceased on the 13th day of April 2021.' It gives the place of death as a street address in Redding, Shasta County, CA, the cause as 'Gunshot wound of head', other significant conditions as 'None', and manner of death as 'Suicide'.",
 "tier": 2,
 "unresolved": null
 },
@@ -1113,7 +1113,7 @@
 "date": "2021-04-13",
 "grade": "B",
 "id": "tl-2021-04-13-mccandlish-death",
-"label": "McCandlish declared deceased at 1946 Trumpet Drive, Redding, California",
+"label": "McCandlish declared deceased in Redding, California",
 "precision": "day",
 "strand": "witness",
 "text": "Shasta County Sheriff-Coroner case C21-0324, Verdict of Death (without jury): 'In the matter of the death of Mark Edward McCandlish, a 68 year old male ... he was declared deceased on the 13th day of April 2021.' Cause of death 'Gunshot wound of head'; other significant conditions 'None'."

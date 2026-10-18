@@ -188,7 +188,7 @@ you nearly got busted."
 
 **Miller's own letter, pages 3 and 4.** On United States Navy letterhead, from 2190 Overbrook
 Ave. North, Belleair Bluffs, FL 33770, dated April 25, 2002, addressed to "Dr. Eric W. Davis,
-CEO, Warp Drive Metrics, 4849 San Rafael Ave., Las Vegas, NV 89120", and signed "Will Miller".
+CEO, Warp Drive Metrics, [street address omitted], Las Vegas, NV 89120", and signed "Will Miller".
 It offers to assist "with your ongoing research into UFO crash retrievals and the entities within
 the government (or outside of it) that are involved in that business", on caveats including that
 "there must be absolutely NO mention or association of my name with your work or investigation",
@@ -325,9 +325,9 @@ said they would. The transcript's framing is PARTLY CONTRADICTED on three partic
 
 | URL | What is at it |
 |---|---|
-| https://wikileaks.org/podesta-emails/emailid/30433 | From john.podesta@gmail.com to lesliekean1@gmail.com, Fri, 6 Mar 2015 13:22:36 -0500, "Fwd: Leslie Kean book - DSP program", Message-ID CAE6FiQ83==0w+9MiBwfS0jjsp2VgeYF6Dt_0BCJ6mh4m6Az0Ag@mail.gmail.com. Body is "FYI" plus the forwarded message from Bob Fish <robertbfish@earthlink.net> of Fri, Mar 6, 2015 at 1:17 PM. |
-| https://wikileaks.org/podesta-emails/emailid/18724 | From john.podesta@gmail.com to robertbfish@earthlink.net, Thu, 5 Mar 2015 18:38:14 -0500, "Re: Leslie Kean book comment", In-Reply-To 003501d05799$c2415a20$46c40e60$@earthlink.net. Podesta's reply plus Fish's quoted original. |
-| https://wikileaks.org/podesta-emails/emailid/31721 | From robertbfish@earthlink.net to john.podesta@gmail.com, 2015-03-06 18:10, "Leslie Kean book - Blue Book". |
+| https://wikileaks.org/podesta-emails/emailid/30433 | From [Podesta's personal Gmail address] to [Kean's personal Gmail address], Fri, 6 Mar 2015 13:22:36 -0500, "Fwd: Leslie Kean book - DSP program", Message-ID CAE6FiQ83==0w+9MiBwfS0jjsp2VgeYF6Dt_0BCJ6mh4m6Az0Ag@mail.gmail.com. Body is "FYI" plus the forwarded message from Bob Fish <[a personal EarthLink address]> of Fri, Mar 6, 2015 at 1:17 PM. |
+| https://wikileaks.org/podesta-emails/emailid/18724 | From [Podesta's personal Gmail address] to [a personal EarthLink address], Thu, 5 Mar 2015 18:38:14 -0500, "Re: Leslie Kean book comment", In-Reply-To 003501d05799$c2415a20$46c40e60$@earthlink.net. Podesta's reply plus Fish's quoted original. |
+| https://wikileaks.org/podesta-emails/emailid/31721 | From [a personal EarthLink address] to [Podesta's personal Gmail address], 2015-03-06 18:10, "Leslie Kean book - Blue Book". |
 | https://wikileaks.org/podesta-emails/?q=%22Bob+Fish%22 | The corpus search: six emails in the exchange, ids 54211, 47433, 36957, 31721, 30433 and 18724, all dated 5 to 7 March 2015. |
 
 ### What the documents establish
@@ -384,7 +384,7 @@ email from a man who says he was not read into the programme.
   "cls": "person",
   "label": "Bob Fish",
   "date": "2015-03-06",
-  "desc": "A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writing from robertbfish@earthlink.net over three days in March 2015 in six emails, of which three have been opened here in full with headers. He identifies himself publicly by his work with the USS Hornet Museum, says he was a contractor to the White House Communications Agency in 1986, and offers Podesta programme names for instrument-collected UFO data. His central claim is that the USAF Defense Support Program satellite constellation collects such data. He states in the same email that he was never fully briefed into DSP and relays a single second-hand lunchroom account of a Fastwalker detection during the run-up to Desert Shield and Desert Storm.",
+  "desc": "A private correspondent of John Podesta's in the WikiLeaks Podesta Emails, writing from [a personal EarthLink address] over three days in March 2015 in six emails, of which three have been opened here in full with headers. He identifies himself publicly by his work with the USS Hornet Museum, says he was a contractor to the White House Communications Agency in 1986, and offers Podesta programme names for instrument-collected UFO data. His central claim is that the USAF Defense Support Program satellite constellation collects such data. He states in the same email that he was never fully briefed into DSP and relays a single second-hand lunchroom account of a Fastwalker detection during the run-up to Desert Shield and Desert Storm.",
   "claims": [
     {"tier": 1, "text": "In an email forwarded by Podesta to Leslie Kean on 6 March 2015 under the subject 'Leslie Kean book - DSP program', Bob Fish wrote: 'One of the government programs that collects hard data on unidentified flying objects is the USAF DSP satellite program.'", "source": {"name": "WikiLeaks, The Podesta Emails, email id 30433, 'Fwd: Leslie Kean book - DSP program'", "url": "https://wikileaks.org/podesta-emails/emailid/30433", "date": "2015-03-06"}},
     {"tier": 1, "text": "In the same email Fish qualifies the claim: 'While I was never fully briefed into the DSP operation directly, I was introduced to them as the US prepared for Operation Desert Shield and Desert Storm', and the Fastwalker detection he relays is a remark made to him at lunch by a member of that group.", "source": {"name": "WikiLeaks, The Podesta Emails, email id 30433", "url": "https://wikileaks.org/podesta-emails/emailid/30433", "date": "2015-03-06"}},
