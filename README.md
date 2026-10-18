@@ -6,7 +6,7 @@ A sourced research board on the alleged US programme to recover and reverse-engi
 
 ![The Legacy Program: the home page, with its counts and how to read a claim](docs/media/hero.jpg)
 
-**[Open the board](https://the-program-zxz.pages.dev)**
+**[Open the board](https://the-program-zxz.pages.dev)** | **[Landing page](https://the-legacy-program.pages.dev)**
 
 ## What it is
 

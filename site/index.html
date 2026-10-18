@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Legacy Program: a sourced research board</title>
+<meta name="description" content="Every player in the UAP legacy program, tracked, sourced and mapped by their connections to each other. A research board where every link and claim names its source and carries a grade.">
+<meta name="theme-color" content="#f4f1e8">
+<meta property="og:title" content="The Legacy Program">
+<meta property="og:description" content="Every player in the UAP legacy program, tracked, sourced and mapped by their connections to each other.">
+<meta property="og:image" content="media/og.jpg">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%2314171c'/%3E%3Cg stroke='%235ed4e6' stroke-width='2' fill='none'%3E%3Cpath d='M16 16 L7 8 M16 16 L25 9 M16 16 L8 25 M16 16 L26 24'/%3E%3C/g%3E%3Ccircle cx='16' cy='16' r='4' fill='%23efb555'/%3E%3Ccircle cx='7' cy='8' r='2.5' fill='%235ed4e6'/%3E%3Ccircle cx='25' cy='9' r='2.5' fill='%235ed4e6'/%3E%3Ccircle cx='8' cy='25' r='2.5' fill='%235ed4e6'/%3E%3Ccircle cx='26' cy='24' r='2.5' fill='%235ed4e6'/%3E%3C/svg%3E">
+<link rel="preload" href="fonts/plex-400-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="site.css">
+</head>
+<body>
+<a class="skip" href="#read">Skip to how to read the board</a>
+
+<header class="bar">
+  <div class="wrap">
+    <a class="bar-mark" href="#top" aria-label="The Legacy Program, back to the top">The Legacy Program</a>
+    <nav class="bar-links" aria-label="Sections">
+      <a href="#read">How to read it</a>
+      <a href="#connections">Connections</a>
+      <a href="#sources">Sources</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#making">How it was made</a>
+    </nav>
+    <a class="btn btn-small" href="https://github.com/Samizdat-Publications/the-legacy-program-dashboard">Source</a>
+  </div>
+</header>
+
+<main>
+
+<section class="hero" id="top" aria-labelledby="hero-title">
+  <div class="wrap">
+    <div class="hero-text">
+      <p class="pill"><i></i>In development: v0.10.0</p>
+      <h1 id="hero-title" class="wordmark">The Legacy Program</h1>
+      <p class="tagline">Every player in the UAP legacy program, tracked, sourced and mapped by their connections to each other.</p>
+      <p class="lede">A research board on the alleged United States programme for recovering and reverse-engineering non-human craft, 1944 to now. It does not set out to prove the programme exists. It shows, claim by claim, what a primary record establishes, what a named person has said on the record, and what is only inference.</p>
+      <div class="cta">
+        <a class="btn" href="https://the-program-zxz.pages.dev">Open the live dashboard</a>
+        <a class="btn btn-ghost" href="https://github.com/Samizdat-Publications/the-legacy-program-dashboard">Source on GitHub</a>
+      </div>
+      <p class="hero-note">Runs in the browser, nothing to install. Inclusion on the board is not an accusation.</p>
+    </div>
+    <figure class="screen">
+      <div class="screen-bar">Program map, a neighbourhood, one person's sourced entry</div>
+      <video id="hero-video" muted loop playsinline autoplay preload="auto" poster="media/hero.jpg" aria-label="The program map, then the neighbourhood of Project Blue Book, then the sourced page of Edward J. Ruppelt scrolling past its claims.">
+        <source src="media/hero.mp4" type="video/mp4">
+      </video>
+    </figure>
+  </div>
+</section>
+
+<div class="counts" aria-labelledby="counts-title">
+  <div class="wrap">
+    <p class="label counts-head" id="counts-title">On the board, as of its 26 September 2026 build</p>
+    <ul>
+      <li><b>1,138</b><span>nodes, 351 of them people</span></li>
+      <li><b>2,788</b><span>sourced links</span></li>
+      <li><b>6,060</b><span>graded claims</span></li>
+      <li><b>93</b><span>topics in 10 sections</span></li>
+      <li><b>1,076</b><span>timeline events</span></li>
+      <li><b>135</b><span>nodes on the program map</span></li>
+    </ul>
+  </div>
+</div>
+
+<section id="read" aria-labelledby="read-title">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label sec-no">01 / How to read it</span>
+      <h2 id="read-title">Every claim names its source, and carries a grade</h2>
+      <p class="lead">No source, URL, document number or quotation appears on the board that was not opened and read. Where a record could not be found, the board says so in words rather than staying silent.</p>
+    </div>
+
+    <div class="tiers">
+      <article class="tier">
+        <span class="chip t1">T1</span>
+        <h3>Documented</h3>
+        <p>A primary record says so: a document, a statute, a filing, a transcript.</p>
+        <p class="n">3,780 claims</p>
+      </article>
+      <article class="tier">
+        <span class="chip t2">T2</span>
+        <h3>On the record</h3>
+        <p>A named person on the record says so: testimony, an allegation, an official statement.</p>
+        <p class="n">1,700 claims</p>
+      </article>
+      <article class="tier">
+        <span class="chip t3">T3</span>
+        <h3>Stated inference</h3>
+        <p>What the board reasons from the record, flagged as such.</p>
+        <p class="n">580 claims</p>
+      </article>
+    </div>
+
+    <div class="notes">
+      <div>
+        <h3>"Said on the record" is not "true"</h3>
+        <p>Many Tier 1 claims document that something was said, such as a sworn statement or a hearing transcript. The board marks these, because Tier 1 there means the words are documented, not that what was said is true.</p>
+      </div>
+      <div>
+        <h3>Interested parties are not their own best evidence</h3>
+        <p>Statements by AARO and the Department of Defense are treated as an interested party's and capped at Tier 2, unless the claim is about what they said.</p>
+      </div>
+      <div>
+        <h3>The case against sits beside the claim</h3>
+        <p>Where a witness said one thing and the record shows another, the contradiction is recorded as a finding, on the same page as the claim.</p>
+      </div>
+      <div>
+        <h3>Inclusion is not an accusation</h3>
+        <p>A person, company or agency appears because a record or a public claim connects them to the subject, not because the board finds that they did anything. Many are here because they denied, investigated, reported on or were named by someone else.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="feature" id="connections" aria-labelledby="connections-title">
+  <div class="wrap">
+    <div class="feature-text">
+      <span class="label sec-no">02 / Connections</span>
+      <h2 id="connections-title">Follow the links</h2>
+      <p>Open any node's neighbourhood and its sourced links fan out around it, each one labelled with how the two are connected and how strong the evidence is. Filter by relationship family (custody, oversight, testimony, denials, documents, place and time), or send the links to the program map.</p>
+      <p class="stat">2,788 links, each one citing a document.</p>
+    </div>
+    <figure class="screen">
+      <div class="screen-bar">Neighbourhood: the Roswell Incident node</div>
+      <video data-inview muted loop playsinline preload="none" poster="media/graph.jpg" aria-label="The Roswell Incident node and its links, filtered one relationship family at a time, then drawn on the program map.">
+        <source src="media/graph.mp4" type="video/mp4">
+      </video>
+    </figure>
+  </div>
+</section>
+
+<section class="feature flip" id="sources" aria-labelledby="sources-title">
+  <div class="wrap">
+    <div class="feature-text">
+      <span class="label sec-no">03 / Sources</span>
+      <h2 id="sources-title">The account beside its sources</h2>
+      <p>A topic reads as a short account in which every sentence carries numbered references. The graded claims it rests on sit in the next column, each with its tier, the node it belongs to and the source named. The Atlas lays the 93 topics out by section and era.</p>
+      <p class="stat">The topic shown: the 1947 wave, the Twining memo and Project Sign.</p>
+    </div>
+    <figure class="screen">
+      <div class="screen-bar">Topic page, scrolling</div>
+      <video data-inview muted loop playsinline preload="none" poster="media/sources.jpg" aria-label="A topic page scrolling: prose on the left with numbered references, graded claims and their sources on the right.">
+        <source src="media/sources.mp4" type="video/mp4">
+      </video>
+    </figure>
+  </div>
+</section>
+
+<section class="feature" id="timeline" aria-labelledby="timeline-title">
+  <div class="wrap">
+    <div class="feature-text">
+      <span class="label sec-no">04 / Timeline</span>
+      <h2 id="timeline-title">A timeline of 1,076 events</h2>
+      <p>Events sit in 11 section lanes across four eras, from the early record to 2026. Open an era, filter by strand (program, witness, oversight, cover-up) and click any event to read it.</p>
+      <ul class="also">
+        <li><b>Evidence.</b>All 6,060 claims in one table, filterable by tier, class, cluster and source domain.</li>
+        <li><b>Patents.</b>5 Navy patents with their drawing sheets.</li>
+        <li><b>Analyst.</b>"Ask the analyst" is a Claude-backed assistant that works from the board's own data.</li>
+      </ul>
+    </div>
+    <figure class="screen">
+      <div class="screen-bar">Timeline: era, strand</div>
+      <video data-inview muted loop playsinline preload="none" poster="media/timeline.jpg" aria-label="The timeline opening the 1970 to 1999 era, then filtering to one strand and back.">
+        <source src="media/timeline.mp4" type="video/mp4">
+      </video>
+    </figure>
+  </div>
+</section>
+
+<section id="views" aria-labelledby="views-title">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label sec-no">05 / Views</span>
+      <h2 id="views-title">Six ways in</h2>
+    </div>
+    <div class="shots">
+      <figure class="screen"><div class="screen-bar">Home</div><img src="media/shot-home.jpg" alt="The board's home page: a search field, the counts, and a key for reading a claim." loading="lazy" width="1280" height="720"><figcaption>Home: search the whole board, with a key for reading a claim.</figcaption></figure>
+      <figure class="screen"><div class="screen-bar">Program map</div><img src="media/shot-map.jpg" alt="The program map: 135 nodes in a grid of roles by era." loading="lazy" width="1280" height="720"><figcaption>The program map: 135 nodes by role and era.</figcaption></figure>
+      <figure class="screen"><div class="screen-bar">A person's page</div><img src="media/shot-node.jpg" alt="A person's page with graded claims and the case against beside them." loading="lazy" width="1280" height="720"><figcaption>A person's page: claims with their tiers and sources, and the case against beside them.</figcaption></figure>
+      <figure class="screen"><div class="screen-bar">A topic</div><img src="media/shot-topic.jpg" alt="A topic page with numbered references beside graded claims." loading="lazy" width="1280" height="720"><figcaption>A topic: the account beside its numbered sources.</figcaption></figure>
+      <figure class="screen"><div class="screen-bar">Atlas</div><img src="media/shot-atlas.jpg" alt="The Atlas: topics laid out by section and era." loading="lazy" width="1280" height="720"><figcaption>The Atlas: 93 topics by section and era.</figcaption></figure>
+      <figure class="screen"><div class="screen-bar">Neighbourhood</div><img src="media/shot-graph.jpg" alt="The Roswell Incident node with its sourced links around it." loading="lazy" width="1280" height="720"><figcaption>A neighbourhood: the sourced links around one node.</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<section id="making" aria-labelledby="making-title">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label sec-no">06 / How it was made</span>
+      <h2 id="making-title">Built to be checked</h2>
+      <p class="lead">The app is Vite 5 and TypeScript with no framework, hash-routed, reading generated JSON at runtime. It is hosted on Cloudflare Pages and deployed by GitHub Actions after a gate passes. Stewart Gregerson builds it with Claude.</p>
+    </div>
+    <div class="pillars">
+      <article>
+        <h3>One rule</h3>
+        <p>No invented sources, URLs, document numbers or quotes, anywhere, including in placeholders. If a citation cannot be verified, it is left out and the board says so.</p>
+      </article>
+      <article>
+        <h3>A pipeline, not a spreadsheet</h3>
+        <p>A Python pipeline merges one JSON file per research pass into the board, regrades how close each node sits to the alleged programme, builds the program map and writes the app's data. Each claim and link gets a stable id derived from its content.</p>
+      </article>
+      <article>
+        <h3>A gate that is tested too</h3>
+        <p>The gate re-derives every count from source, requires the committed data to equal a fresh build, and drives the built app in a real browser through 30 checks. Each check is shown failing on a deliberately corrupted input before it is trusted.</p>
+      </article>
+      <article>
+        <h3>Topics, checked twice</h3>
+        <p>Each of the 93 topics was drafted from the board's own claims, then re-derived sentence by sentence from its citations by separate checkers. In the first round 53 of 93 failed, mostly for sentences that said more than their citations.</p>
+      </article>
+      <article>
+        <h3>A blind critic</h3>
+        <p>After each phase that changes what a reader sees, screenshots go to a separate agent with a short brief and no code. It returns the five worst problems a reader would notice, and those get fixed.</p>
+      </article>
+      <article>
+        <h3>The analyst</h3>
+        <p>"Ask the analyst" is a Claude-backed assistant. Its tools run in the reader's browser against the board's own data, served through a separate Cloudflare Worker.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="credits" aria-labelledby="credits-title">
+  <div class="wrap">
+    <div class="sec-head">
+      <span class="label sec-no">07 / Credits</span>
+      <h2 id="credits-title">Sources and licences</h2>
+      <p class="lead">The board quotes short passages to show what a record says. Quoted material belongs to its authors and publishers, and a citation is not a licence to reuse it. Screenshots and clips on this page show the live board.</p>
+    </div>
+    <table>
+      <thead><tr><th scope="col">What</th><th scope="col">Who</th><th scope="col">Licence or terms</th></tr></thead>
+      <tbody>
+        <tr><td>IBM Plex Mono (this page and the board)</td><td>IBM, via Google Fonts</td><td>SIL Open Font License 1.1 (<a href="fonts/OFL.txt">text</a>)</td></tr>
+        <tr><td>Agency seals and the RAND text logo, in the board</td><td>US government and RAND, via Wikimedia Commons</td><td>Public domain</td></tr>
+        <tr><td>US government records: statutes, the Congressional Record and hearing transcripts, agency reports, FOIA releases, court filings</td><td>US government</td><td>Works of the US federal government are in the public domain in the US</td></tr>
+        <tr><td>US patents and file wrappers</td><td>USPTO</td><td>Public records</td></tr>
+        <tr><td>Foreign government releases (Brazil, France, Canada, the UK)</td><td>Each government</td><td>Each government's own terms; cited, linked and quoted briefly</td></tr>
+        <tr><td>Books, articles, broadcasts, podcasts and interviews</td><td>Their authors and publishers</td><td>Copyright of their authors and publishers; cited and quoted briefly for commentary and research</td></tr>
+        <tr><td>WikiLeaks, The Podesta Emails</td><td>WikiLeaks</td><td>Cited by email id; personal contact details are not reproduced</td></tr>
+        <tr><td>The board's code</td><td>Stewart Gregerson</td><td>MIT (the compiled dataset cites its sources; third-party assets keep their own licences)</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Something wrong, misattributed, out of date, or naming a private person who should not be here? Open an <a href="https://github.com/Samizdat-Publications/the-legacy-program-dashboard/issues">issue</a> with the page link and the claim as it appears. Corrections that a record supports are made and logged; a contested claim stays, with the contest recorded beside it.</p>
+    <p><a href="https://the-program-zxz.pages.dev">Open the live dashboard</a> &middot; <a href="https://github.com/Samizdat-Publications/the-legacy-program-dashboard">Source on GitHub</a></p>
+  </div>
+</footer>
+
+<script src="site.js"></script>
+</body>
+</html>

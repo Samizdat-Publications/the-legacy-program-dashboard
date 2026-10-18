@@ -12,7 +12,9 @@ tools/_pristine-board.json
 tools/.spot-cache/
 
 # Cloudflare Pages output of the old deploy (tools/build_site.py, retired 25 September 2026)
-site/
+# The old deploy output was moved aside on 2026-10-18 so site/ can hold the landing page.
+.retired-site-2026-09/
+site-dist/
 worker/node_modules/
 # wrangler's cache, at any depth: it holds the account id and the account
 # email, and a `git add -A` was one keystroke from committing the copies at
