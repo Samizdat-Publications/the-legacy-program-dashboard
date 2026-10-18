@@ -112,7 +112,7 @@ both sides, and the page refuses to ask a question when they disagree rather tha
 letting him find out one dead answer at a time.
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program\worker"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program\worker"
 npx wrangler deploy
 ```
 

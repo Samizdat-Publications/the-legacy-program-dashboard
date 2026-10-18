@@ -98,7 +98,7 @@ state block route aware, and add the cited id guard. Then write the check with
 its poison and prove it goes red.
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 npm --prefix app run build
 ```
 
@@ -106,7 +106,7 @@ npm --prefix app run build
 regenerate.
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 python tools/build_app_data.py
 ```
 
@@ -114,7 +114,7 @@ python tools/build_app_data.py
 to prove the new check can fail.
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 node app/checks/run.mjs
 ```
 

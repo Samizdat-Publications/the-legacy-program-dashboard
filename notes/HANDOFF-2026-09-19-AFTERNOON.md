@@ -32,7 +32,7 @@ Board counts do not move: 338 people, 787 entities, 2,661 edges, 1,050 timeline,
 harness treats that as his call.
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 git checkout master
 git merge fix/silent-defaults-2026-09-19
 git push

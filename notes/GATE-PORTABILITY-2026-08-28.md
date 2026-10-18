@@ -128,13 +128,13 @@ He can now run the whole gate, which he could not before. On a machine with Node
 Playwright installed:
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 npm install playwright http-server
 npx playwright install chromium
 ```
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 node tools\test_browser_env.js --self-test
 ```
 

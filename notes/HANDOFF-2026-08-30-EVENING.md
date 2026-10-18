@@ -187,14 +187,14 @@ The YouTube material below is kept as the record of what was established, and th
 is kept because it is still the only way to test whether that block has lifted:
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 python tools\fetch_transcripts.py --ids RTEWLSTyUic --ytdlp
 ```
 
 If that comes back with a transcript rather than a 429, the full sweep is:
 
 ```
-cd "C:\Users\stewa\OneDrive\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
+cd "C:\Users\stewa\Documents\Claude\Projects\Missing individuals connected to defense contractors\the-program"
 python tools\fetch_transcripts.py --select research\leads\michels-selected.txt --ytdlp --until-done --sleep 8 --max-hours 6
 ```
 
