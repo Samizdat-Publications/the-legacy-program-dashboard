@@ -1,89 +1,90 @@
-# The Legacy Program Dashboard
+# The Legacy Program
 
-A network board mapping the legacy UAP recovery and reverse-engineering program and the
-modern disclosure movement, 1944–2026.
+![Status: in development](https://img.shields.io/badge/status-in%20development-d29922)
 
-**956 nodes · 278 people · 2,159 hand-written sourced links · 4,513 tiered claims ·
-2,888 unique source URLs · 858 timeline events · 0 dead citations · 82 years.**
+A sourced research board on the alleged US programme to recover and reverse-engineer non-human craft, 1944 to now.
 
-*Counts as of 25 August 2026. They move every research pass — regenerate rather than
-trusting them: `python3 tools/state_snapshot.py`. See `CLAUDE.md` for the rest.*
+![The Legacy Program: the home page, with its counts and how to read a claim](docs/media/hero.jpg)
 
-The board is the app in `app/`, deployed at https://the-program-zxz.pages.dev. The
-single-file shell that used to be the whole board, `dist/the-program.html`, was retired
-on 25 September 2026.
-
----
+**[Open the board](https://the-program-zxz.pages.dev)**
 
 ## What it is
 
-A research instrument, built on the premise that a legacy recovery and reverse-engineering
-program exists, has existed since the 1940s, and has been deliberately concealed. The
-research question is not *whether* — it is **who, where, under what authority, and paid for
-how.**
+A research board that maps the alleged United States programme for recovering and reverse-engineering non-human craft, from 1944 to today: the people, agencies, contractors, programmes, laws, documents, places and events that the public record and sworn testimony connect to it. It holds **1,138 nodes** (351 people, 787 institutions, programmes, documents, laws, places and events), joined by **2,788 hand-written links** that each cite a source, and **6,060 claims** each graded by how strong its evidence is, drawn from **3,992 distinct source URLs** and a **1,076-event timeline**.
 
-Every claim on the board carries a tier:
+It does not set out to prove the programme exists. It sets out to show, claim by claim, what a primary record establishes, what a named person has said on the record, and what is only inference, and to keep the case against each claim on the same page as the claim. You can read it by topic (93 topics in an Atlas), by person or organisation, along a timeline, through a set of big questions, or by asking for the route between any two nodes.
 
-| tier | meaning |
+## How to read this
+
+**Every link and every claim names its source.** No source, URL, document number or quotation appears on the board that was not opened and read. Where a record could not be found, the board says so in words ("no employment, service or civil record has ever been produced for this person") rather than staying silent.
+
+**Claims are graded by evidence strength, 1 to 3. Tier 1 is strongest.**
+
+| Tier | Means | Claims |
+|---|---|---|
+| **Tier 1, documented** | A primary record says so: a document, a statute, a filing, a transcript. | 3,786 |
+| **Tier 2, on the record** | A named person says so: testimony, an allegation, an official statement. | 1,694 |
+| **Tier 3, inference** | What the board reasons from the record, stated as reasoning and flagged as such. | 580 |
+
+Two refinements matter:
+
+- **"Said on the record" is not "true".** Many Tier 1 claims document that something was *said* (a sworn statement, a hearing transcript). The board marks these, because Tier 1 there means it is documented that the words were spoken, not that what was said is true.
+- **Interested parties are not their own best evidence.** Statements by AARO and the Department of Defense are capped at Tier 2 unless the claim is about what they said. The same rule applies to links.
+
+**Inclusion is not an accusation.** A person, company or agency appears because a record or a public claim connects them to the subject, not because the board finds that they did anything. Many people are here because they denied, investigated, reported on or were named by someone else. Claimants and witnesses whose accounts are widely known are included even where no record vouches for what they said; their accounts are carried at Tier 2, with how the claim reached the public, who else told it first, and the contrary record in the same node's "conflicts" and "not verified" panels.
+
+**Node grades A, B and C are not credibility.** They measure how close a node sits to the alleged programme in the link structure. An A node carrying only Tier 3 claims is not a contradiction; it marks where the record is thinnest.
+
+**Corrections are welcome.** If something on the board is wrong, misattributed, out of date, or names a private person who should not be here, open an issue at [github.com/Samizdat-Publications/the-legacy-program-dashboard/issues](https://github.com/Samizdat-Publications/the-legacy-program-dashboard/issues). Include the page link (each node, topic and source has its own URL), the claim as it appears, and, if you have one, the record that shows the correction. Corrections that a record supports are made and logged; a claim that is contested stays, with the contest recorded beside it.
+
+## Screenshots
+
+| | |
 |---|---|
-| **1** | Documented — a primary record exists |
-| **2** | Sourced claim |
-| **3** | Inference, with the reasoning stated |
+| ![A person's page: the claims with their tiers and sources, and the case against on the right](docs/media/node.jpg) | ![A topic: the board's account with numbered sources, beside the graded claims it rests on](docs/media/topic.jpg) |
+| ![The Atlas: 93 topics by section and era](docs/media/atlas.jpg) | ![The program map: 135 central nodes by role and era](docs/media/map.jpg) |
 
-**61% of 4,513 claims rest on a primary record.** That number is the product. The design's
-job is to make it impossible to read the board without knowing which parts are documented
-and which are testimony — not to make the testimony look more documented than it is.
+## How it was made
 
-Official denials are recorded in full and sourced, as **artifacts of the concealment
-effort** rather than as counterweights. A denial is a dated, signed, attributable statement,
-which makes it evidence about the denier.
+- **The app** (`app/`) is Vite 5 and TypeScript with no framework, hash-routed, reading generated JSON from `/data` at runtime. It is hosted on Cloudflare Pages and deployed by GitHub Actions after the gate passes.
+- **The data pipeline** (`tools/`, Python) merges one JSON file per research pass from `research/` into the board, regrades node proximity, builds the program map, and writes the app's data. Each claim and link gets a stable id derived from its content.
+- **The gate** (`tools/gate.py`) re-derives every count from source, requires the committed data to equal a fresh build, and drives the built app in a real browser through 30 checks. Every check is shown failing on a deliberately corrupted input before it is trusted.
+- **The analyst** ("Ask the analyst") is a Claude-backed assistant whose tools run in the reader's browser against the board's own data, served through a separate Cloudflare Worker (`worker/`).
 
-Interested parties do not get to be their own best evidence: claims sourced to AARO or DoD
-domains cap at Tier 2 unless the claim is *about what they said*, because publishing on
-aaro.mil makes a document a primary record of the statement, not of the fact asserted.
+## Data sources
 
-**Nothing here is invented.** No fabricated sources, URLs, document numbers or quotes.
-Unsourceable material is marked as such or stated as a Tier 3 inference with its reasoning.
+The compiled dataset (`research/`, `data/`, `app/public/data/`) cites its sources claim by claim. The board quotes short passages to show what a record says; **quoted material belongs to its authors and publishers**, and the board's citation is not a licence to reuse it. The main kinds of source:
 
-## Scoring
+| Source | Terms |
+|---|---|
+| US government records: statutes, the Congressional Record and hearing transcripts, agency reports (AARO, ODNI, DIA, GAO), FOIA releases, court filings | Works of the US federal government are in the public domain in the US |
+| US patents and file wrappers (USPTO) | Public records; the eleven Navy patent drawing sheets in `app/public/patents/` are rendered from USPTO PDFs, provenance in `PROVENANCE.md` there |
+| Foreign government releases (Brazil, France, Canada, the UK) | Each government's own terms; cited, linked and quoted briefly |
+| Books, articles, broadcasts, podcasts and interviews | Copyright of their authors and publishers; cited and quoted briefly for commentary and research |
+| WikiLeaks, The Podesta Emails | Cited by email id; personal contact details are not reproduced |
 
-Three axes, 0–3, **never summed** — an entity can sit at the centre of the custody chain and
-be absent from the disclosure fight, and collapsing that into one number destroys the
-information.
+## Run it locally
 
-- **C** — custody proximity: how close to alleged possession of recovered material
-- **A** — access level: what special access it held
-- **D** — disclosure role: how central to forcing the record open
-
-## Layout
+Needs Python 3.13 and Node 22.
 
 ```
-app/                     the board: a Vite app, reading app/public/data/ at runtime
-data/                    the merged dataset (the-program.json is the whole board)
-research/                per-domain source research
-tools/                   the build pipeline and the verification gate
-notes/                   research log, QA reports, design briefs
+python tools/build.py
+cd app
+npm ci
+npm run build
+npx vite preview --host 127.0.0.1 --port 4173 --strictPort
 ```
 
-## Building
+Then open http://127.0.0.1:4173. `python tools/gate.py` runs every check. The analyst tries the deployed Worker and says so on screen if it cannot reach it; the rest of the board runs entirely from the local data.
 
-```bash
-python tools/build.py             # the whole pipeline, research/ -> app/public/data/
-python tools/gate.py              # every check, the app's included
-```
+## Credits
 
-`verify.py` passing is the definition of shippable. It asserts facts and fails the build,
-and **every check is itself tested** — `--self-test` feeds each one input it must reject.
-Three of the first eight checks were born broken and silently passing, which is the whole
-reason that rule exists.
-
-## Provenance
-
-Built on the engine, schema and design system of *The Vanishing*, a companion board with a
-different subject. The first shell was that board's single file, patched; it was replaced
-by the app in `app/` on 3 September 2026 and retired on 25 September 2026.
+| What | Who | Licence |
+|---|---|---|
+| IBM Plex Mono, embedded | IBM, via Google Fonts | SIL Open Font License 1.1 (`assets/fonts/OFL.txt`) |
+| Agency seals (CIA, DIA, DoD, DOE, NASA, ODNI, NARA, US House, AARO, AFOSI, NRO) | US government, via Wikimedia Commons | Public domain |
+| RAND Corporation text logo | via Wikimedia Commons | Public domain (text below the threshold of originality) |
 
 ## Licence
 
-Not yet chosen. The research is compiled from public records; the source URLs are on the
-board and in `data/the-program.json`.
+Code is MIT (see [LICENSE](LICENSE)). The compiled dataset cites its sources; quoted material belongs to its authors, and third-party assets listed above keep their own licences.

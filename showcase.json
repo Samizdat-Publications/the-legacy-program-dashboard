@@ -1,0 +1,34 @@
+{
+  "name": "The Legacy Program",
+  "repo": "the-legacy-program-dashboard",
+  "pitch": "A sourced research board on the alleged US programme to recover and reverse-engineer non-human craft, 1944 to now.",
+  "status": "in-development",
+  "version": "0.10.0",
+  "kind": "investigation",
+  "started": "2026-08-12",
+  "updated": "2026-10-17",
+  "tech": ["TypeScript", "Vite", "Python data pipeline", "Cloudflare Pages"],
+  "links": {
+    "landing": "https://the-program-zxz.pages.dev",
+    "play": "https://the-program-zxz.pages.dev",
+    "devlog": ""
+  },
+  "hero": {
+    "gif": "",
+    "poster": "docs/media/hero.jpg",
+    "clip": ""
+  },
+  "stills": [
+    "docs/media/hero.jpg",
+    "docs/media/node.jpg",
+    "docs/media/topic.jpg",
+    "docs/media/atlas.jpg",
+    "docs/media/map.jpg",
+    "docs/media/questions.jpg"
+  ],
+  "credits": [
+    { "what": "IBM Plex Mono", "who": "IBM, via Google Fonts", "licence": "SIL Open Font License 1.1" },
+    { "what": "Agency seals and the RAND text logo", "who": "Wikimedia Commons", "licence": "Public domain" },
+    { "what": "Compiled dataset", "who": "Cites its sources claim by claim; quoted material belongs to its authors", "licence": "See README" }
+  ]
+}
